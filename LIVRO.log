@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  7 MAR 2023 17:51
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  8 MAR 2023 16:19
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.092 seconds
+luaotfload | main : initialization completed in 0.086 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -66,11 +66,11 @@ Package ifluatex Info: LuaTeX detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem11.clo
-File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem12.clo
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
 luaotfload | db : Font names database loaded from /home/edlab/.texlive2017/texmf
 -var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /home/edlab/.texl
-ive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc))
+ive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc))
 \binding=\skip48
 \spinemargin=\skip49
 \foremargin=\skip50
@@ -276,7 +276,7 @@ LaTeX Info: Redefining \emph on input line 7559.
 \m@m@h=\dimen142
 \m@mipn@skip=\skip165
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmr
-oman9-regular.luc)
+oman10-regular.luc)
 \sidefootins=\insert195
 \sidefootadjust=\skip166
 \sidefootheight=\skip167
@@ -368,9 +368,11 @@ Package tocloft [2008/07/23] emulated by memoir.
 Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
- (/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
-)) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2018/02/14 3.18 The Babel package
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
@@ -847,8 +849,8 @@ LaTeX Info: Redefining \upshape on input line 3640.
 LaTeX Info: Redefining \em on input line 3670.
 LaTeX Info: Redefining \emph on input line 3695.
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmr
-oman10-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/gener
-ic/fonts/otl/lmroman10-italic.luc)
+oman12-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/gener
+ic/fonts/otl/lmroman12-italic.luc)
 LaTeX Info: Redefining \- on input line 3749.
 .................................................
 . LaTeX info: "xparse/redefine-command"
@@ -1060,302 +1062,29 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \WF@box=\box52
 \WF@everypar=\toks31
 Package: wrapfig 2003/01/31  v 3.6
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
-
-\f@nch@headwidth=\skip260
-\f@nch@O@elh=\skip261
-\f@nch@O@erh=\skip262
-\f@nch@O@olh=\skip263
-\f@nch@O@orh=\skip264
-\f@nch@O@elf=\skip265
-\f@nch@O@erf=\skip266
-\f@nch@O@olf=\skip267
-\f@nch@O@orf=\skip268
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks32
-\pgfutil@tempdima=\dimen275
-\pgfutil@tempdimb=\dimen276
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
-ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box53
-(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
-))
-Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+(./edlab-margins.sty
 
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks33
-\pgfkeys@temptoks=\toks34
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
-ex
-\pgfkeys@tmptoks=\toks35
-))
-\pgf@x=\dimen277
-\pgf@y=\dimen278
-\pgf@xa=\dimen279
-\pgf@ya=\dimen280
-\pgf@xb=\dimen281
-\pgf@yb=\dimen282
-\pgf@xc=\dimen283
-\pgf@yc=\dimen284
-\w@pgf@writea=\write5
-\r@pgf@reada=\read3
-\c@pgf@counta=\count322
-\c@pgf@countb=\count323
-\c@pgf@countc=\count324
-\c@pgf@countd=\count325
-\t@pgf@toka=\toks36
-\t@pgf@tokb=\toks37
-\t@pgf@tokc=\toks38
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
-)
-Driver file for pgf: pgfsys-luatex.def
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.def
-File: pgfsys-luatex.def 2014/10/11  (rcs-revision 1.35)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
-f
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
-tex
-File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count326
-\pgfsyssoftpath@bigbuffer@items=\count327
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
-tex
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen285
-\pgfmath@count=\count328
-\pgfmath@box=\box54
-\pgfmath@toks=\toks39
-\pgfmath@stack@operand=\toks40
-\pgfmath@stack@operation=\toks41
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
-ric.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
-e.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
-.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
-tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
-tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
-thmetics.code.tex)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count329
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
-x
-File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen286
-\pgf@picmaxx=\dimen287
-\pgf@picminy=\dimen288
-\pgf@picmaxy=\dimen289
-\pgf@pathminx=\dimen290
-\pgf@pathmaxx=\dimen291
-\pgf@pathminy=\dimen292
-\pgf@pathmaxy=\dimen293
-\pgf@xx=\dimen294
-\pgf@xy=\dimen295
-\pgf@yx=\dimen296
-\pgf@yy=\dimen297
-\pgf@zx=\dimen298
-\pgf@zy=\dimen299
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
-code.tex
-File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen300
-\pgf@path@lasty=\dimen301
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
-.tex
-File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen302
-\pgf@shorten@start@additional=\dimen303
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
-x
-File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box55
-\pgf@hbox=\box56
-\pgf@layerbox@main=\box57
-\pgf@picture@serial@count=\count330
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
-ode.tex
-File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen304
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
-s.code.tex
-File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen305
-\pgf@pt@y=\dimen306
-\pgf@pt@temp=\dimen307
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
-ex
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
-.code.tex
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
-x
-File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen308
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen309
-\pgf@sys@shading@range@num=\count331
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
-tex
-File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box58
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
-x
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
-ode.tex
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
-tex
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box59
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
-.sty
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen310
-\pgf@nodesepend=\dimen311
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
-.sty
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen312
-\pgffor@skip=\dimen313
-\pgffor@stack=\toks42
-\pgffor@toks=\toks43
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
-.code.tex
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count332
-\pgfplotmarksize=\dimen314
-)
-\tikz@lastx=\dimen315
-\tikz@lasty=\dimen316
-\tikz@lastxsaved=\dimen317
-\tikz@lastysaved=\dimen318
-\tikzleveldistance=\dimen319
-\tikzsiblingdistance=\dimen320
-\tikz@figbox=\box60
-\tikz@figbox@bg=\box61
-\tikz@tempbox=\box62
-\tikz@tempbox@bg=\box63
-\tikztreelevel=\count333
-\tikznumberofchildren=\count334
-\tikznumberofcurrentchild=\count335
-\tikz@fig@count=\count336
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count337
-\pgfmatrixcurrentcolumn=\count338
-\pgf@matrix@numberofcolumns=\count339
-)
-\tikz@expandcount=\count340
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))) (./edlab-margins.sty
-
-Class memoir Warning: \marginparsep is zero or negative on input line 164.
+Class memoir Warning: \marginparsep is zero or negative on input line 175.
 
 
 ******************************************************
-Stock height and width: 845.04684pt by 597.50787pt
-Top and edge trims: 56.9055pt and 109.5431pt
-Page height and width: 597.50787pt by 378.42165pt
-Text height and width: 473.4002pt by 275pt
-Spine and edge margins: 51.2299pt and 51.20001pt
-Upper and lower margins: 47.53113pt and 76.57654pt
-Headheight and headsep: 13.6pt and 14.22636pt
-Footskip: 27.46295pt
+Stock height and width: 1195.01575pt by 845.04684pt
+Top and edge trims: 56.9055pt and 123.76949pt
+Page height and width: 796.67715pt by 597.50787pt
+Text height and width: 635.5pt by 426pt
+Spine and edge margins: 99.58463pt and 71.13191pt
+Upper and lower margins: 85.35826pt and 75.8189pt
+Headheight and headsep: 28.45274pt and 19.8738pt
+Footskip: 28.45274pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 0pt and 68.99792pt
-Sidecapsep and sidecapwidth: 7pt and 111pt
-Sidebarhsep and sidebarwidth: 7pt and 111pt
-Sidebarvsep and sidebartopsep: 13.6pt and 0pt
-Sidebarheight: 539.9202pt
-Sidefoothsep and sidefootwidth: 7pt and 111pt
-Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
+Marginparsep and marginparwidth: 0pt and 106.69783pt
+Sidecapsep and sidecapwidth: 7pt and 102pt
+Sidebarhsep and sidebarwidth: 7pt and 102pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 546.64995pt
+Sidefoothsep and sidefootwidth: 7pt and 102pt
+Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 ******************************************************
 
 ) (./edlab-sections.sty
@@ -1366,7 +1095,7 @@ LaTeX Info: Redefining \MakeTextLowercase on input line 50.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count341
+\etb@tempcnta=\count322
 ))
 (./edlab-footnotes.sty
 (/usr/share/texlive/texmf-dist/tex/latex/ncctools/manyfoot.sty
@@ -1375,14 +1104,14 @@ Package: manyfoot 2005/09/11 v1.10 Many Footnote Levels Package (NCC)
 (/usr/share/texlive/texmf-dist/tex/latex/ncctools/nccfoots.sty
 Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
 )
-\MFL@columnwidth=\dimen321
-\footglue=\skip269
+\MFL@columnwidth=\dimen275
+\footglue=\skip260
 )
 (/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks44
-\footnotemargin=\dimen322
-\c@pp@next@reset=\count342
+\FN@temptoken=\toks32
+\footnotemargin=\dimen276
+\c@pp@next@reset=\count323
 
 
 LaTeX Warning: Command \@footnotemark  has changed.
@@ -1399,7 +1128,7 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
 luaotfload | cache : Lookup cache loaded from /home/edlab/.texlive2017/texmf-var
 /luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /home/edlab/.
 texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-regular-mi.luc)
-\g__fontspec_family_Formular_int=\count343
+\g__fontspec_family_Formular_int=\count324
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/for
 mular-bolditalic.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/
 generic/fonts/otl/formular-bold-mi.luc)(load luc: /home/edlab/.texlive2017/texmf
@@ -1438,7 +1167,7 @@ luaotfload | aux : no font with id 33
 .................................................
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/for
 mular-light.luc)
-\g__fontspec_family_FormularLight_int=\count344
+\g__fontspec_family_FormularLight_int=\count325
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1471,7 +1200,7 @@ luaotfload | aux : no font with id 36
 .................................................
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/fs-
 brabo-pro-regular.luc)
-\g__fontspec_family_FSBraboProRegular_int=\count345
+\g__fontspec_family_FSBraboProRegular_int=\count326
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1502,7 +1231,7 @@ brabo-pro-regular.luc)
 .................................................
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/min
 ionpro-regular.luc)
-\g__fontspec_family_MinionPro_int=\count346
+\g__fontspec_family_MinionPro_int=\count327
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/min
 ionpro-boldit.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/gen
 eric/fonts/otl/minion-pro-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var
@@ -1533,7 +1262,7 @@ eric/fonts/otl/minion-pro-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var
 . <->"MinionPro/BI:mode=node;script=latn;language=DFLT;+tlig;+onum;+smcp;"
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 57.
- (./LIVRO.aux)
+ (./LIVRO.aux (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
@@ -1614,17 +1343,17 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count347
-\scratchdimen=\dimen323
-\scratchbox=\box64
-\nofMPsegments=\count348
-\nofMParguments=\count349
-\everyMPshowfont=\toks45
-\MPscratchCnt=\count350
-\MPscratchDim=\dimen324
-\MPnumerator=\count351
-\makeMPintoPDFobject=\count352
-\everyMPtoPDFconversion=\toks46
+\scratchcounter=\count328
+\scratchdimen=\dimen277
+\scratchbox=\box53
+\nofMPsegments=\count329
+\nofMParguments=\count330
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count331
+\MPscratchDim=\dimen278
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
+\everyMPtoPDFconversion=\toks34
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1655,7 +1384,7 @@ Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks47
+\pdftexcmds@toks=\toks35
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
 8.
@@ -1687,9 +1416,9 @@ Package marginnote Info: \pdfoutput not 0 or unimportant and
 (marginnote)             \pdflastxpos or \lastxpos available.
 (marginnote)             Extended position detection mode activated.
 
-ABD: EveryShipout initializing macros
 \openout2 = INPUTS.aux
- (./INPUTS.tex (./1-fronte.tex
+
+(./INPUTS.tex (./1-fronte.tex
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Formular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1758,120 +1487,52 @@ Package paralist Warning: Incorrect label; no or multiple counters.
 (paralist)                The label is: \color {blue}{$\square $} on input line 
 14.
 
+[5] [6] [7] [8])) [9]
 
-Underfull \hbox (badness 6428) in paragraph at lines 22--22
-[]\TU/MinionPro(0)/m/n/10.95 Lo-rem ip-sum do-lor sit
- []
+******************************************************
+Stock height and width: 1195.01575pt by 845.04684pt
+Top and edge trims: 56.9055pt and 123.76949pt
+Page height and width: 796.67715pt by 597.50787pt
+Text height and width: 635.5pt by 426pt
+Spine and edge margins: 99.58463pt and 71.13191pt
+Upper and lower margins: 85.35826pt and 75.8189pt
+Headheight and headsep: 28.45274pt and 19.8738pt
+Footskip: 28.45274pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 13.96799pt and 43.19594pt
+Sidecapsep and sidecapwidth: 7pt and 102pt
+Sidebarhsep and sidebarwidth: 7pt and 102pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 546.64995pt
+Sidefoothsep and sidefootwidth: 7pt and 102pt
+Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
+******************************************************
 
-[5]
-<./cabecalho.png, id=28, 596.9502pt x 132.9768pt>
-File: ./cabecalho.png Graphic file (type png)
-<use ./cabecalho.png>
-Package luatex.def Info: ./cabecalho.png  used on input line 22.
-(luatex.def)             Requested size: 275.0pt x 61.25934pt.
+\tf@toc=\write5
 
-
-Package Fancyhdr Warning: \headheight is too small (13.6pt): 
- Make it at least 65.33937pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[6<./cabecalho.png>]
-Underfull \hbox (badness 6625) in paragraph at lines 22--22
-\TU/MinionPro(0)/m/n/10.95 ce-rat ip-sum. Cras nibh.
- []
-
-File: ./cabecalho.png Graphic file (type png)
-<use ./cabecalho.png>
-Package luatex.def Info: ./cabecalho.png  used on input line 22.
-(luatex.def)             Requested size: 275.0pt x 61.25934pt.
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-[]\TU/MinionPro(0)/m/n/10.95 Sed com-modo po-su-ere
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-[]\TU/MinionPro(0)/m/n/10.95 Pel-len-tes-que ha-bi-tant
- []
-
-
-Underfull \hbox (badness 1521) in paragraph at lines 22--22
-\TU/MinionPro(0)/m/n/10.95 morbi tris-ti-que se-nec-tus et
- []
-
-File: ./cabecalho.png Graphic file (type png)
-<use ./cabecalho.png>
-Package luatex.def Info: ./cabecalho.png  used on input line 22.
-(luatex.def)             Requested size: 275.0pt x 61.25934pt.
-[8]
-File: ./cabecalho.png Graphic file (type png)
-<use ./cabecalho.png>
-Package luatex.def Info: ./cabecalho.png  used on input line 22.
-(luatex.def)             Requested size: 275.0pt x 61.25934pt.
- [9]
-File: ./cabecalho.png Graphic file (type png)
-<use ./cabecalho.png>
-Package luatex.def Info: ./cabecalho.png  used on input line 22.
-(luatex.def)             Requested size: 275.0pt x 61.25934pt.
- [10]
-File: ./cabecalho.png Graphic file (type png)
-<use ./cabecalho.png>
-Package luatex.def Info: ./cabecalho.png  used on input line 22.
-(luatex.def)             Requested size: 275.0pt x 61.25934pt.
- [11]
-Underfull \hbox (badness 6876) in paragraph at lines 22--22
-[]\TU/MinionPro(0)/m/n/10.95 Cu-ra-bi-tur tel-lus magna,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-\TU/MinionPro(0)/m/n/10.95 Ma-e-ce-nas po-su-ere so-da-les
- []
-
-
-Underfull \hbox (badness 3579) in paragraph at lines 22--22
-[]\TU/MinionPro(0)/m/n/10.95 Nulla non mau-ris vi-tae
- []
-
-File: ./cabecalho.png Graphic file (type png)
-<use ./cabecalho.png>
-Package luatex.def Info: ./cabecalho.png  used on input line 22.
-(luatex.def)             Requested size: 275.0pt x 61.25934pt.
-[12]))
-File: ./cabecalho.png Graphic file (type png)
-<use ./cabecalho.png>
-Package luatex.def Info: ./cabecalho.png  used on input line 76.
-(luatex.def)             Requested size: 275.0pt x 61.25934pt.
- [13]
-
-! Class memoir Error: \headheight (65.33937pt) and/or \headsep (14.22636pt) are
- too large for \uppermargin (47.53113pt) by 32.0346pt.
-
-See the memoir class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.80 \end
-       {document}
-? 
-! Emergency stop.
- ...                                              
-                                                  
-l.80 \end
-       {document}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
+\openout5 = LIVRO.toc
+(./LIVRO.aux (./INPUTS.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 30387 strings out of 494480
- 100000,953878 words of node,token memory allocated 1129 words of node memory still in use:
-   3 hlist, 1 rule, 1 dir, 3 glue, 4 attribute, 193 glue_spec, 4 attribute_list,
- 1 if_stack, 3 shape, 1 write nodes
-   avail lists: 1:1,2:391,3:86,4:61,5:1109,6:2262,7:649,8:46,9:196,10:21,11:279
- 33267 multiletter control sequences out of 65536+600000
- 91 fonts using 14427631 bytes
- 76i,17n,83p,1330b,800s stack positions out of 5000i,500n,10000p,200000b,100000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 20596 strings out of 494480
+ 100000,794899 words of node,token memory allocated
+ 1167 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 5 glue, 7 attribute, 192 glue_spec, 7 attribute_lis
+t, 3 shape, 3 write nodes
+   avail lists: 1:2,2:385,3:67,4:42,5:2125,6:4298,7:824,8:45,9:181,10:24,11:559
+ 23884 multiletter control sequences out of 65536+600000
+ 85 fonts using 14055431 bytes
+ 57i,14n,83p,1330b,346s stack positions out of 5000i,500n,10000p,200000b,100000s
+</home/edlab/texmf/tex/fonts/MinionPro-It.ttf></home/edlab/texmf/tex/fonts/Minio
+nPro-Regular.ttf></home/edlab/texmf/tex/fonts/Minion Pro Bold.ttf></home/edlab/t
+exmf/tex/fonts/FS Brabo Pro Regular.otf></home/edlab/texmf/tex/fonts/Formular-bo
+ld-mi.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lc
+irclew.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
+am10.pfb>
+Output written on LIVRO.pdf (9 pages, 63359 bytes).
+
+PDF statistics: 75 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
