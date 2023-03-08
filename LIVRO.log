@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  7 MAR 2023 11:47
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  7 MAR 2023 17:51
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.085 seconds
+luaotfload | main : initialization completed in 0.092 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1061,6 +1061,19 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \WF@everypar=\toks31
 Package: wrapfig 2003/01/31  v 3.6
 )
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip260
+\f@nch@O@elh=\skip261
+\f@nch@O@erh=\skip262
+\f@nch@O@olh=\skip263
+\f@nch@O@orh=\skip264
+\f@nch@O@elf=\skip265
+\f@nch@O@erf=\skip266
+\f@nch@O@olf=\skip267
+\f@nch@O@orf=\skip268
+)
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
@@ -1321,21 +1334,7 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
-
-\f@nch@headwidth=\skip260
-\f@nch@O@elh=\skip261
-\f@nch@O@erh=\skip262
-\f@nch@O@olh=\skip263
-\f@nch@O@orh=\skip264
-\f@nch@O@elf=\skip265
-\f@nch@O@erf=\skip266
-\f@nch@O@olf=\skip267
-\f@nch@O@orf=\skip268
-))
-(./edlab-margins.sty
+)))) (./edlab-margins.sty
 
 Class memoir Warning: \marginparsep is zero or negative on input line 164.
 
@@ -1534,7 +1533,7 @@ eric/fonts/otl/minion-pro-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var
 . <->"MinionPro/BI:mode=node;script=latn;language=DFLT;+tlig;+onum;+smcp;"
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 57.
- (./LIVRO.aux (./INPUTS.aux))
+ (./LIVRO.aux)
 \openout1 = LIVRO.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
@@ -1764,11 +1763,28 @@ Underfull \hbox (badness 6428) in paragraph at lines 22--22
 []\TU/MinionPro(0)/m/n/10.95 Lo-rem ip-sum do-lor sit
  []
 
-[5] [6]
+[5]
+<./cabecalho.png, id=28, 596.9502pt x 132.9768pt>
+File: ./cabecalho.png Graphic file (type png)
+<use ./cabecalho.png>
+Package luatex.def Info: ./cabecalho.png  used on input line 22.
+(luatex.def)             Requested size: 275.0pt x 61.25934pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (13.6pt): 
+ Make it at least 65.33937pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6<./cabecalho.png>]
 Underfull \hbox (badness 6625) in paragraph at lines 22--22
 \TU/MinionPro(0)/m/n/10.95 ce-rat ip-sum. Cras nibh.
  []
 
+File: ./cabecalho.png Graphic file (type png)
+<use ./cabecalho.png>
+Package luatex.def Info: ./cabecalho.png  used on input line 22.
+(luatex.def)             Requested size: 275.0pt x 61.25934pt.
 [7]
 Underfull \hbox (badness 10000) in paragraph at lines 22--22
 []\TU/MinionPro(0)/m/n/10.95 Sed com-modo po-su-ere
@@ -1784,7 +1800,26 @@ Underfull \hbox (badness 1521) in paragraph at lines 22--22
 \TU/MinionPro(0)/m/n/10.95 morbi tris-ti-que se-nec-tus et
  []
 
-[8] [9] [10] [11]
+File: ./cabecalho.png Graphic file (type png)
+<use ./cabecalho.png>
+Package luatex.def Info: ./cabecalho.png  used on input line 22.
+(luatex.def)             Requested size: 275.0pt x 61.25934pt.
+[8]
+File: ./cabecalho.png Graphic file (type png)
+<use ./cabecalho.png>
+Package luatex.def Info: ./cabecalho.png  used on input line 22.
+(luatex.def)             Requested size: 275.0pt x 61.25934pt.
+ [9]
+File: ./cabecalho.png Graphic file (type png)
+<use ./cabecalho.png>
+Package luatex.def Info: ./cabecalho.png  used on input line 22.
+(luatex.def)             Requested size: 275.0pt x 61.25934pt.
+ [10]
+File: ./cabecalho.png Graphic file (type png)
+<use ./cabecalho.png>
+Package luatex.def Info: ./cabecalho.png  used on input line 22.
+(luatex.def)             Requested size: 275.0pt x 61.25934pt.
+ [11]
 Underfull \hbox (badness 6876) in paragraph at lines 22--22
 []\TU/MinionPro(0)/m/n/10.95 Cu-ra-bi-tur tel-lus magna,
  []
@@ -1799,52 +1834,44 @@ Underfull \hbox (badness 3579) in paragraph at lines 22--22
 []\TU/MinionPro(0)/m/n/10.95 Nulla non mau-ris vi-tae
  []
 
-[12])) [13]
+File: ./cabecalho.png Graphic file (type png)
+<use ./cabecalho.png>
+Package luatex.def Info: ./cabecalho.png  used on input line 22.
+(luatex.def)             Requested size: 275.0pt x 61.25934pt.
+[12]))
+File: ./cabecalho.png Graphic file (type png)
+<use ./cabecalho.png>
+Package luatex.def Info: ./cabecalho.png  used on input line 76.
+(luatex.def)             Requested size: 275.0pt x 61.25934pt.
+ [13]
 
-******************************************************
-Stock height and width: 845.04684pt by 597.50787pt
-Top and edge trims: 56.9055pt and 109.5431pt
-Page height and width: 597.50787pt by 378.42165pt
-Text height and width: 473.4002pt by 275pt
-Spine and edge margins: 51.2299pt and 51.20001pt
-Upper and lower margins: 47.53113pt and 76.57654pt
-Headheight and headsep: 13.6pt and 14.22636pt
-Footskip: 27.46295pt
-Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 12.74579pt and 25.70844pt
-Sidecapsep and sidecapwidth: 7pt and 111pt
-Sidebarhsep and sidebarwidth: 7pt and 111pt
-Sidebarvsep and sidebartopsep: 13.6pt and 0pt
-Sidebarheight: 539.9202pt
-Sidefoothsep and sidefootwidth: 7pt and 111pt
-Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
-******************************************************
+! Class memoir Error: \headheight (65.33937pt) and/or \headsep (14.22636pt) are
+ too large for \uppermargin (47.53113pt) by 32.0346pt.
 
-\tf@toc=\write6
+See the memoir class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end
+       {document}
+? 
+! Emergency stop.
+ ...                                              
+                                                  
+l.80 \end
+       {document}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-\openout6 = LIVRO.toc
-(./LIVRO.aux (./INPUTS.aux)))
+
 
 Here is how much of LuaTeX's memory you used:
- 30362 strings out of 494480
- 100000,953878 words of node,token memory allocated
- 1172 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 5 glue, 7 attribute, 193 glue_spec, 7 attribute_lis
-t, 3 shape, 3 write nodes
-   avail lists: 1:1,2:386,3:82,4:60,5:1109,6:2262,7:647,8:46,9:188,10:21,11:279
- 33270 multiletter control sequences out of 65536+600000
+ 30387 strings out of 494480
+ 100000,953878 words of node,token memory allocated 1129 words of node memory still in use:
+   3 hlist, 1 rule, 1 dir, 3 glue, 4 attribute, 193 glue_spec, 4 attribute_list,
+ 1 if_stack, 3 shape, 1 write nodes
+   avail lists: 1:1,2:391,3:86,4:61,5:1109,6:2262,7:649,8:46,9:196,10:21,11:279
+ 33267 multiletter control sequences out of 65536+600000
  91 fonts using 14427631 bytes
- 73i,16n,83p,1330b,793s stack positions out of 5000i,500n,10000p,200000b,100000s
-</home/edlab/texmf/tex/fonts/MinionPro-It.ttf></home/edlab/texmf/tex/fonts/Minio
-nPro-Regular.ttf></home/edlab/texmf/tex/fonts/Minion Pro Bold.ttf></home/edlab/t
-exmf/tex/fonts/FS Brabo Pro Regular.otf></home/edlab/texmf/tex/fonts/Formular-bo
-ld-mi.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lc
-irclew.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
-am10.pfb>
-Output written on LIVRO.pdf (13 pages, 71138 bytes).
-
-PDF statistics: 92 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 131072)
- 16 words of extra memory for PDF output out of 10000 (max. 100000000)
-
+ 76i,17n,83p,1330b,800s stack positions out of 5000i,500n,10000p,200000b,100000s
+!  ==> Fatal error occurred, no output PDF file produced!

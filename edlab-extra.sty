@@ -103,12 +103,18 @@
 
 
 
-\usepackage{tikz}
 \usepackage{fancyhdr}
+\usepackage{tikz}
 
 \pagestyle{fancy}
 \fancyhf{}
-\fancyfoot[C]{\tikz[baseline={(0,0)},outer sep=0pt]{
-    \node[minimum width=\dimexpr\textwidth+4mm\relax,minimum height=4mm,draw=none,fill=red!50] (a) {};
-    \node[anchor=west,inner sep=0pt,outer sep=2mm,text=black] (b) at (a.west) {\thepage};
+\chead{\includegraphics[width=\textwidth]{./cabecalho.png}}
+\fancyfoot[LE]{\tikz[baseline={(0,0)},outer sep=0pt]{
+    \node[minimum width=15mm,minimum height=4mm,draw=none,fill=red!50] (a) {};
+    \node[anchor=west,inner sep=0pt,outer sep=-4mm,text=black] (b) at (a.east) {\ifodd\value{page}\thepage\else\hfill\thepage\fi};
+}}
+
+\fancyfoot[RO]{\tikz[baseline={(0,0)},outer sep=-30pt]{
+    \node[minimum width=15mm,minimum height=4mm,draw=none,fill=red!50] (a) {};
+    \node[anchor=west,inner sep=0pt,outer sep=-4mm,text=black] (b) at (a.east) {\ifodd\value{page}\thepage\else\hfill\thepage\fi};
 }}
