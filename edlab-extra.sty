@@ -63,6 +63,7 @@
      {#1\ifx#2\relax\else\subtitulo{#2}\fi}%
 \markright{#1}}
 
+% Definindo as cores CMYK
 \definecolor{prof}{cmyk}{0,1,0,0}
 \newcommand{\prof}[1]{
   \begin{minipage}[t]{\linewidth}%
@@ -70,51 +71,46 @@
   \end{minipage}%
 }
 
-
 \definecolor{aluno}{cmyk}{1,0.85,0.27,0.1}
-
 \newcommand{\aluno}[1]{\textcolor{aluno}{#1}}
-
 \newcommand{\colorsec}[1]{%
     \section{\textcolor{aluno}{#1}}%
 }
 
+
+\definecolor{exercicio}{cmyk}{0,0.6,0.45,0}
+\newcommand{\exercicio}[1]{\textcolor{exercicio}{#1}}
 
 
 
 \usepackage{amssymb}
 \usepackage{paralist}
 \usepackage{wrapfig}
+\usepackage{tikzpagenodes}
 
 % Definir novo ambiente para lista com caixas de seleção
-\newenvironment{checkboxlist}
-    {\begin{inparaenum}[\color{blue}{$\square$}]}
-    {\end{inparaenum}}
+\newlist{boxlist}{enumerate}{1}
+\setlist[boxlist]{label=\textcolor{exercicio}{[}\mbox{ }\mbox{ }\textcolor{exercicio}{]},font=\bfseries}
 
 % Definir novo ambiente para parágrafo lateral
-\newcommand{\lateralparagraph}[1]{
-    \begin{wrapfigure}{r}{0.5\textwidth}
-        \begin{minipage}[t]{0.45\textwidth}
-            \textcolor{prof}{#1}
-        \end{minipage}
-    \end{wrapfigure}
+\newcommand{\sidetext}[1]{%
+  \begin{tikzpicture}[remember picture,overlay]
+    \node [anchor=north east, text width=3cm, align=justify, align=right, font=\small] 
+          at (current page text area.north east) 
+          {\parbox[t]{\textwidth}{\textcolor{prof}{#1}}};
+
+  \end{tikzpicture}%
 }
 
 
-
-%
-%\usepackage{fancyhdr}
-%\usepackage{tikz}
-%
-%\pagestyle{fancy}
-%\fancyhf{}
-%\chead{\includegraphics[width=\textwidth]{./cabecalho.png}}
-%\fancyfoot[LE]{\tikz[baseline={(0,0)},outer sep=0pt]{
-    %\node[minimum width=15mm,minimum height=4mm,draw=none,fill=red!50] (a) {};
- %   \node[anchor=west,inner sep=0pt,outer sep=-4mm,text=black] (b) at (a.east) {\ifodd\value{page}\thepage\%else\hfill\thepage\fi};
-%}}
-%
-%\fancyfoot[RO]{\tikz[baseline={(0,0)},outer sep=-30pt]{
-    %\node[minimum width=15mm,minimum height=4mm,draw=none,fill=red!50] (a) {};
-  %  \node[anchor=west,inner sep=0pt,outer sep=-4mm,text=black] (b) at (a.east) {\ifodd\value{page}\thepage\%else\hfill\thepage\fi};
-%}}
+% Comando para fazer as linhas de respostas
+\newcommand{\mylines}{%
+  \par\noindent\makebox[\linewidth]{%
+    \begin{tikzpicture}
+      \colorlet{mycolor}{exercicio}
+      \draw[thick, color=mycolor] (0,0) -- (\linewidth,0);
+      \draw[thick, color=mycolor, yshift=-1cm] (0,0) -- (\linewidth,0);
+      \draw[thick, color=mycolor, yshift=-2cm] (0,0) -- (\linewidth,0);
+    \end{tikzpicture}%
+  }\par%
+}

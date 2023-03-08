@@ -1,5 +1,5 @@
 all:
-#	git log -1 --date=short --format=format:'\newcommand{\RevisionInfo}{%h}' > edlab-git.sty
+	git log -1 --date=short --format=format:'\newcommand{\RevisionInfo}{%h}' > edlab-git.sty
 	latexmk -lualatex LIVRO.tex   # compilador
 	evince LIVRO.pdf			  # linux: leitor de PDF
 	open   LIVRO.pdf              # mac: leitor PDF

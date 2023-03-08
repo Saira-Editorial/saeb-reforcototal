@@ -42,7 +42,8 @@
 			% notalinhalonga
 			chicagofootnotes			% para notas com número e ponto cf. man. de Chicago
 			]{edlab-footnotes}
-
+\usepackage[printwatermark]{xwatermark}
+\usepackage{pdfpages}
 
 % Medidas (ver: memoir p.11 fig.2.3)
 \parindent=3ex			% Tamanho da indentação
@@ -60,8 +61,8 @@
 % Estilos
 \makeoddhead{baruch}{}{\scshape\MakeLowercase{\scshape\MakeTextLowercase{\leftmark}}}{}
 \makeevenhead{baruch}{}{\scshape\MakeLowercase{rashômon e outros contos}}{}
-\makeevenfoot{baruch}{}{\footnotesize\thepage}{}
-\makeoddfoot{baruch}{}{\footnotesize\thepage}{}
+\makeevenfoot{baruch}{\hspace*{-1.5cm}\small\thepage}{}{}
+\makeoddfoot{baruch}{}{}{\hspace*{16.5cm}\small\thepage}
 \pagestyle{baruch}		
 \headstyles{baruch}
 

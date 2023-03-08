@@ -1,5 +1,8 @@
-%\pagestyle{fancy}
+\newwatermark[evenpages]{\vspace{2.5cm}\hspace*{7.8cm}\includegraphics[scale=1]{./bg.pdf}}
+\newwatermark[oddpages]{\vspace{2.5cm}\hspace*{7.8cm}\includegraphics[scale=1]{./bg2.pdf}}
+
 \chapter{Título do módulo}
+
 
 \prof{\textbf{Orientação para o professor}: Itatur, que nis estem inum debis est eaquatia volupienis ma id molo dolupta}
 
@@ -11,12 +14,16 @@
 
 %\lateralparagraph{Parágrafo lateral que começa ao lado do primeiro item da lista.}
 
-\begin{checkboxlist}
-    \item Item 1
+\begin{boxlist}
+    \item Item 1 \sidetext{Parágrafo lateral que começa ao lado do primeiro item da lista}
 
     \item Item 2
 
     \item Item 3
-\end{checkboxlist}
+\end{boxlist}
+
+\lipsum[1]
+
+\mylines
 
 \lipsum[1-20]

@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  8 MAR 2023 16:19
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  8 MAR 2023 19:02
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.086 seconds
+luaotfload | main : initialization completed in 0.103 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1062,7 +1062,280 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \WF@box=\box52
 \WF@everypar=\toks31
 Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tikzpagenodes/tikzpagenodes.sty
+Package: tikzpagenodes 2012/09/16 v1.1 Special PGF/TikZ nodes for areas of the p
+age
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks32
+\pgfutil@tempdima=\dimen275
+\pgfutil@tempdimb=\dimen276
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box53
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks35
+))
+\pgf@x=\dimen277
+\pgf@y=\dimen278
+\pgf@xa=\dimen279
+\pgf@ya=\dimen280
+\pgf@xb=\dimen281
+\pgf@yb=\dimen282
+\pgf@xc=\dimen283
+\pgf@yc=\dimen284
+\w@pgf@writea=\write5
+\r@pgf@reada=\read3
+\c@pgf@counta=\count322
+\c@pgf@countb=\count323
+\c@pgf@countc=\count324
+\c@pgf@countd=\count325
+\t@pgf@toka=\toks36
+\t@pgf@tokb=\toks37
+\t@pgf@tokc=\toks38
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-luatex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.def
+File: pgfsys-luatex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count326
+\pgfsyssoftpath@bigbuffer@items=\count327
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen285
+\pgfmath@count=\count328
+\pgfmath@box=\box54
+\pgfmath@toks=\toks39
+\pgfmath@stack@operand=\toks40
+\pgfmath@stack@operation=\toks41
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count329
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen286
+\pgf@picmaxx=\dimen287
+\pgf@picminy=\dimen288
+\pgf@picmaxy=\dimen289
+\pgf@pathminx=\dimen290
+\pgf@pathmaxx=\dimen291
+\pgf@pathminy=\dimen292
+\pgf@pathmaxy=\dimen293
+\pgf@xx=\dimen294
+\pgf@xy=\dimen295
+\pgf@yx=\dimen296
+\pgf@yy=\dimen297
+\pgf@zx=\dimen298
+\pgf@zy=\dimen299
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen300
+\pgf@path@lasty=\dimen301
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen302
+\pgf@shorten@start@additional=\dimen303
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count330
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen304
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen305
+\pgf@pt@y=\dimen306
+\pgf@pt@temp=\dimen307
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen308
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen309
+\pgf@sys@shading@range@num=\count331
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box58
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box59
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen310
+\pgf@nodesepend=\dimen311
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen312
+\pgffor@skip=\dimen313
+\pgffor@stack=\toks42
+\pgffor@toks=\toks43
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count332
+\pgfplotmarksize=\dimen314
+)
+\tikz@lastx=\dimen315
+\tikz@lasty=\dimen316
+\tikz@lastxsaved=\dimen317
+\tikz@lastysaved=\dimen318
+\tikzleveldistance=\dimen319
+\tikzsiblingdistance=\dimen320
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count333
+\tikznumberofchildren=\count334
+\tikznumberofcurrentchild=\count335
+\tikz@fig@count=\count336
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count337
+\pgfmatrixcurrentcolumn=\count338
+\pgf@matrix@numberofcolumns=\count339
+)
+\tikz@expandcount=\count340
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count341
+LaTeX Info: Redefining \checkoddpage on input line 45.
+))
+\c@boxlisti=\count342
+\enitdp@boxlist=\count343
+)
 (./edlab-margins.sty
 
 Class memoir Warning: \marginparsep is zero or negative on input line 175.
@@ -1076,7 +1349,7 @@ Text height and width: 635.5pt by 426pt
 Spine and edge margins: 99.58463pt and 71.13191pt
 Upper and lower margins: 85.35826pt and 75.8189pt
 Headheight and headsep: 28.45274pt and 19.8738pt
-Footskip: 28.45274pt
+Footskip: 51.21495pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 0pt and 106.69783pt
 Sidecapsep and sidecapwidth: 7pt and 102pt
@@ -1095,7 +1368,7 @@ LaTeX Info: Redefining \MakeTextLowercase on input line 50.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count322
+\etb@tempcnta=\count344
 ))
 (./edlab-footnotes.sty
 (/usr/share/texlive/texmf-dist/tex/latex/ncctools/manyfoot.sty
@@ -1104,14 +1377,14 @@ Package: manyfoot 2005/09/11 v1.10 Many Footnote Levels Package (NCC)
 (/usr/share/texlive/texmf-dist/tex/latex/ncctools/nccfoots.sty
 Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
 )
-\MFL@columnwidth=\dimen275
+\MFL@columnwidth=\dimen321
 \footglue=\skip260
 )
 (/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks32
-\footnotemargin=\dimen276
-\c@pp@next@reset=\count323
+\FN@temptoken=\toks44
+\footnotemargin=\dimen322
+\c@pp@next@reset=\count345
 
 
 LaTeX Warning: Command \@footnotemark  has changed.
@@ -1124,11 +1397,125 @@ Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
 Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
 
+)) (/usr/share/texlive/texmf-dist/tex/latex/xwatermark/xwatermark.sty
+(/usr/share/texlive/texmf-dist/tex/latex/catoptions/catoptions.sty
+\m@one=\count346
+\z@pt=\dimen323
+Package: catoptions 2014/08/29 v0.2.7h Securing catcodes and parsing options (AM
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks45
+)
+\cpt@csvdepth=\count347
+\cpt@optdepth=\count348
+\cpt@cnta=\count349
+\indrisdepth=\count350
+\cpt@foreachdepth=\count351
+\cpt@exprcnt=\count352
+)
+Package: xwatermark 2012/10/23 v1.5.2d A dynamic watermarking scheme (Ahmed Musa
+)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/picture.sty
+Package: picture 2016/05/16 v1.4 Dimens for picture macros (HO)
+Package picture Info: Calculation method: etex.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package atbegshi Info: Class `memoir' patched.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip261
+\f@nch@O@elh=\skip262
+\f@nch@O@erh=\skip263
+\f@nch@O@olh=\skip264
+\f@nch@O@orh=\skip265
+\f@nch@O@elf=\skip266
+\f@nch@O@erf=\skip267
+\f@nch@O@olf=\skip268
+\f@nch@O@orf=\skip269
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/atveryend.sty
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ltxkeys/ltxkeys.sty
+Package: ltxkeys 2012/11/17 v0.0.3c A robust key-value parser (AM) (Ahmed Musa)
+\ltxkeys@csvdepth=\count353
+\ltxkeys@keydepth=\count354
+)
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip270
+\fb@frw=\dimen324
+\fb@frh=\dimen325
+)
+\AtBeginShipoutBox=\box64
+\xwm@boxa=\box65
+\xwm@boxb=\box66
+\xwm@cnta=\count355
+\xwm@wrt=\write6
+ (./LIVRO.xwm)
+\openout6 = LIVRO.xwm
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count356
+\calc@Bcount=\count357
+\calc@Adimen=\dimen326
+\calc@Bdimen=\dimen327
+\calc@Askip=\skip271
+\calc@Bskip=\skip272
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count358
+\calc@Cskip=\skip273
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+\AM@pagewidth=\dimen328
+\AM@pageheight=\dimen329
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppluatex.def
+File: ppluatex.def 2017/10/31 v0.5l Pdfpages driver for LuaTeX (AM)
+)
+\AM@pagebox=\box67
+\AM@global@opts=\toks46
+\AM@toc@title=\toks47
+\c@AM@survey=\count359
+\AM@templatesizebox=\box68
+)
 luaotfload | cache : Lookup cache loaded from /home/edlab/.texlive2017/texmf-var
 /luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /home/edlab/.
 texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-regular-mi.luc)
-\g__fontspec_family_Formular_int=\count324
+\g__fontspec_family_Formular_int=\count360
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/for
 mular-bolditalic.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/
 generic/fonts/otl/formular-bold-mi.luc)(load luc: /home/edlab/.texlive2017/texmf
@@ -1167,7 +1554,7 @@ luaotfload | aux : no font with id 33
 .................................................
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/for
 mular-light.luc)
-\g__fontspec_family_FormularLight_int=\count325
+\g__fontspec_family_FormularLight_int=\count361
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1200,7 +1587,7 @@ luaotfload | aux : no font with id 36
 .................................................
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/fs-
 brabo-pro-regular.luc)
-\g__fontspec_family_FSBraboProRegular_int=\count326
+\g__fontspec_family_FSBraboProRegular_int=\count362
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1231,7 +1618,7 @@ brabo-pro-regular.luc)
 .................................................
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/min
 ionpro-regular.luc)
-\g__fontspec_family_MinionPro_int=\count327
+\g__fontspec_family_MinionPro_int=\count363
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/min
 ionpro-boldit.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/gen
 eric/fonts/otl/minion-pro-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var
@@ -1261,24 +1648,131 @@ eric/fonts/otl/minion-pro-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
 . <->"MinionPro/BI:mode=node;script=latn;language=DFLT;+tlig;+onum;+smcp;"
 .................................................
-LaTeX Info: Redefining \rmfamily on input line 57.
- (./LIVRO.aux (./INPUTS.aux))
+LaTeX Info: Redefining \rmfamily on input line 58.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: luatex-loader 2016/05/16 v0.6 Lua module loader (HO)
+
+(/usr/share/texlive/texmf-dist/scripts/oberdiek/oberdiek.luatex.lua)
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package hobsub Info: Skipping package `atveryend' (already loaded).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen330
+\Hy@linkcounter=\count364
+\Hy@pagecounter=\count365
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count366
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count367
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen331
+\Fld@menulength=\count368
+\Field@Width=\dimen332
+\Fld@charsize=\dimen333
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count369
+\c@Item=\count370
+\c@Hfootnote=\count371
+)
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cla
+ss
+\c@memhycontfloat=\count372
+\c@Hpagenote=\count373
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2018/02/06 v6.86b Hyperref driver for luaTeX
+\Fld@listcount=\count374
+\c@bookmark@seq@number=\count375
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
+2.
+)
+\Hy@SectionHShift=\skip274
+)
+(./LIVRO.aux (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1286,105 +1780,79 @@ LaTeX Font Info:    ... okay on input line 72.
 .................................................
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 72.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 72.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 72.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 72.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 72.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 72.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 72.
-LaTeX Font Info:    Redeclaring math accent \check on input line 72.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 72.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 72.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 72.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 72.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 72.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 73.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 73.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 73.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 73.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 73.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 73.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 73.
+LaTeX Font Info:    Redeclaring math accent \check on input line 73.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 73.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 73.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 73.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 73.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 72.
+(Font)              `operators' in the math version `normal' on input line 73.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 72.
+(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 73.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 72.
+(Font)              `operators' in the math version `bold' on input line 73.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 72.
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 73.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/m/n on input lin
-e 72.
+e 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 72.
+(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/bx/n on input line 72.
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/bx/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 72.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 72.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 73.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/bx/n on input li
-ne 72.
+ne 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/MinionPro(0)/bx/it on input line 72
+(Font)                  OT1/cmr/bx/it --> TU/MinionPro(0)/bx/it on input line 73
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 72.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 72.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 73.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count328
-\scratchdimen=\dimen277
-\scratchbox=\box53
-\nofMPsegments=\count329
-\nofMParguments=\count330
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count331
-\MPscratchDim=\dimen278
-\MPnumerator=\count332
-\makeMPintoPDFobject=\count333
-\everyMPtoPDFconversion=\toks34
+\scratchcounter=\count376
+\scratchdimen=\dimen334
+\scratchbox=\box69
+\nofMPsegments=\count377
+\nofMParguments=\count378
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count379
+\MPscratchDim=\dimen335
+\MPnumerator=\count380
+\makeMPintoPDFobject=\count381
+\everyMPtoPDFconversion=\toks49
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO)
-
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks35
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
 8.
@@ -1397,7 +1865,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
-LaTeX Info: Redefining \microtypecontext on input line 72.
+LaTeX Info: Redefining \microtypecontext on input line 73.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1416,9 +1884,38 @@ Package marginnote Info: \pdfoutput not 0 or unimportant and
 (marginnote)             \pdflastxpos or \lastxpos available.
 (marginnote)             Extended position detection mode activated.
 
-\openout2 = INPUTS.aux
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
-(./INPUTS.tex (./1-fronte.tex
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package hyperref Info: Link coloring OFF on input line 73.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count382
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 73.
+LaTeX Info: Redefining \ref on input line 73.
+LaTeX Info: Redefining \pageref on input line 73.
+LaTeX Info: Redefining \nameref on input line 73.
+(./LIVRO.out) (./LIVRO.out)
+\@outlinefile=\write7
+
+\openout7 = LIVRO.out
+
+\openout2 = INPUTS.aux
+ (./INPUTS.tex (./1-fronte.tex
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Formular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1427,7 +1924,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FSBraboProRegular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+)
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 3.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ] (./2-creditos.tex
@@ -1478,16 +1980,156 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--55
 
  []
 
-) [2] (./LIVRO.toc) [3] (./TEXTO.tex [4
+)
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 4.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 4.
+ [2] (./LIVRO.toc)
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 28.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 28.
+ [3] (./TEXTO.tex
+LaTeX Font Info:    Try loading font information for TU+bch on input line 4.
+LaTeX Font Info:    No file TUbch.fd. on input line 4.
 
 
-]
+LaTeX Font Warning: Font shape `TU/bch/b/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 4.
 
-Package paralist Warning: Incorrect label; no or multiple counters.
-(paralist)                The label is: \color {blue}{$\square $} on input line 
-14.
+(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmr
+oman17-regular.luc)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
+File: mt-LatinModernRoman.cfg 2013/03/13 v1.0 microtype config. file: Latin Mode
+rn Roman (RS)
+)
+warning  (file ./bg.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7'
+, but at most version '1.5' allowed
+<./bg.pdf, id=32, 597.50829pt x 796.67737pt>
+File: ./bg.pdf Graphic file (type pdf)
+<use ./bg.pdf>
+Package luatex.def Info: ./bg.pdf  used on input line 4.
+(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
 
-[5] [6] [7] [8])) [9]
+Overfull \hbox (22.76125pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 4.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 4.
+[4
+
+
+<./bg.pdf>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[][]\TU/MinionPro(0)/m/n/10.95 Pa-rá-grafo la-te-ral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\TU/MinionPro(0)/m/n/10.95 que co-meça ao
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\TU/MinionPro(0)/m/n/10.95 lado do pri-meiro
+ []
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-bch.cfg
+File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `bch' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+warning  (file ./bg2.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7
+', but at most version '1.5' allowed
+<./bg2.pdf, id=45, 597.50829pt x 796.67737pt>
+File: ./bg2.pdf Graphic file (type pdf)
+<use ./bg2.pdf>
+Package luatex.def Info: ./bg2.pdf  used on input line 29.
+(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
+
+Overfull \hbox (22.76125pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 29.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 29.
+[5<./bg2.pdf>]
+File: ./bg.pdf Graphic file (type pdf)
+<use ./bg.pdf>
+Package luatex.def Info: ./bg.pdf  used on input line 29.
+(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
+
+Overfull \hbox (22.76125pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 29.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 29.
+[6]
+Overfull \hbox (48.68573pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/10.95 |
+ []
+
+File: ./bg2.pdf Graphic file (type pdf)
+<use ./bg2.pdf>
+Package luatex.def Info: ./bg2.pdf  used on input line 29.
+(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
+
+Overfull \hbox (22.76125pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 29.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 29.
+[7]
+File: ./bg.pdf Graphic file (type pdf)
+<use ./bg.pdf>
+Package luatex.def Info: ./bg.pdf  used on input line 29.
+(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
+
+Overfull \hbox (22.76125pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 29.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 29.
+[8]))
+Overfull \hbox (48.68573pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/10.95 |
+ []
+
+File: ./bg2.pdf Graphic file (type pdf)
+<use ./bg2.pdf>
+Package luatex.def Info: ./bg2.pdf  used on input line 77.
+(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
+
+Overfull \hbox (22.76125pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 77.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 77.
+[9]
 
 ******************************************************
 Stock height and width: 1195.01575pt by 845.04684pt
@@ -1497,7 +2139,7 @@ Text height and width: 635.5pt by 426pt
 Spine and edge margins: 99.58463pt and 71.13191pt
 Upper and lower margins: 85.35826pt and 75.8189pt
 Headheight and headsep: 28.45274pt and 19.8738pt
-Footskip: 28.45274pt
+Footskip: 51.21495pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 13.96799pt and 43.19594pt
 Sidecapsep and sidecapwidth: 7pt and 102pt
@@ -1508,31 +2150,42 @@ Sidefoothsep and sidefootwidth: 7pt and 102pt
 Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 ******************************************************
 
-\tf@toc=\write5
+\tf@toc=\write8
 
-\openout5 = LIVRO.toc
-(./LIVRO.aux (./INPUTS.aux)))
+\openout8 = LIVRO.toc
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 81.
+(./LIVRO.xwm) (./LIVRO.aux (./INPUTS.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 81.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
+Package rerunfilecheck Info: File `LIVRO.out' has not changed.
+(rerunfilecheck)             Checksum: 386D474825BD73889C58B9E80595CD9F;54.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+)
 
 Here is how much of LuaTeX's memory you used:
- 20596 strings out of 494480
- 100000,794899 words of node,token memory allocated
- 1167 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 5 glue, 7 attribute, 192 glue_spec, 7 attribute_lis
+ 39060 strings out of 494480
+ 100000,1144653 words of node,token memory allocated
+ 1187 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 5 glue, 7 attribute, 196 glue_spec, 7 attribute_lis
 t, 3 shape, 3 write nodes
-   avail lists: 1:2,2:385,3:67,4:42,5:2125,6:4298,7:824,8:45,9:181,10:24,11:559
- 23884 multiletter control sequences out of 65536+600000
- 85 fonts using 14055431 bytes
- 57i,14n,83p,1330b,346s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:1,2:737,3:147,4:61,5:2261,6:4429,7:903,8:54,9:264,10:24,11:567
+
+ 41671 multiletter control sequences out of 65536+600000
+ 87 fonts using 14454647 bytes
+ 94i,18n,83p,1369b,965s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/edlab/texmf/tex/fonts/MinionPro-It.ttf></home/edlab/texmf/tex/fonts/Minio
 nPro-Regular.ttf></home/edlab/texmf/tex/fonts/Minion Pro Bold.ttf></home/edlab/t
 exmf/tex/fonts/FS Brabo Pro Regular.otf></home/edlab/texmf/tex/fonts/Formular-bo
 ld-mi.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lc
-irclew.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
-am10.pfb>
-Output written on LIVRO.pdf (9 pages, 63359 bytes).
+irclew.pfb>
+Output written on LIVRO.pdf (9 pages, 78477 bytes).
 
-PDF statistics: 75 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 112 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 131072)
+ 24 words of extra memory for PDF output out of 10000 (max. 100000000)
 
