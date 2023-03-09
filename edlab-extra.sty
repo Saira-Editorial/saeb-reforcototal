@@ -97,14 +97,18 @@
 \setlist[escolha]{label=\textcolor{azul}{\bfseries\alph*.}}
 
 % Parágrafo lateral
-%\newcommand{\sidetext}[1]{%
-%  \begin{tikzpicture}[remember picture,overlay]
-%    \node [anchor=north east, text width=6cm, align=justify, align=right, font=\small] 
-%          at (current page text area.north east) 
-%          {\begin{minipage}[t]{\linewidth}\vspace{1cm}\raggedleft\textcolor{rosa}{#1}\end{minipage}};
+\newcommand{\sidetext}[1]{%
+\marginpar{%
+\strut\raggedleft%
+\begin{minipage}{\marginparwidth}%
+\raggedleft%
+\color{rosa} #1%
+\end{minipage}%
+\vspace*{-\ht\strutbox}% move o sidetext para cima
+}%
+}
 
-%  \end{tikzpicture}%
-%}
+
 
 % Linhas de respostas
 \newcommand{\linhas}{%
