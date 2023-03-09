@@ -78,6 +78,12 @@
 }%
 }
 
+%\EveryShipout{%
+%  \ifthenelse{\isodd{\value{page}}}%
+%    {\global\marginparsep=-40em}% Next page is even
+%    {\global\marginparsep=-14em}% Next page is odd
+%}
+
 
 
 
