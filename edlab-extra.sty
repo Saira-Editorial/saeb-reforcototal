@@ -64,58 +64,61 @@
 \markright{#1}}
 
 % Definindo as cores CMYK
-\definecolor{prof}{cmyk}{0,1,0,0}
-\newcommand{\prof}[1]{\textcolor{prof}{#1}}
+\definecolor{rosa}{cmyk}{0,1,0,0}
+\newcommand{\rosa}[1]{\textcolor{rosa}{#1}}
 
-\definecolor{aluno}{cmyk}{1,0.85,0.27,0.1}
-\newcommand{\aluno}[1]{\textcolor{aluno}{#1}}
+\definecolor{azul}{cmyk}{1,0.85,0.27,0.1}
+\newcommand{\azul}[1]{\textcolor{azul}{#1}}
 
-\definecolor{exercicio}{cmyk}{0,0.6,0.45,0}
-\newcommand{\exercicio}[1]{\textcolor{exercicio}{#1}}
+\definecolor{salmao}{cmyk}{0,0.6,0.45,0}
+\newcommand{\salmao}[1]{\textcolor{salmao}{#1}}
 
 
 % Comentário do professor
-
-\newcommand{\profcom}[1]{
-  \begin{minipage}[t]{\linewidth}%
-\raggedleft\color{prof}\small #1
-  \end{minipage}%
+\newcommand{\coment}[1]{
+  \medskip\begin{minipage}[t]{\linewidth}%
+\raggedleft\color{rosa}\small #1
+  \end{minipage}\medskip%
 }
 
 
 % Section na cor especificada
 \newcommand{\colorsec}[1]{%
-    \section{\textcolor{aluno}{#1}}%
+    \section{\textcolor{azul}{#1}}%
 }
 
 
 % Lista com caixas de seleção
 \newlist{boxlist}{itemize}{1}
-\setlist[boxlist]{label=\textcolor{exercicio}{[}\mbox{ }\mbox{ }\textcolor{exercicio}{]},font=\bfseries}
+\setlist[boxlist]{label=\textcolor{salmao}{[}\mbox{ }\mbox{ }\textcolor{salmao}{]},font=\bfseries}
+
+% Lista de múltipla escolha
+\newlist{escolha}{enumerate}{1}
+\setlist[escolha]{label=\textcolor{azul}{\bfseries\alph*.}}
 
 % Parágrafo lateral
 %\newcommand{\sidetext}[1]{%
 %  \begin{tikzpicture}[remember picture,overlay]
 %    \node [anchor=north east, text width=6cm, align=justify, align=right, font=\small] 
 %          at (current page text area.north east) 
-%          {\begin{minipage}[t]{\linewidth}\vspace{1cm}\raggedleft\textcolor{prof}{#1}\end{minipage}};
+%          {\begin{minipage}[t]{\linewidth}\vspace{1cm}\raggedleft\textcolor{rosa}{#1}\end{minipage}};
 
 %  \end{tikzpicture}%
 %}
 
 % Linhas de respostas
-\newcommand{\mylines}{%
+\newcommand{\linhas}{%
       \vspace{.5cm}
-      \noindent\makebox[\linewidth]{\textcolor{exercicio}{\rule{\textwidth}{1pt}}}\vspace{.3cm}
+      \noindent\makebox[\linewidth]{\textcolor{salmao}{\rule{\textwidth}{1pt}}}\vspace{.3cm}
 
-      \noindent\makebox[\linewidth]{\textcolor{exercicio}{\rule{\textwidth}{1pt}}}\vspace{.3cm}
+      \noindent\makebox[\linewidth]{\textcolor{salmao}{\rule{\textwidth}{1pt}}}\vspace{.3cm}
 
-      \noindent\makebox[\linewidth]{\textcolor{exercicio}{\rule{\textwidth}{1pt}}}\vspace{.5cm}
+      \noindent\makebox[\linewidth]{\textcolor{salmao}{\rule{\textwidth}{1pt}}}\vspace{.5cm}
   }
 
 
 % Numeração dos exercícios
-\newcommand{\num}[1]{\begin{adjustbox}{valign=B}\begin{hangparas}{0in}{1}\hspace*{-0.5cm}\LARGE\textcolor{aluno}{#1}\normalsize\hspace{0.2em}\end{hangparas}\end{adjustbox}}
+\newcommand{\num}[1]{\begin{adjustbox}{valign=B}\begin{hangparas}{0in}{1}\hspace*{-0.5cm}\LARGE\textcolor{azul}{#1}\normalsize\hspace{0.2em}\end{hangparas}\end{adjustbox}}
 
 
 

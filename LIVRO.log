@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  9 MAR 2023 12:23
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  9 MAR 2023 16:39
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.098 seconds
+luaotfload | main : initialization completed in 0.101 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1039,17 +1039,19 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 )
 (./edlab-penalties.sty) (./edlab-git.sty) (./edlab-toc.sty) (./edlab-extra.sty
 \enitdp@boxlist=\count321
+\c@escolhai=\count322
+\enitdp@escolha=\count323
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
-\c@tracingmulticols=\count322
+\c@tracingmulticols=\count324
 \mult@box=\box52
 \multicol@leftmargin=\dimen273
-\c@unbalance=\count323
-\c@collectmore=\count324
-\doublecol@number=\count325
-\multicoltolerance=\count326
-\multicolpretolerance=\count327
+\c@unbalance=\count325
+\c@collectmore=\count326
+\doublecol@number=\count327
+\multicoltolerance=\count328
+\multicolpretolerance=\count329
 \full@width=\dimen274
 \page@free=\dimen275
 \premulticols=\dimen276
@@ -1080,14 +1082,14 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box73
 \@tempa=\box74
 \@tempa=\box75
-\c@columnbadness=\count328
-\c@finalcolumnbadness=\count329
+\c@columnbadness=\count330
+\c@finalcolumnbadness=\count331
 \last@try=\dimen279
 \multicolovershoot=\dimen280
 \multicolundershoot=\dimen281
 \mult@nat@firstbox=\box76
 \colbreak@box=\box77
-\mc@col@check@num=\count330
+\mc@col@check@num=\count332
 ))
 (./edlab-margins.sty
 
@@ -1121,7 +1123,7 @@ LaTeX Info: Redefining \MakeTextLowercase on input line 50.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count331
+\etb@tempcnta=\count333
 ))
 (./edlab-footnotes.sty
 (/usr/share/texlive/texmf-dist/tex/latex/ncctools/manyfoot.sty
@@ -1137,7 +1139,7 @@ Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks29
 \footnotemargin=\dimen283
-\c@pp@next@reset=\count332
+\c@pp@next@reset=\count334
 
 
 LaTeX Warning: Command \@footnotemark  has changed.
@@ -1152,7 +1154,7 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
 
 )) (/usr/share/texlive/texmf-dist/tex/latex/xwatermark/xwatermark.sty
 (/usr/share/texlive/texmf-dist/tex/latex/catoptions/catoptions.sty
-\m@one=\count333
+\m@one=\count335
 \z@pt=\dimen284
 Package: catoptions 2014/08/29 v0.2.7h Securing catcodes and parsing options (AM
 )
@@ -1172,12 +1174,12 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 \pdftexcmds@toks=\toks30
 )
-\cpt@csvdepth=\count334
-\cpt@optdepth=\count335
-\cpt@cnta=\count336
-\indrisdepth=\count337
-\cpt@foreachdepth=\count338
-\cpt@exprcnt=\count339
+\cpt@csvdepth=\count336
+\cpt@optdepth=\count337
+\cpt@cnta=\count338
+\indrisdepth=\count339
+\cpt@foreachdepth=\count340
+\cpt@exprcnt=\count341
 )
 Package: xwatermark 2012/10/23 v1.5.2d A dynamic watermarking scheme (Ahmed Musa
 )
@@ -1214,8 +1216,8 @@ Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ltxkeys/ltxkeys.sty
 Package: ltxkeys 2012/11/17 v0.0.3c A robust key-value parser (AM) (Ahmed Musa)
-\ltxkeys@csvdepth=\count340
-\ltxkeys@keydepth=\count341
+\ltxkeys@csvdepth=\count342
+\ltxkeys@keydepth=\count343
 )
 (/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
@@ -1226,7 +1228,7 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \AtBeginShipoutBox=\box78
 \xwm@boxa=\box79
 \xwm@boxb=\box80
-\xwm@cnta=\count342
+\xwm@cnta=\count344
 \xwm@wrt=\write5
  (./LIVRO.xwm)
 \openout5 = LIVRO.xwm
@@ -1239,15 +1241,15 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count343
-\calc@Bcount=\count344
+\calc@Acount=\count345
+\calc@Bcount=\count346
 \calc@Adimen=\dimen287
 \calc@Bdimen=\dimen288
 \calc@Askip=\skip269
 \calc@Bskip=\skip270
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count345
+\calc@Ccount=\count347
 \calc@Cskip=\skip271
 )
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
@@ -1262,13 +1264,13 @@ File: ppluatex.def 2017/10/31 v0.5l Pdfpages driver for LuaTeX (AM)
 \AM@pagebox=\box81
 \AM@global@opts=\toks31
 \AM@toc@title=\toks32
-\c@AM@survey=\count346
+\c@AM@survey=\count348
 \AM@templatesizebox=\box82
 )
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen291
 \WF@size=\dimen292
-\c@WF@wrappedlines=\count347
+\c@WF@wrappedlines=\count349
 \WF@box=\box83
 \WF@everypar=\toks33
 Package: wrapfig 2003/01/31  v 3.6
@@ -1319,10 +1321,10 @@ ex
 \pgf@yc=\dimen302
 \w@pgf@writea=\write6
 \r@pgf@reada=\read3
-\c@pgf@counta=\count348
-\c@pgf@countb=\count349
-\c@pgf@countc=\count350
-\c@pgf@countd=\count351
+\c@pgf@counta=\count350
+\c@pgf@countb=\count351
+\c@pgf@countc=\count352
+\c@pgf@countd=\count353
 \t@pgf@toka=\toks38
 \t@pgf@tokb=\toks39
 \t@pgf@tokc=\toks40
@@ -1341,8 +1343,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count352
-\pgfsyssoftpath@bigbuffer@items=\count353
+\pgfsyssoftpath@smallbuffer@items=\count354
+\pgfsyssoftpath@bigbuffer@items=\count355
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
@@ -1356,7 +1358,7 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen303
-\pgfmath@count=\count354
+\pgfmath@count=\count356
 \pgfmath@box=\box85
 \pgfmath@toks=\toks41
 \pgfmath@stack@operand=\toks42
@@ -1380,7 +1382,7 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count355
+\c@pgfmathroundto@lastzeros=\count357
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
 x
@@ -1418,7 +1420,7 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box86
 \pgf@hbox=\box87
 \pgf@layerbox@main=\box88
-\pgf@picture@serial@count=\count356
+\pgf@picture@serial@count=\count358
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
@@ -1451,7 +1453,7 @@ File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen327
-\pgf@sys@shading@range@num=\count357
+\pgf@sys@shading@range@num=\count359
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
@@ -1508,7 +1510,7 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count358
+\pgf@plot@mark@count=\count360
 \pgfplotmarksize=\dimen332
 )
 \tikz@lastx=\dimen333
@@ -1521,18 +1523,18 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@figbox@bg=\box92
 \tikz@tempbox=\box93
 \tikz@tempbox@bg=\box94
-\tikztreelevel=\count359
-\tikznumberofchildren=\count360
-\tikznumberofcurrentchild=\count361
-\tikz@fig@count=\count362
+\tikztreelevel=\count361
+\tikznumberofchildren=\count362
+\tikznumberofcurrentchild=\count363
+\tikz@fig@count=\count364
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count363
-\pgfmatrixcurrentcolumn=\count364
-\pgf@matrix@numberofcolumns=\count365
+\pgfmatrixcurrentrow=\count365
+\pgfmatrixcurrentcolumn=\count366
+\pgf@matrix@numberofcolumns=\count367
 )
-\tikz@expandcount=\count366
+\tikz@expandcount=\count368
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -1540,7 +1542,7 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count367
+\c@checkoddpage=\count369
 LaTeX Info: Redefining \checkoddpage on input line 45.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
@@ -1584,11 +1586,11 @@ Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
 Package zref Info: New property: page on input line 761.
 )
-\c@abspage=\count368
+\c@abspage=\count370
 Package zref Info: New property: abspage on input line 62.
 )
 \mdf@templength=\skip272
-\c@mdf@globalstyle@cnt=\count369
+\c@mdf@globalstyle@cnt=\count371
 \mdf@skipabove@length=\skip273
 \mdf@skipbelow@length=\skip274
 \mdf@leftmargin@length=\skip275
@@ -1664,7 +1666,7 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \mdf@horizontalspaceofbox=\skip336
 \mdfsubtitleheight=\skip337
 \mdfsubsubtitleheight=\skip338
-\c@mdfcountframes=\count370
+\c@mdfcountframes=\count372
 
 ****** mdframed patching \endmdf@trivlist
 
@@ -1680,10 +1682,10 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 . 
 . Defining command \mdtheorem with sig. ' O{} m o m o ' on line 701.
 .................................................
-\mdf@envdepth=\count371
-\c@mdf@env@i=\count372
-\c@mdf@env@ii=\count373
-\c@mdf@zref@counter=\count374
+\mdf@envdepth=\count373
+\c@mdf@env@i=\count374
+\c@mdf@env@ii=\count375
+\c@mdf@zref@counter=\count376
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
@@ -1697,7 +1699,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks47
 \XKV@tempa@toks=\toks48
 )
-\XKV@depth=\count375
+\XKV@depth=\count377
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
@@ -1730,14 +1732,14 @@ Package trimclip Info: No clipping driver 'tc-luatex.def' available.
 (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box102
-\sift@deathcycles=\count376
+\sift@deathcycles=\count378
 \@vwid@loff=\dimen353
 \@vwid@roff=\dimen354
 ))
 luaotfload | cache : Lookup cache loaded from /home/edlab/.texlive2017/texmf-var
 /luatex-cache/generic/names/luaotfload-lookup-cache.luc.(load luc: /home/edlab/.
 texlive2017/texmf-var/luatex-cache/generic/fonts/otl/formular-regular-mi.luc)
-\g__fontspec_family_Formular_int=\count377
+\g__fontspec_family_Formular_int=\count379
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/for
 mular-bolditalic.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/
 generic/fonts/otl/formular-bold-mi.luc)(load luc: /home/edlab/.texlive2017/texmf
@@ -1776,7 +1778,7 @@ luaotfload | aux : no font with id 33
 .................................................
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/for
 mular-light.luc)
-\g__fontspec_family_FormularLight_int=\count378
+\g__fontspec_family_FormularLight_int=\count380
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1809,7 +1811,7 @@ luaotfload | aux : no font with id 36
 .................................................
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/fs-
 brabo-pro-regular.luc)
-\g__fontspec_family_FSBraboProRegular_int=\count379
+\g__fontspec_family_FSBraboProRegular_int=\count381
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1840,7 +1842,7 @@ brabo-pro-regular.luc)
 .................................................
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/min
 ionpro-regular.luc)
-\g__fontspec_family_MinionPro_int=\count380
+\g__fontspec_family_MinionPro_int=\count382
 (load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/min
 ionpro-boldit.luc)(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/gen
 eric/fonts/otl/minion-pro-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var
@@ -1915,13 +1917,13 @@ Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
 \@linkdim=\dimen355
-\Hy@linkcounter=\count381
-\Hy@pagecounter=\count382
+\Hy@linkcounter=\count383
+\Hy@pagecounter=\count384
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count383
+\Hy@SavedSpaceFactor=\count385
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -1933,10 +1935,10 @@ Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count384
+\c@Hy@tempcnt=\count386
 LaTeX Info: Redefining \url on input line 5115.
 \XeTeXLinkMargin=\dimen356
-\Fld@menulength=\count385
+\Fld@menulength=\count387
 \Field@Width=\dimen357
 \Fld@charsize=\dimen358
 Package hyperref Info: Hyper figures OFF on input line 6369.
@@ -1948,23 +1950,23 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count386
-\c@Item=\count387
-\c@Hfootnote=\count388
+\Hy@abspage=\count388
+\c@Item=\count389
+\c@Hfootnote=\count390
 )
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty
 Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cla
 ss
-\c@memhycontfloat=\count389
-\c@Hpagenote=\count390
+\c@memhycontfloat=\count391
+\c@Hpagenote=\count392
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
 File: hluatex.def 2018/02/06 v6.86b Hyperref driver for luaTeX
-\HyAnn@Count=\count391
-\Fld@listcount=\count392
-\c@bookmark@seq@number=\count393
+\HyAnn@Count=\count393
+\Fld@listcount=\count394
+\c@bookmark@seq@number=\count395
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
@@ -1980,24 +1982,24 @@ LaTeX Warning: Unused global option(s):
 (./LIVRO.aux (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -2005,73 +2007,75 @@ LaTeX Font Info:    ... okay on input line 90.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 90.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 90.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 90.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 90.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 90.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 90.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 90.
-LaTeX Font Info:    Redeclaring math accent \check on input line 90.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 90.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 90.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 90.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 90.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 106.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 106.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 106.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 106.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 106.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 106.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 106.
+LaTeX Font Info:    Redeclaring math accent \check on input line 106.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 106.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 106.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 106.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 106.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 90.
+(Font)              `operators' in the math version `normal' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 90.
+(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 106.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 90.
+(Font)              `operators' in the math version `bold' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 90.
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 106.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/m/n on input lin
-e 90.
+e 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 90.
+(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 106.
+
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/bx/n on input line 90.
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/bx/n on input line 106.
+
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 90.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 90.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 106.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/bx/n on input li
-ne 90.
+ne 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/MinionPro(0)/bx/it on input line 90
-.
+(Font)                  OT1/cmr/bx/it --> TU/MinionPro(0)/bx/it on input line 10
+6.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 90.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 90.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 106.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count394
+\scratchcounter=\count396
 \scratchdimen=\dimen359
 \scratchbox=\box103
-\nofMPsegments=\count395
-\nofMParguments=\count396
+\nofMPsegments=\count397
+\nofMParguments=\count398
 \everyMPshowfont=\toks49
-\MPscratchCnt=\count397
+\MPscratchCnt=\count399
 \MPscratchDim=\dimen360
-\MPnumerator=\count398
-\makeMPintoPDFobject=\count399
+\MPnumerator=\count400
+\makeMPintoPDFobject=\count401
 \everyMPtoPDFconversion=\toks50
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -2090,7 +2094,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
-LaTeX Info: Redefining \microtypecontext on input line 90.
+LaTeX Info: Redefining \microtypecontext on input line 106.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -2118,7 +2122,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 ABD: EveryShipout initializing macros
-Package hyperref Info: Link coloring OFF on input line 90.
+Package hyperref Info: Link coloring OFF on input line 106.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -2126,14 +2130,14 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count400
+\c@section@level=\count402
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 90.
-LaTeX Info: Redefining \ref on input line 90.
-LaTeX Info: Redefining \pageref on input line 90.
-LaTeX Info: Redefining \nameref on input line 90.
+LaTeX Info: Redefining \nameref on input line 106.
+LaTeX Info: Redefining \ref on input line 106.
+LaTeX Info: Redefining \pageref on input line 106.
+LaTeX Info: Redefining \nameref on input line 106.
 (./LIVRO.out) (./LIVRO.out)
 \@outlinefile=\write7
 
@@ -2217,235 +2221,119 @@ Package babel Info: Redefining portuges shorthand "|
  [3] (./TEXTO.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
-Package mdframed Info: mdframed works in twoside mode on input line 15.
-LaTeX Font Info:    Try loading font information for TU+bch on input line 21.
-LaTeX Font Info:    No file TUbch.fd. on input line 21.
+Package mdframed Info: mdframed works in twoside mode on input line 13.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 19.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 19.
+ [4
 
 
-LaTeX Font Warning: Font shape `TU/bch/b/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 21.
-
-(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmr
-oman17-regular.luc)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
-File: mt-LatinModernRoman.cfg 2013/03/13 v1.0 microtype config. file: Latin Mode
-rn Roman (RS)
-)
-warning  (file ./bg.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7'
-, but at most version '1.5' allowed
-<./bg.pdf, id=35, 597.50829pt x 796.67737pt>
-File: ./bg.pdf Graphic file (type pdf)
-<use ./bg.pdf>
-Package luatex.def Info: ./bg.pdf  used on input line 21.
-(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
-
-Overfull \hbox (22.76125pt too wide) has occurred while \output is active
- | [] 
+]
+Overfull \hbox (12.11998pt too wide) in paragraph at lines 80--81
+[][] 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 21.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 21.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 21.
-[4
 
-
-<./bg.pdf>]
-Overfull \hbox (47.75697pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/9 |
- []
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-bch.cfg
-File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `bch' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-warning  (file ./bg2.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7
-', but at most version '1.5' allowed
-<./bg2.pdf, id=49, 597.50829pt x 796.67737pt>
-File: ./bg2.pdf Graphic file (type pdf)
-<use ./bg2.pdf>
-Package luatex.def Info: ./bg2.pdf  used on input line 96.
-(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
-
-Overfull \hbox (22.76125pt too wide) has occurred while \output is active
- | [] 
+Overfull \hbox (43.47046pt too wide) has occurred while \output is active
+ []|| []|
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 96.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 96.
-[5<./bg2.pdf>]
-File: ./bg.pdf Graphic file (type pdf)
-<use ./bg.pdf>
-Package luatex.def Info: ./bg.pdf  used on input line 149.
-(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
-
-Overfull \hbox (22.76125pt too wide) has occurred while \output is active
- | [] 
- []
-
+(babel)             in language  on input line 94.
+[5]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 149.
+(babel)             in language  on input line 146.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 149.
-[6]
-<./cat.jpeg, id=77, 217.81375pt x 232.87pt>
+(babel)             in language  on input line 146.
+ [6]
+<./cat.jpeg, id=64, 217.81375pt x 232.87pt>
 File: ./cat.jpeg Graphic file (type jpg)
 <use ./cat.jpeg>
-Package luatex.def Info: ./cat.jpeg  used on input line 156.
+Package luatex.def Info: ./cat.jpeg  used on input line 155.
 (luatex.def)             Requested size: 213.0pt x 227.72423pt.
 
 warning  (file ./simulado.pdf) (pdf inclusion): PDF inclusion: found PDF version
  '1.7', but at most version '1.5' allowed
-<./simulado.pdf, id=78, 597.50829pt x 796.67737pt>
+<./simulado.pdf, id=65, 597.50829pt x 796.67737pt>
 File: ./simulado.pdf Graphic file (type pdf)
 <use ./simulado.pdf>
-Package luatex.def Info: ./simulado.pdf  used on input line 173.
+Package luatex.def Info: ./simulado.pdf  used on input line 172.
 (luatex.def)             Requested size: 597.50682pt x 796.67543pt.
 
-Overfull \hbox (71.92218pt too wide) in paragraph at lines 173--174
+Overfull \hbox (71.92218pt too wide) in paragraph at lines 172--173
 []| [] 
  []
 
 
-LaTeX Warning: Float too large for page by 77.31717pt on input line 174.
+LaTeX Warning: Float too large for page by 77.31717pt on input line 173.
 
 
-Overfull \hbox (47.75697pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/9 |
- []
-
-File: ./bg2.pdf Graphic file (type pdf)
-<use ./bg2.pdf>
-Package luatex.def Info: ./bg2.pdf  used on input line 177.
-(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
-
-Overfull \hbox (22.76125pt too wide) has occurred while \output is active
- | [] 
+Overfull \hbox (43.47046pt too wide) has occurred while \output is active
+ []|| []|
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 176.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 176.
 [7<./cat.jpeg>]
-File: ./bg.pdf Graphic file (type pdf)
-<use ./bg.pdf>
-Package luatex.def Info: ./bg.pdf  used on input line 177.
-(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
-
-Overfull \hbox (22.76125pt too wide) has occurred while \output is active
- | [] 
- []
-
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 177.
+(babel)             in language  on input line 176.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 177.
-[8<./simulado.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 179--181
+(babel)             in language  on input line 176.
+ [8<./simulado.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 178--180
 
  []
 
 
-Overfull \hbox (47.75697pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/9 |
+Overfull \hbox (12.11998pt too wide) in paragraph at lines 234--235
+[][] 
  []
 
 
-warning  (file ./bgs2.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.
-7', but at most version '1.5' allowed
-<./bgs2.pdf, id=98, 597.50829pt x 796.67737pt>
-File: ./bgs2.pdf Graphic file (type pdf)
-<use ./bgs2.pdf>
-Package luatex.def Info: ./bgs2.pdf  used on input line 249.
-(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
-
-Overfull \hbox (22.76125pt too wide) has occurred while \output is active
- | [] 
+Overfull \hbox (43.47046pt too wide) has occurred while \output is active
+ []|| []|
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 249.
+(babel)             in language  on input line 248.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 249.
-[9<./bgs2.pdf>]
-warning  (file ./bgs.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7
-', but at most version '1.5' allowed
-<./bgs.pdf, id=113, 597.50829pt x 796.67737pt>
-File: ./bgs.pdf Graphic file (type pdf)
-<use ./bgs.pdf>
-Package luatex.def Info: ./bgs.pdf  used on input line 301.
-(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
-
-Overfull \hbox (22.76125pt too wide) has occurred while \output is active
- | [] 
+(babel)             in language  on input line 248.
+[9]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 299.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 299.
+ [10]
+Overfull \hbox (43.47046pt too wide) has occurred while \output is active
+ []|| []|
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 301.
+(babel)             in language  on input line 306.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 301.
-[10<./bgs.pdf>]
-Overfull \hbox (52.04349pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/9 |
- []
-
-File: ./bgs2.pdf Graphic file (type pdf)
-<use ./bgs2.pdf>
-Package luatex.def Info: ./bgs2.pdf  used on input line 307.
-(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
-
-Overfull \hbox (22.76125pt too wide) has occurred while \output is active
- | [] 
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 307.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 307.
+(babel)             in language  on input line 306.
 [11]
-File: ./bgs.pdf Graphic file (type pdf)
-<use ./bgs.pdf>
-Package luatex.def Info: ./bgs.pdf  used on input line 307.
-(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
-
-Overfull \hbox (22.76125pt too wide) has occurred while \output is active
- | [] 
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 306.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 306.
+ [12]))
+Overfull \hbox (43.47046pt too wide) has occurred while \output is active
+ []|| []|
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 307.
+(babel)             in language  on input line 110.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 307.
-[12]))
-Overfull \hbox (52.04349pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/9 |
- []
-
-File: ./bgs2.pdf Graphic file (type pdf)
-<use ./bgs2.pdf>
-Package luatex.def Info: ./bgs2.pdf  used on input line 94.
-(luatex.def)             Requested size: 597.50682pt x 796.67543pt.
-
-Overfull \hbox (22.76125pt too wide) has occurred while \output is active
- | [] 
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 94.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 94.
+(babel)             in language  on input line 110.
 [13]
 
-Class memoir Warning: \marginparsep is zero or negative on input line 98.
+Class memoir Warning: \marginparsep is zero or negative on input line 114.
 
 
 ******************************************************
@@ -2470,39 +2358,35 @@ Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 \tf@toc=\write8
 
 \openout8 = LIVRO.toc
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 98.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 114.
 (./LIVRO.xwm) (./LIVRO.aux (./INPUTS.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 114.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 114.
 Package rerunfilecheck Info: File `LIVRO.out' has not changed.
 (rerunfilecheck)             Checksum: 386D474825BD73889C58B9E80595CD9F;54.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
 )
 
 Here is how much of LuaTeX's memory you used:
- 40463 strings out of 494480
+ 40244 strings out of 494480
  100000,1144653 words of node,token memory allocated
- 3494 words of node memory still in use:
-   10 hlist, 3 vlist, 1 rule, 24 disc, 1 local_par, 41 glue, 83 kern, 4 penalty,
- 3 margin_kern, 176 glyph, 12 attribute, 234 glue_spec, 12 attribute_list, 3 sha
-pe, 3 write, 2 pdf_colorstack nodes
-   avail lists: 1:4,2:1552,3:915,4:196,5:2748,6:5508,7:1103,8:67,9:383,10:17,11:
-710
- 42924 multiletter control sequences out of 65536+600000
- 75 fonts using 13849863 bytes
- 92i,18n,83p,1330b,1118s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 5598 words of node memory still in use:
+   15 hlist, 5 vlist, 1 rule, 48 disc, 2 local_par, 77 glue, 166 kern, 8 penalty
+, 6 margin_kern, 352 glyph, 16 attribute, 234 glue_spec, 16 attribute_list, 3 sh
+ape, 3 write, 4 pdf_colorstack nodes
+   avail lists: 1:4,2:1593,3:924,4:204,5:2715,6:5498,7:1085,8:65,9:369,10:23,11:
+704
+ 42794 multiletter control sequences out of 65536+600000
+ 68 fonts using 13342143 bytes
+ 72i,18n,83p,1330b,953s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/edlab/texmf/tex/fonts/Formular-bold-mi.otf></home/edlab/texmf/tex/fonts/M
 inionPro-It.ttf></home/edlab/texmf/tex/fonts/MinionPro-Regular.ttf></home/edlab/
 texmf/tex/fonts/Minion Pro Bold.ttf></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (13 pages, 157722 bytes).
+Output written on LIVRO.pdf (13 pages, 135850 bytes).
 
-PDF statistics: 183 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
+PDF statistics: 162 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
  56 named destinations out of 1000 (max. 131072)
  24 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -60,7 +60,7 @@
 \marginparsep=-14em		% Entre mancha e nota lateral 
 \marginparwidth=14em		% Tamanho da caixa de texto da nota laterial
 
-\newcommand{\rmarginnote}[1]{\marginpar{\small\raggedleft\textcolor{prof}{#1}}}
+\newcommand{\rmarginnote}[1]{\marginpar{\small\raggedleft\textcolor{rosa}{#1}}}
 
 
 % Fontes
@@ -73,14 +73,30 @@
 % Estilos
 \makeoddhead{baruch}{}{\scshape\MakeLowercase{}}{}
 \makeevenhead{baruch}{}{\scshape\MakeLowercase{}}{}
-\makeevenfoot{baruch}{\hspace*{-1.5cm}\small\thepage}{}{}
-\makeoddfoot{baruch}{}{}{\hspace*{16.5cm}\small\thepage}
+
+\makeevenfoot{baruch}{\hspace*{-1.5cm}\small\begin{tikzpicture}[overlay]
+\draw[fill=salmao,draw=none] (-11mm,-4.5mm) rectangle (4mm,4.5mm);
+\node[black] at (0,0) {\thepage};
+\end{tikzpicture}}{}{}
+
+\makeoddfoot{baruch}{}{}{\hspace*{16.5cm}\small\begin{tikzpicture}[overlay]
+\draw[fill=salmao,draw=none] (-4mm,-4.5mm) rectangle (11mm,4.5mm);
+\node[black] at (0,0) {\thepage};
+\end{tikzpicture}}
+
 \pagestyle{baruch}		
 \headstyles{baruch}
 
 \makepagestyle{chapter}
-\makeevenfoot{chapter}{\hspace*{-1.5cm}\small\thepage}{}{}
-\makeoddfoot{chapter}{}{}{\hspace*{16.5cm}\small\thepage}
+\makeevenfoot{chapter}{\hspace*{-1.5cm}\small\begin{tikzpicture}[overlay]
+\draw[fill=salmao,draw=none] (-11mm,-4.5mm) rectangle (4mm,4.5mm);
+\node[black] at (0,0) {\thepage};
+\end{tikzpicture}}{}{}
+
+\makeoddfoot{chapter}{}{}{\hspace*{16.5cm}\small\begin{tikzpicture}[overlay]
+\draw[fill=salmao,draw=none] (-4mm,-4.5mm) rectangle (11mm,4.5mm);
+\node[black] at (0,0) {\thepage};
+\end{tikzpicture}}
 
 \usetikzlibrary{calc}
 
