@@ -65,52 +65,73 @@
 
 % Definindo as cores CMYK
 \definecolor{prof}{cmyk}{0,1,0,0}
-\newcommand{\prof}[1]{
-  \begin{minipage}[t]{\linewidth}%
-\raggedleft\color{prof}\small #1
-  \end{minipage}%
-}
+\newcommand{\prof}[1]{\textcolor{prof}{#1}}
 
 \definecolor{aluno}{cmyk}{1,0.85,0.27,0.1}
 \newcommand{\aluno}[1]{\textcolor{aluno}{#1}}
-\newcommand{\colorsec}[1]{%
-    \section{\textcolor{aluno}{#1}}%
-}
-
 
 \definecolor{exercicio}{cmyk}{0,0.6,0.45,0}
 \newcommand{\exercicio}[1]{\textcolor{exercicio}{#1}}
 
 
+% Comentário do professor
 
-\usepackage{amssymb}
-\usepackage{paralist}
-\usepackage{wrapfig}
-\usepackage{tikzpagenodes}
+\newcommand{\profcom}[1]{
+  \begin{minipage}[t]{\linewidth}%
+\raggedleft\color{prof}\small #1
+  \end{minipage}%
+}
 
-% Definir novo ambiente para lista com caixas de seleção
-\newlist{boxlist}{enumerate}{1}
+
+% Section na cor especificada
+\newcommand{\colorsec}[1]{%
+    \section{\textcolor{aluno}{#1}}%
+}
+
+
+% Lista com caixas de seleção
+\newlist{boxlist}{itemize}{1}
 \setlist[boxlist]{label=\textcolor{exercicio}{[}\mbox{ }\mbox{ }\textcolor{exercicio}{]},font=\bfseries}
 
-% Definir novo ambiente para parágrafo lateral
-\newcommand{\sidetext}[1]{%
-  \begin{tikzpicture}[remember picture,overlay]
-    \node [anchor=north east, text width=3cm, align=justify, align=right, font=\small] 
-          at (current page text area.north east) 
-          {\parbox[t]{\textwidth}{\textcolor{prof}{#1}}};
+% Parágrafo lateral
+%\newcommand{\sidetext}[1]{%
+%  \begin{tikzpicture}[remember picture,overlay]
+%    \node [anchor=north east, text width=6cm, align=justify, align=right, font=\small] 
+%          at (current page text area.north east) 
+%          {\begin{minipage}[t]{\linewidth}\vspace{1cm}\raggedleft\textcolor{prof}{#1}\end{minipage}};
 
+%  \end{tikzpicture}%
+%}
+
+% Linhas de respostas
+\newcommand{\mylines}{%
+      \vspace{.5cm}
+      \noindent\makebox[\linewidth]{\textcolor{exercicio}{\rule{\textwidth}{1pt}}}\vspace{.3cm}
+
+      \noindent\makebox[\linewidth]{\textcolor{exercicio}{\rule{\textwidth}{1pt}}}\vspace{.3cm}
+
+      \noindent\makebox[\linewidth]{\textcolor{exercicio}{\rule{\textwidth}{1pt}}}\vspace{.5cm}
+  }
+
+
+% Numeração dos exercícios
+\newcommand{\num}[1]{\begin{adjustbox}{valign=B}\begin{hangparas}{0in}{1}\hspace*{-0.5cm}\LARGE\textcolor{aluno}{#1}\normalsize\hspace{0.2em}\end{hangparas}\end{adjustbox}}
+
+
+
+% Balões com opções
+\usepackage{multicol}
+
+\newcommand{\blue}[1]{%
+  \begin{tikzpicture}[baseline=(box.base)]
+    \node[rectangle, draw=blue, rounded corners, inner sep=2pt, minimum width=1cm, minimum height=1cm, line width=1pt, opacity=0.5] (box) {#1};
+  \end{tikzpicture}%
+}
+
+\newcommand{\red}[1]{%
+  \begin{tikzpicture}[baseline=(box.base)]
+    \node[rectangle, draw=red, rounded corners, inner sep=2pt, minimum width=1cm, minimum height=1cm, line width=1pt, opacity=0.5] (box) {#1};
   \end{tikzpicture}%
 }
 
 
-% Comando para fazer as linhas de respostas
-\newcommand{\mylines}{%
-  \par\noindent\makebox[\linewidth]{%
-    \begin{tikzpicture}
-      \colorlet{mycolor}{exercicio}
-      \draw[thick, color=mycolor] (0,0) -- (\linewidth,0);
-      \draw[thick, color=mycolor, yshift=-1cm] (0,0) -- (\linewidth,0);
-      \draw[thick, color=mycolor, yshift=-2cm] (0,0) -- (\linewidth,0);
-    \end{tikzpicture}%
-  }\par%
-}

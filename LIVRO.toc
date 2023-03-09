@@ -1,5 +1,6 @@
 \thispagestyle {empty}
-\contentsline {chapter}{Título do módulo}{5}{chapter*.1}
-\contentsline {section}{\leavevmode {\color {aluno}Habilidades SAEB}}{5}{section*.2}
+\contentsline {chapter}{Título do módulo}{4}{chapter*.1}
+\contentsline {section}{\leavevmode {\color {aluno}Habilidades SAEB}}{4}{section*.2}
 \contentsline {section}{\leavevmode {\color {aluno}Atividades}}{5}{section*.3}
+\contentsline {section}{\leavevmode {\color {aluno}Atividades}}{9}{section*.4}
 \babel@toc {brazilian}{}

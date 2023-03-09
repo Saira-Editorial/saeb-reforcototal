@@ -1,5 +1,6 @@
 \documentclass[showtrims,		% Mostra as marcas de corte em cruz
-			   trimframe,		% Mostra as marcas de corte em linha, para conferência
+			   trimframe,
+			   openany		% Mostra as marcas de corte em linha, para conferência
 			   12pt				% 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt 
 			   ]{memoir}
 \usepackage[brazilian,
@@ -42,14 +43,25 @@
 			% notalinhalonga
 			chicagofootnotes			% para notas com número e ponto cf. man. de Chicago
 			]{edlab-footnotes}
+
+
 \usepackage[printwatermark]{xwatermark}
 \usepackage{pdfpages}
+\usepackage{wrapfig}
+\usepackage{tikzpagenodes}
+\usepackage{textpos}
+\usepackage{mdframed}
+\usepackage{adjustbox}
+
 
 % Medidas (ver: memoir p.11 fig.2.3)
 \parindent=3ex			% Tamanho da indentação
 \parskip=0pt			% Entre parágrafos
-\marginparsep=1em		% Entre mancha e nota lateral 
-\marginparwidth=4em		% Tamanho da caixa de texto da nota laterial
+\marginparsep=-14em		% Entre mancha e nota lateral 
+\marginparwidth=14em		% Tamanho da caixa de texto da nota laterial
+
+\newcommand{\rmarginnote}[1]{\marginpar{\small\raggedleft\textcolor{prof}{#1}}}
+
 
 % Fontes
 \newfontfamily\formular{Formular}
@@ -59,13 +71,18 @@
 
 
 % Estilos
-\makeoddhead{baruch}{}{\scshape\MakeLowercase{\scshape\MakeTextLowercase{\leftmark}}}{}
-\makeevenhead{baruch}{}{\scshape\MakeLowercase{rashômon e outros contos}}{}
+\makeoddhead{baruch}{}{\scshape\MakeLowercase{}}{}
+\makeevenhead{baruch}{}{\scshape\MakeLowercase{}}{}
 \makeevenfoot{baruch}{\hspace*{-1.5cm}\small\thepage}{}{}
 \makeoddfoot{baruch}{}{}{\hspace*{16.5cm}\small\thepage}
 \pagestyle{baruch}		
 \headstyles{baruch}
 
+\makepagestyle{chapter}
+\makeevenfoot{chapter}{\hspace*{-1.5cm}\small\thepage}{}{}
+\makeoddfoot{chapter}{}{}{\hspace*{16.5cm}\small\thepage}
+
+\usetikzlibrary{calc}
 
 % Testes
 
