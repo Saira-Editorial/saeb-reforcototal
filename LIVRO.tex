@@ -99,8 +99,16 @@
 
 
 % Estilos
-\makeoddhead{baruch}{}{\scshape\MakeLowercase{}}{}
-\makeevenhead{baruch}{}{\scshape\MakeLowercase{}}{}
+\makeoddhead{baruch}{}{}{\hspace*{16.5cm}\vspace*{1.3cm}\small\begin{tikzpicture}[overlay]
+\draw[fill=azul,draw=none] (-40mm,-4.5mm) rectangle (11mm,3mm);
+\node[white] at (0,0) {\hspace*{-5cm}\bfseries\leftmark};
+\end{tikzpicture}}
+
+\makeevenhead{baruch}{\vspace*{1.3cm}\hspace*{-1.5cm}\small\begin{tikzpicture}[overlay]
+\draw[fill=azul,draw=none] (-11mm,-4.5mm) rectangle (40mm,3mm);
+\node[white] at (0,0) {\hspace*{2cm}\bfseries \parttitle};
+\end{tikzpicture}}{}{}
+
 
 \makeevenfoot{baruch}{\hspace*{-1.5cm}\small\begin{tikzpicture}[overlay]
 \draw[fill=salmao,draw=none] (-11mm,-4.5mm) rectangle (4mm,4.5mm);
