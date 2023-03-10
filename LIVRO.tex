@@ -62,27 +62,31 @@
 
 \usepackage{ifoddpage}
 
-\newcommand{\rmarginnote}[1]{%
-\marginpar{%
-\ifodd\value{page}
-\raggedleft
-\else
-\makebox[24em][r]{}%
-\begin{flushright}
-\fi
-\small\textcolor{rosa}{#1}%
-\ifodd\value{page}
-\else
-\end{flushright}
-\fi
-}%
+%\newcommand{\rmarginnote}[1]{%
+%\marginpar{%
+%\ifodd\value{page}
+%\raggedleft
+%\else
+%\makebox[24em][r]{}%
+%\begin{flushright}
+%\fi
+%\small\textcolor{rosa}{#1}%
+%\ifodd\value{page}
+%\else
+%\end{flushright}
+%\fi
+%}%
+%}
+
+\EveryShipout{
+  \ifthenelse{\isodd{\value{page}}}
+    {\global\marginparsep=-45em}
+    {\global\marginparsep=-14em}
 }
 
-%\EveryShipout{%
-%  \ifthenelse{\isodd{\value{page}}}%
-%    {\global\marginparsep=-40em}% Next page is even
-%    {\global\marginparsep=-14em}% Next page is odd
-%}
+\renewcommand*{\marginfont}{\color{rosa}\salmao\small}
+\let\oldmarginnote\marginnote
+\renewcommand{\marginnote}[1]{\oldmarginnote{\raggedleft #1}}
 
 
 
