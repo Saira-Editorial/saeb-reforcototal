@@ -80,10 +80,10 @@
 \EveryShipout{
   \ifthenelse{\isodd{\value{page}}}
     {\global\marginparsep=-45em}
-    {\global\marginparsep=-14em}
+    {\global\marginparsep=-16em}
 }
 
-\renewcommand*{\marginfont}{\color{rosa}\salmao\small\cambria}
+\renewcommand*{\marginfont}{\color{rosa}\salmao\cambria\footnotesize}
 \let\oldmarginnote\marginnote
 \renewcommand{\marginnote}[1]{\oldmarginnote{\raggedleft #1}}
 
@@ -101,21 +101,21 @@
 % Estilos
 \makeoddhead{baruch}{}{}{\hspace*{16.5cm}\vspace*{1.3cm}\small\begin{tikzpicture}[overlay]
 \draw[fill=azul,draw=none] (-40mm,-4.5mm) rectangle (11mm,3mm);
-\node[white] at (0,0) {\hspace*{-5cm}\bfseries\leftmark};
+\node[white] at (0,0) {\hspace*{-4cm}\gotham\leftmark};
 \end{tikzpicture}}
 
 \makeevenhead{baruch}{\vspace*{1.3cm}\hspace*{-1.5cm}\small\begin{tikzpicture}[overlay]
 \draw[fill=azul,draw=none] (-11mm,-4.5mm) rectangle (40mm,3mm);
-\node[white] at (0,0) {\hspace*{2cm}\bfseries \parttitle};
+\node[white] at (0,0) {\hspace*{2cm}\gotham \parttitle};
 \end{tikzpicture}}{}{}
 
 
-\makeevenfoot{baruch}{\hspace*{-1.5cm}\small\begin{tikzpicture}[overlay]
+\makeevenfoot{baruch}{\hspace*{-1.5cm}\begin{tikzpicture}[overlay]
 \draw[fill=salmao,draw=none] (-11mm,-4.5mm) rectangle (4mm,4.5mm);
 \node[black] at (0,0) {\thepage};
 \end{tikzpicture}}{}{}
 
-\makeoddfoot{baruch}{}{}{\hspace*{16.5cm}\small\begin{tikzpicture}[overlay]
+\makeoddfoot{baruch}{}{}{\hspace*{16.5cm}\begin{tikzpicture}[overlay]
 \draw[fill=salmao,draw=none] (-4mm,-4.5mm) rectangle (11mm,4.5mm);
 \node[black] at (0,0) {\thepage};
 \end{tikzpicture}}

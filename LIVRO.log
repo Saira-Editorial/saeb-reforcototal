@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  10 MAR 2023 19:09
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  10 MAR 2023 19:33
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.099 seconds
+luaotfload | main : initialization completed in 0.104 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2551,7 +2551,7 @@ Upper and lower margins: 85.35826pt and 69.15034pt
 Headheight and headsep: 51.21495pt and 19.8738pt
 Footskip: 51.21495pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: -168pt and 407.13191pt
+Marginparsep and marginparwidth: -192pt and 455.13191pt
 Sidecapsep and sidecapwidth: 7pt and 102pt
 Sidebarhsep and sidebarwidth: 7pt and 102pt
 Sidebarvsep and sidebartopsep: 14.5pt and 0pt
@@ -2583,22 +2583,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 40492 strings out of 494480
+ 40490 strings out of 494480
  100000,1373583 words of node,token memory allocated
  1395 words of node memory still in use:
    5 hlist, 1 vlist, 1 rule, 5 glue, 8 attribute, 235 glue_spec, 8 attribute_lis
 t, 3 shape, 3 write nodes
-   avail lists: 1:4,2:1645,3:929,4:210,5:1927,6:3885,7:1077,8:68,9:391,10:24,11:
+   avail lists: 1:4,2:1645,3:926,4:204,5:1917,6:3885,7:1070,8:68,9:388,10:24,11:
 493
  42954 multiletter control sequences out of 65536+600000
- 77 fonts using 14650679 bytes
+ 77 fonts using 14419799 bytes
  81i,19n,83p,1330b,1100s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/edlab/texmf/tex/fonts/Cambria.ttf></home/edlab/texmf/tex/fonts/Cambria Bo
 ld.ttf></home/edlab/texmf/tex/fonts/Gotham-Black.otf></home/edlab/texmf/tex/font
 s/MinionPro-It.ttf></home/edlab/texmf/tex/fonts/MinionPro-Regular.otf></home/edl
 ab/texmf/tex/fonts/Minion Pro Bold.ttf></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (16 pages, 169149 bytes).
+Output written on LIVRO.pdf (16 pages, 168625 bytes).
 
 PDF statistics: 200 PDF objects out of 1000 (max. 8388607)
  153 compressed objects within 2 object streams
