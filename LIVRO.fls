@@ -372,8 +372,6 @@ INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/minionpr
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/minionpro-boldit.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/minion-pro-bold.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/minionpro-it.luc
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty

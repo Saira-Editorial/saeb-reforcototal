@@ -76,7 +76,9 @@
 
 % Comentário do professor
 \newcommand{\coment}[1]{%
-  \noindent{\raggedright\color{rosa}\small\cambria #1}\medskip%
+  \noindent\raggedright{\color{rosa}\small\cambria\begin{minipage}[t]{\textwidth}
+  \raggedright\setlength{\parindent}{0pt}\setlength{\parskip}{0.3em}#1
+  \end{minipage}}\medskip%
 }
 
 
@@ -91,7 +93,7 @@
 \setlist[boxlist]{label=\textcolor{salmao}{[}\mbox{ }\mbox{ }\textcolor{salmao}{]},font=\bfseries}
 
 % Alternativas V ou F para o professor
-\newcommand{\alternativa}{\leavevmode\hfill\textcolor{rosa}}
+\newcommand{\alternativa}{\hfill\textcolor{rosa}}
 
 % Lista de múltipla escolha
 \newlist{escolha}{enumerate}{1}
@@ -112,15 +114,12 @@
 
 
 % Linhas de respostas
-\newcommand{\linhas}[1][1]{%
-\vspace{.5cm}%
-\countdef\i=0%
-\i=0%
-\loop\ifnum\i<#1%
-\noindent\makebox[\linewidth]{\textcolor{salmao}{\rule{\textwidth}{1pt}}}\vspace{.3cm}\\
-\advance\i by 1%
-\repeat%
-\vspace*{-1cm}
+\newcommand{\linhas}[1]{%
+\par\vspace{0.3cm}%
+\ifnum #1>0%
+\noindent\textcolor{salmao}{\rule{\textwidth}{1pt}}%
+\linhas{\numexpr#1-1\relax}%
+\fi
 }
 
 % Linha para preencher a palavra correta
