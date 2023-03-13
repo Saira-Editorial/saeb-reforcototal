@@ -111,14 +111,18 @@
 
 
 % Linhas de respostas
-\newcommand{\linhas}{%
-      \vspace{.5cm}
-      \noindent\makebox[\linewidth]{\textcolor{salmao}{\rule{\textwidth}{1pt}}}\vspace{.3cm}
+\newcommand{\linhas}[1][1]{%
+\vspace{.5cm}%
+\countdef\i=0%
+\i=0%
+\loop\ifnum\i<#1%
+\noindent\makebox[\linewidth]{\textcolor{salmao}{\rule{\textwidth}{1pt}}}\vspace{.3cm}\\
+\advance\i by 1%
+\repeat%
+}
 
-      \noindent\makebox[\linewidth]{\textcolor{salmao}{\rule{\textwidth}{1pt}}}\vspace{.3cm}
-
-      \noindent\makebox[\linewidth]{\textcolor{salmao}{\rule{\textwidth}{1pt}}}\vspace{.5cm}
-  }
+% Linha para preencher a palavra correta
+\newcommand{\preencher}{\textcolor{salmao}{\line(1,0){70}}\mbox{ }} 
 
 
 % Numeração dos exercícios
@@ -141,4 +145,13 @@
   \end{tikzpicture}%
 }
 
-
+% Cria box de conteúdos
+\newcommand{\conteudo}[1]{
+\begin{flushright}
+\adjustbox{varwidth=.7\linewidth}{
+\begin{mdframed}[linewidth=2pt,linecolor=salmao]
+#1
+\end{mdframed}
+}
+\end{flushright}
+}

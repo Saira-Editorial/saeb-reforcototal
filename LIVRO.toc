@@ -1,6 +1,16 @@
 \thispagestyle {empty}
-\contentsline {chapter}{Título do módulo}{4}{chapter*.1}
-\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{4}{section*.2}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{5}{section*.3}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{9}{section*.4}
+\contentsline {chapter}{1. Texto e significado}{5}{chapter*.1}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{5}{section*.2}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{4}{section*.3}
+\contentsline {section}{\leavevmode {\color {azul}Leia o texto para responder às questões 7 e 8.}}{2}{section*.4}
+\contentsline {section}{\leavevmode {\color {azul}Leia o texto para responder às questões 9 e 10.}}{4}{section*.5}
+\contentsline {section}{Abre seção Treino}{5}{section*.6}
+\contentsline {chapter}{2. A construção da argumentação}{9}{chapter*.7}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{9}{section*.8}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{2}{section*.9}
+\contentsline {section}{Abre seção Treino}{3}{section*.10}
+\contentsline {chapter}{3. Diferentes perspectivas}{7}{chapter*.11}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{7}{section*.12}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{2}{section*.13}
+\contentsline {section}{Abre seção Treino}{3}{section*.14}
 \babel@toc {brazilian}{}
