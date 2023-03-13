@@ -1,6 +1,7 @@
 \documentclass[showtrims,		% Mostra as marcas de corte em cruz
 			   trimframe,       % Mostra as marcas de corte em linha, para conferência
-			   12pt				% 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt 
+			   12pt,
+			   openany				% 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt 
 			   ]{memoir}
 \usepackage[brazilian,
 			% english,
@@ -56,8 +57,8 @@
 % Medidas (ver: memoir p.11 fig.2.3)
 \parindent=3ex			% Tamanho da indentação
 \parskip=0pt			% Entre parágrafos
-\marginparsep=-14em		% Entre mancha e nota lateral 
-\marginparwidth=14em		% Tamanho da caixa de texto da nota laterial
+\marginparsep=-5em		% Entre mancha e nota lateral 
+\marginparwidth=10em		% Tamanho da caixa de texto da nota laterial
 
 \usepackage{ifoddpage}
 
@@ -77,15 +78,15 @@
 %}%
 %}
 
-\EveryShipout{
-  \ifthenelse{\isodd{\value{page}}}
-    {\global\marginparsep=-45em}
-    {\global\marginparsep=-16em}
-}
+%\EveryShipout{
+  %\ifthenelse{\isodd{\value{page}}}
+    %{\global\marginparsep=-45em}
+    %{\global\marginparsep=-16em}
+%}
 
-\renewcommand*{\marginfont}{\color{rosa}\salmao\cambria\footnotesize}
-\let\oldmarginnote\marginnote
-\renewcommand{\marginnote}[1]{\oldmarginnote{\raggedleft #1}}
+\renewcommand*{\marginfont}{\color{rosa}\salmao\cambria\small}
+%\let\oldmarginnote\marginnote
+%\renewcommand{\marginnote}[1]{\oldmarginnote{\raggedleft #1}}
 
 
 \linespread{1.06}

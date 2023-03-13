@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  13 MAR 2023 12:39
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  13 MAR 2023 16:07
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.124 seconds
+luaotfload | main : initialization completed in 0.101 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1862,7 +1862,7 @@ eric/fonts/otl/minion-pro-bold.luc)(load luc: /home/edlab/.texlive2017/texmf-var
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
 . <->"MinionPro/BI:mode=node;script=latn;language=DFLT;+tlig;+onum;+smcp;"
 .................................................
-LaTeX Info: Redefining \rmfamily on input line 98.
+LaTeX Info: Redefining \rmfamily on input line 99.
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarycalc.code.tex
@@ -1968,24 +1968,24 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 (./LIVRO.aux (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1993,62 +1993,62 @@ LaTeX Font Info:    ... okay on input line 142.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 142.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 142.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 142.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 142.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 142.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 142.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 142.
-LaTeX Font Info:    Redeclaring math accent \check on input line 142.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 142.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 142.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 142.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 142.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 142.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 142.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 142.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 142.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 142.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 142.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 142.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 142.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 142.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 142.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 142.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 142.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 142.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 143.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 143.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 143.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 143.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 143.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 143.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 143.
+LaTeX Font Info:    Redeclaring math accent \check on input line 143.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 143.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 143.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 143.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 143.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 143.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 142.
+(Font)              `operators' in the math version `normal' on input line 143.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 142.
+(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 143.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 142.
+(Font)              `operators' in the math version `bold' on input line 143.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 142.
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 143.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/m/n on input lin
-e 142.
+e 143.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 142.
+(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 143.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/bx/n on input line 142.
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/bx/n on input line 143.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 142.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 143.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 142.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 143.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/bx/n on input li
-ne 142.
+ne 143.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/MinionPro(0)/bx/it on input line 14
-2.
+3.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 142.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 143.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 142.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 143.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -2080,7 +2080,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
-LaTeX Info: Redefining \microtypecontext on input line 142.
+LaTeX Info: Redefining \microtypecontext on input line 143.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -2108,7 +2108,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 ABD: EveryShipout initializing macros
-Package hyperref Info: Link coloring OFF on input line 142.
+Package hyperref Info: Link coloring OFF on input line 143.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -2120,10 +2120,10 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 142.
-LaTeX Info: Redefining \ref on input line 142.
-LaTeX Info: Redefining \pageref on input line 142.
-LaTeX Info: Redefining \nameref on input line 142.
+LaTeX Info: Redefining \nameref on input line 143.
+LaTeX Info: Redefining \ref on input line 143.
+LaTeX Info: Redefining \pageref on input line 143.
+LaTeX Info: Redefining \nameref on input line 143.
 (./LIVRO.out) (./LIVRO.out)
 \@outlinefile=\write7
 
@@ -2218,25 +2218,28 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
  [4
 
-
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+Package mdframed Info: mdframed works in twoside mode on input line 50.
+Package marginnote Info: Margin note 5.1 is on absolute page 5
+(marginnote)              on input line 50.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cambria' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 13.
-Package mdframed Info: mdframed works in twoside mode on input line 49.
+Package marginnote Info: xpos seems to be 637.26999pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 50.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 49.
+ mdframed uses option nobreak mdframed on input line 50.
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 49.
+Package varwidth Warning: Failed to reprocess entire contents on input line 50.
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 49.
+Package varwidth Warning: Failed to reprocess entire contents on input line 50.
 
 
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
@@ -2244,149 +2247,49 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 53.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 49.
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+(babel)             in language  on input line 53.
+[5
 
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 61--62
-[][] 
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 68--69
-[][] 
- []
-
-Package marginnote Info: Margin note 6.1 is on absolute page 6
-(marginnote)              on input line 75.
-Package marginnote Info: xpos seems to be 549.89803pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 75.
-Package marginnote Info: Margin note 6.2 is on absolute page 7
-(marginnote)              on input line 78.
-Package marginnote Info: xpos seems to be 606.63406pt,
-(marginnote)             \marginnoterightadjust ignored on input line 78.
+]
 
 Class memoir Warning: The material used in the headers is too large
 (55.83868pt) for the given head height (51.21495pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 79.
+(in both cases you will find help in the memoir manual). on input line 111.
 
 
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 79.
+(babel)             in language  on input line 111.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 79.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.4'
-[4]
-Package marginnote Info: Margin note 7.1 is on absolute page 7
-(marginnote)              on input line 80.
-Package marginnote Info: xpos seems to be 410.24207pt,
-(marginnote)             \marginnoterightadjust ignored on input line 80.
-Package marginnote Info: Margin note 7.2 is on absolute page 7
-(marginnote)              on input line 83.
-Package marginnote Info: xpos seems to be 584.31406pt,
-(marginnote)             \marginnoterightadjust ignored on input line 83.
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 89--90
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 95--96
-[][] 
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 101--102
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-
- []
-
-
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 132.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 111.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.2'
 [2]
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 132--133
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 140--141
-[][] 
- []
-
-
-Overfull \hbox (36.14935pt too wide) in paragraph at lines 152--155
-[]\TU/MinionPro(0)/m/n/10.95 Jane Aus-ten. \TU/MinionPro(0)/m/it/10.95 Per-su-a
--sion. \TU/MinionPro(0)/m/n/10.95 Dis-po-ní-vel em: https://www.gu-ten-berg.or
-g/ca-che/epub//pg-images.html.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 161--162
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 167--168
-[][] 
- []
-
-
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 168.
+(babel)             in language  on input line 164.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 168.
+(babel)             in language  on input line 164.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.2'
+[2]
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 233.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 233.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.4'
 [4]
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 227--228
-[][] 
+Underfull \hbox (badness 1406) in paragraph at lines 258--259
+[]\TU/MinionPro(0)/m/n/10 BBC. An-tarc-tica sea-ice hits new re-cord low. Dis-p
+o-ní-vel em: https://www.bbc.com/news/science-
  []
 
 
@@ -2403,148 +2306,45 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 245.
+(babel)             in language  on input line 307.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 245.
+(babel)             in language  on input line 307.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.5'
 [5]
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 286--287
-[][] 
- []
-
-
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 318.
+(babel)             in language  on input line 346.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 318.
+(babel)             in language  on input line 346.
 
 [6]
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 343--344
-[][] 
- []
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 346.
+Package mdframed Info: mdframed works in twoside mode on input line 386.
+Package marginnote Info: Margin note 11.1 is on absolute page 11
+(marginnote)              on input line 386.
+Package marginnote Info: xpos seems to be 510.0313pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 386.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 386.
 
 
-Overfull \hbox (43.47046pt too wide) has occurred while \output is active
- []|| []|
- []
+Package varwidth Warning: Failed to reprocess entire contents on input line 386.
 
 
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
+Package varwidth Warning: Failed to reprocess entire contents on input line 386.
 
-Overfull \hbox (43.47046pt too wide) has occurred while \output is active
- []|| []|
- []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 345.
+(babel)             in language  on input line 392.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 345.
-[7]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 345.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 345.
- [8
+(babel)             in language  on input line 392.
+[0
 
 ]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 345.
-Package mdframed Info: mdframed works in twoside mode on input line 385.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 385.
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 385.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 385.
-
-
-
-Overfull \hbox (43.47046pt too wide) has occurred while \output is active
- []|| []|
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 385.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 385.
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 391--392
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 394--395
-[][] 
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 400--401
-[][] 
- []
-
-
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 401.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 401.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.2'
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 404--405
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 407--408
-[][] 
- []
-
-Package marginnote Info: Margin note 15.1 is on absolute page 15
-(marginnote)              on input line 414.
-Package marginnote Info: xpos seems to be 605.614pt,
-(marginnote)             \marginnoterightadjust ignored on input line 414.
-Package marginnote Info: Margin note 15.2 is on absolute page 15
-(marginnote)              on input line 417.
-Package marginnote Info: xpos seems to be 604.65405pt,
-(marginnote)             \marginnoterightadjust ignored on input line 417.
-Package marginnote Info: Margin note 15.3 is on absolute page 15
-(marginnote)              on input line 419.
-Package marginnote Info: xpos seems to be 529.37799pt,
-(marginnote)             \marginnoterightadjust ignored on input line 419.
-Package marginnote Info: Margin note 15.4 is on absolute page 15
-(marginnote)              on input line 421.
-Package marginnote Info: xpos seems to be 464.95004pt,
-(marginnote)             \marginnoterightadjust ignored on input line 421.
-
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 428--429
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 435--436
-[][] 
- []
-
-
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
@@ -2554,55 +2354,15 @@ Package babel Info: Redefining portuges shorthand "|
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.4'
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 468--469
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 471--472
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 476--477
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 479--480
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 484--485
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 487--488
-[][] 
- []
-
-
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 488.
+(babel)             in language  on input line 499.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 488.
+(babel)             in language  on input line 499.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.2'
 [2]
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 493--494
-[][] 
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 551--552
-[][] 
- []
-
-
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
  []
@@ -2616,31 +2376,21 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 562.
+(babel)             in language  on input line 577.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 562.
+(babel)             in language  on input line 577.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.3'
 [3]
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 611--612
-[][] 
- []
-
-
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 637.
+(babel)             in language  on input line 663.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 637.
+(babel)             in language  on input line 663.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.4'
 [4]
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 664--665
-[][] 
- []
-
-
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
  []
@@ -2654,168 +2404,51 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 666.
+(babel)             in language  on input line 665.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 666.
+(babel)             in language  on input line 665.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.5'
 [5]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 666.
+(babel)             in language  on input line 665.
+Package mdframed Info: mdframed works in twoside mode on input line 704.
+Package marginnote Info: Margin note 17.1 is on absolute page 17
+(marginnote)              on input line 704.
+Package marginnote Info: xpos seems to be 554.44734pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 704.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 704.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 704.
+
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 704.
+
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 666.
+(babel)             in language  on input line 707.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 707.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.6'
 [6
 
 ]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 666.
-Package mdframed Info: mdframed works in twoside mode on input line 705.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 705.
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 705.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 705.
-
-
-
-Overfull \hbox (43.47046pt too wide) has occurred while \output is active
- []|| []|
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 705.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 705.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.7'
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 712--713
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 715--716
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 719--720
-
- []
-
-
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 721.
+(babel)             in language  on input line 765.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 721.
+(babel)             in language  on input line 765.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.2'
 [2]
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 721--722
-[][] 
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 727--728
-[][] 
- []
-
-Package marginnote Info: Margin note 23.1 is on absolute page 23
-(marginnote)              on input line 733.
-Package marginnote Info: xpos seems to be 455.46602pt,
-(marginnote)             \marginnoterightadjust ignored on input line 733.
-Package marginnote Info: Margin note 23.2 is on absolute page 23
-(marginnote)              on input line 736.
-Package marginnote Info: xpos seems to be 611.87404pt,
-(marginnote)             \marginnoterightadjust ignored on input line 736.
-Package marginnote Info: Margin note 23.3 is on absolute page 23
-(marginnote)              on input line 738.
-Package marginnote Info: xpos seems to be 575.76602pt,
-(marginnote)             \marginnoterightadjust ignored on input line 738.
-Package marginnote Info: Margin note 23.4 is on absolute page 23
-(marginnote)              on input line 741.
-Package marginnote Info: xpos seems to be 608.39406pt,
-(marginnote)             \marginnoterightadjust ignored on input line 741.
-
-Underfull \hbox (badness 10000) in paragraph at lines 745--746
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 748--749
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 784--785
-
- []
-
-
-Overfull \hbox (43.47046pt too wide) has occurred while \output is active
- []|| []|
- []
-
-
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (43.47046pt too wide) has occurred while \output is active
- []|| []|
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 785.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 785.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.3'
-[3]
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 788--789
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 792--793
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 795--796
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 799--800
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 803--804
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 807--808
-
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 810--811
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 814--815
-
+Overfull \hbox (38.04659pt too wide) in paragraph at lines 777--778
+[]\TU/MinionPro(0)/m/n/10 BBC. Rewil-ding seas: Some wa-ters off En-gland to ge
+t full pro-tec-tion. Dis-po-ní-vel em: https://www.bbc.com/news/science-
  []
 
 
@@ -2828,13 +2461,10 @@ Package babel Info: Redefining portuges shorthand "|
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.2'
 [2]
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 818--819
-[][] 
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 872--873
-[][] 
+Overfull \hbox (45.81905pt too wide) in paragraph at lines 843--844
+[]\TU/MinionPro(0)/m/n/10 BBC. En-gland’s ar-cha-e-o-lo-gi-cal his-tory gathe
+rs dust as mu-seums fill up. Dis-po-ní-vel em: https://www.bbc.com/news/scienc
+e-
  []
 
 
@@ -2851,46 +2481,21 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 888.
+(babel)             in language  on input line 894.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 888.
+(babel)             in language  on input line 894.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.3'
 [3]
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 936--937
-[][] 
- []
-
-
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 959.
+(babel)             in language  on input line 964.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 959.
+(babel)             in language  on input line 964.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.4'
-[4](load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/
-lmmono10-regular.luc)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmtt' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 963.
-
-Overfull \hbox (193.0322pt too wide) in paragraph at lines 961--965
-\TU/MinionPro(0)/m/n/10.95 vel em: []$\TU/lmtt/m/n/10.95 https://www.npr.org/20
-23/03/01/1160382060/look-[]up-[]venus-[]and-[]jupiter-[]are-[]going-[]in-[]for-
-[]a-[]nighttime-[]kiss$[]\TU/MinionPro(0)/m/n/10.95 .
- []
-
-
-Overfull \hbox (14.54398pt too wide) in paragraph at lines 993--994
-[][] 
- []
-
-))
+[4]))
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
  []
@@ -2904,14 +2509,14 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 146.
+(babel)             in language  on input line 147.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 146.
+(babel)             in language  on input line 147.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.5'
 [5]
 
-Class memoir Warning: \marginparsep is zero or negative on input line 150.
+Class memoir Warning: \marginparsep is zero or negative on input line 151.
 
 
 ******************************************************
@@ -2924,7 +2529,7 @@ Upper and lower margins: 85.35826pt and 69.15034pt
 Headheight and headsep: 51.21495pt and 19.8738pt
 Footskip: 51.21495pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: -540pt and 1151.13191pt
+Marginparsep and marginparwidth: -69.83994pt and 210.81178pt
 Sidecapsep and sidecapwidth: 7pt and 102pt
 Sidebarhsep and sidebarwidth: 7pt and 102pt
 Sidebarvsep and sidebartopsep: 14.5pt and 0pt
@@ -2937,18 +2542,18 @@ Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 Class memoir Warning: The material used in the headers is too large
 (55.83868pt) for the given head height (51.21495pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 150.
+(in both cases you will find help in the memoir manual). on input line 151.
 
 \tf@toc=\write8
 
 \openout8 = LIVRO.toc
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 150.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 151.
 (./LIVRO.xwm) (./LIVRO.aux (./INPUTS.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 151.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
 Package rerunfilecheck Info: File `LIVRO.out' has not changed.
-(rerunfilecheck)             Checksum: 796D34B1DD4C10ADABA2999697ABE1E9;192.
+(rerunfilecheck)             Checksum: A0E739D769204F3A13868DD20E13B9CE;192.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2956,27 +2561,25 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 40324 strings out of 494480
+ 40298 strings out of 494480
  100000,1144653 words of node,token memory allocated
  1382 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 5 glue, 7 attribute, 235 glue_spec, 7 attribute_lis
 t, 3 shape, 3 write nodes
-   avail lists: 1:4,2:973,3:160,4:123,5:1359,6:3415,7:795,8:103,9:313,10:22,11:5
-04
- 42856 multiletter control sequences out of 65536+600000
- 82 fonts using 15165463 bytes
- 65i,19n,83p,1330b,1063s stack positions out of 5000i,500n,10000p,200000b,100000s
-</usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></home/edlab/tex
-mf/tex/fonts/Cambria Bold.ttf></home/edlab/texmf/tex/fonts/Cambria.ttf></home/ed
-lab/texmf/tex/fonts/Gotham-Black.otf></home/edlab/texmf/tex/fonts/MinionPro-It.t
-tf></home/edlab/texmf/tex/fonts/MinionPro-Regular.otf></home/edlab/texmf/tex/fon
-ts/Minion Pro Bold.ttf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxf
-ont/lcirclew.pfb>
-Output written on LIVRO.pdf (27 pages, 190187 bytes).
+   avail lists: 1:4,2:972,3:162,4:138,5:1603,6:3757,7:889,8:70,9:273,10:22,11:55
+6
+ 42839 multiletter control sequences out of 65536+600000
+ 78 fonts using 14977887 bytes
+ 65i,19n,83p,1330b,1065s stack positions out of 5000i,500n,10000p,200000b,100000s
+</home/edlab/texmf/tex/fonts/Cambria.ttf></home/edlab/texmf/tex/fonts/Gotham-Bla
+ck.otf></home/edlab/texmf/tex/fonts/MinionPro-It.ttf></home/edlab/texmf/tex/font
+s/MinionPro-Regular.otf></home/edlab/texmf/tex/fonts/Minion Pro Bold.ttf></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (22 pages, 170473 bytes).
 
-PDF statistics: 235 PDF objects out of 1000 (max. 8388607)
- 180 compressed objects within 2 object streams
+PDF statistics: 204 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
  60 named destinations out of 1000 (max. 131072)
  40 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -75,10 +75,8 @@
 
 
 % Comentário do professor
-\newcommand{\coment}[1]{
-  \medskip\begin{minipage}[t]{\linewidth}%
-\raggedleft\color{rosa}\small\cambria #1
-  \end{minipage}\medskip%
+\newcommand{\coment}[1]{%
+  \noindent{\raggedright\color{rosa}\small\cambria #1}\medskip%
 }
 
 
@@ -92,21 +90,24 @@
 \newlist{boxlist}{itemize}{1}
 \setlist[boxlist]{label=\textcolor{salmao}{[}\mbox{ }\mbox{ }\textcolor{salmao}{]},font=\bfseries}
 
+% Alternativas V ou F para o professor
+\newcommand{\alternativa}{\leavevmode\hfill\textcolor{rosa}}
+
 % Lista de múltipla escolha
 \newlist{escolha}{enumerate}{1}
 \setlist[escolha]{label=\textcolor{azul}{\bfseries\alph*.}}
 
 % Parágrafo lateral
-\newcommand{\sidetext}[1]{%
-\marginpar{%
-\strut\raggedleft%
-\begin{minipage}{\marginparwidth}%
-\raggedleft%
-\color{rosa} #1%
-\end{minipage}%
-\vspace*{-\ht\strutbox}% move o sidetext para cima
-}%
-}
+%\newcommand{\sidetext}[1]{%
+%\marginpar{%
+%\strut\raggedright%
+%\begin{minipage}{.6\marginparwidth}%
+%\raggedleft%
+%\color{rosa} #1%
+%\end{minipage}%
+%\vspace*{-\ht\strutbox}% move o sidetext para cima
+%}%
+%}
 
 
 
@@ -119,6 +120,7 @@
 \noindent\makebox[\linewidth]{\textcolor{salmao}{\rule{\textwidth}{1pt}}}\vspace{.3cm}\\
 \advance\i by 1%
 \repeat%
+\vspace*{-1cm}
 }
 
 % Linha para preencher a palavra correta
@@ -155,3 +157,6 @@
 }
 \end{flushright}
 }
+
+% Para diferenciar a citação da fonte do conteúdo dos textos em quote
+\newcommand{\fonte}[1]{\noindent{\color{darkgray}\footnotesize #1}}
