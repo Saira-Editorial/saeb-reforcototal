@@ -76,9 +76,7 @@
 
 % Comentário do professor
 \newcommand{\coment}[1]{%
-  \noindent\raggedright{\color{rosa}\small\cambria\begin{minipage}[t]{\textwidth}
-  \raggedright\setlength{\parindent}{0pt}\setlength{\parskip}{0.3em}#1
-  \end{minipage}}\medskip%
+  \noindent\raggedright{\color{rosa}\small\cambria #1}\medskip%
 }
 
 
@@ -92,25 +90,9 @@
 \newlist{boxlist}{itemize}{1}
 \setlist[boxlist]{label=\textcolor{salmao}{[}\mbox{ }\mbox{ }\textcolor{salmao}{]},font=\bfseries}
 
-% Alternativas V ou F para o professor
-\newcommand{\alternativa}{\hfill\textcolor{rosa}}
-
 % Lista de múltipla escolha
 \newlist{escolha}{enumerate}{1}
 \setlist[escolha]{label=\textcolor{azul}{\bfseries\alph*.}}
-
-% Parágrafo lateral
-%\newcommand{\sidetext}[1]{%
-%\marginpar{%
-%\strut\raggedright%
-%\begin{minipage}{.6\marginparwidth}%
-%\raggedleft%
-%\color{rosa} #1%
-%\end{minipage}%
-%\vspace*{-\ht\strutbox}% move o sidetext para cima
-%}%
-%}
-
 
 
 % Linhas de respostas
