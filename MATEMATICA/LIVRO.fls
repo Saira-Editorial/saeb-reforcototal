@@ -422,9 +422,9 @@ INPUT ./INPUTS.tex
 INPUT ./INPUTS.tex
 INPUT ./1-fronte.tex
 INPUT ./1-fronte.tex
-INPUT ./front.pdf
-INPUT ./front.pdf
-INPUT ./front.pdf
+INPUT ../watermarks/front9ano.pdf
+INPUT ../watermarks/front9ano.pdf
+INPUT ../watermarks/front9ano.pdf
 INPUT ./2-creditos.tex
 INPUT ./2-creditos.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
@@ -446,6 +446,12 @@ INPUT ./EDF.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman17-regular.luc
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
+INPUT ../watermarks/1modulo9ano.pdf
+INPUT ../watermarks/1modulo9ano.pdf
+INPUT ../watermarks/1modulo9ano.pdf
 INPUT ./CNA.tex
 INPUT ./CNA.tex
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc

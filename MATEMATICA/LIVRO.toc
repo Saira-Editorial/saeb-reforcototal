@@ -1,5 +1,5 @@
 \thispagestyle {empty}
-\contentsline {chapter}{1. Práticas corporais: dos jogos eletrônicos até aos esportes radicais}{5}{chapter*.1}
+\contentsline {chapter}{Práticas corporais: dos jogos eletrônicos até aos esportes radicais}{5}{chapter*.1}
 \contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{5}{section*.2}
 \contentsline {section}{\leavevmode {\color {azul}Atividades}}{6}{section*.3}
 \contentsline {section}{\leavevmode {\color {azul}Seção Treino}}{7}{section*.4}
