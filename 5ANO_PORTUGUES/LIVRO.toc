@@ -1,0 +1,28 @@
+\thispagestyle {empty}
+\contentsline {chapter}{1. Texto e significado}{5}{chapter*.1}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{5}{section*.2}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{5}{section*.3}
+\contentsline {section}{\leavevmode {\color {azul}Leia o texto para responder às questões 7 e 8}}{7}{section*.4}
+\contentsline {section}{\leavevmode {\color {azul}Leia o texto para responder às questões 9 e 10}}{7}{section*.5}
+\contentsline {section}{Abre seção Treino}{8}{section*.6}
+\contentsline {chapter}{2. A construção da argumentação}{11}{chapter*.7}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{11}{section*.8}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{12}{section*.9}
+\contentsline {section}{\leavevmode {\color {azul}Leia o texto a seguir para responder às questões de 7 a 10}}{13}{section*.10}
+\contentsline {section}{Abre seção Treino}{14}{section*.11}
+\contentsline {chapter}{3. Diferentes perspectivas}{17}{chapter*.12}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{17}{section*.13}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{17}{section*.14}
+\contentsline {section}{\leavevmode {\color {azul}Leia o texto a seguir para responder às questões de 6 a 10}}{18}{section*.15}
+\contentsline {section}{Abre seção Treino}{20}{section*.16}
+\contentsline {chapter}{1. A construção da integração mundial}{23}{chapter*.17}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{23}{section*.18}
+\contentsline {paragraph}{I}{27}{paragraph*.19}
+\contentsline {paragraph}{II}{28}{paragraph*.20}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{29}{section*.21}
+\contentsline {chapter}{SIMULADO}{32}{chapter*.22}
+\contentsline {chapter}{2. Energia e circuitos produtivos}{37}{chapter*.23}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{37}{section*.24}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{42}{section*.25}
+\contentsline {chapter}{Simulado}{45}{chapter*.26}
+\babel@toc {brazilian}{}
