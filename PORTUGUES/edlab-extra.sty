@@ -76,9 +76,7 @@
 
 % Comentário do professor
 \newcommand{\coment}[1]{%
-  \noindent\raggedright{\color{rosa}\small\cambria\begin{minipage}[t]{\textwidth}
-  \raggedright\setlength{\parindent}{0pt}\setlength{\parskip}{0.3em}#1
-  \end{minipage}}\medskip%
+  \noindent\raggedright{\color{rosa}\small\cambria #1}\medskip%
 }
 
 
@@ -93,7 +91,7 @@
 \setlist[boxlist]{label=\textcolor{salmao}{[}\mbox{ }\mbox{ }\textcolor{salmao}{]},font=\bfseries}
 
 % Alternativas V ou F para o professor
-\newcommand{\alternativa}{\hfill\textcolor{rosa}}
+%\newcommand{\alternativa}{\hfill\textcolor{rosa}}
 
 % Lista de múltipla escolha
 \newlist{escolha}{enumerate}{1}
@@ -158,4 +156,4 @@
 }
 
 % Para diferenciar a citação da fonte do conteúdo dos textos em quote
-\newcommand{\fonte}[1]{\noindent{\color{darkgray}\footnotesize #1}}
+\newcommand{\fonte}[1]{\raggedleft{\color{darkgray}\footnotesize #1}}
