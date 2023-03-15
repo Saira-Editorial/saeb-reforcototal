@@ -446,6 +446,8 @@ INPUT ./PORTUGUES.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT ./CHU.tex
+INPUT ./CHU.tex
 OUTPUT LIVRO.toc
 INPUT ./LIVRO.xwm
 INPUT ./LIVRO.xwm
