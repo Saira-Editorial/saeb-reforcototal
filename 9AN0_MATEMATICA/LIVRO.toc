@@ -13,18 +13,18 @@
 \contentsline {section}{\leavevmode {\color {azul}Seção Treino}}{17}{section*.12}
 \contentsline {chapter}{Simulado 1}{20}{chapter*.13}
 \contentsline {chapter}{Simulado 2}{23}{chapter*.14}
-\contentsline {chapter}{Simulado 3}{26}{chapter*.15}
-\contentsline {chapter}{Simulado 4}{29}{chapter*.16}
-\contentsline {chapter}{1. Matéria e energia}{32}{chapter*.17}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{33}{section*.18}
-\contentsline {section}{\leavevmode {\color {azul}SEÇÃO TREINO}}{39}{section*.19}
-\contentsline {chapter}{2. Vida e evolução}{42}{chapter*.20}
-\contentsline {section}{\leavevmode {\color {azul}SEÇÃO TREINO}}{50}{section*.21}
-\contentsline {chapter}{3. Terra e universo}{53}{chapter*.22}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{55}{section*.23}
-\contentsline {section}{\leavevmode {\color {azul}SEÇÃO TREINO}}{57}{section*.24}
-\contentsline {chapter}{QUESTÕES SIMULADO 1}{60}{chapter*.25}
-\contentsline {chapter}{SIMULADO 2}{63}{chapter*.26}
-\contentsline {chapter}{SIMULADO 3}{66}{chapter*.27}
-\contentsline {chapter}{SIMULADO 4}{69}{chapter*.28}
+\contentsline {chapter}{Simulado 3}{25}{chapter*.15}
+\contentsline {chapter}{Simulado 4}{27}{chapter*.16}
+\contentsline {chapter}{1. Matéria e energia}{30}{chapter*.17}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{31}{section*.18}
+\contentsline {section}{\leavevmode {\color {azul}SEÇÃO TREINO}}{37}{section*.19}
+\contentsline {chapter}{2. Vida e evolução}{40}{chapter*.20}
+\contentsline {section}{\leavevmode {\color {azul}SEÇÃO TREINO}}{47}{section*.21}
+\contentsline {chapter}{3. Terra e universo}{51}{chapter*.22}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{53}{section*.23}
+\contentsline {section}{\leavevmode {\color {azul}SEÇÃO TREINO}}{55}{section*.24}
+\contentsline {chapter}{QUESTÕES SIMULADO 1}{58}{chapter*.25}
+\contentsline {chapter}{SIMULADO 2}{61}{chapter*.26}
+\contentsline {chapter}{SIMULADO 3}{64}{chapter*.27}
+\contentsline {chapter}{SIMULADO 4}{67}{chapter*.28}
 \babel@toc {brazilian}{}

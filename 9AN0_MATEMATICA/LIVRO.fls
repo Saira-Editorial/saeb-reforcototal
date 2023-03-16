@@ -1,4 +1,4 @@
-PWD /home/edlab/HEDRA/LATEX/saeb-reforcototal/MATEMATICA
+PWD /home/edlab/HEDRA/LATEX/saeb-reforcototal/9AN0_MATEMATICA
 INPUT /var/lib/texmf/web2c/luatex/lualatex.fmt
 INPUT ./LIVRO.tex
 OUTPUT LIVRO.log
@@ -452,6 +452,21 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
 INPUT ../watermarks/1modulo9ano.pdf
 INPUT ../watermarks/1modulo9ano.pdf
 INPUT ../watermarks/1modulo9ano.pdf
+INPUT ./imgs/img1.jpg
+INPUT ./imgs/img1.jpg
+INPUT ./imgs/img1.jpg
+INPUT ./imgs/img2.jpg
+INPUT ./imgs/img2.jpg
+INPUT ./imgs/img2.jpg
+INPUT ./imgs/img3.jpg
+INPUT ./imgs/img3.jpg
+INPUT ./imgs/img3.jpg
+INPUT ./imgs/img4.jpg
+INPUT ./imgs/img4.jpg
+INPUT ./imgs/img4.jpg
+INPUT ./imgs/img5.jpg
+INPUT ./imgs/img5.jpg
+INPUT ./imgs/img5.jpg
 INPUT ./CNA.tex
 INPUT ./CNA.tex
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
