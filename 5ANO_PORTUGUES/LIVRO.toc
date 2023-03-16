@@ -7,74 +7,74 @@
 \contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{11}{section*.6}
 \contentsline {section}{\leavevmode {\color {azul}Atividades}}{13}{section*.7}
 \contentsline {section}{\leavevmode {\color {azul}Treino}}{15}{section*.8}
-\contentsline {chapter}{3. O Gênero Notícia e o Uso da Pontuação}{17}{chapter*.9}
-\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{17}{section*.10}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{19}{section*.11}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{21}{section*.12}
-\contentsline {chapter}{4. Persuasão e Argumentação}{23}{chapter*.13}
-\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{23}{section*.14}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{25}{section*.15}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{27}{section*.16}
-\contentsline {chapter}{5. Introdução à Poesia}{29}{chapter*.17}
-\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{29}{section*.18}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{31}{section*.19}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{33}{section*.20}
-\contentsline {chapter}{6. Textos: modos variados de se escrever e falar}{36}{chapter*.21}
-\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{36}{section*.22}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{38}{section*.23}
-\contentsline {section}{Treino}{40}{section*.24}
-\contentsline {chapter}{7. Palavras que acrescentam sentidos}{43}{chapter*.25}
-\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{43}{section*.26}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{45}{section*.27}
-\contentsline {chapter}{8. Fatos e opiniões}{48}{chapter*.28}
-\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{48}{section*.29}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{49}{section*.30}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{51}{section*.31}
-\contentsline {chapter}{9. Organizando dados}{55}{chapter*.32}
-\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{55}{section*.33}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{56}{section*.34}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{58}{section*.35}
-\contentsline {chapter}{10. Passo a passo}{61}{chapter*.36}
-\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{61}{section*.37}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{62}{section*.38}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{63}{section*.39}
-\contentsline {chapter}{Simulado 1}{67}{chapter*.40}
-\contentsline {chapter}{Simulado 2}{72}{chapter*.41}
-\contentsline {chapter}{Simulado 3}{77}{chapter*.42}
-\contentsline {chapter}{Simulado 4}{82}{chapter*.43}
-\contentsline {chapter}{1. Tempo e espaço: fontes e formas de representação}{87}{chapter*.44}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{88}{section*.45}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{89}{section*.46}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{91}{section*.47}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{93}{section*.48}
-\contentsline {chapter}{2. Natureza e questões socioambientais}{96}{chapter*.49}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{96}{section*.50}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{98}{section*.51}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{99}{section*.52}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{101}{section*.53}
-\contentsline {chapter}{3. Culturas, identidades e diversidades}{104}{chapter*.54}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{104}{section*.55}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{106}{section*.56}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{108}{section*.57}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{110}{section*.58}
-\contentsline {chapter}{4. Poder, estado e instituições}{113}{chapter*.59}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{113}{section*.60}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{115}{section*.61}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{117}{section*.62}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{119}{section*.63}
-\contentsline {chapter}{5. Cidadania, direitos humanos e movimentos sociais}{122}{chapter*.64}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 1: Direitos humanos}}{123}{section*.65}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2: Lutas e conquistas}}{124}{section*.66}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3: A cidadania nas redes sociais}}{126}{section*.67}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{127}{section*.68}
-\contentsline {chapter}{6. Relações de trabalho, produção e circulação}{130}{chapter*.69}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{130}{section*.70}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{131}{section*.71}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{133}{section*.72}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 4}}{134}{section*.73}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{135}{section*.74}
-\contentsline {chapter}{Simulado 1}{138}{chapter*.75}
-\contentsline {chapter}{Simulado 2 }{142}{chapter*.76}
-\contentsline {chapter}{Simulado 3}{146}{chapter*.77}
-\contentsline {chapter}{Simulado 4}{150}{chapter*.78}
+\contentsline {chapter}{3. O Gênero Notícia e o Uso da Pontuação}{18}{chapter*.9}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{18}{section*.10}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{20}{section*.11}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{22}{section*.12}
+\contentsline {chapter}{4. Persuasão e Argumentação}{25}{chapter*.13}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{25}{section*.14}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{27}{section*.15}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{29}{section*.16}
+\contentsline {chapter}{5. Introdução à Poesia}{32}{chapter*.17}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{32}{section*.18}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{34}{section*.19}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{37}{section*.20}
+\contentsline {chapter}{6. Textos: modos variados de se escrever e falar}{40}{chapter*.21}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{40}{section*.22}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{42}{section*.23}
+\contentsline {section}{Treino}{44}{section*.24}
+\contentsline {chapter}{7. Palavras que acrescentam sentidos}{47}{chapter*.25}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{47}{section*.26}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{49}{section*.27}
+\contentsline {chapter}{8. Fatos e opiniões}{52}{chapter*.28}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{52}{section*.29}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{54}{section*.30}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{56}{section*.31}
+\contentsline {chapter}{9. Organizando dados}{60}{chapter*.32}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{60}{section*.33}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{62}{section*.34}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{64}{section*.35}
+\contentsline {chapter}{10. Passo a passo}{68}{chapter*.36}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{68}{section*.37}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{69}{section*.38}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{71}{section*.39}
+\contentsline {chapter}{Simulado 1}{74}{chapter*.40}
+\contentsline {chapter}{Simulado 2}{79}{chapter*.41}
+\contentsline {chapter}{Simulado 3}{84}{chapter*.42}
+\contentsline {chapter}{Simulado 4}{89}{chapter*.43}
+\contentsline {chapter}{1. Tempo e espaço: fontes e formas de representação}{94}{chapter*.44}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{95}{section*.45}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{96}{section*.46}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{98}{section*.47}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{100}{section*.48}
+\contentsline {chapter}{2. Natureza e questões socioambientais}{103}{chapter*.49}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{103}{section*.50}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{105}{section*.51}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{106}{section*.52}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{108}{section*.53}
+\contentsline {chapter}{3. Culturas, identidades e diversidades}{111}{chapter*.54}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{111}{section*.55}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{113}{section*.56}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{115}{section*.57}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{117}{section*.58}
+\contentsline {chapter}{4. Poder, estado e instituições}{120}{chapter*.59}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{120}{section*.60}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{122}{section*.61}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{124}{section*.62}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{126}{section*.63}
+\contentsline {chapter}{5. Cidadania, direitos humanos e movimentos sociais}{129}{chapter*.64}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 1: Direitos humanos}}{130}{section*.65}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2: Lutas e conquistas}}{131}{section*.66}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3: A cidadania nas redes sociais}}{133}{section*.67}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{134}{section*.68}
+\contentsline {chapter}{6. Relações de trabalho, produção e circulação}{137}{chapter*.69}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{137}{section*.70}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{138}{section*.71}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{139}{section*.72}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 4}}{141}{section*.73}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{142}{section*.74}
+\contentsline {chapter}{Simulado 1}{144}{chapter*.75}
+\contentsline {chapter}{Simulado 2 }{147}{chapter*.76}
+\contentsline {chapter}{Simulado 3}{150}{chapter*.77}
+\contentsline {chapter}{Simulado 4}{153}{chapter*.78}
 \babel@toc {brazilian}{}
