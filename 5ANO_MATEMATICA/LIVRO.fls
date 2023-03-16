@@ -1,4 +1,4 @@
-PWD /home/edlab/HEDRA/LATEX/saeb-reforcototal/MATEMATICA
+PWD /home/edlab/HEDRA/LATEX/saeb-reforcototal/5ANO_MATEMATICA
 INPUT /var/lib/texmf/web2c/luatex/lualatex.fmt
 INPUT ./LIVRO.tex
 OUTPUT LIVRO.log
@@ -446,21 +446,6 @@ INPUT ./EDF.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman17-regular.luc
-INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
-INPUT ../watermarks/1modulo9ano.pdf
-INPUT ../watermarks/1modulo9ano.pdf
-INPUT ../watermarks/1modulo9ano.pdf
-INPUT ./CNA.tex
-INPUT ./CNA.tex
-INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
 OUTPUT LIVRO.toc
 INPUT ./LIVRO.xwm
 INPUT ./LIVRO.xwm
