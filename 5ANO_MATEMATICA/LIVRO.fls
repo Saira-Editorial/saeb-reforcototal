@@ -362,6 +362,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/gotham-black.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/cambria.luc
 INPUT /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/cambria-bold-italic.luc
@@ -446,6 +448,8 @@ INPUT ./EDF.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT ./CNA.tex
+INPUT ./CNA.tex
 OUTPUT LIVRO.toc
 INPUT ./LIVRO.xwm
 INPUT ./LIVRO.xwm
