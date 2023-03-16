@@ -106,6 +106,15 @@
 \fi
 }
 
+% Linhas em branco
+\newcommand{\matlinhas}[1]{%
+\par\vspace{0.3cm}%
+\ifnum #1>0%
+\noindent\textcolor{white}{\rule{\textwidth}{1pt}}%
+\linhas{\numexpr#1-1\relax}%
+\fi
+}
+
 % Linha para preencher a palavra correta
 \newcommand{\preencher}{\textcolor{salmao}{\line(1,0){70}}\mbox{ }} 
 
