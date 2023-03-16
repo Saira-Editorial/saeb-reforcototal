@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  16 MAR 2023 16:24
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  16 MAR 2023 17:06
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.087 seconds
+luaotfload | main : initialization completed in 0.108 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2687,20 +2687,25 @@ Package babel Info: Redefining portuges shorthand "|
 [29]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
-Package mdframed Info: mdframed works in twoside mode on input line 51.
+Package mdframed Info: mdframed works in twoside mode on input line 45.
+<./imgs/img6.png, id=325, 603.25375pt x 232.87pt>
+File: ./imgs/img6.png Graphic file (type png)
+<use ./imgs/img6.png>
+Package luatex.def Info: ./imgs/img6.png  used on input line 45.
+(luatex.def)             Requested size: 137.09935pt x 52.92293pt.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 51.
+ mdframed uses option nobreak mdframed on input line 45.
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 51.
+Package varwidth Warning: Failed to reprocess entire contents on input line 45.
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 51.
+Package varwidth Warning: Failed to reprocess entire contents on input line 45.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 51.
+(babel)             in language  on input line 45.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 51.
+(babel)             in language  on input line 45.
 [30
 
 ]
@@ -2717,18 +2722,24 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 52.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 61.
-[31]
+(babel)             in language  on input line 52.
+[31<./imgs/img6.png>]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 95.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 95.
 
 [32]
+<./imgs/img7.jpg, id=341, 963.6pt x 680.5425pt>
+File: ./imgs/img7.jpg Graphic file (type jpg)
+<use ./imgs/img7.jpg>
+Package luatex.def Info: ./imgs/img7.jpg  used on input line 113.
+(luatex.def)             Requested size: 146.41579pt x 103.39577pt.
+
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
  []
@@ -2742,23 +2753,18 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 142.
+(babel)             in language  on input line 126.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 142.
-[33]
+(babel)             in language  on input line 126.
+[33<./imgs/img7.jpg>]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 186.
+(babel)             in language  on input line 169.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 186.
+(babel)             in language  on input line 169.
 
 [34]
-Overfull \hbox (30.0pt too wide) in paragraph at lines 236--236
-[][][]  
- []
-
-
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
  []
@@ -2772,16 +2778,27 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 242.
+(babel)             in language  on input line 210.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 242.
+(babel)             in language  on input line 210.
 [35]
-Overfull \hbox (30.0pt too wide) in paragraph at lines 242--242
+<./imgs/img8.jpg, id=361, 210.897pt x 107.091pt>
+File: ./imgs/img8.jpg Graphic file (type jpg)
+<use ./imgs/img8.jpg>
+Package luatex.def Info: ./imgs/img8.jpg  used on input line 227.
+(luatex.def)             Requested size: 210.59076pt x 106.85378pt.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 233--233
 [][][]  
  []
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 248--248
+Overfull \hbox (30.0pt too wide) in paragraph at lines 239--239
+[][][]  
+ []
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 245--245
 [][][]  
  []
 
@@ -2789,11 +2806,11 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 248--248
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 291.
+(babel)             in language  on input line 258.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 291.
+(babel)             in language  on input line 258.
 
-[36]
+[36<./imgs/img8.jpg>]
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
  []
@@ -2807,16 +2824,16 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 361.
+(babel)             in language  on input line 313.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 361.
+(babel)             in language  on input line 313.
 [37]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 437.
+(babel)             in language  on input line 389.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 437.
+(babel)             in language  on input line 389.
 
 [38]
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
@@ -2832,32 +2849,37 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 438.
+(babel)             in language  on input line 435.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 438.
+(babel)             in language  on input line 435.
 [39]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 438.
-Package mdframed Info: mdframed works in twoside mode on input line 507.
+(babel)             in language  on input line 435.
+Package mdframed Info: mdframed works in twoside mode on input line 501.
+<./imgs/img9.jpg, id=396, 313.17pt x 327.624pt>
+File: ./imgs/img9.jpg Graphic file (type jpg)
+<use ./imgs/img9.jpg>
+Package luatex.def Info: ./imgs/img9.jpg  used on input line 501.
+(luatex.def)             Requested size: 124.21448pt x 120.24915pt.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 507.
+ mdframed uses option nobreak mdframed on input line 501.
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 507.
+Package varwidth Warning: Failed to reprocess entire contents on input line 501.
 
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 507.
+Package varwidth Warning: Failed to reprocess entire contents on input line 501.
 
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 507.
+(babel)             in language  on input line 501.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 507.
+(babel)             in language  on input line 501.
 [40
 
 ]
-Overfull \vbox (154.02206pt too high) has occurred while \output is active []
+Overfull \vbox (278.35521pt too high) has occurred while \output is active []
 
 
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
@@ -2873,61 +2895,61 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 507.
+(babel)             in language  on input line 501.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 507.
-[41]
-Overfull \hbox (30.0pt too wide) in paragraph at lines 517--517
+(babel)             in language  on input line 501.
+[41<./imgs/img9.jpg>]
+Overfull \hbox (30.0pt too wide) in paragraph at lines 511--511
 [][][]  
  []
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 517--517
+Overfull \hbox (30.0pt too wide) in paragraph at lines 511--511
 [][][]  
  []
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 517--517
+Overfull \hbox (30.0pt too wide) in paragraph at lines 511--511
 [][][]  
  []
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 517--517
+Overfull \hbox (30.0pt too wide) in paragraph at lines 511--511
 [][][]  
  []
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 517--517
+Overfull \hbox (30.0pt too wide) in paragraph at lines 511--511
 [][][]  
  []
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 517--517
+Overfull \hbox (30.0pt too wide) in paragraph at lines 511--511
 [][][]  
  []
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 517--517
+Overfull \hbox (30.0pt too wide) in paragraph at lines 511--511
 [][][]  
  []
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 537--537
+Overfull \hbox (30.0pt too wide) in paragraph at lines 531--531
 [][][]  
  []
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 537--537
+Overfull \hbox (30.0pt too wide) in paragraph at lines 531--531
 [][][]  
  []
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 537--537
+Overfull \hbox (30.0pt too wide) in paragraph at lines 531--531
 [][][]  
  []
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 537--537
+Overfull \hbox (30.0pt too wide) in paragraph at lines 531--531
 [][][]  
  []
 
@@ -2935,9 +2957,9 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 537--537
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 545.
+(babel)             in language  on input line 539.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 545.
+(babel)             in language  on input line 539.
 
 [42](load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl
 /lmmono10-regular.luc)
@@ -2946,7 +2968,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 575.
+(Font)              <7> on input line 569.
 
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
@@ -2961,16 +2983,16 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 580.
+(babel)             in language  on input line 574.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 580.
+(babel)             in language  on input line 574.
 [43]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 625.
+(babel)             in language  on input line 619.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 625.
+(babel)             in language  on input line 619.
 
 [44]
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
@@ -2986,16 +3008,16 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 683.
+(babel)             in language  on input line 677.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 683.
+(babel)             in language  on input line 677.
 [45]
-Overfull \hbox (30.0pt too wide) in paragraph at lines 732--732
+Overfull \hbox (30.0pt too wide) in paragraph at lines 726--726
 [][][]  
  []
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 738--738
+Overfull \hbox (30.0pt too wide) in paragraph at lines 732--732
 [][][]  
  []
 
@@ -3003,9 +3025,9 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 738--738
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 741.
+(babel)             in language  on input line 735.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 741.
+(babel)             in language  on input line 735.
 
 [46]
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
@@ -3021,16 +3043,16 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 794.
+(babel)             in language  on input line 788.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 794.
+(babel)             in language  on input line 788.
 [47]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 867.
+(babel)             in language  on input line 861.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 867.
+(babel)             in language  on input line 861.
 
 [48]
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
@@ -3046,30 +3068,35 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 925.
+(babel)             in language  on input line 919.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 925.
+(babel)             in language  on input line 919.
 [49]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 926.
+(babel)             in language  on input line 920.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 926.
+(babel)             in language  on input line 920.
 
 [50]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 926.
-Package mdframed Info: mdframed works in twoside mode on input line 993.
+(babel)             in language  on input line 920.
+Package mdframed Info: mdframed works in twoside mode on input line 984.
+<./imgs/img10.jpg, id=462, 436.63126pt x 220.57407pt>
+File: ./imgs/img10.jpg Graphic file (type jpg)
+<use ./imgs/img10.jpg>
+Package luatex.def Info: ./imgs/img10.jpg  used on input line 984.
+(luatex.def)             Requested size: 128.82509pt x 65.06541pt.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 993.
+ mdframed uses option nobreak mdframed on input line 984.
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 993.
+Package varwidth Warning: Failed to reprocess entire contents on input line 984.
 
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 993.
+Package varwidth Warning: Failed to reprocess entire contents on input line 984.
 
 
 
@@ -3078,23 +3105,23 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 993.
+(babel)             in language  on input line 984.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 993.
+(babel)             in language  on input line 984.
 [51
 
 ]
-Overfull \vbox (228.13588pt too high) has occurred while \output is active []
+Overfull \vbox (295.6053pt too high) has occurred while \output is active []
 
 
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 993.
+(babel)             in language  on input line 984.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 993.
+(babel)             in language  on input line 984.
 
-[52]
+[52<./imgs/img10.jpg>]
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
  []
@@ -3108,18 +3135,48 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1050.
+(babel)             in language  on input line 1041.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1050.
+(babel)             in language  on input line 1041.
 [53]
+<./imgs/img11.jpg, id=478, 289.08pt x 307.90031pt>
+File: ./imgs/img11.jpg Graphic file (type jpg)
+<use ./imgs/img11.jpg>
+Package luatex.def Info: ./imgs/img11.jpg  used on input line 1074.
+(luatex.def)             Requested size: 187.0352pt x 199.21667pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1075--1075
+[]\TU/MinionPro(0)/m/n/12 Fi-gura .: []Fonte: https://br.fre-e-pik.com/ve
+tores-gratis/camadas-da-terra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1075--1075
+\TU/MinionPro(0)/m/n/12 desenhadas-a-mao-ilustradas_.ht
+mquery=ca-ma-dasdaterra&po-
+ []
+
+
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1102.
+(babel)             in language  on input line 1093.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1102.
+(babel)             in language  on input line 1093.
 
 [54]
+<./imgs/img12.jpg, id=483, 628.3475pt x 628.3475pt>
+File: ./imgs/img12.jpg Graphic file (type jpg)
+<use ./imgs/img12.jpg>
+Package luatex.def Info: ./imgs/img12.jpg  used on input line 1111.
+(luatex.def)             Requested size: 209.27287pt x 209.27287pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1113--1113
+\TU/MinionPro(0)/m/n/12 gratis/esquema-do-sistema-solar-colorido-com-design-pla
+no_.htm?query=pla-ne-
+ []
+
+
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
  []
@@ -3133,18 +3190,24 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1186.
+(babel)             in language  on input line 1125.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1186.
-[55]
+(babel)             in language  on input line 1125.
+[55<./imgs/img11.jpg>]
+<./imgs/img13.jpg, id=493, 1027.84pt x 975.645pt>
+File: ./imgs/img13.jpg Graphic file (type jpg)
+<use ./imgs/img13.jpg>
+Package luatex.def Info: ./imgs/img13.jpg  used on input line 1143.
+(luatex.def)             Requested size: 200.81224pt x 190.59985pt.
+
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1246.
+(babel)             in language  on input line 1179.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1246.
+(babel)             in language  on input line 1179.
 
-[56]
+[56<./imgs/img12.jpg>]
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
  []
@@ -3158,66 +3221,66 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1247.
+(babel)             in language  on input line 1216.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1247.
-[57]
+(babel)             in language  on input line 1216.
+[57<./imgs/img13.jpg>]
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1247.
+(babel)             in language  on input line 1239.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1319.
+(babel)             in language  on input line 1239.
+
+[58]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1319.
- [58
+(babel)             in language  on input line 1239.
+
+Overfull \hbox (43.47046pt too wide) has occurred while \output is active
+ []|| []|
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1311.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1311.
+[59
 
 ]
-Overfull \hbox (43.47046pt too wide) has occurred while \output is active
- []|| []|
- []
-
-
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (43.47046pt too wide) has occurred while \output is active
- []|| []|
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1389.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1389.
-[59]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1391.
+(babel)             in language  on input line 1381.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1391.
+(babel)             in language  on input line 1381.
 
 [60]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1391.
+Overfull \hbox (43.47046pt too wide) has occurred while \output is active
+ []|| []|
+ []
+
+
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
 
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1456.
+(babel)             in language  on input line 1383.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1456.
-[61
+(babel)             in language  on input line 1383.
+[61]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1383.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1448.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1448.
+ [62
 
 ]
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1516.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1516.
-
-[62]
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
  []
@@ -3231,66 +3294,66 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1543.
+(babel)             in language  on input line 1508.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1543.
+(babel)             in language  on input line 1508.
 [63]
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1543.
+(babel)             in language  on input line 1535.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1608.
+(babel)             in language  on input line 1535.
+
+[64]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1608.
- [64
+(babel)             in language  on input line 1535.
+
+Overfull \hbox (43.47046pt too wide) has occurred while \output is active
+ []|| []|
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1600.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1600.
+[65
 
 ]
-Overfull \hbox (43.47046pt too wide) has occurred while \output is active
- []|| []|
- []
-
-
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (43.47046pt too wide) has occurred while \output is active
- []|| []|
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1670.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1670.
-[65]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1694.
+(babel)             in language  on input line 1662.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1694.
+(babel)             in language  on input line 1662.
 
 [66]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1694.
+Overfull \hbox (43.47046pt too wide) has occurred while \output is active
+ []|| []|
+ []
+
+
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
 
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1767.
+(babel)             in language  on input line 1686.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1767.
-[67
+(babel)             in language  on input line 1686.
+[67]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1686.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1759.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1759.
+ [68
 
 ]
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1843.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1843.
-
-[68]))
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []|| []|
  []
@@ -3304,10 +3367,18 @@ Overfull \hbox (43.47046pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1835.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1835.
+[69]))
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 144.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 144.
-[69]
+
+[70]
 
 Class memoir Warning: \marginparsep is zero or negative on input line 148.
 
@@ -3354,14 +3425,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 40676 strings out of 494480
+ 40761 strings out of 494480
  100000,1373583 words of node,token memory allocated
  1405 words of node memory still in use:
    5 hlist, 1 vlist, 1 rule, 5 glue, 8 attribute, 237 glue_spec, 8 attribute_lis
 t, 3 shape, 3 write nodes
-   avail lists: 1:4,2:950,3:174,4:141,5:2775,6:6644,7:1416,8:69,9:304,10:23,11:8
+   avail lists: 1:4,2:952,3:174,4:141,5:2777,6:6646,7:1428,8:69,9:304,10:23,11:8
 92
- 42923 multiletter control sequences out of 65536+600000
+ 42955 multiletter control sequences out of 65536+600000
  87 fonts using 15893943 bytes
  77i,19n,83p,1330b,1124s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></home/edlab/tex
@@ -3370,10 +3441,10 @@ lab/texmf/tex/fonts/MinionPro-It.ttf></home/edlab/texmf/tex/fonts/MinionPro-Regu
 lar.otf></home/edlab/texmf/tex/fonts/Minion Pro Bold.ttf></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (69 pages, 593970 bytes).
+Output written on LIVRO.pdf (70 pages, 1566132 bytes).
 
-PDF statistics: 654 PDF objects out of 1000 (max. 8388607)
- 548 compressed objects within 6 object streams
- 288 named destinations out of 1000 (max. 131072)
+PDF statistics: 675 PDF objects out of 1000 (max. 8388607)
+ 556 compressed objects within 6 object streams
+ 293 named destinations out of 1000 (max. 131072)
  128 words of extra memory for PDF output out of 10000 (max. 100000000)
 
