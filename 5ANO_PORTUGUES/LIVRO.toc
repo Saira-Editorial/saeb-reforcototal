@@ -43,38 +43,38 @@
 \contentsline {chapter}{Simulado 3}{84}{chapter*.42}
 \contentsline {chapter}{Simulado 4}{89}{chapter*.43}
 \contentsline {chapter}{1. Tempo e espaço: fontes e formas de representação}{94}{chapter*.44}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{95}{section*.45}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{96}{section*.46}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{98}{section*.47}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{100}{section*.48}
-\contentsline {chapter}{2. Natureza e questões socioambientais}{103}{chapter*.49}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{103}{section*.50}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{105}{section*.51}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{106}{section*.52}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{108}{section*.53}
-\contentsline {chapter}{3. Culturas, identidades e diversidades}{111}{chapter*.54}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{111}{section*.55}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{113}{section*.56}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{115}{section*.57}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{117}{section*.58}
-\contentsline {chapter}{4. Poder, estado e instituições}{120}{chapter*.59}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{120}{section*.60}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{122}{section*.61}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{124}{section*.62}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{126}{section*.63}
-\contentsline {chapter}{5. Cidadania, direitos humanos e movimentos sociais}{129}{chapter*.64}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 1: Direitos humanos}}{130}{section*.65}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2: Lutas e conquistas}}{131}{section*.66}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3: A cidadania nas redes sociais}}{133}{section*.67}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{134}{section*.68}
-\contentsline {chapter}{6. Relações de trabalho, produção e circulação}{137}{chapter*.69}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{137}{section*.70}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{138}{section*.71}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{139}{section*.72}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 4}}{141}{section*.73}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{142}{section*.74}
-\contentsline {chapter}{Simulado 1}{144}{chapter*.75}
-\contentsline {chapter}{Simulado 2 }{147}{chapter*.76}
-\contentsline {chapter}{Simulado 3}{150}{chapter*.77}
-\contentsline {chapter}{Simulado 4}{153}{chapter*.78}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{96}{section*.45}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{97}{section*.46}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{99}{section*.47}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{102}{section*.48}
+\contentsline {chapter}{2. Natureza e questões socioambientais}{105}{chapter*.49}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{106}{section*.50}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{107}{section*.51}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{109}{section*.52}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{111}{section*.53}
+\contentsline {chapter}{3. Culturas, identidades e diversidades}{114}{chapter*.54}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{115}{section*.55}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{117}{section*.56}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{120}{section*.57}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{122}{section*.58}
+\contentsline {chapter}{4. Poder, estado e instituições}{126}{chapter*.59}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{127}{section*.60}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{129}{section*.61}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{132}{section*.62}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{134}{section*.63}
+\contentsline {chapter}{5. Cidadania, direitos humanos e movimentos sociais}{137}{chapter*.64}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 1: Direitos humanos}}{138}{section*.65}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2: Lutas e conquistas}}{140}{section*.66}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3: A cidadania nas redes sociais}}{142}{section*.67}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{144}{section*.68}
+\contentsline {chapter}{6. Relações de trabalho, produção e circulação}{147}{chapter*.69}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 1}}{148}{section*.70}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{149}{section*.71}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{151}{section*.72}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 4}}{152}{section*.73}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{154}{section*.74}
+\contentsline {chapter}{Simulado 1}{157}{chapter*.75}
+\contentsline {chapter}{Simulado 2 }{161}{chapter*.76}
+\contentsline {chapter}{Simulado 3}{165}{chapter*.77}
+\contentsline {chapter}{Simulado 4}{169}{chapter*.78}
 \babel@toc {brazilian}{}
