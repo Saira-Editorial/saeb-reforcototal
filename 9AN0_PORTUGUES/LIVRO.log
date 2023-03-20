@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  16 MAR 2023 16:09
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  20 MAR 2023 14:56
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.090 seconds
+luaotfload | main : initialization completed in 0.161 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2545,10 +2545,10 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 163.
 [25]
-<./imgs/img2.jpg, id=210, 361.35pt x 524.96124pt>
-File: ./imgs/img2.jpg Graphic file (type jpg)
-<use ./imgs/img2.jpg>
-Package luatex.def Info: ./imgs/img2.jpg  used on input line 176.
+<./imgs/img2.png, id=210, 361.35pt x 524.96124pt>
+File: ./imgs/img2.png Graphic file (type png)
+<use ./imgs/img2.png>
+Package luatex.def Info: ./imgs/img2.png  used on input line 176.
 (luatex.def)             Requested size: 195.68849pt x 284.50015pt.
 
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
@@ -2575,7 +2575,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 237.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 237.
-[27<./imgs/img2.jpg>]
+[27<./imgs/img2.png>]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
@@ -2782,15 +2782,15 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 833.
 [39<./imgs/img5.jpg>]
-<./imgs/img6.jpg, id=333, 590.205pt x 372.39125pt>
-File: ./imgs/img6.jpg Graphic file (type jpg)
-<use ./imgs/img6.jpg>
-Package luatex.def Info: ./imgs/img6.jpg  used on input line 853.
+<./imgs/img6.png, id=333, 590.205pt x 372.39125pt>
+File: ./imgs/img6.png Graphic file (type png)
+<use ./imgs/img6.png>
+Package luatex.def Info: ./imgs/img6.png  used on input line 853.
 (luatex.def)             Requested size: 213.0pt x 134.3903pt.
-<./imgs/img7.jpg, id=334, 619.31375pt x 199.74625pt>
-File: ./imgs/img7.jpg Graphic file (type jpg)
-<use ./imgs/img7.jpg>
-Package luatex.def Info: ./imgs/img7.jpg  used on input line 854.
+<./imgs/img7.png, id=334, 619.31375pt x 199.74625pt>
+File: ./imgs/img7.png Graphic file (type png)
+<use ./imgs/img7.png>
+Package luatex.def Info: ./imgs/img7.png  used on input line 854.
 (luatex.def)             Requested size: 213.0pt x 68.69917pt.
 
 Overfull \hbox (1.816pt too wide) in paragraph at lines 853--855
@@ -2805,15 +2805,15 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 873.
 
-[40<./imgs/img6.jpg><./imgs/img7.jpg>]
+[40<./imgs/img6.png><./imgs/img7.png>]
 Overfull \hbox (23.22403pt too wide) in paragraph at lines 879--880
 [][] 
  []
 
-<./imgs/img8.jpg, id=340, 494.84875pt x 630.355pt>
-File: ./imgs/img8.jpg Graphic file (type jpg)
-<use ./imgs/img8.jpg>
-Package luatex.def Info: ./imgs/img8.jpg  used on input line 893.
+<./imgs/img8.png, id=340, 494.84875pt x 630.355pt>
+File: ./imgs/img8.png Graphic file (type png)
+<use ./imgs/img8.png>
+Package luatex.def Info: ./imgs/img8.png  used on input line 893.
 (luatex.def)             Requested size: 222.06827pt x 282.88765pt.
 
 Overfull \hbox (43.47046pt too wide) has occurred while \output is active
@@ -2832,7 +2832,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 907.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 907.
-[41<./imgs/img8.jpg>]
+[41<./imgs/img8.png>]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
@@ -2940,10 +2940,10 @@ Package babel Info: Redefining portuges shorthand "|
 [47]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1223.
-<./imgs/img9.jpg, id=387, 441.65pt x 439.6425pt>
-File: ./imgs/img9.jpg Graphic file (type jpg)
-<use ./imgs/img9.jpg>
-Package luatex.def Info: ./imgs/img9.jpg  used on input line 1280.
+<./imgs/img9.png, id=387, 441.65pt x 439.6425pt>
+File: ./imgs/img9.png Graphic file (type png)
+<use ./imgs/img9.png>
+Package luatex.def Info: ./imgs/img9.png  used on input line 1280.
 (luatex.def)             Requested size: 331.25015pt x 329.73776pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1282--1282
@@ -2980,7 +2980,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1321.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1321.
-[49<./imgs/img9.jpg>]
+[49<./imgs/img9.png>]
 Overfull \hbox (0.18193pt too wide) in paragraph at lines 1336--1337
  \TU/MinionPro(0)/m/n/10 https://gau-chazh.cli-crbs.com.br/mundo/no-ti-cia/
 //novo-terremoto-atinge-a-turquia-derruba-predios-
