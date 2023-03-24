@@ -52,31 +52,19 @@
 \usepackage{textpos}
 \usepackage{mdframed}
 \usepackage{adjustbox}
+\usepackage{ragged2e}
 
 % Ulem
 \usepackage{ulem}
 
-\makeatletter
-  \newcommand\reduline{\bgroup\markoverwith{\textcolor{red}{\rule[-0.5ex]{2pt}{0.4pt}}}\ULon}
-  \UL@protected\def\blueuwave{\leavevmode \bgroup
-    \ifdim \ULdepth=\maxdimen \ULdepth 3.5\p@
-    \else \advance\ULdepth2\p@
-    \fi \markoverwith{\lower\ULdepth\hbox{\textcolor{blue}{\sixly \char58}}}\ULon}
-  \UL@protected\def\yellowdotuline{\leavevmode \bgroup
-    \UL@setULdepth
-    \ifx\UL@on\UL@onin \advance\ULdepth2\p@\fi
-    \markoverwith{\begingroup
-       %\advance\ULdepth0.08ex
-       \lower\ULdepth\hbox{\kern.06em \textcolor{yellow}{.}\kern.04em}%
-       \endgroup}%
-    \ULon}
-  \UL@protected\def\greendashuline{\leavevmode \bgroup
-    \UL@setULdepth
-    \ifx\UL@on\UL@onin \advance\ULdepth2\p@\fi
-    \markoverwith{\kern.13em
-    \vtop{\color{green}\kern\ULdepth \hrule width .3em}%
-    \kern.13em}\ULon}
-\makeatother
+
+\newcommand\reduline{\justify\bgroup
+\color{rosa}
+  \setlength{\baselineskip}{25pt}
+  \footnotesize
+  \cambria
+  \markoverwith{\lower0.4cm\hbox{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}}}
+\ULon}
 
 
 % Medidas (ver: memoir p.11 fig.2.3)
