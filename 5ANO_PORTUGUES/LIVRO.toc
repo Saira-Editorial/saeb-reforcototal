@@ -1,39 +1,39 @@
 \thispagestyle {empty}
-\contentsline {chapter}{1. A interpretação de textos}{4}{}%
-\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{4}{}%
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{6}{}%
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{8}{}%
-\contentsline {chapter}{2. Narração e drama}{11}{}%
-\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{11}{}%
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{13}{}%
-\contentsline {chapter}{1. Representações de tempo e espaço}{14}{}%
-\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{14}{}%
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{16}{}%
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{21}{}%
-\contentsline {chapter}{2. Natureza e meio ambiente}{24}{}%
-\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{24}{}%
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{25}{}%
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{26}{}%
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{30}{}%
-\contentsline {chapter}{3. Tudo é diverso}{32}{}%
-\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{32}{}%
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{33}{}%
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{40}{}%
-\contentsline {chapter}{4. Organizações e instituições}{43}{}%
-\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{43}{}%
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{44}{}%
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{50}{}%
-\contentsline {chapter}{5. Cidadania e sociedade}{53}{}%
-\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{53}{}%
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{54}{}%
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{60}{}%
-\contentsline {chapter}{6. Produção e trabalho}{64}{}%
-\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{64}{}%
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{65}{}%
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{68}{}%
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{71}{}%
-\contentsline {chapter}{Simulado 1}{74}{}%
-\contentsline {chapter}{Simulado 2 }{78}{}%
-\contentsline {chapter}{Simulado 3}{81}{}%
-\contentsline {chapter}{Simulado 4}{85}{}%
-\babel@toc {brazilian}{}\relax 
+\contentsline {chapter}{1. A interpretação de textos}{4}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{4}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{5}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{9}
+\contentsline {chapter}{2. Narração e drama}{12}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{12}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{14}
+\contentsline {chapter}{1. Representações de tempo e espaço}{15}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{15}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{17}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{22}
+\contentsline {chapter}{2. Natureza e meio ambiente}{25}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{25}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{26}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{27}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{31}
+\contentsline {chapter}{3. Tudo é diverso}{34}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{34}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{35}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{41}
+\contentsline {chapter}{4. Organizações e instituições}{45}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{45}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{46}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{53}
+\contentsline {chapter}{5. Cidadania e sociedade}{56}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{56}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{57}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{64}
+\contentsline {chapter}{6. Produção e trabalho}{67}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{67}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{68}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{70}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{74}
+\contentsline {chapter}{Simulado 1}{77}
+\contentsline {chapter}{Simulado 2 }{81}
+\contentsline {chapter}{Simulado 3}{84}
+\contentsline {chapter}{Simulado 4}{88}
+\babel@toc {brazilian}{}
