@@ -1,47 +1,75 @@
 \thispagestyle {empty}
-\contentsline {chapter}{1. A interpretação de textos}{4}{}%
-\contentsline {section}{\textcolor {azul}{Habilidades do SAEB}}{4}{}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{6}{}%
-\contentsline {section}{\textcolor {azul}{Treino}}{8}{}%
-\contentsline {chapter}{2. Narração e drama}{11}{}%
-\contentsline {section}{\textcolor {azul}{Habilidades do SAEB}}{11}{}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{13}{}%
-\contentsline {section}{\textcolor {azul}{Treino}}{15}{}%
-\contentsline {chapter}{3. O gênero notícia}{18}{}%
-\contentsline {section}{\textcolor {azul}{Habilidades do SAEB}}{18}{}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{20}{}%
-\contentsline {section}{\textcolor {azul}{Treino}}{22}{}%
-\contentsline {chapter}{4. Argumentação e persuasão}{26}{}%
-\contentsline {section}{\textcolor {azul}{Habilidades SAEB}}{26}{}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{28}{}%
-\contentsline {section}{\textcolor {azul}{Treino}}{30}{}%
-\contentsline {chapter}{5. Introdução à Poesia}{33}{}%
-\contentsline {section}{\textcolor {azul}{Habilidades SAEB}}{33}{}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{35}{}%
-\contentsline {section}{\textcolor {azul}{Treino}}{38}{}%
-\contentsline {chapter}{6. Textos: modos variados de se escrever e falar}{41}{}%
-\contentsline {section}{\textcolor {azul}{Habilidades SAEB}}{41}{}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{43}{}%
-\contentsline {section}{Treino}{45}{}%
-\contentsline {chapter}{7. Palavras que acrescentam sentidos}{48}{}%
-\contentsline {section}{\textcolor {azul}{Habilidades SAEB}}{48}{}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{50}{}%
-\contentsline {chapter}{8. Fatos e opiniões}{53}{}%
-\contentsline {section}{\textcolor {azul}{Habilidades SAEB}}{53}{}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{55}{}%
-\contentsline {section}{\textcolor {azul}{Treino}}{57}{}%
-\contentsline {chapter}{9. Organizando dados}{61}{}%
-\contentsline {section}{\textcolor {azul}{Habilidades SAEB}}{61}{}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{63}{}%
-\contentsline {section}{\textcolor {azul}{Treino}}{65}{}%
-\contentsline {chapter}{10. Passo a passo}{69}{}%
-\contentsline {section}{\textcolor {azul}{Habilidades SAEB}}{69}{}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{70}{}%
-\contentsline {section}{\textcolor {azul}{Treino}}{72}{}%
-\contentsline {chapter}{Simulado 1}{75}{}%
-\contentsline {chapter}{Simulado 2}{80}{}%
-\contentsline {chapter}{Simulado 3}{85}{}%
-\contentsline {chapter}{Simulado 4}{90}{}%
-\contentsline {chapter}{1. Representações de tempo e espaço}{95}{}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{97}{}%
-\babel@toc {brazilian}{}\relax 
+\contentsline {chapter}{1. A interpretação de textos}{4}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{4}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{6}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{8}
+\contentsline {chapter}{2. Narração e drama}{11}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{11}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{13}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{15}
+\contentsline {chapter}{3. O gênero notícia}{18}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{18}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{20}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{22}
+\contentsline {chapter}{4. Argumentação e persuasão}{26}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{26}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{28}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{30}
+\contentsline {chapter}{5. Introdução à Poesia}{33}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{33}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{35}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{38}
+\contentsline {chapter}{6. Textos: modos variados de se escrever e falar}{41}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{41}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{43}
+\contentsline {section}{Treino}{45}
+\contentsline {chapter}{7. Palavras que acrescentam sentidos}{48}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{48}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{50}
+\contentsline {chapter}{8. Fatos e opiniões}{53}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{53}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{55}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{57}
+\contentsline {chapter}{9. Organizando dados}{61}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{61}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{63}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{65}
+\contentsline {chapter}{10. Passo a passo}{69}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades SAEB}}{69}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{70}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{72}
+\contentsline {chapter}{Simulado 1}{75}
+\contentsline {chapter}{Simulado 2}{80}
+\contentsline {chapter}{Simulado 3}{85}
+\contentsline {chapter}{Simulado 4}{90}
+\contentsline {chapter}{1. Representações de tempo e espaço}{95}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{95}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{97}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{102}
+\contentsline {chapter}{2. Natureza e meio ambiente}{105}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{105}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{106}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{107}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{111}
+\contentsline {chapter}{3. Tudo é diverso}{114}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{114}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{115}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{122}
+\contentsline {chapter}{4. Organizações e instituições}{125}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{125}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{126}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{133}
+\contentsline {chapter}{5. Cidadania e sociedade}{136}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{136}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{138}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{144}
+\contentsline {chapter}{6. Produção e trabalho}{147}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{147}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{148}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{151}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{154}
+\contentsline {chapter}{Simulado 1}{157}
+\contentsline {chapter}{Simulado 2 }{161}
+\contentsline {chapter}{Simulado 3}{164}
+\contentsline {chapter}{Simulado 4}{168}
+\babel@toc {brazilian}{}
