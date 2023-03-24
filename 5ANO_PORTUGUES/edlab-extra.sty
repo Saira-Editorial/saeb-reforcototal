@@ -76,7 +76,7 @@
 
 % Comentário do professor
 \newcommand{\coment}[1]{%
-  \noindent{\color{rosa}\footnotesize\cambria #1}
+  \noindent\flushleft{\color{rosa}\footnotesize\cambria #1}
 }
 
 
@@ -120,6 +120,11 @@
 \fi
 }
 
+%%%%
+\newcommand{\boxitem}[1]{
+\item[\salmao{{[}\rosa{#1}{]}}]
+}
+
 % Linha para preencher a palavra correta
 \newcommand{\preencher}{\textcolor{salmao}{\line(1,0){70}}\mbox{ }} 
 
@@ -147,7 +152,7 @@
 % Cria box de conteúdos
 \newcommand{\conteudo}[1]{
 \begin{flushright}
-\adjustbox{varwidth=.7\linewidth}{
+\adjustbox{varwidth=.85\linewidth}{
 \begin{mdframed}[linewidth=2pt,linecolor=salmao]
 #1
 \end{mdframed}
@@ -156,4 +161,4 @@
 }
 
 % Para diferenciar a citação da fonte do conteúdo dos textos em quote
-\newcommand{\fonte}[1]{\raggedleft{\color{darkgray}\footnotesize #1}}
+\newcommand{\fonte}[1]{\begin{flushright}{\color{darkgray}\tiny #1}\end{flushright}}
