@@ -1,28 +1,28 @@
 \thispagestyle {empty}
-\contentsline {chapter}{\LARGE Representações de tempo e espaço}{4}{chapter*.2}%
-\contentsline {section}{\textcolor {azul}{Eixo de conhecimento do SAEB}}{4}{section*.3}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{5}{section*.5}%
-\contentsline {section}{\textcolor {azul}{Treino}}{9}{section*.9}%
+\contentsline {chapter}{\relax \fontsize {20.74}{25}\selectfont Representações de tempo e espaço}{4}{chapter*.2}%
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{4}{section*.3}%
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{5}{section*.5}%
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{9}{section*.9}%
 \contentsline {chapter}{Natureza e meio ambiente}{12}{chapter*.10}%
-\contentsline {section}{\textcolor {azul}{Eixo de conhecimento do SAEB}}{12}{section*.11}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{12}{section*.13}%
-\contentsline {section}{\textcolor {azul}{Atividade 2}}{13}{section*.14}%
-\contentsline {section}{\textcolor {azul}{Treino}}{17}{section*.17}%
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{12}{section*.11}%
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{12}{section*.13}%
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{13}{section*.14}%
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{17}{section*.17}%
 \contentsline {chapter}{Tudo é diverso}{20}{chapter*.19}%
-\contentsline {section}{\textcolor {azul}{Eixo de conhecimento do SAEB}}{20}{section*.20}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{21}{section*.22}%
-\contentsline {section}{\textcolor {azul}{Treino}}{26}{section*.25}%
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{20}{section*.20}%
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{21}{section*.22}%
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{26}{section*.25}%
 \contentsline {chapter}{Organizações e instituições}{29}{chapter*.28}%
-\contentsline {section}{\textcolor {azul}{Eixo de conhecimento do SAEB}}{29}{section*.29}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{30}{section*.31}%
-\contentsline {section}{\textcolor {azul}{Treino}}{36}{section*.34}%
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{29}{section*.29}%
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{30}{section*.31}%
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{36}{section*.34}%
 \contentsline {chapter}{Cidadania e sociedade}{38}{chapter*.35}%
-\contentsline {section}{\textcolor {azul}{Eixo de conhecimento do SAEB}}{38}{section*.36}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{39}{section*.38}%
-\contentsline {section}{\textcolor {azul}{Treino}}{45}{section*.41}%
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{38}{section*.36}%
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{39}{section*.38}%
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{45}{section*.41}%
 \contentsline {chapter}{Produção e trabalho}{47}{chapter*.44}%
-\contentsline {section}{\textcolor {azul}{Eixo de conhecimento do SAEB}}{47}{section*.45}%
-\contentsline {section}{\textcolor {azul}{Atividades}}{48}{section*.46}%
-\contentsline {section}{\textcolor {azul}{Atividade 3}}{50}{section*.49}%
-\contentsline {section}{\textcolor {azul}{Treino}}{54}{section*.53}%
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{47}{section*.45}%
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{48}{section*.46}%
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{50}{section*.49}%
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{54}{section*.53}%
 \babel@toc {brazilian}{}\relax 

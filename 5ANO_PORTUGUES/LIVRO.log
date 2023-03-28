@@ -1,41 +1,36 @@
-This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.10) (format=lualatex 2023.3.23)  28 MAR 2023 16:23
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2022.11.12)  28 MAR 2023 16:52
  restricted system commands enabled.
-**"C:/Users/Windows/OneDrive/Documents/Felipe/SAEB (CASA DE LETRAS)/saeb-reforc
-ototal/5ANO_PORTUGUES/LIVRO.tex"
-
-("C:/Users/Windows/OneDrive/Documents/Felipe/SAEB (CASA DE LETRAS)/saeb-reforco
-total/5ANO_PORTUGUES/LIVRO.tex"
-LaTeX2e <2022-06-01> patch level 5
-Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
-Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2022-10-04 2.75 ConTeXt Lua libraries -- extended c
+**LIVRO.tex
+(./LIVRO.tex
+LaTeX2e <2021-11-15> patch level 1
+Lua module: luaotfload 2021-05-21 3.18 Lua based OpenType font support
+Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2021-05-20 2.74 ConTeXt Lua libraries -- extended c
 ollection.
-luaotfload | conf : Root cache directory is "C:/Users/Windows/AppData/Local/MiKT
-eX/luatex-cache/generic/names".
-luaotfload | init : Loading fontloader "fontloader-2022-10-03.lua" from kpse-res
-olved path "C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload
-/fontloader-2022-10-03.lua".
+luaotfload | conf : Root cache directory is "/home/editorial/.texlive2021/texmf-
+var/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2021-05-20.lua" from kpse-res
+olved path "/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader-2021-
+05-20.lua".
 Lua-only attribute luaotfload@noligature = 1
-luaotfload | init : Context OpenType loader version 3.120
+Lua-only attribute luaotfload@syllabe = 2
+luaotfload | init : Context OpenType loader version 3.116
 Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
 Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua-only attribute luaotfload_color_attribute = 2
-luaotfload | conf : Root cache directory is "C:/Users/Windows/AppData/Local/MiKT
-eX/luatex-cache/generic/names".
+Lua-only attribute luaotfload_color_attribute = 3
+luaotfload | conf : Root cache directory is "/home/editorial/.texlive2021/texmf-
+var/luatex-cache/generic/names".
 Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
 Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
-Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
-Inserting `luaotfload.harf.glyphstream' at position 1 in `glyph_stream_provider'
-.
 Inserting `luaotfload.harf.finalize_vlist' at position 1 in `post_linebreak_filt
 er'.
 Inserting `luaotfload.harf.finalize_hlist' at position 2 in `hpack_filter'.
 Inserting `luaotfload.cleanup_files' at position 1 in `wrapup_run'.
 Inserting `luaotfload.harf.finalize_unicode' at position 1 in `finish_pdffile'.
 Inserting `luaotfload.glyphinfo' at position 1 in `glyph_info'.
-Lua-only attribute luaotfload.letterspace_done = 3
+Lua-only attribute luaotfload.letterspace_done = 4
 Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
 font'.
 Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
@@ -48,311 +43,309 @@ Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2022-09-28>
+. L3 programming layer <2022-01-21>
 Inserting `tracingstacklevels' at position 1 in `input_level_string'.
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/memoir/memoir.cls
-Document Class: memoir 2022/11/17 v3.7.19 configurable book, report, article do
-cument class
-
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count183
-)
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2021/06/16 v3.7p configurable book, report, article docu
+ment class
 \onelineskip=\skip47
 \lxvchars=\skip48
 \xlvchars=\skip49
-\@memcnta=\count184
-\c@@memmarkcntra=\count185
- (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+\@memcnta=\count183
+\c@@memmarkcntra=\count184
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-\stockheight=\dimen137
-\stockwidth=\dimen138
-\trimtop=\skip50
-\trimedge=\skip51
+\stockheight=\skip50
+\stockwidth=\skip51
+\trimtop=\skip52
+\trimedge=\skip53
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/memoir/mem12.clo
-File: mem12.clo 2022/07/29 v0.5 memoir class 12pt size option
-luaotfload | db : Font names database loaded from C:/Users/Windows/AppData/Local
-/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
-\binding=\skip52
-\spinemargin=\skip53
-\foremargin=\skip54
-\uppermargin=\skip55
-\lowermargin=\skip56
-\headdrop=\skip57
-\normalrulethickness=\skip58
-\mem@maxheadheight=\skip59
-\mem@maxfootheight=\skip60
-\headwidth=\skip61
-\c@storedpagenumber=\count186
-\memPD=\dimen139
-\m@mabparskip=\skip62
-\thanksmarkwidth=\skip63
-\thanksmarksep=\skip64
-\droptitle=\skip65
-\c@book=\count187
-\c@part=\count188
-\c@chapter=\count189
-\c@section=\count190
-\c@subsection=\count191
-\c@subsubsection=\count192
-\c@paragraph=\count193
-\c@subparagraph=\count194
-\beforechapskip=\skip66
-\midchapskip=\skip67
-\afterchapskip=\skip68
-\chapindent=\skip69
-\bottomsectionskip=\skip70
-\secindent=\skip71
-\beforesecskip=\skip72
-\aftersecskip=\skip73
-\subsecindent=\skip74
-\beforesubsecskip=\skip75
-\aftersubsecskip=\skip76
-\subsubsecindent=\skip77
-\beforesubsubsecskip=\skip78
-\aftersubsubsecskip=\skip79
-\paraindent=\skip80
-\beforeparaskip=\skip81
-\afterparaskip=\skip82
-\subparaindent=\skip83
-\beforesubparaskip=\skip84
-\aftersubparaskip=\skip85
-\pfbreakskip=\skip86
-\c@@ppsavesec=\count195
-\c@@ppsaveapp=\count196
-\ragrparindent=\dimen140
-\everylistparindent=\dimen141
-\parsepi=\skip87
-\topsepi=\skip88
-\itemsepi=\skip89
-\parsepii=\skip90
-\topsepii=\skip91
-\topsepiii=\skip92
-\itemsepii=\skip93
-\itemsepiii=\skip94
-\partopsepii=\skip95
-\partopsepiii=\skip96
-\m@msavetopsep=\skip97
-\m@msavepartopsep=\skip98
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem12.clo
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+luaotfload | db : Font names database loaded from /home/editorial/.texlive2021/t
+exmf-var/luatex-cache/generic/names/luaotfload-names.luc)
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count185
+\memPD=\dimen137
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count186
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count194
+\c@@ppsaveapp=\count195
+\ragrparindent=\dimen138
+\everylistparindent=\dimen139
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
 \@enLab=\toks16
-\abstitleskip=\skip99
-\absleftindent=\skip100
-\abs@leftindent=\dimen142
-\absrightindent=\skip101
-\absparindent=\skip102
-\absparsep=\skip103
-\c@vslineno=\count197
-\c@poemline=\count198
-\c@modulo@vs=\count199
-\c@memfvsline=\count266
-\vleftskip=\skip104
-\vrightskip=\skip105
-\stanzaskip=\skip106
-\versewidth=\skip107
-\vgap=\skip108
-\vindent=\skip109
-\vleftmargin=\dimen143
-\c@verse=\count267
-\c@chrsinstr=\count268
-\beforepoemtitleskip=\skip110
-\afterpoemtitleskip=\skip111
-\c@poem=\count269
-\beforePoemTitleskip=\skip112
-\midPoemTitleskip=\skip113
-\afterPoemTitleskip=\skip114
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen140
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count196
+\c@poemline=\count197
+\c@modulo@vs=\count198
+\c@memfvsline=\count199
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen141
+\c@verse=\count266
+\c@chrsinstr=\count267
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count268
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty
-Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen144
-\ar@mcellbox=\box51
-\extrarowheight=\dimen145
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen142
+\ar@mcellbox=\box50
+\extrarowheight=\dimen143
 \NC@list=\toks17
-\extratabsurround=\skip115
-\backup@length=\skip116
-\ar@cellbox=\box52
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box51
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tools/dcolumn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tools/delarray.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/delarray.sty
 Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen146
-\TX@old@table=\dimen147
-\TX@old@col=\dimen148
-\TX@target=\dimen149
-\TX@delta=\dimen150
-\TX@cols=\count270
+\TX@col@width=\dimen144
+\TX@old@table=\dimen145
+\TX@old@col=\dimen146
+\TX@target=\dimen147
+\TX@delta=\dimen148
+\TX@cols=\count269
 \TX@ftn=\toks18
 )
-\heavyrulewidth=\dimen151
-\lightrulewidth=\dimen152
-\cmidrulewidth=\dimen153
-\belowrulesep=\dimen154
-\belowbottomsep=\dimen155
-\aboverulesep=\dimen156
-\abovetopsep=\dimen157
-\cmidrulesep=\dimen158
-\cmidrulekern=\dimen159
-\defaultaddspace=\dimen160
-\@cmidla=\count271
-\@cmidlb=\count272
-\@aboverulesep=\dimen161
-\@belowrulesep=\dimen162
-\@thisruleclass=\count273
-\@lastruleclass=\count274
-\@thisrulewidth=\dimen163
-\ctableftskip=\skip117
-\ctabrightskip=\skip118
-\abovecolumnspenalty=\count275
-\@linestogo=\count276
-\@cellstogo=\count277
-\@cellsincolumn=\count278
+\heavyrulewidth=\dimen149
+\lightrulewidth=\dimen150
+\cmidrulewidth=\dimen151
+\belowrulesep=\dimen152
+\belowbottomsep=\dimen153
+\aboverulesep=\dimen154
+\abovetopsep=\dimen155
+\cmidrulesep=\dimen156
+\cmidrulekern=\dimen157
+\defaultaddspace=\dimen158
+\@cmidla=\count270
+\@cmidlb=\count271
+\@aboverulesep=\dimen159
+\@belowrulesep=\dimen160
+\@thisruleclass=\count272
+\@lastruleclass=\count273
+\@thisrulewidth=\dimen161
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count274
+\@linestogo=\count275
+\@cellstogo=\count276
+\@cellsincolumn=\count277
 \crtok=\toks19
-\@mincolumnwidth=\dimen164
-\c@newflo@tctr=\count279
-\mem@margin@floatbox=\box53
-\@contcwidth=\skip119
-\@contindw=\skip120
-\abovecaptionskip=\skip121
-\belowcaptionskip=\skip122
-\subfloattopskip=\skip123
-\subfloatcapskip=\skip124
-\subfloatcaptopadj=\skip125
-\subfloatbottomskip=\skip126
-\subfloatlabelskip=\skip127
-\subfloatcapmargin=\dimen165
-\c@@contsubnum=\count280
-\m@mscap@capbox=\box54
-\m@mscap@fbox=\box55
-\sidecapsep=\dimen166
-\sidecapwidth=\dimen167
-\m@m@tempdima=\dimen168
-\m@mscapraise=\dimen169
-\sidecapraise=\dimen170
-\m@mscapmainwidth=\dimen171
-\m@mscaplkern=\dimen172
-\beforeepigraphskip=\skip128
-\afterepigraphskip=\skip129
-\epigraphwidth=\skip130
-\epigraphrule=\skip131
-LaTeX Info: Redefining \em on input line 7655.
-LaTeX Info: Redefining \emph on input line 7663.
-\tocentryskip=\skip132
-\tocbaseline=\skip133
-\cftparskip=\skip134
-\cftbeforebookskip=\skip135
-\cftbookindent=\dimen173
-\cftbooknumwidth=\dimen174
-\cftbeforepartskip=\skip136
-\cftpartindent=\skip137
-\cftpartnumwidth=\skip138
-\cftbeforechapterskip=\skip139
-\cftchapterindent=\skip140
-\cftchapternumwidth=\skip141
-\cftbeforesectionskip=\skip142
-\cftsectionindent=\skip143
-\cftsectionnumwidth=\skip144
-\cftbeforesubsectionskip=\skip145
-\cftsubsectionindent=\skip146
-\cftsubsectionnumwidth=\skip147
-\cftbeforesubsubsectionskip=\skip148
-\cftsubsubsectionindent=\skip149
-\cftsubsubsectionnumwidth=\skip150
-\cftbeforeparagraphskip=\skip151
-\cftparagraphindent=\skip152
-\cftparagraphnumwidth=\skip153
-\cftbeforesubparagraphskip=\skip154
-\cftsubparagraphindent=\skip155
-\cftsubparagraphnumwidth=\skip156
-\prechapterprecisshift=\dimen175
-\c@maxsecnumdepth=\count281
-\bibindent=\dimen176
-\bibitemsep=\skip157
-\indexcolsep=\skip158
-\indexrule=\skip159
+\@mincolumnwidth=\dimen162
+\c@newflo@tctr=\count278
+\mem@margin@floatbox=\box52
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen163
+\c@@contsubnum=\count279
+\m@mscap@capbox=\box53
+\m@mscap@fbox=\box54
+\sidecapsep=\dimen164
+\sidecapwidth=\dimen165
+\m@m@tempdima=\dimen166
+\m@mscapraise=\dimen167
+\sidecapraise=\dimen168
+\m@mscapmainwidth=\dimen169
+\m@mscaplkern=\dimen170
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+LaTeX Info: Redefining \em on input line 7654.
+LaTeX Info: Redefining \emph on input line 7662.
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen171
+\cftbooknumwidth=\dimen172
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen173
+\c@maxsecnumdepth=\count280
+\bibindent=\dimen174
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
 \indexmarkstyle=\toks20
 \@indexbox=\insert252
-\glossarycolsep=\dimen177
-\glossaryrule=\dimen178
-\sideparvshift=\skip160
+\glossarycolsep=\dimen175
+\glossaryrule=\dimen176
+\sideparvshift=\skip162
 \sideins=\insert251
-\sidebartopsep=\skip161
-\sidebarhsep=\skip162
-\sidebarvsep=\skip163
-\sidebarwidth=\skip164
-\footmarkwidth=\skip165
-\footmarksep=\skip166
-\footparindent=\skip167
-\footinsdim=\skip168
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
 \footinsv@r=\insert250
 \@mpfootinsv@r=\insert249
-\m@m@k=\count282
-\m@m@h=\dimen179
-\m@mipn@skip=\skip169
+\m@m@k=\count281
+\m@m@h=\dimen177
+\m@mipn@skip=\skip171
 \sidefootins=\insert248
-\sidefootadjust=\skip170
-\sidefootheight=\skip171
-\sidefoothsep=\skip172
-\sidefootvsep=\skip173
-\sidefootwidth=\skip174
-\m@mdownsf=\skip175
-\c@sidefootnote=\count283
-\sidefootmarkwidth=\skip176
-\sidefootmarksep=\skip177
-\sidefootparindent=\skip178
-\c@pagenote=\count284
-\c@pagenoteshadow=\count285
-\mem@pn@lastkern=\skip179
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count282
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count283
+\c@pagenoteshadow=\count284
+\mem@pn@lastkern=\skip181
 \every@verbatim=\toks21
 \afterevery@verbatim=\toks22
 \verbatim@line=\toks23
-\tab@position=\count286
+\tab@position=\count285
 \verbatim@in@stream=\read2
-\verbatimindent=\skip180
+\verbatimindent=\skip182
 \verbatim@out=\write3
-\bvboxsep=\skip181
-\c@memfbvline=\count287
-\c@bvlinectr=\count288
-\bvnumlength=\skip182
-\fb@frw=\dimen180
-\fb@frh=\dimen181
-\FrameRule=\dimen182
-\FrameSep=\dimen183
-\c@cp@cntr=\count289
-\c@ism@mctr=\count290
-\c@xsm@mctr=\count291
-\c@csm@mctr=\count292
-\c@ksm@mctr=\count293
-\c@xksm@mctr=\count294
-\c@cksm@mctr=\count295
-\c@msm@mctr=\count296
-\c@xmsm@mctr=\count297
-\c@cmsm@mctr=\count298
-\c@bsm@mctr=\count299
-\c@workm@mctr=\count300
-\c@sheetsequence=\count301
-\c@lastsheet=\count302
-\c@lastpage=\count303
+\bvboxsep=\skip183
+\c@memfbvline=\count286
+\c@bvlinectr=\count287
+\bvnumlength=\skip184
+\fb@frw=\dimen178
+\fb@frh=\dimen179
+\FrameRule=\dimen180
+\FrameSep=\dimen181
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/textcase/textcase.sty
-Package: textcase 2022/07/10 v1.03 Text only upper/lower case changing (DPC)
-Package textcase Info: Defining Legacy names on input line 20.
+
+LaTeX hooks Warning: Generic hook 'package/before/framed' is deprecated.
+(hooks)              Use hook 'package/framed/before' instead.
+
+\c@cp@cntr=\count288
+\c@ism@mctr=\count289
+\c@xsm@mctr=\count290
+\c@csm@mctr=\count291
+\c@ksm@mctr=\count292
+\c@xksm@mctr=\count293
+\c@cksm@mctr=\count294
+\c@msm@mctr=\count295
+\c@xmsm@mctr=\count296
+\c@cmsm@mctr=\count297
+\c@bsm@mctr=\count298
+\c@workm@mctr=\count299
+\c@sheetsequence=\count300
+\c@lastsheet=\count301
+\c@lastpage=\count302
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
 )
-\c@figure=\count304
-\c@lofdepth=\count305
-\cftbeforefigureskip=\skip183
-\cftfigureindent=\skip184
-\cftfigurenumwidth=\skip185
-\c@table=\count306
-\c@lotdepth=\count307
-\cftbeforetableskip=\skip186
-\cfttableindent=\skip187
-\cfttablenumwidth=\skip188
+\c@figure=\count303
+\c@lofdepth=\count304
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count305
+\c@lotdepth=\count306
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
 Package abstract [2008/07/23] emulated by memoir.
 Package appendix [2008/07/23] emulated by memoir.
 Package booktabs [2016/05/16] emulated by memoir.
@@ -383,417 +376,395 @@ Package tocloft [2008/07/23] emulated by memoir.
 Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
-) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty
-Package: babel 2022/10/04 3.81 The Babel package
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
+
+LaTeX hooks Warning: Generic hook 'package/before/float' is deprecated.
+(hooks)              Use hook 'package/float/before' instead.
+
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/01/26 3.70 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
 \bbl@readstream=\read3
-\l@afrikaans=\language2
+\l@dumylang=\language2
 Package babel Info: Non-standard hyphenation setup on input line 118.
-\l@ancientgreek=\language3
-\l@armenian=\language4
-\l@assamese=\language5
-\l@basque=\language6
-\l@belarusian=\language7
-\l@bengali=\language8
-\l@bokmal=\language9
-\l@bulgarian=\language10
-\l@catalan=\language11
-\l@churchslavonic=\language12
-\l@classiclatin=\language13
-\l@coptic=\language14
-\l@croatian=\language15
-\l@czech=\language16
-\l@danish=\language17
-\l@dutch=\language18
-\l@esperanto=\language19
-\l@estonian=\language20
-\l@ethiopic=\language21
-\l@finnish=\language22
-\l@french=\language23
-\l@friulan=\language24
-\l@galician=\language25
-\l@georgian=\language26
-\l@german=\language27
-\l@greek=\language28
-\l@gujarati=\language29
-\l@hindi=\language30
-\l@hungarian=\language31
-\l@icelandic=\language32
-\l@indonesian=\language33
-\l@interlingua=\language34
-\l@irish=\language35
-\l@italian=\language36
-\l@kannada=\language37
-\l@kurmanji=\language38
-\l@latin=\language39
-\l@latvian=\language40
-\l@lithuanian=\language41
-\l@liturgicallatin=\language42
-\l@macedonian=\language43
-\l@malayalam=\language44
-\l@marathi=\language45
-\l@mongolian=\language46
-\l@mongolianlmc=\language47
-\l@monogreek=\language48
-\l@ngerman=\language49
-\l@nynorsk=\language50
-\l@occitan=\language51
-\l@oriya=\language52
-\l@pali=\language53
-\l@panjabi=\language54
-\l@piedmontese=\language55
-\l@polish=\language56
-\l@portuguese=\language57
-\l@romanian=\language58
-\l@romansh=\language59
-\l@russian=\language60
-\l@sanskrit=\language61
-\l@serbian=\language62
-\l@serbianc=\language63
-\l@slovak=\language64
-\l@slovenian=\language65
-\l@spanish=\language66
-\l@swedish=\language67
-\l@swissgerman=\language68
-\l@tamil=\language69
-\l@telugu=\language70
-\l@thai=\language71
-\l@turkish=\language72
-\l@turkmen=\language73
-\l@ukenglish=\language74
-\l@ukrainian=\language75
-\l@uppersorbian=\language76
-\l@usenglishmax=\language77
-\l@welsh=\language78
+\l@nohyphenation=\language3
+\l@mongolianlmc=\language4
+\l@bokmal=\language5
+\l@swissgerman=\language6
+\l@friulan=\language7
+\l@classiclatin=\language8
+\l@romansh=\language9
+\l@czech=\language10
+\l@polish=\language11
+\l@welsh=\language12
+\l@ethiopic=\language13
+\l@irish=\language14
+\l@ancientgreek=\language15
+\l@turkish=\language16
+\l@french=\language17
+\l@bengali=\language18
+\l@farsi=\language19
+\l@pinyin=\language20
+\l@sanskrit=\language21
+\l@oriya=\language22
+\l@greek=\language23
+\l@estonian=\language24
+\l@romanian=\language25
+\l@croatian=\language26
+\l@interlingua=\language27
+\l@lithuanian=\language28
+\l@dutch=\language29
+\l@panjabi=\language30
+\l@georgian=\language31
+\l@occitan=\language32
+\l@schoolfinnish=\language33
+\l@thai=\language34
+\l@armenian=\language35
+\l@uppersorbian=\language36
+\l@belarusian=\language37
+\l@telugu=\language38
+\l@kurmanji=\language39
+\l@kannada=\language40
+\l@piedmontese=\language41
+\l@hindi=\language42
+\l@ukenglish=\language43
+\l@assamese=\language44
+\l@usenglishmax=\language45
+\l@serbian=\language46
+\l@esperanto=\language47
+\l@russian=\language48
+\l@mongolian=\language49
+\l@basque=\language50
+\l@liturgicallatin=\language51
+\l@bulgarian=\language52
+\l@galician=\language53
+\l@ibycus=\language54
+\l@afrikaans=\language55
+\l@pali=\language56
+\l@latvian=\language57
+\l@danish=\language58
+\l@italian=\language59
+\l@ngerman=\language60
+\l@ngerman-x-2021-02-26=\language61
+\l@portuguese=\language62
+\l@turkmen=\language63
+\l@coptic=\language64
+\l@marathi=\language65
+\l@swedish=\language66
+\l@churchslavonic=\language67
+\l@malayalam=\language68
+\l@monogreek=\language69
+\l@slovenian=\language70
+\l@slovak=\language71
+\l@serbianc=\language72
+\l@catalan=\language73
+\l@tamil=\language74
+\l@spanish=\language75
+\l@icelandic=\language76
+\l@finnish=\language77
+\l@gujarati=\language78
+\l@german-x-2021-02-26=\language79
+\l@hungarian=\language80
+\l@german=\language81
+\l@ukrainian=\language82
+\l@latin=\language83
+\l@indonesian=\language84
+\l@arabic=\language85
+\l@macedonian=\language86
+\l@nynorsk=\language87
 \babelcatcodetablenum=\catcodetable12
 \bbl@pattcodes=\catcodetable13
 )
-\babel@savecnt=\count308
-\U@D=\dimen184
-\l@unhyphenated=\language79
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
-\bbl@attr@locale=\attribute4
+\babel@savecnt=\count307
+\U@D=\dimen182
+\l@unhyphenated=\language88
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@attr@locale=\attribute5
 )
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/babel-portuges/brazil
-ian.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/brazilian.ldf
 Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
 Package babel Info: Hyphen rules for 'brazilian' set to \l@portuguese
-(babel)             (\language57). Reported on input line 111.
+(babel)             (\language62). Reported on input line 111.
 Package babel Info: Making " an active character on input line 143.
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/loadhyph/
-loadhyph-pt.tex UTF-8 Portuguese hyphenation patterns
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/patterns/
-tex/hyph-pt.tex))))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/pt/bab
-el-brazilian.tex
-Package babel Info: Importing font and identification data for brazilian
-(babel)             from babel-pt-BR.ini. Reported on input line 11.
-)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/anyfontsize/anyfontsi
-ze.sty
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-pt.tex
+UTF-8 Portuguese hyphenation patterns
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-pt.tex)))
+) (/usr/share/texlive/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/relsize/relsize.sty
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xpa
-rse.sty
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-09-28 L3 programming layer (loader) 
-
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-l
-uatex.def
-File: l3backend-luatex.def 2022-09-28 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count309
-\l__pdf_internal_box=\box56
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2022-01-12 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count308
+\l__pdf_internal_box=\box55
 ))
-Package: xparse 2022-06-22 L3 Experimental document command parser
+Package: xparse 2022-01-12 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-lua
-tex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
 eX
-\l__fontspec_script_int=\count310
-\l__fontspec_language_int=\count311
-\l__fontspec_strnum_int=\count312
-\l__fontspec_tmp_int=\count313
-\l__fontspec_tmpa_int=\count314
-\l__fontspec_tmpb_int=\count315
-\l__fontspec_tmpc_int=\count316
-\l__fontspec_em_int=\count317
-\l__fontspec_emdef_int=\count318
-\l__fontspec_strong_int=\count319
-\l__fontspec_strongdef_int=\count320
-\l__fontspec_tmpa_dim=\dimen185
-\l__fontspec_tmpb_dim=\dimen186
-\l__fontspec_tmpc_dim=\dimen187
+\l__fontspec_script_int=\count309
+\l__fontspec_language_int=\count310
+\l__fontspec_strnum_int=\count311
+\l__fontspec_tmp_int=\count312
+\l__fontspec_tmpa_int=\count313
+\l__fontspec_tmpb_int=\count314
+\l__fontspec_tmpc_int=\count315
+\l__fontspec_em_int=\count316
+\l__fontspec_emdef_int=\count317
+\l__fontspec_strong_int=\count318
+\l__fontspec_strongdef_int=\count319
+\l__fontspec_tmpa_dim=\dimen183
+\l__fontspec_tmpb_dim=\dimen184
+\l__fontspec_tmpc_dim=\dimen185
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.cfg
-))) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/lineno/lineno.sty
-Package: lineno 2023/01/19 line numbers on paragraphs v5.1
-\linenopenalty=\count321
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count320
 \output=\toks24
-\linenoprevgraf=\count322
-\linenumbersep=\dimen188
-\linenumberwidth=\dimen189
-\c@linenumber=\count323
-\c@pagewiselinenumber=\count324
-\c@LN@truepage=\count325
-\c@internallinenumber=\count326
-\c@internallinenumbers=\count327
-\quotelinenumbersep=\dimen190
-\bframerule=\dimen191
-\bframesep=\dimen192
-\bframebox=\box57
-LaTeX Info: Redefining \\ on input line 3131.
-) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.sty
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/l3keys2e/l
-3keys2e.sty
-Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+\linenoprevgraf=\count321
+\linenumbersep=\dimen186
+\linenumberwidth=\dimen187
+\c@linenumber=\count322
+\c@pagewiselinenumber=\count323
+\c@LN@truepage=\count324
+\c@internallinenumber=\count325
+\c@internallinenumbers=\count326
+\quotelinenumbersep=\dimen188
+\bframerule=\dimen189
+\bframesep=\dimen190
+\bframebox=\box56
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count328
-\l__lipsum_a_int=\count329
-\l__lipsum_b_int=\count330
+\g__lipsum_par_int=\count327
+\l__lipsum_a_int=\count328
+\l__lipsum_b_int=\count329
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.ltd.tex
-)) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/alltt.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/base/alltt.sty
 Package: alltt 2021/01/29 v2.0g defines alltt environment
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks25
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics
-.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: luatex.def on input line 107.
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.d
-ef
-File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2021/06/01 v1.2c Graphics/color driver for luatex
 ))
-\Gin@req@height=\dimen193
-\Gin@req@width=\dimen194
-) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty
+\Gin@req@height=\dimen191
+\Gin@req@width=\dimen192
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count331
+\c@float@type=\count330
 \float@exts=\toks26
-\float@box=\box58
+\float@box=\box57
 \@float@everytoks=\toks27
-\@floatcapt=\box59
+\@floatcapt=\box58
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/lettrine/lettrine.sty
-File: lettrine.sty 2022-09-25 v2.30 (Daniel Flipo)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyval.tex
-
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvutils.te
-x
-\XKV@toks=\toks28
-\XKV@tempa@toks=\toks29
-)
-\XKV@depth=\count332
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/minifp/minifp.sty
+(/usr/share/texlive/texmf-dist/tex/generic/minifp/minifp.sty
 Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
 -based programing language.
-\MFP@loopctr=\count333
+\MFP@loopctr=\count331
 )
-\c@DefaultLines=\count334
-\c@DefaultDepth=\count335
-\DefaultFindent=\dimen195
-\DefaultNindent=\dimen196
-\DefaultSlope=\dimen197
-\DiscardVskip=\dimen198
+\c@DefaultLines=\count332
+\c@DefaultDepth=\count333
+\DefaultFindent=\dimen193
+\DefaultNindent=\dimen194
+\DefaultSlope=\dimen195
+\DiscardVskip=\dimen196
+\L@lbox=\box59
+\L@tbox=\box60
+\c@L@lines=\count334
+\c@L@depth=\count335
+\L@Pindent=\dimen197
+\L@Findent=\dimen198
+\L@Nindent=\dimen199
+\L@lraise=\dimen256
+\L@first=\dimen257
+\L@next=\dimen258
+\L@slope=\dimen259
+\L@height=\dimen260
+\L@novskip=\dimen261
+\L@target@ht=\dimen262
+\L@target@dp=\dimen263
+\L@target@tht=\dimen264
+\LettrineWidth=\dimen265
+\LettrineHeight=\dimen266
+\LettrineDepth=\dimen267
+\Llist@everypar=\toks28
 
 Loading lettrine.cfg
-
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/lettrine/lettrine.cfg
-)
-\L@lbox=\box60
-\L@tbox=\box61
-\c@L@lines=\count336
-\c@L@depth=\count337
-\L@Pindent=\dimen199
-\L@Findent=\dimen256
-\L@Nindent=\dimen257
-\L@lraise=\dimen258
-\L@first=\dimen259
-\L@next=\dimen260
-\L@slope=\dimen261
-\L@height=\dimen262
-\L@novskip=\dimen263
-\L@target@ht=\dimen264
-\L@target@dp=\dimen265
-\L@target@tht=\dimen266
-\LettrineWidth=\dimen267
-\LettrineHeight=\dimen268
-\LettrineDepth=\dimen269
-\Llist@everypar=\toks30
-)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/comment/comment.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write4
 
 Excluding comment 'comment')
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/adforn/adforn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/adforn/adforn.sty
 Package: adforn 2019/10/13 v1.1b adforn CFR
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/pifont.sty
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
 Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
 LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
 
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/upzd.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
 
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/upsy.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
 ))
 LaTeX Font Info:    Trying to load font information for U+OrnementsADF on input
  line 4.
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/adforn/uornementsadf.
-fd))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+(/usr/share/texlive/texmf-dist/tex/latex/adforn/uornementsadf.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cf
-g
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: luatex.def on input line 227.
-
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.lt
-x)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
-Package xcolor Info: Model `RGB' extended on input line 1369.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype.s
-ty
-Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
-\MT@toks=\toks31
-\MT@tempbox=\box62
-\MT@count=\count338
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
-LaTeX Info: Redefining \leftprotrusion on input line 1060.
-\MT@prot@toks=\toks32
-LaTeX Info: Redefining \rightprotrusion on input line 1078.
-LaTeX Info: Redefining \textls on input line 1368.
-\MT@outer@kern=\dimen270
-LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count339
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype-l
-uatex.def
-File: microtype-luatex.def 2023/03/13 v3.1a Definitions specific to luatex (RS)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count336
+)
+\MT@toks=\toks29
+\MT@count=\count337
+\MT@tempbox=\box61
+LaTeX Info: Redefining \leftprotrusion on input line 1010.
+LaTeX Info: Redefining \rightprotrusion on input line 1018.
+LaTeX Info: Redefining \textls on input line 1173.
+\MT@outer@kern=\dimen268
+LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
+\MT@listname@count=\count338
 
-Lua module: microtype 2023/03/13 3.1a microtype module.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-luatex.def
+File: microtype-luatex.def 2021/12/10 v3.0b Definitions specific to luatex (RS)
+
+Lua module: microtype 2021/12/10 3.0b microtype module.
 Module microtype Info: overwriting function `keepligature' on input line 63
-LaTeX Info: Redefining \lsstyle on input line 688.
-LaTeX Info: Redefining \lslig on input line 688.
-\MT@outer@space=\skip189
+LaTeX Info: Redefining \lsstyle on input line 685.
+LaTeX Info: Redefining \lslig on input line 685.
+\MT@outer@space=\skip191
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype.c
-fg
-File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
 ))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.sty
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip190
-\enit@outerparindent=\dimen271
-\enit@toks=\toks33
-\enit@inbox=\box63
-\enit@count@id=\count340
-\enitdp@description=\count341
-) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
+\labelindent=\skip192
+\enit@outerparindent=\dimen269
+\enit@toks=\toks30
+\enit@inbox=\box62
+\enit@count@id=\count339
+\enitdp@description=\count340
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/marginnote/marginnote
-.sty
+(/usr/share/texlive/texmf-dist/tex/latex/marginnote/marginnote.sty
 Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
-\c@mn@abspage=\count342
+\c@mn@abspage=\count341
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box64
-\beforetitleunit=\skip191
-\aftertitleunit=\skip192
-\ttl@plus=\dimen272
-\ttl@minus=\dimen273
-\ttl@toksa=\toks34
-\titlewidth=\dimen274
-\titlewidthlast=\dimen275
-\titlewidthfirst=\dimen276
-) (./edlab-penalties.sty) (./edlab-git.sty) (./edlab-toc.sty)
-(./edlab-extra.sty
-\enitdp@boxlist=\count343
-\c@escolhai=\count344
-\enitdp@escolha=\count345
+\ttl@box=\box63
+\beforetitleunit=\skip193
+\aftertitleunit=\skip194
+\ttl@plus=\dimen270
+\ttl@minus=\dimen271
+\ttl@toksa=\toks31
+\titlewidth=\dimen272
+\titlewidthlast=\dimen273
+\titlewidthfirst=\dimen274
+)
+(./edlab-penalties.sty) (./edlab-git.sty) (./edlab-toc.sty) (./edlab-extra.sty
+\enitdp@boxlist=\count342
+\c@escolhai=\count343
+\enitdp@escolha=\count344
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty
-Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
-\c@tracingmulticols=\count346
-\mult@box=\box65
-\multicol@leftmargin=\dimen277
-\c@unbalance=\count347
-\c@collectmore=\count348
-\doublecol@number=\count349
-\multicoltolerance=\count350
-\multicolpretolerance=\count351
-\full@width=\dimen278
-\page@free=\dimen279
-\premulticols=\dimen280
-\postmulticols=\dimen281
-\multicolsep=\skip193
-\multicolbaselineskip=\skip194
-\partial@page=\box66
-\last@line=\box67
-\maxbalancingoverflow=\dimen282
-\mult@rightbox=\box68
-\mult@grightbox=\box69
-\mult@firstbox=\box70
-\mult@gfirstbox=\box71
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count345
+\mult@box=\box64
+\multicol@leftmargin=\dimen275
+\c@unbalance=\count346
+\c@collectmore=\count347
+\doublecol@number=\count348
+\multicoltolerance=\count349
+\multicolpretolerance=\count350
+\full@width=\dimen276
+\page@free=\dimen277
+\premulticols=\dimen278
+\postmulticols=\dimen279
+\multicolsep=\skip195
+\multicolbaselineskip=\skip196
+\partial@page=\box65
+\last@line=\box66
+\maxbalancingoverflow=\dimen280
+\mult@rightbox=\box67
+\mult@grightbox=\box68
+\mult@firstbox=\box69
+\mult@gfirstbox=\box70
+\@tempa=\box71
 \@tempa=\box72
 \@tempa=\box73
 \@tempa=\box74
@@ -829,16 +800,15 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \@tempa=\box104
 \@tempa=\box105
 \@tempa=\box106
-\@tempa=\box107
-\c@minrows=\count352
-\c@columnbadness=\count353
-\c@finalcolumnbadness=\count354
-\last@try=\dimen283
-\multicolovershoot=\dimen284
-\multicolundershoot=\dimen285
-\mult@nat@firstbox=\box108
-\colbreak@box=\box109
-\mc@col@check@num=\count355
+\c@minrows=\count351
+\c@columnbadness=\count352
+\c@finalcolumnbadness=\count353
+\last@try=\dimen281
+\multicolovershoot=\dimen282
+\multicolundershoot=\dimen283
+\mult@nat@firstbox=\box107
+\colbreak@box=\box108
+\mc@col@check@num=\count354
 ))
 (./edlab-margins.sty
 
@@ -865,54 +835,54 @@ Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 ******************************************************
 
 ) (./edlab-sections.sty) (./edlab-footnotes.sty
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/ncctools/manyfoot.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ncctools/manyfoot.sty
 Package: manyfoot 2019/08/03 v1.11 Many Footnote Levels Package (NCC)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/ncctools/nccfoots.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ncctools/nccfoots.sty
 Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
 )
-\MFL@columnwidth=\dimen286
-\footglue=\skip195
+\MFL@columnwidth=\dimen284
+\footglue=\skip197
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/footmisc/footmisc.sty
-Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
-\FN@temptoken=\toks35
-\footnotemargin=\dimen287
-\@outputbox@depth=\dimen288
-Package footmisc Info: Declaring symbol style bringhurst on input line 695.
-Package footmisc Info: Declaring symbol style chicago on input line 703.
-Package footmisc Info: Declaring symbol style wiley on input line 712.
-Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+(/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks32
+\footnotemargin=\dimen285
+\c@pp@next@reset=\count355
 
-Package footmisc Info: Declaring symbol style lamport* on input line 743.
-Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
+
+LaTeX Warning: Command \@footnotemark  has changed.
+               Check if current package is valid.
+
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
-))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/xwatermark/xwatermark
-.sty
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/catoptions/catoptions
-.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/xwatermark/xwatermark.sty
+(/usr/share/texlive/texmf-dist/tex/latex/catoptions/catoptions.sty
 \m@one=\count356
-\z@pt=\dimen289
+\z@pt=\dimen286
 Package: catoptions 2014/08/29 v0.2.7h Securing catcodes and parsing options (A
 M)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcm
-ds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr
-.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks36
+\pdftexcmds@toks=\toks33
 )
 \cpt@csvdepth=\count357
 \cpt@optdepth=\count358
@@ -923,40 +893,39 @@ Package pdftexcmds Info: \pdfdraftmode found.
 )
 Package: xwatermark 2012/10/23 v1.5.2d A dynamic watermarking scheme (Ahmed Mus
 a)
- (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/fix-cm.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/picture/picture.sty
+(/usr/share/texlive/texmf-dist/tex/latex/picture/picture.sty
 Package: picture 2020-04-22 v1.6 Dimens for picture macros (HO)
 Package picture Info: Calculation method: etex.
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-ltx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 
 LaTeX Warning: You have requested package `atbegshi',
                but the package provides `atbegshi-ltx'.
 
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip198
+\f@nch@O@elh=\skip199
+\f@nch@O@erh=\skip256
+\f@nch@O@olh=\skip257
+\f@nch@O@orh=\skip258
+\f@nch@O@elf=\skip259
+\f@nch@O@erf=\skip260
+\f@nch@O@olf=\skip261
+\f@nch@O@orf=\skip262
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-
-\f@nch@headwidth=\skip196
-\f@nch@O@elh=\skip197
-\f@nch@O@erh=\skip198
-\f@nch@O@olh=\skip199
-\f@nch@O@orh=\skip256
-\f@nch@O@elf=\skip257
-\f@nch@O@erf=\skip258
-\f@nch@O@olf=\skip259
-\f@nch@O@orf=\skip260
-)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-ltx.st
-y
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
 
 LaTeX Warning: You have requested package `atveryend',
                but the package provides `atveryend-ltx'.
@@ -964,12 +933,13 @@ LaTeX Warning: You have requested package `atveryend',
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
-) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/ltxkeys/ltxkeys.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/ltxkeys/ltxkeys.sty
 Package: ltxkeys 2012/11/17 v0.0.3c A robust key-value parser (AM) (Ahmed Musa)
 
 \ltxkeys@csvdepth=\count363
 \ltxkeys@keydepth=\count364
-) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/framed/framed.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 
 
@@ -982,10 +952,7 @@ Type  H <return>  for immediate help.
                                                   
 l.115   {\endMakeFramed}
                       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ! LaTeX Error: Command \shaded already defined.
                Or name \end... illegal, see p.192 of the manual.
@@ -996,10 +963,7 @@ Type  H <return>  for immediate help.
                                                   
 l.120  {\endMakeFramed}
                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ! LaTeX Error: Command \leftbar already defined.
                Or name \end... illegal, see p.192 of the manual.
@@ -1010,10 +974,7 @@ Type  H <return>  for immediate help.
                                                   
 l.130  {\endMakeFramed}
                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+? 
 
 ! LaTeX Error: Command \snugshade already defined.
                Or name \end... illegal, see p.192 of the manual.
@@ -1024,371 +985,325 @@ Type  H <return>  for immediate help.
                                                   
 l.148  }{\par\unskip\@minipagefalse\endMakeFramed}
                                                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-\OuterFrameSep=\skip261
-\fb@frw=\dimen290
-\fb@frh=\dimen291
+? 
+\OuterFrameSep=\skip263
+\fb@frw=\dimen287
+\fb@frh=\dimen288
 )
-\xwm@boxa=\box110
-\xwm@boxb=\box111
+\xwm@boxa=\box109
+\xwm@boxb=\box110
 \xwm@cnta=\count365
 \xwm@wrt=\write5
  (./LIVRO.xwm)
 \openout5 = LIVRO.xwm
+) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count366
 \calc@Bcount=\count367
-\calc@Adimen=\dimen292
-\calc@Bdimen=\dimen293
-\calc@Askip=\skip262
-\calc@Bskip=\skip263
+\calc@Adimen=\dimen289
+\calc@Bdimen=\dimen290
+\calc@Askip=\skip264
+\calc@Bskip=\skip265
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count368
-\calc@Cskip=\skip264
+\calc@Cskip=\skip266
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/eso-pic/eso-pic.sty
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen294
-\ESO@tempdimb=\dimen295
+\ESO@tempdima=\dimen291
+\ESO@tempdimb=\dimen292
 )
-\AM@pagewidth=\dimen296
-\AM@pageheight=\dimen297
-\AM@fboxrule=\dimen298
+\AM@pagewidth=\dimen293
+\AM@pageheight=\dimen294
+\AM@fboxrule=\dimen295
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pdfpages/ppluatex.def
-File: ppluatex.def 2022/12/19 v0.5x Pdfpages driver for LuaTeX (AM)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppluatex.def
+File: ppluatex.def 2022/01/29 v0.5u Pdfpages driver for LuaTeX (AM)
 )
 \pdfpages@includegraphics@status=\count369
-\AM@pagebox=\box112
-\AM@global@opts=\toks37
+\AM@pagebox=\box111
+\AM@global@opts=\toks34
 \AM@pagecnt=\count370
-\AM@toc@title=\toks38
-\AM@lof@heading=\toks39
+\AM@toc@title=\toks35
 \c@AM@survey=\count371
-\AM@templatesizebox=\box113
+\AM@templatesizebox=\box112
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen299
-\WF@size=\dimen300
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen296
+\WF@size=\dimen297
 \c@WF@wrappedlines=\count372
-\WF@box=\box114
-\WF@everypar=\toks40
+\WF@box=\box113
+\WF@everypar=\toks36
 Package: wrapfig 2003/01/31  v 3.6
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tikzpagenodes/tikzpag
-enodes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tikzpagenodes/tikzpagenodes.sty
 Package: tikzpagenodes 2012/09/16 v1.1 Special PGF/TikZ nodes for areas of the 
 page
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/frontendlayer/tik
-z.sty
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgf.st
-y
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfrcs.
-sty
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfut
-il-common.tex
-\pgfutil@everybye=\toks41
-\pgfutil@tempdima=\dimen301
-\pgfutil@tempdimb=\dimen302
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks37
+\pgfutil@tempdima=\dimen298
+\pgfutil@tempdimb=\dimen299
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfut
-il-common-lists.tex))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfut
-il-latex.def
-\pgfutil@abb=\box115
-)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfrc
-s.code.tex
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/pgf.revision.te
-x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box114
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
 Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgfcor
-e.sty
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/systemlayer/pgfsy
-s.sty
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf
-sys.code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfke
-ys.code.tex
-\pgfkeys@pathtoks=\toks42
-\pgfkeys@temptoks=\toks43
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks38
+\pgfkeys@temptoks=\toks39
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfke
-ysfiltered.code.tex
-\pgfkeys@tmptoks=\toks44
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks40
 ))
-\pgf@x=\dimen303
-\pgf@y=\dimen304
-\pgf@xa=\dimen305
-\pgf@ya=\dimen306
-\pgf@xb=\dimen307
-\pgf@yb=\dimen308
-\pgf@xc=\dimen309
-\pgf@yc=\dimen310
-\pgf@xd=\dimen311
-\pgf@yd=\dimen312
+\pgf@x=\dimen300
+\pgf@y=\dimen301
+\pgf@xa=\dimen302
+\pgf@ya=\dimen303
+\pgf@xb=\dimen304
+\pgf@yb=\dimen305
+\pgf@xc=\dimen306
+\pgf@yc=\dimen307
+\pgf@xd=\dimen308
+\pgf@yd=\dimen309
 \w@pgf@writea=\write6
 \r@pgf@reada=\read4
 \c@pgf@counta=\count373
 \c@pgf@countb=\count374
 \c@pgf@countc=\count375
 \c@pgf@countd=\count376
-\t@pgf@toka=\toks45
-\t@pgf@tokb=\toks46
-\t@pgf@tokc=\toks47
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
 \pgf@sys@id@count=\count377
-
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf
-.cfg
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-luatex.def
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf
-sys-luatex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.def
 File: pgfsys-luatex.def 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf
-sys-common-pdf.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf
-syssoftpath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfsyssoftpath@smallbuffer@items=\count378
 \pgfsyssoftpath@bigbuffer@items=\count379
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf
-sysprotocol.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-ore.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.co
-de.tex
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathcal
-c.code.tex
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathuti
-l.code.tex)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathpar
-ser.code.tex
-\pgfmath@dimen=\dimen313
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen310
 \pgfmath@count=\count380
-\pgfmath@box=\box116
-\pgfmath@toks=\toks48
-\pgfmath@stack@operand=\toks49
-\pgfmath@stack@operation=\toks50
+\pgfmath@box=\box115
+\pgfmath@toks=\toks44
+\pgfmath@stack@operand=\toks45
+\pgfmath@stack@operation=\toks46
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
-ctions.code.tex
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
-ctions.basic.code.tex)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
-ctions.trigonometric.code.tex)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
-ctions.random.code.tex)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
-ctions.comparison.code.tex)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
-ctions.base.code.tex)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
-ctions.round.code.tex)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
-ctions.misc.code.tex)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
-ctions.integerarithmetics.code.tex)))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathflo
-at.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count381
 ))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfint.cod
-e.tex)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-orepoints.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen314
-\pgf@picmaxx=\dimen315
-\pgf@picminy=\dimen316
-\pgf@picmaxy=\dimen317
-\pgf@pathminx=\dimen318
-\pgf@pathmaxx=\dimen319
-\pgf@pathminy=\dimen320
-\pgf@pathmaxy=\dimen321
-\pgf@xx=\dimen322
-\pgf@xy=\dimen323
-\pgf@yx=\dimen324
-\pgf@yy=\dimen325
-\pgf@zx=\dimen326
-\pgf@zy=\dimen327
+\pgf@picminx=\dimen311
+\pgf@picmaxx=\dimen312
+\pgf@picminy=\dimen313
+\pgf@picmaxy=\dimen314
+\pgf@pathminx=\dimen315
+\pgf@pathmaxx=\dimen316
+\pgf@pathminy=\dimen317
+\pgf@pathmaxy=\dimen318
+\pgf@xx=\dimen319
+\pgf@xy=\dimen320
+\pgf@yx=\dimen321
+\pgf@yy=\dimen322
+\pgf@zx=\dimen323
+\pgf@zy=\dimen324
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-orepathconstruct.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen328
-\pgf@path@lasty=\dimen329
+\pgf@path@lastx=\dimen325
+\pgf@path@lasty=\dimen326
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-orepathusage.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen330
-\pgf@shorten@start@additional=\dimen331
+\pgf@shorten@end@additional=\dimen327
+\pgf@shorten@start@additional=\dimen328
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-orescopes.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box117
-\pgf@hbox=\box118
-\pgf@layerbox@main=\box119
+\pgfpic=\box116
+\pgf@hbox=\box117
+\pgf@layerbox@main=\box118
 \pgf@picture@serial@count=\count382
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-oregraphicstate.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen332
+\pgflinewidth=\dimen329
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-oretransformations.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen333
-\pgf@pt@y=\dimen334
-\pgf@pt@temp=\dimen335
+\pgf@pt@x=\dimen330
+\pgf@pt@y=\dimen331
+\pgf@pt@temp=\dimen332
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-orequick.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-oreobjects.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
 File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-orepathprocessing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-orearrows.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen336
+\pgfarrowsep=\dimen333
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-oreshade.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen337
+\pgf@max=\dimen334
 \pgf@sys@shading@range@num=\count383
 \pgf@shadingcount=\count384
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-oreimage.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-oreexternal.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box120
+\pgfexternal@startupbox=\box119
 ))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-orelayers.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-oretransparency.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
 File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-orepatterns.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
 File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
-orerdf.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodu
-leshapes.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box121
-)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodu
-leplot.code.tex
+\pgfnodeparttextbox=\box120
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/pgf
-comp-version-0-65.sty
-Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen338
-\pgf@nodesepend=\dimen339
-)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/pgf
-comp-version-1-18.sty
-Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
-))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgffor.
-sty
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfkeys
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfke
-ys.code.tex))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/math/pgfmath.sty
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.co
-de.tex))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgffo
-r.code.tex
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen335
+\pgf@nodesepend=\dimen336
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.co
-de.tex)
-\pgffor@iter=\dimen340
-\pgffor@skip=\dimen341
-\pgffor@stack=\toks51
-\pgffor@toks=\toks52
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen337
+\pgffor@skip=\dimen338
+\pgffor@stack=\toks47
+\pgffor@toks=\toks48
 ))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/t
-ikz/tikz.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/pgfli
-braryplothandlers.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@plot@mark@count=\count385
-\pgfplotmarksize=\dimen342
+\pgfplotmarksize=\dimen339
 )
-\tikz@lastx=\dimen343
-\tikz@lasty=\dimen344
-\tikz@lastxsaved=\dimen345
-\tikz@lastysaved=\dimen346
-\tikz@lastmovetox=\dimen347
-\tikz@lastmovetoy=\dimen348
-\tikzleveldistance=\dimen349
-\tikzsiblingdistance=\dimen350
-\tikz@figbox=\box122
-\tikz@figbox@bg=\box123
-\tikz@tempbox=\box124
-\tikz@tempbox@bg=\box125
+\tikz@lastx=\dimen340
+\tikz@lasty=\dimen341
+\tikz@lastxsaved=\dimen342
+\tikz@lastysaved=\dimen343
+\tikz@lastmovetox=\dimen344
+\tikz@lastmovetoy=\dimen345
+\tikzleveldistance=\dimen346
+\tikzsiblingdistance=\dimen347
+\tikz@figbox=\box121
+\tikz@figbox@bg=\box122
+\tikz@tempbox=\box123
+\tikz@tempbox@bg=\box124
 \tikztreelevel=\count386
 \tikznumberofchildren=\count387
 \tikznumberofcurrentchild=\count388
 \tikz@fig@count=\count389
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodu
-lematrix.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfmatrixcurrentrow=\count390
 \pgfmatrixcurrentcolumn=\count391
@@ -1396,141 +1311,136 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 \tikz@expandcount=\count393
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/t
-ikz/libraries/tikzlibrarytopaths.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/ifoddpage/ifoddpage.s
-ty
-Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
 \c@checkoddpage=\count394
 LaTeX Info: Redefining \checkoddpage on input line 45.
 ))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/textpos/textpos.sty
-Package: textpos 2022/07/23 v1.10.1
-Package textpos Info: choosing support for LaTeX3 on input line 60.
-\TP@textbox=\box126
-\TPHorizModule=\dimen351
-\TPVertModule=\dimen352
-\TP@margin=\dimen353
-\TP@absmargin=\dimen354
+(/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
+Package: textpos 2020/09/26 v1.10
 
+Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
+Package textpos Info: choosing support for LaTeX3 on input line 61.
+\TP@textbox=\box125
+\TPHorizModule=\dimen348
+\TPVertModule=\dimen349
+\TP@margin=\dimen350
+\TP@absmargin=\dimen351
 Grid set 16 x 16 = 37.34424pt x 49.79231pt
-\TPboxrulesize=\dimen355
-\TP@tbargs=\toks53
-)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/mdframed/mdframed.sty
+\TPboxrulesize=\dimen352
+\TP@tbargs=\toks49
+) (/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
 Package: mdframed 2013/07/01 1.9b: mdframed
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.s
-ty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.s
-ty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty
-Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty
-Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/kvdefi
-nekeys.sty
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/etexcmds/etexcmds.s
-ty
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/auxhook/auxhook.sty
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-Package zref Info: New property list: main on input line 767.
-Package zref Info: New property: default on input line 768.
-Package zref Info: New property: page on input line 769.
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
 )
 \c@abspage=\count395
-Package zref Info: New property: abspage on input line 65.
+Package zref Info: New property: abspage on input line 66.
 )
-\mdf@templength=\skip265
+\mdf@templength=\skip267
 \c@mdf@globalstyle@cnt=\count396
-\mdf@skipabove@length=\skip266
-\mdf@skipbelow@length=\skip267
-\mdf@leftmargin@length=\skip268
-\mdf@rightmargin@length=\skip269
-\mdf@innerleftmargin@length=\skip270
-\mdf@innerrightmargin@length=\skip271
-\mdf@innertopmargin@length=\skip272
-\mdf@innerbottommargin@length=\skip273
-\mdf@splittopskip@length=\skip274
-\mdf@splitbottomskip@length=\skip275
-\mdf@outermargin@length=\skip276
-\mdf@innermargin@length=\skip277
-\mdf@linewidth@length=\skip278
-\mdf@innerlinewidth@length=\skip279
-\mdf@middlelinewidth@length=\skip280
-\mdf@outerlinewidth@length=\skip281
-\mdf@roundcorner@length=\skip282
-\mdf@footenotedistance@length=\skip283
-\mdf@userdefinedwidth@length=\skip284
-\mdf@needspace@length=\skip285
-\mdf@frametitleaboveskip@length=\skip286
-\mdf@frametitlebelowskip@length=\skip287
-\mdf@frametitlerulewidth@length=\skip288
-\mdf@frametitleleftmargin@length=\skip289
-\mdf@frametitlerightmargin@length=\skip290
-\mdf@shadowsize@length=\skip291
-\mdf@extratopheight@length=\skip292
-\mdf@subtitleabovelinewidth@length=\skip293
-\mdf@subtitlebelowlinewidth@length=\skip294
-\mdf@subtitleaboveskip@length=\skip295
-\mdf@subtitlebelowskip@length=\skip296
-\mdf@subtitleinneraboveskip@length=\skip297
-\mdf@subtitleinnerbelowskip@length=\skip298
-\mdf@subsubtitleabovelinewidth@length=\skip299
-\mdf@subsubtitlebelowlinewidth@length=\skip300
-\mdf@subsubtitleaboveskip@length=\skip301
-\mdf@subsubtitlebelowskip@length=\skip302
-\mdf@subsubtitleinneraboveskip@length=\skip303
-\mdf@subsubtitleinnerbelowskip@length=\skip304
+\mdf@skipabove@length=\skip268
+\mdf@skipbelow@length=\skip269
+\mdf@leftmargin@length=\skip270
+\mdf@rightmargin@length=\skip271
+\mdf@innerleftmargin@length=\skip272
+\mdf@innerrightmargin@length=\skip273
+\mdf@innertopmargin@length=\skip274
+\mdf@innerbottommargin@length=\skip275
+\mdf@splittopskip@length=\skip276
+\mdf@splitbottomskip@length=\skip277
+\mdf@outermargin@length=\skip278
+\mdf@innermargin@length=\skip279
+\mdf@linewidth@length=\skip280
+\mdf@innerlinewidth@length=\skip281
+\mdf@middlelinewidth@length=\skip282
+\mdf@outerlinewidth@length=\skip283
+\mdf@roundcorner@length=\skip284
+\mdf@footenotedistance@length=\skip285
+\mdf@userdefinedwidth@length=\skip286
+\mdf@needspace@length=\skip287
+\mdf@frametitleaboveskip@length=\skip288
+\mdf@frametitlebelowskip@length=\skip289
+\mdf@frametitlerulewidth@length=\skip290
+\mdf@frametitleleftmargin@length=\skip291
+\mdf@frametitlerightmargin@length=\skip292
+\mdf@shadowsize@length=\skip293
+\mdf@extratopheight@length=\skip294
+\mdf@subtitleabovelinewidth@length=\skip295
+\mdf@subtitlebelowlinewidth@length=\skip296
+\mdf@subtitleaboveskip@length=\skip297
+\mdf@subtitlebelowskip@length=\skip298
+\mdf@subtitleinneraboveskip@length=\skip299
+\mdf@subtitleinnerbelowskip@length=\skip300
+\mdf@subsubtitleabovelinewidth@length=\skip301
+\mdf@subsubtitlebelowlinewidth@length=\skip302
+\mdf@subsubtitleaboveskip@length=\skip303
+\mdf@subsubtitlebelowskip@length=\skip304
+\mdf@subsubtitleinneraboveskip@length=\skip305
+\mdf@subsubtitleinnerbelowskip@length=\skip306
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/mdframed/md-frame-0.m
-df
+(/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
 File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 )
-\mdf@frametitlebox=\box127
-\mdf@footnotebox=\box128
-\mdf@splitbox@one=\box129
-\mdf@splitbox@two=\box130
-\mdf@splitbox@save=\box131
-\mdfsplitboxwidth=\skip305
-\mdfsplitboxtotalwidth=\skip306
-\mdfsplitboxheight=\skip307
-\mdfsplitboxdepth=\skip308
-\mdfsplitboxtotalheight=\skip309
-\mdfframetitleboxwidth=\skip310
-\mdfframetitleboxtotalwidth=\skip311
-\mdfframetitleboxheight=\skip312
-\mdfframetitleboxdepth=\skip313
-\mdfframetitleboxtotalheight=\skip314
-\mdffootnoteboxwidth=\skip315
-\mdffootnoteboxtotalwidth=\skip316
-\mdffootnoteboxheight=\skip317
-\mdffootnoteboxdepth=\skip318
-\mdffootnoteboxtotalheight=\skip319
-\mdftotallinewidth=\skip320
-\mdfboundingboxwidth=\skip321
-\mdfboundingboxtotalwidth=\skip322
-\mdfboundingboxheight=\skip323
-\mdfboundingboxdepth=\skip324
-\mdfboundingboxtotalheight=\skip325
-\mdf@freevspace@length=\skip326
-\mdf@horizontalwidthofbox@length=\skip327
-\mdf@verticalmarginwhole@length=\skip328
-\mdf@horizontalspaceofbox=\skip329
-\mdfsubtitleheight=\skip330
-\mdfsubsubtitleheight=\skip331
+\mdf@frametitlebox=\box126
+\mdf@footnotebox=\box127
+\mdf@splitbox@one=\box128
+\mdf@splitbox@two=\box129
+\mdf@splitbox@save=\box130
+\mdfsplitboxwidth=\skip307
+\mdfsplitboxtotalwidth=\skip308
+\mdfsplitboxheight=\skip309
+\mdfsplitboxdepth=\skip310
+\mdfsplitboxtotalheight=\skip311
+\mdfframetitleboxwidth=\skip312
+\mdfframetitleboxtotalwidth=\skip313
+\mdfframetitleboxheight=\skip314
+\mdfframetitleboxdepth=\skip315
+\mdfframetitleboxtotalheight=\skip316
+\mdffootnoteboxwidth=\skip317
+\mdffootnoteboxtotalwidth=\skip318
+\mdffootnoteboxheight=\skip319
+\mdffootnoteboxdepth=\skip320
+\mdffootnoteboxtotalheight=\skip321
+\mdftotallinewidth=\skip322
+\mdfboundingboxwidth=\skip323
+\mdfboundingboxtotalwidth=\skip324
+\mdfboundingboxheight=\skip325
+\mdfboundingboxdepth=\skip326
+\mdfboundingboxtotalheight=\skip327
+\mdf@freevspace@length=\skip328
+\mdf@horizontalwidthofbox@length=\skip329
+\mdf@verticalmarginwhole@length=\skip330
+\mdf@horizontalspaceofbox=\skip331
+\mdfsubtitleheight=\skip332
+\mdfsubsubtitleheight=\skip333
 \c@mdfcountframes=\count397
 
 ****** mdframed patching \endmdf@trivlist
@@ -1543,107 +1453,115 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \c@mdf@zref@counter=\count401
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/adjustbox.s
-ty
-Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/adjcalc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks50
+\XKV@tempa@toks=\toks51
+)
+\XKV@depth=\count402
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/trimclip.st
-y
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/collectbox/collectbox
-.sty
-Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
-\collectedbox=\box132
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box131
 )
-\tc@llx=\dimen356
-\tc@lly=\dimen357
-\tc@urx=\dimen358
-\tc@ury=\dimen359
+\tc@llx=\dimen353
+\tc@lly=\dimen354
+\tc@urx=\dimen355
+\tc@ury=\dimen356
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/tc-pgf.def
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pgf.def
 File: tc-pgf.def 2019/01/04 v2.2 trimclip fall-back clipping driver using PGF
 )
 Package trimclip Info: No clipping driver 'tc-luatex.def' available.
 (trimclip)             Using fall-back PGF driver.
 )
-\adjbox@Width=\dimen360
-\adjbox@Height=\dimen361
-\adjbox@Depth=\dimen362
-\adjbox@Totalheight=\dimen363
-\adjbox@pwidth=\dimen364
-\adjbox@pheight=\dimen365
-\adjbox@pdepth=\dimen366
-\adjbox@ptotalheight=\dimen367
+\adjbox@Width=\dimen357
+\adjbox@Height=\dimen358
+\adjbox@Depth=\dimen359
+\adjbox@Totalheight=\dimen360
+\adjbox@pwidth=\dimen361
+\adjbox@pheight=\dimen362
+\adjbox@pdepth=\dimen363
+\adjbox@ptotalheight=\dimen364
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box133
-\sift@deathcycles=\count402
-\@vwid@loff=\dimen368
-\@vwid@roff=\dimen369
+\@vwid@box=\box132
+\sift@deathcycles=\count403
+\@vwid@loff=\dimen365
+\@vwid@roff=\dimen366
 ))
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/ragged2e/ragged2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2021/12/15 v3.1 ragged2e Package
-\CenteringLeftskip=\skip332
-\RaggedLeftLeftskip=\skip333
-\RaggedRightLeftskip=\skip334
-\CenteringRightskip=\skip335
-\RaggedLeftRightskip=\skip336
-\RaggedRightRightskip=\skip337
-\CenteringParfillskip=\skip338
-\RaggedLeftParfillskip=\skip339
-\RaggedRightParfillskip=\skip340
-\JustifyingParfillskip=\skip341
-\CenteringParindent=\skip342
-\RaggedLeftParindent=\skip343
-\RaggedRightParindent=\skip344
-\JustifyingParindent=\skip345
-) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.sty
-Package: caption 2023/03/12 v3.6j Customizing captions (AR)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3.sty
-Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\CenteringLeftskip=\skip334
+\RaggedLeftLeftskip=\skip335
+\RaggedRightLeftskip=\skip336
+\CenteringRightskip=\skip337
+\RaggedLeftRightskip=\skip338
+\RaggedRightRightskip=\skip339
+\CenteringParfillskip=\skip340
+\RaggedLeftParfillskip=\skip341
+\RaggedRightParfillskip=\skip342
+\JustifyingParfillskip=\skip343
+\CenteringParindent=\skip344
+\RaggedLeftParindent=\skip345
+\RaggedRightParindent=\skip346
+\JustifyingParindent=\skip347
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen367
+\captionmargin@=\dimen368
+\captionwidth=\dimen369
 \caption@tempdima=\dimen370
-\captionmargin=\dimen371
-\caption@leftmargin=\dimen372
-\caption@rightmargin=\dimen373
-\caption@width=\dimen374
-\caption@indent=\dimen375
-\caption@parindent=\dimen376
-\caption@hangindent=\dimen377
+\caption@indent=\dimen371
+\caption@parindent=\dimen372
+\caption@hangindent=\dimen373
 Package caption Info: memoir document class detected.
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption-memoi
-r.sto
-File: caption-memoir.sto 2022/03/02 v2.2b Adaption of the caption package to th
-e memoir document class (AR)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption-memoir.sto
+File: caption-memoir.sto 2020/10/10 v2.1 Adaption of the caption package to the
+ memoir document class (AR)
 ))
-\c@caption@flags=\count403
-\c@continuedfloat=\count404
+\c@caption@flags=\count404
+\c@continuedfloat=\count405
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen378
-\caption@adjustwidth@linewidth=\dimen379
+\caption@adjustwidth@hsize=\dimen374
+\caption@adjustwidth@linewidth=\dimen375
 Package caption Info: float package is loaded.
 Package caption Info: wrapfig package is loaded.
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/ulem/ulem.sty
-\UL@box=\box134
-\UL@hyphenbox=\box135
-\UL@skip=\skip346
-\UL@hook=\toks54
-\UL@height=\dimen380
-\UL@pe=\count405
-\UL@pixel=\dimen381
-\ULC@box=\box136
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box133
+\UL@hyphenbox=\box134
+\UL@skip=\skip348
+\UL@hook=\toks52
+\UL@height=\dimen376
+\UL@pe=\count406
+\UL@pixel=\dimen377
+\ULC@box=\box135
 Package: ulem 2019/11/18
-\ULdepth=\dimen382
+\ULdepth=\dimen378
 )
-luaotfload | cache : Lookup cache loaded from C:/Users/Windows/AppData/Local/MiK
-TeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | cache : Lookup cache loaded from /home/editorial/.texlive2021/texmf
+-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
 
 Package fontspec Info: Could not resolve font "Gotham-Black/BI" (it probably
 (fontspec)             doesn't exist).
@@ -1670,14 +1588,6 @@ Package fontspec Info: Font family 'Gotham-Black(0)' created for font
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-Package fontspec Info: Could not resolve font "cambria/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "cambria/B" (it probably doesn't
-(fontspec)             exist).
-
-
 Package fontspec Info: Font family 'cambria(0)' created for font 'cambria'
 (fontspec)             with options [].
 (fontspec)              
@@ -1688,11 +1598,21 @@ Package fontspec Info: Font family 'cambria(0)' created for font 'cambria'
 (fontspec)             <->"cambria:mode=node;script=latn;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             <->"cambria:mode=node;script=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"cambria/B:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"cambria/B:mode=node;script=latn;language=dflt;+smcp;
+"
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->"cambria/I:mode=node;script=latn;language=dflt;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
 (fontspec)             <->"cambria/I:mode=node;script=latn;language=dflt;+smcp;
 "
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"cambria/BI:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"cambria/BI:mode=node;script=latn;language=dflt;+smcp
+;"
 
 
 Package fontspec Info: Font family 'MinionPro(0)' created for font 'Minion
@@ -1733,107 +1653,110 @@ ig;+onum;+smcp;"
                       \let \BeforeStartOfDocument \@firstofone \cpt@beforest...
 l.141 \begin{document}
                     
-Things are pretty mixed up, but I think the worst is over.
+? 
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
-
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
-
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pdfescape
-.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/letltxmacro/letltxmac
-ro.sty
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
-
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/gett
-itlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count406
-)
-\@linkdim=\dimen383
+\@linkdim=\dimen379
 \Hy@linkcounter=\count407
 \Hy@pagecounter=\count408
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 )
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count409
- (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Hyper figures OFF on input line 4162.
-Package hyperref Info: Link nesting OFF on input line 4167.
-Package hyperref Info: Hyper index ON on input line 4170.
-Package hyperref Info: Plain pages OFF on input line 4177.
-Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4410.
+Package hyperref Info: Bookmarks ON on input line 4445.
 \c@Hy@tempcnt=\count410
-LaTeX Info: Redefining \url on input line 4748.
-\XeTeXLinkMargin=\dimen384
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen380
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintca
-lc.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count411
-\Field@Width=\dimen385
-\Fld@charsize=\dimen386
-Package hyperref Info: Hyper figures OFF on input line 6027.
-Package hyperref Info: Link nesting OFF on input line 6032.
-Package hyperref Info: Hyper index ON on input line 6035.
-Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring OFF on input line 6047.
-Package hyperref Info: Link coloring with OCG OFF on input line 6052.
-Package hyperref Info: PDF/A mode OFF on input line 6057.
+\Field@Width=\dimen381
+\Fld@charsize=\dimen382
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
 \Hy@abspage=\count412
 \c@Item=\count413
 \c@Hfootnote=\count414
 )
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2021/06/16 v1.19 nameref/hyperref package fixes for memoir cl
+ass
+
+
+LaTeX hooks Warning: Generic hook 'package/after/nameref' is deprecated.
+(hooks)              Use hook 'package/nameref/after' instead.
+
+\c@memhycontfloat=\count415
+\c@Hpagenote=\count416
+
+LaTeX hooks Warning: Generic hook 'package/after/hypcap' is deprecated.
+(hooks)              Use hook 'package/hypcap/after' instead.
+
+)
 Package hyperref Info: Driver (autodetected): hluatex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2021-06-07 v7.00m Hyperref driver for luaTeX
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2022-09-22 v7.00t Hyperref driver for luaTeX
-
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc
-.sty
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\Fld@listcount=\count415
-\c@bookmark@seq@number=\count416
+\Fld@listcount=\count417
+\c@bookmark@seq@number=\count418
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunf
-ilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/uniqu
-ecounter.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-85.
+86.
 )
-\Hy@SectionHShift=\skip347
-) (./LIVRO.aux (./INPUTS.aux))
+\Hy@SectionHShift=\skip349
+)
+(./LIVRO.aux (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 141.
@@ -1921,37 +1844,33 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 141.
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.
-mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count417
-\scratchdimen=\dimen387
-\scratchbox=\box137
-\nofMPsegments=\count418
-\nofMParguments=\count419
-\everyMPshowfont=\toks55
-\MPscratchCnt=\count420
-\MPscratchDim=\dimen388
-\MPnumerator=\count421
-\makeMPintoPDFobject=\count422
-\everyMPtoPDFconversion=\toks56
-)
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf
--base.sty
+\scratchcounter=\count419
+\scratchdimen=\dimen383
+\scratchbox=\box136
+\nofMPsegments=\count420
+\nofMParguments=\count421
+\everyMPshowfont=\toks53
+\MPscratchCnt=\count422
+\MPscratchDim=\dimen384
+\MPnumerator=\count423
+\makeMPintoPDFobject=\count424
+\everyMPtoPDFconversion=\toks54
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys
-.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 LaTeX Info: Redefining \microtypecontext on input line 141.
 Package microtype Info: Applying patch `item' on input line 141.
 Package microtype Info: Applying patch `toc' on input line 141.
 Package microtype Info: Applying patch `eqnum' on input line 141.
 Package microtype Info: Applying patch `footnote' on input line 141.
-Package microtype Info: Applying patch `verbatim' on input line 141.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1968,25 +1887,35 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pdflscape/pdflscape.s
-ty
-Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pdflscape/pdflscape-n
-ometadata.sty
-Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
-F (HO)
-
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics/lscape.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-))
+)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 141.
- (./LIVRO.out) (./LIVRO.out)
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count425
+)
+LaTeX Info: Redefining \ref on input line 141.
+LaTeX Info: Redefining \pageref on input line 141.
+LaTeX Info: Redefining \nameref on input line 141.
+
+(./LIVRO.out) (./LIVRO.out)
 \@outlinefile=\write7
 
 \openout7 = LIVRO.out
@@ -1995,7 +1924,7 @@ Package hyperref Info: Link coloring OFF on input line 141.
  (./INPUTS.tex (./1-fronte.tex
 warning  (file ../watermarks/front5ano.pdf) (pdf inclusion): PDF inclusion: foun
 d PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/front5ano.pdf, id=30, 596.42624pt x 792.32411pt>
+<../watermarks/front5ano.pdf, id=31, 596.42624pt x 792.32411pt>
 File: ../watermarks/front5ano.pdf Graphic file (type pdf)
 <use ../watermarks/front5ano.pdf>
 Package luatex.def Info: ../watermarks/front5ano.pdf  used on input line 39.
@@ -2005,7 +1934,7 @@ Overfull \hbox (308.421pt too wide) in paragraph at lines 39--40
 []| [] 
  []
 
-) [1{C:/Users/Windows/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 <../watermarks/front5ano.pdf>] (./2-creditos.tex
@@ -2029,7 +1958,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 31.
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-cmr.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
@@ -2070,7 +1999,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 53.
-<./imgs/img26.png, id=58, 742.775pt x 742.775pt>
+<./imgs/img26.png, id=62, 742.775pt x 742.775pt>
 File: ./imgs/img26.png Graphic file (type png)
 <use ./imgs/img26.png>
 Package luatex.def Info: ./imgs/img26.png  used on input line 53.
@@ -2080,12 +2009,12 @@ Overfull \hbox (16.90616pt too wide) in paragraph at lines 53--53
 [][] 
  []
 
-<./imgs/img27.png, id=59, 963.6pt x 722.7pt>
+<./imgs/img27.png, id=63, 963.6pt x 722.7pt>
 File: ./imgs/img27.png Graphic file (type png)
 <use ./imgs/img27.png>
 Package luatex.def Info: ./imgs/img27.png  used on input line 53.
 (luatex.def)             Requested size: 152.14513pt x 114.10153pt.
-<./imgs/img28.png, id=60, 963.6pt x 642.4pt>
+<./imgs/img28.png, id=64, 963.6pt x 642.4pt>
 File: ./imgs/img28.png Graphic file (type png)
 <use ./imgs/img28.png>
 Package luatex.def Info: ./imgs/img28.png  used on input line 53.
@@ -2118,15 +2047,13 @@ LaTeX Font Info:    No file TUbch.fd. on input line 65.
 LaTeX Font Warning: Font shape `TU/bch/b/n' undefined
 (Font)              using `TU/lmr/m/n' instead on input line 65.
 
-
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-LatinMod
-ernRoman.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
 File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
 ern Roman (RS)
 )
 warning  (file ../watermarks/1modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
 und PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/1modulo5ano.pdf, id=61, 596.42624pt x 792.32411pt>
+<../watermarks/1modulo5ano.pdf, id=65, 596.42624pt x 792.32411pt>
 File: ../watermarks/1modulo5ano.pdf Graphic file (type pdf)
 <use ../watermarks/1modulo5ano.pdf>
 Package luatex.def Info: ../watermarks/1modulo5ano.pdf  used on input line 65.
@@ -2141,12 +2068,12 @@ Overfull \hbox (21.6792pt too wide) has occurred while \output is active
 
 <../watermarks/1modulo5ano.pdf><./imgs/img26.png><./imgs/img27.png><./imgs/img28
 .png>]
-<./imgs/img29.jpg, id=122, 642.14906pt x 396.7322pt>
+<./imgs/img29.jpg, id=126, 642.14906pt x 396.7322pt>
 File: ./imgs/img29.jpg Graphic file (type jpg)
 <use ./imgs/img29.jpg>
 Package luatex.def Info: ./imgs/img29.jpg  used on input line 77.
 (luatex.def)             Requested size: 174.66156pt x 107.90608pt.
-<./imgs/img30.png, id=123, 903.375pt x 456.70625pt>
+<./imgs/img30.png, id=127, 903.375pt x 456.70625pt>
 File: ./imgs/img30.png Graphic file (type png)
 <use ./imgs/img30.png>
 Package luatex.def Info: ./imgs/img30.png  used on input line 78.
@@ -2156,7 +2083,7 @@ Overfull \hbox (49.18582pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
-(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-bch.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-bch.cfg
 File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 
 )
@@ -2167,7 +2094,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 warning  (file ../watermarks/bg5anoimpar.pdf) (pdf inclusion): PDF inclusion: fo
 und PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/bg5anoimpar.pdf, id=124, 595.34721pt x 795.08403pt>
+<../watermarks/bg5anoimpar.pdf, id=128, 595.34721pt x 795.08403pt>
 File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
 <use ../watermarks/bg5anoimpar.pdf>
 Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 97.
@@ -2182,7 +2109,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
-<./imgs/img31.png, id=177, 776.9025pt x 436.63126pt>
+<./imgs/img31.png, id=182, 776.9025pt x 436.63126pt>
 File: ./imgs/img31.png Graphic file (type png)
 <use ./imgs/img31.png>
 Package luatex.def Info: ./imgs/img31.png  used on input line 120.
@@ -2190,7 +2117,7 @@ Package luatex.def Info: ./imgs/img31.png  used on input line 120.
 
 warning  (file ../watermarks/bg5anopar.pdf) (pdf inclusion): PDF inclusion: foun
 d PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/bg5anopar.pdf, id=178, 596.42624pt x 792.32411pt>
+<../watermarks/bg5anopar.pdf, id=183, 596.42624pt x 792.32411pt>
 File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
 <use ../watermarks/bg5anopar.pdf>
 Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 145.
@@ -2221,7 +2148,7 @@ Overfull \hbox (26.29063pt too wide) has occurred while \output is active
  []
 
 [7]
-<./imgs/img32.png, id=198, 963.6pt x 641.39626pt>
+<./imgs/img32.png, id=205, 963.6pt x 641.39626pt>
 File: ./imgs/img32.png Graphic file (type png)
 <use ./imgs/img32.png>
 Package luatex.def Info: ./imgs/img32.png  used on input line 201.
@@ -2295,7 +2222,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 395--396
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 430.
-<./imgs/img33.png, id=238, 999.735pt x 666.49pt>
+<./imgs/img33.png, id=245, 999.735pt x 666.49pt>
 File: ./imgs/img33.png Graphic file (type png)
 <use ./imgs/img33.png>
 Package luatex.def Info: ./imgs/img33.png  used on input line 430.
@@ -2313,7 +2240,7 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 430
 
 warning  (file ../watermarks/2modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
 und PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/2modulo5ano.pdf, id=239, 596.42624pt x 792.32411pt>
+<../watermarks/2modulo5ano.pdf, id=246, 596.42624pt x 792.32411pt>
 File: ../watermarks/2modulo5ano.pdf Graphic file (type pdf)
 <use ../watermarks/2modulo5ano.pdf>
 Package luatex.def Info: ../watermarks/2modulo5ano.pdf  used on input line 446.
@@ -2333,7 +2260,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 481--482
 
  []
 
-<./imgs/img34.png, id=303, 1385.175pt x 812.03375pt>
+<./imgs/img34.png, id=309, 1385.175pt x 812.03375pt>
 File: ./imgs/img34.png Graphic file (type png)
 <use ./imgs/img34.png>
 Package luatex.def Info: ./imgs/img34.png  used on input line 486.
@@ -2384,12 +2311,12 @@ Overfull \hbox (26.29063pt too wide) has occurred while \output is active
  []
 
 [15]
-<./imgs/img35.png, id=318, 999.735pt x 666.49pt>
+<./imgs/img35.png, id=324, 999.735pt x 666.49pt>
 File: ./imgs/img35.png Graphic file (type png)
 <use ./imgs/img35.png>
 Package luatex.def Info: ./imgs/img35.png  used on input line 570.
 (luatex.def)             Requested size: 213.0pt x 142.00099pt.
-<./imgs/img36.png, id=319, 742.775pt x 645.41125pt>
+<./imgs/img36.png, id=325, 742.775pt x 645.41125pt>
 File: ./imgs/img36.png Graphic file (type png)
 <use ./imgs/img36.png>
 Package luatex.def Info: ./imgs/img36.png  used on input line 571.
@@ -2465,7 +2392,7 @@ Overfull \hbox (26.29063pt too wide) has occurred while \output is active
  []
 
 [17]
-<./imgs/img37.jpg, id=337, 628.3475pt x 335.2525pt>
+<./imgs/img37.jpg, id=344, 628.3475pt x 335.2525pt>
 File: ./imgs/img37.jpg Graphic file (type jpg)
 <use ./imgs/img37.jpg>
 Package luatex.def Info: ./imgs/img37.jpg  used on input line 675.
@@ -2510,7 +2437,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 749--750
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 781.
-<./imgs/img38.png, id=355, 999.735pt x 666.49pt>
+<./imgs/img38.png, id=362, 999.735pt x 666.49pt>
 File: ./imgs/img38.png Graphic file (type png)
 <use ./imgs/img38.png>
 Package luatex.def Info: ./imgs/img38.png  used on input line 781.
@@ -2533,7 +2460,7 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 781
 
 warning  (file ../watermarks/3modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
 und PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/3modulo5ano.pdf, id=356, 596.42624pt x 792.32411pt>
+<../watermarks/3modulo5ano.pdf, id=363, 596.42624pt x 792.32411pt>
 File: ../watermarks/3modulo5ano.pdf Graphic file (type pdf)
 <use ../watermarks/3modulo5ano.pdf>
 Package luatex.def Info: ../watermarks/3modulo5ano.pdf  used on input line 784.
@@ -2547,12 +2474,12 @@ Overfull \hbox (21.6792pt too wide) has occurred while \output is active
 [20
 
 <../watermarks/3modulo5ano.pdf><./imgs/img38.png>]
-<./imgs/img39.png, id=419, 963.6pt x 642.4pt>
+<./imgs/img39.png, id=425, 963.6pt x 642.4pt>
 File: ./imgs/img39.png Graphic file (type png)
 <use ./imgs/img39.png>
 Package luatex.def Info: ./imgs/img39.png  used on input line 790.
 (luatex.def)             Requested size: 213.0pt x 141.99498pt.
-<./imgs/img40.png, id=420, 1133.23375pt x 752.8125pt>
+<./imgs/img40.png, id=426, 1133.23375pt x 752.8125pt>
 File: ./imgs/img40.png Graphic file (type png)
 <use ./imgs/img40.png>
 Package luatex.def Info: ./imgs/img40.png  used on input line 791.
@@ -2603,12 +2530,12 @@ Overfull \hbox (26.29063pt too wide) has occurred while \output is active
  []
 
 [23]
-<./imgs/img41.png, id=436, 1063.975pt x 668.4975pt>
+<./imgs/img41.png, id=442, 1063.975pt x 668.4975pt>
 File: ./imgs/img41.png Graphic file (type png)
 <use ./imgs/img41.png>
 Package luatex.def Info: ./imgs/img41.png  used on input line 932.
 (luatex.def)             Requested size: 213.0pt x 133.81953pt.
-<./imgs/img42.png, id=437, 1129.21875pt x 752.8125pt>
+<./imgs/img42.png, id=443, 1129.21875pt x 752.8125pt>
 File: ./imgs/img42.png Graphic file (type png)
 <use ./imgs/img42.png>
 Package luatex.def Info: ./imgs/img42.png  used on input line 933.
@@ -2662,7 +2589,7 @@ Overfull \hbox (21.6792pt too wide) has occurred while \output is active
  []
 
 [26]
-<./imgs/img43.png, id=458, 742.775pt x 928.46875pt>
+<./imgs/img43.png, id=464, 742.775pt x 928.46875pt>
 File: ./imgs/img43.png Graphic file (type png)
 <use ./imgs/img43.png>
 Package luatex.def Info: ./imgs/img43.png  used on input line 1103.
@@ -2688,7 +2615,7 @@ Overfull \hbox (26.29063pt too wide) has occurred while \output is active
  []
 
 [27<./imgs/img43.png>]
-<./imgs/img44.png, id=468, 883.3pt x 589.20125pt>
+<./imgs/img44.png, id=474, 883.3pt x 589.20125pt>
 File: ./imgs/img44.png Graphic file (type png)
 <use ./imgs/img44.png>
 Package luatex.def Info: ./imgs/img44.png  used on input line 1135.
@@ -2713,7 +2640,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1173--1174
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 1208.
-<./imgs/img45.png, id=478, 963.6pt x 642.4pt>
+<./imgs/img45.png, id=485, 963.6pt x 642.4pt>
 File: ./imgs/img45.png Graphic file (type png)
 <use ./imgs/img45.png>
 Package luatex.def Info: ./imgs/img45.png  used on input line 1208.
@@ -2736,7 +2663,7 @@ Overfull \hbox (54.90118pt too wide) has occurred while \output is active
 
 warning  (file ../watermarks/4modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
 und PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/4modulo5ano.pdf, id=479, 596.42624pt x 792.32411pt>
+<../watermarks/4modulo5ano.pdf, id=486, 596.42624pt x 792.32411pt>
 File: ../watermarks/4modulo5ano.pdf Graphic file (type pdf)
 <use ../watermarks/4modulo5ano.pdf>
 Package luatex.def Info: ../watermarks/4modulo5ano.pdf  used on input line 1209
@@ -2750,7 +2677,7 @@ Overfull \hbox (21.6792pt too wide) has occurred while \output is active
 [29
 
 <../watermarks/4modulo5ano.pdf><./imgs/img45.png>]
-<./imgs/img46.png, id=542, 742.775pt x 742.775pt>
+<./imgs/img46.png, id=548, 742.775pt x 742.775pt>
 File: ./imgs/img46.png Graphic file (type png)
 <use ./imgs/img46.png>
 Package luatex.def Info: ./imgs/img46.png  used on input line 1213.
@@ -2816,7 +2743,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1294--1295
 
  []
 
-<./imgs/img47.png, id=554, 999.735pt x 666.49pt>
+<./imgs/img47.png, id=560, 999.735pt x 666.49pt>
 File: ./imgs/img47.png Graphic file (type png)
 <use ./imgs/img47.png>
 Package luatex.def Info: ./imgs/img47.png  used on input line 1302.
@@ -3002,7 +2929,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1604--1605
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 1639.
-<./imgs/img48.png, id=606, 742.775pt x 742.775pt>
+<./imgs/img48.png, id=612, 742.775pt x 742.775pt>
 File: ./imgs/img48.png Graphic file (type png)
 <use ./imgs/img48.png>
 Package luatex.def Info: ./imgs/img48.png  used on input line 1639.
@@ -3020,7 +2947,7 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 163
 
 warning  (file ../watermarks/5modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
 und PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/5modulo5ano.pdf, id=607, 596.42624pt x 792.32411pt>
+<../watermarks/5modulo5ano.pdf, id=613, 596.42624pt x 792.32411pt>
 File: ../watermarks/5modulo5ano.pdf Graphic file (type pdf)
 <use ../watermarks/5modulo5ano.pdf>
 Package luatex.def Info: ../watermarks/5modulo5ano.pdf  used on input line 1646
@@ -3058,7 +2985,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1728--1729
 
  []
 
-<./imgs/img49.png, id=675, 742.775pt x 742.775pt>
+<./imgs/img49.png, id=681, 742.775pt x 742.775pt>
 File: ./imgs/img49.png Graphic file (type png)
 <use ./imgs/img49.png>
 Package luatex.def Info: ./imgs/img49.png  used on input line 1753.
@@ -3088,7 +3015,7 @@ Overfull \hbox (26.29063pt too wide) has occurred while \output is active
  []
 
 [41<./imgs/img49.png>]
-<./imgs/img50.png, id=686, 999.735pt x 666.49pt>
+<./imgs/img50.png, id=692, 999.735pt x 666.49pt>
 File: ./imgs/img50.png Graphic file (type png)
 <use ./imgs/img50.png>
 Package luatex.def Info: ./imgs/img50.png  used on input line 1837.
@@ -3119,7 +3046,7 @@ Overfull \hbox (26.29063pt too wide) has occurred while \output is active
 
 [43]
 Package mdframed Info: mdframed works in twoside mode on input line 1901.
-<./imgs/img51.png, id=698, 1543.7675pt x 602.25pt>
+<./imgs/img51.png, id=704, 1543.7675pt x 602.25pt>
 File: ./imgs/img51.png Graphic file (type png)
 <use ./imgs/img51.png>
 Package luatex.def Info: ./imgs/img51.png  used on input line 1916.
@@ -3178,7 +3105,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2015--2016
 
  []
 
-<./imgs/img52.jpg, id=713, 558.58687pt x 333.49594pt>
+<./imgs/img52.jpg, id=719, 558.58687pt x 333.49594pt>
 File: ./imgs/img52.jpg Graphic file (type jpg)
 <use ./imgs/img52.jpg>
 Package luatex.def Info: ./imgs/img52.jpg  used on input line 2021.
@@ -3203,12 +3130,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2051--2052
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 2081.
-<./imgs/img53.png, id=727, 999.735pt x 666.49pt>
+<./imgs/img53.png, id=733, 999.735pt x 666.49pt>
 File: ./imgs/img53.png Graphic file (type png)
 <use ./imgs/img53.png>
 Package luatex.def Info: ./imgs/img53.png  used on input line 2081.
 (luatex.def)             Requested size: 169.0513pt x 112.70178pt.
-<./imgs/img54.png, id=728, 999.735pt x 666.49pt>
+<./imgs/img54.png, id=734, 999.735pt x 666.49pt>
 File: ./imgs/img54.png Graphic file (type png)
 <use ./imgs/img54.png>
 Package luatex.def Info: ./imgs/img54.png  used on input line 2081.
@@ -3236,7 +3163,7 @@ Overfull \hbox (54.90118pt too wide) has occurred while \output is active
 
 warning  (file ../watermarks/6modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
 und PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/6modulo5ano.pdf, id=729, 596.42624pt x 792.32411pt>
+<../watermarks/6modulo5ano.pdf, id=735, 596.42624pt x 792.32411pt>
 File: ../watermarks/6modulo5ano.pdf Graphic file (type pdf)
 <use ../watermarks/6modulo5ano.pdf>
 Package luatex.def Info: ../watermarks/6modulo5ano.pdf  used on input line 2084
@@ -3250,12 +3177,12 @@ Overfull \hbox (21.6792pt too wide) has occurred while \output is active
 [47
 
 <../watermarks/6modulo5ano.pdf><./imgs/img53.png><./imgs/img54.png>]
-<./imgs/img55.png, id=791, 999.735pt x 666.49pt>
+<./imgs/img55.png, id=797, 999.735pt x 666.49pt>
 File: ./imgs/img55.png Graphic file (type png)
 <use ./imgs/img55.png>
 Package luatex.def Info: ./imgs/img55.png  used on input line 2089.
 (luatex.def)             Requested size: 213.0pt x 142.00099pt.
-<./imgs/img56.png, id=792, 999.735pt x 666.49pt>
+<./imgs/img56.png, id=798, 999.735pt x 666.49pt>
 File: ./imgs/img56.png Graphic file (type png)
 <use ./imgs/img56.png>
 Package luatex.def Info: ./imgs/img56.png  used on input line 2090.
@@ -3270,12 +3197,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2137--2138
 
  []
 
-<./imgs/img57.png, id=793, 999.735pt x 666.49pt>
+<./imgs/img57.png, id=799, 999.735pt x 666.49pt>
 File: ./imgs/img57.png Graphic file (type png)
 <use ./imgs/img57.png>
 Package luatex.def Info: ./imgs/img57.png  used on input line 2142.
 (luatex.def)             Requested size: 213.0pt x 142.00099pt.
-<./imgs/img58.png, id=794, 999.735pt x 666.49pt>
+<./imgs/img58.png, id=800, 999.735pt x 666.49pt>
 File: ./imgs/img58.png Graphic file (type png)
 <use ./imgs/img58.png>
 Package luatex.def Info: ./imgs/img58.png  used on input line 2143.
@@ -3328,17 +3255,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 2245--2246
 
  []
 
-<./imgs/img59.png, id=811, 999.735pt x 666.49pt>
+<./imgs/img59.png, id=817, 999.735pt x 666.49pt>
 File: ./imgs/img59.png Graphic file (type png)
 <use ./imgs/img59.png>
 Package luatex.def Info: ./imgs/img59.png  used on input line 2250.
 (luatex.def)             Requested size: 213.0pt x 142.00099pt.
-<./imgs/img60.png, id=812, 999.735pt x 666.49pt>
+<./imgs/img60.png, id=818, 999.735pt x 666.49pt>
 File: ./imgs/img60.png Graphic file (type png)
 <use ./imgs/img60.png>
 Package luatex.def Info: ./imgs/img60.png  used on input line 2266.
 (luatex.def)             Requested size: 213.0pt x 142.00099pt.
-<./imgs/img61.png, id=813, 999.735pt x 665.48625pt>
+<./imgs/img61.png, id=819, 999.735pt x 665.48625pt>
 File: ./imgs/img61.png Graphic file (type png)
 <use ./imgs/img61.png>
 Package luatex.def Info: ./imgs/img61.png  used on input line 2267.
@@ -3348,12 +3275,12 @@ Overfull \hbox (1.816pt too wide) in paragraph at lines 2266--2268
 [][] [] 
  []
 
-<./imgs/img62.png, id=814, 999.735pt x 666.49pt>
+<./imgs/img62.png, id=820, 999.735pt x 666.49pt>
 File: ./imgs/img62.png Graphic file (type png)
 <use ./imgs/img62.png>
 Package luatex.def Info: ./imgs/img62.png  used on input line 2272.
 (luatex.def)             Requested size: 213.0pt x 142.00099pt.
-<./imgs/img63.png, id=815, 999.735pt x 666.49pt>
+<./imgs/img63.png, id=821, 999.735pt x 666.49pt>
 File: ./imgs/img63.png Graphic file (type png)
 <use ./imgs/img63.png>
 Package luatex.def Info: ./imgs/img63.png  used on input line 2273.
@@ -3409,7 +3336,7 @@ Overfull \hbox (26.29063pt too wide) has occurred while \output is active
  []
 
 [53]
-<./imgs/img64.png, id=844, 999.735pt x 666.49pt>
+<./imgs/img64.png, id=850, 999.735pt x 666.49pt>
 File: ./imgs/img64.png Graphic file (type png)
 <use ./imgs/img64.png>
 Package luatex.def Info: ./imgs/img64.png  used on input line 2367.
@@ -3461,7 +3388,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2462--2463
 
 warning  (file ../watermarks/1simulado5ano.pdf) (pdf inclusion): PDF inclusion: 
 found PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/1simulado5ano.pdf, id=859, 595.34721pt x 795.08403pt>
+<../watermarks/1simulado5ano.pdf, id=865, 595.34721pt x 795.08403pt>
 File: ../watermarks/1simulado5ano.pdf Graphic file (type pdf)
 <use ../watermarks/1simulado5ano.pdf>
 Package luatex.def Info: ../watermarks/1simulado5ano.pdf  used on input line 24
@@ -3491,7 +3418,7 @@ Overfull \hbox (26.29063pt too wide) has occurred while \output is active
  []
 
 [55] [56<../watermarks/1simulado5ano.pdf>]
-<./imgs/img65.png, id=903, 903.375pt x 677.53125pt>
+<./imgs/img65.png, id=909, 903.375pt x 677.53125pt>
 File: ./imgs/img65.png Graphic file (type png)
 <use ./imgs/img65.png>
 Package luatex.def Info: ./imgs/img65.png  used on input line 2495.
@@ -3534,7 +3461,7 @@ Overfull \hbox (54.90118pt too wide) has occurred while \output is active
 
 warning  (file ../watermarks/bgsim5anoimpar.pdf) (pdf inclusion): PDF inclusion:
  found PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/bgsim5anoimpar.pdf, id=904, 595.34721pt x 795.08403pt>
+<../watermarks/bgsim5anoimpar.pdf, id=910, 595.34721pt x 795.08403pt>
 File: ../watermarks/bgsim5anoimpar.pdf Graphic file (type pdf)
 <use ../watermarks/bgsim5anoimpar.pdf>
 Package luatex.def Info: ../watermarks/bgsim5anoimpar.pdf  used on input line 2
@@ -3546,7 +3473,7 @@ Overfull \hbox (26.29063pt too wide) has occurred while \output is active
  []
 
 [57<../watermarks/bgsim5anoimpar.pdf><./imgs/img65.png>]
-<./imgs/img66.png, id=951, 883.3pt x 532.99126pt>
+<./imgs/img66.png, id=958, 883.3pt x 532.99126pt>
 File: ./imgs/img66.png Graphic file (type png)
 <use ./imgs/img66.png>
 Package luatex.def Info: ./imgs/img66.png  used on input line 2555.
@@ -3579,7 +3506,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2637--2638
 
 warning  (file ../watermarks/bgsim5anopar.pdf) (pdf inclusion): PDF inclusion: f
 ound PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/bgsim5anopar.pdf, id=952, 596.42624pt x 792.32411pt>
+<../watermarks/bgsim5anopar.pdf, id=959, 596.42624pt x 792.32411pt>
 File: ../watermarks/bgsim5anopar.pdf Graphic file (type pdf)
 <use ../watermarks/bgsim5anopar.pdf>
 Package luatex.def Info: ../watermarks/bgsim5anopar.pdf  used on input line 263
@@ -3598,7 +3525,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2670--2671
 
 warning  (file ../watermarks/2simulado5ano.pdf) (pdf inclusion): PDF inclusion: 
 found PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/2simulado5ano.pdf, id=999, 595.34721pt x 795.08403pt>
+<../watermarks/2simulado5ano.pdf, id=1006, 595.34721pt x 795.08403pt>
 File: ../watermarks/2simulado5ano.pdf Graphic file (type pdf)
 <use ../watermarks/2simulado5ano.pdf>
 Package luatex.def Info: ../watermarks/2simulado5ano.pdf  used on input line 26
@@ -3632,7 +3559,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2725--2726
 
  []
 
-<./imgs/img67.png, id=1044, 1053.9375pt x 766.865pt>
+<./imgs/img67.png, id=1051, 1053.9375pt x 766.865pt>
 File: ./imgs/img67.png Graphic file (type png)
 <use ./imgs/img67.png>
 Package luatex.def Info: ./imgs/img67.png  used on input line 2741.
@@ -3695,7 +3622,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2858--2859
 
 warning  (file ../watermarks/3simulado5ano.pdf) (pdf inclusion): PDF inclusion: 
 found PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/3simulado5ano.pdf, id=1067, 595.34721pt x 795.08403pt>
+<../watermarks/3simulado5ano.pdf, id=1074, 595.34721pt x 795.08403pt>
 File: ../watermarks/3simulado5ano.pdf Graphic file (type pdf)
 <use ../watermarks/3simulado5ano.pdf>
 Package luatex.def Info: ../watermarks/3simulado5ano.pdf  used on input line 28
@@ -3739,7 +3666,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2908--2909
 
  []
 
-<./imgs/img68.png, id=1116, 829.0975pt x 663.47874pt>
+<./imgs/img68.png, id=1124, 829.0975pt x 663.47874pt>
 File: ./imgs/img68.png Graphic file (type png)
 <use ./imgs/img68.png>
 Package luatex.def Info: ./imgs/img68.png  used on input line 2913.
@@ -3812,7 +3739,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3066--3067
 
 warning  (file ../watermarks/4simulado5ano.pdf) (pdf inclusion): PDF inclusion: 
 found PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/4simulado5ano.pdf, id=1138, 595.34721pt x 795.08403pt>
+<../watermarks/4simulado5ano.pdf, id=1146, 595.34721pt x 795.08403pt>
 File: ../watermarks/4simulado5ano.pdf Graphic file (type pdf)
 <use ../watermarks/4simulado5ano.pdf>
 Package luatex.def Info: ../watermarks/4simulado5ano.pdf  used on input line 30
@@ -3842,7 +3769,7 @@ Overfull \hbox (26.29063pt too wide) has occurred while \output is active
  []
 
 [67] [68<../watermarks/4simulado5ano.pdf>]
-<./imgs/img69.png, id=1187, 742.775pt x 742.775pt>
+<./imgs/img69.png, id=1195, 742.775pt x 742.775pt>
 File: ./imgs/img69.png Graphic file (type png)
 <use ./imgs/img69.png>
 Package luatex.def Info: ./imgs/img69.png  used on input line 3084.
@@ -3973,14 +3900,8 @@ Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `LIVRO.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `LIVRO.out':
-(rerunfilecheck)             Before: A6F98552E39BBA01370766D57A41AD82;373
-(rerunfilecheck)             After:  95EFBF63BEF5B4391029FDC16E8FA4FD;1029.
+Package rerunfilecheck Info: File `LIVRO.out' has not changed.
+(rerunfilecheck)             Checksum: 95EFBF63BEF5B4391029FDC16E8FA4FD;1029.
 )
 (\end occurred inside a group at level 1)
 
@@ -3988,38 +3909,28 @@ Package rerunfilecheck Info: Checksums for `LIVRO.out':
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 41221 strings out of 477352
+ 40830 strings out of 477805
  125311,1648299 words of node,token memory allocated
- 1640 words of node memory still in use:
-   7 hlist, 1 vlist, 2 rule, 1 local_par, 7 glue, 3 kern, 1 penalty, 2 glyph, 20
- attribute, 260 glue_spec, 12 attribute_list, 3 shape, 5 write nodes
-   avail lists: 1:2,2:2576,3:383,4:1129,5:2674,6:67,7:7881,8:29,9:3556,10:25,11:
+ 1656 words of node memory still in use:
+   7 hlist, 1 vlist, 2 rule, 1 local_par, 7 glue, 3 kern, 1 penalty, 2 glyph, 22
+ attribute, 262 glue_spec, 13 attribute_list, 3 shape, 5 write nodes
+   avail lists: 1:3,2:2574,3:385,4:1130,5:2771,6:67,7:7880,8:28,9:3557,10:24,11:
 750
- 59887 multiletter control sequences out of 65536+600000
- 83 fonts using 17988351 bytes
- 92i,18n,103p,1430b,3117s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 59065 multiletter control sequences out of 65536+600000
+ 87 fonts using 17168863 bytes
+ 92i,18n,103p,1330b,3216s stack positions out of 5000i,500n,10000p,200000b,80000s
+</home/editorial/.fonts/MinionPro-Bold.otf></home/editorial/.fonts/MinionPro-Sub
+h.otf></home/editorial/.fonts/MinionPro-BoldSubh.otf></home/editorial/.fonts/cam
+bria.ttc></home/editorial/.fonts/MinionPro-Regular.otf></home/editorial/.fonts/M
+inionPro-Disp.otf></home/editorial/.fonts/Gotham-Black.otf></home/editorial/.fon
+ts/MinionPro-ItCapt.otf></home/editorial/.fonts/MinionPro-Capt.otf></home/editor
+ial/.fonts/MinionPro-BoldCapt.otf></home/editorial/.fonts/MinionPro-BoldDisp.otf
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (71 pages, 42323814 bytes).
 
-warning  (pdf backend): unreferenced destination with name 'chapter*.43'
-
-warning  (pdf backend): unreferenced destination with name 'chapter*.34'
-
-warning  (pdf backend): unreferenced destination with name 'chapter*.27'
-
-warning  (pdf backend): unreferenced destination with name 'chapter*.18'
-
-warning  (pdf backend): unreferenced destination with name 'chapter*.9'
-
-warning  (pdf backend): unreferenced destination with name 'chapter*.1'
-<C:/Users/Windows/AppData/Local/Microsoft/Windows/Fonts/cambria.ttc><C:/Users/Wi
-ndows/AppData/Local/Microsoft/Windows/Fonts/gotham-black.otf><C:/Users/Windows/A
-ppData/Local/Microsoft/Windows/Fonts/minionpro-it.otf><C:/Users/Windows/AppData/
-Local/Microsoft/Windows/Fonts/minionpro-regular.otf><C:/Users/Windows/AppData/Lo
-cal/Microsoft/Windows/Fonts/minionpro-bold.otf><C:/Users/Windows/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Windows/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (71 pages, 42442966 bytes).
-
-PDF statistics: 1274 PDF objects out of 1440 (max. 8388607)
- 331 named destinations out of 1000 (max. 131072)
+PDF statistics: 1320 PDF objects out of 1440 (max. 8388607)
+ 897 compressed objects within 9 object streams
+ 325 named destinations out of 1000 (max. 131072)
  64 words of extra memory for PDF output out of 10000 (max. 100000000)
 
