@@ -437,6 +437,9 @@ INPUT ./imgs/img15.jpg
 INPUT ./imgs/img15.jpg
 INPUT ./CNA.tex
 INPUT ./CNA.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT ./imgs/img1.png
 INPUT ./imgs/img1.png
 INPUT ./imgs/img1.png

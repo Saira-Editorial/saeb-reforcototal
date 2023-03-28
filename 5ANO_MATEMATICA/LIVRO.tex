@@ -58,14 +58,15 @@
 % Ulem
 \usepackage{ulem}
 
+\let\emph\textit
+
 
 \newcommand\reduline{
 	\noindent\bgroup
 	\color{rosa}
   	\footnotesize
   	\cambria
-	\baselineskip=1.7\baselineskip\par
-	\markoverwith{{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}}\lower0.4cm\hbox{\mbox{}}}
+	\markoverwith{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}\lower0.4cm\hbox{\mbox{}}}
 	\ULon
 }
 
@@ -73,8 +74,8 @@
 % Medidas (ver: memoir p.11 fig.2.3)
 \parindent=3ex			% Tamanho da indentação
 \parskip=0pt			% Entre parágrafos
-\marginparsep=-5em		% Entre mancha e nota lateral
-\marginparwidth=10em		% Tamanho da caixa de texto da nota laterial
+\marginparsep=-3em		% Entre mancha e nota lateral
+\marginparwidth=5em		% Tamanho da caixa de texto da nota laterial
 
 %\newcommand{\rmarginnote}[1]{%
 %\marginpar{%
