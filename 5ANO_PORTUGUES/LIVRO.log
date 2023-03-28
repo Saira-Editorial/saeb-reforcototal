@@ -1,0 +1,4025 @@
+This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.10) (format=lualatex 2023.3.23)  28 MAR 2023 16:23
+ restricted system commands enabled.
+**"C:/Users/Windows/OneDrive/Documents/Felipe/SAEB (CASA DE LETRAS)/saeb-reforc
+ototal/5ANO_PORTUGUES/LIVRO.tex"
+
+("C:/Users/Windows/OneDrive/Documents/Felipe/SAEB (CASA DE LETRAS)/saeb-reforco
+total/5ANO_PORTUGUES/LIVRO.tex"
+LaTeX2e <2022-06-01> patch level 5
+Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
+Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2022-10-04 2.75 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "C:/Users/Windows/AppData/Local/MiKT
+eX/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2022-10-03.lua" from kpse-res
+olved path "C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload
+/fontloader-2022-10-03.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.120
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/Windows/AppData/Local/MiKT
+eX/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' at position 1 in `glyph_stream_provider'
+.
+Inserting `luaotfload.harf.finalize_vlist' at position 1 in `post_linebreak_filt
+er'.
+Inserting `luaotfload.harf.finalize_hlist' at position 2 in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' at position 1 in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' at position 1 in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' at position 1 in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
+t'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
+. L3 programming layer <2022-09-28>
+Inserting `tracingstacklevels' at position 1 in `input_level_string'.
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/memoir/memoir.cls
+Document Class: memoir 2022/11/17 v3.7.19 configurable book, report, article do
+cument class
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count183
+)
+\onelineskip=\skip47
+\lxvchars=\skip48
+\xlvchars=\skip49
+\@memcnta=\count184
+\c@@memmarkcntra=\count185
+ (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\stockheight=\dimen137
+\stockwidth=\dimen138
+\trimtop=\skip50
+\trimedge=\skip51
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/memoir/mem12.clo
+File: mem12.clo 2022/07/29 v0.5 memoir class 12pt size option
+luaotfload | db : Font names database loaded from C:/Users/Windows/AppData/Local
+/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\binding=\skip52
+\spinemargin=\skip53
+\foremargin=\skip54
+\uppermargin=\skip55
+\lowermargin=\skip56
+\headdrop=\skip57
+\normalrulethickness=\skip58
+\mem@maxheadheight=\skip59
+\mem@maxfootheight=\skip60
+\headwidth=\skip61
+\c@storedpagenumber=\count186
+\memPD=\dimen139
+\m@mabparskip=\skip62
+\thanksmarkwidth=\skip63
+\thanksmarksep=\skip64
+\droptitle=\skip65
+\c@book=\count187
+\c@part=\count188
+\c@chapter=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\beforechapskip=\skip66
+\midchapskip=\skip67
+\afterchapskip=\skip68
+\chapindent=\skip69
+\bottomsectionskip=\skip70
+\secindent=\skip71
+\beforesecskip=\skip72
+\aftersecskip=\skip73
+\subsecindent=\skip74
+\beforesubsecskip=\skip75
+\aftersubsecskip=\skip76
+\subsubsecindent=\skip77
+\beforesubsubsecskip=\skip78
+\aftersubsubsecskip=\skip79
+\paraindent=\skip80
+\beforeparaskip=\skip81
+\afterparaskip=\skip82
+\subparaindent=\skip83
+\beforesubparaskip=\skip84
+\aftersubparaskip=\skip85
+\pfbreakskip=\skip86
+\c@@ppsavesec=\count195
+\c@@ppsaveapp=\count196
+\ragrparindent=\dimen140
+\everylistparindent=\dimen141
+\parsepi=\skip87
+\topsepi=\skip88
+\itemsepi=\skip89
+\parsepii=\skip90
+\topsepii=\skip91
+\topsepiii=\skip92
+\itemsepii=\skip93
+\itemsepiii=\skip94
+\partopsepii=\skip95
+\partopsepiii=\skip96
+\m@msavetopsep=\skip97
+\m@msavepartopsep=\skip98
+\@enLab=\toks16
+\abstitleskip=\skip99
+\absleftindent=\skip100
+\abs@leftindent=\dimen142
+\absrightindent=\skip101
+\absparindent=\skip102
+\absparsep=\skip103
+\c@vslineno=\count197
+\c@poemline=\count198
+\c@modulo@vs=\count199
+\c@memfvsline=\count266
+\vleftskip=\skip104
+\vrightskip=\skip105
+\stanzaskip=\skip106
+\versewidth=\skip107
+\vgap=\skip108
+\vindent=\skip109
+\vleftmargin=\dimen143
+\c@verse=\count267
+\c@chrsinstr=\count268
+\beforepoemtitleskip=\skip110
+\afterpoemtitleskip=\skip111
+\c@poem=\count269
+\beforePoemTitleskip=\skip112
+\midPoemTitleskip=\skip113
+\afterPoemTitleskip=\skip114
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen144
+\ar@mcellbox=\box51
+\extrarowheight=\dimen145
+\NC@list=\toks17
+\extratabsurround=\skip115
+\backup@length=\skip116
+\ar@cellbox=\box52
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tools/delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen146
+\TX@old@table=\dimen147
+\TX@old@col=\dimen148
+\TX@target=\dimen149
+\TX@delta=\dimen150
+\TX@cols=\count270
+\TX@ftn=\toks18
+)
+\heavyrulewidth=\dimen151
+\lightrulewidth=\dimen152
+\cmidrulewidth=\dimen153
+\belowrulesep=\dimen154
+\belowbottomsep=\dimen155
+\aboverulesep=\dimen156
+\abovetopsep=\dimen157
+\cmidrulesep=\dimen158
+\cmidrulekern=\dimen159
+\defaultaddspace=\dimen160
+\@cmidla=\count271
+\@cmidlb=\count272
+\@aboverulesep=\dimen161
+\@belowrulesep=\dimen162
+\@thisruleclass=\count273
+\@lastruleclass=\count274
+\@thisrulewidth=\dimen163
+\ctableftskip=\skip117
+\ctabrightskip=\skip118
+\abovecolumnspenalty=\count275
+\@linestogo=\count276
+\@cellstogo=\count277
+\@cellsincolumn=\count278
+\crtok=\toks19
+\@mincolumnwidth=\dimen164
+\c@newflo@tctr=\count279
+\mem@margin@floatbox=\box53
+\@contcwidth=\skip119
+\@contindw=\skip120
+\abovecaptionskip=\skip121
+\belowcaptionskip=\skip122
+\subfloattopskip=\skip123
+\subfloatcapskip=\skip124
+\subfloatcaptopadj=\skip125
+\subfloatbottomskip=\skip126
+\subfloatlabelskip=\skip127
+\subfloatcapmargin=\dimen165
+\c@@contsubnum=\count280
+\m@mscap@capbox=\box54
+\m@mscap@fbox=\box55
+\sidecapsep=\dimen166
+\sidecapwidth=\dimen167
+\m@m@tempdima=\dimen168
+\m@mscapraise=\dimen169
+\sidecapraise=\dimen170
+\m@mscapmainwidth=\dimen171
+\m@mscaplkern=\dimen172
+\beforeepigraphskip=\skip128
+\afterepigraphskip=\skip129
+\epigraphwidth=\skip130
+\epigraphrule=\skip131
+LaTeX Info: Redefining \em on input line 7655.
+LaTeX Info: Redefining \emph on input line 7663.
+\tocentryskip=\skip132
+\tocbaseline=\skip133
+\cftparskip=\skip134
+\cftbeforebookskip=\skip135
+\cftbookindent=\dimen173
+\cftbooknumwidth=\dimen174
+\cftbeforepartskip=\skip136
+\cftpartindent=\skip137
+\cftpartnumwidth=\skip138
+\cftbeforechapterskip=\skip139
+\cftchapterindent=\skip140
+\cftchapternumwidth=\skip141
+\cftbeforesectionskip=\skip142
+\cftsectionindent=\skip143
+\cftsectionnumwidth=\skip144
+\cftbeforesubsectionskip=\skip145
+\cftsubsectionindent=\skip146
+\cftsubsectionnumwidth=\skip147
+\cftbeforesubsubsectionskip=\skip148
+\cftsubsubsectionindent=\skip149
+\cftsubsubsectionnumwidth=\skip150
+\cftbeforeparagraphskip=\skip151
+\cftparagraphindent=\skip152
+\cftparagraphnumwidth=\skip153
+\cftbeforesubparagraphskip=\skip154
+\cftsubparagraphindent=\skip155
+\cftsubparagraphnumwidth=\skip156
+\prechapterprecisshift=\dimen175
+\c@maxsecnumdepth=\count281
+\bibindent=\dimen176
+\bibitemsep=\skip157
+\indexcolsep=\skip158
+\indexrule=\skip159
+\indexmarkstyle=\toks20
+\@indexbox=\insert252
+\glossarycolsep=\dimen177
+\glossaryrule=\dimen178
+\sideparvshift=\skip160
+\sideins=\insert251
+\sidebartopsep=\skip161
+\sidebarhsep=\skip162
+\sidebarvsep=\skip163
+\sidebarwidth=\skip164
+\footmarkwidth=\skip165
+\footmarksep=\skip166
+\footparindent=\skip167
+\footinsdim=\skip168
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count282
+\m@m@h=\dimen179
+\m@mipn@skip=\skip169
+\sidefootins=\insert248
+\sidefootadjust=\skip170
+\sidefootheight=\skip171
+\sidefoothsep=\skip172
+\sidefootvsep=\skip173
+\sidefootwidth=\skip174
+\m@mdownsf=\skip175
+\c@sidefootnote=\count283
+\sidefootmarkwidth=\skip176
+\sidefootmarksep=\skip177
+\sidefootparindent=\skip178
+\c@pagenote=\count284
+\c@pagenoteshadow=\count285
+\mem@pn@lastkern=\skip179
+\every@verbatim=\toks21
+\afterevery@verbatim=\toks22
+\verbatim@line=\toks23
+\tab@position=\count286
+\verbatim@in@stream=\read2
+\verbatimindent=\skip180
+\verbatim@out=\write3
+\bvboxsep=\skip181
+\c@memfbvline=\count287
+\c@bvlinectr=\count288
+\bvnumlength=\skip182
+\fb@frw=\dimen180
+\fb@frh=\dimen181
+\FrameRule=\dimen182
+\FrameSep=\dimen183
+\c@cp@cntr=\count289
+\c@ism@mctr=\count290
+\c@xsm@mctr=\count291
+\c@csm@mctr=\count292
+\c@ksm@mctr=\count293
+\c@xksm@mctr=\count294
+\c@cksm@mctr=\count295
+\c@msm@mctr=\count296
+\c@xmsm@mctr=\count297
+\c@cmsm@mctr=\count298
+\c@bsm@mctr=\count299
+\c@workm@mctr=\count300
+\c@sheetsequence=\count301
+\c@lastsheet=\count302
+\c@lastpage=\count303
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/textcase/textcase.sty
+Package: textcase 2022/07/10 v1.03 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
+)
+\c@figure=\count304
+\c@lofdepth=\count305
+\cftbeforefigureskip=\skip183
+\cftfigureindent=\skip184
+\cftfigurenumwidth=\skip185
+\c@table=\count306
+\c@lotdepth=\count307
+\cftbeforetableskip=\skip186
+\cfttableindent=\skip187
+\cfttablenumwidth=\skip188
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty
+Package: babel 2022/10/04 3.81 The Babel package
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
+\bbl@readstream=\read3
+\l@afrikaans=\language2
+Package babel Info: Non-standard hyphenation setup on input line 118.
+\l@ancientgreek=\language3
+\l@armenian=\language4
+\l@assamese=\language5
+\l@basque=\language6
+\l@belarusian=\language7
+\l@bengali=\language8
+\l@bokmal=\language9
+\l@bulgarian=\language10
+\l@catalan=\language11
+\l@churchslavonic=\language12
+\l@classiclatin=\language13
+\l@coptic=\language14
+\l@croatian=\language15
+\l@czech=\language16
+\l@danish=\language17
+\l@dutch=\language18
+\l@esperanto=\language19
+\l@estonian=\language20
+\l@ethiopic=\language21
+\l@finnish=\language22
+\l@french=\language23
+\l@friulan=\language24
+\l@galician=\language25
+\l@georgian=\language26
+\l@german=\language27
+\l@greek=\language28
+\l@gujarati=\language29
+\l@hindi=\language30
+\l@hungarian=\language31
+\l@icelandic=\language32
+\l@indonesian=\language33
+\l@interlingua=\language34
+\l@irish=\language35
+\l@italian=\language36
+\l@kannada=\language37
+\l@kurmanji=\language38
+\l@latin=\language39
+\l@latvian=\language40
+\l@lithuanian=\language41
+\l@liturgicallatin=\language42
+\l@macedonian=\language43
+\l@malayalam=\language44
+\l@marathi=\language45
+\l@mongolian=\language46
+\l@mongolianlmc=\language47
+\l@monogreek=\language48
+\l@ngerman=\language49
+\l@nynorsk=\language50
+\l@occitan=\language51
+\l@oriya=\language52
+\l@pali=\language53
+\l@panjabi=\language54
+\l@piedmontese=\language55
+\l@polish=\language56
+\l@portuguese=\language57
+\l@romanian=\language58
+\l@romansh=\language59
+\l@russian=\language60
+\l@sanskrit=\language61
+\l@serbian=\language62
+\l@serbianc=\language63
+\l@slovak=\language64
+\l@slovenian=\language65
+\l@spanish=\language66
+\l@swedish=\language67
+\l@swissgerman=\language68
+\l@tamil=\language69
+\l@telugu=\language70
+\l@thai=\language71
+\l@turkish=\language72
+\l@turkmen=\language73
+\l@ukenglish=\language74
+\l@ukrainian=\language75
+\l@uppersorbian=\language76
+\l@usenglishmax=\language77
+\l@welsh=\language78
+\babelcatcodetablenum=\catcodetable12
+\bbl@pattcodes=\catcodetable13
+)
+\babel@savecnt=\count308
+\U@D=\dimen184
+\l@unhyphenated=\language79
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel.def
+\bbl@attr@locale=\attribute4
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/babel-portuges/brazil
+ian.ldf
+Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
+Package babel Info: Hyphen rules for 'brazilian' set to \l@portuguese
+(babel)             (\language57). Reported on input line 111.
+Package babel Info: Making " an active character on input line 143.
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/loadhyph/
+loadhyph-pt.tex UTF-8 Portuguese hyphenation patterns
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/patterns/
+tex/hyph-pt.tex))))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/pt/bab
+el-brazilian.tex
+Package babel Info: Importing font and identification data for brazilian
+(babel)             from babel-pt-BR.ini. Reported on input line 11.
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/anyfontsize/anyfontsi
+ze.sty
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.sty
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xpa
+rse.sty
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-l
+uatex.def
+File: l3backend-luatex.def 2022-09-28 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count309
+\l__pdf_internal_box=\box56
+))
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-lua
+tex.sty
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count310
+\l__fontspec_language_int=\count311
+\l__fontspec_strnum_int=\count312
+\l__fontspec_tmp_int=\count313
+\l__fontspec_tmpa_int=\count314
+\l__fontspec_tmpb_int=\count315
+\l__fontspec_tmpc_int=\count316
+\l__fontspec_em_int=\count317
+\l__fontspec_emdef_int=\count318
+\l__fontspec_strong_int=\count319
+\l__fontspec_strongdef_int=\count320
+\l__fontspec_tmpa_dim=\dimen185
+\l__fontspec_tmpb_dim=\dimen186
+\l__fontspec_tmpc_dim=\dimen187
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.cfg
+))) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/lineno/lineno.sty
+Package: lineno 2023/01/19 line numbers on paragraphs v5.1
+\linenopenalty=\count321
+\output=\toks24
+\linenoprevgraf=\count322
+\linenumbersep=\dimen188
+\linenumberwidth=\dimen189
+\c@linenumber=\count323
+\c@pagewiselinenumber=\count324
+\c@LN@truepage=\count325
+\c@internallinenumber=\count326
+\c@internallinenumbers=\count327
+\quotelinenumbersep=\dimen190
+\bframerule=\dimen191
+\bframesep=\dimen192
+\bframebox=\box57
+LaTeX Info: Redefining \\ on input line 3131.
+) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.sty
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/l3keys2e/l
+3keys2e.sty
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count328
+\l__lipsum_a_int=\count329
+\l__lipsum_b_int=\count330
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.ltd.tex
+)) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/alltt.sty
+Package: alltt 2021/01/29 v2.0g defines alltt environment
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 107.
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.d
+ef
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen193
+\Gin@req@width=\dimen194
+) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count331
+\float@exts=\toks26
+\float@box=\box58
+\@float@everytoks=\toks27
+\@floatcapt=\box59
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2022-09-25 v2.30 (Daniel Flipo)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyval.tex
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvutils.te
+x
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count332
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/minifp/minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
+-based programing language.
+\MFP@loopctr=\count333
+)
+\c@DefaultLines=\count334
+\c@DefaultDepth=\count335
+\DefaultFindent=\dimen195
+\DefaultNindent=\dimen196
+\DefaultSlope=\dimen197
+\DiscardVskip=\dimen198
+
+Loading lettrine.cfg
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/lettrine/lettrine.cfg
+)
+\L@lbox=\box60
+\L@tbox=\box61
+\c@L@lines=\count336
+\c@L@depth=\count337
+\L@Pindent=\dimen199
+\L@Findent=\dimen256
+\L@Nindent=\dimen257
+\L@lraise=\dimen258
+\L@first=\dimen259
+\L@next=\dimen260
+\L@slope=\dimen261
+\L@height=\dimen262
+\L@novskip=\dimen263
+\L@target@ht=\dimen264
+\L@target@dp=\dimen265
+\L@target@tht=\dimen266
+\LettrineWidth=\dimen267
+\LettrineHeight=\dimen268
+\LettrineDepth=\dimen269
+\Llist@everypar=\toks30
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/comment/comment.sty
+\CommentStream=\write4
+
+Excluding comment 'comment')
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/adforn/adforn.sty
+Package: adforn 2019/10/13 v1.1b adforn CFR
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+LaTeX Font Info:    Trying to load font information for U+OrnementsADF on input
+ line 4.
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/adforn/uornementsadf.
+fd))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cf
+g
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 227.
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.lt
+x)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype.s
+ty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+\MT@toks=\toks31
+\MT@tempbox=\box62
+\MT@count=\count338
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks32
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen270
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count339
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype-l
+uatex.def
+File: microtype-luatex.def 2023/03/13 v3.1a Definitions specific to luatex (RS)
+
+Lua module: microtype 2023/03/13 3.1a microtype module.
+Module microtype Info: overwriting function `keepligature' on input line 63
+LaTeX Info: Redefining \lsstyle on input line 688.
+LaTeX Info: Redefining \lslig on input line 688.
+\MT@outer@space=\skip189
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microtype.c
+fg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip190
+\enit@outerparindent=\dimen271
+\enit@toks=\toks33
+\enit@inbox=\box63
+\enit@count@id=\count340
+\enitdp@description=\count341
+) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/marginnote/marginnote
+.sty
+Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
+\c@mn@abspage=\count342
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box64
+\beforetitleunit=\skip191
+\aftertitleunit=\skip192
+\ttl@plus=\dimen272
+\ttl@minus=\dimen273
+\ttl@toksa=\toks34
+\titlewidth=\dimen274
+\titlewidthlast=\dimen275
+\titlewidthfirst=\dimen276
+) (./edlab-penalties.sty) (./edlab-git.sty) (./edlab-toc.sty)
+(./edlab-extra.sty
+\enitdp@boxlist=\count343
+\c@escolhai=\count344
+\enitdp@escolha=\count345
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count346
+\mult@box=\box65
+\multicol@leftmargin=\dimen277
+\c@unbalance=\count347
+\c@collectmore=\count348
+\doublecol@number=\count349
+\multicoltolerance=\count350
+\multicolpretolerance=\count351
+\full@width=\dimen278
+\page@free=\dimen279
+\premulticols=\dimen280
+\postmulticols=\dimen281
+\multicolsep=\skip193
+\multicolbaselineskip=\skip194
+\partial@page=\box66
+\last@line=\box67
+\maxbalancingoverflow=\dimen282
+\mult@rightbox=\box68
+\mult@grightbox=\box69
+\mult@firstbox=\box70
+\mult@gfirstbox=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\c@minrows=\count352
+\c@columnbadness=\count353
+\c@finalcolumnbadness=\count354
+\last@try=\dimen283
+\multicolovershoot=\dimen284
+\multicolundershoot=\dimen285
+\mult@nat@firstbox=\box108
+\colbreak@box=\box109
+\mc@col@check@num=\count355
+))
+(./edlab-margins.sty
+
+Class memoir Warning: \marginparsep is zero or negative on input line 175.
+
+
+******************************************************
+Stock height and width: 1195.01575pt by 845.04684pt
+Top and edge trims: 56.9055pt and 123.76949pt
+Page height and width: 796.67715pt by 597.50787pt
+Text height and width: 635.5pt by 426pt
+Spine and edge margins: 99.58463pt and 71.13191pt
+Upper and lower margins: 85.35826pt and 75.8189pt
+Headheight and headsep: 51.21495pt and 19.8738pt
+Footskip: 51.21495pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 0pt and 106.69783pt
+Sidecapsep and sidecapwidth: 7pt and 102pt
+Sidebarhsep and sidebarwidth: 7pt and 102pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 546.64995pt
+Sidefoothsep and sidefootwidth: 7pt and 102pt
+Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
+******************************************************
+
+) (./edlab-sections.sty) (./edlab-footnotes.sty
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/ncctools/manyfoot.sty
+Package: manyfoot 2019/08/03 v1.11 Many Footnote Levels Package (NCC)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/ncctools/nccfoots.sty
+Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
+)
+\MFL@columnwidth=\dimen286
+\footglue=\skip195
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
+\FN@temptoken=\toks35
+\footnotemargin=\dimen287
+\@outputbox@depth=\dimen288
+Package footmisc Info: Declaring symbol style bringhurst on input line 695.
+Package footmisc Info: Declaring symbol style chicago on input line 703.
+Package footmisc Info: Declaring symbol style wiley on input line 712.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 743.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
+.
+))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/xwatermark/xwatermark
+.sty
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/catoptions/catoptions
+.sty
+\m@one=\count356
+\z@pt=\dimen289
+Package: catoptions 2014/08/29 v0.2.7h Securing catcodes and parsing options (A
+M)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcm
+ds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr
+.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks36
+)
+\cpt@csvdepth=\count357
+\cpt@optdepth=\count358
+\cpt@cnta=\count359
+\indrisdepth=\count360
+\cpt@foreachdepth=\count361
+\cpt@exprcnt=\count362
+)
+Package: xwatermark 2012/10/23 v1.5.2d A dynamic watermarking scheme (Ahmed Mus
+a)
+ (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/picture/picture.sty
+Package: picture 2020-04-22 v1.6 Dimens for picture macros (HO)
+Package picture Info: Calculation method: etex.
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-ltx.sty
+
+LaTeX Warning: You have requested package `atbegshi',
+               but the package provides `atbegshi-ltx'.
+
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip196
+\f@nch@O@elh=\skip197
+\f@nch@O@erh=\skip198
+\f@nch@O@olh=\skip199
+\f@nch@O@orh=\skip256
+\f@nch@O@elf=\skip257
+\f@nch@O@erf=\skip258
+\f@nch@O@olf=\skip259
+\f@nch@O@orf=\skip260
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-ltx.st
+y
+
+LaTeX Warning: You have requested package `atveryend',
+               but the package provides `atveryend-ltx'.
+
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/ltxkeys/ltxkeys.sty
+Package: ltxkeys 2012/11/17 v0.0.3c A robust key-value parser (AM) (Ahmed Musa)
+
+\ltxkeys@csvdepth=\count363
+\ltxkeys@keydepth=\count364
+) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+
+
+! LaTeX Error: Command \framed already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115   {\endMakeFramed}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \shaded already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.120  {\endMakeFramed}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \leftbar already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130  {\endMakeFramed}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \snugshade already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148  }{\par\unskip\@minipagefalse\endMakeFramed}
+                                                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\OuterFrameSep=\skip261
+\fb@frw=\dimen290
+\fb@frh=\dimen291
+)
+\xwm@boxa=\box110
+\xwm@boxb=\box111
+\xwm@cnta=\count365
+\xwm@wrt=\write5
+ (./LIVRO.xwm)
+\openout5 = LIVRO.xwm
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count366
+\calc@Bcount=\count367
+\calc@Adimen=\dimen292
+\calc@Bdimen=\dimen293
+\calc@Askip=\skip262
+\calc@Bskip=\skip263
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count368
+\calc@Cskip=\skip264
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen294
+\ESO@tempdimb=\dimen295
+)
+\AM@pagewidth=\dimen296
+\AM@pageheight=\dimen297
+\AM@fboxrule=\dimen298
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pdfpages/ppluatex.def
+File: ppluatex.def 2022/12/19 v0.5x Pdfpages driver for LuaTeX (AM)
+)
+\pdfpages@includegraphics@status=\count369
+\AM@pagebox=\box112
+\AM@global@opts=\toks37
+\AM@pagecnt=\count370
+\AM@toc@title=\toks38
+\AM@lof@heading=\toks39
+\c@AM@survey=\count371
+\AM@templatesizebox=\box113
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen299
+\WF@size=\dimen300
+\c@WF@wrappedlines=\count372
+\WF@box=\box114
+\WF@everypar=\toks40
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/tikzpagenodes/tikzpag
+enodes.sty
+Package: tikzpagenodes 2012/09/16 v1.1 Special PGF/TikZ nodes for areas of the 
+page
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/frontendlayer/tik
+z.sty
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgf.st
+y
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfrcs.
+sty
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfut
+il-common.tex
+\pgfutil@everybye=\toks41
+\pgfutil@tempdima=\dimen301
+\pgfutil@tempdimb=\dimen302
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfut
+il-common-lists.tex))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfut
+il-latex.def
+\pgfutil@abb=\box115
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfrc
+s.code.tex
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/pgf.revision.te
+x)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgfcor
+e.sty
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/systemlayer/pgfsy
+s.sty
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf
+sys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfke
+ys.code.tex
+\pgfkeys@pathtoks=\toks42
+\pgfkeys@temptoks=\toks43
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfke
+ysfiltered.code.tex
+\pgfkeys@tmptoks=\toks44
+))
+\pgf@x=\dimen303
+\pgf@y=\dimen304
+\pgf@xa=\dimen305
+\pgf@ya=\dimen306
+\pgf@xb=\dimen307
+\pgf@yb=\dimen308
+\pgf@xc=\dimen309
+\pgf@yc=\dimen310
+\pgf@xd=\dimen311
+\pgf@yd=\dimen312
+\w@pgf@writea=\write6
+\r@pgf@reada=\read4
+\c@pgf@counta=\count373
+\c@pgf@countb=\count374
+\c@pgf@countc=\count375
+\c@pgf@countd=\count376
+\t@pgf@toka=\toks45
+\t@pgf@tokb=\toks46
+\t@pgf@tokc=\toks47
+\pgf@sys@id@count=\count377
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf
+.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-luatex.def
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf
+sys-luatex.def
+File: pgfsys-luatex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf
+sys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf
+syssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count378
+\pgfsyssoftpath@bigbuffer@items=\count379
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf
+sysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+ore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.co
+de.tex
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathcal
+c.code.tex
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathuti
+l.code.tex)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathpar
+ser.code.tex
+\pgfmath@dimen=\dimen313
+\pgfmath@count=\count380
+\pgfmath@box=\box116
+\pgfmath@toks=\toks48
+\pgfmath@stack@operand=\toks49
+\pgfmath@stack@operation=\toks50
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
+ctions.code.tex
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
+ctions.basic.code.tex)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
+ctions.trigonometric.code.tex)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
+ctions.random.code.tex)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
+ctions.comparison.code.tex)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
+ctions.base.code.tex)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
+ctions.round.code.tex)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
+ctions.misc.code.tex)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfun
+ctions.integerarithmetics.code.tex)))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathflo
+at.code.tex
+\c@pgfmathroundto@lastzeros=\count381
+))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfint.cod
+e.tex)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+orepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen314
+\pgf@picmaxx=\dimen315
+\pgf@picminy=\dimen316
+\pgf@picmaxy=\dimen317
+\pgf@pathminx=\dimen318
+\pgf@pathmaxx=\dimen319
+\pgf@pathminy=\dimen320
+\pgf@pathmaxy=\dimen321
+\pgf@xx=\dimen322
+\pgf@xy=\dimen323
+\pgf@yx=\dimen324
+\pgf@yy=\dimen325
+\pgf@zx=\dimen326
+\pgf@zy=\dimen327
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+orepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen328
+\pgf@path@lasty=\dimen329
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+orepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen330
+\pgf@shorten@start@additional=\dimen331
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+orescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box117
+\pgf@hbox=\box118
+\pgf@layerbox@main=\box119
+\pgf@picture@serial@count=\count382
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+oregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen332
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+oretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen333
+\pgf@pt@y=\dimen334
+\pgf@pt@temp=\dimen335
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+orequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+oreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+orepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+orearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen336
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+oreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen337
+\pgf@sys@shading@range@num=\count383
+\pgf@shadingcount=\count384
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+oreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+oreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box120
+))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+orelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+oretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+orepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfc
+orerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodu
+leshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box121
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodu
+leplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/pgf
+comp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen338
+\pgf@nodesepend=\dimen339
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/pgf
+comp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgffor.
+sty
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfkeys
+.sty
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfke
+ys.code.tex))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pgf/math/pgfmath.sty
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.co
+de.tex))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgffo
+r.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.co
+de.tex)
+\pgffor@iter=\dimen340
+\pgffor@skip=\dimen341
+\pgffor@stack=\toks51
+\pgffor@toks=\toks52
+))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/t
+ikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/pgfli
+braryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count385
+\pgfplotmarksize=\dimen342
+)
+\tikz@lastx=\dimen343
+\tikz@lasty=\dimen344
+\tikz@lastxsaved=\dimen345
+\tikz@lastysaved=\dimen346
+\tikz@lastmovetox=\dimen347
+\tikz@lastmovetoy=\dimen348
+\tikzleveldistance=\dimen349
+\tikzsiblingdistance=\dimen350
+\tikz@figbox=\box122
+\tikz@figbox@bg=\box123
+\tikz@tempbox=\box124
+\tikz@tempbox@bg=\box125
+\tikztreelevel=\count386
+\tikznumberofchildren=\count387
+\tikznumberofcurrentchild=\count388
+\tikz@fig@count=\count389
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodu
+lematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count390
+\pgfmatrixcurrentcolumn=\count391
+\pgf@matrix@numberofcolumns=\count392
+)
+\tikz@expandcount=\count393
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/t
+ikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/ifoddpage/ifoddpage.s
+ty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count394
+LaTeX Info: Redefining \checkoddpage on input line 45.
+))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/textpos/textpos.sty
+Package: textpos 2022/07/23 v1.10.1
+Package textpos Info: choosing support for LaTeX3 on input line 60.
+\TP@textbox=\box126
+\TPHorizModule=\dimen351
+\TPVertModule=\dimen352
+\TP@margin=\dimen353
+\TP@absmargin=\dimen354
+
+Grid set 16 x 16 = 37.34424pt x 49.79231pt
+\TPboxrulesize=\dimen355
+\TP@tbargs=\toks53
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.s
+ty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.s
+ty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty
+Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/kvdefi
+nekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/etexcmds/etexcmds.s
+ty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count395
+Package zref Info: New property: abspage on input line 65.
+)
+\mdf@templength=\skip265
+\c@mdf@globalstyle@cnt=\count396
+\mdf@skipabove@length=\skip266
+\mdf@skipbelow@length=\skip267
+\mdf@leftmargin@length=\skip268
+\mdf@rightmargin@length=\skip269
+\mdf@innerleftmargin@length=\skip270
+\mdf@innerrightmargin@length=\skip271
+\mdf@innertopmargin@length=\skip272
+\mdf@innerbottommargin@length=\skip273
+\mdf@splittopskip@length=\skip274
+\mdf@splitbottomskip@length=\skip275
+\mdf@outermargin@length=\skip276
+\mdf@innermargin@length=\skip277
+\mdf@linewidth@length=\skip278
+\mdf@innerlinewidth@length=\skip279
+\mdf@middlelinewidth@length=\skip280
+\mdf@outerlinewidth@length=\skip281
+\mdf@roundcorner@length=\skip282
+\mdf@footenotedistance@length=\skip283
+\mdf@userdefinedwidth@length=\skip284
+\mdf@needspace@length=\skip285
+\mdf@frametitleaboveskip@length=\skip286
+\mdf@frametitlebelowskip@length=\skip287
+\mdf@frametitlerulewidth@length=\skip288
+\mdf@frametitleleftmargin@length=\skip289
+\mdf@frametitlerightmargin@length=\skip290
+\mdf@shadowsize@length=\skip291
+\mdf@extratopheight@length=\skip292
+\mdf@subtitleabovelinewidth@length=\skip293
+\mdf@subtitlebelowlinewidth@length=\skip294
+\mdf@subtitleaboveskip@length=\skip295
+\mdf@subtitlebelowskip@length=\skip296
+\mdf@subtitleinneraboveskip@length=\skip297
+\mdf@subtitleinnerbelowskip@length=\skip298
+\mdf@subsubtitleabovelinewidth@length=\skip299
+\mdf@subsubtitlebelowlinewidth@length=\skip300
+\mdf@subsubtitleaboveskip@length=\skip301
+\mdf@subsubtitlebelowskip@length=\skip302
+\mdf@subsubtitleinneraboveskip@length=\skip303
+\mdf@subsubtitleinnerbelowskip@length=\skip304
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/mdframed/md-frame-0.m
+df
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box127
+\mdf@footnotebox=\box128
+\mdf@splitbox@one=\box129
+\mdf@splitbox@two=\box130
+\mdf@splitbox@save=\box131
+\mdfsplitboxwidth=\skip305
+\mdfsplitboxtotalwidth=\skip306
+\mdfsplitboxheight=\skip307
+\mdfsplitboxdepth=\skip308
+\mdfsplitboxtotalheight=\skip309
+\mdfframetitleboxwidth=\skip310
+\mdfframetitleboxtotalwidth=\skip311
+\mdfframetitleboxheight=\skip312
+\mdfframetitleboxdepth=\skip313
+\mdfframetitleboxtotalheight=\skip314
+\mdffootnoteboxwidth=\skip315
+\mdffootnoteboxtotalwidth=\skip316
+\mdffootnoteboxheight=\skip317
+\mdffootnoteboxdepth=\skip318
+\mdffootnoteboxtotalheight=\skip319
+\mdftotallinewidth=\skip320
+\mdfboundingboxwidth=\skip321
+\mdfboundingboxtotalwidth=\skip322
+\mdfboundingboxheight=\skip323
+\mdfboundingboxdepth=\skip324
+\mdfboundingboxtotalheight=\skip325
+\mdf@freevspace@length=\skip326
+\mdf@horizontalwidthofbox@length=\skip327
+\mdf@verticalmarginwhole@length=\skip328
+\mdf@horizontalspaceofbox=\skip329
+\mdfsubtitleheight=\skip330
+\mdfsubsubtitleheight=\skip331
+\c@mdfcountframes=\count397
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count398
+\c@mdf@env@i=\count399
+\c@mdf@env@ii=\count400
+\c@mdf@zref@counter=\count401
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/adjustbox.s
+ty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/trimclip.st
+y
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/collectbox/collectbox
+.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box132
+)
+\tc@llx=\dimen356
+\tc@lly=\dimen357
+\tc@urx=\dimen358
+\tc@ury=\dimen359
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/tc-pgf.def
+File: tc-pgf.def 2019/01/04 v2.2 trimclip fall-back clipping driver using PGF
+)
+Package trimclip Info: No clipping driver 'tc-luatex.def' available.
+(trimclip)             Using fall-back PGF driver.
+)
+\adjbox@Width=\dimen360
+\adjbox@Height=\dimen361
+\adjbox@Depth=\dimen362
+\adjbox@Totalheight=\dimen363
+\adjbox@pwidth=\dimen364
+\adjbox@pheight=\dimen365
+\adjbox@pdepth=\dimen366
+\adjbox@ptotalheight=\dimen367
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box133
+\sift@deathcycles=\count402
+\@vwid@loff=\dimen368
+\@vwid@roff=\dimen369
+))
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip332
+\RaggedLeftLeftskip=\skip333
+\RaggedRightLeftskip=\skip334
+\CenteringRightskip=\skip335
+\RaggedLeftRightskip=\skip336
+\RaggedRightRightskip=\skip337
+\CenteringParfillskip=\skip338
+\RaggedLeftParfillskip=\skip339
+\RaggedRightParfillskip=\skip340
+\JustifyingParfillskip=\skip341
+\CenteringParindent=\skip342
+\RaggedLeftParindent=\skip343
+\RaggedRightParindent=\skip344
+\JustifyingParindent=\skip345
+) (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen370
+\captionmargin=\dimen371
+\caption@leftmargin=\dimen372
+\caption@rightmargin=\dimen373
+\caption@width=\dimen374
+\caption@indent=\dimen375
+\caption@parindent=\dimen376
+\caption@hangindent=\dimen377
+Package caption Info: memoir document class detected.
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption-memoi
+r.sto
+File: caption-memoir.sto 2022/03/02 v2.2b Adaption of the caption package to th
+e memoir document class (AR)
+))
+\c@caption@flags=\count403
+\c@continuedfloat=\count404
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen378
+\caption@adjustwidth@linewidth=\dimen379
+Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/ulem/ulem.sty
+\UL@box=\box134
+\UL@hyphenbox=\box135
+\UL@skip=\skip346
+\UL@hook=\toks54
+\UL@height=\dimen380
+\UL@pe=\count405
+\UL@pixel=\dimen381
+\ULC@box=\box136
+Package: ulem 2019/11/18
+\ULdepth=\dimen382
+)
+luaotfload | cache : Lookup cache loaded from C:/Users/Windows/AppData/Local/MiK
+TeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+
+Package fontspec Info: Could not resolve font "Gotham-Black/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Gotham-Black/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Gotham-Black/I" (it probably
+(fontspec)             doesn't exist).
+
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script latn
+ with language dflt
+
+Package fontspec Info: Font family 'Gotham-Black(0)' created for font
+(fontspec)             'Gotham-Black' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Gotham-Black:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "cambria/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "cambria/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'cambria(0)' created for font 'cambria'
+(fontspec)             with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"cambria:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"cambria:mode=node;script=latn;language=dflt;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"cambria/I:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"cambria/I:mode=node;script=latn;language=dflt;+smcp;
+"
+
+
+Package fontspec Info: Font family 'MinionPro(0)' created for font 'Minion
+(fontspec)             Pro' with options
+(fontspec)             [Ligatures=TeX,Ligatures=TeX,Numbers=OldStyle].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"MinionPro:mode=node;script=latn;language=dflt;+tlig;
++onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"MinionPro:mode=node;script=latn;language=dflt;+tlig;
++onum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"MinionPro/B:mode=node;script=latn;language=dflt;+tli
+g;+onum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"MinionPro/B:mode=node;script=latn;language=dflt;+tli
+g;+onum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"MinionPro/I:mode=node;script=latn;language=dflt;+tli
+g;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"MinionPro/I:mode=node;script=latn;language=dflt;+tli
+g;+onum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;+tl
+ig;+onum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"MinionPro/BI:mode=node;script=latn;language=dflt;+tl
+ig;+onum;+smcp;"
+
+
+! Extra \endgroup.
+\document ->\endgroup 
+                      \let \BeforeStartOfDocument \@firstofone \cpt@beforest...
+l.141 \begin{document}
+                    
+Things are pretty mixed up, but I think the worst is over.
+
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pdfescape
+.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/letltxmacro/letltxmac
+ro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/gett
+itlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count406
+)
+\@linkdim=\dimen383
+\Hy@linkcounter=\count407
+\Hy@pagecounter=\count408
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count409
+ (C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count410
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen384
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintca
+lc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count411
+\Field@Width=\dimen385
+\Fld@charsize=\dimen386
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+\Hy@abspage=\count412
+\c@Item=\count413
+\c@Hfootnote=\count414
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2022-09-22 v7.00t Hyperref driver for luaTeX
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc
+.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\Fld@listcount=\count415
+\c@bookmark@seq@number=\count416
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunf
+ilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/uniqu
+ecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip347
+) (./LIVRO.aux (./INPUTS.aux))
+\openout1 = LIVRO.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 141.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 141.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 141.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 141.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 141.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 141.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 141.
+LaTeX Font Info:    Redeclaring math accent \check on input line 141.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 141.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 141.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 141.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 141.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 141.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 141.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 141.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 141.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 141.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/m/n on input li
+ne 141.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 141
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/b/n on input line 141.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 141.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 141.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/b/n on input li
+ne 141.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/MinionPro(0)/b/it on input line 14
+1.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 141.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 141.
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count417
+\scratchdimen=\dimen387
+\scratchbox=\box137
+\nofMPsegments=\count418
+\nofMParguments=\count419
+\everyMPshowfont=\toks55
+\MPscratchCnt=\count420
+\MPscratchDim=\dimen388
+\MPnumerator=\count421
+\makeMPintoPDFobject=\count422
+\everyMPtoPDFconversion=\toks56
+)
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Info: Redefining \microtypecontext on input line 141.
+Package microtype Info: Applying patch `item' on input line 141.
+Package microtype Info: Applying patch `toc' on input line 141.
+Package microtype Info: Applying patch `eqnum' on input line 141.
+Package microtype Info: Applying patch `footnote' on input line 141.
+Package microtype Info: Applying patch `verbatim' on input line 141.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 141.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Redefining babel's language switching commands.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `MinionPro' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pdflscape/pdflscape.s
+ty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/pdflscape/pdflscape-n
+ometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 141.
+ (./LIVRO.out) (./LIVRO.out)
+\@outlinefile=\write7
+
+\openout7 = LIVRO.out
+
+\openout2 = INPUTS.aux
+ (./INPUTS.tex (./1-fronte.tex
+warning  (file ../watermarks/front5ano.pdf) (pdf inclusion): PDF inclusion: foun
+d PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/front5ano.pdf, id=30, 596.42624pt x 792.32411pt>
+File: ../watermarks/front5ano.pdf Graphic file (type pdf)
+<use ../watermarks/front5ano.pdf>
+Package luatex.def Info: ../watermarks/front5ano.pdf  used on input line 39.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (308.421pt too wide) in paragraph at lines 39--40
+[]| [] 
+ []
+
+) [1{C:/Users/Windows/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+<../watermarks/front5ano.pdf>] (./2-creditos.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--28
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 31.
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--55
+
+ []
+
+) [2]
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Gotham-Black' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+LaTeX Font Warning: Font shape `TU/Gotham-Black(0)/b/n' undefined
+(Font)              using `TU/Gotham-Black(0)/m/n' instead on input line 28.
+
+(./LIVRO.toc) [3] (./CHU.tex
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cambria' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 53.
+<./imgs/img26.png, id=58, 742.775pt x 742.775pt>
+File: ./imgs/img26.png Graphic file (type png)
+<use ./imgs/img26.png>
+Package luatex.def Info: ./imgs/img26.png  used on input line 53.
+(luatex.def)             Requested size: 118.33797pt x 118.3364pt.
+
+Overfull \hbox (16.90616pt too wide) in paragraph at lines 53--53
+[][] 
+ []
+
+<./imgs/img27.png, id=59, 963.6pt x 722.7pt>
+File: ./imgs/img27.png Graphic file (type png)
+<use ./imgs/img27.png>
+Package luatex.def Info: ./imgs/img27.png  used on input line 53.
+(luatex.def)             Requested size: 152.14513pt x 114.10153pt.
+<./imgs/img28.png, id=60, 963.6pt x 642.4pt>
+File: ./imgs/img28.png Graphic file (type png)
+<use ./imgs/img28.png>
+Package luatex.def Info: ./imgs/img28.png  used on input line 53.
+(luatex.def)             Requested size: 169.0513pt x 112.69614pt.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 53.
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 53.
+
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 53.
+
+
+Package mdframed Info: mdframed works in twoside mode on input line 65.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 65.
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 65.
+
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 65.
+
+
+LaTeX Font Info:    Trying to load font information for TU+bch on input line 65
+.
+LaTeX Font Info:    No file TUbch.fd. on input line 65.
+
+LaTeX Font Warning: Font shape `TU/bch/b/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 65.
+
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-LatinMod
+ernRoman.cfg
+File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
+ern Roman (RS)
+)
+warning  (file ../watermarks/1modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
+und PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/1modulo5ano.pdf, id=61, 596.42624pt x 792.32411pt>
+File: ../watermarks/1modulo5ano.pdf Graphic file (type pdf)
+<use ../watermarks/1modulo5ano.pdf>
+Package luatex.def Info: ../watermarks/1modulo5ano.pdf  used on input line 65.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[4
+
+
+<../watermarks/1modulo5ano.pdf><./imgs/img26.png><./imgs/img27.png><./imgs/img28
+.png>]
+<./imgs/img29.jpg, id=122, 642.14906pt x 396.7322pt>
+File: ./imgs/img29.jpg Graphic file (type jpg)
+<use ./imgs/img29.jpg>
+Package luatex.def Info: ./imgs/img29.jpg  used on input line 77.
+(luatex.def)             Requested size: 174.66156pt x 107.90608pt.
+<./imgs/img30.png, id=123, 903.375pt x 456.70625pt>
+File: ./imgs/img30.png Graphic file (type png)
+<use ./imgs/img30.png>
+Package luatex.def Info: ./imgs/img30.png  used on input line 78.
+(luatex.def)             Requested size: 213.0pt x 107.68138pt.
+
+Overfull \hbox (49.18582pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+(C:/Users/Windows/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-bch.cfg
+File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
+
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `bch' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+warning  (file ../watermarks/bg5anoimpar.pdf) (pdf inclusion): PDF inclusion: fo
+und PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/bg5anoimpar.pdf, id=124, 595.34721pt x 795.08403pt>
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 97.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[5<../watermarks/bg5anoimpar.pdf><./imgs/img29.jpg><./imgs/img30.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+<./imgs/img31.png, id=177, 776.9025pt x 436.63126pt>
+File: ./imgs/img31.png Graphic file (type png)
+<use ./imgs/img31.png>
+Package luatex.def Info: ./imgs/img31.png  used on input line 120.
+(luatex.def)             Requested size: 213.0pt x 119.7042pt.
+
+warning  (file ../watermarks/bg5anopar.pdf) (pdf inclusion): PDF inclusion: foun
+d PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/bg5anopar.pdf, id=178, 596.42624pt x 792.32411pt>
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 145.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[6<../watermarks/bg5anopar.pdf><./imgs/img31.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+
+Overfull \hbox (49.18582pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 196.
+
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[7]
+<./imgs/img32.png, id=198, 963.6pt x 641.39626pt>
+File: ./imgs/img32.png Graphic file (type png)
+<use ./imgs/img32.png>
+Package luatex.def Info: ./imgs/img32.png  used on input line 201.
+(luatex.def)             Requested size: 213.0pt x 141.77312pt.
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 226.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[8<./imgs/img32.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+
+ []
+
+
+Overfull \hbox (49.18582pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 300.
+
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+
+ []
+
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 348.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 392.
+
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 395--396
+
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 430.
+<./imgs/img33.png, id=238, 999.735pt x 666.49pt>
+File: ./imgs/img33.png Graphic file (type png)
+<use ./imgs/img33.png>
+Package luatex.def Info: ./imgs/img33.png  used on input line 430.
+(luatex.def)             Requested size: 162.2878pt x 108.18639pt.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 430.
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 430
+.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 430
+.
+
+
+warning  (file ../watermarks/2modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
+und PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/2modulo5ano.pdf, id=239, 596.42624pt x 792.32411pt>
+File: ../watermarks/2modulo5ano.pdf Graphic file (type pdf)
+<use ../watermarks/2modulo5ano.pdf>
+Package luatex.def Info: ../watermarks/2modulo5ano.pdf  used on input line 446.
+
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 446.
+[12
+
+<../watermarks/2modulo5ano.pdf><./imgs/img33.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+
+ []
+
+<./imgs/img34.png, id=303, 1385.175pt x 812.03375pt>
+File: ./imgs/img34.png Graphic file (type png)
+<use ./imgs/img34.png>
+Package luatex.def Info: ./imgs/img34.png  used on input line 486.
+(luatex.def)             Requested size: 426.0pt x 249.73297pt.
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 494.
+
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[13]
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 527.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[14<./imgs/img34.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 564--565
+
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 567.
+
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[15]
+<./imgs/img35.png, id=318, 999.735pt x 666.49pt>
+File: ./imgs/img35.png Graphic file (type png)
+<use ./imgs/img35.png>
+Package luatex.def Info: ./imgs/img35.png  used on input line 570.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
+<./imgs/img36.png, id=319, 742.775pt x 645.41125pt>
+File: ./imgs/img36.png Graphic file (type png)
+<use ./imgs/img36.png>
+Package luatex.def Info: ./imgs/img36.png  used on input line 571.
+(luatex.def)             Requested size: 161.88208pt x 140.6614pt.
+
+Underfull \hbox (badness 1132) in paragraph at lines 596--598
+[] |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   
+[]   |   []   |   []   |   []   |   []   |   []   |   []   |   []
+ []
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 603--603
+[][][][] 
+ []
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 603--603
+[][][] 
+ []
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 605--605
+[][][][] 
+ []
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 605--605
+[][][] 
+ []
+
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 606.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[16<./imgs/img35.png><./imgs/img36.png>]
+Overfull \hbox (30.0pt too wide) in paragraph at lines 607--607
+[][][][] 
+ []
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 607--607
+[][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 613--614
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 669--670
+
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 671.
+
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[17]
+<./imgs/img37.jpg, id=337, 628.3475pt x 335.2525pt>
+File: ./imgs/img37.jpg Graphic file (type jpg)
+<use ./imgs/img37.jpg>
+Package luatex.def Info: ./imgs/img37.jpg  used on input line 675.
+(luatex.def)             Requested size: 213.0pt x 113.6416pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 702--703
+
+ []
+
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 726.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[18<./imgs/img37.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 744--745
+
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 746.
+
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 749--750
+
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 781.
+<./imgs/img38.png, id=355, 999.735pt x 666.49pt>
+File: ./imgs/img38.png Graphic file (type png)
+<use ./imgs/img38.png>
+Package luatex.def Info: ./imgs/img38.png  used on input line 781.
+(luatex.def)             Requested size: 162.2878pt x 108.18639pt.
+
+Underfull \hbox (badness 1014) in paragraph at lines 781--781
+[][]\TU/MinionPro(0)/m/n/12 Neste mó-dulo va-mos tra-ba-lhar
+ []
+
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 781.
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 781
+.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 781
+.
+
+
+warning  (file ../watermarks/3modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
+und PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/3modulo5ano.pdf, id=356, 596.42624pt x 792.32411pt>
+File: ../watermarks/3modulo5ano.pdf Graphic file (type pdf)
+<use ../watermarks/3modulo5ano.pdf>
+Package luatex.def Info: ../watermarks/3modulo5ano.pdf  used on input line 784.
+
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[20
+
+<../watermarks/3modulo5ano.pdf><./imgs/img38.png>]
+<./imgs/img39.png, id=419, 963.6pt x 642.4pt>
+File: ./imgs/img39.png Graphic file (type png)
+<use ./imgs/img39.png>
+Package luatex.def Info: ./imgs/img39.png  used on input line 790.
+(luatex.def)             Requested size: 213.0pt x 141.99498pt.
+<./imgs/img40.png, id=420, 1133.23375pt x 752.8125pt>
+File: ./imgs/img40.png Graphic file (type png)
+<use ./imgs/img40.png>
+Package luatex.def Info: ./imgs/img40.png  used on input line 791.
+(luatex.def)             Requested size: 213.0pt x 141.4966pt.
+
+Overfull \hbox (1.816pt too wide) in paragraph at lines 790--794
+[][] [] 
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 831.
+
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[21<./imgs/img39.png><./imgs/img40.png>]
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 868.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[22]
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 929.
+
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[23]
+<./imgs/img41.png, id=436, 1063.975pt x 668.4975pt>
+File: ./imgs/img41.png Graphic file (type png)
+<use ./imgs/img41.png>
+Package luatex.def Info: ./imgs/img41.png  used on input line 932.
+(luatex.def)             Requested size: 213.0pt x 133.81953pt.
+<./imgs/img42.png, id=437, 1129.21875pt x 752.8125pt>
+File: ./imgs/img42.png Graphic file (type png)
+<use ./imgs/img42.png>
+Package luatex.def Info: ./imgs/img42.png  used on input line 933.
+(luatex.def)             Requested size: 200.22052pt x 133.47868pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 977--978
+
+ []
+
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 980.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[24<./imgs/img41.png><./imgs/img42.png>]
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 1027
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1047
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1093--1094
+
+ []
+
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 1095.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[26]
+<./imgs/img43.png, id=458, 742.775pt x 928.46875pt>
+File: ./imgs/img43.png Graphic file (type png)
+<use ./imgs/img43.png>
+Package luatex.def Info: ./imgs/img43.png  used on input line 1103.
+(luatex.def)             Requested size: 213.0pt x 266.24557pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1130--1131
+
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 1132
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[27<./imgs/img43.png>]
+<./imgs/img44.png, id=468, 883.3pt x 589.20125pt>
+File: ./imgs/img44.png Graphic file (type png)
+<use ./imgs/img44.png>
+Package luatex.def Info: ./imgs/img44.png  used on input line 1135.
+(luatex.def)             Requested size: 213.0pt x 142.07648pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1169
+
+ []
+
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 1170.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[28<./imgs/img44.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1173--1174
+
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 1208.
+<./imgs/img45.png, id=478, 963.6pt x 642.4pt>
+File: ./imgs/img45.png Graphic file (type png)
+<use ./imgs/img45.png>
+Package luatex.def Info: ./imgs/img45.png  used on input line 1208.
+(luatex.def)             Requested size: 162.2878pt x 108.18712pt.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 1208.
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 120
+8.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 120
+8.
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+
+warning  (file ../watermarks/4modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
+und PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/4modulo5ano.pdf, id=479, 596.42624pt x 792.32411pt>
+File: ../watermarks/4modulo5ano.pdf Graphic file (type pdf)
+<use ../watermarks/4modulo5ano.pdf>
+Package luatex.def Info: ../watermarks/4modulo5ano.pdf  used on input line 1209
+.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[29
+
+<../watermarks/4modulo5ano.pdf><./imgs/img45.png>]
+<./imgs/img46.png, id=542, 742.775pt x 742.775pt>
+File: ./imgs/img46.png Graphic file (type png)
+<use ./imgs/img46.png>
+Package luatex.def Info: ./imgs/img46.png  used on input line 1213.
+(luatex.def)             Requested size: 426.0pt x 426.00426pt.
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 1233.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[30<./imgs/img46.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1250--1251
+
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1259--1259
+[][][] 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1266--1266
+[][][] 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1270--1270
+[][][] 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1274--1274
+[][][] 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1278--1278
+[][][] 
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 1282
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[31]
+Package mdframed Info: mdframed works in twoside mode on input line 1285.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1294--1295
+
+ []
+
+<./imgs/img47.png, id=554, 999.735pt x 666.49pt>
+File: ./imgs/img47.png Graphic file (type png)
+<use ./imgs/img47.png>
+Package luatex.def Info: ./imgs/img47.png  used on input line 1302.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 1331.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[32<./imgs/img47.png>]
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 1373
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[33]
+Package mdframed Info: mdframed works in twoside mode on input line 1373.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1379--1380
+
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 1416.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 1416.
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 141
+6.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 141
+6.
+
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 1434.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[34]
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1441--1441
+[][][][] 
+ []
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1443--1443
+[][][][] 
+ []
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1445--1445
+[][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1450--1451
+
+ []
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1456--1456
+[][][][] 
+ []
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1458--1458
+[][][][] 
+ []
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1460--1460
+[][][][] 
+ []
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1462--1462
+[][][][] 
+ []
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 1464--1464
+[][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1471
+
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 1479
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1519--1520
+
+ []
+
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 1522.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[36]
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 1538--1555
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1538--1555
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1558--1559
+
+ []
+
+
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 1576--1595
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1576--1595
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1598--1599
+
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 1601
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 1604--1605
+
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 1639.
+<./imgs/img48.png, id=606, 742.775pt x 742.775pt>
+File: ./imgs/img48.png Graphic file (type png)
+<use ./imgs/img48.png>
+Package luatex.def Info: ./imgs/img48.png  used on input line 1639.
+(luatex.def)             Requested size: 162.2878pt x 162.28896pt.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 1639.
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 163
+9.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 163
+9.
+
+
+warning  (file ../watermarks/5modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
+und PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/5modulo5ano.pdf, id=607, 596.42624pt x 792.32411pt>
+File: ../watermarks/5modulo5ano.pdf Graphic file (type pdf)
+<use ../watermarks/5modulo5ano.pdf>
+Package luatex.def Info: ../watermarks/5modulo5ano.pdf  used on input line 1646
+.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[38
+
+<../watermarks/5modulo5ano.pdf><./imgs/img48.png>]
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 1709
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 1712--1713
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1728--1729
+
+ []
+
+<./imgs/img49.png, id=675, 742.775pt x 742.775pt>
+File: ./imgs/img49.png Graphic file (type png)
+<use ./imgs/img49.png>
+Package luatex.def Info: ./imgs/img49.png  used on input line 1753.
+(luatex.def)             Requested size: 213.0pt x 212.99646pt.
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 1783.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[40]
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 1816
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[41<./imgs/img49.png>]
+<./imgs/img50.png, id=686, 999.735pt x 666.49pt>
+File: ./imgs/img50.png Graphic file (type png)
+<use ./imgs/img50.png>
+Package luatex.def Info: ./imgs/img50.png  used on input line 1837.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 1858.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[42<./imgs/img50.png>]
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 1896
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[43]
+Package mdframed Info: mdframed works in twoside mode on input line 1901.
+<./imgs/img51.png, id=698, 1543.7675pt x 602.25pt>
+File: ./imgs/img51.png Graphic file (type png)
+<use ./imgs/img51.png>
+Package luatex.def Info: ./imgs/img51.png  used on input line 1916.
+(luatex.def)             Requested size: 213.0pt x 83.09221pt.
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 1917.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[44]
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 1945--1963
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1963
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1966--1967
+
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 1990
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[45<./imgs/img51.png>]
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 1995--2012
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1995--2012
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2015--2016
+
+ []
+
+<./imgs/img52.jpg, id=713, 558.58687pt x 333.49594pt>
+File: ./imgs/img52.jpg Graphic file (type jpg)
+<use ./imgs/img52.jpg>
+Package luatex.def Info: ./imgs/img52.jpg  used on input line 2021.
+(luatex.def)             Requested size: 213.0pt x 127.16739pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2046--2047
+
+ []
+
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 2048.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[46<./imgs/img52.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 2051--2052
+
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 2081.
+<./imgs/img53.png, id=727, 999.735pt x 666.49pt>
+File: ./imgs/img53.png Graphic file (type png)
+<use ./imgs/img53.png>
+Package luatex.def Info: ./imgs/img53.png  used on input line 2081.
+(luatex.def)             Requested size: 169.0513pt x 112.70178pt.
+<./imgs/img54.png, id=728, 999.735pt x 666.49pt>
+File: ./imgs/img54.png Graphic file (type png)
+<use ./imgs/img54.png>
+Package luatex.def Info: ./imgs/img54.png  used on input line 2081.
+(luatex.def)             Requested size: 169.0513pt x 112.70178pt.
+
+Overfull \hbox (1.816pt too wide) in paragraph at lines 2081--2081
+[][] [] 
+ []
+
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 2081.
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 208
+1.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 208
+1.
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+
+warning  (file ../watermarks/6modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
+und PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/6modulo5ano.pdf, id=729, 596.42624pt x 792.32411pt>
+File: ../watermarks/6modulo5ano.pdf Graphic file (type pdf)
+<use ../watermarks/6modulo5ano.pdf>
+Package luatex.def Info: ../watermarks/6modulo5ano.pdf  used on input line 2084
+.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[47
+
+<../watermarks/6modulo5ano.pdf><./imgs/img53.png><./imgs/img54.png>]
+<./imgs/img55.png, id=791, 999.735pt x 666.49pt>
+File: ./imgs/img55.png Graphic file (type png)
+<use ./imgs/img55.png>
+Package luatex.def Info: ./imgs/img55.png  used on input line 2089.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
+<./imgs/img56.png, id=792, 999.735pt x 666.49pt>
+File: ./imgs/img56.png Graphic file (type png)
+<use ./imgs/img56.png>
+Package luatex.def Info: ./imgs/img56.png  used on input line 2090.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
+
+Overfull \hbox (1.816pt too wide) in paragraph at lines 2089--2091
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2137--2138
+
+ []
+
+<./imgs/img57.png, id=793, 999.735pt x 666.49pt>
+File: ./imgs/img57.png Graphic file (type png)
+<use ./imgs/img57.png>
+Package luatex.def Info: ./imgs/img57.png  used on input line 2142.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
+<./imgs/img58.png, id=794, 999.735pt x 666.49pt>
+File: ./imgs/img58.png Graphic file (type png)
+<use ./imgs/img58.png>
+Package luatex.def Info: ./imgs/img58.png  used on input line 2143.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
+
+Overfull \hbox (1.816pt too wide) in paragraph at lines 2142--2144
+[][] [] 
+ []
+
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 2145.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[48<./imgs/img55.png><./imgs/img56.png>]
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 2181
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[49<./imgs/img57.png><./imgs/img58.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2218--2219
+
+ []
+
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 2245.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 2245--2246
+
+ []
+
+<./imgs/img59.png, id=811, 999.735pt x 666.49pt>
+File: ./imgs/img59.png Graphic file (type png)
+<use ./imgs/img59.png>
+Package luatex.def Info: ./imgs/img59.png  used on input line 2250.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
+<./imgs/img60.png, id=812, 999.735pt x 666.49pt>
+File: ./imgs/img60.png Graphic file (type png)
+<use ./imgs/img60.png>
+Package luatex.def Info: ./imgs/img60.png  used on input line 2266.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
+<./imgs/img61.png, id=813, 999.735pt x 665.48625pt>
+File: ./imgs/img61.png Graphic file (type png)
+<use ./imgs/img61.png>
+Package luatex.def Info: ./imgs/img61.png  used on input line 2267.
+(luatex.def)             Requested size: 213.0pt x 141.78712pt.
+
+Overfull \hbox (1.816pt too wide) in paragraph at lines 2266--2268
+[][] [] 
+ []
+
+<./imgs/img62.png, id=814, 999.735pt x 666.49pt>
+File: ./imgs/img62.png Graphic file (type png)
+<use ./imgs/img62.png>
+Package luatex.def Info: ./imgs/img62.png  used on input line 2272.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
+<./imgs/img63.png, id=815, 999.735pt x 666.49pt>
+File: ./imgs/img63.png Graphic file (type png)
+<use ./imgs/img63.png>
+Package luatex.def Info: ./imgs/img63.png  used on input line 2273.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
+
+Overfull \hbox (1.816pt too wide) in paragraph at lines 2272--2274
+[][] [] 
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 2290
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[51<./imgs/img59.png><./imgs/img60.png><./imgs/img61.png>]
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 2329.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[52<./imgs/img62.png><./imgs/img63.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2359--2360
+
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 2362
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[53]
+<./imgs/img64.png, id=844, 999.735pt x 666.49pt>
+File: ./imgs/img64.png Graphic file (type png)
+<use ./imgs/img64.png>
+Package luatex.def Info: ./imgs/img64.png  used on input line 2367.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
+
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 2373--2388
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2373--2388
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2391--2392
+
+ []
+
+
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 2407--2423
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2407--2423
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2426--2427
+
+ []
+
+File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anopar.pdf>
+Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 2436.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[54<./imgs/img64.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2462--2463
+
+ []
+
+
+warning  (file ../watermarks/1simulado5ano.pdf) (pdf inclusion): PDF inclusion: 
+found PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/1simulado5ano.pdf, id=859, 595.34721pt x 795.08403pt>
+File: ../watermarks/1simulado5ano.pdf Graphic file (type pdf)
+<use ../watermarks/1simulado5ano.pdf>
+Package luatex.def Info: ../watermarks/1simulado5ano.pdf  used on input line 24
+70.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (98.21387pt too wide) in paragraph at lines 2470--2471
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 74.22383pt on input line 2471.
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bg5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 2476
+.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[55] [56<../watermarks/1simulado5ano.pdf>]
+<./imgs/img65.png, id=903, 903.375pt x 677.53125pt>
+File: ./imgs/img65.png Graphic file (type png)
+<use ./imgs/img65.png>
+Package luatex.def Info: ./imgs/img65.png  used on input line 2495.
+(luatex.def)             Requested size: 106.5pt x 79.87355pt.
+
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 2484--2496
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2484--2496
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2505--2506
+
+ []
+
+
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 2527--2546
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2527--2546
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2549--2550
+
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+
+warning  (file ../watermarks/bgsim5anoimpar.pdf) (pdf inclusion): PDF inclusion:
+ found PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/bgsim5anoimpar.pdf, id=904, 595.34721pt x 795.08403pt>
+File: ../watermarks/bgsim5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bgsim5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bgsim5anoimpar.pdf  used on input line 2
+552.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[57<../watermarks/bgsim5anoimpar.pdf><./imgs/img65.png>]
+<./imgs/img66.png, id=951, 883.3pt x 532.99126pt>
+File: ./imgs/img66.png Graphic file (type png)
+<use ./imgs/img66.png>
+Package luatex.def Info: ./imgs/img66.png  used on input line 2555.
+(luatex.def)             Requested size: 202.34935pt x 122.09744pt.
+
+Overfull \hbox (17.33199pt too wide) in paragraph at lines 2554--2570
+[]$[]$ $[]$ 
+ []
+
+
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 2575--2595
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2575--2595
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2598--2599
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2637--2638
+
+ []
+
+
+warning  (file ../watermarks/bgsim5anopar.pdf) (pdf inclusion): PDF inclusion: f
+ound PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/bgsim5anopar.pdf, id=952, 596.42624pt x 792.32411pt>
+File: ../watermarks/bgsim5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bgsim5anopar.pdf>
+Package luatex.def Info: ../watermarks/bgsim5anopar.pdf  used on input line 263
+9.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[58<../watermarks/bgsim5anopar.pdf><./imgs/img66.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2670--2671
+
+ []
+
+
+warning  (file ../watermarks/2simulado5ano.pdf) (pdf inclusion): PDF inclusion: 
+found PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/2simulado5ano.pdf, id=999, 595.34721pt x 795.08403pt>
+File: ../watermarks/2simulado5ano.pdf Graphic file (type pdf)
+<use ../watermarks/2simulado5ano.pdf>
+Package luatex.def Info: ../watermarks/2simulado5ano.pdf  used on input line 26
+76.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (98.21387pt too wide) in paragraph at lines 2676--2677
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 74.22383pt on input line 2677.
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bgsim5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bgsim5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bgsim5anoimpar.pdf  used on input line 2
+683.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[59] [60<../watermarks/2simulado5ano.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 2725--2726
+
+ []
+
+<./imgs/img67.png, id=1044, 1053.9375pt x 766.865pt>
+File: ./imgs/img67.png Graphic file (type png)
+<use ./imgs/img67.png>
+Package luatex.def Info: ./imgs/img67.png  used on input line 2741.
+(luatex.def)             Requested size: 213.0pt x 154.97337pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2749--2750
+
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bgsim5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bgsim5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bgsim5anoimpar.pdf  used on input line 2
+752.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[61]
+Underfull \hbox (badness 10000) in paragraph at lines 2790--2791
+
+ []
+
+File: ../watermarks/bgsim5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bgsim5anopar.pdf>
+Package luatex.def Info: ../watermarks/bgsim5anopar.pdf  used on input line 279
+3.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[62<./imgs/img67.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2823--2824
+
+ []
+
+
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 2839--2855
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2839--2855
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2858--2859
+
+ []
+
+
+warning  (file ../watermarks/3simulado5ano.pdf) (pdf inclusion): PDF inclusion: 
+found PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/3simulado5ano.pdf, id=1067, 595.34721pt x 795.08403pt>
+File: ../watermarks/3simulado5ano.pdf Graphic file (type pdf)
+<use ../watermarks/3simulado5ano.pdf>
+Package luatex.def Info: ../watermarks/3simulado5ano.pdf  used on input line 28
+64.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (98.21387pt too wide) in paragraph at lines 2864--2865
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 74.22383pt on input line 2865.
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bgsim5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bgsim5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bgsim5anoimpar.pdf  used on input line 2
+871.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[63] [64<../watermarks/3simulado5ano.pdf>]
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 2888--2904
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2888--2904
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2908--2909
+
+ []
+
+<./imgs/img68.png, id=1116, 829.0975pt x 663.47874pt>
+File: ./imgs/img68.png Graphic file (type png)
+<use ./imgs/img68.png>
+Package luatex.def Info: ./imgs/img68.png  used on input line 2913.
+(luatex.def)             Requested size: 213.0pt x 170.44525pt.
+
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 2917--2934
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2917--2934
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2938--2939
+
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bgsim5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bgsim5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bgsim5anoimpar.pdf  used on input line 2
+941.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[65<./imgs/img68.png>]
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 2961--2977
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2961--2977
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2979--2980
+
+ []
+
+File: ../watermarks/bgsim5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bgsim5anopar.pdf>
+Package luatex.def Info: ../watermarks/bgsim5anopar.pdf  used on input line 300
+2.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[66]
+Underfull \hbox (badness 10000) in paragraph at lines 3023--3024
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3066--3067
+
+ []
+
+
+warning  (file ../watermarks/4simulado5ano.pdf) (pdf inclusion): PDF inclusion: 
+found PDF version '1.7', but at most version '1.5' allowed
+<../watermarks/4simulado5ano.pdf, id=1138, 595.34721pt x 795.08403pt>
+File: ../watermarks/4simulado5ano.pdf Graphic file (type pdf)
+<use ../watermarks/4simulado5ano.pdf>
+Package luatex.def Info: ../watermarks/4simulado5ano.pdf  used on input line 30
+71.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (98.21387pt too wide) in paragraph at lines 3071--3072
+[]| [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 74.22383pt on input line 3072.
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bgsim5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bgsim5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bgsim5anoimpar.pdf  used on input line 3
+078.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[67] [68<../watermarks/4simulado5ano.pdf>]
+<./imgs/img69.png, id=1187, 742.775pt x 742.775pt>
+File: ./imgs/img69.png Graphic file (type png)
+<use ./imgs/img69.png>
+Package luatex.def Info: ./imgs/img69.png  used on input line 3084.
+(luatex.def)             Requested size: 213.0pt x 212.99646pt.
+
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 3090--3105
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3090--3105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3109--3110
+
+ []
+
+
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bgsim5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bgsim5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bgsim5anoimpar.pdf  used on input line 3
+134.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[69<./imgs/img69.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 3158--3159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3194--3195
+
+ []
+
+File: ../watermarks/bgsim5anopar.pdf Graphic file (type pdf)
+<use ../watermarks/bgsim5anopar.pdf>
+Package luatex.def Info: ../watermarks/bgsim5anopar.pdf  used on input line 319
+7.
+(luatex.def)             Requested size: 596.42477pt x 792.32217pt.
+
+Overfull \hbox (21.6792pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[70]
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 3206--3225
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3206--3225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3228--3229
+
+ []
+
+
+Overfull \hbox (19.14798pt too wide) in paragraph at lines 3253--3271
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3253--3271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3273--3274
+
+ []
+
+))
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+File: ../watermarks/bgsim5anoimpar.pdf Graphic file (type pdf)
+<use ../watermarks/bgsim5anoimpar.pdf>
+Package luatex.def Info: ../watermarks/bgsim5anoimpar.pdf  used on input line 1
+45.
+(luatex.def)             Requested size: 595.34575pt x 795.08209pt.
+
+Overfull \hbox (26.29063pt too wide) has occurred while \output is active
+ | [] 
+ []
+
+[71]
+
+Class memoir Warning: \marginparsep is zero or negative on input line 149.
+
+
+******************************************************
+Stock height and width: 1195.01575pt by 845.04684pt
+Top and edge trims: 56.9055pt and 123.76949pt
+Page height and width: 796.67715pt by 597.50787pt
+Text height and width: 642.16855pt by 426pt
+Spine and edge margins: 99.58463pt and 71.13191pt
+Upper and lower margins: 85.35826pt and 69.15034pt
+Headheight and headsep: 51.21495pt and 19.8738pt
+Footskip: 51.21495pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: -60pt and 191.13191pt
+Sidecapsep and sidecapwidth: 7pt and 102pt
+Sidebarhsep and sidebarwidth: 7pt and 102pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 546.64995pt
+Sidefoothsep and sidefootwidth: 7pt and 102pt
+Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
+******************************************************
+
+\tf@toc=\write8
+
+\openout8 = LIVRO.toc
+(./LIVRO.aux (./INPUTS.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+Package rerunfilecheck Warning: File `LIVRO.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `LIVRO.out':
+(rerunfilecheck)             Before: A6F98552E39BBA01370766D57A41AD82;373
+(rerunfilecheck)             After:  95EFBF63BEF5B4391029FDC16E8FA4FD;1029.
+)
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 141 (\begingroup)
+### bottom level
+
+Here is how much of LuaTeX's memory you used:
+ 41221 strings out of 477352
+ 125311,1648299 words of node,token memory allocated
+ 1640 words of node memory still in use:
+   7 hlist, 1 vlist, 2 rule, 1 local_par, 7 glue, 3 kern, 1 penalty, 2 glyph, 20
+ attribute, 260 glue_spec, 12 attribute_list, 3 shape, 5 write nodes
+   avail lists: 1:2,2:2576,3:383,4:1129,5:2674,6:67,7:7881,8:29,9:3556,10:25,11:
+750
+ 59887 multiletter control sequences out of 65536+600000
+ 83 fonts using 17988351 bytes
+ 92i,18n,103p,1430b,3117s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+warning  (pdf backend): unreferenced destination with name 'chapter*.43'
+
+warning  (pdf backend): unreferenced destination with name 'chapter*.34'
+
+warning  (pdf backend): unreferenced destination with name 'chapter*.27'
+
+warning  (pdf backend): unreferenced destination with name 'chapter*.18'
+
+warning  (pdf backend): unreferenced destination with name 'chapter*.9'
+
+warning  (pdf backend): unreferenced destination with name 'chapter*.1'
+<C:/Users/Windows/AppData/Local/Microsoft/Windows/Fonts/cambria.ttc><C:/Users/Wi
+ndows/AppData/Local/Microsoft/Windows/Fonts/gotham-black.otf><C:/Users/Windows/A
+ppData/Local/Microsoft/Windows/Fonts/minionpro-it.otf><C:/Users/Windows/AppData/
+Local/Microsoft/Windows/Fonts/minionpro-regular.otf><C:/Users/Windows/AppData/Lo
+cal/Microsoft/Windows/Fonts/minionpro-bold.otf><C:/Users/Windows/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Windows/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (71 pages, 42442966 bytes).
+
+PDF statistics: 1274 PDF objects out of 1440 (max. 8388607)
+ 331 named destinations out of 1000 (max. 131072)
+ 64 words of extra memory for PDF output out of 10000 (max. 100000000)
+
