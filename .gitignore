@@ -4,6 +4,7 @@
 *aux
 *log
 *tui
+*.fls
 *toc
 *.4ct
 *.4tc
