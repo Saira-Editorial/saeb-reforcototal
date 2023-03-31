@@ -65,7 +65,7 @@
 
 % Definindo as cores CMYK
 \definecolor{rosa}{cmyk}{0,1,0,0}
-\newcommand{\rosa}[1]{\textcolor{rosa}{#1}}
+\newcommand{\rosa}[1]{\footnotesize\textcolor{rosa}{#1}}
 
 \definecolor{azul}{cmyk}{1,0.85,0.27,0.1}
 \newcommand{\azul}[1]{\textcolor{azul}{#1}}
@@ -73,10 +73,12 @@
 \definecolor{salmao}{cmyk}{0,0.6,0.45,0}
 \newcommand{\salmao}[1]{\textcolor{salmao}{#1}}
 
+\newcommand{\white}[1]{\textcolor{white}{#1}}
+
 
 % Comentário do professor
 \newcommand{\coment}[1]{%
-  \noindent\raggedright{\color{rosa}\footnotesize\cambria #1}\medskip%
+  \noindent\parbox{\linewidth}{\flushleft{\color{rosa}\footnotesize\cambria #1}}
 }
 
 
@@ -98,16 +100,13 @@
 \setlist[escolha]{label=\textcolor{azul}{\bfseries\alph*.}}
 
 % Parágrafo lateral
-%\newcommand{\sidetext}[1]{%
-%\marginpar{%
-%\strut\raggedright%
-%\begin{minipage}{.6\marginparwidth}%
-%\raggedleft%
-%\color{rosa} #1%
-%\end{minipage}%
-%\vspace*{-\ht\strutbox}% move o sidetext para cima
-%}%
-%}
+\newcommand{\sidetext}[1]{
+\begin{minipage}{.5\textwidth}
+\raggedleft
+\footnotesize
+\color{rosa} #1
+\end{minipage}
+}
 
 
 
@@ -118,6 +117,11 @@
 \noindent\textcolor{salmao}{\rule{\textwidth}{1pt}}%
 \linhas{\numexpr#1-1\relax}%
 \fi
+}
+
+%%%%
+\newcommand{\boxitem}[1]{
+\item[\salmao{{[}\rosa{#1}{]}}]
 }
 
 % Linha para preencher a palavra correta
@@ -147,7 +151,7 @@
 % Cria box de conteúdos
 \newcommand{\conteudo}[1]{
 \begin{flushright}
-\adjustbox{varwidth=.7\linewidth}{
+\adjustbox{varwidth=.85\linewidth}{
 \begin{mdframed}[linewidth=2pt,linecolor=salmao]
 #1
 \end{mdframed}
@@ -156,4 +160,8 @@
 }
 
 % Para diferenciar a citação da fonte do conteúdo dos textos em quote
-\newcommand{\fonte}[1]{\raggedleft{\color{darkgray}\footnotesize #1}}
+\newcommand{\fonte}[1]{\begin{flushright}{\color{darkgray}\tiny #1}\end{flushright}}
+
+
+% Para criar o crédito das imagens vertical
+

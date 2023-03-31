@@ -1,0 +1,22 @@
+*out 
+*xwm
+*swp
+*aux
+*log
+*tui
+*.fls
+*toc
+*.4ct
+*.4tc
+*.html
+*.css
+*.dvi
+*.epub
+*.lg
+*.ncx
+*.xref
+*.tmp
+*.idv
+*.opf
+*.fdb_latexmk
+*.fls .DS_Store

@@ -65,7 +65,7 @@
 
 % Definindo as cores CMYK
 \definecolor{rosa}{cmyk}{0,1,0,0}
-\newcommand{\rosa}[1]{\textcolor{rosa}{#1}}
+\newcommand{\rosa}[1]{\footnotesize\textcolor{rosa}{#1}}
 
 \definecolor{azul}{cmyk}{1,0.85,0.27,0.1}
 \newcommand{\azul}[1]{\textcolor{azul}{#1}}
@@ -75,10 +75,9 @@
 
 \newcommand{\white}[1]{\textcolor{white}{#1}}
 
-
 % Comentário do professor
 \newcommand{\coment}[1]{%
-  \noindent\raggedright{\color{rosa}\footnotesize\cambria #1}\medskip%
+  \noindent\parbox{\linewidth}{\flushleft{\color{rosa}\footnotesize\cambria #1}}
 }
 
 
@@ -92,9 +91,22 @@
 \newlist{boxlist}{itemize}{1}
 \setlist[boxlist]{label=\textcolor{salmao}{[}\mbox{ }\mbox{ }\textcolor{salmao}{]},font=\bfseries}
 
+% Alternativas V ou F para o professor
+%\newcommand{\alternativa}{\hfill\textcolor{rosa}}
+
 % Lista de múltipla escolha
 \newlist{escolha}{enumerate}{1}
 \setlist[escolha]{label=\textcolor{azul}{\bfseries\alph*.}}
+
+% Parágrafo lateral
+\newcommand{\sidetext}[1]{
+\begin{minipage}{.5\textwidth}
+\raggedleft
+\footnotesize
+\color{rosa} #1
+\end{minipage}
+}
+
 
 
 % Linhas de respostas
@@ -106,13 +118,17 @@
 \fi
 }
 
-% Linhas em branco
 \newcommand{\matlinhas}[1]{%
 \par\vspace{0.3cm}%
 \ifnum #1>0%
 \noindent\textcolor{white}{\rule{\textwidth}{1pt}}%
 \linhas{\numexpr#1-1\relax}%
 \fi
+}
+
+%%%%
+\newcommand{\boxitem}[1]{
+\item[\salmao{{[}\rosa{#1}{]}}]
 }
 
 % Linha para preencher a palavra correta
@@ -142,7 +158,7 @@
 % Cria box de conteúdos
 \newcommand{\conteudo}[1]{
 \begin{flushright}
-\adjustbox{varwidth=.7\linewidth}{
+\adjustbox{varwidth=.85\linewidth}{
 \begin{mdframed}[linewidth=2pt,linecolor=salmao]
 #1
 \end{mdframed}
@@ -151,4 +167,7 @@
 }
 
 % Para diferenciar a citação da fonte do conteúdo dos textos em quote
-\newcommand{\fonte}[1]{\raggedleft{\color{darkgray}\footnotesize #1}}
+\newcommand{\fonte}[1]{\begin{flushright}{\color{darkgray}\tiny #1}\end{flushright}}
+
+
+% Para criar o crédito das imagens vertical
