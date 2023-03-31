@@ -50,9 +50,10 @@
 \usepackage{wrapfig}
 \usepackage{tikzpagenodes}
 \usepackage{textpos}
-\usepackage{mdframed}
+\usepackage[framemethod=TikZ]{mdframed}
 \usepackage{adjustbox}
 \usepackage{ragged2e}
+\usepackage[labelformat=empty]{caption}
 \usepackage{longtable}
 
 % Ulem
@@ -62,7 +63,7 @@
 
 
 \newcommand\reduline{
-	\noindent\bgroup
+	\medskip\noindent\bgroup
 	\color{rosa}
   	\footnotesize
   	\cambria
