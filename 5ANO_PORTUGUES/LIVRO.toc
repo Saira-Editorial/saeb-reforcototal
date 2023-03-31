@@ -42,13 +42,15 @@
 \contentsline {chapter}{Organizando dados}{59}{chapter*.57}
 \contentsline {section}{\leavevmode {\color {azul}Habilidade do SAEB}}{59}{section*.58}
 \contentsline {section}{\leavevmode {\color {azul}Atividades}}{61}{section*.60}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{62}{section*.62}
-\contentsline {chapter}{Passo a passo}{65}{chapter*.63}
-\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{65}{section*.64}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{66}{section*.66}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{68}{section*.67}
-\contentsline {chapter}{Simulado 1}{71}{chapter*.68}
-\contentsline {chapter}{Simulado 2}{76}{chapter*.69}
-\contentsline {chapter}{Simulado 3}{81}{chapter*.70}
-\contentsline {chapter}{Simulado 4}{86}{chapter*.72}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{63}{section*.62}
+\contentsline {section}{\leavevmode {\color {azul}Respostas}}{63}{section*.63}
+\contentsline {chapter}{Passo a passo}{65}{chapter*.64}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{65}{section*.65}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{66}{section*.67}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{67}{section*.68}
+\contentsline {section}{\leavevmode {\color {azul}Respostas}}{69}{section*.69}
+\contentsline {chapter}{Simulado 1}{70}{chapter*.70}
+\contentsline {chapter}{Simulado 2}{74}{chapter*.71}
+\contentsline {chapter}{Simulado 3}{78}{chapter*.72}
+\contentsline {chapter}{Simulado 4}{83}{chapter*.74}
 \babel@toc {brazilian}{}
