@@ -78,31 +78,31 @@
 \contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{134}{section*.119}
 \contentsline {section}{\leavevmode {\color {azul}Treino}}{138}{section*.123}
 \contentsline {chapter}{Simulado 1}{140}{chapter*.125}
-\contentsline {chapter}{Simulado 2}{148}{chapter*.126}
-\contentsline {chapter}{Simulado 3}{155}{chapter*.128}
-\contentsline {chapter}{Simulado 4}{163}{chapter*.131}
-\contentsline {chapter}{Respostas}{172}{chapter*.134}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 1}}{172}{section*.135}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 2}}{172}{section*.136}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 3}}{173}{section*.137}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 4}}{173}{section*.138}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 5}}{173}{section*.139}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 6}}{174}{section*.140}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 7}}{174}{section*.141}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 8}}{175}{section*.142}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 9}}{175}{section*.143}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 10}}{176}{section*.144}
-\contentsline {section}{\leavevmode {\color {azul}Treino Arte: Módulo 1}}{176}{section*.145}
-\contentsline {section}{\leavevmode {\color {azul}Treino Arte: Módulo 2}}{177}{section*.146}
-\contentsline {section}{\leavevmode {\color {azul}Treino Arte: Módulo 3}}{177}{section*.147}
-\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 1}}{178}{section*.148}
-\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 2}}{179}{section*.149}
-\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 3}}{179}{section*.150}
-\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 4}}{180}{section*.151}
-\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 5}}{180}{section*.152}
-\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 6}}{181}{section*.153}
-\contentsline {section}{\leavevmode {\color {azul}Simulado 1}}{181}{section*.154}
-\contentsline {section}{\leavevmode {\color {azul}Simulado 2}}{183}{section*.155}
-\contentsline {section}{\leavevmode {\color {azul}Simulado 3}}{185}{section*.156}
-\contentsline {section}{\leavevmode {\color {azul}Simulado 4}}{187}{section*.157}
+\contentsline {chapter}{Simulado 2}{147}{chapter*.126}
+\contentsline {chapter}{Simulado 3}{154}{chapter*.128}
+\contentsline {chapter}{Simulado 4}{162}{chapter*.131}
+\contentsline {chapter}{Respostas}{170}{chapter*.133}
+\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 1}}{170}{section*.134}
+\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 2}}{170}{section*.135}
+\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 3}}{170}{section*.136}
+\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 4}}{171}{section*.137}
+\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 5}}{171}{section*.138}
+\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 6}}{171}{section*.139}
+\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 7}}{172}{section*.140}
+\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 8}}{172}{section*.141}
+\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 9}}{172}{section*.142}
+\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 10}}{173}{section*.143}
+\contentsline {section}{\leavevmode {\color {azul}Treino Arte: Módulo 1}}{173}{section*.144}
+\contentsline {section}{\leavevmode {\color {azul}Treino Arte: Módulo 2}}{174}{section*.145}
+\contentsline {section}{\leavevmode {\color {azul}Treino Arte: Módulo 3}}{174}{section*.146}
+\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 1}}{174}{section*.147}
+\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 2}}{175}{section*.148}
+\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 3}}{175}{section*.149}
+\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 4}}{176}{section*.150}
+\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 5}}{176}{section*.151}
+\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 6}}{176}{section*.152}
+\contentsline {section}{\leavevmode {\color {azul}Simulado 1}}{177}{section*.153}
+\contentsline {section}{\leavevmode {\color {azul}Simulado 2}}{178}{section*.154}
+\contentsline {section}{\leavevmode {\color {azul}Simulado 3}}{179}{section*.155}
+\contentsline {section}{\leavevmode {\color {azul}Simulado 4}}{181}{section*.156}
 \babel@toc {brazilian}{}
