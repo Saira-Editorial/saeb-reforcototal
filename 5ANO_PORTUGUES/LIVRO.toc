@@ -82,25 +82,25 @@
 \contentsline {chapter}{Simulado 3}{156}{chapter*.132}
 \contentsline {chapter}{Simulado 4}{164}{chapter*.135}
 \contentsline {chapter}{Respostas}{172}{chapter*.137}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 1}}{172}{section*.138}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 2}}{172}{section*.139}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 3}}{172}{section*.140}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 4}}{173}{section*.141}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 5}}{173}{section*.142}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 6}}{173}{section*.143}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 7}}{174}{section*.144}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 8}}{174}{section*.145}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 9}}{174}{section*.146}
-\contentsline {section}{\leavevmode {\color {azul}Treino Português: Módulo 10}}{175}{section*.147}
-\contentsline {section}{\leavevmode {\color {azul}Treino Arte: Módulo 1}}{175}{section*.148}
-\contentsline {section}{\leavevmode {\color {azul}Treino Arte: Módulo 2}}{176}{section*.149}
-\contentsline {section}{\leavevmode {\color {azul}Treino Arte: Módulo 3}}{176}{section*.150}
-\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 1}}{176}{section*.151}
-\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 2}}{177}{section*.152}
-\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 3}}{177}{section*.153}
-\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 4}}{178}{section*.154}
-\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 5}}{178}{section*.155}
-\contentsline {section}{\leavevmode {\color {azul}Treino Ciências humanas: Módulo 6}}{178}{section*.156}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa -- Módulo 1 -- Treino}}{172}{section*.138}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa -- Módulo 2 -- Treino}}{172}{section*.139}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa -- Módulo 3 -- Treino}}{172}{section*.140}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa -- Módulo 4 -- Treino}}{173}{section*.141}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa -- Módulo 5 -- Treino}}{173}{section*.142}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa -- Módulo 6 -- Treino}}{173}{section*.143}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa -- Módulo 7 -- Treino}}{174}{section*.144}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa -- Módulo 8 -- Treino}}{174}{section*.145}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa -- Módulo 9 -- Treino}}{174}{section*.146}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa -- Módulo 10 -- Treino}}{175}{section*.147}
+\contentsline {section}{\leavevmode {\color {azul}Arte -- Módulo 1 -- Treino}}{175}{section*.148}
+\contentsline {section}{\leavevmode {\color {azul}Arte -- Módulo 2 -- Treino}}{176}{section*.149}
+\contentsline {section}{\leavevmode {\color {azul}Arte -- Módulo 3 -- Treino}}{176}{section*.150}
+\contentsline {section}{\leavevmode {\color {azul}Ciências Humanas -- Módulo 1 -- Treino}}{176}{section*.151}
+\contentsline {section}{\leavevmode {\color {azul}Ciências Humanas -- Módulo 2 -- Treino}}{177}{section*.152}
+\contentsline {section}{\leavevmode {\color {azul}Ciências Humanas -- Módulo 3 -- Treino}}{177}{section*.153}
+\contentsline {section}{\leavevmode {\color {azul}Ciências Humanas -- Módulo 4 -- Treino}}{178}{section*.154}
+\contentsline {section}{\leavevmode {\color {azul}Ciências Humanas -- Módulo 5 -- Treino}}{178}{section*.155}
+\contentsline {section}{\leavevmode {\color {azul}Ciências Humanas -- Módulo 6 -- Treino}}{178}{section*.156}
 \contentsline {section}{\leavevmode {\color {azul}Simulado 1}}{179}{section*.157}
 \contentsline {section}{\leavevmode {\color {azul}Simulado 2}}{180}{section*.158}
 \contentsline {section}{\leavevmode {\color {azul}Simulado 3}}{181}{section*.159}
