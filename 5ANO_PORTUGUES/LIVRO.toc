@@ -46,7 +46,7 @@
 \contentsline {chapter}{O corpo na arte, a arte no corpo, a arte do corpo}{76}{chapter*.68}
 \contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{76}{section*.69}
 \contentsline {section}{\leavevmode {\color {azul}Atividades}}{77}{section*.70}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{80}{section*.71}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{81}{section*.71}
 \contentsline {chapter}{Patrimônio cultural}{83}{chapter*.72}
 \contentsline {section}{\leavevmode {\color {azul}Habilidade do SAEB}}{83}{section*.73}
 \contentsline {section}{\leavevmode {\color {azul}Atividades}}{84}{section*.74}
