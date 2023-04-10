@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  10 APR 2023 11:37
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  10 APR 2023 14:02
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.110 seconds
+luaotfload | main : initialization completed in 0.101 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2485,9 +2485,9 @@ Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 493.
+(babel)             in language  on input line 489.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 493.
+(babel)             in language  on input line 489.
 [15]
 <./imgs/img6.png, id=232, 284.481pt x 142.2405pt>
 File: ./imgs/img6.png Graphic file (type png)
@@ -2642,9 +2642,9 @@ Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 883.
+(babel)             in language  on input line 887.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 883.
+(babel)             in language  on input line 887.
 [23<./imgs/img9.jpg>]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 903--919
 []$[]$  $[]$
@@ -2928,6 +2928,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 1546--1561
  []
 
 
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1589.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1589.
+
+[36]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 1589--1604
 []$[]$  $[]$
  []
@@ -2938,14 +2946,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1589--1604
  []
 
 
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1605.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1605.
-
-[36]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 1625--1640
 []$[]$  $[]$
  []
@@ -3110,32 +3110,32 @@ Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2060.
+(babel)             in language  on input line 2052.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2060.
+(babel)             in language  on input line 2052.
 [45]
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2095.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2095.
+
+[46]
 Underfull \hbox (badness 3009) in paragraph at lines 2095--2097
 [] |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   
 []   |   []   |   []
  []
 
 
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2099.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2099.
-
-[46]
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2157.
+(babel)             in language  on input line 2152.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2157.
+(babel)             in language  on input line 2152.
 [47]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
@@ -3204,16 +3204,16 @@ Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2365.
+(babel)             in language  on input line 2361.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2365.
+(babel)             in language  on input line 2361.
 [51]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2417.
+(babel)             in language  on input line 2407.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2417.
+(babel)             in language  on input line 2407.
 
 [52]
 <./imgs/img21b.jpg, id=620, 1556.214pt x 1038.279pt>
@@ -3232,9 +3232,9 @@ Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2469.
+(babel)             in language  on input line 2462.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2469.
+(babel)             in language  on input line 2462.
 [53<./imgs/img21b.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 2488--2489
 
@@ -3246,70 +3246,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 2504--2505
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2521--2522
-
- []
-
-
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2523.
+(babel)             in language  on input line 2507.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2523.
+(babel)             in language  on input line 2507.
 
 [54]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2523.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2531--2532
+Underfull \hbox (badness 10000) in paragraph at lines 2522--2523
 
  []
-
-<./imgs/img22.jpg, id=642, 1003.75pt x 669.50125pt>
-File: ./imgs/img22.jpg Graphic file (type jpg)
-<use ./imgs/img22.jpg>
-Package luatex.def Info: ./imgs/img22.jpg  used on input line 2540.
-(luatex.def)             Requested size: 213.0pt x 142.07048pt.
-Package mdframed Info: mdframed works in twoside mode on input line 2556.
-<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png, id=643, 569.0058pt x 569.0058pt>
-
-File: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png Graphic file (type png)
-<use ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png>
-Package luatex.def Info: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png  used on 
-input line 2556.
-(luatex.def)             Requested size: 161.0513pt x 161.04831pt.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 2556.
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 2556
-.
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 2556
-.
-
-Package mdframed Info: mdframed works in twoside mode on input line 2579.
-
-Package wrapfig Warning: Collision between wrapping environments on input line 2
-579.
-
-<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA2.png, id=644, 569.0058pt x 569.0058pt>
-
-File: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA2.png Graphic file (type png)
-<use ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA2.png>
-Package luatex.def Info: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA2.png  used on 
-input line 2579.
-(luatex.def)             Requested size: 161.0513pt x 161.04831pt.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 2579.
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 2579
-.
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 2579
-.
 
 
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
@@ -3317,169 +3264,229 @@ Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2579.
+(babel)             in language  on input line 2524.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2579.
-[55
+(babel)             in language  on input line 2524.
+[55]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2524.
 
-<./imgs/img22.jpg>]
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 2534--2535
+
+ []
+
+<./imgs/img22.jpg, id=647, 1003.75pt x 669.50125pt>
+File: ./imgs/img22.jpg Graphic file (type jpg)
+<use ./imgs/img22.jpg>
+Package luatex.def Info: ./imgs/img22.jpg  used on input line 2543.
+(luatex.def)             Requested size: 213.0pt x 142.07048pt.
+Package mdframed Info: mdframed works in twoside mode on input line 2557.
+<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png, id=648, 569.0058pt x 569.0058pt>
+
+File: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png Graphic file (type png)
+<use ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png>
+Package luatex.def Info: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png  used on 
+input line 2557.
+(luatex.def)             Requested size: 161.0513pt x 161.04831pt.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 2557.
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 2557
+.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 2557
+.
+
+Package mdframed Info: mdframed works in twoside mode on input line 2580.
+<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA2.png, id=649, 569.0058pt x 569.0058pt>
+
+File: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA2.png Graphic file (type png)
+<use ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA2.png>
+Package luatex.def Info: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA2.png  used on 
+input line 2580.
+(luatex.def)             Requested size: 322.1026pt x 322.09663pt.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 2580.
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 2580
+.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 2580
+.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2582.
+(babel)             in language  on input line 2580.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2582.
+(babel)             in language  on input line 2580.
+[56
 
-[56<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png><../ilustracoes/POR5/SAEB_5ANO
-_POR_FIGURA2.png>]
-<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA3.png, id=659, 569.0058pt x 569.0058pt>
-
-File: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA3.png Graphic file (type png)
-<use ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA3.png>
-Package luatex.def Info: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA3.png  used on 
-input line 2612.
-(luatex.def)             Requested size: 298.1987pt x 298.19421pt.
-
+<./imgs/img22.jpg><../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png>]
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2618.
+(babel)             in language  on input line 2583.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2618.
-[57<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA3.png>]
-Package mdframed Info: mdframed works in twoside mode on input line 2637.
-<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA4.png, id=666, 567.5604pt x 422.5386pt>
+(babel)             in language  on input line 2583.
+[57<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA2.png>]
+<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA3.png, id=661, 569.0058pt x 569.0058pt>
 
-File: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA4.png Graphic file (type png)
-<use ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA4.png>
-Package luatex.def Info: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA4.png  used on 
-input line 2638.
-(luatex.def)             Requested size: 402.0pt x 299.29529pt.
+File: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA3.png Graphic file (type png)
+<use ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA3.png>
+Package luatex.def Info: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA3.png  used on 
+input line 2613.
+(luatex.def)             Requested size: 298.1987pt x 298.19421pt.
 
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2647.
+(babel)             in language  on input line 2619.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2647.
+(babel)             in language  on input line 2619.
 
-[58<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA4.png>]
-File: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png Graphic file (type png)
-<use ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png>
-Package luatex.def Info: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png  used on 
-input line 2660.
-(luatex.def)             Requested size: 298.1987pt x 298.19421pt.
-<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA5.png, id=674, 569.0058pt x 316.5426pt>
+[58<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA3.png>]
+Package mdframed Info: mdframed works in twoside mode on input line 2638.
+<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA4.png, id=668, 567.5604pt x 422.5386pt>
 
-File: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA5.png Graphic file (type png)
-<use ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA5.png>
-Package luatex.def Info: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA5.png  used on 
-input line 2672.
-(luatex.def)             Requested size: 426.0pt x 236.98615pt.
-
-Overfull \hbox (18.17596pt too wide) in paragraph at lines 2679--2693
-[]$[]$  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2679--2693
-
- []
-
+File: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA4.png Graphic file (type png)
+<use ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA4.png>
+Package luatex.def Info: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA4.png  used on 
+input line 2639.
+(luatex.def)             Requested size: 402.0pt x 299.29529pt.
 
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2695.
+(babel)             in language  on input line 2643.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2695.
-[59]
-Overfull \hbox (18.17596pt too wide) in paragraph at lines 2697--2711
-[]$[]$  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2697--2711
-
- []
-
-
-Overfull \hbox (18.17596pt too wide) in paragraph at lines 2715--2729
-[]$[]$  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2715--2729
-
- []
-
+(babel)             in language  on input line 2643.
+[59<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA4.png>]
+File: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png Graphic file (type png)
+<use ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png>
+Package luatex.def Info: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA1.png  used on 
+input line 2661.
+(luatex.def)             Requested size: 298.1987pt x 298.19421pt.
 
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2730.
+(babel)             in language  on input line 2669.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2730.
+(babel)             in language  on input line 2669.
 
-[60<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA5.png>]
+[60]
+<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA5.png, id=681, 569.0058pt x 316.5426pt>
+
+File: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA5.png Graphic file (type png)
+<use ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA5.png>
+Package luatex.def Info: ../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA5.png  used on 
+input line 2674.
+(luatex.def)             Requested size: 426.0pt x 236.98615pt.
+
+Overfull \hbox (18.17596pt too wide) in paragraph at lines 2681--2695
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2681--2695
+
+ []
+
+
+Overfull \hbox (18.17596pt too wide) in paragraph at lines 2699--2713
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2699--2713
+
+ []
+
+
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2730.
+(babel)             in language  on input line 2715.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2730.
-[61]
+(babel)             in language  on input line 2715.
+[61<../ilustracoes/POR5/SAEB_5ANO_POR_FIGURA5.png>]
+Overfull \hbox (18.17596pt too wide) in paragraph at lines 2718--2732
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2718--2732
+
+ []
+
+
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2730.
-Package marginnote Info: Margin note 62.1 is on absolute page 62
-(marginnote)              on input line 2748.
-Package marginnote Info: xpos seems to be 194.26999pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 2748.
-Package mdframed Info: mdframed works in twoside mode on input line 2771.
-<./imgs/img24.jpg, id=703, 963.6pt x 642.4pt>
+(babel)             in language  on input line 2733.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2733.
+
+[62]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2733.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2740--2741
+
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 2767.
+<./imgs/img24.jpg, id=705, 963.6pt x 642.4pt>
 File: ./imgs/img24.jpg Graphic file (type jpg)
 <use ./imgs/img24.jpg>
-Package luatex.def Info: ./imgs/img24.jpg  used on input line 2771.
+Package luatex.def Info: ./imgs/img24.jpg  used on input line 2767.
 (luatex.def)             Requested size: 161.0513pt x 107.36374pt.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 2771.
+ mdframed uses option nobreak mdframed on input line 2767.
 
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 2771
+Package varwidth Warning: Failed to reprocess entire contents on input line 2767
 .
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 2771
+Package varwidth Warning: Failed to reprocess entire contents on input line 2767
 .
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2771.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2771.
-[62
+Package mdframed Info: mdframed works in twoside mode on input line 2776.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 2776.
 
-]
+Package varwidth Warning: Failed to reprocess entire contents on input line 2776
+.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 2776
+.
+
+
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2787.
+(babel)             in language  on input line 2776.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2787.
-[63<./imgs/img24.jpg>]
+(babel)             in language  on input line 2776.
+[63
+
+<./imgs/img24.jpg>]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2845.
+(babel)             in language  on input line 2819.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2845.
+(babel)             in language  on input line 2819.
 
 [64]
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
@@ -3487,48 +3494,57 @@ Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2909.
+(babel)             in language  on input line 2871.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2909.
+(babel)             in language  on input line 2871.
 [65]
-Underfull \hbox (badness 10000) in paragraph at lines 2919--2920
+Underfull \hbox (badness 10000) in paragraph at lines 2924--2925
 
  []
 
 
-Overfull \hbox (18.17596pt too wide) in paragraph at lines 2932--2947
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2927.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2927.
+
+[66]
+Overfull \hbox (18.17596pt too wide) in paragraph at lines 2937--2952
 []$[]$  $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2932--2947
+Underfull \hbox (badness 10000) in paragraph at lines 2937--2952
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2970--2971
+Underfull \hbox (badness 10000) in paragraph at lines 2975--2976
 
  []
 
 )
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 34.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 34.
-
-[66]
+[67]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 34.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 34.
- [67]
+ [68]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 35.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 35.
- [68] (./ARTE.tex
+ [69] (./ARTE.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
@@ -3545,37 +3561,33 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 89.
 
 Package varwidth Warning: Failed to reprocess entire contents on input line 89.
 
-
-Overfull \hbox (54.90118pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 89.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 89.
-[69
+[70
 
 ]
-<./imgs/art1.png, id=754, 749.80125pt x 190.7125pt>
+<./imgs/art1.png, id=756, 749.80125pt x 190.7125pt>
 File: ./imgs/art1.png Graphic file (type png)
 <use ./imgs/art1.png>
 Package luatex.def Info: ./imgs/art1.png  used on input line 99.
 (luatex.def)             Requested size: 426.0pt x 108.35513pt.
 
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 100.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 100.
-
-[70]
+[71]
 Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
-<./imgs/art3.png, id=760, 744.7825pt x 335.2525pt>
+<./imgs/art3.png, id=763, 744.7825pt x 335.2525pt>
 File: ./imgs/art3.png Graphic file (type png)
 <use ./imgs/art3.png>
 Package luatex.def Info: ./imgs/art3.png  used on input line 149.
@@ -3586,32 +3598,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--157
  []
 
 
-Overfull \hbox (54.90118pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 159.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 159.
-[71<./imgs/art1.png>]
+
+[72<./imgs/art1.png>]
 Package mdframed Info: mdframed works in twoside mode on input line 162.
-<./imgs/art4a.jpg, id=768, 455.7025pt x 602.25pt>
+<./imgs/art4a.jpg, id=770, 455.7025pt x 602.25pt>
 File: ./imgs/art4a.jpg Graphic file (type jpg)
 <use ./imgs/art4a.jpg>
 Package luatex.def Info: ./imgs/art4a.jpg  used on input line 172.
 (luatex.def)             Requested size: 213.0pt x 281.50449pt.
-<./imgs/art4b.png, id=769, 630.355pt x 420.57124pt>
+<./imgs/art4b.png, id=771, 630.355pt x 420.57124pt>
 File: ./imgs/art4b.png Graphic file (type png)
 <use ./imgs/art4b.png>
 Package luatex.def Info: ./imgs/art4b.png  used on input line 177.
 (luatex.def)             Requested size: 213.0pt x 142.11314pt.
-<./imgs/art4c.jpg, id=770, 803.0pt x 602.25pt>
+<./imgs/art4c.jpg, id=772, 803.0pt x 602.25pt>
 File: ./imgs/art4c.jpg Graphic file (type jpg)
 <use ./imgs/art4c.jpg>
 Package luatex.def Info: ./imgs/art4c.jpg  used on input line 183.
 (luatex.def)             Requested size: 213.0pt x 159.75171pt.
-<./imgs/art4d.jpg, id=771, 486.81876pt x 602.25pt>
+<./imgs/art4d.jpg, id=773, 486.81876pt x 602.25pt>
 File: ./imgs/art4d.jpg Graphic file (type jpg)
 <use ./imgs/art4d.jpg>
 Package luatex.def Info: ./imgs/art4d.jpg  used on input line 188.
@@ -3622,14 +3633,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--218
  []
 
 
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 219.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 219.
-
-[72<./imgs/art3.png>]
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
@@ -3638,7 +3641,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 219.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 219.
-[73<./imgs/art4a.jpg><./imgs/art4b.png>]
+[73<./imgs/art3.png>]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
@@ -3646,26 +3649,34 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 219.
 
-[74<./imgs/art4c.jpg><./imgs/art4d.jpg>]
+[74<./imgs/art4a.jpg><./imgs/art4b.png>]
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 272.
+(babel)             in language  on input line 219.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 272.
-[75]
+(babel)             in language  on input line 219.
+[75<./imgs/art4c.jpg><./imgs/art4d.jpg>]
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 278.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 278.
+
+[76]
 Underfull \hbox (badness 10000) in paragraph at lines 306--307
 
  []
 
-<./imgs/art5.png, id=795, 429.85594pt x 357.58594pt>
+<./imgs/art5.png, id=797, 429.85594pt x 357.58594pt>
 File: ./imgs/art5.png Graphic file (type png)
 <use ./imgs/art5.png>
 Package luatex.def Info: ./imgs/art5.png  used on input line 313.
 (luatex.def)             Requested size: 426.0pt x 354.38219pt.
-<./imgs/art6.png, id=796, 753.81625pt x 228.855pt>
+<./imgs/art6.png, id=798, 753.81625pt x 228.855pt>
 File: ./imgs/art6.png Graphic file (type png)
 <use ./imgs/art6.png>
 Package luatex.def Info: ./imgs/art6.png  used on input line 336.
@@ -3676,14 +3687,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 348--349
  []
 
 
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 351.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 351.
-
-[76]
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
@@ -3692,21 +3695,30 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 351.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 351.
-[77<./imgs/art5.png><./imgs/art6.png>]
-<./imgs/art7.png, id=808, 195.4575pt x 119.574pt>
+[77]
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 351.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 351.
+
+[78<./imgs/art5.png><./imgs/art6.png>]
+<./imgs/art7.png, id=810, 195.4575pt x 119.574pt>
 File: ./imgs/art7.png Graphic file (type png)
 <use ./imgs/art7.png>
 Package luatex.def Info: ./imgs/art7.png  used on input line 361.
 (luatex.def)             Requested size: 426.0pt x 260.63695pt.
 
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 365.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 365.
-
-[78<./imgs/art7.png>]
+[79<./imgs/art7.png>]
 Overfull \hbox (171.88805pt too wide) in alignment at lines 397--402
  [][][] 
  []
@@ -3726,7 +3738,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 423--424
 
  []
 
-<./imgs/art9.png, id=814, 478.78876pt x 268.00125pt>
+<./imgs/art9.png, id=816, 478.78876pt x 268.00125pt>
 File: ./imgs/art9.png Graphic file (type png)
 <use ./imgs/art9.png>
 Package luatex.def Info: ./imgs/art9.png  used on input line 430.
@@ -3742,28 +3754,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 436--451
  []
 
 
-Overfull \hbox (54.90118pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 452.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 452.
-[79]
+
+[80]
 Underfull \hbox (badness 10000) in paragraph at lines 473--474
 
  []
 
 
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 475.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 475.
-
-[80<./imgs/art9.png>]
+[81<./imgs/art9.png>]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 485--502
 []$[]$  $[]$
  []
@@ -3774,15 +3786,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 485--502
  []
 
 
-Overfull \hbox (54.90118pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 503.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 503.
-[81]
+
+[82]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 503.
 
@@ -3791,7 +3802,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 506--507
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 550.
-<./imgs/art40.jpg, id=843, 742.775pt x 494.84875pt>
+<./imgs/art40.jpg, id=845, 742.775pt x 494.84875pt>
 File: ./imgs/art40.jpg Graphic file (type jpg)
 <use ./imgs/art40.jpg>
 Package luatex.def Info: ./imgs/art40.jpg  used on input line 550.
@@ -3806,22 +3817,26 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 550.
 Package varwidth Warning: Failed to reprocess entire contents on input line 550.
 
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 550.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 550.
-[82
 
-]
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 578.
+(babel)             in language  on input line 550.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 578.
-[83<./imgs/art40.jpg>]
+(babel)             in language  on input line 550.
+[83
+
+]
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 577.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 577.
+
+[84<./imgs/art40.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 599--600
 
  []
@@ -3832,15 +3847,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 629--630
  []
 
 
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 631.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 631.
-
-[84]
-<./imgs/art13.png, id=859, 464.73625pt x 166.6225pt>
+[85]
+<./imgs/art13.png, id=861, 464.73625pt x 166.6225pt>
 File: ./imgs/art13.png Graphic file (type png)
 <use ./imgs/art13.png>
 Package luatex.def Info: ./imgs/art13.png  used on input line 636.
@@ -3850,37 +3866,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 641--642
 
  []
 
-<./imgs/art14.png, id=860, 421.575pt x 150.5625pt>
+<./imgs/art14.png, id=862, 421.575pt x 150.5625pt>
 File: ./imgs/art14.png Graphic file (type png)
 <use ./imgs/art14.png>
 Package luatex.def Info: ./imgs/art14.png  used on input line 647.
 (luatex.def)             Requested size: 426.0pt x 152.14502pt.
 
-Overfull \hbox (54.90118pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 668.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 668.
-[85<./imgs/art13.png><./imgs/art14.png>]
-<./imgs/art15a.jpg, id=869, 103.149pt x 154.7235pt>
+
+[86<./imgs/art13.png><./imgs/art14.png>]
+<./imgs/art15a.jpg, id=871, 103.149pt x 154.7235pt>
 File: ./imgs/art15a.jpg Graphic file (type jpg)
 <use ./imgs/art15a.jpg>
 Package luatex.def Info: ./imgs/art15a.jpg  used on input line 675.
 (luatex.def)             Requested size: 213.0pt x 319.52481pt.
-<./imgs/art15b.png, id=870, 216.81pt x 245.41687pt>
+<./imgs/art15b.png, id=872, 216.81pt x 245.41687pt>
 File: ./imgs/art15b.png Graphic file (type png)
 <use ./imgs/art15b.png>
 Package luatex.def Info: ./imgs/art15b.png  used on input line 679.
 (luatex.def)             Requested size: 213.0pt x 241.11728pt.
-<./imgs/art15c.jpg, id=871, 120.5595pt x 181.6605pt>
+<./imgs/art15c.jpg, id=873, 120.5595pt x 181.6605pt>
 File: ./imgs/art15c.jpg Graphic file (type jpg)
 <use ./imgs/art15c.jpg>
 Package luatex.def Info: ./imgs/art15c.jpg  used on input line 684.
 (luatex.def)             Requested size: 213.0pt x 320.9819pt.
-<./imgs/art15d.jpg, id=872, 131.0715pt x 136.3275pt>
+<./imgs/art15d.jpg, id=874, 131.0715pt x 136.3275pt>
 File: ./imgs/art15d.jpg Graphic file (type jpg)
 <use ./imgs/art15d.jpg>
 Package luatex.def Info: ./imgs/art15d.jpg  used on input line 688.
@@ -3891,14 +3906,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 697--698
  []
 
 
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 710.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 710.
-
-[86<./imgs/art15a.jpg>]
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
@@ -3907,16 +3914,25 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 710.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 710.
-[87<./imgs/art15b.png><./imgs/art15c.jpg>]
+[87<./imgs/art15a.jpg>]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 710.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 710.
+
+[88<./imgs/art15b.png><./imgs/art15c.jpg>]
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 740.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 740.
-
-[88<./imgs/art15d.jpg>]
-<./imgs/art18.png, id=892, 240.9pt x 360.59718pt>
+[89<./imgs/art15d.jpg>]
+<./imgs/art18.png, id=894, 240.9pt x 360.59718pt>
 File: ./imgs/art18.png Graphic file (type png)
 <use ./imgs/art18.png>
 Package luatex.def Info: ./imgs/art18.png  used on input line 745.
@@ -3931,15 +3947,6 @@ Overfull \hbox (63.85197pt too wide) in paragraph at lines 774--783
  []
 
 
-Overfull \hbox (54.90118pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 804.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 804.
-[89]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
@@ -3947,50 +3954,59 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 804.
 
-[90<./imgs/art18.png>]
-<./imgs/art19a.jpg, id=902, 742.775pt x 494.84875pt>
-File: ./imgs/art19a.jpg Graphic file (type jpg)
-<use ./imgs/art19a.jpg>
-Package luatex.def Info: ./imgs/art19a.jpg  used on input line 809.
-(luatex.def)             Requested size: 213.0pt x 141.90169pt.
-<./imgs/art19b.jpg, id=903, 742.775pt x 494.84875pt>
-File: ./imgs/art19b.jpg Graphic file (type jpg)
-<use ./imgs/art19b.jpg>
-Package luatex.def Info: ./imgs/art19b.jpg  used on input line 814.
-(luatex.def)             Requested size: 213.0pt x 141.90169pt.
-<./imgs/art19c.jpeg, id=904, 192.72pt x 144.54pt>
-File: ./imgs/art19c.jpeg Graphic file (type jpg)
-<use ./imgs/art19c.jpeg>
-Package luatex.def Info: ./imgs/art19c.jpeg  used on input line 820.
-(luatex.def)             Requested size: 213.0pt x 159.74875pt.
-<./imgs/art19d.png, id=905, 742.775pt x 494.84875pt>
-File: ./imgs/art19d.png Graphic file (type png)
-<use ./imgs/art19d.png>
-Package luatex.def Info: ./imgs/art19d.png  used on input line 825.
-(luatex.def)             Requested size: 213.0pt x 141.90169pt.
-
+[90]
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 839.
+(babel)             in language  on input line 804.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 839.
-[91<./imgs/art19a.jpg><./imgs/art19b.jpg>]
+(babel)             in language  on input line 804.
+[91<./imgs/art18.png>]
+<./imgs/art19a.jpg, id=905, 742.775pt x 494.84875pt>
+File: ./imgs/art19a.jpg Graphic file (type jpg)
+<use ./imgs/art19a.jpg>
+Package luatex.def Info: ./imgs/art19a.jpg  used on input line 809.
+(luatex.def)             Requested size: 213.0pt x 141.90169pt.
+<./imgs/art19b.jpg, id=906, 742.775pt x 494.84875pt>
+File: ./imgs/art19b.jpg Graphic file (type jpg)
+<use ./imgs/art19b.jpg>
+Package luatex.def Info: ./imgs/art19b.jpg  used on input line 814.
+(luatex.def)             Requested size: 213.0pt x 141.90169pt.
+<./imgs/art19c.jpeg, id=907, 192.72pt x 144.54pt>
+File: ./imgs/art19c.jpeg Graphic file (type jpg)
+<use ./imgs/art19c.jpeg>
+Package luatex.def Info: ./imgs/art19c.jpeg  used on input line 820.
+(luatex.def)             Requested size: 213.0pt x 159.74875pt.
+<./imgs/art19d.png, id=908, 742.775pt x 494.84875pt>
+File: ./imgs/art19d.png Graphic file (type png)
+<use ./imgs/art19d.png>
+Package luatex.def Info: ./imgs/art19d.png  used on input line 825.
+(luatex.def)             Requested size: 213.0pt x 141.90169pt.
+
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 838.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 838.
+
+[92<./imgs/art19a.jpg><./imgs/art19b.jpg>]
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 857.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 857.
-
-[92<./imgs/art19c.jpeg><./imgs/art19d.png>]
+[93<./imgs/art19c.jpeg><./imgs/art19d.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 860--861
 
  []
 
-<./imgs/art41.png, id=925, 581.17125pt x 388.45125pt>
+<./imgs/art41.png, id=927, 581.17125pt x 388.45125pt>
 File: ./imgs/art41.png Graphic file (type png)
 <use ./imgs/art41.png>
 Package luatex.def Info: ./imgs/art41.png  used on input line 865.
@@ -4006,15 +4022,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 870--884
  []
 
 
-Overfull \hbox (54.90118pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 905.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 905.
-[93<./imgs/art41.png>]
+
+[94<./imgs/art41.png>]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 915--933
 []$[]$  $[]$
  []
@@ -4025,14 +4040,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 915--933
  []
 
 
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+Overfull \hbox (54.90118pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 934.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 934.
-
-[94]
+[95]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 934.
 
@@ -4041,12 +4057,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 937--938
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 987.
-<./imgs/art22a.jpg, id=945, 480.79625pt x 602.25pt>
+<./imgs/art22a.jpg, id=947, 480.79625pt x 602.25pt>
 File: ./imgs/art22a.jpg Graphic file (type jpg)
 <use ./imgs/art22a.jpg>
 Package luatex.def Info: ./imgs/art22a.jpg  used on input line 987.
 (luatex.def)             Requested size: 161.0513pt x 201.7389pt.
-<./imgs/art22b.jpg, id=946, 165.18857pt x 110.05688pt>
+<./imgs/art22b.jpg, id=948, 165.18857pt x 110.05688pt>
 File: ./imgs/art22b.jpg Graphic file (type jpg)
 <use ./imgs/art22b.jpg>
 Package luatex.def Info: ./imgs/art22b.jpg  used on input line 987.
@@ -4056,12 +4072,12 @@ Overfull \hbox (1.816pt too wide) in paragraph at lines 987--987
 [][] [] 
  []
 
-<./imgs/art22c.jpg, id=947, 512.91624pt x 601.24625pt>
+<./imgs/art22c.jpg, id=949, 512.91624pt x 601.24625pt>
 File: ./imgs/art22c.jpg Graphic file (type jpg)
 <use ./imgs/art22c.jpg>
 Package luatex.def Info: ./imgs/art22c.jpg  used on input line 987.
 (luatex.def)             Requested size: 161.0513pt x 188.78806pt.
-<./imgs/art22d.jpg, id=948, 481.8pt x 722.7pt>
+<./imgs/art22d.jpg, id=950, 481.8pt x 722.7pt>
 File: ./imgs/art22d.jpg Graphic file (type jpg)
 <use ./imgs/art22d.jpg>
 Package luatex.def Info: ./imgs/art22d.jpg  used on input line 987.
@@ -4071,12 +4087,12 @@ Overfull \hbox (1.816pt too wide) in paragraph at lines 987--987
 [][] [] 
  []
 
-<./imgs/art22e.jpeg, id=949, 803.0pt x 534.99875pt>
+<./imgs/art22e.jpeg, id=951, 803.0pt x 534.99875pt>
 File: ./imgs/art22e.jpeg Graphic file (type jpg)
 <use ./imgs/art22e.jpeg>
 Package luatex.def Info: ./imgs/art22e.jpeg  used on input line 987.
 (luatex.def)             Requested size: 161.0513pt x 107.2999pt.
-<./imgs/art22f.jpg, id=950, 924.45375pt x 722.7pt>
+<./imgs/art22f.jpg, id=952, 924.45375pt x 722.7pt>
 File: ./imgs/art22f.jpg Graphic file (type jpg)
 <use ./imgs/art22f.jpg>
 Package luatex.def Info: ./imgs/art22f.jpg  used on input line 987.
@@ -4096,74 +4112,69 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 987.
 Package varwidth Warning: Failed to reprocess entire contents on input line 987.
 
 
-
-Overfull \hbox (54.90118pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 987.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 987.
-[95
+[96
 
 ]
 Overfull \vbox (266.04259pt too high) has occurred while \output is active []
 
-
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 987.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 987.
-
-[96<./imgs/art22a.jpg><./imgs/art22b.jpg><./imgs/art22c.jpg><./imgs/art22d.jpg><
-./imgs/art22e.jpeg><./imgs/art22f.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 995--996
-
- []
-
-<./imgs/art24.jpg, id=960, 762.85pt x 602.25pt>
-File: ./imgs/art24.jpg Graphic file (type jpg)
-<use ./imgs/art24.jpg>
-Package luatex.def Info: ./imgs/art24.jpg  used on input line 1003.
-(luatex.def)             Requested size: 426.0pt x 336.31117pt.
 
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1010.
+(babel)             in language  on input line 987.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1010.
-[97<./imgs/art24.jpg>]
-Package mdframed Info: mdframed works in twoside mode on input line 1059.
+(babel)             in language  on input line 987.
+[97<./imgs/art22a.jpg><./imgs/art22b.jpg><./imgs/art22c.jpg><./imgs/art22d.jpg><
+./imgs/art22e.jpeg><./imgs/art22f.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 995--996
+
+ []
+
+<./imgs/art24.jpg, id=962, 762.85pt x 602.25pt>
+File: ./imgs/art24.jpg Graphic file (type jpg)
+<use ./imgs/art24.jpg>
+Package luatex.def Info: ./imgs/art24.jpg  used on input line 1003.
+(luatex.def)             Requested size: 426.0pt x 336.31117pt.
 
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1062.
+(babel)             in language  on input line 1010.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1062.
+(babel)             in language  on input line 1010.
 
-[98]
-Underfull \hbox (badness 10000) in paragraph at lines 1113--1114
-
- []
-
+[98<./imgs/art24.jpg>]
+Package mdframed Info: mdframed works in twoside mode on input line 1059.
 
 Overfull \hbox (54.90118pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1062.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1062.
+[99]
+Underfull \hbox (badness 10000) in paragraph at lines 1113--1114
+
+ []
+
+
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1136.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1136.
-[99]
-<./imgs/art26.png, id=975, 496.85625pt x 558.085pt>
+
+[100]
+<./imgs/art26.png, id=977, 496.85625pt x 558.085pt>
 File: ./imgs/art26.png Graphic file (type png)
 <use ./imgs/art26.png>
 Package luatex.def Info: ./imgs/art26.png  used on input line 1141.
@@ -4174,14 +4185,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1161--1162
  []
 
 
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1178.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1178.
-
-[100]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
@@ -4190,64 +4193,73 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1178.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1178.
-[101<./imgs/art26.png>]
+[101]
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1178.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1178.
+
+[102<./imgs/art26.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 1189--1190
 
  []
 
-<./imgs/art42.png, id=990, 486.81876pt x 398.48875pt>
+<./imgs/art42.png, id=992, 486.81876pt x 398.48875pt>
 File: ./imgs/art42.png Graphic file (type png)
 <use ./imgs/art42.png>
 Package luatex.def Info: ./imgs/art42.png  used on input line 1194.
 (luatex.def)             Requested size: 426.0pt x 348.7072pt.
-
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1208.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1208.
-
-[102<./imgs/art42.png>]
-<./imgs/art29.png, id=998, 479.54156pt x 359.84438pt>
-File: ./imgs/art29.png Graphic file (type png)
-<use ./imgs/art29.png>
-Package luatex.def Info: ./imgs/art29.png  used on input line 1261.
-(luatex.def)             Requested size: 426.0pt x 319.67297pt.
 
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1274.
+(babel)             in language  on input line 1208.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1274.
-[103]
+(babel)             in language  on input line 1208.
+[103<./imgs/art42.png>]
+<./imgs/art29.png, id=1000, 479.54156pt x 359.84438pt>
+File: ./imgs/art29.png Graphic file (type png)
+<use ./imgs/art29.png>
+Package luatex.def Info: ./imgs/art29.png  used on input line 1261.
+(luatex.def)             Requested size: 426.0pt x 319.67297pt.
+
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1274.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1274.
+
+[104]
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1293.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1293.
-
-[104<./imgs/art29.png>]
-<./imgs/art30a.png, id=1013, 374.14781pt x 372.64218pt>
+[105<./imgs/art29.png>]
+<./imgs/art30a.png, id=1015, 374.14781pt x 372.64218pt>
 File: ./imgs/art30a.png Graphic file (type png)
 <use ./imgs/art30a.png>
 Package luatex.def Info: ./imgs/art30a.png  used on input line 1297.
 (luatex.def)             Requested size: 213.0pt x 212.14099pt.
-<./imgs/art30b.jpg, id=1014, 283.0575pt x 600.2425pt>
+<./imgs/art30b.jpg, id=1016, 283.0575pt x 600.2425pt>
 File: ./imgs/art30b.jpg Graphic file (type jpg)
 <use ./imgs/art30b.jpg>
 Package luatex.def Info: ./imgs/art30b.jpg  used on input line 1301.
 (luatex.def)             Requested size: 213.0pt x 451.69199pt.
-<./imgs/art30c.jpg, id=1015, 345.29pt x 601.24625pt>
+<./imgs/art30c.jpg, id=1017, 345.29pt x 601.24625pt>
 File: ./imgs/art30c.jpg Graphic file (type jpg)
 <use ./imgs/art30c.jpg>
 Package luatex.def Info: ./imgs/art30c.jpg  used on input line 1306.
 (luatex.def)             Requested size: 213.0pt x 370.89726pt.
-<./imgs/art30d.jpeg, id=1016, 192.72pt x 129.1224pt>
+<./imgs/art30d.jpeg, id=1018, 192.72pt x 129.1224pt>
 File: ./imgs/art30d.jpeg Graphic file (type jpg)
 <use ./imgs/art30d.jpeg>
 Package luatex.def Info: ./imgs/art30d.jpeg  used on input line 1310.
@@ -4258,38 +4270,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 1319--1320
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1353--1354
-
- []
-
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1355.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1355.
-[105<./imgs/art30a.png>]
 Overfull \vbox (4.62373pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1355.
+(babel)             in language  on input line 1343.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1355.
+(babel)             in language  on input line 1343.
 
-[106<./imgs/art30b.jpg>]
+[106<./imgs/art30a.png>]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1355.
+(babel)             in language  on input line 1343.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1355.
-[107<./imgs/art30c.jpg><./imgs/art30d.jpeg>]
-<./imgs/art43.png, id=1037, 384.43625pt x 383.4325pt>
+(babel)             in language  on input line 1343.
+[107<./imgs/art30b.jpg>]
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1343.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1343.
+
+[108<./imgs/art30c.jpg><./imgs/art30d.jpeg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1353--1354
+
+ []
+
+<./imgs/art43.png, id=1038, 384.43625pt x 383.4325pt>
 File: ./imgs/art43.png Graphic file (type png)
 <use ./imgs/art43.png>
 Package luatex.def Info: ./imgs/art43.png  used on input line 1358.
@@ -4305,14 +4315,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1363--1383
  []
 
 )
-Overfull \vbox (4.62373pt too high) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 38.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 38.
-
-[108<./imgs/art43.png>]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
@@ -4321,17 +4323,25 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 38.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 38.
-[109]
+[109<./imgs/art43.png>]
+Overfull \vbox (4.62373pt too high) has occurred while \output is active []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 38.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 38.
- [110]
+
+[110]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 38.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 38.
+ [111]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 39.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 39.
- [111] (./CHU.tex
+ [112] (./CHU.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 11.
 
@@ -4340,7 +4350,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 53.
-<./imgs/img26.png, id=1061, 742.775pt x 742.775pt>
+<./imgs/img26.png, id=1064, 742.775pt x 742.775pt>
 File: ./imgs/img26.png Graphic file (type png)
 <use ./imgs/img26.png>
 Package luatex.def Info: ./imgs/img26.png  used on input line 53.
@@ -4350,12 +4360,12 @@ Overfull \hbox (16.10611pt too wide) in paragraph at lines 53--53
 [][] 
  []
 
-<./imgs/img27.png, id=1062, 963.6pt x 722.7pt>
+<./imgs/img27.png, id=1065, 963.6pt x 722.7pt>
 File: ./imgs/img27.png Graphic file (type png)
 <use ./imgs/img27.png>
 Package luatex.def Info: ./imgs/img27.png  used on input line 53.
 (luatex.def)             Requested size: 144.94518pt x 108.70909pt.
-<./imgs/img28.png, id=1063, 963.6pt x 642.4pt>
+<./imgs/img28.png, id=1066, 963.6pt x 642.4pt>
 File: ./imgs/img28.png Graphic file (type png)
 <use ./imgs/img28.png>
 Package luatex.def Info: ./imgs/img28.png  used on input line 53.
@@ -4377,100 +4387,86 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 65.
 
 Package varwidth Warning: Failed to reprocess entire contents on input line 65.
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 65.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 65.
-[112
-
-<./imgs/img26.png><./imgs/img27.png><./imgs/img28.png>]
-<./imgs/img29.jpg, id=1071, 642.14906pt x 396.7322pt>
-File: ./imgs/img29.jpg Graphic file (type jpg)
-<use ./imgs/img29.jpg>
-Package luatex.def Info: ./imgs/img29.jpg  used on input line 77.
-(luatex.def)             Requested size: 174.66156pt x 107.90608pt.
-<./imgs/img30.png, id=1072, 903.375pt x 456.70625pt>
-File: ./imgs/img30.png Graphic file (type png)
-<use ./imgs/img30.png>
-Package luatex.def Info: ./imgs/img30.png  used on input line 78.
-(luatex.def)             Requested size: 213.0pt x 107.68138pt.
 
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 65.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 65.
+[113
+
+<./imgs/img26.png><./imgs/img27.png><./imgs/img28.png>]
+<./imgs/img29.jpg, id=1073, 642.14906pt x 396.7322pt>
+File: ./imgs/img29.jpg Graphic file (type jpg)
+<use ./imgs/img29.jpg>
+Package luatex.def Info: ./imgs/img29.jpg  used on input line 77.
+(luatex.def)             Requested size: 174.66156pt x 107.90608pt.
+<./imgs/img30.png, id=1074, 903.375pt x 456.70625pt>
+File: ./imgs/img30.png Graphic file (type png)
+<use ./imgs/img30.png>
+Package luatex.def Info: ./imgs/img30.png  used on input line 78.
+(luatex.def)             Requested size: 213.0pt x 107.68138pt.
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 97.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 97.
-[113<./imgs/img29.jpg><./imgs/img30.png>]
+ [114<./imgs/img29.jpg><./imgs/img30.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
-<./imgs/img31.png, id=1079, 776.9025pt x 436.63126pt>
+<./imgs/img31.png, id=1081, 776.9025pt x 436.63126pt>
 File: ./imgs/img31.png Graphic file (type png)
 <use ./imgs/img31.png>
 Package luatex.def Info: ./imgs/img31.png  used on input line 120.
 (luatex.def)             Requested size: 213.0pt x 119.7042pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 145.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 145.
-[114<./imgs/img31.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
-
- []
-
 
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 145.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 145.
+[115<./imgs/img31.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 196.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 196.
-[115]
-<./imgs/img32.png, id=1089, 963.6pt x 641.39626pt>
+[116]
+<./imgs/img32.png, id=1091, 963.6pt x 641.39626pt>
 File: ./imgs/img32.png Graphic file (type png)
 <use ./imgs/img32.png>
 Package luatex.def Info: ./imgs/img32.png  used on input line 201.
 (luatex.def)             Requested size: 213.0pt x 141.77312pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 229.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 229.
- [116<./imgs/img32.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 287--288
-
- []
-
 
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 309.
+(babel)             in language  on input line 226.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 309.
-[117]
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
+(babel)             in language  on input line 226.
+[117<./imgs/img32.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 348.
+(babel)             in language  on input line 289.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 348.
+(babel)             in language  on input line 289.
 [118]
-Overfull \hbox (18.17596pt too wide) in paragraph at lines 352--366
-[]$[]$  $[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--366
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
 
  []
 
@@ -4480,10 +4476,24 @@ Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 347.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 347.
+[119]
+Overfull \hbox (18.17596pt too wide) in paragraph at lines 352--366
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--366
+
+ []
+
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 367.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 367.
-[119]
+[120]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 367.
 
@@ -4492,7 +4502,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 370--371
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 405.
-<./imgs/img33.png, id=1128, 999.735pt x 666.49pt>
+<./imgs/img33.png, id=1130, 999.735pt x 666.49pt>
 File: ./imgs/img33.png Graphic file (type png)
 <use ./imgs/img33.png>
 Package luatex.def Info: ./imgs/img33.png  used on input line 405.
@@ -4507,57 +4517,56 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 405.
 Package varwidth Warning: Failed to reprocess entire contents on input line 405.
 
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 412.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 412.
-[120
-
-<./imgs/img33.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 456--457
-
- []
-
 
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 458.
+(babel)             in language  on input line 412.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 458.
-[121]
-<./imgs/img34.png, id=1142, 1385.175pt x 812.03375pt>
+(babel)             in language  on input line 412.
+[121
+
+<./imgs/img33.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+
+ []
+
+<./imgs/img34.png, id=1138, 1385.175pt x 812.03375pt>
 File: ./imgs/img34.png Graphic file (type png)
 <use ./imgs/img34.png>
 Package luatex.def Info: ./imgs/img34.png  used on input line 461.
 (luatex.def)             Requested size: 426.0pt x 249.73297pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 494.
+(babel)             in language  on input line 463.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 494.
- [122<./imgs/img34.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 539--540
-
- []
-
-
+(babel)             in language  on input line 463.
+[122]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 498.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 498.
+[123<./imgs/img34.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+
+ []
+
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 542.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 542.
-[123]
-<./imgs/img35.png, id=1152, 999.735pt x 666.49pt>
+[124]
+<./imgs/img35.png, id=1154, 999.735pt x 666.49pt>
 File: ./imgs/img35.png Graphic file (type png)
 <use ./imgs/img35.png>
 Package luatex.def Info: ./imgs/img35.png  used on input line 545.
 (luatex.def)             Requested size: 213.0pt x 142.00099pt.
-<./imgs/img36.png, id=1153, 742.775pt x 645.41125pt>
+<./imgs/img36.png, id=1155, 742.775pt x 645.41125pt>
 File: ./imgs/img36.png Graphic file (type png)
 <use ./imgs/img36.png>
 Package luatex.def Info: ./imgs/img36.png  used on input line 546.
@@ -4588,11 +4597,16 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 580--580
 [][][] 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 581.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 581.
-[124<./imgs/img35.png><./imgs/img36.png>]
+[125<./imgs/img35.png><./imgs/img36.png>]
 Overfull \hbox (30.0pt too wide) in paragraph at lines 582--582
 [][][][] 
  []
@@ -4612,17 +4626,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 635--636
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 637.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 637.
-[125]
-<./imgs/img37.jpg, id=1171, 628.3475pt x 335.2525pt>
+[126]
+<./imgs/img37.jpg, id=1173, 628.3475pt x 335.2525pt>
 File: ./imgs/img37.jpg Graphic file (type jpg)
 <use ./imgs/img37.jpg>
 Package luatex.def Info: ./imgs/img37.jpg  used on input line 641.
@@ -4647,11 +4656,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 684--698
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 699.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 699.
-[126<./imgs/img37.jpg>]
+[127<./imgs/img37.jpg>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 699.
 
@@ -4660,7 +4674,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 702--703
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 734.
-<./imgs/img38.png, id=1185, 999.735pt x 666.49pt>
+<./imgs/img38.png, id=1187, 999.735pt x 666.49pt>
 File: ./imgs/img38.png Graphic file (type png)
 <use ./imgs/img38.png>
 Package luatex.def Info: ./imgs/img38.png  used on input line 734.
@@ -4675,24 +4689,19 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 734.
 Package varwidth Warning: Failed to reprocess entire contents on input line 734.
 
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 737.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 737.
-[127
+[128
 
 <./imgs/img38.png>]
-<./imgs/img39.png, id=1193, 963.6pt x 642.4pt>
+<./imgs/img39.png, id=1195, 963.6pt x 642.4pt>
 File: ./imgs/img39.png Graphic file (type png)
 <use ./imgs/img39.png>
 Package luatex.def Info: ./imgs/img39.png  used on input line 743.
 (luatex.def)             Requested size: 213.0pt x 141.99498pt.
-<./imgs/img40.png, id=1194, 1133.23375pt x 752.8125pt>
+<./imgs/img40.png, id=1196, 1133.23375pt x 752.8125pt>
 File: ./imgs/img40.png Graphic file (type png)
 <use ./imgs/img40.png>
 Package luatex.def Info: ./imgs/img40.png  used on input line 744.
@@ -4702,31 +4711,36 @@ Overfull \hbox (1.816pt too wide) in paragraph at lines 743--747
 [][] [] 
  []
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 784.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 784.
-[128<./imgs/img39.png><./imgs/img40.png>]
+
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 821.
+(babel)             in language  on input line 784.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 784.
+[129<./imgs/img39.png><./imgs/img40.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 821.
-[129]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 882.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 882.
+(babel)             in language  on input line 821.
  [130]
-<./imgs/img41.png, id=1209, 1063.975pt x 668.4975pt>
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 882.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 882.
+[131]
+<./imgs/img41.png, id=1212, 1063.975pt x 668.4975pt>
 File: ./imgs/img41.png Graphic file (type png)
 <use ./imgs/img41.png>
 Package luatex.def Info: ./imgs/img41.png  used on input line 885.
 (luatex.def)             Requested size: 213.0pt x 133.81953pt.
-<./imgs/img42.png, id=1210, 1129.21875pt x 752.8125pt>
+<./imgs/img42.png, id=1213, 1129.21875pt x 752.8125pt>
 File: ./imgs/img42.png Graphic file (type png)
 <use ./imgs/img42.png>
 Package luatex.def Info: ./imgs/img42.png  used on input line 886.
@@ -4736,21 +4750,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 930--931
 
  []
 
-
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 933.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 933.
+[132<./imgs/img41.png><./imgs/img42.png>]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
+ []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 933.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 933.
-[131<./imgs/img41.png><./imgs/img42.png>]
-Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 980.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 980.
- [132]
+[133]
 Underfull \hbox (badness 10000) in paragraph at lines 999--1000
 
  []
@@ -4760,17 +4773,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1039--1040
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1041.
+(babel)             in language  on input line 1044.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1041.
-[133]
-<./imgs/img43.png, id=1232, 742.775pt x 928.46875pt>
+(babel)             in language  on input line 1044.
+[134]
+<./imgs/img43.png, id=1234, 742.775pt x 928.46875pt>
 File: ./imgs/img43.png Graphic file (type png)
 <use ./imgs/img43.png>
 Package luatex.def Info: ./imgs/img43.png  used on input line 1049.
@@ -4785,16 +4793,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 1056--1069
 
  []
 
-<./imgs/img44.png, id=1233, 883.3pt x 589.20125pt>
+<./imgs/img44.png, id=1235, 883.3pt x 589.20125pt>
 File: ./imgs/img44.png Graphic file (type png)
 <use ./imgs/img44.png>
 Package luatex.def Info: ./imgs/img44.png  used on input line 1073.
 (luatex.def)             Requested size: 213.0pt x 142.07648pt.
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1079.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1079.
-[134<./imgs/img43.png>]
+[135<./imgs/img43.png>]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 1084--1098
 []$[]$  $[]$
  []
@@ -4804,16 +4817,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1084--1098
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1099.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1099.
-[135<./imgs/img44.png>]
+[136<./imgs/img44.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1099.
 
@@ -4822,7 +4830,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1102--1103
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 1137.
-<./imgs/img45.png, id=1252, 963.6pt x 642.4pt>
+<./imgs/img45.png, id=1254, 963.6pt x 642.4pt>
 File: ./imgs/img45.png Graphic file (type png)
 <use ./imgs/img45.png>
 Package luatex.def Info: ./imgs/img45.png  used on input line 1137.
@@ -4837,28 +4845,28 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 1137
 Package varwidth Warning: Failed to reprocess entire contents on input line 1137
 .
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1138.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1138.
-[136
-
-<./imgs/img45.png>]
-<./imgs/img46.png, id=1259, 742.775pt x 742.775pt>
-File: ./imgs/img46.png Graphic file (type png)
-<use ./imgs/img46.png>
-Package luatex.def Info: ./imgs/img46.png  used on input line 1142.
-(luatex.def)             Requested size: 426.0pt x 426.00426pt.
 
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1138.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1138.
+[137
+
+<./imgs/img45.png>]
+<./imgs/img46.png, id=1261, 742.775pt x 742.775pt>
+File: ./imgs/img46.png Graphic file (type png)
+<use ./imgs/img46.png>
+Package luatex.def Info: ./imgs/img46.png  used on input line 1142.
+(luatex.def)             Requested size: 426.0pt x 426.00426pt.
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1162.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1162.
-[137<./imgs/img46.png>]
+ [138<./imgs/img46.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 1179--1180
 
  []
@@ -4888,43 +4896,41 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 1207--1207
 [][][] 
  []
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1211.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1211.
-[138]
-Package mdframed Info: mdframed works in twoside mode on input line 1214.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1223--1224
-
- []
-
-<./imgs/img47.png, id=1270, 999.735pt x 666.49pt>
-File: ./imgs/img47.png Graphic file (type png)
-<use ./imgs/img47.png>
-Package luatex.def Info: ./imgs/img47.png  used on input line 1231.
-(luatex.def)             Requested size: 213.0pt x 142.00099pt.
 
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1211.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1211.
+[139]
+Package mdframed Info: mdframed works in twoside mode on input line 1214.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1223--1224
+
+ []
+
+<./imgs/img47.png, id=1272, 999.735pt x 666.49pt>
+File: ./imgs/img47.png Graphic file (type png)
+<use ./imgs/img47.png>
+Package luatex.def Info: ./imgs/img47.png  used on input line 1231.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1260.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1260.
-[139<./imgs/img47.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1280--1281
-\TU/MinionPro(0)/m/it/8 e-adolescentes/:~:text=Garantirque
-todasascrianCAas,PoderPCBAbl
-icoCmasdetoda\TU/MinionPro(0)/m/n/8 .
+[140<./imgs/img47.png>]
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1302.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1302.
-[140]
+[141]
 Package mdframed Info: mdframed works in twoside mode on input line 1302.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1308--1309
@@ -4947,16 +4953,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1343--1344
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1352.
+(babel)             in language  on input line 1348.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1352.
-[141]
+(babel)             in language  on input line 1348.
+[142]
 Overfull \hbox (30.0pt too wide) in paragraph at lines 1368--1368
 [][][][] 
  []
@@ -5006,25 +5007,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 1397--1398
 
  []
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1399.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1399.
-[142]
-Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
-
- []
-
 
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1399.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1399.
+[143]
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
+
+ []
+
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1442.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1442.
-[143]
+[144]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 1458--1472
 []$[]$  $[]$
  []
@@ -5044,11 +5045,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 1489--1503
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1504.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1504.
-[144]
+[145]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1504.
 
@@ -5057,17 +5063,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1507--1508
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 1542.
-<./imgs/img48.png, id=1324, 742.775pt x 742.775pt>
+<./imgs/img48.png, id=1326, 742.775pt x 742.775pt>
 File: ./imgs/img48.png Graphic file (type png)
 <use ./imgs/img48.png>
 Package luatex.def Info: ./imgs/img48.png  used on input line 1542.
 (luatex.def)             Requested size: 154.60786pt x 154.60461pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1542--1542
-\TU/MinionPro(0)/m/it/8 e-pik.com/vetores-gratis/pare-o-conceito-de-ilustracao-
-de-racismo_.htmpage=&query=di-rei-
- []
-
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 1542.
 
@@ -5078,23 +5078,22 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 1542
 Package varwidth Warning: Failed to reprocess entire contents on input line 1542
 .
 
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1549.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1549.
+[146
 
+<./imgs/img48.png>]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
+ []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1549.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1549.
-[145
-
-<./imgs/img48.png>]
-Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1613.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1613.
- [146]
+[147]
 Underfull \hbox (badness 10000) in paragraph at lines 1615--1616
 
  []
@@ -5105,66 +5104,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 1631--1632
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 1648.
-<./imgs/img49.png, id=1336, 742.775pt x 742.775pt>
+<./imgs/img49.png, id=1338, 742.775pt x 742.775pt>
 File: ./imgs/img49.png Graphic file (type png)
 <use ./imgs/img49.png>
 Package luatex.def Info: ./imgs/img49.png  used on input line 1658.
 (luatex.def)             Requested size: 213.0pt x 212.99646pt.
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1671.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1671.
-[147]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1707.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1707.
- [148<./imgs/img49.png>]
-<./imgs/img50.png, id=1346, 999.735pt x 666.49pt>
-File: ./imgs/img50.png Graphic file (type png)
-<use ./imgs/img50.png>
-Package luatex.def Info: ./imgs/img50.png  used on input line 1742.
-(luatex.def)             Requested size: 213.0pt x 142.00099pt.
-
+[148]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1758.
+(babel)             in language  on input line 1707.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1707.
+[149<./imgs/img49.png>]
+<./imgs/img50.png, id=1348, 999.735pt x 666.49pt>
+File: ./imgs/img50.png Graphic file (type png)
+<use ./imgs/img50.png>
+Package luatex.def Info: ./imgs/img50.png  used on input line 1742.
+(luatex.def)             Requested size: 213.0pt x 142.00099pt.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1758.
-[149]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1794.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1794.
- [150<./imgs/img50.png>]
+(babel)             in language  on input line 1758.
+ [150]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1794.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1794.
+[151<./imgs/img50.png>]
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1801.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1801.
-[151]
+ [152]
 Package mdframed Info: mdframed works in twoside mode on input line 1806.
-<./imgs/img51.png, id=1363, 1543.7675pt x 602.25pt>
+<./imgs/img51.png, id=1365, 1543.7675pt x 602.25pt>
 File: ./imgs/img51.png Graphic file (type png)
 <use ./imgs/img51.png>
 Package luatex.def Info: ./imgs/img51.png  used on input line 1821.
 (luatex.def)             Requested size: 213.0pt x 83.09221pt.
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1822.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1822.
- [152]
+[153]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 1850--1864
 []$[]$  $[]$
  []
@@ -5184,17 +5182,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1892--1906
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1908.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1908.
-[153<./imgs/img51.png>]
-<./imgs/img52.jpg, id=1378, 558.58687pt x 333.49594pt>
+[154<./imgs/img51.png>]
+<./imgs/img52.jpg, id=1380, 558.58687pt x 333.49594pt>
 File: ./imgs/img52.jpg Graphic file (type jpg)
 <use ./imgs/img52.jpg>
 Package luatex.def Info: ./imgs/img52.jpg  used on input line 1911.
@@ -5204,11 +5197,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1931.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1931.
-[154<./imgs/img52.jpg>]
+[155<./imgs/img52.jpg>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1931.
 
@@ -5217,12 +5215,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1934--1935
  []
 
 Package mdframed Info: mdframed works in twoside mode on input line 1964.
-<./imgs/img53.png, id=1392, 999.735pt x 666.49pt>
+<./imgs/img53.png, id=1394, 999.735pt x 666.49pt>
 File: ./imgs/img53.png Graphic file (type png)
 <use ./imgs/img53.png>
 Package luatex.def Info: ./imgs/img53.png  used on input line 1964.
 (luatex.def)             Requested size: 161.0513pt x 107.36263pt.
-<./imgs/img54.png, id=1393, 999.735pt x 666.49pt>
+<./imgs/img54.png, id=1395, 999.735pt x 666.49pt>
 File: ./imgs/img54.png Graphic file (type png)
 <use ./imgs/img54.png>
 Package luatex.def Info: ./imgs/img54.png  used on input line 1964.
@@ -5242,24 +5240,19 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 1964
 Package varwidth Warning: Failed to reprocess entire contents on input line 1964
 .
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1967.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1967.
-[155
+[156
 
 <./imgs/img53.png><./imgs/img54.png>]
-<./imgs/img55.png, id=1399, 999.735pt x 666.49pt>
+<./imgs/img55.png, id=1401, 999.735pt x 666.49pt>
 File: ./imgs/img55.png Graphic file (type png)
 <use ./imgs/img55.png>
 Package luatex.def Info: ./imgs/img55.png  used on input line 1972.
 (luatex.def)             Requested size: 213.0pt x 142.00099pt.
-<./imgs/img56.png, id=1400, 999.735pt x 666.49pt>
+<./imgs/img56.png, id=1402, 999.735pt x 666.49pt>
 File: ./imgs/img56.png Graphic file (type png)
 <use ./imgs/img56.png>
 Package luatex.def Info: ./imgs/img56.png  used on input line 1973.
@@ -5274,12 +5267,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2020--2021
 
  []
 
-<./imgs/img57.png, id=1401, 999.735pt x 666.49pt>
+<./imgs/img57.png, id=1403, 999.735pt x 666.49pt>
 File: ./imgs/img57.png Graphic file (type png)
 <use ./imgs/img57.png>
 Package luatex.def Info: ./imgs/img57.png  used on input line 2025.
 (luatex.def)             Requested size: 213.0pt x 142.00099pt.
-<./imgs/img58.png, id=1402, 999.735pt x 666.49pt>
+<./imgs/img58.png, id=1404, 999.735pt x 666.49pt>
 File: ./imgs/img58.png Graphic file (type png)
 <use ./imgs/img58.png>
 Package luatex.def Info: ./imgs/img58.png  used on input line 2026.
@@ -5289,44 +5282,50 @@ Overfull \hbox (1.816pt too wide) in paragraph at lines 2025--2027
 [][] [] 
  []
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2028.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2028.
-[156<./imgs/img55.png><./imgs/img56.png>]
+
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2028.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2028.
+[157<./imgs/img55.png><./imgs/img56.png>]
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2060.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2060.
-[157<./imgs/img57.png><./imgs/img58.png>]
+ [158<./imgs/img57.png><./imgs/img58.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 2101--2102
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2128.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2128.
-[158]
+[159]
 Underfull \hbox (badness 10000) in paragraph at lines 2128--2129
 
  []
 
-<./imgs/img59.png, id=1419, 999.735pt x 666.49pt>
+<./imgs/img59.png, id=1421, 999.735pt x 666.49pt>
 File: ./imgs/img59.png Graphic file (type png)
 <use ./imgs/img59.png>
 Package luatex.def Info: ./imgs/img59.png  used on input line 2133.
 (luatex.def)             Requested size: 213.0pt x 142.00099pt.
-<./imgs/img60.png, id=1420, 999.735pt x 666.49pt>
+<./imgs/img60.png, id=1422, 999.735pt x 666.49pt>
 File: ./imgs/img60.png Graphic file (type png)
 <use ./imgs/img60.png>
 Package luatex.def Info: ./imgs/img60.png  used on input line 2149.
 (luatex.def)             Requested size: 213.0pt x 142.00099pt.
-<./imgs/img61.png, id=1421, 999.735pt x 665.48625pt>
+<./imgs/img61.png, id=1423, 999.735pt x 665.48625pt>
 File: ./imgs/img61.png Graphic file (type png)
 <use ./imgs/img61.png>
 Package luatex.def Info: ./imgs/img61.png  used on input line 2150.
@@ -5336,12 +5335,12 @@ Overfull \hbox (1.816pt too wide) in paragraph at lines 2149--2151
 [][] [] 
  []
 
-<./imgs/img62.png, id=1422, 999.735pt x 666.49pt>
+<./imgs/img62.png, id=1424, 999.735pt x 666.49pt>
 File: ./imgs/img62.png Graphic file (type png)
 <use ./imgs/img62.png>
 Package luatex.def Info: ./imgs/img62.png  used on input line 2155.
 (luatex.def)             Requested size: 213.0pt x 142.00099pt.
-<./imgs/img63.png, id=1423, 999.735pt x 666.49pt>
+<./imgs/img63.png, id=1425, 999.735pt x 666.49pt>
 File: ./imgs/img63.png Graphic file (type png)
 <use ./imgs/img63.png>
 Package luatex.def Info: ./imgs/img63.png  used on input line 2156.
@@ -5351,36 +5350,30 @@ Overfull \hbox (1.816pt too wide) in paragraph at lines 2155--2157
 [][] [] 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2173.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2173.
-[159<./imgs/img59.png><./imgs/img60.png><./imgs/img61.png>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2212.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 2212.
- [160<./imgs/img62.png><./imgs/img63.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 2242--2243
-
- []
-
-
+[160<./imgs/img59.png><./imgs/img60.png><./imgs/img61.png>]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2212.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 2212.
+[161<./imgs/img62.png><./imgs/img63.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2242--2243
+
+ []
+
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2245.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2245.
-[161]
-<./imgs/img64.png, id=1453, 999.735pt x 666.49pt>
+[162]
+<./imgs/img64.png, id=1455, 999.735pt x 666.49pt>
 File: ./imgs/img64.png Graphic file (type png)
 <use ./imgs/img64.png>
 Package luatex.def Info: ./imgs/img64.png  used on input line 2250.
@@ -5405,11 +5398,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 2285--2299
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2309.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2309.
-[162<./imgs/img64.png>]
+[163<./imgs/img64.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 2325--2326
 
  []
@@ -5417,7 +5415,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2325--2326
 )
 warning  (file ../watermarks/1simulado5ano.pdf) (pdf inclusion): PDF inclusion: 
 found PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/1simulado5ano.pdf, id=1468, 595.3472pt x 795.08401pt>
+<../watermarks/1simulado5ano.pdf, id=1470, 595.3472pt x 795.08401pt>
 File: ../watermarks/1simulado5ano.pdf Graphic file (type pdf)
 <use ../watermarks/1simulado5ano.pdf>
 Package luatex.def Info: ../watermarks/1simulado5ano.pdf  used on input line 44.
@@ -5432,20 +5430,20 @@ Overfull \hbox (98.21385pt too wide) in paragraph at lines 44--45
 LaTeX Warning: Float too large for page by 74.22382pt on input line 45.
 
 (./SIMULADO1.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [164]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
+ []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
-[163]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
- [164<../watermarks/1simulado5ano.pdf>]
+[165<../watermarks/1simulado5ano.pdf>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
@@ -5468,27 +5466,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--72
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 81.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 81.
-[165
+[166
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 140.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 140.
-[166]
+[167]
 Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
@@ -5513,16 +5511,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--219
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 220.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 220.
-[167]
+[168]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 239--254
 []$[]$  $[]$
  []
@@ -5532,7 +5525,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 239--254
 
  []
 
-<./imgs/art44.png, id=1554, 581.17125pt x 386.44376pt>
+<./imgs/art44.png, id=1556, 581.17125pt x 386.44376pt>
 File: ./imgs/art44.png Graphic file (type png)
 <use ./imgs/art44.png>
 Package luatex.def Info: ./imgs/art44.png  used on input line 258.
@@ -5552,12 +5545,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 282--301
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 302.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 302.
-[168]
-<./imgs/art45.png, id=1571, 585.18625pt x 390.45876pt>
+[169]
+<./imgs/art45.png, id=1573, 585.18625pt x 390.45876pt>
 File: ./imgs/art45.png Graphic file (type png)
 <use ./imgs/art45.png>
 Package luatex.def Info: ./imgs/art45.png  used on input line 305.
@@ -5572,7 +5570,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 310--328
 
  []
 
-<./imgs/img65.png, id=1572, 903.375pt x 677.53125pt>
+<./imgs/img65.png, id=1574, 903.375pt x 677.53125pt>
 File: ./imgs/img65.png Graphic file (type png)
 <use ./imgs/img65.png>
 Package luatex.def Info: ./imgs/img65.png  used on input line 353.
@@ -5587,16 +5585,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 342--354
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 358.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 358.
-[169<./imgs/art44.png>]
+[170<./imgs/art44.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 358--359
 
  []
@@ -5611,12 +5604,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 380--394
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 395.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 395.
-[170<./imgs/art45.png><./imgs/img65.png>]
-<./imgs/img66.png, id=1598, 883.3pt x 532.99126pt>
+[171<./imgs/art45.png><./imgs/img65.png>]
+<./imgs/img66.png, id=1601, 883.3pt x 532.99126pt>
 File: ./imgs/img66.png Graphic file (type png)
 <use ./imgs/img66.png>
 Package luatex.def Info: ./imgs/img66.png  used on input line 398.
@@ -5641,16 +5639,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 461--462
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 463.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 463.
-[171<./imgs/img66.png>])
+[172<./imgs/img66.png>])
 Underfull \hbox (badness 10000) in paragraph at lines 486--47
 
  []
@@ -5658,7 +5651,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 486--47
 
 warning  (file ../watermarks/2simulado5ano.pdf) (pdf inclusion): PDF inclusion: 
 found PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/2simulado5ano.pdf, id=1616, 595.3472pt x 795.08401pt>
+<../watermarks/2simulado5ano.pdf, id=1618, 595.3472pt x 795.08401pt>
 File: ../watermarks/2simulado5ano.pdf Graphic file (type pdf)
 <use ../watermarks/2simulado5ano.pdf>
 Package luatex.def Info: ../watermarks/2simulado5ano.pdf  used on input line 50.
@@ -5673,11 +5666,6 @@ Overfull \hbox (98.21385pt too wide) in paragraph at lines 50--51
 LaTeX Warning: Float too large for page by 74.22382pt on input line 51.
 
 (./SIMULADO2.tex
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
- [172]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
@@ -5686,7 +5674,12 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
-[173<../watermarks/2simulado5ano.pdf>]
+[173]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [174<../watermarks/2simulado5ano.pdf>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
@@ -5709,11 +5702,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--81
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 96.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 96.
-[174
+[175
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 109--110
@@ -5731,15 +5729,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--152
  []
 
 
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 174.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 174.
-[175]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 174--187
 []$[]$  $[]$
  []
@@ -5749,7 +5738,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 174--187
 
  []
 
-
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 188.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 188.
+[176]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 205--219
 []$[]$  $[]$
  []
@@ -5759,16 +5752,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--219
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 252.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 252.
-[176]
+[177]
 Underfull \hbox (badness 10000) in paragraph at lines 257--258
 
  []
 
-<./imgs/art33.png, id=1701, 476.53032pt x 353.82187pt>
+<./imgs/art33.png, id=1702, 476.53032pt x 353.82187pt>
 File: ./imgs/art33.png Graphic file (type png)
 <use ./imgs/art33.png>
 Package luatex.def Info: ./imgs/art33.png  used on input line 265.
@@ -5778,32 +5776,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 287--288
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 289.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 289.
-[177<./imgs/art33.png>]
-<./imgs/art34a.png, id=1714, 358.33875pt x 357.58594pt>
+[178<./imgs/art33.png>]
+<./imgs/art34a.png, id=1715, 358.33875pt x 357.58594pt>
 File: ./imgs/art34a.png Graphic file (type png)
 <use ./imgs/art34a.png>
 Package luatex.def Info: ./imgs/art34a.png  used on input line 297.
 (luatex.def)             Requested size: 213.0pt x 212.5562pt.
-<./imgs/art34b.png, id=1715, 476.53032pt x 319.1925pt>
+<./imgs/art34b.png, id=1716, 476.53032pt x 319.1925pt>
 File: ./imgs/art34b.png Graphic file (type png)
 <use ./imgs/art34b.png>
 Package luatex.def Info: ./imgs/art34b.png  used on input line 302.
 (luatex.def)             Requested size: 213.0pt x 142.6758pt.
-<./imgs/art34c.jpg, id=1716, 88.8921pt x 144.2991pt>
+<./imgs/art34c.jpg, id=1717, 88.8921pt x 144.2991pt>
 File: ./imgs/art34c.jpg Graphic file (type jpg)
 <use ./imgs/art34c.jpg>
 Package luatex.def Info: ./imgs/art34c.jpg  used on input line 308.
 (luatex.def)             Requested size: 213.0pt x 345.76782pt.
-<./imgs/art34d.jpg, id=1717, 451.6875pt x 602.25pt>
+<./imgs/art34d.jpg, id=1718, 451.6875pt x 602.25pt>
 File: ./imgs/art34d.jpg Graphic file (type jpg)
 <use ./imgs/art34d.jpg>
 Package luatex.def Info: ./imgs/art34d.jpg  used on input line 313.
@@ -5813,27 +5806,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 324.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 324.
-[178<./imgs/art34a.png><./imgs/art34b.png>]
-<./imgs/art35a.jpg, id=1724, 1027.84pt x 692.5875pt>
+[179<./imgs/art34a.png><./imgs/art34b.png>]
+<./imgs/art35a.jpg, id=1726, 1027.84pt x 692.5875pt>
 File: ./imgs/art35a.jpg Graphic file (type jpg)
 <use ./imgs/art35a.jpg>
 Package luatex.def Info: ./imgs/art35a.jpg  used on input line 328.
 (luatex.def)             Requested size: 213.0pt x 143.52428pt.
-<./imgs/art35b.jpg, id=1725, 685.56125pt x 1027.84pt>
+<./imgs/art35b.jpg, id=1727, 685.56125pt x 1027.84pt>
 File: ./imgs/art35b.jpg Graphic file (type jpg)
 <use ./imgs/art35b.jpg>
 Package luatex.def Info: ./imgs/art35b.jpg  used on input line 332.
 (luatex.def)             Requested size: 213.0pt x 319.34856pt.
-<./imgs/art35c.jpg, id=1726, 803.0pt x 534.99875pt>
+<./imgs/art35c.jpg, id=1728, 803.0pt x 534.99875pt>
 File: ./imgs/art35c.jpg Graphic file (type jpg)
 <use ./imgs/art35c.jpg>
 Package luatex.def Info: ./imgs/art35c.jpg  used on input line 337.
 (luatex.def)             Requested size: 213.0pt x 141.91277pt.
-<./imgs/art35d.jpg, id=1727, 338.26375pt x 601.24625pt>
+<./imgs/art35d.jpg, id=1729, 338.26375pt x 601.24625pt>
 File: ./imgs/art35d.jpg Graphic file (type jpg)
 <use ./imgs/art35d.jpg>
 Package luatex.def Info: ./imgs/art35d.jpg  used on input line 341.
@@ -5843,21 +5841,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 345--346
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 372.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 372.
-[179<./imgs/art34c.jpg>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 372.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 372.
- [180<./imgs/art34d.jpg><./imgs/art35a.jpg>]
+[180<./imgs/art34c.jpg>]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
@@ -5866,17 +5854,27 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 372.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 372.
-[181<./imgs/art35b.jpg><./imgs/art35c.jpg>]
+[181<./imgs/art34d.jpg><./imgs/art35a.jpg>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 372.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 372.
+ [182<./imgs/art35b.jpg><./imgs/art35c.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 391--392
 
+ []
+
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 393.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 393.
-[182<./imgs/art35d.jpg>]
-<../ilustracoes/CHU5/SAEB_5ANO_CHU_FIGURA1.png, id=1755, 761.84625pt x 750.805pt
+[183<./imgs/art35d.jpg>]
+<../ilustracoes/CHU5/SAEB_5ANO_CHU_FIGURA1.png, id=1757, 761.84625pt x 750.805pt
 >
 File: ../ilustracoes/CHU5/SAEB_5ANO_CHU_FIGURA1.png Graphic file (type png)
 <use ../ilustracoes/CHU5/SAEB_5ANO_CHU_FIGURA1.png>
@@ -5893,25 +5891,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 446--447
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 453.
+(babel)             in language  on input line 459.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 453.
-[183]
+(babel)             in language  on input line 459.
+[184]
 Underfull \hbox (badness 10000) in paragraph at lines 470--471
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 472.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 472.
-[184<../ilustracoes/CHU5/SAEB_5ANO_CHU_FIGURA1.png>])
+[185<../ilustracoes/CHU5/SAEB_5ANO_CHU_FIGURA1.png>])
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 486--53
 []$[]$  $[]$
  []
@@ -5924,7 +5922,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 486--53
 
 warning  (file ../watermarks/3simulado5ano.pdf) (pdf inclusion): PDF inclusion: 
 found PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/3simulado5ano.pdf, id=1777, 595.3472pt x 795.08401pt>
+<../watermarks/3simulado5ano.pdf, id=1779, 595.3472pt x 795.08401pt>
 File: ../watermarks/3simulado5ano.pdf Graphic file (type pdf)
 <use ../watermarks/3simulado5ano.pdf>
 Package luatex.def Info: ../watermarks/3simulado5ano.pdf  used on input line 56.
@@ -5939,20 +5937,20 @@ Overfull \hbox (98.21385pt too wide) in paragraph at lines 56--57
 LaTeX Warning: Float too large for page by 74.22382pt on input line 57.
 
 (./SIMULADO3.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [186]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
+ []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
-[185]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
- [186<../watermarks/3simulado5ano.pdf>]
+[187<../watermarks/3simulado5ano.pdf>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
@@ -5970,16 +5968,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--69
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 79.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 79.
-[187
+[188
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 108--109
@@ -5996,11 +5989,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--143
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 147.
+(babel)             in language  on input line 144.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 147.
-[188]
+(babel)             in language  on input line 144.
+[189]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 164--181
 []$[]$  $[]$
  []
@@ -6010,7 +6008,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--181
 
  []
 
-<./imgs/img25.jpg, id=1854, 501.875pt x 504.88625pt>
+<./imgs/img25.jpg, id=1852, 501.875pt x 504.88625pt>
 File: ./imgs/img25.jpg Graphic file (type jpg)
 <use ./imgs/img25.jpg>
 Package luatex.def Info: ./imgs/img25.jpg  used on input line 185.
@@ -6022,35 +6020,16 @@ no-ti-cias/sesap-orienta-populacao-para-
  []
 
 
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 192.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 192.
-[189<./imgs/img25.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 202--203
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
-
- []
-
-<./imgs/art36.png, id=1864, 463.7325pt x 358.33875pt>
-File: ./imgs/art36.png Graphic file (type png)
-<use ./imgs/art36.png>
-Package luatex.def Info: ./imgs/art36.png  used on input line 255.
-(luatex.def)             Requested size: 426.0pt x 329.18901pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 270.
+(babel)             in language  on input line 210.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 270.
+(babel)             in language  on input line 210.
 [190]
-Underfull \hbox (badness 10000) in paragraph at lines 295--296
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
 
  []
 
@@ -6060,10 +6039,25 @@ Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 297.
+(babel)             in language  on input line 252.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 297.
-[191<./imgs/art36.png>]
+(babel)             in language  on input line 252.
+[191<./imgs/img25.jpg>]
+<./imgs/art36.png, id=1879, 463.7325pt x 358.33875pt>
+File: ./imgs/art36.png Graphic file (type png)
+<use ./imgs/art36.png>
+Package luatex.def Info: ./imgs/art36.png  used on input line 255.
+(luatex.def)             Requested size: 426.0pt x 329.18901pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 284.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 284.
+ [192<./imgs/art36.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+
+ []
+
+
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 300--320
 []$[]$  $[]$
  []
@@ -6093,12 +6087,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 374--389
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 390.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 390.
-[192]
-<./imgs/img68.png, id=1899, 829.0975pt x 663.47874pt>
+[193]
+<./imgs/img68.png, id=1901, 829.0975pt x 663.47874pt>
 File: ./imgs/img68.png Graphic file (type png)
 <use ./imgs/img68.png>
 Package luatex.def Info: ./imgs/img68.png  used on input line 393.
@@ -6123,25 +6122,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 434--447
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 449.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 449.
-[193<./imgs/img68.png>]
+[194<./imgs/img68.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 482--483
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 513.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 513.
-[194]
+[195]
 Underfull \hbox (badness 10000) in paragraph at lines 518--519
 
  []
@@ -6149,7 +6148,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 518--519
 )
 warning  (file ../watermarks/4simulado5ano.pdf) (pdf inclusion): PDF inclusion: 
 found PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/4simulado5ano.pdf, id=1926, 595.3472pt x 795.08401pt>
+<../watermarks/4simulado5ano.pdf, id=1928, 595.3472pt x 795.08401pt>
 File: ../watermarks/4simulado5ano.pdf Graphic file (type pdf)
 <use ../watermarks/4simulado5ano.pdf>
 Package luatex.def Info: ../watermarks/4simulado5ano.pdf  used on input line 62.
@@ -6164,20 +6163,20 @@ Overfull \hbox (98.21385pt too wide) in paragraph at lines 62--63
 LaTeX Warning: Float too large for page by 74.22382pt on input line 63.
 
 (./SIMULADO4.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+ [196]
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
+ []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
-[195]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
- [196<../watermarks/4simulado5ano.pdf>]
+[197<../watermarks/4simulado5ano.pdf>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
@@ -6185,16 +6184,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 81.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 81.
-[197
+[198
 
 ]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 86--102
@@ -6211,11 +6205,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 157.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 157.
-[198]
+
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 161--175
 []$[]$  $[]$
  []
@@ -6226,6 +6216,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--175
  []
 
 
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 176.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 176.
+[199]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 190--204
 []$[]$  $[]$
  []
@@ -6235,16 +6234,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 190--204
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 243.
+(babel)             in language  on input line 246.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 243.
-[199]
+(babel)             in language  on input line 246.
+[200]
 Underfull \hbox (badness 10000) in paragraph at lines 249--250
 
  []
@@ -6254,7 +6248,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 290--291
 
  []
 
-<./imgs/art39.png, id=2006, 687.31781pt x 396.7322pt>
+<./imgs/art39.png, id=2009, 687.31781pt x 396.7322pt>
 File: ./imgs/art39.png Graphic file (type png)
 <use ./imgs/art39.png>
 Package luatex.def Info: ./imgs/art39.png  used on input line 295.
@@ -6269,11 +6263,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 302--320
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 323.
+(babel)             in language  on input line 327.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 323.
-[200]
+(babel)             in language  on input line 327.
+[201]
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 329--343
 []$[]$  $[]$
  []
@@ -6288,17 +6287,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 364--365
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 379.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 379.
-[201<./imgs/art39.png>]
-<./imgs/img69.png, id=2036, 742.775pt x 742.775pt>
+[202<./imgs/art39.png>]
+<./imgs/img69.png, id=2038, 742.775pt x 742.775pt>
 File: ./imgs/img69.png Graphic file (type png)
 <use ./imgs/img69.png>
 Package luatex.def Info: ./imgs/img69.png  used on input line 382.
@@ -6313,11 +6307,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 388--403
 
  []
 
+
+Overfull \hbox (60.61655pt too wide) has occurred while \output is active
+ []|| \TU/MinionPro(0)/m/n/12 |
+ []
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 430.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 430.
-[202<./imgs/img69.png>]
+[203<./imgs/img69.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 441--442
 
  []
@@ -6337,16 +6336,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 480--494
 
  []
 
-
-Overfull \hbox (60.61655pt too wide) has occurred while \output is active
- []|| \TU/MinionPro(0)/m/n/12 |
- []
-
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 496.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 496.
-[203])
+[204])
 Overfull \hbox (18.17596pt too wide) in paragraph at lines 518--65
 []$[]$  $[]$
  []
@@ -6357,87 +6351,86 @@ Underfull \hbox (badness 10000) in paragraph at lines 518--65
  []
 
 (./GABARITO.tex
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
- [204]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-\GPT@outputbox=\box111
-
 Overfull \hbox (60.61655pt too wide) has occurred while \output is active
  []|| \TU/MinionPro(0)/m/n/12 |
  []
 
 Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+[205]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+\GPT@outputbox=\box111
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 94.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 94.
-[205
+ [206
 
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 174.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 174.
- [206]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 239.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 239.
  [207]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 325.
+(babel)             in language  on input line 239.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 325.
+(babel)             in language  on input line 239.
  [208]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 409.
+(babel)             in language  on input line 325.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 409.
+(babel)             in language  on input line 325.
  [209]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 495.
+(babel)             in language  on input line 409.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 495.
+(babel)             in language  on input line 409.
  [210]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 581.
+(babel)             in language  on input line 495.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 581.
+(babel)             in language  on input line 495.
  [211]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 661.
+(babel)             in language  on input line 581.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 661.
+(babel)             in language  on input line 581.
  [212]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 738.
+(babel)             in language  on input line 661.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 738.
+(babel)             in language  on input line 661.
  [213]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 816.
+(babel)             in language  on input line 738.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 816.
+(babel)             in language  on input line 738.
  [214]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 914.
+(babel)             in language  on input line 816.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 914.
+(babel)             in language  on input line 816.
  [215]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 992.
+(babel)             in language  on input line 914.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 914.
+ [216]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 992.
- [216]))
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 146.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 146.
+(babel)             in language  on input line 992.
 
-[217]
+[217]))
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 146.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 146.
+ [218]
 
 Class memoir Warning: \marginparsep is zero or negative on input line 149.
 
@@ -6476,7 +6469,7 @@ Package atveryend Info: Executing hook `AfterLastShipout' on input line 149.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 149.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
 Package rerunfilecheck Info: File `LIVRO.out' has not changed.
-(rerunfilecheck)             Checksum: 1E2CCD673EC288735DA945F6494F5335;1445.
+(rerunfilecheck)             Checksum: 3D79C395832382D5C1717121FD4E6E88;1445.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -6484,14 +6477,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 44477 strings out of 494480
+ 44479 strings out of 494480
  125010,1373583 words of node,token memory allocated
- 1517 words of node memory still in use:
-   5 hlist, 1 vlist, 1 rule, 7 glue, 10 attribute, 255 glue_spec, 10 attribute_l
+ 1528 words of node memory still in use:
+   5 hlist, 1 vlist, 1 rule, 8 glue, 11 attribute, 255 glue_spec, 11 attribute_l
 ist, 3 shape, 3 write nodes
-   avail lists: 1:5,2:2256,3:554,4:908,5:3304,6:6833,7:1794,8:696,9:2106,10:260,
-11:910,12:1
- 45027 multiletter control sequences out of 65536+600000
+   avail lists: 1:6,2:2145,3:554,4:858,5:3303,6:6833,7:1793,8:655,9:1986,10:260,
+11:910
+ 45030 multiletter control sequences out of 65536+600000
  89 fonts using 16375103 bytes
  65i,16n,96p,1330b,1228s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/edlab/texmf/tex/fonts/Cambria Bold.ttf></home/edlab/texmf/tex/fonts/Cambr
@@ -6501,10 +6494,10 @@ texmf/tex/fonts/MinionPro-Regular.otf></home/edlab/texmf/tex/fonts/Minion Pro Bo
 ld.ttf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb
 >
-Output written on LIVRO.pdf (217 pages, 62668884 bytes).
+Output written on LIVRO.pdf (218 pages, 62670490 bytes).
 
-PDF statistics: 2363 PDF objects out of 2487 (max. 8388607)
- 1903 compressed objects within 20 object streams
- 1183 named destinations out of 1200 (max. 131072)
+PDF statistics: 2365 PDF objects out of 2487 (max. 8388607)
+ 1904 compressed objects within 20 object streams
+ 1182 named destinations out of 1200 (max. 131072)
  208 words of extra memory for PDF output out of 10000 (max. 100000000)
 
