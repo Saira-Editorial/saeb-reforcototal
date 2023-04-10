@@ -125,7 +125,15 @@
 }
 
 % Linha para preencher a palavra correta
-\newcommand{\preencher}{\textcolor{salmao}{\line(1,0){70}}\mbox{ }} 
+%\newcommand{\preencher}{\textcolor{salmao}{\line(1,0){70}}\mbox{ }} 
+\newcommand\preencher{
+\noindent\bgroup
+  \color{rosa}
+    \footnotesize
+    \cambria
+  \markoverwith{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}\lower0.1cm\hbox{\mbox{}}}
+  \ULon
+}
 
 
 % Numeração dos exercícios
