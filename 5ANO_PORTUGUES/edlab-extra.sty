@@ -121,11 +121,19 @@
 
 %%%%
 \newcommand{\boxitem}[1]{
-\item[\salmao{{[}\rosa{#1}{]}}]
+\item[\salmao{{[}{\rosa{#1}}{]}}]
 }
 
 % Linha para preencher a palavra correta
-\newcommand{\preencher}{\textcolor{salmao}{\line(1,0){70}}\mbox{ }} 
+%\newcommand{\preencher}{\textcolor{salmao}{\line(1,0){70}}\mbox{ }} 
+\newcommand\preencher{
+\noindent\bgroup
+  \color{rosa}
+    \footnotesize
+    \cambria
+  \markoverwith{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}\lower0.1cm\hbox{\mbox{}}}
+  \ULon
+}
 
 
 % Numeração dos exercícios
@@ -152,7 +160,7 @@
 \newcommand{\conteudo}[1]{
 \begin{flushright}
 \adjustbox{varwidth=.85\linewidth}{
-\begin{mdframed}[linewidth=2pt,linecolor=salmao]
+\begin{mdframed}[linewidth=10pt,linecolor=salmao!20,backgroundcolor=salmao!20,roundcorner=20pt]
 #1
 \end{mdframed}
 }
@@ -160,8 +168,7 @@
 }
 
 % Para diferenciar a citação da fonte do conteúdo dos textos em quote
-\newcommand{\fonte}[1]{\begin{flushright}{\color{darkgray}\tiny #1}\end{flushright}}
+\newcommand{\fonte}[1]{\vspace*{-.3cm}\begin{flushright}{\color{darkgray}\tiny #1}\end{flushright}}
 
-
-% Para criar o crédito das imagens vertical
-
+% Legenda acima da imagem
+\newcommand{\acima}[1]{\captionsetup{position=top}\captionof{figure}{#1}}

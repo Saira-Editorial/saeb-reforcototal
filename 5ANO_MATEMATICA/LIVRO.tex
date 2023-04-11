@@ -45,15 +45,17 @@
 			]{edlab-footnotes}
 
 
-% \usepackage[printwatermark]{xwatermark}
+\usepackage[printwatermark]{xwatermark}
 \usepackage{pdfpages}
 \usepackage{wrapfig}
 \usepackage{tikzpagenodes}
 \usepackage{textpos}
-\usepackage{mdframed}
+\usepackage[framemethod=TikZ]{mdframed}
 \usepackage{adjustbox}
 \usepackage{ragged2e}
+\usepackage[labelformat=empty]{caption}
 \usepackage{longtable}
+\usepackage{multirow}
 
 % Ulem
 \usepackage{ulem}
@@ -62,13 +64,22 @@
 
 
 \newcommand\reduline{
-	\noindent\bgroup
+	\medskip\noindent\bgroup
 	\color{rosa}
   	\footnotesize
   	\cambria
 	\markoverwith{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}\lower0.4cm\hbox{\mbox{}}}
 	\ULon
 }
+
+%\newcommand\preencher{
+%\noindent\bgroup
+	%\color{rosa}
+  	%\footnotesize
+  	%\cambria
+	%\markoverwith{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}\lower0.4cm\hbox{\mbox{}}}
+	%\ULon
+%}
 
 
 % Medidas (ver: memoir p.11 fig.2.3)
@@ -115,40 +126,37 @@
 
 
 % Estilos
-\makeoddhead{baruch}{}{}{\hspace*{16.5cm}\vspace*{1.3cm}\small\begin{tikzpicture}[overlay]
-\draw[fill=azul,draw=none] (-40mm,-4.5mm) rectangle (11mm,3mm);
-\node[white] at (0,0) {\hspace*{-4cm}\gotham\leftmark};
-\end{tikzpicture}}
-
-\makeevenhead{baruch}{\vspace*{1.3cm}\hspace*{-1.5cm}\small\begin{tikzpicture}[overlay]
-\draw[fill=azul,draw=none] (-11mm,-4.5mm) rectangle (40mm,3mm);
-\node[white] at (0,0) {\hspace*{2cm}\gotham \parttitle};
-\end{tikzpicture}}{}{}
+\makeoddhead{baruch}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
+\makeevenhead{baruch}{\vspace*{1.3cm}\hspace*{-1.5cm}\small\gotham\parttitle}{}{}
 
 
-\makeevenfoot{baruch}{\hspace*{-1.5cm}\begin{tikzpicture}[overlay]
-\draw[fill=salmao,draw=none] (-11mm,-4.5mm) rectangle (4mm,4.5mm);
-\node[black] at (0,0) {\thepage};
-\end{tikzpicture}}{}{}
-
-\makeoddfoot{baruch}{}{}{\hspace*{16.5cm}\begin{tikzpicture}[overlay]
-\draw[fill=salmao,draw=none] (-4mm,-4.5mm) rectangle (11mm,4.5mm);
-\node[black] at (0,0) {\thepage};
-\end{tikzpicture}}
+\makeevenfoot{baruch}{\hspace*{-2cm}\thepage}{}{}
+\makeoddfoot{baruch}{}{}{\hspace*{16.5cm}\thepage}
 
 \pagestyle{baruch}
 \headstyles{baruch}
 
 \makepagestyle{chapter}
-\makeevenfoot{chapter}{\hspace*{-1.5cm}\small\begin{tikzpicture}[overlay]
-\draw[fill=salmao,draw=none] (-11mm,-4.5mm) rectangle (4mm,4.5mm);
-\node[black] at (0,0) {\thepage};
-\end{tikzpicture}}{}{}
+\makeevenfoot{chapter}{\hspace*{-2cm}\thepage}{}{}
+\makeoddfoot{chapter}{}{}{\hspace*{16.5cm}\thepage}
 
-\makeoddfoot{chapter}{}{}{\hspace*{16.5cm}\small\begin{tikzpicture}[overlay]
-\draw[fill=salmao,draw=none] (-4mm,-4.5mm) rectangle (11mm,4.5mm);
-\node[black] at (0,0) {\thepage};
-\end{tikzpicture}}
+\copypagestyle{cna}{baruch}
+\makeoddhead{cna}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
+\makeevenhead{cna}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Ciências da Natureza}{}{}
+\makeevenfoot{cna}{\hspace*{-2cm}\thepage}{}{}
+\makeoddfoot{cna}{}{}{\hspace*{16.5cm}\thepage}
+
+\copypagestyle{edf}{baruch}
+\makeoddhead{edf}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
+\makeevenhead{edf}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Educação Física}{}{}
+\makeevenfoot{edf}{\hspace*{-2cm}\thepage}{}{}
+\makeoddfoot{edf}{}{}{\hspace*{16.5cm}\thepage}
+
+\copypagestyle{mat}{baruch}
+\makeoddhead{mat}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
+\makeevenhead{mat}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Matemática}{}{}
+\makeevenfoot{mat}{\hspace*{-2cm}\thepage}{}{}
+\makeoddfoot{mat}{}{}{\hspace*{16.5cm}\thepage}
 
 
 % Testes

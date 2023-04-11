@@ -1,0 +1,111 @@
+\thispagestyle {empty}
+\contentsline {chapter}{LÍNGUA PORTUGUESA}{6}{Doc-Start}
+\contentsline {chapter}{A interpretação de textos}{6}{chapter*.1}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{6}{section*.2}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{8}{section*.3}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{10}{section*.5}
+\contentsline {chapter}{Narração e drama}{13}{chapter*.6}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{13}{section*.7}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{15}{section*.10}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{17}{section*.11}
+\contentsline {chapter}{O gênero notícia}{19}{chapter*.12}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{19}{section*.13}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{21}{section*.15}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{23}{section*.16}
+\contentsline {chapter}{Argumentação e persuasão}{25}{chapter*.18}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{25}{section*.19}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{27}{section*.22}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{29}{section*.25}
+\contentsline {chapter}{Introdução à poesia}{31}{chapter*.27}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{31}{section*.28}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{33}{section*.30}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{35}{section*.31}
+\contentsline {chapter}{Modos variados de se escrever e falar}{38}{chapter*.32}
+\contentsline {section}{\leavevmode {\color {azul}Habilidade do SAEB}}{38}{section*.33}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{39}{section*.35}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{42}{section*.38}
+\contentsline {chapter}{Palavras que acrescentam sentidos}{44}{chapter*.39}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{44}{section*.40}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{45}{section*.42}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{47}{section*.43}
+\contentsline {chapter}{Fatos e opiniões}{50}{chapter*.44}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{50}{section*.45}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{51}{section*.47}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{53}{section*.48}
+\contentsline {chapter}{Organizando dados}{56}{chapter*.49}
+\contentsline {section}{\leavevmode {\color {azul}Habilidade do SAEB}}{56}{section*.50}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{58}{section*.52}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{61}{section*.55}
+\contentsline {chapter}{Passo a passo}{63}{chapter*.57}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{63}{section*.58}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{64}{section*.60}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{66}{section*.61}
+\contentsline {chapter}{ARTES}{70}{Item.135}
+\contentsline {chapter}{Artes visuais, dança, música e teatro}{70}{chapter*.62}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{70}{section*.63}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{71}{section*.64}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{79}{section*.71}
+\contentsline {chapter}{O corpo na arte, a arte no corpo, a arte do corpo}{81}{chapter*.73}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{81}{section*.74}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{82}{section*.76}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{89}{section*.83}
+\contentsline {chapter}{Patrimônio cultural}{91}{chapter*.84}
+\contentsline {section}{\leavevmode {\color {azul}Habilidade do SAEB}}{91}{section*.85}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{93}{section*.86}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{99}{section*.88}
+\contentsline {chapter}{CIẼNCIAS HUMANAS}{103}{Item.178}
+\contentsline {chapter}{Representações de tempo e espaço}{104}{chapter*.89}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{104}{section*.90}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{105}{section*.92}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{110}{section*.96}
+\contentsline {chapter}{Natureza e meio ambiente}{112}{chapter*.97}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{112}{section*.98}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{113}{section*.100}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{114}{section*.101}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{117}{section*.104}
+\contentsline {chapter}{Tudo é diverso}{119}{chapter*.106}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{119}{section*.107}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{120}{section*.109}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{125}{section*.112}
+\contentsline {chapter}{Organizações e instituições}{128}{chapter*.113}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{128}{section*.114}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{129}{section*.116}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{135}{section*.119}
+\contentsline {chapter}{Cidadania e sociedade}{137}{chapter*.120}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{137}{section*.121}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{138}{section*.123}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{144}{section*.124}
+\contentsline {chapter}{Produção e trabalho}{146}{chapter*.126}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{146}{section*.127}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{147}{section*.128}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{149}{section*.131}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{153}{section*.135}
+\contentsline {chapter}{Simulado 1}{156}{figure.caption.137}
+\contentsline {chapter}{Simulado 2}{165}{figure.caption.140}
+\contentsline {chapter}{Simulado 3}{175}{figure.caption.145}
+\contentsline {chapter}{Simulado 4}{185}{figure.caption.148}
+\contentsline {chapter}{Respostas}{193}{chapter*.151}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa – Módulo 1 – Treino}}{193}{section*.152}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa – Módulo 2 – Treino}}{193}{section*.153}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa – Módulo 3 – Treino}}{193}{section*.154}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa – Módulo 4 – Treino}}{194}{section*.155}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa – Módulo 5 – Treino}}{194}{section*.156}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa – Módulo 6 – Treino}}{194}{section*.157}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa – Módulo 7 – Treino}}{195}{section*.158}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa – Módulo 8 – Treino}}{195}{section*.159}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa – Módulo 9 – Treino}}{195}{section*.160}
+\contentsline {section}{\leavevmode {\color {azul}Língua Portuguesa – Módulo 10 – Treino}}{196}{section*.161}
+\contentsline {section}{\leavevmode {\color {azul}Arte – Módulo 1 – Treino}}{196}{section*.162}
+\contentsline {section}{\leavevmode {\color {azul}Arte – Módulo 2 – Treino}}{197}{section*.163}
+\contentsline {section}{\leavevmode {\color {azul}Arte – Módulo 3 – Treino}}{197}{section*.164}
+\contentsline {section}{\leavevmode {\color {azul}Ciências Humanas – Módulo 1 – Treino}}{197}{section*.165}
+\contentsline {section}{\leavevmode {\color {azul}Ciências Humanas – Módulo 2 – Treino}}{198}{section*.166}
+\contentsline {section}{\leavevmode {\color {azul}Ciências Humanas – Módulo 3 – Treino}}{198}{section*.167}
+\contentsline {section}{\leavevmode {\color {azul}Ciências Humanas – Módulo 4 – Treino}}{199}{section*.168}
+\contentsline {section}{\leavevmode {\color {azul}Ciências Humanas – Módulo 5 – Treino}}{199}{section*.169}
+\contentsline {section}{\leavevmode {\color {azul}Ciências Humanas – Módulo 6 – Treino}}{199}{section*.170}
+\contentsline {section}{\leavevmode {\color {azul}Simulado 1}}{200}{section*.171}
+\contentsline {section}{\leavevmode {\color {azul}Simulado 2}}{201}{section*.172}
+\contentsline {section}{\leavevmode {\color {azul}Simulado 3}}{202}{section*.173}
+\contentsline {section}{\leavevmode {\color {azul}Simulado 4}}{204}{section*.174}
+\babel@toc {brazilian}{}
