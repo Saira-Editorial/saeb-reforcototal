@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  11 APR 2023 15:52
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  17 APR 2023 15:02
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -8121,7 +8121,7 @@ texmf/tex/fonts/MinionPro-Regular.otf></home/edlab/texmf/tex/fonts/Minion Pro Bo
 ld.ttf></usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (206 pages, 75651271 bytes).
+Output written on LIVRO.pdf (206 pages, 75651239 bytes).
 
 PDF statistics: 3016 PDF objects out of 3580 (max. 8388607)
  2257 compressed objects within 23 object streams
