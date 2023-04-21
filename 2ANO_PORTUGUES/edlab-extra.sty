@@ -179,3 +179,32 @@
 
 % Legenda acima da imagem
 \newcommand{\acima}[1]{\captionsetup{position=top}\captionof{figure}{#1}}
+
+
+% bibliohedra 
+\RequirePackage{ifthen}
+\newcommand{\tit}[1]{\item[\MakeTextLowercase{\textsc{#1}}]}
+\newcommand{\titidem}{\item[\line(1,0){25}]}
+
+\newenvironment{bibliohedra}[1][bibliografia]{%
+    \frenchspacing\footnotesize
+  \ifthenelse{\equal{#1}{}}%
+        {\relax}{\section*{\MakeTextLowercase{#1}}\vspace{2ex}}
+    \begin{list}{}{
+        \setlength\leftmargin{4mm}  % identação do texto principal em
+                % relação à margem da 'página'
+        \setlength\rightmargin{0mm}
+        \setlength\labelwidth{4mm}  % tamanho "esperado" da caixa de rótulo
+                % define também o recuo usado
+    %
+    %   \setlength\listparindent{3mm} % tamanho da identação dos parágrafos
+                % dentro do ítem
+    %
+        \setlength\labelsep{0mm}  % espaço entre rótulo e descrição
+        \setlength\parsep{0mm}    % espaço entre parágrafos de um item
+        \setlength\itemsep{1mm}   % espaço entre items
+        \setlength\lineskip{0mm}  % espaçamento entre linhas
+    }
+
+  }%
+  {\end{list}}
