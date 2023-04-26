@@ -33,14 +33,14 @@ automação e a digitalização no local de trabalho aumentam.*
 
 ~Disponível\ em:\ https://g1.globo.com/economia/concursos-e-emprego/noticia/2020/10/21/automacao-deve-fechar-85-milhoes-de-empregos-diz-relatorio-do-forum-economico-mundial.ghtml.\ Acesso\ 11\ mar.\ 2023.~
 
-1\. A partir da leitura do trecho acima, conceitue o tipo de desemprego
+1. A partir da leitura do trecho acima, conceitue o tipo de desemprego
 especificado.
 
 O tipo de desemprego especificado no trecho é o estrutural, dada a
 mudança da estrutura produtiva -- automação, que irá substituir o
 trabalho manual.
 
-2\. Analise a imagem a seguir.
+1. Analise a imagem a seguir.
 
 Inserir imagem de trabalhadores quebrando as máquinas industriais.
 Fonte: https://www.infoescola.com/historia/ludismo/
@@ -63,7 +63,7 @@ Com isso, conseguiram denunciar as péssimas condições de vida que
 tinham, e lutar por melhoras nas condições de vida e trabalho de forma
 organizada e coletiva, o que mais tarde geraria os sindicatos.
 
-3\. Leia o trecho a seguir.
+1. Leia o trecho a seguir.
 
 *A mecanização do campo vem corroendo cada vez mais os empregos no setor
 agrícola. O contingente de trabalhadores no segmento vem sendo reduzido
@@ -88,7 +88,7 @@ DESEMPREGO CONJUNTURAL -- ÊXODO URBANO -- MIGRAÇÃO PENDULAR [ÊXODO
 RURAL]{.underline} -- [DESEMPREGO ESTRUTURAL]{.underline} --
 TRANSUMÂNCIA
 
-4\. Analise o gráfico a seguir.
+1. Analise o gráfico a seguir.
 
 Inserir gráfico ilustrando a evolução da população urbana/rural no
 Brasil ao longo do tempo. Fonte:
@@ -111,7 +111,7 @@ trabalho nas cidades e oferecia diferentes condições de vida, além da
 mecanização do campo, reduzindo as possibilidades de trabalho no
 ambiente rural.
 
-5\. Leia o trecho a seguir:
+1. Leia o trecho a seguir:
 
 \[\...\] *Aqui a população que reside nas cidades passou de 45% em 1960
 para 75% em 1990 e mais de 80% em 2000. Essa transferência intensa para
@@ -141,7 +141,7 @@ a insuficiência da política habitacional brasileira, além da
 insuficiência dos serviços associados ao saneamento básico -- água
 tratada, coleta e tratamento de esgoto, etc.
 
-6\. Analise a imagem a seguir.
+1. Analise a imagem a seguir.
 
 Inserir imagem mostrando a linha cronológica do agronegócio brasileiro.
 Fonte: https://www.embrapa.br/visao-de-futuro/trajetoria-do-agro
@@ -165,7 +165,7 @@ detrimento de culturas agrícolas consumidas no mercado interno.
 Importante ressaltar que a produção de commodities visava o
 direcionamento ao mercado externo.
 
-7\. Leia o trecho a seguir.
+1. Leia o trecho a seguir.
 
 *As atividades agrícolas chamadas modernas são cada vez mais avançadas
 tecnologicamente, empregando baixa quantidade de mão-de-obra e
@@ -194,7 +194,7 @@ favorecido à concentração fundiária, dada a orientação da produção ao
 mercado externo, e a melhor implementação dos insumos agrícolas citados
 em grandes extensões de terras.
 
-8\. Leia o trecho a seguir.
+1. Leia o trecho a seguir.
 
 *No livro A História da Alimentação, Flandrin e Montanari consideram que
 a Revolução Industrial atingiu a história da gastronomia em vários
@@ -212,7 +212,7 @@ farinha e açúcar, que tiveram ampla produção com a industrialização.
 Além disso, houve a redução do consumo de produtos *in natura*, como
 vegetais e legumes.
 
-9\. Leia o trecho a seguir:
+1. Leia o trecho a seguir:
 
 *Entre 1960 e 2017, houve um crescimento do número de tratores por mil
 hectares de 0,06 para 17,1 (trator por hectare). A potência média por
@@ -253,7 +253,7 @@ espaço urbano.
 
 **Treino**
 
-1\. Leia o trecho a seguir:
+1. Leia o trecho a seguir:
 
 *As previsões sobre o potencial da inteligência artificial e de
 tecnologias associadas sobre os empregos variam bastante conforme os
@@ -283,21 +283,21 @@ BNCC: (EF09GE11) Relacionar as mudanças técnicas e científicas
 decorrentes do processo de industrialização com as transformações no
 trabalho em diferentes regiões do mundo e suas consequências no Brasil.
 
-a\) INCORRETA. O trecho não destaca a possibilidade de renovação da
+1. INCORRETA. O trecho não destaca a possibilidade de renovação da
 mão-de-obra por conta da introdução de tecnologias no ambiente de
 trabalho.
 
-b\) CORRETA: A introdução da inteligência artificial no mundo do
+1. CORRETA: A introdução da inteligência artificial no mundo do
 trabalho apresenta potencial de ampliar o desemprego estrutural, ou
 seja, o fechamento de postos de trabalho por conta do uso da tecnologia.
 
-c\) INCORRETA. O trecho não destaca uma situação em que seja apreendida
+1. INCORRETA. O trecho não destaca uma situação em que seja apreendida
 a possibilidade de desemprego conjuntural.
 
-d\) INCORRETA. Pelo contrário, a introdução de tecnologias no ambiente
+1. INCORRETA. Pelo contrário, a introdução de tecnologias no ambiente
 de trabalho tende a reduzir postos de trabalho tidos como manuais.
 
-2\. Leia o trecho a seguir:
+1. Leia o trecho a seguir:
 
 *A mecanização no campo cresceu nos últimos anos no Brasil. O número de
 tratores passou de 820.718 para 1.229.907, um aumento de cerca de 50% e
@@ -333,20 +333,20 @@ BNCC: (EF09GE11) Relacionar as mudanças técnicas e científicas
 decorrentes do processo de industrialização com as transformações no
 trabalho em diferentes regiões do mundo e suas consequências no Brasil.
 
-a\) CORRETA. Concomitantemente à ampliação da mecanização do campo,
+1. CORRETA. Concomitantemente à ampliação da mecanização do campo,
 percebe-se que ocorre a redução dos postos de trabalho, ou seja, as
 máquinas têm reduzido a necessidade da mão-de-obra no campo.
 
-b\) INCORRETA: O trecho não faz destaque ao aumento da produtividade do
+1. INCORRETA: O trecho não faz destaque ao aumento da produtividade do
 campo.
 
-c\) INCORRETA. Pelo contrário, percebe-se que a mecanização tem sido um
+1. INCORRETA. Pelo contrário, percebe-se que a mecanização tem sido um
 dos motivos da diminuição dos postos de trabalho no campo.
 
-d\) INCORRETA. Pelo contrário, a perda de postos de trabalho tem sido um
+1. INCORRETA. Pelo contrário, a perda de postos de trabalho tem sido um
 dos fatores de expulsão da população no meio rural brasileiro.
 
-3\. Leia o trecho a seguir:
+1. Leia o trecho a seguir:
 
 *No passado, o êxodo rural contribuiu para a urbanização do Brasil. No
 período 1950--1960, chegou a ser responsável por 17,4% do crescimento
@@ -376,26 +376,26 @@ da produção agropecuária, à expansão do desemprego estrutural e ao papel
 crescente do capital financeiro em diferentes países, com destaque para
 o Brasil.
 
-a\) CORRETA. O êxodo rural brasileiro foi impulsionado pela mecanização
+1. CORRETA. O êxodo rural brasileiro foi impulsionado pela mecanização
 do campo, que foi retirando postos de trabalho no meio rural, e pela
 histórica concentração das terras, que limita as possibilidades de
 permanência no campo.
 
-b\) INCORRETA: No período, não houve redução da área urbana no país,
+1. INCORRETA: No período, não houve redução da área urbana no país,
 além de não ter havido uma política de cercamento agrário.
 
-c\) INCORRETA. Embora tenha havido o estímulo da produção de
+1. INCORRETA. Embora tenha havido o estímulo da produção de
 *commodities* agrícolas no período, especialmente nos anos 80, a luta
 pela reforma agrária compreende uma forma de permanência no espaço
 rural, não de saída.
 
-d\) INCORRETA. Embora tenha havido a internacionalização da produção do
+1. INCORRETA. Embora tenha havido a internacionalização da produção do
 campo, não houve o desincentivo à industrialização nacional, pelo
 contrário.
 
 **SIMULADO**
 
-1\. Leia o trecho a seguir:
+1. Leia o trecho a seguir:
 
 \[\...\] *Nas décadas de 1820 e 1830, o avanço impessoal e poderoso da
 máquina e do mercado começou a deixá-los de lado. Na melhor das
@@ -426,23 +426,23 @@ BNCC: (EF09GE10) Analisar os impactos do processo de industrialização na
 produção e circulação de produtos e culturas na Europa, na Ásia e na
 Oceania.
 
-a\) CORRETA. O trecho destaca que o avanço da mecanização foi
+1. CORRETA. O trecho destaca que o avanço da mecanização foi
 responsável por destruir a atividade laboral dos trabalhadores
 especializados, que detinham o conhecimento da sua produção, como os
 tecelões e artesões, uma vez que a indústria potencializou a capacidade
 produtiva das mercadorias finais destes trabalhadores.
 
-b\) INCORRETA. O trecho não faz menção ao pleno emprego no setor
+1. INCORRETA. O trecho não faz menção ao pleno emprego no setor
 industrial.
 
-c\) INCORRETA. Pelo contrário, por se tornarem apenas "mãos" os
+1. INCORRETA. Pelo contrário, por se tornarem apenas "mãos" os
 trabalhadores não tinham mais a possibilidade de criatividade nas
 atividades laborais.
 
-d\) INCORRETA. O trecho é enfático ao ressaltar as péssimas condições de
+1. INCORRETA. O trecho é enfático ao ressaltar as péssimas condições de
 vida de grande parte dos trabalhadores urbanos.
 
-2\. Leia o trecho a seguir:
+1. Leia o trecho a seguir:
 
 *Com efeito, em meados do século XIX, a Índia já não era mais o maior
 produtor mundial de tecidos de algodão, agora era a Grã-Bretanha que
@@ -477,24 +477,24 @@ BNCC: (EF09GE10) Analisar os impactos do processo de industrialização na
 produção e circulação de produtos e culturas na Europa, na Ásia e na
 Oceania.
 
-a\) INCORRETA. O trecho destaca que o avanço da produção inglesa
+1. INCORRETA. O trecho destaca que o avanço da produção inglesa
 "inundou" o mercado indiano de tecidos.
 
-b\) INCORRETA. O trecho destaca o oposto, a produção inglesa, mais
+1. INCORRETA. O trecho destaca o oposto, a produção inglesa, mais
 competitiva, acessou o mercado indiano, minando a produção local de
 tecidos.
 
-c\) CORRETA. Neste caso, a ideia de competitividade compreende a
+1. CORRETA. Neste caso, a ideia de competitividade compreende a
 comparação da atividade produtiva de um determinado segmento entre dois
 locais, e qual oferece o produto mais barato com menor custo. No caso, a
 indústria inglesa era mais competitiva frente à produção de tecidos
 indiana, razão pela qual se notou a maior presença dos produtos
 industriais.
 
-d\) INCORRETA. Pelo contrário, o trecho destaca a presença de tecidos
+1. INCORRETA. Pelo contrário, o trecho destaca a presença de tecidos
 ingleses na Índia.
 
-3\. Leia o trecho a seguir:
+1. Leia o trecho a seguir:
 
 *A mecanização no campo está modificando as relações de trabalho no
 agronegócio brasileiro. O trabalhador rural, antes contratado para fazer
@@ -526,19 +526,19 @@ da produção agropecuária, à expansão do desemprego estrutural e ao papel
 crescente do capital financeiro em diferentes países, com destaque para
 o Brasil.
 
-a\) CORRETA. Neste caso, os trabalhadores foram realocados para outras
+1. CORRETA. Neste caso, os trabalhadores foram realocados para outras
 funções, dada a substituição do trabalho manual pelo uso de máquinas.
 
-b\) INCORRETA. Neste caso, não houve a perda de postos de trabalho, os
+1. INCORRETA. Neste caso, não houve a perda de postos de trabalho, os
 trabalhadores apenas foram realocados.
 
-c\) INCORRETA. Pelo contrário, percebe-se que o trabalho manual foi
+1. INCORRETA. Pelo contrário, percebe-se que o trabalho manual foi
 substituído pelo uso das máquinas.
 
-d\) INCORRETA. O trecho não destaca algum tipo de flexibilização
+1. INCORRETA. O trecho não destaca algum tipo de flexibilização
 laboral.
 
-4\. Leia o trecho a seguir:
+1. Leia o trecho a seguir:
 
 *Muitos autores, seguindo a linha de pensamento, afirmam que o campo
 brasileiro está marcado pela modernização da agricultura. Inclusive,
@@ -572,20 +572,20 @@ da produção agropecuária, à expansão do desemprego estrutural e ao papel
 crescente do capital financeiro em diferentes países, com destaque para
 o Brasil.
 
-a\) CORRETA. A modernização conservadora brasileira explica-se pela
+1. CORRETA. A modernização conservadora brasileira explica-se pela
 manutenção da estrutura agrária, que foi essencial à saída da população
 do campo em direção às cidades.
 
-b\) INCORRETA. O termo modernização "conservadora" não faz referência à
+1. INCORRETA. O termo modernização "conservadora" não faz referência à
 redução da expectativa de vida dos trabalhadores.
 
-c\) INCORRETA. A modernização "conservadora" não resultou no crescimento
+1. INCORRETA. A modernização "conservadora" não resultou no crescimento
 da população empregada no campo.
 
-d\) INCORRETA. O termo modernização "conservadora" não faz referência ao
+1. INCORRETA. O termo modernização "conservadora" não faz referência ao
 aumento da produtividade de pequenos agricultores.
 
-5\. Leia o trecho a seguir:
+1. Leia o trecho a seguir:
 
 *O interesse pela industrialização e o anseio em aumentar a produção
 nacional resultaram no processo de modernização da agricultura
@@ -614,17 +614,17 @@ da produção agropecuária, à expansão do desemprego estrutural e ao papel
 crescente do capital financeiro em diferentes países, com destaque para
 o Brasil.
 
-a\) INCORRETA. A produção da indústria nacional foi marcada por
+1. INCORRETA. A produção da indústria nacional foi marcada por
 abastecer, sobretudo, o mercado interno.
 
-b\) INCORRETA. Pelo contrário, a transformação da economia apontada no
+1. INCORRETA. Pelo contrário, a transformação da economia apontada no
 trecho foi responsável por elevar a população urbana nacional, o que
 demandou crescimento da sua estrutura, por mais que insuficiente à toda
 população.
 
-c\) INCORRETA. A política de reforma agrária só foi adotada nos anos de
+1. INCORRETA. A política de reforma agrária só foi adotada nos anos de
 1980.
 
-d\) CORRETA. Os fatores apontados estimularam a saída da população do
+1. CORRETA. Os fatores apontados estimularam a saída da população do
 campo em direção a cidade, seja pela perda de oportunidade de trabalho
 no campo, ou pela possibilidade de melhores condições de vida na cidade.

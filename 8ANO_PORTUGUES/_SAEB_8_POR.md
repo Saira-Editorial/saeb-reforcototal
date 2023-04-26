@@ -346,14 +346,14 @@ A resenhista ressalta um diferencial do livro. Esse diferencial, segundo
 ela, foi que a convenceu a lê-lo, e também pode interessar ao público. O
 diferencial está descrito em:
 
-a\) "Vem que te conto!"
+1. "Vem que te conto!"
 
-b\) "Quem me acompanha sabe que sou chegada em uma distopia."
+1. "Quem me acompanha sabe que sou chegada em uma distopia."
 
-c\) "Mas será que, ao final da leitura, achei que valeu a pena toda essa
+1. "Mas será que, ao final da leitura, achei que valeu a pena toda essa
 curiosidade?"
 
-d\) "\[\...\] em vez de uma distopia futurista sobre uma invasão zumbi
+1. "\[\...\] em vez de uma distopia futurista sobre uma invasão zumbi
 ou alienígena, o livro tratava de um apocalipse financeiro \[\...\]"
 
 Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
@@ -698,13 +698,13 @@ Acesso em: 17 fev. 2023 (fragmento).
 
 A finalidade desse texto é
 
-a\) opinar.
+1. opinar.
 
-b\) alertar.
+1. alertar.
 
-c\) ensinar.
+1. ensinar.
 
-d\) informar.
+1. informar.
 
 Saeb: Identificar elementos constitutivos de textos pertencentes ao
 domínio jornalístico/midiático.
@@ -741,13 +741,13 @@ Acesso em: 13 fev. 2023.
 Considerando-se a relevância do assunto e as características do texto,
 as aspas em "como nunca antes" foram usadas para
 
-a\) destacar a frase e assim chamar a atenção do leitor.
+1. destacar a frase e assim chamar a atenção do leitor.
 
-b\) citar os dados que comprovam a verdade da notícia.
+1. citar os dados que comprovam a verdade da notícia.
 
-c\) informar que o vírus se espalha de uma maneira nova.
+1. informar que o vírus se espalha de uma maneira nova.
 
-d\) atribuir a frase a um terceiro com maior credibilidade.
+1. atribuir a frase a um terceiro com maior credibilidade.
 
 Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
@@ -811,17 +811,17 @@ Acesso em: 13 fev. 2023 (fragmento).
 A linguagem não habitual empregada nesse texto contribui para alcançar o
 objetivo de
 
-a\) informar aos estudiosos da ciência as descobertas recentes dos
+1. informar aos estudiosos da ciência as descobertas recentes dos
 cientistas sobre a vida selvagem.
 
-b\) ensinar aos biólogos especialistas o comportamento dos animais para
+1. ensinar aos biólogos especialistas o comportamento dos animais para
 sobreviverem na natureza selvagem.
 
-c\) popularizar para o leitor comum conhecimentos científicos,
+1. popularizar para o leitor comum conhecimentos científicos,
 explicando com linguagem cotidiana a hibernação de alguns animais
 selvagens.
 
-d\) divulgar para a população os ditados populares inspirados no
+1. divulgar para a população os ditados populares inspirados no
 comportamento dos animais, como, por exemplo, "você dorme como um
 urso!".
 
@@ -1261,13 +1261,13 @@ http://dominiopublico.mec.gov.br/download/texto/ea000321.pdf. Acesso em:
 O recurso empregado na descrição da experiência vivida na cena do poema
 é o apelo
 
-a\) moral, refletindo valores.
+1. moral, refletindo valores.
 
-b\) sensorial, refletindo o deleite.
+1. sensorial, refletindo o deleite.
 
-c\) crítico, refletindo uma opinião.
+1. crítico, refletindo uma opinião.
 
-d\) humorístico, refletindo um estado de espírito.
+1. humorístico, refletindo um estado de espírito.
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
@@ -1290,14 +1290,14 @@ caramelo e à própria boca.
 Qual visão de mundo já abordada por diferentes filósofos está implícita
 no poema?
 
-a\) A verdadeira felicidade está nas coisas mais simples da vida.
+1. A verdadeira felicidade está nas coisas mais simples da vida.
 
-b\) A felicidade de sua vida depende da qualidade de seus pensamentos.
+1. A felicidade de sua vida depende da qualidade de seus pensamentos.
 
-c\) A felicidade do corpo consiste na saúde, e a do espírito, na
+1. A felicidade do corpo consiste na saúde, e a do espírito, na
 sabedoria.
 
-d\) Felicidade é como uma borboleta: quanto mais se tenta apanhá-la,
+1. Felicidade é como uma borboleta: quanto mais se tenta apanhá-la,
 mais ela se afasta de você.
 
 Saeb: Analisar a intertextualidade entre textos literários ou entre
@@ -1341,13 +1341,13 @@ COLOMBANI, Laetitia. *A trança*. 1.ed. São Paulo: Intrínseca, 2021
 
 A narrativa retrata uma sociedade que discrimina a personagem devido a
 
-a\) sua origem social, sendo considerada indigna dos bens sociais.
+1. sua origem social, sendo considerada indigna dos bens sociais.
 
-b\) seu estado civil, sendo considerada impura por ser mãe solteira.
+1. seu estado civil, sendo considerada impura por ser mãe solteira.
 
-c\) seu gênero, sendo proibida de frequentar a escola por ser mulher.
+1. seu gênero, sendo proibida de frequentar a escola por ser mulher.
 
-d\) sua religião, sendo considerada herege por servir a outros deuses.
+1. sua religião, sendo considerada herege por servir a outros deuses.
 
 Saeb: Inferir a presença de valores sociais, culturais e humanos em
 textos literários.
@@ -1608,13 +1608,13 @@ GUIMARAENS, J. A*. Contos e novelas*. Rio de Janeiro: Imago, 1976
 No texto, emprega-se uma técnica narrativa de gerenciamento de vozes em
 que
 
-a\) a voz do narrador silencia as vozes dos personagens.
+1. a voz do narrador silencia as vozes dos personagens.
 
-b\) a voz do narrador se mistura com as vozes dos personagens.
+1. a voz do narrador se mistura com as vozes dos personagens.
 
-c\) as vozes dos personagens perdem sua importância expressiva.
+1. as vozes dos personagens perdem sua importância expressiva.
 
-d\) as vozes dos personagens são introduzidas por sinais gráficos.
+1. as vozes dos personagens são introduzidas por sinais gráficos.
 
 Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
@@ -1640,13 +1640,13 @@ travessão e aspas, não são usados no discurso indireto livre.
 Analisando a técnica narrativa de gerenciamento de vozes empregada no
 texto, infere-se que o narrador
 
-a\) omite as angústias dos personagens.
+1. omite as angústias dos personagens.
 
-b\) exagera os sentimentos dos personagens.
+1. exagera os sentimentos dos personagens.
 
-c\) conhece os pensamentos dos personagens.
+1. conhece os pensamentos dos personagens.
 
-d\) manipula e altera as falas dos personagens.
+1. manipula e altera as falas dos personagens.
 
 Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
@@ -1694,16 +1694,16 @@ O gênero entrevista se caracteriza pela alternância das vozes do
 entrevistador e do entrevistado. No texto transcrito, essa
 característica torna-se interessante por
 
-a\) exigir maior nível de formalidade entre os participantes da
+1. exigir maior nível de formalidade entre os participantes da
 conversa.
 
-b\) admitir a participação do público na formulação de perguntas ao
+1. admitir a participação do público na formulação de perguntas ao
 artista.
 
-c\) permitir que os fãs conheçam os bastidores do encontro entre os
+1. permitir que os fãs conheçam os bastidores do encontro entre os
 artistas.
 
-d\) afastar do entrevistador a responsabilidade pelas opiniões do
+1. afastar do entrevistador a responsabilidade pelas opiniões do
 entrevistado.
 
 Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
@@ -1744,27 +1744,27 @@ texto, assim como ocorre em textos dos gêneros textuais argumentativos.
 Segundo o dicionário on-line Michaelis, a palavra "fato" tem os
 seguintes significados:
 
-1\. Evento de cuja ocorrência se tem conhecimento, ou coisa cuja
+1. Evento de cuja ocorrência se tem conhecimento, ou coisa cuja
 existência não se põe em dúvida;
 
-2\. Tudo aquilo que acontece por ação do homem ou em decorrência de
+1. Tudo aquilo que acontece por ação do homem ou em decorrência de
 eventos exteriores ou naturais, que independem da vontade humana;
 acontecido, acontecimento, ocorrência;
 
-3\. Algo cuja existência é inquestionável; realidade, verdade.
+1. Algo cuja existência é inquestionável; realidade, verdade.
 
 Por sua vez, o mesmo dicionário traz os seguintes significados para
 "opinião":
 
-1\. Modo de pensar, de julgar, de ver;
+1. Modo de pensar, de julgar, de ver;
 
-2\. Ponto de vista ou posição tomada sobre assunto em particular
+1. Ponto de vista ou posição tomada sobre assunto em particular
 (social, político, religioso etc.);
 
-3\. Parecer emitido sobre determinado assunto em que muito se refletiu e
+1. Parecer emitido sobre determinado assunto em que muito se refletiu e
 deliberou;
 
-4\. Juízo de valor que se faz sobre alguém ou alguma coisa.
+1. Juízo de valor que se faz sobre alguém ou alguma coisa.
 
 Dessa forma, dois conceitos são determinantes para a distinção entre
 fato e opinião: a objetividade e a subjetividade. A opinião se
@@ -1953,15 +1953,15 @@ CIÊNCIA HOJE, v. 25, n. 145, dez. 98, p. 33 (fragmento adaptado).
 
 Há traço de opinião em
 
-a\) "Isso podia ser esperado: \[\...\]".
+1. "Isso podia ser esperado: \[\...\]".
 
-b\) "\[\...\] a aplicação constante de sulfato de cobre faz com que as
+1. "\[\...\] a aplicação constante de sulfato de cobre faz com que as
 algas morram \[\...\]".
 
-c\) "As cianobactérias podem, sob certas condições, crescer com rapidez
+1. "As cianobactérias podem, sob certas condições, crescer com rapidez
 nos cursos d\'água \[\...\]".
 
-d\) "A maioria dos casos de intoxicação por ingestão desses organismos
+1. "A maioria dos casos de intoxicação por ingestão desses organismos
 foi observada após aplicação de sulfato de cobre \[\...\]".
 
 Saeb: Distinguir fatos de opiniões em textos.
@@ -1997,13 +1997,13 @@ RAMOS, Lázaro. *Na minha pele*. 1.ed. Rio de Janeiro: Objetiva, 2017
 
 A ideia presente no título se concretiza ao longo do texto pelo(a)
 
-a\) descompasso entre as subjetividades do autor e do leitor.
+1. descompasso entre as subjetividades do autor e do leitor.
 
-b\) apresentação de ideias centradas na subjetividade do autor.
+1. apresentação de ideias centradas na subjetividade do autor.
 
-c\) apresentação de ideias centradas na subjetividade do leitor.
+1. apresentação de ideias centradas na subjetividade do leitor.
 
-d\) busca de interação entre as subjetividades do autor e do leitor.
+1. busca de interação entre as subjetividades do autor e do leitor.
 
 Saeb: Inferir informações implícitas em distintos textos.
 
@@ -2048,13 +2048,13 @@ os Direitos Humanos no Brasil. 24.ed. São Paulo: Ática, 2012
 
 A leitura do texto permite inferir que
 
-a\) o povo brasileiro conquistou sua cidadania tardiamente.
+1. o povo brasileiro conquistou sua cidadania tardiamente.
 
-b\) o conceito de cidadania é restrito a direitos específicos.
+1. o conceito de cidadania é restrito a direitos específicos.
 
-c\) a cidadania é garantida em todos os países do mundo.
+1. a cidadania é garantida em todos os países do mundo.
 
-d\) a sociedade é hoje bem informada sobre cidadania.
+1. a sociedade é hoje bem informada sobre cidadania.
 
 Saeb: Inferir informações implícitas em distintos textos.
 
@@ -2330,13 +2330,13 @@ Janeiro: Record, 1976 (fragmento).
 
 O efeito de humor é obtido no texto a partir da presença de
 
-a\) contradição.
+1. contradição.
 
-b\) ambiguidade.
+1. ambiguidade.
 
-c\) situação absurda.
+1. situação absurda.
 
-d\) quebra de expectativa.
+1. quebra de expectativa.
 
 Saeb: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
 crítica.
@@ -2385,13 +2385,13 @@ notícias fictícias baseadas em notícias reais, como no caso do Texto II,
 que apresenta uma versão humorística que pode ser associada ao Texto I.
 O principal recurso usado para provocar humor crítico no Texto II é a
 
-a\) ironia.
+1. ironia.
 
-b\) denúncia.
+1. denúncia.
 
-c\) objetividade.
+1. objetividade.
 
-d\) imparcialidade.
+1. imparcialidade.
 
 Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
 crítica.
@@ -2434,14 +2434,14 @@ RAMOS, Lázaro. *Na minha pele*. 1.ed. Rio de Janeiro: Objetiva, 2017
 Ao relatar sua busca por diálogos sobre as identidades em formação na
 juventude, o autor emprega a expressão "viés acadêmico" para
 
-a\) contrapor sua inquietude juvenil à sua passividade na vida adulta.
+1. contrapor sua inquietude juvenil à sua passividade na vida adulta.
 
-b\) incentivar o leitor a dedicar-se ao estudo teórico do tema
+1. incentivar o leitor a dedicar-se ao estudo teórico do tema
 identidade.
 
-c\) caracterizar uma forma de abordagem com que ele não se identificava.
+1. caracterizar uma forma de abordagem com que ele não se identificava.
 
-d\) situar o tema no campo teórico em detrimento das experiências
+1. situar o tema no campo teórico em detrimento das experiências
 vividas.
 
 Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
@@ -2717,13 +2717,13 @@ A expressão "população em situação de rua" é uma escolha alternativa
 para referir-se aos indivíduos antes referidos como "moradores de rua"
 ou "mendigos". O uso dessa expressão no texto está pautado na ideia de
 
-a\) linguagem neutra, que trata a todos de maneira igualitária.
+1. linguagem neutra, que trata a todos de maneira igualitária.
 
-b\) compaixão, para ressaltar a vulnerabilidade dessas pessoas.
+1. compaixão, para ressaltar a vulnerabilidade dessas pessoas.
 
-c\) condição temporária, isto é, "estar na rua" e não "ser da rua".
+1. condição temporária, isto é, "estar na rua" e não "ser da rua".
 
-d\) solidariedade, para aumentar a adesão às campanhas de doação.
+1. solidariedade, para aumentar a adesão às campanhas de doação.
 
 Saeb: Analisar marcas de parcialidade em textos jornalísticos.
 
@@ -2772,14 +2772,14 @@ Esses textos jornalísticos apresentam diferentes finalidades
 comunicativas em razão de seus gêneros serem distintos. Os textos I e II
 destinam-se, respectivamente, a
 
-a\) divulgar a assembleia dos metroviários e criticar o evento.
+1. divulgar a assembleia dos metroviários e criticar o evento.
 
-b\) informar sobre a manutenção da greve e avaliar essa decisão.
+1. informar sobre a manutenção da greve e avaliar essa decisão.
 
-c\) criticar os metroviários pela greve e reclamar da falta de
+1. criticar os metroviários pela greve e reclamar da falta de
 transporte.
 
-d\) avaliar a necessidade da greve e solidarizar-se com os prejudicados.
+1. avaliar a necessidade da greve e solidarizar-se com os prejudicados.
 
 Saeb: Avaliar diferentes graus de parcialidade em textos jornalísticos.
 
@@ -2827,13 +2827,13 @@ As manchetes apresentadas nos textos I e II versam sobre o mesmo fato.
 Ao compará-las, o leitor em busca de se informar sobre o assunto terá de
 lidar com a dúvida sobre
 
-a\) o momento em que ocorreu o fato noticiado.
+1. o momento em que ocorreu o fato noticiado.
 
-b\) a ocorrência do fato noticiado: o desmatamento.
+1. a ocorrência do fato noticiado: o desmatamento.
 
-c\) as taxas reais de aumento e queda do desmatamento.
+1. as taxas reais de aumento e queda do desmatamento.
 
-d\) os posicionamentos políticos assumidos pelos veículos.
+1. os posicionamentos políticos assumidos pelos veículos.
 
 Saeb: Avaliar a fidedignidade de informações sobre um mesmo fato
 divulgado em diferentes veículos e mídias.
@@ -2938,7 +2938,7 @@ matemática/geografia)
 **1)** Marque o sentido expresso pelas palavras modalizadoras em
 destaque nas frases.
 
-a\) **Possivelmente**, aqui no Brasil, a melhor solução para os alunos
+1. **Possivelmente**, aqui no Brasil, a melhor solução para os alunos
 das redes públicas de ensino consistirá no uso de conteúdos transmitidos
 por meio dos celulares com internet.
 
@@ -2949,7 +2949,7 @@ enunciador, ao evitar fazer uma afirmação categórica e expressá-la como
 uma possibilidade que pode ou não ser eficiente como solução para o
 problema apontado.
 
-b\) O secretário-geral das Nações Unidas, António Guterres, afirmou que
+1. O secretário-geral das Nações Unidas, António Guterres, afirmou que
 "**precisamos** alçar a voz contra todas as expressões de racismo e
 casos de comportamento racista".
 
@@ -2959,7 +2959,7 @@ Necessidade. O locutor traz implícita em sua fala a ideia da necessidade
 de que as pessoas, em conjunto, se posicionem contra expressões de
 racismo e casos de comportamento racista.
 
-c\) A arte de viver cada vez mais **se faz indispensável** para a
+1. A arte de viver cada vez mais **se faz indispensável** para a
 emancipação humana.
 
 ( ) Necessidade ( ) Obrigação ( ) Certeza
@@ -2968,7 +2968,7 @@ Necessidade. A palavra expressa a atitude do locutor frente à relação
 entre a arte de viver cada vez mais e a emancipação humana, significando
 que entre elas há uma relação de dependência.
 
-d\) Hoje enfrentamos em nosso país árdua discussão sobre o uso do ensino
+1. Hoje enfrentamos em nosso país árdua discussão sobre o uso do ensino
 mediado por tecnologias. **Talvez** esse período nos ensine que ambas as
 modalidades **podem** conviver em harmonia em prol de um projeto
 pedagógico que atenda às necessidades de uma educação voltada para o
@@ -2981,7 +2981,7 @@ acontecer a partir da discussão feita em torno do ensino mediado por
 tecnologias, mas que ao mesmo tempo pode não vir a ocorrer, justamente
 por ser uma hipótese.
 
-e\) **Estranhamente**, a cada temporada, os eleitores teimam em repetir
+1. **Estranhamente**, a cada temporada, os eleitores teimam em repetir
 erros grosseiros, votando em candidatos que, lá na frente, voltam a
 atentar contra a cidadania.
 
@@ -3013,14 +3013,14 @@ alguém com tal prerrogativa, como um professor falando com seu aluno.
 **3)** Adicione modalizadores às frases de acordo com o sentido indicado
 nos parênteses.
 
-a\) Ele acredita demais nas próprias verdades. (Hipótese)b) Ele viu o
+1. Ele acredita demais nas próprias verdades. (Hipótese)b) Ele viu o
 gabarito antes da prova. (Incerteza)
 
-c\) Eu vou chegar à escola às 7h. (Necessidade)
+1. Eu vou chegar à escola às 7h. (Necessidade)
 
-d\) Não tirou boa nota na escola este ano. (Julgamento)
+1. Não tirou boa nota na escola este ano. (Julgamento)
 
-e\) João viajará de avião por temer o perigo das estradas.
+1. João viajará de avião por temer o perigo das estradas.
 (Probabilidade)
 
 (1 linha para cada frase)
@@ -3030,65 +3030,65 @@ construção das ideias sugeridas, que devem ser aceitas desde que
 coerentes e coesas do ponto de vista semântico e formal da língua.
 Hipóteses de resposta:
 
-a\) Talvez ele acredite demais nas próprias verdades.
+1. Talvez ele acredite demais nas próprias verdades.
 
-b\) Parece que ele viu o gabarito antes da prova.
+1. Parece que ele viu o gabarito antes da prova.
 
-c\) Eu preciso chegar à escola às 7h.
+1. Eu preciso chegar à escola às 7h.
 
-d\) Infelizmente não tirou boa nota na escola este ano.
+1. Infelizmente não tirou boa nota na escola este ano.
 
-e\) João provavelmente viajará de avião por temer o perigo das estradas.
+1. João provavelmente viajará de avião por temer o perigo das estradas.
 
 **4)** Aponte, em cada texto, a palavra ou expressão que permite
 identificar a atitude de quem fala frente ao que é dito. Em seguida,
 justifique.
 
-a\) Um banho quente de chuveiro elétrico de 15 minutos consome 135
+1. Um banho quente de chuveiro elétrico de 15 minutos consome 135
 litros de água. Um banho de 5 minutos, com o registro fechado para
 ensaboar, consome apenas 45 litros.
 
-b\) Ainda é cedo para afirmar quais são os verdadeiros impactos da
+1. Ainda é cedo para afirmar quais são os verdadeiros impactos da
 sociedade tecnológica.
 
-c\) O controle de dados dos internautas pode ser utilizado como
+1. O controle de dados dos internautas pode ser utilizado como
 artifício para manipular a opinião desse público.
 
-d\) Sim! Foi a Tara Sports, usando a imagem de Ronaldo Fenômeno, que
+1. Sim! Foi a Tara Sports, usando a imagem de Ronaldo Fenômeno, que
 salvou o Cruzeiro de um buraco ainda maior em 2022.
 
 (3 linhas para cada frase)
 
-a\) Palavra: apenas. O locutor avalia uma atitude em relação a outra no
+1. Palavra: apenas. O locutor avalia uma atitude em relação a outra no
 uso de água, realçando uma delas como a mais adequada para a economia de
 água.
 
-b\) Expressão: ainda é cedo para. O locutor alerta que pode ser leviano
+1. Expressão: ainda é cedo para. O locutor alerta que pode ser leviano
 fazer uma afirmação sobre os impactos da sociedade tecnológica.
 
-c\) Expressão: pode ser. O locutor evita generalizar que todo controle
+1. Expressão: pode ser. O locutor evita generalizar que todo controle
 de dados é usado para fins negativos de manipulação, expressando assim
 que o uso para essa finalidade é uma das possibilidades, que podem
 também ser positivas.
 
-d\) Palavra: "Sim!". Trata-se de uma afirmação categórica que se
+1. Palavra: "Sim!". Trata-se de uma afirmação categórica que se
 antecipa ao teor do que está sendo confirmado pela palavra, demonstrando
 que o locutor acredita piamente no que diz e pretende que seu leitor
 também acredite.
 
 **5)** Escreva sentenças que expressem as atitudes indicadas abaixo.
 
-a\) Certeza
+1. Certeza
 
-b\) Incerteza
+1. Incerteza
 
-c\) Hipótese
+1. Hipótese
 
-d\) Necessidade
+1. Necessidade
 
-e\) Obrigação
+1. Obrigação
 
-f\) Análise/julgamento
+1. Análise/julgamento
 
 (1 linha para cada item)
 
@@ -3187,13 +3187,13 @@ Acesso em: 19 mar. 2023 (fragmento).
 O texto, sendo do gênero notícia, privilegia na manchete o emprego de
 verbos no tempo presente, produzindo o efeito de
 
-a\) atualidade dos fatos noticiados.
+1. atualidade dos fatos noticiados.
 
-b\) comprovação da veracidade dos fatos.
+1. comprovação da veracidade dos fatos.
 
-c\) imparcialidade na abordagem dos fatos.
+1. imparcialidade na abordagem dos fatos.
 
-d\) apreciação sobre os fatos noticiados.
+1. apreciação sobre os fatos noticiados.
 
 Saeb: Analisar os efeitos de sentido dos tempos, modos e/ou vozes
 verbais com base no gênero textual e na intenção comunicativa.
@@ -3227,13 +3227,13 @@ Os termos "expansão urbana" e "crescimento desordenado", ao revelarem
 posicionamentos distintos em relação ao mesmo fato, exemplificam o
 fenômeno da
 
-a\) veracidade.
+1. veracidade.
 
-b\) modalização.
+1. modalização.
 
-c\) objetividade.
+1. objetividade.
 
-d\) imparcialidade.
+1. imparcialidade.
 
 Saeb: Identificar os recursos de modalização em textos diversos.
 
@@ -3264,13 +3264,13 @@ desejável no gênero notícia, apenas uma das expressões, o termo
 A transmissão de informações sobre o fato mescla-se, na notícia, com a
 emissão de posicionamento do veículo, manifestado no(a)
 
-a\) linguagem desinteressada com que o fato é abordado.
+1. linguagem desinteressada com que o fato é abordado.
 
-b\) emprego da primeira pessoa para marcar a pessoalidade.
+1. emprego da primeira pessoa para marcar a pessoalidade.
 
-c\) citação de um estudo desenvolvido pela ONG MapBiomas.
+1. citação de um estudo desenvolvido pela ONG MapBiomas.
 
-d\) visão pessimista sobre o crescimento da cidade de Manaus.
+1. visão pessimista sobre o crescimento da cidade de Manaus.
 
 Saeb: Analisar os efeitos de sentido produzidos pelo uso de
 modalizadores em textos diversos.
@@ -3428,33 +3428,33 @@ sofá.
 
 (3 linhas para cada item)
 
-1\. Ironia. A inflação, algo que é prejudicial à economia de um país, é
+1. Ironia. A inflação, algo que é prejudicial à economia de um país, é
 tratado como se fosse algum bom, equiparado a um recorde, mas a intenção
 do autor é dizer justamente o contrário.
 
-2\. Prosopopeia. O meio ambiente ganha expressão humana ao pedir
+1. Prosopopeia. O meio ambiente ganha expressão humana ao pedir
 socorro, como forma de reforçar o perigo que a natureza está correndo.
 
-3\. Antítese. A figura de linguagem está representada na presença dos
+1. Antítese. A figura de linguagem está representada na presença dos
 termos opostos "vida" e "morte".
 
-4\. Metáfora. O momento feliz é comparado a uma vida no paraíso, símbolo
+1. Metáfora. O momento feliz é comparado a uma vida no paraíso, símbolo
 de uma vida livre de problemas e cheia de felicidade.
 
-5\. Metonímia. O pão representa o alimento do dia a dia e o suor
+1. Metonímia. O pão representa o alimento do dia a dia e o suor
 representa o trabalho.
 
-6\. Hipérbole. O exagero ocorre ao quantificar um número de vezes
+1. Hipérbole. O exagero ocorre ao quantificar um número de vezes
 impossível de alguém dizer algo.
 
-7\. Gradação. Os termos "gritar", "falar" e "murmurar" são variações de
+1. Gradação. Os termos "gritar", "falar" e "murmurar" são variações de
 uma mesma forma de expressão oral, significando que a personagem tentou
 todas as possibilidades frente a alguma situação não citada na frase.
 
-8\. Catacrese. A parte do sofá chamada "braço" exemplifica o emprego
+1. Catacrese. A parte do sofá chamada "braço" exemplifica o emprego
 dessa palavra fora de seu uso original.
 
-9\. Comparação. A comparação entre a casa e o hospício significa que as
+1. Comparação. A comparação entre a casa e o hospício significa que as
 pessoas que ali moram se comportam de modo fora do comum.
 
 10\. Eufemismo. O eufemismo "faltar com a verdade" é uma forma de evitar
@@ -3487,13 +3487,13 @@ São Paulo: Companhia das Letras, 2022 (fragmento).
 No contexto apresentado, o uso da expressão "A mamãe descansou" teve
 objetivo de
 
-a\) esconder do menino a notícia da morte da mãe.
+1. esconder do menino a notícia da morte da mãe.
 
-b\) confortar o menino em relação à morte da mãe.
+1. confortar o menino em relação à morte da mãe.
 
-d\) provocar no menino o sentimento de perda da mãe.
+1. provocar no menino o sentimento de perda da mãe.
 
-c\) explicar ao menino o sentido real do descanso da mãe.
+1. explicar ao menino o sentido real do descanso da mãe.
 
 Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
@@ -3549,13 +3549,13 @@ Acesso em: 19 mar. 2023 (fragmento).
 A visão de mundo expressa no poema é construída linguisticamente a
 partir de uma figura de linguagem caracterizada por
 
-a\) emparelhar expressões opostas.
+1. emparelhar expressões opostas.
 
-b\) suavizar expressões impactantes.
+1. suavizar expressões impactantes.
 
-c\) exagerar o sentido das expressões.
+1. exagerar o sentido das expressões.
 
-d\) inverter o sentido das expressões.
+1. inverter o sentido das expressões.
 
 Saeb: Analisar o uso de figuras de linguagem como estratégia
 argumentativa.
@@ -3600,13 +3600,13 @@ Acesso em: 08 mar. 2023 (fragmento adaptado).
 Ao divulgar um programa de televisão, o texto menciona a Organização
 Mundial de Saúde para
 
-a\) informar a participação de um representante do órgão.
+1. informar a participação de um representante do órgão.
 
-b\) ressaltar a necessidade do combate à obesidade infantil.
+1. ressaltar a necessidade do combate à obesidade infantil.
 
-c\) influenciar a opinião do leitor sobre a obesidade infantil.
+1. influenciar a opinião do leitor sobre a obesidade infantil.
 
-d\) comprovar a pertinência e importância do tema escolhido.
+1. comprovar a pertinência e importância do tema escolhido.
 
 Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
@@ -3647,18 +3647,18 @@ manutenção quanto para a progressão do assunto. Alguns desses termos ou
 expressões são: pronomes, advérbios, numerais, artigos, sinônimos,
 antônimos, palavras genéricas etc. Vejamos alguns exemplos.
 
-1\. Substituição: **Os alunos** foram advertidos pelo **mau
+1. Substituição: **Os alunos** foram advertidos pelo **mau
 comportamento**. Caso **isso** \[mau comportamento\] volte a acontecer,
 **eles** \[os alunos\] serão suspensos.
 
-2\. Reiteração/Repetição: "Smita acorda com uma estranha sensação, uma
+1. Reiteração/Repetição: "Smita acorda com uma estranha sensação, uma
 suave urgência, um inédito frio na barriga. **Hoje** é um dia que ela
 irá lembrar para o resto da vida. **Hoje**, sua filha vai entrar para a
 escola" (Laetitia Colombani).
 
 A repetição, nesse caso, tem efeito enfático.
 
-3\. Associação: "À medida que o **rio** se afunila entre os paredões
+1. Associação: "À medida que o **rio** se afunila entre os paredões
 cada vez mais verticais, a **correnteza** vai ganhando velocidade e
 companhia de uma **espuma branca**, originada pelo choque violento das
 **águas** contra as pedras. O bote responde de imediato ao
@@ -3717,15 +3717,15 @@ daí a importância de se saber seu valor essencial.
 expressem as ideias indicadas entre parênteses. Faça as alterações
 necessárias.
 
-a\) Esforçou-se muito. Não teve sucesso. (oposição)
+1. Esforçou-se muito. Não teve sucesso. (oposição)
 
-b\) Esforçou-se muito. Não teve sucesso. (concessão)
+1. Esforçou-se muito. Não teve sucesso. (concessão)
 
-c\) Está chovendo. A roupa do varal ficou molhada. (conclusão)
+1. Está chovendo. A roupa do varal ficou molhada. (conclusão)
 
-c\) Gostamos de ler. Gostamos de ouvir música. (adição)
+1. Gostamos de ler. Gostamos de ouvir música. (adição)
 
-d\) Precisamos de um médico. Um cliente está passando mal. (explicação)
+1. Precisamos de um médico. Um cliente está passando mal. (explicação)
 
 (1 linha para cada item)
 
@@ -3733,43 +3733,43 @@ Há inúmeras possibilidades de expressão dos valores semânticos
 indicados, porém é importante verificar se, do ponto de vista
 estrutural, a frase está bem elaborada. Hipóteses de resposta:
 
-a\) Esforçou-se muito, mas / porém / contudo não teve sucesso.
+1. Esforçou-se muito, mas / porém / contudo não teve sucesso.
 
-b\) Embora tenha se esforçado muito, não teve sucesso.
+1. Embora tenha se esforçado muito, não teve sucesso.
 
-c\) Está chovendo, portanto a roupa do varal ficou molhada.
+1. Está chovendo, portanto a roupa do varal ficou molhada.
 
-d\) Precisamos de um médico, pois / porque um cliente está passando mal.
+1. Precisamos de um médico, pois / porque um cliente está passando mal.
 
 **3)** Complete a lacuna em cada frase com o conetivo adequado à ideia
 indicada nos parênteses.
 
-a\) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ pertencêssemos a partidos rivais,
+1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ pertencêssemos a partidos rivais,
 nossos ideais coincidiam em muitos pontos. (concessão)
 
-b\) Ele disse que gostou muito do meu CD, \_\_\_\_\_\_\_\_\_\_\_\_ com
+1. Ele disse que gostou muito do meu CD, \_\_\_\_\_\_\_\_\_\_\_\_ com
 algumas ressalvas. (contraste)
 
-c\) Irei contigo, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ minha família não se
+1. Irei contigo, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ minha família não se
 oponha. (condição)
 
-d\) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ o futebol é o melhor esporte que
+1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ o futebol é o melhor esporte que
 existe! (certeza)
 
 A seleção do conectivo adequado dependerá da estrutura da frase, como,
 por exemplo, o modo verbal empregado e demais aspectos sintáticos.
 
-a\) A lacuna se relaciona com o modo subjuntivo, exigindo assim o
+1. A lacuna se relaciona com o modo subjuntivo, exigindo assim o
 conectivo "embora" para expressar concessão.
 
-b\) A lacuna admite os conectivos de contraste que tipicamente se
+1. A lacuna admite os conectivos de contraste que tipicamente se
 posicionam após uma vírgula, tais como "mas" e "porém".
 
-c\) A lacuna se relaciona ao modo verbal subjuntivo, que expressa dúvida
+1. A lacuna se relaciona ao modo verbal subjuntivo, que expressa dúvida
 e, na frase em questão, passa a expressar condição quando empregado o
 conectivo "caso".
 
-d\) A lacuna admite diferentes conectivos de certeza, pois eles não
+1. A lacuna admite diferentes conectivos de certeza, pois eles não
 interferem na sintaxe da frase, apenas enfatizam a certeza sobre o que
 está sendo dito.
 
@@ -3909,13 +3909,13 @@ em: 11 fev.2023.
 No texto, a palavra que substitui o nome Georgeana e, ao mesmo tempo,
 atribui uma característica à personagem é
 
-a\) nenê.
+1. nenê.
 
-b\) ligeira.
+1. ligeira.
 
-c\) boneca.
+1. boneca.
 
-d\) pequenita.
+1. pequenita.
 
 Saeb: Analisar os processos de referenciação lexical e pronominal.
 
@@ -3953,13 +3953,13 @@ A associação semântica entre os termos "recursos naturais", "folhas" e
 "frutos" permite identificar que, do primeiro para o segundo e o
 terceiro, ocorre um movimento de
 
-a\) oposição.
+1. oposição.
 
-b\) conclusão.
+1. conclusão.
 
-c\) explicação.
+1. explicação.
 
-d\) particularização.
+1. particularização.
 
 Saeb: Analisar os mecanismos que contribuem para a progressão textual.
 
@@ -4000,13 +4000,13 @@ Acesso em: 21 fev. 2023 (fragmento).
 A "problemática" a que se refere o autor pode ser compreendida, no
 texto, pela oposição entre
 
-a\) Brasil e mundo globalizado.
+1. Brasil e mundo globalizado.
 
-b\) redes sociais e mídias virtuais.
+1. redes sociais e mídias virtuais.
 
-c\) acesso ao conhecimento e manipulação comportamental.
+1. acesso ao conhecimento e manipulação comportamental.
 
-d\) perda da autonomia de pensamento e sabotagem dos processos políticos
+1. perda da autonomia de pensamento e sabotagem dos processos políticos
 democráticos.
 
 Saeb: Analisar os mecanismos que contribuem para a progressão textual.
@@ -4420,9 +4420,9 @@ Para não chegar despreparado ao que pode ser o seu primeiro passo rumo a
 uma carreira de sucesso, o segredo é estudar um bocado e seguir algumas
 regras para mandar bem na entrevista. Descubra a seguir!
 
-1\. \[\...\]
+1. \[\...\]
 
-2\. Cuidado com a linguagem
+1. Cuidado com a linguagem
 
 Ter um vocabulário adequado é importante para passar uma boa impressão
 ao entrevistador. Por isso, evite a todo custo falar gírias, palavrões e
@@ -4474,13 +4474,13 @@ Acesso em: 18 mar. 2023 (fragmento adaptado).
 Dois registros de variação linguística que influenciam o nível da
 formalidade da entrevista são demonstrados em
 
-a\) "papo de empresário" e "pintou a ideia".
+1. "papo de empresário" e "pintou a ideia".
 
-b\) "Começamos a conversar" e "eu quero mais".
+1. "Começamos a conversar" e "eu quero mais".
 
-c\) "Ela publicou um vídeo" e "foi uma ideia nossa".
+1. "Ela publicou um vídeo" e "foi uma ideia nossa".
 
-d\) "Um tiro no coração" e "Começou há um ano e meio".
+1. "Um tiro no coração" e "Começou há um ano e meio".
 
 Saeb: Analisar as variedades linguísticas em textos.
 
@@ -4517,13 +4517,13 @@ RAMOS, Lázaro. *Na minha pele*. 1.ed. Rio de Janeiro: Objetiva, 2017
 
 A composição do texto privilegia o emprego de linguagem
 
-a\) informal, visando interagir com o leitor.
+1. informal, visando interagir com o leitor.
 
-b\) culta, visando exibir domínio para o leitor.
+1. culta, visando exibir domínio para o leitor.
 
-c\) formal, visando adequar-se ao público intelectual.
+1. formal, visando adequar-se ao público intelectual.
 
-d\) coloquial, visando atingir o leitor menos escolarizado.
+1. coloquial, visando atingir o leitor menos escolarizado.
 
 Saeb: Avaliar a adequação das variedades linguísticas em contextos de
 uso.
@@ -4581,13 +4581,13 @@ O texto é um trecho do diário de Maria Carolina de Jesus publicado num
 livro. Os acentos gráficos em "hóras", "vêio" e "agêitar" revelam que
 sua escrita é fortemente influenciada pela
 
-a\) idade.
+1. idade.
 
-b\) escolaridade.
+1. escolaridade.
 
-c\) regionalidade.
+1. regionalidade.
 
-d\) informalidade.
+1. informalidade.
 
 Saeb: Analisar as variedades linguísticas em textos.
 
@@ -4637,13 +4637,13 @@ os Direitos Humanos no Brasil. 24.ed. São Paulo: Ática, 2012.
 
 No texto, o trecho isolado por travessões pode ser interpretado como
 
-a\) uma crítica.
+1. uma crítica.
 
-b\) um conselho.
+1. um conselho.
 
-d\) uma dedução.
+1. uma dedução.
 
-c\) uma suposição.
+1. uma suposição.
 
 Saeb: Distinguir fatos de opiniões em textos.
 
@@ -4676,13 +4676,13 @@ Acesso em: 10 fev. 2023.
 A relação entre a imagem e a linguagem verbal é evidenciada, no texto da
 campanha, pela presença de
 
-a\) frases curtas.
+1. frases curtas.
 
-b\) frases nominais.
+1. frases nominais.
 
-c\) nomes de animais.
+1. nomes de animais.
 
-d\) gírias de interação.
+1. gírias de interação.
 
 Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
 verbais.
@@ -4730,13 +4730,13 @@ identidade e cultura mineira. Selo editorial: Independently published,
 Em qual trecho texto o narrador se exime do compromisso com a veracidade
 do causo que ele conta?
 
-a\) "Não sou pescador, não sou caçador, sou apenas ouvinte."
+1. "Não sou pescador, não sou caçador, sou apenas ouvinte."
 
-b\) "Quem quiser acreditar neste causo, aqui relatado, que acredite!"
+1. "Quem quiser acreditar neste causo, aqui relatado, que acredite!"
 
-c\) "Ele procurava um modo de parafrasear a famosa premissa popular:"
+1. "Ele procurava um modo de parafrasear a famosa premissa popular:"
 
-d\) "O causo se deu no Norte de Minas Gerais, numa cidadezinha rancheira
+1. "O causo se deu no Norte de Minas Gerais, numa cidadezinha rancheira
 \[\...\]."
 
 Saeb: Identificar os recursos de modalização em textos diversos.
@@ -4785,13 +4785,13 @@ Elaborado pelo autor.
 No diálogo, o fato de os amigos viverem em regiões diferentes faz com
 que eles
 
-a\) tenham opiniões diferentes sobre o sabor do alimento.
+1. tenham opiniões diferentes sobre o sabor do alimento.
 
-b\) prefiram o biscoito ou a bolacha a qualquer outro lanche.
+1. prefiram o biscoito ou a bolacha a qualquer outro lanche.
 
-c\) usem palavras diferentes para nomear o mesmo alimento.
+1. usem palavras diferentes para nomear o mesmo alimento.
 
-d\) discutam sobre a diferença de sabor entre o biscoito e a bolacha.
+1. discutam sobre a diferença de sabor entre o biscoito e a bolacha.
 
 Saeb: Analisar as variedades linguísticas em textos.
 
@@ -4814,14 +4814,14 @@ alimento com base no critério de região e não de sabor.
 
 O traço de humor do texto reside
 
-a\) na indiferença de um dos amigos ao aceitar qualquer um dos lanches.
+1. na indiferença de um dos amigos ao aceitar qualquer um dos lanches.
 
-b\) no pedido de um dos amigos ao querer comida num ambiente de praia.
+1. no pedido de um dos amigos ao querer comida num ambiente de praia.
 
-c\) no uso de abreviações de palavras numa situação que exigia
+1. no uso de abreviações de palavras numa situação que exigia
 formalidade.
 
-d\) na atitude de um dos amigos ao fingir não conhecer a palavra usada
+1. na atitude de um dos amigos ao fingir não conhecer a palavra usada
 pelo colega.
 
 Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
@@ -4866,13 +4866,13 @@ termo mais aceito é "biscoito".
 Os dois textos têm em comum o fato de abordarem o mesmo assunto, mas sua
 estratégia argumentativa se diferencia condicionada pelo
 
-a\) assunto.
+1. assunto.
 
-b\) público-alvo.
+1. público-alvo.
 
-c\) meio de circulação.
+1. meio de circulação.
 
-d\) objetivo comunicativo.
+1. objetivo comunicativo.
 
 Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
@@ -4957,13 +4957,13 @@ O trecho "Preparei uma seleção de imagens focando a apresentação na
 produção de desenho, que é tema deste seminário" contém o elemento
 linguístico "deste seminário", que aponta para
 
-a\) um elemento externo ao texto.
+1. um elemento externo ao texto.
 
-b\) um elemento já citado no texto.
+1. um elemento já citado no texto.
 
-c\) um elemento a ser citado no texto.
+1. um elemento a ser citado no texto.
 
-d\) um elemento que pertence ao autor.
+1. um elemento que pertence ao autor.
 
 Saeb: Avaliar a adequação das variedades linguísticas em contextos de
 uso.
@@ -5014,13 +5014,13 @@ Acesso em: 11 fev. 2023 (fragmento).
 
 O eu lírico expressa no poema, como tema central,
 
-a\) a saudade da sua terra natal.
+1. a saudade da sua terra natal.
 
-b\) as lembranças das suas viagens.
+1. as lembranças das suas viagens.
 
-c\) a vontade de conhecer o mundo.
+1. a vontade de conhecer o mundo.
 
-d\) o gosto pelas belezas da natureza.
+1. o gosto pelas belezas da natureza.
 
 Saeb: Inferir a presença de valores sociais, culturais e humanos em
 textos literários.
@@ -5127,16 +5127,16 @@ Acesso em: 13 fev. 2023.
 Comparando-se os dois textos, conclui-se que o texto II cumpre, em
 relação à situação noticiada no texto I, a função de
 
-a\) apresentar o personagem Zé Gotinha e seus amigos ao público
+1. apresentar o personagem Zé Gotinha e seus amigos ao público
 infantil.
 
-b\) convidar as crianças a seguirem as redes sociais do personagem Zé
+1. convidar as crianças a seguirem as redes sociais do personagem Zé
 Gotinha.
 
-c\) divulgar as campanhas de vacinação infantil do governo e atrair a
+1. divulgar as campanhas de vacinação infantil do governo e atrair a
 população.
 
-d\) entreter o público infantil com ilustrações sobre vacinação
+1. entreter o público infantil com ilustrações sobre vacinação
 adequadas à faixa etária.
 
 Saeb: Analisar a relação temática entre diferentes gêneros
@@ -5188,13 +5188,13 @@ Acesso em: 17 fev. 2023 (fragmento).
 Ao se deparar com os fragmentos de texto I e II, sobre o mesmo assunto,
 o leitor pode prever que a finalidade deles é, respectivamente,
 
-a\) informar e opinar.
+1. informar e opinar.
 
-b\) criticar e informar.
+1. criticar e informar.
 
-c\) opinar e denunciar.
+1. opinar e denunciar.
 
-d\) reivindicar e conscientizar.
+1. reivindicar e conscientizar.
 
 Saeb: Avaliar diferentes graus de parcialidade em textos jornalísticos.
 
@@ -5239,16 +5239,16 @@ A finalidade do texto é informar a previsão do tempo. As formas verbais
 "alcance", "deve ser" e "podem ter" estão empregadas nos tempos e modos
 verbais adequados para
 
-a\) quantificar o volume de chuvas que é esperado para o período de
+1. quantificar o volume de chuvas que é esperado para o período de
 carnaval.
 
-b\) recomendar cautela e atenção à população que vive nas regiões
+1. recomendar cautela e atenção à população que vive nas regiões
 mencionadas.
 
-c\) ressaltar o alerta de chuvas intensas que foi emitido pela Defesa
+1. ressaltar o alerta de chuvas intensas que foi emitido pela Defesa
 Civil Estadual.
 
-d\) exprimir a ideia de possibilidade e hipótese do que pode acontecer
+1. exprimir a ideia de possibilidade e hipótese do que pode acontecer
 com o clima.
 
 Saeb: Analisar os efeitos de sentido dos tempos, modos e/ou vozes
@@ -5298,13 +5298,13 @@ MADEIRA, Carla. *A natureza da mordida.* 1.ed. Rio de Janeiro: Record,
 No diálogo, a personagem é interpelada duas vezes. Em relação à segunda
 pergunta que lhe é feita, sua resposta expressa
 
-a\) hesitação.
+1. hesitação.
 
-b\) desinteresse.
+1. desinteresse.
 
-c\) constrangimento.
+1. constrangimento.
 
-d\) desconhecimento.
+1. desconhecimento.
 
 Saeb: Analisar os efeitos de sentido produzidos pelo uso de
 modalizadores em textos diversos.
@@ -5332,13 +5332,13 @@ que sim, nem que não, ou seja, ela tem dúvida.
 A figura de linguagem empregada em "A primeira vez tem sempre os
 melhores ouvidos" introduz a intenção de
 
-a\) expressar a opinião da locutora em relação à melodia de Bach.
+1. expressar a opinião da locutora em relação à melodia de Bach.
 
-b\) recomendar a apreciação da melodia "Erbarme dich", de Bach.
+1. recomendar a apreciação da melodia "Erbarme dich", de Bach.
 
-c\) valorizar o esforço da personagem Olívia de recontar sua história.
+1. valorizar o esforço da personagem Olívia de recontar sua história.
 
-d\) desculpar-se pelo esquecimento da história de vida contada antes.
+1. desculpar-se pelo esquecimento da história de vida contada antes.
 
 Saeb: Analisar o uso de figuras de linguagem como estratégia
 argumentativa.
@@ -5393,16 +5393,16 @@ São Paulo: Companhia das Letras, 2021 (fragmento).
 
 O texto deve ser considerado um exemplo de
 
-a\) variação linguística, devendo ser respeitado como possibilidade de
+1. variação linguística, devendo ser respeitado como possibilidade de
 uso da língua.
 
-b\) ignorância em relação à gramática, o que se percebe pela falta de
+1. ignorância em relação à gramática, o que se percebe pela falta de
 habilidade na escrita.
 
-c\) descuido com a língua, pois a autora não se importou com o público
+1. descuido com a língua, pois a autora não se importou com o público
 que leria seu livro.
 
-d\) uso incorreto da língua, pois o desrespeito à norma-padrão
+1. uso incorreto da língua, pois o desrespeito à norma-padrão
 comprometeu a coerência.
 
 Saeb: Avaliar a adequação das variedades linguísticas em contextos de
@@ -5444,13 +5444,13 @@ Acesso em: 19 fev. 2023.
 Em relação à vantagem de se comprar o produto anunciado, o texto verbal
 e não verbal da propaganda enfatiza
 
-a\) seu preço acessível.
+1. seu preço acessível.
 
-b\) sua marca renomada.
+1. sua marca renomada.
 
-c\) sua eficiência no tratamento.
+1. sua eficiência no tratamento.
 
-d\) sua disponibilidade no mercado.
+1. sua disponibilidade no mercado.
 
 Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
 verbais.
@@ -5490,13 +5490,13 @@ Acesso em: 19 fev. 2023 (fragmento).
 
 O texto constrói sua argumentação a partir
 
-a\) da negação da influência da tecnologia.
+1. da negação da influência da tecnologia.
 
-b\) da análise do perfil do protagonista Neo.
+1. da análise do perfil do protagonista Neo.
 
-c\) do convite para assistir ao filme "Matrix".
+1. do convite para assistir ao filme "Matrix".
 
-d\) da comparação entre a ficção e a realidade.
+1. da comparação entre a ficção e a realidade.
 
 Saeb: Identificar teses, opiniões, posicionamentos explícitos e
 argumentos em textos.
@@ -5544,16 +5544,16 @@ BUARQUE, Chico Buarque. *Budapeste.* São Paulo: Companhia das Letras,
 A expressão "devia ser proibido" revela, da parte do
 narrador-personagem,
 
-a\) uma postura autoritária em relação a uma brincadeira feita pela
+1. uma postura autoritária em relação a uma brincadeira feita pela
 professora com o erro cometido.
 
-b\) uma indignação com a atitude da professora, de quem esperava um
+1. uma indignação com a atitude da professora, de quem esperava um
 comportamento diferente.
 
-c\) um arrependimento por ter se arriscado a falar uma língua
+1. um arrependimento por ter se arriscado a falar uma língua
 estrangeira que ainda não dominava.
 
-d\) uma decepção perante o erro que cometeu e que realçou seu fraco
+1. uma decepção perante o erro que cometeu e que realçou seu fraco
 domínio da língua estrangeira.
 
 Saeb: Analisar os efeitos de sentido produzidos pelo uso de
@@ -5585,13 +5585,13 @@ com a postura da professora ao caçoar dele duas vezes por ter errado.
 As duas ocorrências do pronome possessivo "dela" dependem de outro termo
 presente no texto para terem seu sentido completo. Esse termo é
 
-a\) rua.
+1. rua.
 
-b\) estação.
+1. estação.
 
-c\) professora.
+1. professora.
 
-d\) língua estrangeira.
+1. língua estrangeira.
 
 Saeb: Analisar os processos de referenciação lexical e pronominal.
 
@@ -5623,13 +5623,13 @@ II. Ribeirão Preto: Selo Jovem, 2016 (fragmento).
 A apresentação do cenário e do personagem contribui para dar a essa
 narrativa uma feição
 
-a\) lúdica.
+1. lúdica.
 
-b\) realista.
+1. realista.
 
-c\) fantástica.
+1. fantástica.
 
-d\) enigmática.
+1. enigmática.
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
@@ -5685,16 +5685,16 @@ O modo de sequenciação dos acontecimentos pode tornar uma narrativa
 bastante interessante para o leitor. No decorrer da leitura desse trecho
 de narrativa, o leitor descobre que a primeira frase
 
-a\) introduz a situação inicial da história, a qual mais tarde entra em
+1. introduz a situação inicial da história, a qual mais tarde entra em
 desequilíbrio.
 
-b\) descreve o cenário em que vivem a protagonista e os demais
+1. descreve o cenário em que vivem a protagonista e os demais
 personagens da história.
 
-c\) apresenta a protagonista e o contexto, auxiliando na compreensão das
+1. apresenta a protagonista e o contexto, auxiliando na compreensão das
 ações seguintes.
 
-d\) antecipa uma ação que, à frente, será compreendida como conflito por
+1. antecipa uma ação que, à frente, será compreendida como conflito por
 narrar uma travessura da protagonista.
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
@@ -5744,16 +5744,16 @@ Acesso em: 21 fev. 2023 (fragmento).
 
 A ideia que o autor pretende sustentar no texto é a de que
 
-a\) a ciência ajudou a construir uma sociedade livre de problemas e
+1. a ciência ajudou a construir uma sociedade livre de problemas e
 desafios.
 
-b\) a tecnologia trouxe vantagens, mas também desvantagens para a
+1. a tecnologia trouxe vantagens, mas também desvantagens para a
 humanidade.
 
-c\) os prejuízos trazidos pelos avanços científicos não compensaram seus
+1. os prejuízos trazidos pelos avanços científicos não compensaram seus
 benefícios.
 
-d\) o acesso ao conhecimento facilitado pela tecnologia foi prejudicial
+1. o acesso ao conhecimento facilitado pela tecnologia foi prejudicial
 para a sociedade.
 
 Saeb: Identificar teses, opiniões, posicionamentos explícitos e
@@ -5781,13 +5781,13 @@ de benefício da tecnologia.
 
 O articulador "em contrapartida" introduz no texto uma
 
-a\) mudança de assunto, avançando no tema.
+1. mudança de assunto, avançando no tema.
 
-b\) reformulação, para retificar uma informação.
+1. reformulação, para retificar uma informação.
 
-c\) concordância conclusiva, para encerrar o assunto.
+1. concordância conclusiva, para encerrar o assunto.
 
-d\) avaliação pessimista, oposta ao que foi dito antes.
+1. avaliação pessimista, oposta ao que foi dito antes.
 
 Saeb: Analisar os mecanismos que contribuem para a progressão textual.
 
@@ -5827,16 +5827,16 @@ Bambolê, 2018 (fragmento).
 A narrativa traz, já na introdução, um fato que causa desequilíbrio na
 situação inicial apresentada, manifestado
 
-a\) na pressão que o personagem sofre para ser um artista perfeito o
+1. na pressão que o personagem sofre para ser um artista perfeito o
 tempo todo.
 
-b\) na insônia que atrapalha o descanso do personagem após as
+1. na insônia que atrapalha o descanso do personagem após as
 apresentações no palco.
 
-c\) na insatisfação do personagem com a recepção do público nas
+1. na insatisfação do personagem com a recepção do público nas
 apresentações musicais.
 
-d\) nos lapsos de memória após o personagem experimentar momentos de
+1. nos lapsos de memória após o personagem experimentar momentos de
 euforia nos shows.
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
@@ -5873,16 +5873,16 @@ Acesso em: 21 fev. 2023.
 
 A campanha de doação de sangue remete ao texto bíblico com o objetivo de
 
-a\) sensibilizar as pessoas com a lembrança da morte e ressurreição de
+1. sensibilizar as pessoas com a lembrança da morte e ressurreição de
 Cristo.
 
-b\) expressar religiosidade e divulgar a mensagem de Cristo para a
+1. expressar religiosidade e divulgar a mensagem de Cristo para a
 sociedade.
 
-c\) valorizar o doador, que com seu sangue pode salvar a vida de outra
+1. valorizar o doador, que com seu sangue pode salvar a vida de outra
 pessoa.
 
-d\) restringir o público doador, que para doar precisa ser membro de uma
+1. restringir o público doador, que para doar precisa ser membro de uma
 igreja.
 
 Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
@@ -5919,15 +5919,15 @@ Melhoramentos, 2013 (fragmento).
 Em razão das características do gênero, emprega-se no texto uma
 linguagem que preza pelo(a)
 
-a\) criatividade e autenticidade, com o objetivo de demarcar a autoria.
+1. criatividade e autenticidade, com o objetivo de demarcar a autoria.
 
-b\) sentido literal das palavras, de modo a restringir a interpretação
+1. sentido literal das palavras, de modo a restringir a interpretação
 das informações.
 
-c\) alternância da objetividade e da subjetividade, quando a opinião do
+1. alternância da objetividade e da subjetividade, quando a opinião do
 autor aparece.
 
-d\) sequenciação dos fatos no tempo e no espaço, a qual leva a um
+1. sequenciação dos fatos no tempo e no espaço, a qual leva a um
 desfecho inevitável.
 
 Saeb: Identificar elementos constitutivos de gêneros de divulgação
@@ -5975,13 +5975,13 @@ Educação Financeira, 2013 (fragmento).
 
 Em seu texto, o autor desenvolve uma crítica ao comportamento
 
-a\) egoísta, representado na fala "eu mereço".
+1. egoísta, representado na fala "eu mereço".
 
-b\) consumista, justificado pela lei da compensação.
+1. consumista, justificado pela lei da compensação.
 
-c\) materialista, percebido no apego aos bens de consumo.
+1. materialista, percebido no apego aos bens de consumo.
 
-d\) conformista, manifestado no contentamento com o pouco.
+1. conformista, manifestado no contentamento com o pouco.
 
 Saeb: Identificar teses, opiniões, posicionamentos explícitos e
 argumentos em textos.
@@ -6009,13 +6009,13 @@ apenas no fim do texto como um tipo de sintoma do consumismo.
 
 A finalidade comunicativa do texto indica que foi organizado em forma de
 
-a\) relato pessoal.
+1. relato pessoal.
 
-b\) nota de repúdio.
+1. nota de repúdio.
 
-c\) artigo de opinião.
+1. artigo de opinião.
 
-d\) carta de reclamação.
+1. carta de reclamação.
 
 Saeb: Identificar elementos constitutivos de textos pertencentes ao
 domínio jornalístico/midiático.
@@ -6065,16 +6065,16 @@ Acesso em: 04 mar. 2023 (fragmento).
 Considerando-se as características do gênero textual, a diferença entre
 os textos I e II se verifica
 
-a\) na apresentação das informações fundamentais, tais como "o quê",
+1. na apresentação das informações fundamentais, tais como "o quê",
 "quando", "quem" e "onde".
 
-b\) na especificação dos tipos de crimes que foram cometidos e de
+1. na especificação dos tipos de crimes que foram cometidos e de
 ocorrências que foram registradas.
 
-c\) nas marcas de parcialidade e imparcialidade com que se referem à
+1. nas marcas de parcialidade e imparcialidade com que se referem à
 queda na criminalidade.
 
-d\) na veracidade das informações divulgadas, o que levanta dúvidas
+1. na veracidade das informações divulgadas, o que levanta dúvidas
 sobre a credibilidade de um dos veículos.
 
 Saeb: Analisar marcas de parcialidade em textos jornalísticos.
@@ -6195,13 +6195,13 @@ No gênero narrativo fábula normalmente se pode reconhecer um ditado
 popular que expressa um ensinamento. Essa fábula se relaciona com qual
 ditado popular?
 
-a\) Saco vazio não para em pé.
+1. Saco vazio não para em pé.
 
-b\) Quem tem pressa come cru.
+1. Quem tem pressa come cru.
 
-c\) Quem desdenha quer comprar.
+1. Quem desdenha quer comprar.
 
-d\) Há males que vêm para o bem.
+1. Há males que vêm para o bem.
 
 Saeb: Analisar a intertextualidade entre textos literários ou entre
 estes e outros textos verbais ou não verbais.
@@ -6240,13 +6240,13 @@ https://www.facebook.com/GovernoDoRS/?locale=pt\_BR. Acesso em: 01 mar.
 O recurso persuasivo utilizado na campanha é o efeito de humor,
 alcançado, sobretudo, por meio
 
-a\) da relativização da dor.
+1. da relativização da dor.
 
-b\) da citação de uma canção.
+1. da citação de uma canção.
 
-c\) da referência ao cotidiano.
+1. da referência ao cotidiano.
 
-d\) da oposição medo-solidariedade.
+1. da oposição medo-solidariedade.
 
 Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
@@ -6286,13 +6286,13 @@ Fernando Pessoa.
 Em razão do gênero literário a que pertence, o texto caracteriza-se por
 colocar em foco
 
-a\) os sentimentos subjetivos do eu lírico.
+1. os sentimentos subjetivos do eu lírico.
 
-b\) a clareza e objetividade da mensagem.
+1. a clareza e objetividade da mensagem.
 
-c\) a interpretação dramática de uma cena.
+1. a interpretação dramática de uma cena.
 
-d\) os elementos da sequência da narrativa.
+1. os elementos da sequência da narrativa.
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
@@ -6341,13 +6341,13 @@ Elaborado pelo autor.
 O conteúdo da bula de remédio e sua finalidade comunicativa justificam,
 na escrita desse gênero, o emprego de linguagem
 
-a\) objetiva, para expor as informações do medicamento.
+1. objetiva, para expor as informações do medicamento.
 
-b\) argumentativa, para dar uma opinião sobre o medicamento.
+1. argumentativa, para dar uma opinião sobre o medicamento.
 
-c\) narrativa, para relatar as etapas de produção do medicamento.
+1. narrativa, para relatar as etapas de produção do medicamento.
 
-d\) figurada, para facilitar a compreensão dos dados do medicamento.
+1. figurada, para facilitar a compreensão dos dados do medicamento.
 
 Saeb: Analisar os efeitos de sentido dos tempos, modos e/ou vozes
 verbais com base no gênero textual e na intenção comunicativa.
@@ -6396,13 +6396,13 @@ Nas relações de sentido construídas no texto, o termo "dever" se
 relaciona, no contexto do futebol, com a ideia de roteiro, assim como
 "prazer" se relaciona com a ideia de
 
-a\) improviso.
+1. improviso.
 
-b\) espetáculo.
+1. espetáculo.
 
-c\) velocidade.
+1. velocidade.
 
-d\) tecnocracia.
+1. tecnocracia.
 
 Saeb: Analisar os mecanismos que contribuem para a progressão textual.
 
@@ -6432,13 +6432,13 @@ consequentemente, opõe-se ao prazer.
 Do ponto de vista do jogador, o futebol do dever e o futebol do prazer
 caracterizam-se, respectivamente, por
 
-a\) arte e criatividade.
+1. arte e criatividade.
 
-b\) velocidade e força.
+1. velocidade e força.
 
-c\) monotonia e divertimento.
+1. monotonia e divertimento.
 
-d\) profissionalismo e várzea.
+1. profissionalismo e várzea.
 
 Saeb: Inferir informações implícitas em distintos textos.
 
@@ -6468,16 +6468,16 @@ nos campos profissionais.
 Para realçar as qualidades do futebol do prazer sobre as do futebol do
 dever, o autor emprega exagero em
 
-a\) "o espetáculo se transformou num dos negócios mais lucrativos do
+1. "o espetáculo se transformou num dos negócios mais lucrativos do
 mundo."
 
-b\) "A tecnocracia do esporte profissional foi impondo um futebol de
+1. "A tecnocracia do esporte profissional foi impondo um futebol de
 pura velocidade e muita força."
 
-c\) "O jogo se transformou em espetáculo, com poucos protagonistas e
+1. "O jogo se transformou em espetáculo, com poucos protagonistas e
 muitos espectadores."
 
-d\) "comete o disparate de driblar o time adversário inteirinho, além do
+1. "comete o disparate de driblar o time adversário inteirinho, além do
 juiz e do público das arquibancadas."
 
 Saeb: Analisar o uso de figuras de linguagem como estratégia
@@ -6519,16 +6519,16 @@ Acesso em: 03 mar. 2023.
 Em se tratando do gênero notícia, a forma verbal "teriam sido
 distorcidos" demonstra a intenção de
 
-a\) reforçar a denúncia, pois a distorção dos conceitos ficou
+1. reforçar a denúncia, pois a distorção dos conceitos ficou
 comprovada.
 
-b\) duvidar da veracidade do fato, pois a instituição denunciada é de
+1. duvidar da veracidade do fato, pois a instituição denunciada é de
 confiança.
 
-c\) atribuir a afirmação a um terceiro, pois a denúncia foi feita por
+1. atribuir a afirmação a um terceiro, pois a denúncia foi feita por
 outro jornal.
 
-d\) amenizar a gravidade do fato, pois a distorção respeitou os limites
+1. amenizar a gravidade do fato, pois a distorção respeitou os limites
 da lei.
 
 Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
@@ -6580,13 +6580,13 @@ Editora Landmark, 2011 (fragmento).
 
 O que caracteriza o texto como peça teatral é a presença de
 
-a\) rubricas com instruções de interpretação da cena.
+1. rubricas com instruções de interpretação da cena.
 
-b\) emoções subjetivas dos personagens, como a angústia.
+1. emoções subjetivas dos personagens, como a angústia.
 
-c\) indicações do tempo e espaço em que se passa a história.
+1. indicações do tempo e espaço em que se passa a história.
 
-d\) discurso indireto em que as falas são reproduzidas pelo narrador.
+1. discurso indireto em que as falas são reproduzidas pelo narrador.
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
@@ -6622,16 +6622,16 @@ Parábola, 1999 (fragmento).
 O autor considera ser falsa a afirmação de que o português é uma língua
 difícil. Para ele, o mito do português como língua difícil surgiu porque
 
-a\) a escola ensina a gramática da língua de forma errada para os
+1. a escola ensina a gramática da língua de forma errada para os
 estudantes.
 
-b\) os estudantes não se dedicam ao estudo da língua para aprenderem a
+1. os estudantes não se dedicam ao estudo da língua para aprenderem a
 gramática.
 
-c\) a língua do cotidiano não tem regras, ao contrário da língua
+1. a língua do cotidiano não tem regras, ao contrário da língua
 ensinada na escola.
 
-d\) as pessoas pensam que a língua se limita às regras gramaticais
+1. as pessoas pensam que a língua se limita às regras gramaticais
 ensinadas na escola.
 
 Saeb: Avaliar a adequação das variedades linguísticas em contextos de
@@ -6674,13 +6674,13 @@ COLASANTI, Marina. *Eu sei, mas não devia*. Rio de Janeiro: Rocco, 1996
 A repetição de certas palavras no texto contribui para a progressão
 textual ao
 
-a\) narrar a rotina da autora, do começo ao fim do dia.
+1. narrar a rotina da autora, do começo ao fim do dia.
 
-b\) justificar a preferência da autora por morar numa casa.
+1. justificar a preferência da autora por morar numa casa.
 
-c\) descrever ações realizadas, na ordem em que ocorreram.
+1. descrever ações realizadas, na ordem em que ocorreram.
 
-d\) enumerar situações que são consequências umas das outras.
+1. enumerar situações que são consequências umas das outras.
 
 Saeb: Analisar os mecanismos que contribuem para a progressão textual.
 
@@ -6735,13 +6735,13 @@ Acesso em: 03 mar. 2023.
 O texto de lei apresenta uma organização textual própria. O trecho
 transcrito da Constituição é exemplar do gênero lei, pois
 
-a\) determina as obrigações a serem cumpridas pelos cidadãos.
+1. determina as obrigações a serem cumpridas pelos cidadãos.
 
-b\) apresenta um vocabulário conhecido apenas por advogados.
+1. apresenta um vocabulário conhecido apenas por advogados.
 
-c\) estrutura os assuntos em artigos, elemento básico do gênero.
+1. estrutura os assuntos em artigos, elemento básico do gênero.
 
-d\) narra a evolução do país até se tornar uma república federativa.
+1. narra a evolução do país até se tornar uma república federativa.
 
 Saeb: Identificar formas de organização de textos normativos, legais
 e/ou reinvindicatórios.
@@ -6784,13 +6784,13 @@ inúteis e talvez perigosas.
 A descrição física e psicológica do personagem contribui caracterizá-lo
 como alguém
 
-a\) tolo.
+1. tolo.
 
-b\) rústico.
+1. rústico.
 
-c\) analfabeto.
+1. analfabeto.
 
-d\) mal-humorado.
+1. mal-humorado.
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
@@ -6819,13 +6819,13 @@ sim de uma forma austera de tratamento.
 
 Em "Na verdade falava pouco", o narrador introduz uma
 
-a\) conclusão.
+1. conclusão.
 
-b\) reformulação.
+1. reformulação.
 
-c\) exemplificação.
+1. exemplificação.
 
-d\) particularização.
+1. particularização.
 
 Saeb: Identificar os recursos de modalização em textos diversos.
 
@@ -6864,16 +6864,16 @@ Acesso em: 08 mar. 2023 (fragmento).
 Da leitura do texto, depreende-se que a grande quantidade gerada de lixo
 eletrônico tem como causa
 
-a\) a obsolescência dos eletrônicos em razão das rápidas inovações
+1. a obsolescência dos eletrônicos em razão das rápidas inovações
 tecnológicas.
 
-b\) o descarte dos equipamentos eletrônicos de forma incorreta no meio
+1. o descarte dos equipamentos eletrônicos de forma incorreta no meio
 ambiente.
 
-c\) a qualidade baixa dos equipamentos eletrônicos que leva a uma curta
+1. a qualidade baixa dos equipamentos eletrônicos que leva a uma curta
 vida útil.
 
-d\) a falta de projetos sociais que possam dar uma destinação adequada
+1. a falta de projetos sociais que possam dar uma destinação adequada
 aos eletrônicos.
 
 Saeb: Inferir informações implícitas em distintos textos.
@@ -6923,15 +6923,15 @@ No último parágrafo, o termo "doença", além de retomar "obesidade
 infantil", adiciona-lhe um valor semântico. Nesse sentido, o termo
 retoma a expressão "obesidade infantil" e, ao mesmo tempo,
 
-a\) situa-a no horizonte de preocupação da medicina como um problema de
+1. situa-a no horizonte de preocupação da medicina como um problema de
 saúde.
 
-b\) atenua a gravidade com que se deve observar a obesidade na
+1. atenua a gravidade com que se deve observar a obesidade na
 juventude.
 
-c\) relaciona-a aos dados estatísticos da Organização Mundial de Saúde.
+1. relaciona-a aos dados estatísticos da Organização Mundial de Saúde.
 
-d\) chama o espectador a acompanhar a edição do programa divulgado.
+1. chama o espectador a acompanhar a edição do programa divulgado.
 
 Saeb: Analisar os processos de referenciação lexical e pronominal.
 
@@ -6988,13 +6988,13 @@ Acesso em: 04 mar. 2023.
 A aparente divergência entre as informações apresentadas nessas notícias
 é afastada
 
-a\) pelo conhecimento prévio do leitor.
+1. pelo conhecimento prévio do leitor.
 
-b\) pela presença de dados estatísticos.
+1. pela presença de dados estatísticos.
 
-c\) pela credibilidade dos veículos.
+1. pela credibilidade dos veículos.
 
-d\) pelo meio de circulação.
+1. pelo meio de circulação.
 
 Saeb: Avaliar a fidedignidade de informações sobre um mesmo fato
 divulgado em diferentes veículos e mídias.
@@ -7034,13 +7034,13 @@ Acesso em: 09 mar. 2023 (adaptado).
 A campanha, na linguagem verbal e não verbal, busca ganhar a adesão do
 público por meio da ênfase
 
-a\) na data da vacinação.
+1. na data da vacinação.
 
-c\) no motivo da vacinação.
+1. no motivo da vacinação.
 
-d\) no método de vacinação.
+1. no método de vacinação.
 
-c\) no público da vacinação.
+1. no público da vacinação.
 
 Saeb: Identificar elementos constitutivos de textos pertencentes ao
 domínio jornalístico/midiático.
@@ -7068,13 +7068,13 @@ apenas um caráter informativo.
 Textos publicitários utilizam diferentes recursos na construção da
 mensagem. Na campanha apresentada, o recurso utilizado é
 
-a\) a imparcialidade, para evitar influenciar a adesão do público.
+1. a imparcialidade, para evitar influenciar a adesão do público.
 
-b\) o efeito humorístico, gerado pela pose da criança na fotografia.
+1. o efeito humorístico, gerado pela pose da criança na fotografia.
 
-c\) a duplicidade de sentidos, como na expressão "mostre a língua".
+1. a duplicidade de sentidos, como na expressão "mostre a língua".
 
-d\) a linguagem literal, privilegiando o sentido denotativo das
+1. a linguagem literal, privilegiando o sentido denotativo das
 palavras.
 
 Saeb: Identificar elementos constitutivos de textos pertencentes ao
@@ -7110,13 +7110,13 @@ FARAH, F.T. *O enigma das estrelas.* São Paulo: Geração Editorial, 2013
 
 Há sentido figurado em
 
-a\) "Os primeiros cinco quilômetros eram asfaltados".
+1. "Os primeiros cinco quilômetros eram asfaltados".
 
-b\) "O resto parecia uma montanha-russa de terra batida".
+1. "O resto parecia uma montanha-russa de terra batida".
 
-c\) "Estava a pouco menos de vinte quilômetros de sua casa".
+1. "Estava a pouco menos de vinte quilômetros de sua casa".
 
-d\) "Perdera o melhor amigo em um acidente naquele mesmo trajeto".
+1. "Perdera o melhor amigo em um acidente naquele mesmo trajeto".
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
@@ -7164,16 +7164,16 @@ DarkSide Books, 2020.
 Pelo conteúdo do texto, e sabendo que se trata de uma narrativa, pode-se
 reconhecer que esse parágrafo apresenta
 
-a\) o desfecho, que introduz a resolução do problema surgido na
+1. o desfecho, que introduz a resolução do problema surgido na
 história.
 
-b\) o conflito, que introduz o problema que precisa ser resolvido na
+1. o conflito, que introduz o problema que precisa ser resolvido na
 história.
 
-c\) a situação inicial, que introduz o tempo, o espaço e os personagens
+1. a situação inicial, que introduz o tempo, o espaço e os personagens
 da história.
 
-d\) o clímax, que introduz as tensões entre os personagens e
+1. o clímax, que introduz as tensões entre os personagens e
 reviravoltas na história.
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
@@ -7227,14 +7227,14 @@ ASSIS, Machado de. *Dom Casmurro*. Rio de Janeiro: Nova Aguilar, 1994
 O narrador considera ser uma anedota a situação que vivenciou com um
 rapaz no trem. A situação pode ser considerada engraçada porque
 
-a\) a conversa entre o narrador e o rapaz abordou diferentes assuntos.
+1. a conversa entre o narrador e o rapaz abordou diferentes assuntos.
 
-b\) o rapaz interrompeu a leitura e guardou os versos do poema no bolso.
+1. o rapaz interrompeu a leitura e guardou os versos do poema no bolso.
 
-c\) o narrador evitou dar atenção ao rapaz por conhecê-lo apenas de
+1. o narrador evitou dar atenção ao rapaz por conhecê-lo apenas de
 vista.
 
-d\) o cansaço do narrador foi confundido com falta de interesse no
+1. o cansaço do narrador foi confundido com falta de interesse no
 poema.
 
 Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
@@ -7260,14 +7260,14 @@ não de indiferença.
 De acordo com o contexto, o uso da expressão "fechei os olhos três ou
 quatro vezes" teve o objetivo de
 
-a\) diminuir a importância do motivo causador da indignação do rapaz.
+1. diminuir a importância do motivo causador da indignação do rapaz.
 
-b\) concordar com o motivo de o rapaz ter desistido da leitura dos
+1. concordar com o motivo de o rapaz ter desistido da leitura dos
 versos.
 
-c\) indicar a quantidade de vezes que dormiu ao longo da conversa.
+1. indicar a quantidade de vezes que dormiu ao longo da conversa.
 
-d\) justificar sua indiferença em relação ao poema lido pelo rapaz.
+1. justificar sua indiferença em relação ao poema lido pelo rapaz.
 
 Saeb: Analisar os efeitos de sentido produzidos pelo uso de
 modalizadores em textos diversos.
@@ -7316,13 +7316,13 @@ Nepomuceno e Maria do Carmo Brito. Porto Alegre: L&PM Pocket, 2014
 O texto aborda a profissão de goleiro com tom humorístico. O efeito de
 humor se manifesta por meio de
 
-a\) caracterização pejorativa e exagero.
+1. caracterização pejorativa e exagero.
 
-b\) uso de termos e expressões ofensivos.
+1. uso de termos e expressões ofensivos.
 
-c\) desqualificação das habilidades do goleiro.
+1. desqualificação das habilidades do goleiro.
 
-d\) exaltação dos jogadores de linha.
+1. exaltação dos jogadores de linha.
 
 Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
 crítica.
@@ -7358,11 +7358,11 @@ NOTA: Antes de iniciar a limpeza do equipamento desligue-o da tomada.
 
 **Limpando a tela**
 
-1\. Molhe um pano macio em uma mistura de água morna com um pouco de
+1. Molhe um pano macio em uma mistura de água morna com um pouco de
 detergente. Esprema bem o pano até que ele fique quase seco e então
 utilize-o em sua tela.
 
-2\. Para garantir que não exista resíduos líquidos na tela, deixe-a
+1. Para garantir que não exista resíduos líquidos na tela, deixe-a
 secar por alguns minutos e só depois ligue o aparelho na tomada.
 
 Disponível em:
@@ -7372,16 +7372,16 @@ Acesso em: 10 mar. 2023 (fragmento).
 Devido ao gênero a que pertence, o texto apresenta, em sua composição,
 verbos no imperativo que expressam o sentido de
 
-a\) comando, para que o usuário se sinta obrigado a limpar o
+1. comando, para que o usuário se sinta obrigado a limpar o
 equipamento.
 
-b\) recomendação, para que o usuário faça a correta limpeza do
+1. recomendação, para que o usuário faça a correta limpeza do
 equipamento.
 
-c\) apelo, para que o usuário reconheça a necessidade de limpar o
+1. apelo, para que o usuário reconheça a necessidade de limpar o
 equipamento.
 
-d\) convite, para que o leitor seja convencido a realizar a limpeza do
+1. convite, para que o leitor seja convencido a realizar a limpeza do
 equipamento.
 
 Saeb: Analisar os efeitos de sentido dos tempos, modos e/ou vozes
@@ -7476,13 +7476,13 @@ Acesso em: 10 mar. 2023.
 
 Os dois poemas se relacionam intertextualmente por
 
-a\) pertencerem ao mesmo autor.
+1. pertencerem ao mesmo autor.
 
-b\) concordarem no mesmo ponto de vista.
+1. concordarem no mesmo ponto de vista.
 
-c\) abordarem o mesmo tema: o fazer poético.
+1. abordarem o mesmo tema: o fazer poético.
 
-d\) apresentarem a mesma estrutura de estrofes.
+1. apresentarem a mesma estrutura de estrofes.
 
 Saeb: Analisar a intertextualidade entre textos literários ou entre
 estes e outros textos verbais ou não verbais.
@@ -7538,13 +7538,13 @@ Acesso em: 13 mar. 2023.
 O eu lírico utiliza, em sua reflexão, uma comparação com as nuvens por
 sua característica de serem
 
-a\) lúdicas.
+1. lúdicas.
 
-b\) uniformes.
+1. uniformes.
 
-c\) transitórias.
+1. transitórias.
 
-d\) reconhecíveis.
+1. reconhecíveis.
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
@@ -7582,13 +7582,13 @@ RAMOS, Lázaro. *Na minha pele*. 1.ed. Rio de Janeiro: Objetiva, 2017
 Os termos "esse papel" e "esse costume" contribuem para a progressão
 textual ao evitarem repetição de palavras e
 
-a\) provocarem mudança de assunto.
+1. provocarem mudança de assunto.
 
-b\) fazerem referência externa ao texto.
+1. fazerem referência externa ao texto.
 
-c\) anteciparem o que ainda vai ser dito.
+1. anteciparem o que ainda vai ser dito.
 
-d\) retomarem o mesmo trecho antecedente.
+1. retomarem o mesmo trecho antecedente.
 
 Saeb: Analisar os processos de referenciação lexical e pronominal.
 
@@ -7655,13 +7655,13 @@ O verso final do poema, "Assim é e assim seja\...", confirma a visão de
 mundo exposta ao longo do texto. O eu poético, nesse verso, assume, em
 relação aos infortúnios da vida, uma postura de
 
-a\) conformismo
+1. conformismo
 
-b\) negação.
+1. negação.
 
-c\) pessimismo.
+1. pessimismo.
 
-d\) indignação.
+1. indignação.
 
 Saeb: Inferir a presença de valores sociais, culturais e humanos em
 textos literários.

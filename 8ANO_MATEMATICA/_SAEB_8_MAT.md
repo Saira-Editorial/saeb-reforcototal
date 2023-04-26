@@ -49,38 +49,38 @@ par, o número não será um quadrado perfeito.
 
 Atividades
 
-1\) Calculando-se $\sqrt{27}$ , obtém-se 5,196152423\..., número que tem
+1. Calculando-se $\sqrt{27}$ , obtém-se 5,196152423\..., número que tem
 representação decimal infinita, mas não é dízima periódica.
 
 Conclui-se então que $\sqrt{27}$ é um número:
 
-a\) natural
+1. natural
 
-b\) inteiro
+1. inteiro
 
-c\) racional
+1. racional
 
-d\) irracional
+1. irracional
 
 Resposta: Alternativa d irracional
 
 Deixar o espaço de 1 linha para resposta
 
-2\) Um exemplo de número irracional é:
+1. Um exemplo de número irracional é:
 
-a\) 0,9999999999\....
+1. 0,9999999999\....
 
-b\) 3,012012012012\....
+1. 3,012012012012\....
 
-c\) 3,290291292293\...
+1. 3,290291292293\...
 
-d\) 3,501501501510\...
+1. 3,501501501510\...
 
 Resposta: Alternativa C
 
 Deixar o espaço de 1 linha para resposta
 
-3\) Observe os números a seguir:
+1. Observe os números a seguir:
 
 ![](./imgSAEB_8_MAT/media/image1.png){width="2.7916666666666665in"
 height="0.6354166666666666in"}
@@ -89,27 +89,27 @@ Inserir uma imagem similar a essa, contendo os mesmos valores
 
 Quais deles pertencem ao conjunto:
 
-a\) N
+1. N
 
-b\) Z
+1. Z
 
-c\) Z, mas não pertencem a N?
+1. Z, mas não pertencem a N?
 
-d\) Q, mas não pertencem a Z?
+1. Q, mas não pertencem a Z?
 
 Respostas:
 
-a\) 0 ; 1
+1. 0 ; 1
 
-b\) -- 4 , 0 , 1
+1. -- 4 , 0 , 1
 
-c\) -4
+1. -4
 
-d\) -2,3 e - $\frac{1}{4}$
+1. -2,3 e - $\frac{1}{4}$
 
 Em cada item acima deixar o espaço de 1 linha para resposta.
 
-4\) observe os números abaixo:
+1. observe os números abaixo:
 
 6 $\sqrt{6}$ 6,6 -6
 
@@ -117,61 +117,61 @@ Inserir uma imagem similar a essa, contendo os mesmos valores.
 
 Identifique quais deles são:
 
-a\) reais e naturais.
+1. reais e naturais.
 
-b\) reais e inteiros.
+1. reais e inteiros.
 
-c\) reais e racionais.
+1. reais e racionais.
 
-d\) reais e irracionais.
+1. reais e irracionais.
 
 Resposta:
 
-a\) 6
+1. 6
 
-b\) 6 ; -6
+1. 6 ; -6
 
-c\) 6; -6; 6,6
+1. 6; -6; 6,6
 
-d\) $\sqrt{6}$
+1. $\sqrt{6}$
 
 Em cada item acima deixar o espaço de 1 linha para resposta.
 
-5\) Complete os espaços abaixo com pertence ou não pertence:
+1. Complete os espaços abaixo com pertence ou não pertence:
 
-a\) 100 R\*
+1. 100 R\*
 
-b\) 100 R~+~
+1. 100 R~+~
 
 c)100 R~-~
 
-d\) $\sqrt{9}$ R
+1. $\sqrt{9}$ R
 
-e\) - $\sqrt{9}$ R
+1. - $\sqrt{9}$ R
 
-f\) $\sqrt{- 9}$ R
+1. $\sqrt{- 9}$ R
 
-g\) 2,6 R~+~
+1. 2,6 R~+~
 
 Em cada item acima deixar o espaço de 1 linha para resposta.
 
 Respostas:
 
-a\) Pertence
+1. Pertence
 
-b\) Pertence
+1. Pertence
 
-c\) Não Pertence
+1. Não Pertence
 
-d\) Pertence
+1. Pertence
 
-e\) Pertence
+1. Pertence
 
-f\) Não Pertence
+1. Não Pertence
 
-g\) Pertence
+1. Pertence
 
-6\) A representação decimal de um número pode ser: finita, infinita e
+1. A representação decimal de um número pode ser: finita, infinita e
 periódica ou, ainda, infinita e não periódica. Escreva qual é o caso de
 cada um dos números a seguir
 
@@ -179,45 +179,45 @@ a)$\frac{15}{6}$
 
 b)$\frac{1}{3}$
 
-c\) $\sqrt{3}$
+1. $\sqrt{3}$
 
-d\) $\sqrt{2}$
+1. $\sqrt{2}$
 
 Em cada item acima deixar o espaço de 1 linha para resposta.
 
 Respostas:
 
-a\) Finita
+1. Finita
 
-b\) infinita e periódica
+1. infinita e periódica
 
-c\) infinita e não periódica
+1. infinita e não periódica
 
-d\) infinita e não periódica
+1. infinita e não periódica
 
-7\) O número $\pi$ é classificado como:
+1. O número $\pi$ é classificado como:
 
-a\) um número natural.
+1. um número natural.
 
-b\) uma dízima periódica.
+1. uma dízima periódica.
 
-c\) um número racional.
+1. um número racional.
 
-d\) uma dízima não periódica.
+1. uma dízima não periódica.
 
 Deixar o espaço de 1 linha para resposta.
 
 Resposta: Alternativa D dizima não periódica.
 
-8\) Dos números a seguir, qual deles é quadrado perfeito?
+1. Dos números a seguir, qual deles é quadrado perfeito?
 
-a\) 170
+1. 170
 
-b\) 129
+1. 129
 
 c)121
 
-d\) 105
+1. 105
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
@@ -225,7 +225,7 @@ Resposta:
 
 Alternativa c 121, pois 11 x 11 = 121
 
-9\) O produto ou o quociente de dois números irracionais pode ser um
+1. O produto ou o quociente de dois números irracionais pode ser um
 número racional?
 
 Resposta: Sim, como exemplos pode ser citado $\sqrt{2}$ x $\sqrt{2}$ =
@@ -236,7 +236,7 @@ deixar o espaço de 3 linhas para resposta.
 10\) Qual é o menor número natural que devemos multiplicar pelo número
 125 para que o produto seja um número quadrado perfeito?
 
-a\) 2
+1. 2
 
 b)3
 
@@ -251,53 +251,53 @@ quadrado perfeito.
 
 11\) Escreva na forma de fração:
 
-a\) 0,57
+1. 0,57
 
-b\) 1,29
+1. 1,29
 
-c\) 3,124
+1. 3,124
 
-d\) -- 32,40
+1. -- 32,40
 
-e\) 0,9
+1. 0,9
 
-f\) 0,650
+1. 0,650
 
-g\) 1,342
+1. 1,342
 
-h\) 5,09409
+1. 5,09409
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Respostas:
 
-a\) 0,57 = $\frac{57}{100}$
+1. 0,57 = $\frac{57}{100}$
 
-b\) 1,29 = $\frac{129}{100}$
+1. 1,29 = $\frac{129}{100}$
 
-c\) 3,124 = $\frac{3124}{1000}$
+1. 3,124 = $\frac{3124}{1000}$
 
-d\) -- 32,40= - $\frac{324}{10}$
+1. -- 32,40= - $\frac{324}{10}$
 
-e\) 0,9 = $\frac{9}{10}$
+1. 0,9 = $\frac{9}{10}$
 
-f\) 0,650 = $\frac{65}{100}$
+1. 0,650 = $\frac{65}{100}$
 
-g\) 1,342 = $\frac{1342}{1000}$
+1. 1,342 = $\frac{1342}{1000}$
 
-h\) 5,09409 = $\frac{509\ 409}{100\ 000}$
+1. 5,09409 = $\frac{509\ 409}{100\ 000}$
 
 Treino
 
-1\) Qual é a decomposição do número 1 000 em fatores primos?
+1. Qual é a decomposição do número 1 000 em fatores primos?
 
-a\) 2² x 5²
+1. 2² x 5²
 
-b\) 2³ x 5² x 2
+1. 2³ x 5² x 2
 
-c\) 2³ x 5³
+1. 2³ x 5³
 
-d\) 2³x5²
+1. 2³x5²
 
 Resposta: C
 
@@ -319,15 +319,15 @@ obtemos 2³ x 5³
 Alternativa D: incorreta ao não computar 1 elemento 5 na fatoração
 chegará a esse resultado erroneamente.
 
-2\) Sobre o número 123 456 789, podemos afirmar que:
+1. Sobre o número 123 456 789, podemos afirmar que:
 
-a\) é múltiplo de 5
+1. é múltiplo de 5
 
-b\) é múltiplo de 2
+1. é múltiplo de 2
 
-c\) é múltiplo de 3
+1. é múltiplo de 3
 
-d\) é múltiplo de 10
+1. é múltiplo de 10
 
 Resposta: C
 
@@ -356,7 +356,7 @@ Alternativa D: incorreta, o aluno pode realizar a divisão incorretamente
 do valor 123 456 789 e chegar a essa conclusão ao errar nos cálculos
 básicos.
 
-3\) Manoel ganhou um prêmio na loteria no valor de R\$ 12 500 345 769,
+1. Manoel ganhou um prêmio na loteria no valor de R\$ 12 500 345 769,
 00 reais, Qual algarismo está situado na casa da centena de milhar?
 
 a)4
@@ -483,9 +483,9 @@ Atividades:
 
 $$\ $$
 
-1\) Calcule o valor das potencias abaixo.
+1. Calcule o valor das potencias abaixo.
 
-a\) ($- \frac{3}{5}$)^2^
+1. ($- \frac{3}{5}$)^2^
 
 ^b)^ $( + \frac{1}{2})$^5^
 
@@ -501,19 +501,19 @@ Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Resposta:
 
-a\) $\frac{9}{25}$
+1. $\frac{9}{25}$
 
 b)$\ \frac{1}{32}$
 
 c)$- \frac{3}{8}$
 
-d\) +12,25
+1. +12,25
 
-e\) 1
+1. 1
 
-f\) -1,5$\ $
+1. -1,5$\ $
 
-2\) Calcule as operações abaixo
+1. Calcule as operações abaixo
 
 ^a)\ -^ $( - \frac{1}{2})$^²^ + (-1) ^4^
 
@@ -524,64 +524,64 @@ f\) -1,5$\ $
 ^d)^
 $\left( - \frac{1}{2} \right).\left( + \frac{3}{2} \right) - \left( \frac{2}{3} \right)^{3}:( - \frac{1}{27})\ $
 
-e\) (0,1) ² : (-2) + (1,5) ^.^ (-0,1) ²
+1. (0,1) ² : (-2) + (1,5) ^.^ (-0,1) ²
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Respostas:
 
-a\) $+ 1\frac{1}{4}$
+1. $+ 1\frac{1}{4}$
 
-b\) +64
+1. +64
 
-c\) $+ 1\frac{1}{2}$
+1. $+ 1\frac{1}{2}$
 
-d\) 8$\frac{3}{8}$
+1. 8$\frac{3}{8}$
 
-e\) 0,01
+1. 0,01
 
-3\) Use a propriedade e, no caderno, escreva cada quociente como uma
+1. Use a propriedade e, no caderno, escreva cada quociente como uma
 única potência e calcule o valor dela
 
-a\) 3^7^:3^5^
+1. 3^7^:3^5^
 
 b)(-1)^8^:(-1)^6^
 
 c)$\left( \frac{2}{3} \right):\left( \frac{2}{3} \right)$
 
-d\) Metade de 2^10^
+1. Metade de 2^10^
 
-e\) (-2,5)^5^ : (-2,5)²
+1. (-2,5)^5^ : (-2,5)²
 
-f\) a^9^: a^8^ , com a racional não nulo
+1. a^9^: a^8^ , com a racional não nulo
 
-g\) 1^8^:1²
+1. 1^8^:1²
 
-h\) terça parte de 3^8^
+1. terça parte de 3^8^
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Respostas
 
-a\) 3^7-5^=3² = 3.3= 9
+1. 3^7-5^=3² = 3.3= 9
 
-b\) (-1)^8-6^= (-1)²= (-1).(-1)= +1
+1. (-1)^8-6^= (-1)²= (-1).(-1)= +1
 
-c\)
+1.
 $(\frac{2}{3}$)^4-1^=$(\frac{2}{3}$)³=$\ (\frac{2}{3}$).$\ (\frac{2}{3}$).$\ (\frac{2}{3}$)=
 $\frac{8}{27}$
 
-d\) 2^10^: 2¹= 2^9^= 2.2.2.2.2.2.2.2.2= 572
+1. 2^10^: 2¹= 2^9^= 2.2.2.2.2.2.2.2.2= 572
 
-e\) (-2,5) ^5-2^ = (-2,5)³= (-2,5). (-2,5). (-2,5)= -15,625
+1. (-2,5) ^5-2^ = (-2,5)³= (-2,5). (-2,5). (-2,5)= -15,625
 
-f\) a^9-8^= a¹ =a
+1. a^9-8^= a¹ =a
 
-g\) 1^8-2^=1^6^= 1.1.1.1.1.1=1
+1. 1^8-2^=1^6^= 1.1.1.1.1.1=1
 
-h\) 3^8-1^= 3^7^ = 3.3.3.3.3.3.3=2187
+1. 3^8-1^= 3^7^ = 3.3.3.3.3.3.3=2187
 
-4\) Jamile fez uma viagem turística ao topo de uma montanha, ao chegar
+1. Jamile fez uma viagem turística ao topo de uma montanha, ao chegar
 em certo local observou uma pedra antiga com o seguinte enunciado, esta
 pedra tem o peso de \[(-5)³\]² kg, quanto pesa a pedra que Jandira
 observou?
@@ -595,19 +595,19 @@ Utilizando a propriedade de multiplicação de expoentes temos que:
 (-5)^3.2^= (-5)^6^= (-5)^.^ (-5)^.^ (-5)^.^ (-5)^.^ (-5)^.^ (-5)= 15 625
 kg
 
-5\) Uma sala de jantar quadrada terá o piso coberto com ladrilhos com
+1. Uma sala de jantar quadrada terá o piso coberto com ladrilhos com
 medida de comprimento dos lados de 60 cm.
 
-a\) Qual é a medida de comprimento dos lados da sala sabendo que a
+1. Qual é a medida de comprimento dos lados da sala sabendo que a
 medida de área dela é de 81m²?
 
-b\) Quantos ladrilhos serão necessários para cobrir o piso?
+1. Quantos ladrilhos serão necessários para cobrir o piso?
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Respostas:
 
-a\) Considerando que a sala é quadra e que a formula da área de um
+1. Considerando que a sala é quadra e que a formula da área de um
 quadrado é l ² para descobrirmos o real valor de cada lado, basta
 fazermos a operação inversa, no caso a radiciação logo temos que:
 
@@ -617,41 +617,41 @@ l= $\sqrt{81}$
 
 l=9
 
-b\) Se cada lado da sala possui 9 metros e cada lado do ladrilho possui
+1. Se cada lado da sala possui 9 metros e cada lado do ladrilho possui
 0,60 cm temos que:
 
 9:0,6=15
 
 15^.^15= 225 ladrilhos
 
-6\) Utilizando os conhecimentos de redução de potencias, reduza as
+1. Utilizando os conhecimentos de redução de potencias, reduza as
 potencias abaixo.
 
-a\) 10² . 2²
+1. 10² . 2²
 
-b\) 11² . 3²
+1. 11² . 3²
 
-c\) (-6)³ ^.^ (-8)³
+1. (-6)³ ^.^ (-8)³
 
-d\) (3,1)^5\ .^ (0,7)^5.^2^5^
+1. (3,1)^5\ .^ (0,7)^5.^2^5^
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Utilizando o método de redução de potencias temos que
 
-a\) (10 . 2) ² = 20 ²
+1. (10 . 2) ² = 20 ²
 
-b\) (11 . 3) ² = 33²
+1. (11 . 3) ² = 33²
 
-c\) ((-6) . (-8)) ³= 48³
+1. ((-6) . (-8)) ³= 48³
 
-d\) (3,1 . 0,7 . 2) ^5^= 4,34^5^
+1. (3,1 . 0,7 . 2) ^5^= 4,34^5^
 
-7\) Calcule o valor de cada potência com exponente negativo
+1. Calcule o valor de cada potência com exponente negativo
 
-a\) 8^-2^
+1. 8^-2^
 
-b\) 5^-1^
+1. 5^-1^
 
 c)(-2)^-4^
 
@@ -659,65 +659,65 @@ d)($\frac{1}{2})$^-3^
 
 e)(-3)^-3^
 
-f\) $\left( \frac{1}{2} \right)$^-5^
+1. $\left( \frac{1}{2} \right)$^-5^
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Resposta Utilizando a propriedade de expoente negativo da potenciação
 temos que:
 
-a\) 8^-2^= $\frac{1}{8²}$ = $\frac{1}{64}$
+1. 8^-2^= $\frac{1}{8²}$ = $\frac{1}{64}$
 
 b)5^-1^= $\frac{1}{5¹}$ = $\frac{1}{5}$
 
-c\) (-2)^-4^ = $\ \frac{1}{2}$~4~ =$\ \frac{1}{16}$
+1. (-2)^-4^ = $\ \frac{1}{2}$~4~ =$\ \frac{1}{16}$
 
 d)$\ (\frac{1}{2}$)^-3^= $\frac{2}{1³}$ = $\frac{2}{1}$ = 2
 
-e\) (-3)^-3^= $- \frac{1}{3³}$ = $\frac{1}{27}$
+1. (-3)^-3^= $- \frac{1}{3³}$ = $\frac{1}{27}$
 
 f)$\ \frac{1}{2}$^-5^ = $\frac{2}{1}$~5~ = $\frac{2}{1}$ = 2
 
-8\) Calcule as seguintes potencias de base 10 e coloque as em forma
+1. Calcule as seguintes potencias de base 10 e coloque as em forma
 decimal
 
-a\) 10^6^
+1. 10^6^
 
-b\) 10^-6^
+1. 10^-6^
 
-c\) 10^-4^
+1. 10^-4^
 
 d)10^4^
 
-e\) 10^-2^
+1. 10^-2^
 
-f\) 10 ^-5^
+1. 10 ^-5^
 
-g\) 10^10^
+1. 10^10^
 
-h\) 10^-8^
+1. 10^-8^
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Respostas:
 
-a\) 1 000 000
+1. 1 000 000
 
-b\) 0, 000 001
+1. 0, 000 001
 
-c\) 0, 0001
+1. 0, 0001
 
-d\) 10 000
+1. 10 000
 
-e\) 0,01
+1. 0,01
 
-f\) 0,00001
+1. 0,00001
 
-g\) 10 000 000 000
+1. 10 000 000 000
 
-h\) 0,00000001
+1. 0,00000001
 
-9\) Reinaldo é professor, e durante uma de suas de estatística resolveu
+1. Reinaldo é professor, e durante uma de suas de estatística resolveu
 demonstrar a população da terra em formato decimal, porem ao tentar
 fazer a demonstração acabou que o espaço de sua lousa não foi
 suficiente, Sabendo que a população da terra em 2022 chegou em 8
@@ -757,17 +757,17 @@ O quadrado Rosa possui uma área de 16 cm²
 Com as informações obtidas pelo matemático podemos afirmar que os
 perímetros das respectivas figuras são:
 
-a\) Perímetro do quadrado vermelho
+1. Perímetro do quadrado vermelho
 
-b\) Perímetro do quadrado verde
+1. Perímetro do quadrado verde
 
-c\) Perímetro do quadrado laranja
+1. Perímetro do quadrado laranja
 
-d\) Perímetro do quadrado azul
+1. Perímetro do quadrado azul
 
-e\) Perímetro do quadrado cinza
+1. Perímetro do quadrado cinza
 
-f\) Perímetro do quadrado rosa
+1. Perímetro do quadrado rosa
 
 Em cada item acima deixar o espaço de 3 linhas para resposta.
 
@@ -792,18 +792,18 @@ f)$\sqrt{16}$= 4, 4^.^4=perímetro =16
 
 Treino
 
-1\) Raul estava passeando pela rua e ao passar por uma loja de discos
+1. Raul estava passeando pela rua e ao passar por uma loja de discos
 antigos viu um álbum musical com o seguinte título: "Eu Nasci Há Dez Mil
 Anos Atrás", se a capa desse álbum fosse representada em forma de
 potência de base 10 qual o novo nome do álbum?
 
-a\) Eu Nasci Há 10² anos Atrás
+1. Eu Nasci Há 10² anos Atrás
 
-b\) Eu Nasci Há 10³ anos atrás
+1. Eu Nasci Há 10³ anos atrás
 
-c\) Eu Nasci Há 10^4^ anos atrás
+1. Eu Nasci Há 10^4^ anos atrás
 
-d\) Eu Nasci Há 10^5^ Anos Atrás
+1. Eu Nasci Há 10^5^ Anos Atrás
 
 Resposta: C
 
@@ -831,7 +831,7 @@ Alternativa D, incorreta, ao considerar o número de "zeros"
 incorretamente ao invés de 4 zeros consideráveis para 5, ocorreria esse
 erro.
 
-2\) Thiago é um professor de matemática e ao comemorar seu aniversário
+1. Thiago é um professor de matemática e ao comemorar seu aniversário
 com seus alunos resolveu lançar um enigma, sua idade seria o expoente do
 resultado da seguinte expressão:
 
@@ -841,13 +841,13 @@ resultado da seguinte expressão:
 
 Qual a Idade de Thiago?
 
-a\) 2
+1. 2
 
-b\) 93
+1. 93
 
-c\) 45
+1. 45
 
-d\) 30
+1. 30
 
 Resposta: D
 
@@ -880,18 +880,18 @@ Realizando a divisão temos que 2^90:3^=2^30^
 Considerando que a idade de Thiago é apenas o expoente temos que Thiago
 tem 30 anos.
 
-3\) Um pen drive possui diferentes capacidades de memória, mas a medida
+1. Um pen drive possui diferentes capacidades de memória, mas a medida
 normalmente utilizada é o GB, sabendo que 1 GB = 2^10^ megabytes, ao
 comprar um pen drive de 32 GB quantos megabytes disponíveis de
 armazenamento estará disponível?
 
-a\) 32 768 megabytes
+1. 32 768 megabytes
 
-b\) 32 000 megabytes
+1. 32 000 megabytes
 
-c\) 16 384 megabytes
+1. 16 384 megabytes
 
-d\) 64 megabytes
+1. 64 megabytes
 
 Resposta: A
 
@@ -1017,7 +1017,7 @@ fração geratriz.
 
 Atividades:
 
-1\) Classifique com V para verdadeiro e F para falso as afirmações a
+1. Classifique com V para verdadeiro e F para falso as afirmações a
 seguir:
 
 ( ) 4,9 = 4,09
@@ -1048,23 +1048,23 @@ Respostas:
 
 ( V) 23,98 \> 23,89
 
-2\) Efetue as operações a seguir:
+1. Efetue as operações a seguir:
 
 a)$- \frac{8}{5}$ + 2,5 =
 
-b\) $\frac{14}{3}$ + $\frac{19}{5}$
+1. $\frac{14}{3}$ + $\frac{19}{5}$
 
-c\) -$\frac{8}{13}$ - $\frac{3}{5}$
+1. -$\frac{8}{13}$ - $\frac{3}{5}$
 
-d\) 79,02 -- $\frac{12}{5}$
+1. 79,02 -- $\frac{12}{5}$
 
-e\) 125 - $\frac{35}{4}$
+1. 125 - $\frac{35}{4}$
 
-f\) $\frac{49}{7}$ + $\frac{2}{3}$
+1. $\frac{49}{7}$ + $\frac{2}{3}$
 
-g\) 50 - $\frac{1}{2}$
+1. 50 - $\frac{1}{2}$
 
-h\) 100 - $\frac{1}{3}$
+1. 100 - $\frac{1}{3}$
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
@@ -1073,134 +1073,134 @@ Respostas:
 a)$- \frac{8}{5}$ + 2,5 = -$\ \frac{8}{5}$ + $\frac{25}{10}$ =
 $\frac{- 16}{10}$+$\frac{25}{10}$ = $\frac{9}{10}$
 
-b\) $\frac{14}{3}$ + $\frac{19}{5}$= $\frac{70}{15}$ + $\frac{57}{15}$ =
+1. $\frac{14}{3}$ + $\frac{19}{5}$= $\frac{70}{15}$ + $\frac{57}{15}$ =
 $\frac{127}{15}$
 
 c)- $\frac{8}{13}$ - $\frac{3}{5}$ = $- \frac{40}{65}$ - $\frac{39}{65}$
 = - $\frac{79}{65}$
 
-d\) 79,02 -- $\frac{12}{5}$ = $\frac{7\ 902}{100}$ - $\frac{12}{5}$ =
+1. 79,02 -- $\frac{12}{5}$ = $\frac{7\ 902}{100}$ - $\frac{12}{5}$ =
 $\frac{7\ 902}{100}$ - $\frac{240}{100}$ = $\frac{7\ 662}{100}$
 
-e\) 125 - $\frac{35}{4}$ = $\frac{125}{1}$ - $\frac{35}{4}$ =
+1. 125 - $\frac{35}{4}$ = $\frac{125}{1}$ - $\frac{35}{4}$ =
 $\frac{500}{4}$ - $\frac{35}{4}$ = $\frac{465}{4}$
 
-f\) $\frac{49}{7}$ + $\frac{2}{3}$ = $\frac{147}{21}$ + $\frac{14}{21}$
+1. $\frac{49}{7}$ + $\frac{2}{3}$ = $\frac{147}{21}$ + $\frac{14}{21}$
 = $\frac{161}{21}$
 
-g\) 50 - $\frac{1}{2}$ = $\frac{50}{1}$ - $\frac{1}{2}$ =
+1. 50 - $\frac{1}{2}$ = $\frac{50}{1}$ - $\frac{1}{2}$ =
 $\frac{100}{2}$ - $\frac{1}{2}$ = $\frac{99}{2}$
 
-h\) 100 - $\frac{1}{3}$ = $\frac{100}{1}$ - $\frac{1}{3}$ =
+1. 100 - $\frac{1}{3}$ = $\frac{100}{1}$ - $\frac{1}{3}$ =
 $\frac{300}{3}$ - $\frac{1}{3}$ = $\frac{299}{3}$
 
-3\) Resolva as multiplicações abaixo, mas antes de calcular transforme
+1. Resolva as multiplicações abaixo, mas antes de calcular transforme
 os decimais em fracionários
 
-a\) 0,5 . 12,7
+1. 0,5 . 12,7
 
-b\) 3,6 . 6,7
+1. 3,6 . 6,7
 
-c\) 9,3 . 13,25
+1. 9,3 . 13,25
 
-d\) 2,9 . 3,8
+1. 2,9 . 3,8
 
-e\) 11,2 . 4,2
+1. 11,2 . 4,2
 
-f\) 7,5 . 6,6
+1. 7,5 . 6,6
 
-g\) 0,456 . 0,345
+1. 0,456 . 0,345
 
-h\) 0,01 . 0,001
+1. 0,01 . 0,001
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Respostas:
 
-a\) 0,5 . 12,7 = $\frac{5}{10}$ . $\frac{127}{10}$ = $\frac{635}{100}$
+1. 0,5 . 12,7 = $\frac{5}{10}$ . $\frac{127}{10}$ = $\frac{635}{100}$
 
-b\) 3,6 . 6,7 = $\frac{35}{10}$ . $\frac{67}{10}$
+1. 3,6 . 6,7 = $\frac{35}{10}$ . $\frac{67}{10}$
 
-c\) 9,3 . 13,25 = $\frac{93}{10}$ . $\frac{1325}{100}$ =
+1. 9,3 . 13,25 = $\frac{93}{10}$ . $\frac{1325}{100}$ =
 $\frac{123\ 225}{1\ 000}$
 
-d\) 2,9 . 3,8 = $\frac{29}{10}$ . $\frac{38}{10}$ = $\frac{1102}{100}$
+1. 2,9 . 3,8 = $\frac{29}{10}$ . $\frac{38}{10}$ = $\frac{1102}{100}$
 
-e\) 11,2 . 4,2= $\frac{112}{10}$ . $\frac{42}{10}$ =
+1. 11,2 . 4,2= $\frac{112}{10}$ . $\frac{42}{10}$ =
 $\frac{4\ 704}{100}$
 
-f\) 7,5 . 6,6 = $\frac{75}{10}$ . $\frac{66}{10}$ = $\frac{4950}{100}$
+1. 7,5 . 6,6 = $\frac{75}{10}$ . $\frac{66}{10}$ = $\frac{4950}{100}$
 
-g\) 0,456 . 0,345 = $\frac{456}{1\ 000}$ . $\frac{345}{1\ 000}$ =
+1. 0,456 . 0,345 = $\frac{456}{1\ 000}$ . $\frac{345}{1\ 000}$ =
 $\frac{157\ 320}{1\ 000\ 000}$
 
-h\) 0,01 . 0,001= $\frac{1}{100}$ . $\frac{1}{1\ 000}$ =
+1. 0,01 . 0,001= $\frac{1}{100}$ . $\frac{1}{1\ 000}$ =
 $\frac{1}{100\ 000}$
 
-4\) Resolva as Divisões abaixo, mas antes transforme os decimais em
+1. Resolva as Divisões abaixo, mas antes transforme os decimais em
 fracionários
 
-a\) 0,5 : 3,4
+1. 0,5 : 3,4
 
-b\) 9,4 : 3,1
+1. 9,4 : 3,1
 
-c\) 5,1 : 0,2
+1. 5,1 : 0,2
 
-d\) 0,2 : 0,1
+1. 0,2 : 0,1
 
-e\) 0,01 : 0,001
+1. 0,01 : 0,001
 
-f\) 2,1 : 0,5
+1. 2,1 : 0,5
 
-g\) 4,2 : 0,1
+1. 4,2 : 0,1
 
-h\) 3,1: 1,5
+1. 3,1: 1,5
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Respostas:
 
-a\) 0,5 : 3,4 = $\frac{5}{10}$ : $\frac{34}{10}$ = $\frac{5}{10}$ .
+1. 0,5 : 3,4 = $\frac{5}{10}$ : $\frac{34}{10}$ = $\frac{5}{10}$ .
 $\frac{10}{34}$ = $\frac{50}{340}$
 
-b\) 9,4 : 3,1 = $\frac{94}{10}$ : $\frac{31}{10}$ = $\frac{94}{10}$ .
+1. 9,4 : 3,1 = $\frac{94}{10}$ : $\frac{31}{10}$ = $\frac{94}{10}$ .
 $\frac{10}{31}$ = $\frac{940}{310}$
 
-c\) 5,1 : 0,2 = $\frac{51}{10}$ : $\frac{2}{10}$ = $\frac{51}{10}$ .
+1. 5,1 : 0,2 = $\frac{51}{10}$ : $\frac{2}{10}$ = $\frac{51}{10}$ .
 $\frac{10}{2}$ = $\frac{510}{20}$
 
-d\) 0,2 : 0,1 = $\frac{2}{10}$ : $\frac{1}{10}$ = $\frac{2}{10}$ .
+1. 0,2 : 0,1 = $\frac{2}{10}$ : $\frac{1}{10}$ = $\frac{2}{10}$ .
 $\frac{10}{1}$ = $\frac{20}{10}$ = 2
 
-e\) 0,01 : 0,001= $\frac{1}{100}$ : $\frac{1}{1\ 000}$ = $\frac{1}{100}$
+1. 0,01 : 0,001= $\frac{1}{100}$ : $\frac{1}{1\ 000}$ = $\frac{1}{100}$
 . $\frac{1\ 000}{1}$ = $\frac{1\ 000}{100}$ = 10
 
-f\) 2,1 : 0,5 = $\frac{21}{10}$ : $\frac{5}{10}$ = $\frac{21}{10}$ .
+1. 2,1 : 0,5 = $\frac{21}{10}$ : $\frac{5}{10}$ = $\frac{21}{10}$ .
 $\frac{10}{5}$ = $\frac{210}{50}$
 
-g\) 4,2 : 0,1= $\frac{42}{10}$ : $\frac{1}{10}$ = $\frac{42}{10}$ .
+1. 4,2 : 0,1= $\frac{42}{10}$ : $\frac{1}{10}$ = $\frac{42}{10}$ .
 $\frac{10}{1}$= $\frac{420}{10}$ = 42
 
-h\) 3,1: 1,5 = $\frac{31}{10}$ : $\frac{15}{10}$ = $\frac{31}{10}$ .
+1. 3,1: 1,5 = $\frac{31}{10}$ : $\frac{15}{10}$ = $\frac{31}{10}$ .
 $\frac{10}{15}$ = $\frac{310}{150}$
 
-5\) Transforme as dizimas periódicas abaixo em frações geratrizes:
+1. Transforme as dizimas periódicas abaixo em frações geratrizes:
 
-a\) 2,333333\...
+1. 2,333333\...
 
-b\) 3,181818\...
+1. 3,181818\...
 
-c\) 0,144444\...
+1. 0,144444\...
 
-d\) 4,166666\...
+1. 4,166666\...
 
-e\) 1,2222\...
+1. 1,2222\...
 
 Em cada item acima deixar o espaço de 4 linhas para resposta.
 
 Respostas:
 
-a\) 2,333333\...
+1. 2,333333\...
 
 23,333333\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 10x
@@ -1213,7 +1213,7 @@ a\) 2,333333\...
 
 Logo $\frac{21}{9}$ = $\frac{7}{3}$
 
-b\) 3,181818\...
+1. 3,181818\...
 
 318,1818\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100x
 
@@ -1225,7 +1225,7 @@ b\) 3,181818\...
 
 Logo= $\frac{315}{99}$
 
-c\) 0,144444\...
+1. 0,144444\...
 
 1,444444\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 10x
 
@@ -1237,7 +1237,7 @@ c\) 0,144444\...
 
 Logo $\frac{13}{90}$
 
-d\) 4,166666\...
+1. 4,166666\...
 
 41, 666666\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 10x
 
@@ -1249,7 +1249,7 @@ d\) 4,166666\...
 
 Logo = $\frac{375}{90}$ = $\frac{25}{6}$
 
-e\) 1,2222\...
+1. 1,2222\...
 
 1,222222 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
 
@@ -1261,7 +1261,7 @@ e\) 1,2222\...
 
 Logo: $\frac{11}{9}$
 
-6\) Prove que 0,99999999999999 = 1
+1. Prove que 0,99999999999999 = 1
 
 Deixar o espaço de 4 linhas para resposta.
 
@@ -1277,7 +1277,7 @@ Resposta:
 
 Logo $\frac{9}{9}$ = 1
 
-7\) Complete com X as lacunas corresponde aos valores corretos
+1. Complete com X as lacunas corresponde aos valores corretos
 
 ![](./imgSAEB_8_MAT/media/image3.png){width="2.373779527559055in"
 height="4.291666666666667in"}
@@ -1290,7 +1290,7 @@ height="3.775in"}
 
 Respostas:
 
-8\) Juliana está realizando suas atividades extracurriculares, ao
+1. Juliana está realizando suas atividades extracurriculares, ao
 realizar 2 operações na calculadora obteve os seguintes resultados:
 3,33333333\... e 0,8888888\...
 
@@ -1326,19 +1326,19 @@ Analogamente temos que
 Logo temos que Juliana Realizou a operação $\frac{8}{9}$ ou frações
 equivalentes a essa como operação.
 
-9\) Um professor de matemática aposentado resolveu inovar em sua festa
+1. Um professor de matemática aposentado resolveu inovar em sua festa
 de aniversário, na parede do salão de festas colocou um cartaz com os
 seguintes dizeres "ao descobrirem a fração geratriz do número
 5,454545\..., saberão que o numerador desta fração é a idade que estou
 completando hoje" Quantos anos o professor está completando?
 
-a\) 50 anos
+1. 50 anos
 
-b\) 52 anos
+1. 52 anos
 
-c\) 56 anos
+1. 56 anos
 
-d\) 60 anos
+1. 60 anos
 
 Deixar o espaço de 4 linhas para resposta.
 
@@ -1361,29 +1361,29 @@ $\frac{3}{9}$ da casa, Qual fração da casa Marla deverá limpar da casa ?
 
 a)$\frac{6}{18}$
 
-b\) $\frac{2}{3}$
+1. $\frac{2}{3}$
 
-c\) $\frac{5}{9}$
+1. $\frac{5}{9}$
 
-d\) $\frac{1}{4}$
+1. $\frac{1}{4}$
 
 Deixar o espaço de 3 linhas para resposta.
 
 Treino:
 
-1\) Assinale a alternativa correta:
+1. Assinale a alternativa correta:
 
-a\) O valor do número $\pi$ que é aproximadamente
+1. O valor do número $\pi$ que é aproximadamente
 3,14159265358979323846... é considerado uma dizima periódica simples
 pois seus 3 últimos números da sequência são pares
 
-b\) o número de ouro representado pelo número 1.61803399\... é
+1. o número de ouro representado pelo número 1.61803399\... é
 considerado uma dizima periódica simples
 
-c\) Ao calcularmos uma dizima periódica simples, sempre encontramos uma
+1. Ao calcularmos uma dizima periódica simples, sempre encontramos uma
 fração geratriz
 
-d\) O Conjunto dos números irracionais são compostos por dizimas
+1. O Conjunto dos números irracionais são compostos por dizimas
 periódicas simples.
 
 Resposta: C
@@ -1408,7 +1408,7 @@ Alternativa D, incorreta, o aluno pode ter uma confusão conceitual ao
 não conseguir identificar uma a diferença entre uma dizima periódica
 simples e um irracional.
 
-2\) Ao realizar uma palestra um renomado medico descobriu que apenas
+1. Ao realizar uma palestra um renomado medico descobriu que apenas
 $\frac{2}{3}$ considerou boa a palestra e do restante $\frac{1}{6}$
 considerou a palestra péssima, qual foi a fração corresponde aos que
 acharam a palestra péssima?
@@ -1417,7 +1417,7 @@ a)$\frac{5}{6}$
 
 b)$\ \frac{2}{18}$
 
-c\) $\frac{12}{3}$
+1. $\frac{12}{3}$
 
 d)$\ \frac{1}{18}$
 
@@ -1454,17 +1454,17 @@ Logo
 Logo temos $\frac{50}{900}$ dividindo numerador e denominador por 50
 temos $\frac{1}{18}$
 
-3\) Ao Fazer um bolo de aniversário, Cecilia utiliza 400 g de farinha de
+1. Ao Fazer um bolo de aniversário, Cecilia utiliza 400 g de farinha de
 trigo, ao dividir este bolo em 22 pedaços, Qual fração geratriz
 representara a quantidade de farinha em cada pedaço de bolo?
 
 a)$\ \frac{200}{1}$
 
-b\) $\frac{1\ 000}{99}$
+1. $\frac{1\ 000}{99}$
 
 c)$\ \frac{200}{9}$
 
-d\) $\frac{1\ 800}{101}$
+1. $\frac{1\ 800}{101}$
 
 Resposta: C
 
@@ -1545,7 +1545,7 @@ Pelo método multiplicativo de seu correspondente decimal temos:
 
 Atividades
 
-1\) Em uma gincana realizada por uma escola haverá várias modalidades
+1. Em uma gincana realizada por uma escola haverá várias modalidades
 para que os alunos se inscrevam para participar. Ao final das inscrições
 30 alunos escolheram jogar futsal, 18 alunos escolheram jogar Vôlei, 45
 alunos escolheram jogar basquete e 32 alunos escolheram não participar
@@ -1553,13 +1553,13 @@ de nenhuma modalidade.
 
 Calcule então:
 
-a\) % dos alunos que escolheram jogar futsal
+1. % dos alunos que escolheram jogar futsal
 
-b\) % dos alunos que escolheram jogar vôlei
+1. % dos alunos que escolheram jogar vôlei
 
-c\) % dos alunos que escolheram jogar basquete
+1. % dos alunos que escolheram jogar basquete
 
-d\) % dos alunos que escolheram não participar de nenhuma modalidade
+1. % dos alunos que escolheram não participar de nenhuma modalidade
 
 Em cada item acima deixar o espaço de 3 linhas para resposta.
 
@@ -1567,7 +1567,7 @@ Respostas:
 
 Sabendo que o total de alunos é 125 temos que
 
-a\) futsal
+1. futsal
 
 125\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
 
@@ -1579,7 +1579,7 @@ a\) futsal
 
 X= 24 %
 
-b\) Vôlei
+1. Vôlei
 
 125\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
 
@@ -1591,7 +1591,7 @@ b\) Vôlei
 
 X = 14,4%
 
-c\) basquete
+1. basquete
 
 125\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
 
@@ -1601,7 +1601,7 @@ c\) basquete
 
 X = 36%
 
-d\) nenhuma das modalidades.
+1. nenhuma das modalidades.
 
 125\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
 
@@ -1613,17 +1613,17 @@ d\) nenhuma das modalidades.
 
 X = 25,6
 
-2\) Marcos é corretor de imóveis, em janeiro após ter um grande sucesso
+1. Marcos é corretor de imóveis, em janeiro após ter um grande sucesso
 em suas vendas recebeu um aumento de 10% no salário que passou a ser de
 R\$ 2 178,00. O valor do salário de Marcos antes do aumento era:
 
-a\) 1980
+1. 1980
 
-b\) 1990
+1. 1990
 
-c\) 2000
+1. 2000
 
-d\) 2100
+1. 2100
 
 Deixar o espaço de 3 linhas para resposta.
 
@@ -1641,7 +1641,7 @@ Logo x. 110 = 2178 . 100
 
 X= 1980
 
-3\) Após uma apresentação de teatro, 250 espectadores foram
+1. Após uma apresentação de teatro, 250 espectadores foram
 entrevistados e opinaram sobre o show. Veja o resultado dessa pesquisa:
 
 -   Ótimo = 105
@@ -1704,18 +1704,18 @@ X = 12 %
 
 X = 6 %
 
-4\) Valdemar é mecânico e adquiriu um carro quebrado pelo valor de R\$
+1. Valdemar é mecânico e adquiriu um carro quebrado pelo valor de R\$
 10 000,00, depois que arrumou o carro resolveu vendê-lo. Ele anunciou o
 carro pelo valor de R\$ 16 000,00. Qual é o fator multiplicativo que ele
 utilizou?
 
-a\) 0,2
+1. 0,2
 
-b\) 0,4
+1. 0,4
 
-c\) 0,5
+1. 0,5
 
-d\) 0,6
+1. 0,6
 
 Deixar o espaço de 3 linhas para resposta.
 
@@ -1737,18 +1737,18 @@ Logo houve um acréscimo de 60% então 60 : 100= 0,6
 
 O fator multiplicativo foi de 0,6
 
-5\) Amanda trabalha em uma loja de calçados, certo dia seu gerente
+1. Amanda trabalha em uma loja de calçados, certo dia seu gerente
 ofereceu uma % fixa de comissão para cada funcionário, se na venda de um
 tênis de 150 reais, Amanda obteve uma comissão de 12 reais. Qual % fixa
 Amanda ganhará sobre cada produto?
 
-a\) 6%
+1. 6%
 
-b\) 8%
+1. 8%
 
-c\) 10%
+1. 10%
 
-d\) 12%
+1. 12%
 
 Deixar o espaço de 3 linhas para resposta.
 
@@ -1766,7 +1766,7 @@ Logo 150 . x = 12 . 100
 
 X = 8 %
 
-6\) Em uma pesquisa realizada em um colégio obteve se que nesse colégio
+1. Em uma pesquisa realizada em um colégio obteve se que nesse colégio
 estudam 3 200 alunos, dos quais 1440 são meninos. O número de meninas
 representa quantos por cento do total de alunos que estudam nesse
 colégio?
@@ -1789,7 +1789,7 @@ X = 45% de meninos
 
 Logo 55% são meninas
 
-7\) . Magda está tendo aulas na auto escola de sua cidade, ao terminar o
+1. . Magda está tendo aulas na auto escola de sua cidade, ao terminar o
 curso Magda realizou uma prova escrita contendo leis de transito, Magda
 acertou 38 das 50 questões da prova, sabendo que para passar na prova
 escrita Magda precisava acertar pelo menos 80% da prova, ela foi
@@ -1811,7 +1811,7 @@ Logo 50 . x = 38 . 100
 
 X= 76% logo Magda foi reprovada
 
-8\) Alfredo é professor de educação física em uma escola, na última aula
+1. Alfredo é professor de educação física em uma escola, na última aula
 5 dos 40 alunos de uma classe faltaram na aula de Educação Física. Ao
 registrar as faltas no diário de classe quantos % Alfredo reportou de
 faltas naquela aula?
@@ -1832,7 +1832,7 @@ Logo 40 . x = 5 .100
 
 X= 12,5% de faltas
 
-9\) A primeira edição da Copa do Mundo de Futebol Masculino foi
+1. A primeira edição da Copa do Mundo de Futebol Masculino foi
 realizada em 1930. Desse ano até 2023, já foram realizados 22 torneios,
 e o Brasil ganhou 5 deles. O número de conquistas brasileiras representa
 quantos por cento do número de torneios realizados?
@@ -1855,7 +1855,7 @@ X= 22,72 %
 
 10 ) Quanto renderá de juros cada situação abaixo:
 
-a\) a quantia de 1 800 reais, aplicada durante 5 meses, a uma taxa de
+1. a quantia de 1 800 reais, aplicada durante 5 meses, a uma taxa de
 2,3% ao mês?
 
 Deixar o espaço de 3linhas para resposta.
@@ -1868,7 +1868,7 @@ Resposta: Utilizando juros simples temos que
 
 **J= 207**
 
-b\) a quantia de 2 450 reais, aplicada durante 2 meses, a uma taxa de
+1. a quantia de 2 450 reais, aplicada durante 2 meses, a uma taxa de
 1,96% ao mês?
 
 Deixar o espaço de 3linhas para resposta.
@@ -1883,18 +1883,18 @@ Resposta:
 
 Treino:
 
-1\) Beatriz é Cozinheira em uma escola, após o almoço nessa escola
+1. Beatriz é Cozinheira em uma escola, após o almoço nessa escola
 sempre é servido um suco, onde para se preparar é ideal usar a proporção
 120 mililitros de água para cada 80 mililitros de suco de fruta
 concentrado. Qual é a taxa percentual de água para preparação do suco?
 
-a\) 60%
+1. 60%
 
-b\) 6%
+1. 6%
 
-c\) 0,6%
+1. 0,6%
 
-d\) 0,06%
+1. 0,06%
 
 Resposta: A
 
@@ -1934,17 +1934,17 @@ Alternativa D: incorreta pois o aluno chegaria a esse resultado caso
 inserisse três "zeros" a menos na expressão chegando a esse resultado
 erroneamente.
 
-2\) Em uma empresa foi realizada uma eleição para escolher o seu
+1. Em uma empresa foi realizada uma eleição para escolher o seu
 representante. O candidato vencedor obteve 22 votos, o equivalente a 55%
 do total. Quantas pessoas votaram nessa eleição?
 
-a\) 12 pessoas
+1. 12 pessoas
 
-b\) 44 pessoas
+1. 44 pessoas
 
-c\) 22 pessoas
+1. 22 pessoas
 
-d\) 55 pessoas
+1. 55 pessoas
 
 Resposta: B
 
@@ -1979,18 +1979,18 @@ Alternativa D: incorreta, o aluno poderia chegar a essa conclusão
 confundindo o valor da porcentagem com o valor total de pessoas na
 votação.
 
-3\) Marcos fez um empréstimo de R\$ 120 000,00 que deverá ser pago com
+1. Marcos fez um empréstimo de R\$ 120 000,00 que deverá ser pago com
 juros de 1% ao mês sobre o valor emprestado a cada mês. Sabendo que
 pagou R\$ 6 000,00 de juros, quantos meses levou para pagar o
 empréstimo?
 
-a\) 5 meses
+1. 5 meses
 
-b\) 20 meses
+1. 20 meses
 
-c\) 1 200 meses
+1. 1 200 meses
 
-d\) 6 000 meses
+1. 6 000 meses
 
 Resposta: A
 
@@ -2136,22 +2136,22 @@ Substituindo o valor de x em qualquer uma das equações obtemos que y= 7
 
 Atividades:
 
-1\) Classifique cada um destes sistemas de equações em determinado,
+1. Classifique cada um destes sistemas de equações em determinado,
 indeterminado ou impossível, para x e y números racionais
 
-a\) x-2y = 3
+1. x-2y = 3
 
 3x-6y=9
 
-b\) 3x -- 2y= 1
+1. 3x -- 2y= 1
 
 6x -- 4y = 3
 
-c\) x-2y =3
+1. x-2y =3
 
 x+2y=7
 
-d\) 2x -- y =5
+1. 2x -- y =5
 
 -2x+ y = -5
 
@@ -2159,24 +2159,24 @@ Em cada item acima deixar o espaço de 3linhas para resposta.
 
 Respostas:
 
-a\) Indeterminado
+1. Indeterminado
 
-b\) Impossível
+1. Impossível
 
-c\) Determinado: solução {5,1}
+1. Determinado: solução {5,1}
 
-d\) indeterminado
+1. indeterminado
 
-2\) Há 5 anos, Thais tinha a metade da idade que terá daqui a 8 anos.
+1. Há 5 anos, Thais tinha a metade da idade que terá daqui a 8 anos.
 Qual é a idade de Thais?
 
-a\) 16
+1. 16
 
-b\) 18
+1. 18
 
-c\) 20
+1. 20
 
-d\) 22
+1. 22
 
 Deixar o espaço de 4 linhas para resposta.
 
@@ -2192,7 +2192,7 @@ x- 5 = $\frac{x + 8}{2}$
 
 X= 18
 
-3\) Um campo de golfe tem medida de perímetro de 300 metros. A medida de
+1. Um campo de golfe tem medida de perímetro de 300 metros. A medida de
 comprimento da largura desse campo é o dobro da medida de comprimento da
 profundidade. Quais são as medidas das dimensões desse campo?
 
@@ -2208,7 +2208,7 @@ X= 50
 
 Logo as dimensões do campo são, 50m de profundidade e 100m de largura.
 
-4\) Um tanque de leite tem medida de capacidade de 1 000 litros. Com ele
+1. Um tanque de leite tem medida de capacidade de 1 000 litros. Com ele
 inicialmente cheio, foram retirados 10 baldes de leite de mesma medida
 de capacidade e restaram 850 litros no tanque. Qual é a medida de
 capacidade de cada balde?
@@ -2223,37 +2223,37 @@ Resposta:
 
 x = 15
 
-5\) Determine x e y para que cada uma das igualdades seja verdadeira
+1. Determine x e y para que cada uma das igualdades seja verdadeira
 
-a\) (x , y ) = ( 8, -3)
+1. (x , y ) = ( 8, -3)
 
-b\) (7,y + 6) = ( x , 9)
+1. (7,y + 6) = ( x , 9)
 
-c\) (x-2) = (6,y)
+1. (x-2) = (6,y)
 
-d\) ( x+1 , y+1) = (6,4)
+1. ( x+1 , y+1) = (6,4)
 
-e\) (x,y + 2 ) = (5,4)
+1. (x,y + 2 ) = (5,4)
 
-f\) (4,y+7) = (x+1, 6)
+1. (4,y+7) = (x+1, 6)
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Respostas
 
-a\) x= 8 e y= - 3
+1. x= 8 e y= - 3
 
-b\) x= 7 e y= 3
+1. x= 7 e y= 3
 
-c\) x= 6 e y= -2
+1. x= 6 e y= -2
 
-d\) x= 5 e y= 3
+1. x= 5 e y= 3
 
-e\) x= 5 e y= 2
+1. x= 5 e y= 2
 
-f\) x= 3 e y= -1
+1. x= 3 e y= -1
 
-6\) Hoje, Reinaldo tem o dobro menos quatro anos da idade de Luan. Há
+1. Hoje, Reinaldo tem o dobro menos quatro anos da idade de Luan. Há
 dez anos, a idade de Reinaldo era o triplo da idade de Luan. Quantos
 anos eles têm hoje?
 
@@ -2288,7 +2288,7 @@ x = 28
 
 Logo a idade de Reinaldo é 28
 
-7\) Em um Estádio havia dois valores de ingresso: um para os torcedores
+1. Em um Estádio havia dois valores de ingresso: um para os torcedores
 do time mandante e outro para os torcedores da equipe visitante. Um
 grupo de seis torcedores da equipe mandante e um da torcida visitante
 pagou R\$ 71,00 pelos ingressos. Outro grupo, de sete torcedores da
@@ -2340,21 +2340,21 @@ Y = 17
 Logo o valor do ingresso pago pela torcida da equipe visitante foi de 17
 reais.
 
-8\) Resolva os sistemas de equações utilizando o método da substituição
+1. Resolva os sistemas de equações utilizando o método da substituição
 
-a\) 2x+ y = 0
+1. 2x+ y = 0
 
 2x -- y = 4
 
-b\) x -- y = 5
+1. x -- y = 5
 
 x+ y = 7
 
-c\) x+ y = 0
+1. x+ y = 0
 
 2x+ y = 14
 
-d\) 4x -- y = 6
+1. 4x -- y = 6
 
 4y = 8
 
@@ -2362,15 +2362,15 @@ Em cada item cima deixar o espaço de 4 linhas para resposta.
 
 Respostas:
 
-a\) ( 1, -2)
+1. ( 1, -2)
 
-b\) (6,1)
+1. (6,1)
 
-c\) (14, - 14)
+1. (14, - 14)
 
-d\) ( 2, 2)
+1. ( 2, 2)
 
-9\) Em um pátio, há carros e motos, no total de 32 veículos e 88 pneus.
+1. Em um pátio, há carros e motos, no total de 32 veículos e 88 pneus.
 Determine o número de veículos de cada tipo.
 
 Deixar o espaço de 6 linhas para resposta.
@@ -2434,17 +2434,17 @@ Então o número de vacas na fazenda é de 20.
 
 Treino:
 
-1\) Dois tambores contêm juntos 900 litros de petróleo Se passarmos 100
+1. Dois tambores contêm juntos 900 litros de petróleo Se passarmos 100
 litros do primeiro tanque para o segundo, este ficará com o dobro do
 número de litros do primeiro. Quantos litros contém o segundo tanque?
 
-a\) 400
+1. 400
 
-b\) 500
+1. 500
 
-c\) 200
+1. 200
 
-d\) 1 000
+1. 1 000
 
 Resposta: B
 
@@ -2493,14 +2493,14 @@ Alternativa D: o aluno chegaria a essa conclusão ao somar os valores do
 enunciado sem a o mesmo tentar realizar as operações, buscando assim uma
 possível resposta mais rápida.
 
-2\) Luzia pensou em um número racional. Somou $\frac{1}{3}$ a ele e
+1. Luzia pensou em um número racional. Somou $\frac{1}{3}$ a ele e
 obteve 11. Em qual número Luzia pensou?
 
-a\) $\frac{11}{3}$
+1. $\frac{11}{3}$
 
 b)$\frac{3}{11}$
 
-c\) $\frac{32}{3}$
+1. $\frac{32}{3}$
 
 d)$\frac{1}{33}$
 
@@ -2532,15 +2532,15 @@ X= $\frac{32}{3}$ alternativa c
 Alternativa D: incorreta, o aluno pode confundir as operações e realizar
 a operação de divisão ao invés da soma e chegar a essa resposta.
 
-3\) Qual é o valor de x que torna verdadeira a igualdade 2x-7 = -2,5x+2?
+1. Qual é o valor de x que torna verdadeira a igualdade 2x-7 = -2,5x+2?
 
-a\) x=18
+1. x=18
 
-b\) x= 2
+1. x= 2
 
-c\) x=1,1111111\.....
+1. x=1,1111111\.....
 
-d\) x = 40,5
+1. x = 40,5
 
 Resposta: B
 
@@ -2655,7 +2655,7 @@ A² + 5a²b + 3ab² + b³
 
 Atividades:
 
-1\) Dalva tem 44 anos. Escreva uma expressão algébrica que representa a
+1. Dalva tem 44 anos. Escreva uma expressão algébrica que representa a
 idade que ela teve há x anos e a idade que ele terá daqui a y anos,
 sendo x e y números naturais
 
@@ -2667,26 +2667,26 @@ Idade que Dalva já teve 44 - x
 
 Idade que Dalva ainda vai ter 44 + y
 
-2\) Celso comprou 1 calça de R\$ 150,00 e 2 camisas.
+1. Celso comprou 1 calça de R\$ 150,00 e 2 camisas.
 
-a\) Escreva uma expressão algébrica que represente o valor a pagar nessa
+1. Escreva uma expressão algébrica que represente o valor a pagar nessa
 situação. Usando a letra x
 
-b\) O que representa a letra x neste caso?
+1. O que representa a letra x neste caso?
 
-c\) Se o preço de 1 camisa é de R\$ 80,00, então quanto ele gastou?
+1. Se o preço de 1 camisa é de R\$ 80,00, então quanto ele gastou?
 
 Em cada item acima Deixar o espaço de 2 linhas para resposta.
 
 Respostas:
 
-a\) Utilizando a forma algébrica temos que
+1. Utilizando a forma algébrica temos que
 
 150 + 2x
 
-b\) A letra x representa o preço de cada camisa
+1. A letra x representa o preço de cada camisa
 
-c\) Se o preço de Cada camisa é R\$80,00 temos que:
+1. Se o preço de Cada camisa é R\$80,00 temos que:
 
 150 + 2^.^ 80=
 
@@ -2696,22 +2696,22 @@ c\) Se o preço de Cada camisa é R\$80,00 temos que:
 
 Celso gastou R\$ 310,00
 
-3\) Em um retângulo, o comprimento de um lado mede 4 cm a mais do que
+1. Em um retângulo, o comprimento de um lado mede 4 cm a mais do que
 outro. Representando por x a medida de comprimento, em centímetros, do
 menor lado, escreva as expressões algébricas que representam:
 
-a\) a medida de comprimento, em centímetros, do maior lado
+1. a medida de comprimento, em centímetros, do maior lado
 
-b\) a medida de perímetro, em centímetros, do retângulo
+1. a medida de perímetro, em centímetros, do retângulo
 
-c\) medida de área, em centímetros quadrados, da região retangular
+1. medida de área, em centímetros quadrados, da região retangular
 correspondente
 
 Em cada item acima deixar o espaço de 3 linhas para resposta.
 
 Respostas:
 
-a\) Utilizando a forma algébrica temos que:
+1. Utilizando a forma algébrica temos que:
 
 como não sabemos as medida de cada lado do retângulo denominamos seu
 lado de x
@@ -2721,7 +2721,7 @@ que o lado maior é
 
 x+4
 
-b\) Considerando os valores do enunciado temos que
+1. Considerando os valores do enunciado temos que
 
 lado maior x+4
 
@@ -2731,7 +2731,7 @@ perímetro= x+4 + x+4 + x + x =
 
 Perimetro = 4x+8
 
-c\) considerando que a área do retângulo é l ^.^ l e que o lado maior =
+1. considerando que a área do retângulo é l ^.^ l e que o lado maior =
 x+4
 
 e o lado menor = x
@@ -2742,159 +2742,159 @@ x+4 ^.^ x =
 
 X² + 4x
 
-4\) Escreva o coeficiente e a parte literal de cada monômio
+1. Escreva o coeficiente e a parte literal de cada monômio
 
-a\) xy
+1. xy
 
-b\) $- \frac{2}{3}t²$
+1. $- \frac{2}{3}t²$
 
-c\) --c² d ³
+1. --c² d ³
 
 d)$\frac{a²}{5}$
 
 e)-10 a^4^
 
-f\) $\frac{2}{3}\text{\ xy}$
+1. $\frac{2}{3}\text{\ xy}$
 
-g\) x³
+1. x³
 
-h\) -- 20ab
+1. -- 20ab
 
-i\) 1,5xy²
+1. 1,5xy²
 
-j\) a²b²
+1. a²b²
 
 Em cada item acima deixar o espaço de 1 linhas para resposta.
 
 Respostas
 
-a\)
+1.
 
 Cociente: 1
 
 Parte literal: xy
 
-b\) Cociente: $\frac{- 2}{3}$
+1. Cociente: $\frac{- 2}{3}$
 
 Parte literal: t²
 
-c\) Cociente: -1
+1. Cociente: -1
 
 Parte literal: c²d³
 
-d\) Cociente: $\frac{1}{5}$
+1. Cociente: $\frac{1}{5}$
 
 Parte literal:a²
 
-e\) Cociente:-10
+1. Cociente:-10
 
 Parte literal:a^4^
 
-f\) Cociente: $\frac{2}{3}$
+1. Cociente: $\frac{2}{3}$
 
 Parte literal: xy
 
-g\) Cociente: 1
+1. Cociente: 1
 
 Parte literal: x³
 
-h\) Cociente:-20
+1. Cociente:-20
 
 Parte literal: ab
 
-i\) Cociente: 1,5
+1. Cociente: 1,5
 
 Parte literal: xy²
 
-j\) Cociente: 1
+1. Cociente: 1
 
 Parte literal: a²b²
 
-5\) Escreva o nome de cada polinômio de acordo com o número de termos:
+1. Escreva o nome de cada polinômio de acordo com o número de termos:
 
-a\) 6x² - 4x +9
+1. 6x² - 4x +9
 
-b\) 7x² + 5 x
+1. 7x² + 5 x
 
-c\) 4x^4^
+1. 4x^4^
 
-d\) -3r + $\frac{1}{2}$ s
+1. -3r + $\frac{1}{2}$ s
 
-e\) -2abc
+1. -2abc
 
-f\) x³ + x² - x + 1
+1. x³ + x² - x + 1
 
-g\) -$\frac{2}{5}$ a²b
+1. -$\frac{2}{5}$ a²b
 
 h)a + b - 5
 
-i\) 3x - y
+1. 3x - y
 
-j\) 7x + 8x
+1. 7x + 8x
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Resposta:
 
-a\) trinômio
+1. trinômio
 
-b\) binômio
+1. binômio
 
-c\) monômio
+1. monômio
 
-d\) binômio
+1. binômio
 
-e\) monômio
+1. monômio
 
-f\) polinômio de 4 termos
+1. polinômio de 4 termos
 
-g\) monômio
+1. monômio
 
-h\) trinômio
+1. trinômio
 
-i\) binômio
+1. binômio
 
-j\) monômio
+1. monômio
 
-6\) Escreva cada polinômio na forma reduzida
+1. Escreva cada polinômio na forma reduzida
 
-a\) 2x² - 5x + 3 -- 3x² - 3 + 7x
+1. 2x² - 5x + 3 -- 3x² - 3 + 7x
 
-b\) 3y³ + 2y² + y -- 1 -- 3y³ - y² - 5y +3
+1. 3y³ + 2y² + y -- 1 -- 3y³ - y² - 5y +3
 
-c\) -5xy + 2y² +xy -3y²+ 2 + 3xy - 1
+1. -5xy + 2y² +xy -3y²+ 2 + 3xy - 1
 
-d\) 4x³ - 5y -- 6x³ + 7y + 3x³ - 2y
+1. 4x³ - 5y -- 6x³ + 7y + 3x³ - 2y
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Repostas utilizando a forma de soma dos termos iguais temos que:
 
-a\) 2x² - 3x² -5x +7x +3 -- 3
+1. 2x² - 3x² -5x +7x +3 -- 3
 
 -x² +2x
 
-b\) 3x³ - 3³ + 2y² -y² -5y+y -1 +3
+1. 3x³ - 3³ + 2y² -y² -5y+y -1 +3
 
 y² - 4y+ 2
 
-c\) 2y² -- 3y² + xy -5xy + 3xy -1+2
+1. 2y² -- 3y² + xy -5xy + 3xy -1+2
 
 -y² - xy² + 1
 
-d\) 4x³ -- 6x³ + 3x³ - 5y + 7y - 2Y
+1. 4x³ -- 6x³ + 3x³ - 5y + 7y - 2Y
 
 x³
 
-7\) Reescreva as expressões abaixo colocando as expressões em evidencia
+1. Reescreva as expressões abaixo colocando as expressões em evidencia
 
 a)ax + ay
 
-b\) 16x²+ 20y²
+1. 16x²+ 20y²
 
-c\) 5x + 15y -- 10z
+1. 5x + 15y -- 10z
 
-d\) 4x -16
+1. 4x -16
 
 e)-5x³y + 20x²y²
 
@@ -2902,17 +2902,17 @@ Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Respostas: Colocando as expressões em evidencia obtemos que:
 
-a\) a(x+y)
+1. a(x+y)
 
-b\) 4(4x² + 5y²)
+1. 4(4x² + 5y²)
 
-c\) 5(x+3y-2z)
+1. 5(x+3y-2z)
 
-d\) 4(x-4)
+1. 4(x-4)
 
-e\) 5x²y(-x+4y)
+1. 5x²y(-x+4y)
 
-8\) Durante uma aula de matemática um professor resolveu demonstrar
+1. Durante uma aula de matemática um professor resolveu demonstrar
 outra forma de calcular a operação (41x 39) e escreveu seus cálculos na
 lousa da seguinte forma:
 
@@ -2921,23 +2921,23 @@ lousa da seguinte forma:
 Seguindo a mesma forma de cálculo do professor, calcule os seguintes
 produtos:
 
-a\) 57 . 63
+1. 57 . 63
 
-b\) 52. 48
+1. 52. 48
 
-c\) 42 . 34
+1. 42 . 34
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Respostas:
 
-a\) 57 . 63 = (60-3). (60+3) = 60² - 3² = 3591
+1. 57 . 63 = (60-3). (60+3) = 60² - 3² = 3591
 
-b\) 52 . 48= ( 50 +2 ) . (50-2) = 50² - 2² = 2496
+1. 52 . 48= ( 50 +2 ) . (50-2) = 50² - 2² = 2496
 
-c\) 42 . 34= (38 + 4) . (38 -- 4) = 38² - 4² =1428
+1. 42 . 34= (38 + 4) . (38 -- 4) = 38² - 4² =1428
 
-9\) Uma construtora resolveu compra dois terrenos de formato retangular
+1. Uma construtora resolveu compra dois terrenos de formato retangular
 para construir 2 condomínios, qual a equação que representa a área total
 dos dois terrenos somados?
 
@@ -2974,35 +2974,35 @@ Somando os dois terrenos temos que
 
 10\) Efetue os monômios descritos abaixo:
 
-a\) 6x^4^+ 12x^6^
+1. 6x^4^+ 12x^6^
 
 b)10xy-xy
 
 c)(6x³) . (2x²)
 
-d\) (14x^10)^: (2x²)
+1. (14x^10)^: (2x²)
 
-e\) (2x³)³
+1. (2x³)³
 
-f\) (-4xy²) ³
+1. (-4xy²) ³
 
-g\) $\frac{30x}{6x}$ para x diferente de 0
+1. $\frac{30x}{6x}$ para x diferente de 0
 
-h\) 6x² - 8x²
+1. 6x² - 8x²
 
 i)$(\frac{4}{5}x$)^-1^
 
 j)9x² + 6x²
 
-k\) 7x² + 4x
+1. 7x² + 4x
 
-l\) (8r) . (6s)
+1. (8r) . (6s)
 
 m)(16x²) :4
 
-n\) 8x + 6x + 4x
+1. 8x + 6x + 4x
 
-o\) (-4xy²)³
+1. (-4xy²)³
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
@@ -3011,52 +3011,52 @@ Respostas:
 Utilizando as propriedades algébricas e as propriedades de potenciação
 temos que:
 
-a\) 6x^4^+ 12x^6^=18x^10^
+1. 6x^4^+ 12x^6^=18x^10^
 
 b)10xy-xy= 9xy
 
 c)(6x³) . (2x²)=12x^5^
 
-d\) (14x^10)^: (2x²)=7x^8^
+1. (14x^10)^: (2x²)=7x^8^
 
-e\) (2x³)³= 2x^9^
+1. (2x³)³= 2x^9^
 
-f\) (-4xy²) ³= -4xy^6^
+1. (-4xy²) ³= -4xy^6^
 
-g\) $\frac{30x}{6x}$ para x diferente de 0 = 5x
+1. $\frac{30x}{6x}$ para x diferente de 0 = 5x
 
-h\) 6x² - 8x² = -2x²
+1. 6x² - 8x² = -2x²
 
 i)$(\frac{4}{5}x$)^-1^=+ $\frac{5}{4}$
 
 j)9x² + 6x²=15x²
 
-k\) 7x² + 4x²=11x²
+1. 7x² + 4x²=11x²
 
-l\) (8r) . (6s)= 48rs
+1. (8r) . (6s)= 48rs
 
 m)(16x²) :4= 4x²
 
-n\) 8x + 6x + 4x= 18x
+1. 8x + 6x + 4x= 18x
 
-o\) (-2xy²)^4^= 16x^4^y^8^
+1. (-2xy²)^4^= 16x^4^y^8^
 
 Treino:
 
-1\) Elza resolveu comprar uma piscina com as medidas abaixo:
+1. Elza resolveu comprar uma piscina com as medidas abaixo:
 
 ![](./imgSAEB_8_MAT/media/image6.png){width="2.9625in"
 height="1.6701388888888888in"}
 
 Qual a equação que representa a medida da área em m² dessa piscina?
 
-a\) 3x² +8x +4
+1. 3x² +8x +4
 
-b\) 8x + 8
+1. 8x + 8
 
-c\) 4x + 4
+1. 4x + 4
 
-d\) 3x + 1
+1. 3x + 1
 
 Resposta: A
 
@@ -3090,7 +3090,7 @@ uma multiplicação chegando a esse valor.
 Alternativa D: incorreta, o aluno poderia chegar a esse valor realizando
 uma divisão ao invés de uma multiplicação.
 
-2\) Considerando que a²+ b² = 34 e ab= 15, qual o valor de
+1. Considerando que a²+ b² = 34 e ab= 15, qual o valor de
 $\frac{(a + b)²}{8}$ ?
 
 a)2,266666666
@@ -3127,7 +3127,7 @@ $\frac{34 + (2.15)}{8} =$ $\frac{34 + 30}{8}$ = $\frac{64}{8}$ = 8
 Alternativa D: incorreta pois ao realizar a soma ao invés da
 multiplicação no ultimo termo
 
-3\) Ao comprar uma bola de futebol, Joaquim resolver fazer experimentos
+1. Ao comprar uma bola de futebol, Joaquim resolver fazer experimentos
 com um disco de vinil, onde descobriu que o diâmetro do disco é igual a
 (x² - 3), descobrindo o diâmetro Joaquim percebeu que era possível saber
 o perímetro e a área do disco, ao realizar os cálculos quais valores
@@ -3135,13 +3135,13 @@ Joaquim descobriu?
 
 Considere $\pi$ = 3
 
-a\) Área = 3x^4^ - 18x² - 27 Perímetro= 6x² - 18
+1. Área = 3x^4^ - 18x² - 27 Perímetro= 6x² - 18
 
-b\) Área = 3x^4^ - 18x² + 27 Perímetro= 6x² + 18
+1. Área = 3x^4^ - 18x² + 27 Perímetro= 6x² + 18
 
-c\) Área = 3x^4^ + 18x² + 27 Perímetro= 6x² - 18
+1. Área = 3x^4^ + 18x² + 27 Perímetro= 6x² - 18
 
-d\) Área = 3x^4^ - 18x² + 27 Perímetro= 6x² - 18
+1. Área = 3x^4^ - 18x² + 27 Perímetro= 6x² - 18
 
 Resposta: D
 
@@ -3233,7 +3233,7 @@ Logo o conjunto solução é $+ \frac{1}{4}$ e $- \ \frac{1}{4}$
 
 Atividades
 
-1\) Determine a solução da equação x² + 4 = 0 no conjunto R
+1. Determine a solução da equação x² + 4 = 0 no conjunto R
 
 Deixar o espaço de 2 linhas para resposta.
 
@@ -3246,7 +3246,7 @@ X= $\sqrt{- 4}$
 Como $\sqrt{- 4}$ não existe no conjunto R não temos valores reais para
 x. Logo, a equação não tem raízes reais. Assim, S = ~~0~~
 
-2\) Resolva, no conjunto R, a equação (2y + 1) ² = 8 + 2(2y + 1).
+1. Resolva, no conjunto R, a equação (2y + 1) ² = 8 + 2(2y + 1).
 
 Deixar o espaço de 6 linhas para resposta.
 
@@ -3267,44 +3267,44 @@ Y= ± $\frac{3}{2}$
 Logo os números + $\frac{3}{2}$ e $\frac{3}{2}$ são as raízes da
 equação.
 
-3\) Determine o conjunto solução de cada uma das seguintes equações do
+1. Determine o conjunto solução de cada uma das seguintes equações do
 2° grau, no conjunto R
 
-a\) x² - 1 = 0
+1. x² - 1 = 0
 
-b\) x² - 16 = 0
+1. x² - 16 = 0
 
-c\) x² - 64 = 0
+1. x² - 64 = 0
 
-d\) 9x² = 25
+1. 9x² = 25
 
 Em cada item acima deixar o espaço de 4 linhas para resposta.
 
 Respostas:
 
-a\) { -1,1}
+1. { -1,1}
 
-b\) { -4 , 4}
+1. { -4 , 4}
 
-c\) {-8, 8}
+1. {-8, 8}
 
-d\) {$- \frac{5}{3}$ ,$\frac{5}{3}$ }
+1. {$- \frac{5}{3}$ ,$\frac{5}{3}$ }
 
-4\) Identifique a, b e c nas funções quadráticas abaixo:
+1. Identifique a, b e c nas funções quadráticas abaixo:
 
-a\) x² -- 5x + 6 = 0
+1. x² -- 5x + 6 = 0
 
-b\) -2x² + 8x -- 8 = 0
+1. -2x² + 8x -- 8 = 0
 
-c\) x² = 4
+1. x² = 4
 
-d\) x² - x = - (x + 15)
+1. x² - x = - (x + 15)
 
 Deixar o espaço de 4 linhas para resposta.
 
 Respostas:
 
-a\)
+1.
 
 A= 1
 
@@ -3312,7 +3312,7 @@ B= -5
 
 C= 6
 
-b\)
+1.
 
 A = -2
 
@@ -3320,7 +3320,7 @@ B = 8
 
 C = -8
 
-c\)
+1.
 
 A = 1
 
@@ -3328,7 +3328,7 @@ B = 0
 
 C = 4
 
-d\)
+1.
 
 A=1
 
@@ -3336,7 +3336,7 @@ B= 0
 
 C= 15
 
-5\) Joana é mãe de 3 crianças, a idade de seu filho mais novo é
+1. Joana é mãe de 3 crianças, a idade de seu filho mais novo é
 representado pela equação x² -- 100 = 0, qual a idade do filho mais novo
 de Joana? Deixar o espaço de 4 linhas para resposta.
 
@@ -3353,7 +3353,7 @@ X= ±10
 Como a idade não pode ser representada com números negativos temos que a
 idade do filho mais novo de Joana é 10 Anos.
 
-6\) Marcos é dono de uma madeireira que vende blocos de madeira de 2
+1. Marcos é dono de uma madeireira que vende blocos de madeira de 2
 tamanhos diferentes, os tamanhos são definidos em metros, pelas raízes
 da equação x² -- 5x + 4 = 0, quais são os tamanhos de madeira
 disponíveis na madeireira de marcos? Deixar o espaço de 4 linhas para
@@ -3383,7 +3383,7 @@ X~2~ = $\frac{5 - 3}{2}$= $\frac{2}{2}$=1
 
 Logo os tamanhos disponíveis de madeira são 1 metro e 4 metros.
 
-7\) Evandro é corredor, certo dia resolveu correr uma maratona com seu
+1. Evandro é corredor, certo dia resolveu correr uma maratona com seu
 amigo José, como Evandro é mais experiente que José largou na frente e
 abriu certa vantagem, a distância de Evandro e José em km é definida
 pela equação X² -- 4x + 4 = 0, sendo assim quantos km Evandro está na
@@ -3405,7 +3405,7 @@ $$\frac{4 \pm \sqrt{16 - 16}}{2}$$
 
 $\frac{4}{2}$=2 km
 
-8\) Raiane vai para o trabalho todos os dias a pé, a distância de sua
+1. Raiane vai para o trabalho todos os dias a pé, a distância de sua
 casa para o seu tralho em km é a soma das raízes da equação 2𝑥² − 6𝑥 − 8
 = 0, quantos km Raiane anda por dia para ir ao trabalho? Deixar o espaço
 de 4 linhas para resposta.
@@ -3435,7 +3435,7 @@ X2= $\frac{6 - 10}{4}$ = $\frac{- 4}{4}$ = -1
 Somando ambas as raízes temos que Raiane anda 3km por dia para ir ao
 trabalho.
 
-9\) Divina tem 2 filhas com idades diferentes, as idades das filhas de
+1. Divina tem 2 filhas com idades diferentes, as idades das filhas de
 divina são as raízes da equação x² - 20x + 36 = 0, qual a idade das
 filhas de divina? Deixar o espaço de 4 linhas para resposta.
 
@@ -3496,18 +3496,18 @@ Logo Mateus deve 4 000,00 R\$ ao banco.
 
 Treino
 
-1\) Clebinho é atacante de um famoso time de futebol, durante uma
+1. Clebinho é atacante de um famoso time de futebol, durante uma
 partida o número de finalizações de Clebinho no gol foi a soma das
 raízes da equação x²- 7x=0, quantas vezes Clebinho chutou no gol durante
 a partida?
 
-a\) 0
+1. 0
 
-b\) 7
+1. 7
 
-c\) 49
+1. 49
 
-d\) 14
+1. 14
 
 Resposta: B
 
@@ -3557,18 +3557,18 @@ Alternativa D: incorreta: o aluno pode chegar a essa conclusão
 esquecendo de dividir o valor de uma das raízes por 2, assim chegaria a
 esse valor erroneamente.
 
-2\) Daniel é piloto de corridas de alta velocidade, em uma certa corrida
+1. Daniel é piloto de corridas de alta velocidade, em uma certa corrida
 Daniel ficou em 2° lugar, a distância em segundos do primeiro colocado
 para Daniel, é a soma das raízes da equação 4x² + 9x=0, quanto tempo
 depois do primeiro colocado Daniel Chegou?
 
 a)0
 
-b\) 81
+1. 81
 
-c\) 9
+1. 9
 
-d\) 2,25
+1. 2,25
 
 Resposta: D
 
@@ -3616,18 +3616,18 @@ X1 = $\frac{- 9 + 9}{8}$ = 0
 X2= $\frac{- 9 - 9}{8}$ = $\frac{- 18}{8}$ = - $\frac{9}{4}$ = -2,25
 segundos
 
-3\) Antônio foi ao posto de gasolina abastecer seu carro, ao final do
+1. Antônio foi ao posto de gasolina abastecer seu carro, ao final do
 abastecimento descobriu que a quantidade do tanque que foi preenchida
 por gasolina é igual a soma das raízes da equação 6x² - 5x = 0, qual foi
 esta parte preenchida
 
-a\) 25
+1. 25
 
-b\) 0
+1. 0
 
-c\) $\frac{5}{6}$
+1. $\frac{5}{6}$
 
-d\) 11
+1. 11
 
 Resposta: C
 
@@ -3718,51 +3718,51 @@ $$densidade = \ \frac{\text{massa\ do\ corpo}}{\text{volume\ do\ corpo}}$$
 
 Questões
 
-1\) . Um prêmio de loteria, no valor de R\$ 2 700 000, 00 será dividido
+1. . Um prêmio de loteria, no valor de R\$ 2 700 000, 00 será dividido
 igualmente pelo total de acertadores.
 
-a\) Quanto cada acertador receberá, se o prêmio for dividido entre 3
+1. Quanto cada acertador receberá, se o prêmio for dividido entre 3
 ganhadores?
 
-b\) E se fossem 8 ganhadores?
+1. E se fossem 8 ganhadores?
 
-c\) Conforme o número de acertadores aumenta, o que acontece com o valor
+1. Conforme o número de acertadores aumenta, o que acontece com o valor
 do prêmio?
 
 Em cada item acima Deixar o espaço de 2 linhas para resposta.
 
 Respostas:
 
-a\) ao dividir o valor do prêmio proporcionalmente entre 3 ganhadores
+1. ao dividir o valor do prêmio proporcionalmente entre 3 ganhadores
 temos que
 
 2 700 000 : 3 = 900 000 para cada um.
 
-b\) ao dividir o valor do prêmio proporcionalmente entre 8 ganhadores
+1. ao dividir o valor do prêmio proporcionalmente entre 8 ganhadores
 temos que
 
 2 700 000 : 8 = 337 500 para cada um.
 
-c\) Quando o número de acertadores aumenta o valor do prêmio diminui.
+1. Quando o número de acertadores aumenta o valor do prêmio diminui.
 
-2\) A distância entre a Terra e o Sol é de, aproximadamente, 150 000 000
+1. A distância entre a Terra e o Sol é de, aproximadamente, 150 000 000
 km; A luz do Sol, para atingir a Terra, leva em torno de 500 segundos.
 
 Responda:
 
-a\) Qual é a velocidade da luz no vácuo?
+1. Qual é a velocidade da luz no vácuo?
 
-b\) Quantos minutos a luz do Sol leva para chegar à Terra?
+1. Quantos minutos a luz do Sol leva para chegar à Terra?
 
 Deixar o espaço de 4 linhas para resposta.
 
-a\) Utilizando a razão $\frac{distância}{\text{tempo}}$ temos que
+1. Utilizando a razão $\frac{distância}{\text{tempo}}$ temos que
 $\frac{150\ 000\ 000}{500}$ = 300 000 km/s
 
-b\) se 60 segundos = 1 minuto temos que 500 : 60 = 8 minutos e 20
+1. se 60 segundos = 1 minuto temos que 500 : 60 = 8 minutos e 20
 segundos.
 
-3\) Um novo condomínio de casas está sendo construído e sua planta foi
+1. Um novo condomínio de casas está sendo construído e sua planta foi
 representada, em uma folha de papel, com 5,5 cm de comprimento por 3,125
 cm de largura. Sabendo que a escala utilizada foi 1 : 16 000, determine
 as dimensões reais deste condomínio.
@@ -3781,7 +3781,7 @@ Comprimento= 880 m
 
 Largura= 500 m
 
-4\) . Um bloco maciço de madeira tem 54 kg de massa e ocupa um volume de
+1. . Um bloco maciço de madeira tem 54 kg de massa e ocupa um volume de
 3 m³. Qual a densidade desse bloco?
 
 Deixar o espaço de 4 linhas para resposta.
@@ -3792,7 +3792,7 @@ $d = \frac{54}{3}$
 
 d= 18 kg/m³
 
-5\) . Um fio de cobre utilizado na fiação de uma casa comum ocupa um
+1. . Um fio de cobre utilizado na fiação de uma casa comum ocupa um
 volume de 0,2 cm³. Sabendo que a massa do fio é de 4,3 g, determine a
 densidade desse metal.
 
@@ -3804,7 +3804,7 @@ $d = \frac{4,3}{0,2}$
 
 D= 21,5g/cm³
 
-6\) Um país situado no continente europeu, tem cerca de 135 000 km² de
+1. Um país situado no continente europeu, tem cerca de 135 000 km² de
 área e uma população de 12 200 000 habitantes. Qual é a densidade
 demográfica aproximada desse país?
 
@@ -3819,7 +3819,7 @@ $densidade\ demografica = \frac{12\ 200\ 000}{135\ 000}$
 
 $densidade\ demografica =$ 90,37 Habitantes/ km²
 
-7\) Cinco homens levam 20 dias para recapear um trecho de estrada. Esse
+1. Cinco homens levam 20 dias para recapear um trecho de estrada. Esse
 mesmo serviço seria realizado em quantos dias, se fossem 8 homens no
 total?
 
@@ -3837,7 +3837,7 @@ Utilizando a Regra de 3 simples temos que:
 
 X= 12,5
 
-8\) Uma Padaria produz 260 pães franceses a cada 50 min. Em uma jornada
+1. Uma Padaria produz 260 pães franceses a cada 50 min. Em uma jornada
 de 12 h, quantos pães são produzidos?
 
 Deixar o espaço de 4 linhas para resposta.
@@ -3853,7 +3853,7 @@ X \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 
 X= 3744 pães são produzidos
 
-9\) Um livro tem 180 páginas, e cada página tem 46 linhas. Um editor
+1. Um livro tem 180 páginas, e cada página tem 46 linhas. Um editor
 resolveu colocar apenas 30 linhas em cada página. Qual será a nova
 quantidade de páginas do livro?
 
@@ -3874,21 +3874,21 @@ X= 276
 
 10\) Converta as velocidades dadas em m/s para km/h:
 
-a\) 20 m/s
+1. 20 m/s
 
-b\) 100 m/s
+1. 100 m/s
 
-c\) 55 m/s
+1. 55 m/s
 
-d\) 67 m/s
+1. 67 m/s
 
-e\) 90 m /s
+1. 90 m /s
 
-f\) 25 m/s
+1. 25 m/s
 
-g\) 30 m/s
+1. 30 m/s
 
-h\) 40 m/s
+1. 40 m/s
 
 em cada item acima deixar o espaço de 2 linhas para resposta.
 
@@ -3897,37 +3897,37 @@ Respostas:
 Para realizar a conversão de m/s para km/h devemos fazer a multiplicação
 por 3,6
 
-a\) 20 m/s . 3,6= 72 km/h
+1. 20 m/s . 3,6= 72 km/h
 
-b\) 100 m/s . 3,6= 360km/h
+1. 100 m/s . 3,6= 360km/h
 
-c\) 55 m/s . 3,6= 198 km/h
+1. 55 m/s . 3,6= 198 km/h
 
-d\) 67 m/s . 3,6= 241,2 km/h
+1. 67 m/s . 3,6= 241,2 km/h
 
-e\) 90 m /s . 3,6= 324 km/h
+1. 90 m /s . 3,6= 324 km/h
 
-f\) 25 m/s . 3,6= 90 km/h
+1. 25 m/s . 3,6= 90 km/h
 
-g\) 30 m/s .3,6= 108 km/h
+1. 30 m/s .3,6= 108 km/h
 
-h\) 40 m/s . 3,6= 144km/h
+1. 40 m/s . 3,6= 144km/h
 
 Treino
 
-1\) Dona Estela está preparando a Ceia de Natal para sua família e
+1. Dona Estela está preparando a Ceia de Natal para sua família e
 comprou um peru de 4,2 kg para servir, ao pesquisar sobre o tempo de
 cozimento de um peru descobriu que o tempo depende de sua massa em
 quilogramas. Ao ler que um peru de 3,5 kg leva 2h15min para assar,
 quanto tempo o peru que Dona estela comprou deve ficar no forno?
 
-a\) 2 horas e 42 minutos
+1. 2 horas e 42 minutos
 
-b\) 1 Horas e 52 minutos
+1. 1 Horas e 52 minutos
 
-c\) 2 horas e 58 minutos
+1. 2 horas e 58 minutos
 
-d\) 567 minutos
+1. 567 minutos
 
 Resposta: A
 
@@ -3961,17 +3961,17 @@ equivocado.
 Alternativa D: incorreta, o aluno chegaria a esse resultado caso não
 realizasse a última operação necessária, que é a divisão.
 
-2\) 5 rosquinhas de coco possuem 64 calorias. Dirce consome diariamente
+1. 5 rosquinhas de coco possuem 64 calorias. Dirce consome diariamente
 3 rosquinhas em seu café da manhã. Quantas calorias procedentes das
 rosquinhas Dirce consome por dia?
 
-a\) 106,6 calorias
+1. 106,6 calorias
 
-b\) 38,4 calorias
+1. 38,4 calorias
 
-c\) 960 calorias
+1. 960 calorias
 
-d\) 192 calorias
+1. 192 calorias
 
 Resposta: B
 
@@ -4007,18 +4007,18 @@ Alternativa D: incorreta, o auno chegaria a essa conclusão considerando
 que cada rosquinha possuísse 64 calorias, interpretando errado o
 enunciado.
 
-3\) Leandro tem um cachorro da raça fila brasileiro que pesa 27 kg. Para
+1. Leandro tem um cachorro da raça fila brasileiro que pesa 27 kg. Para
 tratar uma infecção nas vias urinárias, o veterinário receitou um
 antibiótico cuja dosagem é de 9 ml a cada 10 kg de peso corporal.
 Quantos ml de antibiótico Leandro dará a seu cachorro?
 
-a\) 3,3333\..... ml
+1. 3,3333\..... ml
 
-b\) 24,3ml
+1. 24,3ml
 
-c\) 2430 ml
+1. 2430 ml
 
-d\) 2,43 ml
+1. 2,43 ml
 
 Resposta: B
 
@@ -4095,7 +4095,7 @@ Utilizando a fórmula S~i~ = (n-2) . 180° , podemos calcular a soma dos
 
 Atividades:
 
-1\) Complete a Tabela com o nome dos polígonos segundo o número de lados
+1. Complete a Tabela com o nome dos polígonos segundo o número de lados
 
   Número de lados   Nome do Polígono
   ----------------- ------------------
@@ -4132,7 +4132,7 @@ Resposta:
   15                Pentadecágono
   20                Icoságono
 
-2\) Determine quais das figuras abaixo são polígonos
+1. Determine quais das figuras abaixo são polígonos
 
 ![](./imgSAEB_8_MAT/media/image7.png){width="1.7in"
 height="1.2676301399825023in"}
@@ -4141,7 +4141,7 @@ Inserir figuras similares a estas contendo o mesmo formato
 
 Resposta: As figuras que são polígonos são somente alternativa A e E
 
-3\) Classifique os polígonos abaixo em convexos e não convexos
+1. Classifique os polígonos abaixo em convexos e não convexos
 
 ![](./imgSAEB_8_MAT/media/image8.png){width="1.1623632983377077in"
 height="2.3666666666666667in"}
@@ -4150,27 +4150,27 @@ Inserir figuras similares a estas contendo o mesmo formato.
 
 Respostas:
 
-a\) convexo
+1. convexo
 
-b\) convexo
+1. convexo
 
-c\) não convexo
+1. não convexo
 
-d\) não convexo
+1. não convexo
 
-4\) Utilizando a Fórmula $d = \ \frac{n(n - 3)}{2}$ para determinar o
+1. Utilizando a Fórmula $d = \ \frac{n(n - 3)}{2}$ para determinar o
 número de diagonais de um polígonos calcule o número de diagonais de um
 polígono de
 
-a\) 5 lados
+1. 5 lados
 
-b\) 9 lados
+1. 9 lados
 
-c\) 10 lados
+1. 10 lados
 
-d\) 15 lados
+1. 15 lados
 
-e\) 20 lados
+1. 20 lados
 
 em cada item cima deixar o espaço de 4 linhas para resposta.
 
@@ -4178,33 +4178,33 @@ Repostas:
 
 Utilizando $d = \ \frac{n(n - 3)}{2}\text{\ \ }$temos que
 
-a\) $d = \ \frac{5(5 - 3)}{2}$ = $\frac{25 - 15}{2}$ = $\frac{10}{2}$ =
+1. $d = \ \frac{5(5 - 3)}{2}$ = $\frac{25 - 15}{2}$ = $\frac{10}{2}$ =
 5 diagonais
 
-b\) $d = \ \frac{9(9 - 3)}{2}$ = $\frac{81 - 27}{2} = \frac{54}{2}$= 27
+1. $d = \ \frac{9(9 - 3)}{2}$ = $\frac{81 - 27}{2} = \frac{54}{2}$= 27
 diagonais
 
-c\) $d = \ \frac{10(10 - 3)}{2}$ = $\frac{100 - 30}{2} = \frac{70}{2} =$
+1. $d = \ \frac{10(10 - 3)}{2}$ = $\frac{100 - 30}{2} = \frac{70}{2} =$
 35 diagonais
 
-d\) $d = \ \frac{15(15 - 3)}{2}$ = $\frac{225 - 45}{2}$=
+1. $d = \ \frac{15(15 - 3)}{2}$ = $\frac{225 - 45}{2}$=
 $\frac{180}{2}$= 90 diagonais
 
-e\) $d = \ \frac{20(20 - 3)}{2}$= $\frac{400 - 60}{2} = \frac{340}{2}$=
+1. $d = \ \frac{20(20 - 3)}{2}$= $\frac{400 - 60}{2} = \frac{340}{2}$=
 170 diagonais
 
-5\) Utilizando a fórmula S~i~ = (n-2) . 180°, calcule a soma dos ângulos
+1. Utilizando a fórmula S~i~ = (n-2) . 180°, calcule a soma dos ângulos
 internos dos polígonos abaixo
 
-a\) Quadrilátero
+1. Quadrilátero
 
-b\) Pentágono
+1. Pentágono
 
-c\) Eneágono
+1. Eneágono
 
-d\) Icoságono
+1. Icoságono
 
-e\) Dodecagono
+1. Dodecagono
 
 em cada item acima deixar o espaço de 4 linhas para resposta.
 
@@ -4212,7 +4212,7 @@ Respostas:
 
 Utilizando a fórmula S~i~ = (n-2) . 180° temos que
 
-a\) Quadrilátero
+1. Quadrilátero
 
 S~i~ = (4-2) . 180°
 
@@ -4220,7 +4220,7 @@ S~i=~ 2 . 180 °
 
 S~i~= 360°
 
-b\) Pentágono
+1. Pentágono
 
 S~i~ = (5-2) . 180°
 
@@ -4228,7 +4228,7 @@ S~i~= 3 . 180
 
 S~i~= 540
 
-c\) Eneágono
+1. Eneágono
 
 S~i~ = (9-2) . 180°
 
@@ -4236,7 +4236,7 @@ S~i~ = 7 . 180°
 
 S~i~ = 1260°
 
-d\) Icoságono
+1. Icoságono
 
 S~i~ = (20-2) . 180°
 
@@ -4244,7 +4244,7 @@ S~i~ = 18 . 180°
 
 S~i~ = 3240°
 
-e\) Dodecagono
+1. Dodecagono
 
 S~i~ = (12-2) . 180°
 
@@ -4252,22 +4252,22 @@ S~i~ = 10 . 180
 
 S~i~ = 1800°
 
-6\) Utilizando a fórmula S~i~ = (n-2) . 180°, calcule o número de lados
+1. Utilizando a fórmula S~i~ = (n-2) . 180°, calcule o número de lados
 dos polígonos cuja soma dos ângulos internos são:
 
-a\) 1080°
+1. 1080°
 
-b\) 1980°
+1. 1980°
 
-c\) 2340°
+1. 2340°
 
-d\) 1800°
+1. 1800°
 
 em cada item acima deixar o espaço de 4 linhas para resposta.
 
 Respostas:
 
-a\) 1080°
+1. 1080°
 
 1080 = (n-2) . 180°
 
@@ -4277,7 +4277,7 @@ $\frac{1080}{180}$= n- 2
 
 N = 8
 
-b\) 1980°
+1. 1980°
 
 1980 = (n-2) . 180°
 
@@ -4287,7 +4287,7 @@ $\frac{1980}{180}$ = n -- 2
 
 N= 13
 
-c\) 2340°
+1. 2340°
 
 2340= (n-2) . 180°
 
@@ -4297,7 +4297,7 @@ $\frac{2340}{180}$ = n -- 2
 
 N= 15
 
-d\) 1800°
+1. 1800°
 
 1800 = (n-2) . 180°
 
@@ -4307,7 +4307,7 @@ $\frac{1800}{180}$= n -- 2
 
 N= 12
 
-7\) Considere o paralelogramo a seguir. Nele, estão expressas as medidas
+1. Considere o paralelogramo a seguir. Nele, estão expressas as medidas
 de dois ângulos opostos. Quais são as medidas dos quatro ângulos desse
 paralelogramo?
 
@@ -4344,7 +4344,7 @@ Como a soma dos ângulos internos de um paralelogramo é 360°
 Temos então que o paralelogramo possui 2 ângulos de 45° e 2 ângulos de
 135°
 
-8\) Calcule o valor de x e y na figura indicada.
+1. Calcule o valor de x e y na figura indicada.
 
 ![](./imgSAEB_8_MAT/media/image10.png){width="1.03125in"
 height="1.03125in"}
@@ -4362,7 +4362,7 @@ E que a soma dos ângulos internos de um paralelogramo é igual a 360°
 
 Temos que y=45° e x = 90°
 
-9\) Determine a medida x no paralelogramo da figura a seguir:
+1. Determine a medida x no paralelogramo da figura a seguir:
 
 ![](./imgSAEB_8_MAT/media/image11.png){width="2.0520833333333335in"
 height="1.09375in"}
@@ -4390,60 +4390,60 @@ height="2.5729166666666665in"}
 
 Inserir uma imagem similar a essa porém contendo o mesmo conteúdo.
 
-a\) GA
+1. GA
 
-b\) DC
+1. DC
 
-c\) EF
+1. EF
 
-d\) GH
+1. GH
 
-e\) AB
+1. AB
 
-f\) DA
+1. DA
 
-g\) HI
+1. HI
 
-h\) AC
+1. AC
 
-i\) AH
+1. AH
 
 Em cada item acima deixar o espaço de 1 linha para resposta.
 
 Respostas:
 
-a\) raio
+1. raio
 
-b\) diâmetro; corda
+1. diâmetro; corda
 
-c\) corda
+1. corda
 
-d\) diâmetro; corda
+1. diâmetro; corda
 
-e\) raio
+1. raio
 
-f\) raio
+1. raio
 
-g\) corda
+1. corda
 
-h\) raio
+1. raio
 
-i\) raio
+1. raio
 
 Treino
 
-1\) Alfredo desenhou, em uma madeira, um eneágono regular cujo perímetro
+1. Alfredo desenhou, em uma madeira, um eneágono regular cujo perímetro
 era de 117 cm
 
 Qual é a medida de cada lado dessa figura?
 
-a\) 13 cm
+1. 13 cm
 
-b\) 11,7 cm
+1. 11,7 cm
 
-c\) 16,71 cm
+1. 16,71 cm
 
-d\) 23,4 cm
+1. 23,4 cm
 
 Resposta: A
 
@@ -4465,20 +4465,20 @@ considerasse que o eneágono regular possui 7 lados e não 9.
 Alternativa D: incorreta, o aluno poderia chegar a essa conclusão caso
 considerasse que o eneágono regular possui 5 lados e não 9.
 
-2\) O centro do campo de futebol é marcado com um ponto no centro da
+1. O centro do campo de futebol é marcado com um ponto no centro da
 linha de meio de campo (marca central), ao redor se traça um círculo com
 raio de 9,15 metros, com essas informações qual a área do círculo
 central de um campo de futebol aproximadamente?
 
 Considere $\pi = 3$
 
-a\) 54,1 m²
+1. 54,1 m²
 
-b\) 27,41 m²
+1. 27,41 m²
 
-c\) 251 m²
+1. 251 m²
 
-d\) 27,66 m²
+1. 27,66 m²
 
 Resposta: C
 
@@ -4511,18 +4511,18 @@ A= 251 m²
 Alternativa D: incorreta, o aluno chegaria a esse resultado caso
 dividisse a expressão no final da formula ao invés de multiplicar.
 
-3\) Iolanda faz peças com tecidos. Uma das peças mais vendidas por ela é
+1. Iolanda faz peças com tecidos. Uma das peças mais vendidas por ela é
 um porta joias com formato de um hexágono regular de 5 cm de lado, em
 que toda borda é revestida com uma fita. Quantos centímetros de fita, no
 mínimo, Iolanda precisa para confeccionar 20 porta joias desses?
 
-a\) 6 metros
+1. 6 metros
 
-b\) 600 metros
+1. 600 metros
 
-c\) 5 metros
+1. 5 metros
 
-d\) 4 metros
+1. 4 metros
 
 Resposta: A
 
@@ -4537,7 +4537,7 @@ Alternativa A: Correta
 
 Hexágono regular = 6 lados
 
-6\. 5 = 30 cm por porta joias
+1. 5 = 30 cm por porta joias
 
 20 . 30 cm = 600 cm de fita ou 6 metros de fita
 
@@ -4643,7 +4643,7 @@ correspondentes congruentes.
 
 Questões:
 
-1\) Observe a figura abaixo
+1. Observe a figura abaixo
 
 ![](./imgSAEB_8_MAT/media/image13.png){width="1.8833333333333333in"
 height="1.7504844706911635in"}
@@ -4651,31 +4651,31 @@ height="1.7504844706911635in"}
 Inserir uma imagem similar a essa, podendo ser alterada as cores e o
 estilo, mas que o conteúdo continue o mesmo.
 
-a\) os vértices do triângulo;
+1. os vértices do triângulo;
 
-b\) os lados do triângulo;
+1. os lados do triângulo;
 
-c\) os ângulos internos do triângulo;
+1. os ângulos internos do triângulo;
 
-d\) os ângulos externos do triângulo;
+1. os ângulos externos do triângulo;
 
-e\) o lado oposto ao ângulo F
+1. o lado oposto ao ângulo F
 
 Deixar o espaço de 3 linhas para resposta em cada item acima
 
 Respostas:
 
-a\) F, G e H
+1. F, G e H
 
-b\) FH, FG E HG
+1. FH, FG E HG
 
-c\) F, G E H
+1. F, G E H
 
-d\) x, y e z
+1. x, y e z
 
-e\) HG
+1. HG
 
-2\) No triângulo representado a seguir, AD é bissetriz em relação a BÂC.
+1. No triângulo representado a seguir, AD é bissetriz em relação a BÂC.
 Determine o valor de x, em graus
 
 ![](./imgSAEB_8_MAT/media/image14.png){width="2.2083333333333335in"
@@ -4700,14 +4700,14 @@ Logo o ângulo x possui:
 
 180-88= 92°
 
-3\) Em cada caso, analise se é possível construir um triângulo com lado
+1. Em cada caso, analise se é possível construir um triângulo com lado
 BC de 5 cm e com as medidas dos ângulos indicadas.
 
-a\) medida do ângulo (B)= 110° e medida do ângulo (C) = 50°
+1. medida do ângulo (B)= 110° e medida do ângulo (C) = 50°
 
-b\) medida do ângulo (B) = 110° e medida do ângulo (C)= 70°
+1. medida do ângulo (B) = 110° e medida do ângulo (C)= 70°
 
-c\) medida do ângulo (B) = 110° e medida do ângulo (C) = 90°
+1. medida do ângulo (B) = 110° e medida do ângulo (C) = 90°
 
 Deixar o espaço de 3 linhas para resposta em cada item acima.
 
@@ -4716,13 +4716,13 @@ Respostas:
 Considerando que a soma dos ângulos internos do triangulo deve ser 180°
 logo obtemos somando os ângulos das expressões que
 
-a\) é possível
+1. é possível
 
-b\) não é possível
+1. não é possível
 
-c\) não é possível
+1. não é possível
 
-4\) Em cada triângulo representado a seguir, onde foram traçadas algumas
+1. Em cada triângulo representado a seguir, onde foram traçadas algumas
 retas, identifique se o ponto O é circuncentro, incentro, baricentro ou
 ortocentro.
 
@@ -4735,12 +4735,12 @@ height="0.71875in"}b)
 ![](./imgSAEB_8_MAT/media/image17.png){width="1.84375in"
 height="1.125in"}
 
-c\)
+1.
 
 ![](./imgSAEB_8_MAT/media/image18.png){width="1.9375in"
 height="1.0416666666666667in"}
 
-d\)
+1.
 
 Inserir imagens similares a essas, podendo ser alterada as cores e o
 estilo, mas que o conteúdo continue o mesmo.
@@ -4749,15 +4749,15 @@ Deixar o espaço de 3 linhas para resposta.
 
 Respostas:
 
-A\) Ortocentro
+1. Ortocentro
 
-b\) Incentro
+1. Incentro
 
-c\) Circuncentro
+1. Circuncentro
 
-d\) Baricentro
+1. Baricentro
 
-5\) Em cada item, verifique se os triângulos são congruentes:
+1. Em cada item, verifique se os triângulos são congruentes:
 
 ![](./imgSAEB_8_MAT/media/image19.png){width="3.5104166666666665in"
 height="1.4895833333333333in"}a)
@@ -4774,7 +4774,7 @@ height="2.2395833333333335in"}d)
 ![](./imgSAEB_8_MAT/media/image23.png){width="2.7395833333333335in"
 height="1.5416666666666667in"}
 
-e\)
+1.
 
 Inserir imagens similares a essas, podendo ser alterada as cores e o
 estilo, mas que o conteúdo continue o mesmo.
@@ -4783,17 +4783,17 @@ Deixar o espaço de 5 linhas para resposta.
 
 Respostas:
 
-a\) São congruentes
+1. São congruentes
 
-b\) São congruentes
+1. São congruentes
 
-c\) Não são congruentes
+1. Não são congruentes
 
-d\) são congruentes
+1. são congruentes
 
-e\) são congruentes
+1. são congruentes
 
-6\) Calcule, em grau, as medidas dos ângulos dos triângulos abaixo:
+1. Calcule, em grau, as medidas dos ângulos dos triângulos abaixo:
 
 ![](./imgSAEB_8_MAT/media/image24.png){width="1.8645833333333333in"
 height="0.8958333333333334in"}a)
@@ -4801,27 +4801,27 @@ height="0.8958333333333334in"}a)
 ![](./imgSAEB_8_MAT/media/image25.png){width="1.40625in"
 height="1.4791666666666667in"}
 
-b\)
+1.
 
 ![](./imgSAEB_8_MAT/media/image26.png){width="1.3020833333333333in"
 height="1.5625in"}
 
-c\)
+1.
 
 ![](./imgSAEB_8_MAT/media/image27.png){width="2.3333333333333335in"
 height="0.9583333333333334in"}
 
-d\)
+1.
 
 ![](./imgSAEB_8_MAT/media/image28.png){width="1.8333333333333333in"
 height="1.1875in"}
 
-e\)
+1.
 
 ![](./imgSAEB_8_MAT/media/image29.png){width="2.0in"
 height="1.3020833333333333in"}
 
-f\)
+1.
 
 Inserir imagens similares a essas, podendo ser alterada as cores e o
 estilo, mas que o conteúdo continue o mesmo.
@@ -4831,7 +4831,7 @@ Em cada item acima deixar o espaço de 3 linhas para resposta.
 Respostas: Considerando que a soma de todos os ângulos internos de um
 triangulo deve ser 180° temos que
 
-a\)
+1.
 
 3x+2x+x = 180
 
@@ -4841,7 +4841,7 @@ X=30
 
 Logos os respectivos ângulos são 30°,60° e 90°
 
-b\) x+ x+30 + 60 = 180
+1. x+ x+30 + 60 = 180
 
 2x+90 =180
 
@@ -4851,7 +4851,7 @@ X=45
 
 Logo os ângulos são respectivamente 45°, 75° e 60 °
 
-c\)
+1.
 
 x+x+20+2x =180
 
@@ -4863,13 +4863,13 @@ X=40
 
 Logo os ângulos são respectivamente 40°, 60° e 80°
 
-d\) a= 40°
+1. a= 40°
 
-e\) a= 55°
+1. a= 55°
 
-f\) a=108°
+1. a=108°
 
-7\) determine as medidas dos ângulos complementar e suplementar de cada
+1. determine as medidas dos ângulos complementar e suplementar de cada
 ângulo a seguir:
 
 ![](./imgSAEB_8_MAT/media/image30.png){width="4.816666666666666in"
@@ -4882,19 +4882,19 @@ Em cada item acima Deixar o espaço de 2 linhas para resposta.
 
 Respostas:
 
-a\) 48° e 138°
+1. 48° e 138°
 
-b\) 27° e 117°
+1. 27° e 117°
 
-c\) 42° e 132°
+1. 42° e 132°
 
-d\) 0° e 90°
+1. 0° e 90°
 
-e\) 61° e 151°
+1. 61° e 151°
 
-F\) 11° e 101°
+1. 11° e 101°
 
-8\) Enzo ao folear um livro de engenharia de seu pai se deparou a
+1. Enzo ao folear um livro de engenharia de seu pai se deparou a
 seguinte imagem:
 
 ![](./imgSAEB_8_MAT/media/image31.png){width="1.4713353018372703in"
@@ -4921,7 +4921,7 @@ Resposta:
 
 X= 7
 
-9\) Calcule as medidas do ângulos destacados abaixo, considerando que as
+1. Calcule as medidas do ângulos destacados abaixo, considerando que as
 linhas em verde traçam a bissetriz de cada angulo
 
 ![](./imgSAEB_8_MAT/media/image32.png){width="4.666666666666667in"
@@ -4934,20 +4934,20 @@ Deixar o espaço de 3 linhas para resposta.
 
 Respostas
 
-a\) 44°
+1. 44°
 
-b\) 126°
+1. 126°
 
-c\) 62°
+1. 62°
 
-d\) 70°
+1. 70°
 
 10\) Calcule o valor de x nas figuras abaixo
 
 ![](./imgSAEB_8_MAT/media/image33.png){width="1.9166666666666667in"
 height="1.6875in"}
 
-a\)
+1.
 
 Inserir uma imagem similar a essa, podendo ser alterada as cores e o
 estilo, mas que o conteúdo continue o mesmo.
@@ -4962,7 +4962,7 @@ Deixar o espaço de 3 linhas para resposta em cada item acima
 
 Respostas:
 
-a\)
+1.
 
 5x+2 = 6x -4
 
@@ -4970,7 +4970,7 @@ a\)
 
 X=6
 
-b\)
+1.
 
 11x-16=8x+5
 
@@ -4980,15 +4980,15 @@ X=7
 
 Treino:
 
-1\) Denomina-se incentro o ponto comum
+1. Denomina-se incentro o ponto comum
 
-a\) às alturas do triângulo;
+1. às alturas do triângulo;
 
-b\) às mediatrizes dos lados do triângulo;
+1. às mediatrizes dos lados do triângulo;
 
-c\) às medianas do triângulo;
+1. às medianas do triângulo;
 
-d\) às bissetrizes do triângulo.
+1. às bissetrizes do triângulo.
 
 Resposta: D
 
@@ -5021,7 +5021,7 @@ resposta viável.
 
 Resposta: Alternativa D as bissetrizes do triângulo.
 
-2\) O triângulo ABC é um triângulo retângulo em A e isósceles. O ponto O
+1. O triângulo ABC é um triângulo retângulo em A e isósceles. O ponto O
 é o seu circuncentro, ou seja, é o centro da circunferência circunscrita
 ao triângulo. Se a altura relativa à hipotenusa BC mede 9,3 cm, qual é a
 medida da hipotenusa?
@@ -5032,13 +5032,13 @@ height="2.0208333333333335in"}
 Inserir uma imagem similar a essa, podendo ser alterada as cores e o
 estilo, mas que o conteúdo continue o mesmo.
 
-a\) 9,3
+1. 9,3
 
 b)18,2
 
-c\) 18,6
+1. 18,6
 
-d\) 18,8
+1. 18,8
 
 Resposta: C
 
@@ -5065,14 +5065,14 @@ será 18,6
 Alternativa D: Incorreta, o aluno chegara a esse conclusão ao errar o
 cálculo de multiplicação dos termos destacados no enunciado.
 
-3\) Qual o perímetro de um triângulo com lados cujas medidas são 6 cm, 7
+1. Qual o perímetro de um triângulo com lados cujas medidas são 6 cm, 7
 cm e 8 cm
 
-a\) 19 cm
+1. 19 cm
 
-b\) 20 cm
+1. 20 cm
 
-c\) 21 cm
+1. 21 cm
 
 d)22cm
 
@@ -5133,7 +5133,7 @@ Distancia = Velocidade média X tempo
 
 Questões
 
-1\) Paulo está pretendendo fazer uma longa viagem para visitar seus
+1. Paulo está pretendendo fazer uma longa viagem para visitar seus
 pais, nos quais ele não os vê a muitos anos
 
 ![](./imgSAEB_8_MAT/media/image36.png){width="2.7395209973753283in"
@@ -5153,7 +5153,7 @@ Deixar o espaço de 2 linhas para resposta.
 Resposta: Paulo no mínimo atravessará 4 estados até chegar na casa de
 seus pais.
 
-2\) A circunferência da terra possui 40 075 km de extensão, suponhamos
+1. A circunferência da terra possui 40 075 km de extensão, suponhamos
 que Júlio queria dar uma volta ao mundo em 80 dias com o seu barco, qual
 deslocamento diário aproximado que Júlio deverá percorrer para cumprir
 seu objetivo?
@@ -5163,7 +5163,7 @@ durar no máximo 80 dias, logo:
 
 40 075km : 80 dias =aproximadamente 501 km por dia Júlio deverá navegar.
 
-3\) Francisco estava em casa, e resolveu convidar sua namorada para
+1. Francisco estava em casa, e resolveu convidar sua namorada para
 jantar fora em um famoso restaurante de sua cidade, para ficar mais
 fácil de sua namorada encontrar o restaurante Francisco mandou um mapa
 da trajetória da sua casa até o restaurante.
@@ -5189,7 +5189,7 @@ direita, depois vire a esquerda, depois entre na rotatória e saia na
 primeira saída e siga em frente, depois vire a direita na avenida e
 finalmente vire a direita.
 
-4\) Em uma tarde de domingo João estava entediado em casa e resolveu dar
+1. Em uma tarde de domingo João estava entediado em casa e resolveu dar
 um passeio da roda gigante de sua cidade.
 
 ![](./imgSAEB_8_MAT/media/image38.png){width="2.2in" height="2.2in"}
@@ -5215,7 +5215,7 @@ estrada a direita de sua casa, atravessar pela ponte e seguir na
 estrada, virar à direita após a travessia pela ponte e finalmente virar
 à esquerda.
 
-5\) Iuri Gagarin, foi o primeiro homem a pisar na lua, considerando que
+1. Iuri Gagarin, foi o primeiro homem a pisar na lua, considerando que
 a distância entre a terra e a lua é de 384 400 km, qual foi o
 deslocamento total de Iuri nessa viagem?
 
@@ -5224,7 +5224,7 @@ Deixar o espaço de 3 linhas para resposta.
 Resposta: 384 400 na ida + 384 400 na volta = deslocamento total =768
 400 km
 
-6\) Lia está fazendo um test drive com um carro de uma concessionária,
+1. Lia está fazendo um test drive com um carro de uma concessionária,
 ao sair recebeu as seguintes dicas do GPS:
 
 Siga em frente 100m
@@ -5243,7 +5243,7 @@ Deixar o espaço de 1 linha para resposta.
 
 Voltou a concessionaria.
 
-7\) Marcelo e amigos estavam indo para praia, no meio do caminho
+1. Marcelo e amigos estavam indo para praia, no meio do caminho
 perceberam que esqueceram a bagagem em suas casas, assim resolveram
 voltar para pega -- las e enfim seguir viagem.
 
@@ -5256,7 +5256,7 @@ Considerando que já estavam na metade do caminho, percorreram 150 km,
 somando mais a viagem completa de 300km, temos que 150 km + 300 km = 450
 km
 
-8\) Cléber é motorista de uma linha de ônibus de uma metrópole
+1. Cléber é motorista de uma linha de ônibus de uma metrópole
 brasileira, a sua linha anda por 3 bairros diferentes em um percurso
 total de 32 km, sabendo que Cléber trabalha das 6 horas da manhã até as
 16 horas, e realiza esse percurso 4 vezes, qual o descolamento de Cléber
@@ -5269,7 +5269,7 @@ dia, temos que
 
 4 x 32 km = 128 km por dia.
 
-9\) Marina vai ao trabalho de carro, sua jornada de trabalho é de
+1. Marina vai ao trabalho de carro, sua jornada de trabalho é de
 segunda-feira á sexta-feira, a distância da casa de marina até seu
 trabalho é de 12 km, sabendo que seu carro gasta 0, 50 centavos de
 gasolina a cada 1 km, qual o valor total que marina gasta com
@@ -5301,18 +5301,18 @@ Resposta Considerando 8 planetas temos que:
 
 Treino:
 
-1\) Um jogador de Futebol em cada partida corre em média 8 km,
+1. Um jogador de Futebol em cada partida corre em média 8 km,
 considerando que um campeonato tenha 38 rodadas, e que esse jogador
 jogue todas as partidas, qual deslocamento total desse jogador, durante
 o campeonato:
 
-a\) 8 km por campeonato
+1. 8 km por campeonato
 
-b\) 38 km por campeonato
+1. 38 km por campeonato
 
-c\) 30,4 km por campeonato
+1. 30,4 km por campeonato
 
-d\) 304 km por campeonato
+1. 304 km por campeonato
 
 Resposta: D
 
@@ -5335,17 +5335,17 @@ Alternativa D: Correta pois
 
 Resposta: 8km x 38 partidas = 304 km por campeonato
 
-2\) A velocidade de uma baleia azul pode chegar a 50 km/h, considerando
+1. A velocidade de uma baleia azul pode chegar a 50 km/h, considerando
 que uma baleia esteja a navegar pelo mar em sua velocidade máxima, e que
 nade por 8 horas ininterruptas, qual o deslocamento total dessa baleia?
 
-a\) 40 km
+1. 40 km
 
-b\) 4 000 km
+1. 4 000 km
 
-c\) 400 km
+1. 400 km
 
-d\) 40 000 km
+1. 40 000 km
 
 Resposta: C
 
@@ -5377,19 +5377,19 @@ Alternativa D: incorreta, pois esse seria o valor caso o aluno
 realizasse incorretamente a multiplicação adicionando dois "zeros" na
 expressão.
 
-3\) Charles é um botânico de renome, e ao sair para realizar pesquisas
+1. Charles é um botânico de renome, e ao sair para realizar pesquisas
 em uma floresta acabou se perdendo no meio da mata, Charles também
 esqueceu seus equipamentos de navegação em seu laboratório, e a única
 coisa que se lembra e que a cidade mais próxima fica ao rumo do pôr sol,
 para chegar a cidade mais próxima, para qual sentido Charles deve andar?
 
-a\) Norte
+1. Norte
 
-b\) Sul
+1. Sul
 
-c\) Leste
+1. Leste
 
-d\) Oeste
+1. Oeste
 
 Resposta: D
 
@@ -5526,7 +5526,7 @@ maiores ou iguais a ela.
 
 Questões:
 
-1\) Camila uma empresária do ramo de brinquedos estava analisando o
+1. Camila uma empresária do ramo de brinquedos estava analisando o
 gráfico de vendas do primeiro quadrimestre de 2022,
 
 ![](./imgSAEB_8_MAT/media/image39.png){width="5.90625in"
@@ -5537,33 +5537,33 @@ estilo, mas que o conteúdo continue o mesmo.
 
 Ao Analisar o gráfico Camila verificou que:
 
-a\) O mês que houve a maior quantidade de brinquedos produzidos foi:
+1. O mês que houve a maior quantidade de brinquedos produzidos foi:
 
-b\) O mês que houve a menor quantidade de produção:
+1. O mês que houve a menor quantidade de produção:
 
-c\) O brinquedo mais produzido foi:
+1. O brinquedo mais produzido foi:
 
-d\) O brinquedo que menos foi produzido foi:
+1. O brinquedo que menos foi produzido foi:
 
-e\) Quantos brinquedos ao total a empresa de Camila produziu no primeiro
+1. Quantos brinquedos ao total a empresa de Camila produziu no primeiro
 quadrimestre de 2022?
 
 Deixar o espaço de 1 linha para resposta em cada item acima.
 
 Respostas:
 
-a\) Abril
+1. Abril
 
-b\) Março
+1. Março
 
-c\) Os brinquedos mais produzidos foram as Bonecas
+1. Os brinquedos mais produzidos foram as Bonecas
 
-d\) Os brinquedos menos reproduzidos foram as bolas
+1. Os brinquedos menos reproduzidos foram as bolas
 
-e\) Realizando a soma dos dados do gráfico obtemos que a empresa de
+1. Realizando a soma dos dados do gráfico obtemos que a empresa de
 Camila fabricou ao total de 38 400 brinquedos
 
-2\) Ronaldo resolveu colocar em um gráfico todos os custos mensais de
+1. Ronaldo resolveu colocar em um gráfico todos os custos mensais de
 sua casa
 
 ![](./imgSAEB_8_MAT/media/image40.png){width="5.308333333333334in"
@@ -5574,29 +5574,29 @@ estilo, mas que o conteúdo continue o mesmo.
 
 Ao analisar o gráfico responda
 
-a\) Ronaldo comprou um ar condicionado que consome muita energia, qual
+1. Ronaldo comprou um ar condicionado que consome muita energia, qual
 foi o mês da compra?
 
-b\) A filha de Ronaldo Contratou um plano adicional de internet, qual
+1. A filha de Ronaldo Contratou um plano adicional de internet, qual
 foi o mês da aquisição?
 
-c\) Qual a conta que nunca teve uma grande alta de valor?
+1. Qual a conta que nunca teve uma grande alta de valor?
 
-d\) Em que mês Ronaldo pagou o menor valor de contas na sua casa?
+1. Em que mês Ronaldo pagou o menor valor de contas na sua casa?
 
 Deixar o espaço de 1 linha para resposta em cada item acima
 
 Respostas:
 
-a\) Entre o mês de janeiro e fevereiro
+1. Entre o mês de janeiro e fevereiro
 
-b\) No mês de maio
+1. No mês de maio
 
-c\) A conta de Água
+1. A conta de Água
 
-d\) Janeiro
+1. Janeiro
 
-3\) Poliana está passando por uma reeducação financeira, onde começou a
+1. Poliana está passando por uma reeducação financeira, onde começou a
 dividir seus gastos de forma que ainda sobre um dinheiro livre para
 aproveitar
 
@@ -5608,13 +5608,13 @@ estilo, mas que o conteúdo continue o mesmo.
 
 Considerando que o Salário mensal de Poliana é 3 000 reais responda:
 
-a\) O valor destinado mensalmente para as contas da casa
+1. O valor destinado mensalmente para as contas da casa
 
-b\) O valor destinado mensalmente para despesas no mercado
+1. O valor destinado mensalmente para despesas no mercado
 
-c\) O valor destinado mensalmente para investimentos
+1. O valor destinado mensalmente para investimentos
 
-d\) Poliana quer comprar um carro novo no valor de R\$30 000,00 reais,
+1. Poliana quer comprar um carro novo no valor de R\$30 000,00 reais,
 se Poliana utilizar da parte de investimentos do seu salário, quantos
 meses demorará para Poliana comprar o carro?
 
@@ -5622,15 +5622,15 @@ Deixar o espaço de 1 linha para resposta em cada item acima
 
 Respostas:
 
-a\) 3 000 . 0,53 = R\$ 1 590,00
+1. 3 000 . 0,53 = R\$ 1 590,00
 
-b\) 3 000 . 0,25 = R\$ 750,00
+1. 3 000 . 0,25 = R\$ 750,00
 
-c\) 3 000 . 0,12 = R\$ 360,00
+1. 3 000 . 0,12 = R\$ 360,00
 
-d\) 30 000 : 360 = 84 meses
+1. 30 000 : 360 = 84 meses
 
-4\) O gráfico abaixo demonstra os títulos relevantes de toda a história
+1. O gráfico abaixo demonstra os títulos relevantes de toda a história
 de 4 times de futebol.
 
 [\[CHART\]]{.chart}
@@ -5640,28 +5640,28 @@ estilo, mas que o conteúdo continue o mesmo.
 
 Sobre o gráfico podemos afirmar que:
 
-a\) O time que mais ganhou campeonatos estaduais foi:
+1. O time que mais ganhou campeonatos estaduais foi:
 
-b\) Os times que mais ganharam torneios a nível nacional foram:
+1. Os times que mais ganharam torneios a nível nacional foram:
 
-c\) O time que menos ganhou títulos a nível continental foi:
+1. O time que menos ganhou títulos a nível continental foi:
 
-d\) Qual o único time que ainda não ganhou nenhum campeonato a nível
+1. Qual o único time que ainda não ganhou nenhum campeonato a nível
 mundial:
 
 Deixar o espaço de 1 linha para resposta em cada item acima
 
 Respostas:
 
-a\) Time B
+1. Time B
 
-b\) Times A e C
+1. Times A e C
 
-c\) Time B
+1. Time B
 
-d\) Time C
+1. Time C
 
-5\) Uma empresa de fornecimento de água contem um controle rigoroso
+1. Uma empresa de fornecimento de água contem um controle rigoroso
 quanto a quantidade de agua captada pelos seu reservatórios, nos últimos
 anos a empresa captou as seguintes informações sobre um dos seu maiores
 reservatórios
@@ -5682,7 +5682,7 @@ Resposta:
 Os anos que menos houveram chuvas segundo o gráfico foram em 2014 e
 2015.
 
-6\) Três amigos resolveram fazer um teste em um clube de futebol, ao
+1. Três amigos resolveram fazer um teste em um clube de futebol, ao
 final do teste um analista de desempenho que estava observando os 3
 amigos fez um gráfico com algumas características de cada um
 
@@ -5694,16 +5694,16 @@ estilo, mas que o conteúdo continue o mesmo.
 Com o relatório do analista em mãos o clube pode tomar algumas
 decisões\...
 
-a\) Caso o clube queira contratar o Jogador mais veloz, qual deve
+1. Caso o clube queira contratar o Jogador mais veloz, qual deve
 escolher?
 
-b\) Caso o clube queira contratar o Jogador com melhor passe, qual deve
+1. Caso o clube queira contratar o Jogador com melhor passe, qual deve
 escolher?
 
-c\) Caso o clube queira contratar o Jogador mais forte, qual deve
+1. Caso o clube queira contratar o Jogador mais forte, qual deve
 escolher?
 
-d\) Considerando que a temporada para o clube seja longa e que o clube
+1. Considerando que a temporada para o clube seja longa e que o clube
 precise contratar o jogar que tenha a maior resistência, qual deve ser a
 escolha?
 
@@ -5711,31 +5711,31 @@ Deixar o espaço de 1 linha para resposta em cada item acima
 
 Respostas:
 
-a\) O Clube deve escolher Joãozinho
+1. O Clube deve escolher Joãozinho
 
-b\) O Clube deve escolher Pedrinho
+1. O Clube deve escolher Pedrinho
 
-c\) O Clube deve escolher Clebinho
+1. O Clube deve escolher Clebinho
 
-d\) O Clube deve escolher Clebinho
+1. O Clube deve escolher Clebinho
 
-7\) Uma empresa está realizando uma pesquisa sobre o nível de satisfação
+1. Uma empresa está realizando uma pesquisa sobre o nível de satisfação
 de seus funcionários, para isso, pesquisaram 35 funcionários dos 300
 registrados na empresa, com base nas informações anteriores responda:
 
-a\) Qual a população dessa pesquisa?
+1. Qual a população dessa pesquisa?
 
-b\) Qual a sua amostra?
+1. Qual a sua amostra?
 
 Deixar o espaço de 1 linha para resposta em cada item acima
 
 Resposta:
 
-a\) os 300 funcionários registrados
+1. os 300 funcionários registrados
 
-b\) 35 funcionários
+1. 35 funcionários
 
-8\) O quadro mostra algumas notas de matemática de alguns alunos do 8°
+1. O quadro mostra algumas notas de matemática de alguns alunos do 8°
 ano de uma escola
 
   Notas da disciplina Matemática                                             
@@ -5752,18 +5752,18 @@ estilo, mas que o conteúdo continue o mesmo.
 
 Sobre as notas responda:
 
-a\) Qual a média aritmética das notas que Adriana obteve nos 4
+1. Qual a média aritmética das notas que Adriana obteve nos 4
 bimestres?
 
-b\) Qual a média aritmética das notas que Bruno obteve nos 4 bimestres?
+1. Qual a média aritmética das notas que Bruno obteve nos 4 bimestres?
 
-c\) Qual a média aritmética das notas que Carla obteve nos 4 bimestres?
+1. Qual a média aritmética das notas que Carla obteve nos 4 bimestres?
 
-d\) Qual a média aritmética das notas que José obteve nos 4 bimestres?
+1. Qual a média aritmética das notas que José obteve nos 4 bimestres?
 
-e\) Qual a média aritmética das notas que Renata obteve nos 4 bimestres?
+1. Qual a média aritmética das notas que Renata obteve nos 4 bimestres?
 
-f\) Sabendo que para ser aprovado na disciplina a média das notas dos 4
+1. Sabendo que para ser aprovado na disciplina a média das notas dos 4
 bimestres devem ser maior que 6, quais alunos foram aprovados? E Quais
 reprovados?
 
@@ -5771,17 +5771,17 @@ Deixar o espaço de 2 linhas para resposta em cada item acima
 
 Respostas:
 
-a\)
+1.
 
 7+6,5+9+8 =30,5
 
 30,5 : 4= 7,625
 
-b\) 3+ 5+6+5= 19
+1. 3+ 5+6+5= 19
 
 19:4=4,75
 
-c\) 9+9+8+9= 35
+1. 9+9+8+9= 35
 
 35:4= 8,75
 
@@ -5789,13 +5789,13 @@ d)10+8+8+8=34
 
 34:4= 8,5
 
-e\) 5+4+5+3 =17
+1. 5+4+5+3 =17
 
 17:4=4,25
 
-f\) Bruno e Renata foram reprovados.
+1. Bruno e Renata foram reprovados.
 
-9\) Dona Catarina de 82 anos tem 5 irmãs, Genoveva de 79 Anos, Clotilde
+1. Dona Catarina de 82 anos tem 5 irmãs, Genoveva de 79 Anos, Clotilde
 de 75, Amélia de 70, Irene de 67 e Tereza de 64, Qual a média de idade
 de todas as irmãs?
 
@@ -5849,17 +5849,17 @@ Logo por método de observação temos que a Moda é os calçados número 38.
 
 Testes:
 
-1\) Em um jogo de basquete, os 5 atletas de um time que iniciaram o jogo
+1. Em um jogo de basquete, os 5 atletas de um time que iniciaram o jogo
 tinham respectivamente 2,01m, 1,99m, 2,00m ,2,02 e 1,98m de altura, qual
 a estatura média dessa equipe titular?
 
-a\) 2,02 m
+1. 2,02 m
 
-b\) 1,98 m
+1. 1,98 m
 
-c\) 2 m
+1. 2 m
 
-d\) 10 m
+1. 10 m
 
 Resposta: C
 
@@ -5892,7 +5892,7 @@ Alternativa D: incorreta, o aluno chegaria a esse resultado,
 considerando que o enunciado requer a soma das alturas da equipe, e não
 a média aritmética, chegando a uma conclusão equivocada.
 
-2\) Um grupo de amigas que frequentam uma academia decidiram
+1. Um grupo de amigas que frequentam uma academia decidiram
 compartilhar o valor de sua última pesagem uma com as outras e chegaram
 ao seguintes números:
 
@@ -5900,13 +5900,13 @@ ao seguintes números:
 
 Qual a mediana do valor do peso em kg dessas amigas?
 
-a\) 44kg
+1. 44kg
 
-b\) 45,5kg
+1. 45,5kg
 
-c\) 46 kg
+1. 46 kg
 
-d\) 45kg
+1. 45kg
 
 Resposta: B
 
@@ -5936,7 +5936,7 @@ casos de conteúdos pares a mediana deve ser a média entre os dois
 valores centrais, no caso ao pegar apenas um valor o aluno chegaria a
 esse resultado.
 
-3\) Maria caminha todos os dias até seu trabalho, durante uma semana
+1. Maria caminha todos os dias até seu trabalho, durante uma semana
 resolveu cronometrar o tempo que levou de sua casa até seu trabalho:
 
 Segunda-feira: 35 minutos
@@ -5951,13 +5951,13 @@ Sexta-feira: 36 minutos
 
 Qual o tempo médio que Maria gasta até chegar no trabalho?
 
-a\) 32 minutos
+1. 32 minutos
 
-b\) 36 minutos
+1. 36 minutos
 
-c\) 34 minutos
+1. 34 minutos
 
-d\) 170 minutos
+1. 170 minutos
 
 BNCC: EF08MA25
 
@@ -6036,7 +6036,7 @@ Volume de um paralelepípedo temos que V= l.l.l
 
 Atividades:
 
-1\) Considere o cubo abaixo
+1. Considere o cubo abaixo
 
 ![](./imgSAEB_8_MAT/media/image42.png){width="1.8958333333333333in"
 height="1.2708333333333333in"}
@@ -6044,40 +6044,40 @@ height="1.2708333333333333in"}
 Inserir uma imagem similar a essa, podendo ser alterada as cores e o
 estilo, mas que o conteúdo continue o mesmo.
 
-a\) Qual é a medida de perímetro de uma das faces desse cubo?
+1. Qual é a medida de perímetro de uma das faces desse cubo?
 
-b\) E qual é a medida de área de uma das faces dele?
+1. E qual é a medida de área de uma das faces dele?
 
-c\) Qual é a medida de volume do cubo?
+1. Qual é a medida de volume do cubo?
 
 Deixar o espaço de 2 linhas para resposta em cada item acima.
 
 Respostas:
 
-a\) 4 . 3 = 12cm
+1. 4 . 3 = 12cm
 
-b\) 3 . 3 = 9cm²
+1. 3 . 3 = 9cm²
 
-c\) 3 . 3 . 3 = 27cm³
+1. 3 . 3 . 3 = 27cm³
 
-2\) Determine a medida de área de uma região quadrada sabendo que a
+1. Determine a medida de área de uma região quadrada sabendo que a
 medida de comprimento do lado é de:
 
-a\) 8cm
+1. 8cm
 
-b\) 12cm
+1. 12cm
 
-c\) 16 m
+1. 16 m
 
-d\) 20 m
+1. 20 m
 
-e\) 34 m
+1. 34 m
 
-f\) 8 mm
+1. 8 mm
 
-g\) 10 mm
+1. 10 mm
 
-h\) 25 mm
+1. 25 mm
 
 Deixar o espaço de 2 linhas para resposta em cada item acima.
 
@@ -6087,9 +6087,9 @@ Considerando a área do quadrado l . l = A
 
 Temos que:
 
-a\) 8 . 8 = 64cm²
+1. 8 . 8 = 64cm²
 
-b\) 12 . 12 = 144cm²
+1. 12 . 12 = 144cm²
 
 c)16 . 16= 256 m²
 
@@ -6097,30 +6097,30 @@ d)20 . 20 = 400 m²
 
 e)34 . 34= 1156m²
 
-f\) 8 . 8 = 64mm²
+1. 8 . 8 = 64mm²
 
-g\) 10 . 10 = 100mm²
+1. 10 . 10 = 100mm²
 
-h\) 25 . 25 = 625 mm²
+1. 25 . 25 = 625 mm²
 
-3\) Calcule no caderno a medida de comprimento do lado de uma região
+1. Calcule no caderno a medida de comprimento do lado de uma região
 quadrada cuja medida de área é de:
 
-a\) 121 cm²
+1. 121 cm²
 
-b\) 169 cm²
+1. 169 cm²
 
-c\) 225 cm ²
+1. 225 cm ²
 
-d\) 36m²
+1. 36m²
 
-e\) 324 m²
+1. 324 m²
 
-f\) 529 m²
+1. 529 m²
 
-g\) 81mm²
+1. 81mm²
 
-h\) 729mm²
+1. 729mm²
 
 Deixar o espaço de 2 linhas para resposta em cada item acima.
 
@@ -6134,7 +6134,7 @@ Logo l = $\sqrt{A}$
 
 Aplicando temos que:
 
-a\) $\sqrt{121}$ = 11cm
+1. $\sqrt{121}$ = 11cm
 
 b)$\ \sqrt{169}$= 13cm
 
@@ -6150,7 +6150,7 @@ g)$\ \sqrt{81}$ = 9 mm
 
 h)$\ \sqrt{729}$ = 27 mm
 
-4\) Determine a área de cada figura abaixo
+1. Determine a área de cada figura abaixo
 
 ![](./imgSAEB_8_MAT/media/image43.png){width="1.65in"
 height="0.9645833333333333in"}a)
@@ -6165,7 +6165,7 @@ Deixar o espaço de 2 linhas para resposta em cada item acima.
 
 Respostas:
 
-a\)
+1.
 
 4 . 4 + 2 . 2= A
 
@@ -6173,15 +6173,15 @@ a\)
 
 A= 20 cm²
 
-b\)
+1.
 
-6\. 3 + 3 . 3 = A
+1. 3 + 3 . 3 = A
 
 18+9 = A
 
 A= 27cm²
 
-5\) Para construir uma caixa com a forma de um bloco retangular sem
+1. Para construir uma caixa com a forma de um bloco retangular sem
 tampa, Rosangela recortou uma região poligonal de papelão, como esta
 figura, dobrou e colou com fita-crepe. Quantos cm² de papelão ela usou?
 
@@ -6203,9 +6203,9 @@ Somando todas as áreas das figuras tracejadas temos que:
 
 A= 1350cm²
 
-6\) Determine a área das figuras abaixo
+1. Determine a área das figuras abaixo
 
-a\)
+1.
 
 ![](./imgSAEB_8_MAT/media/image46.png){width="1.2604166666666667in"
 height="1.0625in"}
@@ -6229,7 +6229,7 @@ Respostas:
 Considerando que a Área do triangulo retângulo é definida por A=
 $\frac{b.h}{2}$ temos que
 
-a\)
+1.
 
 A= $\frac{4.8}{2}$
 
@@ -6237,7 +6237,7 @@ A= $\frac{32}{2}$
 
 A= 16m²
 
-b\)
+1.
 
 A=$\ \frac{\ 2,5.4}{2}$
 
@@ -6247,7 +6247,7 @@ A= 5 + 5
 
 A =10cm²
 
-c\)
+1.
 
 A= $\frac{12}{2}$
 
@@ -6255,7 +6255,7 @@ A= 6
 
 6 + 9 = 15 cm²
 
-d\)
+1.
 
 A= $\frac{4.2}{2}$
 
@@ -6265,7 +6265,7 @@ A= 4
 
 4+4 + 8.5 =48cm²
 
-7\) Ao ler a bula de uma medicação Andreia leu o seguinte dizer: "Cada
+1. Ao ler a bula de uma medicação Andreia leu o seguinte dizer: "Cada
 comprimido possui \#\# mm³ dentro de sua capsula" como não conseguiu ler
 pois a escrita estava rasurada, Andreia decidiu fazer suas próprias
 medida e obteve:
@@ -6279,15 +6279,15 @@ estilo, mas que o conteúdo continue o mesmo.
 a)Para saber o volume de medicação dentro da capsula qual formula
 Andreia deve utilizar?
 
-b\) Considerando $\Pi$=3 qual o volume da capsula?
+1. Considerando $\Pi$=3 qual o volume da capsula?
 
 Deixar o espaço de 2 linhas para resposta em cada item acima.
 
 Respostas:
 
-a\) V= $\Pi$. R² .h
+1. V= $\Pi$. R² .h
 
-b\) Sendo V= $\Pi$. R² .h
+1. Sendo V= $\Pi$. R² .h
 
 temos:
 
@@ -6295,7 +6295,7 @@ V= 3 . 14 . 11
 
 V= 462 mm³ de medicação
 
-8\) Calcule o volume das figuras abaixo
+1. Calcule o volume das figuras abaixo
 
 ![](./imgSAEB_8_MAT/media/image51.png){width="1.9479166666666667in"
 height="0.9895833333333334in"}a)
@@ -6313,7 +6313,7 @@ Deixar o espaço de 3 linhas para resposta em cada item acima.
 
 Resposta:
 
-a\)
+1.
 
 V= l . l . l
 
@@ -6321,7 +6321,7 @@ V= 8 . 4 . 3
 
 V= 96cm³
 
-b\)
+1.
 
 V= l . l . l
 
@@ -6333,7 +6333,7 @@ V= 144cm³
 
 V=72cm³
 
-c\)
+1.
 
 V= l . l . l
 
@@ -6349,7 +6349,7 @@ V= 1500
 
 1500 + 3000= 4500cm³
 
-9\) Marina Resolveu colocar em sua casa uma piscina de 8 metros de
+1. Marina Resolveu colocar em sua casa uma piscina de 8 metros de
 largura, 5 metros de comprimento e 1,5 metros de profundidade, sabendo
 que a companhia de agua cobra 0,05 centavos por litro de agua consumido,
 quantos reais marina vai gastar para encher completamente essa piscina?
@@ -6389,17 +6389,17 @@ V= 989,1 mm³
 
 Testes
 
-1\) Um cano cilíndrico de plástico, tem 70 cm de medida de comprimento e
+1. Um cano cilíndrico de plástico, tem 70 cm de medida de comprimento e
 raio de 6 cm. Qual é a medida de volume de que esse cano comporta?
 Considere $\Pi$=3
 
-a\) 7 560 cm³
+1. 7 560 cm³
 
-b\) 108 cm³
+1. 108 cm³
 
-c\) 36 cm³
+1. 36 cm³
 
-d\) 1 260 cm³
+1. 1 260 cm³
 
 Resposta: A
 
@@ -6430,7 +6430,7 @@ enunciado.
 Alternativa D: incorreta, o aluno chegaria a esse valor ao esquecer o
 termo quadrático, que a formula necessita para obter um valor correto.
 
-2\) Vanessa estava pintando um quadro em uma tela retangular de 1 m por
+1. Vanessa estava pintando um quadro em uma tela retangular de 1 m por
 70 cm e começou sua pintura desenhando e colorindo com tinta amarela um
 losango de Diagonais 70 cm e 50 cm, no restante do quadro Vanessa
 pretende colorir de tinta verde, Qual a área do quadro que falta ser
@@ -6442,13 +6442,13 @@ height="1.565255905511811in"}
 Inserir uma imagem similar a essa, podendo ser alterada as cores e o
 estilo, mas que o conteúdo continue o mesmo.
 
-a\) 5 250 cm²
+1. 5 250 cm²
 
-b\) 7 000 cm²
+1. 7 000 cm²
 
-c\) 1 750 cm²
+1. 1 750 cm²
 
-d\) 1 680 cm²
+1. 1 680 cm²
 
 Resposta: A
 
@@ -6492,7 +6492,7 @@ pintada e não a área a ser pintada, como o enunciado pede.
 Alternativa D: incorreta, o aluno chegaria nesse valor, ao não converter
 o valor em metros para centímetros, encontrando esse valor erroneamente.
 
-3\) Um condomínio resolveu trocar sua caixa e d agua e colocaram uma
+1. Um condomínio resolveu trocar sua caixa e d agua e colocaram uma
 nova de formato cilíndrico com diâmetro de base de medida de comprimento
 de 8 m e altura de medida de comprimento de 5 m.
 
@@ -6500,13 +6500,13 @@ Qual o volume dessa nova caixa d agua? Considere $\text{\ Π}$= 3,1
 EF08MA20 - Resolver problemas que envolvam volume de prismas retos ou
 cilindros retos.
 
-a\) 49,6 m³
+1. 49,6 m³
 
-b\) 24,8 m³
+1. 24,8 m³
 
-c\) 62 m³
+1. 62 m³
 
-d\) 248 m³
+1. 248 m³
 
 Resposta: D
 
@@ -6578,7 +6578,7 @@ elementos do espaço amostral, o evento é chamado evento certo.
 
 Questões:
 
-1\) Em um jogo de tabuleiro Natali precisa de tirar 4 no dado para
+1. Em um jogo de tabuleiro Natali precisa de tirar 4 no dado para
 conseguir uma bonificação qual é a probabilidade de sair a face com o
 número 4 em apenas um lançamento?
 
@@ -6593,57 +6593,57 @@ evento. Temos:
 $P(E)\frac{n(1)}{n(6)}$ Logo a chance de Natali tirar o número 4 no dado
 e conseguir a bonificação é $\frac{1}{6}$
 
-2\) Marina está jogando bingo com suas amigas, os números a serem
+1. Marina está jogando bingo com suas amigas, os números a serem
 sorteados nesse bingo vão de 1 a 60 qual a probabilidade de o primeiro
 número a ser sorteado ser:
 
-a\) Par
+1. Par
 
-b\) impar
+1. impar
 
-c\) Primo
+1. Primo
 
-d\) ser múltiplo de 3
+1. ser múltiplo de 3
 
-e\) ser múltiplo de 5
+1. ser múltiplo de 5
 
-f\) ser maior que 50
+1. ser maior que 50
 
-g\) ser menor que 50
+1. ser menor que 50
 
 Deixar o espaço de 3 linhas para resposta em cada item acima.
 
 Respostas:
 
-a\)
+1.
 
 $P(E)\frac{n(30)}{n(60)}$= $\frac{1}{2}$ ou 50%
 
-b\)
+1.
 
 $P(E)\frac{n(30)}{n(60)}$= $\frac{1}{2}$ ou 50%
 
-c\)
+1.
 
 $P(E)\frac{n(17)}{n(60)}$ =$\frac{17}{60}$ ou 28% aproximadamente
 
-d\)
+1.
 
 $P(E)\frac{n(20)}{n(60)}$ = $\frac{1}{3}$ ou 33% aproximadamente
 
-e\)
+1.
 
 $P(E)\frac{n(12)}{n(60)}$= $\frac{1}{5}$ ou 20%
 
-f\)
+1.
 
 $P(E)\frac{n(10)}{n(60)}$= $\frac{1}{6}$ 0u 16% aproximadamente
 
-g\)
+1.
 
 $P(E)\frac{n(49)}{n(60)}$= $\frac{49}{60}$ ou 81% aproximadamente
 
-3\) Sidnei está jogando um jogo de cartas com seus amigos, nesse jogo
+1. Sidnei está jogando um jogo de cartas com seus amigos, nesse jogo
 existem 4 cartas que são consideradas as mais fortes do jogo, ao pegar
 uma carta do baralho qual a chance de Sidnei ter escolhido uma destas
 cartas? Considere que o baralho tenha 52 cartas.
@@ -6654,7 +6654,7 @@ Resposta:
 
 $P(E)\frac{n(4)}{n(52)}$=$\frac{1}{13}$ ou 7%
 
-4\)
+1.
 
 Gabriela, Carolina, Graziela, Leonardo e Claudio são irmãos, quantas são
 as possibilidades de duplas formadas por esses irmãos?
@@ -6666,7 +6666,7 @@ Resposta:
 $\frac{5!}{3!.2!}$=$\frac{120}{6\ .\ 2}$ = $\frac{120}{12}$ = 10 duplas
 podem ser formadas
 
-5\) João e Maria estão jogando um jogo, no qual consiste em lançar 2
+1. João e Maria estão jogando um jogo, no qual consiste em lançar 2
 moedas para cima e observar seu resultado após pararem. Para João ganhar
 ele precisa que ao lançar as duas moedas, pelo menos uma delas tenha uma
 coroa como resultado qual a probabilidade de João vencer o jogo?
@@ -6677,7 +6677,7 @@ Resposta:
 
 $P(E)\frac{n(3)}{n(4)}$= $\frac{3}{4}$ ou 75%
 
-6\) Um parque de diversões resolveu lançar uma promoção para seus
+1. Um parque de diversões resolveu lançar uma promoção para seus
 clientes, colocou uma urna contendo 1 200 bolinhas enumeradas de 1 a 1
 200, quem encontrasse uma bolinha com o número menor que 10 ganhava um
 prêmio, qual a probabilidade de alguém em 1 chance ganhar o prêmio?
@@ -6688,7 +6688,7 @@ Resposta:
 
 $P(E)\frac{n(9)}{n(1\ 200)}$=$\frac{3}{400}$ ou 0,75%
 
-7\) Regiane está indo para uma festa de casamento onde irá usar, um
+1. Regiane está indo para uma festa de casamento onde irá usar, um
 vestido, um sapato e um colar, Se ela dispõe de 8 vestidos e 12 sapatos
 e 3 colares para escolher, de quantos modos diferentes Regiane pode se
 vestir?
@@ -6699,7 +6699,7 @@ Respostas:
 
 12 .8 . 3= 288 maneiras diferentes
 
-8\) Uma professor está montando um provão final para testar o
+1. Uma professor está montando um provão final para testar o
 conhecimento de seus alunos, a prova contem 40 testes, cada um com
 quatro alternativas, das quais apenas uma é correta. De quantos maneiras
 o gabarito da prova pode ser montado?
@@ -6714,7 +6714,7 @@ Respostas:
 
 Temos que 4^40^
 
-9\) Rita é professora de uma sala de aula do 8° ano com 40 anos, e ao
+1. Rita é professora de uma sala de aula do 8° ano com 40 anos, e ao
 fazer uma pesquisa na sua sala descobriu que 6 alunos são canhotos.
 Certo dia Rita decidiu sortear um livro entre seus alunos, qual a
 probabilidade de um aluno canhoto ganhar?
@@ -6738,19 +6738,19 @@ $P(E)\frac{n(2)}{n(7)}$= 28% aproximadamente
 
 Treino
 
-1\) Em uma fábrica de sapatos houve um defeito com umas das maquinas da
+1. Em uma fábrica de sapatos houve um defeito com umas das maquinas da
 linha de produção, onde após uma pesquisa realizada foi constatado que,
 a cada 100 pares produzidos, 4 pares apresentavam algum tipo de defeito,
 um inspetor ao selecionar 1 par de sapatos aleatoriamente qual a chance
 desse par estar com defeito?
 
-a\) 40%
+1. 40%
 
-b\) 1%
+1. 1%
 
-c\) 4%
+1. 4%
 
-d\) 25%
+1. 25%
 
 Resposta: C
 
@@ -6777,19 +6777,19 @@ apenas dividir o número de calcados totais pelo número de pares de
 calcados chegando ao valor descrito na alternativa o que não é o que o
 enunciado pede.
 
-2\) Em um restaurante de comida típica mineira há diversas
+1. Em um restaurante de comida típica mineira há diversas
 possibilidades de cardápio, nele você pode escolher 3 tipos diferentes
 de guarnições, 4 tipos de carnes, 6 tipos de saladas e 5 tipos de
 massas. Quantas possibilidades diferentes de montar o prato um cliente
 pode ter?
 
-a\) 18 possibilidades
+1. 18 possibilidades
 
-b\) 72 possibilidades
+1. 72 possibilidades
 
-c\) 60 possibilidades
+1. 60 possibilidades
 
-d\) 300 possibilidades
+1. 300 possibilidades
 
 Resposta: D
 
@@ -6816,22 +6816,22 @@ Alternativa D: Correta Pois:
 
 Relendo o enunciado temos que:
 
-3\. 4 . 6 . 5 = 300
+1. 4 . 6 . 5 = 300
 
-3\) Um casal decidiu inovar na escolha do nome de seu novo filho,
+1. Um casal decidiu inovar na escolha do nome de seu novo filho,
 resolveram colocar todas as letras do alfabeto em um saquinho, a letra
 que fosse sorteada seria a letra inicial do nome.
 
 Em um sorteio em condições justas qual a chance aproximadamente do filho
 do casal ter a letra L como inicial do seu nome?
 
-a\) 3%
+1. 3%
 
-b\) 26%
+1. 26%
 
-c\) 1%
+1. 1%
 
-d\) 0,3%
+1. 0,3%
 
 Resposta: A
 
@@ -6860,7 +6860,7 @@ aluno chegaria a assinalar essa alternativa de forma equivocada.
 
 Simulado 1:
 
-1\) O número de ouro é um número\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
+1. O número de ouro é um número\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 misterioso e enigmático, presente em uma infinidade de elementos da
 natureza na forma de uma razão que é considerada por muitos como a
 divina proporção ou razão divina.
@@ -6872,13 +6872,13 @@ $\frac{1 + \ \sqrt{5}}{2}$ = 1,6180339887\...
 Ao observar o enunciado percebe se que falta uma palavra, qual é essa
 palavra?
 
-a\) Irracional
+1. Irracional
 
-b\) Racional
+1. Racional
 
-c\) Inteiro
+1. Inteiro
 
-d\) Natural
+1. Natural
 
 Alternativa A: correta pois: está faltando a palavra Irracional no
 texto.
@@ -6893,7 +6893,7 @@ Alternativa D: incorreta, o aluno pode considerar por falta de
 conhecimento prévio que o número seja de alguma forma natural, devido a
 todas as respostas serem conjuntos.
 
-2\) Um físico durante seus estudos descobriu que a massa de um elétron
+1. Um físico durante seus estudos descobriu que a massa de um elétron
 pesa aproximadamente 0,000000000000000000000000000911 g, ao descobrir
 tal fato decidiu mandar uma carta para sua mãe demonstrando tal
 descoberta, para ocupar o menor espaço possível na carta qual outra
@@ -6901,13 +6901,13 @@ forma que esse número poderia ser reescrito? EF09MA01 Resolver problemas
 de adição, subtração, multiplicação, divisão, potenciação ou radiciação
 envolvendo número reais, inclusive notação científica
 
-a\) 9,11 ^.^ 10^-29^
+1. 9,11 ^.^ 10^-29^
 
-b\) 9,11 ^.^ 10^-28^
+1. 9,11 ^.^ 10^-28^
 
-c\) 9,11 ^.^ 10 ^-27^
+1. 9,11 ^.^ 10 ^-27^
 
-d\) 9,11 ^.^ 10 ^-26^
+1. 9,11 ^.^ 10 ^-26^
 
 Alternativa A: incorreta, o aluno ao contar um "zero" a mais o aluno
 chegaria a esse resultado erroneamente.
@@ -6934,19 +6934,19 @@ chegaria a esse resultado erroneamente.
 Alternativa D: incorreta, o aluno ao contar dois "zeros" a menos o aluno
 chegaria a esse resultado erroneamente.
 
-3\) Em um festival de Música a capacidade total de público era de 50 000
+1. Em um festival de Música a capacidade total de público era de 50 000
 pessoas, sabendo que compareceram $\frac{99}{100}$ do publico total,
 Qual foi a capacidade atingida nesse festival? EF08MA05 Representar
 frações menores ou maiores que a unidade por meio de representações
 pictóricas ou associar frações a representações pictóricas.
 
-a\) 49 999
+1. 49 999
 
-b\) 49 500
+1. 49 500
 
-c\) 49 001
+1. 49 001
 
-d\) 4 950
+1. 4 950
 
 Alternativa incorreta, o aluno pode chegar à conclusão que de 100-99 =
 1, logo ao tirar também o valor 1 de 50 000, encontraria o resultado
@@ -6965,20 +6965,20 @@ Alternativa D: incorreta, o aluno pode chegar a esse resultado ao invés
 de multiplicar o valor de 50 000 por 0,99 , realizar a multiplicação por
 0,099.
 
-4\) Munir paga R\$ 4,25 por uma passagem do ônibus que usa para ir ao
+1. Munir paga R\$ 4,25 por uma passagem do ônibus que usa para ir ao
 emprego de enfermeiro Ele ficou sabendo que o preço da passagem terá um
 aumento de 12%. Quanto Munir passará a pagar pela passagem? EF08MA04 -
 Resolver problemas que envolvam porcentagens, incluindo os que lidam com
 acréscimos e decréscimos simples, aplicação de percentuais sucessivos e
 determinação de taxas percentuais.
 
-a\) 0,51
+1. 0,51
 
-b\) 3,74
+1. 3,74
 
-c\) 4,37
+1. 4,37
 
-d\) 4,76
+1. 4,76
 
 Alternativa A: incorreta, esse seria o acréscimo do valor da passagem,
 não o valor final.
@@ -7001,19 +7001,19 @@ x\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--112
 
 X= 4,76
 
-5\) Frances tem em seu carro R\$ 15,60 em moedas de R\$ 0,10 e de R\$
+1. Frances tem em seu carro R\$ 15,60 em moedas de R\$ 0,10 e de R\$
 0,25. Dado que o número de moedas de 25 centavos é o dobro do número de
 moedas de 10 centavos, o total de moedas no seu carro é? EF08MA08 -
 Resolver problemas que possam ser representados por sistema de equações
 de 1º grau com duas incógnitas.
 
-a\) 52
+1. 52
 
-b\) 26
+1. 26
 
-c\) 1 352
+1. 1 352
 
-d\) 78
+1. 78
 
 Alternativa A: incorreta, o aluno pode considerar que essa seja o valor
 final do número de moedas, mas se trata de apenas o valor de um dos
@@ -7048,7 +7048,7 @@ Como x é o dobro de y, vamos ter que: x=2y = 2. 26 = 52
 
 Logo 52+26= 78 moedas Frances tinha em seu carro, logo alternativa D
 
-6\) Arlindo Resolveu presentear sua filha com 2 caixas de tamanhos
+1. Arlindo Resolveu presentear sua filha com 2 caixas de tamanhos
 diferentes, ambas Arlindo pretende encher com joias, qual a equação que
 representa o volume máximo de joias que a filha de Arlindo vai receber
 somando o volume das duas caixas? EF08MA10 - Resolver problemas que
@@ -7059,13 +7059,13 @@ height="1.5654494750656167in"}
 
 Inserir uma imagem similar a essa contendo os mesmos valores algébricos.
 
-a\) X³ + 6x² + 12x +8
+1. X³ + 6x² + 12x +8
 
-b\) 21x³ + 62x² + 44x + 8
+1. 21x³ + 62x² + 44x + 8
 
-c\) 22x³+ 68x²+56x+
+1. 22x³+ 68x²+56x+
 
-d\) 22x³+ 68x²+56x+16
+1. 22x³+ 68x²+56x+16
 
 Alternativa A: incorreta o aluno poderia chegar a essa conclusão
 chegando apenas ao valor do volume apenas da primeira caixa.
@@ -7111,7 +7111,7 @@ X³ + 6x² + 12x +8 + 21x³ + 62x² + 44x + 8=
 
 22x³+ 68x²+56x+16
 
-7\) Josué é estudante de cálculo em uma faculdade de sua cidade, em um
+1. Josué é estudante de cálculo em uma faculdade de sua cidade, em um
 dia que estava em casa Josué resolveu calcular quantos segundos demora
 caminhando de um lado para o outro pela casa, e chegou à conclusão que o
 tempo em segundos é determinado pela formula t² - 36 = 0 sendo assim
@@ -7119,13 +7119,13 @@ quanto tempo Josué demora para atravessar de um lado para o outro na
 casa? EF09MA09 - Resolver problemas que possam ser representados por
 equações polinomiais de 2º grau.
 
-a\) 36
+1. 36
 
-b\) 6
+1. 6
 
-c\) 37
+1. 37
 
-d\) 2
+1. 2
 
 Alternativa a: incorreta, este valor representa apenas um dos termos da
 equação e não o valor final o aluno pode chegar a assinalar esta
@@ -7147,20 +7147,20 @@ os termos da equação o que não é o que o enunciado pede.
 Alternativa D: incorreta, o aluno pode apenas retirar o termo quadrático
 e cogitar que essa possa ser a alternativa correta.
 
-8\) Helena resolveu visitar seus pais que moram a 455 km de distância de
+1. Helena resolveu visitar seus pais que moram a 455 km de distância de
 sua cidade, Helena chegou 7 horas depois que saiu de casa. Qual foi a
 velocidade média que helena obteve nesse percurso? EF08MA12 - Resolver
 problemas que envolvam variação de proporcionalidade direta ou inversa
 entre duas ou mais grandezas, inclusive escalas, divisões proporcionais
 e taxa de variação.
 
-a\) 65 km/h
+1. 65 km/h
 
-b\) 7,56 km/h
+1. 7,56 km/h
 
-c\) 1,08 km/h
+1. 1,08 km/h
 
-d\) 18,05 km/h
+1. 18,05 km/h
 
 Alternativa A: Correta pois:
 
@@ -7178,7 +7178,7 @@ km/h por km/m
 Alternativa D: incorreta o aluno chegara a essa conclusão confundindo
 km/h por m/s.
 
-9\) Considerando a figura, em que ABC é a representação de um triângulo
+1. Considerando a figura, em que ABC é a representação de um triângulo
 equilátero, calcule a medida do ângulo x? EF08MA18- Relacionar o número
 de vértices, faces ou arestas de prismas ou pirâmides, em função do seu
 polígono da base.
@@ -7188,13 +7188,13 @@ height="1.2604166666666667in"}
 
 Inserir uma imagem similar a essa.
 
-a\) 135°
+1. 135°
 
-b\) 165°
+1. 165°
 
-c\) 60°
+1. 60°
 
-d\) 300°
+1. 300°
 
 Alternativa A:incorreta, o aluno chegaria a essa conclusão realizando
 apenas a primeira parte do cálculo esquecendo da figura triangular
@@ -7236,11 +7236,11 @@ retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
 
-a\) 45°
+1. 45°
 
-b\) 60°
+1. 60°
 
-c\) 75°
+1. 75°
 
 d)180°
 
@@ -7264,9 +7264,9 @@ Fazendo a substituição temos que os ângulos são
 
 3 . 15 = 45
 
-4\. 15 + 15 = 75
+1. 15 + 15 = 75
 
-6\. 15 -- 30 = 60
+1. 15 -- 30 = 60
 
 Logo o ângulo maior é o de valor 75° alternativa c
 
@@ -7280,13 +7280,13 @@ Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
 representações bidimensionais (mapas, croquis etc.), plantas de
 ambientes ou vistas, de acordo com condições dadas.
 
-a\) 260, 286 km
+1. 260, 286 km
 
-b\) 3 415 km
+1. 3 415 km
 
-c\) 3 259 km
+1. 3 259 km
 
-d\) 42,78km
+1. 42,78km
 
 Alternativa A: correta
 
@@ -7323,13 +7323,13 @@ Quantas palavras por dia em média Geraldo digita? EF08MA25 - Calcular os
 valores de medidas de tendência central de uma pesquisa estatística
 (média aritmética simples, moda ou mediana).
 
-a\) 125 000
+1. 125 000
 
-b\) 130 600
+1. 130 600
 
-c\) 112 000
+1. 112 000
 
-d\) 175 000
+1. 175 000
 
 Alternativa A: incorreta, este valor é referente apenas ao 1° dia de
 Geraldo, o enunciado requer uma média aritmética o que pode levar o
@@ -7362,13 +7362,13 @@ gasta para encher uma caixa-d'água com a forma de bloco retangular de
 lados 2m x 2m x 1m. EF08MA20 - Resolver problemas que envolvam volume de
 prismas retos ou cilindros retos.
 
-a\) 4 horas
+1. 4 horas
 
-b\) 3 horas e 10 minutos
+1. 3 horas e 10 minutos
 
-c\) 3 horas e 20 minutos
+1. 3 horas e 20 minutos
 
-d\) 20 minutos
+1. 20 minutos
 
 Alternativa A: incorreta, este valor seria correspondente ao valor do
 volume e não a quantidade de tempo, assim o aluno chegaria erroneamente
@@ -7412,13 +7412,13 @@ Resolver problemas que envolvam a probabilidade de ocorrência de um
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes
 
-a\) 2,5 %
+1. 2,5 %
 
-b\) 1%
+1. 1%
 
-c\) 0,25%
+1. 0,25%
 
-d\) 40%
+1. 40%
 
 Alternativa A: Correta, pois:
 
@@ -7436,10 +7436,10 @@ probabilidades o que é incorreto.
 
 Simulado 2:
 
-1\) Qual é o menor número natural que devemos multiplicar pelo número
+1. Qual é o menor número natural que devemos multiplicar pelo número
 125 para que o produto seja um número quadrado perfeito?
 
-a\) 2
+1. 2
 
 b)3
 
@@ -7461,7 +7461,7 @@ incorreto.
 Alternativa D,Correta: pois 5 x 125 = 625 e $\sqrt{625}$ = 25 logo um
 quadrado perfeito.
 
-2\) Um empresa de nanotecnologia resolveu inovar e criar o menor chip do
+1. Um empresa de nanotecnologia resolveu inovar e criar o menor chip do
 mundo em formato de um quadrado de lados de 2,0 ^.^ 10 ^-5^ cm de
 comprimento.
 
@@ -7470,13 +7470,13 @@ Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
 científica
 
-a\) 4,0 ^.^10^-10^
+1. 4,0 ^.^10^-10^
 
-b\) 2,0^.^ 10^-5^
+1. 2,0^.^ 10^-5^
 
-c\) 4,0 ^.^ 10^-5^
+1. 4,0 ^.^ 10^-5^
 
-d\) 2,0^.^10 ^-10^
+1. 2,0^.^10 ^-10^
 
 Alternativa A: correta pois
 
@@ -7502,18 +7502,18 @@ chegaria a esse resultado, erroneamente.
 Alternativa D: Alternativa B: incorreta, ao não realizar a multiplicação
 de 2,0 por 2,0, o aluno chegaria a esse resultado, erroneamente.
 
-3\) Larissa e Leila são irmãs com apenas 1 ano de diferença, ao dividir
+1. Larissa e Leila são irmãs com apenas 1 ano de diferença, ao dividir
 a idade de Larissa pela idade de Leila obtemos o valor de
 0,933333333\... qual a idade das irmãs? EF08MA05 Determinar uma fração
 geratriz para uma dízima periódica.
 
-a\) Larissa tem 13 e Leila 12 anos
+1. Larissa tem 13 e Leila 12 anos
 
-b\) Larissa tem 14 e Leila 15 anos
+1. Larissa tem 14 e Leila 15 anos
 
-c\) Larissa tem 15 anos e Leila 16 anos
+1. Larissa tem 15 anos e Leila 16 anos
 
-d\) Larissa tem 16 anos e Leila 17 anos
+1. Larissa tem 16 anos e Leila 17 anos
 
 Alternativa A: incorreta, este problema tem 2 soluções possíveis, 1ª
 realizando um divisão entre os dois termos, ou encontrando a fração
@@ -7546,7 +7546,7 @@ geratriz do problema, o aluno pode considerar a alternativa correta
 simplesmente pelo fato da diferença entre as idades serem apenas de ano,
 sem realizar os possíveis cálculos indicados pelo enunciado.
 
-4\) Manoela está a fim de comprar um vestido para sua festa de formatura
+1. Manoela está a fim de comprar um vestido para sua festa de formatura
 então foi a uma loja e observou que o vestido que queria estava na
 promoção com um desconto de 10%, mas como estava com pressa Manoela
 decidiu voltar outro dia;
@@ -7558,13 +7558,13 @@ problemas que envolvam porcentagens, incluindo os que lidam com
 acréscimos e decréscimos simples, aplicação de percentuais sucessivos e
 determinação de taxas percentuais.
 
-a\) Não se alterou.
+1. Não se alterou.
 
-b\) Diminuiu 1%.
+1. Diminuiu 1%.
 
-c\) Aumentou 1%.
+1. Aumentou 1%.
 
-d\) Aumentou 79,20%.
+1. Aumentou 79,20%.
 
 Alternativa A: incorreta, o aluno chegará a essa conclusão caso não
 realize os cálculos necessários, onde achara que por dar 10% de desconto
@@ -7634,18 +7634,18 @@ Alternativa D: incorreta, o aluno chegaria a essa conclusão caso
 confundisse o valor final do produto com a porcentagem correspondente do
 produto.
 
-5\) Comprei 10 Bolas e 15 Bonecas por R\$ 800,00. Determine o preço de
+1. Comprei 10 Bolas e 15 Bonecas por R\$ 800,00. Determine o preço de
 cada boneca, sabendo que uma bola e uma boneca custam juntos R\$ 60,00.
 EF08MA08 - Resolver problemas que possam ser representados por sistema
 de equações de 1º grau com duas incógnitas.
 
-a\) 20 reais
+1. 20 reais
 
-b\) 280 reais
+1. 280 reais
 
-c\) 40 reais
+1. 40 reais
 
-d\) 60 reais
+1. 60 reais
 
 Alternativa A: correta Pois:
 
@@ -7684,7 +7684,7 @@ erroneamente.
 Alternativa D: Incorreta: o aluno pode não conseguir deduzir o preço de
 um brinquedo do outro chegando a essa conclusão precipitada.
 
-6\) Ao jogar um famoso jogo eletrônico, Davi resolveu observar mais cada
+1. Ao jogar um famoso jogo eletrônico, Davi resolveu observar mais cada
 peça do jogo, e descobriu que todas as peças do jogo possui pequenos
 quadrados de lado (x+6) mm considere que a próxima peça que apareceu na
 tela de Davi fosse essa descrita abaixo, qual o valor da área dessa peça
@@ -7696,13 +7696,13 @@ height="2.165725065616798in"}
 
 Inserir uma imagem similar a essa
 
-a\) 16x + 96
+1. 16x + 96
 
-b\) 4x² + 24x+ 144
+1. 4x² + 24x+ 144
 
-c\) 4x² + 48x+144
+1. 4x² + 48x+144
 
-d\) x² + 12x + 36
+1. x² + 12x + 36
 
 Alternativa A: incorreta, o aluno poderia ao invés de realizar o cálculo
 da área realizar o cálculo do perímetro, chegando a esse resultado
@@ -7729,7 +7729,7 @@ Logo alternativa correta letra c
 Alternativa D: incorreta, caso o aluno considere calcular apenas 1
 quadrado ao invés da figurar toda chegará a esse resultado erroneamente.
 
-7\) Pedro é um professor de matemática em um renomado colégio da cidade,
+1. Pedro é um professor de matemática em um renomado colégio da cidade,
 para representar a sua idade para uma de suas salas de aula Pedro
 utilizou a equação
 
@@ -7737,13 +7737,13 @@ X² - 2 809 = 0, sendo assim qual a idade real de Pedro? EF09MA09 -
 Resolver problemas que possam ser representados por equações polinomiais
 de 2º grau.
 
-a\) 28 anos
+1. 28 anos
 
-b\) 19 anos
+1. 19 anos
 
-c\) 53 anos
+1. 53 anos
 
-d\) 20 anos
+1. 20 anos
 
 Alternativa A: incorreta, o aluno chegaria a essa conclusão ao pegar
 apenas uma parte da equação correspondente e não o resultado final,
@@ -7771,20 +7771,20 @@ Alternativa D: incorreta, o aluno chegaria a essa conclusão ao somar os
 elementos da equação correspondente e não o resultado final, chegando a
 uma resposta equivocada.
 
-8\) A China é um dos países mais populosos do mundo, e uma de suas
+1. A China é um dos países mais populosos do mundo, e uma de suas
 regiões tem uma população de 7 264 200 habitantes e ocupa uma área de 35
 000 km². Qual é a densidade demográfica dessa região? EF08MA12 -
 Resolver problemas que envolvam variação de proporcionalidade direta ou
 inversa entre duas ou mais grandezas, inclusive escalas, divisões
 proporcionais e taxa de variação.
 
-a\) 207, 5 Habitantes/km²
+1. 207, 5 Habitantes/km²
 
-b\) 4,81 Habitantes/km²
+1. 4,81 Habitantes/km²
 
-c\) 2 075 Habitantes/km²
+1. 2 075 Habitantes/km²
 
-d\) 20 Habitantes/km²
+1. 20 Habitantes/km²
 
 Alternativa A: correta pois:
 
@@ -7807,20 +7807,20 @@ um "zero" a mais da expressão chegando nesse resultado erroneamente.
 Alternativa D: incorreta, o aluno pode chegar a esse resultado cortando
 um "zero" a menos da expressão chegando nesse resultado erroneamente.
 
-9\) Um tijolo maciço comum, possui aproximadamente 11 centímetros de
+1. Um tijolo maciço comum, possui aproximadamente 11 centímetros de
 altura e 24 centímetros de comprimento. Para construir uma parede de sua
 casa com o tamanho de 7 metros de largura e 4 de altura, Manoel comprou
 1500 tijolos, essa quantidade foi suficiente? EF08MA18 -
 Construir/desenhar figuras geométricas planas ou espaciais que
 satisfaçam condições dadas.
 
-a\) Foi suficiente e sobrou 440 Tijolos
+1. Foi suficiente e sobrou 440 Tijolos
 
-b\) Foi suficiente e sobrou 1472 Tijolos
+1. Foi suficiente e sobrou 1472 Tijolos
 
-c\) Não foi suficiente e Faltou 440 Tijolos
+1. Não foi suficiente e Faltou 440 Tijolos
 
-d\) Manoel comprou tijolos necessários porem não houve sobra.
+1. Manoel comprou tijolos necessários porem não houve sobra.
 
 Alternativa A: Correta pois:
 
@@ -7855,13 +7855,13 @@ height="2.0in"}
 Inserir uma imagem similar a essa, podendo ser alterada as cores e o
 estilo, mas que o conteúdo continue o mesmo.
 
-a\) 136°
+1. 136°
 
-b\) 22°
+1. 22°
 
-c\) 44°
+1. 44°
 
-d\) 68°
+1. 68°
 
 Alternativa A: correta pois:
 
@@ -7897,13 +7897,13 @@ completar a viagem no prazo. - Descrever ou esboçar deslocamento de
 pessoas e/ou de objetos em representações bidimensionais (mapas, croquis
 etc.), plantas de ambientes ou vistas, de acordo com condições dadas.
 
-a\) 37 km por dia
+1. 37 km por dia
 
-b\) 30 km por dia
+1. 30 km por dia
 
-c\) 41 km por dia
+1. 41 km por dia
 
-d\) 42 km por dia
+1. 42 km por dia
 
 Alternativa A: o aluno ao invés de realizar uma divisão dos termos, pode
 realizar uma porcentagem chegando a esse resultado erroneamente.
@@ -7940,13 +7940,13 @@ Junho: R\$12,00 kg
 Pode se dizer então que o preço médio nos últimos 6 meses das sementes
 de girassol foi? EF09MA22
 
-a\) R\$12,17
+1. R\$12,17
 
-b\) R\$11,20
+1. R\$11,20
 
-c\) R\$13,40
+1. R\$13,40
 
-d\) R\$12,12
+1. R\$12,12
 
 Alternativa A: Correta pois:
 
@@ -7983,13 +7983,13 @@ estilo, mas que o conteúdo continue o mesmo.
 Para concluir o seu projeto qual a quantidade em m² de folha de seda que
 Mateus devera comprar para construir a gigantesca pipa?
 
-a\) 31,68 m²
+1. 31,68 m²
 
-b\) 15,84m²
+1. 15,84m²
 
-c\) 11,6m²
+1. 11,6m²
 
-d\) 1,63 m²
+1. 1,63 m²
 
 Alternativa A: incorreta, o aluno chegará nesse valor caso considere
 multiplicar as duas diagonais em busca do valor da área, sem utilizar a
@@ -8023,13 +8023,13 @@ EF08MA22 - Resolver problemas que envolvam a probabilidade de ocorrência
 de um resultado em eventos aleatórios equiprováveis independentes ou
 dependentes
 
-a\) 250 000 possibilidades
+1. 250 000 possibilidades
 
-b\) 25 000 possibilidades
+1. 25 000 possibilidades
 
-c\) 2 500 possibilidades
+1. 2 500 possibilidades
 
-d\) 250 possibilidades
+1. 250 possibilidades
 
 Alternativa A: Correta pois:
 
@@ -8048,18 +8048,18 @@ multiplicativos 10" o aluno chegaria a essa conclusão erroneamente.
 
 Simulado 3:
 
-1\) Na sequência de Fibonacci os dois primeiros números são 1 e 1. A
+1. Na sequência de Fibonacci os dois primeiros números são 1 e 1. A
 partir daí, cada número é igual à soma dos dois anteriores: 1, 1, 2, 3,
 5, 8, 13, 21, \... Qual é o primeiro número dessa sequência que se
 escreve com três algarismos? EF09MA04
 
-a\) 144
+1. 144
 
-b\) 233
+1. 233
 
-c\) 377
+1. 377
 
-d\) 610
+1. 610
 
 Continuando a calcular a sequência de Fibonacci temos: 13+21 = 34,
 34+21= 55, 55+34=89, 89+55 = 144
@@ -8078,7 +8078,7 @@ Alternativa D incorreta: pois este valor se refere na realidade ao 4°
 número acima de 3 dígitos da sequência de Fibonacci logo não é o que o
 enunciado pede.
 
-2\) Em um livro de contos infantis Jonas é um viajante do espaço e está
+1. Em um livro de contos infantis Jonas é um viajante do espaço e está
 no planeta Alfa 3301, na história Jonas tem uma canhão de luz em sua
 mochila e resolve usa-la para mandar um sinal para a terra, sabendo que
 esse planeta se encontra a 6,0 ^.^ 10^8^ km da terra e que a velocidade
@@ -8087,13 +8087,13 @@ observada por alguém na terra? EF09MA01 Resolver problemas de adição,
 subtração, multiplicação, divisão, potenciação ou radiciação envolvendo
 número reais, inclusive notação científica
 
-a\) 20 segundos
+1. 20 segundos
 
-b\) 200 segundos
+1. 200 segundos
 
-c\) 20 000 segundos
+1. 20 000 segundos
 
-d\) 2 000 segundos
+1. 2 000 segundos
 
 Alternativa A: ao considerar dois "zeros" a menos em qualquer uma das
 notações o aluno chegara a esse resultado erroneamente.
@@ -8116,7 +8116,7 @@ Realizando a operação 2 ^.^ 1000= 2000
 
 Logo resposta correta d, 2000 segundos.
 
-3\) Mario e sua esposa Inês foram viajar para praia ao saírem de sua
+1. Mario e sua esposa Inês foram viajar para praia ao saírem de sua
 cidade encheram o tanque de gasolina mas ao chegarem na metade do
 caminho observaram que o tanque de gasolina estava apenas com
 $\frac{1}{3}$ de gasolina restando, Sabendo que o Tanque de gasolina
@@ -8126,13 +8126,13 @@ Representar frações menores ou maiores que a unidade por meio de
 representações pictóricas ou associar frações a representações
 pictóricas.
 
-a\) 20 litros
+1. 20 litros
 
-b\) 40 Litros
+1. 40 Litros
 
-c\) 30 litros
+1. 30 litros
 
-d\) 60 litros
+1. 60 litros
 
 Alternativa A: correta
 
@@ -8161,7 +8161,7 @@ Alternativa D: incorreta, o aluno pode chegar a essa conclusão caso
 considere que a família tenha que abastecer completamente o tanque para
 concluir a viagem.
 
-4\) Paloma está iniciando uma nova dieta e sabe que 5,6 g de proteína
+1. Paloma está iniciando uma nova dieta e sabe que 5,6 g de proteína
 correspondem a 10% da sua necessidade diária desse nutriente. Se ela
 ingerir 14 g de proteína em uma refeição, que porcentagem da sua
 necessidade diária ela estará ingerindo? EF08MA04 - Resolver problemas
@@ -8169,13 +8169,13 @@ que envolvam porcentagens, incluindo os que lidam com acréscimos e
 decréscimos simples, aplicação de percentuais sucessivos e determinação
 de taxas percentuais.
 
-a\) 400%
+1. 400%
 
-b\) 14%
+1. 14%
 
-c\) 25%
+1. 25%
 
-d\) 7,84%
+1. 7,84%
 
 Alternativa A: incorreta, o aluno poderia encontrar esse valor
 multiplicando a regra de 3 reta ao invés de fazer a multiplicação
@@ -8215,18 +8215,18 @@ Alternativa D: incorreta, esse valor seria obtido ao calcular
 incorretamente a regra de três simples, realizando a multiplicação ao
 invés da divisão ao fazer a transição de valores na equação final.
 
-5\) Uma pilha de 40 madeiras tem 1,7 m de altura e é formada por
+1. Uma pilha de 40 madeiras tem 1,7 m de altura e é formada por
 madeiras de 2 cm e de 5 cm de espessura. Quantas são as madeiras
 de 2 cm? EF08MA08 - Resolver problemas que possam ser representados por
 sistema de equações de 1º grau com duas incógnitas.
 
-a\) 85
+1. 85
 
-b\) 10
+1. 10
 
-c\) 34
+1. 34
 
-d\) 10
+1. 10
 
 Alternativa A: incorreta, o aluno chegaria a esse valor caso considerar
 que só há na pilha madeira de 2cm
@@ -8256,17 +8256,17 @@ Alternativa D: incorreta, o aluno considerará correta essa questão caso
 considere que as madeiras estejam colocadas intercaladas somando 5cm +
 2cm, obtendo 7 cm e dividindo pelo total, logo cálculos equivocados.
 
-6\) Ao simplificar a expressão algébrica (x+1)² + (x-1)² + 2(x+1)(x-1)
+1. Ao simplificar a expressão algébrica (x+1)² + (x-1)² + 2(x+1)(x-1)
 qual valor obtemos ? EF08MA10 - Resolver problemas que envolvam cálculo
 do valor numérico de expressões algébricas.
 
-a\) 4x² + 4
+1. 4x² + 4
 
-b\) 4x²
+1. 4x²
 
-c\) 5x²
+1. 5x²
 
-d\) 4x² + 4x
+1. 4x² + 4x
 
 Alternativa A: incorreta, o aluno errando o sinal de negativo para
 positivo no termo 2 da expressão final, chegaria a esse resultado
@@ -8294,7 +8294,7 @@ Alternativa D: incorreta, o aluno errando o sinal de negativo para
 positivo no termo 2x da expressão final, chegaria a esse resultado
 erroneamente.
 
-7\) Alfredo é funcionário de uma empresa de cosméticos, ao pegar seu
+1. Alfredo é funcionário de uma empresa de cosméticos, ao pegar seu
 holerite percebeu que o seu tempo de serviço em anos é calculado pelo
 valor da soma das raízes da equação:
 
@@ -8302,13 +8302,13 @@ X² - x -- 42 = 0, sendo assim há quantos anos Alfredo já está na
 empresa? EF09MA09 - Resolver problemas que possam ser representados por
 equações polinomiais de 2º grau.
 
-a\) 7 anos
+1. 7 anos
 
-b\) 6 anos
+1. 6 anos
 
-c\) 42 anos
+1. 42 anos
 
-d\) 1 ano
+1. 1 ano
 
 Alternativa a incorreta: o aluno pode chegar a essa conclusão
 considerando que o enunciado pede apenas 1 valor das raízes da equação
@@ -8349,20 +8349,20 @@ X1=$\frac{1 + 13}{2}$ = $\frac{14}{2}$ = 7
 
 X2= $\frac{1 - 13}{2}$= $\frac{- 12}{2}$ = -6
 
-8\) A Esmeralda é uma das pedras preciosas mais admiradas em todo o
+1. A Esmeralda é uma das pedras preciosas mais admiradas em todo o
 mundo. Suponha que uma esmeralda tenha 12,2 g de massa e ocupe um volume
 de 4 cm³. Qual é a densidade dessa pedra? EF08MA12 - Resolver problemas
 que envolvam variação de proporcionalidade direta ou inversa entre duas
 ou mais grandezas, inclusive escalas, divisões proporcionais e taxa de
 variação.
 
-a\) 0,32 g/cm³
+1. 0,32 g/cm³
 
-b\) 16, 2 g/cm³
+1. 16, 2 g/cm³
 
-c\) 3,05 g/cm³
+1. 3,05 g/cm³
 
-d\) 8,2 g/cm³
+1. 8,2 g/cm³
 
 Alternativa A: incorreta, o aluno pode chegar a esse valor realizando ao
 invés da divisão de massa por volume, realizar a divisão volume por
@@ -8384,7 +8384,7 @@ Alternativa D: incorreta, incorreta, o aluno pode chegar a esse valor
 realizando ao invés da divisão de massa por volume, realizar a subtração
 de massa por volume.
 
-9\) Juliano Resolveu cercar os animais de sua fazenda para ter o maior
+1. Juliano Resolveu cercar os animais de sua fazenda para ter o maior
 controle sobre eles, então começou a construir uma cerca em formato de
 um eneágono regular, para que a construção fique perfeita, qual o valor
 correto que cada ângulo interno da cerca deve possuir? EF08MA18-
@@ -8396,13 +8396,13 @@ height="1.3338517060367454in"}
 
 Inserir uma imagem similar a essa.
 
-a\) 180°
+1. 180°
 
-b\) 135°
+1. 135°
 
-c\) 140°
+1. 140°
 
-d\) 144°
+1. 144°
 
 Alternativa A: incorreta, o aluno poderia chegar a esse valor esquecendo
 que a formula contém uma subtração por 2 no numerador chegando assim a
@@ -8434,13 +8434,13 @@ paralelas cortadas por uma transversal, ângulos internos ou externos de
 polígonos ou cevianas (altura, bissetriz, mediana, mediatriz) de
 polígonos.
 
-a\) 50°, 60° e 70°
+1. 50°, 60° e 70°
 
-b\) 80°, 60° e 70°
+1. 80°, 60° e 70°
 
-c\) 50°, 80° e 70°
+1. 50°, 80° e 70°
 
-d\) 50°, 60° e 80°
+1. 50°, 60° e 80°
 
 Alternativa A: Correta, Pois:
 
@@ -8488,13 +8488,13 @@ esboçar deslocamento de pessoas e/ou de objetos em representações
 bidimensionais (mapas, croquis etc.), plantas de ambientes ou vistas, de
 acordo com condições dadas.
 
-a\) 33 km
+1. 33 km
 
-b\) 32km
+1. 32km
 
-c\) 34km
+1. 34km
 
-d\) 35km
+1. 35km
 
 Alternativa A: Correta pois
 
@@ -8531,13 +8531,13 @@ Qual a quantidade média aproximadamente em g que rodrigo consumiu nessa
 semana? EF08MA25 - Calcular os valores de medidas de tendência central
 de uma pesquisa estatística (média aritmética simples, moda ou mediana).
 
-a\) 35 g
+1. 35 g
 
-b\) 32 g
+1. 32 g
 
-c\) 37g
+1. 37g
 
-d\) 32 g
+1. 32 g
 
 Alternativa A: incorreta, este valor é apenas referente ao dia de
 segunda na dieta de Rodrigo o que pode levar o aluno a assinalar essa
@@ -8565,13 +8565,13 @@ de diâmetro de base e 12 cm de altura com agua do mar, quantas g de sal
 esse copo terá? Considere $\Pi$=3 EF08MA20 - Resolver problemas que
 envolvam volume de prismas retos ou cilindros retos.
 
-a\) 0,324 g
+1. 0,324 g
 
-b\) 1,134 g
+1. 1,134 g
 
 c)11,34g
 
-d\) 35 g
+1. 35 g
 
 Alternativa A: incorreta, o aluno pode chegar a essa conclusão ao
 confundir o valor do volume com o valor da quantidade de gramas de sal
@@ -8629,13 +8629,13 @@ vermelha? EF08MA22 - Resolver problemas que envolvam a probabilidade de
 ocorrência de um resultado em eventos aleatórios equiprováveis
 independentes ou dependentes
 
-a\) 63%
+1. 63%
 
-b\) 9%
+1. 9%
 
-c\) 27%
+1. 27%
 
-d\) 91%
+1. 91%
 
 Alternativa A: incorreta, este seria o valor da probabilidade de
 encontrar alguém com a pulseira verde e não a pulseira vermelha como
@@ -8661,15 +8661,15 @@ essa conclusão interpretando errado o enunciado.
 
 Simulado 4:
 
-1\) Ao calcularmos $\sqrt{3^{3} + 3²}$ obtemos como resposta:
+1. Ao calcularmos $\sqrt{3^{3} + 3²}$ obtemos como resposta:
 
-A\) um número natural 243
+1. um número natural 243
 
-b\) um número natural 6
+1. um número natural 6
 
-c\) um número irracional menor que 20
+1. um número irracional menor que 20
 
-d\) A potência 3^5^
+1. A potência 3^5^
 
 Alternativa A: incorreta ao não extrair o valor da raiz o aluno pode
 chegar a essa conclusão
@@ -8684,7 +8684,7 @@ propriedade errada de potencias, o valor seria um irracional menor que
 Alternativa D: incorreta: ao calcular erroneamente a expressão abaixo da
 raiz chegaria a esse valor equivocadamente.
 
-2\) A medida média da distância entre a Terra e o Sol é de
+1. A medida média da distância entre a Terra e o Sol é de
 aproximadamente 1,5^.^10^8^ , considerando que fosse possível chegar ao
 sol dentro de um foguete, e que esse foguete estivesse a uma velocidade
 constante de 2,5^.^ 10^4^ km/h, quantas horas demoraria para se chegar
@@ -8692,13 +8692,13 @@ até o sol? EF09MA01 Resolver problemas de adição, subtração,
 multiplicação, divisão, potenciação ou radiciação envolvendo número
 reais, inclusive notação científica
 
-a\) 10 000 horas
+1. 10 000 horas
 
-b\) 0,6 horas
+1. 0,6 horas
 
-c\) 6 000 horas
+1. 6 000 horas
 
-d\) 60 000 horas
+1. 60 000 horas
 
 Alternativa A: incorreta, o aluno pode chegar a essa conclusão caso
 considerar apenas a base 10, esquecendo o restante do calculo
@@ -8721,20 +8721,20 @@ Logo resposta correta C, 6000 horas.
 Alternativa D: ao considerar um "zero" a mais em qualquer uma das
 notações o aluno chegara a esse resultado erroneamente.
 
-3\) Dois maratonistas estavam correndo uma maratona de 30 km , após 40
+1. Dois maratonistas estavam correndo uma maratona de 30 km , após 40
 minutos de prova o maratonista A correu $\frac{5}{16}$ do percurso ,
 enquanto o corredor B correu $\frac{9}{20}$ do percurso , qual a
 distancia entre os dois após 40 minutos de prova? EF08MA05 Representar
 frações menores ou maiores que a unidade por meio de representações
 pictóricas ou associar frações a representações pictóricas.
 
-a\) 9,375 km
+1. 9,375 km
 
-b\) 4,125 km
+1. 4,125 km
 
-c\) 13,5 km
+1. 13,5 km
 
-d\) 22,875km
+1. 22,875km
 
 Alternativa A: incorreta, esse resultado seria obtido caso o aluno
 apenas calculasse a quilometragem do primeiro atleta do enunciado
@@ -8757,7 +8757,7 @@ apenas calculasse a quilometragem do segundo atleta do enunciado.
 Alternativa D: incorreta, esse resultado seria obtido caso o aluno ao
 invés de realizar a diferença entre dois atletas, realizasse a adição.
 
-4\) Natalia iniciou uma dieta rigorosa, cortou todos os carboidratos,
+1. Natalia iniciou uma dieta rigorosa, cortou todos os carboidratos,
 frituras e guloseimas de sua alimentação, em 1 mês Natalia reduziu sua
 massa corpórea em 5%, chegando a 57 kg. Quantos quilogramas ela reduziu
 de sua massa corpórea no período do regime? EF08MA04 - Resolver
@@ -8765,13 +8765,13 @@ problemas que envolvam porcentagens, incluindo os que lidam com
 acréscimos e decréscimos simples, aplicação de percentuais sucessivos e
 determinação de taxas percentuais.
 
-a\) 5 kg
+1. 5 kg
 
-b\) 2,85kg
+1. 2,85kg
 
-c\) 3 kg
+1. 3 kg
 
-d\) 60 kg
+1. 60 kg
 
 Alternativa A: incorreta, o aluno pode reduzir o imc do enunciado o
 valor "5" ao invés de 5% chegando nesse valor erroneamente.
@@ -8796,19 +8796,19 @@ X= 60
 Alternativa D: incorreta, esse valor é correspondente ao peso anterior
 de Natalia, e não a redução de peso obtida.
 
-5\) Duas caixas contêm, conjuntamente, 84 pêssegos. Se fossem tirados
+1. Duas caixas contêm, conjuntamente, 84 pêssegos. Se fossem tirados
 quatro pêssegos de uma das caixas e colocados na outra, ambas ficariam
 com o mesmo número de pêssegos. Quantos pêssegos contém cada uma das
 caixas? EF08MA08 - Resolver problemas que possam ser representados por
 sistema de equações de 1º grau com duas incógnitas.
 
-a\) 30 pêssegos em uma caixa e 54 na outra
+1. 30 pêssegos em uma caixa e 54 na outra
 
-b\) 34 pêssegos em uma caixa e 50 na outra
+1. 34 pêssegos em uma caixa e 50 na outra
 
-c\) 38 pêssegos em uma caixa e 46 na outra
+1. 38 pêssegos em uma caixa e 46 na outra
 
-d\) 44 pêssegos em uma caixa e 40 na outra
+1. 44 pêssegos em uma caixa e 40 na outra
 
 Alternativa A: incorreta, o aluno pode considerar a alternativa correta
 por que satisfaz a condição de conjuntamente terem 84 pêssegos porem não
@@ -8851,7 +8851,7 @@ satisfaz o segundo passo do enunciado, logo a questão necessita que
 ambos os termos estejam de acordo, estando apenas um termo correto não é
 suficiente que a alternativa esteja correta.
 
-6\) Ao chegar em casa Leonardo se deparou com um bilhete em cima de seu
+1. Ao chegar em casa Leonardo se deparou com um bilhete em cima de seu
 celular:
 
 "A senha do wi fi foi trocada, a nova senha é equação resultante destes
@@ -8863,13 +8863,13 @@ Qual a nova senha do wifi da casa de Leonardo? EF08MA10 - Resolver
 problemas que envolvam cálculo do valor numérico de expressões
 algébricas.
 
-a\) 3a^4^+ 6a³b+ 3a²b²
+1. 3a^4^+ 6a³b+ 3a²b²
 
-b\) 6a²b+ 9 ab^4^
+1. 6a²b+ 9 ab^4^
 
-c\) 5ab^6^
+1. 5ab^6^
 
-d\) 3a^4^+ 6a³+ 3a²b²
+1. 3a^4^+ 6a³+ 3a²b²
 
 Alternativa A: correta, pois
 
@@ -8892,18 +8892,18 @@ Alternativa D: incorreta, o aluno poderia esquecer de adicionar uma
 letra "b" na expressão devido a quantidade de partes literais que o
 problema exige, chegando a essa conclusão.
 
-7\) Ao Calcularmos o produto das raízes da equação x² - 2x -- 35= 0
+1. Ao Calcularmos o produto das raízes da equação x² - 2x -- 35= 0
 obtemos o deslocamento em metros de um veículo em uma rua deserta, sendo
 assim pode se dizer que o motorista: EF09MA09 - Resolver problemas que
 possam ser representados por equações polinomiais de 2º grau.
 
-a\) Movimentou se para frente 7 metros
+1. Movimentou se para frente 7 metros
 
-b\) Movimentou se para trás 35 metros
+1. Movimentou se para trás 35 metros
 
-c\) Movimentou se para trás 5 metros
+1. Movimentou se para trás 5 metros
 
-d\) Movimentou se para frente 2 metros
+1. Movimentou se para frente 2 metros
 
 Alternativa A: incorreta, este valor é apenas o resultado de uma das
 raízes da equação e não o valor final, o que poderia a levar o aluno
@@ -8944,7 +8944,7 @@ Alternativa D: incorreta, este valor é apenas o resultado da soma das
 raízes da equação e não o valor do produto, o que poderia a levar o
 aluno assinalar a essa alternativa erroneamente.
 
-8\) Uma construtora resolveu inovar e lançar o maior arranha céu do
+1. Uma construtora resolveu inovar e lançar o maior arranha céu do
 Brasil que será construído em uma metrópole. A maquete desse novo
 arranha céu foi construída na escala de 1: 390. Sabendo que esse
 edifício terá 102 andares e que, em média, cada andar tem 3 m de altura,
@@ -8954,13 +8954,13 @@ EF08MA12 - Resolver problemas que envolvam variação de proporcionalidade
 direta ou inversa entre duas ou mais grandezas, inclusive escalas,
 divisões proporcionais e taxa de variação.
 
-a\) 411 cm
+1. 411 cm
 
-b\) 30 990 cm
+1. 30 990 cm
 
-c\) 0,26 cm
+1. 0,26 cm
 
-d\) 78,46 cm
+1. 78,46 cm
 
 Alternativa A: incorreta, o aluno chegará nesse valor caso ao invés de
 realizar uma divisão, realizar uma soma dos termos do enunciado.
@@ -8982,18 +8982,18 @@ Utilizando a escala 1: 390 temos que
 
 30 600 / 390 = 78,46 cm.
 
-9\) A soma das medidas dos ângulos internos de um polígono regular é
+1. A soma das medidas dos ângulos internos de um polígono regular é
 igual a 1 260°. Qual a medida do ângulo externo? EF08MA18- Relacionar o
 número de vértices, faces ou arestas de prismas ou pirâmides, em função
 do seu polígono da base.
 
-a\) 320°
+1. 320°
 
-b\) 9 °
+1. 9 °
 
-c\) 140°
+1. 140°
 
-d\) 40°
+1. 40°
 
 Alternativa A: incorreta, o aluno poderia considerar como correta a
 alternativa ao somar o valor dos ângulos ao invés de subtrair no final
@@ -9048,13 +9048,13 @@ height="1.4946183289588801in"}
 Inserir uma imagem similar a essa, podendo ser alterada as cores e o
 estilo, mas que o conteúdo continue o mesmo.
 
-a\) 80°
+1. 80°
 
-b\) 40°
+1. 40°
 
-c\) 30°
+1. 30°
 
-d\) 100°
+1. 100°
 
 Alternativa A: incorreta, o aluno chegaria a essa conclusão caso
 considerasse apenas o primeiro cálculo e não o cálculo completo da
@@ -9097,13 +9097,13 @@ ambientes ou vistas, de acordo com condições dadas.
 
 Considere 130 km = 36 m/s
 
-a\) 2 600 km
+1. 2 600 km
 
-b\) 43 200 km
+1. 43 200 km
 
-c\) 43, 2 km
+1. 43, 2 km
 
-d\) 432 km
+1. 432 km
 
 Alternativa A: incorreta, ao não realizar a conversão de km/h para m/s o
 aluno chegara a esse valor.
@@ -9137,13 +9137,13 @@ Qual a velocidade média que esse piloto obteve durante essa volta?
 EF08MA25 - Calcular os valores de medidas de tendência central de uma
 pesquisa estatística (média aritmética simples, moda ou mediana).
 
-a\) 280 km/
+1. 280 km/
 
-b\) 290km/h
+1. 290km/h
 
-c\) 305 km/h
+1. 305 km/h
 
-d\) 269 km/h
+1. 269 km/h
 
 Alternativa A: incorreta, este valor é referente apenas a velocidade ao
 passar no primeiro setor.
@@ -9167,13 +9167,13 @@ do comprimento do diâmetro interno da base desse reservatório? Considere
 $\Pi$=3 EF08MA20 - Resolver problemas que envolvam volume de prismas
 retos ou cilindros retos.
 
-a\) 5 m
+1. 5 m
 
-b\) 25 m
+1. 25 m
 
-c\) 10 m
+1. 10 m
 
-d\) 316 m
+1. 316 m
 
 Alternativa A: Incorreta, o aluno chegaria a essa conclusão colocando
 como resposta o valor do raio da base do reservatório e não o diâmetro
@@ -9219,13 +9219,13 @@ a promoção. Considere o ano comum com 365 dias. EF08MA22 - Resolver
 problemas que envolvam a probabilidade de ocorrência de um resultado em
 eventos aleatórios equiprováveis independentes ou dependentes
 
-a\) 1%
+1. 1%
 
-b\) 27%
+1. 27%
 
-c\) 2,7%
+1. 2,7%
 
-d\) 0,27%
+1. 0,27%
 
 Alternativa A: incorreta, o aluno poderia considerar este valor como
 correto ao confundir o número de chances ao percentual correto.

@@ -13,7 +13,7 @@ atividades, dessa forma é importante que eles sejam trabalhados
 novamente, utilizando as atividades como base para explicação e não como
 uma mera questão a ser respondida pontualmente.
 
-1\. *eurodeputados chegaram, nesta terça-feira (6), a um acordo
+1. *eurodeputados chegaram, nesta terça-feira (6), a um acordo
 preliminar com os governos da União Europeia sobre uma nova lei que, na
 prática, vai coibir a importação pelos estados-membros do bloco de
 produtos considerados --- na definição deles --- provenientes de ações
@@ -32,7 +32,7 @@ fará com que produtos que tenham se beneficiado do desmatamento deixei
 de ser aceitos, o que acarretaria maior adesão as leis ambientais por
 parte dos produtores.
 
-2\.
+1.
 
 \[\...\]
 
@@ -64,7 +64,7 @@ Yanomami, pois estes vivem de recursos disponíveis para se alimentares,
 como os peixes que acabam contaminados com o garimpo ilegal, que utiliza
 substâncias tóxicas.
 
-3\. *A relação dos seres humanos com a terra, com o território, somente
+1. *A relação dos seres humanos com a terra, com o território, somente
 há muito pouco tempo passou a ser pautada pela ideia de propriedade
 privada. Para os povos indígenas, essa relação é ainda mais profunda,
 porque trata-se de um território sagrado. **["Nós não somos donos da
@@ -78,21 +78,21 @@ entrevista por telefone à IHU On-Line.*
 
 ~.\ Acesso\ em:\ 07\ mar.\ 2023.~
 
-a\) A partir do texto, como podemos diferenciar a concepção de
+1. A partir do texto, como podemos diferenciar a concepção de
 organização social dos indígenas frente aos colonizadores europeus?
 
 No texto duas ideias se destacam, a de integração do homem com a Terra e
 o entendimento de que a base da vida humana é natureza terrestre, ideias
 destacadas nos trechos em destaque.
 
-b\) Em sua visão, a cultura indígena é valorizada como parte fundamental
+1. Em sua visão, a cultura indígena é valorizada como parte fundamental
 da cultura brasileira? Por quê?
 
 Espera-se que o aluno apresente um entendimento negativo em relação a
 pergunta, demonstrando a percepção de que a cultura indígena não é de
 fato valorizada pela sociedade brasileira como um todo.
 
-4\. \[\...\]
+1. \[\...\]
 
 *A campanha que culminou com a abolição da escravidão, em 13 de maio de
 1888, foi a primeira manifestação coletiva a mobilizar pessoas e a
@@ -138,7 +138,7 @@ segregação social imposta a população negra.
 \(V\) O racismo combinado com a visão econômica colonial gerou a
 exclusão social da população afrodescendente.
 
-5\. *A Comissão de Finanças e Tributação aprovou em dezembro o Projeto
+1. *A Comissão de Finanças e Tributação aprovou em dezembro o Projeto
 de Lei 7575/06, do Senado, que inclui quilombolas, arrendatários de
 terra, produtores rurais em regime de parceria e consórcios e
 condomínios agrários entre os beneficiários do crédito rural.*
@@ -159,7 +159,7 @@ Como a população quilombola é tipicamente rural, o crédito agrícola
 favorece suas práticas agropecuárias, o que pode aumentar a participação
 dessa população na produção agrícola nacional.
 
-6\. *Habitantes seculares das margens do rio Araguaia nos estados de
+1. *Habitantes seculares das margens do rio Araguaia nos estados de
 Goiás, Tocantins e Mato Grosso, os Karajá têm uma longa convivência com
 a Sociedade Nacional, o que, no entanto, não os impediu de manter
 costumes tradicionais do grupo como: a língua nativa, as bonecas de
@@ -180,14 +180,14 @@ dos rituais."
 
 ~Disponível\ em:\ <https://pib.socioambiental.org/pt/Povo:Karaj%C3%A1>.\ Acesso\ em:\ 06\ mar.\ 2023.~
 
-a\) Na tabela abaixo, divida o patrimônio cultural da etnia indígena
+1. Na tabela abaixo, divida o patrimônio cultural da etnia indígena
 Karajá entre aqueles materiais e imateriais.
 
   Patrimônio material                         Patrimônio imaterial
   ------------------------------------------- ------------------------------------------------------------
   Bonecas, enfeites, cestarias, artesanatos   Língua nativa, atos familiares, festas, padrão de pinturas
 
-b\) Releia o seguinte trecho:
+1. Releia o seguinte trecho:
 
 "Hoje, devido ao preconceito da população das cidades ribeirinhas, os
 jovens apenas desenham os dois círculos na época dos rituais."
@@ -201,7 +201,7 @@ estranhamento da população, que, ao não compreender as motivações de
 práticas culturais distintas, pode gerar discriminação em razão da
 diferença.
 
-7\. Observe a imagem de uma boneca indígena Karajá, feita a partir de
+1. Observe a imagem de uma boneca indígena Karajá, feita a partir de
 argila:
 
 \<Essa imagem foi retirada da Wikimedia, também tem disponível em sites
@@ -212,7 +212,7 @@ conforme exemplo\>
 automaticamente](./imgSAEB_9_CHUM3/media/image1.png){width="4.008129921259843in"
 height="4.702451881014873in"}
 
-a\) Percebe-se que a pintura feita na boneca é igual àquele feito no
+1. Percebe-se que a pintura feita na boneca é igual àquele feito no
 próprio corpo dos membros dessa população, o que explica tal fato?
 
 Como cultura material do povo Karajá, a boneca expõe traços que
@@ -272,7 +272,7 @@ redação.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Treino
 
-1\. Edição do dia 26/11/2014
+1. Edição do dia 26/11/2014
 
 26/11/2014 21h27 - Atualizado em 26/11/2014 21h27
 
@@ -334,7 +334,7 @@ d)  INCORRETA. A capoeira trata somente deu uma expressão sociocultural,
     não tendo a priori, nenhum aspecto que a conecte a práticas
     ambientalistas.
 
-2\. Observe o infográfico a seguir:
+1. Observe o infográfico a seguir:
 
 ![Texto Descrição gerada
 automaticamente](./imgSAEB_9_CHUM3/media/image2.png){width="5.905555555555556in"
@@ -379,7 +379,7 @@ c)  INCORRETA. Inexiste qualquer informação no infográfico que relacione
 d)  INCORRETA. Inexiste qualquer informação sobre este dado no
     infográfico apresentado.
 
-3\. Considere os dados do mercado de trabalho do infográfico a seguir:
+1. Considere os dados do mercado de trabalho do infográfico a seguir:
 
 ![Interface gráfica do usuário, Aplicativo Descrição gerada
 automaticamente](./imgSAEB_9_CHUM3/media/image3.png){width="5.27586176727909in"
@@ -434,7 +434,7 @@ d)  INCORRETA. Tal alternativa não ataca nenhum dos problemas
 
 Simulado
 
-1\. *Em 10 de junho de 2014 entrou em vigor a Lei 12.990, que destina
+1. *Em 10 de junho de 2014 entrou em vigor a Lei 12.990, que destina
 uma porcentagem das vagas de concursos públicos para negros e pardos,
 trazendo consigo um modelo de implantação que busca amenizar
 desigualdades sociais, econômicas e educacionais entre raças.* \[\...\]
@@ -481,7 +481,7 @@ c)  CORRETA. As leis de cotas buscam reparar injustiças históricas
 d)  INCORRETA. Essa alternativa possui uma abordagem racista afirmando
     que a população negra é menos capaz que a população branca.
 
-2\. *A falta de políticas públicas voltadas a atender à demanda da
+1. *A falta de políticas públicas voltadas a atender à demanda da
 população negra e periférica que vive em áreas de risco ambiental --
 como nos locais atingidos por deslizamentos de terra no litoral Norte de
 São Paulo -- é uma opção das administrações públicas e demonstra racismo
@@ -543,7 +543,7 @@ INCORRETA. A questão pede uma contribuição para a solução do conjunto
 dos problemas ambientais que afetam a população negra e não intervenções
 pontuais.
 
-3\. *O Ilú Obá De Min -- Educação, Cultura e Arte Negra é uma associação
+1. *O Ilú Obá De Min -- Educação, Cultura e Arte Negra é uma associação
 paulistana, sem fins lucrativos, que tem como base o trabalho com as
 culturas de matriz africana, afro-brasileira e a mulher. Foi fundado
 pelas percussionistas Beth Beli, Adriana Aragão e Girlei Miranda em
@@ -609,7 +609,7 @@ d)  INCORRETA. O objetivo da associação é a valorização das expressões
     contestação da ordem e sim como instrumento de consolidação de
     práticas socioculturais de origem africana
 
-4\. *O Brasil é o líder em assassinatos de ambientalistas no mundo na
+1. *O Brasil é o líder em assassinatos de ambientalistas no mundo na
 última década. Das 1.733 mortes de defensores e defensoras do meio
 ambiente registradas no globo no período de 2012 a 2021, 342 ocorreram
 no país − quase 20% do total. Entre eles estão as mortes de Maria José

@@ -105,7 +105,7 @@ de Vitória. Disponível em: \<
 <https://www.vitoria.es.gov.br/noticia/estudantes-escrevem-carta-com-sugestoes-para-a-cidade-e-entregam-ao-prefeito-44202>\>.
 Acesso em: 14 fev. 2023. Adaptado.)
 
-1\. O texto noticia a redação de uma carta de reclamação, por parte de
+1. O texto noticia a redação de uma carta de reclamação, por parte de
 estudantes de uma escola municipal de Maruípe, em Vitória (ES),
 destinada ao prefeito da cidade. Qual é o objetivo da carta?
 
@@ -113,7 +113,7 @@ Resposta: O objetivo era demonstrar situações preocupantes no município,
 do ponto de vista dos alunos, e sugestões de melhoria propostas por
 eles.
 
-2\. Qual argumento os(as) estudantes utilizam para justificar sua
+1. Qual argumento os(as) estudantes utilizam para justificar sua
 preocupação com os alagamentos na escola? De que maneira eles(as) sabem
 desse tipo de informação?
 
@@ -122,7 +122,7 @@ podem estar presentes na água do esgoto. Segundo a carta, eles
 aprenderam que esses alagamentos acontecem devido ao lixo que as pessoas
 jogam na rua.
 
-3\. Qual é a tese proposta pelos(as) estudantes como possível solução
+1. Qual é a tese proposta pelos(as) estudantes como possível solução
 para os alagamentos na escola? O que justifica essa escolha?
 
 Resposta: Os(as) estudantes propõem que o prefeito invista em
@@ -130,7 +130,7 @@ conscientização sobre coleta seletiva, pois, dessa forma, as pessoas
 saberiam melhor a destinação do lixo, reduzindo a possibilidade de o
 jogarem incorretamente na rua.
 
-4\. No último parágrafo, a jornalista afirma que "o amor pelos animais
+1. No último parágrafo, a jornalista afirma que "o amor pelos animais
 também foi um tópico tratado na carta". Com base na leitura desse
 parágrafo, é possível afirmar que a solicitação dos(as) estudantes foi
 feita com base em um argumento lógico ou emotivo? Justifique sua
@@ -172,7 +172,7 @@ Cinema. Disponível em:
 \<<https://www.papodecinema.com.br/filmes/turma-da-monica-lacos/>\>.
 Acesso em: 22 fev. 2023. Fragmento.)
 
-5\. Assinale verdadeiro (V) ou falso (F) para as afirmações a seguir.
+1. Assinale verdadeiro (V) ou falso (F) para as afirmações a seguir.
 
 ( ) A resenha tenta convencer o(a) leitor(a) a assistir ao filme.
 
@@ -230,14 +230,14 @@ divertir.
 Conforme explica o último parágrafo, o diretor resgata uma infância com
 sabor nostálgico de passado, sem a mediação de dispositivos eletrônicos.
 
-6\. De que maneira o(a) leitor(a) do texto percebe que o autor da
+1. De que maneira o(a) leitor(a) do texto percebe que o autor da
 crítica gostou do filme?
 
 Resposta: O autor da resenha utiliza adjetivos positivos sobre a obra,
 ou seja, fala bem das cenas, do visual, do comportamento das personagens
 e até mesmo do diretor do filme.
 
-7\. Retire do texto ao menos dois trechos que demonstram o
+1. Retire do texto ao menos dois trechos que demonstram o
 posicionamento do autor da resenha em relação ao filme *Turma da Mônica:
 Laços*.
 
@@ -285,7 +285,7 @@ dezembro de 2020. Disponível em:\<
 <https://www.marinacolasanti.com/2020/12/nadar-contra-e-impossivel.html>\>.
 Acesso em: 22 fev. 2023. Fragmento.)
 
-8\. Segundo a autora, as pessoas não conseguem parar de utilizar o
+1. Segundo a autora, as pessoas não conseguem parar de utilizar o
 celular por que estão viciadas. Qual argumento ela utiliza para
 justificar essa afirmação?
 
@@ -293,7 +293,7 @@ Resposta: A autora utiliza um dado científico. Ela explica o conceito de
 adrenalina, um hormônio que transmite prazer intenso. Segundo ela,
 quando a pessoa utiliza o celular, ela libera adrenalina.
 
-9\. A autora se mostra indignada com o fato de o vício em celulares não
+1. A autora se mostra indignada com o fato de o vício em celulares não
 ser combatido. Por que, de acordo com o texto, isso acontece?
 
 Resposta: Porque esse tipo de vício passa tão batido no dia a dia que
@@ -330,15 +330,15 @@ fev. 2022. Fragmento.)
 Segundo o texto, o fato de o consumismo estar relacionado ao
 desequilíbrio global é apoiado pelo argumento de que
 
-a\) as crianças aprendem a consumir de forma inconsequente.
+1. as crianças aprendem a consumir de forma inconsequente.
 
-b\) critérios e valores distorcidos são passados para as pessoas desde a
+1. critérios e valores distorcidos são passados para as pessoas desde a
 infância.
 
-a\) a exploração irresponsável do meio ambiente prevaleceu ao longo de
+1. a exploração irresponsável do meio ambiente prevaleceu ao longo de
 décadas.
 
-d\) critérios e valores distorcidos são problemas de ordem ética,
+1. critérios e valores distorcidos são problemas de ordem ética,
 econômica e social.
 
 Resposta: C.
@@ -365,7 +365,7 @@ BNCC: EF67LP05
 
 Nível: fácil.
 
-2\. Observe a imagem a seguir.
+1. Observe a imagem a seguir.
 
 ![Interface gráfica do usuário, Aplicativo, Teams Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image1.png){width="5.905555555555556in"
@@ -386,34 +386,34 @@ A imagem faz parte de uma pesquisa de satisfação. Os recursos que
 auxiliam o(a) cliente a identificar com facilidade seu sentimento com
 relação aos serviços nessa pesquisa são
 
-a\) os emojis, por extarem muito presentes no dia a dia das pessoas.
+1. os emojis, por extarem muito presentes no dia a dia das pessoas.
 
-b\) os textos, que variam de "muito insatisfeito" a "muito satisfeito",
+1. os textos, que variam de "muito insatisfeito" a "muito satisfeito",
 posicionados abaixo das imagens.
 
-c\) as cores das imagens, que variam em uma escala de vermelho para
+1. as cores das imagens, que variam em uma escala de vermelho para
 "muito insatisfeito" a verde para "muito satisfeito".
 
-d\) a combinação de emojis com expressões faciais, as cores universais e
+1. a combinação de emojis com expressões faciais, as cores universais e
 os textos abaixo das imagens, tornando a pesquisa inclusiva.
 
 Resposta: D
 
-a\) Incorreta. Os emojis de fato estão presentes no dia a dia das
+1. Incorreta. Os emojis de fato estão presentes no dia a dia das
 pessoas que utilizam ferramentas de comunicação digital, por exemplo,
 mas aqueles que não estão familiarizados com esse tipo de linguagem
 poderiam se confundir.
 
-b\) Incorreta. Os textos traduzem as expressões dos emojis, mas somente
+1. Incorreta. Os textos traduzem as expressões dos emojis, mas somente
 eles não tornam a pesquisa intuitiva.
 
-c\) Incorreta. Os emojis estão representados em cores de sinalização
+1. Incorreta. Os emojis estão representados em cores de sinalização
 praticamente universal, que já fazem parte do nosso cotidiano, como o
 semáforo: vermelho quando não se deve prosseguir, amarelo para alerta e
 verde para prosseguir. Contudo, sozinhas as cores não fazem sentido na
 pesquisa, elas precisam estar atreladas a uma imagem.
 
-d\) Correta. A combinação de expressões faciais, texto de apoio e cores
+1. Correta. A combinação de expressões faciais, texto de apoio e cores
 torna a pesquisa intuitiva, ou seja, fácil de ser respondida por todos
 os públicos, e inclusiva, isto é, acessível a todas as pessoas.
 
@@ -424,7 +424,7 @@ BNCC: EF67LP07
 
 Nível de dificuldade: médio.
 
-3\. *Nunca subestime uma mulherzinh*a é uma reunião de contos e crônicas
+1. *Nunca subestime uma mulherzinh*a é uma reunião de contos e crônicas
 publicados pela autora nos jornais *Correio Braziliense* e *O Estado de
 Minas*, com prefácio de Zélia Duncan.
 
@@ -439,33 +439,33 @@ guitarra.\[\...\]
 No título do livro de Fernanda Takai, *Nunca subestime uma mulherzinha*,
 a palavra "mulherzinha", no diminutivo, foi escolhida no intuito de
 
-a\) fazer uma chacota com o fato de a autora ser uma mulher baixinha.
+1. fazer uma chacota com o fato de a autora ser uma mulher baixinha.
 
-b\) tratar mulheres pequenas como autoras de forma carinhosa, ou seja,
+1. tratar mulheres pequenas como autoras de forma carinhosa, ou seja,
 "mulherzinhas".
 
-c\) brincar com o fato de a autora ser uma mulher tão pequena que se
+1. brincar com o fato de a autora ser uma mulher tão pequena que se
 escondia atrás da guitarra.
 
-d\) dar um novo sentido à palavra "mulherzinha", que pode ser pejorativo
+1. dar um novo sentido à palavra "mulherzinha", que pode ser pejorativo
 em alguns contextos, mas aqui está sendo usado para representar a
 autora, uma mulher baixinha.
 
 Resposta: D
 
-a\) Incorreta. A intenção de usar a palavra "mulher" no diminutivo não é
+1. Incorreta. A intenção de usar a palavra "mulher" no diminutivo não é
 fazer chacota com a autora do livro: pelo contrário, é ironizar o fato
 de mulheres serem subestimadas por supostamente não conseguirem fazer
 certas coisas.
 
-b\) Incorreta. Algumas vezes o diminutivo é usado de forma carinhosa,
+1. Incorreta. Algumas vezes o diminutivo é usado de forma carinhosa,
 porém, neste caso, a palavra "mulherzinha" é usada de forma irônica.
 
-c\) Incorreta. A palavra no diminutivo de certa forma brinca com o fato
+1. Incorreta. A palavra no diminutivo de certa forma brinca com o fato
 de a autora ser uma mulher pequena, porém ela tem outro efeito de
 sentido além desse.
 
-d\) Correta. Chamar uma mulher de "mulherzinha" em alguns contextos é
+1. Correta. Chamar uma mulher de "mulherzinha" em alguns contextos é
 pejorativo, contudo, neste caso, pretende-se dar outro efeito de sentido
 à palavra ironizando esse fato ao mesmo tempo em que a palavra é usada
 em sentido literal, para representar a autora, que é uma mulher
@@ -703,7 +703,7 @@ nov. de 2021. Disponível em: \<
 <https://jornal.usp.br/ciencias/seu-cao-reconhece-suas-emocoes-e-toma-decisoes-a-partir-disso-mostra-estudo-da-usp/>\>.
 Acesso em: 01 mar. 2023. Adaptado.)
 
-1\. Qual é o principal assunto do texto? Em que parte da estrutura do
+1. Qual é o principal assunto do texto? Em que parte da estrutura do
 texto é possível constatar essa informação?
 
 Resposta: O texto fala sobre a capacidade dos cães de reconhecerem as
@@ -719,7 +719,7 @@ BNCC: EF69LP20
 
 Nível: Fácil.
 
-2\. Qual é a função do subtítulo do artigo?
+1. Qual é a função do subtítulo do artigo?
 
 Resposta: O subtítulo apresenta para o leitor a pesquisa que será
 apresentada no artigo.
@@ -733,7 +733,7 @@ BNCC: EF69LP20
 
 Nível: Médio.
 
-3\. Qual é o objetivo de se fazer a pesquisa apresentada no artigo? Em
+1. Qual é o objetivo de se fazer a pesquisa apresentada no artigo? Em
 que parte do texto é possível obter essa informação?
 
 Resposta: O objetivo, segundo a pesquisadora, é desenvolver uma relação
@@ -783,16 +783,16 @@ height="2.7083333333333335in"}
 
 <https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fp%2Fbrancodesign%2F&psig=AOvVaw025oTdYXBEXaAsIqgbnjOO&ust=1677811356155000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD-78CcvP0CFQAAAAAdAAAAABAR>
 
-4\. O objetivo comum a ambas as campanhas é
+1. O objetivo comum a ambas as campanhas é
 
-a\) mostrar às crianças como cuidar da saúde.
+1. mostrar às crianças como cuidar da saúde.
 
-b\) incentivar as pessoas a manterem hábitos saudáveis na infância.
+1. incentivar as pessoas a manterem hábitos saudáveis na infância.
 
-c\) apresentar o que deve ser feito para que crianças não sofram
+1. apresentar o que deve ser feito para que crianças não sofram
 obesidade.
 
-c\) conscientizar as pessoas com relação ao problema da obesidade
+1. conscientizar as pessoas com relação ao problema da obesidade
 infantil.
 
 Resposta: D
@@ -800,16 +800,16 @@ Resposta: D
 Justificativa: Ambos os textos são campanhas de conscientização com
 relação à obesidade infantil.
 
-a\) Incorreta. O Texto 1 fornece dicas de comportamentos que podem ser
+1. Incorreta. O Texto 1 fornece dicas de comportamentos que podem ser
 adotados para a manutenção de hábitos saudáveis pelas crianças, mas não
 é direcionado especificamente a elas. O Texto 2 apresenta apenas um
 slogan de campanha e uma hashtag que informa o objetivo da campanha,
 além de elementos não verbais.
 
-b\) Incorreta. Embora ambos os textos deixem claro a importância de
+1. Incorreta. Embora ambos os textos deixem claro a importância de
 hábitos saudáveis na infância, o objetivo das campanhas não é este.
 
-c\) Incorreta. Os textos são campanhas publicitárias, e não materiais
+1. Incorreta. Os textos são campanhas publicitárias, e não materiais
 informativos. Portanto, o objetivo deles é conscientizar sobre uma
 ideia, no caso o combate à obesidade infantil.
 
@@ -820,7 +820,7 @@ BNCC: EF69LP02
 
 Nível de dificuldade: fácil
 
-5\. Qual dos dois textos alcança uma quantidade maior de leitores(as),
+1. Qual dos dois textos alcança uma quantidade maior de leitores(as),
 se considerarmos os canais em que é veiculado? Justifique sua resposta.
 
 Resposta: O Texto 1 alcança um número maior de pessoas, porque, por ser
@@ -837,7 +837,7 @@ BNCC: EF69LP02
 
 Nível de dificuldade: difícil.
 
-6\. Qual dos textos promove ao(à) leitor(a) maior credibilidade com
+1. Qual dos textos promove ao(à) leitor(a) maior credibilidade com
 relação às informações divulgadas? Justifique sua resposta.
 
 Resposta: O Texto 1, pois tem como autor da campanha o Ministério da
@@ -859,14 +859,14 @@ Animais e responda às questões 7 e 8.
 viver livre no seu próprio ambiente natural, terrestre, aéreo ou
 aquático e tem o direito de se reproduzir.
 
-2\. Toda a privação de liberdade, mesmo que tenha fins educativos, é
+1. Toda a privação de liberdade, mesmo que tenha fins educativos, é
 contrária a este direito."
 
 Disponível em: \<
 http://www.fiocruz.br/biosseguranca/Bis/infantil/direitoanimais.htm\>.
 Acesso em: 2 mar. 2023. Fragmento.
 
-7\. Explique, com suas palavras e com base na leitura, a finalidade da
+1. Explique, com suas palavras e com base na leitura, a finalidade da
 Declaração Universal dos Direitos dos Animais.
 
 Resposta: A Declaração Universal dos Direitos dos Animais tem a
@@ -878,19 +878,19 @@ e/ou reivindicatórios.
 
 Nível de dificuldade: fácil.
 
-8\. O parágrafo 2 da Declaração Universal dos Direitos dos Animais
+1. O parágrafo 2 da Declaração Universal dos Direitos dos Animais
 informa que toda a privação de liberdade no caso de animais selvagens,
 mesmo que com fins educativos, é contrária a esse direito. Esse trecho
 quer dizer que
 
-a\) prender animais selvagens é crime.
+1. prender animais selvagens é crime.
 
-b\) não se pode prender animais selvagens, mas animais domésticos sim.
+1. não se pode prender animais selvagens, mas animais domésticos sim.
 
-c\) é um dever dos seres humanos garantir o direito de animais selvagens
+1. é um dever dos seres humanos garantir o direito de animais selvagens
 viverem em liberdade.
 
-d\) pessoas que estudam animais selvagens e restringem sua liberdade
+1. pessoas que estudam animais selvagens e restringem sua liberdade
 para este fim estão, na realidade, cometendo um crime.
 
 Resposta: É um dever dos seres humanos garantir o direito de animais
@@ -919,7 +919,7 @@ e/ou reivindicatórios.
 
 Nível de dificuldade: médio.
 
-9\. Observe a imagem a seguir.
+1. Observe a imagem a seguir.
 
 ![Símbolo do autismo passa a ser obrigatório em placas de atendimento
 preferencial em Juara --- PODER
@@ -949,14 +949,14 @@ mais justo.
 
 Justificativas:
 
-a\) Incorreta. Não se trata de tornar o convívio mais alegre, e sim
+1. Incorreta. Não se trata de tornar o convívio mais alegre, e sim
 igualitário e inclusivo.
 
-b\) Incorreta. O objetivo do texto normativo é regulamentar normas de
+1. Incorreta. O objetivo do texto normativo é regulamentar normas de
 bom convívio, a fim de tornar o dia a dia das pessoas mais justos em
 direitos.
 
-c\) Incorreta. O direito a atendimento prioritário não faz da vida de
+1. Incorreta. O direito a atendimento prioritário não faz da vida de
 pessoas pertencentes aos grupos da imagem mais segura.
 
 SAEB: Identificar formas de organização de textos normativos, legais
@@ -984,13 +984,13 @@ imagem.
 A resposta do usuário à postagem da prefeitura do Rio de Janeiro tem o
 mesmo teor que o de um(a)
 
-a\) artigo de opinião.
+1. artigo de opinião.
 
-b\) carta de reclamação.
+1. carta de reclamação.
 
-c\) texto informativo.
+1. texto informativo.
 
-d\) campanha publicitária.
+1. campanha publicitária.
 
 Resposta: b. Carta de reclamação.
 
@@ -1002,14 +1002,14 @@ viajar neles.
 
 Justificativas:
 
-a\) Incorreta. O artigo de opinião é um gênero textual jornalístico que
+1. Incorreta. O artigo de opinião é um gênero textual jornalístico que
 tem como objetivo comentar e opinar a respeito de um tema.
 
-c\) Incorreta. O texto informativo tem como objetivo informar o(a)
+1. Incorreta. O texto informativo tem como objetivo informar o(a)
 leitor(a) sobre determinado assunto, elucidando e esclarecendo-o(a)
 sobre o tema em questão.
 
-d\) Incorreta. A campanha publicitária tem como objetivo persuadir uma
+1. Incorreta. A campanha publicitária tem como objetivo persuadir uma
 pessoa a comprar um produto ou adotar um comportamento.
 
 SAEB: Identificar formas de organização de textos normativos, legais
@@ -1022,7 +1022,7 @@ Nível de dificuldade: médio.
 
 **TREINO**
 
-1\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 **O Brasil precisa do SUS: lançada campanha nacional de defesa do
 Sistema Único de Saúde**
@@ -1045,26 +1045,26 @@ mar. 2023. Adaptado.)
 
 A hashtag indicada na campanha (\#OBrasilPrecisadoSUS) é, na realidade,
 
-a\) um incentivo para que pessoas reivindiquem a favor do SUS.
+1. um incentivo para que pessoas reivindiquem a favor do SUS.
 
-b\) um convite para que as pessoas utilizem os serviços do SUS.
+1. um convite para que as pessoas utilizem os serviços do SUS.
 
-c\) uma reivindicação para que o SUS seja defendido e não atacado.
+1. uma reivindicação para que o SUS seja defendido e não atacado.
 
-d\) uma propaganda para divulgar nas redes sociais os serviços do SUS.
+1. uma propaganda para divulgar nas redes sociais os serviços do SUS.
 
 Resposta: a. A campanha é um incentivo para que as pessoas se
 conscientizem e reivindiquem a manutenção do SUS.
 
 Justificativas:
 
-b\) Incorreta. A campanha não pretende convidar pessoas a utilizarem o
+1. Incorreta. A campanha não pretende convidar pessoas a utilizarem o
 SUS.
 
-c\) Incorreta. A campanha, embora defenda o SUS, não informa que de
+1. Incorreta. A campanha, embora defenda o SUS, não informa que de
 alguma forma ele é atacado.
 
-d\) Incorreta. Embora veiculada em redes sociais, a campanha busca
+1. Incorreta. Embora veiculada em redes sociais, a campanha busca
 defender a manutenção do SUS e não divulgar seus serviços.
 
 Saeb: Analisar a relação temática entre diferentes gêneros
@@ -1074,7 +1074,7 @@ BNCC: EF67LP16
 
 Nível de dificuldade: médio.
 
-2\. O piso tátil, instalado em calçadas e estabelecimentos, apresenta
+1. O piso tátil, instalado em calçadas e estabelecimentos, apresenta
 dois tipos de padrão: em bolinhas ou em faixas paralelas.
 
 Observe as imagens a seguir.
@@ -1097,14 +1097,14 @@ Fonte das imagens:
 
 O objetivo do piso ao redor do telefone público é
 
-a\) evitar que a pessoa com deficiência visual acesse o objeto.
+1. evitar que a pessoa com deficiência visual acesse o objeto.
 
-b\) orientar a pessoa com deficiência visual de que ali há um objeto.
+1. orientar a pessoa com deficiência visual de que ali há um objeto.
 
-c\) direcionar a pessoa com deficiência visual para que acesse aquele
+1. direcionar a pessoa com deficiência visual para que acesse aquele
 objeto.
 
-d\) proteger o objeto de qualquer avaria em decorrência da aproximação
+1. proteger o objeto de qualquer avaria em decorrência da aproximação
 de pessoas com bengalas, por exemplo.
 
 Resposta: b. O piso tátil em bolinha, conforme explica a imagem 1, é um
@@ -1113,13 +1113,13 @@ orientá-la de que ali há um objeto.
 
 Justificativas:
 
-a\) Incorreta. Nenhum piso tátil tem função de evitar que qualquer
+1. Incorreta. Nenhum piso tátil tem função de evitar que qualquer
 pessoa deixe de acessar um recurso público.
 
-c\) Incorreta. O piso com função de direcionamento é aquele com padrão
+1. Incorreta. O piso com função de direcionamento é aquele com padrão
 em faixas.
 
-d\) Incorreta. O objeto está cercado pelo piso para alertar o acesso da
+1. Incorreta. O objeto está cercado pelo piso para alertar o acesso da
 pessoa com deficiência a partir de qualquer sentido.
 
 Saeb: Identificar formas de organização de textos normativos, legais
@@ -1129,7 +1129,7 @@ BNCC: EF69LP20
 
 Nível: fácil
 
-3\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 No dia 26 de janeiro de 2023, um asteroide de tamanho estimado igual ao
 de um ônibus passou pelo céu do extremo sul da América do Sul logo após
@@ -1152,13 +1152,13 @@ No artigo científico, os trechos "tamanho estimado igual ao de um
 ônibus", "considerado bem rente" e "verdadeiros gigantes que estão por
 aí" são empregados no sentido de
 
-a\) comparar termos técnicos com outros da linguagem coloquial
+1. comparar termos técnicos com outros da linguagem coloquial
 
-b\) dar ao leitor uma projeção imagética do que está sendo explicado.
+1. dar ao leitor uma projeção imagética do que está sendo explicado.
 
-c\) explicar em termos técnicos as dimensões apresentadas no trecho.
+1. explicar em termos técnicos as dimensões apresentadas no trecho.
 
-d\) fazer uma metáfora bem-humorada das dimensões das coisas no
+1. fazer uma metáfora bem-humorada das dimensões das coisas no
 universo.
 
 Resposta: b. Embora seja um texto de divulgação científica, a linguagem
@@ -1167,12 +1167,12 @@ está sendo explicado.
 
 Justificativas:
 
-a\) Incorreto, O texto não compara termos técnicos.
+1. Incorreto, O texto não compara termos técnicos.
 
-c\) Incorreto. As dimensões são explicadas por meio de linguagem
+1. Incorreto. As dimensões são explicadas por meio de linguagem
 coloquial.
 
-d\) Incorreto. Não há uma metáfora ou comparação, e sim explicações
+1. Incorreto. Não há uma metáfora ou comparação, e sim explicações
 sobre os termos técnicos.
 
 Saeb: Identificar elementos constitutivos de gêneros de divulgação
@@ -1377,7 +1377,7 @@ height="4.270090769903762in"}
 
 Fonte: Pixabay.
 
-1\. Enumere os fatos do texto 1, de acordo com a ordem cronológica dos
+1. Enumere os fatos do texto 1, de acordo com a ordem cronológica dos
 acontecimentos.
 
 ( ) Uma das esposas do chefe morre.
@@ -1429,7 +1429,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: fácil.
 
-2\. O Texto 2 apresenta apenas uma imagem e uma legenda. O que essa
+1. O Texto 2 apresenta apenas uma imagem e uma legenda. O que essa
 imagem representa? Por que ela foi escolhida?
 
 Resposta: A imagem do Texto 2 é o sapato de cristal, que remete à
@@ -1444,7 +1444,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: médio.
 
-3\. Quais são as principais semelhanças entre o Texto 1 e o conto de
+1. Quais são as principais semelhanças entre o Texto 1 e o conto de
 fadas representado pela imagem do Texto 2?
 
 Resposta: Tanto a história do Texto 1 quanto a história da Cinderela
@@ -1460,7 +1460,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: médio.
 
-4\. Assinale verdadeiro (V) ou falso (F) sobre o que torna o Texto 1
+1. Assinale verdadeiro (V) ou falso (F) sobre o que torna o Texto 1
 diferente do conto de fadas referido no Texto 2.
 
 ( ) O Texto 1 é escrito conforme lendas e referências típicas da cultura
@@ -1551,7 +1551,7 @@ Dissimulada: pessoa fingida, falsa.
 
 Fitar: olhar; admirar.
 
-5\. Qual é o efeito de sentido que a palavra "obliqua" adquire no
+1. Qual é o efeito de sentido que a palavra "obliqua" adquire no
 contexto do Texto 1?
 
 Resposta: A palavra adquire um sentido real, já que os olhos do gatinho
@@ -1564,7 +1564,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: fácil.
 
-6\. Por que a palavra "dissimulada" faz sentido no Texto 1?
+1. Por que a palavra "dissimulada" faz sentido no Texto 1?
 
 Resposta: Porque é um senso comum algumas pessoas associarem gatos a
 seres traiçoeiros.
@@ -1576,7 +1576,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: médio.
 
-7\. A que se refere o pronome "os", no trecho "Só me perguntava o que
+1. A que se refere o pronome "os", no trecho "Só me perguntava o que
 era, se nunca os vira", extraído do Texto 2?
 
 Resposta: O pronome se refere aos olhos de Capitu.
@@ -1597,7 +1597,7 @@ https://br.freepik.com/icones-gratis/mundo\_15424068.htm\#page=3&query=origem%20
 
 Precisa inserir o texto "De mal\... a pior."
 
-8\. A imagem apresenta uma rota cruzando o planeta Terra de um ponto a
+1. A imagem apresenta uma rota cruzando o planeta Terra de um ponto a
 outro, com o texto "De mal\... a pior.". Explique o uso das reticências
 e do ponto-final nesse texto.
 
@@ -1613,7 +1613,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: difícil.
 
-9\. Observe que o pontilhado que forma a rota da origem ao destino é uma
+1. Observe que o pontilhado que forma a rota da origem ao destino é uma
 linha curvada para baixo, de modo que o planeta parece estar triste.
 Esse detalhe é proposital na composição da imagem? Qual é a função desse
 recurso não verbal para o leitor?
@@ -1633,13 +1633,13 @@ Nível: difícil.
 
 10\. A imagem faz intertextualidade com
 
-a\) uma canção popular.
+1. uma canção popular.
 
-b\) um ditado popular.
+1. um ditado popular.
 
-c\) uma figura de linguagem.
+1. uma figura de linguagem.
 
-d\) uma cantiga popular.
+1. uma cantiga popular.
 
 Resposta: B. A frase da imagem é um ditado popular: "de mal a pior",
 usada quando se quer dizer que não há nada tão ruim que não possa
@@ -1647,15 +1647,15 @@ piorar.
 
 Justificativas:
 
-a\) Incorreta. Embora a expressão "de mal a pior" esteja presente em
+1. Incorreta. Embora a expressão "de mal a pior" esteja presente em
 algumas canções da MPB, ela é um ditado popular.
 
-c\) Incorreta. De mal a pior é um ditado, uma expressão popular, e não
+1. Incorreta. De mal a pior é um ditado, uma expressão popular, e não
 uma figura de linguagem. Aqui, na imagem, seu uso pode ser associado a
 uma ironia, para dar o efeito de sentido de humor, mas o texto em si é
 um dito popular.
 
-d\) "De mal a pior" não aparece em nenhuma cantiga popular.
+1. "De mal a pior" não aparece em nenhuma cantiga popular.
 
 Resposta: O pronome se refere aos olhos de Capitu.
 
@@ -1668,7 +1668,7 @@ Nível: difícil.
 
 **TREINO**
 
-1\. Observe os dois textos a seguir.
+1. Observe os dois textos a seguir.
 
 **Texto 1**
 
@@ -1698,25 +1698,25 @@ Acesso em: mar. 2023. Adaptado.)
 
 Os textos 1 e 2
 
-a\) pertencem ao gênero texto de divulgação científica.
+1. pertencem ao gênero texto de divulgação científica.
 
-b\) apresentam intertextualidade quanto ao tema.
+1. apresentam intertextualidade quanto ao tema.
 
-c\) não têm qualquer relação.
+1. não têm qualquer relação.
 
-d\) são de cunho informativo.
+1. são de cunho informativo.
 
 Resposta: b. Os textos apresentam intertextualidade com relação ao tema,
 que são as consequências de haver um apagão do sol.
 
 Justificativas:
 
-a\) Incorreta. O texto 1 é um quadrinho e o texto 2 é um texto de
+1. Incorreta. O texto 1 é um quadrinho e o texto 2 é um texto de
 divulgação científica.
 
-c\) Incorreta. Os textos apresentam a mesma temática.
+1. Incorreta. Os textos apresentam a mesma temática.
 
-d\) Incorreta. Apenas o texto 2 é de cunho informativo, pois transmite a
+1. Incorreta. Apenas o texto 2 é de cunho informativo, pois transmite a
 mensagem de maneira assertiva.
 
 Saeb: Analisar a intertextualidade entre textos literários ou entre
@@ -1726,7 +1726,7 @@ BNCC: EF67LP27
 
 Nível: fácil
 
-2\. Observe a imagem a seguir.
+1. Observe a imagem a seguir.
 
 ![Fotos grátis de Arte de
 rua](./imgSAEB_6_POR/media/image13.jpeg){width="4.690160761154855in"
@@ -1737,15 +1737,15 @@ Fonte:
 
 A intertextualidade da obra de arte ocorre
 
-a\) a partir da fusão de elementos cotidianos com linguagem não verbal.
+1. a partir da fusão de elementos cotidianos com linguagem não verbal.
 
-b\) por meio da ilustração de como acionar o alerta sonoro presente no
+1. por meio da ilustração de como acionar o alerta sonoro presente no
 muro.
 
-c\) a partir da representação de um menino brincando com um martelo que
+1. a partir da representação de um menino brincando com um martelo que
 mede a força.
 
-d\) a partir da composição de elementos verbais e não verbais, como a
+1. a partir da composição de elementos verbais e não verbais, como a
 pintura e os quadros de aviso.
 
 Resposta: c. A imagem forma uma intertextualidade ao unir o sinal
@@ -1754,13 +1754,13 @@ brincando com um martelo que mede a força.
 
 Justificativas:
 
-a\. Incorreta. Os elementos não verbais da imagem não se dissociam de
+1. Incorreta. Os elementos não verbais da imagem não se dissociam de
 elementos cotidianos; eles fazem parte deles.
 
-b\. Incorreta. A obra não pretende instruir como acionar o alerta
+1. Incorreta. A obra não pretende instruir como acionar o alerta
 sonoro.
 
-d\. Incorreta. Os elementos verbais, como os quadros na parece, não
+1. Incorreta. Os elementos verbais, como os quadros na parece, não
 fazem diferença na composição da imagem.
 
 Saeb: Analisar a intertextualidade entre textos literários ou entre
@@ -1770,7 +1770,7 @@ BNCC: EF67LP27
 
 Nível: difícil.
 
-3\. Observe a imagem a seguir.
+1. Observe a imagem a seguir.
 
 ![Fotos grátis de
 Coração](./imgSAEB_6_POR/media/image14.jpeg){width="3.9791666666666665in"
@@ -1780,28 +1780,28 @@ height="2.9843755468066493in"}
 
 A canção que formaria uma intertextualidade com a imagem é:
 
-a\) Será que a terra\
+1. Será que a terra\
 Vai seguir nos dando\
 O fruto, a folha\
 O caule e a raiz?
 
 (Toquinho)
 
-b\) Coração bandido esse meu\
+1. Coração bandido esse meu\
 Vive traindo você\
 Coração ingênuo é o seu\
 Todo esse tempo sem perceber
 
 (Maiara e Maraísa part. Marília Mendonça)
 
-c\) Coração de ferro\
+1. Coração de ferro\
 Não tem sentimento\
 Caminhos te levam\
 Pelo som vento
 
 (Zé Henrique e Gabriel)
 
-d\) Como as plantas, somos seres vivos\
+1. Como as plantas, somos seres vivos\
 Como as plantas, temos que crescer\
 Como elas, precisamos de muito carinho\
 De Sol, de amor, de ar pra sobreviver.
@@ -1813,13 +1813,13 @@ comparando o sentimento com a mata.
 
 Justificativas:
 
-a\. Incorreta. Embora a letra fale sobre mata, caule e raiz, não se pode
+1. Incorreta. Embora a letra fale sobre mata, caule e raiz, não se pode
 afirmar que a imagem é de um desmatamento.
 
-b\. Incorreta. A letra é uma canção de amor entre pessoas, e não sobre
+1. Incorreta. A letra é uma canção de amor entre pessoas, e não sobre
 natureza, portanto, não apresenta intertextualidade com a imagem.
 
-c\. Incorreta. A letra fala apenas de sentimentos humanos, e não
+1. Incorreta. A letra fala apenas de sentimentos humanos, e não
 apresenta intertextualidade com a imagem.
 
 Saeb: Analisar a intertextualidade entre textos literários ou entre
@@ -1946,7 +1946,7 @@ publicado em 23 nov. 2014 e atualizado em 19 jul. 2019. Disponível em:
 \<<https://super.abril.com.br/ciencia/como-os-gatos-veem-o-mundo/>\>.
 Acesso em 9 mar. 2023. Adaptado.)
 
-1\. O título de tem a função de apresentar ao leitor o tema que será
+1. O título de tem a função de apresentar ao leitor o tema que será
 trabalhado no texto. No caso desse artigo, se considerarmos que o verbo
 "ver" está empregado em seu sentido denotativo, ou seja, literal, que
 tipo de informação o leitor pode esperar, antes de ler o texto?
@@ -1961,7 +1961,7 @@ BNCC: EF69LP16
 
 Nível: médio.
 
-2\. Após a leitura do texto, qual é o efeito de sentido que o verbo
+1. Após a leitura do texto, qual é o efeito de sentido que o verbo
 "veem" adquire no título? Justifique sua resposta.
 
 Resposta: O verbo tem o sentido de compreender, pois o texto não fala
@@ -1975,7 +1975,7 @@ BNCC: EF69LP16
 
 Nível: médio.
 
-3\. Qual é a tese apresentada no texto? Copie o trecho que apresenta
+1. Qual é a tese apresentada no texto? Copie o trecho que apresenta
 essa informação.
 
 Resposta: A tese é de que os gatos domésticos ainda são animais
@@ -1990,7 +1990,7 @@ BNCC: EF69LP16
 
 Nível: fácil.
 
-4\. Que tipos de argumentos o autor utiliza para defender essa tese?
+1. Que tipos de argumentos o autor utiliza para defender essa tese?
 
 Resposta: O autor utiliza comparações, como em "diferente dos cachorros,
 que querem ser gente, os gatos não querem ser outra coisa." e "para o
@@ -2004,7 +2004,7 @@ BNCC: EF69LP16
 
 Nível: difícil.
 
-5\. Por que o autor do artigo reproduz a fala de um especialista no
+1. Por que o autor do artigo reproduz a fala de um especialista no
 desenvolvimento do texto?
 
 Resposta: Porque a fala do especialista dá credibilidade ao texto.
@@ -2016,30 +2016,30 @@ BNCC: EF69LP43
 
 Nível: fácil.
 
-6\. As aspas utilizadas em "Ele descende de um felino territorial e
+1. As aspas utilizadas em "Ele descende de um felino territorial e
 solitário que aceitou a coexistência com outros gatos e ainda está se
 adaptando à vida de animal de estimação"
 
-a\) reproduzem a fala do especialista na forma de discurso indireto.
+1. reproduzem a fala do especialista na forma de discurso indireto.
 
-b\) reproduzem a fala do especialista na forma de discurso direto.
+1. reproduzem a fala do especialista na forma de discurso direto.
 
-c\) dão destaque à tese de que os gatos são felinos selvagens.
+1. dão destaque à tese de que os gatos são felinos selvagens.
 
-d\) dão destaque ao fato de um especialista ter sido entrevistado.
+1. dão destaque ao fato de um especialista ter sido entrevistado.
 
 Resposta: a. As aspas reproduzem a fala do especialista na forma de
 discurso indireto.
 
 Justificativas:
 
-b\) Incorreta. O discurso direto é representado por meio de travessão e
+1. Incorreta. O discurso direto é representado por meio de travessão e
 quebra de parágrafo.
 
-c\) Incorreta. A função das aspas, aqui, é demarcar o que foi
+1. Incorreta. A função das aspas, aqui, é demarcar o que foi
 reproduzido da fala do especialista.
 
-d\) Incorreta. O fato de um especialista ter sido entrevistado apenas
+1. Incorreta. O fato de um especialista ter sido entrevistado apenas
 não exige por si só que o trecho em que isso é mencionado seja usado
 entre aspas.
 
@@ -2050,7 +2050,7 @@ BNCC: EF69LP43
 
 Nível: médio.
 
-7\. Além as aspas, qual é o recurso utilizado no texto para que o leitor
+1. Além as aspas, qual é o recurso utilizado no texto para que o leitor
 reconheça a frase do especialista como uma citação?
 
 Resposta: O verbo dizer, após o trecho entre aspas: "diz John Bradshaw,
@@ -2079,7 +2079,7 @@ sofreu muito. Faz análise até hoje."
 <https://marioprata.net/cronicas/o-amor-de-tumitinha/>\>. Acesso em: 3
 mar. 2023.)
 
-8\. Qual é o motivo da confusão entre o verso e a maneira como ele foi
+1. Qual é o motivo da confusão entre o verso e a maneira como ele foi
 compreendido?
 
 Resposta: A sonoridade parecida entre as palavras "tu me tinhas" e
@@ -2092,7 +2092,7 @@ BNCC: EF69LP43
 
 Nível: médio.
 
-9\. Qual é o recurso utilizado pelo autor para que as pessoas saibam que
+1. Qual é o recurso utilizado pelo autor para que as pessoas saibam que
 a história que ele reconta é, na verdade, inventada pela sua amiga?
 
 Resposta: O autor menciona, no começo do texto que sua amiga Adriana
@@ -2121,7 +2121,7 @@ Nível: difícil.
 
 **TREINO**
 
-1\. Observe o infográfico a seguir.
+1. Observe o infográfico a seguir.
 
 ![Gráfico, Diagrama, Gráfico de bolhas Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image15.jpeg){width="3.433333333333333in"
@@ -2132,26 +2132,26 @@ Fonte:
 
 Qual é a tese apresentada no infográfico?
 
-a\) Saúde mental e saúde física caminham juntas.
+1. Saúde mental e saúde física caminham juntas.
 
-b\) Para ter saúde mental basta seguir as dicas.
+1. Para ter saúde mental basta seguir as dicas.
 
-c\) Não é possível ter saúde mental se as dicas não forem seguidas.
+1. Não é possível ter saúde mental se as dicas não forem seguidas.
 
-d\) A saúde mental só depende da pessoa.
+1. A saúde mental só depende da pessoa.
 
 Resposta: a. O infográfico apresenta dicas de saúde mental que englobam
 comportamentos que auxiliam na manutenção do físico e do psicológico.
 
 Justificativas:
 
-b\) Incorreta. As informações do infográfico são dicas, sugestões, e não
+1. Incorreta. As informações do infográfico são dicas, sugestões, e não
 necessariamente bastam para se ter saúde mental.
 
-c\) Incorreta. Não se pode afirmar que não é possível ter saúde mental
+1. Incorreta. Não se pode afirmar que não é possível ter saúde mental
 se essas dicas não forem seguidas.
 
-d\) Incorreta. A saúde mental depende de uma série de circunstâncias. O
+1. Incorreta. A saúde mental depende de uma série de circunstâncias. O
 infográfico apresenta apenas algumas dicas.
 
 Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
@@ -2161,7 +2161,7 @@ BNCC: EF69LP43
 
 Nível: fácil
 
-2\. Leia a reportagem a seguir.
+1. Leia a reportagem a seguir.
 
 **Como cuidar da saúde mental das crianças?**
 
@@ -2186,13 +2186,13 @@ Acesso em: mar. 2023. Adaptado.)
 O recurso argumentativo utilizado que apoia a tese apresentada no texto
 é
 
-a\) uma paráfrase.
+1. uma paráfrase.
 
-b\) uma citação direta.
+1. uma citação direta.
 
-b\) uma citação indireta.
+1. uma citação indireta.
 
-d\) uma citação de citação.
+1. uma citação de citação.
 
 Resposta: c. O texto apresenta a tese de que os primeiros anos de vida
 funcionam como base para as aquisições que o cérebro fará nos anos
@@ -2202,12 +2202,12 @@ utilizado como recurso uma citação indireta de um dado da OMS.
 
 Justificativas:
 
-a\) Incorreta. A citação usada como argumento é indireta.
+1. Incorreta. A citação usada como argumento é indireta.
 
-b\) Incorreta. Seria uma citação direta se o trecho estivesse
+1. Incorreta. Seria uma citação direta se o trecho estivesse
 identificado entre aspas, por exemplo.
 
-d\) Incorreta. A paráfrase ocorre com mais frequência em textos que
+1. Incorreta. A paráfrase ocorre com mais frequência em textos que
 demonstram que o enunciador reconta uma história, e não em artigos
 científicos.
 
@@ -2218,7 +2218,7 @@ BNCC: EF69LP43
 
 Nível: médio.
 
-3\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 Ruth Rocha recebeu a equipe da TV Brasil em sua residência, em São
 Paulo, para um papo sobre sua trajetória no universo literário e a
@@ -2242,17 +2242,17 @@ Acesso em: mar. 2023. Adaptado)
 
 O trecho que apresenta uma citação indireta é
 
-a\) Ruth Rocha recebeu a equipe da TV Brasil em sua residência, em São
+1. Ruth Rocha recebeu a equipe da TV Brasil em sua residência, em São
 Paulo, para um papo sobre sua trajetória no universo literário e a
 importância da leitura para as novas gerações.
 
-b\) \"O professor deve ler o livro antes e, se gostar, ler para os
+1. \"O professor deve ler o livro antes e, se gostar, ler para os
 alunos. Todos têm que gostar para dar certo\".
 
-c\) Ruth Rocha também destaca a importância do professor na formação do
+1. Ruth Rocha também destaca a importância do professor na formação do
 público leitor.
 
-d\) Na entrevista, a escritora diz que é preciso conversar com as
+1. Na entrevista, a escritora diz que é preciso conversar com as
 crianças pois elas entendem mais do que se imagina.
 
 Resposta: d. É possível identificar que esta é uma citação indireta a
@@ -2261,11 +2261,11 @@ entrevistada; neste caso, o verbo "dizer" faz essa função.
 
 Justificativas:
 
-a\) Incorreta. O primeiro parágrafo é apenas uma introdução da matéria.
+1. Incorreta. O primeiro parágrafo é apenas uma introdução da matéria.
 
-b\) Incorreta. Esta é uma citação direta, destacada entre aspas.
+1. Incorreta. Esta é uma citação direta, destacada entre aspas.
 
-c\) Incorreta. Esta é uma introdução à citação direta subsequente.
+1. Incorreta. Esta é uma introdução à citação direta subsequente.
 
 Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
@@ -2333,28 +2333,28 @@ favor.
 
 Não há bem que para sempre dure, e não há mal que dure para sempre.
 
-1\. A quem é atribuída a frase da imagem?
+1. A quem é atribuída a frase da imagem?
 
 Resposta: A Clarice Lispector.
 
-2\. Qual é a função dos elementos não verbais no caso desse texto?
+1. Qual é a função dos elementos não verbais no caso desse texto?
 
 Resposta: A imagem da lua tem a única função de chamar a atenção para a
 postagem. Ela não agrega nada para a frase.
 
-3\. De que maneira uma pessoa pode descobrir se essa frase é mesmo de
+1. De que maneira uma pessoa pode descobrir se essa frase é mesmo de
 Clarice Lispector? Há, na imagem, algo que forneça essa informação?
 
 Resposta: Para ter certeza, a pessoa pode pesquisar quem é Clarice
 Lispector e que tipo de frase é essa. A imagem em si não dá qualquer
 pista de que a frase é realmente da autora.
 
-4\. Que tipo de frase é essa? Em que contexto(s) ela circula?
+1. Que tipo de frase é essa? Em que contexto(s) ela circula?
 
 Resposta: A frase é um ditado popular, de autoria desconhecida. Ela
 circula de pessoa para pessoa, em muitos meios sociais específicos.
 
-5\. Caso essa frase fosse mesmo dessa autora, de que maneira ela deveria
+1. Caso essa frase fosse mesmo dessa autora, de que maneira ela deveria
 ser apresentada, para que o leitor não tenha dúvida quanto à autoria?
 
 Resposta: A frase deveria estar entre aspas e o nome da autora deveria
@@ -2387,78 +2387,78 @@ de julho de 2020. Disponível em:
 <https://rotacult.com.br/2020/07/opiniao-um-mito-chamado-frida-kahlo/?amp>.
 Acesso em: 10 mar. 2023. Adaptado.)
 
-6\. Escreva, ao lado das frases, se elas se referem a um fato ou a uma
+1. Escreva, ao lado das frases, se elas se referem a um fato ou a uma
 opinião sobre Frida Kahlo.
 
-a\) "Frida precisou reinventar-se." \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+1. "Frida precisou reinventar-se." \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-b\) "Para muita gente, o fascínio começa neste
+1. "Para muita gente, o fascínio começa neste
 ponto."\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-c\) "embora tivesse voltado a ter uma vida praticamente normal, houve
+1. "embora tivesse voltado a ter uma vida praticamente normal, houve
 uma mudança radical após o acidente."\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-d\) "Ela precisou usar espartilhos de gesso e de couro, muletas e pernas
+1. "Ela precisou usar espartilhos de gesso e de couro, muletas e pernas
 postiças."\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-e\) Algo que não é a coisa mais bonita de se
+1. Algo que não é a coisa mais bonita de se
 olhar.\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-f\) "Algo que no dia a dia não é
+1. "Algo que no dia a dia não é
 confortável."\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-g\) "a construção da imagem por meio da vestimenta, mostrou ser uma obra
+1. "a construção da imagem por meio da vestimenta, mostrou ser uma obra
 de arte à parte"\_\_\_\_\_\_\_\_\_\_\_\_
 
 Respostas:
 
-a\) "Frida precisou reinventar-se." fato
+1. "Frida precisou reinventar-se." fato
 
-b\) "Para muita gente, o fascínio começa neste ponto." opinião
+1. "Para muita gente, o fascínio começa neste ponto." opinião
 
-c\) "houve uma mudança radical após o acidente." fato
+1. "houve uma mudança radical após o acidente." fato
 
-d\) "Ela precisou usar espartilhos de gesso e de couro, muletas e pernas
+1. "Ela precisou usar espartilhos de gesso e de couro, muletas e pernas
 postiças." fato
 
-e\) "Algo que não é a coisa mais bonita de se olhar." opinião
+1. "Algo que não é a coisa mais bonita de se olhar." opinião
 
-f\) "Algo que no dia a dia não é confortável." opinião
+1. "Algo que no dia a dia não é confortável." opinião
 
-g\) "a construção da imagem por meio da vestimenta mostrou ser uma obra
+1. "a construção da imagem por meio da vestimenta mostrou ser uma obra
 de arte à parte." opinião
 
-7\. No primeiro parágrafo, o trecho "pintar as coisas que via com seus
+1. No primeiro parágrafo, o trecho "pintar as coisas que via com seus
 próprios olhos" está entre aspas porque
 
-a\) é uma frase dita por um(a) especialista em Frida Kahlo.
+1. é uma frase dita por um(a) especialista em Frida Kahlo.
 
-b\) é uma paráfrase em que a autora recria o relato que muitos
+1. é uma paráfrase em que a autora recria o relato que muitos
 historiadores descrevem.
 
-c\) a autora pretender dar um destaque a um trecho que ela considera
+1. a autora pretender dar um destaque a um trecho que ela considera
 importante para o entendimento do leitor.
 
-d\) a frase está em sentido figurado, ou seja, não é um fato sobre a
+1. a frase está em sentido figurado, ou seja, não é um fato sobre a
 vida de Frida, e sim uma opinião.
 
 Resposta: b. A frase é uma paráfrase.
 
 Justificativas:
 
-a\) Incorreta. O texto não apresenta entrevista ou mesmo citação
+1. Incorreta. O texto não apresenta entrevista ou mesmo citação
 indireta de qualquer especialista em Frida Kahlo.
 
-c\) Incorreta. O destaque dado à frase, na verdade, é uma paráfrase em
+1. Incorreta. O destaque dado à frase, na verdade, é uma paráfrase em
 que a autora reproduz falas comuns atribuídas a historiadores. Ela
 utiliza suas próprias palavras, porém destacando que a frase é de outra
 pessoa.
 
-d\) Incorreto. A frase é um fato sobre Frida. Embora esteja escrito em
+1. Incorreto. A frase é um fato sobre Frida. Embora esteja escrito em
 sentido figurado, é fato que a partir do acidente Frida passou a pintar
 aquilo que sentia.
 
-8\. Leia a definição da palavra mito, segundo o dicionário Michaelis:
+1. Leia a definição da palavra mito, segundo o dicionário Michaelis:
 
 "Uma pessoa ou um fato cuja existência, presente na imaginação das
 pessoas, não pode ser comprovada; ficção."
@@ -2469,7 +2469,7 @@ uma pessoa real, de mito?
 Resposta: O intuito é comparar a história de vida da autora com uma
 história de ficção, quase inacreditável.
 
-9\. Releia o trecho: "E, no entanto, a construção da imagem por meio da
+1. Releia o trecho: "E, no entanto, a construção da imagem por meio da
 vestimenta mostrou ser uma obra de arte à parte, algo que nenhum outro
 artista havia feito até então, partindo de uma necessidade interna de
 reafirmar sua feminilidade."
@@ -2490,7 +2490,7 @@ foi incrível, maravilhoso.
 
 **TREINO**
 
-1\. Leia o trecho de uma resenha crítica sobre o gibi "Turma da Mônica
+1. Leia o trecho de uma resenha crítica sobre o gibi "Turma da Mônica
 Jovem":
 
 "*Turma da Mônica Jovem: Mudando o Jogo* tem um enredo simples, bem
@@ -2505,25 +2505,25 @@ Acesso em: mar. 2023. Adaptado.)
 
 A alternativa que NÃO remete a uma opinião da autora é:
 
-a\) tem um enredo simples
+1. tem um enredo simples
 
-b\) e eu queria mais
+1. e eu queria mais
 
-c\) é satisfatório ver
+1. é satisfatório ver
 
-d\) mas com certo amadurecimento
+1. mas com certo amadurecimento
 
 Resposta: d. O fato de as personagens apresentarem certo amadurecimento
 não é uma opinião da resenhista, e sim uma constatação.
 
 Justificativas:
 
-a\) Incorreta. A resenhista considera o enredo simples, mas pode não ser
+1. Incorreta. A resenhista considera o enredo simples, mas pode não ser
 simples para outras pessoas.
 
-b\) Incorreta. Querer ler mais é uma opinião da autora.
+1. Incorreta. Querer ler mais é uma opinião da autora.
 
-c\) Incorreta. É satisfatório para a autora ver que a personalidade das
+1. Incorreta. É satisfatório para a autora ver que a personalidade das
 personagens se mantém.
 
 Saeb: Distinguir fatos de opiniões em textos.
@@ -2532,7 +2532,7 @@ BNCC: EF67LP04
 
 Nível: médio
 
-2\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 **O Brasil precisa do SUS: lançada campanha nacional de defesa do
 Sistema Único de Saúde**
@@ -2555,25 +2555,25 @@ mar. 2023. Adaptado.)
 
 A palavra **imprescindível**, no primeiro parágrafo, é
 
-a\) uma opinião da especialista entrevistada.
+1. uma opinião da especialista entrevistada.
 
-b\) uma opinião da jornalista que escreveu a matéria.
+1. uma opinião da jornalista que escreveu a matéria.
 
-c\) um fato sobre o SUS, justificado pela especialista.
+1. um fato sobre o SUS, justificado pela especialista.
 
-d\) um fato sobre o SUS, checado pela jornalista.
+1. um fato sobre o SUS, checado pela jornalista.
 
 Resposta: a. A entrevistada considera o SUS imprescindível para o país.
 
 Justificativas:
 
-b\) Incorreta. A jornalista não exprime sua opinião na matéria.
+1. Incorreta. A jornalista não exprime sua opinião na matéria.
 
-c\) Incorreta. A reportagem fala sobre a importância do SUS no ponto de
+1. Incorreta. A reportagem fala sobre a importância do SUS no ponto de
 vista de uma especialista que o defende, o que pode não ser a opinião de
 todas as pessoas.
 
-d\) Incorreta. A jornalista reproduz, por citação direta e indireta, a
+1. Incorreta. A jornalista reproduz, por citação direta e indireta, a
 opinião da especialista.
 
 Saeb: Distinguir fatos de opiniões em textos.
@@ -2582,7 +2582,7 @@ BNCC: EF67LP04
 
 Nível: fácil
 
-3\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 **Conheça a campanha Acabar com o Bullying \#ÉDaMinhaConta**
 
@@ -2605,13 +2605,13 @@ Acesso em: mar. 2023. Adaptado.)
 
 De acordo com o texto, é um fato sobre a campanha:
 
-a\) que o bullying é responsabilidade de todos.
+1. que o bullying é responsabilidade de todos.
 
-b\) adolescentes e jovens são os responsáveis pelo bullying.
+1. adolescentes e jovens são os responsáveis pelo bullying.
 
-c\) educar as novas gerações para um uso positivo das redes é urgente.
+1. educar as novas gerações para um uso positivo das redes é urgente.
 
-d\) acabar com o bullying \#édaminhaconta foi desenvolvida em parceria
+1. acabar com o bullying \#édaminhaconta foi desenvolvida em parceria
 com Facebook e Instagram.
 
 Resposta: d. Sobre a campanha especificamente, a informação trazida no
@@ -2620,13 +2620,13 @@ Facebook.
 
 Justificativas:
 
-a\) Incorreta. É objetivo da campanha conscientizar as novas gerações
+1. Incorreta. É objetivo da campanha conscientizar as novas gerações
 sobre o bullying.
 
-b\) Incorreta. A campanha visa conscientizar adolescentes e jovens, mas
+1. Incorreta. A campanha visa conscientizar adolescentes e jovens, mas
 não necessariamente o bullying é responsabilidade apenas desse grupo.
 
-c\) Incorreta. Esta é uma opinião do especialista, e não objetivo da
+1. Incorreta. Esta é uma opinião do especialista, e não objetivo da
 campanha.
 
 Saeb: Distinguir fatos de opiniões em textos.
@@ -2710,38 +2710,38 @@ https://br.freepik.com/fotos-gratis/meninas-bonitas-compra-paes-na-padaria\_5557
 
 Texto da tira: MOÇA, ESTA BAGUETE É DE HOJE? NÃO, É DE PARMESÃO.
 
-1\. Na cena, o humor está presente
+1. Na cena, o humor está presente
 
-a\) no fato de a atendente não saber o que é baguete.
+1. no fato de a atendente não saber o que é baguete.
 
-b\) na ambiguidade presente na pergunta da cliente.
+1. na ambiguidade presente na pergunta da cliente.
 
-c\) no fato de a atendente não ouvir direito a pergunta.
+1. no fato de a atendente não ouvir direito a pergunta.
 
-d\) na simpatia da atendente ao fazer uma piada.
+1. na simpatia da atendente ao fazer uma piada.
 
 Resposta: b. O humor está presente na ambiguidade da pergunta feita pela
 cliente.
 
 Justificativas:
 
-a\) Incorreta. Em nenhum momento a tirinha dá a impressão de que a
+1. Incorreta. Em nenhum momento a tirinha dá a impressão de que a
 atendente não sabe o que é baguete.
 
-c\) Incorreta. A atendente ouve a pergunta, porém entende-a de forma
+1. Incorreta. A atendente ouve a pergunta, porém entende-a de forma
 ambígua.
 
-d\) Incorreta. Mesmo que a atendente fizesse uma piada proposital, o
+1. Incorreta. Mesmo que a atendente fizesse uma piada proposital, o
 humor desta residiria no fato de a pergunta ter sido ambígua.
 
-2\. Explique a ambiguidade presente no texto.
+1. Explique a ambiguidade presente no texto.
 
 Resposta: A ambiguidade está no modo como objeto indireto "de" é usado.
 Ao perguntar se a baguete é de hoje, a cliente quer saber se o pão foi
 feito naquele dia. Já a atendente entende que ela se referia ao sabor do
 pão, então responde que é de parmesão.
 
-3\. Reescreva o texto, de modo a excluir qualquer possibilidade de
+1. Reescreva o texto, de modo a excluir qualquer possibilidade de
 ambiguidade.
 
 Resposta:
@@ -2769,7 +2769,7 @@ porque gastronomia é moda."
 <https://www.marinacolasanti.com/2015/06/cronica-de-quinta-bigodoes-e-talheres.html>.
 Acesso em: 10 mar. 2023. Adaptado.)
 
-4\. De acordo com a leitura, qual é a diferença entre comida e
+1. De acordo com a leitura, qual é a diferença entre comida e
 gastronomia?
 
 Resposta: Comida é a forma como as pessoas se referiam ao alimento no
@@ -2777,7 +2777,7 @@ dia a dia, para matar a fome. Com a modernidade, as pessoas não querem
 mais apenas comer, querem gastronomia, ou seja, comer de um jeito chique
 e, consequentemente, pagando mais.
 
-5\. Identifique, no texto, em quais trechos a autora é irônica.
+1. Identifique, no texto, em quais trechos a autora é irônica.
 
 Resposta: Pode-se identificar ironia nas seguintes passagens: "Nas
 casas, a bem da verdade, consome-se mais gastronomia na TV, do que à
@@ -2785,7 +2785,7 @@ mesa"; "que eu saiba, ainda não foi inventada a pizza gastronômica de
 encomenda"; "Mas na hora de escolher um restaurante, vamos de
 gastronômicos até onde o bolso alcança".
 
-6\. Ao dizer que "nas casas consome-se mais gastronomia na TV", o que a
+1. Ao dizer que "nas casas consome-se mais gastronomia na TV", o que a
 autora quer dizer?
 
 Resposta: A autora quer dizer que somos mais seletivos em casa, com o
@@ -2802,13 +2802,13 @@ height="2.5973075240594925in"}
 Texto: Márcia do céu, você não acredita! A almofada explodiu, menina!
 Veio com defeito, com certeza\...
 
-7\. A tira é construída com uma só cena e contendo apenas uma
+1. A tira é construída com uma só cena e contendo apenas uma
 personagem: o cachorro. Porém, em seu discurso ele interage com mais
 alguém. Quem é essa pessoa e o que ela representa?
 
 Resposta: O cachorro interage com a Márcia, que seria a dona dele.
 
-8\. Quais elementos demonstram que o cão tem uma relação de proximidade
+1. Quais elementos demonstram que o cão tem uma relação de proximidade
 com a Márcia?
 
 Resposta: O fato de o cachorro estar na mesma casa que ela, sentado no
@@ -2822,7 +2822,7 @@ ela havia explodido porque veio com defeito.
 
 **TREINO**
 
-1\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 **Afinal, onde fica o beleléu?**
 
@@ -2843,13 +2843,13 @@ Acesso em: mar. 2023.)
 
 O efeito de humor do texto se encontra no(a)
 
-a\) fato de não se saber o que significa beleléu.
+1. fato de não se saber o que significa beleléu.
 
-b\) explicação de que é um eufemismo para morte.
+1. explicação de que é um eufemismo para morte.
 
-c\) fato de beleléu ser uma palavra que imita um som.
+1. fato de beleléu ser uma palavra que imita um som.
 
-d\) fato de a pessoa ficar pensando na palavra beleléu.
+1. fato de a pessoa ficar pensando na palavra beleléu.
 
 Resposta: d. O efeito de humor é apresentado na linha fina do texto,
 quando a pessoa informa que há décadas fica pensando no "bendito do
@@ -2857,13 +2857,13 @@ beleléu".
 
 Justificativas:
 
-a\) Incorreta. A origem do termo é obscura, mas esse é um fato sobre a
+1. Incorreta. A origem do termo é obscura, mas esse é um fato sobre a
 palavra e não o que dá o humor do texto.
 
-b\) Incorreta. O texto explica que é um eufemismo para a morte, mas não
+1. Incorreta. O texto explica que é um eufemismo para a morte, mas não
 é isso que provoca o humor.
 
-c\) Incorreta. O fato de ser uma possível onomatopeia não provoca por si
+1. Incorreta. O fato de ser uma possível onomatopeia não provoca por si
 só o efeito de humor ao texto.
 
 Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
@@ -2873,7 +2873,7 @@ BNCC: EF69LP05
 
 Nível: médio
 
-2\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 ![Interface gráfica do usuário, Aplicativo Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image12.png){width="3.4166666666666665in"
@@ -2885,13 +2885,13 @@ Acesso em: mar. 2023.
 
 O efeito de humor da tira é dado por meio
 
-a\) da fala irônica do Sol, no primeiro quadrinho.
+1. da fala irônica do Sol, no primeiro quadrinho.
 
-b\) da fala ambígua do Sol, no segundo quadrinho.
+1. da fala ambígua do Sol, no segundo quadrinho.
 
-c\) da fala irônica do Sol, no segundo quadrinho.
+1. da fala irônica do Sol, no segundo quadrinho.
 
-d\) da mudança na expressão facial dos planetas.
+1. da mudança na expressão facial dos planetas.
 
 Resposta: b. O humor da tirinha acontece quando o Sol fala que vai levar
 os amigos com ele quando ele morrer. Ou seja, significa que ele vai
@@ -2899,10 +2899,10 @@ os amigos com ele quando ele morrer. Ou seja, significa que ele vai
 
 Justificativas:
 
-a\) e c) Incorretas. A fala do sol não é irônica em nenhum dos
+1. e c) Incorretas. A fala do sol não é irônica em nenhum dos
 quadrinhos. Percebe-se que ele usa ambiguidade, mas de modo inocente.
 
-d\) Incorreta. A mudança na expressão dos planetas ocorre como resposta
+1. Incorreta. A mudança na expressão dos planetas ocorre como resposta
 à fala do sol que dá o efeito de humor da tira.
 
 Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
@@ -2912,7 +2912,7 @@ BNCC: EF69LP05
 
 Nível: difícil
 
-3\. Observe a campanha publicitária a seguir.
+1. Observe a campanha publicitária a seguir.
 
 ![Nenhuma descrição de foto
 disponível.](./imgSAEB_6_POR/media/image19.jpeg){width="3.4722222222222223in"
@@ -2924,13 +2924,13 @@ Acesso em: mar. 2023.
 
 O que explica o efeito de humor da publicidade é
 
-a\) a ironia presente no texto.
+1. a ironia presente no texto.
 
-b\) o uso do verbo no imperativo.
+1. o uso do verbo no imperativo.
 
-c\) a foto da cova somada ao comando dado no verbo.
+1. a foto da cova somada ao comando dado no verbo.
 
-d\) a ambiguidade presente no uso da palavra "enterre".
+1. a ambiguidade presente no uso da palavra "enterre".
 
 Resposta: c. Por ser uma publicidade veiculada por um cemitério, a foto
 da cova somada ao verbo "enterrar" fornece o efeito de humor da
@@ -2938,12 +2938,12 @@ campanha.
 
 Justificativas:
 
-a\) Incorreta. Não há ironia no texto.
+1. Incorreta. Não há ironia no texto.
 
-b\) Incorreta. O verbo no imperativo é algo comum às campanhas
+1. Incorreta. O verbo no imperativo é algo comum às campanhas
 publicitárias.
 
-d\) Incorreta. Há humor na ambiguidade de sentido do verbo enterre,
+1. Incorreta. Há humor na ambiguidade de sentido do verbo enterre,
 porém, o efeito de humor da campanha se dá com a combinação de texto e
 imagem.
 
@@ -3151,22 +3151,22 @@ automaticamente com confiança
 média](./imgSAEB_6_POR/media/image22.png){width="5.045626640419948in"
 height="1.4761898512685914in"}
 
-1\. Qual é a temática comum entre as manchetes?
+1. Qual é a temática comum entre as manchetes?
 
 Resposta: O compartilhamento de senhas na Netflix.
 
-2\. Qual das três manchetes apresenta um texto com informações mais
+1. Qual das três manchetes apresenta um texto com informações mais
 claras e objetivas relacionadas ao tema?
 
 Resposta: A manchete do Texto 2.
 
-3\. É possível saber qual das três manchetes apresenta a notícia mais
+1. É possível saber qual das três manchetes apresenta a notícia mais
 recente? Justifique sua resposta.
 
 Resposta: Não é possível saber, pois o Texto 2 apresenta a data de "um
 mês atrás", e não se sabe a qual mês ele se refere.
 
-4\. O Texto 1 e o Texto 3 foram divulgados pelo mesmo veículo, mas
+1. O Texto 1 e o Texto 3 foram divulgados pelo mesmo veículo, mas
 apresentam algumas diferenças. Qual das duas manchetes fornece dados
 mais confiáveis ao leitor? Por quê?
 
@@ -3174,7 +3174,7 @@ Resposta: A manchete do Texto 3 apresenta informações que geram mais
 confiança, pois além de ter uma linguagem mais formal, no título ela já
 anuncia que há regras para o compartilhamento de senhas.
 
-5\. Qual das manchetes apresenta viés de opinião pessoal? Em quais
+1. Qual das manchetes apresenta viés de opinião pessoal? Em quais
 trechos é possível identificar isso?
 
 Resposta: Na manchete do Texto 1. O autor da notícia se refere ao
@@ -3184,14 +3184,14 @@ usuário da Netflix. No subtítulo da matéria, ele também informa que as
 pessoas compartilhas senhas com amigos e parentes, dando a entender que
 sabe de que maneira essa prática funciona.
 
-6\. Nos três textos o leitor pode inferir que a prática de compartilhar
+1. Nos três textos o leitor pode inferir que a prática de compartilhar
 senhas é errada. Em qual deles isso é trazido como uma certeza? Em que
 trecho é possível identificar essa informação?
 
 Resposta: No texto 2. O subtítulo da manchete apresenta a informação de
 que a prática é irregular e vedada em contrato.
 
-7\. No Texto 3, a manchete apresenta inicia-se com um aposto
+1. No Texto 3, a manchete apresenta inicia-se com um aposto
 explicativo: "**Sim**, Netflix vai cobrar mais de quem divide senha em
 2023". Que efeito de sentido essa escolha lexical provoca no leitor?
 
@@ -3199,12 +3199,12 @@ Resposta: O "Sim" afirma ao leitor que a notícia é de fato verdadeira,
 que foi conferida, ou seja, que a Netflix vai mesmo cobrar pelo
 compartilhamento de senhas.
 
-8\. No Texto 3, qual termo é utilizado para informar que o
+1. No Texto 3, qual termo é utilizado para informar que o
 compartilhamento de senhas é uma prática irregular?
 
 Resposta: O termo utilizado é "combater".
 
-9\. Considerando as informações apresentadas nas manchetes e linhas
+1. Considerando as informações apresentadas nas manchetes e linhas
 finas dos três textos, redija uma manchete e uma linha fina que
 apresente informações precisas para o leitor ser qualquer viés de
 opinião.
@@ -3228,7 +3228,7 @@ a fonte das informações.
 
 **TREINO**
 
-1\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 \"Pai de pet\": faz mal à saúde mental tratar animal de estimação como
 filho?
@@ -3256,16 +3256,16 @@ Acesso em: mar. 2023. Adaptado.)
 
 Assinale a alternativa correta sobre a escolha do título do texto.
 
-a\) A resposta à pergunta do título é dada a partir do ponto de vista do
+1. A resposta à pergunta do título é dada a partir do ponto de vista do
 autor do texto.
 
-b\) A pergunta no título tem o intuito de gerar uma reflexão no leitor
+1. A pergunta no título tem o intuito de gerar uma reflexão no leitor
 do texto.
 
-c\) Apresenta um viés pejorativo, o que pode ser comprovado pelo uso de
+1. Apresenta um viés pejorativo, o que pode ser comprovado pelo uso de
 aspas.
 
-d\) Traz uma pergunta de senso comum, já que muitas pessoas tratam
+1. Traz uma pergunta de senso comum, já que muitas pessoas tratam
 animais como filhos.
 
 Resposta: d. O título é uma pergunta pertinente e de senso comum, pois
@@ -3273,13 +3273,13 @@ muitas pessoas consideram pets como filhos.
 
 Justificativas:
 
-a\) Incorreta. A resposta, dada no primeiro parágrafo, não é a opinião
+1. Incorreta. A resposta, dada no primeiro parágrafo, não é a opinião
 do autor, e sim uma explicação técnica.
 
-b\) Incorreta. A pergunta é assertiva é não tem o intuito de gerar
+1. Incorreta. A pergunta é assertiva é não tem o intuito de gerar
 reflexão, uma vez que a resposta já é fornecida no primeiro parágrafo.
 
-c\) Incorreta. A expressão está entre aspas porque "pai de pet" é um
+1. Incorreta. A expressão está entre aspas porque "pai de pet" é um
 termo comum apenas a pessoas que o conhecem.
 
 Saeb: Analisar marcas de parcialidade em textos jornalísticos.
@@ -3288,7 +3288,7 @@ BNCC: EF67LP04
 
 Nível: médio
 
-2\. Observe os dois títulos a seguir.
+1. Observe os dois títulos a seguir.
 
 **Título 1**
 
@@ -3309,13 +3309,13 @@ height="0.7076388888888889in"}
 <https://www.patasdacasa.com.br/noticia/dia-dos-pais-como-e-a-vida-e-rotina-de-um-pai-de-pet_a1893/1>.
 Acesso em mar. 2023.)
 
-a\) Ambos os títulos apresentam o ponto de vista do veículo.
+1. Ambos os títulos apresentam o ponto de vista do veículo.
 
-b\) Somente o Título 2 apresenta o ponto de vista do veículo.
+1. Somente o Título 2 apresenta o ponto de vista do veículo.
 
-c\) Somente o Título 1 apresenta o ponto de vista do veículo.
+1. Somente o Título 1 apresenta o ponto de vista do veículo.
 
-d\) Nenhum dos títulos apresenta o ponto de vista do veículo.
+1. Nenhum dos títulos apresenta o ponto de vista do veículo.
 
 Resposta: b. O Título 2 apresenta o ponto de vista do veículo ao
 confirmar que pessoas são pais de pet, admitindo que há uma rotina para
@@ -3323,12 +3323,12 @@ essas pessoas.
 
 Justificativas:
 
-a\) Incorreta. Apenas o Título 2 apresenta o ponto de vista do veículo.
+1. Incorreta. Apenas o Título 2 apresenta o ponto de vista do veículo.
 
-c\) Incorreta. O Título 1 apresenta o tema da matéria por meio de uma
+1. Incorreta. O Título 1 apresenta o tema da matéria por meio de uma
 pergunta reflexiva, sem se posicionar a respeito dela.
 
-d\) Incorreta. O Título 2 apresenta sim um ponto de vista a respeito do
+1. Incorreta. O Título 2 apresenta sim um ponto de vista a respeito do
 tema da matéria.
 
 Saeb: Analisar marcas de parcialidade em textos jornalísticos.
@@ -3337,7 +3337,7 @@ BNCC: EF67LP03
 
 Nível: difícil
 
-2\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 **Nova Iorque/Genebra, Brasília, 10 de junho de 2021 --** O número de
 crianças e adolescentes em situação de trabalho infantil chegou a 160
@@ -3358,26 +3358,26 @@ Acesso em: mar. 2023. Adaptado.)
 
 O trecho que reapresenta um ponto de vista é
 
-a\) "outros 8,9 milhões correm o risco de ingressar nessa situação até
+1. "outros 8,9 milhões correm o risco de ingressar nessa situação até
 2022".
 
-b\) "uma nova geração de crianças é colocada em risco".
+1. "uma nova geração de crianças é colocada em risco".
 
-c\) "As novas estimativas são um alerta.".
+1. "As novas estimativas são um alerta.".
 
-d\) "Não podemos ficar parados".
+1. "Não podemos ficar parados".
 
 Resposta: d. É um posicionamento do diretor-geral da OIT que não podemos
 ficar parados diante dos dados apresentados sobre o trabalho infantil.
 
 Justificativas:
 
-a\) Incorreta. O trecho apresenta uma possibilidade real de acontecer,
+1. Incorreta. O trecho apresenta uma possibilidade real de acontecer,
 mediante um fato apresentado.
 
-b\) Incorreta. O trecho apresenta um fato constatado após um a pesquisa.
+1. Incorreta. O trecho apresenta um fato constatado após um a pesquisa.
 
-c\) Incorreta. As estimativas são um alerta. O especialista apenas
+1. Incorreta. As estimativas são um alerta. O especialista apenas
 menciona que os dados são um alerta, mas sem colocar seu julgamento de
 valor.
 
@@ -3452,50 +3452,50 @@ que seguem vamos destrinchar o estudo de modalizadores no intuito de
 desenvolver habilidades de identificação e efeito de sentido nas frases,
 com particular atenção a textos de impacto social.
 
-1\. Leia as frases a seguir e classifique o posicionamento do enunciador
+1. Leia as frases a seguir e classifique o posicionamento do enunciador
 quanto à **possibilidade**, **certeza** ou **obrigatoriedade**.
 
-a\. É indiscutivelmente possível viajar para qualquer lugar do mundo
+1. É indiscutivelmente possível viajar para qualquer lugar do mundo
 tendo bastante dinheiro. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-b\. Peça para sua mãe deixar você dormir na minha casa.
+1. Peça para sua mãe deixar você dormir na minha casa.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-c\. Talvez eu vá ao jogo sexta-feira.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+1. Talvez eu vá ao jogo sexta-feira.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-d\. Compre em até 10x sem juros.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+1. Compre em até 10x sem juros.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-e\. Não tenho certeza se vou à festa
+1. Não tenho certeza se vou à festa
 amanhã.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-f\. Se eu conseguir chegar a tempo, vou à sua casa ainda
+1. Se eu conseguir chegar a tempo, vou à sua casa ainda
 hoje.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-g\. É proibido fumar neste lugar.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+1. É proibido fumar neste lugar.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-h\. Não é permitido entrar com animais neste
+1. Não é permitido entrar com animais neste
 estabelecimento.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Respostas:
 
-a\. É indiscutivelmente possível viajar para qualquer lugar do mundo
+1. É indiscutivelmente possível viajar para qualquer lugar do mundo
 tendo bastante dinheiro. certeza
 
-b\. Peça para sua mãe deixar você dormir na minha casa.
+1. Peça para sua mãe deixar você dormir na minha casa.
 obrigatoriedade/possibilidade
 
-c\. Talvez eu vá ao jogo sexta-feira. possibilidade
+1. Talvez eu vá ao jogo sexta-feira. possibilidade
 
-d\. Compre em até 10x sem juros. obrigatoriedade/possibilidade
+1. Compre em até 10x sem juros. obrigatoriedade/possibilidade
 
-e\. Não tenho certeza se vou à festa amanhã. possibilidade
+1. Não tenho certeza se vou à festa amanhã. possibilidade
 
-f\. Se eu conseguir chegar a tempo, vou à sua casa ainda hoje.
+1. Se eu conseguir chegar a tempo, vou à sua casa ainda hoje.
 possibilidade
 
-g\. É proibido fumar neste lugar. certeza
+1. É proibido fumar neste lugar. certeza
 
-h\. Não é permitido entrar com animais neste estabelecimento. certeza
+1. Não é permitido entrar com animais neste estabelecimento. certeza
 
 Dica para o professor: Neste exercício o objetivo é que os alunos
 percebam o posicionamento sem analisar a fundo contextos. Algumas
@@ -3538,14 +3538,14 @@ Jornal da USP, publicado em 9 de set. 2019. Disponível em: \<
 <https://jornal.usp.br/cultura/para-tempos-sombrios-a-solucao-e-a-fantasia/>\>.
 Acesso em: mar. 2023. Adaptado.)
 
-2\. No primeiro parágrafo do texto, o autor utiliza como modalizador do
+1. No primeiro parágrafo do texto, o autor utiliza como modalizador do
 discurso uma mesma conjunção, porém em algumas ocorrências distintas.
 Qual é esse modalizador e que intenção ele representa?
 
 Resposta: O modalizador utilizado é a conjunção "se", que, em todas as
 ocorrências do parágrafo, indicam uma condição.
 
-3\. No segundo parágrafo, o autor da resenha crítica apresenta sua
+1. No segundo parágrafo, o autor da resenha crítica apresenta sua
 opinião sobre a história. Em qual trecho isso aparece e qual termo ele
 utiliza para fazer um julgamento de valor?
 
@@ -3554,13 +3554,13 @@ história é um tanto simplista, mas tem sua beleza.". O termo que ele
 utiliza para deixar explícito esse julgamento de valor é o adjetivo
 "simplista".
 
-4\. Ainda no segundo parágrafo, no trecho "clichê, mas aceitável", ele
+1. Ainda no segundo parágrafo, no trecho "clichê, mas aceitável", ele
 demostra outro julgamento de valor. A quem ele se refere?
 
 Resposta: Ele se refere ao fato de a personagem ser um músico amador em
 busca do sucesso.
 
-5\. No segundo parágrafo, o resenhista informa que o músico da história
+1. No segundo parágrafo, o resenhista informa que o músico da história
 acorda no hospital "em um mundo **muito estranho**". Isso é uma opinião
 do autor ou uma verdade que aparece no filme? O que justifica a escolha
 desse adjetivo pelo autor?
@@ -3568,7 +3568,7 @@ desse adjetivo pelo autor?
 Resposta: Isso é uma opinião do autor, porque, para ele, é muito
 estranho um mundo em que as pessoas não conheçam os Beatles.
 
-6\. Releia o início do terceiro parágrafo do texto:
+1. Releia o início do terceiro parágrafo do texto:
 
 "Entre canções assobiáveis há décadas, desencontros e encontros
 improváveis, mas tocantes -- a vontade de dar *spoiler* aqui se torna
@@ -3589,38 +3589,38 @@ Resposta:
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Apresenta canções conhecidas, desencontros e encontros improváveis, filme que caminha na forma clássica das comédias românticas, filme que embala, diverte e rende conversas no pós-crédito.   Canções assobiáveis há décadas, encontros e desencontros improváveis, mas tocantes; vontade de dar spoiler quase incontornável; o filme rende conversas animadas no pós-crédito.
 
-7\. Analise as frases extraídas do texto. Depois, analise o modalizador
+1. Analise as frases extraídas do texto. Depois, analise o modalizador
 em destaque e classifique-o quanto a ser uma condição ou uma certeza.
 
-a\) Mas fica a pergunta: e **[se]{.underline}** os Beatles nunca
+1. Mas fica a pergunta: e **[se]{.underline}** os Beatles nunca
 tivessem, **[de fato]{.underline}**, existido?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-b\) Um músico amador, que vive no interior da Inglaterra, sofre um
+1. Um músico amador, que vive no interior da Inglaterra, sofre um
 acidente quando sua bicicleta é atropelada no **[exato]{.underline}**
 momento em que o mundo todo sofre um apagão.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-c\) A vontade de dar *spoiler* se torna **[quase]{.underline}**
+1. A vontade de dar *spoiler* se torna **[quase]{.underline}**
 **[incontornável]{.underline}**.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-d\) **[Não precisamos]{.underline}** disso.
+1. **[Não precisamos]{.underline}** disso.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Respostas:
 
-a\) se = condição; de fato = certeza
+1. se = condição; de fato = certeza
 
-b\) exato = certeza
+1. exato = certeza
 
-c\) quase = condição; incontornável = certeza
+1. quase = condição; incontornável = certeza
 
-d\) Não precisamos = certeza.
+1. Não precisamos = certeza.
 
 Leia a campanha de incentivo à leitura, a seguir, para responder às
 questões 8 a 10.
@@ -3632,13 +3632,13 @@ height="3.038461286089239in"}
 Fonte:
 <https://torres.rs.gov.br/2018/07/27/vem-ai-o-projeto-esqueca-um-livro-com-o-proposito-de-incentivar-a-leitura/>
 
-8\. O tempo verbal predominante na campanha é o imperativo afirmativo.
+1. O tempo verbal predominante na campanha é o imperativo afirmativo.
 Qual é a intenção comunicativa do texto?
 
 Resposta: A intenção é convencer o leitor a adotar a ideia da campanha,
 que é esquecer um livro em lugares públicos.
 
-9\. O verbo "realizada" qualifica um termo que o precede. Que termo é
+1. O verbo "realizada" qualifica um termo que o precede. Que termo é
 esse?
 
 Resposta: O termo é "ação".
@@ -3654,7 +3654,7 @@ estão aderindo à campanha.
 
 **TREINO**
 
-1\. Leia o cartaz a seguir.
+1. Leia o cartaz a seguir.
 
 ![Texto, Quadro de comunicações Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image26.jpeg){width="5.905555555555556in"
@@ -3663,13 +3663,13 @@ height="3.2263888888888888in"}
 Em "Bullying não tem graça", o advérbio "não" demonstra que o
 **posicionamento do enunciador**, ou seja, quem divulga a campanha, é de
 
-a\) negação.
+1. negação.
 
-b\) certeza.
+1. certeza.
 
-c\) condição.
+1. condição.
 
-d\) possibilidade.
+1. possibilidade.
 
 Resposta: b. Embora seja um advérbio de negação, enquanto modalizador do
 discurso ele funciona como um reforço de certeza, afirmação, no
@@ -3677,13 +3677,13 @@ enunciado de que Bullying não é legal.
 
 Justificativas:
 
-a\) Incorreta. O advérbio de negação, aqui, não nega o posicionamento do
+1. Incorreta. O advérbio de negação, aqui, não nega o posicionamento do
 enunciador da campanha, pelo contrário, ele o afirma.
 
-c\) Incorreta. Não existe uma condição para que o enunciador considere o
+1. Incorreta. Não existe uma condição para que o enunciador considere o
 bullying legal ou não.
 
-d\) Incorreta. Não é uma possibilidade o bullying ser ou não legal.
+1. Incorreta. Não é uma possibilidade o bullying ser ou não legal.
 
 Saeb: Analisar os efeitos de sentido produzidos pelo uso de
 modalizadores em textos diversos.
@@ -3692,7 +3692,7 @@ BNCC: EF69LP04
 
 Nível: fácil
 
-2\. Leia o trecho a seguir.
+1. Leia o trecho a seguir.
 
 **Jogos eletrônicos podem desenvolver dependência e prejudicar
 desenvolvimento infantil**
@@ -3723,16 +3723,16 @@ Acesso em: mar. 2023. Adaptado.)
 
 O termo "Em princípio" é usado pelo especialista a fim de
 
-a\) elencar mais de um posicionamento sobre o uso de jogos eletrônicos
+1. elencar mais de um posicionamento sobre o uso de jogos eletrônicos
 por crianças e adolescentes.
 
-b\) preparar o leitor para uma informação contraditória que ele irá
+1. preparar o leitor para uma informação contraditória que ele irá
 apresentar.
 
-c\) demonstrar ao leitor que irá começar a apresentar seu posicionamento
+1. demonstrar ao leitor que irá começar a apresentar seu posicionamento
 dali adiante.
 
-d\) apresentar em primeiro lugar o que ele pensa sobre um outro assunto,
+1. apresentar em primeiro lugar o que ele pensa sobre um outro assunto,
 antes de voltar ao tema do texto.
 
 Resposta: c. demonstrar ao leitor que irá começar a apresentar seu
@@ -3740,13 +3740,13 @@ posicionamento dali adiante.
 
 Justificativas:
 
-a\) Incorreta. O especialista coloca apenas um posicionamento: ele é a
+1. Incorreta. O especialista coloca apenas um posicionamento: ele é a
 favor da proibição em alguns casos.
 
-b\) Incorreta. O especialista não se contradiz. Ele é contraditório à
+1. Incorreta. O especialista não se contradiz. Ele é contraditório à
 proibição dos jogos.
 
-d\) Incorreta. O especialista fala apenas sobre um assunto: ele é contra
+1. Incorreta. O especialista fala apenas sobre um assunto: ele é contra
 a proibição, e justifica seu posicionamento.
 
 Saeb: Analisar os efeitos de sentido produzidos pelo uso de
@@ -3756,18 +3756,18 @@ BNCC: EF69LP04
 
 Nível: médio
 
-3\. "Em princípio, eu sou contra proibições, pois elas vão contra a
+1. "Em princípio, eu sou contra proibições, pois elas vão contra a
 liberdade das pessoas. A gente deveria conscientizá-las", afirma. Se o
 verbo "deveria" fosse substituído por "poderia", o efeito de sentido da
 frase seria de
 
-a\) condição.
+1. condição.
 
-b\) obrigação.
+1. obrigação.
 
-c\) permissão.
+1. permissão.
 
-d\) dúvida.
+1. dúvida.
 
 Resposta: a. Ao trocar o verbo "deveria", que exprime uma
 obrigatoriedade, por "poderia", a frase toma o sentido de condição, ou
@@ -3776,14 +3776,14 @@ circunstância.
 
 Justificativas:
 
-b\) Incorreta. O verbo "poderia" exprime possibilidade mediante
+1. Incorreta. O verbo "poderia" exprime possibilidade mediante
 condição. O verbo "dever" já está representando obrigatoriedade.
 
-c\) Incorreta. O verbo "poderia" não é usado para representar permissão,
+1. Incorreta. O verbo "poderia" não é usado para representar permissão,
 exceto se no caso de pergunta. Por exemplo: "Eu poderia conscientizar as
 pessoas?"
 
-d\) Incorreta. O verbo "poderia" não exprime dúvida, exceto se no caso
+1. Incorreta. O verbo "poderia" não exprime dúvida, exceto se no caso
 de pergunta. Por exemplo: "Eu poderia conscientizar as pessoas?"
 
 Saeb: Analisar os efeitos de sentido produzidos pelo uso de
@@ -3925,21 +3925,21 @@ Leia o texto a seguir para responder às questões 1 a 4.
 automaticamente](./imgSAEB_6_POR/media/image27.jpeg){width="4.0787893700787405in"
 height="5.689394138232721in"}
 
-1\. Qual é o objetivo da campanha?
+1. Qual é o objetivo da campanha?
 
 Resposta: O objetivo é incentivar as pessoas a doarem sangue.
 
-2\. Que recursos a campanha utiliza para argumentar a favor dessa ideia?
+1. Que recursos a campanha utiliza para argumentar a favor dessa ideia?
 
 Resposta: A campanha compara o sangue doado a um presente.
 
-3\. Qual a importância da imagem utilizada na campanha?
+1. Qual a importância da imagem utilizada na campanha?
 
 Resposta: A imagem é um cartãozinho de "de -- para" na forma de uma gota
 de sangue. Ela complementa o texto no que diz respeito ao apelo visual
 da campanha.
 
-4\. Que figura de linguagem predomina na propaganda?
+1. Que figura de linguagem predomina na propaganda?
 
 Resposta: A metáfora é a figura predominante na campanha.
 
@@ -3952,51 +3952,51 @@ height="5.833838582677165in"}
 WESLEY. As crônicas de Wesley. Disponível em:
 <https://www.instagram.com/p/CpTRhacyAL8/>. Acesso em: mar. 2023.
 
-5\. Em "Acha que vamos vencer o interclasse este ano?", qual é a figura
+1. Em "Acha que vamos vencer o interclasse este ano?", qual é a figura
 de linguagem presente? O que a fala da personagem significa?
 
 Resposta: A figura de linguagem presente é a metonímia, ou seja, quando
 há substituição da parte pelo todo. O menino substitui a palavra
 "campeonato" pelo nome, "interclasse".
 
-6\. Em "Já sinto o cheiro da vitória!", qual é a figura de linguagem
+1. Em "Já sinto o cheiro da vitória!", qual é a figura de linguagem
 presente? O que a fala da personagem significa?
 
 Resposta: A figura de linguagem presente é a sinestesia. A personagem
 quis dizer que ele pressentia que iriam vencer o campeonato.
 
-7\. Em qual momento da história é possível identificar o efeito de humor
+1. Em qual momento da história é possível identificar o efeito de humor
 da tirinha? Quais recursos são usados para que isso aconteça?
 
 Resposta: No terceiro quadrinho, quando a personagem, cheira a própria
 axila. Os recursos usados são a imagem dela com o braço erguido,
 cheirando a si mesma, e a onomatopeia "snif, snif".
 
-8\. O que provoca o efeito de humor na tira?
+1. O que provoca o efeito de humor na tira?
 
 Resposta: O fato de a menina se chamar Vitória, e ter entendido que o
 garoto sentia o cheiro dela.
 
-9\. Assinale a alternativa que contém uma metáfora.
+1. Assinale a alternativa que contém uma metáfora.
 
-a\) Meu avô é sábio, grande, fantástico!
+1. Meu avô é sábio, grande, fantástico!
 
-b\) O jogo me causou muita dor na batata da perna.
+1. O jogo me causou muita dor na batata da perna.
 
-c\) Mariana tinha uma voz doce, delicada e macia.
+1. Mariana tinha uma voz doce, delicada e macia.
 
-d\) O bebê comeu o prato todo de papinha no almoço!
+1. O bebê comeu o prato todo de papinha no almoço!
 
 Resposta: b. Costuma-se utilizar o termo "batata da perna" para
 referir-se à panturrilha por comparação.
 
 Justificativas:
 
-a\) Incorreta. A figura de linguagem presente na frase é a gradação.
+1. Incorreta. A figura de linguagem presente na frase é a gradação.
 
-c\) Incorreta. A figura de linguagem presente na frase é a sinestesia.
+1. Incorreta. A figura de linguagem presente na frase é a sinestesia.
 
-d\) Incorreta. A figura de linguagem presente na frase é a metonímia.
+1. Incorreta. A figura de linguagem presente na frase é a metonímia.
 
 10\. Leia o texto a seguir.
 
@@ -4019,7 +4019,7 @@ sonhos, bolos".
 
 **TREINO**
 
-1\.
+1.
 
 E Chapeuzinho Amarelo, de tanto pensar no LOBO, de tanto sonhar com
 LOBO, de tanto esperar o LOBO, um dia topou com ele que era assim: carão
@@ -4033,25 +4033,25 @@ Horizonte: Autêntica, 2017.)
 A figura de linguagem representada no trecho pela repetição do fonema
 /bo/ é
 
-a\) onomatopeia.
+1. onomatopeia.
 
-b\) aliteração.
+1. aliteração.
 
-c\) pleonasmo.
+1. pleonasmo.
 
-d\) metáfora.
+1. metáfora.
 
 Resposta: b. Aliteração é a repetição de fonemas idênticos ou
 semelhantes para sugerir acusticamente algum elemento, ato, fenômeno.
 
 Justificativas:
 
-a\) Incorreta. Onomatopeia é a representação gráfica dos sons.
+1. Incorreta. Onomatopeia é a representação gráfica dos sons.
 
-c\) Incorreta. Pleonasmo é uma figura de linguagem que expressa a
+1. Incorreta. Pleonasmo é uma figura de linguagem que expressa a
 redundância.
 
-d\) Incorreta. Metáfora é uma comparação implícita entre duas coisas que
+1. Incorreta. Metáfora é uma comparação implícita entre duas coisas que
 têm características em comum.
 
 Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
@@ -4061,7 +4061,7 @@ BNCC: EF67LP38
 
 Nível: fácil.
 
-2\. Observe a publicidade do Greenpeace, a seguir.
+1. Observe a publicidade do Greenpeace, a seguir.
 
 ![Vista aérea de um campo Descrição gerada automaticamente com confiança
 média](./imgSAEB_6_POR/media/image29.jpeg){width="5.905555555555556in"
@@ -4070,26 +4070,26 @@ height="3.9722222222222223in"}
 O argumento utilizado na campanha que incentiva o combate ao
 desmatamento é
 
-a\) uma metáfora.
+1. uma metáfora.
 
-b\) um eufemismo.
+1. um eufemismo.
 
-c\) uma hipérbole.
+1. uma hipérbole.
 
-d\) uma personificação.
+1. uma personificação.
 
 Resposta: a) A campanha argumenta comparando a mata a um tabuleiro de
 xadrez, ou seja, uma metáfora.
 
 Justificativas:
 
-b\) Incorreta. O eufemismo utiliza-se de expressões para atenuar uma
+1. Incorreta. O eufemismo utiliza-se de expressões para atenuar uma
 ideia tida como agressiva ou desagradável.
 
-c\) Incorreta. A hipérbole é o exagero proposital para enfatizar uma
+1. Incorreta. A hipérbole é o exagero proposital para enfatizar uma
 ideia ou emoção.
 
-d\) Incorreta. A personificação consiste em atribuir características
+1. Incorreta. A personificação consiste em atribuir características
 humanas a seres e objetos inanimados.
 
 Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
@@ -4099,7 +4099,7 @@ BNCC: EF67LP38
 
 Nível: médio.
 
-3\. Leia um trecho de um artigo de opinião, a seguir.
+1. Leia um trecho de um artigo de opinião, a seguir.
 
 "Mas o pai da aviação continua sendo Santos Dumont, não Boeing, Airbus,
 Lockheed --- que cuidaram, investiram e fizeram **aquela saltitante
@@ -4113,25 +4113,25 @@ Acesso em: mar. 2023. Adaptado)
 O efeito de humor apresentado no trecho em destaque, "aquela saltitante
 criaturinha de bambu e seda", é dado por meio de
 
-a\) metáfora.
+1. metáfora.
 
-b\) personificação.
+1. personificação.
 
-c\) catacrese.
+1. catacrese.
 
-d\) metonímia.
+1. metonímia.
 
 Resposta: d. A criatura a que o texto se refere é o 14Bis, avião
 construído por Santos Dummont. A figura de linguagem é a metonímia.
 
 Justificativas:
 
-a\) Incorreta. Metáfora é uma comparação.
+1. Incorreta. Metáfora é uma comparação.
 
-b\) Incorreta. A personificação consiste em atribuir características
+1. Incorreta. A personificação consiste em atribuir características
 humanas a seres e objetos inanimados.
 
-c\) Incorreta. A catacrese ocorre quando uma palavra é usada de forma
+1. Incorreta. A catacrese ocorre quando uma palavra é usada de forma
 incorreta ou inapropriada, por falta de um termo mais adequado.
 
 Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
@@ -4212,42 +4212,42 @@ o desligado
 
 o que só tira nota alta
 
-1\. O texto está escrito em formato de meme. Reescreva o texto, na forma
+1. O texto está escrito em formato de meme. Reescreva o texto, na forma
 de discurso direto, inserindo as pontuações necessárias.
 
 Resposta: Todo grupinho da escola tem: o que faz cara de dó quando toma
 bronca, o que só ri, o que sempre faz piada, o que é bonzinho de
 verdade, o desligado e o que só tira nota alta.
 
-2\. Na frase "**todo** grupinho da escola tem", qual é o efeito de
+1. Na frase "**todo** grupinho da escola tem", qual é o efeito de
 sentido provocado pelo pronome em destaque?
 
 Resposta: "Todo" é um pronome indefinido, que traz ao texto a ideia de
 generalização: todo grupo tem um aluno com aquelas características,
 porém sem nomear um grupo específico.
 
-3\. Substitua os termos destacados a seguir por um sinônimo e um
+1. Substitua os termos destacados a seguir por um sinônimo e um
 antônimo.
 
-a\) o que faz **cara de dó**
+1. o que faz **cara de dó**
 
 Sinônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Antônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-b\) o que **só ri**
+1. o que **só ri**
 
 Sinônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Antônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-c\) o que é **bonzinho**
+1. o que é **bonzinho**
 
 Sinônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Antônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-d\) o que só **tira nota alta**
+1. o que só **tira nota alta**
 
 Sinônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -4257,23 +4257,23 @@ Respostas: Professor, algumas alternativas apresentam mais de uma
 possibilidade de resposta. Sugere-se, se possível, aproveitar a
 atividade para orientar o uso de um dicionário para consulta.
 
-a\) Sinônimo: cara de piedade
+1. Sinônimo: cara de piedade
 
 Antônimo: cada de sapeca
 
-b\) Sinônimo: cara de piedade
+1. Sinônimo: cara de piedade
 
 Antônimo: cada de sapeca
 
-c\) Sinônimo: cortês, gentil, solidário
+1. Sinônimo: cortês, gentil, solidário
 
 Antônimo: malvado
 
-d\) Sinônimo: inteligente
+1. Sinônimo: inteligente
 
 Antônimo: tira nota baixa
 
-4\. Um dos cachorrinhos representa um tipo de aluno considerado
+1. Um dos cachorrinhos representa um tipo de aluno considerado
 "desligado". Escreva uma frase que contenha um efeito de sentido
 **homônimo**, uma com efeito de sentido **antônimo** e outra com efeito
 de sentido **sinônimo** ao contexto em que foi empregado esse termo.
@@ -4293,25 +4293,25 @@ professora.
 
 Sinônimo: João é desatento, quase não presta atenção na professora.
 
-5\. Preencha corretamente as lacunas com os pronomes "eu" ou "mim".
+1. Preencha corretamente as lacunas com os pronomes "eu" ou "mim".
 
-a\) Comprei muitas frutas para \_\_\_\_\_ fazer uma sobremesa.
+1. Comprei muitas frutas para \_\_\_\_\_ fazer uma sobremesa.
 
-b\) Pode emprestar para \_\_\_\_\_\_\_\_ aquela borracha?
+1. Pode emprestar para \_\_\_\_\_\_\_\_ aquela borracha?
 
-c\) Este bolo é para \_\_\_\_\_\_\_\_\_ comer?
+1. Este bolo é para \_\_\_\_\_\_\_\_\_ comer?
 
-d\) Nada pode fazer para \_\_\_\_\_\_\_\_\_ ficar, infelizmente.
+1. Nada pode fazer para \_\_\_\_\_\_\_\_\_ ficar, infelizmente.
 
-e\) Entre \_\_\_\_\_\_ e você há um abismo de ressentimentos.
+1. Entre \_\_\_\_\_\_ e você há um abismo de ressentimentos.
 
-f\) Entre tu e \_\_\_\_\_\_\_\_ há muitos assuntos para serem tratados.
+1. Entre tu e \_\_\_\_\_\_\_\_ há muitos assuntos para serem tratados.
 
-g\) Pode fazer aquela comida gostosa para \_\_\_\_\_\_\_\_?
+1. Pode fazer aquela comida gostosa para \_\_\_\_\_\_\_\_?
 
 Respostas:
 
-a\) eu; b) mim; c) eu; d) eu; e) eu; f) eu; g) mim
+1. eu; b) mim; c) eu; d) eu; e) eu; f) eu; g) mim
 
 Leia um excerto da crônica "O lápis", de Mário Prata, e responda aos
 exercícios 6 a 9.
@@ -4334,34 +4334,34 @@ porque, se não der certo, a gente apaga e começa de novo."
 <https://marioprata.net/cronicas/o-lapis/>. Acesso em: mar. 2023.
 Adaptado.)
 
-6\. Substitua o termo em destaque nas frases por um pronome pessoal
+1. Substitua o termo em destaque nas frases por um pronome pessoal
 adequado.
 
-a\) Resolvi escrever um texto com letra de forma, escanear e ver se o
+1. Resolvi escrever um texto com letra de forma, escanear e ver se o
 computador reconhecia **o meu texto**.
 
 Resposta: Resolvi escrever um texto com letra de forma, escanear e ver
 se o computador **o** reconhecia.
 
-b\) Para que serve saber somar ou subtrair se **as maquininhas** estão
+1. Para que serve saber somar ou subtrair se **as maquininhas** estão
 aí?
 
 Resposta: Para que serve saber somar ou subtrair se **elas** estão aí?
 
-c\) Para que serve o curso primário?
+1. Para que serve o curso primário?
 
 Resposta: Para que serve **ele**?
 
-d\) Não adianta o governo testar **alunos** **e professores e
+1. Não adianta o governo testar **alunos** **e professores e
 universidades.**
 
 Resposta: Não adianta o governo testá-los.
 
-e\) Se não der certo, **a gente** apaga e começa de novo.
+1. Se não der certo, **a gente** apaga e começa de novo.
 
 Resposta: Se não der certo, **nós apagamos** **e começamos** de novo.
 
-7\. Transforme o trecho que está em discurso direto, a seguir, para
+1. Transforme o trecho que está em discurso direto, a seguir, para
 discurso indireto.
 
 Aí, não tendo mais o que inventar para brincar, resolvi escrever um
@@ -4374,14 +4374,14 @@ Aí, não tendo mais o que inventar para brincar, resolveu escrever um
 texto com letra de forma. Perguntou a si mesmo por que se chamava letra
 de forma. Escaneou e viu se o computador reconhecia seu texto.
 
-8\. No trecho "É aqui que eu queria chegar.", a que se refere o pronome
+1. No trecho "É aqui que eu queria chegar.", a que se refere o pronome
 demonstrativo "aqui"?
 
 Resposta: Aqui não se refere a um lugar específico, e sim a um problema
 que o autor começará a relatar logo em seguida: de que não adianta o
 governo testar alunos e professores e universidades.
 
-9\. Reescreva o trecho a seguir, a fim de eliminar as repetições.
+1. Reescreva o trecho a seguir, a fim de eliminar as repetições.
 
 Vamos voltar ao lápis e ao dois mais dois. Vamos começar pela base.
 Vamos escrever a lápis. Mesmo porque, se não der certo, a gente apaga e
@@ -4414,7 +4414,7 @@ Tanta comida é desperdiçada no mundo.
 
 **TREINO**
 
-1\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 **O Brasil precisa do SUS: lançada campanha nacional de defesa do
 Sistema Único de Saúde**
@@ -4438,26 +4438,26 @@ mar. 2023. Adaptado.)
 Em "Seu papel na pandemia ressaltou ainda mais a sua importância.", os
 pronomes possessivos seu e sua referem-se
 
-a\) ao SUS e à coordenadora do Campus Virtual Fiocruz.
+1. ao SUS e à coordenadora do Campus Virtual Fiocruz.
 
-b\) ao SUS apenas.
+1. ao SUS apenas.
 
-c\) à coordenadora do Campus Virtual Fiocruz apenas.
+1. à coordenadora do Campus Virtual Fiocruz apenas.
 
-d\) à campanha \#OBrasilPrecisadoSUS.
+1. à campanha \#OBrasilPrecisadoSUS.
 
 Resposta: b. Os pronomes seu e sua referem-se ambos ao SUS. Contudo, há
 uma incoerência gramatical na frase.
 
 Justificativas:
 
-a\) Incorreto. Caso a frase fizesse referência ao SUS e à profissional,
+1. Incorreto. Caso a frase fizesse referência ao SUS e à profissional,
 deveria estar escrita da seguinte forma: O papel do SUS na pandemia
 ressaltou ainda mais a importância da especialista.
 
-c\) Incorreta. Os pronomes fazem referência à importância do SUS.
+1. Incorreta. Os pronomes fazem referência à importância do SUS.
 
-d\) Incorreta. Os pronomes fazem referência ao último substantivo do
+1. Incorreta. Os pronomes fazem referência ao último substantivo do
 qual se fala, no caso, o SUS.
 
 Saeb: Analisar os processos de referenciação lexical e pronominal.
@@ -4466,7 +4466,7 @@ BNCC: EF06LP12
 
 Nível: médio.
 
-2\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 Ruth Rocha recebeu a equipe da TV Brasil em sua residência, em São
 Paulo, para um papo sobre sua trajetória no universo literário e a
@@ -4490,25 +4490,25 @@ Acesso em: mar. 2023. Adaptado)
 
 Na fala de Ruth Rocha, o pronome "todos" refere-se a(aos)
 
-a\) aos alunos.
+1. aos alunos.
 
-b\) aos livros.
+1. aos livros.
 
-c\) aos professores.
+1. aos professores.
 
-d\) a alunos e professores.
+1. a alunos e professores.
 
 Resposta: d. O pronome referencia-se a alunos e professores, o que é
 reforçado pelo verbo ter na 3ª pessoa do plural.
 
 Justificativas.
 
-a\) Incorreta. O pronome refere-se a alunos e professores.
+1. Incorreta. O pronome refere-se a alunos e professores.
 
-b\) Incorreta. A fala de Ruth Rocha não faz qualquer menção a livros no
+1. Incorreta. A fala de Ruth Rocha não faz qualquer menção a livros no
 plural. O pronome acompanha o substantivo em número.
 
-c\) Incorreta. O pronome refere-se a alunos e professores, todos têm que
+1. Incorreta. O pronome refere-se a alunos e professores, todos têm que
 gostar do livro.
 
 Saeb: Analisar os processos de referenciação lexical e pronominal.
@@ -4517,7 +4517,7 @@ BNCC: EF06LP12
 
 Nível: fácil.
 
-3\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 **Sabores sem fronteiras**
 
@@ -4540,13 +4540,13 @@ Acesso em: mar. 2023. Adaptado.)
 A escolha do pronome **esta** por Ricardo, ao se referir ao *sancocho*,
 está correta pois
 
-a\) ele está próximo ao prato.
+1. ele está próximo ao prato.
 
-b\) ele patenteou a receita.
+1. ele patenteou a receita.
 
-c\) ele está falando de sua receita no livro.
+1. ele está falando de sua receita no livro.
 
-d\) ele quer que o leitor se sinta próximo à receita.
+1. ele quer que o leitor se sinta próximo à receita.
 
 Resposta: c. A reportagem é sobre o livro de receitas e o texto leva a
 crer que Ricardo é um dos personagens, que, na entrevista, está falando
@@ -4554,13 +4554,13 @@ sobre sua receita presente no livro.
 
 Justificativas:
 
-a\) Incorreta. Não se pode afirmar que no momento da entrevista havia um
+1. Incorreta. Não se pode afirmar que no momento da entrevista havia um
 prato feito próximo a Ricardo.
 
-b\) Incorreta. O texto não informa que a receita foi patenteada por
+1. Incorreta. O texto não informa que a receita foi patenteada por
 Ricardo ou pelo livro, pelo contrário, a ideia do livro é divulga-la.
 
-d\) Incorreta. Caso o intuito de Ricardo fosse fazer com que o leitor se
+1. Incorreta. Caso o intuito de Ricardo fosse fazer com que o leitor se
 sentisse próximo à receita, o pronome mais adequado seria "essa".
 
 Saeb: Analisar os processos de referenciação lexical e pronominal.
@@ -4661,11 +4661,11 @@ Disponível em: \<
 <https://dragoesdegaragem.com/cientirinhas/cientirinhas-162/>\>. Acesso
 em: mar. 2023.
 
-1\. Qual é a linguagem utilizada na tirinha?
+1. Qual é a linguagem utilizada na tirinha?
 
 Resposta: A tirinha está escrita em linguagem informal ou coloquial.
 
-2\. Que tipo de variação linguística ocorre na fala da lua, no terceiro
+1. Que tipo de variação linguística ocorre na fala da lua, no terceiro
 quadrinho? Reescreva a fala, substituindo o termo "daora" por um
 sinônimo.
 
@@ -4674,7 +4674,7 @@ Resposta: O termo "daora" é uma gíria. Ele poderia ser substituído por
 às variações regionais dos alunos, pois esse termo pode sofrer
 influência de regionalismo.
 
-3\. Qual é o efeito de humor da tira?
+1. Qual é o efeito de humor da tira?
 
 Resposta: O fato de a Terra dizer que é raro um meteoro não se desfazer
 e, no último quadrinho, acontecer o momento em que os dinossauros são
@@ -4705,20 +4705,20 @@ Disponível em: \<
 <https://www.opovo.com.br/vidaearte/2022/12/12/suricate-seboso-celebra-10-anos-de-humor-e-cearensidade-nas-redes-sociais.html>\>.
 Acesso em: mar. 2023. Adaptado)
 
-4\. O termo "cearensidade", empregado no título da matéria, um
+1. O termo "cearensidade", empregado no título da matéria, um
 neologismo que a qual tipo de variação linguística tratada no texto?
 
 Resposta: O termo refere-se ao regionalismo.
 
-5\. O termo "cearencês", usado no primeiro parágrafo é um(a)
+1. O termo "cearencês", usado no primeiro parágrafo é um(a)
 
-a\) gíria.
+1. gíria.
 
-b\) jargão.
+1. jargão.
 
-c\) coloquialismo.
+1. coloquialismo.
 
-d\) regionalismo.
+1. regionalismo.
 
 Resposta: a. Gíria.
 
@@ -4727,13 +4727,13 @@ linguística utilizada por pessoas que nasceram ou residem no Ceará.
 
 Justificativas:
 
-b\) Incorreta. Jargão é uma frase, expressão ou palavra que define algo
+1. Incorreta. Jargão é uma frase, expressão ou palavra que define algo
 específico de um grupo profissional, social ou cultural.
 
-c\) Incorreta. Coloquialismo é o tipo de linguagem informal, do dia a
+1. Incorreta. Coloquialismo é o tipo de linguagem informal, do dia a
 dia, que não necessariamente obedece à norma padrão da língua.
 
-d\) Incorreta. Regionalismo é o tipo de variação linguística
+1. Incorreta. Regionalismo é o tipo de variação linguística
 caracterizada pelo uso de termos e expressões de determinada região
 geográfica.
 
@@ -4767,38 +4767,38 @@ Funda. Disponível em: \<
 <https://fundar.org.br/wp-content/uploads/2021/06/bras-bexiga-barra-funda.pdf>\>.
 Acesso em: mar. 2023.)
 
-6\. Gaetaninho, personagem que dá nome ao conto, é uma criança
+1. Gaetaninho, personagem que dá nome ao conto, é uma criança
 descendente de italianos. Quais elementos, neste trecho, permitem
 identificar essa característica?
 
 Resposta: O prórprio nome da personagem, Gaetaninho, e o grito da mãe em
 italiano, "Subito!".
 
-7\. "Eta salame de mestre!" é uma expressão coloquial que, no contexto
+1. "Eta salame de mestre!" é uma expressão coloquial que, no contexto
 da história, foi usada para dizer que
 
-a\) o menino fez uma jogada muito difícil.
+1. o menino fez uma jogada muito difícil.
 
-b\) o menino fez uma jogada muito fácil.
+1. o menino fez uma jogada muito fácil.
 
-c\) o menino driblou a mãe com perfeição.
+1. o menino driblou a mãe com perfeição.
 
-d\) o menino sabia jogar bola como um profissional.
+1. o menino sabia jogar bola como um profissional.
 
 Resposta: c. Gaetaninho driblou a mãe com perfeição, conforme descrito
 no parágrafo anterior.
 
 Justificativas:
 
-a\) Incorreta. Ao dizer que a jogada foi muito difícil, exprime-se um
+1. Incorreta. Ao dizer que a jogada foi muito difícil, exprime-se um
 julgamento de valor, que não vem ao caso, uma vez que a expressão faz
 referência ao parágrafo anterior.
 
-b\) Incorreta. Ao dizer que a jogada foi muito fácil, exprime-se um
+1. Incorreta. Ao dizer que a jogada foi muito fácil, exprime-se um
 julgamento de valor, que não vem ao caso, uma vez que a expressão faz
 referência ao parágrafo anterior.
 
-d\) Incorreta. O fato de driblar a mãe com perfeição não significa que
+1. Incorreta. O fato de driblar a mãe com perfeição não significa que
 Gaetaninho sabia jogar como um profissional.
 
 Observe a imagem a seguir e responda às questões 8, 9 e 10.
@@ -4811,13 +4811,13 @@ height="4.975430883639545in"}
 ARTE: CRIEI ISTO AQUI NO PPT. Favor recriar uma conversa como se fosse
 whatsapp usando este diálogo.
 
-8\. Considerando-se o nível de linguagem do diálogo, que tipo de
+1. Considerando-se o nível de linguagem do diálogo, que tipo de
 proximidade têm as pessoas que participam dessa conversa?
 
 Resposta: O diálogo é informal, o que demonstra que as pessoas têm algum
 grau de intimidade, ou seja, são amigas.
 
-9\. O que a primeira pessoa a falar na conversa quis dizer ao pedir que
+1. O que a primeira pessoa a falar na conversa quis dizer ao pedir que
 o amigo fosse correndo?
 
 Resposta: A pessoa quis dizer para o amigo ir logo.
@@ -4831,7 +4831,7 @@ Resposta: O emoji das mãos juntas, em oração, que reforça o pedido de
 
 TREINO
 
-1\. Leia o *jingle* da campanha de Júlio Prestes, um homem que foi
+1. Leia o *jingle* da campanha de Júlio Prestes, um homem que foi
 candidato à presidência do Brasil em 1920:
 
 Ó Seu Toninho
@@ -4847,13 +4847,13 @@ Que o paulista é um colosso
 
 A variação linguística predominante faz uma alusão, principalmente,
 
-a\) ao contexto social do eleitor.
+1. ao contexto social do eleitor.
 
-b\) ao contexto econômico do eleitor.
+1. ao contexto econômico do eleitor.
 
-c\) à época em que a música foi escrita.
+1. à época em que a música foi escrita.
 
-d\) à região geográfica do candidato à presidência.
+1. à região geográfica do candidato à presidência.
 
 Resposta: c. A letra faz uma alusão ao contexto histórico, ou seja, à
 época, em que foi escrita. Isso pode ser percebido por "terra do leite
@@ -4863,13 +4863,13 @@ que praticamente caiu em desuso nos dias de hoje.
 
 Justificativas:
 
-a\) Incorreta. A canção não faz menção à condição social do eleitor, até
+1. Incorreta. A canção não faz menção à condição social do eleitor, até
 mesmo porque uma campanha política sempre visa alcançar a todos.
 
-b\) Incorreta. A canção não menciona nada sobre o contexto econômico do
+1. Incorreta. A canção não menciona nada sobre o contexto econômico do
 leitor ou mesmo da época de modo geral.
 
-d\) Incorreta. Embora a letra mencione algumas regiões, o candidato era
+1. Incorreta. Embora a letra mencione algumas regiões, o candidato era
 para presidente, ou seja, alcançava todo o Brasil.
 
 Saeb: Analisar as variedades linguísticas em textos.
@@ -4878,7 +4878,7 @@ BNCC: EF69LP55
 
 Nível: difícil.
 
-2\. Leia um trecho da crônica "Criança diz cada uma\...", de Mário
+1. Leia um trecho da crônica "Criança diz cada uma\...", de Mário
 Prata.
 
 Já disse que meu filho se chama Antonio. Um dia, ele tinha uns quatro
@@ -4901,13 +4901,13 @@ mar. 2023. Adaptado.)
 O recurso responsável pelo efeito de humor no diálogo entre pai e filho
 está relacionado a uma variação linguística
 
-a\) cultural.
+1. cultural.
 
-b\) histórica.
+1. histórica.
 
-c\) social.
+1. social.
 
-d\) estilística.
+1. estilística.
 
 Resposta: c. As variações sociais são as diferenças de acordo com o
 grupo social do falante, incluindo a faixa etária. No trecho, o humor é
@@ -4916,13 +4916,13 @@ com seu repertório.
 
 Justificativas:
 
-a\) Incorreta. As variações culturais ocorrem de acordo com a cultura
+1. Incorreta. As variações culturais ocorrem de acordo com a cultura
 dos falantes, e muitas vezes estão relacionadas a aspectos geográficos.
 
-b\) Incorreta. As variações históricas tratam das mudanças ocorridas na
+1. Incorreta. As variações históricas tratam das mudanças ocorridas na
 língua com o decorrer do tempo e não de acordo com a faixa etária.
 
-d\) Incorreta. As variações estilísticas remetem ao contexto que exige a
+1. Incorreta. As variações estilísticas remetem ao contexto que exige a
 adaptação da fala ou ao estilo dela. Aqui, pai e filho conversam
 informalmente apenas.
 
@@ -4932,7 +4932,7 @@ BNCC: EF69LP55
 
 Nível: médio.
 
-3\. Leia a reportagem a seguir.
+1. Leia a reportagem a seguir.
 
 > **Sabores sem fronteiras**
 
@@ -4961,13 +4961,13 @@ portuguesa, apresentado em "Sempre cozinhei este prato quando Venezuela,
 na praia, em reuniões com meus irmãos, primos, com música e cerveja." é
 justificado pela variação linguística decorrente
 
-a\) da origem do entrevistado.
+1. da origem do entrevistado.
 
-b\) do contexto social do entrevistado.
+1. do contexto social do entrevistado.
 
-c\) da idade do entrevistado.
+1. da idade do entrevistado.
 
-d\) a classe econômica do entrevistado.
+1. a classe econômica do entrevistado.
 
 Resposta: a. O entrevistado é venezuelano, portanto, é esperado e
 aceitável que não utilize a norma padrão da língua portuguesa. No
@@ -4976,13 +4976,13 @@ este prato quando Venezuela\...".
 
 Justificativas:
 
-b\) Incorreta. O entrevistado ainda carrega resquícios de seu idioma
+1. Incorreta. O entrevistado ainda carrega resquícios de seu idioma
 materno, e isso independe de seu contexto social atual.
 
-c\) Incorreta. A faixa etária do entrevistado não importa para o tipo de
+1. Incorreta. A faixa etária do entrevistado não importa para o tipo de
 deslize ocorrido na frase.
 
-d\) Incorreta. Não fica claro qual é a classe econômica do entrevistado
+1. Incorreta. Não fica claro qual é a classe econômica do entrevistado
 e isso não importa para o tipo de deslize ocorrido na frase.
 
 Saeb: Analisar as variedades linguísticas em textos.
@@ -4993,7 +4993,7 @@ Nível: fácil.
 
 **SIMULADO 1**
 
-1\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 ![Forma Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image34.jpeg){width="1.9807688101487315in"
@@ -5004,26 +5004,26 @@ Fonte: https://ciencianarua.net/tirinha-de-silva-joao-20-05-2020/
 No primeiro quadrinho da tira, o modalizador enunciativo promove a
 intenção de
 
-a\) certeza.
+1. certeza.
 
-b\) dúvida.
+1. dúvida.
 
-c\) condição.
+1. condição.
 
-e\) negação.
+1. negação.
 
 Resposta: a -- certeza.
 
 Justificativas:
 
-b\) O modalizador em questão é o verbo decidi, que promove a intenção de
+1. O modalizador em questão é o verbo decidi, que promove a intenção de
 certeza do enunciador.
 
-c\) A intenção de condição aprece no segundo quadrinho, por meio do
+1. A intenção de condição aprece no segundo quadrinho, por meio do
 modalizador "só", quando o enunciador afirma que "é só todo mundo ficar
 em casa que isso passa logo".
 
-d\) Em nenhum dos quadrinho há qualquer intenção de negação por parte do
+1. Em nenhum dos quadrinho há qualquer intenção de negação por parte do
 enunciador.
 
 Saeb:
@@ -5040,7 +5040,7 @@ BNCC: EF69LP28
 
 Nível: fácil
 
-2\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 **Sabores sem fronteiras**
 
@@ -5067,14 +5067,14 @@ Acesso em: mar. 2023. Adaptado.)
 Ao dizer que "fazer *sancocho* é como fazer uma festa", Ricardo, o
 entrevistado, quer dizer que
 
-a\) o prato só é feito quando há uma celebração.
+1. o prato só é feito quando há uma celebração.
 
-b\) o prato é sinônimo de alegria e comemoração na Venezuela.
+1. o prato é sinônimo de alegria e comemoração na Venezuela.
 
-c\) na Venezuela, o prato é feito tipicamente em festas e reuniões
+1. na Venezuela, o prato é feito tipicamente em festas e reuniões
 familiares.
 
-d\) o prato traz boas memórias das reuniões familiares que ele tinha na
+1. o prato traz boas memórias das reuniões familiares que ele tinha na
 Venezuela.
 
 Resposta: d. Para Ricardo, o prato remete às boas memórias que tinha das
@@ -5082,13 +5082,13 @@ reuniões com amigos e familiares na Venezuela, com música e cerveja.
 
 Justificativas:
 
-a\) Incorreta. O prato não é feito somente em celebrações. No texto
+1. Incorreta. O prato não é feito somente em celebrações. No texto
 mesmo é informado que Ricardo faz o prato no Brasil.
 
-b\) Incorreta. O prato é sinônimo de boas lembranças para Ricardo, não
+1. Incorreta. O prato é sinônimo de boas lembranças para Ricardo, não
 necessariamente na Venezuela.
 
-c\) Incorreta. Ricardo costumava fazer o prato em reuniões com seus
+1. Incorreta. Ricardo costumava fazer o prato em reuniões com seus
 familiares e amigos, mas o texto não informa que é tipicamente feito
 somente nessas ocasiões.
 
@@ -5099,7 +5099,7 @@ BNCC: EF69LP43
 
 Nível: fácil.
 
-3\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 **Sabores sem fronteiras**
 
@@ -5125,26 +5125,26 @@ Acesso em: mar. 2023. Adaptado.)
 
 Quando à escolha do título da matéria, "Sabores sem fronteiras",
 
-a\) refere-se à história de Ricardo.
+1. refere-se à história de Ricardo.
 
-b\) refere-se às fronteiras entre um país e outro.
+1. refere-se às fronteiras entre um país e outro.
 
-c\) refere-se ao nome do livro mencionado no texto.
+1. refere-se ao nome do livro mencionado no texto.
 
-d\) refere-se ao fato de tratar de alimentos do mundo todo.
+1. refere-se ao fato de tratar de alimentos do mundo todo.
 
 Resposta: d. O título da matéria, "Sabores sem fronteiras", refere-se ao
 fato de o livro trazer receitas do mundo todo.
 
 Justificativas:
 
-a\) Incorreta. O título não trata especificamente da história de
+1. Incorreta. O título não trata especificamente da história de
 Ricardo. Ele é apenas um exemplo.
 
-b\) Incorreta. O título não trata apenas das fronteiras entre um país e
+1. Incorreta. O título não trata apenas das fronteiras entre um país e
 outro, mas sim dos pratos de cada lugar que aparecem no livro.
 
-c\) Incorreta. Não se pode afirmar que esse é o nome do livro.
+1. Incorreta. Não se pode afirmar que esse é o nome do livro.
 
 Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
 verbais.
@@ -5153,7 +5153,7 @@ BNCC: EF67LP07
 
 Nível: médio.
 
-4\. Observe uma imagem retirada do Twitter da Prefeitura do município do
+1. Observe uma imagem retirada do Twitter da Prefeitura do município do
 Rio de Janeiro:
 
 ![Interface gráfica do usuário, Aplicativo Descrição gerada
@@ -5170,26 +5170,26 @@ Ao dizer que "é insuportável viajar", a pessoa que reclama sobre o
 transporte utiliza uma figura de linguagem para representar seu
 sentimento. Essa figura é
 
-a\) hipérbole.
+1. hipérbole.
 
-b\) metáfora.
+1. metáfora.
 
-c\) catacrese.
+1. catacrese.
 
-d\) personificação,
+1. personificação,
 
 Resposta: a. A pessoa utiliza uma hipérbole ao dizer que é insuportável
 viajar nos ônibus daquela linha, pois são pequenos e sem ar.
 
 Justificativas:
 
-b\) Incorreta. Metáfora é uma comparação, o que não ocorre no
+1. Incorreta. Metáfora é uma comparação, o que não ocorre no
 comentário.
 
-c\) Incorreta. Catacrese é uma figura de palavra que ocorre quando não
+1. Incorreta. Catacrese é uma figura de palavra que ocorre quando não
 há um termo específico para designar um conceito.
 
-d\) Incorreta. Personificação é o ato de dar características humanas a
+1. Incorreta. Personificação é o ato de dar características humanas a
 seres e objetos inanimados.
 
 Saeb: Analisar o uso de figuras de linguagem como estratégia
@@ -5199,7 +5199,7 @@ BNCC: EF67LP38
 
 Nível: fácil
 
-5\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 **O Brasil precisa do SUS: lançada campanha nacional de defesa do
 Sistema Único de Saúde**
@@ -5223,26 +5223,26 @@ mar. 2023. Adaptado.)
 A palavra **imprescindível**, usada pela especialista para defender o
 SUS, poderia ser substituída, neste contexto, por
 
-a\) indispensável.
+1. indispensável.
 
-b\) irrecusável.
+1. irrecusável.
 
-c\) incontestável.
+1. incontestável.
 
-d\) insustentável.
+1. insustentável.
 
 Resposta: a. Imprescindível quer dizer que o SUS é absolutamente
 necessário, ou seja, indispensável.
 
 Justificativas:
 
-b\) Incorreta. Irrecusável é a característica do que não se pode
+1. Incorreta. Irrecusável é a característica do que não se pode
 recusar, o que não é o caso do SUS no contexto.
 
-c\) Incorreta. Incontestável é a característica do que não se contesta,
+1. Incorreta. Incontestável é a característica do que não se contesta,
 o que não é o caso do SUS no contexto.
 
-b\) Incorreta. Insustentável significa que o SUS não se manteria, não se
+1. Incorreta. Insustentável significa que o SUS não se manteria, não se
 sustentaria, o que não é o caso do contexto.
 
 Saeb: Inferir informações implícitas em distintos textos.
@@ -5251,7 +5251,7 @@ BNCC: EF67LP04
 
 Nível: médio.
 
-6\. Leia o *jingle* da campanha de Júlio Prestes, um homem que foi
+1. Leia o *jingle* da campanha de Júlio Prestes, um homem que foi
 candidato à presidência do Brasil em 1920:
 
 Ó Seu Toninho
@@ -5266,26 +5266,26 @@ Que o paulista é um colosso
 
 O objetivo da música da campanha é
 
-a\) incentivar as pessoas a votarem.
+1. incentivar as pessoas a votarem.
 
-b\) ressaltar as qualidades de Júlio Prestes.
+1. ressaltar as qualidades de Júlio Prestes.
 
-c\) convidar seu Toninho a votar em Júlio Prestes.
+1. convidar seu Toninho a votar em Júlio Prestes.
 
-d\) incentivar os paulistas a votarem em Júlio Prestes.
+1. incentivar os paulistas a votarem em Júlio Prestes.
 
 Resposta: b. A canção ressalta as qualidades do candidato, a fim de
 convencer as pessoas a votarem nele.
 
 Justificativas:
 
-a\. Incorreta. A canção não tem como objetivo incentivar as pessoas a
+1. Incorreta. A canção não tem como objetivo incentivar as pessoas a
 votarem, mas sim de divulgar um candidato.
 
-c\. Incorreta. Seu Toninho é um nome que representa o eleitor de modo
+1. Incorreta. Seu Toninho é um nome que representa o eleitor de modo
 geral.
 
-d\. Incorreta. Apenas o candidato é paulista e não os eleitores de modo
+1. Incorreta. Apenas o candidato é paulista e não os eleitores de modo
 geral.
 
 Saeb: Inferir informações implícitas em distintos textos.
@@ -5308,13 +5308,13 @@ O texto em quadrinhos foi usado para apresentar, em uma linguagem menos
 técnica e mais acessível, um texto de divulgação científica que
 explicaria
 
-a\) o que poderia apagar o Sol.
+1. o que poderia apagar o Sol.
 
-b\) o que poderia extinguir a Terra.
+1. o que poderia extinguir a Terra.
 
-c\) o que aconteceria aos planetas se o Sol se apagasse.
+1. o que aconteceria aos planetas se o Sol se apagasse.
 
-d\) de que forma a vida na Terra seria extinta se o Sol morresse.
+1. de que forma a vida na Terra seria extinta se o Sol morresse.
 
 Resposta: c. O quadrinho explica, de forma lúdica, que sem o Sol nenhum
 planeta se manteria vivo, pois estão todos os três girando em torno do
@@ -5322,13 +5322,13 @@ Sol.
 
 Justificativas
 
-a\) Incorreta. O quadrinho não menciona o que poderia apagar o sol, e
+1. Incorreta. O quadrinho não menciona o que poderia apagar o sol, e
 sim o que aconteceria aos outros astros se ele se apagasse.
 
-b\) Incorreta. Embora o fim do Sol seja uma hipótese de extinção da vida
+1. Incorreta. Embora o fim do Sol seja uma hipótese de extinção da vida
 na Terra, a temática do quadrinho são as consequências do apagão do Sol.
 
-d\) Incorreta. A extinção da vida na Terra poderia ser causada pelo
+1. Incorreta. A extinção da vida na Terra poderia ser causada pelo
 apagão do sol, mas não é a única hipótese.
 
 Saeb: Identificar elementos constitutivos de gêneros de divulgação
@@ -5338,7 +5338,7 @@ BNCC: EF69LP20
 
 Nível: difícil.
 
-7\. Observe o infográfico a seguir.
+1. Observe o infográfico a seguir.
 
 ![Gráfico, Diagrama, Gráfico de bolhas Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image15.jpeg){width="3.433333333333333in"
@@ -5350,13 +5350,13 @@ Fonte:
 Analisando-se os recursos verbais e não verbais, pode-se afirmar que o
 público-alvo do infográfico é
 
-a\) adultos.
+1. adultos.
 
-b\) jovens e crianças.
+1. jovens e crianças.
 
-c\) alunos de escolas públicas.
+1. alunos de escolas públicas.
 
-d\) adultos e idosos.
+1. adultos e idosos.
 
 Resposta: b. O infográfico apresenta imagens com traços leves e lúdicos,
 bem como uma fonte semelhante à letra cursiva. Esse tipo de imagem é
@@ -5366,13 +5366,13 @@ precisam do apoio de um adulto, por exemplo.
 
 Justificativas:
 
-a\) Incorreta. O texto pode ser consumido por adultos, mas não é o
+1. Incorreta. O texto pode ser consumido por adultos, mas não é o
 público-alvo.
 
-c\) Incorreta. Qualquer jovem ou criança é o público do texto, não
+1. Incorreta. Qualquer jovem ou criança é o público do texto, não
 especificamente alunos de escolas públicas.
 
-d\) Incorreta. A linguagem usada para alcançar adultos e idosos poderia
+1. Incorreta. A linguagem usada para alcançar adultos e idosos poderia
 ser mais formal e apresentar outros tipos de imagem, mais densas, por
 exemplo.
 
@@ -5383,7 +5383,7 @@ BNCC: EF69LP16
 
 Nível: médio.
 
-8\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 Apesar de nunca ter visto o lobo, Chapeuzinho Amarelo morria de medo
 dele.
@@ -5403,13 +5403,13 @@ Horizonte: Autêntica, 2017.)
 A obra "Chapeuzinho Amarelo" apresenta intertextualidade com outra
 história conhecida a partir do recurso de
 
-a\) citação direta.
+1. citação direta.
 
-b\) citação indireta.
+1. citação indireta.
 
-c\) paráfrase.
+1. paráfrase.
 
-d\) citação de citação.
+1. citação de citação.
 
 Resposta: c. Chapeuzinho Amarelo é a história de Chapeuzinho Vermelho
 recontada sob a perspectiva de Chico Buarque, portanto, pode-se dizer
@@ -5417,13 +5417,13 @@ que é uma paráfrase.
 
 Justificativas:
 
-a\) Incorreta. O autor não apresenta em sua obra trechos da obra
+1. Incorreta. O autor não apresenta em sua obra trechos da obra
 original Chapeuzinho Vermelho.
 
-b\) Incorreta. O autor não faz menção à obra original conhecida,
+1. Incorreta. O autor não faz menção à obra original conhecida,
 Chapeuzinho Vermelho.
 
-d\) Incorreta. A história Chapeuzinho Amarelo não cita de nenhuma forma
+1. Incorreta. A história Chapeuzinho Amarelo não cita de nenhuma forma
 a obra original conhecida, Chapeuzinho Vermelho.
 
 Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
@@ -5433,7 +5433,7 @@ BNCC: EF69LP43
 
 Nível: médio.
 
-9\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 Ruth Rocha recebeu a equipe da TV Brasil em sua residência, em São
 Paulo, para um papo sobre sua trajetória no universo literário e a
@@ -5457,25 +5457,25 @@ Acesso em: mar. 2023. Adaptado)
 
 O trecho que representa uma opinião da entrevistada é
 
-a\) O professor deve ler o livro antes e, se gostar, ler para os alunos.
+1. O professor deve ler o livro antes e, se gostar, ler para os alunos.
 
-b\) Ruth Rocha também destaca a importância do professor na formação do
+1. Ruth Rocha também destaca a importância do professor na formação do
 público leitor.
 
-c\) \... a veterana que adora ler e continua lendo de tudo.
+1. \... a veterana que adora ler e continua lendo de tudo.
 
-d\) \... a autora foi reconhecida com diversos prêmios como o Jabuti.
+1. \... a autora foi reconhecida com diversos prêmios como o Jabuti.
 
 Resposta: b. Neste trecho fica implícito que o fato de o professor ser
 importante é uma opinião da autora.
 
 Justificativas:
 
-a\) Incorreta. O trecho representa uma verdade, segundo a especialista.
+1. Incorreta. O trecho representa uma verdade, segundo a especialista.
 
-c\) Incorreta. O trecho apresenta um fato sobre a autora.
+1. Incorreta. O trecho apresenta um fato sobre a autora.
 
-d\) Incorreta. O trecho apresenta um fato sobre a autora.
+1. Incorreta. O trecho apresenta um fato sobre a autora.
 
 Saeb: Distinguir fatos de opiniões em textos.
 
@@ -5497,15 +5497,15 @@ Horizonte: Autêntica, 2017.)
 A repetição da palavra lobo, no trecho de Chapeuzinho Amarelo, tem o
 objetivo de
 
-a\) remeter ao lobo da famosa história da Chapeuzinho Vermelho, que já
+1. remeter ao lobo da famosa história da Chapeuzinho Vermelho, que já
 está na cabeça das pessoas.
 
-b\) reforçar que tipo de animal a menina tinha estava pensando.
+1. reforçar que tipo de animal a menina tinha estava pensando.
 
-c\) provocar humor no modo como se pronuncia muitas vezes a palavra
+1. provocar humor no modo como se pronuncia muitas vezes a palavra
 lobo.
 
-d\) fazer com que o leitor pense tanto no lobo quando a Chapeuzinho
+1. fazer com que o leitor pense tanto no lobo quando a Chapeuzinho
 Amarelo.
 
 Resposta: a. O lobo que aparece neste trecho o um lobo presente na
@@ -5514,13 +5514,13 @@ que se justifica pela descrição do animal.
 
 Justificativas:
 
-b\) Incorreta. A ideia não era reforçar o animal em que ela estava
+1. Incorreta. A ideia não era reforçar o animal em que ela estava
 pensando, e sim especificá-lo.
 
-c\) Incorreta. Embora ocorra aliteração, o intuito do trecho não é
+1. Incorreta. Embora ocorra aliteração, o intuito do trecho não é
 provocar humor com essa figura de som.
 
-d\) Incorreta. A ideia é fazer com que o leitor pense no lobo em que ela
+1. Incorreta. A ideia é fazer com que o leitor pense no lobo em que ela
 estava pensando, ou seja, o da Chapeuzinho Vermelho.
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
@@ -5541,13 +5541,13 @@ Fonte: https://www.facebook.com/jardimdaressurreicao/
 O argumento utilizado na campanha para incentivar o combate ao discurso
 de ódio é formado por
 
-a\) uma metáfora.
+1. uma metáfora.
 
-b\) um eufemismo.
+1. um eufemismo.
 
-c\) uma hipérbole.
+1. uma hipérbole.
 
-d\) uma personificação.
+1. uma personificação.
 
 Resposta: b. A campanha utiliza-se de um eufemismo, por meio da junção
 do recurso visual da cova (sentido literal) com o verbo enterrar
@@ -5556,13 +5556,13 @@ discurso de ódio.
 
 Justificativas:
 
-a\) Incorreta. A metáfora é uma comparação implícita entre duas coisas
+1. Incorreta. A metáfora é uma comparação implícita entre duas coisas
 que têm características em comum.
 
-c\) Incorreta. A hipérbole é um exagero proposital para enfatizar uma
+1. Incorreta. A hipérbole é um exagero proposital para enfatizar uma
 ideia ou emoção.
 
-d\) Incorreta. A personificação é a atribuição de características
+1. Incorreta. A personificação é a atribuição de características
 humanas a seres inanimados ou animais.
 
 Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
@@ -5594,13 +5594,13 @@ Adaptado)
 No trecho, notam-se claramente aspectos relacionados a variação
 linguística
 
-a\) cultural.
+1. cultural.
 
-b\) histórico.
+1. histórico.
 
-c\) social.
+1. social.
 
-d\) estilístico.
+1. estilístico.
 
 Resposta: b. As variações históricas tratam das mudanças ocorridas na
 língua com o decorrer do tempo. O texto nitidamente foi escrito décadas
@@ -5610,13 +5610,13 @@ existisse.
 
 Justificativas:
 
-a\) Incorreta. As variações culturais ocorrem de acordo com a cultura
+1. Incorreta. As variações culturais ocorrem de acordo com a cultura
 dos falantes, e muitas vezes estão relacionadas a aspectos geográficos.
 
-c\) Incorreta. As variações sociais são as diferenças de acordo com o
+1. Incorreta. As variações sociais são as diferenças de acordo com o
 grupo social do falante, como profissão, faixa etária, entre outros.
 
-d\) Incorreta. As variações estilísticas remetem ao contexto que exige a
+1. Incorreta. As variações estilísticas remetem ao contexto que exige a
 adaptação da fala ou ao estilo dela.
 
 Saeb: Analisar as variedades linguísticas em textos.
@@ -5637,27 +5637,27 @@ Fonte:
 Considerando o pronome "seu" no título da campanha, qual é o público
 alvo da campanha?
 
-a\) Pediatras
+1. Pediatras
 
-b\) Público de modo geral
+1. Público de modo geral
 
-c\) Crianças em idade de Vacinação
+1. Crianças em idade de Vacinação
 
-d\) Pais e responsáveis de crianças em idade de vacinação
+1. Pais e responsáveis de crianças em idade de vacinação
 
 Resposta: D. "Seu" é um pronome possessivo que se refere aos filhos das
 pessoas às quais a campanha é dirigida
 
 Justificativas:
 
-a\) Incorreta. Embora as crianças sejam os pacientes de pediatras, a
+1. Incorreta. Embora as crianças sejam os pacientes de pediatras, a
 campanha deixa claro que não se referem a "seus pacientes", mas sim
 "seus filhos"
 
-b\) Incorreta. O público de modo geral não necessariamente possui
+1. Incorreta. O público de modo geral não necessariamente possui
 filhos.
 
-c\) Incorreta. Embora a vacina se destine às crianças, a campanha se
+1. Incorreta. Embora a vacina se destine às crianças, a campanha se
 dirige aos seus pais.
 
 Saeb: Analisar os processos de referenciação lexical e pronominal.
@@ -5747,27 +5747,27 @@ Normalmente o infográfico acompanha um texto que fala sobre um assunto
 correlato. O texto que acompanharia o infográfico acima teria como tema
 central
 
-a\) consumo consciente.
+1. consumo consciente.
 
-b\) desmatamento.
+1. desmatamento.
 
-c\) riscos ao planeta.
+1. riscos ao planeta.
 
-d\) dicas de ecologia.
+1. dicas de ecologia.
 
 Resposta: a. O infográfico traz dicas de consumo consciente de modo
 geral, que impactam no bem-estar de todos no planeta.
 
 Justificativas:
 
-b\) Incorreta. O infográfico traz dicas variadas de como zelar pelo
+1. Incorreta. O infográfico traz dicas variadas de como zelar pelo
 planeta, e não por florestas especificamente.
 
-c\) Incorreta. Embora o consumo desenfreado e inconsequente ocasione
+1. Incorreta. Embora o consumo desenfreado e inconsequente ocasione
 sérios riscos ao planeta, a temática tratada no infográfico é consumo
 consciente.
 
-d\) Incorreta. O infográfico não fala apenas de ecologia, e sim de
+1. Incorreta. O infográfico não fala apenas de ecologia, e sim de
 consumo consciente.
 
 **Saeb:** Analisar a relação temática entre diferentes gêneros
@@ -5779,7 +5779,7 @@ jornalísticos.
 
 **SIMULADO 2**
 
-1\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 ![Mapa Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image38.png){width="5.905555555555556in"
@@ -5790,27 +5790,27 @@ Fonte:
 
 A proposta da campanha é incentivar as pessoas a
 
-a\) ficarem em casa.
+1. ficarem em casa.
 
-b\) sair apenas se necessário.
+1. sair apenas se necessário.
 
-c\) respeitar as leis de trânsito.
+1. respeitar as leis de trânsito.
 
-d\) respeitar as leis de trânsito só quando saírem.
+1. respeitar as leis de trânsito só quando saírem.
 
 Resposta: c. A campanha é uma iniciativa da Polícia Rodoviária Federal e
 visa incentivar as pessoas a respeitarem as leis de trânsito.
 
 Justificativas:
 
-a\) Incorreto. Como a campanha foi produzida em época de pandemia, a
+1. Incorreto. Como a campanha foi produzida em época de pandemia, a
 hashtag \#fiqueemcasa incentivava as pessoas a não saírem, porém, este
 não é o objetivo da campanha.
 
-b\) Incorreta. A campanha orienta as pessoas as saírem apenas se
+1. Incorreta. A campanha orienta as pessoas as saírem apenas se
 necessário, mas o objetivo é respeitar as leis de trânsito.
 
-c\) Incorreta. A campanha incentiva as pessoas a respeitarem as leis de
+1. Incorreta. A campanha incentiva as pessoas a respeitarem as leis de
 trânsito. Como foi veiculada em época de pandemia, o texto menciona sair
 de casa apenas se necessário.
 
@@ -5821,7 +5821,7 @@ BNCC: EF67LP07
 
 Nível: fácil
 
-2\.
+1.
 
 **Damiani pede manutenção asfáltica em ruas esburacadas de Sorriso**
 
@@ -5849,14 +5849,14 @@ Acesso em: mar. 2023.)
 
 A notícia apresenta uma reclamação
 
-a\) do Poder Legislativo, referentes a buracos e acúmulo de água nas
+1. do Poder Legislativo, referentes a buracos e acúmulo de água nas
 vias pública.
 
-b\) da população, sobre manutenção do asfalto de várias ruas e avenidas.
+1. da população, sobre manutenção do asfalto de várias ruas e avenidas.
 
-c\) do vereador, sobre pedindo operações tapa-buraco no município.
+1. do vereador, sobre pedindo operações tapa-buraco no município.
 
-d\) dos representantes do Executivo, sobre a manutenção do asfalto.
+1. dos representantes do Executivo, sobre a manutenção do asfalto.
 
 Resposta: b. A notícia trata da reclamação da população sobre manutenção
 do asfalto de várias ruas e avenidas de Sorriso. Damiani, o vereador,
@@ -5864,12 +5864,12 @@ apenas é o porta-voz entrevistado.
 
 Justificativas:
 
-a\) Incorreta. É parte do trabalho do Legislativo buscar a solução para
+1. Incorreta. É parte do trabalho do Legislativo buscar a solução para
 as demandas.
 
-c\) Incorreta. O vereador é o porta-voz dos pedidos da população.
+1. Incorreta. O vereador é o porta-voz dos pedidos da população.
 
-d\) Incorreta. O vereador ficou encarregado de apresentar as demandas
+1. Incorreta. O vereador ficou encarregado de apresentar as demandas
 para o Executivo.
 
 Saeb: Identificar formas de organização de textos normativos, legais
@@ -5879,7 +5879,7 @@ BNCC: EF67LP17
 
 Nível: médio.
 
-3\.
+1.
 
 ![Desenho de personagem de desenho animado Descrição gerada
 automaticamente com confiança
@@ -5890,24 +5890,24 @@ Charge: Brum
 
 O que provoca o efeito de humor da charge é
 
-a\) o fato de a mãe se emocionar com o filho.
+1. o fato de a mãe se emocionar com o filho.
 
-b\) a mãe estar sensibilizada com o presente caro.
+1. a mãe estar sensibilizada com o presente caro.
 
-c\) o fato de o presente caro ser um botijão de gás.
+1. o fato de o presente caro ser um botijão de gás.
 
-d\) o filho presentear a mãe com um presente incomum.
+1. o filho presentear a mãe com um presente incomum.
 
 Resposta: c. O humor da tira é o fato de o presente ser um botijão de
 gás que, de tão caro, emocionou a mãe.
 
 Justificativas:
 
-a\) Incorreta. A mãe se emociona com o presente do filho.
+1. Incorreta. A mãe se emociona com o presente do filho.
 
-b\) Incorreta. A mãe se emociona com o tipo de presente caro.
+1. Incorreta. A mãe se emociona com o tipo de presente caro.
 
-d\) Incorreta. O presente é incomum, mas aqui especificamente o humor
+1. Incorreta. O presente é incomum, mas aqui especificamente o humor
 está no fato de ser um botijão de gás, que custa muito caro.
 
 Saeb: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
@@ -5917,7 +5917,7 @@ BNCC: EF69LP03
 
 Nível: fácil.
 
-4\. Leia um trecho da obra "O diário da princesa", de Meg Cabot.
+1. Leia um trecho da obra "O diário da princesa", de Meg Cabot.
 
 **Terça-feira, 23 de setembro**
 
@@ -5948,13 +5948,13 @@ A personagem principal da obra é Mia, uma adolescente comum que descobre
 que é uma princesa de verdade, herdeira de um trono na Europa. O trecho
 apresentado contextualiza o leitor com relação
 
-a\) à personalidade da personagem principal.
+1. à personalidade da personagem principal.
 
-b\) ao tempo cronológico da história.
+1. ao tempo cronológico da história.
 
-c\) aos personagens secundários da história.
+1. aos personagens secundários da história.
 
-d\) ao lugar em que acontece a história.
+1. ao lugar em que acontece a história.
 
 Resposta: a. O trecho contextualiza o leitor com relação à personalidade
 de Mia: o que ela pensa, como ela pensa e os dilemas pelos quais ela
@@ -5962,13 +5962,13 @@ está passando.
 
 Justificativas:
 
-b\) Incorreta. O trecho não deixa claro o tempo cronológico, embora o
+1. Incorreta. O trecho não deixa claro o tempo cronológico, embora o
 diário seja datado. Essa informação só é percebida no decorrer da obra.
 
-c\) Incorreta. O trecho não apresenta personagens secundários, apenas
+1. Incorreta. O trecho não apresenta personagens secundários, apenas
 Mia falando sobre a mãe.
 
-d\) Incorreta. O trecho não apresenta o local onde acontece a história.
+1. Incorreta. O trecho não apresenta o local onde acontece a história.
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
@@ -5977,7 +5977,7 @@ BNCC: EF69LP47
 
 Nível: difícil.
 
-5\. Leia o texto a seguir.
+1. Leia o texto a seguir.
 
 ![Mulher com vestido colorido Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image40.jpeg){width="4.263918416447944in"
@@ -5988,26 +5988,26 @@ height="4.233333333333333in"}
 Na propaganda, a expressão "prepare seu coração" é uma maneira
 conotativa de orientar a pessoa a
 
-a\) apaixonar-se pela festa de São João.
+1. apaixonar-se pela festa de São João.
 
-b\) controlar a ansiedade para a festa de São João.
+1. controlar a ansiedade para a festa de São João.
 
-c\) preparar-se fisicamente para a festa de São João.
+1. preparar-se fisicamente para a festa de São João.
 
-d\) fazer um check up de saúde antes de ir para a festa de São João.
+1. fazer um check up de saúde antes de ir para a festa de São João.
 
 Resposta: b. A expressão "prepare seu coração" está relacionada à
 sensação de palpitação causada pela ansiedade.
 
 Justificativas:
 
-a\) Incorreta. Embora o coração quase sempre esteja ligado à paixão,
+1. Incorreta. Embora o coração quase sempre esteja ligado à paixão,
 neste contexto ele está relacionado à ansiedade.
 
-c\) Incorreta. Como o próprio enunciado explica, a expressão é usada em
+1. Incorreta. Como o próprio enunciado explica, a expressão é usada em
 sentido conotativo, ou seja, não literal.
 
-d\) Incorreta. Como o próprio enunciado explica, a expressão é usada em
+1. Incorreta. Como o próprio enunciado explica, a expressão é usada em
 sentido conotativo, ou seja, não literal.
 
 SAEB: Analisar os mecanismos que contribuem para a progressão textual.
@@ -6016,7 +6016,7 @@ BNCC: EF06LP12
 
 Nível: fácil
 
-6\.
+1.
 
 ![Diagrama Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image41.png){width="5.198641732283464in"
@@ -6466,13 +6466,13 @@ Na notícia, o vereador denuncia um problema da população. A maneira
 formal como o poder público geralmente recebe essas demandas é por meio
 de
 
-a\) carta de reclamação.
+1. carta de reclamação.
 
-b\) vídeo na internet.
+1. vídeo na internet.
 
-c\) postagem em rede social.
+1. postagem em rede social.
 
-d\) artigo de opinião.
+1. artigo de opinião.
 
 Resposta: a. A carta de reclamação é um gênero textual que expressa uma
 indignação ou uma insatisfação de determinado indivíduo. É o caminho
@@ -6481,15 +6481,15 @@ e informem as demandas da região.
 
 Justificativas:
 
-b\) Incorreta. Vídeos na internet podem alcançar muitas pessoas, porém,
+1. Incorreta. Vídeos na internet podem alcançar muitas pessoas, porém,
 não é certeza que os poderes responsáveis por resolver as demandas irão
 assistir e responder.
 
-c\) Incorreta. Postagens em redes sociais só alcançam órgãos
+1. Incorreta. Postagens em redes sociais só alcançam órgãos
 responsáveis por atender às demandas quando são direcionadas, porém nem
 sempre elas são atendidas por não estarem formalizadas.
 
-d\) Incorreta. O artigo de opinião é um texto veiculado em meios de
+1. Incorreta. O artigo de opinião é um texto veiculado em meios de
 comunicação de grande circulação que exprime o ponto de vista do
 jornalista a respeito de determinado assunto.
 
@@ -6526,13 +6526,13 @@ Fragmento.)
 O texto em itálico -- *Oh, Deus, se você realmente existe, não deixe que
 eles descubram isso. --* representa
 
-a\) um trecho que a garota destacou no diário.
+1. um trecho que a garota destacou no diário.
 
-b\) um pensamento da garota.
+1. um pensamento da garota.
 
-c\) uma fala do narrador.
+1. uma fala do narrador.
 
-d\) uma fala de outra pessoa.
+1. uma fala de outra pessoa.
 
 Resposta: b. O texto é o diário da personagem. Enquanto escreve sobre o
 fato de a mãe estar saindo com seu professor de álgebra, a menina pede a
@@ -6540,15 +6540,15 @@ Deus, em pensamento, que ninguém da escola descubra.
 
 Justificativas:
 
-a\) Incorreta. O itálico é uma marca gráfica usada para pontuar um
+1. Incorreta. O itálico é uma marca gráfica usada para pontuar um
 pensamento da personagem. Observa-se que trechos em destaque no diário
 são escritos em caixas altas, como em "E, entre DOIS MILHÕES de caras,
 ela foi namorar logo o Sr. Gianini".
 
-c\) Incorreta. O texto é escrito em primeira pessoa, ou seja, a
+1. Incorreta. O texto é escrito em primeira pessoa, ou seja, a
 narradora é a própria personagem.
 
-d\) Incorreta. O trecho não apresenta a personagem conversando com outra
+1. Incorreta. O trecho não apresenta a personagem conversando com outra
 pessoa.
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
@@ -6561,7 +6561,7 @@ Nível: médio.
 SIMULADO 3
 ----------
 
-1\.
+1.
 
 ![Desenho de personagem de desenho animado Descrição gerada
 automaticamente com confiança
@@ -6572,13 +6572,13 @@ Charge: Brum
 
 O objetivo da charge é
 
-a\) homenagear as mães.
+1. homenagear as mães.
 
-b\) criticar o alto preço do gás.
+1. criticar o alto preço do gás.
 
-c\) criticar filhos que não presenteiam as mães.
+1. criticar filhos que não presenteiam as mães.
 
-d\) incentivar filhos a presentearem as mães.
+1. incentivar filhos a presentearem as mães.
 
 Resposta: b. A charge é uma ilustração que tem como premissa fazer uma
 crítica social. Aqui, a crítica social é feita ao alto preço do botijão
@@ -6586,13 +6586,13 @@ de gás, que para a mãe é tão valioso quanto uma joia, por exemplo.
 
 Justificativas:
 
-a\) Incorreta. O filho não homenageia a mãe, ele a presenteia com um
+1. Incorreta. O filho não homenageia a mãe, ele a presenteia com um
 botijão de gás.
 
-c\) Incorreta. A charge não critica filhos que não homenageiam as mães,
+1. Incorreta. A charge não critica filhos que não homenageiam as mães,
 ele mostra uma mãe sendo presenteada.
 
-d\) Incorreta. A charge é um gênero voltado à crítica social. Em nenhum
+1. Incorreta. A charge é um gênero voltado à crítica social. Em nenhum
 momento ela incentiva filhos a presentearem as mães.
 
 Saeb: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
@@ -6703,13 +6703,13 @@ Nível: médio.
 
 Com base no desfecho da tirinha, o que gera o efeito de humor?
 
-a\) a cooperação entre as espécies.
+1. a cooperação entre as espécies.
 
-b\) um peixe se alimentar de restos na boca de outro peixe
+1. um peixe se alimentar de restos na boca de outro peixe
 
-c\) a personificação dos interlocutores
+1. a personificação dos interlocutores
 
-d\) a discussão entre as moreias.
+1. a discussão entre as moreias.
 
 Resposta: C. O texto da tirinha começa com informações científicas sobre
 duas espécies de peixes que vivem em cooperação. NO terceiro quadrinho
@@ -6718,13 +6718,13 @@ de restos se torna o dentista do peixe maior, que se torna o paciente.
 
 Justificativas:
 
-a\) Incorreta. Essa alternativa apresenta dados científicos sobre as
+1. Incorreta. Essa alternativa apresenta dados científicos sobre as
 duas espécies.
 
-b\) Incorreta. Essa alternativa apresenta dados científicos sobre as
+1. Incorreta. Essa alternativa apresenta dados científicos sobre as
 duas espécies.
 
-d\) Incorreta. Embora contenha teor cômico, o fato que gera o teor de
+1. Incorreta. Embora contenha teor cômico, o fato que gera o teor de
 humor na tirinha é a personificação do Bodião-limpador como dentista e
 da Moreia como paciente.
 
@@ -7159,14 +7159,14 @@ visuais gráficos. Normalmente o infográfico acompanha um texto que fala
 sobre um assunto correlato. A manchete jornalística à qual o infográfico
 apresentado mais se adequaria é:
 
-a\) "Médicos alertam para os riscos do uso excessivo das telas"
+1. "Médicos alertam para os riscos do uso excessivo das telas"
 
-b\) "Contato precoce e excessivo com telas pode provocar danos ao
+1. "Contato precoce e excessivo com telas pode provocar danos ao
 cérebro﻿"
 
-c\) "Uso excessivo de telas provoca danos, alertam médicos"
+1. "Uso excessivo de telas provoca danos, alertam médicos"
 
-d\) "Uso de telas na primeira infância acarreta danos ao cérebro"
+1. "Uso de telas na primeira infância acarreta danos ao cérebro"
 
 Resposta: b. O infográfico traz informações relacionadas à primeira
 infância e pré-adolescência e fala sobre as consequências do uso precoce
@@ -7175,12 +7175,12 @@ abordados é a b.
 
 Justificativas:
 
-a\) Incorreta. O infográfico é produzido pela UFMG, mas não se pode
+1. Incorreta. O infográfico é produzido pela UFMG, mas não se pode
 afirmar que em uma matéria médicos afirmariam alguma coisa.
 
-c\) Incorreta. O infográfico fala especificamente sobre crianças.
+1. Incorreta. O infográfico fala especificamente sobre crianças.
 
-d\) Incorreta. O infográfico não menciona apenas a primeira infância;
+1. Incorreta. O infográfico não menciona apenas a primeira infância;
 ele traz informações sobre crianças com menos de 2 anos até 12 anos.
 
 Saeb: Analisar a relação temática entre diferentes gêneros jornalísticos.
@@ -7611,13 +7611,13 @@ Fonte: <https://www.instagram.com/p/CkJ4ETwg5Kv/?hl=pt>
 
 O que provoca o efeito de humor da tirinha?
 
-a\) A personagem ter mais flechas do que alvos a acertar.
+1. A personagem ter mais flechas do que alvos a acertar.
 
-b\) O alvo estar disfarçado de cordeiro.
+1. O alvo estar disfarçado de cordeiro.
 
-c\) A consequência caso o personagem erre a flechada.
+1. A consequência caso o personagem erre a flechada.
 
-d\) O personagem dormir durante a contagem de cordeiros.
+1. O personagem dormir durante a contagem de cordeiros.
 
 Resposta: D. O fato que causa o efeito de humor é justamente o momento
 que o personagem dorme durante a contagem de cordeiros. Essa "técnica" é
@@ -7626,13 +7626,13 @@ personagem com status de herói, que adormece como uma criança.
 
 Justificativas:
 
-a\) Incorreta. O excesso de flechas para acertar apenas 1 alvo, embora
+1. Incorreta. O excesso de flechas para acertar apenas 1 alvo, embora
 possa ter um teor cômico, não é o fator principal de humor nessa tirinha
 
-b\) Incorreta. O disfarce do alvo, embora possa ter um teor cômico, não
+1. Incorreta. O disfarce do alvo, embora possa ter um teor cômico, não
 é o fator principal de humor nessa tirinha
 
-c\) Incorreta. A consequência do erro, na forma como é exposta pelo
+1. Incorreta. A consequência do erro, na forma como é exposta pelo
 segundo personagem, possui teor cômico, mas não é o fator principal de
 humor nessa tirinha
 

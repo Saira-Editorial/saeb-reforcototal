@@ -69,7 +69,7 @@ Linguagem clara e direta, utilização de recursos verbais e não verbais,
 escolha de fontes, cores e imagens que chamem a atenção do público alvo,
 entre outras.
 
-2\) Sobre os textos de divulgação científica assinale (V) para as
+1. Sobre os textos de divulgação científica assinale (V) para as
 afirmações verdadeiras e (F) para as afirmações falsas:
 
 ( ) Apresentam linguagem de difícil compreensão
@@ -98,11 +98,11 @@ muito mais saudável. Cortar no consumo de animais reduz o risco de ter o
 colesterol alto, previne vários cancros, aumenta a energia e ajuda a
 controlar o peso.
 
-3\) Qual a afirmação principal:
+1. Qual a afirmação principal:
 
 A afirmação principal é a de que a dieta vegetariana é mais saudável.
 
-4\) Quais argumentos baseiam a afirmação principal?
+1. Quais argumentos baseiam a afirmação principal?
 
 Os argumentos que baseiam a afirmação principal são: a dieta vegetariana
 reduz o risco de colesterol alto, diminui as chances de desenvolver
@@ -137,13 +137,13 @@ Disponível em :
 \<[[https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/03/06/estudo-em-sete-estados-aponta-que-uma-mulher-e-vitima-de-violencia-a-cada-quatro-horas.ghtml]{.underline}](https://g1.globo.com/rj/rio-de-janeiro/noticia/2023/03/06/estudo-em-sete-estados-aponta-que-uma-mulher-e-vitima-de-violencia-a-cada-quatro-horas.ghtml)\>
 Acesso: 31, mar 2023
 
-5\) O título da notícia pretende chamar a atenção para um assunto de
+1. O título da notícia pretende chamar a atenção para um assunto de
 utilidade pública, qual assunto é esse?
 
 O título da notícia traz números alarmantes sobre a quantidade de casos
 de violência contra a mulher em sete estados brasileiros.
 
-6\) Segundo as informações do corpo da notícia, relacione as colunas:
+1. Segundo as informações do corpo da notícia, relacione as colunas:
 
 +---------------------+-----------------------------------------------+
 | > (I)Ceará          | > ( ) O segundo colocado em número casos de   |
@@ -173,20 +173,20 @@ de violência contra a mulher em sete estados brasileiros.
 |                     | > de transfeminicídio nos anos anteriores     |
 +---------------------+-----------------------------------------------+
 
-7\) A notícia traz uma nova informação sobre violência contra mulher.
+1. A notícia traz uma nova informação sobre violência contra mulher.
 Que informação é essa?
 
 A notícia traz ainda dados sobre transfeminicídio, que diz respeito a
 homicídio de mulheres trans.
 
-8\) Segundo o texto da notícia, qual a principal motivação dos crimes de
+1. Segundo o texto da notícia, qual a principal motivação dos crimes de
 transfeminicídio no estado de Pernambuco?
 
 Segundo a matéria, a omissão do governo em promover políticas públicas
 contra os crimes de ódio são os fatores que influenciam no aumento dos
 casos no estado de Pernambuco
 
-9\) A matéria deixa claro que crimes de transfobia podem ser
+1. A matéria deixa claro que crimes de transfobia podem ser
 considerados um crime específico, trazendo nova informação à sua fala.
 Que tipo de crime é esse? Copie do texto o trecho em que a autora faz
 essa afirmação:
@@ -244,17 +244,17 @@ explícitos e argumentos em textos argumentativos (carta de leitor,
 comentário, artigo de opinião, resenha crítica etc.), manifestando
 concordância ou discordância.
 
-a\) Correta. O texto afirma que, motivadas por questões econômicas, as
+1. Correta. O texto afirma que, motivadas por questões econômicas, as
 pessoas migram de áreas onde a doença acontece para outras, espalhando a
 doença.
 
-b\) Incorreta. O texto faz alusão à meta dos governos de erradicar a
+1. Incorreta. O texto faz alusão à meta dos governos de erradicar a
 doença.
 
-c\) Incorreta. O texto afirma que o mosquito pode migrar de uma área
+1. Incorreta. O texto afirma que o mosquito pode migrar de uma área
 para outra.
 
-d\) Incorreta. No texto pode-se ler a afirmação de que o mosquito não
+1. Incorreta. No texto pode-se ler a afirmação de que o mosquito não
 conhece fronteiras e por isso é capaz de migrar de uma região para outra
 
 Nível: Fácil
@@ -292,17 +292,17 @@ argumentativos diversos (como a elaboração do título, escolhas lexicais,
 construções metafóricas, a explicitação ou a ocultação de fontes de
 informação) e perceber seus efeitos de sentido.
 
-a\) Incorreta. A afirmação apresentada não faz referência a nenhuma
+1. Incorreta. A afirmação apresentada não faz referência a nenhuma
 autoridade.
 
 b)Correta. De acordo com a opinião expressa no texto, o argumento entre
 aspas refere-se à atitude do governo em relação aos problemas escolares
 e segundo a autora são insuficientes para atacar o problema.
 
-c\) Incorreta. As aspas não indicam destaque e se trata apenas de parte
+1. Incorreta. As aspas não indicam destaque e se trata apenas de parte
 do argumento e faz referência a atitudes do governo estadual.
 
-d\) Incorreta, o termo entre aspas não aparece em outros momentos do
+1. Incorreta, o termo entre aspas não aparece em outros momentos do
 texto, nem faz referência a outros trechos, por isso, não representa
 ambiguidade.
 
@@ -346,17 +346,17 @@ argumentativos diversos (como a elaboração do título, escolhas lexicais,
 construções metafóricas, a explicitação ou a ocultação de fontes de
 informação) e perceber seus efeitos de sentido.
 
-a\) Correta. Segundo o texto, os aspectos culturais e afetivos devem ser
+1. Correta. Segundo o texto, os aspectos culturais e afetivos devem ser
 levados em conta para que a produção e consumo de alimentos saudáveis
 seja estimulada.
 
-b\) Incorreta. Se forem levados em conta os aspectos culturais e
+1. Incorreta. Se forem levados em conta os aspectos culturais e
 regionais para a produção de legumes, verduras e frutas, as práticas
 alimentares podem ser melhoradas. c) Incorreta. O texto não faz
 referência a essa afirmação,apenas cita a produção regional como uma
 saída.
 
-d\) Incorreta. As práticas alimentares devem ser resgatadas a fim de
+1. Incorreta. As práticas alimentares devem ser resgatadas a fim de
 promover a produção e distribuição de alimentos que compõem a cultura
 local.
 
@@ -756,16 +756,16 @@ anunciante e/ou da campanha e à construção composicional e estilo dos
 gêneros em questão, como forma de ampliar suas possibilidades de
 compreensão (e produção) de textos pertencentes a esses gêneros.
 
-a\) Incorreta. o texto não traz informações técnicas.
+1. Incorreta. o texto não traz informações técnicas.
 
-b\) Correta. O texto aborda forma simples questões ligadas à saúde de
+1. Correta. O texto aborda forma simples questões ligadas à saúde de
 idosos
 
-c\) Incorreta. O texto não pretende informar sobre esse assunto, apenas
+1. Incorreta. O texto não pretende informar sobre esse assunto, apenas
 cita que algumas perdas são inevitáveis e inerentes ao processo de
 envelhecimento.
 
-d\) Incorreta. O texto não traz narrativas detalhadas sobre os processos
+1. Incorreta. O texto não traz narrativas detalhadas sobre os processos
 inerentes ao envelhecimento, apenas cita como um fato.
 
 Nível: fácil
@@ -887,21 +887,21 @@ d)  O primeiro texto traz dados científicos sobre a dengue e o segundo é
 
 Saeb:Analisar a relação temática entre diferentes gêneros jornalísticos.
 
-a\) Incorreta. Embora os dois exemplos façam parte do domínio
+1. Incorreta. Embora os dois exemplos façam parte do domínio
 jornalístico midiático, o primeiro exemplo traz uma notícia sobre o
 número de casos e segundo exemplo traz indicações de ações para prevenir
 a proliferação do mosquito.
 
-b\) Correta. Os dois exemplos foram veiculados por agência de notícias e
+1. Correta. Os dois exemplos foram veiculados por agência de notícias e
 pertencem ao campo jornalístico. No primeiro exemplo, temos uma notícia
 sobre o número de casos de dengue em 2023 e o segundo exemplo traz
 indicações de ações de prevenção e combate à proliferação do mosquito
 que transmite a doença.
 
-c\) Incorreta. Embora o segundo exemplo possa ser considerado um texto
+1. Incorreta. Embora o segundo exemplo possa ser considerado um texto
 informativo, o primeiro exemplo não representa uma reportagem.
 
-d\) Incorreta. O primeiro exemplo não traz dados científicos e nem
+1. Incorreta. O primeiro exemplo não traz dados científicos e nem
 possui linguagem científica e técnica sobre o assunto.
 
 Nível: Médio
@@ -996,15 +996,15 @@ compreensão de textos pertencentes a esses gêneros e a possibilitar a
 produção de textos mais adequados e/ou fundamentados quando isso for
 requerido.
 
-a\) Incorreta. Os trechos não apresentam contradição, o segundo trecho
+1. Incorreta. Os trechos não apresentam contradição, o segundo trecho
 apenas trata de uma parcela da população em particular enquanto que o
 primeiro trata de toda a população brasileira.
 
-b\) Incorreta. Os trechos apresentam relação direta ao passo que a
+1. Incorreta. Os trechos apresentam relação direta ao passo que a
 população indígena faz parte da população brasileira e como tal também
 tem direitos civis garantidos pela lei.
 
-c\) Incorreta. Os dois trechos versam sobre direitos essenciais,
+1. Incorreta. Os dois trechos versam sobre direitos essenciais,
 portanto não tratam de questões distintas.
 
 d)Correta. Os dois trechos apresentam relação de complementaridade pois,
@@ -1311,19 +1311,19 @@ reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre
 as identidades, sociedades e culturas e considerando a autoria e o
 contexto social e histórico de sua produção
 
-a\) Correta. O trecho faz alusão à passagem das quatro estações do ano
+1. Correta. O trecho faz alusão à passagem das quatro estações do ano
 exemplificadas pelo ciclo natural da fruta murici, indica os períodos de
 seca e cheia, portanto indica a passagem de um ano.
 
-b\) Incorreta. Por meio das características citadas, tais como
+1. Incorreta. Por meio das características citadas, tais como
 ocorrência de chuvas, cheia, sol etc podemos perceber a passagem do
 tempo.
 
-c\) Incorreta. O trecho faz alusão a diversas características das
+1. Incorreta. O trecho faz alusão a diversas características das
 estações do ano, portanto mais de uma estação se passou, indicando a
 passagem de um ano.
 
-d\) O trecho mostra claramente a passagem das estações do ano, desta
+1. O trecho mostra claramente a passagem das estações do ano, desta
 forma indica a passagem de um tempo determinado.
 
 Nível: Difícil
@@ -1437,20 +1437,20 @@ e outras manifestações artísticas (como cinema, teatro, música, artes
 visuais e midiáticas), referências explícitas ou implícitas a outros
 textos, quanto aos temas, personagens e recursos literários e semióticos
 
-a\) Incorreta. Os traços de intertextualidade, paródias, traduções,
+1. Incorreta. Os traços de intertextualidade, paródias, traduções,
 sátiras etc não se configuram como plágio.
 
-b\) Incorreta. O movimento modernista brasileiro pretendia enaltecer a
+1. Incorreta. O movimento modernista brasileiro pretendia enaltecer a
 cultura própria do país,por isso, eram comuns releituras e referências a
 obras clássicas brasileiras.
 
-c\) Correta. O tipo de intertextualidade entre os dois poemas é chamado
+1. Correta. O tipo de intertextualidade entre os dois poemas é chamado
 de paródia. Pode ter a intenção de sátira, de crítica ou de homenagem.
 Neste caso, Murilo Mendes critica o nacionalismo no romantismo
 brasileiro e junto ao movimento modernista propõe uma nova forma de
 nacionalismo que valoriza a cultura brasileira.
 
-d\) O poema de Gonçalves Dias foi escrito cerca de 100 anos antes,
+1. O poema de Gonçalves Dias foi escrito cerca de 100 anos antes,
 portanto não pode ser baseado no poema de Murilo Mendes.
 
 Nível: Médio
@@ -1468,30 +1468,30 @@ visuais foram amplamente explorados pelos poetas do concretismo e contém
 algumas características próprias. Sobre as características da poesia
 concreta, assinale a alternativa correta:
 
-a\) Apenas as palavras são responsáveis pela criação do sentido do poema
+1. Apenas as palavras são responsáveis pela criação do sentido do poema
 
-b\) Deve seguir regras rígidas para a estrutura em versos rimados e
+1. Deve seguir regras rígidas para a estrutura em versos rimados e
 estrofes.
 
-c\) Apresenta imagens ilustrativas que não tem relação com o sentido do
+1. Apresenta imagens ilustrativas que não tem relação com o sentido do
 poema.
 
-d\) A articulação de imagens com as palavras como recurso estético para
+1. A articulação de imagens com as palavras como recurso estético para
 produzir sentido.
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
 
-a\) Incorreta. A poesia concreta e visual utiliza de recursos verbais e
+1. Incorreta. A poesia concreta e visual utiliza de recursos verbais e
 não verbais para produção de sentido.
 
 b)Incorreta. A poesia concreta rompia com as regras clássicas que
 propunham regras para a métrica e a rima.
 
-c\) As imagens fazem parte da constituição do poema e participam da
+1. As imagens fazem parte da constituição do poema e participam da
 produção de sentido.
 
-d\) Correta. A articulação entre os recursos verbais e não verbais é o
+1. Correta. A articulação entre os recursos verbais e não verbais é o
 traço mais característico da poesia concretista.
 
 Nível: fácil
@@ -1716,7 +1716,7 @@ um tijolo, muito diferente dos smartphones atuais, que são finos e
 revestidos de vidro.
 
 O aparelho de Cooper não tinha câmera e não enviava mensagens de texto.
-(\...) Hoje, ele não pensa nos smartphones modernos como um aparelho
+1...) Hoje, ele não pensa nos smartphones modernos como um aparelho
 para fazer chamadas telefônicas.
 
 "Realmente, ele não é um telefone muito bom em muitos aspectos", afirma
@@ -1756,11 +1756,11 @@ a)Incorreta. O texto apresenta mais de uma voz
 b)Incorreta. O texto apresenta a voz do autor e não cita o criador dos
 smartphones
 
-c\) Correta. O texto apresenta estas duas vozes: a do autor e do criador
+1. Correta. O texto apresenta estas duas vozes: a do autor e do criador
 do primeiro telefone móvel, este, por sua vez, evolui para os
 smartphones
 
-d\) Incorreta. O texto não apresenta a voz do criador do smartphone e
+1. Incorreta. O texto não apresenta a voz do criador do smartphone e
 sim do telefone móvel
 
 Nível: médio
@@ -1800,15 +1800,15 @@ de organização de referências bibliográficas) em textos científicos,
 desenvolvendo reflexão sobre o modo como a intertextualidade e a
 retextualização ocorrem nesses textos.
 
-a\) Incorreta. A voz do autor não pede uso de aspas
+1. Incorreta. A voz do autor não pede uso de aspas
 
-b\) Incorreta. As aspas não pretendem dar destaque e não se trata de uma
+1. Incorreta. As aspas não pretendem dar destaque e não se trata de uma
 explicação
 
-c\) O trecho cita o artigo mas as aspas não incidem sobre essa
+1. O trecho cita o artigo mas as aspas não incidem sobre essa
 informação
 
-d\) Correta. O trecho entre aspas indica a citação de um especialista em
+1. Correta. O trecho entre aspas indica a citação de um especialista em
 vida saudável na revista The Lancet.
 
 Nível fácil
@@ -1836,14 +1836,14 @@ d)  a referência a um estudo
 Analisar os efeitos de sentido decorrentes dos mecanismos de construção
 de textos jornalísticos/midiáticos.
 
-a\) Incorreta. A necessidade de uso massivo de máscaras não produz o
+1. Incorreta. A necessidade de uso massivo de máscaras não produz o
 efeito de sentido pedido na questão
 
-b\) Correta. O efeito de sentido está presente neste trecho, pois a
+1. Correta. O efeito de sentido está presente neste trecho, pois a
 possibilidade de impedir a segunda onda pode sensibilizar o leitor e
 chamá-lo para a responsabilidade
 
-c\) Incorreta. A ameaça de segunda onda aparece como um fato na manchete
+1. Incorreta. A ameaça de segunda onda aparece como um fato na manchete
 
 d)Incorreta. A referência a um estudo produz outro efeito de sentido que
 não a sensibilização do leitor e sim a confiabilidade da afirmação
@@ -2019,7 +2019,7 @@ Sobre o texto acima é correto afirmar que:
 
 a)Emite uma opinião e noticia um fato
 
-b\) noticia um fato
+1. noticia um fato
 
 c)noticia uma opinião apoiada em um fato
 
@@ -2027,12 +2027,12 @@ d)emite opinião
 
 Saeb:Distinguir fatos de opiniões em textos.
 
-a\) Incorreta. O trecho não apresenta opinião
+1. Incorreta. O trecho não apresenta opinião
 
 b)Correta. O texto apresenta dados de pesquisas que comprovam o fato de
 que o valor das cestas básicas diminui
 
-c\) Incorreta. Apesar de apresentar os dados de pesquisas, o trecho não
+1. Incorreta. Apesar de apresentar os dados de pesquisas, o trecho não
 emite opinião do autor
 
 d)Incorreta. O trecho não expressa opinião do autor sobre o tema
@@ -2070,11 +2070,11 @@ a)Incorreta. A citação não faz referência a quais seriam os desafios
 b)Incorreta. Segundo a construção da afirmação o trecho não traz a
 desigualdade como opinião
 
-c\) Correto. Segundo a construção da afirmação, a desigualdade se
+1. Correto. Segundo a construção da afirmação, a desigualdade se
 apresenta como um fato que se apresenta como dificuldade para garantia
 de direitos
 
-d\) Incorreta. Não são apresentados fatos nem opiniões sobre o brincar
+1. Incorreta. Não são apresentados fatos nem opiniões sobre o brincar
 
 Nível médio
 
@@ -2318,7 +2318,7 @@ tirinhas, charges, memes, gifs etc. --, o efeito de humor, ironia e/ou
 crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de
 clichês, de recursos iconográficos, de pontuação etc.
 
-a\) Incorreta. essas palavras não estão sendo usadas com sentido de
+1. Incorreta. essas palavras não estão sendo usadas com sentido de
 ambiguidade
 
 b)Incorreta. essas palavras não estão sendo utilizadas para a produção
@@ -2327,7 +2327,7 @@ de efeitos de sentido
 c)Incorreta. Não são estas as palavras que produzem efeitos de sentido
 mais importantes no texto
 
-d\) Correta. O uso das palavras foco e alvo produzem efeitos de sentido
+1. Correta. O uso das palavras foco e alvo produzem efeitos de sentido
 de ambiguidade e podem chamar a atenção da população para o problema e a
 forma de enfrentá-lo
 
@@ -2363,12 +2363,12 @@ tirinhas, charges, memes, gifs etc. --, o efeito de humor, ironia e/ou
 crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de
 clichês, de recursos iconográficos, de pontuação etc.
 
-a\) Correta. A palavra casa é utilizada em dois sentidos diferentes
+1. Correta. A palavra casa é utilizada em dois sentidos diferentes
 
 b)Incorreta. a tirinha não critica a falta de moradia e sim apresenta
 uma ironia sobre a educação das pessoas
 
-c\) Incorreta a tirinha não apresenta esse tipo de crítica
+1. Incorreta a tirinha não apresenta esse tipo de crítica
 
 d)Incorreta. a tirinha não faz alusão a esse fato
 
@@ -2616,7 +2616,7 @@ comunicação que divulga a notícia
 1.Policiamento nas cidades não geram mais segurança, é o que afirmam
 especialistas
 
-2\. Policiamento nas cidades é a principal medida de segurança anunciada
+1. Policiamento nas cidades é a principal medida de segurança anunciada
 pela prefeitura.
 
 A afirmação 1 apresenta maior grau de parcialidade pois defende uma
@@ -2651,13 +2651,13 @@ Saeb: Analisar marcas de parcialidade em textos jornalísticos.
 
 a)Incorreta. Este é um traço de imparcialidade
 
-b\) Incorreta. A apresentação de diferentes pontos de vista é uma forma
+1. Incorreta. A apresentação de diferentes pontos de vista é uma forma
 de garantir imparcialidade
 
-c\) Correta. A presença de adjetivos caracteriza a opinião do autor e é
+1. Correta. A presença de adjetivos caracteriza a opinião do autor e é
 uma marca de parcialidade
 
-d\) Incorreta. A presença de fontes e fatos garante certa imparcialidade
+1. Incorreta. A presença de fontes e fatos garante certa imparcialidade
 
 Nível fácil
 
@@ -2689,17 +2689,17 @@ d)  o uso de expressões que pretendem sensibilizar o leitor
 
 Saeb:Avaliar diferentes graus de parcialidade em textos jornalísticos.
 
-a\) Incorreta. A opinião do jornalista não é um recurso de
+1. Incorreta. A opinião do jornalista não é um recurso de
 imparcialidade
 
-b\) Incorreta. Embora o Acordo de Paris seja um documento importante,
+1. Incorreta. Embora o Acordo de Paris seja um documento importante,
 ele é citado como para se referir às metas de ambientais para reverter a
 situação climática
 
-c\) Correta. O uso de gráficos e recursos do tipo trazem maior clareza
+1. Correta. O uso de gráficos e recursos do tipo trazem maior clareza
 possibilitando ao leitor formar suas próprias opiniões
 
-d\) Incorreta. O uso de expressões que pretendem sensibilizar o leitor
+1. Incorreta. O uso de expressões que pretendem sensibilizar o leitor
 são recursos de persuasão importantes, porém não conferem imparcialidade
 ao texto
 
@@ -2739,13 +2739,13 @@ opinião enunciada em relação a esse mesmo fato.
 a)Correta. Já no título a notícia traz argumentos que levam a crer na
 necessidade de reajuste
 
-b\) Incorreta. As informações sobre data e local são partes importantes
+1. Incorreta. As informações sobre data e local são partes importantes
 da transmissão da notícia de forma imparcial
 
-c\) Incorreta. Estas informações não representam a opinião do veículo e
+1. Incorreta. Estas informações não representam a opinião do veículo e
 poderiam ser considerados recursos para atribuir veracidade à notícia
 
-d\) Incorreta. Estes dados não representam a opinião do veículo e
+1. Incorreta. Estes dados não representam a opinião do veículo e
 poderiam ser considerados recursos para corroborar a tese afirmada no
 título
 
@@ -2956,7 +2956,7 @@ height="1.7222222222222223in"}
 [[https://tirasarmandinho.tumblr.com/]{.underline}](https://tirasarmandinho.tumblr.com/)
 Acesso em 19 de Abr de 2023
 
-9\) Qual é a confusão comunicativa presente na tirinha?
+1. Qual é a confusão comunicativa presente na tirinha?
 
 A confusão se dá pois os personagens entendem o verbo falar em sentidos
 diferentes
@@ -3001,9 +3001,9 @@ textos diversos.
 Bncc:**(EF07LP14)**Identificar, em textos, os efeitos de sentido do uso
 de estratégias de modalização e argumentatividade.
 
-a\) Correta. A expressão faz alusão à frase anterior
+1. Correta. A expressão faz alusão à frase anterior
 
-b\) Incorreta. O texto não indica mudanças na situação da pandemia
+1. Incorreta. O texto não indica mudanças na situação da pandemia
 
 c)Incorreta. O trecho em destaque não faz alusão a este posicionamento
 do autor
@@ -3081,15 +3081,15 @@ linguístico-discursivos utilizados, como imagens, tempo verbal, jogos de
 palavras, figuras de linguagem etc., com vistas a fomentar práticas de
 consumo conscientes.
 
-a\) Correta. O verbo no gerúndio dá ideia de continuidade para a ação.
+1. Correta. O verbo no gerúndio dá ideia de continuidade para a ação.
 
-b\) Incorreta. A expressão de ordem geralmente utiliza o verbo no
+1. Incorreta. A expressão de ordem geralmente utiliza o verbo no
 infinito ou imperativo
 
-c\) Incorreta. Para sugestões,normalmente são utilizados verbos no
+1. Incorreta. Para sugestões,normalmente são utilizados verbos no
 infinitivo ou imperativo
 
-d\) Incorreta. O verbo no gerúndio não se refere a uma ação ocorrida no
+1. Incorreta. O verbo no gerúndio não se refere a uma ação ocorrida no
 passado, mas que ocorre no presente e pode continuar ocorrendo
 
 Nível difícil
@@ -3350,15 +3350,15 @@ diferentes
 
 gêneros.
 
-a\) Incorreta. O trecho não faz comparação
+1. Incorreta. O trecho não faz comparação
 
 b)Correta. O trecho exagera o termo para expressar o quanto o rapaz
 falava da moça
 
-c\) Incorreta. O trecho não utiliza um termo para significar outro termo
+1. Incorreta. O trecho não utiliza um termo para significar outro termo
 referente
 
-d\) Incorreta. O trecho não atribui características humanas a objetos
+1. Incorreta. O trecho não atribui características humanas a objetos
 inanimados ou fenômenos naturais.
 
 Nível Difícil
@@ -3390,10 +3390,10 @@ a)Incorreta. Não há exagero ou ênfase na tirinha
 
 b)Correta. A mãe faz uso da metáfora pois utiliza uma comparação
 
-c\) Incorreta. Não há atribuição de características humanas ao sol e sim
+1. Incorreta. Não há atribuição de características humanas ao sol e sim
 uma comparação
 
-d\) Incorreta. A tirinha não apresenta exemplo de metonímia
+1. Incorreta. A tirinha não apresenta exemplo de metonímia
 
 Nível fácil
 
@@ -3544,7 +3544,7 @@ b)  O engarrafamento no centro da cidade se prolongou. Houve inundações
 
 c)  Adoraria viajar nas minhas férias. Não tenho dinheiro para isso.
 
-a\) O clima da cidade é muito árido, mas quando vem o período das chuvas
+1. O clima da cidade é muito árido, mas quando vem o período das chuvas
 a vegetação revigora.
 
 b)O engarrafamento no centro da cidade se prolongou, pois houve
@@ -3613,7 +3613,7 @@ a)Incorreta. O termo se refere aos estudos tidos como padrão ouro
 b)Correta. O termo se refere aos estudos randomizados, tidos como padrão
 ouro
 
-c\) Incorreta. O termo não faz referência aos obstáculos que este tipo
+1. Incorreta. O termo não faz referência aos obstáculos que este tipo
 de pesquisa enfrenta
 
 d)Incorreta. O termo não faz referência especificamente aos estudos
@@ -3653,14 +3653,14 @@ Bncc: **(EF07LP12)**Reconhecer recursos de coesão referencial:
 substituições lexicais (de substantivos por sinônimos) ou pronominais
 (uso de pronomes anafóricos -- pessoais, possessivos, demonstrativos.
 
-a\) Incorreta. O termo não acrescenta novas informações ao texto
+1. Incorreta. O termo não acrescenta novas informações ao texto
 
-b\) Incorreta. A alternativa não apresenta uma característica dos
+1. Incorreta. A alternativa não apresenta uma característica dos
 recursos de coesão
 
-c\) Incorreta. O termo não se refere a esta característica
+1. Incorreta. O termo não se refere a esta característica
 
-d\) Correta. O termo aparece como recurso de coesão que, o evitar a
+1. Correta. O termo aparece como recurso de coesão que, o evitar a
 repetição, traz maior fluidez para a leitura
 
 Nível fácil
@@ -3693,15 +3693,15 @@ Bncc: **(EF07LP12)**Reconhecer recursos de coesão referencial:
 substituições lexicais (de substantivos por sinônimos) ou pronominais
 (uso de pronomes anafóricos -- pessoais, possessivos, demonstrativos.
 
-a\) Correta. O pronome substitui os contos tradicionais citados
+1. Correta. O pronome substitui os contos tradicionais citados
 anteriormente
 
-b\) Incorreta. O texto não menciona os escritores clássicos
+1. Incorreta. O texto não menciona os escritores clássicos
 
-c\) Incorreta. Embora apareçam alguns exemplos de personagens clássicos
+1. Incorreta. Embora apareçam alguns exemplos de personagens clássicos
 o termo não faz referência a eles
 
-d\) Incorreta.Embora os três porquinhos sejam citados no texto, o termo
+1. Incorreta.Embora os três porquinhos sejam citados no texto, o termo
 faz referência ao sujeito da última frase
 
 Nível médio
@@ -3919,15 +3919,15 @@ d)  Variação linguística Histórica
 Saeb: Avaliar a adequação das variedades linguísticas em contextos de
 uso
 
-a\) Incorreta. O texto apresenta características de informalidade
+1. Incorreta. O texto apresenta características de informalidade
 
-b\) Incorreta. O trecho não apresenta variação linguística devido ao uso
+1. Incorreta. O trecho não apresenta variação linguística devido ao uso
 técnico ou profissional
 
-c\) Correta. O texto apresenta variações linguística de cunho regional e
+1. Correta. O texto apresenta variações linguística de cunho regional e
 faz parte da tradição do folclore brasileiro
 
-d\) Incorreta. O trecho não contém traços de variedade linguística por
+1. Incorreta. O trecho não contém traços de variedade linguística por
 fatores históricos
 
 Nível médio
@@ -3958,14 +3958,14 @@ d)  se trata de um texto jurídico
 Saeb:Avaliar a adequação das variedades linguísticas em contextos de
 uso.
 
-a\) Incorreta. O trecho não representa um texto literário
+1. Incorreta. O trecho não representa um texto literário
 
-b\) Incorreta. O texto não apresenta características de informalidade
+1. Incorreta. O texto não apresenta características de informalidade
 
-c\) Correta. O uso de linguagem formal e de acordo com a norma culta é
+1. Correta. O uso de linguagem formal e de acordo com a norma culta é
 uma característica do gênero jornalístico
 
-d\) Incorreta. Apesar dos textos do campo jurídico exigirem o uso da
+1. Incorreta. Apesar dos textos do campo jurídico exigirem o uso da
 linguagem formal, o trecho não pode ser considerado como pertencente a
 este campo
 
@@ -4003,15 +4003,15 @@ d)  Variações linguísticas profissionais pois apenas os poetas
 
 Saeb: Analisar as variedades linguísticas em textos.
 
-a\) Correta. O poema apresenta variações linguísticas históricas e por
+1. Correta. O poema apresenta variações linguísticas históricas e por
 isso algumas expressões e conjugações verbais podem causar estranhamento
 
-b\) Incorreta. O gênero poesia não exige o uso da linguagem formal,
+1. Incorreta. O gênero poesia não exige o uso da linguagem formal,
 podendo inclusive trazer recursos não verbais para a produção de sentido
 
-c\) Incorreta. O poema não reproduz expressões e vocabulário regionais
+1. Incorreta. O poema não reproduz expressões e vocabulário regionais
 
-d\) Incorreta. Apesar da linguagem parecer técnica o poema não apresenta
+1. Incorreta. Apesar da linguagem parecer técnica o poema não apresenta
 jargões e expressões técnicas
 
 Nível difícil
@@ -4055,19 +4055,19 @@ argumentativos diversos (como a elaboração do título, escolhas lexicais,
 construções metafóricas, a explicitação ou a ocultação de fontes de
 informação) e perceber seus efeitos de sentido.
 
-a\) Incorreta. A escolha de fontes, tamanhos e cores é um fator
+1. Incorreta. A escolha de fontes, tamanhos e cores é um fator
 importante para a compreensão imediata da mensagem do texto, porém, não
 é o único recurso utilizado com essa finalidade.
 
-b\) Incorreta. Embora o texto faça alusão ao desmatamento e às
+1. Incorreta. Embora o texto faça alusão ao desmatamento e às
 queimadas, não se encontram explicações sobre os termos e suas
 consequências.
 
-c\) Correta. Os diversos recursos modais e o jogo de sentido no emprego
+1. Correta. Os diversos recursos modais e o jogo de sentido no emprego
 das palavras destacadas são os principais recursos de persuasão,
 sensibilização e chamada para mudança de atitudes presente no cartaz.
 
-d\) Incorreta. Embora as imagens contribuam para a compreensão da
+1. Incorreta. Embora as imagens contribuam para a compreensão da
 mensagem, de forma isolada não contribuem para o sentido da mensagem.
 
 **Questão 2:**
@@ -4121,13 +4121,13 @@ domínio
 
 jornalístico/midiático
 
-a\) Incorreta. O trecho corresponde ao título da notícia.
+1. Incorreta. O trecho corresponde ao título da notícia.
 
-b\) Incorreta. O trecho corresponde ao corpo da notícia.
+1. Incorreta. O trecho corresponde ao corpo da notícia.
 
-c\) Incorreta. O trecho compõe o lide da notícia.
+1. Incorreta. O trecho compõe o lide da notícia.
 
-d\) Correta. A linha fina aparece como uma introdução ao assunto da
+1. Correta. A linha fina aparece como uma introdução ao assunto da
 notícia e se localiza entre o título e lide.
 
 **Questão 3:**
@@ -4158,13 +4158,13 @@ d)  traz informações científicas em linguagem clara e acessível ao
 
 Identificar elementos constitutivos de gêneros de divulgação científica
 
-a\) Incorreta. O texto não apresenta linguagem técnica
+1. Incorreta. O texto não apresenta linguagem técnica
 
-b\) Incorreta. O texto não é destinado apenas a cientistas
+1. Incorreta. O texto não é destinado apenas a cientistas
 
-c\) Incorreta. O trecho não aborda fatos cotidianos
+1. Incorreta. O trecho não aborda fatos cotidianos
 
-d\) Correta. O texto faz uso de linguagem clara e acessível para
+1. Correta. O texto faz uso de linguagem clara e acessível para
 divulgar estudos científicos para o público em geral
 
 **Questão 4:**
@@ -4186,14 +4186,14 @@ Os gêneros textuais reivindicatórios são textos que circulam no campo da
 vida pública e possuem função social e estrutura específicas. O texto
 acima é um modelo de Requerimento pois tem como objetivo:
 
-a\) convencer o destinatário a realizar uma ação importante.
+1. convencer o destinatário a realizar uma ação importante.
 
-b\) solicitar formalmente ao destinatário a realização de uma ação.
+1. solicitar formalmente ao destinatário a realização de uma ação.
 
-c\) mudar o comportamento do destinatário a partir da realização de
+1. mudar o comportamento do destinatário a partir da realização de
 ações.
 
-d\) informar formalmente o destinatário acerca da solicitação de ações.
+1. informar formalmente o destinatário acerca da solicitação de ações.
 
 Identificar formas de organização de textos normativos, legais e/ou
 reivindicatórios.
@@ -4209,13 +4209,13 @@ a escrita fundamentada de cartas como essas ou de postagens em canais
 próprios de reclamações e solicitações em situações que envolvam
 questões relativas à escola, à comunidade ou a algum dos seus membros.
 
-a\) Incorreta. O texto não pretende convencer
+1. Incorreta. O texto não pretende convencer
 
-b\) Correta. O texto pretende solicitar uma transferência de instituição
+1. Correta. O texto pretende solicitar uma transferência de instituição
 
-c\) Incorreta. Não há indicação de mudança de atitude
+1. Incorreta. Não há indicação de mudança de atitude
 
-d\) Incorreta. O objetivo não é informar e sim solicitar
+1. Incorreta. O objetivo não é informar e sim solicitar
 
 **Questão 5:**
 
@@ -4258,13 +4258,13 @@ Analisar elementos constitutivos de textos pertencentes ao domínio
 
 literário.
 
-a\) Correta. O texto acima é um exemplo de texto teatral ou dramático
+1. Correta. O texto acima é um exemplo de texto teatral ou dramático
 
-b\) Incorreta. O trecho acima não é composto por versos e estrofes
+1. Incorreta. O trecho acima não é composto por versos e estrofes
 
-c\) Incorreta. O trecho acima não apresenta características de conto
+1. Incorreta. O trecho acima não apresenta características de conto
 
-d\) O trecho acima não possui características de conto
+1. O trecho acima não possui características de conto
 
 **Questão 6:**
 
@@ -4292,13 +4292,13 @@ d)  O São Paulo num intervalo de três anos ganhou Paulista, Libertadores
 
 Saeb: Distinguir fatos de opiniões em textos
 
-a\) Incorreta. Este trecho representa a opinião do jornalista
+1. Incorreta. Este trecho representa a opinião do jornalista
 
-b\) Incorreta. Este trecho representa a opinião do jornalista
+1. Incorreta. Este trecho representa a opinião do jornalista
 
-c\) Incorreta. Este trecho representa a opinião do jornalista
+1. Incorreta. Este trecho representa a opinião do jornalista
 
-d\) Correta. Este trecho apresenta um fato
+1. Correta. Este trecho apresenta um fato
 
 **Questão 7:**
 
@@ -4329,13 +4329,13 @@ clichês, de recursos iconográficos, de pontuação etc.
 a)Correta. As charges em geral pretendem provocar humor e reflexão por
 meio da crítica social
 
-b\) Incorreta. Não pretende provocar tristeza, apesar de trazer temas
+1. Incorreta. Não pretende provocar tristeza, apesar de trazer temas
 difíceis
 
-c\) Incorreta. A charge não pretende causar revolta, embora provoque
+1. Incorreta. A charge não pretende causar revolta, embora provoque
 reflexão e crítica
 
-d\) Incorreta. A charge não pretende trazer mensagem de alegria
+1. Incorreta. A charge não pretende trazer mensagem de alegria
 
 **Questão 8:**
 
@@ -4367,13 +4367,13 @@ outras manifestações artísticas (como cinema, teatro, música, artes
 visuais e midiáticas), referências explícitas ou implícitas a outros
 textos, quanto aos temas, personagens e recursos literários e semióticos
 
-a\) Incorreta. Este não é um recurso de persuasão
+1. Incorreta. Este não é um recurso de persuasão
 
-b\) Incorreta. Este não é um recurso de coesão
+1. Incorreta. Este não é um recurso de coesão
 
-c\) Incorreta. Neste exemplo não ocorre o uso de metáfora
+1. Incorreta. Neste exemplo não ocorre o uso de metáfora
 
-d\) Correta. O uso de outros textos como modelo ou ponto de partida é
+1. Correta. O uso de outros textos como modelo ou ponto de partida é
 chamado de intertextualidade.
 
 **Questão 9:**
@@ -4410,15 +4410,15 @@ reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre
 as identidades, sociedades e culturas e considerando a autoria e o
 contexto social e histórico de sua produção.
 
-a\) Incorreta. O trecho não retrata um mito ou lenda
+1. Incorreta. O trecho não retrata um mito ou lenda
 
-b\) Correta. No trecho Ailton Krenak explica a maneira como os povos
+1. Correta. No trecho Ailton Krenak explica a maneira como os povos
 indígenas enxergam os recursos naturais
 
-c\) Incorreta. Apesar de trazer o termo utilizado para designar o rio,
+1. Incorreta. Apesar de trazer o termo utilizado para designar o rio,
 não traz informações sobre a língua
 
-d\) Incorreta. O trecho não faz referência à forma como essas questões
+1. Incorreta. O trecho não faz referência à forma como essas questões
 são tratadas dentro da tradição indígena.
 
 **Questão 10:**
@@ -4453,15 +4453,15 @@ d)  Idade da paciente que precisa se cuidar cada vez mais
 
 Analisar os mecanismos que contribuem para a progressão textual.
 
-a\) Incorreta.Esta informação aparece depois do recurso
+1. Incorreta.Esta informação aparece depois do recurso
 
-b\) Correta. O termo refere-se às doenças que exigem mais cuidados na
+1. Correta. O termo refere-se às doenças que exigem mais cuidados na
 hora da limpeza
 
 c)Incorreta. O termo não se refere a orientações médicas, e sim ao que
 leva a precisar de certos cuidados
 
-d\) Incorreta. Apesar de trazer a informação sobre a idade o termo não
+1. Incorreta. Apesar de trazer a informação sobre a idade o termo não
 se refere a isso e sim à condição de saúde
 
 **Questão 11:**
@@ -4490,13 +4490,13 @@ d)  Para as meninas os números são ainda piores
 Saeb:Analisar o uso de figuras de linguagem como estratégia
 argumentativa
 
-a\) Correta. O termo grudados a uma tela representa figura de linguagem
+1. Correta. O termo grudados a uma tela representa figura de linguagem
 
-b\) Incorreta. O termo não apresenta figura de linguagem
+1. Incorreta. O termo não apresenta figura de linguagem
 
-c\) Incorreta. O termo não apresenta figura de linguagem
+1. Incorreta. O termo não apresenta figura de linguagem
 
-d\) Incorreta. O termo não apresenta figura de linguagem
+1. Incorreta. O termo não apresenta figura de linguagem
 
 **Questão 12:**
 
@@ -4523,15 +4523,15 @@ d)  mortes por covid
 
 Saeb:Analisar os processos de referenciação lexical e pronominal.
 
-a\) Incorreta. O conectivo não se refere a acontecimentos inesperados
+1. Incorreta. O conectivo não se refere a acontecimentos inesperados
 
-b\) Incorreta. Embora esteja na mesma frase, algo não se refere a este
+1. Incorreta. Embora esteja na mesma frase, algo não se refere a este
 fato
 
-c\) Correta. O cientista afirma que a substituição deve ocorrer em cerca
+1. Correta. O cientista afirma que a substituição deve ocorrer em cerca
 de três semanas
 
-d\) Incorreta. O texto não traz informações sobre mortes por covid
+1. Incorreta. O texto não traz informações sobre mortes por covid
 
 **questão 13:**
 
@@ -4558,15 +4558,15 @@ d)  Argumento por ilustração
 Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
 
-a\) Incorreta. O trecho não cita quem profere as afirmações, portanto
+1. Incorreta. O trecho não cita quem profere as afirmações, portanto
 não se sabe se é um argumento de autoridade
 
-b\) Incorreta. O trecho não traz exemplos
+1. Incorreta. O trecho não traz exemplos
 
-c\) Correta. O trecho utiliza de argumentos que, em geral, não geram
+1. Correta. O trecho utiliza de argumentos que, em geral, não geram
 discordância
 
-d\) Incorreta. Neste caso, não são citados exemplos como estratégia de
+1. Incorreta. Neste caso, não são citados exemplos como estratégia de
 argumentação
 
 **questão 14:**
@@ -4592,16 +4592,16 @@ d)  O uso dos verbos no infinitivo indica uma ordem
 Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais com
 base no gênero textual e na intenção comunicativa.
 
-a\) Correta. O verbo no modo imperativo tem a função de instrução e
+1. Correta. O verbo no modo imperativo tem a função de instrução e
 neste caso, de maneira afirmativa, sugere uma mudança de atitude por
 parte do leitor
 
-b\) Incorreta.Os verbos não estão no infinitivo
+1. Incorreta.Os verbos não estão no infinitivo
 
-c\) Incorreta. Os verbos não estão no modo subjuntivo e não indicam
+1. Incorreta. Os verbos não estão no modo subjuntivo e não indicam
 advertência
 
-d\) Incorreta. O uso de verbos no imperativo, como no exemplo podem
+1. Incorreta. O uso de verbos no imperativo, como no exemplo podem
 indicar uma ordem, porém a imagem não traz verbos no infinitivo
 
 **questão 15:**
@@ -4625,13 +4625,13 @@ d)  a campanha utiliza linguagem formal para atingir todos os públicos
 
 Avaliar a adequação das variedades linguísticas em contextos de uso.
 
-a\) Incorreta. A campanha não utiliza linguagem formal
+1. Incorreta. A campanha não utiliza linguagem formal
 
-b\) Incorreta. Apesar de fazer uso da linguagem informal a campanha tem
+1. Incorreta. Apesar de fazer uso da linguagem informal a campanha tem
 um público alvo bem claro
 
-c\) Correta. A campanha faz uso de linguagem informal para atingir os
+1. Correta. A campanha faz uso de linguagem informal para atingir os
 jovens
 
-d\) Incorreta. A campanha não faz uso de linguagem formal, nem pretende
+1. Incorreta. A campanha não faz uso de linguagem formal, nem pretende
 atingir todos os públicos
