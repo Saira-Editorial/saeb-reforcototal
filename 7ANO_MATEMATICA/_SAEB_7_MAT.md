@@ -4,24 +4,24 @@ Habilidades BNCC: EF07MA01, EF07MA03, EF07MA10.
 
 Habilidades SAEB:
 
-\- Escrever números racionais (representação fracionária ou decimal
+* Escrever números racionais (representação fracionária ou decimal
 finita) em sua representação por algarismos ou em língua materna ou
 associar o registro numérico ao registro em língua materna.
 
-\- Compor ou decompor números racionais positivos (representação decimal
+* Compor ou decompor números racionais positivos (representação decimal
 finita) na forma aditiva, ou em suas ordens, ou em adições e
 multiplicações.
 
-\- Identificar números racionais ou irracionais.
+* Identificar números racionais ou irracionais.
 
-\- Comparar ou ordenar números reais, com ou sem suporte da reta
+* Comparar ou ordenar números reais, com ou sem suporte da reta
 numérica, ou aproximar números reais para múltiplos de potência de 10
 mais próxima.
 
-\- Converter uma representação de um número racional positivo para outra
+* Converter uma representação de um número racional positivo para outra
 representação.
 
-\- Identificar um número natural como primo, composto, "múltiplo/fator
+* Identificar um número natural como primo, composto, "múltiplo/fator
 de" ou "divisor de" ou identificar a decomposição de um número natural
 em fatores primos ou relacionar as propriedades aritméticas (primo,
 composto, "múltiplo/fator de" ou "divisor de") de um número natural à
@@ -424,10 +424,10 @@ Habilidades BNCC: EF07MA01, EF07MA03, EF07MA10.
 
 Habilidades SAEB:
 
-\- Converter uma representação de um número racional positivo para outra
+* Converter uma representação de um número racional positivo para outra
 representação.
 
-\- Escrever números racionais (representação fracionária ou decimal
+* Escrever números racionais (representação fracionária ou decimal
 finita) em sua representação por algarismos ou em língua materna ou
 associar o registro numérico ao registro em língua materna.
 
@@ -499,7 +499,7 @@ Habilidades SAEB:
 -Converter uma representação de um número racional positivo para outra
 representação.
 
-\- Identificar um número natural como primo, composto, "múltiplo/fator
+* Identificar um número natural como primo, composto, "múltiplo/fator
 de" ou "divisor de" ou identificar a decomposição de um número natural
 em fatores primos ou relacionar as propriedades aritméticas (primo,
 composto, "múltiplo/fator de" ou "divisor de") de um número natural à
@@ -522,20 +522,20 @@ Habilidade BNCC: EF07MA04
 
 Habilidades SAEB:
 
-\- Calcular o resultado de adições, subtrações, multiplicações ou
+* Calcular o resultado de adições, subtrações, multiplicações ou
 divisões envolvendo números reais.
 
-\- Calcular o resultado de potenciação ou radiciação envolvendo números
+* Calcular o resultado de potenciação ou radiciação envolvendo números
 reais.
 
-\- Resolver problemas de adição, subtração, multiplicação, divisão,
+* Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo números reais, inclusive notação
 científica.
 
-\- Resolver problemas de contagem cuja resolução envolva a aplicação do
+* Resolver problemas de contagem cuja resolução envolva a aplicação do
 princípio multiplicativo.
 
-\- Resolver problemas que envolvam as ideias de múltiplo, divisor,
+* Resolver problemas que envolvam as ideias de múltiplo, divisor,
 máximo divisor comum ou mínimo múltiplo comum.
 
 Box teoria
@@ -1091,13 +1091,13 @@ Habilidades BNCC: EF07MA08, EF07MA09.
 
 Habilidades SAEB:
 
-\- Representar frações menores ou maiores que a unidade por meio de
+* Representar frações menores ou maiores que a unidade por meio de
 representações pictóricas ou associar frações a representações
 pictóricas.
 
-\- Identificar frações equivalentes.
+* Identificar frações equivalentes.
 
-\- Determinar uma fração geratriz para uma dízima periódica.
+* Determinar uma fração geratriz para uma dízima periódica.
 
 Box teoria
 
@@ -2173,15 +2173,15 @@ Habilidades BNCC: EF07MA18
 
 Habilidades SAEB:
 
-\- Resolver uma equação polinomial de 1º grau.
+* Resolver uma equação polinomial de 1º grau.
 
-\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+* Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modelam um problema.
 
-\- Associar uma equação polinomial de 1º grau com duas variáveis a uma
+* Associar uma equação polinomial de 1º grau com duas variáveis a uma
 reta no plano cartesiano.
 
-\- Resolver problemas que possam ser representados por sistema de
+* Resolver problemas que possam ser representados por sistema de
 equações de 1º grau com duas incógnitas.
 
 Box de teoria
@@ -2591,9 +2591,9 @@ Habilidade BNCC: EF07MA18
 
 Habilidades SAEB:
 
-\- Resolver uma equação polinomial de 1º grau.
+* Resolver uma equação polinomial de 1º grau.
 
-\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+* Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modelam um problema.
 
 A - Errada, pois se os pesos valessem 15kg cada um, a bandeja da direita
@@ -2628,9 +2628,9 @@ Habilidade BNCC: EF07MA18
 
 Habilidades SAEB:
 
-\- Resolver uma equação polinomial de 1º grau.
+* Resolver uma equação polinomial de 1º grau.
 
-\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+* Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modelam um problema.
 
 A - Correta, $3n + 41 = 143$
@@ -2671,9 +2671,9 @@ Habilidade BNCC: EF07MA18
 
 Habilidades SAEB:
 
-\- Resolver uma equação polinomial de 1º grau.
+* Resolver uma equação polinomial de 1º grau.
 
-\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+* Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modelam um problema..
 
 A - Errada, se comprasse 5 cartelas, teria retornado com R\$39,00
@@ -2697,14 +2697,14 @@ Habilidades BNCC: EF07MA13; EF07MA14; EF07MA15; EF07MA16
 
 Habilidades SAEB:
 
-\- Identificar uma representação algébrica para o padrão ou a
+* Identificar uma representação algébrica para o padrão ou a
 regularidade de uma sequência de números racionais ou representar
 algebricamente o padrão ou a regularidade de uma sequência de números
 racionais.
 
-\- Identificar representações algébricas equivalentes.
+* Identificar representações algébricas equivalentes.
 
-\- Resolver problemas que envolvam cálculo do valor numérico de
+* Resolver problemas que envolvam cálculo do valor numérico de
 expressões algébricas.
 
 Box teoria
@@ -3623,27 +3623,27 @@ Habilidades BNCC: EF07MA19; EF07MA20; EF07MA21.
 
 Habilidades SAEB:
 
-\- Identificar, no plano cartesiano, figuras obtidas por uma ou mais
+* Identificar, no plano cartesiano, figuras obtidas por uma ou mais
 transformações geométricas (reflexão, translação, rotação).
 
-\- Relacionar o número de vértices, faces ou arestas de prismas ou
+* Relacionar o número de vértices, faces ou arestas de prismas ou
 pirâmides, em função do seu polígono da base.
 
-\- Relacionar objetos tridimensionais às suas planificações ou vistas.
+* Relacionar objetos tridimensionais às suas planificações ou vistas.
 
-\- Classificar polígonos em regulares e não regulares.
+* Classificar polígonos em regulares e não regulares.
 
-\- Reconhecer polígonos semelhantes ou as relações existentes entre
+* Reconhecer polígonos semelhantes ou as relações existentes entre
 ângulos e lados correspondentes nesses tipos de polígonos.
 
-\- Reconhecer circunferência/círculo como lugares geométricos, seus
+* Reconhecer circunferência/círculo como lugares geométricos, seus
 elementos (centro, raio, diâmetro, corda, arco, ângulo central, ângulo
 inscrito).
 
-\- Construir/desenhar figuras geométricas planas ou espaciais que
+* Construir/desenhar figuras geométricas planas ou espaciais que
 satisfaçam as condições dadas.
 
-\- Resolver problemas que envolvam relações entre os elementos de uma
+* Resolver problemas que envolvam relações entre os elementos de uma
 circunferência/círculo (raio, diâmetro, corda, arco, ângulo central,
 ângulo inscrito).
 
@@ -3970,14 +3970,14 @@ Habilidades BNCC: EF07MA19; EF07MA20; EF07MA21.
 
 Habilidades SAEB:
 
-\- Relacionar objetos tridimensionais às suas planificações ou vistas.
+* Relacionar objetos tridimensionais às suas planificações ou vistas.
 
-\- Classificar polígonos em regulares e não regulares.
+* Classificar polígonos em regulares e não regulares.
 
-\- Reconhecer polígonos semelhantes ou as relações existentes entre
+* Reconhecer polígonos semelhantes ou as relações existentes entre
 ângulos e lados correspondentes nesses tipos de polígonos.
 
-\- Construir/desenhar figuras geométricas planas ou espaciais que
+* Construir/desenhar figuras geométricas planas ou espaciais que
 satisfaçam as condições dadas.
 
 A - Errada, pois uma pirâmide não possui a largura, altura e dimensões
@@ -4024,34 +4024,34 @@ Habilidades BNCC: EF07MA23; EF07MA24; EF07MA25.
 
 Habilidades SAEB:
 
-\- Identificar propriedades e relações existentes entre os elementos de
+* Identificar propriedades e relações existentes entre os elementos de
 um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
 determinação da medida de um ângulo interno ou externo).
 
-\- Classificar triângulos ou quadriláteros em relação aos lados ou aos
+* Classificar triângulos ou quadriláteros em relação aos lados ou aos
 ângulos internos.
 
-\- Identificar retas ou segmentos de retas concorrentes, paralelos ou
+* Identificar retas ou segmentos de retas concorrentes, paralelos ou
 perpendiculares.
 
-\- Identificar relações entre ângulos formados por retas paralelas
+* Identificar relações entre ângulos formados por retas paralelas
 cortadas por uma transversal.
 
-\- Resolver problemas que envolvam relações entre ângulos formados por
+* Resolver problemas que envolvam relações entre ângulos formados por
 retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
 
-\- Resolver problemas que envolvam relações métricas do triângulo
+* Resolver problemas que envolvam relações métricas do triângulo
 retângulo, incluindo o teorema de Pitágoras.
 
-\- Resolver problemas que envolvam polígonos semelhantes.
+* Resolver problemas que envolvam polígonos semelhantes.
 
-\- Resolver problemas que envolvam aplicação das relações de
+* Resolver problemas que envolvam aplicação das relações de
 proporcionalidade abrangendo retas paralelas cortadas por transversais.
 
-\- Determinar o ponto médio de um segmento de reta ou a distância entre
+* Determinar o ponto médio de um segmento de reta ou a distância entre
 dois pontos quaisquer, dadas as coordenadas desses pontos no plano
 cartesiano.
 
@@ -4837,22 +4837,22 @@ Habilidades BNCC: EF07MA35, EF07MA37.
 
 Habilidades SAEB:
 
-\- Identificar os indivíduos (universo ou população-alvo da pesquisa),
+* Identificar os indivíduos (universo ou população-alvo da pesquisa),
 as variáveis e os tipos de variáveis (quantitativas ou categóricas) em
 um conjunto de dados.
 
-\- Representar ou associar os dados de uma pesquisa estatística ou de um
+* Representar ou associar os dados de uma pesquisa estatística ou de um
 levantamento em listas, tabelas (simples ou de dupla entrada) ou
 gráficos (barras simples ou agrupadas, colunas simples ou agrupadas,
 pictóricos, de linhas, de setores, ou em histograma).
 
-\- Inferir a finalidade da realização de uma pesquisa estatística ou de
+* Inferir a finalidade da realização de uma pesquisa estatística ou de
 um levantamento, dada uma tabela (simples ou de dupla entrada) ou
 gráfico (barras simples ou agrupadas, colunas simples ou agrupadas,
 pictóricos, de linhas, de setores ou em histograma) com os dados dessa
 pesquisa. 
 
-\- Interpretar o significado das medidas de tendência central (média,
+* Interpretar o significado das medidas de tendência central (média,
 aritmética simples, moda e mediana) ou da amplitude.
 
  - Calcular os valores de medidas de tendência central de uma pesquisa
@@ -5311,7 +5311,7 @@ Habilidades BNCC: EF07MA35, EF07MA37.
 
 Habilidades SAEB:
 
-\- Interpretar o significado das medidas de tendência central (média,
+* Interpretar o significado das medidas de tendência central (média,
 aritmética simples, moda e mediana) ou da amplitude.
 
  - Calcular os valores de medidas de tendência central de uma pesquisa
@@ -5357,7 +5357,7 @@ Habilidades BNCC: EF07MA35, EF07MA37.
 
 Habilidades SAEB:
 
-\- Interpretar o significado das medidas de tendência central (média,
+* Interpretar o significado das medidas de tendência central (média,
 aritmética simples, moda e mediana) ou da amplitude.
 
  - Calcular os valores de medidas de tendência central de uma pesquisa
@@ -5414,15 +5414,15 @@ Habilidades BNCC: EF07MA29; EF07MA30; EF07MA31; EF07MA32;
 
 Habilidades SAEB:
 
-\- Resolver problemas que envolvam medidas de grandezas (comprimento,
+* Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais.
 
-\- Resolver problemas que envolvam perímetro de figuras planas.
+* Resolver problemas que envolvam perímetro de figuras planas.
 
-\- Resolver problemas que envolvam área de figuras planas.
+* Resolver problemas que envolvam área de figuras planas.
 
-\- Resolver problemas que envolvam volume de prismas retos ou cilindros
+* Resolver problemas que envolvam volume de prismas retos ou cilindros
 retos.
 
 Box teoria
@@ -5842,11 +5842,11 @@ Resposta: D
 Habilidades BNCC: EF07MA29, EF07MA31\
 Habilidades SAEB:
 
-\- Resolver problemas que envolvam medidas de grandezas (comprimento,
+* Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais
 
-\- Resolver problemas que envolvam área de figuras planas.
+* Resolver problemas que envolvam área de figuras planas.
 
 A - Errada, pois transformou errado cm² para m².
 
@@ -5945,7 +5945,7 @@ Habilidade BNCC: EF07MA34
 
 Habilidades SAEB:
 
-\- Resolver problemas que envolvam a probabilidade de ocorrência de um
+* Resolver problemas que envolvam a probabilidade de ocorrência de um
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes.
 

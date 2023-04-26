@@ -4,18 +4,18 @@ BNCC: EF06MA01 EF06MA05
 
 Habilidades SAEB
 
-\- Escrever números racionais (representação fracionária ou decimal
+* Escrever números racionais (representação fracionária ou decimal
 finita) em sua representação por algarismos ou em língua materna ou
 associar o registro numérico ao registro em língua materna.
 
-\- Compor ou decompor números racionais positivos (representação decimal
+* Compor ou decompor números racionais positivos (representação decimal
 finita) na forma aditiva, ou em suas ordens, ou em adições e
 multiplicações.
 
-\- Comparar ou ordenar números reais, com ou sem suporte da reta
+* Comparar ou ordenar números reais, com ou sem suporte da reta
 numérica
 
-\- Converter uma representação de um número racional positivo para outra
+* Converter uma representação de um número racional positivo para outra
 representação. - Identificar um número natural como primo, composto,
 "múltiplo/fator de" ou "divisor de" ou identificar a decomposição de um
 número natural em fatores primos ou relacionar as propriedades
@@ -228,7 +228,7 @@ numeração, a ordem dos símbolos não modifica o número escrito.
 1. Represente a quantidade de objetos a seguir nos sistemas de
 numeração romano e decimal
 
-> a\)
+1. 
 
 ![](./imgSAEB_6_MAT/media/image12.png){width="2.3224300087489063in"
 height="1.1019794400699912in"}
@@ -431,7 +431,7 @@ Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
 científica.
 
-\- Resolver problemas de contagem cuja resolução envolva a aplicação do
+1.Resolver problemas de contagem cuja resolução envolva a aplicação do
 princípio multiplicativo. - Resolver problemas que envolvam as ideias de
 múltiplo, divisor, máximo divisor comum ou mínimo múltiplo comum.
 
@@ -877,13 +877,13 @@ BNCC: EF06MA09
 
 Habilidades Saeb
 
-\- Representar frações menores ou maiores que a unidade por meio de
+* Representar frações menores ou maiores que a unidade por meio de
 representações pictóricas ou associar frações a representações
 pictóricas.
 
-\- Identificar frações equivalentes.
+* Identificar frações equivalentes.
 
-\- Determinar uma fração geratriz para uma dízima periódica
+* Determinar uma fração geratriz para uma dízima periódica
 
 Uma fração** **é um número usado para representar parcela de um valor
 inteiro que foi dividido em partes iguais, ou seja, se um objeto
@@ -1281,7 +1281,7 @@ Módulo 4
 
 BNCC: EF06MA13
 
-\- Resolver problemas que envolvam porcentagens, incluindo os que lidam
+* Resolver problemas que envolvam porcentagens, incluindo os que lidam
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
 
@@ -1616,15 +1616,15 @@ BNCC: EF06MA14
 
 Habilidades Saeb
 
-\- Resolver uma equação polinomial de 1º grau.
+* Resolver uma equação polinomial de 1º grau.
 
-\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+* Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modela um problema.
 
-\- Associar uma equação polinomial de 1º grau com duas variáveis a uma
+* Associar uma equação polinomial de 1º grau com duas variáveis a uma
 reta no plano cartesiano.
 
-\- Resolver problemas que possam ser representados por sistema de
+* Resolver problemas que possam ser representados por sistema de
 equações de 1º grau com duas incógnitas.
 
 A equação do 1º grau 
@@ -2442,24 +2442,24 @@ Habilidades Saeb:
 Identificar, no plano cartesiano, figuras obtidas por uma ou mais
 transformações geométricas (reflexão, translação, rotação).
 
-\- Relacionar o número de vértices, faces ou arestas de prismas ou
+* Relacionar o número de vértices, faces ou arestas de prismas ou
 pirâmides, em função do seu polígono da base.
 
-\- Relacionar objetos tridimensionais às suas planificações ou vistas.
+* Relacionar objetos tridimensionais às suas planificações ou vistas.
 
-\- Classificar polígonos em regulares e não regulares.
+* Classificar polígonos em regulares e não regulares.
 
-\- Reconhecer polígonos semelhantes ou as relações existentes entre
+* Reconhecer polígonos semelhantes ou as relações existentes entre
 ângulos e lados correspondentes nesses tipos de polígonos.
 
-\- Reconhecer circunferência/círculo como lugares geométricos, seus
+* Reconhecer circunferência/círculo como lugares geométricos, seus
 elementos (centro, raio, diâmetro, corda, arco, ângulo central, ângulo
 inscrito).
 
-\- Construir/desenhar figuras geométricas planas ou espaciais que
+* Construir/desenhar figuras geométricas planas ou espaciais que
 satisfaçam condições dadas.
 
-\- Resolver problemas que envolvam relações entre os elementos de uma
+* Resolver problemas que envolvam relações entre os elementos de uma
 circunferência/círculo (raio, diâmetro, corda, arco, ângulo central,
 ângulo inscrito).
 
@@ -2820,34 +2820,34 @@ BNCC: EF06MA19
 
 Habilidades Saeb
 
-\- Identificar propriedades e relações existentes entre os elementos de
+* Identificar propriedades e relações existentes entre os elementos de
 um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
 determinação da medida de um ângulo interno ou externo).
 
-\- Classificar triângulos ou quadriláteros em relação aos lados ou aos
+* Classificar triângulos ou quadriláteros em relação aos lados ou aos
 ângulos internos.
 
-\- Identificar retas ou segmentos de retas concorrentes, paralelos ou
+* Identificar retas ou segmentos de retas concorrentes, paralelos ou
 perpendiculares.
 
-\- Identificar relações entre ângulos formados por retas paralelas
+* Identificar relações entre ângulos formados por retas paralelas
 cortadas por uma transversal.
 
-\- Resolver problemas que envolvam relações entre ângulos formados por
+* Resolver problemas que envolvam relações entre ângulos formados por
 retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
 
-\- Resolver problemas que envolvam relações métricas do triângulo
+* Resolver problemas que envolvam relações métricas do triângulo
 retângulo, incluindo o teorema de Pitágoras.
 
-\- Resolver problemas que envolvam polígonos semelhantes.
+* Resolver problemas que envolvam polígonos semelhantes.
 
-\- Resolver problemas que envolvam aplicação das relações de
+* Resolver problemas que envolvam aplicação das relações de
 proporcionalidade abrangendo retas paralelas cortadas por transversais.
 
-\- Determinar o ponto médio de um segmento de reta ou a distância entre
+* Determinar o ponto médio de um segmento de reta ou a distância entre
 dois pontos quaisquer, dadas as coordenadas desses pontos no plano
 cartesiano.
 
@@ -3254,12 +3254,12 @@ BNCC: EF06MA19
 
 Habilidades Saeb
 
-\- Identificar propriedades e relações existentes entre os elementos de
+* Identificar propriedades e relações existentes entre os elementos de
 um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
 determinação da medida de um ângulo interno ou externo).
 
-\- Classificar triângulos ou quadriláteros em relação aos lados ou aos
+* Classificar triângulos ou quadriláteros em relação aos lados ou aos
 ângulos internos.
 
 Alternativa A: incorreta, pois o aluno pode considerar cortar mais peças
@@ -3609,36 +3609,36 @@ BNCC: EF06MA31, EF06MA32
 
 Habilidade Saeb:
 
-\- Identificar os indivíduos (universo ou população-alvo da pesquisa),
+* Identificar os indivíduos (universo ou população-alvo da pesquisa),
 as variáveis e os tipos de variáveis (quantitativas ou categóricas) em
 um conjunto de dados.
 
-\- Representar ou associar os dados de uma pesquisa estatística ou de um
+* Representar ou associar os dados de uma pesquisa estatística ou de um
 levantamento em listas, tabelas (simples ou de dupla entrada) ou
 gráficos (barras simples ou agrupadas, colunas simples ou agrupadas,
 pictóricos, de linhas, de setores, ou em histograma).
 
-\- Inferir a finalidade da realização de uma pesquisa estatística ou de
+* Inferir a finalidade da realização de uma pesquisa estatística ou de
 um levantamento, dada uma tabela (simples ou de dupla entrada) ou
 gráfico (barras simples ou agrupadas, colunas simples ou agrupadas,
 pictóricos, de linhas, de setores ou em histograma) com os dados dessa
 pesquisa. - Interpretar o significado das medidas de tendência central
 (média aritmética simples, moda e mediana) ou da amplitude.
 
-\- Calcular os valores de medidas de tendência central de uma pesquisa
+* Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
-\- Resolver problemas que envolvam dados estatísticos apresentados em
+* Resolver problemas que envolvam dados estatísticos apresentados em
 tabelas (simples ou de dupla entrada) ou gráficos (barras simples ou
 agrupadas, colunas simples ou agrupadas, pictóricos, de linhas, de
 setores ou em histograma).
 
-\- Argumentar ou analisar argumentações/conclusões com base nos dados
+* Argumentar ou analisar argumentações/conclusões com base nos dados
 apresentados em tabelas (simples ou de dupla entrada) ou gráficos
 (barras simples ou agrupadas, colunas simples ou agrupadas, pictóricos,
 de linhas, de setores ou em histograma).
 
-\- Explicar/descrever os passos para a realização de uma pesquisa
+* Explicar/descrever os passos para a realização de uma pesquisa
 estatística ou de um levantamento.
 
 População: todos os indivíduos dentro do grupo que se deseja estudar ou
@@ -4009,10 +4009,10 @@ BNCC: EF06MA31, EF06MA32
 
 Habilidade Saeb:
 
-\- Interpretar o significado das medidas de tendência central (média
+* Interpretar o significado das medidas de tendência central (média
 aritmética simples, moda e mediana) ou da amplitude.
 
-\- Calcular os valores de medidas de tendência central de uma pesquisa
+* Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
 Alternativa A: incorreta, o aluno pode realizar o cálculo da mediana ao
@@ -4049,10 +4049,10 @@ BNCC: EF06MA31, EF06MA32
 
 Habilidade Saeb:
 
-\- Interpretar o significado das medidas de tendência central (média
+* Interpretar o significado das medidas de tendência central (média
 aritmética simples, moda e mediana) ou da amplitude.
 
-\- Calcular os valores de medidas de tendência central de uma pesquisa
+* Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
 Alternativa A: incorreta, o aluno que não compreender corretamente o
@@ -4073,7 +4073,7 @@ BNCC: EF06MA24
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam medidas de grandezas (comprimento,
+* Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais. - Resolver problemas que envolvam perímetro
 de figuras planas. - Resolver problemas que envolvam área de figuras
@@ -4371,7 +4371,7 @@ BNCC: EF06MA24
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam medidas de grandezas (comprimento,
+* Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais.
 
@@ -4407,7 +4407,7 @@ BNCC: EF06MA24
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam medidas de grandezas (comprimento,
+* Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais.
 

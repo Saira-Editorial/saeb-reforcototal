@@ -2746,13 +2746,13 @@ ambiguidade.
 
 Resposta:
 
-\- Moça, essa baguete foi feita hoje?
+* Moça, essa baguete foi feita hoje?
 
-\- Sim, foi feita hoje.
+* Sim, foi feita hoje.
 
-\- E qual é o sabor?
+* E qual é o sabor?
 
-\- É de parmesão.
+* É de parmesão.
 
 Leia um trecho de uma crônica de Marina Colasanti e responda às
 perguntas 4 a 6.
@@ -4740,7 +4740,7 @@ geográfica.
 Leia um trecho do conto "Gaetaninho", de Alcântara Machado, e responda
 às questões 6 e 7.
 
-\- Xi, Gaetaninho, como é bom!
+* Xi, Gaetaninho, como é bom!
 
 Gaetaninho ficou banzando bem no meio da rua. O Ford quase o derrubou e
 ele não viu o Ford. O carroceiro disse um palavrão e ele não ouviu o
@@ -5028,12 +5028,12 @@ enunciador.
 
 Saeb:
 
-\- Identificar os recursos de modalização em textos diversos.
+* Identificar os recursos de modalização em textos diversos.
 
-\- Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais
+* Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais
 com base no gênero textual e na intenção comunicativa.
 
-\- Analisar os efeitos de sentido produzidos pelo uso de modalizadores
+* Analisar os efeitos de sentido produzidos pelo uso de modalizadores
 em textos diversos.
 
 BNCC: EF69LP28

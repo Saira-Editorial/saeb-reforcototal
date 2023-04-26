@@ -3,7 +3,7 @@
 SAEB: - Identificar o uso de recursos persuasivos em textos verbais e
 não verbais.
 
-\- Identificar teses, opiniões, posicionamentos explícitos e argumentos
+* Identificar teses, opiniões, posicionamentos explícitos e argumentos
 em textos.
 
 BNCC: **(EF67LP05)** Identificar e avaliar
@@ -1020,10 +1020,10 @@ Nível: Difícil
 Saeb:- Analisar elementos constitutivos de textos pertencentes ao
 domínio literário.
 
-\- Analisar a intertextualidade entre textos literários ou entre estes e
+* Analisar a intertextualidade entre textos literários ou entre estes e
 outros textos verbais ou não verbais.
 
-\- Inferir a presença de valores sociais, culturais e humanos em textos
+* Inferir a presença de valores sociais, culturais e humanos em textos
 literários.
 
 Bncc**:(EF69LP44)** Inferir a presença de valores sociais, culturais e
@@ -1501,7 +1501,7 @@ Nível: fácil
 Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
 
-\- Analisar os efeitos de sentido decorrentes dos mecanismos de
+* Analisar os efeitos de sentido decorrentes dos mecanismos de
 construção de textos jornalísticos/midiáticos.
 
 Bncc: **(EF69LP16)** Analisar e utilizar as formas de composição dos
@@ -2137,7 +2137,7 @@ Nível difícil
 
 **Módulo 6: Humor e as ferramentas da crítica**
 
-\- Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
+* Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
 crítica.
 
 (EF69LP03) Identificar, em notícias, o fato central, suas principais
