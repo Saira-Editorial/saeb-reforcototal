@@ -4,18 +4,18 @@ BNCC: EF06MA01 EF06MA05
 
 Habilidades SAEB
 
-* Escrever números racionais (representação fracionária ou decimal
+\- Escrever números racionais (representação fracionária ou decimal
 finita) em sua representação por algarismos ou em língua materna ou
 associar o registro numérico ao registro em língua materna.
 
-* Compor ou decompor números racionais positivos (representação decimal
+\- Compor ou decompor números racionais positivos (representação decimal
 finita) na forma aditiva, ou em suas ordens, ou em adições e
 multiplicações.
 
-* Comparar ou ordenar números reais, com ou sem suporte da reta
+\- Comparar ou ordenar números reais, com ou sem suporte da reta
 numérica
 
-* Converter uma representação de um número racional positivo para outra
+\- Converter uma representação de um número racional positivo para outra
 representação. - Identificar um número natural como primo, composto,
 "múltiplo/fator de" ou "divisor de" ou identificar a decomposição de um
 número natural em fatores primos ou relacionar as propriedades
@@ -101,7 +101,7 @@ dormir.
 
 Atividades:
 
-1. Complete as lacunas abaixo com os numeros primos entre 2 e 65
+1\) Complete as lacunas abaixo com os numeros primos entre 2 e 65
 
 ![](./imgSAEB_6_MAT/media/image9.png){width="5.541666666666667in"
 height="1.625in"}
@@ -122,7 +122,7 @@ proposta aos alunos no boxe, são: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29,
 Inserir o quadro acima com os respectivos espaços ou seja um quadro de
 3x6
 
-1. indique V para as afirmações verdadeiras e F para as falsas.
+2\) indique V para as afirmações verdadeiras e F para as falsas.
 
 \(V\) o número 2 é o único número par que é primo.
 
@@ -142,47 +142,47 @@ Inserir o quadro acima com os respectivos espaços ou seja um quadro de
 
 Deixar um espaço entre os parenteses para inserção de V ou F
 
-1. decomponha em fatores primos
+3\) decomponha em fatores primos
 
-1. 100
+a\) 100
 
-1. 60
+b\) 60
 
-1. 225
+c\) 225
 
-1. 1 000
+d\) 1 000
 
-1. 36
+e\) 36
 
 Deixar um espaço de 5 linhas entre cada item acima
 
 Respostas:
 
-1. 2² · 5² = 100
+a\) 2² · 5² = 100
 
-1. 2² · 3 · 5 = 60
+b\) 2² · 3 · 5 = 60
 
-1. 3² · 5² = 225
+c\) 3² · 5² = 225
 
-1. 2³ · 5^3^ = 1000
+d\) 2³ · 5^3^ = 1000
 
-1. 2² · 3² = 36
+e\) 2² · 3² = 36
 
-1. A decomposição em fatores primos do numero 720 é:
+4\) A decomposição em fatores primos do numero 720 é:
 
 2^4^ · 3² · 5 = 720
 
 Inserir um espaço de 5 linhas para resolução
 
-1. O menor numero composto formado pelos fatores primos 2, 3, 5 e 11 é:
+5\) O menor numero composto formado pelos fatores primos 2, 3, 5 e 11 é:
 
-1. 21
+a\) 21
 
-1. 165
+b\) 165
 
-1. 330
+c\) 330
 
-1. 3 000
+d\) 3 000
 
 Inserir um espaço de 5 linhas para resolução
 
@@ -190,24 +190,24 @@ Resposta: O menor número possivel é:
 
 2 · 3 · 5 · 11 = 330 logo alternativa C
 
-1. O numero 8 pode ser fatorado como 8 = 2 · 2 · 2 = 2³ e portanto
+6\) O numero 8 pode ser fatorado como 8 = 2 · 2 · 2 = 2³ e portanto
 possui 3 fatores primos. o numero 30 tambem tem 3 fatores primos, pois
 30 = 2 · 3 · 5, dessa forma, assinale a alternativa que apresenta apenas
 numeros compostos formados por 3 fatores primos.
 
 Inserir um espaço de 5 linhas para resolução
 
-1. 12, 18, 27, 50
+a\) 12, 18, 27, 50
 
-1. 20, 24, 32, 125
+b\) 20, 24, 32, 125
 
-1. 25, 49, 64, 81
+c\) 25, 49, 64, 81
 
-1. 32, 36, 48, 80
+d\) 32, 36, 48, 80
 
 Resposta: Alternativa C
 
-1. Observe os numeros a seguir :
+7\) Observe os numeros a seguir :
 
 > ![](./imgSAEB_6_MAT/media/image11.png){width="5.364583333333333in"
 > height="1.8125in"}
@@ -225,10 +225,10 @@ Explorar com eles as regras do Sistema de Numeração Egípcio nos exemplos
 dos números apresentados na página. Reforçar que, nesse sistema de
 numeração, a ordem dos símbolos não modifica o número escrito.
 
-1. Represente a quantidade de objetos a seguir nos sistemas de
+8\) Represente a quantidade de objetos a seguir nos sistemas de
 numeração romano e decimal
 
-1. 
+> a\)
 
 ![](./imgSAEB_6_MAT/media/image12.png){width="2.3224300087489063in"
 height="1.1019794400699912in"}
@@ -237,7 +237,7 @@ Romano: XI
 
 Decimal: 11
 
-1.
+b\)
 
 ![](./imgSAEB_6_MAT/media/image13.png){width="2.7604166666666665in"
 height="1.8012270341207348in"}
@@ -246,7 +246,7 @@ Romano: V
 
 Decimal: 5
 
-1.
+c\)
 
 ![](./imgSAEB_6_MAT/media/image14.png){width="3.3958333333333335in"
 height="2.3333333333333335in"}
@@ -272,20 +272,20 @@ discussão, organizar, com a turma, uma tabela para que os alunos
 sistematizem as regras estudadas de todos os sistemas que foram
 apresentados.
 
-1. Passe os números do sistema de numeração romano a seguir para o
+9\) Passe os números do sistema de numeração romano a seguir para o
 sistema decimal:
 
-1. IV = 4
+a\) IV = 4
 
-1. VI = 6
+b\) VI = 6
 
-1. XL = 40
+c\) XL = 40
 
-1. LX = 60
+d\) LX = 60
 
-1. XC = 90
+e\) XC = 90
 
-1. CX = 110
+f\) CX = 110
 
 Deixar o espaço de 1 linha para resolução abaixo de cada item
 
@@ -293,19 +293,19 @@ Deixar o espaço de 1 linha para resolução abaixo de cada item
 400 + 80 + 2. Seguindo esse mesmo raciocínio decomponha os seguintes
 números:
 
-1. 9 876
+a\) 9 876
 
 9 000 + 800 + 70 + 6
 
-1. 12 345
+b\) 12 345
 
 10 000 + 2 000 + 300 + 40 + 5
 
-1. 678 910
+c\) 678 910
 
 600 000 + 70 000 + 8 000 + 900 +10
 
-1. 60 504
+d\) 60 504
 
 60 000 + 500 + 4
 
@@ -320,7 +320,7 @@ valor numérico.
 
 Treino
 
-1. O maior cometa já descoberto é o Holmes, que possui 2 251 km de
+1\) O maior cometa já descoberto é o Holmes, que possui 2 251 km de
 diâmetro
 
 ![](./imgSAEB_6_MAT/media/image15.png){width="3.7178182414698164in"
@@ -331,13 +331,13 @@ seja do mesmo planeta
 
 Quantas ordens possui o número que representa diâmetro do cometa?
 
-1. 2 ordens
+a\) 2 ordens
 
-1. 3 ordens
+b\) 3 ordens
 
-1. 4 ordens
+c\) 4 ordens
 
-1. 10 ordens
+d\) 10 ordens
 
 Resposta: C
 
@@ -358,17 +358,17 @@ Alternativa C: Alternativa correta.
 Alternativa D: Incorreta, o aluno pode compreender que ordens são a soma
 de todos os números descritos.
 
-1. José tem IX de idade seu irmão mais velho tem XXI e o mais novo V,
+2\) José tem IX de idade seu irmão mais velho tem XXI e o mais novo V,
 somando a idade dos três dá a idade do pai. Quantos anos tem o pai
 deles?
 
-1. XXV
+a\) XXV
 
-1. XXXV
+b\) XXXV
 
-1. XXXVII
+c\) XXXVII
 
-1. XXX
+d\) XXX
 
 Resposta: B
 
@@ -389,15 +389,15 @@ irmão mais novo.
 
 Deixar o espaço de 5 linhas para resolução
 
-1. O algarismo romano MMMDCCXVII representa o seguinte número decimal:
+3\) O algarismo romano MMMDCCXVII representa o seguinte número decimal:
 
-1. 3225
+a\) 3225
 
-1. 3717
+b\) 3717
 
-1. 3718
+c\) 3718
 
-1. 3417
+d\) 3417
 
 Deixar o espaço de 4 linhas para resolução
 
@@ -431,7 +431,7 @@ Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
 científica.
 
-1.Resolver problemas de contagem cuja resolução envolva a aplicação do
+\- Resolver problemas de contagem cuja resolução envolva a aplicação do
 princípio multiplicativo. - Resolver problemas que envolvam as ideias de
 múltiplo, divisor, máximo divisor comum ou mínimo múltiplo comum.
 
@@ -536,16 +536,16 @@ height="1.8034897200349955in"}
 
 Atividades
 
-1. Adriana e Marina são jogadoras de Vôlei, em uma partida Adriana fez
+1\) Adriana e Marina são jogadoras de Vôlei, em uma partida Adriana fez
 18 pontos e Marina 17 Qual o total de pontos das duas jogadoras juntas?
 
-1. 25
+a\) 25
 
-1. 30
+b\) 30
 
-1. 35
+c\) 35
 
-1. 40
+d\) 40
 
 Deixar o espaço de 2 linhas para resolução e Inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
@@ -561,7 +561,7 @@ altera a soma. Em outras palavras, não importa em que ordem os números
 são adicionados, a soma sempre será a mesma. a + b = b + a Exemplo: 7 +
 4 = 4 + 7
 
-1. Enzo tinha R\$ 284,00 e ganhou de seu pai uma nota de R\$50,00. Qual
+2\) Enzo tinha R\$ 284,00 e ganhou de seu pai uma nota de R\$50,00. Qual
 o valor total que ele tem agora?
 
 Deixar o espaço de 3 linhas para resolução e inserir a figura descrita
@@ -571,7 +571,7 @@ Resposta: 334 reais
 
 284+ 50 = 334
 
-1. Em um supermercado há uma balança informando o peso dos alimentos
+3\) Em um supermercado há uma balança informando o peso dos alimentos
 ali colocados. Aurora pesou seus alimentos e observou o seguinte
 resultado no visor da balança
 
@@ -588,7 +588,7 @@ Resposta: 1,090 kg
 Deixar o espaço de 4 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-1. A coleção de Celso tem 91 bolas de gude, e a de Marcelo 112, eles
+4\) A coleção de Celso tem 91 bolas de gude, e a de Marcelo 112, eles
 juntos tem quantas bolas de gude?
 
 ![](./imgSAEB_6_MAT/media/image24.png){width="2.2383180227471566in"
@@ -599,7 +599,7 @@ Resposta: 203 Bolinhas de gude
 Deixar o espaço de 3 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-1. Uma biblioteca municipal contém 3 697 livros. Considerando que 391
+5\) Uma biblioteca municipal contém 3 697 livros. Considerando que 391
 livros foram emprestados, quantos livros estão nas estantes dessa
 biblioteca?
 
@@ -608,7 +608,7 @@ Resposta: 3306 Livros
 Deixar o espaço de 3 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-1. No início da semana uma lanchonete tinha 530 latas de refrigerante,
+6\) No início da semana uma lanchonete tinha 530 latas de refrigerante,
 ao longo da semana foram vendidas 371 latas, quantas latas restaram na
 lanchonete?
 
@@ -617,68 +617,68 @@ Resposta: 159 Latinhas restaram
 Deixar o espaço de 3 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-1. Utilizando o método de decomposição em fatores primos calcule o
+7\) Utilizando o método de decomposição em fatores primos calcule o
 m.m.c. de:
 
-1. 52 e 78
+a\) 52 e 78
 
-1. 8,10,14
+b\) 8,10,14
 
-1. 18,42
+c\) 18,42
 
-1. 12,48
+d\) 12,48
 
-1. 90,180
+e\) 90,180
 
 Resposta:
 
-1. 156
+a\) 156
 
-1. 280
+b\) 280
 
 c)126
 
-1. 48
+d\) 48
 
-1. 180
+e\) 180
 
 Deixar o espaço de 5 linhas para resolução de cada item acima
 
-1. Utilizando o método de decomposição em fatores primos calcule o
+8\) Utilizando o método de decomposição em fatores primos calcule o
 m.d.c. de:
 
-1. 52 e 78
+a\) 52 e 78
 
-1. 8, 10, 14
+b\) 8, 10, 14
 
-1. 32, 48
+c\) 32, 48
 
-1. 60,72
+d\) 60,72
 
 Resposta:
 
-1. 78
+a\) 78
 
-1. 2
+b\) 2
 
-1. 16
+c\) 16
 
-1. 12
+d\) 12
 
 Deixar o espaço de 5 linhas para resolução de cada item acima
 
-1. Joana comprou 3 rolos de tecido. O primeiro mede 100cm; o segundo,
+9\) Joana comprou 3 rolos de tecido. O primeiro mede 100cm; o segundo,
 80 cm e o terceiro mede 120 cm. Ela pretende dividir os rolos em pedaços
 iguais e do maior tamanho possível, sendo assim quantos pedaços terá
 cada pedaço de tecido?
 
-1. 15cm
+a\) 15cm
 
-1. 18cm
+b\) 18cm
 
-1. 20cm
+c\) 20cm
 
-1. 22 cm
+d\) 22 cm
 
 Resposta m.d.c. 100, 80, 120 = 20cm
 
@@ -710,39 +710,39 @@ acima, podendo ser uma figura semelhante a essa.
 
 12\) Calcule as potencias abaixo:
 
-1. 5²
+a\) 5²
 
-1. 3²
+b\) 3²
 
-1. 4³
+c\) 4³
 
-1. 7²
+d\) 7²
 
-1. 2³
+e\) 2³
 
-1. 10³
+f\) 10³
 
-1. 3³
+g\) 3³
 
-1. 8²
+h\) 8²
 
 Respostas:
 
-1. 25
+a\) 25
 
-1. 9
+b\) 9
 
-1. 64
+c\) 64
 
-1. 49
+d\) 49
 
-1. 8
+e\) 8
 
-1. 1000
+f\) 1000
 
-1. 27
+g\) 27
 
-1. 64
+h\) 64
 
 Deixar o espaço de 1 linha para resolução de cada item acima
 
@@ -773,7 +773,7 @@ ideias ligadas a essa simbologia.
 
 Treino:
 
-1. Três asteroides se aproximam do sol a cada 20, 24, e 28 anos,
+1\) Três asteroides se aproximam do sol a cada 20, 24, e 28 anos,
 respectivamente. Se o último ano em que todos estiveram próximos do sol
 foi 1984, o próximo ano em que isso deverá ocorrer será?
 
@@ -804,14 +804,14 @@ chegar a esse resultado.
 Alternativa D: Correta. Pois somando o resultado do m.m.c. com o ano de
 1984 obtemos este valor.
 
-1. Entre algumas famílias foram distribuídas 240 cadernos, 576 lápis, e
+2\) Entre algumas famílias foram distribuídas 240 cadernos, 576 lápis, e
 1080 borrachas. A distribuição foi feita de tal modo que o maior número
 de famílias fosse contemplado e que cada família recebesse o mesmo
 número de lápis, o mesmo número de cadernos e o mesmo número de
 borrachas. Nessas condições o número de borrachas que cada família
 recebeu foi:
 
-1. 24 b) 8 c) 12 d) 45
+a\) 24 b) 8 c) 12 d) 45
 
 Resposta: D
 
@@ -835,18 +835,18 @@ operação 1080: 24 obtemos 45.
 Deixar o espaço de 5 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-1. Jonas abastece seu veículo a cada 3 dias, Moises a cada 6. Paulo vai
+3\) Jonas abastece seu veículo a cada 3 dias, Moises a cada 6. Paulo vai
 abastecer seu veículo sempre aos sábados e em nenhum outro dia. Se no
 dia 20 de setembro os três abasteceram seus veículos, a próxima data em
 que os três abastecerão juntos será:
 
-1. 20 de outubro
+a\) 20 de outubro
 
-1. 2 de novembro
+b\) 2 de novembro
 
-1. 1 de novembro
+c\) 1 de novembro
 
-1. 31 de Outubro
+d\) 31 de Outubro
 
 Resposta: C
 
@@ -877,13 +877,13 @@ BNCC: EF06MA09
 
 Habilidades Saeb
 
-* Representar frações menores ou maiores que a unidade por meio de
+\- Representar frações menores ou maiores que a unidade por meio de
 representações pictóricas ou associar frações a representações
 pictóricas.
 
-* Identificar frações equivalentes.
+\- Identificar frações equivalentes.
 
-* Determinar uma fração geratriz para uma dízima periódica
+\- Determinar uma fração geratriz para uma dízima periódica
 
 Uma fração** **é um número usado para representar parcela de um valor
 inteiro que foi dividido em partes iguais, ou seja, se um objeto
@@ -920,7 +920,7 @@ possuir o mesmo tamanho que outras, mas a massa pode ser diferente.
 
 Atividades
 
-1. Dois irmãos Abel e Caim resolveram comprar uma pizza juntos, ao
+1\) Dois irmãos Abel e Caim resolveram comprar uma pizza juntos, ao
 chegar em casa Abel comeu 3/8 da pizza, enquanto Caim comeu 7/16 avos,
 qual dos irmãos comeu a maior parte da pizza?
 
@@ -929,7 +929,7 @@ acima, podendo ser uma figura semelhante a essa.
 
 Resposta: Caim comeu a maior quantidade de pizza pois 3/8 \< 7/16
 
-1. Em um certo dia Mateus comprou uma barra de chocolate com 24 pedaços
+2\) Em um certo dia Mateus comprou uma barra de chocolate com 24 pedaços
 para dividir igualmente entre seus 3 filhos, quantos pedaços cada filho
 deve receber?
 
@@ -941,7 +941,7 @@ Resposta: 24 pedaços para 3 filhos 24/3= 8 pedaços cada um.
 Deixar o espaço de 3 linhas para resolução e Inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-1. Ligue as frações equivalentes:
+3\) Ligue as frações equivalentes:
 
 ![](./imgSAEB_6_MAT/media/image30.png){width="4.353931539807524in"
 height="2.300997375328084in"}
@@ -955,7 +955,7 @@ Resposta:
 Reproduzir fielmente a imagem descrita acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
-1. Para ser aprovado em uma prova Lucas precisava acertar no mínimo 3/5
+4\) Para ser aprovado em uma prova Lucas precisava acertar no mínimo 3/5
 da prova, ao final do teste Lucas descobriu que acertou 2/3 da prova,
 sendo assim ele foi aprovado ou reprovado?
 
@@ -963,36 +963,36 @@ Resposta: Lucas foi aprovado pois 2/3 \> 3/5
 
 Deixar o espaço de 3 linhas para resolução
 
-1. Sabendo que as figuras foram divididas em partes iguais, em cada
+5\) Sabendo que as figuras foram divididas em partes iguais, em cada
 item, escreva a fração correspondente à parte colorida de amarelo e
 classifique as em próprias e improprias.
 
 ![](./imgSAEB_6_MAT/media/image32.png){width="2.5729166666666665in"
 height="5.0625in"}a)
 
-1.
+b\)
 
-1.
+c\)
 
-1.
+d\)
 
-1.
+e\)
 
-1.
+f\)
 
 Respostas:
 
 a)7/4 impropria
 
-1. 8/5 impropria
+b\) 8/5 impropria
 
-1. 7/3 impropria
+c\) 7/3 impropria
 
-1. 14/5 impropria
+d\) 14/5 impropria
 
-1. 8/12 própria
+e\) 8/12 própria
 
-1. 4/14 própria
+f\) 4/14 própria
 
 Deixar o espaço de 2 linhas para cada item acima e inserir a figura
 descrita acima, podendo ser uma figura semelhante a essa, porém contendo
@@ -1003,7 +1003,7 @@ Quando se trabalha com sua representação geométrica, há necessidade de
 fazer a divisão do todo em partes iguais. Sugerir aos alunos que citem
 elementos que podem ser representados por meio de uma fração.
 
-1. Simplifique as frações tornando-as irredutíveis:
+6\) Simplifique as frações tornando-as irredutíveis:
 
 a)  24/60
 
@@ -1037,7 +1037,7 @@ g)3/4
 
 Deixar o espaço de 3 linhas para resolução de cada item acima
 
-1. Maria resolveu fazer bolos para vender em sua padaria, em cada
+7\) Maria resolveu fazer bolos para vender em sua padaria, em cada
 receita de bolo utiliza se 3/4 de xicara de farinha de trigo, em um
 final de semana Maria faz 8 bolos quantas xicaras serão necessárias?
 
@@ -1055,7 +1055,7 @@ problemas. Incentivá-los a fazer desenhos que representem os dados do
 problema, o que pode facilitar sua compreensão. Por fim, pedir que
 verifiquem se a resposta está coerente com os dados do problema.
 
-1. Leonardo resolveu pintar um quadro simples para colocar na parede de
+8\) Leonardo resolveu pintar um quadro simples para colocar na parede de
 seu quarto
 
 ![](./imgSAEB_6_MAT/media/image33.png){width="1.5833333333333333in"
@@ -1071,20 +1071,20 @@ Deixar o espaço de 3 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa, porém contendo o mesmo
 conteúdo fracionário.
 
-1. Represente por meio de frações:
+9\) Represente por meio de frações:
 
 ![](./imgSAEB_6_MAT/media/image34.png){width="1.6145833333333333in"
 height="4.947916666666667in"}
 
 Resposta:
 
-1. 5/8
+a\) 5/8
 
-1. 6/8
+b\) 6/8
 
-1. 4/6
+c\) 4/6
 
-1. ¼
+d\) ¼
 
 Deixar o espaço de 1 linhas abaixo de cada item para resolução e inserir
 a figura descrita acima, podendo ser uma figura semelhante a essa, porém
@@ -1095,13 +1095,13 @@ fracionárias. Pedro recebeu 1/6 do valor, Henrique recebeu 1/2 do
 prêmio, Josias recebeu 1/4 do valor e Adriano 1/12 do valor do prêmio.
 Qual dos quatro amigos recebeu a maior parte do prêmio?
 
-1. Pedro
+A\) Pedro
 
-1. Henrique.
+B\) Henrique.
 
-1. Josias
+C\) Josias
 
-1. Adriano
+D\) Adriano
 
 Resposta: Henrique recebeu a maior parte.
 
@@ -1114,7 +1114,7 @@ frações, é necessário verificar se ambas se referem ao mesmo todo.
 
 Treino:
 
-1. Ester preencheu 3/4 de uma jarra de 500 ml com refresco. Na hora de
+1\) Ester preencheu 3/4 de uma jarra de 500 ml com refresco. Na hora de
 servir a bebida, ele distribuiu o líquido igualmente em 5 copos de 50
 ml, ocupando 2/4 da capacidade de cada um. Com base nestes dados
 responda: que fração de líquido restou na jarra?
@@ -1171,7 +1171,7 @@ Deixar o espaço de 6 linhas para resolução e Inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa, porém contendo o mesmo
 conteúdo fracionário.
 
-1. Um jogo Matemático é formado por cartas as quais está impressa uma
+2\) Um jogo Matemático é formado por cartas as quais está impressa uma
 fração em uma de suas faces. Cada jogador recebe quatro cartas e vence
 aquele que primeiro consegue ordenar crescentemente suas cartas pelas
 respectivas frações impressas. O vencedor foi o aluno que recebeu as
@@ -1179,13 +1179,13 @@ cartas com as frações: 3/5, 1/4, 2/3 e 5/9.
 
 A ordem que esse aluno apresentou foi
 
- 1/4, 5/9, 3/5, 2/3
+a\) 1/4, 5/9, 3/5, 2/3
 
-1. 1/4, 2/3, 3/5, 5/9
+b\) 1/4, 2/3, 3/5, 5/9
 
-1. 5/9, 1/4, 3/5, 2/3
+c\) 5/9, 1/4, 3/5, 2/3
 
-1. 5/9, 1/4, 3/5, 2/3
+d\) 5/9, 1/4, 3/5, 2/3
 
 Resposta: A
 
@@ -1243,7 +1243,7 @@ creme e morango; e o outro, quantidades iguais dos sabores chocolate e
 baunilha. Então, é CORRETO afirmar que, nessa compra, a fração
 correspondente à quantidade de sorvete do sabor chocolate foi:
 
-1. 2/6\
+a\) 2/6\
 b) 3/5\
 c) 5/12\
 d) 5/6
@@ -1281,7 +1281,7 @@ Módulo 4
 
 BNCC: EF06MA13
 
-* Resolver problemas que envolvam porcentagens, incluindo os que lidam
+\- Resolver problemas que envolvam porcentagens, incluindo os que lidam
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
 
@@ -1312,61 +1312,61 @@ Desconto
 percentual do capital. Geralmente o desconto é utilizado como meio de
 potencializar as vendas ou premiar clientes que pagam a conta em dia.
 
-1. Calcule as porcentagens abaixo
+1\) Calcule as porcentagens abaixo
 
-1. 1% de 120
+a\) 1% de 120
 
-1. 50% de 260
+b\) 50% de 260
 
-1. 10% de 1300
+c\) 10% de 1300
 
-1. 25% de 9
+d\) 25% de 9
 
-1. 30% de 120
+e\) 30% de 120
 
-1. 5% de 90
+f\) 5% de 90
 
-1. 2% de 310
+g\) 2% de 310
 
-1. 45% de 195
+h\) 45% de 195
 
-1. 33% de 125
+i\) 33% de 125
 
-1. 90% de 1700
+j\) 90% de 1700
 
-1. 70% de 1745
+k\) 70% de 1745
 
-1. 0,5% de 205
+l\) 0,5% de 205
 
-1. 2,5% de 25
+m\) 2,5% de 25
 
 Deixar o espaço de 4 linhas abaixo de cada item acima para resolução
 
 Respostas:
 
-1. 1,2
+a\) 1,2
 
-1. 130
+b\) 130
 
-1. 130
+c\) 130
 
-1. 2,25
+d\) 2,25
 
-1. 36
+e\) 36
 
-1. 4,5
+f\) 4,5
 
-1. 6,2
+g\) 6,2
 
-1. 87,75
+h\) 87,75
 
-1. 41,25
+i\) 41,25
 
-1. 1530
+j\) 1530
 
 k)1221,5
 
-1. 1,025
+l\) 1,025
 
 m)0,625
 
@@ -1385,7 +1385,7 @@ perguntas como essas para que os alunos percebam que, para determinar
 25% de um valor qualquer, basta dividir esse valor por 4; para
 determinar 20%, divide-se por 5 e, para determinar 10%, divide-se por 10
 
-1. Marly tem um salário atual de R\$1250,00. Seu novo patrão irá
+2\) Marly tem um salário atual de R\$1250,00. Seu novo patrão irá
 aumentar seu salário em 15%. Qual o valor do novo salário dela?
 
 Resposta: R\$ 1.437,50
@@ -1393,7 +1393,7 @@ Resposta: R\$ 1.437,50
 Deixar o espaço de 3 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-1. Uma televisão em uma loja de departamentos custa R\$ 3800,00.
+3\) Uma televisão em uma loja de departamentos custa R\$ 3800,00.
 
 Sabendo que José adquiriu uma destas TVs e que ele efetuou pagamento à
 vista, recebeu um desconto no valor de 15% no produto. Nestas condições,
@@ -1404,7 +1404,7 @@ Resposta: R\$ 3230,00
 Deixar o espaço de 4 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-1. Uma universidade resolveu iniciar uma pesquisa para saber o perfil
+4\) Uma universidade resolveu iniciar uma pesquisa para saber o perfil
 dos seus alunos, onde foi descoberto que 46% dos alunos são homens.
 Sabendo que a faculdade possui 1250 alunos, quantas mulheres estudam
 nessa universidade?
@@ -1414,7 +1414,7 @@ Resposta: 675 Mulheres estudam na universidade.
 Deixar o espaço de 4 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-1. O campeonato brasileiro de futebol possui 38 rodadas, para cada
+5\) O campeonato brasileiro de futebol possui 38 rodadas, para cada
 vitória a equipe ganha 3 pontos, sendo assim a pontuação máxima a ser
 alcançada é de 114 pontos, a equipe vencedora do ano de 2022 obteve 81
 pontos, qual a porcentagem de pontos alcançada?
@@ -1424,7 +1424,7 @@ Resposta: A equipe campeã alcançou 71,05% dos pontos disputados
 Deixar o espaço de 4 linhas para resolução e Inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-1. Em janeiro um brinquedo custava R\$ 90,00. Devido à queda das
+6\) Em janeiro um brinquedo custava R\$ 90,00. Devido à queda das
 vendas, seu preço sofreu uma redução de 20%, mantendo-se este valor até
 novembro. Com o aquecimento das vendas de Natal houve um aumento de 10%.
 O brinquedo passou a ser vendido por:
@@ -1434,7 +1434,7 @@ Resposta: O brinquedo passou a ser vendido por R\$ 79,20
 Deixar o espaço de 4 linhas resolução e inserir a figura descrita acima,
 podendo ser uma figura semelhante a essa.
 
-1. Uma pesquisa constatou que uma cidade do interior de são Paulo no
+7\) Uma pesquisa constatou que uma cidade do interior de são Paulo no
 ano de 2021 possuía 25.000 mil habitantes, considerando que no ano de
 2022 houve um aumento de 6 % na população, quantos habitantes havia
 nessa cidade no ano de 2022?
@@ -1444,7 +1444,7 @@ acima, podendo ser uma figura semelhante a essa.
 
 Resposta: Em 2022 a população dessa cidade era de 26.500 habitantes
 
-1. Elias foi em um supermercado, ao chegar ao local foi ao setor de
+8\) Elias foi em um supermercado, ao chegar ao local foi ao setor de
 grãos e viu o pacote de arroz de 5kg com o preço de 21,50\$, ao chegar
 ao mesmo local no mês de fevereiro se deparou com o mesmo arroz custando
 23,10\$, qual foi o acréscimo em % do arroz?
@@ -1454,7 +1454,7 @@ Resposta: O arroz teve um acréscimo de 6,92%.
 Deixar o espaço de 4 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-1. Em uma loja, o preço de um determinado par de calçados era R\$
+9\) Em uma loja, o preço de um determinado par de calçados era R\$
 120,00. Certo dia, em uma liquidação, ele era vendido por R\$ 81,00. Em
 relação ao preço original, o desconto dado corresponde a uma taxa de:
 
@@ -1468,11 +1468,11 @@ compra de 1 produto,20% na compra de 2 produtos e 30% na compra de 3
 produtos. Adriano quer comprar camisas cujo preço é R\$80,00 Quanto
 Adriano pagaria em cada camisa:
 
-1. Na compra de apenas 1 camisa:
+a\) Na compra de apenas 1 camisa:
 
-1. Na compra de 2 camisas:
+b\) Na compra de 2 camisas:
 
-1. Na compra de 3 camisas:
+c\) Na compra de 3 camisas:
 
 Deixar o espaço de 3 linhas abaixo de cada item acima para resolução e
 inserir a figura descrita acima, podendo ser uma figura semelhante a
@@ -1480,11 +1480,11 @@ essa.
 
 Resposta:
 
-1. R\$72,00
+a\) R\$72,00
 
-1. R\$64,00
+b\) R\$64,00
 
-1. R\$56,00
+c\) R\$56,00
 
 Resposta: Alternativa d R\$1,50
 
@@ -1497,17 +1497,17 @@ Deixar o espaço de 4 linhas para resolução
 
 Treino
 
-1. Em uma cidade em que as passagens de ônibus custavam R\$1,20 o novo
+1\) Em uma cidade em que as passagens de ônibus custavam R\$1,20 o novo
 prefeito reajustou o preço das passagens em 25%. Qual será o novo valor
 das passagens?
 
-1. R\$1,45.
+a\) R\$1,45.
 
-1. R\$1,23.
+b\) R\$1,23.
 
-1. R\$1,25.
+c\) R\$1,25.
 
-1. R\$1,50.
+d\) R\$1,50.
 
 Resposta: D
 
@@ -1529,17 +1529,17 @@ com o valor R\$1,25, pela semelhança.
 Alternativa D:Correta, pois R\$ 1,20 x 0,25 = 0,3, logo somando R\$1,20
 + R\$0,30 temos 1,50
 
-1. Uma loja de CDs realizará uma liquidação e, para isso, o gerente
+2\) Uma loja de CDs realizará uma liquidação e, para isso, o gerente
 pediu para Ariane multiplicar todos os preços dos CDs por 0,68. Nessa
 liquidação, a loja está oferecendo um desconto de:
 
-1. 68%
+A\) 68%
 
-1. 6,8%
+B\) 6,8%
 
-1. 3,2%
+c\) 3,2%
 
-1. 32%
+d\) 32%
 
 Resposta: D
 
@@ -1562,19 +1562,19 @@ assinalar a resposta correta.
 Alternativa D: Correta Ao multiplicar qualquer valor de CD por 68% obtém
 se um desconto de 32%
 
-1. Em uma loja, uma máquina de lavar roupas custava R\$ 1500,00 e seu
+3\) Em uma loja, uma máquina de lavar roupas custava R\$ 1500,00 e seu
 preço sofreu um aumento de 3%. Logo após o aumento a loja resolveu fazer
 uma promoção oferecendo um desconto de 3% no mesmo produto. Qual o valor
 do produto após o aumento? e após o desconto, ou seja, após as duas
 operações?
 
-1. R\$ 1.555,00 com aumento e R\$ 1.498,65 com desconto.
+a\) R\$ 1.555,00 com aumento e R\$ 1.498,65 com desconto.
 
-1. R\$ 1.545,00 com aumento e R\$ 1.500,00 com desconto.
+b\) R\$ 1.545,00 com aumento e R\$ 1.500,00 com desconto.
 
-1. R\$ 1.545,00 com aumento e R\$ 1.498,65 com desconto.
+c\) R\$ 1.545,00 com aumento e R\$ 1.498,65 com desconto.
 
-1. R\$ 1.555,00 com aumento e R\$ 1.500,00 com desconto.
+d\) R\$ 1.555,00 com aumento e R\$ 1.500,00 com desconto.
 
 Resposta: D
 
@@ -1616,15 +1616,15 @@ BNCC: EF06MA14
 
 Habilidades Saeb
 
-* Resolver uma equação polinomial de 1º grau.
+\- Resolver uma equação polinomial de 1º grau.
 
-* Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modela um problema.
 
-* Associar uma equação polinomial de 1º grau com duas variáveis a uma
+\- Associar uma equação polinomial de 1º grau com duas variáveis a uma
 reta no plano cartesiano.
 
-* Resolver problemas que possam ser representados por sistema de
+\- Resolver problemas que possam ser representados por sistema de
 equações de 1º grau com duas incógnitas.
 
 A equação do 1º grau 
@@ -1675,90 +1675,90 @@ Portanto, a solução do sistema é S = (16, 24)
 
 Atividades
 
-1. Resolva as Equações polinomiais abaixo e descubra o valor de X em
+1\) Resolva as Equações polinomiais abaixo e descubra o valor de X em
 cada uma delas
 
-1. 𝑥 + 5 = 8
+a\) 𝑥 + 5 = 8
 
-1. 𝑥 − 4 = 3
+b\) 𝑥 − 4 = 3
 
-1. 𝑥 + 9 = −1
+c\) 𝑥 + 9 = −1
 
 d)4𝑥 − 9 = 23
 
 e)7𝑥 − 33 = −12
 
-1. 33+ 𝑥 = 5 -- 3x
+f\) 33+ 𝑥 = 5 -- 3x
 
-1. 3(x + 2) = 2 (x -- 7)
+g\) 3(x + 2) = 2 (x -- 7)
 
-1. 2x -- 10 + 7x + 10 = 180
+h\) 2x -- 10 + 7x + 10 = 180
 
 Deixar 20 linhas para resolução
 
 Respostas:
 
-1. x=3
+a\) x=3
 
-1. x=7
+b\) x=7
 
-1. x= -10
+c\) x= -10
 
-1. x=8
+d\) x=8
 
-1. x=3
+e\) x=3
 
-1. x= -7
+f\) x= -7
 
-1. x= -20
+g\) x= -20
 
-1. x= 20
+h\) x= 20
 
-1. Responda as sentenças abaixo
+2\) Responda as sentenças abaixo
 
-1. O dobro de um número somado com 5 é igual a 91. Qual é esse número?
+a\) O dobro de um número somado com 5 é igual a 91. Qual é esse número?
 
-1. O triplo de um número diminuído de 4 é igual a 23. Qual é esse
+b\) O triplo de um número diminuído de 4 é igual a 23. Qual é esse
 número?
 
-1. O número somado com o seu dobro é igual a 150. Qual é esse número?
+c\) O número somado com o seu dobro é igual a 150. Qual é esse número?
 
-1. Qual é o número que adicionado a 28 é o mesmo que 3 vezes esse
+d\) Qual é o número que adicionado a 28 é o mesmo que 3 vezes esse
 número?
 
-1. O triplo de um número, menos 10 é igual ao próprio número mais 70.
+e\) O triplo de um número, menos 10 é igual ao próprio número mais 70.
 Qual é esse número?
 
-1. Noêmia é 5 anos mais velha que Ágata. A soma das idades dá 43 anos.
+f\) Noêmia é 5 anos mais velha que Ágata. A soma das idades dá 43 anos.
 Qual a idade de Ágata?
 
-1. Quando Manoel nasceu, Carlos tinha 3 anos. Atualmente a soma das
+g\) Quando Manoel nasceu, Carlos tinha 3 anos. Atualmente a soma das
 idades é 23 anos. Qual é a idade de Carlos?
 
 Deixar o espaço de 4 linhas para resolução para cada item acima
 
 Respostas
 
-1. x=43
+a\) x=43
 
-1. x=9
+b\) x=9
 
-1. x=50
+c\) x=50
 
-1. x=14
+d\) x=14
 
-1. x=40
+e\) x=40
 
-1. Ágata tem 19 anos
+f\) Ágata tem 19 anos
 
-1. Carlos tem 13 anos
+g\) Carlos tem 13 anos
 
-1. Os 1200 alunos matriculados numa escola estão assim distribuídos: no
+3\) Os 1200 alunos matriculados numa escola estão assim distribuídos: no
 período da manhã há 320 alunos a mais que no período da tarde e, à
 noite, há 190 alunos a menos que no período da manhã. O número de alunos
 do período da manhã desta escola é?
 
-1. 250
+a\) 250
 
 b)380
 
@@ -1794,25 +1794,25 @@ Logo alternativa correta é a D
 Deixar o espaço de 8 linhas para resolução e Inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-1. Resolva os sistemas formados pelas equações abaixo.
+4\) Resolva os sistemas formados pelas equações abaixo.
 
-1. x + y = 1
+a\) x + y = 1
 
 4x + 7y = 10
 
-1. 3x + y = 13
+b\) 3x + y = 13
 
 x -- 2y = 2
 
-1. 2x + y = 5
+d\) 2x + y = 5
 
 x -- y = 1
 
-1. x + y = 4
+e\) x + y = 4
 
 3x + 2y = 9
 
-1. x + y = 10
+f\) x + y = 10
 
 2x -- y = 8
 
@@ -1820,19 +1820,19 @@ Deixar o espaço de 6 linhas para resolução para cada item acima
 
 Resposta:
 
-1. Solução: x= -1, y= 2
+a\) Solução: x= -1, y= 2
 
-1. solução x=4 y=2
+b\) solução x=4 y=2
 
-1. solução x=1 y=2
+c\) solução x=1 y=2
 
-1. Solução x=2 y = 1
+d\) Solução x=2 y = 1
 
-1. Solução x=1 y=3
+e\) Solução x=1 y=3
 
-1. Solução x=6 y=4
+f\) Solução x=6 y=4
 
-1. Em um determinado mês, duas montadoras e produziram, juntas, 77.500
+5\) Em um determinado mês, duas montadoras e produziram, juntas, 77.500
 veículos, sendo que a produção de x foi igual a 2/3 da produção de y.
 
 Nesse mês, a quantidade de veículos produzidos por x Foi:
@@ -1850,7 +1850,7 @@ acima, podendo ser uma figura semelhante a essa.
 
 Resposta alternativa D
 
-1. Numa cantina, 2 copos de suco e 3 pastéis custam R\$ 5,70. O preço
+6\) Numa cantina, 2 copos de suco e 3 pastéis custam R\$ 5,70. O preço
 de 3 copos de suco e 5 pastéis é R\$ 9,30. Quais os preços de cada
 pastel e cada copo de suco?
 
@@ -1859,13 +1859,13 @@ Resposta: pastel custa R\$ 1,50 e suco custa R\$ 0,60.
 Deixar o espaço de 4 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-1. Considerando a equação
+7\) Considerando a equação
 
 5(3x --- 8) = -45
 
 É correto afirmar que a equação equivalente a ela é
 
-1. 8x -32=0
+a\) 8x -32=0
 
 b)15x +5=0
 
@@ -1877,7 +1877,7 @@ Deixar o espaço de 4 linhas para resolução
 
 Resposta alternativa B
 
-1. Uma região retangular foi totalmente cercada por tela. À figura
+8\) Uma região retangular foi totalmente cercada por tela. À figura
 mostra as medidas dos lados, em metros, dessa região.
 
 ![](./imgSAEB_6_MAT/media/image38.png){width="1.65625in"
@@ -1900,26 +1900,26 @@ conteúdo algébrico.
 
 Resposta Alternativa b
 
-1.
+9\)
 
 Numa loja, alguns CDs e fitas estão em oferta estão sendo vendidas 3
 fitas e 2 CDs por R\$ 56,00 ou então 2 fitas e um CD por R\$ 34,00. O
 preço de cada uma das fitas e de cada um dos CD s pode ser determinado a
 partir da solução do sistema:
 
-1. 2x + y =56
+a\) 2x + y =56
 
 x+2y=34
 
-1. 3x + 2y=56
+b\) 3x + 2y=56
 
 x + 2y= 34
 
-1. 3x+2y=56
+c\) 3x+2y=56
 
 2x+y=34
 
-1. x+y= 56
+d\) x+y= 56
 
 x+y=34
 
@@ -1930,17 +1930,17 @@ Resposta: Alternativa c
 
 Treino:
 
-1. Numa caixa há bolas Vermelhas e bolas amarelas num total de 360. Se
+1\) Numa caixa há bolas Vermelhas e bolas amarelas num total de 360. Se
 o número de bolas vermelhas é o quádruplo do de amarelas, o número de
 bolas vermelhas é:
 
-1. 18
+a\) 18
 
-1. 72
+b\) 72
 
-1. 90
+d\) 90
 
-1. 288
+d\) 288
 
 Resposta: D
 
@@ -1979,17 +1979,17 @@ Y= 72
 
 Realizando 360-72= 288 temos o valor correto de bolas vermelhas.
 
-1. O tempo t, em segundos, que uma pedra leva para cair de uma altura
+2\) O tempo t, em segundos, que uma pedra leva para cair de uma altura
 x, em metros, é dado aproximadamente pela fórmula t = 0,05x. Se o tempo
 t da queda é de 8 segundos, a altura x é:
 
-1. 0,4 m
+a\) 0,4 m
 
-1. 0,00625 m
+b\) 0,00625 m
 
-1. 160m
+c\) 160m
 
-1. 4 m
+d\) 4 m
 
 Resposta: C
 
@@ -2015,18 +2015,18 @@ x= 160
 Alternativa D: O aluno pode erroneamente colocar o valor 8 ao invés do
 lugar do tempo "t" no valor da incógnita x
 
-1. Dois produtos químicos A e B são usados em um laboratório. Cada 1g
+3\) Dois produtos químicos A e B são usados em um laboratório. Cada 1g
 (grama) do produto A custa R\$ 0,03 e cada 1g do produto B custa R\$
 0,05. Se 100g de uma mistura dos dois produtos custam R\$ 3,60, a
 quantidade do produto A contida nesta mistura é:
 
-1. 70g
+a\) 70g
 
-1. 100g
+b\) 100g
 
-1. 360g
+c\) 360g
 
-1. 140g
+d\) 140g
 
 Resposta: A
 
@@ -2126,7 +2126,7 @@ inclusive escalas, divisões proporcionais e taxa de variação.
 
 Atividades
 
-1. Para se construir uma calçada, é comum, na constituição do concreto,
+1\) Para se construir uma calçada, é comum, na constituição do concreto,
 se utilizar cimento, areia e brita, na seguinte proporção: 1 parte de
 cimento, 4 partes de areia e 2 partes de brita. Para construir o
 calçada, uma construtora encomendou um caminhão betoneira com 14 m³ de
@@ -2145,37 +2145,37 @@ Resposta: Alternativa A 2m³
 
 Deixar o espaço de 4 linhas para resolução
 
-1. Josué tem ração suficiente para alimentar quatro animais durante 18
+2\) Josué tem ração suficiente para alimentar quatro animais durante 18
 dias. No fim do 6º dia, ele comprou mais dois animais. Com o restante da
 ração, ele poderá alimentar seus animais durante:
 
-1. 8 dias
+a\) 8 dias
 
-1. 12 dias
+b\) 12 dias
 
-1. 16 dias
+c\) 16 dias
 
-1. 20 dias
+d\) 20 dias
 
 Resposta: A
 
-1. Num teste com 20 questões, uma pessoa acertou 12 questões. À razão
+3\) Num teste com 20 questões, uma pessoa acertou 12 questões. À razão
 do número de questões erradas para o número total de questões é:
 
-1. 1/3
+a\) 1/3
 
-1. 2/3
+b\) 2/3
 
-1. 1/5
+c\) 1/5
 
-1. 2/5
+d\) 2/5
 
 Deixar o espaço de 4 linhas para resolução e Inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
 Resposta: Alternativa d 2/5
 
-1. Uma rua tem 800 m de comprimento e está sendo asfaltada. Em seis
+4\) Uma rua tem 800 m de comprimento e está sendo asfaltada. Em seis
 dias foram asfaltados 200 m da rua. Supondo-se que o ritmo de trabalho
 continue o mesmo, qual o total de dias empreendidos no asfaltamento?
 
@@ -2192,7 +2192,7 @@ acima, podendo ser uma figura semelhante a essa.
 
 Resposta: Alternativa B 24 dias
 
-1. Dez operários constroem uma parede em 10 horas. Quantos operários
+5\) Dez operários constroem uma parede em 10 horas. Quantos operários
 serão necessários para construir a mesma parede em 2 horas?
 
 Deixar o espaço de 4 linhas para resolução e inserir a figura descrita
@@ -2200,7 +2200,7 @@ acima, podendo ser uma figura semelhante a essa.
 
 Resposta: 50 operários
 
-1. Sílvia fará um bolo para a festa da primavera. Para cada pacote de
+6\) Sílvia fará um bolo para a festa da primavera. Para cada pacote de
 mistura para bolos, Sílvia deve usar 2 ovos. Quantos pacotes dessa
 mistura serão necessários se ela usar 10 ovos?
 
@@ -2217,7 +2217,7 @@ acima, podendo ser uma figura semelhante a essa.
 
 Resposta 5 Pacotes
 
-1. Para fazer um determinado serviço, 5 engenheiros levam 40 dias.
+7\) Para fazer um determinado serviço, 5 engenheiros levam 40 dias.
 Então, em quanto tempo 10 engenheiros fazem o mesmo serviço.
 
 \(A\) 10 dias.
@@ -2233,7 +2233,7 @@ acima, podendo ser uma figura semelhante a essa.
 
 Resposta: B 80 dias
 
-1. Para atender todas as ligações telefônicas que recebe, uma empresa
+8\) Para atender todas as ligações telefônicas que recebe, uma empresa
 emprega 4 telefonistas que atendem cada uma, em média, 120 ligações por
 dia. Se a empresa utilizasse 6 telefonistas, cada uma atenderia, em
 média, diariamente,
@@ -2251,7 +2251,7 @@ acima, podendo ser uma figura semelhante a essa.
 
 Resposta alternativa D 120 ligações
 
-1. Uma torneira despeja 16 litros por minuto e enche uma caixa em 5
+9\) Uma torneira despeja 16 litros por minuto e enche uma caixa em 5
 horas. Quanto tempo levará para encher a mesma caixa uma torneira que
 despeja 20 litros por minuto.
 
@@ -2272,15 +2272,15 @@ Resposta Alternativa B 5 horas
 caminhões com capacidade de 7 m3 cada. Caso utilize caminhões com
 capacidade para 14 m3, precisaríamos de:
 
-1. 7 caminhões
+a\) 7 caminhões
 
-1. 10 caminhões
+b\) 10 caminhões
 
-1. 12 caminhões
+c\) 12 caminhões
 
-1. 14 caminhões
+d\) 14 caminhões
 
-1. 45 caminhões
+e\) 45 caminhões
 
 Deixar o espaço de 4 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
@@ -2330,19 +2330,19 @@ número de caminhões necessários será igual a 10.
 
 Treino
 
-1. Em uma indústria, 20 máquinas iguais, de mesmo rendimento, produzem
+1\) Em uma indústria, 20 máquinas iguais, de mesmo rendimento, produzem
 juntos 5000 peças iguais, em meia hora de funcionamento simultâneo e
 ininterrupto. Desse modo, para produzir 1000 unidades das mesmas peças
 em uma hora, seria necessário o funcionamento, nas mesmas condições
 operacionais, de apenas:
 
-1. 2 máquinas.
+a\) 2 máquinas.
 
-1. 4 máquinas.
+b\) 4 máquinas.
 
-1. 100 máquinas.
+c\) 100 máquinas.
 
-1. 200 máquinas.
+d\) 200 máquinas.
 
 Resposta: A
 
@@ -2364,20 +2364,20 @@ Alternativa D: O aluno pode realizar a conversão corretamente mas errar
 o cruzamento no cálculo de regra de três, onde chegará a esse valor
 erroneamente.
 
-1. Para imprimir 200 apostilas com 27 páginas cada uma, 5 impressoras
+2\) Para imprimir 200 apostilas com 27 páginas cada uma, 5 impressoras
 levam 54 minutos. Estas impressoras imprimem um mesmo número de páginas
 por minuto e tem sistema automático de alimentação de folhas, ou seja,
 não precisam parar para o reabastecimento de folhas. Para a impressão de
 1 040 apostilas com 35 páginas impressas cada uma, em 52 minutos, ser·
 necessário um número dessas impressoras igual a
 
-1. 2
+a\) 2
 
-1. 35.
+b\) 35.
 
-1. 27.
+c\) 27.
 
-1. 33.
+d\) 33.
 
 Resposta: B
 
@@ -2399,20 +2399,20 @@ Resposta D: Caso o aluno esqueça de ler o enunciado totalmente, ele não
 compreenderá que os minutos de funcionamento da impressora 2 diminui
 chegando a essa resposta.
 
-1. Para cobrir 420 m² de um telhado, 7 operários, que apresentam a
+3\) Para cobrir 420 m² de um telhado, 7 operários, que apresentam a
 mesma produtividade, gastam 3 horas e 30 minutos. Para cobrir outros 1
 680 m² do telhado, foram contratados outros 12 operários, que também
 possuem a mesma produtividade individual dos operários anteriores. A
 previsão de tempo que esses 12 operários gastariam para realizar esse
 trabalho É de
 
-1. 30 minutos
+a\) 30 minutos
 
-1. 52 horas e 50 minutos
+b\) 52 horas e 50 minutos
 
-1. 490 horas
+c\) 490 horas
 
-1. 8 horas e 10 minutos.
+d\) 8 horas e 10 minutos.
 
 Resposta: D
 
@@ -2442,24 +2442,24 @@ Habilidades Saeb:
 Identificar, no plano cartesiano, figuras obtidas por uma ou mais
 transformações geométricas (reflexão, translação, rotação).
 
-* Relacionar o número de vértices, faces ou arestas de prismas ou
+\- Relacionar o número de vértices, faces ou arestas de prismas ou
 pirâmides, em função do seu polígono da base.
 
-* Relacionar objetos tridimensionais às suas planificações ou vistas.
+\- Relacionar objetos tridimensionais às suas planificações ou vistas.
 
-* Classificar polígonos em regulares e não regulares.
+\- Classificar polígonos em regulares e não regulares.
 
-* Reconhecer polígonos semelhantes ou as relações existentes entre
+\- Reconhecer polígonos semelhantes ou as relações existentes entre
 ângulos e lados correspondentes nesses tipos de polígonos.
 
-* Reconhecer circunferência/círculo como lugares geométricos, seus
+\- Reconhecer circunferência/círculo como lugares geométricos, seus
 elementos (centro, raio, diâmetro, corda, arco, ângulo central, ângulo
 inscrito).
 
-* Construir/desenhar figuras geométricas planas ou espaciais que
+\- Construir/desenhar figuras geométricas planas ou espaciais que
 satisfaçam condições dadas.
 
-* Resolver problemas que envolvam relações entre os elementos de uma
+\- Resolver problemas que envolvam relações entre os elementos de uma
 circunferência/círculo (raio, diâmetro, corda, arco, ângulo central,
 ângulo inscrito).
 
@@ -2529,7 +2529,7 @@ Fazer imagem semelhante
 
 -   Raio -- segmento de reta entre o centro a e borda da circunferência.
 
-1. Complete a tabela abaixo
+1\) Complete a tabela abaixo
 
 ![](./imgSAEB_6_MAT/media/image43.png){width="5.2in" height="9.4in"}
 
@@ -2541,7 +2541,7 @@ Resposta:
 ![](./imgSAEB_6_MAT/media/image44.png){width="4.491982720909887in"
 height="8.1in"}
 
-1. Uma professora resolver lançar um desafio aos seus alunos, onde deu
+2\) Uma professora resolver lançar um desafio aos seus alunos, onde deu
 aos seus alunos várias coordenadas para colocarem em um plano
 cartesiano, qual figura se formou ao ligar todos os pontos
 correspondentes?
@@ -2576,24 +2576,24 @@ Ligando os pontos obtém se a figura de uma estrela
 ![](./imgSAEB_6_MAT/media/image45.png){width="3.8541666666666665in"
 height="3.5659722222222223in"}
 
-1. Para realizar o teste físico em determinado concurso da Guarda
+3\) Para realizar o teste físico em determinado concurso da Guarda
 municipal, os candidatos devem correr ao redor de uma praça circular
 cujo diâmetro mede 90 m. Uma pessoa que dá 9 voltas ao redor dessa praça
 percorre: (Dado: π = 3).
 
-1. 1620 m
+a\) 1620 m
 
-1. 2430m
+b\) 2430m
 
-1. 4860 m
+c\) 4860 m
 
-1. 6480 m
+d\) 6480 m
 
 Deixar o espaço de 3 linhas para resolução
 
 Resposta: alternativa b 2430
 
-1. Ligue cada figura de poliedro a representação de sua planificação
+4\) Ligue cada figura de poliedro a representação de sua planificação
 correspondente
 
 ![](./imgSAEB_6_MAT/media/image46.png){width="3.8958333333333335in"
@@ -2607,7 +2607,7 @@ Resposta:
 ![](./imgSAEB_6_MAT/media/image47.png){width="2.75in"
 height="2.8328762029746284in"}
 
-1. Na tabela abaixo está transcrito o diâmetro dos planetas do sistema
+5\) Na tabela abaixo está transcrito o diâmetro dos planetas do sistema
 solar, complete a tabela com os respectivos raios de cada um.
 
 ![](./imgSAEB_6_MAT/media/image48.png){width="4.058333333333334in"
@@ -2639,22 +2639,22 @@ Deixar o espaço de 3 linhas para resolução e Inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa, porém contendo o mesmo
 horário.
 
-1. Se os ângulos internos de um polígono regular medem 36°, então o
+7\) Se os ângulos internos de um polígono regular medem 36°, então o
 número de lados desse polígono é:
 
-1. 10
+a\) 10
 
-1. 17
+b\) 17
 
-1. 12
+c\) 12
 
-1. 13
+d\) 13
 
 Deixar o espaço de 3 linhas para resolução
 
 Resposta alternativa A
 
-1. Lourdes quer Inovar em sua loja de cosméticos e decidiu embalar seus
+8\) Lourdes quer Inovar em sua loja de cosméticos e decidiu embalar seus
 produtos em caixas de diferentes formatos. Nas Imagens abaixo estão as
 planificações dessas caixas.
 
@@ -2664,22 +2664,22 @@ height="2.125in"}
 Quais serão os sólidos geométricos que Lourdes obterá a partir dessas
 planificações?
 
-1. Cilindro, prisma de base pentagonal e
+A\) Cilindro, prisma de base pentagonal e
 
 Pirâmide.
 
-1. Cone, prisma de base pentagonal e pirâmide.
+B\) Cone, prisma de base pentagonal e pirâmide.
 
-1. Cone, tronco de pirâmide e pirâmide.
+C\) Cone, tronco de pirâmide e pirâmide.
 
-1. Cilindro, tronco de pirâmide e prisma.
+D\) Cilindro, tronco de pirâmide e prisma.
 
 Reproduzir fielmente a imagem descrita acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
 Resposta Alternativa A
 
-1. Uma pista de atletismo tem a forma circular e seu diâmetro mede 80
+9\) Uma pista de atletismo tem a forma circular e seu diâmetro mede 80
 m. Um atleta treinando nessa pista deseja correr 10 km diariamente.
 Determine o número mínimo de voltas completas que ele deve dar nessa
 pista a cada dia.
@@ -2692,29 +2692,29 @@ Resposta: Ele deve completar no mínimo 40 voltas completas.
 importância nos estudos da geometria. Para ser identificado como um
 polígono, uma figura geométrica plana precisa ser:
 
-1. Aberta e limitada por segmentos de retas que se cruzam.
+a\) Aberta e limitada por segmentos de retas que se cruzam.
 
-1. Fechada e formada por segmentos de retas que não se cruzam.
+b\) Fechada e formada por segmentos de retas que não se cruzam.
 
-1. Aberta e limitada por seguimentos de retas que não se cruzam.
+c\) Aberta e limitada por seguimentos de retas que não se cruzam.
 
-1. Fechada e formada por seguimentos de retas que se cruzam.
+d\) Fechada e formada por seguimentos de retas que se cruzam.
 
 Reposta Alternativa B
 
 Testes:
 
-1. Deseja-se pregar uma fita decorativa ao redor da tampa de um pote
+1\) Deseja-se pregar uma fita decorativa ao redor da tampa de um pote
 redondo. Se o diâmetro da tampa mede 12 cm, qual o comprimento mínimo
 que a fita deve ter para dar a volta completa na tampa?
 
 Considere pi=3
 
-1. 72cm
+a\) 72cm
 
-1. 108 cm
+b\) 108 cm
 
-1. 35 cm
+c\) 35 cm
 
 d)11 cm
 
@@ -2739,19 +2739,19 @@ multiplicação na formula, obterá esse valor.
 
 Alternativa D= Correta, pois ao considerar pi= 3 temos que 2.3.6= 36cm
 
-1. Uma praça possui o formato circular com diâmetro medindo 20 metros.
+2\) Uma praça possui o formato circular com diâmetro medindo 20 metros.
 Calcule quantos metros quadrados de grama são necessários para preencher
 essa área da praça?
 
 Considere pi=3
 
-1. 300m²
+a\) 300m²
 
-1. 60 m²
+b\) 60 m²
 
-1. 1200 m²
+c\) 1200 m²
 
-1. 300 cm²
+d\) 300 cm²
 
 Resposta: A
 
@@ -2774,7 +2774,7 @@ diâmetro pelo raio na formula e chegara a esse valor.
 Alternativa D: Incorreta, pois o aluno pode esquecer de verificar que o
 valor do enunciado se trata de m² e não cm²,
 
-1. Num poliedro convexo, o número de faces é 6 e o número de vértices é
+3\) Num poliedro convexo, o número de faces é 6 e o número de vértices é
 8. Então, o número de arestas desse poliedro é:
 
 \(a\) 12
@@ -2820,34 +2820,34 @@ BNCC: EF06MA19
 
 Habilidades Saeb
 
-* Identificar propriedades e relações existentes entre os elementos de
+\- Identificar propriedades e relações existentes entre os elementos de
 um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
 determinação da medida de um ângulo interno ou externo).
 
-* Classificar triângulos ou quadriláteros em relação aos lados ou aos
+\- Classificar triângulos ou quadriláteros em relação aos lados ou aos
 ângulos internos.
 
-* Identificar retas ou segmentos de retas concorrentes, paralelos ou
+\- Identificar retas ou segmentos de retas concorrentes, paralelos ou
 perpendiculares.
 
-* Identificar relações entre ângulos formados por retas paralelas
+\- Identificar relações entre ângulos formados por retas paralelas
 cortadas por uma transversal.
 
-* Resolver problemas que envolvam relações entre ângulos formados por
+\- Resolver problemas que envolvam relações entre ângulos formados por
 retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
 
-* Resolver problemas que envolvam relações métricas do triângulo
+\- Resolver problemas que envolvam relações métricas do triângulo
 retângulo, incluindo o teorema de Pitágoras.
 
-* Resolver problemas que envolvam polígonos semelhantes.
+\- Resolver problemas que envolvam polígonos semelhantes.
 
-* Resolver problemas que envolvam aplicação das relações de
+\- Resolver problemas que envolvam aplicação das relações de
 proporcionalidade abrangendo retas paralelas cortadas por transversais.
 
-* Determinar o ponto médio de um segmento de reta ou a distância entre
+\- Determinar o ponto médio de um segmento de reta ou a distância entre
 dois pontos quaisquer, dadas as coordenadas desses pontos no plano
 cartesiano.
 
@@ -2895,7 +2895,7 @@ Estas são as principais propriedades dos triângulos:
 
 Atividades
 
-1. Sabendo que a soma dos ângulos internos de um triangulo
+1\) Sabendo que a soma dos ângulos internos de um triangulo
 necessariamente é 180° complete as figuras abaixo com seus respectivos
 ângulos
 
@@ -2907,31 +2907,31 @@ cores, porém não se alterando o conteúdo.
 
 Respostas:
 
-1. 90°
+a\) 90°
 
-1. 30°
+b\) 30°
 
-1. 90° e 30°
+c\) 90° e 30°
 
 d)60°
 
-1. 35°
+e\) 35°
 
-1. 60°
+f\) 60°
 
-1. O que é ponto médio?
+2\) O que é ponto médio?
 
-1. É um ponto qualquer entre dois outros pontos
+a\) É um ponto qualquer entre dois outros pontos
 
-1. É o ponto central entre dois outros pontos.
+b\) É o ponto central entre dois outros pontos.
 
-1. É um ponto externo a dois pontos quaisquer.
+c\) É um ponto externo a dois pontos quaisquer.
 
-1. Nenhuma das alternativas
+d\) Nenhuma das alternativas
 
 Resposta Alternativa b
 
-1. Com base no mapa abaixo responda com verdadeiro (V) ou Falso (F)
+3\) Com base no mapa abaixo responda com verdadeiro (V) ou Falso (F)
 
 ![](./imgSAEB_6_MAT/media/image53.png){width="5.479166666666667in"
 height="2.4895833333333335in"}
@@ -2955,20 +2955,20 @@ Respostas
 
 V,F,F,V,V,F
 
-1. Angélica decidiu pintar um quadro de dimensões 100 cm de largura por
+4\) Angélica decidiu pintar um quadro de dimensões 100 cm de largura por
 85 cm de altura, com 3 esferas de cores diferentes, qual a área pintada
 de cada parte do quadro sabendo que a esfera A tem 60 cm de diâmetro, a
 esfera B 20 cm de diâmetro, e a esfera C 10 cm de diâmetro.
 
 Considere pi=3
 
-1. Área cinza
+a\) Área cinza
 
-1. área azul
+b\) área azul
 
-1. Área rosa
+c\) Área rosa
 
-1. Área verde
+d\) Área verde
 
 ![](./imgSAEB_6_MAT/media/image54.png){width="3.7083333333333335in"
 height="3.2291666666666665in"}
@@ -2979,13 +2979,13 @@ cores, porém não se alterando o conteúdo.
 
 Respostas:
 
-1. 1200 cm²
+a\) 1200 cm²
 
-1. 75 cm²
+b\) 75 cm²
 
-1. 2700cm²
+c\) 2700cm²
 
-1. 4525 cm²
+d\) 4525 cm²
 
 5 Calcule a diagonal de um retângulo de lados 8 cm e 15 cm.
 
@@ -3010,7 +3010,7 @@ A²=289
 
 A=17
 
-1. Estabeleça a correspondência dos itens a seguir com as figuras de 1
+6\) Estabeleça a correspondência dos itens a seguir com as figuras de 1
 a 5.
 
 ![](./imgSAEB_6_MAT/media/image56.png){width="4.290697725284339in"
@@ -3029,7 +3029,7 @@ height="2.752027559055118in"}
 Reproduzir fielmente a imagem descrita acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
-1. Classifique os ângulos abaixo em agudo, reto e obtuso
+7\) Classifique os ângulos abaixo em agudo, reto e obtuso
 
 ![](./imgSAEB_6_MAT/media/image57.png){width="3.3604166666666666in"
 height="5.104861111111111in"}
@@ -3039,19 +3039,19 @@ cores, porém não se alterando o conteúdo.
 
 Respostas:
 
-1. agudo
+a\) agudo
 
-1. Obtuso
+b\) Obtuso
 
-1. Reto
+c\) Reto
 
-1. Agudo
+d\) Agudo
 
-1. Reto
+e\) Reto
 
-1. Obtuso
+f\) Obtuso
 
-1. Classifique ordenadamente a sequência de ângulos abaixo e assinale a
+8\) Classifique ordenadamente a sequência de ângulos abaixo e assinale a
 alternativa correta:
 
 > ![Resultado de imagem para exercicios de classificação de
@@ -3064,14 +3064,14 @@ alternativa correta:
 >
 > C\) Obtuso, reto agudo, de uma volta e nulo.
 
-1. Agudo obtuso de uma volta, reto e raso.
+d\) Agudo obtuso de uma volta, reto e raso.
 
 Reproduzir fielmente a imagem descrita acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
 Resposta Alternativa B
 
-1. No interior do segmento (AB) estão os pontos M, N e P, nessa ordem,
+9\) No interior do segmento (AB) estão os pontos M, N e P, nessa ordem,
 de modo que M seja o ponto médio de (AN) e P, o ponto médio de (NB). O
 segmento (AB) mede 82 cm e o segmento (AM) mede 11 cm. A medida do
 segmento (PB), em cm, é:
@@ -3099,7 +3099,7 @@ cm
 Subtraindo AN (22) DE AB (82) obtemos o seguimento NB que tem como ponto
 médio P que se o seguimento NB possui 60 cm logo seu ponto médio é 30
 
-1. Sabendo que mediatriz é um segmento que dividi outro segmento ao
+9\) Sabendo que mediatriz é um segmento que dividi outro segmento ao
 meio, e que na figura, a reta m é a mediatriz do segmento BC. Qual é o
 valor de x?
 
@@ -3138,15 +3138,15 @@ perpendiculares, marque as alternativas corretas.
 > ![](./imgSAEB_6_MAT/media/image61.png){width="3.40625in"
 > height="3.6405413385826773in"}
 
-1. As ruas Alemanha e México são paralelas. F
+a\) As ruas Alemanha e México são paralelas. F
 
-1. As ruas Argentina e Itália são perpendiculares. V
+b\) As ruas Argentina e Itália são perpendiculares. V
 
-1. As ruas Holanda e Brasil são paralelas. V
+c\) As ruas Holanda e Brasil são paralelas. V
 
-1. As ruas Nigéria e Portugal são concorrentes. V
+d\) As ruas Nigéria e Portugal são concorrentes. V
 
-1. As ruas Itália e Marrocos são concorrentes F
+e\) As ruas Itália e Marrocos são concorrentes F
 
 Reproduzir fielmente o mapa descrito acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
@@ -3165,7 +3165,7 @@ b)13
 
 c)18
 
-1. 45
+d\) 45
 
 Resposta: C
 
@@ -3200,18 +3200,18 @@ Alternativa D: incorreta, o aluno pela falta de conhecimento sobre
 bissetriz pode relembrar que 45 seja o valor da bissetriz do ângulo reto
 e chegar a essa conclusão mesmo não se tratando de um ângulo reto.
 
-1. Marque a alternativa correta em relação à figura abaixo.
+2\) Marque a alternativa correta em relação à figura abaixo.
 
 > ![](./imgSAEB_6_MAT/media/image63.png){width="4.770833333333333in"
 > height="3.2614173228346455in"}
 
-1. a - concorrente e b-perpendicular
+a\) a - concorrente e b-perpendicular
 
-1. f - paralela e i- perpendicular
+b\) f - paralela e i- perpendicular
 
-1. g- paralela e h- concorrente
+c\) g- paralela e h- concorrente
 
-1. d- concorrente e c- paralela
+d\) d- concorrente e c- paralela
 
 Reproduzir fielmente a imagem descrita acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
@@ -3234,19 +3234,19 @@ conceito de retas concorrentes.
 Alternativa D: incorreta o aluno pode esquecer do conceito do que
 significa retas concorrentes e assinalar essa alternativa.
 
-1. Francisco resolveu fazer um brinquedo de madeira em formato de um
+3\) Francisco resolveu fazer um brinquedo de madeira em formato de um
 triangulo equilátero para seu filho brincar, sendo assim comprou 3 peças
 de madeira com medidas diferentes, 50 cm, 60 cm, e 70 cm, para que ele
 corte apenas 2 peças, qual a medida que os lados do triangulo
 necessariamente devem ter?
 
-1. 70 cm
+a\) 70 cm
 
-1. 25 cm
+b\) 25 cm
 
-1. 50 cm
+C\) 50 cm
 
-1. 55 cm
+d\) 55 cm
 
 Resposta: C
 
@@ -3254,12 +3254,12 @@ BNCC: EF06MA19
 
 Habilidades Saeb
 
-* Identificar propriedades e relações existentes entre os elementos de
+\- Identificar propriedades e relações existentes entre os elementos de
 um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
 determinação da medida de um ângulo interno ou externo).
 
-* Classificar triângulos ou quadriláteros em relação aos lados ou aos
+\- Classificar triângulos ou quadriláteros em relação aos lados ou aos
 ângulos internos.
 
 Alternativa A: incorreta, pois o aluno pode considerar cortar mais peças
@@ -3294,7 +3294,7 @@ ideia do local, neste caso não há preocupação com escala.
 [Escala](https://mundoeducacao.uol.com.br/geografia/a-escala-dos-mapas.htm) --
 é a proporção entre a área real e a sua representação em um mapa.
 
-1. Veja abaixo o mapa onde José mora
+1\) Veja abaixo o mapa onde José mora
 
 ![](./imgSAEB_6_MAT/media/image64.png){width="3.8604166666666666in"
 height="3.686111111111111in"}
@@ -3302,20 +3302,20 @@ height="3.686111111111111in"}
 No mapa José quer localizar a escola considerando o número e uma letra
 qual é a localização da escola?
 
-1. (2,A)
+a\) (2,A)
 
-1. (3,E)
+b\) (3,E)
 
-1. (2,B)
+c\) (2,B)
 
-1. (1,C)
+d\) (1,C)
 
 Reproduzir fielmente o mapa descrito acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
 Resposta B
 
-1. observe abaixo a representação de parte do mapa de uma cidade
+2\) observe abaixo a representação de parte do mapa de uma cidade
 planejada
 
 ![](./imgSAEB_6_MAT/media/image65.png){width="3.3953488626421695in"
@@ -3325,20 +3325,20 @@ Juca saiu da praça central e orientando se por esse mapa caminhou 3
 quadras na direção leste e depois, 2 quadras na direção norte diante do
 exposto acima, onde Juca parou:
 
-1. posto de saúde
+a\) posto de saúde
 
-1. farmácia
+b\) farmácia
 
-1. posto de gasolina
+c\) posto de gasolina
 
-1. escola
+d\) escola
 
 Reproduzir fielmente o mapa descrito acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
 Resposta: Alternativa C - Farmácia
 
-1. Observe abaixo o mapa do bairro onde Gabriela mora
+3\) Observe abaixo o mapa do bairro onde Gabriela mora
 
 ![](./imgSAEB_6_MAT/media/image66.png){width="4.9534722222222225in"
 height="3.1395833333333334in"}
@@ -3346,14 +3346,14 @@ height="3.1395833333333334in"}
 Gabriela estava na Praça dos Coqueiros e passou na padaria antes de ir
 para casa. Qual dos caminhos Gabriela fez para chegar em casa?
 
-1. Entrou na Rua das Margaridas e virou na Rua dos Cravos,
+a\) Entrou na Rua das Margaridas e virou na Rua dos Cravos,
 
-1. Entrou na Rua das Orquídeas e seguiu pela Avenida das Violetas.
+b\) Entrou na Rua das Orquídeas e seguiu pela Avenida das Violetas.
 
-1. Seguiu pela Rua das Bromélias e virou à esquerda na Avenida das
+c\) Seguiu pela Rua das Bromélias e virou à esquerda na Avenida das
 Hortênsias.
 
-1. Seguiu pela Rua das Margaridas, entrou na Rua das Palmeiras e virou
+d\) Seguiu pela Rua das Margaridas, entrou na Rua das Palmeiras e virou
 à esquerda.
 
 Reproduzir fielmente o mapa descrito acima podendo ser alterado as
@@ -3361,7 +3361,7 @@ cores, porém não se alterando o conteúdo.
 
 Resposta Alternativa A
 
-1. O croqui abaixo mostra um mapa que fornece as indicações para se
+4\) O croqui abaixo mostra um mapa que fornece as indicações para se
 chegar à chácara nele indicada.
 
 ![](./imgSAEB_6_MAT/media/image67.png){width="4.9534722222222225in"
@@ -3382,7 +3382,7 @@ cores, porém não se alterando o conteúdo.
 
 Resposta Alternativa B
 
-1. Observe o mapa abaixo.
+5\) Observe o mapa abaixo.
 
 ![](./imgSAEB_6_MAT/media/image68.png){width="5.90625in"
 height="3.34375in"}
@@ -3390,20 +3390,20 @@ height="3.34375in"}
 Localizado na Rua Isabel Schimdt, entre a rua Dr. Antônio Bento e Av.
 Adolfo Pinheiro e está:
 
-1. a Santa Casa
+a\) a Santa Casa
 
-1. o Hospital Santa Marta.
+b\) o Hospital Santa Marta.
 
-1. a Praça Santa Cruz
+c\) a Praça Santa Cruz
 
-1. o Teatro Paulo Eiró.
+d\) o Teatro Paulo Eiró.
 
 Reproduzir fielmente o mapa descrito acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
 Resposta Alternativa A
 
-1. A figura abaixo mostra a localização de quatro crianças em relação
+6\) A figura abaixo mostra a localização de quatro crianças em relação
 às ruas Alegria e Beija-Flor. As demais ruas traçadas são paralelas à
 Rua Alegria ou a Rua Beija-flor. A distância entre cada uma das ruas é
 de 100m.
@@ -3413,20 +3413,20 @@ Assinale a alternativa correta:
 ![](./imgSAEB_6_MAT/media/image69.png){width="4.197916666666667in"
 height="2.9305555555555554in"}
 
-1. André está à mesma distância das ruas Alegria e Beija-Flor.
+a\) André está à mesma distância das ruas Alegria e Beija-Flor.
 
-1. Paula está a 100m da Rua Alegria e a 200m da Rua Beija-Flor.
+b\) Paula está a 100m da Rua Alegria e a 200m da Rua Beija-Flor.
 
-1. Silvia está a 200m da Rua Alegria e a 100m da Rua Beija-Flor.
+c\) Silvia está a 200m da Rua Alegria e a 100m da Rua Beija-Flor.
 
-1. Gil está a 200m da Rua Alegria e a 100m da Rua Beija-Flor.
+d\) Gil está a 200m da Rua Alegria e a 100m da Rua Beija-Flor.
 
 Reproduzir fielmente o mapa descrito acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
 Resposta Alternativa A
 
-1. Observe-o mapa abaixo
+7\) Observe-o mapa abaixo
 
 ![](./imgSAEB_6_MAT/media/image70.png){width="5.083333333333333in"
 height="5.71875in"}
@@ -3434,20 +3434,20 @@ height="5.71875in"}
 Segundo o Mapa, a Praça da Matriz e o Hospital São José se localizam,
 respectivamente, nas coordenadas:
 
-1. (A, 2) e (A, 4)
+a\) (A, 2) e (A, 4)
 
-1. (A, 3) e (B, 4)
+b\) (A, 3) e (B, 4)
 
-1. (C, 2) e (A, 4)
+c\) (C, 2) e (A, 4)
 
-1. (A, 1) e (B, 4)
+d\) (A, 1) e (B, 4)
 
 Reproduzir fielmente o mapa descrito acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
 Resposta Alternativa A
 
-1. Hélio desenhou a planta da casa onde mora. Ela tem dois quartos, uma
+8\) Hélio desenhou a planta da casa onde mora. Ela tem dois quartos, uma
 sala, uma cozinha e um banheiro. Observe essa planta
 
 ![](./imgSAEB_6_MAT/media/image71.png){width="4.947916666666667in"
@@ -3456,20 +3456,20 @@ height="2.46875in"}
 Ao entrar em sua casa pela porta da sala e virar à direita, Hélio está
 indo em direção:
 
-1. à cozinha.
+A\) à cozinha.
 
-1. ao banheiro.
+B\) ao banheiro.
 
-1. ao quarto 1.
+C\) ao quarto 1.
 
-1. ao quarto 2
+D\) ao quarto 2
 
 Reproduzir fielmente a planta descrita acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
 Resposta Alternativa D
 
-1. A figura abaixo representa o mapa de um bairro, em que cada quadrado
+9\) A figura abaixo representa o mapa de um bairro, em que cada quadrado
 representa um quarteirão, cuja distância entre duas esquinas é de 100m.
 
 ![](./imgSAEB_6_MAT/media/image72.png){width="4.825694444444444in"
@@ -3487,13 +3487,13 @@ percurso:
 Ao final desse percurso, essa pessoa chegou na esquina indicada pela
 letra
 
-1. Q.
+a\) Q.
 
-1. R
+b\) R
 
-1. S
+c\) S
 
-1. T
+d\) T
 
 Reproduzir fielmente a imagem descrita acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
@@ -3508,13 +3508,13 @@ height="3.5520833333333335in"}
 
 Para Celso ganhar a partida, é preciso que sua jogada seja
 
-1. A7
+a\) A7
 
-1. D10
+b\) D10
 
-1. F5
+c\) F5
 
-1. G2.
+d\) G2.
 
 Resposta Alternativa D
 
@@ -3523,7 +3523,7 @@ cores, porém não se alterando o conteúdo.
 
 Treino
 
-1. Os retângulos da figura representam cidades. Os números na figura
+1\) Os retângulos da figura representam cidades. Os números na figura
 representam os preços dos bilhetes de comboio entre cidades vizinhas. O
 Evandro quer ir da cidade A para a cidade B e usando o trajeto que lhe
 fica mais barato
@@ -3537,13 +3537,13 @@ para a cidade B?
 Reproduzir fielmente a imagem descrita acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
-1. 80.
+a\) 80.
 
-1. 90
+b\) 90
 
-1. 100.
+c\) 100.
 
-1. 110.
+d\) 110.
 
 Resposta: B
 
@@ -3564,7 +3564,7 @@ seja a que realmente se paga menos pedágio
 Alternativa D: incorreta: o aluno pode considerar pegar uma rota que não
 seja a que realmente se paga menos pedágio
 
-1. No mapa abaixo, encontram-se representadas as ruas do bairro onde
+2\) No mapa abaixo, encontram-se representadas as ruas do bairro onde
 Natasha mora.
 
 ![](./imgSAEB_6_MAT/media/image75.png){width="4.760416666666667in"
@@ -3573,13 +3573,13 @@ height="3.4270833333333335in"}
 Natasha informou que mora numa rua entre as avenidas A e B e entre as
 ruas do hospital e da locadora. Mariana mora na:
 
-1. Rua 4
+a\) Rua 4
 
-1. Rua 5.
+b\) Rua 5.
 
-1. Rua 7.
+c\) Rua 7.
 
-1. Rua 9.
+d\) Rua 9.
 
 Resposta: A
 
@@ -3609,36 +3609,36 @@ BNCC: EF06MA31, EF06MA32
 
 Habilidade Saeb:
 
-* Identificar os indivíduos (universo ou população-alvo da pesquisa),
+\- Identificar os indivíduos (universo ou população-alvo da pesquisa),
 as variáveis e os tipos de variáveis (quantitativas ou categóricas) em
 um conjunto de dados.
 
-* Representar ou associar os dados de uma pesquisa estatística ou de um
+\- Representar ou associar os dados de uma pesquisa estatística ou de um
 levantamento em listas, tabelas (simples ou de dupla entrada) ou
 gráficos (barras simples ou agrupadas, colunas simples ou agrupadas,
 pictóricos, de linhas, de setores, ou em histograma).
 
-* Inferir a finalidade da realização de uma pesquisa estatística ou de
+\- Inferir a finalidade da realização de uma pesquisa estatística ou de
 um levantamento, dada uma tabela (simples ou de dupla entrada) ou
 gráfico (barras simples ou agrupadas, colunas simples ou agrupadas,
 pictóricos, de linhas, de setores ou em histograma) com os dados dessa
 pesquisa. - Interpretar o significado das medidas de tendência central
 (média aritmética simples, moda e mediana) ou da amplitude.
 
-* Calcular os valores de medidas de tendência central de uma pesquisa
+\- Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
-* Resolver problemas que envolvam dados estatísticos apresentados em
+\- Resolver problemas que envolvam dados estatísticos apresentados em
 tabelas (simples ou de dupla entrada) ou gráficos (barras simples ou
 agrupadas, colunas simples ou agrupadas, pictóricos, de linhas, de
 setores ou em histograma).
 
-* Argumentar ou analisar argumentações/conclusões com base nos dados
+\- Argumentar ou analisar argumentações/conclusões com base nos dados
 apresentados em tabelas (simples ou de dupla entrada) ou gráficos
 (barras simples ou agrupadas, colunas simples ou agrupadas, pictóricos,
 de linhas, de setores ou em histograma).
 
-* Explicar/descrever os passos para a realização de uma pesquisa
+\- Explicar/descrever os passos para a realização de uma pesquisa
 estatística ou de um levantamento.
 
 População: todos os indivíduos dentro do grupo que se deseja estudar ou
@@ -3701,7 +3701,7 @@ No lugar de autocarro colocar ônibus
 ![](./imgSAEB_6_MAT/media/image80.png){width="2.8854166666666665in"
 height="2.03125in"}
 
-1. A tabela abaixo mostra o número de passageiros transportados por um
+1\) A tabela abaixo mostra o número de passageiros transportados por um
 trem em uma certa semana.
 
   Dia da Semana   Número de passageiros
@@ -3721,7 +3721,7 @@ Resposta: Na sexta feira
 Reproduzir fielmente a tabela descrita acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
-1. Em uma competição de natação, na prova dos 100 m livres masculino,
+2\) Em uma competição de natação, na prova dos 100 m livres masculino,
 os resultados finais foram os seguintes:
 
 ![](./imgSAEB_6_MAT/media/image81.png){width="3.9270833333333335in"
@@ -3736,7 +3736,7 @@ Deixar o espaço de 3 linhas para resolução e reproduzir fielmente a
 tabela descrita acima podendo ser alterado as cores, porém não se
 alterando o conteúdo.
 
-1. A imagem a seguir mostra um mapa de uma sala de aula representando a
+3\) A imagem a seguir mostra um mapa de uma sala de aula representando a
 cor favorita de casa aluno. Construa uma tabela indicando a frequência e
 o percentual correspondente a cada cor.
 
@@ -3757,7 +3757,7 @@ Resposta:
   Rosa       5            16,7
   Laranja    9            30,0
 
-1. Um zoológico famoso contém em seu interior o total de 3200 animais
+4\) Um zoológico famoso contém em seu interior o total de 3200 animais
 que estão separados por classes, observe abaixo o relatório
 
   Animais no Zoológico   
@@ -3771,15 +3771,15 @@ que estão separados por classes, observe abaixo o relatório
 
 Observando os dados Calcule:
 
-1. A Porcentagem de mamíferos
+a\) A Porcentagem de mamíferos
 
-1. A porcentagem de Aves
+b\) A porcentagem de Aves
 
-1. A porcentagem de Répteis
+c\) A porcentagem de Répteis
 
-1. A porcentagem Anfíbios
+d\) A porcentagem Anfíbios
 
-1. A porcentagem Invertebrados
+e\) A porcentagem Invertebrados
 
 Deixar o espaço de 3 linhas para resolução abaixo de cada item acima
 reproduzir fielmente a tabela descrita acima podendo ser alterado as
@@ -3787,17 +3787,17 @@ cores, porém não se alterando o conteúdo.
 
 Respostas:
 
-1. 14,96875%
+a\) 14,96875%
 
-1. 50,625%
+b\) 50,625%
 
-1. 20%
+c\) 20%
 
-1. 10,625%
+d\) 10,625%
 
-1. 3,78125%
+e\) 3,78125%
 
-1. Leandro decidiu reorganizar suas atividades diárias semanais em uma
+5\) Leandro decidiu reorganizar suas atividades diárias semanais em uma
 tabela, contendo a quantidade de horas de cada atividade.
 
 ![](./imgSAEB_6_MAT/media/image83.png){width="5.905555555555556in"
@@ -3813,7 +3813,7 @@ pixels pois a tabela acima está com o seu conteúdo levemente desfocado.
 
 Resposta: 5·5+1·2=27 horas semanais para atividades escolares
 
-1. O gráfico a seguir mostra a evolução mensal das vendas de certo
+6\) O gráfico a seguir mostra a evolução mensal das vendas de certo
 produto de Julho a
 
 Novembro de 2021
@@ -3823,20 +3823,20 @@ height="2.7355774278215224in"}
 
 Sobre as vendas pode se afirmar que
 
-1. O mês de setembro foi o mês com o maior número de vendas
+a\) O mês de setembro foi o mês com o maior número de vendas
 
-1. entre julho e agosto ouve uma queda de vendas
+b\) entre julho e agosto ouve uma queda de vendas
 
-1. O mês de outubro foi o mês com mais vendas
+c\) O mês de outubro foi o mês com mais vendas
 
-1. Entre os meses de agosto e setembro houve uma queda nas vendas
+d\) Entre os meses de agosto e setembro houve uma queda nas vendas
 
 Reproduzir fielmente o gráfico descrito acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
 Resposta Correta: Alternativa C
 
-1. Abaixo temos um gráfico de barras. Cada barra se refere a um mês. Os
+7\) Abaixo temos um gráfico de barras. Cada barra se refere a um mês. Os
 meses estão marcados no eixo horizontal. O eixo vertical fornece o
 número de bicicletas produzidas pela indústria em cada mês
 
@@ -3845,29 +3845,29 @@ height="3.5729166666666665in"}
 
 Observe o gráfico e responda:
 
-1. Qual é o título do gráfico?
+a\) Qual é o título do gráfico?
 
-1. Quantas bicicletas foram produzidas em janeiro?
+b\) Quantas bicicletas foram produzidas em janeiro?
 
-1. E em maio?
+c\) E em maio?
 
-1. Em que mês a produção de bicicletas foi maior?
+d\) Em que mês a produção de bicicletas foi maior?
 
 Respostas:
 
-1. Produção de bicicletas superbike 1° semestre de 2021
+a\) Produção de bicicletas superbike 1° semestre de 2021
 
-1. 150
+b\) 150
 
-1. 250
+c\) 250
 
-1. Junho
+d\) Junho
 
 Deixar o espaço de 2 linhas para resolução de cada um dos itens acima e
 reproduzir fielmente o gráfico descrito acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
-1. Dona Cleuza é uma grande cozinheira, ela sabe fazer vários tipos de
+8\) Dona Cleuza é uma grande cozinheira, ela sabe fazer vários tipos de
 doces e salgados. Para organizar sua produção ela fez uma tabela com as
 encomendas da semana.
 
@@ -3876,14 +3876,14 @@ height="2.279166666666667in"}
 
 Após completar a tabela responda:
 
-1. Qual dia da semana houve a maior encomenda?
+a\) Qual dia da semana houve a maior encomenda?
 
-1. Qual dia da semana houve a menor encomenda?
+b\) Qual dia da semana houve a menor encomenda?
 
-1. Na segunda-feira quantos doces foram encomendados a mais que
+c\) Na segunda-feira quantos doces foram encomendados a mais que
 salgados?
 
-1. Na quarta-feira quantos salgados foram encomendados a mais que
+d\) Na quarta-feira quantos salgados foram encomendados a mais que
 doces?
 
 Deixar o espaço de 2 linhas para resolução de cada item acima e
@@ -3892,22 +3892,22 @@ cores, porém não se alterando o conteúdo.
 
 Resposta:
 
-1. Terça Feira
+a\) Terça Feira
 
-1. Segunda Feira
+b\) Segunda Feira
 
-1. 12 doces a mais
+c\) 12 doces a mais
 
-1. 111 Salgados a mais
+d\) 111 Salgados a mais
 
-1. Observe no gráfico abaixo as vendas de uma certa sorveteria.
+9\) Observe no gráfico abaixo as vendas de uma certa sorveteria.
 
 ![](./imgSAEB_6_MAT/media/image87.png){width="3.7in" height="2.1in"}
 
 Reproduzir fielmente o gráfico descrito acima podendo ser alterado as
 cores porém não se alterando o conteúdo.
 
-1. Quantos sorvetes foram vendidos:
+a\) Quantos sorvetes foram vendidos:
 
 Segunda-feira: 400
 
@@ -3919,12 +3919,12 @@ Quinta-feira: 300
 
 Sexta-feira: 500
 
-1. Quantos sorvetes foram vendidos na sexta-feira a mais que na
+b\) Quantos sorvetes foram vendidos na sexta-feira a mais que na
 quarta-feira? 300
 
-1. Quantos sorvetes foram vendidos na terça-feira e quinta-feira? 600
+c\) Quantos sorvetes foram vendidos na terça-feira e quinta-feira? 600
 
-1. Se na quarta-feira fosse vendido o dobro de sorvete, esse valor
+d\) Se na quarta-feira fosse vendido o dobro de sorvete, esse valor
 seria maior ou menor que sexta-feira? Menor
 
 ![](./imgSAEB_6_MAT/media/image88.png){width="2.5118055555555556in"
@@ -3937,13 +3937,13 @@ verificar a preferência dos consumidores em relação a esses produtos.
 Se foram entrevistados 2400 consumidores, podemos afirmar que preferem o
 produto A:
 
-1. 1200 consumidores.
+a\) 1200 consumidores.
 
-1. 720 consumidores.
+b\) 720 consumidores.
 
-1. 600 consumidores.
+c\) 600 consumidores.
 
-1. 480 consumidores.
+d\) 480 consumidores.
 
 Deixar o espaço de 3 linhas para resolução e reproduzir fielmente o
 gráfico descrito acima podendo ser alterado as cores porem não se
@@ -3953,18 +3953,18 @@ Resposta Alternativa C
 
 Treino:
 
-1. O trenzinho em que 25% dos vagões estão coloridos é:
+1\) O trenzinho em que 25% dos vagões estão coloridos é:
 
 ![](./imgSAEB_6_MAT/media/image89.png){width="3.4652777777777777in"
 height="2.384027777777778in"}
 
-1.
+a\)
 
-1.
+b\)
 
-1.
+c\)
 
-1.
+d\)
 
 Reproduzir fielmente a imagem descrita acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
@@ -3989,19 +3989,19 @@ o represente de vagões que não estão coloridos.
 Alternativa D: incorreta o aluno pode não compreender o conceito e
 frações e porcentagem e chegar a esse valor erroneamente.
 
-1. Em um consultório médico, havia 4 pessoas na sala de espera. O
+2\) Em um consultório médico, havia 4 pessoas na sala de espera. O
 atendimento da primeira pessoa durou 18 minutos; o da segunda, 16
 minutos; o da terceira, 14 minutos; o da quarta, 20 minutos.
 
 Qual foi o tempo médio de atendimento, por paciente, nesse consultório?
 
-1. ( ) 15 minutos
+a\) ( ) 15 minutos
 
-1. ( ) 16 minutos
+b\) ( ) 16 minutos
 
-1. ( ) 17 minutos
+c\) ( ) 17 minutos
 
-1. ( ) 68 minutos
+d\) ( ) 68 minutos
 
 Resposta: C
 
@@ -4009,10 +4009,10 @@ BNCC: EF06MA31, EF06MA32
 
 Habilidade Saeb:
 
-* Interpretar o significado das medidas de tendência central (média
+\- Interpretar o significado das medidas de tendência central (média
 aritmética simples, moda e mediana) ou da amplitude.
 
-* Calcular os valores de medidas de tendência central de uma pesquisa
+\- Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
 Alternativa A: incorreta, o aluno pode realizar o cálculo da mediana ao
@@ -4031,15 +4031,15 @@ Utilizando a média aritmética 18+16+14+20=68
 Alternativa D: o aluno pode somar todos os termos e esquecer de dividir
 chegando a esse valor.
 
-1. Cada aluno de uma turma com 60 alunos obteve nota 5 ou nota 10 em
+3\) Cada aluno de uma turma com 60 alunos obteve nota 5 ou nota 10 em
 uma lista de atividades. Se a média das notas foi 6, quantos alunos
 obtiveram nota 5?
 
-1. 46
+A\) 46
 
-1. 48
+b\) 48
 
-1. 50
+c\) 50
 
 d)52
 
@@ -4049,10 +4049,10 @@ BNCC: EF06MA31, EF06MA32
 
 Habilidade Saeb:
 
-* Interpretar o significado das medidas de tendência central (média
+\- Interpretar o significado das medidas de tendência central (média
 aritmética simples, moda e mediana) ou da amplitude.
 
-* Calcular os valores de medidas de tendência central de uma pesquisa
+\- Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
 Alternativa A: incorreta, o aluno que não compreender corretamente o
@@ -4073,7 +4073,7 @@ BNCC: EF06MA24
 
 Habilidade Saeb:
 
-* Resolver problemas que envolvam medidas de grandezas (comprimento,
+\- Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais. - Resolver problemas que envolvam perímetro
 de figuras planas. - Resolver problemas que envolvam área de figuras
@@ -4143,7 +4143,7 @@ height="1.4167891513560804in"}
 
 Montar imagens iguais
 
-1. Uma lata de tinta, com a forma de um paralelepípedo retangular reto,
+1\) Uma lata de tinta, com a forma de um paralelepípedo retangular reto,
 tem as dimensões,
 
 Em centímetros, mostradas na figura abaixo:
@@ -4159,7 +4159,7 @@ alterando o conteúdo.
 
 Resposta: 23040 cm³ de tinta é a capacidade máxima
 
-1. Um condomínio contém uma cisterna de formato cilíndrico, com 3 m de
+2\) Um condomínio contém uma cisterna de formato cilíndrico, com 3 m de
 altura e2 m de diâmetro qual o volume de agua máximo que a cisterna
 comporta?
 
@@ -4169,7 +4169,7 @@ Deixar o espaço de 3 linhas para resolução
 
 Resposta: o volume máximo que a cisterna comporta é 9m³
 
-1. Em uma empresa, os setores alfa e beta fazem acordos diferentes
+3\) Em uma empresa, os setores alfa e beta fazem acordos diferentes
 relativos à carga horária semanal de trabalho. O setor alfa trabalha 38
 horas por semana, enquanto o setor beta trabalha 44 horas por semana,
 Quantos minutos o setor beta trabalha a mais por semana do que o setor
@@ -4187,19 +4187,19 @@ Deixar o espaço de 3 linhas para resolução
 
 Resposta: alternativa D
 
-1. Calcule
+4\) Calcule
 
-1. Área de um quadrado de lado 13cm
+a\) Área de um quadrado de lado 13cm
 
-1. Perímetro de um quadrado de lado 9cm
+b\) Perímetro de um quadrado de lado 9cm
 
-1. Área de um retângulo de lados 4cm e 5 cm
+c\) Área de um retângulo de lados 4cm e 5 cm
 
-1. Perímetro de um retângulo de lados 6cm e 4cm
+d\) Perímetro de um retângulo de lados 6cm e 4cm
 
-1. Área de círculo de raio 4 cm, considere (pi=3)
+e\) Área de círculo de raio 4 cm, considere (pi=3)
 
-1. Perímetro de um círculo de diâmetro 8cm (considere pi=3)
+f\) Perímetro de um círculo de diâmetro 8cm (considere pi=3)
 
 Deixar o espaço de 3 linhas para resolução de cada item acima
 
@@ -4217,24 +4217,24 @@ e)48 cm²
 
 f)24cm
 
-1. Marina tem um terreno retangular de 3m por 6 m e pretende cercá-lo
+5\) Marina tem um terreno retangular de 3m por 6 m e pretende cercá-lo
 com 3 voltas de arame farpado. Assinale a alternativa que apresenta a
 quantidade em metros de arame farpado que ela precisa comprar para fazer
 o que pretende.
 
-1. 20 m
+a\) 20 m
 
-1. 24 m
+b\) 24 m
 
-1. 60 m
+c\) 60 m
 
-1. 54 m
+d\) 54 m
 
 Deixar o espaço de 3 linhas para resolução
 
 Resposta alternativa d
 
-1. Observe a temperatura registrada em um mesmo dia e horário em 4.
+6\) Observe a temperatura registrada em um mesmo dia e horário em 4.
 
 Cidades do mundo.
 
@@ -4244,13 +4244,13 @@ height="1.1875in"}
 Considerando apenas essas 4 cidades, a diferença entre a maior e a menor
 temperatura, em ºC, nesse dia, foi de
 
-1. 52.
+a\) 52.
 
 b)50.
 
-1. 48.
+c\) 48.
 
-1. 46.
+d\) 46.
 
 Deixar o espaço de 3 linhas para resolução reproduzir fielmente a tabela
 descrita acima podendo ser alterado as cores, porém não se alterando o
@@ -4258,7 +4258,7 @@ conteúdo
 
 Resposta alternativa b 50 °C
 
-1. Orlando resolveu concretar seu quintal de forma que ainda sobrasse
+7\) Orlando resolveu concretar seu quintal de forma que ainda sobrasse
 espaço para futuramente a construção de um jardim, fez então um esboço
 de como seria a área concretada
 
@@ -4274,7 +4274,7 @@ alterando o conteúdo.
 
 Resposta 164m²
 
-1. uma placa avisa: é proibido som alto entre 22 horas e 6 horas.
+8\) uma placa avisa: é proibido som alto entre 22 horas e 6 horas.
 Durante quantos minutos é proibido som alto?
 
 a)360 minutos
@@ -4289,19 +4289,19 @@ Deixar o espaço de 3 linhas para resolução
 
 Resposta 360 minutos
 
-1. Pretende-se encher completamente um copo com um liquido. O copo tem
+9\) Pretende-se encher completamente um copo com um liquido. O copo tem
 formato cilíndrico, e suas medidas são 10 cm de altura e 4 cm de
 diâmetro. A quantidade de liquido que cabe no copo é cerca de
 
 (Utilize p = 3).
 
-1. 20 mL.
+a\) 20 mL.
 
-1. 24 mL.
+b\) 24 mL.
 
 c)100 mL.
 
-1. 120 mL.
+d\) 120 mL.
 
 Deixar o espaço de 3 linhas para resolução
 
@@ -4312,13 +4312,13 @@ medida de sua altura diminui 1mm a cada minuto.
 
 Quanto tempo levará até a vela ser completamente consumida?
 
-1. 20 min
+a\) 20 min
 
-1. 2 h
+b\) 2 h
 
-1. 4 h 40 min
+c\) 4 h 40 min
 
-1. 2 h 20 min
+d\) 2 h 20 min
 
 Deixar o espaço de 3 linhas para resolução
 
@@ -4352,18 +4352,18 @@ height="1.5833333333333333in"}
 
 Treino
 
-1. Uma cooperativa agrícola produziu 36 toneladas de feijão. Toda essa
+1\) Uma cooperativa agrícola produziu 36 toneladas de feijão. Toda essa
 produção será embalada em sacos de 120 kg antes de ser transportada para
 os distribuidores. Quantos sacos de feijão serão obtidos depois de
 embalada toda a produção?
 
-1. 300 sacos
+a\) 300 sacos
 
-1. 30 sacos
+b\) 30 sacos
 
-1. 3 sacos
+c\) 3 sacos
 
-1. 3000 sacos
+d\) 3000 sacos
 
 Resposta: A
 
@@ -4371,7 +4371,7 @@ BNCC: EF06MA24
 
 Habilidade Saeb:
 
-* Resolver problemas que envolvam medidas de grandezas (comprimento,
+\- Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais.
 
@@ -4386,7 +4386,7 @@ toneladas para kg e chegar a esse valor.
 Alternativa D: incorreta pois o aluno pode converter erroneamente
 toneladas para kg e chegar a esse valor.
 
-1. Um copo cheio de água pesa 325g. Se jogarmos metade da água fora,
+2\) Um copo cheio de água pesa 325g. Se jogarmos metade da água fora,
 seu peso cai para
 
 180g. O peso do copo vazio
@@ -4407,7 +4407,7 @@ BNCC: EF06MA24
 
 Habilidade Saeb:
 
-* Resolver problemas que envolvam medidas de grandezas (comprimento,
+\- Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais.
 
@@ -4422,7 +4422,7 @@ Alternativa C: Correta, 35g
 Alternativa D: incorreta, o aluno pode simplesmente ler o enunciado e
 colocar esse valor como correto.
 
-1. Oito quadrados iguais são colocados lado a lado, formando um
+3\) Oito quadrados iguais são colocados lado a lado, formando um
 retângulo cujo perímetro é 72 cm. À área de cada quadrado que forma o
 retângulo é?
 
@@ -4432,7 +4432,7 @@ b)72 cm²
 
 c)64 cm²
 
-1. 128 cm²
+d\) 128 cm²
 
 Resposta: A
 
@@ -4490,9 +4490,9 @@ Atividades:
 height="0.9375in"}1) Uma moeda é lançada 3 vezes. Qual a probabilidade
 de:
 
-1. sair exatamente 1 cara
+a\) sair exatamente 1 cara
 
-1. sair pelo menos 1 cara
+b\) sair pelo menos 1 cara
 
 Deixar o espaço de 2 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
@@ -4503,9 +4503,9 @@ Resposta: a) 3/8 b) 7/8
 height="0.6729166666666667in"}2) Dois dados foram lançados. Qual a
 probabilidade de a soma dos pontos obtidos ser:
 
-1. S=8
+a\) S=8
 
-1. S\>8
+b\) S\>8
 
 Deixar o espaço de 3 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
@@ -4528,11 +4528,11 @@ de 1 a 100. Uma bolinha é escolhida e é observado seu número. Admitindo
 probabilidades iguais a 1/100 para todos os eventos elementares, qual a
 probabilidade de:
 
-1. Observarmos um múltiplo de 6 e de 8 simultaneamente?
+a\) Observarmos um múltiplo de 6 e de 8 simultaneamente?
 
-1. Observarmos um múltiplo de 6 ou de 8?
+b\) Observarmos um múltiplo de 6 ou de 8?
 
-1. Observarmos um número não múltiplo de 5?
+c\) Observarmos um número não múltiplo de 5?
 
 Deixar o espaço de 3 linhas para resolução para cada item acima e
 inserir a figura descrita acima, podendo ser uma figura semelhante a
@@ -4540,58 +4540,58 @@ essa.
 
 Respostas
 
-1. 1/25
+a\) 1/25
 
-1. 6/25
+b\) 6/25
 
-1. 4/5
+c\) 4/5
 
-1. Uma urna contém 6 bolas pretas, 2 brancas e 10 amarelas. Uma bola é
+5\) Uma urna contém 6 bolas pretas, 2 brancas e 10 amarelas. Uma bola é
 escolhida ao acaso na urna. Qual a probabilidade de:
 
-1. A bola não ser amarela
+a\) A bola não ser amarela
 
-1. A bola ser branca ou preta
+b\) A bola ser branca ou preta
 
-1. A bola não ser branca, nem amarela
+c\) A bola não ser branca, nem amarela
 
 Deixar o espaço de 2 linhas para resolução para cada item acima
 
 Respostas
 
-1. 4/9
+a\) 4/9
 
-1. 4/9
+b\) 4/9
 
-1. 1/3
+c\) 1/3
 
-1. Num grupo de 500 estudantes, 80 estudam Engenharia, 150 estudam
+6\) Num grupo de 500 estudantes, 80 estudam Engenharia, 150 estudam
 Economia e 10 estudam Engenharia e Economia. Se um aluno é escolhido ao
 acaso, qual a probabilidade de que:
 
 ![](./imgSAEB_6_MAT/media/image106.jpeg){width="2.426388888888889in"
 height="1.34375in"}a) Ele estude Economia e Engenharia
 
-1. Ele estude somente Engenharia
+b\) Ele estude somente Engenharia
 
-1. Ele estude somente Economia
+c\) Ele estude somente Economia
 
-1. Ele não estude Engenharia nem Economia
+d\) Ele não estude Engenharia nem Economia
 
-1. Ele estude Engenharia ou Economia
+e\) Ele estude Engenharia ou Economia
 
 Deixar o espaço de 2 linhas para resolução de cada item acima e inserir
 a figura descrita acima, podendo ser uma figura semelhante a essa.
 
-1. 1/50
+a\) 1/50
 
-1. 7/50
+b\) 7/50
 
-1. 7/25
+c\) 7/25
 
-1. 14/25
+d\) 14/25
 
-1. 11/25
+e\) 11/25
 
 ![](./imgSAEB_6_MAT/media/image107.jpeg){width="1.15625in"
 height="1.15625in"}7) De um grupo de 200 pessoas, 160 têm fator Rh
@@ -4599,80 +4599,80 @@ positivo, 100 têm sangue tipo O e 80 têm fator Rh positivo e sangue tipo
 O. Se uma dessas pessoas for selecionada ao acaso, qual a probabilidade
 de:
 
-1. Seu sangue ter fator Rh positivo
+a\) Seu sangue ter fator Rh positivo
 
-1. Seu sangue não ser tipo O
+b\) Seu sangue não ser tipo O
 
-1. Seu sangue ter fator Rh positivo ou ser tipo O
+c\) Seu sangue ter fator Rh positivo ou ser tipo O
 
 Deixar o espaço de 2 linhas para resolução de cada item acima e inserir
 a figura descrita acima, podendo ser uma figura semelhante a essa.
 
-1. 4/5
+a\) 4/5
 
-1. 1/2
+b\) 1/2
 
-1. 9/10
+c\) 9/10
 
-1. Na loteria são sorteados 5 dezenas distintas dentre as dezenas 00,
+8\) Na loteria são sorteados 5 dezenas distintas dentre as dezenas 00,
 01, 02, 03, \..., 99. Um apostador escolhe 10 dezenas. Determine a
 probabilidade dele fazer:
 
 ![](./imgSAEB_6_MAT/media/image108.jpeg){width="1.2916666666666667in"
 height="1.2916666666666667in"}a) Um terno
 
-1. Uma quadra
+b\) Uma quadra
 
-1. A quina
+c\) A quina
 
 Deixar o espaço de 3 linhas para resolução de cada item acima e inserir
 a figura descrita acima, podendo ser uma figura semelhante a essa.
 
-1. 0,638353%
+a\) 0,638353%
 
-1. 0,025104%
+b\) 0,025104%
 
-1. 0,000335%
+c\) 0,000335%
 
-1. Com os dígitos 1, 2, 3, 4, 5 são formados números de 4 algarismos
+9\) Com os dígitos 1, 2, 3, 4, 5 são formados números de 4 algarismos
 distintos. Um deles é escolhido ao acaso. Qual a probabilidade de ele
 ser:
 
-1. par
+a\) par
 
-1. ímpar
+b\) ímpar
 
 Deixar o espaço de 2 linhas para resolução de cada item acima
 
-1. 2/5
+a\) 2/5
 
-1. 3/5
+b\) 3/5
 
 10\) Oito pessoas (entre elas Pedro e Silvia) são dispostas ao acaso
 numa fila. Qual a probabilidade de:
 
-1. Pedro e Silvia ficarem juntos
+a\) Pedro e Silvia ficarem juntos
 
-1. Pedro e Silvia ficarem separados
+b\) Pedro e Silvia ficarem separados
 
 Deixar o espaço de 2 linhas para resolução para cada item acima
 
-1. 1/4
+a\) 1/4
 
-1. 3/4
+b\) 3/4
 
 11\) Uma urna contém 5 bolas vermelhas e 3 brancas. Duas bolas são
 extraídas ao acaso, com reposição. Qual a probabilidade de:
 
-1. ambas serem vermelhas
+a\) ambas serem vermelhas
 
-1. ambas serem brancas
+b\) ambas serem brancas
 
 Deixar o espaço de 2 linhas para resolução de cada item acima
 
-1. 25/64
+a\) 25/64
 
-1. 9/64
+b\) 9/64
 
 Treino
 
@@ -4682,13 +4682,13 @@ escolher também 5 tipos de recheios: mortadela, queijo, presunto, peito
 de peru ou peito de frango. De quantas maneiras diferentes você pode
 pedir seu sanduíche com apenas um recheio?
 
-1. 20 maneiras
+a\) 20 maneiras
 
-1. 9 maneiras
+b\) 9 maneiras
 
-1. 1024 maneiras
+c\) 1024 maneiras
 
-1. 1 maneira
+d\) 1 maneira
 
 BNCC: EF06MA30
 
@@ -4712,13 +4712,13 @@ sabores aos seus clientes: chocolate, uva, morango, creme, limão e
 flocos. Geralmente seus clientes pedem duas bolas. Quantas combinações
 de duas bolas são possível fazer com esses sabores de sorvete?
 
-1. 1combinação
+a\) 1combinação
 
-1. 46 656 combinações
+b\) 46 656 combinações
 
 c)36 combinações
 
-1. 12 combinações
+d\) 12 combinações
 
 BNCC: EF06MA30
 
@@ -4737,17 +4737,17 @@ Alternativa c Correta: 36 combinações
 Alternativa D: incorreta, o aluno pode realizar uma soma ao invés da
 multiplicação
 
-1. Considere o conjunto D = e o conjunto H formado por todos os
+3\) Considere o conjunto D = e o conjunto H formado por todos os
 subconjuntos de D com 2 elementos. Escolhendo-se ao acaso um elemento B
 H, qual a probabilidade da soma de seus elementos ser 183?
 
-1. 1/640
+a\) 1/640
 
 b)1/680
 
-1. 1/ 700
+c\) 1/ 700
 
-1. 1/730
+d\) 1/730
 
 BNCC: EF06MA30
 
@@ -4771,7 +4771,7 @@ alternativa D, correta 1/730
 
 Simulado 1
 
-1. O maior cometa já descoberto é o Holmes, que possui 2 251 km de
+1\) O maior cometa já descoberto é o Holmes, que possui 2 251 km de
 diâmetro
 
 ![](./imgSAEB_6_MAT/media/image15.png){width="3.7178182414698164in"
@@ -4782,13 +4782,13 @@ seja do mesmo planeta
 
 Quantas classes possui o número que representa o diâmetro do cometa?
 
-1. 3
+a\) 3
 
-1. 2
+b\) 2
 
-1. 2 251
+c\) 2 251
 
-1. 4
+d\) 4
 
 BNCC: EF06MA01: Utilizar números naturais, inteiros, racionais e reais,
 inclusive raiz quadrada, para resolver problemas com valores
@@ -4807,17 +4807,17 @@ signifique o valor da classe, o que está incorreto.
 
 Alternativa D: incorreta o aluno pode confundir classes com ordens.
 
-1. Vilma possui um tabuleiro quadriculado com 12 quadradinhos de
+2\) Vilma possui um tabuleiro quadriculado com 12 quadradinhos de
 largura por 12 quadradinhos de comprimento. Quantos quadradinhos possui
 o tabuleiro de Vilma?
 
-1. 1
+a\) 1
 
-1. 24
+b\) 24
 
-1. 124
+c\) 124
 
-1. 144
+d\) 144
 
 BNCC: EF06MA01: Utilizar números naturais, inteiros, racionais e reais,
 inclusive raiz quadrada, para resolver problemas com valores
@@ -4874,17 +4874,17 @@ arvores e chegar nesse valor.
 Alternativa D: incorreta, ao contar uma árvore a menos o aluno chegaria
 a esse valor incorretamente.
 
-1. Um produtor vendeu sua produção no valor de R\$ 1 000,00 a um
+4\) Um produtor vendeu sua produção no valor de R\$ 1 000,00 a um
 feirante com 20% de lucro e este revendeu essas mercadorias com 20 % de
 lucro. Sendo assim o valor final da mercadoria foi de:
 
-1. R\$ 1 020,00
+a\) R\$ 1 020,00
 
-1. R\$ 1 200,00
+b\) R\$ 1 200,00
 
-1. R\$ 1 400,00
+c\) R\$ 1 400,00
 
-1. R\$ 1 440,00
+d\) R\$ 1 440,00
 
 Alternativa A: incorreta, o aluno pode realizar uma soma ao invés de
 calcular a porcentagem e chegar a esse valor.
@@ -4930,7 +4930,7 @@ soma ao invés da divisão
 Alternativa D: Alternativa A: incorreta pois o aluno pode realizar a
 multiplicação ao invés da divisão
 
-1. Fred foi comemorar a promoção que recebeu de seu chefe em uma
+6\) Fred foi comemorar a promoção que recebeu de seu chefe em uma
 pizzaria. Inicialmente resolveram pedir 3 pizzas e perceberam que o
 valor total seria de R\$ 135,00. Se após alguns cálculos resolvessem
 comprar 8 pizzas, o valor que seria pago é de:
@@ -5071,13 +5071,13 @@ semana apenas e encontrar erroneamente esse valor.
 10 - Uma máquina leva 6 horas para fazer uma peça. Quantas horas ela
 levará para fazer 3 peças?
 
-1. 9 horas
+a\) 9 horas
 
-1. 2 horas
+b\) 2 horas
 
-1. 18 horas
+c\) 18 horas
 
-1. 216 horas
+d\) 216 horas
 
 EF06MA16: Resolver problemas utilizando a noção de proporção. 
 
@@ -5103,13 +5103,13 @@ de uma razão
 11 - Um carro percorre 240 km em 4 horas. Qual a velocidade média do
 carro?
 
-1. 236 km/h
+a\) 236 km/h
 
-1. 60 km/h
+b\) 60 km/h
 
-1. 244 km/h
+c\) 244 km/h
 
-1. 960 km/h
+d\) 960 km/h
 
 EF06MA16: Resolver problemas utilizando a noção de proporção. 
 
@@ -5133,13 +5133,13 @@ uma razão.
 
 12 - Escreva o número romano correspondente ao número decimal 1985.
 
-1. MCMLXXXIII
+a\) MCMLXXXIII
 
-1. MCMLXXXIV
+b\) MCMLXXXIV
 
-1. MCMLXXXV
+c\) MCMLXXXV
 
-1. MCMLXXXVI
+d\) MCMLXXXVI
 
 Alternativa A: o aluno pode compreender erroneamente a numeração romana
 e seu sistema consequentemente não tendo um fundamento básico qualquer
@@ -5169,13 +5169,13 @@ seja induzido a qualquer resposta.
 13 - Uma folha de papel tem 25 mm de largura. Qual é a medida
 equivalente em centímetros?
 
-1. 0,0025 cm
+a\) 0,0025 cm
 
-1. 0,25 cm
+b\) 0,25 cm
 
-1. 2,5 cm
+c\) 2,5 cm
 
-1. 25 cm
+d\) 25 cm
 
 BNCC: EF06MA30: Utilizar unidades de medida padronizadas para resolver
 problemas que envolvam medidas de comprimento.
@@ -5264,7 +5264,7 @@ alternativa sem compreender realmente o que a figura representa.
 
 Simulado 2
 
-1. Marcos têm três filhos cujas idades foram representadas em números
+1\) Marcos têm três filhos cujas idades foram representadas em números
 romanos:
 
 -   José tem IX anos de idade
@@ -5276,13 +5276,13 @@ romanos:
 Sabendo-se que a idade de Marcos é igual a soma das idades de seus
 filhos, podemos afirmar que Marcos possui:
 
-1. 30 anos de idade
+a\) 30 anos de idade
 
-1. 35 anos de idade
+b\) 35 anos de idade
 
-1. 40 anos de idade
+c\) 40 anos de idade
 
-1. 45 anos de idade
+d\) 45 anos de idade
 
 Alternativa A: incorreta, a não compressão do sistema romano de
 numeração o aluno pode chegar a essa conclusão erroneamente
@@ -5303,7 +5303,7 @@ Idade de Marcos: 10 + 23 + 7 = 40 anos
 Alternativa D: incorreta, a não compressão do sistema romano de
 numeração o aluno pode chegar a essa conclusão erroneamente
 
-1. Entre algumas famílias foram distribuídas 240 cadernos, 576 lápis, e
+2\) Entre algumas famílias foram distribuídas 240 cadernos, 576 lápis, e
 1 080 borrachas. A distribuição foi feita de tal modo que o maior número
 de famílias fosse contemplado e que cada família recebesse o mesmo
 número de lápis, o mesmo número de cadernos e o mesmo número de
@@ -5359,18 +5359,18 @@ Alternativa D: incorreta, o aluno que não tem um conhecimento básico de
 frações simplesmente por semelhança assinalaria essa questão como
 correta
 
-1. Em uma loja, uma máquina custava R\$ 1 500,00 e seu preço sofreu um
+4\) Em uma loja, uma máquina custava R\$ 1 500,00 e seu preço sofreu um
 aumento de 10%. Logo após o aumento a loja resolveu fazer uma promoção
 oferecendo um desconto de 10% no mesmo produto. Qual o valor do produto
 após as duas operações?
 
-1. R\$ 1 500,00
+a\) R\$ 1 500,00
 
-1. R\$ 1 650,00
+b\) R\$ 1 650,00
 
-1. R\$ 1 485,00
+c\) R\$ 1 485,00
 
-1. R\$ 1 400,00
+d\) R\$ 1 400,00
 
 Alternativa A: Incorreta, caso o aluno considere que o preço permaneça
 inerte.
@@ -5390,18 +5390,18 @@ Preço após a desconto: 1 650·0,9 = R\$ 1 485,00
 Alternativa D: Resultado aleatório preciso abaixo dos valores para
 considerar uma 4ª via de resposta.
 
-1. Dois produtos químicos A e B são usados em um laboratório. Cada 1g
+5\) Dois produtos químicos A e B são usados em um laboratório. Cada 1g
 (grama) do produto A custa R\$ 0,06 e cada 1g do produto B custa R\$
 0,10. Se 100g de uma mistura dos dois produtos custam R\$ 7,20, a
 quantidade do produto A contida nesta mistura é:
 
-1. 70g
+a\) 70g
 
-1. 7,20g
+b\) 7,20g
 
-1. 0,60g
+c\) 0,60g
 
-1. 0,10g
+d\) 0,10g
 
 BNCC: EF06MA07: Resolver problemas que envolvam expressões numéricas com
 números naturais e com o uso das propriedades das operações.
@@ -5457,19 +5457,19 @@ Alternativa D: incorreta, ao sair pegando números aleatórios do
 enunciado, o aluno sem conhecimento prévio de cálculo tomara como
 correto esse valor
 
-1. Para cobrir 840 m² de um telhado, 14 operários, que apresentam a
+6\) Para cobrir 840 m² de um telhado, 14 operários, que apresentam a
 mesma produtividade, gastam 7 horas. Para cobrir outros 3 360 m² do
 telhado, foram contratados outros 14 operários, que também possuem a
 mesma produtividade individual dos operários anteriores. A previsão de
 tempo que esses 12 operários gastariam para realizar esse trabalho É de
 
-1. 3 horas e 30 minutos.
+a\) 3 horas e 30 minutos.
 
-1. 7 horas.
+b\) 7 horas.
 
-1. 14 horas.
+c\) 14 horas.
 
-1. 18 horas e 10 minutos.
+d\) 18 horas e 10 minutos.
 
 Alternativa A: Incorreta, ao realizar incorretamente a montagem da regra
 de 3 chegará a esse valor incorreto
@@ -5599,13 +5599,13 @@ que o observador conseguirá diferenciar um cliente de um garçom.
 10 - Um pedreiro leva 5 dias para construir um muro de 50 metros.
 Quantos dias ele levará para construir um muro de 75 metros?
 
-1. 7,5 dias
+a\) 7,5 dias
 
-1. 3,3 dias
+b\) 3,3 dias
 
-1. 130 dias
+c\) 130 dias
 
-1. 18 750 dias
+d\) 18 750 dias
 
 EF06MA16: Resolver problemas utilizando a noção de proporção. 
 
@@ -5642,13 +5642,13 @@ cálculo da regra de 3 chegando a esse resultado erroneamente.
 Quantos dias levará para encher o depósito, sabendo que a vazão da
 torneira é de 15 litros por hora?
 
-1. 1 815 horas
+a\) 1 815 horas
 
-1. 27 000 horas
+b\) 27 000 horas
 
-1. 120 horas
+c\) 120 horas
 
-1. 1 785 horas
+d\) 1 785 horas
 
 EF06MA16: Resolver problemas utilizando a noção de proporção. 
 
@@ -5673,13 +5673,13 @@ invés da operação de divisão.
 
 12 - Qual a forma correta de escrever o número 49 em numeração romana?
 
-1. XLVIX
+a\) XLVIX
 
-1. LIXV
+b\) LIXV
 
-1. XLIX
+c\) XLIX
 
-1. XLIVIX
+d\) XLIVIX
 
 Alternativa A: incorreta, o aluno pode chegar a essa conclusão
 esquecendo que que no sistema romano são apenas em casos específicos de
@@ -5710,13 +5710,13 @@ subtração momentânea.
 13 - João correu 3,5 km na pista de corrida. Qual é a medida equivalente
 em metros?
 
-1. 3.500 m
+a\) 3.500 m
 
-1. 35.000 m
+b\) 35.000 m
 
-1. 350 m
+c\) 350 m
 
-1. 3.500.000 m
+d\) 3.500.000 m
 
 EF06MA30: Utilizar unidades de medida padronizadas para resolver
 problemas que envolvam medidas de comprimento.
@@ -5789,13 +5789,13 @@ Refazer a figura
 
 Considerando a figura III, Laura irá nomeará de
 
-1. heptágono, pois ele possui 7 lados e 9 ângulos.
+a\) heptágono, pois ele possui 7 lados e 9 ângulos.
 
-1. eneágono, pois ele possui 9 lados e 9 ângulos.
+b\) eneágono, pois ele possui 9 lados e 9 ângulos.
 
-1. hexágono, pois ele possui 6 lados e 9 ângulos.
+c\) hexágono, pois ele possui 6 lados e 9 ângulos.
 
-1. octógono, pois ele possui 8 lados e 8 ângulos.
+d\) octógono, pois ele possui 8 lados e 8 ângulos.
 
 BNCC: EF06MA24: Utilizar a simetria como recurso para construção de
 desenhos e problemas geométricos.
@@ -5818,18 +5818,18 @@ Trata-se de um octógono, por possuir 8 lados e 8 ângulos.
 
 Simulado 3
 
-1. Ana Beatriz estava lendo um artigo sobre a escrita dos números pelos
+1\) Ana Beatriz estava lendo um artigo sobre a escrita dos números pelos
 romanos quando se deparou com o seguinte número: MMMDCCXVIII. Curiosa,
 utilizou seus conhecimentos sobre o assunto chegando à conclusão de que
 esse número, no nosso sistema de numeração, representava o:
 
-1. 3717
+a\) 3717
 
-1. 3227
+b\) 3227
 
-1. 3418
+c\) 3418
 
-1. 3718
+d\) 3718
 
 Alternativa A: incorreta o aluno pode contar um traço a menos e
 encontrar esse resultado.
@@ -5842,18 +5842,18 @@ signifique duzentos e chegar a essa conclusão
 
 Alternativa D: Correta.
 
-1. Amanda abastece seu veículo a cada 5 dias, Carlos a cada 2 dias.
+2\) Amanda abastece seu veículo a cada 5 dias, Carlos a cada 2 dias.
 Paulo vai abastecer seu veículo sempre aos sábados e em nenhum outro
 dia. Se no dia 28 de outubro os três abasteceram seus veículos, daqui a
 quantos dias eles abastecerão, novamente, no mesmo dia?
 
-1. 31 dias
+a\) 31 dias
 
-1. 25 dias
+b\) 25 dias
 
-1. 70 dias
+c\) 70 dias
 
-1. esse evento nunca mais acontecerá.
+d\) esse evento nunca mais acontecerá.
 
 Alternativa A: incorreta por questão de semelhança o aluno pode
 considerar que as 3 pessoas citadas no enunciado possam abastecer,
@@ -5904,17 +5904,17 @@ a razão com relação ao total.
 Alternativa D: incorreta pois o aluno pode obter um resultado final e
 inverter numerado com denominador e chegar a esse resultado equivocado.
 
-1. Uma loja de bijuterias realizará uma liquidação e, para isso, o
+4\) Uma loja de bijuterias realizará uma liquidação e, para isso, o
 gerente resolveu alterar os preços multiplicando todos os preços por
 0,85. Nessa liquidação, a loja está oferecendo um desconto de:
 
-1. 85%
+A\) 85%
 
-1. 8,5%
+B\) 8,5%
 
-1. 0,15%
+c\) 0,15%
 
-1. 15%
+d\) 15%
 
 Alternativa A: Incorreta, o aluno pode considerar que a porcentagem a
 ser multiplicada seja o valor final de desconto.
@@ -5935,17 +5935,17 @@ aplicado será foi de 15%.
 EF06MA14: Resolver problemas envolvendo o cálculo de porcentagens de um
 número natural.
 
-1. O tempo t, em segundos, que uma pedra leva para cair de uma altura
+5\) O tempo t, em segundos, que uma pedra leva para cair de uma altura
 x, em metros, é dado aproximadamente pela fórmula t = 0,05·x. Se a
 altura x for de 160 m, o tempo t de queda será de:
 
-1. 3 200 segundos
+a\) 3 200 segundos
 
-1. 8 segundos
+b\) 8 segundos
 
-1. 80 segundos
+c\) 80 segundos
 
-1. 160,05 segundos
+d\) 160,05 segundos
 
 Alternativa A: incorreta pois o aluno pode colocar o valor de 160 no
 lugar de t e errar o cálculo da equação.
@@ -5962,20 +5962,20 @@ Alternativa C: incorreta pois o aluno pode realizar a multiplicação por
 Alternativa D: o aluno pode calcular erroneamente a equação e realizar
 uma soma entre 0,05 e 160 e obter esse resultado equivocado.
 
-1. Para imprimir 400 apostilas com 54 páginas cada uma, 10 impressoras
+6\) Para imprimir 400 apostilas com 54 páginas cada uma, 10 impressoras
 levam 108 minutos. Estas impressoras imprimem um mesmo número de páginas
 por minuto e tem sistema automático de alimentação de folhas, ou seja,
 não precisam parar para o reabastecimento de folhas. Para a impressão de
 2 080 apostilas com 70 páginas impressas cada uma, em 104 minutos, será
 necessário um número dessas impressoras igual a:
 
-1. 1,5 impressoras
+a\) 1,5 impressoras
 
-1. 70 impressoras
+b\) 70 impressoras
 
-1. 29 impressoras
+c\) 29 impressoras
 
-1. 0,96 impressoras
+d\) 0,96 impressoras
 
 EF06MA16: Resolver problemas utilizando a noção de proporção. 
 
@@ -6112,13 +6112,13 @@ terá 50% de chance de iniciar a disputa.
 horas. Quantas horas ele levará para pintar uma parede de 60 metros
 quadrados?
 
-1. 6 minutos
+a\) 6 minutos
 
-1. 6 horas
+b\) 6 horas
 
-1. 60 horas
+c\) 60 horas
 
-1. 40 horas
+d\) 40 horas
 
 BNCC: EF06MA16: Resolver problemas utilizando a noção de proporção.
 
@@ -6139,13 +6139,13 @@ invés de cruzar, onde o valor seria esse.
 capacidade. Qual será o tempo necessário para encher um tanque de 100
 litros de capacidade com a mesma torneira?
 
-1. 50 minutos
+a\) 50 minutos
 
-1. 20 minutos
+b\) 20 minutos
 
-1. 5 minutos
+c\) 5 minutos
 
-1. 60 minutos
+d\) 60 minutos
 
 EF06MA16: Resolver problemas utilizando a noção de proporção. 
 
@@ -6170,13 +6170,13 @@ de 50 litros para 50 minutos onde chegaria a esse resultado.
 
 12 -- O número romano MCMXVIII corresponde a que número decimal?
 
-1. 1918
+a\) 1918
 
-1. 1981
+b\) 1981
 
-1. 1819
+c\) 1819
 
-1. 1891
+d\) 1891
 
 Alternativa A: correta pois:
 
@@ -6202,13 +6202,13 @@ conclusão.
 13 -- Uma corda tem 5 m de comprimento. Qual é a medida equivalente em
 milímetros?
 
-1. 5 mm
+a\) 5 mm
 
-1. 50 mm
+b\) 50 mm
 
-1. 500 mm
+c\) 500 mm
 
-1. 5.000 mm
+d\) 5.000 mm
 
 EF06MA30: Utilizar unidades de medida padronizadas para resolver
 problemas que envolvam medidas de comprimento.
@@ -6236,13 +6236,13 @@ Fazer novas figuras
 
 As duas figuras são denominadas regulares:
 
-1. se possuírem ângulos e lados congruentes.
+a\) se possuírem ângulos e lados congruentes.
 
-1. caso possuam apenas ângulos internos congruentes.
+b\) caso possuam apenas ângulos internos congruentes.
 
-1. se possuírem o número de lados igual ao número de ângulos.
+c\) se possuírem o número de lados igual ao número de ângulos.
 
-1. se possuírem o número de lados igual ao número de vértices.
+d\) se possuírem o número de lados igual ao número de vértices.
 
 EF06MA20: Reconhecer e utilizar características de figuras geométricas
 planas
@@ -6266,13 +6266,13 @@ em 25 caixas com capacidades iguais.
 
 A quantidade de livros por caixa é igual a
 
-1. 498.
+a\) 498.
 
-1. 489.
+b\) 489.
 
-1. 12 250.
+c\) 12 250.
 
-1. 305 625
+d\) 305 625
 
 BNCC: EF06MA16: Resolver problemas utilizando a noção de proporção.
 
@@ -6291,7 +6291,7 @@ invés de divisão
 
 Simulado 4
 
-1. Adalberto encontrou nos cadernos antigos de seu pai o seguinte
+1\) Adalberto encontrou nos cadernos antigos de seu pai o seguinte
 número em escrita egípcia:
 
 ![](./imgSAEB_6_MAT/media/image124.png){width="3.3958333333333335in"
@@ -6338,18 +6338,18 @@ inclusive raiz quadrada, para resolver problemas com valores
 aproximados, utilizando calculadora, mentalmente ou por meio de
 estimativas, com ou sem o uso de tecnologias digitais.
 
-1. Três asteroides se aproximam do sol a cada 24, 36, e 44 anos,
+2\) Três asteroides se aproximam do sol a cada 24, 36, e 44 anos,
 respectivamente. Se o último ano em que todos estiveram próximos do sol
 foi 1984, daqui a quantos anos esse evento acontecerá novamente, ou
 seja, daqui a quantos anos eles estarão próximos do sol ao mesmo tempo?
 
-1. 4
+a\) 4
 
-1. 25
+b\) 25
 
-1. 396
+c\) 396
 
-1. 1 848
+d\) 1 848
 
 Alternativa A: incorreta, o aluno pode confundir o conceito de m.m.c.
 com m.d.c.
@@ -6395,17 +6395,17 @@ seja 0,2 onde o resultado seria esse.
 Alternativa D: o aluno pode confundir porcentagem com quantidade e
 chegará nesse resultado.
 
-1. Em uma cidade em que as passagens de ônibus custavam R\$2,20, devido
+4\) Em uma cidade em que as passagens de ônibus custavam R\$2,20, devido
 a aumento de gastos, a empresa responsável reajustou o preço das
 passagens em 20%. Qual será o novo valor das passagens?
 
-1. R\$ 2,24.
+a\) R\$ 2,24.
 
-1. R\$ 2,40.
+b\) R\$ 2,40.
 
-1. R\$ 11,00.
+c\) R\$ 11,00.
 
-1. R\$ 2,64.
+d\) R\$ 2,64.
 
 Alternativa A: incorreta o aluno pode realizar o fator multiplicativo
 com 0,02 ao invés de 0,2
@@ -6420,17 +6420,17 @@ Alternativa D: Correta.
 
 2,20·1,2 = R\$ 2,64
 
-1. Numa caixa há bolas Vermelhas e bolas amarelas num total de 720. Se
+5\) Numa caixa há bolas Vermelhas e bolas amarelas num total de 720. Se
 o número de bolas vermelhas é o quíntuplo do número de bolas amarelas
 então, o número de bolas amarelas é:
 
-1. 180
+a\) 180
 
-1. 144
+b\) 144
 
-1. 120
+d\) 120
 
-1. 600
+d\) 600
 
 EF06MA07: Resolver problemas que envolvam expressões numéricas com
 números naturais e com o uso das propriedades das operações.
@@ -6456,19 +6456,19 @@ x = 120
 Alternativa D: o aluno pode confundir a quantidade de bolas vermelhas
 por bolas amarelas no enunciado.
 
-1. Em uma indústria, 40 máquinas iguais, de mesmo rendimento, produzem
+6\) Em uma indústria, 40 máquinas iguais, de mesmo rendimento, produzem
 juntos 10 000 peças iguais, em 1 hora de funcionamento simultâneo e
 ininterrupto. Desse modo, para produzir 2 000 unidades das mesmas peças
 em 2 horas, seria necessário o funcionamento, nas mesmas condições
 operacionais, de apenas:
 
-1. 100 máquinas.
+a\) 100 máquinas.
 
-1. 40 máquinas.
+b\) 40 máquinas.
 
-1. 4 máquinas.
+c\) 4 máquinas.
 
-1. 0,4 máquinas.
+d\) 0,4 máquinas.
 
 BNCC: EF06MA16: Resolver problemas utilizando a noção de proporção.
 
@@ -6604,13 +6604,13 @@ height="1.633474409448819in"}
 
 Refazer a imagem
 
-1. uma curva para esquerda e outra para direita.
+a\) uma curva para esquerda e outra para direita.
 
-1. uma curva para direita e outra também para a direita.
+b\) uma curva para direita e outra também para a direita.
 
-1. uma curva para direita e outra para esquerda.
+c\) uma curva para direita e outra para esquerda.
 
-1. uma curva para esquerda e outra também para a esquerda.
+d\) uma curva para esquerda e outra também para a esquerda.
 
 BNCC: EF06MA11: Identificar a localização/movimentação de objeto(s) no
 plano cartesiano
@@ -6633,13 +6633,13 @@ esquerda e direita no croqui
 
 A medida desse campo em centímetros é igual a
 
-1. 105 000 cm.
+a\) 105 000 cm.
 
-1. 105 000 cm.
+b\) 105 000 cm.
 
-1. 10 500 cm.
+c\) 10 500 cm.
 
-1. 1 050 cm.
+d\) 1 050 cm.
 
 BNCC: EF06MA30: Utilizar unidades de medida padronizadas para resolver
 problemas que envolvam medidas de comprimento.
@@ -6667,13 +6667,13 @@ height="0.6123589238845144in"}
 
 Sendo assim qual a fração que representa a letra U?
 
-1. $\frac{8}{3}$
+a\) $\frac{8}{3}$
 
-1. $\frac{7}{3}$
+b\) $\frac{7}{3}$
 
-1. $\frac{2}{3}$
+c\) $\frac{2}{3}$
 
-1. $\frac{12}{3}$
+d\) $\frac{12}{3}$
 
 BNCC: EF06MA13: Resolver problemas envolvendo a comparação de números
 racionais na forma decimal, utilizando a reta numérica como modelo. 
@@ -6702,15 +6702,15 @@ Refazer imagem
 
 Sobre esse polígono, pode-se afirmar que
 
-1. é um hexágono e possui 6 vértices, 6 ângulos obtusos, 6 lados e 9
+a\) é um hexágono e possui 6 vértices, 6 ângulos obtusos, 6 lados e 9
 diagonais.
 
-1. é um hexágono e possui 6 vértices, 6 ângulos agudos e 6 diagonais.
+b\) é um hexágono e possui 6 vértices, 6 ângulos agudos e 6 diagonais.
 
-1. é um quadrilátero e possui 6 vértices, 6 ângulos obtusos e 9
+c\) é um quadrilátero e possui 6 vértices, 6 ângulos obtusos e 9
 diagonais.
 
-1. é um pentágono e possui 6 vértices, 6 ângulos agudos, 6 lados e 6
+d\) é um pentágono e possui 6 vértices, 6 ângulos agudos, 6 lados e 6
 diagonais.
 
 BNCCEF06MA24: Utilizar a simetria como recurso para construção de
