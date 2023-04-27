@@ -66,7 +66,7 @@ Norte.]{.underline}***
 
 <https://pib.socioambiental.org/pt/Povo:Xokleng>
 
-1. Tendo como base o trecho destacado dos textos, como podemos
+1\. Tendo como base o trecho destacado dos textos, como podemos
 caracterizar a relação da sociedade brasileira com as populações
 indígenas no começo do século XX?
 
@@ -81,7 +81,7 @@ espoliação dos recursos naturais.
 exclusão, as pautas dos povos indígenas, no contexto republicano (até
 1964), e das populações afrodescendentes.
 
-1. No trecho destacado no texto II está implícita a principal causa dos
+2\. No trecho destacado no texto II está implícita a principal causa dos
 conflitos entre população indígena e não-indígena no período, qual seria
 tal causa?
 
@@ -92,7 +92,7 @@ existentes.
 exclusão, as pautas dos povos indígenas, no contexto republicano (até
 1964), e das populações afrodescendentes.
 
-1. Leia os trechos a seguir:
+3\. Leia os trechos a seguir:
 
 Texto I
 
@@ -159,7 +159,7 @@ subsistência.
 (EF09HI21) Identificar e relacionar as demandas indígenas e quilombolas
 como forma de contestação ao modelo desenvolvimentista da ditadura.
 
-1. *Após uma série de protestos dos estudantes da rede estadual de São
+4\. *Após uma série de protestos dos estudantes da rede estadual de São
 Paulo, duramente reprimidos pela Polícia Militar,  o [Governador Geraldo
 Alckmin](http://brasil.elpais.com/tag/geraldo_alckmin/a/) anunciou nesta
 sexta-feira a decisão de suspender o plano de [reorganização
@@ -191,7 +191,7 @@ civis à atuação de
 
 movimentos sociais.
 
-1. Martin Luther King (1929-1968) notabilizou-se pela sua liderança aos
+5\. Martin Luther King (1929-1968) notabilizou-se pela sua liderança aos
 protestos não violentos e ao movimento pelos direitos sociais e civis
 dos negros nos Estados Unidos da América. O trecho a seguir faz parte do
 discurso proferido pelo reverendo King, após a decisão da Suprema Corte
@@ -222,7 +222,7 @@ atenuava a agressividade imposta pelos agentes do Estado.
 (EF09HI09) Relacionar as conquistas de direitos políticos, sociais e
 civis à atuação de movimentos sociais.
 
-1. Chama-se "Declaração Universal dos Direitos Humanos" o documento
+6\. Chama-se "Declaração Universal dos Direitos Humanos" o documento
 elaborado pela recém-criada Organização das Nações Unidas visando a
 manutenção da paz e do respeito ao conjunto das populações humanas, a
 seguir, estão reproduzidos alguns de seus artigos:
@@ -303,7 +303,7 @@ para a identificação dos agentes responsáveis por sua violação.
 
 Treino
 
-1. Leia o trecho da Constituição cidadã de 1988 que versa sobre a
+1\. Leia o trecho da Constituição cidadã de 1988 que versa sobre a
 educação:
 
 Constituição Federal de 1988
@@ -368,7 +368,7 @@ racismo.
 
 e)  
 
-1. *A proporção de pessoas pretas ou pardas (que compõem a população
+2\. *A proporção de pessoas pretas ou pardas (que compõem a população
 negra) cursando o ensino superior em instituições públicas brasileiras
 chegou a 50,3% em 2018. Apesar desta parcela da população representar
 55,8% dos brasileiros, é a primeira vez que os pretos e pardos
@@ -419,7 +419,7 @@ d)  INCORRETA. O fim das cotas raciais iria dificultar ainda mais o
     desigualdade de condições existente entre a população negra e
     branca.
 
-1. *Na segunda metade de 1974, o povo kinja se reunia na aldeia Kramna
+3\. *Na segunda metade de 1974, o povo kinja se reunia na aldeia Kramna
 Mudî para uma celebração típica dos índios waimiri atroari, na margem do
 rio Alalaú. "Já tinham chegado os visitantes de Camanaú e do Baixo
 Alalaú. O pessoal das aldeias do Norte ainda estava a caminho. A festa
@@ -481,7 +481,7 @@ como forma de contestação ao modelo desenvolvimentista da ditadura.
 
 Simulado
 
-1. Na tira abaixo se mencionam duas publicações: O livro *1984*, de
+1\. Na tira abaixo se mencionam duas publicações: O livro *1984*, de
 Oscar Wilde e a *Constituição Cidadã de 1988*, indicada pela bandeira do
 Brasil
 
@@ -641,7 +641,7 @@ para a identificação dos agentes responsáveis por sua violação.
 Explora ainda questões da diversidade humana, ligada à atuação para uma
 cultura de paz, com a devida valorização dos direitos humanos.
 
-1. *Os Sistemas Agroflorestais (SAFs) permitem aos agricultores
+4\. *Os Sistemas Agroflorestais (SAFs) permitem aos agricultores
 familiares conciliar a produção de alimentos com a gestão das riquezas
 naturais de cada bioma. Na Bahia, associados à CONAFER, indígenas da
 etnia Pataxó, do território Barra Velha, município de Porto Seguro, a
@@ -685,7 +685,7 @@ Trata dos esforços de participação social de segmentos excluídos e suas
 estratégias reivindicatórias ante o Estado, considerando os distintos
 interesses que os constituem.
 
-1. *Em depoimento à Comissão Nacional da Verdade, Davi Kopenawa, líder
+5\. *Em depoimento à Comissão Nacional da Verdade, Davi Kopenawa, líder
 yanomami, relembrou o descaso do governo durante a realização de grandes
 obras. Segundo a liderança, as estradas abriram caminho para os
 invasores garimpeiros e fazendeiros.*
