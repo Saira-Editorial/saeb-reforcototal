@@ -38,7 +38,7 @@ de* preprints *SSRN para revisão por pares.*
 ~BUTANTAN,\ Instituto.\ Projeto\ S\ é\ exemplo\ de\ como\ incentivar\ a\ vacinação\ e\ combater\ a\ desinformação\
 Disponível\ em:\ https://butantan.gov.br/noticias/projeto-s-e-exemplo-de-como-incentivar-a-vacinacao-e-combater-a-desinformacao.\ Acesso\ em\ 03\ mar.\ 2023.~
 
-1. O Brasil tem um histórico positivo em relação às campanhas de
+1\. O Brasil tem um histórico positivo em relação às campanhas de
 vacinação contra diversos agentes infecciosos. Mesmo assim, na pandemia
 de COVID-19, foi necessário grande esforço para levar à população aos
 locais de aplicação das vacinas, inclusive de agentes não estatais.
@@ -49,7 +49,7 @@ Os líderes comunitários têm grande permeabilidade e influência dentro
 dos limites territoriais em que atuam, tendo sido um importante veículo
 de propagação e esclarecimento da campanha de vacinação.
 
-1. A figura do Estado foi vital para o controle e enfrentamento à
+2\. A figura do Estado foi vital para o controle e enfrentamento à
 pandemia de COVID-19. Contudo, outros agentes também foram essenciais e
 nortearam as ações estatais ao longo da pandemia. Sublinhe abaixo, além
 dos líderes comunitários, aqueles que auxiliaram o Estado neste
@@ -62,7 +62,7 @@ Obviamente, àqueles que foram importantíssimos, e juntamente com o
 Estado, auxiliaram o enfrentamento à pandemia de COVID-19, foram
 médicos, os pesquisadores(as) e autoridades públicas.
 
-1. Leia o trecho a seguir:
+3\. Leia o trecho a seguir:
 
 *As milícias cariocas já controlam 25,5% dos bairros do Rio de Janeiro,
 em um total de 57,5% do território da cidade. As três principais facções
@@ -85,7 +85,7 @@ públicas, especificamente, do setor de segurança. O Estado tem sido
 ineficiente em combater as ações destes grupos, além de conter sua
 expansão.
 
-1. Leia o texto que segue:
+4\. Leia o texto que segue:
 
 *As vaias ao hino espanhol durante a final da Copa do Rei, entre
 Barcelona e Athletic Bilbao, custaram caro. A Comissão antiviolência da
@@ -117,7 +117,7 @@ isso às vaias ao hino nacional na partida citada. Ademais, recentemente,
 a população da Catalunha votou em favor de um referendo que pede a
 independência da região frente à Espanha.
 
-1. Leia o trecho a seguir:
+5\. Leia o trecho a seguir:
 
 *Os curdos formam uma população estimada entre 25 milhões e 35 milhões e
 habitam uma região montanhosa que se espalha pelos territórios de cinco
@@ -146,7 +146,7 @@ formados e reconhecidos internacionalmente. Dessa forma, a obtenção de
 um território para a formação do Curdistão compreende um assunto muito
 delicado e que envolve outros Estados nacionais.
 
-1. Leia o trecho a seguir:
+6\. Leia o trecho a seguir:
 
 *A maioria separatista do Parlamento catalão proclamou nesta
 sexta-feira, unilateralmente, a independência da Catalunha, acabando com
@@ -169,7 +169,7 @@ internacionais, neste caso a União Europeia. Para a formação de um novo
 Estado nacional é vital ter o reconhecimento internacional, seja de
 países, instituições ou blocos.
 
-1. Analise o mapa a seguir:
+7\. Analise o mapa a seguir:
 
 Inserir mapa com a evolução do território israelense em detrimento da
 redução do território ocupado pelos palestinos.
@@ -188,7 +188,7 @@ palestinos reivindicam a criação de um Estado próprio, no mesmo
 território onde está situado o Estado israelense, o que complica uma
 resolução de paz para estes povos.
 
-1. Atribua verdadeiro (V) ou falso (F) para as afirmativas a seguir:
+8\. Atribua verdadeiro (V) ou falso (F) para as afirmativas a seguir:
 
 \(V\) A existência de um Estado demanda, necessariamente, um território.
 
@@ -214,7 +214,7 @@ aprovação do referendo de independência da Catalunha, que os pedidos de
 independência estão ligados à falta de pertencimento à unidade
 territorial central, no caso o governo espanhol sediado em Madri.
 
-1. Leia o trecho a seguir:
+9\. Leia o trecho a seguir:
 
 *No processo de desenvolvimento de Estados, distintos povos foram postos
 em um mesmo território, sob um mesmo governo e leis. Pequenos povos
@@ -272,7 +272,7 @@ nacional, divergente à unidade territorial espanhola.~\
 
 **Treino**
 
-1. Leia o trecho a seguir:
+1\. Leia o trecho a seguir:
 
 *O presidente da Catalunha, Carles Puigdemont, disse na noite deste
 domingo (1º) que a Catalunha "ganhou o direito de ser um Estado" após a
@@ -310,26 +310,26 @@ BNCC: (EF09GE08) Analisar transformações territoriais, considerando o
 movimento de fronteiras, tensões, conflitos e múltiplas regionalidades
 na Europa, na Ásia e na Oceania.
 
-1. CORRETA. Ao aprovar o referendo em prol da independência da região,
+a\) CORRETA. Ao aprovar o referendo em prol da independência da região,
 os catalães demonstram a sua territorialidade, ou seja, seu sentimento
 de pertencimento à Catalunha, e não ao Estado espanhol.
 
-1. INCORRETA. A nação catalã, ou seja, o grupo de pessoas com traços
+b\) INCORRETA. A nação catalã, ou seja, o grupo de pessoas com traços
 étnicos e culturais em comum, existe independentemente do referendo, e
 da sua escolha, tanto que 7% dos catalães optaram pela manutenção da
 região junto ao Estado espanhol.
 
-1. INCORRETA. O referendo compreende a consulta popular sobre um
+c\) INCORRETA. O referendo compreende a consulta popular sobre um
 determinado tema, mas que não envolve a escolha por partidos políticos
 ou o seu rechaço em relação aos mesmos.
 
-1. INCORRETA. O referendo é uma das etapas dos catalães em busca da sua
+d\) INCORRETA. O referendo é uma das etapas dos catalães em busca da sua
 legitimidade frente ao Estado espanhol, ou seja, a conquista da sua
 independência. Sua realização e aprovação não resultou, diretamente, na
 independência da Catalunha, tanto é que não foi considerado legítimo
 pelo governo espanhol.
 
-1. Leia o trecho a seguir:
+2\. Leia o trecho a seguir:
 
 *O Ministério da Saúde anunciou, nesta quarta-feira (08), um dos
 embaixadores da Campanha Nacional de Vacinação deste ano. O* influencer
@@ -361,26 +361,26 @@ para abordar questões relativas à regulação das condutas sociais, ao
 funcionamento das estruturas sociopolíticas e, em âmbito internacional,
 às relações entre nações e organismos multilaterais.
 
-1. INCORRETA. A importância de ser vacinar é reforçada nas campanhas de
+a\) INCORRETA. A importância de ser vacinar é reforçada nas campanhas de
 vacinação, além do fato de não se escolher os imunizantes
 disponibilizados. Neste caso, a escolha dos *influencers* não visa
 remediar descontentamento com resultados de testes.
 
-1. CORRETA. *Influencers* são reconhecidos pela sociedade, ou por
+b\) CORRETA. *Influencers* são reconhecidos pela sociedade, ou por
 grupos mais específicos, e suas ações muitas vezes servem como estímulos
 para pessoas não famosas. Neste caso, a escolha do Estado por
 *influencers* para estampar campanhas explica-se pelo seu
 reconhecimento, e espera-se que seus seguidores tomem a mesma atitude,
 ou seja, busquem a vacinação.
 
-1. INCORRETA. O texto não destaca a repulsa da população pelas
+c\) INCORRETA. O texto não destaca a repulsa da população pelas
 campanhas vacinais.
 
-1. INCORRETA. O texto não destaca o rechaço da população às figuras
+d\) INCORRETA. O texto não destaca o rechaço da população às figuras
 públicas, pelo contrário, dado que o Estado buscou um *influencer* para
 estampar a campanha de vacinação.
 
-1. Leia o trecho a seguir:
+3\. Leia o trecho a seguir:
 
 *--- O Rio de Janeiro virou uma realidade à parte no setor. A pessoa tem
 uma revenda regularizada, mas, se o funcionário atravessa a rua e faz
@@ -414,21 +414,21 @@ multilaterais. Nessa perspectiva, considera os territórios, os processos
 de disputa e construção de fronteiras e as trajetórias de consolidação e
 manutenção de poder em diferentes momentos, lugares e escalas.
 
-1. INCORRETA. A atuação do crime organizado, e o seu domínio
+a\) INCORRETA. A atuação do crime organizado, e o seu domínio
 territorial, vem da imposição da força sobre os territórios, e numa
 perspectiva de enfrentamento ao Estado, nunca com a transferência do
 monopólio da força, uma das definições clássica de Estado.
 
-1. INCORRETA. Na situação descrita não há reconhecimento da
+b\) INCORRETA. Na situação descrita não há reconhecimento da
 legitimidade do crime organizado pelo Estado. No caso, houve a imposição
 da força pelo crime organizado que resultou no domínio das atividades
 comerciais.
 
-1. INCORRETA. O texto não destaca a aceitação populacional das ações do
+c\) INCORRETA. O texto não destaca a aceitação populacional das ações do
 crime organizado, na verdade, o cumprimento das imposições feitas pelos
 criminosos se dá para a manutenção da segurança e integridade própria.
 
-1. CORRETA. O texto destaca que o crime organizado controla o mercado
+d\) CORRETA. O texto destaca que o crime organizado controla o mercado
 de gás em áreas de comunidade, impondo os seus preços e locais de
 compra, a revelia das determinações do Estado e sua regulação de preços.
 A "obediência" às regras impostas pelo crime organizados é explicada
@@ -436,7 +436,7 @@ pela manutenção da segurança e integridade dos populares.
 
 **SIMULADO**
 
-1. Leia os trechos a seguir:
+1\. Leia os trechos a seguir:
 
 **Texto I**
 
@@ -466,13 +466,13 @@ Turquia e pelos EUA.*
 Os exemplos acima demonstram que a formação de Estados independentes
 carece também
 
-1. da adoção de um sistema federalista.
+a\) da adoção de um sistema federalista.
 
-1. de reconhecimento internacional.
+b\) de reconhecimento internacional.
 
-1. da criação de partidos políticos.
+c\) da criação de partidos políticos.
 
-1. do estabelecimento de uma capital.
+d\) do estabelecimento de uma capital.
 
 SAEB: Tematiza formas de poder não estatais, como as de caráter
 religioso e científico, para abordar questões relativas à regulação das
@@ -486,11 +486,11 @@ BNCC: (EF09GE08) Analisar transformações territoriais, considerando o
 movimento de fronteiras, tensões, conflitos e múltiplas regionalidades
 na Europa, na Ásia e na Oceania.
 
-1. INCORRETA. A formação de um Estado independente não está
+a\) INCORRETA. A formação de um Estado independente não está
 relacionada, diretamente, à forma de governo adotada e a organização
 política interna.
 
-1. CORRETA. Os exemplos mostram que os palestinos foram buscar
+b\) CORRETA. Os exemplos mostram que os palestinos foram buscar
 reconhecimento do seu Estado junto à União Europeia (UE), importante
 agente internacional. Sendo assim, uma das formas de formar e assegurar
 a continuidade de um Estado nacional é o reconhecimento externo. Já no
@@ -498,13 +498,13 @@ caso dos curdos, o contrário, houve a organização interna, contudo, não
 houve reconhecimento internacional, o que dificulta a formação do
 Estado.
 
-1. INCORRETA. A formação de um Estado independente não está relacionada
+c\) INCORRETA. A formação de um Estado independente não está relacionada
 à formação de partidos políticos.
 
-1. INCORRETA. A formação de um Estado independente não está relacionada
+d\) INCORRETA. A formação de um Estado independente não está relacionada
 ao estabelecimento de uma capital.
 
-1. Leia o trecho a seguir:
+2\. Leia o trecho a seguir:
 
 *Em muitas cidades ingovernáveis, o estado geralmente não pode
 proporcionar a lei e ordem e responder às necessidades básicas de
@@ -529,25 +529,25 @@ condutas sociais, ao funcionamento das estruturas sociopolíticas e, em
 âmbito internacional, às relações entre nações e organismos
 multilaterais.
 
-1. CORRETA. A atuação do crime organizado, no caso do oferecimento de
+a\) CORRETA. A atuação do crime organizado, no caso do oferecimento de
 segurança por agentes do crime organizado, se dá pelo vácuo de poder
 deixado pelo Estado, e cooptado pelos criminosos. Na ausência de um
 agente regulador os criminosos impõem sua lógica aos habitantes locais,
 referendados pelo aparato bélico, que depois utilizam para combater o
 próprio Estado e manter o controle territorial.
 
-1. INCORRETA. Na situação descrita não há o envolvimento popular no
+b\) INCORRETA. Na situação descrita não há o envolvimento popular no
 controle da segurança oferecida, pelo contrário, a lógica dos criminosos
 é imposta, com os populares seguindo suas regras.
 
-1. INCORRETA. O crime organizado não tem suas ações, e existência, tida
+c\) INCORRETA. O crime organizado não tem suas ações, e existência, tida
 como legitima, uma vez que, o monopólio da violência pertence somente ao
 Estado.
 
-1. INCORRETA. Nas áreas de controle do crime organizado não há uma
+d\) INCORRETA. Nas áreas de controle do crime organizado não há uma
 opção ou alternativa paralela no oferecimento da segurança.
 
-1. Leia o trecho sobre o Movimento dos Trabalhadores Rurais Sem Terra
+3\. Leia o trecho sobre o Movimento dos Trabalhadores Rurais Sem Terra
 (MST):
 
 \[\...\] *Organizado nacionalmente, ele se constitui no principal
@@ -578,22 +578,22 @@ como as diversas formas de organização política, abrangendo questões
 pertinentes às nações, aos povos, às lutas por reformas, guerras e
 revoluções.
 
-1. CORRETA. A reforma agrária no Brasil visa corrigir um aspecto
+a\) CORRETA. A reforma agrária no Brasil visa corrigir um aspecto
 histórico na estrutura fundiária brasileira, pautada historicamente pelo
 latifúndio. Dessa forma, o MST tem como finalidade forçar o Estado
 nacional a corrigir uma assimetria fomentada ao longo do tempo.
 
-1. INCORRETA. A luta pela reforma agrária no Brasil não visa prejudicar
+b\) INCORRETA. A luta pela reforma agrária no Brasil não visa prejudicar
 os negócios do agronegócio nacional, muito menos promover insegurança
 aos seus produtores.
 
-1. INCORRETA. De acordo com o excerto, o MST não tem como finalidade
+c\) INCORRETA. De acordo com o excerto, o MST não tem como finalidade
 intermediar a relação entre pequenos e grandes produtores agrícolas.
 
-1. INCORRETA. De acordo com o excerto, o MST não tem como finalidade
+d\) INCORRETA. De acordo com o excerto, o MST não tem como finalidade
 centralizar e direcionar a produção agrícola nacional.
 
-1. Leia o trecho a seguir.
+4\. Leia o trecho a seguir.
 
 \[\...\] *Tensões entre judeus e não judeus alcançaram o ponto de
 ebulição, e em 1948 uma Grã-Bretanha exausta entregou o problema para as
@@ -624,22 +624,22 @@ BNCC: (EF09GE08) Analisar transformações territoriais, considerando o
 movimento de fronteiras, tensões, conflitos e múltiplas regionalidades
 na Europa, na Ásia e na Oceania.
 
-1. INCORRETA. As relações envolvendo Iraque e Irã não envolvem a
+a\) INCORRETA. As relações envolvendo Iraque e Irã não envolvem a
 disputa entre judeus e árabes.
 
-1. INCORRETA. As relações envolvendo Síria e Líbano não envolvem a
+b\) INCORRETA. As relações envolvendo Síria e Líbano não envolvem a
 disputa entre judeus e árabes.
 
-1. CORRETA. Judeus e árabes têm a sua disputa mais conhecida envolvendo
+c\) CORRETA. Judeus e árabes têm a sua disputa mais conhecida envolvendo
 a formação do Estado de Israel, judeu, e o impedimento à formação do
 Estado da Palestina, árabe. Não bastasse ambos estarem situados no mesmo
 território, Israel vem incorporando ao Estado áreas destinadas aos
 palestinos.
 
-1. INCORRETA. As relações envolvendo Iêmen e Arábia Saudita não
+d\) INCORRETA. As relações envolvendo Iêmen e Arábia Saudita não
 envolvem a disputa entre judeus e árabes.
 
-1. Leia o trecho a seguir:
+5\. Leia o trecho a seguir:
 
 **Entenda quem são os curdos, povo no centro da disputa entre Turquia e
 EUA**
@@ -672,19 +672,19 @@ como as diversas formas de organização política, abrangendo questões
 pertinentes às nações, aos povos, às lutas por reformas, guerras e
 revoluções.
 
-1. INCORRETA. O termo apátrida compreende as pessoas que não apresentam
+a\) INCORRETA. O termo apátrida compreende as pessoas que não apresentam
 uma nacionalidade, e não está diretamente relacionado aos aspectos
 culturais.
 
-1. CORRETA. Os curdos são apátridas por não ter o sentimento de
+b\) CORRETA. Os curdos são apátridas por não ter o sentimento de
 pertencimento aos países onde habitam, no caso, Irã, Síria, Armênia,
 Turquia e Iraque. Dessa forma, evidencia-se que os curdos carecem de um
 território próprio para a formação do seu Estado, no caso, o Curdistão.
 
-1. INCORRETA. O termo apátrida compreende as pessoas que não apresentam
+c\) INCORRETA. O termo apátrida compreende as pessoas que não apresentam
 uma nacionalidade, e não está diretamente relacionado aos aspectos
 linguísticos.
 
-1. INCORRETA. O termo apátrida compreende as pessoas que não apresentam
+d\) INCORRETA. O termo apátrida compreende as pessoas que não apresentam
 uma nacionalidade, e não está diretamente relacionado aos dialetos
 locais.

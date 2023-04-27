@@ -4,24 +4,24 @@ Habilidades BNCC: EF07MA01, EF07MA03, EF07MA10.
 
 Habilidades SAEB:
 
-* Escrever números racionais (representação fracionária ou decimal
+\- Escrever números racionais (representação fracionária ou decimal
 finita) em sua representação por algarismos ou em língua materna ou
 associar o registro numérico ao registro em língua materna.
 
-* Compor ou decompor números racionais positivos (representação decimal
+\- Compor ou decompor números racionais positivos (representação decimal
 finita) na forma aditiva, ou em suas ordens, ou em adições e
 multiplicações.
 
-* Identificar números racionais ou irracionais.
+\- Identificar números racionais ou irracionais.
 
-* Comparar ou ordenar números reais, com ou sem suporte da reta
+\- Comparar ou ordenar números reais, com ou sem suporte da reta
 numérica, ou aproximar números reais para múltiplos de potência de 10
 mais próxima.
 
-* Converter uma representação de um número racional positivo para outra
+\- Converter uma representação de um número racional positivo para outra
 representação.
 
-* Identificar um número natural como primo, composto, "múltiplo/fator
+\- Identificar um número natural como primo, composto, "múltiplo/fator
 de" ou "divisor de" ou identificar a decomposição de um número natural
 em fatores primos ou relacionar as propriedades aritméticas (primo,
 composto, "múltiplo/fator de" ou "divisor de") de um número natural à
@@ -186,7 +186,7 @@ está mais próximo ou não.
 
 Atividades:
 
-1. Marque Verdadeiro (V) ou falso (F) para as afirmações abaixo e
+1\) Marque Verdadeiro (V) ou falso (F) para as afirmações abaixo e
 justifique sua resposta.
 
 (    ) Todo número que é racional é também irracional
@@ -210,7 +210,7 @@ controverso a definição de irracional.
 \(V\) Todos os números inteiros podem ser escritos na forma de
 racionais.
 
-1. Relacione as colunas abaixo com o número escrito por extenso.
+2\) Relacione as colunas abaixo com o número escrito por extenso.
 
 a)  0,333                       (   ) Trezentos e três milésimos 
 
@@ -233,19 +233,19 @@ Resposta:
 
 ( d  ) Quatro inteiros e cinquenta e oito milésimos
 
-1. Aproxime as partes inteiras dos números reais a potências de 10.
+3\) Aproxime as partes inteiras dos números reais a potências de 10.
 
-1. 1039
+a\) 1039
 
-1. 6
+b\) 6
 
-1. 782
+c\) 782
 
-1. 24
+d\) 24
 
-1. 3563
+e\) 3563
 
-1. 3
+f\) 3
 
 Resposta:\
 Para aproximar números para a potência de 10, a parte inteira será
@@ -263,7 +263,7 @@ e)  3560
 
 f)  10
 
-1. Foi feita uma competição na escola Super Saber dos alunos que
+4\) Foi feita uma competição na escola Super Saber dos alunos que
 percorrem a maior distância em um tiro de 5 minutos de corrida com
 obstáculos. Após averiguar as distâncias, viu que a maioria percorreu a
 mesma parte inteira e a decisão ficou nos números decimais, observe a
@@ -308,18 +308,18 @@ Resposta:
 Professor, lembre os alunos que o desempate acontece no maior número
 depois da vírgula que ocupa a mesma casa decimal do outro valor.
 
-1. Classifique os números abaixo como compostos ou primos, para o caso
+5\) Classifique os números abaixo como compostos ou primos, para o caso
 dos compostos, indique 3 divisores.
 
-1. 11
+a\) 11
 
-1. 48
+b\) 48
 
-1. 23
+c\) 23
 
-1. 51
+d\) 51
 
-1. 100
+e\) 100
 
 Resposta:
 
@@ -333,15 +333,15 @@ d)  O número 51 é primo, só é divisível por ele mesmo e por 1.
 
 e)  O número 100 é composto. Seus menores divisores: 2,4,5.
 
-1. Decomponha os números racionais abaixo:\
+6\) Decomponha os números racionais abaixo:\
 \
 a) 28,3569
 
-1. 8,596
+b\) 8,596
 
-1. 42,568
+c\) 42,568
 
-1. 144,326
+d\) 144,326
 
 Resposta:
 
@@ -353,7 +353,7 @@ c)  $42,568 = \ 42 + 0,5 + 0,06 + 0,008$
 
 d)  $144,326 = 144 + 0,300 + 0,020 + 0,006$
 
-1. Apresente uma representação equivalente ao número racional dado:
+7\) Apresente uma representação equivalente ao número racional dado:
 
 a)  5,667
 
@@ -369,7 +369,7 @@ b)  $\frac{42}{99} = 0,42424242...$
 
 c)  $0,36 = \frac{36}{100}$
 
-1. Em uma empresa que tem 120 funcionários, constatou-se que 25 dos
+8\) Em uma empresa que tem 120 funcionários, constatou-se que 25 dos
 funcionários são mulheres e 1220 são homens, há mais homens ou mulheres
 que trabalham nesta empresa? 
 
@@ -377,13 +377,13 @@ Resposta:\
 A maioria dos funcionários são homens, pois 25 de 120= 48 mulheres e a
 quantidade de homens é igual a 72.
 
-1. Classifique os números como racionais ou irracionais
+9\) Classifique os números como racionais ou irracionais
 
-1. 7,3695216...
+a\) 7,3695216...
 
-1. 1,28567676767...
+b\) 1,28567676767...
 
-1. 1,2365787878...
+c\) 1,2365787878...
 
 Resposta:
 
@@ -405,18 +405,18 @@ Paula tem o pé maior.
 
 Treino
 
-1. Marque a alternativa em que classifica os números respectivamente e
+1\) Marque a alternativa em que classifica os números respectivamente e
 corretamente.
 
 $$\sqrt{3}\ \ \ \ \ \ 0,222..\ \ \ \ 5,363636...\ \ \ \ \ \sqrt{\ 2}$$
 
-1. Natural, Inteiro, Racional, Racional.
+a\) Natural, Inteiro, Racional, Racional.
 
-1. Irracional, Racional, Racional, Irracional.
+b\) Irracional, Racional, Racional, Irracional.
 
-1. Racional, Irracional, Irracional, Racional.
+c\) Racional, Irracional, Irracional, Racional.
 
-1. Racional, Racional, Racional, Irracional.
+d\) Racional, Racional, Racional, Irracional.
 
 Resposta: B
 
@@ -424,10 +424,10 @@ Habilidades BNCC: EF07MA01, EF07MA03, EF07MA10.
 
 Habilidades SAEB:
 
-* Converter uma representação de um número racional positivo para outra
+\- Converter uma representação de um número racional positivo para outra
 representação.
 
-* Escrever números racionais (representação fracionária ou decimal
+\- Escrever números racionais (representação fracionária ou decimal
 finita) em sua representação por algarismos ou em língua materna ou
 associar o registro numérico ao registro em língua materna.
 
@@ -441,16 +441,16 @@ $\sqrt{2}$ , $\ \ 5,363636$não é Irracional e $\sqrt{2}$ não é
 racional.\
 D - Errada, porque $\sqrt{3}$ não é racional
 
-1. Um professor marcou numa reta numérica um ponto entre o 0 e o 1.
+2\) Um professor marcou numa reta numérica um ponto entre o 0 e o 1.
 Qual número racional melhor representa este ponto?
 
-1. $\frac{2}{8}$
+a\) $\frac{2}{8}$
 
-1. $\frac{5}{2}$
+b\) $\frac{5}{2}$
 
-1. $\frac{10}{7}$
+c\) $\frac{10}{7}$
 
-1. $\frac{18}{12}$
+d\) $\frac{18}{12}$
 
 Resposta: A
 
@@ -472,7 +472,7 @@ d)  1,5
 
 Logo, o único número que está entre 0 e 1 é o 0,25.
 
-1. Julgue as afirmações e marque a resposta correta.
+3\) Julgue as afirmações e marque a resposta correta.
 
  I - Todos os números inteiros são racionais.
 
@@ -499,7 +499,7 @@ Habilidades SAEB:
 -Converter uma representação de um número racional positivo para outra
 representação.
 
-* Identificar um número natural como primo, composto, "múltiplo/fator
+\- Identificar um número natural como primo, composto, "múltiplo/fator
 de" ou "divisor de" ou identificar a decomposição de um número natural
 em fatores primos ou relacionar as propriedades aritméticas (primo,
 composto, "múltiplo/fator de" ou "divisor de") de um número natural à
@@ -522,20 +522,20 @@ Habilidade BNCC: EF07MA04
 
 Habilidades SAEB:
 
-* Calcular o resultado de adições, subtrações, multiplicações ou
+\- Calcular o resultado de adições, subtrações, multiplicações ou
 divisões envolvendo números reais.
 
-* Calcular o resultado de potenciação ou radiciação envolvendo números
+\- Calcular o resultado de potenciação ou radiciação envolvendo números
 reais.
 
-* Resolver problemas de adição, subtração, multiplicação, divisão,
+\- Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo números reais, inclusive notação
 científica.
 
-* Resolver problemas de contagem cuja resolução envolva a aplicação do
+\- Resolver problemas de contagem cuja resolução envolva a aplicação do
 princípio multiplicativo.
 
-* Resolver problemas que envolvam as ideias de múltiplo, divisor,
+\- Resolver problemas que envolvam as ideias de múltiplo, divisor,
 máximo divisor comum ou mínimo múltiplo comum.
 
 Box teoria
@@ -621,13 +621,13 @@ Atividades
 
 1)  Calcule o valor das expressões a seguir:
 
-1. $- 15 + 27 - \left( - 5 \right) + 75 =$
+a\) $- 15 + 27 - \left( - 5 \right) + 75 =$
 
-1. $37 + \left( - 11 \right) - \left( 66 \right) - ( - 8) =$
+b\) $37 + \left( - 11 \right) - \left( 66 \right) - ( - 8) =$
 
-1. $- (22 + \left( - 33 \right) - 14 + 120) =$
+c\) $- (22 + \left( - 33 \right) - 14 + 120) =$
 
-1. $200 - 88 - 14 - 144 + 75 =$
+d\) $200 - 88 - 14 - 144 + 75 =$
 
 Resposta:
 
@@ -644,7 +644,7 @@ c)  $- \left( 22 + \left( - 33 \right) - 14 + 120 \right) = - \left( 22 - 33 - 1
 
 d)  $200 - 88 - 14 - 144 + 75 = 29$
 
-1. Mariana foi ao banco para tirar um extrato da sua conta, mas ao
+2\) Mariana foi ao banco para tirar um extrato da sua conta, mas ao
 imprimir o extrato saiu com algumas partes danificadas. Complete o
 extrato usando as informações de depósitos e saques apresentados:
 
@@ -675,7 +675,7 @@ height="2.140587270341207in"}
 | > 11/01/2023 | > R\$ 665,00  | > \-          | > R\$ -85,00  |
 +--------------+---------------+---------------+---------------+
 
-1. Associe a primeira coluna das operações com os resultados
+3\) Associe a primeira coluna das operações com os resultados
 apresentados na segunda coluna:
 
 A.  $- 2 \times 5 \times \left( - 3 \right) \times \left( - 1 \right) =$
@@ -712,35 +712,35 @@ D.  $( - 50 \div \left( - 5 \right)) \times (36 \div 9) =$
 >
 > \(C\) $- 216$
 
-1. Aplicando as propriedades de bases iguais, simplifique como uma
+4\) Aplicando as propriedades de bases iguais, simplifique como uma
 única potência e indique se seus resultados serão positivos ou
 negativos:
 
-1. ${( - 5)}^{10} \times ( - {5)}^{8} \times {( - 5)}^{3} =$
+a\) ${( - 5)}^{10} \times ( - {5)}^{8} \times {( - 5)}^{3} =$
 
-1. ${( - 2)}^{4} \times ( - {2)}^{6} \times {( - 2)}^{12} =$
+b\) ${( - 2)}^{4} \times ( - {2)}^{6} \times {( - 2)}^{12} =$
 
-1. $\ \frac{{( - 7)}^{15}}{{( - 7)}^{11}} =$
+c\) $\ \frac{{( - 7)}^{15}}{{( - 7)}^{11}} =$
 
-1. $\frac{{( - 3)}^{33}}{{( - 3)}^{12}} =$
+d\) $\frac{{( - 3)}^{33}}{{( - 3)}^{12}} =$
 
 e)$\ \frac{{( - 10)}^{55} \times {( - 10)}^{25} \times {( - 10)}^{35}}{{( - 10)}^{4} \times {( - 10)}^{6} \times {( - 10)}^{32}} =$
 
 Resposta:
 
-1.
+a\)
 ${( - 5)}^{10} \times ( - {5)}^{8} \times \left( - 5 \right)^{3} = \left( - 5 \right)^{10 + 8 + 3} = \left( - 5 \right)^{21} \rightarrow \ $Como
 o expoente é ímpar o resultado fica negativo.
 
-1.
+b\)
 ${( - 2)}^{4} \times ( - {2)}^{6} \times \left( - 2 \right)^{12} = \ \left( - 2 \right)^{4 + 6 + 12} = \left( - 2 \right)^{22} \rightarrow \ $Como
 o expoente é par o resultado fica positivo.
 
-1. $\ \frac{{( - 7)}^{15}}{{( - 7)}^{11}} =$
+c\) $\ \frac{{( - 7)}^{15}}{{( - 7)}^{11}} =$
 ${( - 7)}^{4} \rightarrow \ $Como o expoente é par, o resultado fica
 positivo.
 
-1. $\frac{{( - 3)}^{33}}{{( - 3)}^{12}} =$
+d\) $\frac{{( - 3)}^{33}}{{( - 3)}^{12}} =$
 ${( - 3)}^{21} \rightarrow \ $Como o expoente é ímpar, o resultado fica
 negativo.
 
@@ -751,7 +751,7 @@ aplicar a regra de divisão de bases iguais.
 e)$\ \frac{{( - 10)}^{55} \times {( - 10)}^{25} \times {( - 10)}^{35}}{{( - 10)}^{4} \times {( - 10)}^{6} \times {( - 10)}^{32}} = \frac{{( - 10)}^{55 + 25 + 35}}{{( - 10)}^{4 + 6 + 32}} = \frac{{( - 10)}^{115}}{{( - 10)}^{42}} = {( - 10)}^{115 - 42} = {( - 10)}^{73} \rightarrow \ $Como
 o expoente é ímpar, o resultado fica negativo.
 
-1. A cada letra está associado o valor de uma raiz quadrada. Calcule o
+5\) A cada letra está associado o valor de uma raiz quadrada. Calcule o
 valor delas usando a fatoração e coloque-as em ordem crescente, como no
 exemplo:
 
@@ -787,20 +787,20 @@ $E = \sqrt{484} =$ $\sqrt{2².11²} = 2\ .\ 11 = 22$
 
 A -- E -- D -- B -- C
 
-1. Indique entre quais inteiros encontram-se as raízes abaixo,
+6\) Indique entre quais inteiros encontram-se as raízes abaixo,
 utilizando as raízes exatas que são menores e maiores que a desejada.
 Siga o exemplo:
 
 $\sqrt{23} \rightarrow \ \sqrt{16} < \sqrt{23} < \sqrt{25} \rightarrow \ $a
 $\sqrt{23}\ $está entre 4 e 5
 
-1. $\sqrt{55}$
+a\) $\sqrt{55}$
 
-1. $\sqrt{66}$
+b\) $\sqrt{66}$
 
-1. $\sqrt{96}$
+c\) $\sqrt{96}$
 
-1. $\sqrt{42}$
+d\) $\sqrt{42}$
 
 Resposta:
 
@@ -820,7 +820,7 @@ c)  $\sqrt{96} \rightarrow \ \sqrt{81} < \sqrt{96} < \sqrt{100} \rightarrow \ $a
 $\sqrt{42} \rightarrow \ \sqrt{36} < \sqrt{42} < \sqrt{49} \rightarrow \ $a
 $\sqrt{42}\ $está entre 6 e 7
 
-1. Pietra, Marcelo e Antônio estão estudando para a prova de matemática
+7\) Pietra, Marcelo e Antônio estão estudando para a prova de matemática
 montando expressões para trocarem as resoluções entre eles. Resolveram
 fazer disso um jogo e quem montasse a expressão com maior resultado
 negativo venceria. Determine qual deles foi o vencedor:
@@ -856,7 +856,7 @@ Professor, revise com os alunos que a comparação dos números negativos
 funciona ao contrário dos positivos, que quanto mais longe do zero o
 número está menor o número é.
 
-1. Para montar um bolo Fabiana utiliza de 2 tipos de massas, 16 tipos
+8\) Para montar um bolo Fabiana utiliza de 2 tipos de massas, 16 tipos
 de recheios, 8 tipos de coberturas e 4 tamanhos distintos, tanto para
 massa retangular quanto para a redonda. Escreva em forma de potência a
 quantidade de bolos distintos que Fabiana consegue produzir combinando
@@ -875,7 +875,7 @@ os termos para uma potência de base 2:
 $2 \times 2^{4} \times 2^{3} \times 2^{2} \times 2 = 2^{1 + 4 + 3 + 2 + 1} = 2^{11} = 2048$
 bolos distintos
 
-1. Em um terminal urbano três ônibus saem às 7h com destino a bairros
+9\) Em um terminal urbano três ônibus saem às 7h com destino a bairros
 distintos, e de tempos em tempos retornam ao terminal para refazer o
 trajeto. O ônibus A retorna ao terminal de 20 em 20 minutos, o ônibus B
 de 30 em 30 minutos e o ônibus C retorna 45 em 45 minutos. Qual o último
@@ -1012,13 +1012,13 @@ Valquíria pediu para os alunos considerarem
 $W = - 75,\ X = 5,\ Y = - 144\ e\ Z = - 12$. Qual o valor encontrado
 pelos alunos no final do fluxograma?
 
-1. -180
+a\) -180
 
-1. 180
+b\) 180
 
-1. - 300
+c\) - 300
 
-1. -300
+d\) -300
 
 Resposta:
 
@@ -1049,13 +1049,13 @@ a regra de sinal das operações.
     comprimento. Qual a extensão do muro que será construído no lote de
     Mateus?
 
-1. 24 m
+a\) 24 m
 
-1. 36 m
+b\) 36 m
 
-1. 144 m
+c\) 144 m
 
-1. 132 m
+d\) 132 m
 
 Resposta:
 
@@ -1091,13 +1091,13 @@ Habilidades BNCC: EF07MA08, EF07MA09.
 
 Habilidades SAEB:
 
-* Representar frações menores ou maiores que a unidade por meio de
+\- Representar frações menores ou maiores que a unidade por meio de
 representações pictóricas ou associar frações a representações
 pictóricas.
 
-* Identificar frações equivalentes.
+\- Identificar frações equivalentes.
 
-* Determinar uma fração geratriz para uma dízima periódica.
+\- Determinar uma fração geratriz para uma dízima periódica.
 
 Box teoria
 
@@ -1401,9 +1401,9 @@ período.
 
 Atividades:
 
-1. Encontre as frações das partes pintadas a partir das imagens:
+1\) Encontre as frações das partes pintadas a partir das imagens:
 
-1. ![Gráfico, Gráfico de pizza Descrição gerada
+a\) ![Gráfico, Gráfico de pizza Descrição gerada
 automaticamente](./imgSAEB_7_MAT/media/image7.png){width="2.5914916885389325in"
 height="0.8985575240594925in"}
 
@@ -1418,7 +1418,7 @@ $\frac{11}{4}$ , pois há 11 fatias pintadas, do tamanho das 4 que foram
 divididas ou então, como fração mista que são 2 círculos inteiros
 pintados, mais três fatias do outro: 2$\frac{3}{4}$.
 
-1. ![Desenho de uma pessoa Descrição gerada automaticamente com
+b\) ![Desenho de uma pessoa Descrição gerada automaticamente com
 confiança
 média](./imgSAEB_7_MAT/media/image8.png){width="0.8333333333333334in"
 height="0.9166666666666666in"}
@@ -1432,7 +1432,7 @@ A resposta é uma fração própria, ou seja, não tem parte inteira. Basta
 contar os quadradinhos pintados que são 5, sobre o todo, que são 16
 quadradinhos. Logo, $\frac{5}{16}$.
 
-1. ![Desenho de uma pessoa Descrição gerada automaticamente com
+c\) ![Desenho de uma pessoa Descrição gerada automaticamente com
 confiança
 média](./imgSAEB_7_MAT/media/image8.png){width="0.8333333333333334in"
 height="0.9166666666666666in"}
@@ -1444,9 +1444,9 @@ Resposta: A resposta é uma fração própria, ou seja, não tem parte
 inteira. Basta contar os quadradinhos pintados que são 12, sobre o todo,
 que são 16 quadradinhos. Logo, $\frac{12}{16}$.
 
-1. Associe as colunas com as suas frações equivalentes:
+2\) Associe as colunas com as suas frações equivalentes:
 
-1. $\frac{45}{104}$ $\left( \text{\ \ \ \ } \right)$ $\frac{40}{120}$
+a\) $\frac{45}{104}$ $\left( \text{\ \ \ \ } \right)$ $\frac{40}{120}$
 
 b)$\frac{27}{144}$ $\left( \text{\ \ \ \ \ } \right)\frac{90}{208}$
 
@@ -1456,7 +1456,7 @@ d)$\frac{7}{100}$ $\left( \text{\ \ \ \ \ \ } \right)\frac{1}{4}$
 
 e)$\frac{1}{2}$ $\left( \text{\ \ \ \ \ \ } \right)\frac{3}{16}$
 
-1. $\frac{1}{3}$ $\left( \text{\ \ \ \ \ \ \ } \right)$ $\frac{35}{70}$
+f\) $\frac{1}{3}$ $\left( \text{\ \ \ \ \ \ \ } \right)$ $\frac{35}{70}$
 
 Resposta: A sequência das letras ficará: f- a-d-c-b-e
 
@@ -1478,18 +1478,18 @@ e)  A quinta fração o numerador e denominador estão multiplicados por
 f)  A sexta fração o numerador e denominador estão multiplicados por 40,
     logo $\frac{40}{120}$
 
-1. Encontre as frações geratrizes das dízimas periódicas pelo método
+3\) Encontre as frações geratrizes das dízimas periódicas pelo método
 prático:
 
-1. $1,89555555\ldots$
+a\) $1,89555555\ldots$
 
-1. $1,44444\ldots$
+b\) $1,44444\ldots$
 
-1. $0,222222\ldots$
+c\) $0,222222\ldots$
 
 Resposta:
 
-1. Como é uma dízima composta, devemos considerar o período e
+a\) Como é uma dízima composta, devemos considerar o período e
 antiperíodo:
 
 Primeiro passo:
@@ -1506,7 +1506,7 @@ Terceiro passo: O período é só um número, então 9, e o antiperíodo são
 dois números 900, ou seja, um 0 para cada algarismo do antiperíodo, logo
 $\frac{1706}{900}$.
 
-1. Essa dízima é simples, então vamos usar o método prático para dízima
+b\) Essa dízima é simples, então vamos usar o método prático para dízima
 simples:
 
 Primeiro passo:
@@ -1520,11 +1520,11 @@ Segundo passo: $14 - 1 = \ 13$
 Terceiro passo: Como o período é somente um número, o denominador ficará
 apenas com um 9, logo $\frac{13}{9}$.
 
-1. A regra para dízimas sem parte inteira, está na observação, basta
+c\) A regra para dízimas sem parte inteira, está na observação, basta
 colocar o período no numerador e um 9 no denominador, logo
 $\frac{2}{9}$.
 
-1. Pinte o equivalente fração $\frac{1}{2}$ no desenho abaixo.
+4\) Pinte o equivalente fração $\frac{1}{2}$ no desenho abaixo.
 
   -- -- -- --
            
@@ -1538,7 +1538,7 @@ das respostas possíveis:
            
   -- -- -- --
 
-1. Encontre a fração geratriz da dízima 1,253333... pelo método
+5\) Encontre a fração geratriz da dízima 1,253333... pelo método
 convencional.
 
 Resposta:
@@ -1559,21 +1559,21 @@ $1000x - 100x = \ 1253,3333 - 125,3333\ldots\ 900x = \ 1128$
 
 $\text{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }x = \ \frac{1128}{900}$
 
-1. Classifique se é uma fração própria ou imprópria.
+6\) Classifique se é uma fração própria ou imprópria.
 
 a)$\ \frac{14}{3}$
 
-1. $\frac{1}{8}$
+b\) $\frac{1}{8}$
 
 c)$\frac{8}{2}$
 
-1. $\frac{9}{30}$
+d\) $\frac{9}{30}$
 
 Resposta: Basta analisar quais frações tem o numerador maior que o
 denominador, que fazem delas impróprias. a) Imprópria, b) Própria, c)
 Imprópria, d) Própria.
 
-1. Construa um quadrado e destaque a representação da fração
+7\) Construa um quadrado e destaque a representação da fração
 $\frac{1}{4}$.
 
 Resposta: O aluno deverá dividir o quadrado em 4 e pintar somente uma
@@ -1588,7 +1588,7 @@ Resposta: Ambos os rapazes pintaram o mesmo tanto, pois as frações
 equivalem o mesmo tanto, basta multiplicar o numerador e o denominador
 por 4 da fração de João Marcos, obterá a fração de Felipe.
 
-1. Ligue a fração geratriz a sua forma decimal.
+9\) Ligue a fração geratriz a sua forma decimal.
 
 $\frac{174}{990}$ 0,15151515...
 
@@ -1625,9 +1625,9 @@ denominador por 4 da fração de Ricardo ou dividir a de Flávio.
 
 Treino
 
-1. Qual a fração da dízima periódica 7,95959595...?
+1\) Qual a fração da dízima periódica 7,95959595...?
 
-1. $\frac{795}{99}$
+a\) $\frac{795}{99}$
 
 b)$\ \frac{788}{90}$
 
@@ -1652,7 +1652,7 @@ C - Errada, pois desconsiderou a parte inteira da fração.
 D - Correta, para encontrar o numerador: 795-7=788 e denominador= 99
 pois há dois algarismos no período.
 
-1. Fabiana, Marcelo, Maicon e Juliano participaram de uma competição de
+2\) Fabiana, Marcelo, Maicon e Juliano participaram de uma competição de
 12 etapas. O desempenho deles, respectivamente foi: $\frac{1}{12}$,
 $\frac{6}{12}$, $\frac{2}{12}$,$\frac{3}{36}$. Qual foi a dupla de
 competidores que ficaram em último lugar?
@@ -1681,7 +1681,7 @@ C - Errada, Maicon ficou em segundo colocado.
 
 D - Marcelo e Maicon foram os primeiros colocados.
 
-1. Qual desenho representa a fração $2\frac{3}{4}$ ?
+3\) Qual desenho representa a fração $2\frac{3}{4}$ ?
 
 a)  ![Gráfico Descrição gerada
     automaticamente](./imgSAEB_7_MAT/media/image12.png){width="2.7095220909886266in"
@@ -1695,7 +1695,7 @@ c)  ![Gráfico Descrição gerada
     automaticamente](./imgSAEB_7_MAT/media/image14.png){width="2.0193733595800527in"
     height="1.049368985126859in"}
 
-1. ![Gráfico Descrição gerada
+d\) ![Gráfico Descrição gerada
 automaticamente](./imgSAEB_7_MAT/media/image15.png){width="1.9828707349081365in"
 height="0.9487423447069117in"}
 
@@ -1824,17 +1824,17 @@ Atividades
 
 1)  Represente as porcentagens abaixo na forma de fração e decimal:
 
-1. $88\% =$
+a\) $88\% =$
 
-1. $57\% =$
+b\) $57\% =$
 
-1. $22,5\% =$
+c\) $22,5\% =$
 
-1. $7,12\% =$
+d\) $7,12\% =$
 
-1. $152\% =$
+e\) $152\% =$
 
-1. $356\% =$
+f\) $356\% =$
 
 Resposta:
 
@@ -1844,56 +1844,56 @@ decimais, enfatize que não podemos misturar decimal com fração e que
 para retirar a vírgula do numerador ou denominador basta adicionar zeros
 no que não é decimal etc.
 
-1. $88\% = \frac{88}{100} = 0,88$
+a\) $88\% = \frac{88}{100} = 0,88$
 
-1. $57\% = \frac{57}{100} = 0,57$
+b\) $57\% = \frac{57}{100} = 0,57$
 
-1. $22,5\% = \frac{22,5}{100} = \frac{225}{1000} = 0,225$
+c\) $22,5\% = \frac{22,5}{100} = \frac{225}{1000} = 0,225$
 
-1. $7,12\% = \frac{7,12}{100} = \frac{712}{10000} = 0,0712$
+d\) $7,12\% = \frac{7,12}{100} = \frac{712}{10000} = 0,0712$
 
-1. $152\% = \frac{152}{100} = 1,52$
+e\) $152\% = \frac{152}{100} = 1,52$
 
-1. $356\% = \frac{356}{100} = 3,5$
+f\) $356\% = \frac{356}{100} = 3,5$
 
-1. Transforme o decimal abaixo em fração e em porcentagem:
+2\) Transforme o decimal abaixo em fração e em porcentagem:
 
-1. $0,12 =$
+a\) $0,12 =$
 
-1. $0,03 =$
+b\) $0,03 =$
 
-1. $5,17 =$
+c\) $5,17 =$
 
-1. $1,36 =$
+d\) $1,36 =$
 
-1. $0,58 =$
+e\) $0,58 =$
 
-1. $0,802$
+f\) $0,802$
 
 Resposta:
 
-1. $0,12 = \frac{12}{100} = 12\%$
+a\) $0,12 = \frac{12}{100} = 12\%$
 
-1. $0,03 = \frac{3}{100} = 3\%$
+b\) $0,03 = \frac{3}{100} = 3\%$
 
-1. $5,17 = \frac{517}{100} = 517\%$
+c\) $5,17 = \frac{517}{100} = 517\%$
 
-1. $1,36 = \frac{136}{100} = 136\%$
+d\) $1,36 = \frac{136}{100} = 136\%$
 
-1. $0,58 = \frac{58}{100} = 58\%$
+e\) $0,58 = \frac{58}{100} = 58\%$
 
-1. $0,802 = \frac{802}{1000} = \frac{80,2}{100} = 80,2\%$
+f\) $0,802 = \frac{802}{1000} = \frac{80,2}{100} = 80,2\%$
 
-1. Calcule as porcentagens abaixo usando a multiplicação do valor pela
+3\) Calcule as porcentagens abaixo usando a multiplicação do valor pela
 representação fracionária ou decimal:
 
-1. $2\%\ \text{de}\ 156 =$
+a\) $2\%\ \text{de}\ 156 =$
 
-1. $77\%\ \text{de}\ 105 =$
+b\) $77\%\ \text{de}\ 105 =$
 
-1. $65\%\ \text{de}\ 178 =$
+c\) $65\%\ \text{de}\ 178 =$
 
-1. $180\%\ \text{de}\ 2700 =$
+d\) $180\%\ \text{de}\ 2700 =$
 
 Resposta:
 
@@ -1902,19 +1902,19 @@ calcular a porcentagem, der para simplificar com 100 é mais fácil
 multiplicarmos pela representação fracionária, senão é mais fácil
 usarmos o decimal.
 
-1. $2\%\ \text{de}\ 156 = 0,02 \times 156 = 3,12$
+a\) $2\%\ \text{de}\ 156 = 0,02 \times 156 = 3,12$
 
-1. $77\%\ \text{de}\ 105 = 0,77 \times 105 = 80,85$
+b\) $77\%\ \text{de}\ 105 = 0,77 \times 105 = 80,85$
 
-1. $65\%\ \text{de}\ 178 = 0,65 \times 178 = 115,7$
+c\) $65\%\ \text{de}\ 178 = 0,65 \times 178 = 115,7$
 
-1.
+d\)
 $180\%\ \text{de}\ 2700 = \frac{180}{100} \times 2700 = 180 \times 27 = 4860$
 
-1. Encontre o valor das porcentagens usando a ideia das porcentagens
+4\) Encontre o valor das porcentagens usando a ideia das porcentagens
 notáveis:
 
-1. $50\%\ \text{de}\ 852 =$\
+a\) $50\%\ \text{de}\ 852 =$\
 b) $10\%\ \text{de}\ 1980 =$\
 c) $20\%\ \text{de}\ 365 =$\
 d) 1$\%\ \text{de}\ 4500 =$\
@@ -1944,7 +1944,7 @@ $$45\%\ são\ \text{meninos} \rightarrow 55\%\ são\ \text{meninas}$$
 
 $$55\%\ \text{de}\ 1500\  = \frac{55}{100} \times 1500 = 55 \times 15 = 825\ \text{meninas}$$
 
-1. Priscila foi fazer a compra do material escolar de seus dois filhos
+6\) Priscila foi fazer a compra do material escolar de seus dois filhos
 para o retorno das aulas. O total da compra ficou em R\$2100,00 que
 poderia ser pago à vista com 7% de desconto ou dividido em 10x sem juros
 no cartão. Priscila decidiu que só pagaria à vista se o desconto
@@ -1962,7 +1962,7 @@ $$0,93 \times 2100 = 1953$$
 
 $$2100 - 1953 = 147 < 150 \rightarrow \text{Priscila}\ \text{escol}h\text{eu}\ a\ \text{forma}\ \text{parcelada}$$
 
-1. Mário decidiu trocar seu carro, ele foi em duas lojas para fazer uma
+7\) Mário decidiu trocar seu carro, ele foi em duas lojas para fazer uma
 pesquisa de preço e ver qual estava oferecendo a melhor oportunidade. A
 loja X vendia o carro por R\$45.000,00 à vista ou em
 $12\  \times R\$ 4000,00$, enquanto a loja Z vendia o carro por
@@ -1991,16 +1991,16 @@ $$46.500 - 41.850 = R\$ 4.650,00$$
 
 Portanto, Mário escolheu a loja B e pagou $R\$\ 41.850,00$ no carro.
 
-1. Calcule o fator de multiplicação, com duas casas decimais, dos
+8\) Calcule o fator de multiplicação, com duas casas decimais, dos
 aumentos e descontos sucessivos abaixo:
 
-1. Aumento de $15\%$ seguido de um desconto de $20\%\  =$
+a\) Aumento de $15\%$ seguido de um desconto de $20\%\  =$
 
-1. Dois aumentos de 5$\%$ seguido de um desconto de $15\%\  =$
+b\) Dois aumentos de 5$\%$ seguido de um desconto de $15\%\  =$
 
-1. Dois descontos de $20\%$ seguido de dois aumentos de $8\%\  =$
+c\) Dois descontos de $20\%$ seguido de dois aumentos de $8\%\  =$
 
-1. Desconto de 12$\%$ seguido de dois aumentos de $3\%\  =$
+d\) Desconto de 12$\%$ seguido de dois aumentos de $3\%\  =$
 
 Resposta:
 
@@ -2009,23 +2009,23 @@ multiplicação final, basta multiplicarmos todos os fatores de aumento e
 desconto. Além disso, retome regras de arredondamento com os alunos nos
 casos que os fatores ficarem com mais de duas casas decimais.
 
-1. Aumento de $15\%$ seguido de um desconto de $20\% =$
+a\) Aumento de $15\%$ seguido de um desconto de $20\% =$
 
 $$115\% \times 80\% = 1,15 \times 0,8 = 0,92$$
 
-1. Dois aumentos de 5$\%$ seguido de um desconto de $15\%\  =$
+b\) Dois aumentos de 5$\%$ seguido de um desconto de $15\%\  =$
 
 $$105\% \times 105\% \times 85\% = 1,05 \times 1,05 \times 0,85 \cong 0,94$$
 
-1. Dois descontos de $20\%$ seguido de dois aumentos de $8\%\  =$
+c\) Dois descontos de $20\%$ seguido de dois aumentos de $8\%\  =$
 
 $$80\% \times 80\% \times 108\% \times 108\% = 0,8 \times 0,8 \times 1,08 \times 1,08 \cong 0,75$$
 
-1. Desconto de 12$\%$ seguido de dois aumentos de $3\%\  =$
+d\) Desconto de 12$\%$ seguido de dois aumentos de $3\%\  =$
 
 $$88\% \times 103\% \times 103\% = 0,88 \times 1,03 \times 1,03 \cong 0,93$$
 
-1. Uma geladeira que custava R\$ 2850,00 entrou na promoção com 15% de
+9\) Uma geladeira que custava R\$ 2850,00 entrou na promoção com 15% de
 desconto à vista e com isso a procura pela geladeira aumentou. Querendo
 aproveitar as vendas, a loja resolveu aumentar em 5% o preço da
 geladeira. Quanto passou a custar a geladeira após o desconto e o
@@ -2055,7 +2055,7 @@ No início de 2023 o valor da mota era de R\$ 6.925,50.
 
 Treino
 
-1. Marta desenvolveu um jogo de cartas com diferentes representações de
+1\) Marta desenvolveu um jogo de cartas com diferentes representações de
 porcentagem, onde ao tirar uma carta é necessário encontrar as outras 3
 representações equivalentes. Se uma pessoa retirar a carta abaixo
 durante um jogo, quais outras 3 cartas ela precisa encontrar?
@@ -2067,13 +2067,13 @@ height="0.9270833333333334in"}
 
 Fazer uma imagem de carta como essa com a porcentagem de 78,2%.
 
-1. $0,782\ ;\frac{782}{1000};\frac{391}{500}$
+a\) $0,782\ ;\frac{782}{1000};\frac{391}{500}$
 
-1. $78,2\ ;\frac{782}{1000};\frac{391}{500}$
+b\) $78,2\ ;\frac{782}{1000};\frac{391}{500}$
 
-1. $7,82\ ;\frac{782}{1000};\frac{391}{500}$
+c\) $7,82\ ;\frac{782}{1000};\frac{391}{500}$
 
-1. $0,782\ ;\frac{782}{100};\frac{391}{500}$
+d\) $0,782\ ;\frac{782}{100};\frac{391}{500}$
 
 Resposta: A
 
@@ -2094,17 +2094,17 @@ decimais.
 D - Errada, o denominador da segunda fração deveria ser 1000 ao invés de
 100.
 
-1. Um apartamento é vendido por $60$ parcelas de R\$ 4.500,00 ou com
+2\) Um apartamento é vendido por $60$ parcelas de R\$ 4.500,00 ou com
 15% de desconto à vista em cima do preço parcelado. A diferença do preço
 à vista do preço a prazo é de:
 
-1. $R\$\ 4.050,00$
+a\) $R\$\ 4.050,00$
 
-1. $R\$\ 4.500,00$
+b\) $R\$\ 4.500,00$
 
-1. $R\$\ 40.500,00$
+c\) $R\$\ 40.500,00$
 
-1. $R\$\ 40.050,00$
+d\) $R\$\ 40.050,00$
 
 Resposta: C
 
@@ -2128,20 +2128,20 @@ $$270.000 - 229.500 = R\$\ 40.500,00$$
 
 D - Errada, a conta $270.000 - 229.500$ foi feita de maneira errada.
 
-1. Uma loja que vende pneus recebeu uma remessa nova de mercadoria que
+3\) Uma loja que vende pneus recebeu uma remessa nova de mercadoria que
 sofreu um aumento de 6% no preço. No final do semestre ainda restavam
 alguns pneus em estoque e para acelerar as vendas o gerente resolveu dar
 um desconto de 10% no preço para as compras à vista. Sabendo que antes
 do aumento, o pneu custava $R\$\ 270,00$, uma pessoa que comprou no
 final pagou aproximadamente:
 
-1. R\$ 286,00
+a\) R\$ 286,00
 
-1. R\$ 280,00
+b\) R\$ 280,00
 
-1. R\$ 260,00
+c\) R\$ 260,00
 
-1. R\$ 258,00
+d\) R\$ 258,00
 
 Resposta: D
 
@@ -2173,15 +2173,15 @@ Habilidades BNCC: EF07MA18
 
 Habilidades SAEB:
 
-* Resolver uma equação polinomial de 1º grau.
+\- Resolver uma equação polinomial de 1º grau.
 
-* Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modelam um problema.
 
-* Associar uma equação polinomial de 1º grau com duas variáveis a uma
+\- Associar uma equação polinomial de 1º grau com duas variáveis a uma
 reta no plano cartesiano.
 
-* Resolver problemas que possam ser representados por sistema de
+\- Resolver problemas que possam ser representados por sistema de
 equações de 1º grau com duas incógnitas.
 
 Box de teoria
@@ -2351,7 +2351,7 @@ $$x - 3 = 9\  \Rightarrow \ x = 9 + 3\  \Rightarrow \ x = 12$$
 
 Atividades
 
-1. Daiane e Leandra compraram 7 balas e 4 chocolates e gastaram 10,70.
+1\) Daiane e Leandra compraram 7 balas e 4 chocolates e gastaram 10,70.
 Se o valor de cada chocolate equivale a 25 balas, quanto custou cada
 chocolate?
 
@@ -2374,27 +2374,27 @@ $$b = 0,10$$
 
 $$\text{Se}\ b = 0,10,\ c = \ 2,50$$
 
-1. Resolva as equações abaixo:
+2\) Resolva as equações abaixo:
 
-1. $2n - 40 = 102$
+a\) $2n - 40 = 102$
 
-1. $3p - 15 = \ 330$
+b\) $3p - 15 = \ 330$
 
-1. $\frac{x}{20} + 7 = \ 10$
+c\) $\frac{x}{20} + 7 = \ 10$
 
-1. $m + 24 = 189$
+d\) $m + 24 = 189$
 
 Respostas:
 
-1. $2n = 102 + 40\  \Rightarrow \ 2n = 142\  \Rightarrow \ n = 71$
+a\) $2n = 102 + 40\  \Rightarrow \ 2n = 142\  \Rightarrow \ n = 71$
 
-1. $3p = 330 + 15\  \Rightarrow \ 3p = 345\  \Rightarrow \ p = \ 115$
+b\) $3p = 330 + 15\  \Rightarrow \ 3p = 345\  \Rightarrow \ p = \ 115$
 
 c)$\ \frac{x}{20} + 7 = \ 10\  \Rightarrow \frac{x}{20} = \ 10 - 7\  \Rightarrow \ x = \ 3*20 = \ 60$
 
-1. $m = 189 - 24\  \Rightarrow \ m = \ 165$
+d\) $m = 189 - 24\  \Rightarrow \ m = \ 165$
 
-1. Os irmãos Henrique e Matheus são gêmeos e completaram 10 anos.
+3\) Os irmãos Henrique e Matheus são gêmeos e completaram 10 anos.
 Considerando que daqui 6 anos, a mãe deles terá o triplo da idade deles,
 qual a idade dela?
 
@@ -2406,7 +2406,7 @@ a formalizar a equação.
 
 $$3*(10 + 6) = x\ \  \Rightarrow \ 30 + 18 = 48\  \Rightarrow \ x = 48$$
 
-1. Marque um x em todos os gráficos que são de equações do primeiro
+4\) Marque um x em todos os gráficos que são de equações do primeiro
 grau:
 
 ( ) ( )
@@ -2442,7 +2442,7 @@ height="1.5428794838145232in"}
 automaticamente](./imgSAEB_7_MAT/media/image21.png){width="2.0318766404199473in"
 height="1.646340769903762in"}
 
-1. Encontre o valor das incógnitas e escreva em forma de par ordenado.
+5\) Encontre o valor das incógnitas e escreva em forma de par ordenado.
 
 a)  $x + 10 = 28$
 
@@ -2456,16 +2456,16 @@ Professor, neste momento é bom trabalhar bastante o abstrato para que os
 estudantes entendam, que independentemente do par ordenado, o conjunto
 de pontos de uma equação do primeiro grau é uma reta.
 
-1. $x = 28 - 10\  \Rightarrow \ x = \ 18$. Logo, o par ordenado será:
+a\) $x = 28 - 10\  \Rightarrow \ x = \ 18$. Logo, o par ordenado será:
 (18,28)
 
-1. $c = 79 - 13\  \Rightarrow \ x = \ 66.\ $Logo, o par ordenado será:
+b\) $c = 79 - 13\  \Rightarrow \ x = \ 66.\ $Logo, o par ordenado será:
 (66,79)
 
-1. $3a = 35 - 8\  \Rightarrow \ 3a = \ 27\  \Rightarrow \ a = 9$. Logo,
+c\) $3a = 35 - 8\  \Rightarrow \ 3a = \ 27\  \Rightarrow \ a = 9$. Logo,
 o par ordenado será (9,35)
 
-1. Letícia e Gabriela juntas tem 58 anos. Se Gabriela é 4 anos mais
+6\) Letícia e Gabriela juntas tem 58 anos. Se Gabriela é 4 anos mais
 velha que Letícia, qual idade delas?
 
 Resposta:
@@ -2495,7 +2495,7 @@ $$G = 31$$
 Ou ainda, poderia pensar que como Gabriela tem 4 anos a mais que
 Letícia, bastava fazer $27 + 4 = 31.$
 
-1. Fábio trabalha no Cartório Eleitoral, e estava analisando a
+7\) Fábio trabalha no Cartório Eleitoral, e estava analisando a
 quantidade de eleitores que já tinham feito seu voto na última eleição.
 No total, são 9536 eleitores. Na última conta feita, 7504 já tinham
 votado e 900 justificado a falta nas urnas. Sabendo que ainda faltavam
@@ -2510,36 +2510,36 @@ $$1132 = 2x$$
 
 $$x = \ 566$$
 
-1. Coloque entre parênteses, o par ordenado tal qual $x = 8$ que
+8\) Coloque entre parênteses, o par ordenado tal qual $x = 8$ que
 corresponde a equação dada:
 
-1. $12x + 4 - 2$ (8; )
+a\) $12x + 4 - 2$ (8; )
 
-1. $10x - 9$ (8; )
+b\) $10x - 9$ (8; )
 
-1. $5x + 2$ (8; )
+c\) $5x + 2$ (8; )
 
-1. $7 - 2x$ (8; )
+d\) $7 - 2x$ (8; )
 
 Resposta:
 
-1. $12x + 4 - 2\ \ (8;\ 98\ )$
+a\) $12x + 4 - 2\ \ (8;\ 98\ )$
 
 $$\ \ \ \ 12*8 + 4 - 2 = \ 98$$
 
-1. $10x - 9\ \ \ \ \ \ (8;71\ )$
+b\) $10x - 9\ \ \ \ \ \ (8;71\ )$
 
 $10*8 - 9 = 71$
 
-1. $5x + 2\ \ \ \ \ \ \ (8;\ 42)$
+c\) $5x + 2\ \ \ \ \ \ \ (8;\ 42)$
 
 $$\ \ \ \ \ 5*8 + 2 = \ 42$$
 
-1. $7 - 2x\text{\ \ \ \ \ \ \ \ }\left( 8;\ \  - 9\  \right)$
+d\) $7 - 2x\text{\ \ \ \ \ \ \ \ }\left( 8;\ \  - 9\  \right)$
 
 $$\ \ \ \ 7 - 2*8 = - 9$$
 
-1. Analise a balança a seguir e indique o valor dos pesos que estão
+9\) Analise a balança a seguir e indique o valor dos pesos que estão
 faltando. ![Desenho de um monstro com texto preto sobre fundo branco
 Descrição gerada automaticamente com confiança
 média](./imgSAEB_7_MAT/media/image23.png){width="3.8298359580052495in"
@@ -2565,7 +2565,7 @@ $$\ \frac{n}{2}\  + \ 10\  = \ 28\  \Rightarrow \ \frac{n}{2} = \ 28 - 10\  \Rig
 
 Treino
 
-1. Considerando a balança, quanto vale o peso correspondente a 3x?
+1\) Considerando a balança, quanto vale o peso correspondente a 3x?
 
 ![Desenho de um monstro com texto preto sobre fundo branco Descrição
 gerada automaticamente com confiança
@@ -2577,13 +2577,13 @@ para direita: Fazer 4 pesos na esquerda, cada um valendo 10 kg, na
 bandeja da direita, fazer 3 pesos, um valendo 20 kg, um valendo x e
 outro 3x.
 
-1. 20 kg
+a\) 20 kg
 
-1. 15 kg
+b\) 15 kg
 
-1. 5 kg
+c\) 5 kg
 
-1. 25 kg
+d\) 25 kg
 
 Resposta: B
 
@@ -2591,9 +2591,9 @@ Habilidade BNCC: EF07MA18
 
 Habilidades SAEB:
 
-* Resolver uma equação polinomial de 1º grau.
+\- Resolver uma equação polinomial de 1º grau.
 
-* Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modelam um problema.
 
 A - Errada, pois se os pesos valessem 15kg cada um, a bandeja da direita
@@ -2611,16 +2611,16 @@ teria o peso 20kg.
 D - Errada, pois se os pesos valessem 25kg cada um, a bandeja da direita
 teria o peso 100kg
 
-1. Gabriel está tentando encontrar um número que o seu triplo, somado a
+2\) Gabriel está tentando encontrar um número que o seu triplo, somado a
 41, resulta no número 143. Qual é este número?
 
-1. 34
+a\) 34
 
-1. 27
+b\) 27
 
-1. 30
+c\) 30
 
-1. 33
+d\) 33
 
 Resposta: A
 
@@ -2628,9 +2628,9 @@ Habilidade BNCC: EF07MA18
 
 Habilidades SAEB:
 
-* Resolver uma equação polinomial de 1º grau.
+\- Resolver uma equação polinomial de 1º grau.
 
-* Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modelam um problema.
 
 A - Correta, $3n + 41 = 143$
@@ -2650,20 +2650,20 @@ diferente de 143.
 D - Errada, porque o triplo de 33 somado a 41 é igual a 140, que é
 diferente de 143.
 
-1. O preço de uma cartela de bingo, em uma festa beneficente, está no
+3\) O preço de uma cartela de bingo, em uma festa beneficente, está no
 valor de R\$3,00. Yasmin saiu de casa com R\$ 89,00 reais, gastou
 R\$22,00 com a ida e a volta no aplicativo de veículos, comprou um
 salgado de R\$8,00, um refrigerante de R\$5,00 e gastou com cartelas de
 bingo. Sabendo que ela retornou para casa com R\$33,00, quantas cartelas
 foram compradas?
 
-1. 5 cartelas
+a\) 5 cartelas
 
-1. 6 cartelas
+b\) 6 cartelas
 
-1. 9 cartelas
+c\) 9 cartelas
 
-1. 7 cartelas
+d\) 7 cartelas
 
 Resposta: D
 
@@ -2671,9 +2671,9 @@ Habilidade BNCC: EF07MA18
 
 Habilidades SAEB:
 
-* Resolver uma equação polinomial de 1º grau.
+\- Resolver uma equação polinomial de 1º grau.
 
-* Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modelam um problema..
 
 A - Errada, se comprasse 5 cartelas, teria retornado com R\$39,00
@@ -2697,14 +2697,14 @@ Habilidades BNCC: EF07MA13; EF07MA14; EF07MA15; EF07MA16
 
 Habilidades SAEB:
 
-* Identificar uma representação algébrica para o padrão ou a
+\- Identificar uma representação algébrica para o padrão ou a
 regularidade de uma sequência de números racionais ou representar
 algebricamente o padrão ou a regularidade de uma sequência de números
 racionais.
 
-* Identificar representações algébricas equivalentes.
+\- Identificar representações algébricas equivalentes.
 
-* Resolver problemas que envolvam cálculo do valor numérico de
+\- Resolver problemas que envolvam cálculo do valor numérico de
 expressões algébricas.
 
 Box teoria
@@ -2792,44 +2792,44 @@ $a_{n} = n + 1 \rightarrow a_{12} = 12 + 1 = 13$
 
 Atividades
 
-1. Classifique se nas expressões matemáticas abaixo tem uma incógnita
+1\) Classifique se nas expressões matemáticas abaixo tem uma incógnita
 ou uma variável:
 
-1. $x + y = 16$
+a\) $x + y = 16$
 
-1. $2a - 8 = 2$
+b\) $2a - 8 = 2$
 
-1. $5w - 1$
+c\) $5w - 1$
 
-1. $s - t = 7$
+d\) $s - t = 7$
 
 Resposta:
 
 Professor, na letra a e na d discuta com os alunos que apesar de ter uma
 igualdade, x e y podem assumir mais de um valor, logo são variáveis.
 
-1. Variável
+a\) Variável
 $\rightarrow \text{temos}\ \text{que}\ 10 + 6 = 16,\ 14 + 2 = 16,\ \text{etc}$
 
-1. Incógnita
+b\) Incógnita
 $\rightarrow \text{temos}\ \text{que}\ 2a - 8 = 2 \rightarrow 2a = 2 + 8 \rightarrow 2a = 10 \rightarrow a = 5$
 
-1. Variável
+c\) Variável
 $\rightarrow é\ \text{uma}\ \text{express}ão\ \text{alg}é\text{brica}$
 
-1. Variável
+d\) Variável
 $\rightarrow \text{temos}\ \text{que}\ 20 - 13 = 7,\ 10 - 3 = 7,\ \text{etc}$
 
-1. Indique qual o coeficiente e qual a parte literal dos termos
+2\) Indique qual o coeficiente e qual a parte literal dos termos
 algébricos abaixo:
 
-1. $- 7\text{xyz}$
+a\) $- 7\text{xyz}$
 
-1. $5a²b³$
+b\) $5a²b³$
 
-1. $- st^{4}$
+c\) $- st^{4}$
 
-1. $\frac{4x^{5}}{9}$
+d\) $\frac{4x^{5}}{9}$
 
 Resposta:
 
@@ -2838,24 +2838,24 @@ compõem a parte literal. Na letra c e d discuta com os alunos sobre a
 definição de coeficiente para que eles enxerguem onde ele está nesses
 fatores.
 
-1. $- 7\text{xyz} \rightarrow C:\  - 7\ \ \ \ \ \ \ \ P.L:\text{xyz}$
+a\) $- 7\text{xyz} \rightarrow C:\  - 7\ \ \ \ \ \ \ \ P.L:\text{xyz}$
 
-1. $5a²b³ \rightarrow C:\ 5\ \ \ \ \ \ \ P.L:a²b³$
+b\) $5a²b³ \rightarrow C:\ 5\ \ \ \ \ \ \ P.L:a²b³$
 
-1. $- st^{4} \rightarrow C:\  - 1\ \ \ \ \ \ \ P.L:t^{4}$
+c\) $- st^{4} \rightarrow C:\  - 1\ \ \ \ \ \ \ P.L:t^{4}$
 
-1.
+d\)
 $\frac{4x^{5}}{9} \rightarrow C:\frac{4}{9}\text{\ \ \ \ \ \ \ }P.L:x^{5}$
 
-1. Escreva em linguagem algébrica o que está em escrita corrente:
+3\) Escreva em linguagem algébrica o que está em escrita corrente:
 
-1. O dobro de um valor mais seu quadrado.
+a\) O dobro de um valor mais seu quadrado.
 
-1. O triplo de um valor somado com sua terça parte.
+b\) O triplo de um valor somado com sua terça parte.
 
-1. Um valor subtraído de quadruplo outro.
+c\) Um valor subtraído de quadruplo outro.
 
-1. A metade de um valor somado com a quinta parte de outro.
+d\) A metade de um valor somado com a quinta parte de outro.
 
 Resposta:
 
@@ -2867,45 +2867,45 @@ c)  $x - 4y$
 
 d)  $\frac{x}{2} + \frac{y}{5}$
 
-1. Calcule o valor numérico das expressões algébricas do exercício 3,
+4\) Calcule o valor numérico das expressões algébricas do exercício 3,
 considerando $x = 6\ e\ y = 10.$
 
 Resposta:
 
-1. $2x + x^{2} = 2 \times 6 + 6^{2} = 12 + 36 = 48$
+a\) $2x + x^{2} = 2 \times 6 + 6^{2} = 12 + 36 = 48$
 
-1. $3x + \frac{x}{3} = 3 \times 6 + \frac{6}{3} = 18 + 2 = 20$
+b\) $3x + \frac{x}{3} = 3 \times 6 + \frac{6}{3} = 18 + 2 = 20$
 
-1. $x - 4y = 6 - 4 \times 10 = 6 - 40 = - 34$
+c\) $x - 4y = 6 - 4 \times 10 = 6 - 40 = - 34$
 
-1. $\frac{x}{2} + \frac{y}{5} = \frac{6}{2} + \frac{10}{5} = 3 + 5 = 8$
+d\) $\frac{x}{2} + \frac{y}{5} = \frac{6}{2} + \frac{10}{5} = 3 + 5 = 8$
 
-1. Reduza os termos semelhantes nas expressões algébricas abaixo:
+5\) Reduza os termos semelhantes nas expressões algébricas abaixo:
 
-1.
+a\)
 $5\text{xy} - 12\text{xyz} + 8\text{xz} - 6\text{xy} + 3\text{xz} - 7\text{xyz}$
 
-1. $\text{ab} + 8a - 14b - 6\text{ab} + 7b$
+b\) $\text{ab} + 8a - 14b - 6\text{ab} + 7b$
 
-1. $\text{st} + 2\text{st} + 11\text{st} - 35\text{st} + 12s - 9t$
+c\) $\text{st} + 2\text{st} + 11\text{st} - 35\text{st} + 12s - 9t$
 
-1.
+d\)
 $50\text{cd} - 17\text{cd} - 25\text{cd} + 2,5\text{cd} - 12,1\text{cd}$
 
 Resposta:
 
-1.
+a\)
 $\left( 5 - 6 \right)\text{xy} + \left( - 12 - 7 \right)\text{xyz} + \left( 8 + 3 \right)\text{xz} = - \text{xy} - 19\text{xyz} + 11\text{xz}$
 
-1.
+b\)
 $\left( 1 - 6 \right)\text{ab} + \left( - 14 + 7 \right)b + 8a = \  - 5\text{ab} - 8\text{ab} - 7b$
 
-1.
+c\)
 $\left( 1 + 2 + 11 - 35 \right)\text{st} + 12s - 9t = - 21\text{st} + 12s - 9t$
 
-1. $\left( 50 - 17 - 25 + 2,5 - 12,1 \right)\text{cd} = - 1,6\text{cd}$
+d\) $\left( 50 - 17 - 25 + 2,5 - 12,1 \right)\text{cd} = - 1,6\text{cd}$
 
-1. Utilizando $n = 3$, encontre quais das expressões da primeira coluna
+6\) Utilizando $n = 3$, encontre quais das expressões da primeira coluna
 são equivalentes às da segunda:
 
 I. $n^{2} - 4$
@@ -2939,34 +2939,34 @@ $2n + 2 - \left( n - 5 \right) = 2 \times 3 + 2 - \left( 3 - 5 \right) = 6 + 2 -
 
 $$\therefore\ I\ é\ \text{equivalente}\ a\ B,\ \text{II}\ a\ C\ e\ \text{III}\ a\ A\text{.\ }$$
 
-1. Complete os espaços que faltam seguindo a sequência:
+7\) Complete os espaços que faltam seguindo a sequência:
 
-1. $12,\ 10,\ 8,\ 6,\ \_\_\_\_,\_\_\_\_,\_\_\_\_$
+a\) $12,\ 10,\ 8,\ 6,\ \_\_\_\_,\_\_\_\_,\_\_\_\_$
 
-1. $1,\ 1,\ 2,\ 3,\ \_\_\_\_,\_\_\_\_,\_\_\_\_$
+b\) $1,\ 1,\ 2,\ 3,\ \_\_\_\_,\_\_\_\_,\_\_\_\_$
 
-1. $7,\ 14,\ 21,\ 28,\ \_\_\_\_,\_\_\_\_,\_\_\_\_$
+c\) $7,\ 14,\ 21,\ 28,\ \_\_\_\_,\_\_\_\_,\_\_\_\_$
 
-1. $1,\ 4,\ 9,\ 16,\ \_\_\_\_,\_\_\_\_,\_\_\_\_$
+d\) $1,\ 4,\ 9,\ 16,\ \_\_\_\_,\_\_\_\_,\_\_\_\_$
 
 Resposta:
 
 Professor, deixe os alunos analisarem as sequências com calma para que
 identifiquem qual o padrão por trás de cada uma.
 
-1. O padrão é o termo anterior $- 2$, assim os termos que faltam são
+a\) O padrão é o termo anterior $- 2$, assim os termos que faltam são
 $4,\ 2,\ 0$.
 
-1. O padrão é a soma dos dois anteriores, assim os termos que faltam
+b\) O padrão é a soma dos dois anteriores, assim os termos que faltam
 são $5,\ 8,\ 13$.
 
-1. O padrão é o termo anterior $+ 7$, assim os termos que faltam são
+c\) O padrão é o termo anterior $+ 7$, assim os termos que faltam são
 $35,\ 42,\ 49$
 
-1. O padrão é a posição do termo elevada ao quadrado, assim os termos
+d\) O padrão é a posição do termo elevada ao quadrado, assim os termos
 que faltam são $25,\ 36,\ 49$.
 
-1. Classifique se as sequências do exercício 7 são recursivas ou não
+8\) Classifique se as sequências do exercício 7 são recursivas ou não
 recursivas.
 
 Resposta:
@@ -2976,7 +2976,7 @@ calculados.
 
 Não recursiva: d, pois os termos são definidos a partir da sua posição.
 
-1. Escreva uma lei de formação para as sequências do exercício 7.
+9\) Escreva uma lei de formação para as sequências do exercício 7.
 
 Resposta:
 
@@ -2995,13 +2995,13 @@ d)  $a_{n} = n²$
 10\) Defina qual os 3 primeiros termos das sequências descritas pelas
 leis de formação abaixo:
 
-1. $a_{n} = 2n - 3$
+a\) $a_{n} = 2n - 3$
 
-1. $a_{n} = n³$
+b\) $a_{n} = n³$
 
-1. $a_{n} = 5n - n²$
+c\) $a_{n} = 5n - n²$
 
-1. $a_{n} = - 3n^{2} + 10n$
+d\) $a_{n} = - 3n^{2} + 10n$
 
 Resposta:
 
@@ -3031,20 +3031,20 @@ $${\text{\ \ \ \ \ }a}_{3} = - 3 \times 3^{2} + 10 \times 3 = - 27 + 30 = 3$$
 
 Teste
 
-1. Samuel trabalha como vendedor em uma loja de roupas, seu salário é
+1\) Samuel trabalha como vendedor em uma loja de roupas, seu salário é
 composto por uma parte fixa mais uma porcentagem em cima do total que
 vende no mês. Em janeiro houve uma alteração no salário de Samuel que
 passou a ser um fixo de R\$ 2.500,00 mais 3% em cima de suas vendas.
 Assim, considerando $x$ como o total de vendas do mês a expressão
 algébrica que descreve o salário de Samuel é:
 
-1. $2.500 + 3x$
+a\) $2.500 + 3x$
 
-1. $\frac{2.500 + 3x}{100}$
+b\) $\frac{2.500 + 3x}{100}$
 
-1. $2.500 \times 0,03x$
+c\) $2.500 \times 0,03x$
 
-1. $2.500 + 0,03x$
+d\) $2.500 + 0,03x$
 
 Resposta:
 
@@ -3066,16 +3066,16 @@ D - Correta.
 
 $$\text{Fixo}\  = \ 2500\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \text{Vari}á\text{vel}\  = \ 3\%\ \text{de}\ x\text{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\text{Sal}á\text{rio} = 2500 + 0,03x$$
 
-1. O valor numérico da expressão
+2\) O valor numérico da expressão
 $\frac{a}{4} + 5b + \frac{2a^{2} - b}{5c},\ a = 8,\ b = - 3,\ c = 2$:
 
-1. $23,1$
+a\) $23,1$
 
-1. $- 23,1$
+b\) $- 23,1$
 
-1. $0,1$
+c\) $0,1$
 
-1. $- 0,1$
+d\) $- 0,1$
 
 Resposta:
 
@@ -3095,16 +3095,16 @@ $$= \  - 13 + \frac{131}{10} = - 13 + 13,1 = 0,1$$
 
 D - Errada, pois considerou o sinal do 13 como sendo o correto.
 
-1. Considerando a sequência dada por $a_{n} = n^{2} + 5n + 6$, uma
+3\) Considerando a sequência dada por $a_{n} = n^{2} + 5n + 6$, uma
 sequência que é equivalente a ela é:
 
-1. $a_{n} = (n + 2) + (n + 3)$
+a\) $a_{n} = (n + 2) + (n + 3)$
 
-1. $a_{n} = (n + 2)(n + 3)$
+b\) $a_{n} = (n + 2)(n + 3)$
 
-1. $a_{n} = (n - 2) + (n - 3)$
+c\) $a_{n} = (n - 2) + (n - 3)$
 
-1. $a_{n} = (n - 2)(n - 3)$
+d\) $a_{n} = (n - 2)(n - 3)$
 
 Resposta:
 
@@ -3272,33 +3272,33 @@ d)  $120\ e\ 48 = \frac{120}{48} = \frac{5}{2}\ $
 ```
 2)  Calcule o valor das razões abaixo:
 
-1. 14$\ e\ 35$
+a\) 14$\ e\ 35$
 
 b)$\ 63\ e\ 18$
 
-1. $21\ e\ 105$
+c\) $21\ e\ 105$
 
-1. $212\ e\ 84$
+d\) $212\ e\ 84$
 
 Resposta:
 
-1. 14$\ e\ 35 = \frac{14}{35} = 0,4$
+a\) 14$\ e\ 35 = \frac{14}{35} = 0,4$
 
 b)$\ 63\ e\ 18 = \frac{63}{18} = 3,5$
 
-1. $21\ e\ 105 = \frac{21}{105} = 0,2$
+c\) $21\ e\ 105 = \frac{21}{105} = 0,2$
 
-1. $\ 848\ e\ 212 = 4$
+d\) $\ 848\ e\ 212 = 4$
 
-1. Verifique se as razões abaixo formam uma proporção:
+3\) Verifique se as razões abaixo formam uma proporção:
 
-1. $\frac{12}{15} = \frac{60}{75}$
+a\) $\frac{12}{15} = \frac{60}{75}$
 
-1. $\frac{25}{16} = \frac{105}{80}$
+b\) $\frac{25}{16} = \frac{105}{80}$
 
-1. $\frac{7}{35} = \frac{84}{420}$
+c\) $\frac{7}{35} = \frac{84}{420}$
 
-1. $\frac{6}{14} = \frac{48}{128}$
+d\) $\frac{6}{14} = \frac{48}{128}$
 
 Resposta:
 
@@ -3306,58 +3306,58 @@ Professor, relembre com os alunos a propriedade fundamental das
 proporções, que para verificar se uma igualdade de duas razões é
 proporção basta multiplicar cruzado e encontrar o mesmo resultado.
 
-1.
+a\)
 $\frac{12}{15} = \frac{60}{75}\ \ \ \  \rightarrow \ \ \ 12 \times 75 = 15 \times 60\  \rightarrow \ \ 900 = 900\  \rightarrow \ \ \ É\ \text{uma}\ \text{pr}\text{opor}ção\text{\ \ \ }$
 
-1. $\frac{25}{16} = \frac{105}{80}$
+b\) $\frac{25}{16} = \frac{105}{80}$
 $\ \ \  \rightarrow \ \ \ 80 \times 25 = 16 \times 105\  \rightarrow \ \ 2000 \neq 1680 \rightarrow Não\ é\ \text{uma}\ \text{propor}ção\text{\ \ \ }$
 
-1. $\frac{7}{35} = \frac{84}{420}$
+c\) $\frac{7}{35} = \frac{84}{420}$
 $\ \ \  \rightarrow \ \ \ 7 \times 420 = 84 \times 35\  \rightarrow \ \ 2940 = 2940 \rightarrow É\ \text{uma}\ \text{propor}ção\text{\ \ \ }$
 
-1.
+d\)
 $\frac{6}{14} = \frac{48}{128}\ \  \rightarrow \ \ \ 6 \times 128 = 48 \times 14\  \rightarrow \ \ 768 = 672\ \ \ \ \  \rightarrow Não\ é\ \text{uma}\ \text{propor}ção\text{\ \ \ }$
 
-1. Encontre o valor das incógnitas nas proporções abaixo:
+4\) Encontre o valor das incógnitas nas proporções abaixo:
 
-1. $\frac{x}{8} = \frac{6}{15}$
+a\) $\frac{x}{8} = \frac{6}{15}$
 
-1. $\frac{12}{9} = \frac{20}{a}$
+b\) $\frac{12}{9} = \frac{20}{a}$
 
-1. $\frac{11}{b} = \frac{5}{7}$
+c\) $\frac{11}{b} = \frac{5}{7}$
 
-1. $\frac{25}{5} = \frac{2y}{13}$
+d\) $\frac{25}{5} = \frac{2y}{13}$
 
 Resposta:
 
 Professor, aproveite esse momento para retomar com os alunos as etapas
 básicas de resolução de equações do primeiro grau.
 
-1.
+a\)
 $\frac{x}{8} = \frac{6}{15}\  \rightarrow \ \ \ 15x = 48\  \rightarrow \ \ x = \frac{48}{15}\  \rightarrow \ \ \ x = 3,2$
 
-1.
+b\)
 $\frac{12}{9} = \frac{20}{a}\  \rightarrow \ \ \ 12a = 180 \rightarrow \ \ a = \frac{180}{12}\  \rightarrow \ \ \ a = 15$
 
-1.
+c\)
 $\frac{11}{b} = \frac{4}{7}\  \rightarrow \ \ \ 4b = 77\  \rightarrow \ \ b = \frac{77}{4}\  \rightarrow \ \ \ b = 19,25$
 
-1.
+d\)
 $\frac{25}{5} = \frac{2y}{13}\  \rightarrow \ \ \ 5 \times 2y = 25 \times 13\  \rightarrow \ \ 10y = 325\  \rightarrow \ \ \ y = \frac{325}{10}\  \rightarrow \ \ \ y = 32,5$
 
-1. Encontre o valor de x e y nas proporções abaixo, usando o valor das
+5\) Encontre o valor de x e y nas proporções abaixo, usando o valor das
 suas somas e subtrações dadas:
 
-1. $\frac{x}{4} = \frac{y}{12}\  \rightarrow \ \ $sabendo que
+a\) $\frac{x}{4} = \frac{y}{12}\  \rightarrow \ \ $sabendo que
 $x + y = 32$
 
-1. $\frac{55}{x} = \frac{22}{y}\  \rightarrow \ \ $sabendo que
+b\) $\frac{55}{x} = \frac{22}{y}\  \rightarrow \ \ $sabendo que
 $x - y = 2$
 
-1. $\frac{x}{58} = \frac{y}{8} \rightarrow \ \ $sabendo que
+c\) $\frac{x}{58} = \frac{y}{8} \rightarrow \ \ $sabendo que
 $x - y = 25$
 
-1. $\frac{63}{x} = \frac{9}{y} \rightarrow \ \ $sabendo que
+d\) $\frac{63}{x} = \frac{9}{y} \rightarrow \ \ $sabendo que
 $x + y = 16$
 
 Resposta:
@@ -3367,77 +3367,77 @@ necessário usar a segunda propriedade de proporção, calculando a
 constante de proporcionalidade. Após encontrar o valor de k, é
 necessário voltar na razão para encontrar o valor das incógnitas.
 
-1.
+a\)
 $\frac{x}{4} = \frac{y}{12}\  \rightarrow \ \ \frac{x + y}{4 + 12} = \frac{32}{16} = 2\  \rightarrow \ \ \frac{x}{4} = 2\ \therefore x = 8\  \rightarrow \ \ \ \frac{y}{12} = 2\ \therefore y = 24\ $
 
-1.
+b\)
 $\frac{40}{x} = \frac{24}{y}\  \rightarrow \ \ \frac{40 - 24}{x - y} = \frac{16}{2} = 8 \rightarrow \ \ \frac{40}{x} = 8\ \therefore x = 5\  \rightarrow \ \ \ \frac{24}{y} = 8\ \therefore y = 3\ $
 
-1.
+c\)
 $\frac{x}{58} = \frac{y}{8}\  \rightarrow \ \ \frac{x - y}{58 - 8} = \frac{25}{50} = 0,5\  \rightarrow \ \ \frac{x}{58} = 0,5\ \therefore x = 29\  \rightarrow \ \ \ \frac{y}{8} = 0,5\ \therefore y = 4\ $
 
-1.
+a\)
 $\frac{63}{x} = \frac{9}{y}\  \rightarrow \ \ \frac{63 + 9}{x + y} = \frac{72}{16} = 4,5\  \rightarrow \ \ \frac{63}{x} = 4,5\ \therefore x = 14\  \rightarrow \ \ \ \frac{9}{y} = 4,5\ \therefore y = 2\ $
 
-1. Classifique as grandezas abaixo como G.D.P (diretamente
+6\) Classifique as grandezas abaixo como G.D.P (diretamente
 proporcionais) e G.I.P (inversamente proporcionais), e indique qual deve
 ser a constante da relação entre elas:
 
-1. Distância e tempo:
+a\) Distância e tempo:
 
-1. Quilometragem percorrida e consumo de combustível:
+b\) Quilometragem percorrida e consumo de combustível:
 
-1. Velocidade e tempo:
+c\) Velocidade e tempo:
 
-1. Desconto em um produto e o valor pago ao final:
+d\) Desconto em um produto e o valor pago ao final:
 
 Resposta:
 
-1. Distância e tempo: se a velocidade for constante, quanto maior a
+a\) Distância e tempo: se a velocidade for constante, quanto maior a
 distância maior será o tempo, ou seja, G.D.P.
 
-1. Quilometragem percorrida e quantidade de combustível: se o consumo
+b\) Quilometragem percorrida e quantidade de combustível: se o consumo
 do veículo for constante, quanto maior a distância maior será a
 quantidade do combustível, ou seja, G.D.P.
 
-1. Velocidade e tempo: se a distância for constante, quanto maior a
+c\) Velocidade e tempo: se a distância for constante, quanto maior a
 velocidade menor será o tempo, ou seja, G.I.P.
 
-1. Desconto em um produto e o valor pago ao final: se o preço inicial
+d\) Desconto em um produto e o valor pago ao final: se o preço inicial
 do produto for constante, quanto maior o desconto menor será o valor
 pago no final, ou seja, G.I.P.
 
-1. Sabendo que A e B; C e D são grandezas diretamente proporcionais,
+7\) Sabendo que A e B; C e D são grandezas diretamente proporcionais,
 calcule o valor da grandeza desconhecida:
 
-1. $A = 44,\ B = \ ?,\ C = 32,\ D = 8$
+a\) $A = 44,\ B = \ ?,\ C = 32,\ D = 8$
 
-1. $A = 150,\ B = \ 50,\ C = ?,\ D = 66$
+b\) $A = 150,\ B = \ 50,\ C = ?,\ D = 66$
 
-1. $A = \ ?,\ \ B = \ 1200,\ C = 225,\ D = 300$
+c\) $A = \ ?,\ \ B = \ 1200,\ C = 225,\ D = 300$
 
 Resposta:
 
 Professor, relembre com os alunos que se as grandezas são diretamente
 proporcionais, elas são grandezas que se dividem.
 
-1.
+a\)
 $\frac{A}{B} = \frac{C}{D}\  \rightarrow \ \ \ \frac{44}{x} = \frac{32}{8}\  \rightarrow \ \ \ 32x = 352\  \rightarrow \ \ \ x = \frac{352}{32} = 11$
 
-1.
+b\)
 $\frac{A}{B} = \frac{C}{D}\  \rightarrow \ \ \ \frac{150}{50} = \frac{x}{66}\  \rightarrow \ \ \ 50x = 66 \times 150\  \rightarrow \ \ \ x = \frac{66 \times 150}{50}\  \rightarrow \ \ \ x = 66 \times 3 = 198$
 
-1.
+c\)
 $\frac{A}{B} = \frac{C}{D}\  \rightarrow \ \frac{x}{1200} = \frac{225}{300}\  \rightarrow \ 300x = 225 \times 1200\  \rightarrow \ x = \frac{225 \times 1200\ }{300} \rightarrow \ x = 225 \times 4 = 900$
 
-1. Sabendo que A e B; C e D são grandezas inversamente proporcionais,
+8\) Sabendo que A e B; C e D são grandezas inversamente proporcionais,
 calcule o valor da grandeza desconhecida:
 
-1. $A = 82\ ,\ B = \ 3,\ C = 41,\ D = ?$
+a\) $A = 82\ ,\ B = \ 3,\ C = 41,\ D = ?$
 
-1. $A = 7\ ,\ B = \ ?,\ C = 49,\ D = 2$
+b\) $A = 7\ ,\ B = \ ?,\ C = 49,\ D = 2$
 
-1. $A = \ 22\ ,\ B = \ 5,\ C = ?,\ D = 10$
+c\) $A = \ 22\ ,\ B = \ 5,\ C = ?,\ D = 10$
 
 Resposta:
 
@@ -3450,7 +3450,7 @@ b)  $A \times B = C \times D \rightarrow \ \ 7x = 49 \times 2\  \rightarrow \ 7x
 
 c)  $A \times B = C \times D \rightarrow \ \ 22 \times 5 = 10x\  \rightarrow 10x = 110 \rightarrow x = \frac{110\ }{10} \rightarrow \ x = 11$
 
-1. Uma caixa d'água que possui 3 m de altura, comporta 15 000 litros de
+9\) Uma caixa d'água que possui 3 m de altura, comporta 15 000 litros de
 água. Se essa caixa d'água for substituída por uma de mesmas medidas,
 mas com 4 m de altura, qual a nova capacidade em litros?
 
@@ -3476,7 +3476,7 @@ $$10\ .\ 9 = x\ .\ 6\  \rightarrow \ \ \ 6x = 90\  \rightarrow \ \ \ x = \frac{9
 
 Teste
 
-1. Marcos está fazendo alguns testes para saber quanto tempo ele vai
+1\) Marcos está fazendo alguns testes para saber quanto tempo ele vai
 gastar da sua casa até seu novo emprego. Em um dia sem trânsito ele
 consegue fazer todo percurso no limite da velocidade da rodovia de 80
 km/h e gasta 40 minutos. Porém, em dias de trânsito ele só consegue ir a
@@ -3485,13 +3485,13 @@ constante de proporcionalidade para fazer o cálculo da velocidade e do
 tempo para fazer os cálculos com outros valores, para isso ele deve
 considerar que:
 
-1. as grandezas são diretamente proporcionais e $k\  = \ 2$.
+a\) as grandezas são diretamente proporcionais e $k\  = \ 2$.
 
-1. as grandezas são inversamente proporcionais e $k\  = \ 2.$
+b\) as grandezas são inversamente proporcionais e $k\  = \ 2.$
 
-1. as grandezas são diretamente proporcionais e $k\  = \ 3200$
+a\) as grandezas são diretamente proporcionais e $k\  = \ 3200$
 
-1. as grandezas são inversamente proporcionais e $k\  = \ 3200$
+a\) as grandezas são inversamente proporcionais e $k\  = \ 3200$
 
 Resposta: D
 
@@ -3517,20 +3517,20 @@ Assim:
 
 $$80 \times 40 = 50 \times 64 = k = 3200$$
 
-1. Na construção de uma área comercial, para pintar 3 salas com 2
+2\) Na construção de uma área comercial, para pintar 3 salas com 2
 paredes de 15 m² e 2 paredes de 11 m² foi calculado que 3 pintores
 gastariam 2 dias. Porém, ao terminar de levantar as paredes os pedreiros
 perceberam que em uma sala as paredes ficaram com 22 m² e 34 m²
 respectivamente. Para manter o prazo de 2 dias, quantos pintores
 precisam ser contratados?
 
-1. 5
+a\) 5
 
-1. 4
+b\) 4
 
-1. 2
+c\) 2
 
-1. 1
+d\) 1
 
 Resposta: C
 
@@ -3568,20 +3568,20 @@ pintores para manter o prazo inicial.
 D - Errada, pois considerou que o resultado sendo 1,1 bastava contratar
 1 pintor.
 
-1. Uma empresa, composta por 3 investidores, vai fazer a divisão
+3\) Uma empresa, composta por 3 investidores, vai fazer a divisão
 proporcional dos lucros obtidos no ano de 2022. A divisão será
 diretamente proporcional ao valor que cada investidor aplicou no início
 do ano. O investidor A aplicou um capital de R\$50.000, o investidor B
 de R\$ 75.000,00 e o investidor C de R\$ 115.000,00. Se o lucro da
 empresa foi de R\$ 60.000,00, quanto o investidor B deverá receber?
 
-1. R\$ 15.000,00
+a\) R\$ 15.000,00
 
-1. R\$ 18.750,00
+b\) R\$ 18.750,00
 
-1. R\$ 20.000,00
+c\) R\$ 20.000,00
 
-1. R\$ 12.500,00
+d\) R\$ 12.500,00
 
 Resposta: B
 
@@ -3623,27 +3623,27 @@ Habilidades BNCC: EF07MA19; EF07MA20; EF07MA21.
 
 Habilidades SAEB:
 
-* Identificar, no plano cartesiano, figuras obtidas por uma ou mais
+\- Identificar, no plano cartesiano, figuras obtidas por uma ou mais
 transformações geométricas (reflexão, translação, rotação).
 
-* Relacionar o número de vértices, faces ou arestas de prismas ou
+\- Relacionar o número de vértices, faces ou arestas de prismas ou
 pirâmides, em função do seu polígono da base.
 
-* Relacionar objetos tridimensionais às suas planificações ou vistas.
+\- Relacionar objetos tridimensionais às suas planificações ou vistas.
 
-* Classificar polígonos em regulares e não regulares.
+\- Classificar polígonos em regulares e não regulares.
 
-* Reconhecer polígonos semelhantes ou as relações existentes entre
+\- Reconhecer polígonos semelhantes ou as relações existentes entre
 ângulos e lados correspondentes nesses tipos de polígonos.
 
-* Reconhecer circunferência/círculo como lugares geométricos, seus
+\- Reconhecer circunferência/círculo como lugares geométricos, seus
 elementos (centro, raio, diâmetro, corda, arco, ângulo central, ângulo
 inscrito).
 
-* Construir/desenhar figuras geométricas planas ou espaciais que
+\- Construir/desenhar figuras geométricas planas ou espaciais que
 satisfaçam as condições dadas.
 
-* Resolver problemas que envolvam relações entre os elementos de uma
+\- Resolver problemas que envolvam relações entre os elementos de uma
 circunferência/círculo (raio, diâmetro, corda, arco, ângulo central,
 ângulo inscrito).
 
@@ -3783,7 +3783,7 @@ circunferência? O ângulo valerá 42°.
 
 Atividades
 
-1. Identifique qual transformação geométrica acontece em cada uma das
+1\) Identifique qual transformação geométrica acontece em cada uma das
 situações.
 
  ![Gráfico Descrição gerada
@@ -3800,7 +3800,7 @@ Reflexão
 
 Translação
 
-1. Complete os espaços com as possíveis transformações geométricas:
+2\) Complete os espaços com as possíveis transformações geométricas:
 
 A figura 1 \_\_\_\_\_\_\_\_\_\_\_\_ para figura 2
 
@@ -3824,14 +3824,14 @@ Transladou
 
 Rotacionou
 
-1. Suponha que você tem um ângulo central em uma circunferência e este
+3\) Suponha que você tem um ângulo central em uma circunferência e este
 ângulo vale 31°. Qual a amplitude do arco do ângulo central?
 
 Resposta:
 
 Quando o ângulo é central, vale o mesmo tanto do arco, então, 31°.
 
-1. Calcule a medida do arco:
+4\) Calcule a medida do arco:
 
 ![Gráfico, Gráfico de pizza Descrição gerada
 automaticamente](./imgSAEB_7_MAT/media/image33.png){width="2.59375in"
@@ -3846,7 +3846,7 @@ Como temos o caso de um ângulo central, temos que a medida do ângulo é
 igual a amplitude do arco, logo,
 $x + 10{^\circ} = 35{^\circ}\ \ x = 25{^\circ}.$
 
-1. Descubro o valor da amplitude do arco.
+5\) Descubro o valor da amplitude do arco.
 
 ![Gráfico de pizza Descrição gerada
 automaticamente](./imgSAEB_7_MAT/media/image34.png){width="2.8125in"
@@ -3859,7 +3859,7 @@ Resposta:
 
 Para ângulos inscritos, o arco vale o dobro, logo, vale 104°.
 
-1. As torres em forma de pirâmide de uma construção na cidade de Felipe
+6\) As torres em forma de pirâmide de uma construção na cidade de Felipe
 possuem base quadrangular e 5 faces. Quantos vértices essa figura
 geométrica possui?
 
@@ -3869,7 +3869,7 @@ Se tem base quadrangular e 5 faces, e tem forma de pirâmide, logo, tem 8
 arestas para sustentação. Pela relação de Euler,
 $V - 8 + 5 = 2 \rightarrow \ 5 - 8 + 5 = 2$ logo, tem 5 vértices
 
-1. Tavares foi ao médico e descobriu que tem uma carne esponjosa no
+7\) Tavares foi ao médico e descobriu que tem uma carne esponjosa no
 fundo do globo ocular, lembrando a espécie de ponto inscrito na
 circunferência. O quanto pode atrapalhar a visão? 
 
@@ -3885,7 +3885,7 @@ Resposta:
 
 A transformação geométrica que assemelha um espelho é a reflexão.
 
-1. Um objeto passou pela transformação geométrica e as coordenadas
+9\) Um objeto passou pela transformação geométrica e as coordenadas
 mudaram de negativa e positiva para ambas sendo negativas, sem alterar
 os números. Qual o seu novo quadrante? 
 
@@ -3904,7 +3904,7 @@ também é semelhante.
 
 Treino
 
-1. Da figura 1 para figura 2, aconteceram duas transformações
+1\) Da figura 1 para figura 2, aconteceram duas transformações
 geométricas. Quais foram elas?
 
 ![Interface gráfica do usuário Descrição gerada
@@ -3913,13 +3913,13 @@ height="2.3495100612423445in"}
 
 Produzir uma imagem igual de acordo com o padrão do material
 
-1. Translação e Rotação
+a\) Translação e Rotação
 
-1. Rotação e Reflexão
+b\) Rotação e Reflexão
 
-1. Translação e Reflexão
+c\) Translação e Reflexão
 
-1. Não aconteceu nada
+d\) Não aconteceu nada
 
 Resposta: B
 
@@ -3938,28 +3938,28 @@ relação a x,y, logo, não transladou.
 
 D - A figura mudou de posição, logo, aconteceram transformações.
 
-1. O quarto de Fernanda tem as mesmas dimensões em altura, largura e
+2\) O quarto de Fernanda tem as mesmas dimensões em altura, largura e
 profundidade em todas as paredes. Qual a planificação mais se aproxima?
 
-1. ![Imagem em preto e branco Descrição gerada
+a\) ![Imagem em preto e branco Descrição gerada
 automaticamente](./imgSAEB_7_MAT/media/image36.png){width="1.4270833333333333in"
 height="1.4791666666666667in"}
 
 Produzir uma imagem igual de acordo com o padrão do material
 
-1. ![Forma Descrição gerada
+b\) ![Forma Descrição gerada
 automaticamente](./imgSAEB_7_MAT/media/image37.png){width="1.625in"
 height="1.6145833333333333in"}
 
 Produzir uma imagem igual de acordo com o padrão do material
 
-1.  ![Gráfico, Forma Descrição gerada
+c\)  ![Gráfico, Forma Descrição gerada
 automaticamente](./imgSAEB_7_MAT/media/image38.png){width="1.65625in"
 height="1.2708333333333333in"}
 
 Produzir uma imagem igual de acordo com o padrão do material
 
-1. ![](./imgSAEB_7_MAT/media/image39.png){width="1.1792727471566053in"
+d\) ![](./imgSAEB_7_MAT/media/image39.png){width="1.1792727471566053in"
 height="0.9378477690288713in"}
 
 > Produzir uma imagem igual de acordo com o padrão do material
@@ -3970,14 +3970,14 @@ Habilidades BNCC: EF07MA19; EF07MA20; EF07MA21.
 
 Habilidades SAEB:
 
-* Relacionar objetos tridimensionais às suas planificações ou vistas.
+\- Relacionar objetos tridimensionais às suas planificações ou vistas.
 
-* Classificar polígonos em regulares e não regulares.
+\- Classificar polígonos em regulares e não regulares.
 
-* Reconhecer polígonos semelhantes ou as relações existentes entre
+\- Reconhecer polígonos semelhantes ou as relações existentes entre
 ângulos e lados correspondentes nesses tipos de polígonos.
 
-* Construir/desenhar figuras geométricas planas ou espaciais que
+\- Construir/desenhar figuras geométricas planas ou espaciais que
 satisfaçam as condições dadas.
 
 A - Errada, pois uma pirâmide não possui a largura, altura e dimensões
@@ -3989,15 +3989,15 @@ C - Correta, pois o poliedro que tem todas as dimensões iguais é o cubo.
 
 D - Errada, a largura e a profundidade são diferentes.
 
-1. Se um poliedro tem 6 faces e 10 arestas, quantos vértices ele tem?
+3\) Se um poliedro tem 6 faces e 10 arestas, quantos vértices ele tem?
 
-1. 5
+a\) 5
 
-1. 6
+b\) 6
 
-1. 8
+c\) 8
 
-1. 4
+d\) 4
 
 Resposta: B
 
@@ -4024,34 +4024,34 @@ Habilidades BNCC: EF07MA23; EF07MA24; EF07MA25.
 
 Habilidades SAEB:
 
-* Identificar propriedades e relações existentes entre os elementos de
+\- Identificar propriedades e relações existentes entre os elementos de
 um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
 determinação da medida de um ângulo interno ou externo).
 
-* Classificar triângulos ou quadriláteros em relação aos lados ou aos
+\- Classificar triângulos ou quadriláteros em relação aos lados ou aos
 ângulos internos.
 
-* Identificar retas ou segmentos de retas concorrentes, paralelos ou
+\- Identificar retas ou segmentos de retas concorrentes, paralelos ou
 perpendiculares.
 
-* Identificar relações entre ângulos formados por retas paralelas
+\- Identificar relações entre ângulos formados por retas paralelas
 cortadas por uma transversal.
 
-* Resolver problemas que envolvam relações entre ângulos formados por
+\- Resolver problemas que envolvam relações entre ângulos formados por
 retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
 
-* Resolver problemas que envolvam relações métricas do triângulo
+\- Resolver problemas que envolvam relações métricas do triângulo
 retângulo, incluindo o teorema de Pitágoras.
 
-* Resolver problemas que envolvam polígonos semelhantes.
+\- Resolver problemas que envolvam polígonos semelhantes.
 
-* Resolver problemas que envolvam aplicação das relações de
+\- Resolver problemas que envolvam aplicação das relações de
 proporcionalidade abrangendo retas paralelas cortadas por transversais.
 
-* Determinar o ponto médio de um segmento de reta ou a distância entre
+\- Determinar o ponto médio de um segmento de reta ou a distância entre
 dois pontos quaisquer, dadas as coordenadas desses pontos no plano
 cartesiano.
 
@@ -4131,23 +4131,23 @@ Atividades:
 1)  Complete as frases abaixo de acordo com os ângulos gerados por duas
     paralelas cortadas por uma transversal:
 
-1. Ângulos \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ estão na região
+a\) Ângulos \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ estão na região
 interna das paralelas e no mesmo lado em relação à transversal.
 
-1. Ângulos \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ estão na região
+b\) Ângulos \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ estão na região
 externa das paralelas e em lados contrários em relação à transversal.
 
-1. Ângulos correspondentes estão em regiões
+c\) Ângulos correspondentes estão em regiões
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ das paralelas e em regiões
 \_\_\_\_\_\_\_\_\_\_\_ em relação à transversal.
 
 Resposta:
 
-1. colaterais internos
+a\) colaterais internos
 
-1. alternos externos
+b\) alternos externos
 
-1. opostas e iguais
+c\) opostas e iguais
 
 2)  Determine o valor de x na figura abaixo, sabendo que r é paralela a
     s:
@@ -4204,7 +4204,7 @@ b)  Ângulos alternos internos são congruentes, assim
 
 $$7y + 14{^\circ} = 2y + 59{^\circ}\  \rightarrow \ \ 5y = 45{^\circ} \rightarrow \ \ y = 9{^\circ}$$
 
-1. Determine o valor de a e b nas figuras abaixo, sabendo que r é
+4\) Determine o valor de a e b nas figuras abaixo, sabendo que r é
 paralela a s:
 
 a)\
@@ -4230,53 +4230,53 @@ Professor, deixe os alunos identificarem qual das relações de ângulos se
 encontra nas imagens, para que eles enxerguem o que são os ângulos
 colaterais internos e externos.
 
-1. Ângulos colaterais internos são suplementares, assim
+a\) Ângulos colaterais internos são suplementares, assim
 
 $$a + 13{^\circ} + 2a - 103{^\circ} = 180{^\circ}\  \rightarrow \ \ 3a = 180{^\circ} - 13{^\circ} + 103{^\circ} \rightarrow \ \ 3a = 270 \rightarrow \ \ a = \frac{270}{3} = 90{^\circ}$$
 
-1. Ângulos colaterais externos são suplementares, assim
+b\) Ângulos colaterais externos são suplementares, assim
 
 $$5b + 75{^\circ} + 18{^\circ} - 4b = 180{^\circ}\  \rightarrow \ \ b = 180{^\circ} - 75{^\circ} - 18{^\circ} \rightarrow \ \ b = 87{^\circ}$$
 
-1. Verifique se é possível construir um triângulo com os tamanhos de
+5\) Verifique se é possível construir um triângulo com os tamanhos de
 lado a seguir:
 
-1. 11, 13, 21
+a\) 11, 13, 21
 
-1. 8,5; 10,5; 20
+b\) 8,5; 10,5; 20
 
-1. 3, 6, 9
+c\) 3, 6, 9
 
-1. 5, 6, 7
+d\) 5, 6, 7
 
 Resposta:
 
 Professor, mostre para os alunos que nesse contexto basta verificar se o
 maior lado satisfaz a desigualdade.
 
-1.
+a\)
 $\left| 13 - 11 \right| < \ 21\  < \ 13 + 11\  \rightarrow \ \ 2 < 21 < 24\ \ \ \ \ \ \ \ \ \therefore\ o\ triâ\text{ngulo}\ \text{existe}$
 
-1.
+b\)
 $\left| 10,5 - 8,5 \right| < \ 20\  < \ 10,5 + 8,5\  \rightarrow \ \ 2 < 20 < 19\ \ \ \ \ \ \ \ \ \therefore\ o\ \text{tri}â\text{ngulo}\ não\ \text{existe}$
 
-1.
+c\)
 $\left| 6 - 3 \right| < \ 9\  < \ 6 + 3\  \rightarrow \ \ 2 < 9 < 9\ \ \ \ \ \ \ \ \ \therefore\ o\ \text{tri}â\text{ngulo}\ não\ \text{existe}$
 
 Professor, no caso da letra D, enfatize com os alunos que o lado tem que
 ser estritamente menor que a soma dos outros dois, e nesse caso é igual.
 
-1.
+d\)
 $\left| 6 - 5 \right| < \ 7\  < \ 6 + 5\  \rightarrow \ \ 1 < 7 < 11\ \ \ \ \ \ \ \ \therefore\ o\ triâ\text{ngulo}\ \text{existe}$
 
-1. Calcule o valor das incógnitas nos triângulos abaixo:
+6\) Calcule o valor das incógnitas nos triângulos abaixo:
 
 ![](./imgSAEB_7_MAT/media/image47.png){width="6.697458442694663in"
 height="5.823264435695538in"}
 
 Resposta:
 
-1.
+a\)
 $\ x + 2{^\circ} + x + 2x + 3{^\circ} = 180{^\circ}\  \rightarrow \ \ \ 5x + 5{^\circ} = 180{^\circ}\  \rightarrow \ \ \ 5x = 175{^\circ}\  \rightarrow \ \ \ x = 35{^\circ}$
 
 b)$\ 4x + 5{^\circ} + 40{^\circ} + 65{^\circ} = 180{^\circ}\  \rightarrow \ \ 4x + 110{^\circ} = 180{^\circ}\  \rightarrow \ \ \ 4x = 70{^\circ}\  \rightarrow \ \ \ x = 17,5{^\circ}$
@@ -4285,7 +4285,7 @@ c)$\ x + 10{^\circ} + 2x + 20{^\circ} + 3x + 30{^\circ} = 180{^\circ}$
 
 $$\ \ \ \ 6x + 60{^\circ} = 180{^\circ} \rightarrow 6x = 120{^\circ} \rightarrow x = 20{^\circ}$$
 
-1. Para quais valores inteiros positivos de y o triângulo abaixo pode
+7\) Para quais valores inteiros positivos de y o triângulo abaixo pode
 ser construído?
 
 ![Uma imagem contendo Forma Descrição gerada
@@ -4300,7 +4300,7 @@ analisadas para todos os lados, assim
 $\{ x < 17 + 15\  \rightarrow \ \ \ x < 32\ 17 < x + 15 \rightarrow \ \ 2 < x\ 15 < x + 17 \rightarrow \  - 2 < x\ $
 $\rightarrow \ \ \ 2 < x < 32 \rightarrow x = \{ 3,\ 4,\ 5,\ 6,\ \ldots,31\}$
 
-1. Qual o maior valor inteiro positivo de b para que o triângulo abaixo
+8\) Qual o maior valor inteiro positivo de b para que o triângulo abaixo
 exista?
 
 ![Uma imagem contendo Forma Descrição gerada
@@ -4315,7 +4315,7 @@ analisadas para todos os lados, assim
 $\{ b < 10 + 11 \rightarrow \ \ \ b < 21\ 11 < b + 10 \rightarrow \ \ 1 < b\ 10 < b + 11 \rightarrow \  - 1 < x\ $
 $\rightarrow \ \ \ 1 < b < 21 \rightarrow \text{logo}\ o\ \text{maior}\ \text{valor}\ \text{de}\ b\ é\ 20$
 
-1. Em um triângulo de lados 32 e 38, e ângulos
+9\) Em um triângulo de lados 32 e 38, e ângulos
 $85{^\circ}\ e\ 42{^\circ}$. Qual o menor valor de lado e o tamanho de
 ângulo para que esse triângulo exista?
 
@@ -4358,7 +4358,7 @@ por triângulos.
 
 Teste
 
-1. Considerando que $r//s//\ t,$ o valor dos ângulos apresentados na
+1\) Considerando que $r//s//\ t,$ o valor dos ângulos apresentados na
 imagem são respectivamente:
 
 ![Tela de computador com texto preto sobre fundo branco Descrição gerada
@@ -4368,13 +4368,13 @@ height="1.9345680227471567in"}
 Fazer uma imagem como essa trocando $x$ por $a + 3{^\circ}$, $y$ por
 $b + 5{^\circ}$ e o $50{^\circ}$ por $75{^\circ}$.
 
-1. $75{^\circ}\ e\ 100{^\circ}$
+a\) $75{^\circ}\ e\ 100{^\circ}$
 
-1. $72{^\circ}\ e\ 100{^\circ}$
+b\) $72{^\circ}\ e\ 100{^\circ}$
 
-1. $75{^\circ}\ e\ 105{^\circ}$
+c\) $75{^\circ}\ e\ 105{^\circ}$
 
-1. $72{^\circ}\ e\ 105{^\circ}$
+d\) $72{^\circ}\ e\ 105{^\circ}$
 
 Resposta: C
 
@@ -4399,7 +4399,7 @@ $a + 3{^\circ} + 105{^\circ} = 180{^\circ} \rightarrow a = 72{^\circ} \rightarro
 
 D - Errada, pois não somou 3º ao valor do a.
 
-1. Os ângulos internos do triângulo A, B, C, são respectivamente:
+2\) Os ângulos internos do triângulo A, B, C, são respectivamente:
 
 ![](./imgSAEB_7_MAT/media/image53.png){width="2.171796806649169in"
 height="1.865909886264217in"}
@@ -4433,7 +4433,7 @@ C - Errada, pois inverteu a ordem colocando o valor de B, C, A.
 
 D - Errada, pois inverteu a ordem colocando o valor de B, A, C.
 
-1. Gustavo está desenhando o esboço do projeto de sua nova sala de
+3\) Gustavo está desenhando o esboço do projeto de sua nova sala de
 trabalho que terá um formato triangular e será construída no seu
 quintal. Ele começou o desenho, mas foi interrompido no meio deixando o
 desenho como o abaixo:
@@ -4452,13 +4452,13 @@ pensou para o lado em branco, só lembrava que era o maior valor inteiro
 possível que a medida podia assumir. Sendo assim, o tamanho que Gustavo
 havia escolhido era:
 
-1. 27m
+a\) 27m
 
-1. 26m
+b\) 26m
 
-1. 25m
+c\) 25m
 
-1. 24m
+d\) 24m
 
 Resposta: D
 
@@ -4548,15 +4548,15 @@ Seguindo as instruções temos que ao andar duas casas para baixo chegamos
 em B2, em seguida andando 3 para a direita chegamos em B5, e descendo
 uma chegamos na casa de Carla em A5.
 
-1. Desenhe os elementos nas coordenadas indicadas:
+3\) Desenhe os elementos nas coordenadas indicadas:
 
-1. Estrela $\rightarrow (A,2)$
+a\) Estrela $\rightarrow (A,2)$
 
-1. Triângulo $\rightarrow (C,5)$
+b\) Triângulo $\rightarrow (C,5)$
 
-1. Coração$\rightarrow (D,2)$
+c\) Coração$\rightarrow (D,2)$
 
-1. Quadrado $\rightarrow (B,3)$
+d\) Quadrado $\rightarrow (B,3)$
 
 ![Uma imagem contendo parede de papel, palavras cruzadas, edifício,
 relógio Descrição gerada
@@ -4573,7 +4573,7 @@ height="1.847668416447944in"}
 
 Fazer uma imagem como essa.
 
-1. Indique as coordenadas das figuras abaixo:
+4\) Indique as coordenadas das figuras abaixo:
 
 ![10 Atividades para trabalhar na malha
 quadriculada](./imgSAEB_7_MAT/media/image59.jpg){width="3.0399398512685916in"
@@ -4583,33 +4583,33 @@ Fazer uma imagem como essa trocando kiwi por uma casa, a banana por um
 carro, a pera por um relógio, a melancia por um livro, o abacaxi por um
 telefone e a maçã por um tênis.
 
-1. Casa:
+a\) Casa:
 
-1. Carro:
+b\) Carro:
 
-1. Relógio:
+c\) Relógio:
 
-1. Livro:
+d\) Livro:
 
-1. Telefone:
+e\) Telefone:
 
-1. Tênis:
+f\) Tênis:
 
 Resposta:
 
-1. Casa: $(A,5)$
+a\) Casa: $(A,5)$
 
-1. Carro: $(B,2)$
+b\) Carro: $(B,2)$
 
-1. Relógio: $(C,3)$
+c\) Relógio: $(C,3)$
 
-1. Livro: $(D,1)$
+d\) Livro: $(D,1)$
 
-1. Telefone: $(D,4)$
+e\) Telefone: $(D,4)$
 
-1. Tênis: $(E,5)$
+f\) Tênis: $(E,5)$
 
-1. José saiu de moto do ponto X e percorreu o trajeto abaixo para
+5\) José saiu de moto do ponto X e percorreu o trajeto abaixo para
 chegar no ponto da estrela. O trajeto seguiu esse sentido, por conta do
 sentido permitido nas ruas. Descreva qual foi o trajeto feito por José,
 indicando os sentidos e as direções.
@@ -4626,7 +4626,7 @@ Seguir em frente virar a 2ª para esquerda, depois 2ª direita e 1ª
 esquerda, 1ª à direita e seguir reto por duas esquinas encontrando o
 destino à esquerda.
 
-1. Saindo do ponto A e fazendo o trajeto de duas coordenadas para
+6\) Saindo do ponto A e fazendo o trajeto de duas coordenadas para
 direita, uma para baixo, uma para a direita e duas para baixo, paramos
 no ponto B que terá qual coordenada?
 
@@ -4644,7 +4644,7 @@ $\left( 1,3 \right),\ $uma para baixo vamos para (1, 2), uma para
 direita vamos para (2, 2) e por último duas para baixo o ponto B é (2,
 0)
 
-1. Para construir um quadrado de 2cm de lado, saindo do ponto A e
+7\) Para construir um quadrado de 2cm de lado, saindo do ponto A e
 chegando em B, sabendo que a distância entre os números é 1cm, qual a
 trajetória que deve ser percorrida?
 
@@ -4663,7 +4663,7 @@ virar à direita e andar mais dois espaços encontrando o vértice C, virar
 a direita novamente, andar duas casas e encontrar o vértice B. Para
 fechar o quadrado andamos duas casas para a esquerda.
 
-1. Para movimentar a \# do local que ela está até a coordenada do "?",
+8\) Para movimentar a \# do local que ela está até a coordenada do "?",
 qual (is) trajeto (s) deve(m) ser feito?
 
 ![Uma imagem contendo parede de papel, palavras cruzadas, edifício,
@@ -4677,7 +4677,7 @@ Resposta:
 
 2ª opção: 2 coordenadas para a direita e uma coordenada para baixo.
 
-1. Na aula de Matemática de Priscila a professora colocou um ponto A no
+9\) Na aula de Matemática de Priscila a professora colocou um ponto A no
 plano cartesiano e pediu que os alunos fizessem o seguindo passo a
 passo:
 
@@ -4713,7 +4713,7 @@ Resposta: Pessoal.
 
 Teste
 
-1. André está jogando batalha naval e está com a seguinte situação no
+1\) André está jogando batalha naval e está com a seguinte situação no
 jogo.
 
 ![Interface gráfica do usuário, Aplicativo Descrição gerada
@@ -4750,7 +4750,7 @@ cima é o hidroavião, assim a coordenada escolhida foi (G, 2).
 
 D - Errada, pois tentou completar o hidroavião na imagem do avião.
 
-1. A planta abaixo é de um escritório de contabilidade. Se uma pessoa
+2\) A planta abaixo é de um escritório de contabilidade. Se uma pessoa
 entrar pela sala de reunião e virar duas vezes para a esquerda, em qual
 sala ela vai parar?\
 ![Diagrama Descrição gerada
@@ -4759,13 +4759,13 @@ height="1.9377701224846895in"}
 
 Fazer uma imagem como essa com as mesmas disposições.
 
-1. Atendimento
+a\) Atendimento
 
-1. Cozinha
+b\) Cozinha
 
-1. Descanso
+c\) Descanso
 
-1. R.H
+d\) R.H
 
 Resposta: B
 
@@ -4786,7 +4786,7 @@ C - Errada, pois entrou na sala de reunião e seguiu em frente.
 D - Errada, pois encontrou na sala de reunião, virou para esquerda e
 depois para a direita.
 
-1. A figura abaixo descreve o trajeto da cidade A para B, indicando o
+3\) A figura abaixo descreve o trajeto da cidade A para B, indicando o
 preço dos pedágios a serem pagos. O maior valor de pedágio nesse trajeto
 é:
 
@@ -4797,13 +4797,13 @@ height="2.073205380577428in"}
 Faça uma imagem como essa trocando o 10 por 7.5, 20 por 12, 30 por 5, 70
 por 8.9 e 80 por 11.5.
 
-1. $R\$\ 36,50$
+a\) $R\$\ 36,50$
 
-1. $R\$\ 39,00$
+b\) $R\$\ 39,00$
 
-1. $R\$\ 43,50$
+c\) $R\$\ 43,50$
 
-1. $R\$\ 44,00$
+d\) $R\$\ 44,00$
 
 Resposta: D
 
@@ -4837,22 +4837,22 @@ Habilidades BNCC: EF07MA35, EF07MA37.
 
 Habilidades SAEB:
 
-* Identificar os indivíduos (universo ou população-alvo da pesquisa),
+\- Identificar os indivíduos (universo ou população-alvo da pesquisa),
 as variáveis e os tipos de variáveis (quantitativas ou categóricas) em
 um conjunto de dados.
 
-* Representar ou associar os dados de uma pesquisa estatística ou de um
+\- Representar ou associar os dados de uma pesquisa estatística ou de um
 levantamento em listas, tabelas (simples ou de dupla entrada) ou
 gráficos (barras simples ou agrupadas, colunas simples ou agrupadas,
 pictóricos, de linhas, de setores, ou em histograma).
 
-* Inferir a finalidade da realização de uma pesquisa estatística ou de
+\- Inferir a finalidade da realização de uma pesquisa estatística ou de
 um levantamento, dada uma tabela (simples ou de dupla entrada) ou
 gráfico (barras simples ou agrupadas, colunas simples ou agrupadas,
 pictóricos, de linhas, de setores ou em histograma) com os dados dessa
 pesquisa. 
 
-* Interpretar o significado das medidas de tendência central (média,
+\- Interpretar o significado das medidas de tendência central (média,
 aritmética simples, moda e mediana) ou da amplitude.
 
  - Calcular os valores de medidas de tendência central de uma pesquisa
@@ -5064,35 +5064,35 @@ medidas, assim por diante.
 > provaram que o problema existe de fato ou que o planejamento não
 > representa a população da do problema.
 
-1. Classifique as variáveis como qualitativas ou quantitativas:
+1\) Classifique as variáveis como qualitativas ou quantitativas:
 
 a.  Profissão
 
-1. Religião
+b\. Religião
 
-1. Número de visualizações em vídeos
+c\. Número de visualizações em vídeos
 
-1. Cor dos cabelos
+d\. Cor dos cabelos
 
-1. Batimentos cardíacos 
+e\. Batimentos cardíacos 
 
-1. Temperatura
+f\. Temperatura
 
 Resposta:
 
 a.  Qualitativa
 
-1. Qualitativa
+b\. Qualitativa
 
-1. Quantitativa
+c\. Quantitativa
 
-1. Qualitativa
+d\. Qualitativa
 
-1. Quantitativa
+e\. Quantitativa
 
-1. Quantitativa
+f\. Quantitativa
 
-1. O diretor da escola Brilho do Conhecimento anunciou que iriam
+2\) O diretor da escola Brilho do Conhecimento anunciou que iriam
 começar as eleições para representante de sala no Ensino Médio. Três
 alunos dentre os 25 da turma do 1º ano, se interessaram e se
 candidataram. Luana, que não era candidata, resolveu perguntar para o
@@ -5108,7 +5108,7 @@ de Luana e a amostra não é significativa, ou seja, não dá para concluir
 que o candidato iria ganhar, já que o número que respondeu a pesquisa, é
 bem menor que o de todos os eleitores.
 
-1. Uma lanchonete resolveu marcar quantos lanches vendiam cada noite
+3\) Uma lanchonete resolveu marcar quantos lanches vendiam cada noite
 que ficavam abertos para ter maior controle na hora de fazer as compras.
 Analise a tabela e responda:
 
@@ -5122,14 +5122,14 @@ Analise a tabela e responda:
 
 a.  Qual a média de vendas da lanchonete?
 
-1. Qual o dia que menos vendeu nesta semana que registrou?
+b\. Qual o dia que menos vendeu nesta semana que registrou?
 
 Resposta:
 
 a.  A média de vendas é dada por $\frac{30 + 58 + 63 + 21}{4} = \ 43$
     lanches por dia.
 
-1. Domingo
+b\. Domingo
 
  4) Classifique cada tipo de gráfico
 
@@ -5161,13 +5161,13 @@ height="1.9583333333333333in"}
 
 a.  Gráfico de colunas
 
-1. Gráfico de linhas
+b\. Gráfico de linhas
 
-1. Gráfico de setores
+c\. Gráfico de setores
 
-1. Gráfico de colunas
+d\. Gráfico de colunas
 
-1. Um grupo de jovens optou por anotar a temperatura da cidade deles
+5\) Um grupo de jovens optou por anotar a temperatura da cidade deles
 todos os dias no mesmo horário. Qual a moda, média e mediana das
 temperaturas?
 
@@ -5190,7 +5190,7 @@ $$MÉ\text{DIA}\  = \frac{19 + 18 + 22 + 22 + 17 + 29 + 18}{7} \cong 20,7$$
 
 $$\text{Mediana} = \ 17 - 18 - 18 - 19 - 22 - 22 - 29\ ,\ \text{logo},\ a\ \text{Mediana} = 19$$
 
-1. Enumere do primeiro ao último passo para se fazer uma pesquisa em
+6\) Enumere do primeiro ao último passo para se fazer uma pesquisa em
 estatística.
 
 **Análise dos dados**
@@ -5219,7 +5219,7 @@ Resposta:
 
 \(3\) Coleta de dados
 
-1. Indique cada problema, qual é a população e qual é a população e
+7\) Indique cada problema, qual é a população e qual é a população e
 qual é a amostra.
 
 a)  Turma do segundo ano, 3 pessoas que usam óculos do segundo ano
@@ -5237,7 +5237,7 @@ b)  População: Eleitores do Brasil; amostra: Eleitores de Minas Gerais.
 
 c)  População: Fauna; amostra: Eleitores de Minas Gerais
 
-1. De acordo com o gráfico, qual mês, menos alunos vão à escola?
+8\) De acordo com o gráfico, qual mês, menos alunos vão à escola?
 
 ![Gráfico, Gráfico de barras Descrição gerada
 automaticamente](./imgSAEB_7_MAT/media/image75.png){width="4.208333333333333in"
@@ -5251,7 +5251,7 @@ Resposta:
 
 De acordo com o gráfico, são nos meses de janeiro e março.
 
-1. Foi feito um gráfico numa cidade do interior de São Paulo, sobre a
+9\) Foi feito um gráfico numa cidade do interior de São Paulo, sobre a
 preferência de quatro sabores de pizza cotadas em três pizzarias da
 cidade. De acordo com o gráfico, qual a preferência de sabores em ordem
 decrescente?
@@ -5288,7 +5288,7 @@ $$\text{Mediana} = \ 60\text{km}/h$$
 
 Treino
 
-1. Analise as afirmações e marque a correta.
+1\) Analise as afirmações e marque a correta.
 
 I - A média é o valor que mais se repete.
 
@@ -5297,13 +5297,13 @@ II - Uma variável quantitativa pode ser expressa por números.
 III - O primeiro passo para realizar uma pesquisa estatística é
 delimitar o problema.
 
-1. Apenas I está correta
+a\) Apenas I está correta
 
-1. Todas estão erradas
+b\) Todas estão erradas
 
-1. As afirmações II e III estão corretas
+c\) As afirmações II e III estão corretas
 
-1. As afirmações I e II estão corretas
+d\) As afirmações I e II estão corretas
 
 Resposta: C
 
@@ -5311,7 +5311,7 @@ Habilidades BNCC: EF07MA35, EF07MA37.
 
 Habilidades SAEB:
 
-* Interpretar o significado das medidas de tendência central (média,
+\- Interpretar o significado das medidas de tendência central (média,
 aritmética simples, moda e mediana) ou da amplitude.
 
  - Calcular os valores de medidas de tendência central de uma pesquisa
@@ -5330,7 +5330,7 @@ C - Correta, pois I -É falsa porque a moda é o valor que mais se repete
 D - Errada, pois, a I, o valor que mais se repete é a moda, ou seja,
 está incorreta.
 
-1. Dada a tabela de salário + horas extras de Juliano durante 6 meses,
+2\) Dada a tabela de salário + horas extras de Juliano durante 6 meses,
 qual foi a média de salário dele?
 
   ----------- -------------------------
@@ -5343,13 +5343,13 @@ qual foi a média de salário dele?
   Agosto      R\$1400
   ----------- -------------------------
 
-1. Aproximadamente 1500
+a\) Aproximadamente 1500
 
-1. Aproximadamente 1369
+b\) Aproximadamente 1369
 
-1. Aproximadamente 1112
+c\) Aproximadamente 1112
 
-1. Aproximadamente 1489
+d\) Aproximadamente 1489
 
 Resposta: B
 
@@ -5357,7 +5357,7 @@ Habilidades BNCC: EF07MA35, EF07MA37.
 
 Habilidades SAEB:
 
-* Interpretar o significado das medidas de tendência central (média,
+\- Interpretar o significado das medidas de tendência central (média,
 aritmética simples, moda e mediana) ou da amplitude.
 
  - Calcular os valores de medidas de tendência central de uma pesquisa
@@ -5380,16 +5380,16 @@ próximos de 1112 e a média não sofrer muitas oscilações.
 D- Para a média ser aproximadamente 1489, os valores tinham que ser mais
 próximos de 1489 e a média não sofrer muitas oscilações.
 
-1. Marque a alternativa que classifica as variáveis, respectivamente:
+3\) Marque a alternativa que classifica as variáveis, respectivamente:
 Profissão, Batimentos cardíacos, Pressão, Altura.
 
-1. Qualitativa, Quantitativa, Quantitativa, Quantitativa
+a\) Qualitativa, Quantitativa, Quantitativa, Quantitativa
 
-1. Qualitativa, Qualitativa, Quantitativa, Quantitativa
+b\) Qualitativa, Qualitativa, Quantitativa, Quantitativa
 
-1. Quantitativa, Qualitativa, Quantitativa, Quantitativa
+c\) Quantitativa, Qualitativa, Quantitativa, Quantitativa
 
-1. Quantitativa, Quantitativa, Quantitativa, Quantitativa
+d\) Quantitativa, Quantitativa, Quantitativa, Quantitativa
 
 Resposta: A
 
@@ -5414,15 +5414,15 @@ Habilidades BNCC: EF07MA29; EF07MA30; EF07MA31; EF07MA32;
 
 Habilidades SAEB:
 
-* Resolver problemas que envolvam medidas de grandezas (comprimento,
+\- Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais.
 
-* Resolver problemas que envolvam perímetro de figuras planas.
+\- Resolver problemas que envolvam perímetro de figuras planas.
 
-* Resolver problemas que envolvam área de figuras planas.
+\- Resolver problemas que envolvam área de figuras planas.
 
-* Resolver problemas que envolvam volume de prismas retos ou cilindros
+\- Resolver problemas que envolvam volume de prismas retos ou cilindros
 retos.
 
 Box teoria
@@ -5573,13 +5573,13 @@ Atividades:
 1)  Encontre o valor das transformações das unidades de comprimento
     abaixo:
 
-1. 360 m em hm
+a\) 360 m em hm
 
-1. 5,2 dam em cm
+b\) 5,2 dam em cm
 
-1. 72 mm em m
+c\) 72 mm em m
 
-1. 0,003 km em dm
+d\) 0,003 km em dm
 
 Resposta:
 
@@ -5589,15 +5589,15 @@ multiplicações ou divisões por 10 estão sendo feitas no processo.
 Enfatize bem, que basta caminhar com a vírgula que encontramos a
 transformação.
 
-1. $\frac{360}{100} = 3,6\ hm$
+a\) $\frac{360}{100} = 3,6\ hm$
 
-1. $5,2 \times 1000 = 5200\ \text{cm}$
+b\) $5,2 \times 1000 = 5200\ \text{cm}$
 
-1. $\frac{72}{1000} = 0,072\ m$
+c\) $\frac{72}{1000} = 0,072\ m$
 
-1. $0,003 \times 10.000 = 30\ \text{dm}$
+d\) $0,003 \times 10.000 = 30\ \text{dm}$
 
-1. A figura abaixo mostra o trajeto em que Pedro faz seu treino de
+2\) A figura abaixo mostra o trajeto em que Pedro faz seu treino de
 bicicleta de manhã. Sabendo que ele treina 4 vezes por semana, qual a
 distância que Pedro corre por semana?
 
@@ -5619,15 +5619,15 @@ $$1\ \text{dia} \rightarrow 5 + 10 + 6 + 4 + 17 = 42\text{km}$$
 
 $$4\ \text{dias}\  \rightarrow \ 4 \times 42 = 168\text{km}$$
 
-1. Encontre o valor das transformações das unidades de área abaixo:
+3\) Encontre o valor das transformações das unidades de área abaixo:
 
-1. 0,3 dam² em dm²
+a\) 0,3 dam² em dm²
 
-1. 3.500 cm² em mm²
+b\) 3.500 cm² em mm²
 
-1. 720 hm² em km²
+c\) 720 hm² em km²
 
-1. 265.000 mm² em m²
+d\) 265.000 mm² em m²
 
 Resposta:
 
@@ -5635,15 +5635,15 @@ Professor, enfatize com os alunos que no caso das unidades de área as
 transformações são feitas utilizando o 100, ou seja, ao transformar
 movimentamos a vírgula 2 casas em cada unidade que passamos.
 
-1.
+a\)
 $0,3 \times 10.000 = 3.000\ dm^{2}\text{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }$b)
 $3500 \times 100 = 350.000\ \text{mm}²$
 
-1.
+c\)
 $\frac{720}{100} = 7,2\ km^{2}\text{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }$d)
 $\frac{265.000}{1\ 000\ 000} = 0,265m²$
 
-1. Maria resolveu revestir a porta da sua geladeira com um papel
+4\) Maria resolveu revestir a porta da sua geladeira com um papel
 adesivo colorido. Para isso ela mediu a porta e obteve as seguintes
 medidas:
 
@@ -5666,7 +5666,7 @@ $1,536 \times 10.000 = 15.360\ \text{cm}²$.
 Como Maria quer comprar o dobro de papel, ela precisa comprar
 $15.360 \times 2 = 30.720\text{cm}²$.
 
-1. Calcula a área das figuras abaixo usando as relações adequadas:
+5\) Calcula a área das figuras abaixo usando as relações adequadas:
 
 a)\
 ![Lista de Exercícios sobre o cálculo da área a partir da decomposição
@@ -5684,15 +5684,15 @@ c)\
 Azup](./imgSAEB_7_MAT/media/image90.png){width="1.9081780402449693in"
 height="1.9733355205599301in"}
 
-1. Encontre o valor das transformações das unidades de massa abaixo:
+6\) Encontre o valor das transformações das unidades de massa abaixo:
 
-1. 850 cg em dg
+a\) 850 cg em dg
 
-1. 9,3 dag em g
+b\) 9,3 dag em g
 
-1. 63,9 dag em kg
+c\) 63,9 dag em kg
 
-1. 0,002 kg em mg
+d\) 0,002 kg em mg
 
 Resposta:
 
@@ -5701,23 +5701,23 @@ como unidade central, mostre que os prefixos são os mesmos que as
 unidades de comprimento e que o processo de transformação também é o
 mesmo.
 
-1. $\frac{850}{10} = 85\ \text{dg}$
+a\) $\frac{850}{10} = 85\ \text{dg}$
 
-1. $93\  \times 10 = 930\ g$
+b\) $93\  \times 10 = 930\ g$
 
-1. $\frac{63,9}{100} = 0,639\ \text{kg}$
+c\) $\frac{63,9}{100} = 0,639\ \text{kg}$
 
-1. $0,002 \times 1.000.000 = 2000\ \text{mg}$
+d\) $0,002 \times 1.000.000 = 2000\ \text{mg}$
 
-1. Encontre o valor das transformações das unidades de tempo abaixo:
+7\) Encontre o valor das transformações das unidades de tempo abaixo:
 
-1. 300 minutos em horas
+a\) 300 minutos em horas
 
-1. 25 minutos em segundos
+b\) 25 minutos em segundos
 
-1. 2 horas em segundos
+c\) 2 horas em segundos
 
-1. 10.800 segundos em horas
+d\) 10.800 segundos em horas
 
 Resposta:
 
@@ -5725,24 +5725,24 @@ Professor, retome com os alunos que as unidades de tempo são as únicas
 que a transformação é feita usando divisões e multiplicações por 60, ao
 invés de 10 ou uma potência dele.
 
-1. $\frac{300}{60} = 5\ h\text{oras}$
+a\) $\frac{300}{60} = 5\ h\text{oras}$
 
-1. $25 \times 60 = 1500\ \text{segundos}$
+b\) $25 \times 60 = 1500\ \text{segundos}$
 
-1. $2 \times 60 \times 60 = 7200\ \text{segundos}$
+c\) $2 \times 60 \times 60 = 7200\ \text{segundos}$
 
-1.
+d\)
 $\frac{10.800}{60} = 180\ \text{minutos} = \frac{180}{60} = 3\ h\text{oras}$
 
 8)  Encontre o valor das transformações das unidades de volume abaixo:
 
-1. 0,0012 hm³ em m³
+a\) 0,0012 hm³ em m³
 
-1. 9804 cm³ em dm³
+b\) 9804 cm³ em dm³
 
-1. 0,651 dm³ em cm³
+c\) 0,651 dm³ em cm³
 
-1. 4.200.000.000 cm³ em hm³
+d\) 4.200.000.000 cm³ em hm³
 
 Resposta:
 
@@ -5750,23 +5750,23 @@ Professor, enfatize com os alunos que no caso das unidades de volume as
 transformações são feitas utilizando o 1000, ou seja, ao transformar
 movimentamos a vírgula 3 casas em cada unidade que passamos.
 
-1.
+a\)
 $0,0012\  \times 1.000.000 = 1200\ m^{³}\text{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\ c)$
 $0,651 \times 1000 = 651\ \text{cm}³$
 
-1.
+b\)
 $\frac{9804}{1000} = 9,804\ dm^{³}\text{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }$d)
 $\frac{4.200.000.000\ }{10^{12}} = 0,0042\ hm³$
 
-1. Faça a conversão entre as unidades de volume e capacidade:
+9\) Faça a conversão entre as unidades de volume e capacidade:
 
-1. 25 m³ em L
+a\) 25 m³ em L
 
-1. 400 L em m³
+b\) 400 L em m³
 
-1. 725 dm³ em ml
+c\) 725 dm³ em ml
 
-1. 188 L em dm³
+d\) 188 L em dm³
 
 Resposta:
 
@@ -5774,16 +5774,16 @@ Professor, retome com os alunos quais são as unidades de volume e
 capacidade que se relacionam para depois trabalhar as transformações
 solicitadas.
 
-1.
+a\)
 $25,4\ m^{3}\text{em}\ L \rightarrow 1m^{3} = 1000L \rightarrow 25m^{3} = 25,4 \times 1000 = 25.400L$
 
-1.
+b\)
 $400\ L\ \text{em}\ m^{3} \rightarrow 1m^{3} = 1000L \rightarrow 400L = \frac{400}{1000} = 0,4m³$
 
-1.
+c\)
 $725\ dm^{3}\text{em}\ \text{ml} \rightarrow 1dm^{3} = 1L \rightarrow 725dm^{3} = 725L \rightarrow 725 \times 1000 = \mathbf{725\ 000}\mathbf{\text{ml}}$
 
-1.
+d\)
 $188\ L\ \text{em}\ dm^{3} \rightarrow \ 1dm^{3} = 1L \rightarrow 188L = 188\text{dm}³$
 
 10\) Calcule os volumes abaixo em m³ e depois indique a capacidade dos
@@ -5811,42 +5811,42 @@ height="1.2916666666666667in"}
 
 Resposta:
 
-1.
+a\)
 $V = {2,5}^{3} = 15,625m^{3} = 15,625 \times 1000 = 15.625\ \text{litros}$
 
-1. $V = 25 \times 8 \times 15 = 3000dm^{3} = 3000\ \text{litros}$
+b\) $V = 25 \times 8 \times 15 = 3000dm^{3} = 3000\ \text{litros}$
 
-1.
+c\)
 $V = 45^{3} = 91.125cm^{3} = \frac{91.125}{1000} = 91.125dm^{3} = 91.125\ \text{litros}$
 
-1.
+d\)
 $V = 5,4 \times 10 \times 3,5 = 189m^{3} = 189 \times 1000 = 189.000\ \text{litros}$
 
 Treino
 
-1. Fernanda está reformando seu apartamento e vai trocar os pisos de
+1\) Fernanda está reformando seu apartamento e vai trocar os pisos de
 todos os cômodos, sendo que o apartamento é retangular e tem medidas
 $1800\ \text{cm} \times 2200\ \text{cm}\text{.\ }$As caixas de pisos que
 Fernanda vai comprar comportam 15 m² de pisos, logo ela deve comprar:
 
-1. 264 caixas
+a\) 264 caixas
 
-1. 25 caixas
+b\) 25 caixas
 
-1. 26 caixas
+c\) 26 caixas
 
-1. 27 caixas
+d\) 27 caixas
 
 Resposta: D
 
 Habilidades BNCC: EF07MA29, EF07MA31\
 Habilidades SAEB:
 
-* Resolver problemas que envolvam medidas de grandezas (comprimento,
+\- Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais
 
-* Resolver problemas que envolvam área de figuras planas.
+\- Resolver problemas que envolvam área de figuras planas.
 
 A - Errada, pois transformou errado cm² para m².
 
@@ -5862,18 +5862,18 @@ Caixas com 15m² $= \frac{396}{15} = 26,4\ \text{caixas}$
 
 Como não é possível comprar 1,4 caixas, Fernanda deve comprar 27 caixas.
 
-1. O professor de educação física de Mateus montou um treino aeróbico,
+2\) O professor de educação física de Mateus montou um treino aeróbico,
 onde ele deve fazer por 5 dias na semana a sequência: 25 minutos de
 esteira, 15 minutos de bicicleta e 5 minutos de pulo de corda. Assim,
 Mateus faz por semana um treino aeróbico por:
 
-1. 3 horas e 45 minutos
+a\) 3 horas e 45 minutos
 
-1. 3 horas e 35 minutos
+b\) 3 horas e 35 minutos
 
-1. 4 horas e 45 minutos
+c\) 4 horas e 45 minutos
 
-1. 4 horas e 35 minutos
+d\) 4 horas e 35 minutos
 
 Resposta: A
 
@@ -5899,18 +5899,18 @@ C - Errada, pois calculou que $\frac{225}{60} = 4,75$
 D - Errada, pois calculou que
 $\frac{225}{60} = 4,75\ e\ 0,75 \times 60 = 35$.
 
-1. A piscina da casa de Tânia tem medidas iguais à 12 m de comprimento,
+3\) A piscina da casa de Tânia tem medidas iguais à 12 m de comprimento,
 7m de largura e 2,5m de profundidade, e ela precisa contratar caminhões
 pipas para enchê-la. Um caminhão tem capacidade igual a 5000 litros de
 água, logo Tânia precisa contratar:
 
-1. 33 caminhões
+a\) 33 caminhões
 
-1. 34 caminhões
+b\) 34 caminhões
 
-1. 42 caminhões
+c\) 42 caminhões
 
-1. 43 caminhões
+d\) 43 caminhões
 
 Resposta: C\
 Habilidades BNCC: EF07MA29, EF07MA30\
@@ -5945,7 +5945,7 @@ Habilidade BNCC: EF07MA34
 
 Habilidades SAEB:
 
-* Resolver problemas que envolvam a probabilidade de ocorrência de um
+\- Resolver problemas que envolvam a probabilidade de ocorrência de um
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes.
 
@@ -6032,7 +6032,7 @@ irredutível $\frac{1}{13}$.
 
 Atividades:
 
-1. Classifique se os eventos são dependentes ou independentes:
+1\) Classifique se os eventos são dependentes ou independentes:
 
 a)  Um jogador de futebol erra dois chutes a gol.
 
@@ -6051,7 +6051,7 @@ b)  Dependente, pois, quando você for escolher, terão menos opções.
 c)  Dependente, porque quando a próxima pessoa for retirar uma carta,
     terão menos opções.
 
-1. Felipe é muito bom em geografia e as chances de acertar questões em
+2\) Felipe é muito bom em geografia e as chances de acertar questões em
 provas objetivas é de 0,9, ou seja, 90%. Qual a chance de Felipe acertar
 3 questões consecutivas?
 
@@ -6062,7 +6062,7 @@ não influencia na próxima questão, então, utilizando a regra da
 multiplicação,
 temos$:\ P(\ 3\ \text{acertos}\ \text{em}\ \text{quest}õ\text{es}) = \ 0,9 \times 0,9 \times 0,9 = \ 0,729.$
 
-1. Qual a probabilidade que o lançamento de um dado, cair 4 vezes
+3\) Qual a probabilidade que o lançamento de um dado, cair 4 vezes
 seguidas no número 2?
 
 Resposta:
@@ -6077,7 +6077,7 @@ Professor, nesta questão é importante trabalhar com o número decimal e
 ver o quão longe do 1, está, logo, a chance de acontecer é muito
 pequena.
 
-1. Em um sorteio de final de ano em uma empresa, algumas lojas
+4\) Em um sorteio de final de ano em uma empresa, algumas lojas
 ofereceram presentes. Haviam variados tipos de presentes, mas uma loja
 específica, enviou presentes para crianças e adolescentes. Então, a
 empresa foi dividida entre homens que são pais e mulheres que são mães
@@ -6090,24 +6090,24 @@ tabela abaixo:
   Total de concorrentes   23
   ----------------------- ----
 
-1. Qual a chance que seja um homem o ganhador do prêmio?
+a\) Qual a chance que seja um homem o ganhador do prêmio?
 
-1. Dado que uma mulher ganhou o prêmio e tenha mais um prêmio a ser
+b\) Dado que uma mulher ganhou o prêmio e tenha mais um prêmio a ser
 sorteado, qual a chance de um homem ganhar considerando que os nomes que
 já saíram, não concorrem mais?
 
 Resposta:
 
-1. A chance do ganhador ser um homem é de $\frac{15}{23}$
+a\) A chance do ganhador ser um homem é de $\frac{15}{23}$
 
-1. Neste caso, são eventos dependentes, a probabilidade do primeiro
+b\) Neste caso, são eventos dependentes, a probabilidade do primeiro
 evento, que é uma mulher ter ganhado é de P(A)= $\frac{8}{23}$ e a
 probabilidade de um homem ganhar o segundo presente é de
 $P(B|A) = \ \frac{15}{22}$, multiplicando, temos:
 $\frac{8}{23} \times \frac{15}{22} = \frac{120}{506}$ ou a fração
 irredutível $\frac{60}{253}.$
 
-1. Qual a chance de eu virar cartas de um baralho ao acaso, retirar um
+5\) Qual a chance de eu virar cartas de um baralho ao acaso, retirar um
 5, não voltar para o baralho e depois tirar uma dama?
 
 Resposta:
@@ -6118,7 +6118,7 @@ e multiplicar as probabilidades.
 
 $$P\left( A \right) = \frac{4}{52}\ e\ P\left( A \right) = \ \frac{4}{51},\ P\left( A \right)\text{.\ }P\left( A \right) = \ \frac{4}{52} \times \ \frac{4}{51} = \frac{16}{2652}\ \text{ou}\ a\ \text{fra}ção\ \text{irredut}í\text{vel}\ \frac{4}{663}.$$
 
-1. A chance de um processador de 7ª geração estragar antes de um ano de
+6\) A chance de um processador de 7ª geração estragar antes de um ano de
 garantia equivale a 0,2, qual é a chance de dois processadores não
 estragarem nesse um ano?
 
@@ -6130,14 +6130,14 @@ outro também estrague. Se a chance de estragar é 0,2, a de não estragar
 regra da multiplicação,
 $P(2\ \text{processad}\text{ores}\ não\ \text{estragarem}) = \ 0,8.0,8 = \ 0,64,\ \text{ou}\ \text{seja},\ 64\%.$
 
-1. Você joga um dado, calcule a probabilidade de ser um número par.
+7\) Você joga um dado, calcule a probabilidade de ser um número par.
 
 Resposta:
 
 A probabilidade de ser um número par é: 2,4 ou 6. Logo, a probabilidade
 de ser um número par é de $\frac{3}{6}$.
 
-1. Um professor informou aos alunos que apenas 2 pessoas da turma
+8\) Um professor informou aos alunos que apenas 2 pessoas da turma
 haviam tirado notas acima da média. Considerando que na turma há 24
 alunos e o primeiro aluno que viu a nota foi acima da média e o restante
 ainda não viu a nota. Qual a chance de Gabriel ser a segunda nota acima
@@ -6157,7 +6157,7 @@ da pessoa que já foi revelada.
 
 $$P(A).P(B|A) = \ \frac{2}{24} \times \frac{1}{23} = \ \frac{2}{552}\ \text{ou}\ \frac{1}{276}.$$
 
-1. Qual a probabilidade de eu tirar uma carta de um baralho que seja
+9\) Qual a probabilidade de eu tirar uma carta de um baralho que seja
 preta e de ouro sendo que uma carta já foi retirada do baralho e não
 retornada e era vermelha?
 
@@ -6182,14 +6182,14 @@ $$P(A).P(B|A) = \frac{18}{38} \times \frac{17}{37} = \ \frac{306}{1406} = \ \fra
 
 Treino
 
-1. Jogando uma moeda, qual a chance de sair 3 vezes seguidas, a face
+1\) Jogando uma moeda, qual a chance de sair 3 vezes seguidas, a face
 coroa?
 
 a)$\ \frac{3}{8}$
 
-1. $\frac{1}{8}$
+b\) $\frac{1}{8}$
 
-1. $\frac{3}{2}$
+c\) $\frac{3}{2}$
 
 d)$\ \frac{1}{6}$
 
@@ -6218,16 +6218,16 @@ D - Errada, pois multiplicou o número de jogadas pelo número de
 possibilidades em uma moeda, desconsiderando que são eventos
 independentes.
 
-1. Em um globo de bingo existem 75 bolas que são numeradas de 1 a 75.
+2\) Em um globo de bingo existem 75 bolas que são numeradas de 1 a 75.
 Qual a chance de tirar a bola 18, não repor e tirar a bola 4?
 
-1. $\frac{2}{75}$
+a\) $\frac{2}{75}$
 
-1. $\frac{5}{75}$
+b\) $\frac{5}{75}$
 
-1. $\frac{1}{5550}$
+c\) $\frac{1}{5550}$
 
-1. $\frac{1}{74}$
+d\) $\frac{1}{74}$
 
 Resposta: C
 
@@ -6251,17 +6251,17 @@ $P(A).P(A|B) = \ \frac{1}{5550}$.
 D - Errada, retirou uma das bolas do espaço amostral, mas não considerou
 o evento ocorrido anteriormente e dependente.
 
-1. O melhor arremessador do mundo, tem uma porcentagem de erro igual a
+3\) O melhor arremessador do mundo, tem uma porcentagem de erro igual a
 0,18. Qual a chance de o arremessador acertar três arremessos
 consecutivos?
 
-1. Aproximadamente 100%
+a\) Aproximadamente 100%
 
-1. Aproximadamente 21%
+b\) Aproximadamente 21%
 
-1. Aproximadamente 55%
+c\) Aproximadamente 55%
 
-1. Aproximadamente 1%
+d\) Aproximadamente 1%
 
 Resposta: C\
 Habilidade BNCC: EF07MA34\
@@ -6287,20 +6287,20 @@ erro do arremessador seria muito perto de 0,98, ou melhor, 98%.
 
 Simulado 1
 
-1. Sandra e Letícia montaram um percurso cheio de obstáculos, chamaram
+1\) Sandra e Letícia montaram um percurso cheio de obstáculos, chamaram
 seus amigos para completarem o percurso enquanto elas cronometravam para
 ver quem era o mais veloz. Quatro amigos das meninas participaram da
 brincadeira. Respectivamente, Júlio, Tiago, Isabel e Fábio obtiveram os
 tempos: $13,02\  - \ 14,89\  - \ 14,62\  - \ 14,7$. Marque a opção em
 que os tempos são ordenados numa crescente. 
 
-1. Tiago - Fábio- Júlio - Isabel
+a\) Tiago - Fábio- Júlio - Isabel
 
-1. Fábio - Isabel - Júlio - Tiago
+b\) Fábio - Isabel - Júlio - Tiago
 
-1. Júlio - Isabel - Fábio - Tiago
+c\) Júlio - Isabel - Fábio - Tiago
 
-1. Júlio - Isabel - Tiago - Fábio
+d\) Júlio - Isabel - Tiago - Fábio
 
 Resposta: C
 
@@ -6325,17 +6325,17 @@ analisados pelas casas decimais.
 D - Errada, apesar de Júlio e Isabel estarem nas posições corretas, o
 Fábio fez um tempo menor que Tiago, logo, ele não seria o último.
 
-1. A solução para a expressão
+2\) A solução para a expressão
 $17 + ( - 2) \times \left\{ 5 - 9 + 2 \times \left\lbrack 36 \div 4 - \left( 7 \times 3 \right) \right\rbrack \right\}$
 é:
 
-1. -420
+a\) -420
 
-1. 420
+b\) 420
 
-1. - 79
+c\) - 79
 
-1. 73
+d\) 73
 
 Resposta: D
 
@@ -6357,17 +6357,17 @@ D - Correta.
 
 $$17 + ( - 2) \times \left\{ - 4 + 2 \times \left\lbrack 9 - \left( 21 \right) \right\rbrack \right\} = 17 + ( - 2) \times \left\{ - 4 - 24 \right\} = 17 + ( - 2) \times \left( - 28 \right) = 73$$
 
-1. Juliana tem um tio que é 20 anos mais velho que ela. Considerando
+3\) Juliana tem um tio que é 20 anos mais velho que ela. Considerando
 que Leandro foi pai de Juliana com 23 anos e hoje está com 39 anos. Qual
 a idade do tio de Juliana?
 
-1. 36
+a\) 36
 
-1. 22
+b\) 22
 
-1. 25
+c\) 25
 
-1. 35
+d\) 35
 
 Resposta: A
 
@@ -6392,20 +6392,20 @@ condiz com o enunciado.
 D - Errada, se Juliana tivesse 35 anos, seu tio teria 55 anos e não
 condiz com o enunciado.
 
-1. Marcela estava acompanhando o preço de um produto desde janeiro,
+4\) Marcela estava acompanhando o preço de um produto desde janeiro,
 quando ele custava $R\$\ 2.100,00$. Em março ela observou que houve um
 aumento de 10% do valor, mas que logo em maio foi dado um desconto de
 12%. Marcela pretendia comprar o produto em junho, mas quando foi fazer
 a comprar percebeu um novo aumento de 5%, mas teve que comprar mesmo
 assim. Comparado com o preço de janeiro, Marcela comprou o produto com:
 
-1. Aumento de aproximadamente 16%
+a\) Aumento de aproximadamente 16%
 
-1. Desconto de aproximadamente 16%
+b\) Desconto de aproximadamente 16%
 
-1. Aumento de aproximadamente 1,6%
+c\) Aumento de aproximadamente 1,6%
 
-1. Desconto de aproximadamente 1,6%
+d\) Desconto de aproximadamente 1,6%
 
 Resposta: C
 
@@ -6428,7 +6428,7 @@ $$1,1 \times 0,88 \times 1,05 = 1,0164 - 1 = 0,0164\  \cong 1,6\%$$
 D - Errada, fez as contas de forma correta, mas interpretou como
 desconto ao invés de aumento.
 
-1. Rogério, Fernanda, Otávio foram em um rodízio de pizza e comeram o
+5\) Rogério, Fernanda, Otávio foram em um rodízio de pizza e comeram o
 equivalente ao que está pintado na figura. Qual fração representa essa
 quantidade?
 
@@ -6438,13 +6438,13 @@ height="1.7291666666666667in"}
 
 Reproduzir a imagem usando os padrões do material.
 
-1. $\frac{5}{6}$
+a\) $\frac{5}{6}$
 
-1. $3\frac{1}{4}$
+b\) $3\frac{1}{4}$
 
-1. $1\frac{1}{4}$
+c\) $1\frac{1}{4}$
 
-1. $1\frac{4}{4}$
+d\) $1\frac{4}{4}$
 
 Resposta: C
 
@@ -6467,7 +6467,7 @@ D- Errada, pois a representação da parte inteira e da parte decimal,
 corresponde a 1 inteiro, logo 2 inteiros, e na imagem somente um círculo
 está todo pintado.
 
-1. Na aula de matemática de Sofia a professora escreveu a sequência
+6\) Na aula de matemática de Sofia a professora escreveu a sequência
 abaixo no quadro e pediu para os alunos escreverem a lei de formação de
 acordo com a posição dos termos.
 
@@ -6502,18 +6502,18 @@ confere.*\
 *D - Errada, o primeiro termo seria
 $a_{1} = 1\left( 1 - 1 \right) = 1 \times 0 = 0$, o que não confere.
 
-1. Em uma roda de amigos, inventaram uma brincadeira que ganhava o
+7\) Em uma roda de amigos, inventaram uma brincadeira que ganhava o
 primeiro que encontrasse o sete de copas em um baralho. Lucas começou
 jogando e acabou tirando duas cartas e nenhuma era o sete de copas. Qual
 a probabilidade de o próximo jogador ganhar?
 
-1. $\frac{3}{52}$
+a\) $\frac{3}{52}$
 
-1. $\frac{1}{2650}$
+b\) $\frac{1}{2650}$
 
 c)$\ \frac{1}{52}$
 
-1. $\frac{1}{2600}$
+d\) $\frac{1}{2600}$
 
 Resposta: D
 
@@ -6538,17 +6538,17 @@ $$P\left( A \right) = \frac{1}{52};\ P\left( A \right) = \frac{1}{50}\ $$
 
 $$P\left( A \right) \times P\left( A \right) = \frac{1}{52} \times \frac{1}{50} = \frac{1}{2600}$$
 
-1. Um carro gasta em uma viagem 5 horas andando a 120km/h. Porém, o
+8\) Um carro gasta em uma viagem 5 horas andando a 120km/h. Porém, o
 trajeto foi reformado e o limite de velocidade passou a ser de 100km/h.
 Quanto tempo esse carro gastará no trajeto com essa nova velocidade?
 
-1. 5 horas
+a\) 5 horas
 
-1. 6 horas
+b\) 6 horas
 
-1. 4 horas e 9 minutos
+c\) 4 horas e 9 minutos
 
-1. 4 horas e 10 minutos
+d\) 4 horas e 10 minutos
 
 Resposta: B
 
@@ -6570,7 +6570,7 @@ ainda arrendou 4,16 horas para 4 horas e 9 minutos.
 
 D - Errada, pois considerou as grandezas como diretamente proporcional.
 
-1. Em uma pesquisa qualitativa nominal, apresentou-se dados da cor dos
+9\) Em uma pesquisa qualitativa nominal, apresentou-se dados da cor dos
 olhos da amostra escolhida. O gráfico era todo colorido dentro de um
 círculo dividido em fatias. Qual tipo de gráfico é este?
 
@@ -6611,13 +6611,13 @@ height="2.46875in"}
 
 Reproduzir a imagem, mas não mencionar o eixo de reflexão
 
-1. Translação
+a\) Translação
 
-1. Rotação
+b\) Rotação
 
-1. Reflexão
+c\) Reflexão
 
-1. Transfusão 
+d\) Transfusão 
 
 Resposta: C
 
@@ -6724,13 +6724,13 @@ será a maior média. Qual marca eles compraram?
   Honda     8                        3                       7
   --------- ------------------------ ----------------------- ------------------------
 
-1. Yamaha
+a\) Yamaha
 
-1. Suzuki
+b\) Suzuki
 
-1. BMW
+c\) BMW
 
-1. Honda
+d\) Honda
 
 Resposta: A
 
@@ -6754,13 +6754,13 @@ $Mé\text{dia}\ \text{Honda} = \ \frac{8 + 3 + 7}{3} = 6$
 14\) Um recipiente de formato cúbico tem aresta de tamanho 9m, assim a
 capacidade desse recipiente é de:
 
-1. 729 litros
+a\) 729 litros
 
-1. 7.290 litros
+b\) 7.290 litros
 
-1. 72.900 litros
+c\) 72.900 litros
 
-1. 729.000 litros
+d\) 729.000 litros
 
 Resposta: D
 
@@ -6783,13 +6783,13 @@ $1m^{3} = \ 1000\ L \rightarrow \ 729\ m³\  = \ 729.000$ litros.
 15\) Considerando a expressão algébrica $5c = d$, o valor de c para
 $d = 75\ $é:
 
-1. $70$
+a\) $70$
 
-1. $375$
+b\) $375$
 
 c)$\ 80$
 
-1. $15$
+d\) $15$
 
 Resposta: D
 
@@ -6815,19 +6815,19 @@ $$5c = d\  \rightarrow \ 5c = 75\  \rightarrow \ c = \frac{75}{5} = 15$$
 
 Simulado 2
 
-1. Marcela vai fazer uma viagem para o exterior e precisa levar pelo
+1\) Marcela vai fazer uma viagem para o exterior e precisa levar pelo
 menos 300 combinações diferentes de looks para um ensaio fotográfico. Na
 separação de roupas ela escolheu 5 blusas, 4 calças, 3 saias, 2 sapatos
 e 3 blusas de frio. Usando essas opções Marcela vai conseguir a
 quantidade de looks diferentes que precisa?
 
-1. Sim, ainda vão sobrar 60 combinações de roupa.
+a\) Sim, ainda vão sobrar 60 combinações de roupa.
 
-1. Não, ainda vão faltar 60 combinações de roupa.
+b\) Não, ainda vão faltar 60 combinações de roupa.
 
-1. Não, ainda vão faltar 180 combinações de roupa..
+c\) Não, ainda vão faltar 180 combinações de roupa..
 
-1. Não, ela vai ter apenas 17 combinações possíveis de roupa.
+d\) Não, ela vai ter apenas 17 combinações possíveis de roupa.
 
 Resposta: A
 
@@ -6853,18 +6853,18 @@ multiplicar por 3 uma vez.
 
 D - Errada, pois somou as opções de escolha ao invés de multiplicar.
 
-1. Mateus está vendendo seu telefone com 1 ano de uso e fazendo uma
+2\) Mateus está vendendo seu telefone com 1 ano de uso e fazendo uma
 pesquisa ele descobriu que o preço desvalorizou 20% em relação ao que
 ele havia pago. Sabendo que ele pagou R\$ 1800,00 no celular e vendeu
 com a desvalorização, ele vendeu por:
 
-1. R\$ 1780,00
+a\) R\$ 1780,00
 
-1. R\$ 1440,00
+b\) R\$ 1440,00
 
-1. R\$ 360,00
+c\) R\$ 360,00
 
-1. R\$ 1400,00
+d\) R\$ 1400,00
 
 Resposta: B
 
@@ -6888,16 +6888,16 @@ final.
 
 D - Errada, pois ao fazer 1800 - 360 encontrou 1400 ao invés de 1440.
 
-1. Considerando a sequência dada por $a_{n} = n²(n + 1)$, uma sequência
+3\) Considerando a sequência dada por $a_{n} = n²(n + 1)$, uma sequência
 que é equivalente a ela é:
 
-1. $a_{n} = n³(n + 1)$
+a\) $a_{n} = n³(n + 1)$
 
-1. $a_{n} = n(n² + 1)$
+b\) $a_{n} = n(n² + 1)$
 
-1. $a_{n} = n^{3} + n²$
+c\) $a_{n} = n^{3} + n²$
 
-1. $a_{n} = \ n³ + 1$
+d\) $a_{n} = \ n³ + 1$
 
 Resposta: C
 
@@ -6917,19 +6917,19 @@ $n^{2}\left( n + 1 \right) = n^{3} + n^{2}.$
 
 D - Errada, ao fazer a distributiva multiplicou o n apenas pelo n².
 
-1. Giovanna está estudando mapas na aula de Geografia e a professora
+4\) Giovanna está estudando mapas na aula de Geografia e a professora
 começou a discutir escala. Giovanna lembrou que já havia aprendido isso
 na aula de matemática e facilmente encontrou a escala do mapa dado pela
 professora. As instruções eram de que 10 cm no desenho correspondiam a
 10 km do real, assim a escala encontrada por Giovanna foi:
 
-1. $1\ :10$
+a\) $1\ :10$
 
-1. $10\ :100000$
+b\) $10\ :100000$
 
-1. $1\ :1000000$
+c\) $1\ :1000000$
 
-1. $1\ :100000$
+d\) $1\ :100000$
 
 Resposta: D
 
@@ -6953,17 +6953,17 @@ mesma unidade de medida, temos
 
 $$\frac{\text{desen}ho}{\text{real}} = \frac{10\text{cm}}{10\text{km}} = \frac{10}{1000000} = \frac{1}{100000}$$
 
-1. Um marceneiro está construindo uma mesa de madeira e precisa decidir
+5\) Um marceneiro está construindo uma mesa de madeira e precisa decidir
 qual será o formato dos pés da mesa. Sabendo que ele optou pelo formato
 com maior rigidez, os pés vão ter uma forma:
 
-1. circular
+a\) circular
 
-1. triangular
+b\) triangular
 
-1. retangular
+c\) retangular
 
-1. hexagonal
+d\) hexagonal
 
 Resposta: B\
 Habilidade BNCC: EF07MA25 \
@@ -6980,7 +6980,7 @@ frequência no dia a dia.\
 D - Errada, pois considerou o hexágono com maior rigidez que o
 triângulo.
 
-1. Para construir um quadrado de lado 3cm, saindo do ponto A e passando
+6\) Para construir um quadrado de lado 3cm, saindo do ponto A e passando
 no ponto C e sabendo que a distância entre os números é 0,5cm, a
 trajetória percorrida será:
 
@@ -6992,7 +6992,7 @@ height="2.09375in"}
 Fazer uma imagem como essa retirando as linhas que formam o quadrado, o
 ponto d e o ponto b.
 
-1. 6 espaços para cima, 6 para a direita, 6 para a direita e 6 para a
+a\) 6 espaços para cima, 6 para a direita, 6 para a direita e 6 para a
 esquerda.\
 b) 3 espaços para cima, 3 para a direita, 3 para a direita e 3 para a
 esquerda\
@@ -7021,7 +7021,7 @@ a esquerda.\
 D - Errada, pois no vértice B ao invés de seguir para a direita foi para
 a esquerda.
 
-1. Na aula de Geometria, o professor de Paulo pediu para que eles
+7\) Na aula de Geometria, o professor de Paulo pediu para que eles
 escolhessem um objeto em casa como formato de bloco retangular,
 calculassem as medidas dos lados e depois, seu volume. Paulo resolveu
 pegar uma caixa de pasta de dente com as medidas abaixo:
@@ -7034,7 +7034,7 @@ Fazer uma imagem como a acima com as mesmas medidas.
 
 O volume encontrado por Paulo foi de:
 
-1. 24 cm³\
+a\) 24 cm³\
 b) 24 cm²\
 c) 420 cm³\
 d) 420 cm²
@@ -7057,7 +7057,7 @@ lados, temos que $V = 12 \times 7 \times 5 = 420\text{cm}³$.
 D - Errada, apesar do valor do volume ter sido calculado corretamente a
 unidade de medida foi colocada errada.
 
-1. Fagner percebeu que os rendimentos da sua lanchonete caíram. Para
+8\) Fagner percebeu que os rendimentos da sua lanchonete caíram. Para
 tomar uma medida, Fagner fez um perfil em um aplicativo de satisfação do
 cliente, para ver como os clientes enxergam o atendimento do
 estabelecimento. O aplicativo gera um gráfico. Marque a alternativa
@@ -7070,14 +7070,14 @@ height="1.8912346894138232in"}
 Reproduzir o gráfico mudando de "satisfação dos consumidores do produto
 A" para "satisfação dos clientes" onde é 25% mudar para 15%.
 
-1. Os clientes não gostam do atendimento, pois 75% estão insatisfeitos.
+a\) Os clientes não gostam do atendimento, pois 75% estão insatisfeitos.
 
-1. O atendimento pode melhorar pois, somente 10% estão muito
+b\) O atendimento pode melhorar pois, somente 10% estão muito
 satisfeitos.
 
-1. Eles não gostam muito do atendimento, pois, 25% estão insatisfeitos
+c\) Eles não gostam muito do atendimento, pois, 25% estão insatisfeitos
 
-1. Eles gostam muito, porque 15% estão muito satisfeitos
+d\) Eles gostam muito, porque 15% estão muito satisfeitos
 
 Resposta: B
 
@@ -7097,7 +7097,7 @@ C - Errada, 25% é a soma dos clientes muito satisfeitos e insatisfeitos.
 
 D - Errada, pois 15% dos clientes estão insatisfeitos.
 
-1. Dia de quinta-feira é dia de jogar RPG na casa de Pedro.
+9\) Dia de quinta-feira é dia de jogar RPG na casa de Pedro.
 Considerando que um dado de RPG tem 12 lados, qual a chance de Pedro
 tirar 2 vezes seguidas o número 4?
 
@@ -7164,13 +7164,13 @@ de outro.
 11\) A idade de Alice triplicada e somada a 19 é igual a 40. Qual a
 idade de Alice?
 
-1. 3
+a\) 3
 
-1. 7
+b\) 7
 
-1. 20
+c\) 20
 
-1. 40
+d\) 40
 
 Resposta: B
 
@@ -7194,13 +7194,13 @@ $$3x + 19 = 40 \rightarrow \ 3x = 40 - 19 \rightarrow 3x = 21 \rightarrow \ x = 
 balé com os pés, que é em formato de V e é igual a abertura de um arco,
 se o ângulo aberto é de 30º, quanto vale o arco correspondente?
 
-1. 15º
+a\) 15º
 
-1. 17º
+b\) 17º
 
-1. 30º
+c\) 30º
 
-1. 60º
+d\) 60º
 
 Resposta: C
 
@@ -7228,13 +7228,13 @@ automaticamente](./imgSAEB_7_MAT/media/image101.png){width="1.7138167104111985in
 height="1.8280708661417322in"}\
 Inserir uma imagem como essa.
 
-1. Translação
+a\) Translação
 
-1. Rotação
+b\) Rotação
 
-1. Reflexão
+c\) Reflexão
 
-1. Imersão
+d\) Imersão
 
 Resposta: B
 
@@ -7257,25 +7257,25 @@ D - Errada, imersão não uma transformação geométrica.
 primeiro grau, o gráfico de Fernanda tem que parecer com qual dos
 gráficos abaixo?
 
-1. ![Uma imagem contendo Diagrama Descrição gerada
+a\) ![Uma imagem contendo Diagrama Descrição gerada
 automaticamente](./imgSAEB_7_MAT/media/image102.png){width="1.3958333333333333in"
 height="1.1666666666666667in"}
 
 Reproduzir a imagem de acordo com os padrões do material.
 
-1. ![Diagrama Descrição gerada
+b\) ![Diagrama Descrição gerada
 automaticamente](./imgSAEB_7_MAT/media/image103.png){width="1.7708333333333333in"
 height="1.1354166666666667in"}
 
 Reproduzir a imagem de acordo com os padrões do material.
 
-1. ![Gráfico Descrição gerada automaticamente com confiança
+c\) ![Gráfico Descrição gerada automaticamente com confiança
 média](./imgSAEB_7_MAT/media/image104.png){width="1.6875in"
 height="1.28125in"}
 
 Reproduzir a imagem de acordo com os padrões do material.
 
-1. ![](./imgSAEB_7_MAT/media/image105.png){width="1.6507195975503062in"
+d\) ![](./imgSAEB_7_MAT/media/image105.png){width="1.6507195975503062in"
 height="1.3152077865266842in"}
 
 Reproduzir a imagem de acordo com os padrões do material.
@@ -7298,13 +7298,13 @@ D - Correta: Uma reta.
 15\) Considerando a expressão algébrica $s - 15 = 2t$, o valor de s para
 $t = 8\ $é:
 
-1. $- 5$
+a\) $- 5$
 
-1. $25$
+b\) $25$
 
 c)$\ 31$
 
-1. $1$
+d\) $1$
 
 Resposta: C
 
@@ -7329,7 +7329,7 @@ D - Errada, pois ao invés de fazer 16 + 15, fez 16-15.
 
 Simulado 3
 
-1. Fabrício colocou em uma tabela, o lucro de todos os dias da semana
+1\) Fabrício colocou em uma tabela, o lucro de todos os dias da semana
 do restaurante em que é dono. Temos que o lucro foi superior a 400
 reais, quais dias da semana?
 
@@ -7344,13 +7344,13 @@ reais, quais dias da semana?
   Domingo          700
   ---------------- -------
 
-1. Quarta feira, Sábado e Domingo.
+a\) Quarta feira, Sábado e Domingo.
 
 b)Somente domingo
 
-1. Segunda feira, Quarta, Domingo
+c\) Segunda feira, Quarta, Domingo
 
-1. Terça feira, Sexta-feira
+d\) Terça feira, Sexta-feira
 
 Resposta: A
 
@@ -7373,16 +7373,16 @@ C - Errada, na segunda-feira lucrou 100, o que é menos que 400.
 D - Errada, terça-feira e nem sexta feira tiveram lucros maiores que
 400.
 
-1. No intervalo Luana e Gabriel estavam brincando de lançar uma moeda.
+2\) No intervalo Luana e Gabriel estavam brincando de lançar uma moeda.
 Qual a chance de Luana lançar a moeda e cair duas vezes cara?
 
 a)$\ \frac{1}{2}$
 
-1. $\frac{2}{4}$
+b\) $\frac{2}{4}$
 
 c)$\frac{1}{8}$
 
-1. $\frac{1}{4}$
+d\) $\frac{1}{4}$
 
 Resposta: D
 
@@ -7403,12 +7403,12 @@ D - Correta.\
 São eventos independentes, logo
 $P\left( A \right) \times P\left( B \right) = \frac{1}{2}\  \times \frac{1}{2} = \frac{1}{4}$.
 
-1. Fim de ano, os paraninfos sempre levam os formandos para um rodízio
+3\) Fim de ano, os paraninfos sempre levam os formandos para um rodízio
 de pizza, se esse ano foram 31 alunos e foram consumidas 8 pizzas de 8
 pedaços cada e outros 2 pedaços de outra pizza, como podemos representar
 em fração?
 
-1. $\frac{1}{8}$
+a\) $\frac{1}{8}$
 
 b)$\ 4\frac{1}{3}$
 
@@ -7435,10 +7435,10 @@ pedaços de 8 pedaços.
 D - Errada, essa fração corresponde a 7 pizzas inteiras e metade de
 outra.
 
-1. Pensei em um número. Multipliquei por 3 e somei com 70, o resultado
+4\) Pensei em um número. Multipliquei por 3 e somei com 70, o resultado
 foi 103. Qual o número?
 
-1. 12\
+a\) 12\
 b) 11\
 c) 20\
 d) 103
@@ -7458,18 +7458,18 @@ C - Errada, se o número fosse 20, a soma teria que ser 130.
 
 D - Errada, se o número fosse 103, a soma teria que ser 379.
 
-1. Fizemos um círculo e estou na borda do círculo segurando a dobra de
+5\) Fizemos um círculo e estou na borda do círculo segurando a dobra de
 um varal de abertura 40°. Se mais dois amigos, estão segurando as pontas
 do varal, com uma abertura em V, simulando o arco de um raio, qual a
 amplitude desse raio?
 
-1. 10º
+a\) 10º
 
-1. 20º
+b\) 20º
 
-1. 80º
+c\) 80º
 
-1. 120º
+d\) 120º
 
 Resposta: C
 
@@ -7491,12 +7491,12 @@ do arco é o dobro.
 
 D - Errada, o arco não é multiplicado por 3.
 
-1. Dois corredores estão treinando na mesma pista de corrida e saem da
+6\) Dois corredores estão treinando na mesma pista de corrida e saem da
 linha de partida ao mesmo tempo. Sabendo que um corre toda a pista em 15
 minutos e outro corre em 25 minutos, depois de quanto tempo eles se
 encontram novamente na linha de partida?
 
-1. 5 minutos\
+a\) 5 minutos\
 b) 40 minutos.\
 c) 1 hora e 5 minutos\
 d) 1 hora e 15 minutos
@@ -7524,11 +7524,11 @@ mínimo múltiplo comum. Assim, calculando o M.M.C dos tempos temos:
 Logo, os atletas se encontram depois de 75 minutos, ou seja, 1 hora e 15
 minutos.
 
-1. A porcentagem possui diversas representações, a percentual, a
+7\) A porcentagem possui diversas representações, a percentual, a
 fracionária e a decimal. Considerando a porcentagem 25,3% as suas
 representações são:
 
-1. $2,53\ e\frac{253}{100}$\
+a\) $2,53\ e\frac{253}{100}$\
 b) $0,253\ e\frac{253}{1000}$\
 c) $0,253\ e\frac{253}{100}$\
 d) $2,53\ e\frac{253}{1000}$\
@@ -7550,11 +7550,11 @@ representação fracionária ao andar com a vírgula.
 D - Errada, pois esqueceu que se temos três 0 no denominador da fração,
 temos 3 casas decimais.
 
-1. A corrida de um táxi na cidade de São Paulo custa R\$1,50 por km
+8\) A corrida de um táxi na cidade de São Paulo custa R\$1,50 por km
 rodado mais a bandeira de R\$ 6,50. Uma pessoa que pagou R\$ 18,50 por
 uma corrida percorreu um total de:
 
-1. $18\ \text{km}$\
+a\) $18\ \text{km}$\
 b)$\ 16,6\ \text{km}$\
 c) $12,3\ \text{km}$\
 d) $8\ \text{km}$\
@@ -7574,12 +7574,12 @@ maneira geral que a corrida custa $c = 1,5q + 6,5$. Assim,
 
 $$18,5 = 1,5q + 6,5 \rightarrow 1,5q = 12 \rightarrow \ q = \frac{12}{1,5} \rightarrow \ \ q = 8\text{km}$$
 
-1. No atendimento do caixa de um banco um atendente, que faz saque de
+9\) No atendimento do caixa de um banco um atendente, que faz saque de
 salários, gasta 1 horas e 40 minutos para atender 12 clientes. No quinto
 dia útil o atendimento acaba sendo maior, então para atender 18
 clientes, o atendente vai gastar:
 
-1. 2 horas e 30 minutos\
+a\) 2 horas e 30 minutos\
 b) 1 hora e 30 minutos\
 c) 1 hora e 7 minutos\
 d) 1 hora e 50 minutos
@@ -7615,7 +7615,7 @@ height="1.8958333333333333in"}\
 Fazer uma imagem como essa trocando $x + 75{^\circ}$ por
 $x + 105{^\circ}$
 
-1. $15{^\circ}$\
+a\) $15{^\circ}$\
 b) $30{^\circ}$\
 c) $150{^\circ}$\
 d) $45{^\circ}$
@@ -7653,7 +7653,7 @@ height="2.48457239720035in"}
 
 Fazer uma imagem igual a essa tirando os pontos A, B, E.
 
-1. (-2, 1)\
+a\) (-2, 1)\
 b) (-2, 2)\
 c) (0, 2)\
 d) (-1, 2)
@@ -7689,7 +7689,7 @@ height="1.7708333333333333in"}\
 Fazer uma imagem como essa colocando $a = 10m,\ b = 6m,\ B = 18m$ e o c
 só apagar.
 
-1. $120m$\
+a\) $120m$\
 b) $120m²$\
 c) $240m²$\
 d) $240m$
@@ -7722,13 +7722,13 @@ os ângulos de visão, só que sem utilizar da simetria dos pares
 ordenados, com duas unidades para cima, qual transformação geométrica
 ocorrerá?
 
-1. Translação
+a\) Translação
 
-1. Rotação
+b\) Rotação
 
-1. Reflexão
+c\) Reflexão
 
-1. Imersão
+d\) Imersão
 
 Resposta: A
 
@@ -7752,13 +7752,13 @@ D - Errada, a imersão não é uma transformação geométrica.
 completaram as provas, respectivamente nos seguintes tempos: 7,573
 -7,563- 7,482-7,568. Quem foi o terceiro colocado entre eles?
 
-1. Yan
+a\) Yan
 
-1. Renato
+b\) Renato
 
-1. Cristian
+c\) Cristian
 
-1. Rafael
+d\) Rafael
 
 Resposta: D
 
@@ -7782,13 +7782,13 @@ D - Correta: Rafael é o terceiro colocado.
 15\) Considerando a expressão algébrica $x - y + 20 = 0$, o valor de x
 para $y = \  - 2\ $é:
 
-1. $22$
+a\) $22$
 
-1. $- 22$
+b\) $- 22$
 
-1. $- 18$
+c\) $- 18$
 
-1. $18$
+d\) $18$
 
 Resposta: B
 
@@ -7816,16 +7816,16 @@ operação do 18 que encontrou ao mudar de lado na igualdade.
 
 Simulado 4
 
-1. Em uma corrida, o primeiro lugar ganhou com diferença de 0,035 de
+1\) Em uma corrida, o primeiro lugar ganhou com diferença de 0,035 de
 tempo para o segundo lugar. A diferença de tempo por extenso é:
 
 a) 35 segundos
 
-1. 35 milésimos de segundos
+b\) 35 milésimos de segundos
 
-1. 35 centésimos de segundos 
+c\) 35 centésimos de segundos 
 
-1. 35 minutos
+d\) 35 minutos
 
 Resposta: B 
 
@@ -7844,20 +7844,20 @@ a vírgula.
 
 D - Errada, 3 minutos é um número inteiro.
 
-1. A data para eleição do novo diretor da escola foi marcada para o
+2\) A data para eleição do novo diretor da escola foi marcada para o
 final do mês de novembro. A escola possui 9 turmas e somente uma turma
 de 9º ano que ainda não podem votar. Duas alunas tiveram a ideia de
 pesquisar a intenção de voto de algumas pessoas, e a pesquisa delas
 angariou a opinião de 3 turmas completas. Marque a opção que indica,
 respectivamente, a população e a amostra dessa pesquisa. 
 
-1. 9 turmas, 3 turmas
+a\) 9 turmas, 3 turmas
 
-1. 3 turmas, 9 turmas
+b\) 3 turmas, 9 turmas
 
-1. 8 turmas, 3 turmas
+c\) 8 turmas, 3 turmas
 
-1. 3 turmas, 8 turmas
+d\) 3 turmas, 8 turmas
 
 Resposta: C
 
@@ -7878,16 +7878,16 @@ e a amostra 3 turmas.
 
 D - Errada, o valor da amostra e população estão invertidos.
 
-1. Ana Clara encheu $\frac{4}{8}$ do galão de água da casa dela. É a
+3\) Ana Clara encheu $\frac{4}{8}$ do galão de água da casa dela. É a
 mesma coisa que encher:
 
-1. Metade
+a\) Metade
 
-1. Inteiro
+b\) Inteiro
 
-1. $\frac{1}{4}$
+c\) $\frac{1}{4}$
 
-1. Faltou $\frac{1}{3}$
+d\) Faltou $\frac{1}{3}$
 
 Resposta: A
 
@@ -7905,16 +7905,16 @@ C - Errada, a fração irredutível foi encontrada errada.
 D - Errada, a fração que representa o faltante é os outros
 $\frac{4}{8}$.
 
-1. Yuri pensou em um número que se somar com 1200 é igual a quatro
+4\) Yuri pensou em um número que se somar com 1200 é igual a quatro
 vezes o próprio número que ele pensou. O número que Yuri pensou é o:
 
-1. 355
+a\) 355
 
-1. 400
+b\) 400
 
-1. 200
+c\) 200
 
-1. 420
+d\) 420
 
 Resposta: B
 
@@ -7934,7 +7934,7 @@ quádruplo e sim, 1400, que é diferente a 800.
 D - Errada, se o número fosse 420, ao somar com 1200, não encontra seu
 quádruplo e sim, 1620, que é diferente a 260.
 
-1. Marque a alternativa correta do valor de β.
+5\) Marque a alternativa correta do valor de β.
 
 ![Fundo preto com letras brancas Descrição gerada
 automaticamente](./imgSAEB_7_MAT/media/image108.png){width="1.3909722222222223in"
@@ -7942,13 +7942,13 @@ height="1.4090277777777778in"}
 
 Reproduzir a imagem no valor 38º, indicar a letra O e mudar para 25º.
 
-1. 25º
+a\) 25º
 
-1. 50º
+b\) 50º
 
-1. 12,5º
+c\) 12,5º
 
-1. 100º
+d\) 100º
 
 Resposta: B
 
@@ -7970,16 +7970,16 @@ C - Errada, o ângulo central, não vale $\frac{1}{4}$ do seu arco.
 
 D - Errada, o ângulo não é o dobro do seu arco.
 
-1. A transformação geométrica que ocorre com objetos bidimensionais se
+6\) A transformação geométrica que ocorre com objetos bidimensionais se
 posicionar um espelho perpendicular a folha é:
 
-1. Rotação
+a\) Rotação
 
-1. Reflexão
+b\) Reflexão
 
-1. Translação
+c\) Translação
 
-1. Inchaço 
+d\) Inchaço 
 
 Resposta: B
 
@@ -8007,13 +8007,13 @@ height="1.573611111111111in"}
 
 Reproduzir imagem de acordo com o padrão do material.
 
-1. Entre o 5 e o 6
+a\) Entre o 5 e o 6
 
-1. Entre o 9 e o 10
+b\) Entre o 9 e o 10
 
-1. Próximo ao 1
+c\) Próximo ao 1
 
-1. Entre o 6 e o 7
+d\) Entre o 6 e o 7
 
 Resposta: D
 
@@ -8035,13 +8035,13 @@ D - Correta: Analisando a fração como divisão temos que o 3 está dentro
 do 9 mais ou menos 6 vezes, logo a fração é maior do que 6 e menor do
 que 7.
 
-1. Marcos está montando uma lembrança para seus alunos e resolveu fazer
+8\) Marcos está montando uma lembrança para seus alunos e resolveu fazer
 saquinhos com doce. Ele comprou 75 balas, 60 pirulitos e 45 chocolates e
 quer dividi-los com a maior quantidade possível de cada doce por
 lembrancinha. Assim, em cada saquinho vão ter uma quantidade de doces
 iguais a:
 
-1. 5\
+a\) 5\
 b) 8\
 c) 15\
 d) 20
@@ -8075,14 +8075,14 @@ Logo, em cada saquinho terá 15 doces.
 D - Errada, pois ao fatorar considerou que usaria todos os fatores como
 se fosse M.M.C e além disso, somou todos eles.
 
-1. Larissa decidiu comprar um vídeo game de presente para seu sobrinho
+9\) Larissa decidiu comprar um vídeo game de presente para seu sobrinho
 e fazendo uma pesquisa na internet encontrou um valor de R\$3500,00 com
 desconto de 5% à vista. Ela já havia procurado na sua cidade e
 encontrado o mesmo aparelho por R\$3800,00 com desconto de 10% à vista.
 Sabendo que a loja virtual cobra um frete de R\$35,00 e que Larissa vai
 comprar à vista, a melhor opção dela é:
 
-1. Na loja virtual, pagando R\$3360,00\
+a\) Na loja virtual, pagando R\$3360,00\
 b) Na loja virtual, pagando R\$3325,00\
 c) Na loja física, pagando R\$3360,00\
 d) Na loja física, pagando R\$3420,00
@@ -8117,7 +8117,7 @@ $$\text{II}.\ ( - 3,\  - 5\ , - \ 7,\  - 9,\  - 11,\ \ldots)$$
 
 $$\text{III}.\ (2,\ 3,\ 5,\ 7,\ 11,\ \ldots)$$
 
-1. Recursiva, não recursiva, recursiva\
+a\) Recursiva, não recursiva, recursiva\
 b) Recursiva, recursiva, recursiva\
 c) Recursiva, não recursiva, não recursiva\
 d) Recursiva, recursiva, não recursiva
@@ -8150,13 +8150,13 @@ abaixo é respectivamente:
 
 $$\frac{x}{42} = \frac{y}{16} = \frac{z}{18}$$
 
-1. 84, 32, 36
+a\) 84, 32, 36
 
-1. 21, 8, 9
+b\) 21, 8, 9
 
-1. 84, 36, 32
+c\) 84, 36, 32
 
-1. 21, 9, 8
+d\) 21, 9, 8
 
 Resposta: B
 
@@ -8189,7 +8189,7 @@ height="1.9166666666666667in"}\
 Fazer uma imagem como essa trocando $2x + 50{^\circ}\ $ por
 $x + 25{^\circ}$ e $3x + 5{^\circ}\ $ por $3x + 15{^\circ}$.
 
-1. $30{^\circ}\ e\ 30{^\circ}$\
+a\) $30{^\circ}\ e\ 30{^\circ}$\
 b) $60{^\circ}\ e\ 105{^\circ}$\
 c) $60{^\circ}\ e\ 120{^\circ}$\
 d) $60{^\circ}\ e\ 53{^\circ}$
@@ -8226,7 +8226,7 @@ height="2.48457239720035in"}
 
 Fazer uma imagem igual a essa tirando os pontos A, D, E.
 
-1. (1, 2)\
+a\) (1, 2)\
 b) (2, 1)\
 c) (1, 1)\
 d) (2, 2)
@@ -8261,7 +8261,7 @@ height="2.1875in"}
 
 Fazer uma imagem como essa.
 
-1. 131 cm²\
+a\) 131 cm²\
 b) 190 cm²\
 c) 146 cm²\
 d) 175 cm²
@@ -8300,13 +8300,13 @@ dividir por 2.
 15\) Considerando a expressão algébrica $2a + 8 - 3b = 5$, o valor de b
 para $a = - 3\ $é:
 
-1. $- 1$
+a\) $- 1$
 
-1. $1$
+b\) $1$
 
-1. $3$
+c\) $3$
 
-1. $- \frac{7}{3}$
+d\) $- \frac{7}{3}$
 
 Resposta: A
 
