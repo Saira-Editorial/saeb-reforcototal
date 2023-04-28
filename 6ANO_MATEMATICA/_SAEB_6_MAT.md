@@ -1,4 +1,4 @@
-\num{} 1
+\num{1}
 
 BNCC: EF06MA01 EF06MA05
 
@@ -419,7 +419,7 @@ e considerar que o valor correto é esse.
 Alternativa D: O aluno pode considerar que a letra D signifique
 Duzentos, logo o resultado seria esse.
 
-\num{} 2
+\num{2}
 
 BNCC: EF06MA06 EF06MA07 EF06MA10 EF06MA11 EF07MA04 EF08MA01 EF08MA02
 EF08MA03 EF09MA03 EF09MA04
