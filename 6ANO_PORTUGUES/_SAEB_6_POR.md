@@ -1,6 +1,6 @@
 SAEB -- LÍNGUA PORTUGUESA -- 6º ANO
 
-MÓDULO 1: O que eu penso também tem valor
+# MÓDULO 1: O que eu penso também tem valor
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -105,7 +105,7 @@ de Vitória. Disponível em: \<
 <https://www.vitoria.es.gov.br/noticia/estudantes-escrevem-carta-com-sugestoes-para-a-cidade-e-entregam-ao-prefeito-44202>\>.
 Acesso em: 14 fev. 2023. Adaptado.)
 
-1\. O texto noticia a redação de uma carta de reclamação, por parte de
+\num{1} O texto noticia a redação de uma carta de reclamação, por parte de
 estudantes de uma escola municipal de Maruípe, em Vitória (ES),
 destinada ao prefeito da cidade. Qual é o objetivo da carta?
 
@@ -113,7 +113,7 @@ Resposta: O objetivo era demonstrar situações preocupantes no município,
 do ponto de vista dos alunos, e sugestões de melhoria propostas por
 eles.
 
-2\. Qual argumento os(as) estudantes utilizam para justificar sua
+\num{2} Qual argumento os(as) estudantes utilizam para justificar sua
 preocupação com os alagamentos na escola? De que maneira eles(as) sabem
 desse tipo de informação?
 
@@ -122,7 +122,7 @@ podem estar presentes na água do esgoto. Segundo a carta, eles
 aprenderam que esses alagamentos acontecem devido ao lixo que as pessoas
 jogam na rua.
 
-3\. Qual é a tese proposta pelos(as) estudantes como possível solução
+\num{3} Qual é a tese proposta pelos(as) estudantes como possível solução
 para os alagamentos na escola? O que justifica essa escolha?
 
 Resposta: Os(as) estudantes propõem que o prefeito invista em
@@ -130,7 +130,7 @@ conscientização sobre coleta seletiva, pois, dessa forma, as pessoas
 saberiam melhor a destinação do lixo, reduzindo a possibilidade de o
 jogarem incorretamente na rua.
 
-4\. No último parágrafo, a jornalista afirma que "o amor pelos animais
+\num{4} No último parágrafo, a jornalista afirma que "o amor pelos animais
 também foi um tópico tratado na carta". Com base na leitura desse
 parágrafo, é possível afirmar que a solicitação dos(as) estudantes foi
 feita com base em um argumento lógico ou emotivo? Justifique sua
@@ -172,7 +172,7 @@ Cinema. Disponível em:
 \<<https://www.papodecinema.com.br/filmes/turma-da-monica-lacos/>\>.
 Acesso em: 22 fev. 2023. Fragmento.)
 
-5\. Assinale verdadeiro (V) ou falso (F) para as afirmações a seguir.
+\num{5} Assinale verdadeiro (V) ou falso (F) para as afirmações a seguir.
 
 ( ) A resenha tenta convencer o(a) leitor(a) a assistir ao filme.
 
@@ -230,14 +230,14 @@ divertir.
 Conforme explica o último parágrafo, o diretor resgata uma infância com
 sabor nostálgico de passado, sem a mediação de dispositivos eletrônicos.
 
-6\. De que maneira o(a) leitor(a) do texto percebe que o autor da
+\num{6} De que maneira o(a) leitor(a) do texto percebe que o autor da
 crítica gostou do filme?
 
 Resposta: O autor da resenha utiliza adjetivos positivos sobre a obra,
 ou seja, fala bem das cenas, do visual, do comportamento das personagens
 e até mesmo do diretor do filme.
 
-7\. Retire do texto ao menos dois trechos que demonstram o
+\num{7} Retire do texto ao menos dois trechos que demonstram o
 posicionamento do autor da resenha em relação ao filme *Turma da Mônica:
 Laços*.
 
@@ -285,7 +285,7 @@ dezembro de 2020. Disponível em:\<
 <https://www.marinacolasanti.com/2020/12/nadar-contra-e-impossivel.html>\>.
 Acesso em: 22 fev. 2023. Fragmento.)
 
-8\. Segundo a autora, as pessoas não conseguem parar de utilizar o
+\num{8} Segundo a autora, as pessoas não conseguem parar de utilizar o
 celular por que estão viciadas. Qual argumento ela utiliza para
 justificar essa afirmação?
 
@@ -293,13 +293,13 @@ Resposta: A autora utiliza um dado científico. Ela explica o conceito de
 adrenalina, um hormônio que transmite prazer intenso. Segundo ela,
 quando a pessoa utiliza o celular, ela libera adrenalina.
 
-9\. A autora se mostra indignada com o fato de o vício em celulares não
+\num{9} A autora se mostra indignada com o fato de o vício em celulares não
 ser combatido. Por que, de acordo com o texto, isso acontece?
 
 Resposta: Porque esse tipo de vício passa tão batido no dia a dia que
 sequer é considerado um vício.
 
-10\. A que conclusão a autora chega, ao final de sua crônica?
+\num{10} A que conclusão a autora chega, ao final de sua crônica?
 
 Resposta: A autora conclui que mesmo com todos os problemas causados
 pelo vício em celulares, é impossível ir contra esse tipo de evolução
@@ -365,7 +365,7 @@ BNCC: EF67LP05
 
 Nível: fácil.
 
-2\. Observe a imagem a seguir.
+\num{2} Observe a imagem a seguir.
 
 ![Interface gráfica do usuário, Aplicativo, Teams Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image1.png){width="5.905555555555556in"
@@ -424,7 +424,7 @@ BNCC: EF67LP07
 
 Nível de dificuldade: médio.
 
-3\. *Nunca subestime uma mulherzinh*a é uma reunião de contos e crônicas
+\num{3} *Nunca subestime uma mulherzinh*a é uma reunião de contos e crônicas
 publicados pela autora nos jornais *Correio Braziliense* e *O Estado de
 Minas*, com prefácio de Zélia Duncan.
 
@@ -478,7 +478,7 @@ BNCC: EF67LP07
 
 Nível de dificuldade: difícil.
 
-MÓDULO 2: Eu, a sociedade, direitos e deveres
+# MÓDULO 2: Eu, a sociedade, direitos e deveres
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -703,7 +703,7 @@ nov. de 2021. Disponível em: \<
 <https://jornal.usp.br/ciencias/seu-cao-reconhece-suas-emocoes-e-toma-decisoes-a-partir-disso-mostra-estudo-da-usp/>\>.
 Acesso em: 01 mar. 2023. Adaptado.)
 
-1\. Qual é o principal assunto do texto? Em que parte da estrutura do
+\num{1} Qual é o principal assunto do texto? Em que parte da estrutura do
 texto é possível constatar essa informação?
 
 Resposta: O texto fala sobre a capacidade dos cães de reconhecerem as
@@ -719,7 +719,7 @@ BNCC: EF69LP20
 
 Nível: Fácil.
 
-2\. Qual é a função do subtítulo do artigo?
+\num{2} Qual é a função do subtítulo do artigo?
 
 Resposta: O subtítulo apresenta para o leitor a pesquisa que será
 apresentada no artigo.
@@ -733,7 +733,7 @@ BNCC: EF69LP20
 
 Nível: Médio.
 
-3\. Qual é o objetivo de se fazer a pesquisa apresentada no artigo? Em
+\num{3} Qual é o objetivo de se fazer a pesquisa apresentada no artigo? Em
 que parte do texto é possível obter essa informação?
 
 Resposta: O objetivo, segundo a pesquisadora, é desenvolver uma relação
@@ -783,7 +783,7 @@ height="2.7083333333333335in"}
 
 <https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fp%2Fbrancodesign%2F&psig=AOvVaw025oTdYXBEXaAsIqgbnjOO&ust=1677811356155000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD-78CcvP0CFQAAAAAdAAAAABAR>
 
-4\. O objetivo comum a ambas as campanhas é
+\num{4} O objetivo comum a ambas as campanhas é
 
 a\) mostrar às crianças como cuidar da saúde.
 
@@ -820,7 +820,7 @@ BNCC: EF69LP02
 
 Nível de dificuldade: fácil
 
-5\. Qual dos dois textos alcança uma quantidade maior de leitores(as),
+\num{5} Qual dos dois textos alcança uma quantidade maior de leitores(as),
 se considerarmos os canais em que é veiculado? Justifique sua resposta.
 
 Resposta: O Texto 1 alcança um número maior de pessoas, porque, por ser
@@ -837,7 +837,7 @@ BNCC: EF69LP02
 
 Nível de dificuldade: difícil.
 
-6\. Qual dos textos promove ao(à) leitor(a) maior credibilidade com
+\num{6} Qual dos textos promove ao(à) leitor(a) maior credibilidade com
 relação às informações divulgadas? Justifique sua resposta.
 
 Resposta: O Texto 1, pois tem como autor da campanha o Ministério da
@@ -859,14 +859,14 @@ Animais e responda às questões 7 e 8.
 viver livre no seu próprio ambiente natural, terrestre, aéreo ou
 aquático e tem o direito de se reproduzir.
 
-2\. Toda a privação de liberdade, mesmo que tenha fins educativos, é
+\num{2} Toda a privação de liberdade, mesmo que tenha fins educativos, é
 contrária a este direito."
 
 Disponível em: \<
 http://www.fiocruz.br/biosseguranca/Bis/infantil/direitoanimais.htm\>.
 Acesso em: 2 mar. 2023. Fragmento.
 
-7\. Explique, com suas palavras e com base na leitura, a finalidade da
+\num{7} Explique, com suas palavras e com base na leitura, a finalidade da
 Declaração Universal dos Direitos dos Animais.
 
 Resposta: A Declaração Universal dos Direitos dos Animais tem a
@@ -878,7 +878,7 @@ e/ou reivindicatórios.
 
 Nível de dificuldade: fácil.
 
-8\. O parágrafo 2 da Declaração Universal dos Direitos dos Animais
+\num{8} O parágrafo 2 da Declaração Universal dos Direitos dos Animais
 informa que toda a privação de liberdade no caso de animais selvagens,
 mesmo que com fins educativos, é contrária a esse direito. Esse trecho
 quer dizer que
@@ -919,7 +919,7 @@ e/ou reivindicatórios.
 
 Nível de dificuldade: médio.
 
-9\. Observe a imagem a seguir.
+\num{9} Observe a imagem a seguir.
 
 ![Símbolo do autismo passa a ser obrigatório em placas de atendimento
 preferencial em Juara --- PODER
@@ -964,7 +964,7 @@ e/ou reivindicatórios.
 
 Nível de dificuldade: médio.
 
-10\. Observe uma imagem retirada do Twitter da Prefeitura do município
+\num{10} Observe uma imagem retirada do Twitter da Prefeitura do município
 do Rio de Janeiro:
 
 ![Interface gráfica do usuário, Aplicativo Descrição gerada
@@ -1022,7 +1022,7 @@ Nível de dificuldade: médio.
 
 **TREINO**
 
-1\. Leia o texto a seguir.
+\num{1} Leia o texto a seguir.
 
 **O Brasil precisa do SUS: lançada campanha nacional de defesa do
 Sistema Único de Saúde**
@@ -1074,7 +1074,7 @@ BNCC: EF67LP16
 
 Nível de dificuldade: médio.
 
-2\. O piso tátil, instalado em calçadas e estabelecimentos, apresenta
+\num{2} O piso tátil, instalado em calçadas e estabelecimentos, apresenta
 dois tipos de padrão: em bolinhas ou em faixas paralelas.
 
 Observe as imagens a seguir.
@@ -1129,7 +1129,7 @@ BNCC: EF69LP20
 
 Nível: fácil
 
-3\. Leia o texto a seguir.
+\num{3} Leia o texto a seguir.
 
 No dia 26 de janeiro de 2023, um asteroide de tamanho estimado igual ao
 de um ônibus passou pelo céu do extremo sul da América do Sul logo após
@@ -1182,7 +1182,7 @@ BNCC: **EF69LP20**
 
 **Nível: difícil.**
 
-MÓDULO 3: Textos que conversam
+# MÓDULO 3: Textos que conversam
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -1377,7 +1377,7 @@ height="4.270090769903762in"}
 
 Fonte: Pixabay.
 
-1\. Enumere os fatos do texto 1, de acordo com a ordem cronológica dos
+\num{1} Enumere os fatos do texto 1, de acordo com a ordem cronológica dos
 acontecimentos.
 
 ( ) Uma das esposas do chefe morre.
@@ -1429,7 +1429,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: fácil.
 
-2\. O Texto 2 apresenta apenas uma imagem e uma legenda. O que essa
+\num{2} O Texto 2 apresenta apenas uma imagem e uma legenda. O que essa
 imagem representa? Por que ela foi escolhida?
 
 Resposta: A imagem do Texto 2 é o sapato de cristal, que remete à
@@ -1444,7 +1444,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: médio.
 
-3\. Quais são as principais semelhanças entre o Texto 1 e o conto de
+\num{3} Quais são as principais semelhanças entre o Texto 1 e o conto de
 fadas representado pela imagem do Texto 2?
 
 Resposta: Tanto a história do Texto 1 quanto a história da Cinderela
@@ -1460,7 +1460,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: médio.
 
-4\. Assinale verdadeiro (V) ou falso (F) sobre o que torna o Texto 1
+\num{4} Assinale verdadeiro (V) ou falso (F) sobre o que torna o Texto 1
 diferente do conto de fadas referido no Texto 2.
 
 ( ) O Texto 1 é escrito conforme lendas e referências típicas da cultura
@@ -1551,7 +1551,7 @@ Dissimulada: pessoa fingida, falsa.
 
 Fitar: olhar; admirar.
 
-5\. Qual é o efeito de sentido que a palavra "obliqua" adquire no
+\num{5} Qual é o efeito de sentido que a palavra "obliqua" adquire no
 contexto do Texto 1?
 
 Resposta: A palavra adquire um sentido real, já que os olhos do gatinho
@@ -1564,7 +1564,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: fácil.
 
-6\. Por que a palavra "dissimulada" faz sentido no Texto 1?
+\num{6} Por que a palavra "dissimulada" faz sentido no Texto 1?
 
 Resposta: Porque é um senso comum algumas pessoas associarem gatos a
 seres traiçoeiros.
@@ -1576,7 +1576,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: médio.
 
-7\. A que se refere o pronome "os", no trecho "Só me perguntava o que
+\num{7} A que se refere o pronome "os", no trecho "Só me perguntava o que
 era, se nunca os vira", extraído do Texto 2?
 
 Resposta: O pronome se refere aos olhos de Capitu.
@@ -1597,7 +1597,7 @@ https://br.freepik.com/icones-gratis/mundo\_15424068.htm\#page=3&query=origem%20
 
 Precisa inserir o texto "De mal\... a pior."
 
-8\. A imagem apresenta uma rota cruzando o planeta Terra de um ponto a
+\num{8} A imagem apresenta uma rota cruzando o planeta Terra de um ponto a
 outro, com o texto "De mal\... a pior.". Explique o uso das reticências
 e do ponto-final nesse texto.
 
@@ -1613,7 +1613,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: difícil.
 
-9\. Observe que o pontilhado que forma a rota da origem ao destino é uma
+\num{9} Observe que o pontilhado que forma a rota da origem ao destino é uma
 linha curvada para baixo, de modo que o planeta parece estar triste.
 Esse detalhe é proposital na composição da imagem? Qual é a função desse
 recurso não verbal para o leitor?
@@ -1631,7 +1631,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: difícil.
 
-10\. A imagem faz intertextualidade com
+\num{10} A imagem faz intertextualidade com
 
 a\) uma canção popular.
 
@@ -1668,7 +1668,7 @@ Nível: difícil.
 
 **TREINO**
 
-1\. Observe os dois textos a seguir.
+\num{1} Observe os dois textos a seguir.
 
 **Texto 1**
 
@@ -1726,7 +1726,7 @@ BNCC: EF67LP27
 
 Nível: fácil
 
-2\. Observe a imagem a seguir.
+\num{2} Observe a imagem a seguir.
 
 ![Fotos grátis de Arte de
 rua](./imgSAEB_6_POR/media/image13.jpeg){width="4.690160761154855in"
@@ -1770,7 +1770,7 @@ BNCC: EF67LP27
 
 Nível: difícil.
 
-3\. Observe a imagem a seguir.
+\num{3} Observe a imagem a seguir.
 
 ![Fotos grátis de
 Coração](./imgSAEB_6_POR/media/image14.jpeg){width="3.9791666666666665in"
@@ -1829,7 +1829,7 @@ BNCC: EF67LP27
 
 Nível: médio.
 
-MÓDULO 4: Palavra do especialista
+# MÓDULO 4: Palavra do especialista
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -1946,7 +1946,7 @@ publicado em 23 nov. 2014 e atualizado em 19 jul. 2019. Disponível em:
 \<<https://super.abril.com.br/ciencia/como-os-gatos-veem-o-mundo/>\>.
 Acesso em 9 mar. 2023. Adaptado.)
 
-1\. O título de tem a função de apresentar ao leitor o tema que será
+\num{1} O título de tem a função de apresentar ao leitor o tema que será
 trabalhado no texto. No caso desse artigo, se considerarmos que o verbo
 "ver" está empregado em seu sentido denotativo, ou seja, literal, que
 tipo de informação o leitor pode esperar, antes de ler o texto?
@@ -1961,7 +1961,7 @@ BNCC: EF69LP16
 
 Nível: médio.
 
-2\. Após a leitura do texto, qual é o efeito de sentido que o verbo
+\num{2} Após a leitura do texto, qual é o efeito de sentido que o verbo
 "veem" adquire no título? Justifique sua resposta.
 
 Resposta: O verbo tem o sentido de compreender, pois o texto não fala
@@ -1975,7 +1975,7 @@ BNCC: EF69LP16
 
 Nível: médio.
 
-3\. Qual é a tese apresentada no texto? Copie o trecho que apresenta
+\num{3} Qual é a tese apresentada no texto? Copie o trecho que apresenta
 essa informação.
 
 Resposta: A tese é de que os gatos domésticos ainda são animais
@@ -1990,7 +1990,7 @@ BNCC: EF69LP16
 
 Nível: fácil.
 
-4\. Que tipos de argumentos o autor utiliza para defender essa tese?
+\num{4} Que tipos de argumentos o autor utiliza para defender essa tese?
 
 Resposta: O autor utiliza comparações, como em "diferente dos cachorros,
 que querem ser gente, os gatos não querem ser outra coisa." e "para o
@@ -2004,7 +2004,7 @@ BNCC: EF69LP16
 
 Nível: difícil.
 
-5\. Por que o autor do artigo reproduz a fala de um especialista no
+\num{5} Por que o autor do artigo reproduz a fala de um especialista no
 desenvolvimento do texto?
 
 Resposta: Porque a fala do especialista dá credibilidade ao texto.
@@ -2016,7 +2016,7 @@ BNCC: EF69LP43
 
 Nível: fácil.
 
-6\. As aspas utilizadas em "Ele descende de um felino territorial e
+\num{6} As aspas utilizadas em "Ele descende de um felino territorial e
 solitário que aceitou a coexistência com outros gatos e ainda está se
 adaptando à vida de animal de estimação"
 
@@ -2050,7 +2050,7 @@ BNCC: EF69LP43
 
 Nível: médio.
 
-7\. Além as aspas, qual é o recurso utilizado no texto para que o leitor
+\num{7} Além as aspas, qual é o recurso utilizado no texto para que o leitor
 reconheça a frase do especialista como uma citação?
 
 Resposta: O verbo dizer, após o trecho entre aspas: "diz John Bradshaw,
@@ -2079,7 +2079,7 @@ sofreu muito. Faz análise até hoje."
 <https://marioprata.net/cronicas/o-amor-de-tumitinha/>\>. Acesso em: 3
 mar. 2023.)
 
-8\. Qual é o motivo da confusão entre o verso e a maneira como ele foi
+\num{8} Qual é o motivo da confusão entre o verso e a maneira como ele foi
 compreendido?
 
 Resposta: A sonoridade parecida entre as palavras "tu me tinhas" e
@@ -2092,7 +2092,7 @@ BNCC: EF69LP43
 
 Nível: médio.
 
-9\. Qual é o recurso utilizado pelo autor para que as pessoas saibam que
+\num{9} Qual é o recurso utilizado pelo autor para que as pessoas saibam que
 a história que ele reconta é, na verdade, inventada pela sua amiga?
 
 Resposta: O autor menciona, no começo do texto que sua amiga Adriana
@@ -2105,7 +2105,7 @@ BNCC: EF69LP43
 
 Nível: difícil.
 
-10\. Qual é o efeito de sentido que o verbo "confessar" provoca nesse
+\num{10} Qual é o efeito de sentido que o verbo "confessar" provoca nesse
 caso?
 
 Resposta: O verbo confessar deixa evidente que o fato era, até então, um
@@ -2121,7 +2121,7 @@ Nível: difícil.
 
 **TREINO**
 
-1\. Observe o infográfico a seguir.
+\num{1} Observe o infográfico a seguir.
 
 ![Gráfico, Diagrama, Gráfico de bolhas Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image15.jpeg){width="3.433333333333333in"
@@ -2161,7 +2161,7 @@ BNCC: EF69LP43
 
 Nível: fácil
 
-2\. Leia a reportagem a seguir.
+\num{2} Leia a reportagem a seguir.
 
 **Como cuidar da saúde mental das crianças?**
 
@@ -2218,7 +2218,7 @@ BNCC: EF69LP43
 
 Nível: médio.
 
-3\. Leia o texto a seguir.
+\num{3} Leia o texto a seguir.
 
 Ruth Rocha recebeu a equipe da TV Brasil em sua residência, em São
 Paulo, para um papo sobre sua trajetória no universo literário e a
@@ -2274,7 +2274,7 @@ BNCC: EF69LP43
 
 Nível: difícil.
 
-MÓDULO 5: Fato e opinião
+# MÓDULO 5: Fato e opinião
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -2333,28 +2333,28 @@ favor.
 
 Não há bem que para sempre dure, e não há mal que dure para sempre.
 
-1\. A quem é atribuída a frase da imagem?
+\num{1} A quem é atribuída a frase da imagem?
 
 Resposta: A Clarice Lispector.
 
-2\. Qual é a função dos elementos não verbais no caso desse texto?
+\num{2} Qual é a função dos elementos não verbais no caso desse texto?
 
 Resposta: A imagem da lua tem a única função de chamar a atenção para a
 postagem. Ela não agrega nada para a frase.
 
-3\. De que maneira uma pessoa pode descobrir se essa frase é mesmo de
+\num{3} De que maneira uma pessoa pode descobrir se essa frase é mesmo de
 Clarice Lispector? Há, na imagem, algo que forneça essa informação?
 
 Resposta: Para ter certeza, a pessoa pode pesquisar quem é Clarice
 Lispector e que tipo de frase é essa. A imagem em si não dá qualquer
 pista de que a frase é realmente da autora.
 
-4\. Que tipo de frase é essa? Em que contexto(s) ela circula?
+\num{4} Que tipo de frase é essa? Em que contexto(s) ela circula?
 
 Resposta: A frase é um ditado popular, de autoria desconhecida. Ela
 circula de pessoa para pessoa, em muitos meios sociais específicos.
 
-5\. Caso essa frase fosse mesmo dessa autora, de que maneira ela deveria
+\num{5} Caso essa frase fosse mesmo dessa autora, de que maneira ela deveria
 ser apresentada, para que o leitor não tenha dúvida quanto à autoria?
 
 Resposta: A frase deveria estar entre aspas e o nome da autora deveria
@@ -2387,7 +2387,7 @@ de julho de 2020. Disponível em:
 <https://rotacult.com.br/2020/07/opiniao-um-mito-chamado-frida-kahlo/?amp>.
 Acesso em: 10 mar. 2023. Adaptado.)
 
-6\. Escreva, ao lado das frases, se elas se referem a um fato ou a uma
+\num{6} Escreva, ao lado das frases, se elas se referem a um fato ou a uma
 opinião sobre Frida Kahlo.
 
 a\) "Frida precisou reinventar-se." \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -2428,7 +2428,7 @@ f\) "Algo que no dia a dia não é confortável." opinião
 g\) "a construção da imagem por meio da vestimenta mostrou ser uma obra
 de arte à parte." opinião
 
-7\. No primeiro parágrafo, o trecho "pintar as coisas que via com seus
+\num{7} No primeiro parágrafo, o trecho "pintar as coisas que via com seus
 próprios olhos" está entre aspas porque
 
 a\) é uma frase dita por um(a) especialista em Frida Kahlo.
@@ -2458,7 +2458,7 @@ d\) Incorreto. A frase é um fato sobre Frida. Embora esteja escrito em
 sentido figurado, é fato que a partir do acidente Frida passou a pintar
 aquilo que sentia.
 
-8\. Leia a definição da palavra mito, segundo o dicionário Michaelis:
+\num{8} Leia a definição da palavra mito, segundo o dicionário Michaelis:
 
 "Uma pessoa ou um fato cuja existência, presente na imaginação das
 pessoas, não pode ser comprovada; ficção."
@@ -2469,7 +2469,7 @@ uma pessoa real, de mito?
 Resposta: O intuito é comparar a história de vida da autora com uma
 história de ficção, quase inacreditável.
 
-9\. Releia o trecho: "E, no entanto, a construção da imagem por meio da
+\num{9} Releia o trecho: "E, no entanto, a construção da imagem por meio da
 vestimenta mostrou ser uma obra de arte à parte, algo que nenhum outro
 artista havia feito até então, partindo de uma necessidade interna de
 reafirmar sua feminilidade."
@@ -2481,7 +2481,7 @@ vestimenta, partindo de uma necessidade interna de reafirmar sua
 feminilidade. É uma opinião da autora que esse processo foi uma obra de
 arte à parte.
 
-10\. Explique o uso da expressão "uma obra de arte à parte", no último
+\num{10} Explique o uso da expressão "uma obra de arte à parte", no último
 parágrafo.
 
 Resposta: A autora faz um trocadilho com a fato de Frida ser uma
@@ -2490,7 +2490,7 @@ foi incrível, maravilhoso.
 
 **TREINO**
 
-1\. Leia o trecho de uma resenha crítica sobre o gibi "Turma da Mônica
+\num{1} Leia o trecho de uma resenha crítica sobre o gibi "Turma da Mônica
 Jovem":
 
 "*Turma da Mônica Jovem: Mudando o Jogo* tem um enredo simples, bem
@@ -2532,7 +2532,7 @@ BNCC: EF67LP04
 
 Nível: médio
 
-2\. Leia o texto a seguir.
+\num{2} Leia o texto a seguir.
 
 **O Brasil precisa do SUS: lançada campanha nacional de defesa do
 Sistema Único de Saúde**
@@ -2582,7 +2582,7 @@ BNCC: EF67LP04
 
 Nível: fácil
 
-3\. Leia o texto a seguir.
+\num{3} Leia o texto a seguir.
 
 **Conheça a campanha Acabar com o Bullying \#ÉDaMinhaConta**
 
@@ -2635,7 +2635,7 @@ BNCC: EF67LP04
 
 Nível: Difícil
 
-MÓDULO 6: Qual é a graça?
+# MÓDULO 6: Qual é a graça?
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -2710,7 +2710,7 @@ https://br.freepik.com/fotos-gratis/meninas-bonitas-compra-paes-na-padaria\_5557
 
 Texto da tira: MOÇA, ESTA BAGUETE É DE HOJE? NÃO, É DE PARMESÃO.
 
-1\. Na cena, o humor está presente
+\num{1} Na cena, o humor está presente
 
 a\) no fato de a atendente não saber o que é baguete.
 
@@ -2734,14 +2734,14 @@ ambígua.
 d\) Incorreta. Mesmo que a atendente fizesse uma piada proposital, o
 humor desta residiria no fato de a pergunta ter sido ambígua.
 
-2\. Explique a ambiguidade presente no texto.
+\num{2} Explique a ambiguidade presente no texto.
 
 Resposta: A ambiguidade está no modo como objeto indireto "de" é usado.
 Ao perguntar se a baguete é de hoje, a cliente quer saber se o pão foi
 feito naquele dia. Já a atendente entende que ela se referia ao sabor do
 pão, então responde que é de parmesão.
 
-3\. Reescreva o texto, de modo a excluir qualquer possibilidade de
+\num{3} Reescreva o texto, de modo a excluir qualquer possibilidade de
 ambiguidade.
 
 Resposta:
@@ -2769,7 +2769,7 @@ porque gastronomia é moda."
 <https://www.marinacolasanti.com/2015/06/cronica-de-quinta-bigodoes-e-talheres.html>.
 Acesso em: 10 mar. 2023. Adaptado.)
 
-4\. De acordo com a leitura, qual é a diferença entre comida e
+\num{4} De acordo com a leitura, qual é a diferença entre comida e
 gastronomia?
 
 Resposta: Comida é a forma como as pessoas se referiam ao alimento no
@@ -2777,7 +2777,7 @@ dia a dia, para matar a fome. Com a modernidade, as pessoas não querem
 mais apenas comer, querem gastronomia, ou seja, comer de um jeito chique
 e, consequentemente, pagando mais.
 
-5\. Identifique, no texto, em quais trechos a autora é irônica.
+\num{5} Identifique, no texto, em quais trechos a autora é irônica.
 
 Resposta: Pode-se identificar ironia nas seguintes passagens: "Nas
 casas, a bem da verdade, consome-se mais gastronomia na TV, do que à
@@ -2785,7 +2785,7 @@ mesa"; "que eu saiba, ainda não foi inventada a pizza gastronômica de
 encomenda"; "Mas na hora de escolher um restaurante, vamos de
 gastronômicos até onde o bolso alcança".
 
-6\. Ao dizer que "nas casas consome-se mais gastronomia na TV", o que a
+\num{6} Ao dizer que "nas casas consome-se mais gastronomia na TV", o que a
 autora quer dizer?
 
 Resposta: A autora quer dizer que somos mais seletivos em casa, com o
@@ -2802,27 +2802,27 @@ height="2.5973075240594925in"}
 Texto: Márcia do céu, você não acredita! A almofada explodiu, menina!
 Veio com defeito, com certeza\...
 
-7\. A tira é construída com uma só cena e contendo apenas uma
+\num{7} A tira é construída com uma só cena e contendo apenas uma
 personagem: o cachorro. Porém, em seu discurso ele interage com mais
 alguém. Quem é essa pessoa e o que ela representa?
 
 Resposta: O cachorro interage com a Márcia, que seria a dona dele.
 
-8\. Quais elementos demonstram que o cão tem uma relação de proximidade
+\num{8} Quais elementos demonstram que o cão tem uma relação de proximidade
 com a Márcia?
 
 Resposta: O fato de o cachorro estar na mesma casa que ela, sentado no
 sofá, e o tom informal da fala do cachorro (Márcia do céu; a almofada
 explodiu, menina).
 
-10\. Explique a ironia contida na cena.
+\num{10} Explique a ironia contida na cena.
 
 Resposta: O cachorro rasgou toda a almofada, mas justificou contanto que
 ela havia explodido porque veio com defeito.
 
 **TREINO**
 
-1\. Leia o texto a seguir.
+\num{1} Leia o texto a seguir.
 
 **Afinal, onde fica o beleléu?**
 
@@ -2873,7 +2873,7 @@ BNCC: EF69LP05
 
 Nível: médio
 
-2\. Leia o texto a seguir.
+\num{2} Leia o texto a seguir.
 
 ![Interface gráfica do usuário, Aplicativo Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image12.png){width="3.4166666666666665in"
@@ -2912,7 +2912,7 @@ BNCC: EF69LP05
 
 Nível: difícil
 
-3\. Observe a campanha publicitária a seguir.
+\num{3} Observe a campanha publicitária a seguir.
 
 ![Nenhuma descrição de foto
 disponível.](./imgSAEB_6_POR/media/image19.jpeg){width="3.4722222222222223in"
@@ -2954,7 +2954,7 @@ BNCC: EF69LP05
 
 Nível: fácil
 
-MÓDULO 7: Tudo o que se lê é verdade?
+# MÓDULO 7: Tudo o que se lê é verdade?
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -3151,22 +3151,22 @@ automaticamente com confiança
 média](./imgSAEB_6_POR/media/image22.png){width="5.045626640419948in"
 height="1.4761898512685914in"}
 
-1\. Qual é a temática comum entre as manchetes?
+\num{1} Qual é a temática comum entre as manchetes?
 
 Resposta: O compartilhamento de senhas na Netflix.
 
-2\. Qual das três manchetes apresenta um texto com informações mais
+\num{2} Qual das três manchetes apresenta um texto com informações mais
 claras e objetivas relacionadas ao tema?
 
 Resposta: A manchete do Texto 2.
 
-3\. É possível saber qual das três manchetes apresenta a notícia mais
+\num{3} É possível saber qual das três manchetes apresenta a notícia mais
 recente? Justifique sua resposta.
 
 Resposta: Não é possível saber, pois o Texto 2 apresenta a data de "um
 mês atrás", e não se sabe a qual mês ele se refere.
 
-4\. O Texto 1 e o Texto 3 foram divulgados pelo mesmo veículo, mas
+\num{4} O Texto 1 e o Texto 3 foram divulgados pelo mesmo veículo, mas
 apresentam algumas diferenças. Qual das duas manchetes fornece dados
 mais confiáveis ao leitor? Por quê?
 
@@ -3174,7 +3174,7 @@ Resposta: A manchete do Texto 3 apresenta informações que geram mais
 confiança, pois além de ter uma linguagem mais formal, no título ela já
 anuncia que há regras para o compartilhamento de senhas.
 
-5\. Qual das manchetes apresenta viés de opinião pessoal? Em quais
+\num{5} Qual das manchetes apresenta viés de opinião pessoal? Em quais
 trechos é possível identificar isso?
 
 Resposta: Na manchete do Texto 1. O autor da notícia se refere ao
@@ -3184,14 +3184,14 @@ usuário da Netflix. No subtítulo da matéria, ele também informa que as
 pessoas compartilhas senhas com amigos e parentes, dando a entender que
 sabe de que maneira essa prática funciona.
 
-6\. Nos três textos o leitor pode inferir que a prática de compartilhar
+\num{6} Nos três textos o leitor pode inferir que a prática de compartilhar
 senhas é errada. Em qual deles isso é trazido como uma certeza? Em que
 trecho é possível identificar essa informação?
 
 Resposta: No texto 2. O subtítulo da manchete apresenta a informação de
 que a prática é irregular e vedada em contrato.
 
-7\. No Texto 3, a manchete apresenta inicia-se com um aposto
+\num{7} No Texto 3, a manchete apresenta inicia-se com um aposto
 explicativo: "**Sim**, Netflix vai cobrar mais de quem divide senha em
 2023". Que efeito de sentido essa escolha lexical provoca no leitor?
 
@@ -3199,12 +3199,12 @@ Resposta: O "Sim" afirma ao leitor que a notícia é de fato verdadeira,
 que foi conferida, ou seja, que a Netflix vai mesmo cobrar pelo
 compartilhamento de senhas.
 
-8\. No Texto 3, qual termo é utilizado para informar que o
+\num{8} No Texto 3, qual termo é utilizado para informar que o
 compartilhamento de senhas é uma prática irregular?
 
 Resposta: O termo utilizado é "combater".
 
-9\. Considerando as informações apresentadas nas manchetes e linhas
+\num{9} Considerando as informações apresentadas nas manchetes e linhas
 finas dos três textos, redija uma manchete e uma linha fina que
 apresente informações precisas para o leitor ser qualquer viés de
 opinião.
@@ -3218,7 +3218,7 @@ breve explicação do contexto. Segue exemplo:
 
 Usuários terão que pagar caso desejem continuar com a prática
 
-10\. Ao abrir essas notícias, para quais dados o leitor deve se atentar
+\num{10} Ao abrir essas notícias, para quais dados o leitor deve se atentar
 a fim de saber se as informações foram checadas antes de ser publicadas?
 
 Resposta: A linguagem utilizada na notícia, sem viés de opinião; a data
@@ -3228,7 +3228,7 @@ a fonte das informações.
 
 **TREINO**
 
-1\. Leia o texto a seguir.
+\num{1} Leia o texto a seguir.
 
 \"Pai de pet\": faz mal à saúde mental tratar animal de estimação como
 filho?
@@ -3288,7 +3288,7 @@ BNCC: EF67LP04
 
 Nível: médio
 
-2\. Observe os dois títulos a seguir.
+\num{2} Observe os dois títulos a seguir.
 
 **Título 1**
 
@@ -3337,7 +3337,7 @@ BNCC: EF67LP03
 
 Nível: difícil
 
-2\. Leia o texto a seguir.
+\num{2} Leia o texto a seguir.
 
 **Nova Iorque/Genebra, Brasília, 10 de junho de 2021 --** O número de
 crianças e adolescentes em situação de trabalho infantil chegou a 160
@@ -3387,7 +3387,7 @@ BNCC: EF67LP03
 
 Nível: fácil
 
-MÓDULO 8: Os modalizadores do discurso em nosso dia a dia
+# MÓDULO 8: Os modalizadores do discurso em nosso dia a dia
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -3452,7 +3452,7 @@ que seguem vamos destrinchar o estudo de modalizadores no intuito de
 desenvolver habilidades de identificação e efeito de sentido nas frases,
 com particular atenção a textos de impacto social.
 
-1\. Leia as frases a seguir e classifique o posicionamento do enunciador
+\num{1} Leia as frases a seguir e classifique o posicionamento do enunciador
 quanto à **possibilidade**, **certeza** ou **obrigatoriedade**.
 
 a\. É indiscutivelmente possível viajar para qualquer lugar do mundo
@@ -3538,14 +3538,14 @@ Jornal da USP, publicado em 9 de set. 2019. Disponível em: \<
 <https://jornal.usp.br/cultura/para-tempos-sombrios-a-solucao-e-a-fantasia/>\>.
 Acesso em: mar. 2023. Adaptado.)
 
-2\. No primeiro parágrafo do texto, o autor utiliza como modalizador do
+\num{2} No primeiro parágrafo do texto, o autor utiliza como modalizador do
 discurso uma mesma conjunção, porém em algumas ocorrências distintas.
 Qual é esse modalizador e que intenção ele representa?
 
 Resposta: O modalizador utilizado é a conjunção "se", que, em todas as
 ocorrências do parágrafo, indicam uma condição.
 
-3\. No segundo parágrafo, o autor da resenha crítica apresenta sua
+\num{3} No segundo parágrafo, o autor da resenha crítica apresenta sua
 opinião sobre a história. Em qual trecho isso aparece e qual termo ele
 utiliza para fazer um julgamento de valor?
 
@@ -3554,13 +3554,13 @@ história é um tanto simplista, mas tem sua beleza.". O termo que ele
 utiliza para deixar explícito esse julgamento de valor é o adjetivo
 "simplista".
 
-4\. Ainda no segundo parágrafo, no trecho "clichê, mas aceitável", ele
+\num{4} Ainda no segundo parágrafo, no trecho "clichê, mas aceitável", ele
 demostra outro julgamento de valor. A quem ele se refere?
 
 Resposta: Ele se refere ao fato de a personagem ser um músico amador em
 busca do sucesso.
 
-5\. No segundo parágrafo, o resenhista informa que o músico da história
+\num{5} No segundo parágrafo, o resenhista informa que o músico da história
 acorda no hospital "em um mundo **muito estranho**". Isso é uma opinião
 do autor ou uma verdade que aparece no filme? O que justifica a escolha
 desse adjetivo pelo autor?
@@ -3568,7 +3568,7 @@ desse adjetivo pelo autor?
 Resposta: Isso é uma opinião do autor, porque, para ele, é muito
 estranho um mundo em que as pessoas não conheçam os Beatles.
 
-6\. Releia o início do terceiro parágrafo do texto:
+\num{6} Releia o início do terceiro parágrafo do texto:
 
 "Entre canções assobiáveis há décadas, desencontros e encontros
 improváveis, mas tocantes -- a vontade de dar *spoiler* aqui se torna
@@ -3589,7 +3589,7 @@ Resposta:
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Apresenta canções conhecidas, desencontros e encontros improváveis, filme que caminha na forma clássica das comédias românticas, filme que embala, diverte e rende conversas no pós-crédito.   Canções assobiáveis há décadas, encontros e desencontros improváveis, mas tocantes; vontade de dar spoiler quase incontornável; o filme rende conversas animadas no pós-crédito.
 
-7\. Analise as frases extraídas do texto. Depois, analise o modalizador
+\num{7} Analise as frases extraídas do texto. Depois, analise o modalizador
 em destaque e classifique-o quanto a ser uma condição ou uma certeza.
 
 a\) Mas fica a pergunta: e **[se]{.underline}** os Beatles nunca
@@ -3632,18 +3632,18 @@ height="3.038461286089239in"}
 Fonte:
 <https://torres.rs.gov.br/2018/07/27/vem-ai-o-projeto-esqueca-um-livro-com-o-proposito-de-incentivar-a-leitura/>
 
-8\. O tempo verbal predominante na campanha é o imperativo afirmativo.
+\num{8} O tempo verbal predominante na campanha é o imperativo afirmativo.
 Qual é a intenção comunicativa do texto?
 
 Resposta: A intenção é convencer o leitor a adotar a ideia da campanha,
 que é esquecer um livro em lugares públicos.
 
-9\. O verbo "realizada" qualifica um termo que o precede. Que termo é
+\num{9} O verbo "realizada" qualifica um termo que o precede. Que termo é
 esse?
 
 Resposta: O termo é "ação".
 
-10\. Analise a frase:
+\num{10} Analise a frase:
 
 "Uma ação realizada por voluntários de **[todo]{.underline}** o Brasil".
 
@@ -3654,7 +3654,7 @@ estão aderindo à campanha.
 
 **TREINO**
 
-1\. Leia o cartaz a seguir.
+\num{1} Leia o cartaz a seguir.
 
 ![Texto, Quadro de comunicações Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image26.jpeg){width="5.905555555555556in"
@@ -3692,7 +3692,7 @@ BNCC: EF69LP04
 
 Nível: fácil
 
-2\. Leia o trecho a seguir.
+\num{2} Leia o trecho a seguir.
 
 **Jogos eletrônicos podem desenvolver dependência e prejudicar
 desenvolvimento infantil**
@@ -3756,7 +3756,7 @@ BNCC: EF69LP04
 
 Nível: médio
 
-3\. "Em princípio, eu sou contra proibições, pois elas vão contra a
+\num{3} "Em princípio, eu sou contra proibições, pois elas vão contra a
 liberdade das pessoas. A gente deveria conscientizá-las", afirma. Se o
 verbo "deveria" fosse substituído por "poderia", o efeito de sentido da
 frase seria de
@@ -3793,7 +3793,7 @@ BNCC: EF69LP04
 
 Nível: difícil
 
-MÓDULO 9: As figuras de linguagem
+# MÓDULO 9: As figuras de linguagem
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -3925,21 +3925,21 @@ Leia o texto a seguir para responder às questões 1 a 4.
 automaticamente](./imgSAEB_6_POR/media/image27.jpeg){width="4.0787893700787405in"
 height="5.689394138232721in"}
 
-1\. Qual é o objetivo da campanha?
+\num{1} Qual é o objetivo da campanha?
 
 Resposta: O objetivo é incentivar as pessoas a doarem sangue.
 
-2\. Que recursos a campanha utiliza para argumentar a favor dessa ideia?
+\num{2} Que recursos a campanha utiliza para argumentar a favor dessa ideia?
 
 Resposta: A campanha compara o sangue doado a um presente.
 
-3\. Qual a importância da imagem utilizada na campanha?
+\num{3} Qual a importância da imagem utilizada na campanha?
 
 Resposta: A imagem é um cartãozinho de "de -- para" na forma de uma gota
 de sangue. Ela complementa o texto no que diz respeito ao apelo visual
 da campanha.
 
-4\. Que figura de linguagem predomina na propaganda?
+\num{4} Que figura de linguagem predomina na propaganda?
 
 Resposta: A metáfora é a figura predominante na campanha.
 
@@ -3952,32 +3952,32 @@ height="5.833838582677165in"}
 WESLEY. As crônicas de Wesley. Disponível em:
 <https://www.instagram.com/p/CpTRhacyAL8/>. Acesso em: mar. 2023.
 
-5\. Em "Acha que vamos vencer o interclasse este ano?", qual é a figura
+\num{5} Em "Acha que vamos vencer o interclasse este ano?", qual é a figura
 de linguagem presente? O que a fala da personagem significa?
 
 Resposta: A figura de linguagem presente é a metonímia, ou seja, quando
 há substituição da parte pelo todo. O menino substitui a palavra
 "campeonato" pelo nome, "interclasse".
 
-6\. Em "Já sinto o cheiro da vitória!", qual é a figura de linguagem
+\num{6} Em "Já sinto o cheiro da vitória!", qual é a figura de linguagem
 presente? O que a fala da personagem significa?
 
 Resposta: A figura de linguagem presente é a sinestesia. A personagem
 quis dizer que ele pressentia que iriam vencer o campeonato.
 
-7\. Em qual momento da história é possível identificar o efeito de humor
+\num{7} Em qual momento da história é possível identificar o efeito de humor
 da tirinha? Quais recursos são usados para que isso aconteça?
 
 Resposta: No terceiro quadrinho, quando a personagem, cheira a própria
 axila. Os recursos usados são a imagem dela com o braço erguido,
 cheirando a si mesma, e a onomatopeia "snif, snif".
 
-8\. O que provoca o efeito de humor na tira?
+\num{8} O que provoca o efeito de humor na tira?
 
 Resposta: O fato de a menina se chamar Vitória, e ter entendido que o
 garoto sentia o cheiro dela.
 
-9\. Assinale a alternativa que contém uma metáfora.
+\num{9} Assinale a alternativa que contém uma metáfora.
 
 a\) Meu avô é sábio, grande, fantástico!
 
@@ -3998,7 +3998,7 @@ c\) Incorreta. A figura de linguagem presente na frase é a sinestesia.
 
 d\) Incorreta. A figura de linguagem presente na frase é a metonímia.
 
-10\. Leia o texto a seguir.
+\num{10} Leia o texto a seguir.
 
 "Eu acho que a pior invenção da vida é mingau de fubá. Não compreendo
 para que ele serve. Se a gente está com fome, toma mingau e a fome
@@ -4019,7 +4019,7 @@ sonhos, bolos".
 
 **TREINO**
 
-1\.
+\num{1}
 
 E Chapeuzinho Amarelo, de tanto pensar no LOBO, de tanto sonhar com
 LOBO, de tanto esperar o LOBO, um dia topou com ele que era assim: carão
@@ -4061,7 +4061,7 @@ BNCC: EF67LP38
 
 Nível: fácil.
 
-2\. Observe a publicidade do Greenpeace, a seguir.
+\num{2} Observe a publicidade do Greenpeace, a seguir.
 
 ![Vista aérea de um campo Descrição gerada automaticamente com confiança
 média](./imgSAEB_6_POR/media/image29.jpeg){width="5.905555555555556in"
@@ -4099,7 +4099,7 @@ BNCC: EF67LP38
 
 Nível: médio.
 
-3\. Leia um trecho de um artigo de opinião, a seguir.
+\num{3} Leia um trecho de um artigo de opinião, a seguir.
 
 "Mas o pai da aviação continua sendo Santos Dumont, não Boeing, Airbus,
 Lockheed --- que cuidaram, investiram e fizeram **aquela saltitante
@@ -4141,7 +4141,7 @@ BNCC: EF67LP38
 
 Nível: difícil.
 
-MÓDULO 10: Os pronomes em nosso dia a dia
+# MÓDULO 10: Os pronomes em nosso dia a dia
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -4212,21 +4212,21 @@ o desligado
 
 o que só tira nota alta
 
-1\. O texto está escrito em formato de meme. Reescreva o texto, na forma
+\num{1} O texto está escrito em formato de meme. Reescreva o texto, na forma
 de discurso direto, inserindo as pontuações necessárias.
 
 Resposta: Todo grupinho da escola tem: o que faz cara de dó quando toma
 bronca, o que só ri, o que sempre faz piada, o que é bonzinho de
 verdade, o desligado e o que só tira nota alta.
 
-2\. Na frase "**todo** grupinho da escola tem", qual é o efeito de
+\num{2} Na frase "**todo** grupinho da escola tem", qual é o efeito de
 sentido provocado pelo pronome em destaque?
 
 Resposta: "Todo" é um pronome indefinido, que traz ao texto a ideia de
 generalização: todo grupo tem um aluno com aquelas características,
 porém sem nomear um grupo específico.
 
-3\. Substitua os termos destacados a seguir por um sinônimo e um
+\num{3} Substitua os termos destacados a seguir por um sinônimo e um
 antônimo.
 
 a\) o que faz **cara de dó**
@@ -4273,7 +4273,7 @@ d\) Sinônimo: inteligente
 
 Antônimo: tira nota baixa
 
-4\. Um dos cachorrinhos representa um tipo de aluno considerado
+\num{4} Um dos cachorrinhos representa um tipo de aluno considerado
 "desligado". Escreva uma frase que contenha um efeito de sentido
 **homônimo**, uma com efeito de sentido **antônimo** e outra com efeito
 de sentido **sinônimo** ao contexto em que foi empregado esse termo.
@@ -4293,7 +4293,7 @@ professora.
 
 Sinônimo: João é desatento, quase não presta atenção na professora.
 
-5\. Preencha corretamente as lacunas com os pronomes "eu" ou "mim".
+\num{5} Preencha corretamente as lacunas com os pronomes "eu" ou "mim".
 
 a\) Comprei muitas frutas para \_\_\_\_\_ fazer uma sobremesa.
 
@@ -4334,7 +4334,7 @@ porque, se não der certo, a gente apaga e começa de novo."
 <https://marioprata.net/cronicas/o-lapis/>. Acesso em: mar. 2023.
 Adaptado.)
 
-6\. Substitua o termo em destaque nas frases por um pronome pessoal
+\num{6} Substitua o termo em destaque nas frases por um pronome pessoal
 adequado.
 
 a\) Resolvi escrever um texto com letra de forma, escanear e ver se o
@@ -4361,7 +4361,7 @@ e\) Se não der certo, **a gente** apaga e começa de novo.
 
 Resposta: Se não der certo, **nós apagamos** **e começamos** de novo.
 
-7\. Transforme o trecho que está em discurso direto, a seguir, para
+\num{7} Transforme o trecho que está em discurso direto, a seguir, para
 discurso indireto.
 
 Aí, não tendo mais o que inventar para brincar, resolvi escrever um
@@ -4374,14 +4374,14 @@ Aí, não tendo mais o que inventar para brincar, resolveu escrever um
 texto com letra de forma. Perguntou a si mesmo por que se chamava letra
 de forma. Escaneou e viu se o computador reconhecia seu texto.
 
-8\. No trecho "É aqui que eu queria chegar.", a que se refere o pronome
+\num{8} No trecho "É aqui que eu queria chegar.", a que se refere o pronome
 demonstrativo "aqui"?
 
 Resposta: Aqui não se refere a um lugar específico, e sim a um problema
 que o autor começará a relatar logo em seguida: de que não adianta o
 governo testar alunos e professores e universidades.
 
-9\. Reescreva o trecho a seguir, a fim de eliminar as repetições.
+\num{9} Reescreva o trecho a seguir, a fim de eliminar as repetições.
 
 Vamos voltar ao lápis e ao dois mais dois. Vamos começar pela base.
 Vamos escrever a lápis. Mesmo porque, se não der certo, a gente apaga e
@@ -4391,7 +4391,7 @@ Resposta: Vamos voltar ao lápis, ao dois mais dois, começar pela base e
 escrever a lápis, porque, se não der certo, nós apagamos e começamos de
 novo.
 
-10\. Observe a propaganda sobre o desperdício de alimentos:
+\num{10} Observe a propaganda sobre o desperdício de alimentos:
 
 ![Diagrama Descrição gerada automaticamente com confiança
 baixa](./imgSAEB_6_POR/media/image31.jpeg){width="4.175in"
@@ -4414,7 +4414,7 @@ Tanta comida é desperdiçada no mundo.
 
 **TREINO**
 
-1\. Leia o texto a seguir.
+\num{1} Leia o texto a seguir.
 
 **O Brasil precisa do SUS: lançada campanha nacional de defesa do
 Sistema Único de Saúde**
@@ -4466,7 +4466,7 @@ BNCC: EF06LP12
 
 Nível: médio.
 
-2\. Leia o texto a seguir.
+\num{2} Leia o texto a seguir.
 
 Ruth Rocha recebeu a equipe da TV Brasil em sua residência, em São
 Paulo, para um papo sobre sua trajetória no universo literário e a
@@ -4517,7 +4517,7 @@ BNCC: EF06LP12
 
 Nível: fácil.
 
-3\. Leia o texto a seguir.
+\num{3} Leia o texto a seguir.
 
 **Sabores sem fronteiras**
 
@@ -4569,7 +4569,7 @@ BNCC: EF06LP12
 
 Nível: difícil.
 
-MÓDULO 11: Para cada situação, uma adequação
+# MÓDULO 11: Para cada situação, uma adequação
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -4661,11 +4661,11 @@ Disponível em: \<
 <https://dragoesdegaragem.com/cientirinhas/cientirinhas-162/>\>. Acesso
 em: mar. 2023.
 
-1\. Qual é a linguagem utilizada na tirinha?
+\num{1} Qual é a linguagem utilizada na tirinha?
 
 Resposta: A tirinha está escrita em linguagem informal ou coloquial.
 
-2\. Que tipo de variação linguística ocorre na fala da lua, no terceiro
+\num{2} Que tipo de variação linguística ocorre na fala da lua, no terceiro
 quadrinho? Reescreva a fala, substituindo o termo "daora" por um
 sinônimo.
 
@@ -4674,7 +4674,7 @@ Resposta: O termo "daora" é uma gíria. Ele poderia ser substituído por
 às variações regionais dos alunos, pois esse termo pode sofrer
 influência de regionalismo.
 
-3\. Qual é o efeito de humor da tira?
+\num{3} Qual é o efeito de humor da tira?
 
 Resposta: O fato de a Terra dizer que é raro um meteoro não se desfazer
 e, no último quadrinho, acontecer o momento em que os dinossauros são
@@ -4705,12 +4705,12 @@ Disponível em: \<
 <https://www.opovo.com.br/vidaearte/2022/12/12/suricate-seboso-celebra-10-anos-de-humor-e-cearensidade-nas-redes-sociais.html>\>.
 Acesso em: mar. 2023. Adaptado)
 
-4\. O termo "cearensidade", empregado no título da matéria, um
+\num{4} O termo "cearensidade", empregado no título da matéria, um
 neologismo que a qual tipo de variação linguística tratada no texto?
 
 Resposta: O termo refere-se ao regionalismo.
 
-5\. O termo "cearencês", usado no primeiro parágrafo é um(a)
+\num{5} O termo "cearencês", usado no primeiro parágrafo é um(a)
 
 a\) gíria.
 
@@ -4767,14 +4767,14 @@ Funda. Disponível em: \<
 <https://fundar.org.br/wp-content/uploads/2021/06/bras-bexiga-barra-funda.pdf>\>.
 Acesso em: mar. 2023.)
 
-6\. Gaetaninho, personagem que dá nome ao conto, é uma criança
+\num{6} Gaetaninho, personagem que dá nome ao conto, é uma criança
 descendente de italianos. Quais elementos, neste trecho, permitem
 identificar essa característica?
 
 Resposta: O prórprio nome da personagem, Gaetaninho, e o grito da mãe em
 italiano, "Subito!".
 
-7\. "Eta salame de mestre!" é uma expressão coloquial que, no contexto
+\num{7} "Eta salame de mestre!" é uma expressão coloquial que, no contexto
 da história, foi usada para dizer que
 
 a\) o menino fez uma jogada muito difícil.
@@ -4811,18 +4811,18 @@ height="4.975430883639545in"}
 ARTE: CRIEI ISTO AQUI NO PPT. Favor recriar uma conversa como se fosse
 whatsapp usando este diálogo.
 
-8\. Considerando-se o nível de linguagem do diálogo, que tipo de
+\num{8} Considerando-se o nível de linguagem do diálogo, que tipo de
 proximidade têm as pessoas que participam dessa conversa?
 
 Resposta: O diálogo é informal, o que demonstra que as pessoas têm algum
 grau de intimidade, ou seja, são amigas.
 
-9\. O que a primeira pessoa a falar na conversa quis dizer ao pedir que
+\num{9} O que a primeira pessoa a falar na conversa quis dizer ao pedir que
 o amigo fosse correndo?
 
 Resposta: A pessoa quis dizer para o amigo ir logo.
 
-10\. Ainda no primeiro bloco de texto, aparece o termo "pfv". Que
+\num{10} Ainda no primeiro bloco de texto, aparece o termo "pfv". Que
 elemento auxilia o amigo a compreender o significado que essa expressão
 quis dizer?
 
@@ -4831,7 +4831,7 @@ Resposta: O emoji das mãos juntas, em oração, que reforça o pedido de
 
 TREINO
 
-1\. Leia o *jingle* da campanha de Júlio Prestes, um homem que foi
+\num{1} Leia o *jingle* da campanha de Júlio Prestes, um homem que foi
 candidato à presidência do Brasil em 1920:
 
 Ó Seu Toninho
@@ -4878,7 +4878,7 @@ BNCC: EF69LP55
 
 Nível: difícil.
 
-2\. Leia um trecho da crônica "Criança diz cada uma\...", de Mário
+\num{2} Leia um trecho da crônica "Criança diz cada uma\...", de Mário
 Prata.
 
 Já disse que meu filho se chama Antonio. Um dia, ele tinha uns quatro
@@ -4932,7 +4932,7 @@ BNCC: EF69LP55
 
 Nível: médio.
 
-3\. Leia a reportagem a seguir.
+\num{3} Leia a reportagem a seguir.
 
 > **Sabores sem fronteiras**
 
@@ -4993,7 +4993,7 @@ Nível: fácil.
 
 **SIMULADO 1**
 
-1\. Leia o texto a seguir.
+\num{1} Leia o texto a seguir.
 
 ![Forma Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image34.jpeg){width="1.9807688101487315in"
@@ -5040,7 +5040,7 @@ BNCC: EF69LP28
 
 Nível: fácil
 
-2\. Leia o texto a seguir.
+\num{2} Leia o texto a seguir.
 
 **Sabores sem fronteiras**
 
@@ -5099,7 +5099,7 @@ BNCC: EF69LP43
 
 Nível: fácil.
 
-3\. Leia o texto a seguir.
+\num{3} Leia o texto a seguir.
 
 **Sabores sem fronteiras**
 
@@ -5153,7 +5153,7 @@ BNCC: EF67LP07
 
 Nível: médio.
 
-4\. Observe uma imagem retirada do Twitter da Prefeitura do município do
+\num{4} Observe uma imagem retirada do Twitter da Prefeitura do município do
 Rio de Janeiro:
 
 ![Interface gráfica do usuário, Aplicativo Descrição gerada
@@ -5199,7 +5199,7 @@ BNCC: EF67LP38
 
 Nível: fácil
 
-5\. Leia o texto a seguir.
+\num{5} Leia o texto a seguir.
 
 **O Brasil precisa do SUS: lançada campanha nacional de defesa do
 Sistema Único de Saúde**
@@ -5251,7 +5251,7 @@ BNCC: EF67LP04
 
 Nível: médio.
 
-6\. Leia o *jingle* da campanha de Júlio Prestes, um homem que foi
+\num{6} Leia o *jingle* da campanha de Júlio Prestes, um homem que foi
 candidato à presidência do Brasil em 1920:
 
 Ó Seu Toninho
@@ -5338,7 +5338,7 @@ BNCC: EF69LP20
 
 Nível: difícil.
 
-7\. Observe o infográfico a seguir.
+\num{7} Observe o infográfico a seguir.
 
 ![Gráfico, Diagrama, Gráfico de bolhas Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image15.jpeg){width="3.433333333333333in"
@@ -5383,7 +5383,7 @@ BNCC: EF69LP16
 
 Nível: médio.
 
-8\. Leia o texto a seguir.
+\num{8} Leia o texto a seguir.
 
 Apesar de nunca ter visto o lobo, Chapeuzinho Amarelo morria de medo
 dele.
@@ -5433,7 +5433,7 @@ BNCC: EF69LP43
 
 Nível: médio.
 
-9\. Leia o texto a seguir.
+\num{9} Leia o texto a seguir.
 
 Ruth Rocha recebeu a equipe da TV Brasil em sua residência, em São
 Paulo, para um papo sobre sua trajetória no universo literário e a
@@ -5483,7 +5483,7 @@ Bncc: EF67LP04
 
 Nível: difícil
 
-10\.
+\num{10}
 
 E Chapeuzinho Amarelo, de tanto pensar no LOBO, de tanto sonhar com
 LOBO, de tanto esperar o LOBO, um dia topou com ele que era assim: carão
@@ -5530,7 +5530,7 @@ BNCC: EF67LP27
 
 Nível: difícil
 
-11\. Observe a propaganda a seguir.
+\num{11} Observe a propaganda a seguir.
 
 ![Nenhuma descrição de foto
 disponível.](./imgSAEB_6_POR/media/image35.jpeg){width="4.658333333333333in"
@@ -5572,7 +5572,7 @@ BNCC: EF67LP38
 
 Nível: difícil.
 
-12\. Leia um trecho da crônica "A bola!", de Mário Prata.
+\num{12} Leia um trecho da crônica "A bola!", de Mário Prata.
 
 Mas tente, agora, entender o mundo sem a bola. E o esporte. Acho que
 fora o automobilismo, as lutas, a esgrima e o boxe, tudo gira em torno
@@ -5625,7 +5625,7 @@ BNCC: EF69LP55
 
 Nível: médio.
 
-13\. Leia o texto a seguir.
+\num{13} Leia o texto a seguir.
 
 ![Texto Descrição gerada automaticamente com confiança
 média](./imgSAEB_6_POR/media/image36.png){width="4.233775153105862in"
@@ -5666,7 +5666,7 @@ Habilidade: EF06LP12
 
 Nível: fácil
 
-14\.
+\num{14}
 
 Dez anos atrás, o trabalho de uma arqueóloga da USP fez história ao
 examinar, pela primeira vez, os restos mortais dos primeiros imperadores
@@ -5779,7 +5779,7 @@ jornalísticos.
 
 **SIMULADO 2**
 
-1\. Leia o texto a seguir.
+\num{1} Leia o texto a seguir.
 
 ![Mapa Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image38.png){width="5.905555555555556in"
@@ -5821,7 +5821,7 @@ BNCC: EF67LP07
 
 Nível: fácil
 
-2\.
+\num{2}
 
 **Damiani pede manutenção asfáltica em ruas esburacadas de Sorriso**
 
@@ -5879,7 +5879,7 @@ BNCC: EF67LP17
 
 Nível: médio.
 
-3\.
+\num{3}
 
 ![Desenho de personagem de desenho animado Descrição gerada
 automaticamente com confiança
@@ -5917,7 +5917,7 @@ BNCC: EF69LP03
 
 Nível: fácil.
 
-4\. Leia um trecho da obra "O diário da princesa", de Meg Cabot.
+\num{4} Leia um trecho da obra "O diário da princesa", de Meg Cabot.
 
 **Terça-feira, 23 de setembro**
 
@@ -5977,7 +5977,7 @@ BNCC: EF69LP47
 
 Nível: difícil.
 
-5\. Leia o texto a seguir.
+\num{5} Leia o texto a seguir.
 
 ![Mulher com vestido colorido Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image40.jpeg){width="4.263918416447944in"
@@ -6016,7 +6016,7 @@ BNCC: EF06LP12
 
 Nível: fácil
 
-6\.
+\num{6}
 
 ![Diagrama Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image41.png){width="5.198641732283464in"
@@ -6561,7 +6561,7 @@ Nível: médio.
 SIMULADO 3
 ----------
 
-1\.
+\num{1}
 
 ![Desenho de personagem de desenho animado Descrição gerada
 automaticamente com confiança

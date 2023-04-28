@@ -1744,27 +1744,27 @@ texto, assim como ocorre em textos dos gêneros textuais argumentativos.
 Segundo o dicionário on-line Michaelis, a palavra "fato" tem os
 seguintes significados:
 
-1\. Evento de cuja ocorrência se tem conhecimento, ou coisa cuja
+\num{1} Evento de cuja ocorrência se tem conhecimento, ou coisa cuja
 existência não se põe em dúvida;
 
-2\. Tudo aquilo que acontece por ação do homem ou em decorrência de
+\num{2} Tudo aquilo que acontece por ação do homem ou em decorrência de
 eventos exteriores ou naturais, que independem da vontade humana;
 acontecido, acontecimento, ocorrência;
 
-3\. Algo cuja existência é inquestionável; realidade, verdade.
+\num{3} Algo cuja existência é inquestionável; realidade, verdade.
 
 Por sua vez, o mesmo dicionário traz os seguintes significados para
 "opinião":
 
-1\. Modo de pensar, de julgar, de ver;
+\num{1} Modo de pensar, de julgar, de ver;
 
-2\. Ponto de vista ou posição tomada sobre assunto em particular
+\num{2} Ponto de vista ou posição tomada sobre assunto em particular
 (social, político, religioso etc.);
 
-3\. Parecer emitido sobre determinado assunto em que muito se refletiu e
+\num{3} Parecer emitido sobre determinado assunto em que muito se refletiu e
 deliberou;
 
-4\. Juízo de valor que se faz sobre alguém ou alguma coisa.
+\num{4} Juízo de valor que se faz sobre alguém ou alguma coisa.
 
 Dessa forma, dois conceitos são determinantes para a distinção entre
 fato e opinião: a objetividade e a subjetividade. A opinião se
@@ -3428,36 +3428,36 @@ sofá.
 
 (3 linhas para cada item)
 
-1\. Ironia. A inflação, algo que é prejudicial à economia de um país, é
+\num{1} Ironia. A inflação, algo que é prejudicial à economia de um país, é
 tratado como se fosse algum bom, equiparado a um recorde, mas a intenção
 do autor é dizer justamente o contrário.
 
-2\. Prosopopeia. O meio ambiente ganha expressão humana ao pedir
+\num{2} Prosopopeia. O meio ambiente ganha expressão humana ao pedir
 socorro, como forma de reforçar o perigo que a natureza está correndo.
 
-3\. Antítese. A figura de linguagem está representada na presença dos
+\num{3} Antítese. A figura de linguagem está representada na presença dos
 termos opostos "vida" e "morte".
 
-4\. Metáfora. O momento feliz é comparado a uma vida no paraíso, símbolo
+\num{4} Metáfora. O momento feliz é comparado a uma vida no paraíso, símbolo
 de uma vida livre de problemas e cheia de felicidade.
 
-5\. Metonímia. O pão representa o alimento do dia a dia e o suor
+\num{5} Metonímia. O pão representa o alimento do dia a dia e o suor
 representa o trabalho.
 
-6\. Hipérbole. O exagero ocorre ao quantificar um número de vezes
+\num{6} Hipérbole. O exagero ocorre ao quantificar um número de vezes
 impossível de alguém dizer algo.
 
-7\. Gradação. Os termos "gritar", "falar" e "murmurar" são variações de
+\num{7} Gradação. Os termos "gritar", "falar" e "murmurar" são variações de
 uma mesma forma de expressão oral, significando que a personagem tentou
 todas as possibilidades frente a alguma situação não citada na frase.
 
-8\. Catacrese. A parte do sofá chamada "braço" exemplifica o emprego
+\num{8} Catacrese. A parte do sofá chamada "braço" exemplifica o emprego
 dessa palavra fora de seu uso original.
 
-9\. Comparação. A comparação entre a casa e o hospício significa que as
+\num{9} Comparação. A comparação entre a casa e o hospício significa que as
 pessoas que ali moram se comportam de modo fora do comum.
 
-10\. Eufemismo. O eufemismo "faltar com a verdade" é uma forma de evitar
+\num{10} Eufemismo. O eufemismo "faltar com a verdade" é uma forma de evitar
 usar uma expressão mais pesada como "mentir".
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -3647,18 +3647,18 @@ manutenção quanto para a progressão do assunto. Alguns desses termos ou
 expressões são: pronomes, advérbios, numerais, artigos, sinônimos,
 antônimos, palavras genéricas etc. Vejamos alguns exemplos.
 
-1\. Substituição: **Os alunos** foram advertidos pelo **mau
+\num{1} Substituição: **Os alunos** foram advertidos pelo **mau
 comportamento**. Caso **isso** \[mau comportamento\] volte a acontecer,
 **eles** \[os alunos\] serão suspensos.
 
-2\. Reiteração/Repetição: "Smita acorda com uma estranha sensação, uma
+\num{2} Reiteração/Repetição: "Smita acorda com uma estranha sensação, uma
 suave urgência, um inédito frio na barriga. **Hoje** é um dia que ela
 irá lembrar para o resto da vida. **Hoje**, sua filha vai entrar para a
 escola" (Laetitia Colombani).
 
 A repetição, nesse caso, tem efeito enfático.
 
-3\. Associação: "À medida que o **rio** se afunila entre os paredões
+\num{3} Associação: "À medida que o **rio** se afunila entre os paredões
 cada vez mais verticais, a **correnteza** vai ganhando velocidade e
 companhia de uma **espuma branca**, originada pelo choque violento das
 **águas** contra as pedras. O bote responde de imediato ao
@@ -4422,7 +4422,7 @@ regras para mandar bem na entrevista. Descubra a seguir!
 
 1\. \[\...\]
 
-2\. Cuidado com a linguagem
+\num{2} Cuidado com a linguagem
 
 Ter um vocabulário adequado é importante para passar uma boa impressão
 ao entrevistador. Por isso, evite a todo custo falar gírias, palavrões e
@@ -7358,11 +7358,11 @@ NOTA: Antes de iniciar a limpeza do equipamento desligue-o da tomada.
 
 **Limpando a tela**
 
-1\. Molhe um pano macio em uma mistura de água morna com um pouco de
+\num{1} Molhe um pano macio em uma mistura de água morna com um pouco de
 detergente. Esprema bem o pano até que ele fique quase seco e então
 utilize-o em sua tela.
 
-2\. Para garantir que não exista resíduos líquidos na tela, deixe-a
+\num{2} Para garantir que não exista resíduos líquidos na tela, deixe-a
 secar por alguns minutos e só depois ligue o aparelho na tomada.
 
 Disponível em:
