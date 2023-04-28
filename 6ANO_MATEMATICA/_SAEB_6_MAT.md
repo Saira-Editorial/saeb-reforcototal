@@ -419,7 +419,7 @@ e considerar que o valor correto é esse.
 Alternativa D: O aluno pode considerar que a letra D signifique
 Duzentos, logo o resultado seria esse.
 
-Módulo 2
+\num{} 2
 
 BNCC: EF06MA06 EF06MA07 EF06MA10 EF06MA11 EF07MA04 EF08MA01 EF08MA02
 EF08MA03 EF09MA03 EF09MA04
@@ -871,7 +871,7 @@ Alternativa D: O aluno pode considerar que setembro tenha 31 dias.
 Deixar o espaço de 5 linhas para resolução e inserir a figura descrita
 acima, podendo ser uma figura semelhante a essa.
 
-Módulo 3
+# Módulo 3
 
 BNCC: EF06MA09
 
@@ -1277,7 +1277,7 @@ Alternativa D: Incorreta, o aluno pode considerar dividir os potes em 3
 partes iguais e somar sem calcular o m.m.c., que chegará a esse
 resultado erroneamente.
 
-Módulo 4
+# Módulo 4
 
 BNCC: EF06MA13
 
@@ -1610,7 +1610,7 @@ Alternativa D: Incorreta: o aluno por meio de dedução pode considerar
 que somando 3% ao valor inicial e subtraindo 3% o valor inicial fique
 inerte.
 
-Módulo 5
+# Módulo 5
 
 BNCC: EF06MA14
 
@@ -2082,7 +2082,7 @@ resposta correta.
 Alternativa D:o aluno pode esquecer de dividir a equação final por 2
 onde chegará a esse resultado.
 
-Módulo 6
+# Módulo 6
 
 Habilidade Saeb: Resolver problemas que envolvam variação de
 proporcionalidade direta ou inversa entre duas ou mais grandezas,
@@ -2432,7 +2432,7 @@ assinalando essa alternativa, erroneamente.
 Alternativa D: Correta, pois realizando a regra de três composta,
 obtemos esse valor.
 
-Módulo 7
+# Módulo 7
 
 BNCC: EF06MA16 EF06MA17 EF06MA18 EF06MA20 EF07MA19 EF07MA20 EF07MA21
 EF08MA18 EF09MA11 EF09MA12
@@ -2814,7 +2814,7 @@ invés de utilizar a formula.
 Alternativa D: incorreta o aluno pode realizar uma multiplicação ao
 invés de utilizar a formula.
 
-Módulo 8
+# Módulo 8
 
 BNCC: EF06MA19
 
@@ -3275,7 +3275,7 @@ triangulo equilátero terá 3 lados iguais.
 Alternativa D: incorreta, pois o aluno pode considerar cortar mais peças
 que o enunciado recomenda.
 
-Módulo 9
+# Módulo 9
 
 BNCC: EF06MA21
 
@@ -3603,7 +3603,7 @@ chegar a essa conclusão erroneamente.
 Reproduzir fielmente o mapa descrito acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
-Módulo 10
+# Módulo 10
 
 BNCC: EF06MA31, EF06MA32
 
@@ -4067,7 +4067,7 @@ Alternativa d: incorreta, o aluno que não compreender corretamente o
 enunciado pode calcular 4 notas a mais e chegar a esse valor
 erroneamente
 
-Módulo 11
+# Módulo 11
 
 BNCC: EF06MA24
 
@@ -4451,7 +4451,7 @@ em 2 descobrindo essa área incorretamente.
 Alternativa D: incorreta, pois o aluno pode considerar a área final do
 retângulo ao invés da área de cada quadrado.
 
-Módulo 12
+# Módulo 12
 
 BNCC: EF06MA30
 

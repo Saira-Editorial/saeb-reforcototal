@@ -1,4 +1,4 @@
-Módulo 1
+# Módulo 1
 
 Habilidades BNCC: EF07MA01, EF07MA03, EF07MA10.
 
@@ -516,7 +516,7 @@ uma verdade
 D - Errada, a afirmação III é falsa, o número 21 não é primo, possui 4
 divisores: 1, 3,7 e 21.
 
-Módulo 2
+# Módulo 2
 
 Habilidade BNCC: EF07MA04
 
@@ -1085,7 +1085,7 @@ terreno e tirar o tamanho do portão. Assim:
 
 $p\  = \ 4 \times 36 = 144 - 12 = 132$
 
-Módulo 3
+# Módulo 3
 
 Habilidades BNCC: EF07MA08, EF07MA09.
 
@@ -1719,7 +1719,7 @@ C - Errada, pois a fração correspondente é 2 inteiros.
 
 D - Errada, pois a fração correspondente é $1\frac{1}{2}$
 
-Módulo 4
+# Módulo 4
 
 Habilidade BNCC: EF07MA02
 
@@ -2167,7 +2167,7 @@ $$270 \times 1,06 \times 0,9 = 257,58$$
 
 No final do semestre o pneu saiu por aproximadamente R\$ 258,00.
 
-Módulo 5
+# Módulo 5
 
 Habilidades BNCC: EF07MA18
 
@@ -2691,7 +2691,7 @@ $$3c = \ 21$$
 
 $c = \ 7$ cartelas compradas
 
-Módulo 6
+# Módulo 6
 
 Habilidades BNCC: EF07MA13; EF07MA14; EF07MA15; EF07MA16
 
@@ -3128,7 +3128,7 @@ $\left( n - 2 \right) + \left( n - 3 \right) = \left( 1 - 2 \right) + \left( 1 -
 D - Errada, pois
 $\left( n - 2 \right)\left( n - 3 \right) = \left( 1 - 2 \right)\left( 1 - 3 \right) = - 1\  \times \ ( - 2) = 2$
 
-Módulo 8
+# Módulo 8
 
 Habilidade BNCC: EF07MA17
 
@@ -3617,7 +3617,7 @@ a proporcionalidade ao que cada um investiu.
 
 D - Errada, pois considerou o investidor A.
 
-Módulo 10
+# Módulo 10
 
 Habilidades BNCC: EF07MA19; EF07MA20; EF07MA21.
 
@@ -4018,7 +4018,7 @@ relação de Euler.
 D - Errada, pois $4 - 10 + 6 = 0\  \neq \ 2$, logo, não corresponde à
 relação de Euler.
 
-Módulo 11
+# Módulo 11
 
 Habilidades BNCC: EF07MA23; EF07MA24; EF07MA25.
 
@@ -4482,7 +4482,7 @@ height="0.5520833333333334in"}
 
 Como a medida era a maior inteira possível, então é 24m.
 
-Módulo 12
+# Módulo 12
 
 Habilidade BNCC: (não há correspondência)
 
@@ -4831,7 +4831,7 @@ D - Correta.
 
 Portanto, o maior valor é R\$ 44,00.
 
-Módulo 13
+# Módulo 13
 
 Habilidades BNCC: EF07MA35, EF07MA37.
 
@@ -5408,7 +5408,7 @@ não é qualitativo.
 
 D - Errada, profissão, não é quantitativo.
 
-Módulo 14
+# Módulo 14
 
 Habilidades BNCC: EF07MA29; EF07MA30; EF07MA31; EF07MA32;
 
@@ -5939,7 +5939,7 @@ $\frac{210.000}{5.000} = 42\ \text{camin}hõ\text{es}$
 D - Errada, pois fez a multiplicação do volume errado, encontrando 215
 ao invés de 210.
 
-Módulo 15
+# Módulo 15
 
 Habilidade BNCC: EF07MA34
 

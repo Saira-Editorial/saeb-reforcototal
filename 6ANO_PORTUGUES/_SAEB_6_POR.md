@@ -1,6 +1,6 @@
 SAEB -- LÍNGUA PORTUGUESA -- 6º ANO
 
-MÓDULO 1: O que eu penso também tem valor
+# MÓDULO 1: O que eu penso também tem valor
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -478,7 +478,7 @@ BNCC: EF67LP07
 
 Nível de dificuldade: difícil.
 
-MÓDULO 2: Eu, a sociedade, direitos e deveres
+# MÓDULO 2: Eu, a sociedade, direitos e deveres
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -1182,7 +1182,7 @@ BNCC: **EF69LP20**
 
 **Nível: difícil.**
 
-MÓDULO 3: Textos que conversam
+# MÓDULO 3: Textos que conversam
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -1829,7 +1829,7 @@ BNCC: EF67LP27
 
 Nível: médio.
 
-MÓDULO 4: Palavra do especialista
+# MÓDULO 4: Palavra do especialista
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -2274,7 +2274,7 @@ BNCC: EF69LP43
 
 Nível: difícil.
 
-MÓDULO 5: Fato e opinião
+# MÓDULO 5: Fato e opinião
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -2635,7 +2635,7 @@ BNCC: EF67LP04
 
 Nível: Difícil
 
-MÓDULO 6: Qual é a graça?
+# MÓDULO 6: Qual é a graça?
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -2954,7 +2954,7 @@ BNCC: EF69LP05
 
 Nível: fácil
 
-MÓDULO 7: Tudo o que se lê é verdade?
+# MÓDULO 7: Tudo o que se lê é verdade?
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -3387,7 +3387,7 @@ BNCC: EF67LP03
 
 Nível: fácil
 
-MÓDULO 8: Os modalizadores do discurso em nosso dia a dia
+# MÓDULO 8: Os modalizadores do discurso em nosso dia a dia
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -3793,7 +3793,7 @@ BNCC: EF69LP04
 
 Nível: difícil
 
-MÓDULO 9: As figuras de linguagem
+# MÓDULO 9: As figuras de linguagem
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -4141,7 +4141,7 @@ BNCC: EF67LP38
 
 Nível: difícil.
 
-MÓDULO 10: Os pronomes em nosso dia a dia
+# MÓDULO 10: Os pronomes em nosso dia a dia
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -4569,7 +4569,7 @@ BNCC: EF06LP12
 
 Nível: difícil.
 
-MÓDULO 11: Para cada situação, uma adequação
+# MÓDULO 11: Para cada situação, uma adequação
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
