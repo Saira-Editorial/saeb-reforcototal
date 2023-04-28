@@ -2688,7 +2688,7 @@ Deixar o espaço de 3 linhas para resolução
 
 Resposta: Ele deve completar no mínimo 40 voltas completas.
 
-10\. A Linha poligonal é conhecida por formar os polígonos e são de suma
+\num{10} A Linha poligonal é conhecida por formar os polígonos e são de suma
 importância nos estudos da geometria. Para ser identificado como um
 polígono, uma figura geométrica plana precisa ser:
 

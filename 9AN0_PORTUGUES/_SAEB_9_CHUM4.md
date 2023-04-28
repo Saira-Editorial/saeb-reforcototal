@@ -38,7 +38,7 @@ de* preprints *SSRN para revisão por pares.*
 ~BUTANTAN,\ Instituto.\ Projeto\ S\ é\ exemplo\ de\ como\ incentivar\ a\ vacinação\ e\ combater\ a\ desinformação\
 Disponível\ em:\ https://butantan.gov.br/noticias/projeto-s-e-exemplo-de-como-incentivar-a-vacinacao-e-combater-a-desinformacao.\ Acesso\ em\ 03\ mar.\ 2023.~
 
-1\. O Brasil tem um histórico positivo em relação às campanhas de
+\num{1} O Brasil tem um histórico positivo em relação às campanhas de
 vacinação contra diversos agentes infecciosos. Mesmo assim, na pandemia
 de COVID-19, foi necessário grande esforço para levar à população aos
 locais de aplicação das vacinas, inclusive de agentes não estatais.
@@ -49,7 +49,7 @@ Os líderes comunitários têm grande permeabilidade e influência dentro
 dos limites territoriais em que atuam, tendo sido um importante veículo
 de propagação e esclarecimento da campanha de vacinação.
 
-2\. A figura do Estado foi vital para o controle e enfrentamento à
+\num{2} A figura do Estado foi vital para o controle e enfrentamento à
 pandemia de COVID-19. Contudo, outros agentes também foram essenciais e
 nortearam as ações estatais ao longo da pandemia. Sublinhe abaixo, além
 dos líderes comunitários, aqueles que auxiliaram o Estado neste
@@ -62,7 +62,7 @@ Obviamente, àqueles que foram importantíssimos, e juntamente com o
 Estado, auxiliaram o enfrentamento à pandemia de COVID-19, foram
 médicos, os pesquisadores(as) e autoridades públicas.
 
-3\. Leia o trecho a seguir:
+\num{3} Leia o trecho a seguir:
 
 *As milícias cariocas já controlam 25,5% dos bairros do Rio de Janeiro,
 em um total de 57,5% do território da cidade. As três principais facções
@@ -85,7 +85,7 @@ públicas, especificamente, do setor de segurança. O Estado tem sido
 ineficiente em combater as ações destes grupos, além de conter sua
 expansão.
 
-4\. Leia o texto que segue:
+\num{4} Leia o texto que segue:
 
 *As vaias ao hino espanhol durante a final da Copa do Rei, entre
 Barcelona e Athletic Bilbao, custaram caro. A Comissão antiviolência da
@@ -117,7 +117,7 @@ isso às vaias ao hino nacional na partida citada. Ademais, recentemente,
 a população da Catalunha votou em favor de um referendo que pede a
 independência da região frente à Espanha.
 
-5\. Leia o trecho a seguir:
+\num{5} Leia o trecho a seguir:
 
 *Os curdos formam uma população estimada entre 25 milhões e 35 milhões e
 habitam uma região montanhosa que se espalha pelos territórios de cinco
@@ -146,7 +146,7 @@ formados e reconhecidos internacionalmente. Dessa forma, a obtenção de
 um território para a formação do Curdistão compreende um assunto muito
 delicado e que envolve outros Estados nacionais.
 
-6\. Leia o trecho a seguir:
+\num{6} Leia o trecho a seguir:
 
 *A maioria separatista do Parlamento catalão proclamou nesta
 sexta-feira, unilateralmente, a independência da Catalunha, acabando com
@@ -169,7 +169,7 @@ internacionais, neste caso a União Europeia. Para a formação de um novo
 Estado nacional é vital ter o reconhecimento internacional, seja de
 países, instituições ou blocos.
 
-7\. Analise o mapa a seguir:
+\num{7} Analise o mapa a seguir:
 
 Inserir mapa com a evolução do território israelense em detrimento da
 redução do território ocupado pelos palestinos.
@@ -188,7 +188,7 @@ palestinos reivindicam a criação de um Estado próprio, no mesmo
 território onde está situado o Estado israelense, o que complica uma
 resolução de paz para estes povos.
 
-8\. Atribua verdadeiro (V) ou falso (F) para as afirmativas a seguir:
+\num{8} Atribua verdadeiro (V) ou falso (F) para as afirmativas a seguir:
 
 \(V\) A existência de um Estado demanda, necessariamente, um território.
 
@@ -214,7 +214,7 @@ aprovação do referendo de independência da Catalunha, que os pedidos de
 independência estão ligados à falta de pertencimento à unidade
 territorial central, no caso o governo espanhol sediado em Madri.
 
-9\. Leia o trecho a seguir:
+\num{9} Leia o trecho a seguir:
 
 *No processo de desenvolvimento de Estados, distintos povos foram postos
 em um mesmo território, sob um mesmo governo e leis. Pequenos povos
@@ -240,7 +240,7 @@ MADRILENHOS -- ISRAELENSES -- CURDOS -- CATALÃES -- BASCOS -- ARMÊNIOS
 É correto que sejam sublinhados os seguintes povos: Curdos; Catalães;
 Bascos e Palestinos.
 
-10\. Analise o trecho e a imagem a seguir:
+\num{10} Analise o trecho e a imagem a seguir:
 
 *Gritos de \"Barcelona, vocês sempre serão Espanha\", que soa a pior das
 ofensas para quem é catalão, provocou uma ação violenta de seguranças no
@@ -272,7 +272,7 @@ nacional, divergente à unidade territorial espanhola.~\
 
 **Treino**
 
-1\. Leia o trecho a seguir:
+\num{1} Leia o trecho a seguir:
 
 *O presidente da Catalunha, Carles Puigdemont, disse na noite deste
 domingo (1º) que a Catalunha "ganhou o direito de ser um Estado" após a
@@ -329,7 +329,7 @@ independência. Sua realização e aprovação não resultou, diretamente, na
 independência da Catalunha, tanto é que não foi considerado legítimo
 pelo governo espanhol.
 
-2\. Leia o trecho a seguir:
+\num{2} Leia o trecho a seguir:
 
 *O Ministério da Saúde anunciou, nesta quarta-feira (08), um dos
 embaixadores da Campanha Nacional de Vacinação deste ano. O* influencer
@@ -380,7 +380,7 @@ d\) INCORRETA. O texto não destaca o rechaço da população às figuras
 públicas, pelo contrário, dado que o Estado buscou um *influencer* para
 estampar a campanha de vacinação.
 
-3\. Leia o trecho a seguir:
+\num{3} Leia o trecho a seguir:
 
 *--- O Rio de Janeiro virou uma realidade à parte no setor. A pessoa tem
 uma revenda regularizada, mas, se o funcionário atravessa a rua e faz
@@ -436,7 +436,7 @@ pela manutenção da segurança e integridade dos populares.
 
 **SIMULADO**
 
-1\. Leia os trechos a seguir:
+\num{1} Leia os trechos a seguir:
 
 **Texto I**
 
@@ -504,7 +504,7 @@ c\) INCORRETA. A formação de um Estado independente não está relacionada
 d\) INCORRETA. A formação de um Estado independente não está relacionada
 ao estabelecimento de uma capital.
 
-2\. Leia o trecho a seguir:
+\num{2} Leia o trecho a seguir:
 
 *Em muitas cidades ingovernáveis, o estado geralmente não pode
 proporcionar a lei e ordem e responder às necessidades básicas de
@@ -547,7 +547,7 @@ Estado.
 d\) INCORRETA. Nas áreas de controle do crime organizado não há uma
 opção ou alternativa paralela no oferecimento da segurança.
 
-3\. Leia o trecho sobre o Movimento dos Trabalhadores Rurais Sem Terra
+\num{3} Leia o trecho sobre o Movimento dos Trabalhadores Rurais Sem Terra
 (MST):
 
 \[\...\] *Organizado nacionalmente, ele se constitui no principal
@@ -593,7 +593,7 @@ intermediar a relação entre pequenos e grandes produtores agrícolas.
 d\) INCORRETA. De acordo com o excerto, o MST não tem como finalidade
 centralizar e direcionar a produção agrícola nacional.
 
-4\. Leia o trecho a seguir.
+\num{4} Leia o trecho a seguir.
 
 \[\...\] *Tensões entre judeus e não judeus alcançaram o ponto de
 ebulição, e em 1948 uma Grã-Bretanha exausta entregou o problema para as
@@ -639,7 +639,7 @@ palestinos.
 d\) INCORRETA. As relações envolvendo Iêmen e Arábia Saudita não
 envolvem a disputa entre judeus e árabes.
 
-5\. Leia o trecho a seguir:
+\num{5} Leia o trecho a seguir:
 
 **Entenda quem são os curdos, povo no centro da disputa entre Turquia e
 EUA**

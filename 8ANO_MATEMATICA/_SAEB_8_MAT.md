@@ -4537,7 +4537,7 @@ Alternativa A: Correta
 
 Hexágono regular = 6 lados
 
-6\. 5 = 30 cm por porta joias
+\num{6} 5 = 30 cm por porta joias
 
 20 . 30 cm = 600 cm de fita ou 6 metros de fita
 
@@ -6175,7 +6175,7 @@ A= 20 cm²
 
 b\)
 
-6\. 3 + 3 . 3 = A
+\num{6} 3 + 3 . 3 = A
 
 18+9 = A
 
@@ -6816,7 +6816,7 @@ Alternativa D: Correta Pois:
 
 Relendo o enunciado temos que:
 
-3\. 4 . 6 . 5 = 300
+\num{3} 4 . 6 . 5 = 300
 
 3\) Um casal decidiu inovar na escolha do nome de seu novo filho,
 resolveram colocar todas as letras do alfabeto em um saquinho, a letra
@@ -7262,7 +7262,8 @@ X=15
 
 Fazendo a substituição temos que os ângulos são
 
-3 . 15 = 45
+% Jorge: Procurar exercício 
+3\. 15 = 45
 
 4\. 15 + 15 = 75
 

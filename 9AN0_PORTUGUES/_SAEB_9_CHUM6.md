@@ -33,14 +33,14 @@ automação e a digitalização no local de trabalho aumentam.*
 
 ~Disponível\ em:\ https://g1.globo.com/economia/concursos-e-emprego/noticia/2020/10/21/automacao-deve-fechar-85-milhoes-de-empregos-diz-relatorio-do-forum-economico-mundial.ghtml.\ Acesso\ 11\ mar.\ 2023.~
 
-1\. A partir da leitura do trecho acima, conceitue o tipo de desemprego
+\num{1} A partir da leitura do trecho acima, conceitue o tipo de desemprego
 especificado.
 
 O tipo de desemprego especificado no trecho é o estrutural, dada a
 mudança da estrutura produtiva -- automação, que irá substituir o
 trabalho manual.
 
-2\. Analise a imagem a seguir.
+\num{2} Analise a imagem a seguir.
 
 Inserir imagem de trabalhadores quebrando as máquinas industriais.
 Fonte: https://www.infoescola.com/historia/ludismo/
@@ -63,7 +63,7 @@ Com isso, conseguiram denunciar as péssimas condições de vida que
 tinham, e lutar por melhoras nas condições de vida e trabalho de forma
 organizada e coletiva, o que mais tarde geraria os sindicatos.
 
-3\. Leia o trecho a seguir.
+\num{3} Leia o trecho a seguir.
 
 *A mecanização do campo vem corroendo cada vez mais os empregos no setor
 agrícola. O contingente de trabalhadores no segmento vem sendo reduzido
@@ -88,7 +88,7 @@ DESEMPREGO CONJUNTURAL -- ÊXODO URBANO -- MIGRAÇÃO PENDULAR [ÊXODO
 RURAL]{.underline} -- [DESEMPREGO ESTRUTURAL]{.underline} --
 TRANSUMÂNCIA
 
-4\. Analise o gráfico a seguir.
+\num{4} Analise o gráfico a seguir.
 
 Inserir gráfico ilustrando a evolução da população urbana/rural no
 Brasil ao longo do tempo. Fonte:
@@ -111,7 +111,7 @@ trabalho nas cidades e oferecia diferentes condições de vida, além da
 mecanização do campo, reduzindo as possibilidades de trabalho no
 ambiente rural.
 
-5\. Leia o trecho a seguir:
+\num{5} Leia o trecho a seguir:
 
 \[\...\] *Aqui a população que reside nas cidades passou de 45% em 1960
 para 75% em 1990 e mais de 80% em 2000. Essa transferência intensa para
@@ -141,7 +141,7 @@ a insuficiência da política habitacional brasileira, além da
 insuficiência dos serviços associados ao saneamento básico -- água
 tratada, coleta e tratamento de esgoto, etc.
 
-6\. Analise a imagem a seguir.
+\num{6} Analise a imagem a seguir.
 
 Inserir imagem mostrando a linha cronológica do agronegócio brasileiro.
 Fonte: https://www.embrapa.br/visao-de-futuro/trajetoria-do-agro
@@ -165,7 +165,7 @@ detrimento de culturas agrícolas consumidas no mercado interno.
 Importante ressaltar que a produção de commodities visava o
 direcionamento ao mercado externo.
 
-7\. Leia o trecho a seguir.
+\num{7} Leia o trecho a seguir.
 
 *As atividades agrícolas chamadas modernas são cada vez mais avançadas
 tecnologicamente, empregando baixa quantidade de mão-de-obra e
@@ -194,7 +194,7 @@ favorecido à concentração fundiária, dada a orientação da produção ao
 mercado externo, e a melhor implementação dos insumos agrícolas citados
 em grandes extensões de terras.
 
-8\. Leia o trecho a seguir.
+\num{8} Leia o trecho a seguir.
 
 *No livro A História da Alimentação, Flandrin e Montanari consideram que
 a Revolução Industrial atingiu a história da gastronomia em vários
@@ -212,7 +212,7 @@ farinha e açúcar, que tiveram ampla produção com a industrialização.
 Além disso, houve a redução do consumo de produtos *in natura*, como
 vegetais e legumes.
 
-9\. Leia o trecho a seguir:
+\num{9} Leia o trecho a seguir:
 
 *Entre 1960 e 2017, houve um crescimento do número de tratores por mil
 hectares de 0,06 para 17,1 (trator por hectare). A potência média por
@@ -232,7 +232,7 @@ utilização de maquinário e, consequentemente, a menor utilização de
 mão-de-obra humana, e o aumento da produtividade agrícola, dada a
 utilização de maquinário.
 
-10\. Leia o trecho a seguir:
+\num{10} Leia o trecho a seguir:
 
 *O processo de industrialização da agricultura tem eliminado
 gradativamente a separação entre a cidade e o campo, entre o rural e o
@@ -253,7 +253,7 @@ espaço urbano.
 
 **Treino**
 
-1\. Leia o trecho a seguir:
+\num{1} Leia o trecho a seguir:
 
 *As previsões sobre o potencial da inteligência artificial e de
 tecnologias associadas sobre os empregos variam bastante conforme os
@@ -297,7 +297,7 @@ a possibilidade de desemprego conjuntural.
 d\) INCORRETA. Pelo contrário, a introdução de tecnologias no ambiente
 de trabalho tende a reduzir postos de trabalho tidos como manuais.
 
-2\. Leia o trecho a seguir:
+\num{2} Leia o trecho a seguir:
 
 *A mecanização no campo cresceu nos últimos anos no Brasil. O número de
 tratores passou de 820.718 para 1.229.907, um aumento de cerca de 50% e
@@ -346,7 +346,7 @@ dos motivos da diminuição dos postos de trabalho no campo.
 d\) INCORRETA. Pelo contrário, a perda de postos de trabalho tem sido um
 dos fatores de expulsão da população no meio rural brasileiro.
 
-3\. Leia o trecho a seguir:
+\num{3} Leia o trecho a seguir:
 
 *No passado, o êxodo rural contribuiu para a urbanização do Brasil. No
 período 1950--1960, chegou a ser responsável por 17,4% do crescimento
@@ -395,7 +395,7 @@ contrário.
 
 **SIMULADO**
 
-1\. Leia o trecho a seguir:
+\num{1} Leia o trecho a seguir:
 
 \[\...\] *Nas décadas de 1820 e 1830, o avanço impessoal e poderoso da
 máquina e do mercado começou a deixá-los de lado. Na melhor das
@@ -442,7 +442,7 @@ atividades laborais.
 d\) INCORRETA. O trecho é enfático ao ressaltar as péssimas condições de
 vida de grande parte dos trabalhadores urbanos.
 
-2\. Leia o trecho a seguir:
+\num{2} Leia o trecho a seguir:
 
 *Com efeito, em meados do século XIX, a Índia já não era mais o maior
 produtor mundial de tecidos de algodão, agora era a Grã-Bretanha que
@@ -494,7 +494,7 @@ industriais.
 d\) INCORRETA. Pelo contrário, o trecho destaca a presença de tecidos
 ingleses na Índia.
 
-3\. Leia o trecho a seguir:
+\num{3} Leia o trecho a seguir:
 
 *A mecanização no campo está modificando as relações de trabalho no
 agronegócio brasileiro. O trabalhador rural, antes contratado para fazer
@@ -538,7 +538,7 @@ substituído pelo uso das máquinas.
 d\) INCORRETA. O trecho não destaca algum tipo de flexibilização
 laboral.
 
-4\. Leia o trecho a seguir:
+\num{4} Leia o trecho a seguir:
 
 *Muitos autores, seguindo a linha de pensamento, afirmam que o campo
 brasileiro está marcado pela modernização da agricultura. Inclusive,
@@ -585,7 +585,7 @@ da população empregada no campo.
 d\) INCORRETA. O termo modernização "conservadora" não faz referência ao
 aumento da produtividade de pequenos agricultores.
 
-5\. Leia o trecho a seguir:
+\num{5} Leia o trecho a seguir:
 
 *O interesse pela industrialização e o anseio em aumentar a produção
 nacional resultaram no processo de modernização da agricultura
