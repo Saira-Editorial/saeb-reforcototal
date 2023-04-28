@@ -4991,7 +4991,7 @@ BNCC: EF69LP55
 
 Nível: fácil.
 
-**SIMULADO 1**
+# Simulado 1
 
 \num{1} Leia o texto a seguir.
 
@@ -5777,7 +5777,7 @@ jornalísticos.
 
 **Nível: fácil**
 
-**SIMULADO 2**
+# Simulado 2
 
 \num{1} Leia o texto a seguir.
 
