@@ -1,23 +1,16 @@
-1\. Módulo 1
+# 1. O poder do texto
 
-Neste módulo, será estudada a argumentação. Ao final do Ensino
-Fundamental, já na entrada do Médio, o estudo do texto argumentativo é
-imprescindível tanto para o treino da fluência de leitura de textos com
-essa natureza quanto para o ganho da habilidade de estruturar e produzir
-textos assim. O estudo da persuasão e de sua construção nos textos
-também é essencial para que os dois lados dessa compreensão sejam
-estimulados -- a percepção dos recursos persuasivos nos textos lidos e a
-escolha e o uso desses recursos na produção textual.
 
-Habilidades da BNCC: EF89LP04
+Habilidades do SAEB
 
-Habilidades do SAEB:
-
-\- Identificar o uso de recursos persuasivos em textos verbais e não
+1. Identificar o uso de recursos persuasivos em textos verbais e não
 verbais.
 
-\- Identificar teses, opiniões, posicionamentos explícitos e argumentos
+1. Identificar teses, opiniões, posicionamentos explícitos e argumentos
 em textos.
+
+Habilidade da BNCC
+1. EF89LP04.
 
 https://pixabay.com/pt/vectors/argumento-alto-discuss%c3%a3o-conflito-6080057/
 
@@ -38,7 +31,7 @@ Nesses textos, aparecem elementos importantes, como:
   POSICIONAMENTO EXPLÍCITO   Esclarecimento, de forma indiscutível, de uma crença ou da definição de um dos lados de um assunto.
   ARGUMENTOS                 Construções que visam a ajudar na comprovação de uma tese.
 
-Há diversos tipos de argumentos, observe:
+Há diversos tipos de argumentos:
 
 -   **Argumento de autoridade**: é fundamentado na citação de fonte
     confiável -- um especialista no assunto, dados de instituição de
@@ -4741,3 +4734,4 @@ ensino de gramática. São Paulo: Cortez Editora, 2008.
 
 VIGOTSKY, Lev S. **Pensamento e linguagem**. Tradução: Jefferson Luiz
 Camargo. São Paulo: Martins Fontes, 2003.
+
