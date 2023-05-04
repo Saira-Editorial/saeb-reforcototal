@@ -6,6 +6,12 @@
 \colorsec{Habilidades da BNCC}
 1. EF09GE01, EF09GE02, EF09GE03, EF09HI03, EF09HI04, EF09HI26.
 
+\conteudo{A cultura é um conjunto de conhecimentos, crenças, valores, tradições, costumes e práticas que são compartilhados por um grupo de pessoas e transmitidos de geração em geração. A identidade, por sua vez, refere-se ao conjunto de características que definem um indivíduo e que o distinguem dos outros, incluindo sua origem, gênero, orientação sexual, etnia, religião e outras características que compõem sua personalidade.
+
+A diversidade cultural é a variedade de culturas e práticas que existem em todo o mundo, e que são influenciadas por diversos fatores, como a geografia, história, política e economia. A diversidade é um elemento fundamental da sociedade, pois permite a convivência pacífica entre pessoas com diferentes origens e tradições.
+
+Nesse sentido, é importante destacar que a diversidade cultural é essencial para a compreensão e valorização das diferenças entre os indivíduos e grupos sociais, promovendo assim a tolerância e a coexistência pacífica entre eles. A valorização da diversidade e da pluralidade cultural é uma forma de construir uma sociedade mais justa, inclusiva e democrática.}
+
 Atividades
 
 \num{1} Leia o texto.
