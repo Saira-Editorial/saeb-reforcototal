@@ -1,8 +1,8 @@
-**Módulo 1: Conjuntos Numéricos**
+# Módulo 1 
 
-RESUMO TEÓRICO
+  Conjuntos Numéricos
 
-Os números racionais e irracionais são duas categorias de números
+\conteudo{Os números racionais e irracionais são duas categorias de números
 importantes na matemática.
 
 Os números racionais são todos aqueles que podem ser escritos na forma
@@ -24,11 +24,11 @@ geometria e para outras áreas da matemática.
 Em resumo, os números racionais são aqueles que podem ser escritos na
 forma de fração, enquanto os números irracionais são aqueles que não
 podem. Ambos os tipos de números são importantes e estão presentes em
-diversas áreas da matemática e da ciência.
+diversas áreas da matemática e da ciência.}
 
-Atividades
+\colorsec{Atividades}
 
-1)  Escreva se os números abaixo são Racionais (Q) ou Irracionais (I)
+\num{1}  Escreva se os números abaixo são Racionais (Q) ou Irracionais (I)
 
 \_\_\_\_\_ Deixar espaço na frente de cada item para responder
 
@@ -56,10 +56,8 @@ d)  A raiz quadrada de 7 não é exata, está entre os números naturais 2 e
 e)  Este número trata-se de uma dízima **não** periódica, ou seja,
     irracional.
 
-```{=html}
-<!-- -->
-```
-2)  Localize na reta aproximadamente os locais correspondentes aos
+
+\num{2}  Localize na reta aproximadamente os locais correspondentes aos
     valores abaixo:
 
 ![Imagem em preto e branco Descrição gerada automaticamente com
@@ -76,7 +74,7 @@ b)  -- 1,8
 
 c)  
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.4
+Professor: BNCC: EF09MA02 SAEB: 9N1.4
 
 ![Imagem em preto e branco Descrição gerada automaticamente com
 confiança
@@ -85,7 +83,7 @@ height="0.883409886264217in"}
 
 Fazer a figura colocando a resposta com a seta e letra
 
-3)  Em um jogo realizado em sala de aula o professor colocou diversos
+\num{3}  Em um jogo realizado em sala de aula o professor colocou diversos
     números racionais e irracionais em uma urna. A primeira parte
     consistia em cada grupo sortear 5 números sem reposição,
     posteriormente deveriam colocar os números sorteados em ordem
@@ -94,13 +92,11 @@ Fazer a figura colocando a resposta com a seta e letra
 
 Colocar uma linha para a resposta
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.4
->
-> Considerando as aproximações ; ; 0,75 e
->
-> Temos: ; 0,75; ; ; 7
+Professor: BNCC: EF09MA02 SAEB: 9N1.4
+Considerando as aproximações ; ; 0,75 e
+Temos: ; 0,75; ; ; 7
 
-4)  Complete a tabela:
+\num{4}  Complete a tabela:
 
   Representação decimal ou fracionário   Descrição na língua materna (escrito por extenso)
   -------------------------------------- ---------------------------------------------------
@@ -110,36 +106,31 @@ Colocar uma linha para a resposta
                                          Dois milésimos
                                          
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.1
->
-> Dois centésimos // ou 0,3 // Três milésimos // ou 0,002 // Cinquenta e
-> um décimos
+Professor: BNCC: EF09MA02 SAEB: 9N1.1
+Dois centésimos // ou 0,3 // Três milésimos // ou 0,002 // Cinquenta e
+um décimos
 
-5)  Os números naturais podem ser primos ou compostos. Considerando os
+\num{5}  Os números naturais podem ser primos ou compostos. Considerando os
     números naturais 87 e 29, como podemos classificá-los? E quais os
     critérios você utilizou para definir a classificação?
 
-> Deixar 3 linhas para resposta
->
-> Professor: BNCC: EF09MA02 SAEB: 9N1.2
->
-> O número 89 é composto, pois pode ser escrito como 3 · 29 e o número
-> 29 é primo, pois não tem outro divisor primo.
+Deixar 3 linhas para resposta
+Professor: BNCC: EF09MA02 SAEB: 9N1.2
+O número 89 é composto, pois pode ser escrito como 3 · 29 e o número
+29 é primo, pois não tem outro divisor primo.
 
-6)  Jorge adora propor desafios matemáticos para seus netos. No último
+\num{6}  Jorge adora propor desafios matemáticos para seus netos. No último
     domingo disse para seu neto que em 2023 ele completou a idade
     correspondente ao número de divisores positivos do número 5 040.
     Quantos aos completou Jorge no ano de 2023?
 
-> Deixar 3 linhas para resposta
->
-> Professor: BNCC: EF09MA02 SAEB: 9N1.11
->
-> Decompondo o número 5 040 temos que: com isso o número de divisores
-> positivos são: (4+1) · (2+1) · (1+1) · (1+1) = 5 · 3 · 2 · 2 = 60.
-> Desta forma Jorge completou 60 anos em 2023.
+Deixar 3 linhas para resposta
+Professor: BNCC: EF09MA02 SAEB: 9N1.11
+Decompondo o número 5 040 temos que: com isso o número de divisores
+positivos são: (4+1) · (2+1) · (1+1) · (1+1) = 5 · 3 · 2 · 2 = 60.
+Desta forma Jorge completou 60 anos em 2023.
 
-7)  Complete a tabela:
+\num{7}  Complete a tabela:
 
   Representação decimal   Representação fracionária
   ----------------------- ---------------------------
@@ -149,23 +140,20 @@ Colocar uma linha para a resposta
   0,25                    
                           
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.1
->
-> 2,4 // // // // 0,875
+Professor: BNCC: EF09MA02 SAEB: 9N1.1
+2,4 // // // // 0,875
 
-8)  Decomponha os números abaixo em fatores primos: Deixar espaço na
+\num{8}  Decomponha os números abaixo em fatores primos: Deixar espaço na
     frente de cada item para responder
 
-```{=html}
-<!-- -->
-```
+
 a)  256
 
 b)  1250
 
 c)  4800
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.2
+Professor: BNCC: EF09MA02 SAEB: 9N1.2
 
 a)  256 = 2^8^
 
@@ -173,45 +161,36 @@ b)  1250 = 2 · 5^4^
 
 c)  4800 = 2^6^ · 3 · 5^2^
 
-```{=html}
-<!-- -->
-```
-9)  Escreva o número que corresponde a cada fatoração em números primos:
+
+\num{9}  Escreva o número que corresponde a cada fatoração em números primos:
     Deixar espaço na frente de cada item para responder
 
-```{=html}
-<!-- -->
-```
+
 a)  
 b)  
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.2
+Professor: BNCC: EF09MA02 SAEB: 9N1.2
 
 a)  360
 
 b)  4725
 
-```{=html}
-<!-- -->
-```
-10) Ao fazer a decomposição de 336 em fatores primos, Thiago chegou a
+
+\num{0} Ao fazer a decomposição de 336 em fatores primos, Thiago chegou a
     seguinte expressão . Qual o valor que Thiago deve colocar no lugar
     de x?
 
-> Colocar uma linha para a resposta
->
-> Professor: BNCC: EF09MA02 SAEB: 9N1.2
+Colocar uma linha para a resposta
+Professor: BNCC: EF09MA02 SAEB: 9N1.2
 
 Como o número 336 = 2^4^ · 3 · 7, temos que x é igual a 4
 
-> Treino
+\colorsec{Treino}
 
-1)  Se o número tem exatamente 60 divisores positivos então o valor e x
+\num{1}  Se o número tem exatamente 60 divisores positivos então o valor e x
     é:
 
-```{=html}
-<!-- -->
-```
+
 a)  5
 
 b)  4
@@ -220,14 +199,14 @@ c)  3
 
 d)  **2**
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.2
+Professor: BNCC: EF09MA02 SAEB: 9N1.2
 
 Desta forma temos que x = 2
 
-2)  Em um jogo foi proposto 4 cartas com afirmações em que o jogador
+\num{2}  Em um jogo foi proposto 4 cartas com afirmações em que o jogador
     deve encontrar a verdadeira.
 
-> Imagem: Fazer 4 retângulos com uma afirmação em cada:
+Imagem: Fazer 4 retângulos com uma afirmação em cada:
 
 A)  Todo múltiplo de 5 é ímpar
 
@@ -247,7 +226,7 @@ c)  C
 
 d)  **D**
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.11
+Professor: BNCC: EF09MA02 SAEB: 9N1.11
 
 a)  Falso, 10 é múltiplo de 5 e não é ímpar.
 
@@ -258,10 +237,8 @@ c)  Falso, 2 é par e não é múltiplo de 6.
 d)  Verdadeiro, como o 12 é par todo múltiplo deste número terá o
     fator 2.
 
-```{=html}
-<!-- -->
-```
-3)  Na reta numérica abaixo, há quatro valores indicados pelas letras A,
+
+\num{3}  Na reta numérica abaixo, há quatro valores indicados pelas letras A,
     B, C e D. Qual destas letras indica a localização do número 1,6?
 
 ![Linha do tempo Descrição gerada
@@ -278,14 +255,16 @@ c)  C
 
 d)  **D**
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.4
+Professor: BNCC: EF09MA02 SAEB: 9N1.4
 
 O item D, pois entre os números 1 e 2 temos 9 marcações e a letra D está
 na sexta marcação, o que corresponde a 1,6.
 
-**Módulo 2: Operações**
+# Módulo 2 
 
-RESUMO TEÓRICO
+  Operações
+
+\conteudo{...}
 
 O conjunto dos números reais é a união entre o conjunto dos números
 racionais e o conjunto dos números irracionais, sendo assim, o número
@@ -299,17 +278,12 @@ grandezas da física e da química, entre outras situações.
 
 As operações envolvendo os números reais são:
 
-\- Adição
-
-\- Subtração
-
-\- Multiplicação
-
-\- Divisão
-
-\- Potenciação
-
-\- Radiciação
+* Adição
+* Subtração
+* Multiplicação
+* Divisão
+* Potenciação
+* Radiciação
 
 [Potenciação]{.underline}
 
@@ -344,9 +318,9 @@ iguais sucessivas vezes, a radiciação procura quais são esses elementos.
 Por exemplo, 8² = 64, desta forma podemos dizer que a raiz quadrada de
 64 é 8.
 
-Atividades
+\colorsec{Atividades}
 
-1)  Urano é o sétimo planeta do Sol e é o terceiro maior no sistema
+\num{1}  Urano é o sétimo planeta do Sol e é o terceiro maior no sistema
     solar. Foi descoberto por William Herschel em 1781. Tem um diâmetro
     equatorial de 51.800 quilômetros (32.190 milhas) e orbita o Sol uma
     vez a cada 84,01 anos da Terra. Tem uma distância média do Sol de
@@ -362,7 +336,7 @@ BNCC: EF09MA04 SAEB: 9N1.4
 
 2,87 · 10^9^ km.
 
-2)  Jorge foi fazer uma entrega, em um condomínio, de 50 caixas pesando
+\num{2}  Jorge foi fazer uma entrega, em um condomínio, de 50 caixas pesando
     60kg cada caixa. Para tal utilizou o elevador, que tinha a
     capacidade máxima de 800kg. Jorge pesa 100kg. Por segurança o
     zelador não deixa que o limite de capacidade do elevador seja
@@ -382,7 +356,7 @@ que o limite de peso que pode colocar no elevador será de no máximo 700
 kg. Para carregar 700 kg ele deverá levar no máximo 11 caixas por vez.
 50 : 11 = 4,54 aproximadamente, ou seja, 5 viagens.
 
-3)  Para fazer a publicação e um determinado livro, estimou-se um custo
+\num{3}  Para fazer a publicação e um determinado livro, estimou-se um custo
     inicial de R\$ 250.000,00 e ainda um custo de R\$ 10,00 por unidade.
     Elisa quer publicar um livro com uma tiragem de 5 000 exemplares.
 
@@ -396,7 +370,7 @@ BNCC: EF09MA04 SAEB: 9N1.5
 dividir o valor. 300 000 : 5 000 = 60. Ou seja um custo de R\$ 60,00 por
 unidade.
 
-4)  A cantina da escola optou por vender lanches saudáveis e fez uma
+\num{4}  A cantina da escola optou por vender lanches saudáveis e fez uma
     negociação com o distribuidor de maçãs da região. A negociação fez
     com que a cada duas maçãs fossem pagos (custo) o valor de R\$ 0,80.
     O preço de venda será de R\$ 1,00 a unidade.
@@ -414,7 +388,7 @@ Dado que o custo por unidade é de R\$ 0,40 e o valor de venda é R\$ 1,00
 temos um lucro por unidade de R\$ 0,60. Desta forma 90 : 0,60 = 150
 maçãs.
 
-5)  Uma xícara com leite pesa 420 g, porém se bebermos metade do leite
+\num{5}  Uma xícara com leite pesa 420 g, porém se bebermos metade do leite
     ele passa a pesar 230 g.
 
 Qual o peso da xícara vazia?
@@ -428,7 +402,7 @@ percebemos que houve uma redução de 190 g, ou seja, esta é massa ocupada
 por metade do leite, desta forma o leite tem a massa de 190 · 2 = 380 g
 e a xícara 420 -- 380 = 40 gramas.
 
-6)  "A NGC 4151 está localizada a cerca de 43 milhões de anos-luz da
+\num{6}  "A NGC 4151 está localizada a cerca de 43 milhões de anos-luz da
     Terra e se enquadra entre as galáxias jovens que possui um buraco
     negro em intensa atividade. Mas ela não é só lembrada por esses
     quesitos. A NGC 4151 é conhecida por astrônomos como o 'olho de
@@ -457,7 +431,7 @@ BNCC: EF09MA04 SAEB: 9N1.4
 
 43 milhões representa 43 000 000, ou seja, 43 · 10^6^ ou 4,3 · 10^7^.
 
-7)  Um professor de Educação Física quer mesclar os jogos que são
+\num{7}  Um professor de Educação Física quer mesclar os jogos que são
     oferecidos para suas turmas e com isso estabeleceu uma regularidade
     de repetição dos esportes das turmas. O futebol acontece a cada 30
     dias, os de basquete a cada 45 dias e os de handebol, a cada 60
@@ -476,7 +450,7 @@ Determinando o MMC (30, 45, 60) = 180
 
 Ocorrerá após 180 dias.
 
-8)  Durante uma campanha de arrecadação de alimentos motivados por uma
+\num{8}  Durante uma campanha de arrecadação de alimentos motivados por uma
     gincana na escola a turma da Larissa arrecadou: 288 pacotes de
     feijão, 96 pacotes de açúcar, 360 pacotes de arroz e 240 pacotes de
     fubá. Larissa recorreu a seus conhecimentos matemáticos para
@@ -495,7 +469,7 @@ BNCC: - SAEB: 9N2.4
 MDC (96, 240, 288, 360) = 24, desta forma podemos determinar que em cada
 pacote foram colocados 288 : 24 = 12 pacotes de feijão.
 
-9)  Uma costureira dispõe de dois pedaços de fita de comprimentos 1,20m
+\num{9}  Uma costureira dispõe de dois pedaços de fita de comprimentos 1,20m
     e 1,80m essas fitas, quantos pedaços menores de fita e de máximo
     tamanho possível ela conseguirá cortando as fitas?
 
@@ -510,11 +484,9 @@ MDC (1,20 e 1,80) = 0,60
 Serão 2 pedaços da fita de 1,20 e 3 pedaços da fita de 1,80. Os pedaços
 serão de 60 cm.
 
-10) Simplificando a expressão encontramos:
+\num{0} Simplificando a expressão encontramos:
 
-```{=html}
-<!-- -->
-```
+
 a)  2
 
 b)  4
@@ -523,15 +495,13 @@ c)  6
 
 d)  **8**
 
-> Professor:
->
-> BNCC: EF09MA03 SAEB: 9N1.6
->
-> d
+Professor:
+BNCC: EF09MA03 SAEB: 9N1.6
+d
 
-**Treino**
+\colorsec{Treino}
 
-1)  Fernando faz caminhada a cada 4 dias. Thiago, vizinho de Fernando,
+\num{1}  Fernando faz caminhada a cada 4 dias. Thiago, vizinho de Fernando,
     faz caminhada no mesmo parque, a cada 6 dias. Considerando que
     Fernando e Thiago se encontraram sexta fazendo caminhada.
 
@@ -553,7 +523,7 @@ MMC (4,6) = 12 dias. Após 7 dias será sexta-feira e podemos continuar
 contando (8º dia - sábado, 9º dia - domingo, 10º dia - segunda, 11º dia
 - terça e 12º dia - quarta).
 
-2)  Para arrecadar dinheiro para a festa de formatura do 9º ano Julinha
+\num{2}  Para arrecadar dinheiro para a festa de formatura do 9º ano Julinha
     decidiu fazer doces. Ela decidiu que para facilitar iria fazer
     pacotinhos com brigadeiros e com beijinhos. Fez uma primeira receita
     de cada para ver quantos consegui em cada receita. Neste primeiro
@@ -578,7 +548,7 @@ BNCC: EF09MA03 SAEB: 9N2.4
 
 MDC (120, 150) = 30, sendo assim temos 150 : 30 = 5 e 120 : 30 = 4
 
-3)  **Equipe diz ter descoberto menor forma de vida**
+\num{3}  **Equipe diz ter descoberto menor forma de vida**
 
 (WILLIAM J. BROAD do \"The New York Times\")
 
@@ -618,9 +588,11 @@ BNCC: EF09MA04 SAEB: 9N1.4
 
 $150 \cdot \frac{1}{1000000000} = \ 150 \cdot \frac{1}{10^{9}} = 150 \cdot 10^{- 9} = 1,5 \cdot 10^{- 7}m$
 
-**Módulo 3: Frações (associadas a imagens e fração geratriz)**
+# Módulo 3 
 
-RESUMO TEÓRICO
+  Frações (associadas a imagens e fração geratriz)
+
+\conteudo{...}
 
 A fração geratriz é aquela que quando calculamos seu valor decimal,
 obtemos como resultado será uma dízima periódica (número decimal
@@ -648,7 +620,7 @@ forma a escrever uma equação do 1º grau.
 
 Exemplos:
 
-1)  0,232323\...
+\num{1}  0,232323\...
 
 x = 0,232323\...
 
@@ -660,7 +632,7 @@ x = 0,232323\...
 
 $x = \frac{23}{99}$ .
 
-2)  0,5123123123\...
+\num{2}  0,5123123123\...
 
 Neste exemplo temos um dígito após a vírgula que não se repete, por isso
 é necessário fazer dois passos para que seja ajustado de maneira que
@@ -678,9 +650,9 @@ x = 0,5123123123\...
 
 $x = \frac{5118}{9990}$.
 
-Atividades
+\colorsec{Atividades}
 
-1)  Dados dois números reais x e y, tais que x = 2,333\... e y =
+\num{1}  Dados dois números reais x e y, tais que x = 2,333\... e y =
     0,151515\... são dízimas periódicas. Qual a fração representa a soma
     de x e y?
 
@@ -694,7 +666,7 @@ $x = 2,333\ldots = 2 + \frac{1}{3} = \frac{7}{3}$ e
 $y = 0,1515\ldots = \ \frac{15}{99} = \frac{5}{33}$. Fazendo
 $x + y = \frac{7}{3} + \frac{5}{33} = \frac{77 + 5}{33} = \frac{82}{33}$.
 
-2)  A representação do número 2,123123123\... pode ser colocada pela
+\num{2}  A representação do número 2,123123123\... pode ser colocada pela
     fração:
 
 Deixar 2 linhas
@@ -705,7 +677,7 @@ BNCC: - SAEB:9N1.10
 
 $$2,123123123 = 2 + \frac{123}{999} = \frac{1998 + 123}{999} = \frac{2121}{999} = \frac{707}{333}$$
 
-3)  Beatriz precisa encontrar uma fração na forma irredutível que
+\num{3}  Beatriz precisa encontrar uma fração na forma irredutível que
     represente o número 5,151515\... . Qual será a fração que ela deve
     encontrar?
 
@@ -717,7 +689,7 @@ BNCC: - SAEB:9N1.10
 
 $$5,151515\ldots = 5 + \frac{15}{99} = 5 + \frac{5}{33} = \frac{165 + 5}{33} = \frac{170}{33}$$
 
-4)  Na imagem abaixo faça um x sobre os bombons de forma a representar a
+\num{4}  Na imagem abaixo faça um x sobre os bombons de forma a representar a
     fração equivalente a $\frac{5}{9}$.
 
 Fazer uma imagem semelhante a imagem abaixo sem os pontilhados, o aluno
@@ -737,7 +709,7 @@ Montar imagem como a de baixo
 baixa](./_SAEB_9_MAT/media/image44.png){width="3.5513724846894137in"
 height="1.3802077865266842in"}
 
-5)  Quando Artur chega em casa encontra uma pizza com alguns pedaços já
+\num{5}  Quando Artur chega em casa encontra uma pizza com alguns pedaços já
     consumidos, seu irmão deve ter comido, então come alguns pedaços.
     Qual a fração de pizza Artur comeu?
 
@@ -755,7 +727,7 @@ Pela imagem vemos que a pizza estava com 8 pedaços de 10 e
 posteriormente com 5 pedaços de 10, sendo assim Artur consumiu 3 pedaços
 de 10, ou seja, $\frac{3}{10\ }.$
 
-6)  A fração de $\ \frac{2}{7}$ ao ser somada com a fração representada
+\num{6}  A fração de $\ \frac{2}{7}$ ao ser somada com a fração representada
     na figura a seguir será igual a:
 
 ![Foto preta e branca de um guarda-chuva Descrição gerada
@@ -769,11 +741,9 @@ BNCC: - SAEB:9N1.7
 
 $$\frac{2}{7} + \frac{5}{8} = \frac{16 + 35}{56} = \frac{51}{56}$$
 
-7)  Qual das imagens abaixo representa 4 décimos?
+\num{7}  Qual das imagens abaixo representa 4 décimos?
 
-```{=html}
-<!-- -->
-```
+
 a)  ![Gráfico, Gráfico de barras Descrição gerada
     automaticamente](./_SAEB_9_MAT/media/image47.png){width="1.0625in"
     height="1.2878783902012247in"}
@@ -793,7 +763,7 @@ BNCC: - SAEB:9N1.7
 
 Imagem da letra d
 
-8)  Qual a fração que representa a quantidade de crianças que preferem
+\num{8}  Qual a fração que representa a quantidade de crianças que preferem
     hamster como animal de estimação?
 
 ![](./_SAEB_9_MAT/media/image51.png){width="3.8593744531933507in"
@@ -807,7 +777,7 @@ Pela contagem temos 17 bolinhas que representam 34 crianças. Desta forma
 temos que 12 crianças que preferem hamster. A fração é
 $\frac{12}{34} = \frac{6}{17}$.
 
-9)  Uma fração equivalente ao número de peixes que Pedro tem em relação
+\num{9}  Uma fração equivalente ao número de peixes que Pedro tem em relação
     aos amigos.
 
 ![](./_SAEB_9_MAT/media/image52.png){width="3.6510411198600177in"
@@ -824,15 +794,13 @@ c)  $\frac{\mathbf{9}}{\mathbf{48}}$
 
 d)  $\frac{5}{16}$
 
-> Professor
->
-> BNCC: - SAEB:9N1.8
->
-> Pelo gráfico a quantidade a fração da quantidade de peixes que Pedro
-> tem em relação ao total é $\frac{3}{16}$, esta fração é equivalente a
-> fração da alternativa c.
+Professor
+BNCC: - SAEB:9N1.8
+Pelo gráfico a quantidade a fração da quantidade de peixes que Pedro
+tem em relação ao total é $\frac{3}{16}$, esta fração é equivalente a
+fração da alternativa c.
 
-10) O professor de André montou uma lista de exercícios que destes
+\num{0} O professor de André montou uma lista de exercícios que destes
     alguns iriam cair na sua avaliação. Alice já resolveu $\frac{4}{5}$,
     Bruno $\frac{2}{7}$, Augusto $\frac{12}{15}$ e Cadu $\frac{8}{10}$.
 
@@ -847,20 +815,16 @@ c)  **Alice e Augusto.**
 
 d)  Augusto e Cadu.
 
-> Professor
->
-> BNCC: - SAEB:9N1.8
->
-> As frações equivalentes são as que representam a quantidade da Alice e
-> Augusto, pois $\frac{4}{5} = \frac{12}{15}$.
+Professor
+BNCC: - SAEB:9N1.8
+As frações equivalentes são as que representam a quantidade da Alice e
+Augusto, pois $\frac{4}{5} = \frac{12}{15}$.
 
-Treino
+\colorsec{Treino}
 
-1)  A dízima periódica 0,126126\... é representada pela fração:
+\num{1}  A dízima periódica 0,126126\... é representada pela fração:
 
-```{=html}
-<!-- -->
-```
+
 a)  $\frac{126}{1000}$
 
 b)  $\frac{14}{111}$
@@ -869,18 +833,14 @@ c)  $\frac{126}{990}$
 
 d)  $\frac{63}{99}$
 
-> Professor
->
-> BNCC: - SAEB:9N1.10
->
-> 0,126126\... = $\frac{126}{999} = \frac{14}{111}$
+Professor
+BNCC: - SAEB:9N1.10
+0,126126\... = $\frac{126}{999} = \frac{14}{111}$
 
-2)  O número x, de forma a que as frações
+\num{2}  O número x, de forma a que as frações
     $\frac{12}{37} = \frac{x}{111}$ sejam equivalentes é:
 
-```{=html}
-<!-- -->
-```
+
 a)  12
 
 b)  24
@@ -889,14 +849,12 @@ c)  36
 
 d)  48
 
-> Professor
->
-> BNCC: - SAEB:9N1.7
->
-> Como o valor 111 é igual a 3·37, então basta fazer 3·12=36, desta
-> forma x=36.
+Professor
+BNCC: - SAEB:9N1.7
+Como o valor 111 é igual a 3·37, então basta fazer 3·12=36, desta
+forma x=36.
 
-3)  Observando os pedaços de chocolate, percebemos que há três tipos
+\num{3}  Observando os pedaços de chocolate, percebemos que há três tipos
     espalhados.
 
 ![Desenho de personagens Descrição gerada automaticamente com confiança
@@ -929,18 +887,19 @@ d)  ![](./_SAEB_9_MAT/media/image57.png){width="2.1085159667541555in"
 Essas imagens da alternativa foram feitas pelo autor, podem ser mantidas
 ou alteradas para se adequar ao projeto.
 
-> Professor
->
-> BNCC: - SAEB: 9N1.8
+Professor
+BNCC: - SAEB: 9N1.8
 
 $\frac{2}{3}\ $de 12 são 8 pedaços e $\frac{1}{2}$ de 12 são 6 pedaços,
 ou seja, Juca comeu 14 pedaços dos 35 disponíveis. A fração que ele
 comeu de chocolate foi $\frac{14}{35} = \frac{2}{5}$ que está
 representada na alternativa b.
 
-**Módulo 4: Porcentagem: Aumentos e Descontos**
+# Módulo 4 
 
-RESUMO TEÓRICO
+  Porcentagem Aumentos e Descontos
+
+\conteudo{...}
 
 Para determinar aumentos ou descontos sucessivos utilizamos o fator de
 correção. O fator de correção é dado por F = (1 + i), onde i é a taxa
@@ -968,9 +927,9 @@ fazer:
 (1 + 0,1) · (1 + 0,15) = 1,265 → 1 + 0,265 , ou seja, um aumento de
 26,5% no total.
 
-Atividades
+\colorsec{Atividades}
 
-1)  Em um período de alta inflação os itens da cesta básica tiveram um
+\num{1}  Em um período de alta inflação os itens da cesta básica tiveram um
     aumento de 75%.
 
 Considerando que o preço inicial a cesta básica era de R\$ 60,00 , qual
@@ -983,7 +942,7 @@ BNCC: EF09MA05 SAEB: 9N2.3
 Calculando 75% de 60 teremos 0,75·60=45, ou seja, no final do período
 teremos o valor de R\$ 105,00.
 
-2)  Vou comprar um tênis no valor de R\$ 250,00 e tenho duas opções para
+\num{2}  Vou comprar um tênis no valor de R\$ 250,00 e tenho duas opções para
     pagar que são:
 
 I -- Pagamento à vista com 20% de desconto;
@@ -1016,7 +975,7 @@ No entanto paga R\$ 125,00. Calculando o valor pago em relação ao que
 seria o valor à vista temos: $\frac{125}{75} = 1,667$, ou seja, 66,7% a
 mais.
 
-3)  Ao longo do ano de 2017 o preço de um artigo esportivo foi
+\num{3}  Ao longo do ano de 2017 o preço de um artigo esportivo foi
     reajustado da seguinte forma: de 15 de março a 15 de abril sofreu um
     aumento de 30%; de 15 de março a 15 de maio, 56%; de 15 de março a
     15 de junho, 48,2% e de 15 de março a 15 de julho, 90%.
@@ -1039,7 +998,7 @@ determinará o valor procurado.
 
 76,92 · 1,9 = 146,15.
 
-4)  Veja os valores na tabela
+\num{4}  Veja os valores na tabela
 
   **ANO**    **Escola A**   **Escola B**
   ---------- -------------- --------------
@@ -1061,7 +1020,7 @@ Escola B: $\frac{180}{1500} = 0,12$
 
 Maior aumento foi o da escola A em 15% de aumento.
 
-5)  *"A sigla Ideb se refere ao Índice de Desenvolvimento da Educação
+\num{5}  *"A sigla Ideb se refere ao Índice de Desenvolvimento da Educação
     Básica e seu objetivo é medir a qualidade \[\...\]do ensino da
     educação básica no Brasil. "*
 
@@ -1091,7 +1050,7 @@ O índice era de 3,7 e aumentou para 4,2. Com isso temos um aumento de
 0,5 o que representa $\frac{0,5}{3,7} \cong 1,1351\ldots\ $ou seja, um
 aumento de aproximadamente 13,5%.
 
-6)  **Disparidade de rendimento entre sexos permanece alta apesar do
+\num{6}  **Disparidade de rendimento entre sexos permanece alta apesar do
     maior ganho para mulheres**
 
 Além da valorização do salário-mínimo, houve aumento real do rendimento
@@ -1113,7 +1072,7 @@ BNCC: EF09MA05 SAEB: 9N2.3
 A diferença entre os salários é de 1587 -- 1074 = 513. Calculando a
 razão $\frac{513}{1587} \cong 0,3232..$, ou seja, aproximadamente 32,3%.
 
-7)  Veja o gráfico:
+\num{7}  Veja o gráfico:
 
 ![Gráfico, Gráfico de barras Descrição gerada
 automaticamente](./_SAEB_9_MAT/media/image64.jpg){width="2.917817147856518in"
@@ -1132,7 +1091,7 @@ BNCC: EF09MA05 SAEB: 9N2.3
 Calculando a razão $\frac{3,9}{2,32} = 1,681\ldots\ $. Sendo assim temos
 uma previsão de aumento de 68,1%.
 
-8)  Calcule o percentual total de aumento sobre um produto que teve dois
+\num{8}  Calcule o percentual total de aumento sobre um produto que teve dois
     aumentos sucessivos de 20%.
 
 Professor
@@ -1142,7 +1101,7 @@ BNCC: EF09MA05 SAEB: 9N2.3
 (1 + 0,2) · (1 + 0,2) = 1,44. Assim podemos afirmar que tivemos um
 aumento de 44%.
 
-9)  Calcule o percentual total de desconto sobre um produto que teve
+\num{9}  Calcule o percentual total de desconto sobre um produto que teve
     dois descontos sucessivos de 10%.
 
 Professor
@@ -1152,7 +1111,7 @@ BNCC: EF09MA05 SAEB: 9N2.3
 (1 - 0,1) · (1 - 0,1) = 0,81. Assim podemos afirmar que tivemos um
 desconto de 19%.
 
-10) Um produto teve um aumento de 20% e posteriormente um desconto de
+\num{0} Um produto teve um aumento de 20% e posteriormente um desconto de
     15%. Considerando o valor final tivemos um aumento ou um desconto de
     quantos porcento?
 
@@ -1163,9 +1122,9 @@ BNCC: EF09MA05 SAEB: 9N2.3
 (1 +0,2) · (1 - 0,15) = 1,2 · 0,85 = 1,02. Desta forma podemos afirmar
 que tivemos um aumento de 2%.
 
-Treino
+\colorsec{Treino}
 
-1)  Jorge comprou uma televisão por R\$ 2.150,00 para pagar em duas
+\num{1}  Jorge comprou uma televisão por R\$ 2.150,00 para pagar em duas
     parcelas. A primeira parcela que corresponde a 30% do preço da
     televisão e o restante pagou após 30 dias.
 
@@ -1179,16 +1138,13 @@ c)  **R\$ 1.505,00**
 
 d)  R\$ 2.120,00
 
-> Professor
->
-> BNCC: EF09MA05 SAEB: 9N2.3
->
-> Como foi pago 30% de entrada sobrou 70% para a segunda parcela. Para
-> saber o valor da segunda parcela precisamos calcular 70% de 2150.
->
-> 0,70 · 2150 =1505.
+Professor
+BNCC: EF09MA05 SAEB: 9N2.3
+Como foi pago 30% de entrada sobrou 70% para a segunda parcela. Para
+saber o valor da segunda parcela precisamos calcular 70% de 2150.
+0,70 · 2150 =1505.
 
-2)  Hugo comprou 150 figurinhas para o seu álbum da copa do mundo
+\num{2}  Hugo comprou 150 figurinhas para o seu álbum da copa do mundo
     de 2022. Porém, dessas 150 figurinhas, 90 eram repetidas.
 
 As figurinhas que efetivamente foram utilizadas representam qual
@@ -1202,14 +1158,12 @@ c)  60%
 
 d)  90%
 
-> Professor
->
-> BNCC: EF09MA05 SAEB: 9N2.3
->
-> Hugo comprou 150 figurinhas, mas apenas 60 não eram repetidas, sendo
-> assim ele usou efetivamente $\frac{60}{150} = 0,40 = 40\%.$
+Professor
+BNCC: EF09MA05 SAEB: 9N2.3
+Hugo comprou 150 figurinhas, mas apenas 60 não eram repetidas, sendo
+assim ele usou efetivamente $\frac{60}{150} = 0,40 = 40\%.$
 
-3)  Kríssia quer comprar à vista uma mochila que custa R\$ 560,00, mas,
+\num{3}  Kríssia quer comprar à vista uma mochila que custa R\$ 560,00, mas,
     para pagamento à vista, a loja oferece um desconto de 5%. No entanto
     por ser a última peça foi oferecido um desconto na etiqueta de 20%.
 
@@ -1225,17 +1179,16 @@ c)  420,00
 
 d)  404,32
 
-> Professor
->
-> BNCC: EF09MA05 SAEB: 9N2.3
->
-> Houve dois descontos sucessivos, sendo um de 20% e outro de 5%.
->
-> (1 -- 0,2) · (1 -- 0,05) · 560 = 0,8 · 095 · 560 = 425,60.
+Professor
+BNCC: EF09MA05 SAEB: 9N2.3
+Houve dois descontos sucessivos, sendo um de 20% e outro de 5%.
+(1 -- 0,2) · (1 -- 0,05) · 560 = 0,8 · 095 · 560 = 425,60.
 
-**Módulo 5: Equação do 1º grau**
+# Módulo 5 
 
-RESUMO TEÓRICO
+  Equação do 1º grau
+
+\conteudo{...}
 
 A equação do primeiro grau refere-se a toda expressão algébrica que
 possui incógnita com grau 1. Uma sentença Matemática que pode ser
@@ -1265,40 +1218,40 @@ resolvê-la, o que chamamos de resolução de problemas que se reduzem a
 uma equação do 1º grau. Seguem algumas dicas para resolver problema
 matemáticos em geral:
 
-1)  Leia o problema cuidadosamente: certifique-se de entender o que o
+\num{1}  Leia o problema cuidadosamente: certifique-se de entender o que o
     problema está pedindo. Leia o problema mais de uma vez, se
     necessário.
 
-2)  Identifique as informações importantes: sublinhe ou destaque as
+\num{2}  Identifique as informações importantes: sublinhe ou destaque as
     informações que são relevantes para o problema. Seja claro sobre o
     que você está tentando encontrar e quais dados você tem.
 
-3)  Desenhe um diagrama: um diagrama pode ajudar a visualizar o problema
+\num{3}  Desenhe um diagrama: um diagrama pode ajudar a visualizar o problema
     e ajudar na solução. Isso pode ser especialmente útil em problemas
     geométricos.
 
-4)  Use palavras-chave: muitas vezes as palavras usadas em um problema
+\num{4}  Use palavras-chave: muitas vezes as palavras usadas em um problema
     podem dar uma indicação de que tipo de operação matemática deve ser
     usada. Por exemplo, \"mais\" pode indicar uma adição, \"menos\" pode
     indicar uma subtração, \"vezes\" pode indicar uma multiplicação e
     \"dividido por\" pode indicar uma divisão.
 
-5)  Escreva equações: transforme as informações importantes do problema
+\num{5}  Escreva equações: transforme as informações importantes do problema
     em equações matemáticas. Use variáveis para representar quantidades
     desconhecidas.
 
-6)  Simplifique: tente simplificar as equações matemáticas tanto quanto
+\num{6}  Simplifique: tente simplificar as equações matemáticas tanto quanto
     possível. Isso pode ajudar a reduzir a complexidade do problema.
 
-7)  Resolva a equação: use as propriedades matemáticas para resolver as
+\num{7}  Resolva a equação: use as propriedades matemáticas para resolver as
     equações. Lembre-se de seguir as regras corretas de operações
     matemáticas.
 
-8)  Verifique sua resposta: certifique-se de que sua resposta faz
+\num{8}  Verifique sua resposta: certifique-se de que sua resposta faz
     sentido no contexto do problema. Verifique se você respondeu a todas
     as partes do problema e se a resposta está em um formato adequado.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Com o objetivo de juntar um dinheiro para a formatura Jorge começou
 a produzir doces para revender. Cada receita é composta de kg de
@@ -1388,7 +1341,7 @@ BNCC: - SAEB: 9A2.3
 4\) Dois lutadores MMA de categorias diferentes foram desafiados para
 disputar o cinturão de uma categoria intermediária às suas atuais. Um
 deles tinha 91 kg e o outro tinha 77 kg. Eles foram submetidos a uma
-intensa jornada de treinos, em que, a cada semana que se passava, o
+\colorsec{Treino}
 primeiro perdia 1,2 kg, enquanto o outro ganhava 0,6 kg. Logo após esse
 período de preparação, a diferença de massa entre os dois atletas era de
 apenas 4 kg.
@@ -1414,7 +1367,7 @@ Lutador A -- Lutador B = 4
 
 -1,8x = 4 +77 -- 91
 
-\- 1,8x = -10
+*  1,8x = -10
 
 x = 5,56
 
@@ -1527,7 +1480,7 @@ x + 3x = 350
 
 x = 87,5 km até a parada e depois percorreu 350 -- 87,5 = 262,5 km.
 
-Treino
+\colorsec{Treino}
 
 1\) Aos domingos é comum em algumas cidades termos ciclovias, onde as
 famílias se reúnem para um passeio ciclístico. Uma locadora de bicicleta
@@ -1594,9 +1547,11 @@ x+2 = 12
 
 10·11·12 = 1 320
 
-**Módulo 6: Sequências e Expressões Algébricas**
+# Módulo 6 
 
-RESUMO TEÓRICO
+  Sequências e Expressões Algébricas
+
+\conteudo{...}
 
 Sequências numéricas são conjuntos ordenados de números que seguem um
 padrão ou uma regra específica. Essas sequências podem ser finitas ou
@@ -1639,7 +1594,7 @@ sucessivamente teremos a sequência: (4, 7, 10, 13, 16, 19, \...).
 A sequencia numérica pode ser classificada como: Crescente, Decrescente
 ou constante.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Matheus montou figuras com palitos de fósforo. Na 1ª figura, montou
 um triângulo e, nas etapas seguintes, foi acrescentando triângulos
@@ -1890,7 +1845,7 @@ naturais:
 
 1², 2², 3² \... y = n².
 
-Treino
+\colorsec{Treino}
 
 1\) Renato colecionou figurinhas da copa do mundo, hoje se ganhar mais 8
 a quantidade ficará igual ao dobro da quantidade de figurinhas que
@@ -1975,9 +1930,11 @@ Montando a equação, sabemos que:
 
 x=17
 
-**Módulo 7: Equações do 2º grau**
+# Módulo 7 
 
-RESUMO TEÓRICO
+  Equações do 2º grau
+
+\conteudo{...}
 
 Chamamos de equação do segundo grau as equações do tipo ax² + bx + c = 0
 com a, b e c ∈ R, em que **a** é diferente de zero.
@@ -2035,7 +1992,7 @@ c.  x² -- 5x = 0: também é uma equação incompleta de grau 2, com a = 9,
 
 d.  5x² -- 4 = 0: equação do segundo grau, com a = 5, b = 0, c = --4.
 
-Atividades
+\colorsec{Atividades}
 
 1\) O IMC (Índice de Massa Corporal) é um padrão internacional de
 cálculo da obesidade de um indivíduo adotado pela OMS (Organização
@@ -2153,7 +2110,7 @@ height="1.7583333333333333in"}
 Fazer imagem semelhante
 
 Cada piso é formado por quatro retângulos iguais de lados 10 cm e (x +
-10) cm respectivamente, e um quadrado de lado igual a x cm.
+\num{0} cm respectivamente, e um quadrado de lado igual a x cm.
 
 Sabendo-se que a área de cada piso equivale a 900 cm² o valor de x, em
 centímetros, é
@@ -2290,7 +2247,7 @@ x = - 5 ou x = 3
 
 O número é 3.
 
-Treino
+\colorsec{Treino}
 
 1\) Em uma empresa, o custo de produção, em milhares de reais, de n
 peças iguais é calculado pela expressão C(n) = n² -- n + 10.
@@ -2366,11 +2323,12 @@ x = 12
 
 Única raiz, ou seja, são gêmeos.
 
-**Módulo 8: Grandezas Direta e Inversamente Proporcionais**
+# Módulo 8 
 
-RESUMO TEÓRICO
+  Grandezas Direta e Inversamente Proporcionais
 
-[Grandeza Diretamente Proporcional]{.underline}
+\conteudo{
+    [Grandeza Diretamente Proporcional]
 
 Dizemos que duas grandezas x e y são diretamente proporcionais quando a
 razão (divisão) entre x e y sempre dá o mesmo resultado, ou seja, é
@@ -2422,8 +2380,9 @@ Com o mesmo índice de rendimento de produtividade de cada máquina
   **Máquinas**       2    4    8    16
   ------------------ ---- ---- ---- ----
   **Tempo (dias)**   80   40   20   10
+}
 
-Atividades
+\colorsec{Atividades}
 
 1\) Uma máquina produz 5 peças a cada 40 segundos. A tabela a seguir
 mostra a quantidade de peças que são produzidas em termo da quantidade
@@ -2605,7 +2564,7 @@ BNCC: EF09MA07 e EF09MA08 SAEB: 9A2.1
 $\frac{8}{x} = \frac{50}{80} \cdot \frac{16}{10} \rightarrow \frac{8}{x} = \frac{1}{1} \cdot \frac{2}{2} \rightarrow x = 8$,
 a quantidade de dias permanecerá a mesma.
 
-**Treino**
+\colorsec{Treino}
 
 1\) Um campeonato entre escolas foi promovido. Com isso separou-se
 algumas salas que foram organizadas. Para arrumar tais salas, seis
@@ -2682,9 +2641,11 @@ minutos.
 
 Alternativa c.
 
-**Módulo 9: Função do 1º e 2º grau**
+# Módulo 9 
 
-RESUMO TEÓRICO
+  Função do 1º e 2º grau
+
+\conteudo{...}
 
 A função do 1º grau é uma função linear que pode ser escrita na forma
 f(x) = ax + b, onde a e b são constantes reais. É uma função que
@@ -2701,26 +2662,26 @@ entre duas variáveis.
 
 [Função do 1º grau -- Itens importantes]{.underline}
 
-\- É do f(x) = ax + b. O coeficiente a é chamado de angular e b de
+*  É do f(x) = ax + b. O coeficiente a é chamado de angular e b de
 coeficiente linear.
 
-\- Gráfico é formada por uma reta, dados dois pontos no plano cartesiano
+*  Gráfico é formada por uma reta, dados dois pontos no plano cartesiano
 é possível determinar o gráfico da função.
 
-\- A função pode ser crescente (a \>0), decrescente (a\<0).
+*  A função pode ser crescente (a \>0), decrescente (a\<0).
 
 [Função do 2º grau -- Itens importantes]{.underline}
 
-\- É do f(x) = ax² + bx + c.
+*  É do f(x) = ax² + bx + c.
 
-\- Gráfico é formada por uma parábola. A parábola pode ter concavidade
+*  Gráfico é formada por uma parábola. A parábola pode ter concavidade
 para cima (a\>0) ou para baixo (a\<0).
 
-\- A função tem ponto de máxima quando a parábola tem a concavidade para
+*  A função tem ponto de máxima quando a parábola tem a concavidade para
 baixo, a função tem ponto de mínimo quando a parábola tem a concavidade
 para cima.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Uma empresa de transportes calcula o preço a ser cobrado de acordo
 com a distância percorrida entre a coleta e a entrega dos objetos. O
@@ -2927,9 +2888,9 @@ BNCC: EF09MA06 SAEB: 9A2.4
 Como a altura máxima foi atingida no tempo de 4 horas. h(4) =
 $- \frac{3}{4}4^{2} + 6 \cdot 4 = - 12 + 24 = 12$ horas.
 
-Treino
+\colorsec{Treino}
 
-1)  Uma prestadora de serviços cobra pela visita à residência do cliente
+\num{1}  Uma prestadora de serviços cobra pela visita à residência do cliente
     e pelo tempo necessário para realizar o serviço na residência. O
     valor da visita é R\$ 60 e o valor da hora para realização do
     serviço é R\$ 35. Uma expressão que indica o valor a ser pago (P) em
@@ -2950,7 +2911,7 @@ de visita. P(x)=35h+60.
 
 Alternativa D
 
-2)  Uma aplicação tem valorização determinada pelo gráfico abaixo,
+\num{2}  Uma aplicação tem valorização determinada pelo gráfico abaixo,
     diante dos dados determine o valor no tempo 10 anos.
 
 ![Forma Descrição gerada automaticamente com confiança
@@ -2965,15 +2926,13 @@ c)  320 000
 
 d)  400 000
 
-> BNCC: EF09MA06 SAEB: 9A1.5
->
-> Pelo gráfico podemos concluir que temos uma função linear em que a
-> cada 2 anos há uma aumento de 40 000. Com isso em 10 anos teremos um
-> aumento de cinco vezes maior, ou seja, 5·40 000 = 200 000.
->
-> Alternativa D.
+BNCC: EF09MA06 SAEB: 9A1.5
+Pelo gráfico podemos concluir que temos uma função linear em que a
+cada 2 anos há uma aumento de 40 000. Com isso em 10 anos teremos um
+aumento de cinco vezes maior, ou seja, 5·40 000 = 200 000.
+Alternativa D.
 
-3)  Baseado no gráfico apresentado abaixo:
+\num{3}  Baseado no gráfico apresentado abaixo:
 
 ![Diagrama Descrição gerada
 automaticamente](./_SAEB_9_MAT/media/image156.png){width="1.7251498250218722in"
@@ -2989,14 +2948,15 @@ c)  (3,0)
 
 d)  (4,-3)
 
-> BNCC: EF09MA06 SAEB: 9A2.4
->
-> Pelo gráfico podemos localizar o ponto mais alto do gráfico e
-> determinar seu par ordenado que é (2,1). Alternativa B.
+BNCC: EF09MA06 SAEB: 9A2.4
+Pelo gráfico podemos localizar o ponto mais alto do gráfico e
+determinar seu par ordenado que é (2,1). Alternativa B.
 
-**Módulo 10: Geometria Plana I**
+# Módulo 10 
 
-RESUMO TEÓRICO
+  Geometria Plana I
+
+\conteudo{...}
 
 1 -- Plano Cartesiano
 
@@ -3008,7 +2968,7 @@ Montar nova figura
 
 O plano cartesiano tem os pontos indicado par ordenado (a, b). O valor
 **a** é a abscissa e **b** é a ordenada. Por exemplo, o ponto A é (2,
-3).
+\num{3}.
 
 2 -- Polígonos
 
@@ -3065,7 +3025,7 @@ Fazer imagem semelhante
 
 -   Raio -- segmento de reta entre o centro a e borda da circunferência.
 
-Atividades
+\colorsec{Atividades}
 
 1\. Escreva as coordenadas dos A, B e C.
 
@@ -3253,7 +3213,7 @@ circunferência.
 ABD é um ângulo **inscrito**. Porque o vértice está sobre a
 circunferência.
 
-**Treino**
+\colorsec{Treino}
 
 1\. Considere um poliedro convexo que possui oito vértices e apenas
 faces triangulares e quadrangulares. Sabe-se que o número de faces
@@ -3317,9 +3277,11 @@ BNCC: - SAEB: 9G1.4
 Entre todas as figuras listadas temos que apenas o quadrado tem ângulos
 internos iguais e lados iguais, por isso o único regular.
 
-**Módulo 11: Geometria II**
+# Módulo 11 
 
-RESUMO TEÓRICO
+  Geometria II
+
+\conteudo{...}
 
 1 -- Triângulos
 
@@ -3381,7 +3343,7 @@ height="1.3968044619422573in"}
 
 Refazer a figura
 
-Atividades
+\colorsec{Atividades}
 
 1\. Determine o valor de x e os valores dos ângulos A e B.
 
@@ -3405,7 +3367,7 @@ X = 60º, A = B = 60º.
 
 2\. Um retângulo foi desenhado em um plano cartesiano, com altura
 determinada pelos vértices dos pontos A e B de coordenadas (1, 3) e (1,
-4), respectivamente. Além disso, sabe-se que um ponto M de coordenadas
+\num{4}, respectivamente. Além disso, sabe-se que um ponto M de coordenadas
 (3, 3) é o ponto médio da base do retângulo.
 
 Qual é a área desse retângulo?
@@ -3581,7 +3543,7 @@ Temos que x = 60º e y = 90º. Desta forma α será igual a:
 α + 90 + 90 + 60 = 360, pois fecha a circunferência. Logo podemos
 afirmar que α = 120º.
 
-Treino
+\colorsec{Treino}
 
 1\. Um portão é formado por barras de fecho:
 
@@ -3671,9 +3633,11 @@ Assim temos:
 
 Alternativa C.
 
-**Módulo 12: Deslocamento usando coordenadas**
+# Módulo 12 
 
-RESUMO TEÓRICO
+  Deslocamento usando coordenadas
+
+\conteudo{...}
 
 **Localização e movimentação**
 
@@ -3806,13 +3770,10 @@ Fazer imagem semelhante, é importante os dados
 Maria saiu da esquina indicada pelo ponto Q e percorreu o seguinte
 percurso:
 
-> • caminhou 500 metros na direção Norte;
->
-> • depois caminhou 200 metros na direção Oeste;
->
-> • depois caminhou 300 metros na direção Sul;
->
-> • e, finalmente, caminhou mais 200 metros na direção Oeste.
+• caminhou 500 metros na direção Norte;
+• depois caminhou 200 metros na direção Oeste;
+• depois caminhou 300 metros na direção Sul;
+• e, finalmente, caminhou mais 200 metros na direção Oeste.
 
 Ao final desse percurso, Maria chegou na esquina indicada pela letra:
 
@@ -3935,7 +3896,7 @@ BNCC: - SAEB 9G2.1
 
 90 + 153 + 121 + 239 + 117 = 720 km.
 
-Treino
+\colorsec{Treino}
 
 1\. Observe a imagem:
 
@@ -3955,18 +3916,14 @@ BNCC: - SAEB 9G2.1
 
 Alternativa D. São 2 quadras ao Sul e duas quadras ao Leste
 
-> 2\. Qual é a melhor maneira de determinar sua localização exata em um
-> mapa?
->
-> a\) Usando um sistema de orientação, como uma bússola ou GPS.
->
-> b\) Estimando sua posição com base em pontos de referência próximos.
->
-> c\) Adivinhando sua posição com base em sua experiência anterior na
-> área.
->
-> d\) Olhando para o mapa e tentando comparar com o ambiente ao seu
-> redor.
+2\. Qual é a melhor maneira de determinar sua localização exata em um
+mapa?
+a\) Usando um sistema de orientação, como uma bússola ou GPS.
+b\) Estimando sua posição com base em pontos de referência próximos.
+c\) Adivinhando sua posição com base em sua experiência anterior na
+área.
+d\) Olhando para o mapa e tentando comparar com o ambiente ao seu
+redor.
 
 BNCC: - SAEB 9G2.1
 
@@ -3994,9 +3951,11 @@ BNCC: - SAEB 9G2.1
 
 Alternativa A. Subiu 3 quadras Norte e 2 quartas Leste.
 
-**Módulo 13: Estatística**
+# Módulo 13 
 
-RESUMO TEÓRICO
+  Estatística
+
+\conteudo{...}
 
 A moda, a média e a mediana são medidas de tendência central usadas na
 estatística para resumir um conjunto de dados.
@@ -4028,7 +3987,7 @@ Em geral, a escolha da medida de tendência central depende da natureza
 dos dados e do objetivo da análise estatística. Cada medida pode ser
 útil em diferentes contextos e situações.
 
-Atividades
+\colorsec{Atividades}
 
 a)  Complete a frase
 
@@ -4248,7 +4207,7 @@ Novembro: 2 · 200 + 150 = 550
 
 Dezembro: 4 · 200 = 800
 
-Treino
+\colorsec{Treino}
 
 f)  Um studio de danças fez pesquisa sobre as suas turmas
 
@@ -4334,9 +4293,11 @@ celular quando comparado com os outros meios de acesso.
 
 Alternativa c.
 
-**Módulo 14: Unidades de medida**
+# Módulo 14 
 
-RESUMO TEÓRICO
+  Unidades de medida
+
+\conteudo{...}
 
 As unidades de medidas de comprimento surgem para padronizar as medidas
 de distância. Existem várias unidades de medidas de comprimento, a
@@ -4383,7 +4344,7 @@ IMPORTANTE
 
 1 dm³ = 1 Litro
 
-Atividades
+\colorsec{Atividades}
 
 1\. Nanômetro (nm) é uma unidade de medida que equivale a um bilionésimo
 de 1 metro e que tem grande relevância na indústria de semicondutores.
@@ -4547,7 +4508,7 @@ Calculando a expectativa de pessoas temos:
 
 70 · 2 · 300 = 42 000 ml = 42 litros = 21 garrafas de 2 litros.
 
-Treino
+\colorsec{Treino}
 
 1\. Para fazer um determinado prato, Alessandra precisa de 1 kg de carne
 para cada receita. Ao tirar o pacote de carne da geladeira, vê que ele
@@ -4629,9 +4590,11 @@ Calculando o volume do cilindro instalado como reservatório temos:
 $V = {1,5}^{2} \cdot 3,14 \cdot 3 = 21,195\ m³$, ou seja, 21 195 litros,
 o que atendeu a demanda com a sobra de 1 195 litros. Alternativa B.
 
-**Módulo 15: Probabilidade**
+# Módulo 15 
 
-RESUMO TEÓRICO
+  Probabilidade
+
+\conteudo{...}
 
 Probabilidade é o estudo das chances de obtenção de cada resultado de um
 experimento aleatório. A essas chances são atribuídos os números reais
@@ -4666,7 +4629,7 @@ Espaço Amostral: {1, 2, 3, 4, 5 e 6}
 
 $P\left( A \right) = \frac{5}{6}$.
 
-Atividades
+\colorsec{Atividades}
 
 1\. Um dado foi construído com duas faces 4 e nenhuma face 3. Ao lançar
 o dado qual a probabilidade de sair o número 4?
@@ -4842,15 +4805,14 @@ assim temos que:
 
 $$P\left( A \right) = \frac{60}{300} = \frac{1}{5}.$$
 
-Treino
+
+\colorsec{Treino}
 
 1.  Numa cidade, 56% dos habitantes são mulheres. Destas, 2,8% têm olhos
     azuis e 2,2% dos homens, olhos da mesma cor. A probabilidade de uma
     pessoa nessa cidade, escolhida ao acaso, ter olhos azuis é cerca de:
 
-```{=html}
-<!-- -->
-```
+
 a)  0,6%
 
 b)  1,4%
@@ -4859,13 +4821,12 @@ c)  2,0%
 
 d)  2,5%
 
-> SAEB: 9E2.4 - Resolver problemas que envolvam a probabilidade de
-> ocorrência de um resultado em eventos aleatórios equiprováveis
-> independentes ou dependentes.
->
-> BNCC: EF09MA20 - Reconhecer, em experimentos aleatórios, eventos
-> independentes e dependentes e calcular a probabilidade de sua
-> ocorrência, nos dois casos.
+SAEB: 9E2.4 - Resolver problemas que envolvam a probabilidade de
+ocorrência de um resultado em eventos aleatórios equiprováveis
+independentes ou dependentes.
+BNCC: EF09MA20 - Reconhecer, em experimentos aleatórios, eventos
+independentes e dependentes e calcular a probabilidade de sua
+ocorrência, nos dois casos.
 
 Calculando as probabilidades de ser mulher e olhos azuis ou ser homem
 com olhos azuis temos:
@@ -4878,9 +4839,7 @@ Alternativa d.
     50 reais. No caso de um saque de 400 reais, a probabilidade do
     número de cédulas entregues ser ímpar é igual a:
 
-```{=html}
-<!-- -->
-```
+
 a)  25%
 
 b)  40%
@@ -4889,16 +4848,14 @@ c)  66%
 
 d)  60%
 
-> SAEB: 9E2.4 - Resolver problemas que envolvam a probabilidade de
-> ocorrência de um resultado em eventos aleatórios equiprováveis
-> independentes ou dependentes.
->
-> BNCC: EF09MA20 - Reconhecer, em experimentos aleatórios, eventos
-> independentes e dependentes e calcular a probabilidade de sua
-> ocorrência, nos dois casos.
->
-> Há 5 maneiras de sacar R\$ 400,00 em notas de 20 ou 50, sendo que
-> apenas em 2 temos quantidade ímpar de notas, veja a tabela:
+SAEB: 9E2.4 - Resolver problemas que envolvam a probabilidade de
+ocorrência de um resultado em eventos aleatórios equiprováveis
+independentes ou dependentes.
+BNCC: EF09MA20 - Reconhecer, em experimentos aleatórios, eventos
+independentes e dependentes e calcular a probabilidade de sua
+ocorrência, nos dois casos.
+Há 5 maneiras de sacar R\$ 400,00 em notas de 20 ou 50, sendo que
+apenas em 2 temos quantidade ímpar de notas, veja a tabela:
 
   **Nota de 20**   **Nota de 50**   **Total**
   ---------------- ---------------- -----------
@@ -4908,18 +4865,15 @@ d)  60%
   15               2                17
   20               0                20
 
-> Desta forma a probabilidade é de 2/5 ou 40%.
->
-> Alternativa b.
+Desta forma a probabilidade é de 2/5 ou 40%.
+Alternativa b.
 
 3.  Em uma urna são depositadas 5 bolas vermelhas, 6 bolas azuis e 4
     bolas amarelas, todas com mesmo formato e tamanho. Se duas bolas
     forem retiradas sucessivamente, sem reposição, a probabilidade de
     que elas sejam de mesma cor é mais próxima de:
 
-```{=html}
-<!-- -->
-```
+
 a)  10%
 
 b)  15%
@@ -4928,13 +4882,12 @@ c)  30%
 
 d)  45%
 
-> SAEB: 9E2.4 - Resolver problemas que envolvam a probabilidade de
-> ocorrência de um resultado em eventos aleatórios equiprováveis
-> independentes ou dependentes.
->
-> BNCC: EF09MA20 - Reconhecer, em experimentos aleatórios, eventos
-> independentes e dependentes e calcular a probabilidade de sua
-> ocorrência, nos dois casos.
+SAEB: 9E2.4 - Resolver problemas que envolvam a probabilidade de
+ocorrência de um resultado em eventos aleatórios equiprováveis
+independentes ou dependentes.
+BNCC: EF09MA20 - Reconhecer, em experimentos aleatórios, eventos
+independentes e dependentes e calcular a probabilidade de sua
+ocorrência, nos dois casos.
 
 Para atender à solicitação temos que ter duas bolas vermelhas ou ter
 duas bolas amarelas ou duas bolas azuis.
@@ -4947,7 +4900,7 @@ Alternativa c.
 
  
 
-Simulado 1
+# Simulado 1
 
 1.  Os números distribuídos abaixo pertencem a dois conjuntos.
 
@@ -4999,12 +4952,11 @@ SAEB -- 9N2.1 - Resolver problemas de adição, subtração, multiplicação,
 
 divisão, potenciação ou radiciação envolvendo números reais,
 
-> EF09MA03 - Efetuar cálculos com números reais, inclusive potências com
-> expoentes fracionários.
->
-> Segundo o texto a distância entre Terra e Sol no apogeu era de 152
-> milhões de quilômetro, escrevendo em Notação Científica
-> $1,52 \cdot 10^{8}$km.
+EF09MA03 - Efetuar cálculos com números reais, inclusive potências com
+expoentes fracionários.
+Segundo o texto a distância entre Terra e Sol no apogeu era de 152
+milhões de quilômetro, escrevendo em Notação Científica
+$1,52 \cdot 10^{8}$km.
 
 3.  Observando a malha:
 
@@ -5024,14 +4976,11 @@ c)  $\frac{3}{5}$
 
 d)  $\frac{4}{5}$
 
-> SAEB 9N1.7 - Representar frações menores ou maiores que a unidade
->
-> por meio de representações pictóricas OU associar frações a
->
-> representações pictóricas.
->
-> $\frac{\text{Quadrados\ pintados}}{\text{Total\ de\ quadrados}} = \frac{32}{80} = \frac{2}{5}$
-> , com isso temos a alternativa b.
+SAEB 9N1.7 - Representar frações menores ou maiores que a unidade
+por meio de representações pictóricas OU associar frações a
+representações pictóricas.
+$\frac{\text{Quadrados\ pintados}}{\text{Total\ de\ quadrados}} = \frac{32}{80} = \frac{2}{5}$
+, com isso temos a alternativa b.
 
 4.  Pedro tem uma dívida com o banco no valor de R\$ 6 000,00. Neste mês
     recebeu um bônus por desempenho e pagará 20% desta dívida.
@@ -5046,19 +4995,16 @@ c)  R\$ 1.200,00
 
 d)  R\$ 2.400,00
 
-> SAEB: 9N2.3 - Resolver problemas que envolvam porcentagens, incluindo
-> os que lidam com acréscimos e decréscimos simples, aplicação de
-> percentuais sucessivos e determinação das taxas percentuais.
->
-> BNCC: EF09MA05 - Resolver e elaborar problemas que envolvam
-> porcentagens, com a ideia de aplicação de percentuais sucessivos e a
-> determinação das taxas percentuais, preferencialmente com o uso de
-> tecnologias digitais, no contexto da educação financeira.
->
-> Calculando 20% de 6.000 → 0,2 · 6000 = 1200. Desta forma Pedro irá
-> pagar R\$1.200,00 ao banco.
->
-> Alternativa c.
+SAEB: 9N2.3 - Resolver problemas que envolvam porcentagens, incluindo
+os que lidam com acréscimos e decréscimos simples, aplicação de
+percentuais sucessivos e determinação das taxas percentuais.
+BNCC: EF09MA05 - Resolver e elaborar problemas que envolvam
+porcentagens, com a ideia de aplicação de percentuais sucessivos e a
+determinação das taxas percentuais, preferencialmente com o uso de
+tecnologias digitais, no contexto da educação financeira.
+Calculando 20% de 6.000 → 0,2 · 6000 = 1200. Desta forma Pedro irá
+pagar R\$1.200,00 ao banco.
+Alternativa c.
 
 5.  Aluísio olhou sua carteira e decidiu dar um terço do dinheiro que
     tinha nela para sua neta mais velha. Posteriormente ele deu mais 10
@@ -5130,37 +5076,27 @@ Alternativa d.
     > altura, em metros, e *t* o tempo em segundos. Quantos metros de
     > altura estará o objeto após 3 segundos do lançamento?
 
-> a\) 1
->
-> b\) 2
->
-> c\) 4
->
-> d\) 6
->
-> SAEB: 9A2.4 - Resolver problemas que possam ser representados por
-> equações polinomiais de 2º grau.
->
-> Para achar a altura, basta substituir t = 3 na expressão: h(3) = - 3²
-> + 5 · 3 = - 9 + 15 = 6, ou seja, a altura será de 6 metros.
->
-> Alternativa d.
+a\) 1
+b\) 2
+c\) 4
+d\) 6
+SAEB: 9A2.4 - Resolver problemas que possam ser representados por
+equações polinomiais de 2º grau.
+Para achar a altura, basta substituir t = 3 na expressão: h(3) = - 3²
++ 5 · 3 = - 9 + 15 = 6, ou seja, a altura será de 6 metros.
+Alternativa d.
 
 8.  Rodrigo por ser prudente sempre controla a velocidade em suas
     > viagens. Em uma viagem recente entre Porto Feliz e Cidade Alegre
     > ele fez a viagem em uma velocidade média de 80 km e com isso
     > gastou 2,5 horas.
 
-> Para voltar se Rodrigo fizer a viagem com velocidade média de 100 km/h
-> deverá gastar quanto tempo?
->
-> a\) 1h 30min
->
-> b\) 2h
->
-> c\) 2h 40min
->
-> d\) 3h
+Para voltar se Rodrigo fizer a viagem com velocidade média de 100 km/h
+deverá gastar quanto tempo?
+a\) 1h 30min
+b\) 2h
+c\) 2h 40min
+d\) 3h
 
 BNCC: EF09MA07 - Resolver problemas que envolvam a razão entre duas
 grandezas de espécies diferentes, como velocidade e densidade
@@ -5419,7 +5355,7 @@ ou seja, aproximadamente 22%.
 
 Alternativa c.
 
-Simulado 2
+# Simulado 2
 
 1.  Observe a reta numérica abaixo:
 
@@ -5439,13 +5375,11 @@ c)  $\sqrt{6}$
 
 d)  $\sqrt{10}$
 
-> SAEB - 9N1.3 - números racionais ou irracionais.
->
-> EF09MA02 - Reconhecer um número irracional como um número real cuja
-> representação decimal é infinita e não periódica, e estimar a
-> localização de alguns deles na reta numérica.
->
-> Alternativa d, pois $3 < \sqrt{10} < 4$
+SAEB - 9N1.3 - números racionais ou irracionais.
+EF09MA02 - Reconhecer um número irracional como um número real cuja
+representação decimal é infinita e não periódica, e estimar a
+localização de alguns deles na reta numérica.
+Alternativa d, pois $3 < \sqrt{10} < 4$
 
 2.  A idade estimada do universo é de cerca de 13.8 bilhões de anos.
     Essa estimativa é baseada em dados observacionais e teóricos,
@@ -5471,11 +5405,10 @@ SAEB -- 9N2.1 - Resolver problemas de adição, subtração, multiplicação,
 
 divisão, potenciação ou radiciação envolvendo números reais,
 
-> EF09MA03 - Efetuar cálculos com números reais, inclusive potências com
-> expoentes fracionários.
->
-> Alternativa c. Segundo o texto a idade do universo é estimada em 13,8
-> bilhões, escrevendo em Notação Científica $1,38 \cdot 10^{10}$.
+EF09MA03 - Efetuar cálculos com números reais, inclusive potências com
+expoentes fracionários.
+Alternativa c. Segundo o texto a idade do universo é estimada em 13,8
+bilhões, escrevendo em Notação Científica $1,38 \cdot 10^{10}$.
 
 3.  Quatro colegas pintaram uma parede. Jorge pintou $\frac{1}{6}$ dessa
     parede, Gabriel pintou $\frac{3}{18}$, Mário pintou $\frac{2}{8}$ e
@@ -5521,26 +5454,21 @@ c)  O preço ficará 1% menor do que antes do aumento.
 d)  O preço ficará 99% menor em comparação com o preço depois do
     aumento.
 
-> SAEB: 9N2.3 - Resolver problemas que envolvam porcentagens, incluindo
-> os que lidam com acréscimos e decréscimos simples, aplicação de
-> percentuais sucessivos e determinação das taxas percentuais.
->
-> BNCC: EF09MA05 - Resolver e elaborar problemas que envolvam
-> porcentagens, com a ideia de aplicação de percentuais sucessivos e a
-> determinação das taxas percentuais, preferencialmente com o uso de
-> tecnologias digitais, no contexto da educação financeira.
->
-> Quando um produto tem 10% de aumento o preço p é corrigido pelo fato
-> (1+0,1) e ao ser descontado em 10% é corrigido pelo fator (1-0,1),
-> como neste caso ocorreram os dois podemos calcular assim:
->
-> Seja p o valor antes do aumento, após o aumento será p·(1+0,1) = 1,1p.
-> Como depois temos o desconto, aplicaremos o fator de correção:
->
-> 1,1p·(1-0,1) = 1,1p·0,9 = 0,99p, ou seja, o produto custará 99% do
-> valor antes do aumento o que implica em um desconto de 1%.
->
-> Alternativa c.
+SAEB: 9N2.3 - Resolver problemas que envolvam porcentagens, incluindo
+os que lidam com acréscimos e decréscimos simples, aplicação de
+percentuais sucessivos e determinação das taxas percentuais.
+BNCC: EF09MA05 - Resolver e elaborar problemas que envolvam
+porcentagens, com a ideia de aplicação de percentuais sucessivos e a
+determinação das taxas percentuais, preferencialmente com o uso de
+tecnologias digitais, no contexto da educação financeira.
+Quando um produto tem 10% de aumento o preço p é corrigido pelo fato
+(1+0,1) e ao ser descontado em 10% é corrigido pelo fator (1-0,1),
+como neste caso ocorreram os dois podemos calcular assim:
+Seja p o valor antes do aumento, após o aumento será p·(1+0,1) = 1,1p.
+Como depois temos o desconto, aplicaremos o fator de correção:
+1,1p·(1-0,1) = 1,1p·0,9 = 0,99p, ou seja, o produto custará 99% do
+valor antes do aumento o que implica em um desconto de 1%.
+Alternativa c.
 
 5.  O estacionamento de um shopping, cobra pela primeira hora, R\$ 8,00
     e, em cada hora seguinte, ou fração da hora, R\$ 3,00.
@@ -5607,13 +5535,10 @@ Alternativa b.
 Se o custo foi de 100 mil reais, então, o número de produtos produzidos
 foi
 
-> a\) 6.
->
-> b\) 7.
->
-> c\) 8.
->
-> d\) 10.
+a\) 6.
+b\) 7.
+c\) 8.
+d\) 10.
 
 8\. Mário gosta muito de montar e desmontar coisas, recentemente ganhou
 um brinquedo de robótica e estava estudando as engrenagens e seus
@@ -5910,13 +5835,11 @@ cm.
 
 Alternativa c.
 
-Simulado 3
+# Simulado 3
 
 1.  O número $\sqrt{8} + \sqrt{18}$ pode ser escrito como:
 
-```{=html}
-<!-- -->
-```
+
 a)  $\sqrt{26}$
 
 b)  $2\sqrt{13}$
@@ -5925,14 +5848,12 @@ c)  $5\sqrt{2}$
 
 d)  $\sqrt{10}$
 
-> SAEB - 9N1.3 - números racionais ou irracionais.
->
-> EF09MA02 - Reconhecer um número irracional como um número real cuja
-> representação decimal é infinita e não periódica, e estimar a
-> localização de alguns deles na reta numérica.
->
-> Alternativa c.
-> $\sqrt{8} + \sqrt{18} = \ \sqrt{2^{2} \cdot 2} + \sqrt{3^{2} \cdot 2} = 2\sqrt{2} + 3\sqrt{2} = 5\sqrt{2}.$
+SAEB - 9N1.3 - números racionais ou irracionais.
+EF09MA02 - Reconhecer um número irracional como um número real cuja
+representação decimal é infinita e não periódica, e estimar a
+localização de alguns deles na reta numérica.
+Alternativa c.
+$\sqrt{8} + \sqrt{18} = \ \sqrt{2^{2} \cdot 2} + \sqrt{3^{2} \cdot 2} = 2\sqrt{2} + 3\sqrt{2} = 5\sqrt{2}.$
 
 2.  Em uma distribuidora de material para escritório, existem 100 pilhas
     de resmas de papel A4, com cada pilha tendo 1 metro de altura. Cada
@@ -6032,13 +5953,10 @@ Montar o desenho com o dê cima
 
 A massa da caixa pequena é
 
-> a\) 50 g.
->
-> b\) 100 g.
->
-> c\) 150 g.
->
-> d\) 300 g.
+a\) 50 g.
+b\) 100 g.
+c\) 150 g.
+d\) 300 g.
 
 SAEB: 9A1.1 - Resolver uma equação polinomial de 1º grau
 
@@ -6060,13 +5978,10 @@ Alternativa b.
 
 A relação entre y e x é dada pela expressão:
 
-> a\) y = 4x + 1.
->
-> b\) y = 2x + 2
->
-> c\) y = 4x -- 3
->
-> d\) y = 3x + 2
+a\) y = 4x + 1.
+b\) y = 2x + 2
+c\) y = 4x -- 3
+d\) y = 3x + 2
 
 SAEB: 9A1.3 -- Identificar uma representação algébrica para o padrão ou
 a regularidade de uma sequência de números racionais OU representar
@@ -6084,13 +5999,10 @@ Alternativa c.
 7\. Os valores referentes às duas raízes da equação **x² + 2x -- 24 =
 0** estão no intervalo
 
-> a\) de 4 até 6.
->
-> b\) de -- 7 até 5.
->
-> c\) de -- 5 até 7.
->
-> d\) de -- 6 até 2.
+a\) de 4 até 6.
+b\) de -- 7 até 5.
+c\) de -- 5 até 7.
+d\) de -- 6 até 2.
 
 SAEB: 9A1.7 - Resolver uma equação polinomial de 2º grau
 
@@ -6372,13 +6284,11 @@ $P\left( A \right) = \frac{6}{36} = \frac{1}{6}$*.*
 
 *Alternativa d.*
 
-Simulado 4
+# Simulado 4
 
 1.  O número $\sqrt{12}$ é um número:
 
-```{=html}
-<!-- -->
-```
+
 a)  Natural
 
 b)  Inteiro
@@ -6445,12 +6355,10 @@ c)  O Jornal B traz um percentual que supera em muito a fração dada pelo
 
 d)  Não é possível executar comparação.
 
-> SAEB 9N1.8 -- Identificar frações equivalentes.
->
-> Escrevendo 37,5% em forma de fração irredutível, temos:
->
-> $37,5\% = \frac{37,5}{100} = \frac{375}{1000} = \frac{3}{8}$, ou seja,
-> temos exatamente o mesmo valor representado. Alternativa a.
+SAEB 9N1.8 -- Identificar frações equivalentes.
+Escrevendo 37,5% em forma de fração irredutível, temos:
+$37,5\% = \frac{37,5}{100} = \frac{375}{1000} = \frac{3}{8}$, ou seja,
+temos exatamente o mesmo valor representado. Alternativa a.
 
 4.  Um comerciante precisou aumentar o preço de uma mercadoria de acordo
     com a inflação, pois quando não repassa o aumento ao consumidor
@@ -6546,30 +6454,23 @@ Alternativa d.
 
 Qual é o número de lados de um polígono que tem 14 diagonais?
 
-> a\) 35
->
-> b\) 32
->
-> c\) 10
->
-> d\) 7
->
-> SAEB: 9A1.7 - Resolver uma equação polinomial de 2º grau.
->
-> Para determinar a quantidade de lados, precisamos resolver a equação:
->
-> $14 = \frac{n^{2} - 3n}{2} \rightarrow n^{2} - 3n - 28 = 0$, por se
-> tratar de uma equação do 2º grau podemos aplicar Bhaskara.
+a\) 35
+b\) 32
+c\) 10
+d\) 7
+SAEB: 9A1.7 - Resolver uma equação polinomial de 2º grau.
+Para determinar a quantidade de lados, precisamos resolver a equação:
+$14 = \frac{n^{2} - 3n}{2} \rightarrow n^{2} - 3n - 28 = 0$, por se
+tratar de uma equação do 2º grau podemos aplicar Bhaskara.
 
 $$\mathrm{\Delta} = \left( - 3 \right)^{2} - 4 \cdot 1 \cdot \left( - 28 \right) = 9 + 112 = 121$$
 
-> $n = \frac{- ( - 3) \pm \sqrt{121}}{2} = \frac{3 \pm 11}{2} = \left\{ \begin{matrix}
-> \frac{3 + 11}{2} = 7\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \\
-> \frac{3 - 11}{2} = - 4\ Não\ convém \\
-> \end{matrix} \right.\ $. Por se tratar de quantidade de lados de um
-> polígono desprezamos o valor negativo.
->
-> Alternativa d.
+$n = \frac{- ( - 3) \pm \sqrt{121}}{2} = \frac{3 \pm 11}{2} = \left\{ \begin{matrix}
+\frac{3 + 11}{2} = 7\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \\
+\frac{3 - 11}{2} = - 4\ Não\ convém \\
+\end{matrix} \right.\ $. Por se tratar de quantidade de lados de um
+polígono desprezamos o valor negativo.
+Alternativa d.
 
 8.  Uma das grandes preocupações de hoje é a quantidade de açúcar
     ingerido, por isso as pessoas têm ficado mais atentar aos dados da
@@ -6581,13 +6482,10 @@ gramas desse chocolate.
 
 Quantos gramas de açúcar contém essa barra que Fernando comprou?
 
-> a\) 48
->
-> b\) 96
->
-> c\) 108
->
-> d\) 160
+a\) 48
+b\) 96
+c\) 108
+d\) 160
 
 SAEB: 9A2.1 - Resolver problemas que envolvam variação de
 proporcionalidade direta ou inversa entre duas ou mais grandezas,

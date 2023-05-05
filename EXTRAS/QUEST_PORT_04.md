@@ -1,6 +1,6 @@
-**Simulado 1**
+# Simulado 1
 
-5 -- Leia o texto e responda à pergunta.
+\num{5} Leia o texto e responda à pergunta.
 
 "**Estado de SP realiza 'Dia V' de mobilização para aplicação de segunda
 dose da vacina contra COVID-19**
@@ -13,67 +13,63 @@ Governo de São Paulo anunciou nesta quarta-feira (29) o "Dia V" de
 vacinação contra COVID-19. A iniciativa, em parceria com os 645
 municípios, acontecerá neste sábado (2) e tem como objetivo a aplicação
 da segunda dose da vacina e a atualização dos registros de vacinação na
-plataforma VaciVida.
-
-\[\...\]
+plataforma VaciVida. \[\...\]
 
 Mais de cinco mil pontos de vacinação no estado estarão abertos das 7h
 às 19h para a aplicação exclusivamente destas doses neste sábado
 (consulte a programação e horários de funcionamento dos postos de seu
-município)".
+município).
 
 Disponível em:
 <http://www.saude.sp.gov.br/ses/perfil/cidadao/homepage/destaques/estado-de-sp-realiza-dia-v-de-mobilizacao-para-aplicacao-de-segunda-dose-da-vacina-contra-covid-19>.
-Acesso em: 23 abr. 2023.
+Acesso em: 4 mai. 2023.
 
-O texto reproduzido acima trata\...
+O texto reproduzido acima trata
 
-a\) do número de vacinados no estado de São Paulo.
+\begin{escolha}
+	\item do número de vacinados contra COVID-19 no estado de São Paulo.
 
-b\) da aprovação da campanha de vacinação por parte da população.
+	\item da aprovação da campanha de vacinação por parte da população.
 
-c\) de uma grande mobilização para a aplicação da segunda dose da vacina
-contra COVID-19.
+	\item de uma mobilização para vacinação contra COVID-19.
 
-d\) da resistência da população em tomar o imunizante.
+	\item da resistência da população em tomar o imunizante.
+\end{escolha}
 
-SAEB: Identificar a ideia central o texto.
-
-BNCC: EF35LP03 \-- Identificar a ideia central do texto, demonstrando
+\coment{SAEB: Identificar a ideia central o texto.
+BNCC: EF35LP03 -- Identificar a ideia central do texto, demonstrando
 compreensão global.
 
-a\) Incorreta, pois o texto não faz menção direta ao número de
+a) Incorreta. O texto não faz menção direta ao número de
 vacinados.
 
-b\) Incorreta, pois o texto não cita nenhum juízo de valor em relação à
-vacina.
+b) Incorreta. O texto não menciona nenhum juízo de valor da população 
+em relação à vacina.
 
-c\) Correta, pois o texto trata da mobilização para a segunda dose da
-vacina.
+c) Correta. O texto trata da grande mobilização do Governo do Estado
+de São Paulo para a segunda dose da vacina.
 
-d\) Incorreta, pois a relação da população com a vacina não é citada no
+d) Incorreta. A relação da população com a vacina não é citada no
 texto.
 
-6 - Leia o texto e responda à pergunta.
+\num{6} Leia o texto e responda à pergunta.
 
 **"Ministério da Saúde lança campanha contra malária**
 
 Ação tem foco na Região Amazônica, com 99% dos casos no país
 
 O Ministério da Saúde (MS) lançou hoje (25) uma campanha voltada para a
-prevenção e combate à malária. Com o slogan O combate à malária acontece
-com a participação de todos: cidadãos, comunidade e governo, a campanha
+prevenção e combate à malária. Com o slogan *O combate à malária acontece
+com a participação de todos: cidadãos, comunidade e governo*, a campanha
 tem como foco a Região Amazônica, que concentra 99% dos casos no país. A
 doença, cuja incidência ocorre nas populações de maior vulnerabilidade
 social, representa um grande problema de saúde pública no país. A data
 marca o Dia Mundial de Luta Contra a Malária e os 20 anos de atuação do
 Programa Nacional de Prevenção e Controle da Malária.
 
-\[\...\]".
-
 Disponível em:
 <https://agenciabrasil.ebc.com.br/saude/noticia/2023-04/ministerio-da-saude-lanca-campanha-contra-malaria>.
-Acesso em: 25 abr. 2023.
+Acesso em: 4 mai. 2023.
 
 De acordo com o texto reproduzido acima, a campanha contra a Malária
 terá como foco\...
@@ -98,7 +94,7 @@ c\) Incorreta, pois o texto não menciona tais formas de prevenção.
 
 d\) Correta, pois essa informação é citada explicitamente no texto.
 
-7 -- Leia o texto e responda à pergunta.
+\num{7} -- Leia o texto e responda à pergunta.
 
 "D. CECÍLIA (á parte) --- E titia não vem\... Que demora!\... Não sei
 que lhe diga\...
@@ -146,7 +142,7 @@ c\) Incorreta, pois D. Cecília também aparece no trecho.
 
 d\) Incorreta, pois Barão também aparece no trecho.
 
-8 -- Leia o texto e responda à pergunta.
+\num{8} -- Leia o texto e responda à pergunta.
 
 **O MAR**
 
@@ -197,7 +193,7 @@ c\) Incorreta, pois um anúncio pressupõe algo a ser anunciado.
 
 d\) Incorreta, pois um texto dramático é organizado em diálogos.
 
-9 -- Leia o texto e responda à pergunta.
+\num{9} -- Leia o texto e responda à pergunta.
 
 "--- Vou ser atacado? exclamou D. Antônio pensativo.
 
@@ -239,7 +235,7 @@ c\) Correta, pois o ponto de interrogação indica uma dúvida.
 
 d\) Incorreta, pois a vírgula é usada para dividir uma frase.
 
-10 -- Observe a imagem e responda à pergunta.
+\num{10} Observe a imagem e responda à pergunta.
 
 ![a Prefeitura de São José dos Campos realiza durante todo o mês de
 junho, uma série de ações para alertar a população sobre o crescimento
@@ -273,7 +269,7 @@ c\) Incorreta, pois as crianças estão alegres na imagem.
 
 d\) Incorreta, pois a imagem apresenta o uso da linguagem informal.
 
-11 -- Leia o texto e responda à pergunta.
+\num{11} Leia o texto e responda à pergunta.
 
 "--- Como vai, bacharel?
 
@@ -314,7 +310,7 @@ c\) Correta, pois "até logo" aparece como "té logo" no trecho.
 
 d\) Incorreta, pois o trecho é escrito no registro formal da língua.
 
-12 -- Leia o texto e responda à pergunta.
+\num{12} Leia o texto e responda à pergunta.
 
 "**Bullying: combate deve ser feito de forma coletiva e intersetorial**
 
@@ -356,7 +352,7 @@ do problema.
 d\) Incorreta, pois o trecho demonstra uma visão clara a respeito do
 problema.
 
-13 -- Leia o texto e responda à pergunta.
+\num{13} Leia o texto e responda à pergunta.
 
 "**No verão, banhistas devem redobrar os cuidados para evitar
 afogamentos**
@@ -406,7 +402,7 @@ c\) Incorreta, pois a citação torna o tema mais objetivo para o leitor.
 d\) Correta, pois o uso de citações provenientes de especialistas
 atribui maior confiabilidade ao argumento.
 
-14 -- Observe a imagem e responda à pergunta.
+\num{14} Observe a imagem e responda à pergunta.
 
 ![](./imgQ4PORT/media/image2.png){width="3.966666666666667in"
 height="3.748163823272091in"}
@@ -440,7 +436,7 @@ usuário e as pessoas ao seu redor.
 
 d\) Incorreta, pois o infográfico afirma exatamente o contrário.
 
-15 -- Leia o texto e responda à pergunta.
+\num{15} Leia o texto e responda à pergunta.
 
 **"Não sou o substituto do Google, afirma ChatGPT ao ser entrevistado**
 
@@ -485,9 +481,9 @@ c\) Incorreta, pois o prefixo destacado indica uma relação oposta.
 d\) Incorreta, pois a ideia de oposição está associada ao prefixo
 contra.
 
-**Simulado 2**
+# Simulado 2
 
-5 -- Leia o texto e responda à pergunta.
+\num{5} Leia o texto e responda à pergunta.
 
 "Já se não ria; tinha só um resto de sorriso forçado e resignado. Olhou
 bem para
@@ -530,7 +526,7 @@ c\) Incorreta, pois os parágrafos são concluídos com pontos finais.
 
 d\) Incorreta, pois as descrições de espaço acontecem ao longo do texto.
 
-6 -- Leia o texto e responda à pergunta.
+\num{6} Leia o texto e responda à pergunta.
 
 "Que tal agora desenhar a sua própria amarelinha? Para facilitar, siga o
 passo a passo:
@@ -582,7 +578,7 @@ substantivos.
 d\) Incorreta, pois os substantivos são usados para se referir a objetos
 animados ou inanimados.
 
-7 -- Leia o texto e responda a pergunta.
+\num{7} Leia o texto e responda a pergunta.
 
 "**O velho abrio as palpebras e cerrou-as logo:**
 
@@ -621,7 +617,7 @@ dúvida.
 d\) Correta, pois os dois pontos indicam o início de um diálogo no
 trecho seguinte.
 
-8 -- Leia o texto e responda à pergunta.
+\num{8} Leia o texto e responda à pergunta.
 
 "**Formação de professores é entrave ao uso de tecnologia em sala de
 aula**
@@ -670,7 +666,7 @@ c\) Incorreta, pois desenvolve o argumento oposto.
 d\) Incorreta, pois o texto afirma somente que a pesquisa foi realizada
 por uma instituição britânica.
 
-9 -- Leia o texto e responda à pergunta.
+\num{9} Leia o texto e responda à pergunta.
 
 "Si fosse ser água os outros bebiam, si fosse ser formiga esmagavam, si
 fosse mosquito flitavam, si fosse trem de ferro descarrilava, si fosse
@@ -712,7 +708,7 @@ narrador.
 d\) Incorreta, pois o verbo em questão é usado durante a descrição do
 narrador.
 
-10 -- Leio texto e responda à pergunta.
+\num{10} Leio texto e responda à pergunta.
 
 "Se, em conversa com o ex-presidente de província, disse todo o bem que
 pensava do Governo Provisório, não lhe ouviu palavras de acordo nem de
@@ -743,7 +739,7 @@ c\) Correta, pois a contração "dela" retoma a palavra "moça".
 
 d\) Incorreta, pois o pronome pessoal "ele" não é retomado.
 
-11 -- Leia o texto e responda à pergunta.
+\num{11} Leia o texto e responda à pergunta.
 
 "**Brasileiros preferem cursos online para qualificação profissional**
 
@@ -780,7 +776,7 @@ c\) Incorreta, pois a palavra "talvez" não é um advérbio de negação.
 
 d\) Correta, pois a palavra "talvez" é um advérbio de dúvida.
 
-12 -- Leia o texto e responda à pergunta.
+\num{12} Leia o texto e responda à pergunta.
 
 "**Centro de Referência em Saúde Indígena é inaugurado em terra
 Yanomami**
@@ -820,7 +816,7 @@ o leitor.
 
 d\) Incorreta, pois um conto constitui um gênero narrativo.
 
-13 -- Leia o texto e responda à pergunta.
+\num{13} Leia o texto e responda à pergunta.
 
 "**Governo de SP amplia Campanha de Multivacinação até 30 de novembro**
 
@@ -865,7 +861,7 @@ compreensão.
 
 d\) Incorreta, pois o texto traz informações claras.
 
-14 -- Leia o texto e responda à pergunta.
+\num{14} Leia o texto e responda à pergunta.
 
 "**O MURO**
 
@@ -921,7 +917,7 @@ palavra.
 d\) Incorreta, pois as duas palavras fazem parte do mesmo campo
 semântico.
 
-15 -- Observe a imagem e responda à pergunta.
+\num{15} Observe a imagem e responda à pergunta.
 
 ![Foto Noticia Principal
 Grande](./imgQ4PORT/media/image3.jpeg){width="4.175in" height="4.175in"}
@@ -970,9 +966,9 @@ informações.
 d\) Incorreta, pois tanto a imagem como o texto partem do mesmo
 pressuposto.
 
-**Simulado 3**
+# Simulado 3
 
-5 -- Leia o texto e responda à pergunta.
+\num{5} Leia o texto e responda à pergunta.
 
 "**Jovens de até 24 anos veem 7 vezes menos TV aberta do que idosos**
 
@@ -989,7 +985,7 @@ reguladora britânica. O levantamento mostra que jovens entre 16 e 24
 anos assistem quase sete vezes menos televisão do que pessoas com 65
 anos ou mais, passando menos de uma hora em frente à TV.
 
- \"Eu acho que esse dado também é importante, porque os jovens já não
+"Eu acho que esse dado também é importante, porque os jovens já não
 assistem a televisão, mas eles migram e eles assistem conteúdo
 audiovisual nas plataformas de streaming ou conteúdos *on demand* e em
 vídeos de redes sociais".
@@ -1025,7 +1021,7 @@ c\) Incorreta, pois o trecho não apresenta características narrativas.
 
 d\) Incorreta, pois não se trata de um texto poético.
 
-6 -- Leia o texto e responda à pergunta.
+\num{6} Leia o texto e responda à pergunta.
 
 "**Telemedicina chegou com a pandemia e veio para ficar, indica estudo**
 
@@ -1076,7 +1072,7 @@ atendimento.
 d\) Correta, pois o termo "transitória" é utilizado nesse sentido no
 texto.
 
-7 -- Leia o texto e responda à pergunta.
+\num{7} Leia o texto e responda à pergunta.
 
 "**Lugares e monumentos contam a história do 7 de Setembro em São
 Paulo**
@@ -1474,7 +1470,7 @@ vírus.
 
 d\) Incorreta, pois a ilustração mostra exatamente o contrário.
 
-**Simulado 4**
+# Simulado 4
 
 5 -- Leia o texto e responda à pergunta.
 

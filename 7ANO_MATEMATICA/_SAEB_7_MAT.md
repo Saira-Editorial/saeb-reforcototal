@@ -4,24 +4,24 @@ Habilidades BNCC: EF07MA01, EF07MA03, EF07MA10.
 
 Habilidades SAEB:
 
-\- Escrever números racionais (representação fracionária ou decimal
+*  Escrever números racionais (representação fracionária ou decimal
 finita) em sua representação por algarismos ou em língua materna ou
 associar o registro numérico ao registro em língua materna.
 
-\- Compor ou decompor números racionais positivos (representação decimal
+*  Compor ou decompor números racionais positivos (representação decimal
 finita) na forma aditiva, ou em suas ordens, ou em adições e
 multiplicações.
 
-\- Identificar números racionais ou irracionais.
+*  Identificar números racionais ou irracionais.
 
-\- Comparar ou ordenar números reais, com ou sem suporte da reta
+*  Comparar ou ordenar números reais, com ou sem suporte da reta
 numérica, ou aproximar números reais para múltiplos de potência de 10
 mais próxima.
 
-\- Converter uma representação de um número racional positivo para outra
+*  Converter uma representação de um número racional positivo para outra
 representação.
 
-\- Identificar um número natural como primo, composto, "múltiplo/fator
+*  Identificar um número natural como primo, composto, "múltiplo/fator
 de" ou "divisor de" ou identificar a decomposição de um número natural
 em fatores primos ou relacionar as propriedades aritméticas (primo,
 composto, "múltiplo/fator de" ou "divisor de") de um número natural à
@@ -184,7 +184,7 @@ escrevem em potências de 10. Isso porque esses números podem ser
 escritos na potência 10, o que facilita ver em uma reta numérica quem
 está mais próximo ou não.
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Marque Verdadeiro (V) ou falso (F) para as afirmações abaixo e
 justifique sua resposta.
@@ -403,7 +403,7 @@ Quem tem o maior pé é a Paula, pois como as casas centesimais são
 iguais, observa-se os milésimos, e de Thiago é 0 e de Paula 1, logo,
 Paula tem o pé maior.
 
-Treino
+\colorsec{Treino}
 
 1\) Marque a alternativa em que classifica os números respectivamente e
 corretamente.
@@ -424,10 +424,10 @@ Habilidades BNCC: EF07MA01, EF07MA03, EF07MA10.
 
 Habilidades SAEB:
 
-\- Converter uma representação de um número racional positivo para outra
+*  Converter uma representação de um número racional positivo para outra
 representação.
 
-\- Escrever números racionais (representação fracionária ou decimal
+*  Escrever números racionais (representação fracionária ou decimal
 finita) em sua representação por algarismos ou em língua materna ou
 associar o registro numérico ao registro em língua materna.
 
@@ -499,7 +499,7 @@ Habilidades SAEB:
 -Converter uma representação de um número racional positivo para outra
 representação.
 
-\- Identificar um número natural como primo, composto, "múltiplo/fator
+*  Identificar um número natural como primo, composto, "múltiplo/fator
 de" ou "divisor de" ou identificar a decomposição de um número natural
 em fatores primos ou relacionar as propriedades aritméticas (primo,
 composto, "múltiplo/fator de" ou "divisor de") de um número natural à
@@ -522,20 +522,20 @@ Habilidade BNCC: EF07MA04
 
 Habilidades SAEB:
 
-\- Calcular o resultado de adições, subtrações, multiplicações ou
+*  Calcular o resultado de adições, subtrações, multiplicações ou
 divisões envolvendo números reais.
 
-\- Calcular o resultado de potenciação ou radiciação envolvendo números
+*  Calcular o resultado de potenciação ou radiciação envolvendo números
 reais.
 
-\- Resolver problemas de adição, subtração, multiplicação, divisão,
+*  Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo números reais, inclusive notação
 científica.
 
-\- Resolver problemas de contagem cuja resolução envolva a aplicação do
+*  Resolver problemas de contagem cuja resolução envolva a aplicação do
 princípio multiplicativo.
 
-\- Resolver problemas que envolvam as ideias de múltiplo, divisor,
+*  Resolver problemas que envolvam as ideias de múltiplo, divisor,
 máximo divisor comum ou mínimo múltiplo comum.
 
 Box teoria
@@ -617,7 +617,7 @@ $\text{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\sqrt{576} = \ \sqrt{2^{2}.2
 
 $$\sqrt{7} \rightarrow \ \sqrt{4} < \sqrt{7} < \sqrt{9} \rightarrow 2 < \sqrt{}7 < 3$$
 
-Atividades
+\colorsec{Atividades}
 
 1)  Calcule o valor das expressões a seguir:
 
@@ -944,7 +944,7 @@ $\frac{120}{30} = 4$ retalhos vermelhos
 
 $\frac{180}{30} = 6$ retalhos rosas
 
-Treino
+\colorsec{Treino}
 
 1)  Os fusos horários são feitos a partir do Meridiano de Greenwich, que
     é o marco 0. Toda localidade que tem horário atrasado em relação ao
@@ -1091,13 +1091,13 @@ Habilidades BNCC: EF07MA08, EF07MA09.
 
 Habilidades SAEB:
 
-\- Representar frações menores ou maiores que a unidade por meio de
+*  Representar frações menores ou maiores que a unidade por meio de
 representações pictóricas ou associar frações a representações
 pictóricas.
 
-\- Identificar frações equivalentes.
+*  Identificar frações equivalentes.
 
-\- Determinar uma fração geratriz para uma dízima periódica.
+*  Determinar uma fração geratriz para uma dízima periódica.
 
 Box teoria
 
@@ -1399,7 +1399,7 @@ dízima periódica ser simples, então é diretamente a regra dos 9 e zeros,
 o próprio período é o numerador e usa-se um nove para cada número do
 período.
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Encontre as frações das partes pintadas a partir das imagens:
 
@@ -1623,7 +1623,7 @@ Resposta: Sim, Ricardo e Flávio estão empatados, pois a fração de
 conclusão equivale ao mesmo tanto. Basta multiplicar o numerador e
 denominador por 4 da fração de Ricardo ou dividir a de Flávio.
 
-Treino
+\colorsec{Treino}
 
 1\) Qual a fração da dízima periódica 7,95959595...?
 
@@ -1820,7 +1820,7 @@ sucessivos nunca podemos somar as porcentagens. Use o exemplo anterior
 para mostrar como ficaria o resultado se for feito dessa forma. Se
 necessário faça um outro exemplo.
 
-Atividades
+\colorsec{Atividades}
 
 1)  Represente as porcentagens abaixo na forma de fração e decimal:
 
@@ -2053,7 +2053,7 @@ $$8100 \times 0,95 \times 0,9 = 6.196,5$$
 
 No início de 2023 o valor da mota era de R\$ 6.925,50.
 
-Treino
+\colorsec{Treino}
 
 1\) Marta desenvolveu um jogo de cartas com diferentes representações de
 porcentagem, onde ao tirar uma carta é necessário encontrar as outras 3
@@ -2173,15 +2173,15 @@ Habilidades BNCC: EF07MA18
 
 Habilidades SAEB:
 
-\- Resolver uma equação polinomial de 1º grau.
+*  Resolver uma equação polinomial de 1º grau.
 
-\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+*  Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modelam um problema.
 
-\- Associar uma equação polinomial de 1º grau com duas variáveis a uma
+*  Associar uma equação polinomial de 1º grau com duas variáveis a uma
 reta no plano cartesiano.
 
-\- Resolver problemas que possam ser representados por sistema de
+*  Resolver problemas que possam ser representados por sistema de
 equações de 1º grau com duas incógnitas.
 
 Box de teoria
@@ -2349,7 +2349,7 @@ descobrir o x, substituindo na segunda equação:
 
 $$x - 3 = 9\  \Rightarrow \ x = 9 + 3\  \Rightarrow \ x = 12$$
 
-Atividades
+\colorsec{Atividades}
 
 1\) Daiane e Leandra compraram 7 balas e 4 chocolates e gastaram 10,70.
 Se o valor de cada chocolate equivale a 25 balas, quanto custou cada
@@ -2563,7 +2563,7 @@ Resposta:
 
 $$\ \frac{n}{2}\  + \ 10\  = \ 28\  \Rightarrow \ \frac{n}{2} = \ 28 - 10\  \Rightarrow \ n = 18*2\  \Rightarrow \ n = 36$$
 
-Treino
+\colorsec{Treino}
 
 1\) Considerando a balança, quanto vale o peso correspondente a 3x?
 
@@ -2591,9 +2591,9 @@ Habilidade BNCC: EF07MA18
 
 Habilidades SAEB:
 
-\- Resolver uma equação polinomial de 1º grau.
+*  Resolver uma equação polinomial de 1º grau.
 
-\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+*  Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modelam um problema.
 
 A - Errada, pois se os pesos valessem 15kg cada um, a bandeja da direita
@@ -2628,9 +2628,9 @@ Habilidade BNCC: EF07MA18
 
 Habilidades SAEB:
 
-\- Resolver uma equação polinomial de 1º grau.
+*  Resolver uma equação polinomial de 1º grau.
 
-\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+*  Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modelam um problema.
 
 A - Correta, $3n + 41 = 143$
@@ -2671,9 +2671,9 @@ Habilidade BNCC: EF07MA18
 
 Habilidades SAEB:
 
-\- Resolver uma equação polinomial de 1º grau.
+*  Resolver uma equação polinomial de 1º grau.
 
-\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+*  Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modelam um problema..
 
 A - Errada, se comprasse 5 cartelas, teria retornado com R\$39,00
@@ -2697,14 +2697,14 @@ Habilidades BNCC: EF07MA13; EF07MA14; EF07MA15; EF07MA16
 
 Habilidades SAEB:
 
-\- Identificar uma representação algébrica para o padrão ou a
+*  Identificar uma representação algébrica para o padrão ou a
 regularidade de uma sequência de números racionais ou representar
 algebricamente o padrão ou a regularidade de uma sequência de números
 racionais.
 
-\- Identificar representações algébricas equivalentes.
+*  Identificar representações algébricas equivalentes.
 
-\- Resolver problemas que envolvam cálculo do valor numérico de
+*  Resolver problemas que envolvam cálculo do valor numérico de
 expressões algébricas.
 
 Box teoria
@@ -2790,7 +2790,7 @@ o 12º termo dessa sequência?
 Utilizando a lei de formação, temos que
 $a_{n} = n + 1 \rightarrow a_{12} = 12 + 1 = 13$
 
-Atividades
+\colorsec{Atividades}
 
 1\) Classifique se nas expressões matemáticas abaixo tem uma incógnita
 ou uma variável:
@@ -3242,7 +3242,7 @@ Professor, faça mais alguns exemplos para que os alunos compreendam bem
 como aplicar essas relações e como identificar de maneira correta se as
 grandezas são diretamente ou inversamente proporcionais.
 
-Atividades
+\colorsec{Atividades}
 
 1)  Representa as razões abaixo em forma de frações irredutíveis:
 
@@ -3623,27 +3623,27 @@ Habilidades BNCC: EF07MA19; EF07MA20; EF07MA21.
 
 Habilidades SAEB:
 
-\- Identificar, no plano cartesiano, figuras obtidas por uma ou mais
+*  Identificar, no plano cartesiano, figuras obtidas por uma ou mais
 transformações geométricas (reflexão, translação, rotação).
 
-\- Relacionar o número de vértices, faces ou arestas de prismas ou
+*  Relacionar o número de vértices, faces ou arestas de prismas ou
 pirâmides, em função do seu polígono da base.
 
-\- Relacionar objetos tridimensionais às suas planificações ou vistas.
+*  Relacionar objetos tridimensionais às suas planificações ou vistas.
 
-\- Classificar polígonos em regulares e não regulares.
+*  Classificar polígonos em regulares e não regulares.
 
-\- Reconhecer polígonos semelhantes ou as relações existentes entre
+*  Reconhecer polígonos semelhantes ou as relações existentes entre
 ângulos e lados correspondentes nesses tipos de polígonos.
 
-\- Reconhecer circunferência/círculo como lugares geométricos, seus
+*  Reconhecer circunferência/círculo como lugares geométricos, seus
 elementos (centro, raio, diâmetro, corda, arco, ângulo central, ângulo
 inscrito).
 
-\- Construir/desenhar figuras geométricas planas ou espaciais que
+*  Construir/desenhar figuras geométricas planas ou espaciais que
 satisfaçam as condições dadas.
 
-\- Resolver problemas que envolvam relações entre os elementos de uma
+*  Resolver problemas que envolvam relações entre os elementos de uma
 circunferência/círculo (raio, diâmetro, corda, arco, ângulo central,
 ângulo inscrito).
 
@@ -3781,7 +3781,7 @@ arco AB valerá 35°.
 Quando se tem um arco de 84°. Qual valor do ângulo inscrito na
 circunferência? O ângulo valerá 42°.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Identifique qual transformação geométrica acontece em cada uma das
 situações.
@@ -3902,7 +3902,7 @@ Resposta:
 Uma propriedade dos polígonos é que quando são semelhantes, o perímetro
 também é semelhante.
 
-Treino
+\colorsec{Treino}
 
 1\) Da figura 1 para figura 2, aconteceram duas transformações
 geométricas. Quais foram elas?
@@ -3970,14 +3970,14 @@ Habilidades BNCC: EF07MA19; EF07MA20; EF07MA21.
 
 Habilidades SAEB:
 
-\- Relacionar objetos tridimensionais às suas planificações ou vistas.
+*  Relacionar objetos tridimensionais às suas planificações ou vistas.
 
-\- Classificar polígonos em regulares e não regulares.
+*  Classificar polígonos em regulares e não regulares.
 
-\- Reconhecer polígonos semelhantes ou as relações existentes entre
+*  Reconhecer polígonos semelhantes ou as relações existentes entre
 ângulos e lados correspondentes nesses tipos de polígonos.
 
-\- Construir/desenhar figuras geométricas planas ou espaciais que
+*  Construir/desenhar figuras geométricas planas ou espaciais que
 satisfaçam as condições dadas.
 
 A - Errada, pois uma pirâmide não possui a largura, altura e dimensões
@@ -4024,34 +4024,34 @@ Habilidades BNCC: EF07MA23; EF07MA24; EF07MA25.
 
 Habilidades SAEB:
 
-\- Identificar propriedades e relações existentes entre os elementos de
+*  Identificar propriedades e relações existentes entre os elementos de
 um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
 determinação da medida de um ângulo interno ou externo).
 
-\- Classificar triângulos ou quadriláteros em relação aos lados ou aos
+*  Classificar triângulos ou quadriláteros em relação aos lados ou aos
 ângulos internos.
 
-\- Identificar retas ou segmentos de retas concorrentes, paralelos ou
+*  Identificar retas ou segmentos de retas concorrentes, paralelos ou
 perpendiculares.
 
-\- Identificar relações entre ângulos formados por retas paralelas
+*  Identificar relações entre ângulos formados por retas paralelas
 cortadas por uma transversal.
 
-\- Resolver problemas que envolvam relações entre ângulos formados por
+*  Resolver problemas que envolvam relações entre ângulos formados por
 retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
 
-\- Resolver problemas que envolvam relações métricas do triângulo
+*  Resolver problemas que envolvam relações métricas do triângulo
 retângulo, incluindo o teorema de Pitágoras.
 
-\- Resolver problemas que envolvam polígonos semelhantes.
+*  Resolver problemas que envolvam polígonos semelhantes.
 
-\- Resolver problemas que envolvam aplicação das relações de
+*  Resolver problemas que envolvam aplicação das relações de
 proporcionalidade abrangendo retas paralelas cortadas por transversais.
 
-\- Determinar o ponto médio de um segmento de reta ou a distância entre
+*  Determinar o ponto médio de um segmento de reta ou a distância entre
 dois pontos quaisquer, dadas as coordenadas desses pontos no plano
 cartesiano.
 
@@ -4126,7 +4126,7 @@ isso, são utilizados em construções arquitetônicas, como telhados,
 estruturas metálicas, em objetos de uso diário e aparecem também nas
 artes plásticas.
 
-Atividades:
+\colorsec{Atividades}
 
 1)  Complete as frases abaixo de acordo com os ângulos gerados por duas
     paralelas cortadas por uma transversal:
@@ -4516,7 +4516,7 @@ apresentar deslocamentos em linha reta ou em linha curva. A direção
 indica a orientação em que o deslocamento ocorre, enquanto o sentido
 indica a orientação em relação ao ponto de partida.
 
-Atividades
+\colorsec{Atividades}
 
 1.  O que é um ponto de referência quando falamos de deslocamento? Dê
     exemplos.
@@ -4575,7 +4575,7 @@ Fazer uma imagem como essa.
 
 4\) Indique as coordenadas das figuras abaixo:
 
-![10 Atividades para trabalhar na malha
+ ![10 Atividades para trabalhar na malha
 quadriculada](./imgSAEB_7_MAT/media/image59.jpg){width="3.0399398512685916in"
 height="2.9328412073490813in"}
 
@@ -4837,22 +4837,22 @@ Habilidades BNCC: EF07MA35, EF07MA37.
 
 Habilidades SAEB:
 
-\- Identificar os indivíduos (universo ou população-alvo da pesquisa),
+*  Identificar os indivíduos (universo ou população-alvo da pesquisa),
 as variáveis e os tipos de variáveis (quantitativas ou categóricas) em
 um conjunto de dados.
 
-\- Representar ou associar os dados de uma pesquisa estatística ou de um
+*  Representar ou associar os dados de uma pesquisa estatística ou de um
 levantamento em listas, tabelas (simples ou de dupla entrada) ou
 gráficos (barras simples ou agrupadas, colunas simples ou agrupadas,
 pictóricos, de linhas, de setores, ou em histograma).
 
-\- Inferir a finalidade da realização de uma pesquisa estatística ou de
+*  Inferir a finalidade da realização de uma pesquisa estatística ou de
 um levantamento, dada uma tabela (simples ou de dupla entrada) ou
 gráfico (barras simples ou agrupadas, colunas simples ou agrupadas,
 pictóricos, de linhas, de setores ou em histograma) com os dados dessa
 pesquisa. 
 
-\- Interpretar o significado das medidas de tendência central (média,
+*  Interpretar o significado das medidas de tendência central (média,
 aritmética simples, moda e mediana) ou da amplitude.
 
  - Calcular os valores de medidas de tendência central de uma pesquisa
@@ -5286,7 +5286,7 @@ $$\text{Mediana} = \ 50 - 54 - 55 - 60 - 61 - 65 - 71$$
 
 $$\text{Mediana} = \ 60\text{km}/h$$
 
-Treino
+\colorsec{Treino}
 
 1\) Analise as afirmações e marque a correta.
 
@@ -5311,7 +5311,7 @@ Habilidades BNCC: EF07MA35, EF07MA37.
 
 Habilidades SAEB:
 
-\- Interpretar o significado das medidas de tendência central (média,
+*  Interpretar o significado das medidas de tendência central (média,
 aritmética simples, moda e mediana) ou da amplitude.
 
  - Calcular os valores de medidas de tendência central de uma pesquisa
@@ -5357,7 +5357,7 @@ Habilidades BNCC: EF07MA35, EF07MA37.
 
 Habilidades SAEB:
 
-\- Interpretar o significado das medidas de tendência central (média,
+*  Interpretar o significado das medidas de tendência central (média,
 aritmética simples, moda e mediana) ou da amplitude.
 
  - Calcular os valores de medidas de tendência central de uma pesquisa
@@ -5414,15 +5414,15 @@ Habilidades BNCC: EF07MA29; EF07MA30; EF07MA31; EF07MA32;
 
 Habilidades SAEB:
 
-\- Resolver problemas que envolvam medidas de grandezas (comprimento,
+*  Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais.
 
-\- Resolver problemas que envolvam perímetro de figuras planas.
+*  Resolver problemas que envolvam perímetro de figuras planas.
 
-\- Resolver problemas que envolvam área de figuras planas.
+*  Resolver problemas que envolvam área de figuras planas.
 
-\- Resolver problemas que envolvam volume de prismas retos ou cilindros
+*  Resolver problemas que envolvam volume de prismas retos ou cilindros
 retos.
 
 Box teoria
@@ -5568,7 +5568,7 @@ height="2.2573272090988628in"}
 
 Fazer uma imagem como a colocada acima.
 
-Atividades:
+\colorsec{Atividades}
 
 1)  Encontre o valor das transformações das unidades de comprimento
     abaixo:
@@ -5822,7 +5822,7 @@ $V = 45^{3} = 91.125cm^{3} = \frac{91.125}{1000} = 91.125dm^{3} = 91.125\ \text{
 d\)
 $V = 5,4 \times 10 \times 3,5 = 189m^{3} = 189 \times 1000 = 189.000\ \text{litros}$
 
-Treino
+\colorsec{Treino}
 
 1\) Fernanda está reformando seu apartamento e vai trocar os pisos de
 todos os cômodos, sendo que o apartamento é retangular e tem medidas
@@ -5842,11 +5842,11 @@ Resposta: D
 Habilidades BNCC: EF07MA29, EF07MA31\
 Habilidades SAEB:
 
-\- Resolver problemas que envolvam medidas de grandezas (comprimento,
+*  Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais
 
-\- Resolver problemas que envolvam área de figuras planas.
+*  Resolver problemas que envolvam área de figuras planas.
 
 A - Errada, pois transformou errado cm² para m².
 
@@ -5945,7 +5945,7 @@ Habilidade BNCC: EF07MA34
 
 Habilidades SAEB:
 
-\- Resolver problemas que envolvam a probabilidade de ocorrência de um
+*  Resolver problemas que envolvam a probabilidade de ocorrência de um
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes.
 
@@ -6030,7 +6030,7 @@ A probabilidade que seja vermelha é:
 $\frac{6}{13} \times \frac{6}{12} = \frac{12}{156}$ ou, a fração
 irredutível $\frac{1}{13}$.
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Classifique se os eventos são dependentes ou independentes:
 
@@ -6180,7 +6180,7 @@ temos:
 
 $$P(A).P(B|A) = \frac{18}{38} \times \frac{17}{37} = \ \frac{306}{1406} = \ \frac{153}{703}$$
 
-Treino
+\colorsec{Treino}
 
 1\) Jogando uma moeda, qual a chance de sair 3 vezes seguidas, a face
 coroa?
@@ -6285,7 +6285,7 @@ $$P(1).P(2).P(3) = \ 0,551\ \text{aproximadamente}\ 55\%.$$
 D- Errada, para que os arremessos fossem perto de 1%, a probabilidade de
 erro do arremessador seria muito perto de 0,98, ou melhor, 98%.
 
-Simulado 1
+# Simulado 1
 
 1\) Sandra e Letícia montaram um percurso cheio de obstáculos, chamaram
 seus amigos para completarem o percurso enquanto elas cronometravam para
@@ -6813,7 +6813,7 @@ Para encontrar o valor de s basta substituir o valor de t dado. Assim,
 
 $$5c = d\  \rightarrow \ 5c = 75\  \rightarrow \ c = \frac{75}{5} = 15$$
 
-Simulado 2
+# Simulado 2
 
 1\) Marcela vai fazer uma viagem para o exterior e precisa levar pelo
 menos 300 combinações diferentes de looks para um ensaio fotográfico. Na
@@ -7327,7 +7327,7 @@ $$s - 15 = 2t\  \rightarrow \ s - 15 = 2\  \times \ 8\  \rightarrow \ s - 15 = 1
 
 D - Errada, pois ao invés de fazer 16 + 15, fez 16-15.
 
-Simulado 3
+# Simulado 3
 
 1\) Fabrício colocou em uma tabela, o lucro de todos os dias da semana
 do restaurante em que é dono. Temos que o lucro foi superior a 400
@@ -7814,7 +7814,7 @@ $x - 2 + 20$.
 D - Errada, pois além de não fazer o jogo de sinal com o y, não trocou a
 operação do 18 que encontrou ao mudar de lado na igualdade.
 
-Simulado 4
+# Simulado 4
 
 1\) Em uma corrida, o primeiro lugar ganhou com diferença de 0,035 de
 tempo para o segundo lugar. A diferença de tempo por extenso é:
