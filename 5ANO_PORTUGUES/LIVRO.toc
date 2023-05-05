@@ -41,49 +41,49 @@
 \contentsline {chapter}{Passo a passo}{69}{chapter*.58}
 \contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{69}{section*.59}
 \contentsline {section}{\leavevmode {\color {azul}Atividades}}{70}{section*.61}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{72}{section*.62}
-\contentsline {chapter}{ARTES}{77}{Item.135}
-\contentsline {chapter}{Artes visuais, dança, música e teatro}{77}{chapter*.63}
-\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{77}{section*.64}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{78}{section*.65}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{87}{section*.73}
-\contentsline {chapter}{O corpo na arte, a arte no corpo, a arte do corpo}{89}{chapter*.75}
-\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{89}{section*.76}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{90}{section*.78}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{98}{section*.85}
-\contentsline {chapter}{Patrimônio cultural}{100}{chapter*.86}
-\contentsline {section}{\leavevmode {\color {azul}Habilidade do SAEB}}{100}{section*.87}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{102}{section*.88}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{109}{section*.91}
-\contentsline {chapter}{CIẼNCIAS HUMANAS}{114}{Item.178}
-\contentsline {chapter}{Representações de tempo e espaço}{115}{chapter*.93}
-\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{115}{section*.94}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{116}{section*.96}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{121}{section*.100}
-\contentsline {chapter}{Natureza e meio ambiente}{123}{chapter*.101}
-\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{123}{section*.102}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{124}{section*.104}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{125}{section*.105}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{128}{section*.108}
-\contentsline {chapter}{Tudo é diverso}{130}{chapter*.110}
-\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{130}{section*.111}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{131}{section*.113}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{136}{section*.116}
-\contentsline {chapter}{Organizações e instituições}{139}{chapter*.117}
-\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{139}{section*.118}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{140}{section*.120}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{146}{section*.123}
-\contentsline {chapter}{Cidadania e sociedade}{148}{chapter*.124}
-\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{148}{section*.125}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{149}{section*.127}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{155}{section*.128}
-\contentsline {chapter}{Produção e trabalho}{157}{chapter*.130}
-\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{157}{section*.131}
-\contentsline {section}{\leavevmode {\color {azul}Atividades}}{158}{section*.132}
-\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{160}{section*.135}
-\contentsline {section}{\leavevmode {\color {azul}Treino}}{164}{section*.139}
-\contentsline {chapter}{Simulado 1}{167}{figure.caption.141}
-\contentsline {chapter}{Simulado 2}{176}{figure.caption.144}
-\contentsline {chapter}{Simulado 3}{186}{figure.caption.149}
-\contentsline {chapter}{Simulado 4}{196}{figure.caption.152}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{73}{section*.62}
+\contentsline {chapter}{ARTES}{78}{Item.135}
+\contentsline {chapter}{Artes visuais, dança, música e teatro}{78}{chapter*.63}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{78}{section*.64}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{80}{section*.65}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{89}{section*.73}
+\contentsline {chapter}{O corpo na arte, a arte no corpo, a arte do corpo}{91}{chapter*.75}
+\contentsline {section}{\leavevmode {\color {azul}Habilidades do SAEB}}{91}{section*.76}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{92}{section*.78}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{100}{section*.85}
+\contentsline {chapter}{Patrimônio cultural}{103}{chapter*.87}
+\contentsline {section}{\leavevmode {\color {azul}Habilidade do SAEB}}{103}{section*.88}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{105}{section*.89}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{114}{section*.94}
+\contentsline {chapter}{CIẼNCIAS HUMANAS}{119}{Item.178}
+\contentsline {chapter}{Representações de tempo e espaço}{120}{chapter*.97}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{120}{section*.98}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{121}{section*.100}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{126}{section*.104}
+\contentsline {chapter}{Natureza e meio ambiente}{128}{chapter*.105}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{128}{section*.106}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{129}{section*.108}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 2}}{130}{section*.109}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{133}{section*.112}
+\contentsline {chapter}{Tudo é diverso}{135}{chapter*.114}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{135}{section*.115}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{136}{section*.117}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{141}{section*.120}
+\contentsline {chapter}{Organizações e instituições}{144}{chapter*.121}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{144}{section*.122}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{145}{section*.124}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{151}{section*.127}
+\contentsline {chapter}{Cidadania e sociedade}{153}{chapter*.128}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{153}{section*.129}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{154}{section*.131}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{160}{section*.132}
+\contentsline {chapter}{Produção e trabalho}{162}{chapter*.134}
+\contentsline {section}{\leavevmode {\color {azul}Eixo de conhecimento do SAEB}}{162}{section*.135}
+\contentsline {section}{\leavevmode {\color {azul}Atividades}}{163}{section*.136}
+\contentsline {section}{\leavevmode {\color {azul}Atividade 3}}{165}{section*.139}
+\contentsline {section}{\leavevmode {\color {azul}Treino}}{169}{section*.143}
+\contentsline {chapter}{Simulado 1}{172}{figure.caption.145}
+\contentsline {chapter}{Simulado 2}{181}{figure.caption.148}
+\contentsline {chapter}{Simulado 3}{191}{figure.caption.153}
+\contentsline {chapter}{Simulado 4}{201}{figure.caption.156}
 \babel@toc {brazilian}{}
