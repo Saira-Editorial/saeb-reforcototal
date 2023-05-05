@@ -399,139 +399,81 @@ A proposta pública a seguir apresenta metas para o desenvolvimento da
 igualdade de raça e de gênero e povos e comunidades tradicionais e faz
 parte do plano de desenvolvimento integrado da Bahia 2035, o qual
 abrange diversos núcleos, como saúde, educação, desenvolvimento rural
-sustentabilidade, tecnologia, etc.
+sustentabilidade, tecnologia etc.
 
-Leia o texto a seguir para conhecer essas propostas de igualdade de raça
+Leia o texto para conhecer essas propostas de igualdade de raça
 e de gênero e povos e comunidades tradicionais.
 
 **PLANO DE DESENVOLVIMENTO INTEGRADO BAHIA 2035**
 
-\[\...\]
+>A promoção do desenvolvimento na Bahia enfrenta desafios fundamentais relacionados ao racismo e à violência de gênero, que caracterizam socialmente sua formação socioeconômica como patriarcal e escravocrata por séculos. Esses padrões de conduta foram historicamente utilizados para justificar relações de dominação, exploração e violência, o que pode ser comprovado pela atualidade dessas condutas, evidenciada pelo número de feminicídios e homicídios que vitimam a população negra. A igualdade de raça e gênero e o combate ao racismo são essenciais para transformar os padrões das relações étnico-raciais e de gênero ainda vigentes, já que esses traços estruturantes atingem desrespeitosamente a maioria da população, negros e mulheres.
 
-O racismo e a violência de gênero são também desafios fundamentais para
-a promoção do desenvolvimento. Tais padrões de conduta caracterizam
-socialmente a formação socioeconômica baiana: patriarcal e, por séculos,
-escravocrata. Em uma sociedade marcadamente desigual, a diferença de
-raça e de gênero foi historicamente utilizada e sistematicamente
-reforçada para justificar relações de dominação, exploração e violências
-reais e simbólicas. A atualidade dessas condutas pode ser comprovada,
-além de outros indicadores, pelo número de feminicídios e de homicídios
-que vitimam a população negra. Como traços estruturantes que alcançam
-desrespeitosamente a maioria da população, negros e mulheres, a promoção
-da igualdade de raça e gênero e o combate ao racismo são requisitos
-essenciais para a transformação dos padrões das relações étnico-raciais
-e de gênero hoje ainda vigentes.
+>Os critérios organizadores das relações sociais devem pautar-se na conquista da cidadania e na defesa incansável dos direitos humanos, em vez da diferença de raça e gênero, que promove uma inserção injusta e violenta. O Estado precisa proteger os direitos dos negros e das mulheres e considerar a questão racial e de gênero como dimensão estratégica central na resolução da desigualdade social, considerando as superposições interseccionais. Isso requer um modelo de desenvolvimento inclusivo para a população negra, para as mulheres e para os povos e comunidades tradicionais.
 
-Os critérios organizadores das relações sociais devem se pautar na
-conquista da cidadania e na defesa incansável dos direitos humanos; não
-na diferença de raça e gênero, que promove uma inserção injusta e
-violenta. O Estado, portanto, precisa garantir que os direitos, nesse
-caso específico dos negros e das mulheres, sejam protegidos. Assim,
-deve-se considerar a questão racial e de gênero como dimensão
-estratégica central na resolução da desigualdade social, considerando as
-superposições interseccionais. Isto requer um modelo de desenvolvimento
-que seja inclusivo para a população negra, para as mulheres e para os
-povos e comunidades tradicionais.
+>Os povos e comunidades tradicionais precisam ser reconhecidos como portadores de futuro, organizados social e economicamente sob valores, princípios e práticas que fogem à lógica capitalista restrita. A Bahia reconhece 10 segmentos de povos e comunidades tradicionais, mas, apesar das políticas públicas, ocupa o terceiro lugar no ranking de mortes no campo. O planejamento a longo prazo visa fomentar e articular ações públicas e em parceria com a sociedade civil que combatam as violências e promovam a emancipação do sujeito - negros, mulheres, povos e comunidades tradicionais - por meio da garantia de direitos, oportunidades de geração de trabalho e renda, autonomia e acesso a bens e serviços públicos de qualidade, além de contribuir substancialmente para a estruturação de novas sociabilidades possíveis e necessárias. É necessário produzir conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, promover e implementar políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, realizar parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, desenvolver e promover políticas públicas de enfrentamento à violência contra as mulheres, e promover a intersecção das políticas públicas de modo a enfrentar o racismo e a intolerância religiosa, a feminização da pobreza, além de trabalhar pela democratização da terra, o acesso à moradia e a programas de inclusão socio produtiva pautado no etnodesenvolvimento.
 
-Sobre os povos e comunidades tradicionais, é necessário o devido
-reconhecimento desses agrupamentos como portadores de futuro, porque
-organizados social e economicamente sob valores, princípios e práticas
-que fogem a lógica capitalista restrita. O estado da Bahia reconhece 10
-segmentos de povos e comunidades tradicionais: povos de terreiros, povos
-indígenas, ciganos, quilombolas, extrativistas, pescadoras, marisqueiras
-e geralzeiros e fundo e fecho de pasto. Embora haja tal reconhecimento e
-se tenha avançado nas políticas públicas para estes segmentos sociais, o
-estado da Bahia ocupa o terceiro lugar no ranking de mortes no campo, a
-despeito das iniciativas do governo estadual para a mediação dos
-conflitos.
-
-A partir das reflexões organizadas nesse eixo, o planejamento a longo
-prazo pretende: fomentar e articular as ações públicas e em parceria com
-a sociedade civil que combatam as violências e promovam a emancipação do
-sujeito -- negros, mulheres, povos e comunidades tradicionais, por meio
-da garantia de direitos, oportunidades de geração de trabalho e renda;
-valorizar a autonomia e o acesso a bens e serviços públicos de
-qualidade; e contribuir substancialmente para a estruturação de novas
-sociabilidades possíveis e necessárias. Produzir conteúdos em várias
-linguagens da comunicação, que proporcionem reflexões sobre
-problemáticas vivenciadas no dia a dia das mulheres relativas às
-questões de gênero, raça e classe. Promover e implementar políticas
-públicas voltadas para a construção da autonomia econômica e social das
-mulheres. Realizar parcerias e alianças estratégicas com fim de atender
-e expandir a transversalidade das ações nas diversas áreas e serviços
-públicos. Desenvolver e promover políticas públicas de enfrentamento à
-violência contra as mulheres. Promover a intersecção das políticas
-públicas de modo a enfrentar o racismo e a intolerância religiosa, a
-feminização da pobreza, além de trabalhar pela democratização da terra,
-o acesso à moradia e a programas de inclusão sócio-produtiva pautado no
-etnodesenvolvimento.
-
-\[\...\]
-
-GOVERNO DO ESTADO DA BAHIA. **Plano de Desenvolvimento Integrado -- PDI
-Bahia 2035**. p. 51-52. Disponível em: \<
+GOVERNO DO ESTADO DA BAHIA. Plano de Desenvolvimento Integrado -- PDI
+Bahia 2035.Disponível em: \<
 https://www.seplan.ba.gov.br/wp-content/uploads/caderno\_pdi\_bahia\_2035\_16082021\_0959.pdf\>.
 Acesso em: 28 mar. 2023.
 
 1\. Uma proposta pública é dirigida a vários grupos sociais. Qual é o
 objetivo dessa proposta, considerando a sociedade a que ela se destina?
-O objetivo da proposta é planejar investimentos em políticas públicas de
-igualdade de direitos e redução das iniquidades como elemento de
-desenvolvimento da população do estado da Bahia.
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\Coment{O objetivo da proposta é planejar investimentos em políticas públicas de
+igualdade de direitos e redução das iniquidades como elemento de
+desenvolvimento da população do estado da Bahia.}
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 2\. O primeiro parágrafo apresenta os padrões de conduta que
-caracterizam socialmente a formação socioeconômica baiana.
+caracterizam socialmente a formação socioeconômica baiana. De que forma se deu a formação socioeconômica baiana? 
 
-a\) De que forma se deu a formação socioeconômica baiana? Patriarcal e,
-por séculos, escravocrata.
+\Coment{ Essa sociedade se formou e se constituiu de forma patriarcal e,
+por séculos, escravocrata.}
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-b\) Quem tem a obrigação de garantir os direitos dos negros e das
-mulheres, e protegê-los? O Estado
+3\. Quem tem a obrigação de garantir os direitos dos negros e das
+mulheres, e protegê-los? 
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\Coment{O Estado.}
 
-3\. Explique o que significa dizer que é necessário promover a
-**emancipação do sujeito**. Espera-se que os alunos relacionem a
-expressão** **ao processo de liberdades política, cultural, humana e
-social de toas as pessoas que sofrem opressão.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+4\. Explique o que significa dizer que é necessário promover a
+**emancipação do sujeito**. 
 
-4\. Com base no título, pode-se perceber se a proposta pública abrange
+\Coment{Espera-se que os alunos relacionem a expressão ao processo de liberdades política, cultural, humana e social de todas as pessoas que sofrem opressão.}
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+5\. Com base no título, pode-se perceber se a proposta pública abrange
 diversas demandas sociais? Justifique sua resposta. Sim, pois no título
 há a menção de que se trata de um "plano de desenvolvimento integrado",
 uma proposta que tem o objetivo de atender em conjunto diversas áreas.
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-5\. O texto traça finalidades e planejamentos a serem adotados para que
-a proposta pública seja efetivamente aplicada.
+6\. O texto traça finalidades e planejamentos a serem adotados para que
+a proposta pública seja efetivamente aplicada. Por que é fundamental registrar esses planejamentos e finalidades em um documento? Explique. 
 
--   Por que é fundamental registrar esses planejamentos e finalidades em
-    um documento? Explique. Espera-se que os alunos percebam que esses
-    planejamentos e finalidades conduzem as ações ou estratégias que
-    deverão ser realizadas para que as propostas sejam realizadas pelo
-    governo.
+\Coment{Espera-se que os alunos percebam que esses planejamentos e finalidades conduzem as ações ou estratégias que deverão ser realizadas para que as propostas sejam realizadas pelo governo.}
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-6\. A proposta pública é um plano de ação criado por determinado
-governo, e circula na esfera política. Marque a alternativa a seguir que
+7\. A proposta pública é um plano de ação criado por determinado
+governo e que circula na esfera política. Marque a alternativa a seguir que
 apresenta características da linguagem desse gênero textual.
 
-**( x )** Utilização dos modos formal e impessoal da língua.
+( x ) Utilização dos modos formal e impessoal da língua.
 
-**( )** Predomínio de linguagem pessoal, com registros em 1ª pessoa.
+( ) Predomínio de linguagem pessoal, com registros em 1ª pessoa.
 
-7\. Releia o trecho a seguir.
+8\. Releia o trecho a seguir.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------
-  A atualidade dessas condutas pode ser comprovada, **além de** outros indicadores, pelo número de feminicídios e de homicídios que vitimam a população negra.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+  >A atualidade dessas condutas pode ser comprovada, **além de** outros indicadores, pelo número de feminicídios e de homicídios que vitimam a população negra.
 
 -   Organizar as ideias é essencial para que se compreenda um texto. O
     recurso coesivo \"além de\", destacado no trecho, indica:
@@ -542,37 +484,39 @@ apresenta características da linguagem desse gênero textual.
 
 ( ) objetivo
 
-8\. Releia o último parágrafo do texto.
+Releia o último parágrafo do texto para responder às questões 9 e 10.
 
--   Os objetivos e as estratégias da proposta foram começados com um
-    verbo no infinitivo (desenvolver, produzir, promover\...). Por que
-    esse modo verbal é apropriado para esse tipo de texto? A utilização
-    do modo infinitivo é apropriada, tendo em vista que é impessoal e
-    atemporal, denominando uma ação a ser feita em um tempo
-    indeterminado.
+>Os povos e comunidades tradicionais precisam ser reconhecidos como portadores de futuro, organizados social e economicamente sob valores, princípios e práticas que fogem à lógica capitalista restrita. A Bahia reconhece 10 segmentos de povos e comunidades tradicionais, mas, apesar das políticas públicas, ocupa o terceiro lugar no *ranking* de mortes no campo. O planejamento a longo prazo visa fomentar e articular ações públicas e em parceria com a sociedade civil que combatam as violências e promovam a emancipação do sujeito[...] É necessário produzir conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, promover e implementar políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, realizar parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, desenvolver e promover políticas públicas de enfrentamento à violência contra as mulheres, e promover a intersecção das políticas públicas de modo a enfrentar o racismo e a intolerância religiosa, a feminização da pobreza, além de trabalhar pela democratização da terra, o acesso à moradia e a programas de inclusão socio produtiva pautado no etnodesenvolvimento.
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+9\. O que significa "fomentar", no contexto em que aparece nesse parágrafo?
 
-**\<Abre seção Treino\>**
+\Coment{"Fomentar" significa "Fomentar significa incentivar, promover ou estimular algo, seja por meio de ações concretas ou por meio de apoio e investimento. O termo pode se referir a diversas áreas, desde a economia até a cultura, e tem como objetivo impulsionar o desenvolvimento, o crescimento ou o progresso de determinada atividade, setor ou região. Fomentar pode ser entendido como uma ação proativa e estratégica que visa fortalecer determinada iniciativa ou empreendimento, contribuindo para que se torne mais sustentável, produtivo e efetivo."}
 
-1\. Leia a campanha publicitária a seguir. (Fácil)
+10\. Veja as seguintes construções:
 
-https://www.caboverde.mg.gov.br/noticias/maio-amarelo-atencao-pela-vida
+*Produzir conteúdos;
+Promover e implementar políticas públicas
+Realizar parcerias
+Desenvolver e promover políticas públicas*
 
-![](./_SAEB_9_POR/media/image4.jpeg){width="5.905555555555556in"
-height="3.796527777777778in"}
+Reescreva o parágrafo, a partir da expressão "É necessário" até "contra as mulheres", introduzindo as expressões pela conjunção "que" e fazendo as adaptações necessárias.
 
-PREFEITURA MUNICIPAL DE CABO VERDE. Maio Amarelo- Atenção pela vida.
-Disponível em:
-www.caboverde.mg.gov.br/noticias/maio-amarelo-atencao-pela-vida. Acesso
-em: 26 mar. 2023.
+\Coment{É necessário que se produzam conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, que se promovam e implementem políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, que se realizem parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, que se desenvolvam e promovam políticas públicas de enfrentamento à violência contra as mulheres [...]}
 
-A finalidade dessa campanha é:
+**Treino**
 
-\(A\) mostrar aos leitores as ações que fazem um trânsito melhor, como a
-"atenção".
+1\. Observe a imagem e leia o texto, ambos de uma campanha de conscientização.
 
-\(B\) relacionar segurança e atenção exclusiva dos motoristas no
+https://www.freepik.com/free-photo/people-driving-cars-city-street_18036808.htm#query=traffic&position=6&from_view=search&track=sph
+
+***Maio amarelo: por mais segurança no trânsito.
+Onde o cidadão é mais atento e respeitoso, o trânsito respnde com menos mortes e mais organização.***
+
+A finalidade dessa campanha é
+
+\(A\) apresentar aos leitores as ações que fazem um trânsito melhor, como a atenção dos cidadãos.
+
+\(B\) relacionar segurança no trânsito exclusivamente à atenção dos motoristas no
 trânsito.
 
 \(C\) conscientizar a população em geral a ter atitudes conscientes no
@@ -581,9 +525,7 @@ trânsito para ter mais segurança nele.
 \(D\) conscientizar os leitores de que eles devem ter atenção no
 trânsito no mês de maio.
 
-Saeb: Identificar
-
-BNCC: EF69LP02: Analisar e comparar peças publicitárias variadas
+BNCC: EF69LP02 - Analisar e comparar peças publicitárias variadas
 (cartazes, folhetos, outdoor, anúncios e propagandas em diferentes
 mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação
 entre elas em campanhas, as especificidades das várias semioses e
@@ -598,14 +540,14 @@ conscientizar a população a tomar essa atitude.
 
 b\) Incorreta. Mesmo que se estabeleça uma relação entre a "atenção" e a
 "segurança", essa relação não é a finalidade do texto, o qual pretende
-levar as pessoas a adotar a postura de segurança no trânsito.
+levar as pessoas a adotar posturas mais amplas de segurança no trânsito.
 
 c\) Correta. A finalidade dessa campanha é conscientizar a população de
 forma geral a ter mais atenção em suas ações no trânsito, o que o torna
-mais seguro para todos "cidadão mais atento, trânsito mais seguro".
+mais seguro para todos "Onde o cidadão é mais atento e respeitoso, o trânsito respnde com menos mortes e mais organização".
 
 d\) Incorreta. A finalidade da campanha não é conscientizar a população
-sobre o trânsito apenas no mês de maio, e sim todos os meses.
+sobre o trânsito apenas no mês de maio, mas sim em todos os meses.
 
 2\. Leia o trecho de um Estatuto referente à preservação do meio
 ambiente.
@@ -626,14 +568,14 @@ de medidas práticas que visem a preservação, conservação, recuperação e
 manejo sustentável dos recursos naturais e do meio ambiente, bem como o
 controle de todas as formas de poluição e degradação; \[...\]
 
-APREMAVI. "Estatuto da Associação de Preservação do Meio Ambiente e da
-Vida". Disponível em:
+APREMAVI. Estatuto da Associação de Preservação do Meio Ambiente e da
+Vida. Disponível em:
 https://apremavi.org.br/wp-content/uploads/2020/02/estatuto-apremavi\_2019.pdf.
 Acesso em: 28 mar. 2023.
 
 A finalidade desse Estatuto é
 
-\(A\) apresentar os meios como a Associação irá preservar o meio
+\(A\) apresentar os meios por meio dos quais a Associação irá preservar o meio
 ambiente.
 
 \(B\) apresentar à Associação os planos do governo para preservação
@@ -645,9 +587,7 @@ Associação.
 \(D\) mostrar ao leitor os planos da Associação na preservação do meio
 ambiente.
 
-Saeb: Compreender
-
-BNCC: EF69LP20: Identificar, tendo em vista o contexto de produção, a
+BNCC: EF69LP20 - Identificar, tendo em vista o contexto de produção, a
 forma de organização dos textos normativos e legais, a lógica de
 hierarquização de seus itens e subitens e suas partes: parte inicial
 (título -- nome e data -- e ementa), blocos de artigos (parte, livro,
@@ -665,18 +605,18 @@ e os meios para tal, mas as diretrizes dela nos planos para a
 preservação do meio ambiente.
 
 \(B\) Incorreta. O texto é em relação à Associação e promovido por ela,
-por isso pode-se não pode ser uma apresentação dos planos
+por isso não se pode afirmar que seja uma apresentação dos planos
 governamentais.
 
 \(C\) Incorreta. Os planos são da Associação à preservação ambiental, e
-não do governo ao desenvolvimento da Associação.
+não do governo para o desenvolvimento da Associação.
 
-\(D\) Correta. A sua finalidade é apresentar ao leitor os planos da
+\(D\) Correta. A finalidade é apresentar ao leitor os planos da
 Associação (APREMAVI) na preservação ambiental, o que pode ser visto em
-"tem por objetivos" e os planos descritos nas alíneas, como em
-"Promover, estimular e apoiar ações e trabalhos em defesa".
+"tem por objetivos" e nos planos descritos nas alíneas, como em
+"Promover, estimular e apoiar ações e trabalhos [...]".
 
-3\. Leia um trecho do edital a seguir. (Difícil)
+3\. Leia um trecho do edital a seguir.
 
 **PROGRAMA DE EDITAIS DE RESIDÊNCIA EM PESQUISA BBM-**
 
@@ -717,9 +657,7 @@ divulgado pelo edital público.
 \(D\) apresentar quantos projetos de pesquisa serão contemplados pelo
 programa da instituição.
 
-Saeb: Analisar
-
-BNCC: EF69LP27: Analisar a forma composicional de textos pertencentes a
+BNCC: EF69LP27 - Analisar a forma composicional de textos pertencentes a
 gêneros normativos/ jurídicos e a gêneros da esfera política, tais como
 propostas, programas políticos (posicionamento quanto a diferentes ações
 a serem propostas, objetivos, ações previstas etc.), propaganda política
@@ -733,7 +671,7 @@ adequados e/ou fundamentados quando isso for requerido.
 a\) Incorreta. O edital não tem o objetivo de promover o espaço, mas
 oferecer um programa de residência para alguns pesquisadores.
 
-b\) Incorreta. Não há o objetivo de fazer instrução no texto.
+b\) Incorreta. Não aparece esse tipo de instrução no texto.
 
 c\) Incorreta. Não há dicas ou informações sobre um modo mais fácil de
 ser selecionado.
@@ -742,27 +680,22 @@ d\) Correta. O trecho diz respeito a quais serão os projetos
 contemplados pela instituição, já que mostra que três serão relativos à
 temática "3 vezes 22", outros três sobre pesquisas relativas ao acervo
 constante, um a respeito do restauro da biblioteca e, finalmente, outro
-dedicado à pesquisa de todo o material existente
+dedicado à pesquisa de todo o material existente.
 
-Módulo 3
+# 3. Texto literário
 
-Neste módulo, os alunos vão explorar as características do gênero
-textual conto; reconhecer que a escolha de palavras determina novos
-sentidos no texto e os efeitos de sentido decorrentes dos tempos
-verbais.
+Habilidades do SAEB
 
-Habilidades da BNCC: EF69LP44, EF69LP47 e EF89LP32.
-
-Habilidades do SAEB:
-
-\- Analisar elementos constitutivos de textos pertencentes ao domínio
+1. Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
 
-\- Analisar a intertextualidade entre textos literários ou entre estes e
+1. Analisar a intertextualidade entre textos literários ou entre estes e
 outros textos verbais ou não verbais.
 
-\- Inferir a presença de valores sociais, culturais e humanos em textos
+1. Inferir a presença de valores sociais, culturais e humanos em textos
 literários.
+
+Habilidades da BNCC: EF69LP44, EF69LP47 e EF89LP32.
 
 \<início do boxe de conteúdo\>
 
