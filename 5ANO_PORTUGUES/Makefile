@@ -7,3 +7,7 @@ clean:
 	-rm *out *xwm *aux *log *tui *toc *.4ct *.4tc *.html *.css *.dvi *.epub *.lg *.ncx *.xref *.tmp *.idv *.opf  LIVRO.pdf *.fdb_latexmk *.fls
 fonts-update:
 	fc-cache -f -v
+
+draft:
+	lualatex -draftmode LIVRO.tex   # compilador
+
