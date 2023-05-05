@@ -1062,10 +1062,10 @@ Habilidades da BNCC: EF69LP16, EF69LP43, EF89LP05.
 
 Habilidades do SAEB:
 
-\- Analisar efeitos de sentido produzido pelo uso de formas de
+*  Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
 
-\- Analisar os efeitos de sentido decorrentes dos mecanismos de
+*  Analisar os efeitos de sentido decorrentes dos mecanismos de
 construção de textos jornalísticos/midiáticos.
 
 Notícia
@@ -1480,9 +1480,9 @@ Habilidades da BNCC: (não há correspondência)
 
 Habilidades do SAEB:
 
-\- Inferir informações implícitas em distintos textos.
+*  Inferir informações implícitas em distintos textos.
 
-\- Distinguir fatos de opiniões em textos.
+*  Distinguir fatos de opiniões em textos.
 
 **Fato x Opinião**
 
@@ -1858,7 +1858,7 @@ Habilidades da BNCC: EF69LP03 e EF69LP05.
 
 Habilidades do SAEB:
 
-\- Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
+*  Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
 crítica.
 
 \<início do boxe de conteúdo\>
@@ -2147,11 +2147,11 @@ Habilidades da BNCC: (não há correspondência)
 
 Habilidades do SAEB:
 
-\- Analisar marcas de parcialidade em textos jornalísticos.
+*  Analisar marcas de parcialidade em textos jornalísticos.
 
-\- Avaliar diferentes graus de parcialidade em textos jornalísticos.
+*  Avaliar diferentes graus de parcialidade em textos jornalísticos.
 
-\- Avaliar a fidedignidade de informações sobre um mesmo fato divulgado
+*  Avaliar a fidedignidade de informações sobre um mesmo fato divulgado
 em diferentes veículos e mídias.
 
 \<início do boxe de conteúdo\>
@@ -2668,12 +2668,12 @@ Habilidades da BNCC: EF69LP04, EF69LP28, EF89LP16, EF89LP31
 
 Habilidades do SAEB:
 
-\- Identificar os recursos de modalização em textos diversos.
+*  Identificar os recursos de modalização em textos diversos.
 
-\- Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais
+*  Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais
 com base no gênero textual e na intenção comunicativa.
 
-\- Analisar os efeitos de sentido produzidos pelo uso de modalizadores
+*  Analisar os efeitos de sentido produzidos pelo uso de modalizadores
 em textos diversos.
 
 \<início do boxe de conteúdo\>
@@ -3006,9 +3006,9 @@ Habilidades da BNCC: EF69LP17, EF89LP06, EF89LP14 e EF89LP37.
 
 Habilidades do SAEB:
 
-\- Analisar o uso de figuras de linguagem como estratégia argumentativa.
+*  Analisar o uso de figuras de linguagem como estratégia argumentativa.
 
-\- Avaliar a eficácia das estratégias argumentativas em textos de
+*  Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
 
 \<início do boxe de conteúdo\>
@@ -3422,9 +3422,9 @@ Habilidades da BNCC: EF09LP08 e EF09LP11.
 
 Habilidades do SAEB:
 
-\- Analisar os mecanismos que contribuem para a progressão textual.
+*  Analisar os mecanismos que contribuem para a progressão textual.
 
-\- Analisar os processos de referenciação lexical e pronominal.
+*  Analisar os processos de referenciação lexical e pronominal.
 
 \<início do boxe de conteúdo\>
 
@@ -3790,9 +3790,9 @@ Habilidades da BNCC: EF69LP55, EF69LP56 e EF09LP07.
 
 Habilidades do SAEB:
 
-\- Analisar as variedades linguísticas em textos.
+*  Analisar as variedades linguísticas em textos.
 
-\- Avaliar a adequação das variedades linguísticas em contextos de uso.
+*  Avaliar a adequação das variedades linguísticas em contextos de uso.
 
 \<início do boxe de conteúdo\>
 

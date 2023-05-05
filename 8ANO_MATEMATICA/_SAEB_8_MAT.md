@@ -4,24 +4,24 @@
 
 Habilidades Saeb
 
-\- Escrever números racionais (representação fracionária ou decimal
+*  Escrever números racionais (representação fracionária ou decimal
 finita) em sua representação por algarismos ou em língua materna ou
 associar o registro numérico ao registro em língua materna.
 
-\- Compor ou decompor números racionais positivos (representação decimal
+*  Compor ou decompor números racionais positivos (representação decimal
 finita) na forma aditiva, ou em suas ordens, ou em adições e
 multiplicações.
 
-\- Identificar números racionais ou irracionais.
+*  Identificar números racionais ou irracionais.
 
-\- Comparar ou ordenar números reais, com ou sem suporte da reta
+*  Comparar ou ordenar números reais, com ou sem suporte da reta
 numérica, ou aproximar número reais para múltiplos de potência de 10
 mais próxima.
 
-\- Converter uma representação de um número racional positivo para outra
+*  Converter uma representação de um número racional positivo para outra
 representação.
 
-\- Identificar um número natural como primo, composto, "múltiplo/fator
+*  Identificar um número natural como primo, composto, "múltiplo/fator
 de" ou "divisor de" ou identificar a decomposição de um número natural
 em fatores primos ou relacionar as propriedades aritméticas (primo,
 composto, "múltiplo/fator de" ou "divisor de") de um número natural à
@@ -303,7 +303,7 @@ Resposta: C
 
 Habilidades Saeb
 
-\- Compor ou decompor números racionais positivos (representação decimal
+*  Compor ou decompor números racionais positivos (representação decimal
 finita) na forma aditiva, ou em suas ordens, ou em adições e
 multiplicações.
 
@@ -333,7 +333,7 @@ Resposta: C
 
 Habilidades Saeb
 
-\- Identificar um número natural como primo, composto, "múltiplo/fator
+*  Identificar um número natural como primo, composto, "múltiplo/fator
 de" ou "divisor de" ou identificar a decomposição de um número natural
 em fatores primos ou relacionar as propriedades aritméticas (primo,
 composto, "múltiplo/fator de" ou "divisor de") de um número natural à
@@ -371,7 +371,7 @@ Resposta: D
 
 Habilidades Saeb
 
-\- Compor ou decompor números racionais positivos (representação decimal
+*  Compor ou decompor números racionais positivos (representação decimal
 finita) na forma aditiva, ou em suas ordens, ou em adições e
 multiplicações.
 
@@ -925,13 +925,13 @@ BNCC: EF08MA051
 
 Habilidades Saeb:
 
-\- Representar frações menores ou maiores que a unidade por meio de
+*  Representar frações menores ou maiores que a unidade por meio de
 representações pictóricas ou associar frações a representações
 pictóricas.
 
-\- Identificar frações equivalentes.
+*  Identificar frações equivalentes.
 
-\- Determinar uma fração geratriz para uma dízima periódica.
+*  Determinar uma fração geratriz para uma dízima periódica.
 
 Comparação de números racionais
 
@@ -940,7 +940,7 @@ outro, ou se é menor ou, ainda, se é igual.
 
 Todo número racional negativo é menor que todo número racional positivo
 
-\- $\frac{1}{5}$ \< $\frac{3}{4}$
+*  $\frac{1}{5}$ \< $\frac{3}{4}$
 
 Todo número racional negativo é menor que zero
 
@@ -1504,7 +1504,7 @@ BNCC: EF08MA04
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam porcentagens, incluindo os que lidam
+*  Resolver problemas que envolvam porcentagens, incluindo os que lidam
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
 
@@ -1902,7 +1902,7 @@ BNCC: EF08MA04
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam porcentagens, incluindo os que lidam
+*  Resolver problemas que envolvam porcentagens, incluindo os que lidam
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
 
@@ -1952,7 +1952,7 @@ BNCC: EF08MA04
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam porcentagens, incluindo os que lidam
+*  Resolver problemas que envolvam porcentagens, incluindo os que lidam
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
 
@@ -1998,7 +1998,7 @@ BNCC: EF08MA04
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam porcentagens, incluindo os que lidam
+*  Resolver problemas que envolvam porcentagens, incluindo os que lidam
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
 
@@ -2031,15 +2031,15 @@ BNCC: EF08MA07 EF08MA08
 
 Habilidades Saeb:
 
-\- Resolver uma equação polinomial de 1º grau.
+*  Resolver uma equação polinomial de 1º grau.
 
-\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+*  Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modela um problema.
 
-\- Associar uma equação polinomial de 1º grau com duas variáveis a uma
+*  Associar uma equação polinomial de 1º grau com duas variáveis a uma
 reta no plano cartesiano.
 
-\- Resolver problemas que possam ser representados por sistema de
+*  Resolver problemas que possam ser representados por sistema de
 equações de 1º grau com duas incógnitas
 
 Sistemas de equações do 1° grau com duas incógnitas
@@ -2452,7 +2452,7 @@ BNCC: EF08MA08
 
 Habilidade Saeb:
 
-\- Resolver problemas que possam ser representados por sistema de
+*  Resolver problemas que possam ser representados por sistema de
 equações de 1º grau com duas incógnitas.
 
 Alternativa A: incorreta, esse seria o resultado em litros do primeiro
@@ -2510,7 +2510,7 @@ BNCC: EF08MA08
 
 Habilidade Saeb:
 
-\- Resolver problemas que possam ser representados por sistema de
+*  Resolver problemas que possam ser representados por sistema de
 equações de 1º grau com duas incógnitas.
 
 Alternativa A:incorreta, o aluno pode confundir as operações e realizar
@@ -2548,7 +2548,7 @@ BNCC: EF08MA07
 
 Habilidade Saeb
 
-\- Resolver uma equação polinomial de 1º grau.
+*  Resolver uma equação polinomial de 1º grau.
 
 Alternativa A: incorreta, durante a resolução da equação caso o aluno
 erre o sinal do valor 2,5 e passe o negativo o valor final será esse. X=
@@ -2578,12 +2578,12 @@ BNCC:
 
 Habilidades Saeb:
 
-\- Identificar uma representação algébrica para o padrão ou a
+*  Identificar uma representação algébrica para o padrão ou a
 regularidade de uma sequência de números racionais ou representar
 algebricamente o padrão ou a regularidade de uma sequência de números
 racionais.
 
-\- Identificar representações algébricas equivalentes. - Resolver
+*  Identificar representações algébricas equivalentes. - Resolver
 problemas que envolvam cálculo do valor numérico de expressões
 algébricas.
 
@@ -3064,7 +3064,7 @@ BNCC: EF08MA10
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam cálculo do valor numérico de
+*  Resolver problemas que envolvam cálculo do valor numérico de
 expressões algébricas.
 
 Alternativa A:Correta pois
@@ -3107,7 +3107,7 @@ BNCC: EF08MA10
 
 Habilidade Saeb
 
-\- Resolver problemas que envolvam cálculo do valor numérico de
+*  Resolver problemas que envolvam cálculo do valor numérico de
 expressões algébricas.
 
 Alternativa A: incorreta o aluno chegaria a essa conclusão apenas
@@ -3149,7 +3149,7 @@ BNCC: EF08MA10
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam cálculo do valor numérico de
+*  Resolver problemas que envolvam cálculo do valor numérico de
 expressões algébricas.
 
 Alternativa A: incorreta, o aluno ao errar o jogo de sinal no cálculo da
@@ -3193,11 +3193,11 @@ BNCC: EF08MA09
 
 Habilidades Saeb:
 
-\- Inferir uma equação polinomial de 2º grau que modela um problema.
+*  Inferir uma equação polinomial de 2º grau que modela um problema.
 
-\- Resolver uma equação polinomial de 2º grau.
+*  Resolver uma equação polinomial de 2º grau.
 
-\- Resolver problemas que possam ser representados por equações
+*  Resolver problemas que possam ser representados por equações
 polinomiais de 2º grau.
 
 Equação polinomial de 2º grau
@@ -3515,7 +3515,7 @@ BNCC: EF09MA09
 
 Habilidade Saeb:
 
-\- Resolver problemas que possam ser representados por equações
+*  Resolver problemas que possam ser representados por equações
 polinomiais de 2º grau.
 
 Alternativa a incorreta: o aluno pode chegar a essa conclusão
@@ -3576,7 +3576,7 @@ BNCC: EF09MA09
 
 Habilidade Saeb:
 
-\- Resolver problemas que possam ser representados por equações
+*  Resolver problemas que possam ser representados por equações
 polinomiais de 2º grau.
 
 Alternativa A: incorreta: o aluno pode chegar a essa conclusão
@@ -3635,7 +3635,7 @@ BNCC: EF09MA09
 
 Habilidade Saeb
 
-\- Resolver problemas que possam ser representados por equações
+*  Resolver problemas que possam ser representados por equações
 polinomiais de 2º grau.
 
 Alternativa A: incorreta o aluno pode chegar a esse valor ao não
@@ -3680,7 +3680,7 @@ BNCC: EF08MA12 EF08MA13
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam variação de proporcionalidade direta
+*  Resolver problemas que envolvam variação de proporcionalidade direta
 ou inversa entre duas ou mais grandezas, inclusive escalas, divisões
 proporcionais e taxa de variação.
 
@@ -3935,7 +3935,7 @@ BNCC: EF08MA12 EF08MA13
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam variação de proporcionalidade direta
+*  Resolver problemas que envolvam variação de proporcionalidade direta
 ou inversa entre duas ou mais grandezas, inclusive escalas, divisões
 proporcionais e taxa de variação.
 
@@ -3979,7 +3979,7 @@ BNCC: EF08MA12 EF08MA13
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam variação de proporcionalidade direta
+*  Resolver problemas que envolvam variação de proporcionalidade direta
 ou inversa entre duas ou mais grandezas, inclusive escalas, divisões
 proporcionais e taxa de variação.
 
@@ -4026,7 +4026,7 @@ BNCC: EF08MA12 EF08MA13
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam variação de proporcionalidade direta
+*  Resolver problemas que envolvam variação de proporcionalidade direta
 ou inversa entre duas ou mais grandezas, inclusive escalas, divisões
 proporcionais e taxa de variação.
 
@@ -4063,20 +4063,20 @@ Habilidades Saeb:
 Identificar, no plano cartesiano, figuras obtidas por uma ou mais
 transformações geométricas (reflexão, translação, rotação).
 
-\- Relacionar o número de vértices, faces ou arestas de prismas ou
+*  Relacionar o número de vértices, faces ou arestas de prismas ou
 pirâmides, em função do seu polígono da base.
 
-\- Relacionar objetos tridimensionais às suas planificações ou vistas.
+*  Relacionar objetos tridimensionais às suas planificações ou vistas.
 
-\- Classificar polígonos em regulares e não regulares. - Reconhecer
+*  Classificar polígonos em regulares e não regulares. - Reconhecer
 polígonos semelhantes ou as relações existentes entre ângulos e lados
 correspondentes nesses tipos de polígonos.
 
-\- Reconhecer circunferência/círculo como lugares geométricos, seus
+*  Reconhecer circunferência/círculo como lugares geométricos, seus
 elementos (centro, raio, diâmetro, corda, arco, ângulo central, ângulo
 inscrito).
 
-\- Construir/desenhar figuras geométricas planas ou espaciais que
+*  Construir/desenhar figuras geométricas planas ou espaciais que
 satisfaçam condições dadas.
 
 Polígono é uma figura plana formada por uma linha fechada simples,
@@ -4486,7 +4486,7 @@ BNCC: EF08MA18
 
 Habilidade Saeb
 
-\- Reconhecer circunferência/círculo como lugares geométricos, seus
+*  Reconhecer circunferência/círculo como lugares geométricos, seus
 elementos (centro, raio, diâmetro, corda, arco, ângulo central, ângulo
 inscrito).
 
@@ -4530,7 +4530,7 @@ BNCC: EF08MA18
 
 Habilidade Saeb:
 
-\- Relacionar o número de vértices, faces ou arestas de prismas ou
+*  Relacionar o número de vértices, faces ou arestas de prismas ou
 pirâmides, em função do seu polígono da base.
 
 Alternativa A: Correta
@@ -4556,34 +4556,34 @@ BNCC: EF08MA14
 
 Habilidades Saeb:
 
-\- Identificar propriedades e relações existentes entre os elementos de
+*  Identificar propriedades e relações existentes entre os elementos de
 um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
 determinação da medida de um ângulo interno ou externo).
 
-\- Classificar triângulos ou quadriláteros em relação aos lados ou aos
+*  Classificar triângulos ou quadriláteros em relação aos lados ou aos
 ângulos internos.
 
-\- Identificar retas ou segmentos de retas concorrentes, paralelos ou
+*  Identificar retas ou segmentos de retas concorrentes, paralelos ou
 perpendiculares.
 
-\- Identificar relações entre ângulos formados por retas paralelas
+*  Identificar relações entre ângulos formados por retas paralelas
 cortadas por uma transversal.
 
-\- Resolver problemas que envolvam relações entre ângulos formados por
+*  Resolver problemas que envolvam relações entre ângulos formados por
 retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
 
-\- Resolver problemas que envolvam relações métricas do triângulo
+*  Resolver problemas que envolvam relações métricas do triângulo
 retângulo, incluindo o teorema de Pitágoras.
 
-\- Resolver problemas que envolvam polígonos semelhantes.
+*  Resolver problemas que envolvam polígonos semelhantes.
 
-\- Resolver problemas que envolvam aplicação das relações de
+*  Resolver problemas que envolvam aplicação das relações de
 proporcionalidade abrangendo retas paralelas cortadas por transversais.
 
-\- Determinar o ponto médio de um segmento de reta ou a distância entre
+*  Determinar o ponto médio de um segmento de reta ou a distância entre
 dois pontos quaisquer, dadas as coordenadas desses pontos no plano
 cartesiano.
 
@@ -4996,7 +4996,7 @@ BNCC: EF08MA14
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam relações entre ângulos formados por
+*  Resolver problemas que envolvam relações entre ângulos formados por
 retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
@@ -5046,7 +5046,7 @@ BNCC: EF08MA14
 
 Habilidade Saeb
 
-\- Resolver problemas que envolvam relações entre ângulos formados por
+*  Resolver problemas que envolvam relações entre ângulos formados por
 retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
@@ -5082,7 +5082,7 @@ BNCC: EF08MA14
 
 Habilidade Saeb
 
-\- Identificar propriedades e relações existentes entre os elementos de
+*  Identificar propriedades e relações existentes entre os elementos de
 um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
 determinação da medida de um ângulo interno ou externo)
@@ -5107,7 +5107,7 @@ resultado com 1 número a mais.
 
 # Módulo 12
 
-\- Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
+*  Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
 representações bidimensionais (mapas, croquis etc.), plantas de
 ambientes ou vistas, de acordo com condições dadas.
 
@@ -5318,7 +5318,7 @@ Resposta: D
 
 Habilidade Saeb:
 
-\- Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
+*  Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
 representações bidimensionais (mapas, croquis etc.), plantas de
 ambientes ou vistas, de acordo com condições dadas.
 
@@ -5351,7 +5351,7 @@ Resposta: C
 
 Habilidade Saeb:
 
-\- Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
+*  Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
 representações bidimensionais (mapas, croquis etc.), plantas de
 ambientes ou vistas, de acordo com condições dadas.
 
@@ -5395,7 +5395,7 @@ Resposta: D
 
 Habilidade Saeb:
 
-\- Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
+*  Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
 representações bidimensionais (mapas, croquis etc.), plantas de
 ambientes ou vistas, de acordo com condições dadas.
 
@@ -5424,7 +5424,7 @@ BNCC: EF08MA25.
 
 Habilidades Saeb:
 
-\- Identificar os indivíduos (universo ou população-alvo da pesquisa),
+*  Identificar os indivíduos (universo ou população-alvo da pesquisa),
 as variáveis e os tipos de variáveis (quantitativas ou categóricas) em
 um conjunto de dados. - Representar ou associar os dados de uma pesquisa
 estatística ou de um levantamento em listas, tabelas (simples ou de
@@ -5867,7 +5867,7 @@ BNCC: EF08MA25
 
 Habilidade Saeb:
 
-\- Calcular os valores de medidas de tendência central de uma pesquisa
+*  Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
 Alternativa A: incorreta, o aluno chegaria a esse resultado,
@@ -5914,7 +5914,7 @@ BNCC: EF08MA25
 
 Habilidade Saeb
 
-\- Calcular os valores de medidas de tendência central de uma pesquisa
+*  Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
 Alternativa A: incorreta, o aluno chegaria a esse resultado,
@@ -5963,7 +5963,7 @@ BNCC: EF08MA25
 
 Habilidade Saeb:
 
-\- Calcular os valores de medidas de tendência central de uma pesquisa
+*  Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
 Alternativa A: incorreta, o aluno chegaria a esse resultado,
@@ -5992,15 +5992,15 @@ BNCC: EF08MA19 EF08MA20 EF08MA21
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam medidas de grandezas (comprimento,
+*  Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais.
 
-\- Resolver problemas que envolvam perímetro de figuras planas.
+*  Resolver problemas que envolvam perímetro de figuras planas.
 
-\- Resolver problemas que envolvam área de figuras planas.
+*  Resolver problemas que envolvam área de figuras planas.
 
-\- Resolver problemas que envolvam volume de prismas retos ou cilindros
+*  Resolver problemas que envolvam volume de prismas retos ou cilindros
 retos.
 
 Área e perímetro de figuras planas
@@ -6407,7 +6407,7 @@ BNCC: EF08MA20
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam volume de prismas retos ou cilindros
+*  Resolver problemas que envolvam volume de prismas retos ou cilindros
 retos.
 
 Alternativa A: Correta Pois:
@@ -6456,7 +6456,7 @@ BNCC: EF08MA19
 
 Habilidade Saeb
 
-\- Resolver problemas que envolvam área de figuras planas.
+*  Resolver problemas que envolvam área de figuras planas.
 
 Alternativa A: Correta Pois:
 
@@ -6514,7 +6514,7 @@ BNCC: EF08MA20
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam volume de prismas retos ou cilindros
+*  Resolver problemas que envolvam volume de prismas retos ou cilindros
 retos.
 
 Alternativa A: incorreta, o aluno poderia chegar a esse valor utilizando
@@ -6543,7 +6543,7 @@ BNCC: EF08MA22
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam a probabilidade de ocorrência de um
+*  Resolver problemas que envolvam a probabilidade de ocorrência de um
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes.
 
@@ -6758,7 +6758,7 @@ BNCC: EF08MA22
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam a probabilidade de ocorrência de um
+*  Resolver problemas que envolvam a probabilidade de ocorrência de um
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes
 
@@ -6797,7 +6797,7 @@ BNCC: EF08MA22
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam a probabilidade de ocorrência de um
+*  Resolver problemas que envolvam a probabilidade de ocorrência de um
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes
 
@@ -6839,7 +6839,7 @@ BNCC: EF08MA22
 
 Habilidade Saeb
 
-\- Resolver problemas que envolvam a probabilidade de ocorrência de um
+*  Resolver problemas que envolvam a probabilidade de ocorrência de um
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes.
 
