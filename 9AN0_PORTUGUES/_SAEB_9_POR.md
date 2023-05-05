@@ -60,75 +60,76 @@ e de solicitação, carta do leitor.
 
 Atividades
 
-1\. O anúncio trata sobre o trânsito de bicicletas. Leia-o atentamente
-para responder às questões propostas.
+O anúncio trata do trânsito de bicicletas. Leia-o atentamente
+para responder às questões de 1 a 8.
 
-Conduza os alunos a realizar a leitura atenta do anúncio e solicite-lhes
+\coment{Conduza os alunos a realizar a leitura atenta do anúncio e sugira
 que observem o modo como a ideia é anunciada, observando como acontece a
 relação entre os elementos verbais e não verbais, o que está mais em
 evidência, qual é o significado da imagem e sua relação com a ideia e
-quais atributos estão sendo mais ressaltados.
+quais atributos estão sendo mais ressaltados.}
 
-.
+%Inserir imagem:https://www.freepik.com/free-photo/asphalt-bicycle-background-bike-active_1160565.htm#query=biking&position=4&from_view=search&track=sph
 
-https://somosciclistas.com.br/noticias/48/campanha\_acpc
+>A Prefeitura Municipal de Poços de Caldas, em parceria com a Associação de Ciclistas local (ACPC), está organizando uma campanha de conscientização durante os meses de dezembro e janeiro. O objetivo principal da campanha é informar e educar tanto os ciclistas quanto os motoristas sobre suas respectivas responsabilidades e direitos no trânsito, com o tema "CICLISTA NÃO É OBSTÁCULO, ELE FAZ PARTE DO TRÂNSITO. RESPEITE-O!".
 
-![ACPC - Associação de ciclistas de poços de
-Caldas](./_SAEB_9_POR/media/image2.png){width="5.905555555555556in"
-height="4.492361111111111in"}
+>O último relatório do Infosiga revelou que o número de mortes de ciclistas no estado de São Paulo triplicou somente no primeiro trimestre de 2019, reforçando a necessidade urgente de mais informação e respeito por parte dos condutores. A campanha terá uma abrangência ampla, incluindo blitz no trânsito para distribuição de panfletos e adesivos, ações em autoescolas, transportadoras e nas mídias sociais. Um dos objetivos principais é a conscientização da necessidade de se manter a distância de pelo menos 1,5 m entre o carro e o ciclista, evitando acidentes.
 
-Disponível em:
-<https://somosciclistas.com.br/noticias/48/campanha_acpc>. Acesso em: 23
-mar. 2023.
+~Fonte de pesquisa: Somos ciclistas. Campanha ACPC. Disponível em:  https://somosciclistas.com.br/noticias/48/campanha\_acpc~. Acesso em 05 maio 2023.
 
-a\) Em sua opinião, é importante haver campanhas relacionadas a esse
-tema? Justifique sua resposta. Espera-se que os alunos respondam a
-respeito da necessidade de uso de transportes alternativos para combater
-a poluição, além de a bicicleta ser um tipo de transporte que contribui
-para que não se tenha uma vida sedentária comum a muitas pessoas nos
-grandes centros.
+
+1\. Em sua opinião, é importante haver campanhas relacionadas a esse
+tema? Justifique sua resposta. 
+
+\Coment{Resposta pessoal. Espera-se que os alunos falem sobre a necessidade de uso de transportes alternativos para combater a poluição, além de se lembrarem de que a bicicleta é um tipo de transporte que contribui para que não se tenha uma vida sedentária, comum a muitas pessoas nos grandes centros.}
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-b\) Qual é a finalidade dessa campanha publicitária? A finalidade da
-campanha é estimular o convívio saudável no trânsito entre motoristas e
-ciclistas.
+2\. Qual é a finalidade dessa campanha publicitária? 
+
+\Coment{A finalidade da campanha é estimular o convívio saudável no trânsito entre motoristas e ciclistas.}
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-c\) Em sua opinião, qual pode ter sido o motivo para a produção dessa
-campanha? Resposta pessoal. Sugestão de resposta: O motivo pode ter sido
+3\. Em sua opinião, qual pode ter sido o motivo para a produção dessa
+campanha? 
+
+\Coment{Resposta pessoal. Sugestão de resposta: "O motivo pode ter sido
 o número alto de acidentes entre ciclistas e motoristas que não se
-respeitam no trânsito.
+respeitam no trânsito."}
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-d\) Uma das funções da propaganda é levar o leitor a realizar ações
-concretas. No anúncio apresentado, quais são elas? Que os motoristas
-respeitem a distância de 1,5 m dos ciclistas para que sejam evitados
-acidentes de trânsito.
+4\. Uma das funções da propaganda é levar o leitor a realizar ações
+concretas. No anúncio apresentado, quais são elas? 
+
+\Coment{A ideia é que os motoristas respeitem a distância de 1,5 m dos ciclistas para que sejam evitados acidentes de trânsito.}
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-e\) Qual é o público-alvo dessa campanha? Motoristas e ciclistas, assim
-como todas as pessoas que convivem no trânsito.
+5\. Qual é o público-alvo dessa campanha? 
+
+\Coment{Motoristas e ciclistas, assim como todas as pessoas que convivem no trânsito.}
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-f\) Em sua opinião, campanhas educativas podem convencer a população a
+6\. Em sua opinião, campanhas educativas podem convencer a população a
 adotar nova postura diante de uma causa? Justifique sua resposta.
-Resposta pessoal. Explique aos alunos que as campanhas educativas são
-fundamentais para conscientizar as pessoas, que podem mudar atitudes.
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\Coment{Resposta pessoal. Explique aos alunos que as campanhas educativas são
+fundamentais para conscientizar as pessoas e podem mudar atitudes.}
 
-g\) O período "Ciclista não é obstáculo, ele faz parte do trânsito:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+7\. O período "Ciclista não é obstáculo, ele faz parte do trânsito:
 Respeite-o!" dialoga com o leitor. Que forma verbal indica essa
-interlocução? A forma verbal **respeite-o**.
+interlocução? 
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\Coment{A forma verbal "respeite" em **respeite-o**.}
 
-h\) A utilização desse modo verbal dialoga diretamente com o leitor por
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+8\. A utilização dessa forma verbal dialoga diretamente com o leitor por
 intermédio de:
 
 ( ) conselho.
@@ -137,61 +138,76 @@ intermédio de:
 
 ( x ) pedido.
 
-**\<Abre seção Treino\>**
+Leia, agora, mais um texto para, então, responder às questões 9 e 10.
 
-1 Leia o trecho da reportagem a seguir. (Fácil)
+%Inserir imagem: https://www.freepik.com/free-photo/people-driving-cars-city-street_18036808.htm#query=traffic&position=6&from_view=search&track=sph
+
+>A segurança no trânsito é um assunto de grande importância e deve ser levado a sério por todos os envolvidos nas vias públicas. Infelizmente, ainda há muitas pessoas que não respeitam as leis de trânsito, o que resulta em acidentes graves e até mesmo mortes.
+
+>De acordo com dados do Ministério da Saúde, em 2019, foram registrados 30.371 óbitos por acidentes de trânsito no Brasil. Isso representa uma média de 83 mortes por dia, um número alarmante que poderia ser evitado se houvesse mais conscientização sobre a importância da educação no trânsito.
+
+>A educação no trânsito começa desde cedo, nas escolas, ensinando as crianças sobre as leis de trânsito, as sinalizações e as precauções que devem ser tomadas ao atravessar a rua. Além disso, é importante que os adultos também sejam educados e respeitem as leis de trânsito, como o uso do cinto de segurança, a não utilização do celular enquanto dirigem, a obediência aos limites de velocidade e a sinalização nas vias.
+
+~Texto escrito para este material.~
+
+9\. Para ajudar na conscientização, o texto traz dados estatísticos. Como eles ajudam nessa função de convencer os leitores?
+
+\Coment{Dados estatísticos ajudam na conscientização porque dão dados quantitativos que permitem visualizar a gravidade do problema - nesse caso, o problema da violência e das mortes no trânsito.}
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+10\. Quam você imagina que sejam "todos os envolvidos nas vias públicas", como menciona o texto?
+
+\Coment{Os envolvidos são os motoristas, os ciclistas, os pedestres, o poder público etc.}
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+##Treino
+
+1\. Leia o trecho da reportagem a seguir.
 
 **"No Brasil, se você for um jogador compulsivo, estará em
 dificuldades", alerta psiquiatra**
 
-\[...\]
-
-\[...\] Em 2004, quando os bingos foram proibidos, os pacientes não
+>\[...\] Em 2004, quando os bingos foram proibidos, os pacientes não
 desapareceram, mas a demanda diminuiu bastante. Teve um momento que os
 bingos voltaram, a demanda aumentou de novo, depois foram
 definitivamente proibidos e a demanda se estabilizou.
 
-Quando os bingos operavam livremente, tínhamos algo em torno de 240
+>Quando os bingos operavam livremente, tínhamos algo em torno de 240
 solicitações de atendimento de casos novos por ano. Conseguíamos atender
 120 casos novos por ano, e os outros 120 infelizmente tinham que
 aguardar uma oportunidade de tratamento.
 
-Isso me deixava sempre muito preocupado, essa é uma população com alto
-risco \[...\]
-
-de abuso de substância e acidentes. Eles estavam aguardando o momento de
+>Isso me deixava sempre muito preocupado, essa é uma população com alto
+risco \[...\] de abuso de substância e acidentes. Eles estavam aguardando o momento de
 poder se tratar. Com todas as idas e vindas na legislação, hoje a
 demanda está mais ou menos estabilizada em torno de uns 80 casos. Embora
 não seja uma estatística consolidada e publicada, sentimos na própria
 pele que quando o jogo ocorre com acesso irrestrito, a demanda para o
 tratamento praticamente triplica.
 
-Já quando os jogos operam de forma clandestina, a demanda cai para um
+>Já quando os jogos operam de forma clandestina, a demanda cai para um
 terço. Essa tem sido a nossa experiência nesses quase 20 anos de
 trabalho.
 
-MELITO, Leandro. **No Brasil, se você for um jogador compulsivo, estará
-em dificuldades, alerta psiquiatra**. EBC, 16 ago. 2016. Disponível em:
-
-www.ebc.com.br/noticias/saude/2016/08/no-brasil-se-voce-um-jogador-compulsivo-estara-em-dificuldades-alerta.
-Acesso em: 28 mar. 2023.
+Fonte de pesquisa: Leandro Melito. EBC. No Brasil, se você for um jogador compulsivo, estará em dificuldades, alerta psiquiatra. Disponível em:
+www.ebc.com.br/noticias/saude/2016/08/no-brasil-se-voce-um-jogador-compulsivo-estara-em-dificuldades-alerta. Acesso em: 28 mar. 2023.
 
 Com a leitura do texto, é possível verificar que o psiquiatra apresenta
 alguns dados, porém expõe também sua opinião. Dos trechos a seguir, o
 que mostra a opinião do psiquiatra é
 
-(A) "quando os bingos foram proibidos, os pacientes não desapareceram".
+(a) "quando os bingos foram proibidos, os pacientes não desapareceram".
 
-(B) "tínhamos algo em torno de 240 solicitações de atendimento de casos
+(b) "tínhamos algo em torno de 240 solicitações de atendimento de casos
     novos por ano".
 
-(C) "Isso me deixava sempre muito preocupado, essa é uma população com
+(c) "Isso me deixava sempre muito preocupado, essa é uma população com
     alto risco"
 
-(D) "essa tem sido a nossa experiência nesses quase 20 anos de
+(d) "essa tem sido a nossa experiência nesses quase 20 anos de
     trabalho.".
-
-Saeb: Identificar
 
 BNCC: EF89LP04 - Identificar e avaliar teses/opiniões/posicionamentos
 explícitos e implícitos, argumentos e contra-argumentos em textos
@@ -207,39 +223,39 @@ atendimento de casos novos ele atendia por ano, o que não se caracteriza
 como uma opinião.
 
 c\) Correta. Ao falar sobre a quantidade da procura de pessoas
-dependentes de jogos, o psiquiatra cita que por ser uma população com
+dependentes de jogos, o psiquiatra cita que, por ser uma população com
 alto risco, esse crescimento no número de procuras o deixava preocupado.
 
 d\) Incorreta. O psiquiatra apenas conclui sua fala ao dizer que tudo o
 que foi falado faz parte de sua experiência ao longo de 20 anos de
 trabalho.
 
-2\. Leia o texto. (Médio)
+2\. Leia o texto.
 
 **No Rio, escolas públicas buscam parcerias para melhorar ensino médio**
 
 \[...\]
 
-O diretor da unidade, Willmann Costa, explica que o desenvolvimento
+>O diretor da unidade, Willmann Costa, explica que o desenvolvimento
 cognitivo e socioemocional são dois componentes importantes para a
 formação do indivíduo. Para ele, o principal diferencial da escola são
 os seus profissionais e a vontade de fazer diferente.
 
-"A Chico Anysio é assim porque tem toda uma estrutura que é feita dentro
+>"A Chico Anysio é assim porque tem toda uma estrutura que é feita dentro
 da escola; a Secretaria Estadual de Educação (Seeduc) não nos dá uma
 condição melhor. As parcerias não dão nada de material; oferecem a mesma
 formação que é dada para outras escolas. Mas uma coisa é você se
 apropriar do que recebe e acreditar no que está fazendo: outra é você ir
 para a formação e depois não executar", destaca.
 
-O estudante Lucas Paulo Rodrigues Gonçalves, do 3º ano do ensino médio,
+>O estudante Lucas Paulo Rodrigues Gonçalves, do 3º ano do ensino médio,
 diz que entrou para o colégio "por acaso", quando a seleção ainda era
 por sorteio, depois de não ter conseguido se inscrever no concurso para
 outros colégios públicos, \[...\[. Para Lucas, morador de Belford Roxo,
 na Baixada Fluminense, o trabalho desenvolvido na escola melhorou seu
 relacionamento com a própria família.
 
-"A meu ver, as outras escolas não têm a integração que a gente tem com o
+>"A meu ver, as outras escolas não têm a integração que a gente tem com o
 professor, que é bastante amigo. Eu gosto de ficar aqui, é a única
 escola que mudou minha vida de fato, eu nunca teria isso em outra
 escola. O Projeto de Vida abre novos horizontes, mostra o caminho, te
@@ -247,26 +263,23 @@ faz refletir e a metodologia te faz achar o caminho correto para seguir.
 Ajudou bastante com minha família, agora eu sei compreender melhor os
 outros".
 
-NITAHARA, Akemi. **No Rio, escolas públicas buscam parcerias para
-melhorar ensino médio**. EBC, 6 set. 2018. Disponível em:
-<http://agenciabrasil.ebc.com.br/educacao/noticia/2018-09/no-rio-escolas-publicas-buscam-parcerias-para-melhorar-ensino-medio>.
-Acesso em: 27 mar. 2023.
+Akemi Nitahara. EBC. No Rio, escolas públicas buscam parcerias para
+melhorar ensino médio. Disponível em:
+<http://agenciabrasil.ebc.com.br/educacao/noticia/2018-09/no-rio-escolas-publicas-buscam-parcerias-para-melhorar-ensino-medio>. Acesso em: 27 mar. 2023.
 
 O estudante Lucas citou que o colégio Chico Anysio
 
-\(A\) apresenta ótimos profissionais e componentes importantes para a
+\(a\) apresenta ótimos profissionais e componentes importantes para a
 formação do indivíduo.
 
-\(B\) apropria-se do que recebe, acredita no que faz e tem uma estrutura
+\(b\) apropria-se do que recebe, acredita no que faz e tem uma estrutura
 feita dentro da escola.
 
-\(C\) oferece a mesma formação que é dada para outras escolas do
+\(c\) oferece a mesma formação que é dada para outras escolas do
 município.
 
-\(D\) é um lugar que gosta de estar, pois mudou sua vida e ajudou no
+\(d\) é um lugar em que gosta de estar, pois mudou sua vida e ajudou no
 relacionamento com sua família.
-
-Saeb: Compreender
 
 BNCC: EF89LP04 - Identificar e avaliar teses/opiniões/posicionamentos
 explícitos e implícitos, argumentos e contra-argumentos em textos
@@ -274,12 +287,12 @@ argumentativos do campo (carta de leitor, comentário, artigo de opinião,
 resenha crítica etc.), posicionando-se frente à questão controversa de
 forma sustentada.
 
-\(A\) Incorreta. O desenvolvimento cognitivo e socioemocional são dois
+\(A\) Incorreta. O desenvolvimento cognitivo e o socioemocional são dois
 componentes importantes para a formação do indivíduo, segundo o diretor
 do colégio.
 
 \(B\) Incorreta. Refere-se à opinião do diretor Willmann, o qual diz que
-a Seeduc não os dá condição melhor, mas que uma coisa é você se
+a Seeduc não lhes dá condição melhor, mas que valoriza a ideia de a escola se
 apropriar do que recebe e acreditar naquilo que está fazendo.
 
 \(C\) Incorreta. São as parcerias com a escola que não dão nada de
@@ -290,44 +303,29 @@ professor, o que não acontece em outras escolas. Foi a única escola que
 realmente mudou a vida dele, lugar onde gosta de estar e que ajudou a
 melhorar seu relacionamento com sua família.
 
-3\. Leia o trecho de um artigo de opinião. (Difícil)
+3\. Leia o trecho de um artigo de opinião.
 
 **Comida de pobres**
 
 \[\...\]
+Na Espanha, cerca de 1 em cada 5 pessoas está em "risco de exclusão", enfrentando situações difíceis. Além disso, 5 em cada 100 cidadãos sofrem com "privação material severa", incluindo fome e frio. No entanto, muitos de nós não parecemos se importar com essa realidade e frequentemente culpamos aqueles que estão nessa situação, como se a pobreza fosse uma escolha.
 
-Na Espanha, segundo as escalas da União Europeia, uma de cada cinco
-pessoas sofre "risco de exclusão", ou seja, enfrenta uma situação
-difícil. E cinco de cada 100 cidadãos sofrem a chamada "privação
-material severa", também conhecida como fome e frio.
+Esquecemos que nossa alimentação e conforto dependem em grande parte do acaso, como o lugar onde nascemos e a educação que recebemos. Embora haja exemplos de superação pessoal heroica, a maioria das histórias de vida é determinada pela sorte, inércia e condições sociais.
+\[\...\]
 
-Não acredito que perderemos o sono por isso. Embora saibamos que não é
-verdade, agimos como se fosse culpa deles. Como se a pobreza fosse
-eletiva. Como se ignorássemos (e não é o caso) que nossa alimentação e
-nossas comodidades dependem quase sempre do acaso: onde nascemos e quem
-nos educou. Os exemplos de heroica superação pessoal são muito poucos; a
-grande maioria das biografias é fruto de sorte, inércia e condições
-sociais.
-
-GONZÁLEZ, Enric. Comida de pobres. Disponível em:
+Fonte de pesquisa: Enric Gonzáles. El país. Comida de pobres. Disponível em:
 https://brasil.elpais.com/brasil/2019/12/27/opinion/1577467822\_271521.html.
-Acesso em: 15 ago. 2020.
+Acesso em: 5 maio 2023.
 
 A tese do artigo de opinião pode ser vista em
 
-\(A\) "segundo as escalas da União Europeia, uma de cada cinco pessoas
-sofre 'risco de exclusão'".
+\(A\) "Na Espanha, cerca de 1 em cada 5 pessoas está em 'risco de exclusão'."
 
-\(B\) "E cinco de cada 100 cidadãos sofrem a chamada 'privação material
-severa'".
+\(B\) "Além disso, 5 em cada 100 cidadãos sofrem com 'privação material severa'."
 
-\(C\) "nossa alimentação e nossas comodidades dependem quase sempre do
-acaso: onde nascemos e quem nos educou".
+\(C\) "nossa alimentação e conforto dependem em grande parte do acaso, como o lugar onde nascemos e a educação que recebemos".
 
-\(D\) "Os exemplos de heroica superação pessoal são muito poucos; a
-grande maioria das biografias é fruto de sorte".
-
-Saeb: Identificar
+\(D\) "Embora haja exemplos de superação pessoal heroica, a maioria das histórias de vida é determinada pela sorte, inércia e condições sociais.".
 
 BNCC: EF89LP04 - Identificar e avaliar teses/opiniões/posicionamentos
 explícitos e implícitos, argumentos e contra-argumentos em textos
@@ -347,10 +345,8 @@ elas nasceram e quem as educou.
 \(D\) Incorreta. O trecho é um exemplo que vai auxiliar a tese de que a
 condição de vida das pessoas depende do acaso.
 
-Módulo 2
+# 2. Textos públicos e normativos
 
-Neste módulo, os alunos vão compreender as características dos gêneros
-textuais proposta pública.
 
 Habilidades da BNCC: EF69LP27 EF69LP02 EF69LP20
 
@@ -4734,4 +4730,5 @@ ensino de gramática. São Paulo: Cortez Editora, 2008.
 
 VIGOTSKY, Lev S. **Pensamento e linguagem**. Tradução: Jefferson Luiz
 Camargo. São Paulo: Martins Fontes, 2003.
+
 
