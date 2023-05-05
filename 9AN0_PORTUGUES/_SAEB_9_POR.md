@@ -680,7 +680,7 @@ temática "3 vezes 22", outros três sobre pesquisas relativas ao acervo
 constante, um a respeito do restauro da biblioteca e, finalmente, outro
 dedicado à pesquisa de todo o material existente.
 
-# 3. Texto literário
+# Módulo 3
 
 Habilidades do SAEB
 
@@ -1533,7 +1533,7 @@ notícia mostram imparcialidade
 d\) Incorreta. A fala literal é objetiva, já que mostra o que foi dito
 sem a interferência das autoras do texto.
 
-5\. Módulo 5
+# Módulo 5
 
 Neste módulo, os alunos vão entender como fazer distinção entre fato e
 opinião.
