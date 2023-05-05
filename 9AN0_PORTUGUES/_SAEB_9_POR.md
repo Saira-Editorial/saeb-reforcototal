@@ -343,7 +343,7 @@ elas nasceram e quem as educou.
 \(D\) Incorreta. O trecho é um exemplo que vai auxiliar a tese de que a
 condição de vida das pessoas depende do acaso.
 
-# 2. Textos públicos e normativos
+# Módulo 2
 
 
 Habilidades do SAEB
@@ -501,7 +501,7 @@ Reescreva o parágrafo, a partir da expressão "É necessário" até "contra as 
 
 \Coment{É necessário que se produzam conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, que se promovam e implementem políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, que se realizem parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, que se desenvolvam e promovam políticas públicas de enfrentamento à violência contra as mulheres [...]}
 
-**Treino**
+# Treino
 
 1\. Observe a imagem e leia o texto, ambos de uma campanha de conscientização.
 

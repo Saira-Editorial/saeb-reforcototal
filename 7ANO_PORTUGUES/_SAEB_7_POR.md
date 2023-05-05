@@ -206,7 +206,7 @@ Ao trazer as fontes e citar nomes de pessoas envolvidas em grupos e
 organizações oficiais, a matéria se torna mais confiável e os dados
 podem ser questionados, pesquisados e confrontados pelo leitor.
 
-**Treino**
+# Treino
 
 **Questão 1:**
 
@@ -1266,7 +1266,7 @@ A autora utiliza os dois pontos como forma de introduzir uma explicação.
 Em outras palavras, ser poeta pode significar não ser nem alegre nem
 triste.
 
-**Treino**
+# Treino
 
 Questão 1:
 
