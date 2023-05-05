@@ -383,8 +383,6 @@ EF06MA06, EF06MA07, EF06MA10, EF06MA11.
 
 Adição
 
-Produzir uma figura semelhante a essa nos moldes do projeto.
-
 ![Adição: tudo sobre esta operação - Toda
 Matéria](./imgSAEB_6_MAT/media/image16.jpg){width="2.7558136482939632in"
 height="1.3998534558180227in"}
