@@ -1,4 +1,4 @@
-**Simulado 1**
+# Simulado 1
 
 \num{5} Leia o texto e responda à pergunta.
 
@@ -481,7 +481,7 @@ c\) Incorreta, pois o prefixo destacado indica uma relação oposta.
 d\) Incorreta, pois a ideia de oposição está associada ao prefixo
 contra.
 
-**Simulado 2**
+# Simulado 2
 
 \num{5} Leia o texto e responda à pergunta.
 
@@ -966,7 +966,7 @@ informações.
 d\) Incorreta, pois tanto a imagem como o texto partem do mesmo
 pressuposto.
 
-**Simulado 3**
+# Simulado 3
 
 \num{5} Leia o texto e responda à pergunta.
 
@@ -1470,7 +1470,7 @@ vírus.
 
 d\) Incorreta, pois a ilustração mostra exatamente o contrário.
 
-**Simulado 4**
+# Simulado 4
 
 5 -- Leia o texto e responda à pergunta.
 

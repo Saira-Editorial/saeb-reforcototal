@@ -49,7 +49,7 @@ simbólicas e econômicas, da Nação]{.underline}" (Mendonça, 1997, p.
 
 >Os Xokleng, povo indígena da Terra Indígena Ibirama em Santa Catarina, são sobreviventes de um processo brutal de colonização do sul do Brasil, iniciado no século passado, que quase os levou à extinção. Embora alguns subgrupos Xokleng tenham sido exterminados no estado e os sobreviventes confinados em uma área delimitada em 1914, para garantir a "paz" aos colonos e a expansão do vale do rio Itajaí, os Xokleng persistem em lutar pela sobrevivência diante desta invasão, mesmo após a quase extinção dos recursos naturais de sua terra, agravada pela construção da Barragem Norte.
 
-Fonte de pesquisa: Povos Indígenas do Brasil. Xokleng. Disponpível em: https://pib.socioambiental.org/pt/Povo:Xokleng. Acesso em: 09 mar. 2023.
+\fonte{de pesquisa: Povos Indígenas do Brasil. Xokleng. Disponpível em: https://pib.socioambiental.org/pt/Povo:Xokleng. Acesso em: 09 mar. 2023.
 
 \num{1} Com base nos textos, como podemos
 caracterizar a relação da sociedade brasileira com as populações
@@ -75,14 +75,14 @@ essa causa?
 
 >Manoel Duca, cacique da aldeia Bela Vista, de 52 anos, relatou em um depoimento que os indígenas Tenharim tinham muito medo dos trabalhadores da rodovia Transamazônica. Segundo ele, apenas três indígenas representavam o povo, enquanto os outros se escondiam no mato. A empresa responsável pela construção contratou os indígenas para fazer a desmatação, usando como incentivo o machado e a promessa de abrir a estrada. Durante um ano, trabalharam sem receber salário até a localidade Matamata, à margem do rio Aripuanã, derrubando árvores, inclusive dentro d'água. Os empregados das empreiteiras ordenavam aos indígenas nas aldeias: "Sai da frente!". A alimentação era insuficiente e a cultura dos indígenas foi perdida, incluindo as frutas encontradas no traçado da estrada e as redes de algodão que eles próprios faziam. Manoel Duca destacou que eles eram tratados como prisioneiros e eram obrigados a obedecer às ordens dos seus empregadores.
 
-~Fonte de pesquisa: Julio José Araújo Junior. ANPR. Disponível\ em:\ https://www.anpr.org.br/imprensa/artigos/20875-a-rodovia-transamazonica-e-os-indigenas-tenharim-ontem-e-hoje.\ Acesso\ em: 10\ mar.\ 2023.~
+\fonte{de pesquisa: Julio José Araújo Junior. ANPR. Disponível\ em:\ https://www.anpr.org.br/imprensa/artigos/20875-a-rodovia-transamazonica-e-os-indigenas-tenharim-ontem-e-hoje.\ Acesso\ em: 10\ mar.\ 2023.~
 
 **TEXTO 2**
 >\textbf{Indígenas Tenharim pedem regularização das barreiras na Br 230/ Transamazônica e denunciam retirada ilegal de madeira e existência de assentamento do Incra dentro de Terra Indígena}
 
 >A Organização dos Povos Indígenas do Alto Madeira (OPIAM) e a Coordenação das Organizações Indígenas da Amazônia Brasileira (Coiab) protocolaram, em 17/01, documentos no Ibama e Incra, denunciando a retirada ilegal de madeira e a presença de assentamentos do Incra dentro das Terras Indígenas Tenharim do Marmelo/Gleba B e Sepoti, localizadas nos municípios de Manicoré e Humaitá, no sul do Amazonas. Os Tenharim também entregaram documentos na Procuradoria da República no Amazonas, denunciando a instalação de barreiras na BR 230/Transamazônica dentro das terras indígenas e pedindo indenização e regularização das mesmas. Juntamente com os documentos, eles apresentaram ao Ministério Público Federal um relatório de estudo de impacto ambiental, cultural e antropológico realizado nas proximidades da BR. Os indígenas solicitaram ação das autoridades competentes para solucionar a situação.
 
-~Fonte de pesquisa: Coiab. Instituto Socioambienta. Indígenas Tenharim pedem regularização das barreiras na Br 230/ Transamazônica e denunciam retirada ilegal de madeira e existência de assentamento do Incra dentro de Terra Indígena. Disponível\ em:\ https://acervo.socioambiental.org/acervo/noticias/indigenas-tenharim-pedem-regularizacao-das-barreiras-na-br-230-transamazonica-e.\ Acesso\ em:\ 10\ mar.\ 2023.~
+\fonte{de pesquisa: Coiab. Instituto Socioambienta. Indígenas Tenharim pedem regularização das barreiras na Br 230/ Transamazônica e denunciam retirada ilegal de madeira e existência de assentamento do Incra dentro de Terra Indígena. Disponível\ em:\ https://acervo.socioambiental.org/acervo/noticias/indigenas-tenharim-pedem-regularizacao-das-barreiras-na-br-230-transamazonica-e.\ Acesso\ em:\ 10\ mar.\ 2023.~
 
 Os textos fazem menção a momentos distintos para uma mesma área. No
 primeiro, fala-se sobre o processo de abertura da rodovia federal BR-230 nos
@@ -110,7 +110,7 @@ subsistência.}
 >
 >Naquela época, os alunos exigiam mais explicações sobre o projeto que foi anunciado às pressas. O Governo alegava que as escolas de ciclos únicos --- aquelas que oferecem apenas o Ensino Médio ou apenas o Ensino Fundamental --- apresentavam melhores resultados acadêmicos. Além disso, argumentava que o número de salas ociosas havia aumentado nos últimos anos e era necessário um remanejamento para otimizar os espaços.
 
-~Fonte de pesquisa: Marina Rossi. El País. Reforma do Ensino Médio reacende mobilização um ano após ocupações em São Paulo. Disponível em: https://brasil.elpais.com/brasil/2016/10/14/politica/1476476414_549165.html. Acesso em: 10 mar. 2023.~
+\fonte{de pesquisa: Marina Rossi. El País. Reforma do Ensino Médio reacende mobilização um ano após ocupações em São Paulo. Disponível em: https://brasil.elpais.com/brasil/2016/10/14/politica/1476476414_549165.html. Acesso em: 10 mar. 2023.~
 
 A reorganização escolar de 2015 foi uma tentativa de reorganização das
 escolas do estado de São Paulo por meio da centralização das matrículas disponíveis em menos escolas. De acordo com o texto, explique dois fatos que levaram à não aplicação dessa reforma.
@@ -181,7 +181,7 @@ Leia o texto, um comentário sobre um fato ocorrido alguns anos atrás, para res
 >
 >Além disso, a abertura de linhas de financiamento para abatedouros, que são grandes responsáveis pelo desmatamento na Amazônia, é uma ação preocupante.
 
-~Fonte de pesquisa: Karla Cunha. Protesto do Greenpeace no Rio. Disponível em: http://www.karlacunha.com.br/protesto-do-greenpeace-no-rio/. Acesso em: 11 mar. 2023.~
+\fonte{de pesquisa: Karla Cunha. Protesto do Greenpeace no Rio. Disponível em: http://www.karlacunha.com.br/protesto-do-greenpeace-no-rio/. Acesso em: 11 mar. 2023.~
 
 \num{8} O que ações como a retratada no texto, que chamam a atenção de políticos globais para problemas enfrentados pelas populações, buscam demonstrar? Explique.
 
@@ -199,7 +199,7 @@ A imagem faz parte de uma campanha sobre direitos humanos e, nela, lê-se em ing
 
 \coment{A campanha "Sem justiça, sem paz" está diretamente relacionada aos direitos humanos, pois enfatiza a necessidade de justiça e igualdade para todas as pessoas, independentemente de raça, etnia, gênero, orientação sexual ou qualquer outra característica. A frase "Sem justiça, sem paz" sugere que a paz verdadeira só pode ser alcançada quando a justiça é garantida e os direitos humanos são respeitados. A campanha geralmente é usada em protestos contra a violência policial, discriminação racial e outras questões sociais que violam os direitos humanos. A campanha é, portanto, uma forma de conscientizar as pessoas sobre a importância dos direitos humanos e da justiça social, bem como de lutar por mudanças positivas nessas áreas.}
 
-##Treino
+\colorsec{Treino}
 
 \num{1} Leia os textos de artigos da Constituição Federal brasileira de 1988.
 
@@ -326,7 +326,7 @@ d)  Incorreta. O fim das cotas raciais dificultaria ainda mais o
 
 >Na segunda metade de 1974, a aldeia Kramna Mudî, onde o povo kinja se reunia para uma celebração típica dos índios waimiri atroari, foi palco de um massacre que vitimou ao menos 33 pessoas. Segundo relatos do indigenista Egydio Schwade, um avião derramou um pó que atingiu a maioria dos presentes na festa, deixando-os paralisados e doentes. Homens brancos invadiram a aldeia por terra, com facas e revólveres, enquanto os parentes dos sobreviventes vinham a óbito. Esse massacre fazia parte de uma série de atrocidades cometidas pelos militares na reserva waimiri atroari durante os anos 1960 e 1980, em nome do Plano de Integração Nacional (PIN), que previa a ocupação de 2 milhões de quilômetros quadrados na Amazônia. O genocídio dos waimiri atroari envolveu a abertura da BR-174, a construção da hidrelétrica de Balbina e a atuação de mineradoras e garimpeiros que buscavam explorar as jazidas em seu território.
 
-~Fonte de pesquisa: Kevin Damasio. National Geographic Brasil. Ditadura militar quase dizimou os waimiri atroari – e índígenas temem novo massacre. Disponível em: https://www.nationalgeographicbrasil.com/historia/2019/04/ditadura-militar-waimiri-atroari-massagre-genocidio-aldeia-tribo-amazonia-indigena-indio-governo. Acesso em: 05 maio 2023.
+\fonte{de pesquisa: Kevin Damasio. National Geographic Brasil. Ditadura militar quase dizimou os waimiri atroari – e índígenas temem novo massacre. Disponível em: https://www.nationalgeographicbrasil.com/historia/2019/04/ditadura-militar-waimiri-atroari-massagre-genocidio-aldeia-tribo-amazonia-indigena-indio-governo. Acesso em: 05 maio 2023.
 
 Conflitos como o retratado contrapõem
 
@@ -357,72 +357,4 @@ c)  Incorreta. Como se menciona no texto, o regime militar promoveu
     de essas populações viverem em paz em suas terras.
 
 d)  Incorreta. As populações indígenas não são classificados como
-    populações negras.**
-
-
-
-Simulado
-
-
-
-
-\num{5} *Em depoimento à Comissão Nacional da Verdade, Davi Kopenawa, líder
-yanomami, relembrou o descaso do governo durante a realização de grandes
-obras. Segundo a liderança, as estradas abriram caminho para os
-invasores garimpeiros e fazendeiros.*
-
-*"Eu não sabia que o governo vinha deixar estrada na terra yanomami. \[A
-autoridade\] não avisou antes de destruir o nosso meio ambiente, antes
-de matar o nosso povo yanomami. A estrada é o caminho de invasores
-garimpeiros, fazendeiros, pescadores e caçadores".*
-
-*A tomada das terras indígenas para ampliação da fronteira agrícola e
-para exploração mineral e de energia foi um dos eixos do Plano de
-Integração Nacional dos militares. \[\...\]*
-
-*Já na década de 1980, a situação se agravou com a invasão de cerca de
-40 mil garimpeiros na região. Uma campanha internacional exigiu que a
-ditadura fosse responsabilizada pelo genocídio yanomami.* \[\...\]
-
-<https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-03/ditadura-militar-contribuiu-para-genocidio-dos-povos-indigenas>
-
-Para evitar os problemas relatados na reportagem, a solução possível
-seria estabelecer
-
-a)  A urbanização do território indígena.
-
-b)  O controle territorial por parte dos povos indígenas.
-
-c)  A consolidação de uma economia de mercado na região.
-
-d)  A distribuição de terras agricultáveis a camponeses da região.
-
-INCORRETA. As populações indígenas possuem um modo de vida não-urbano,
-assim, impor a urbanização geraria desestruturação social.
-
-CORRETA. A garantia de que a gestão, controle e uso do território
-indígena seja responsabilidade direta e exclusiva da população indígena
-evita que formas de exploração prejudiciais as populações indígenas
-ocorram, preservando a organização e costume desse povo.
-
-INCORRETA. Os povos indígenas possuem costumes e culturas próprias que
-foram gestadas fora do capitalismo, baseando sua subsistência na
-exploração dos recursos disponíveis sem visar acumulação de capitais
-(lucro), integrar tais comunidades a circuitos econômicos dominantes
-significaria a imposição da exploração abusiva de recursos a esses
-povos, visto que, por se tratar de uma área preservada, possuem muitos
-recursos básicos cobiçados (terras, minérios, madeira, água).
-
-INCORRETA. As invasões aos territórios o objetivam a caça, pesca e
-extrativismo, logo, fornecer área para plantio não seria uma solução
-plausível para as invasões.
-
-(EF09HI21) Identificar e relacionar as demandas indígenas e quilombolas
-como forma de
-
-contestação ao modelo desenvolvimentista da ditadura.
-
-Trata dos esforços de participação social de segmentos excluídos e suas
-estratégias reivindicatórias ante o Estado, considerando os distintos
-interesses que os constituem.
-
+    populações negras.

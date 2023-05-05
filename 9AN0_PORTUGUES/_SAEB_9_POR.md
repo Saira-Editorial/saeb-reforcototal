@@ -1,4 +1,4 @@
-# 1. O poder do texto
+# Módulo 1
 
 
 Habilidades do SAEB
@@ -58,7 +58,7 @@ e de solicitação, carta do leitor.
 
 \<fim do boxe de conteúdo\>
 
-##Atividades
+\colorsec{Atividades}
 
 O anúncio trata do trânsito de bicicletas. Leia-o atentamente
 para responder às questões de 1 a 8.
@@ -75,7 +75,7 @@ quais atributos estão sendo mais ressaltados.}
 
 >O último relatório do Infosiga revelou que o número de mortes de ciclistas no estado de São Paulo triplicou somente no primeiro trimestre de 2019, reforçando a necessidade urgente de mais informação e respeito por parte dos condutores. A campanha terá uma abrangência ampla, incluindo blitz no trânsito para distribuição de panfletos e adesivos, ações em autoescolas, transportadoras e nas mídias sociais. Um dos objetivos principais é a conscientização da necessidade de se manter a distância de pelo menos 1,5 m entre o carro e o ciclista, evitando acidentes.
 
-~Fonte de pesquisa: Somos ciclistas. Campanha ACPC. Disponível em:  https://somosciclistas.com.br/noticias/48/campanha\_acpc~. Acesso em 05 maio 2023.
+\fonte{de pesquisa: Somos ciclistas. Campanha ACPC. Disponível em:  https://somosciclistas.com.br/noticias/48/campanha\_acpc~. Acesso em 05 maio 2023.
 
 
 1\. Em sua opinião, é importante haver campanhas relacionadas a esse
@@ -83,13 +83,13 @@ tema? Justifique sua resposta.
 
 \Coment{Resposta pessoal. Espera-se que os alunos falem sobre a necessidade de uso de transportes alternativos para combater a poluição, além de se lembrarem de que a bicicleta é um tipo de transporte que contribui para que não se tenha uma vida sedentária, comum a muitas pessoas nos grandes centros.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{6}
 
 2\. Qual é a finalidade dessa campanha publicitária? 
 
 \Coment{A finalidade da campanha é estimular o convívio saudável no trânsito entre motoristas e ciclistas.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{3}
 
 3\. Em sua opinião, qual pode ter sido o motivo para a produção dessa
 campanha? 
@@ -98,28 +98,26 @@ campanha?
 o número alto de acidentes entre ciclistas e motoristas que não se
 respeitam no trânsito."}
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\linhas{4}
 
 4\. Uma das funções da propaganda é levar o leitor a realizar ações
 concretas. No anúncio apresentado, quais são elas? 
 
 \Coment{A ideia é que os motoristas respeitem a distância de 1,5 m dos ciclistas para que sejam evitados acidentes de trânsito.}
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\linhas{4}
 
 5\. Qual é o público-alvo dessa campanha? 
 
 \Coment{Motoristas e ciclistas, assim como todas as pessoas que convivem no trânsito.}
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\linhas{4}
 
 6\. Em sua opinião, campanhas educativas podem convencer a população a
-adotar nova postura diante de uma causa? Justifique sua resposta.
-
 \Coment{Resposta pessoal. Explique aos alunos que as campanhas educativas são
 fundamentais para conscientizar as pessoas e podem mudar atitudes.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{6}
 
 7\. O período "Ciclista não é obstáculo, ele faz parte do trânsito:
 Respeite-o!" dialoga com o leitor. Que forma verbal indica essa
@@ -127,7 +125,7 @@ interlocução?
 
 \Coment{A forma verbal "respeite" em **respeite-o**.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{2}
 
 8\. A utilização dessa forma verbal dialoga diretamente com o leitor por
 intermédio de:
@@ -154,15 +152,15 @@ Leia, agora, mais um texto para, então, responder às questões 9 e 10.
 
 \Coment{Dados estatísticos ajudam na conscientização porque dão dados quantitativos que permitem visualizar a gravidade do problema - nesse caso, o problema da violência e das mortes no trânsito.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{5}
 
 10\. Quam você imagina que sejam "todos os envolvidos nas vias públicas", como menciona o texto?
 
 \Coment{Os envolvidos são os motoristas, os ciclistas, os pedestres, o poder público etc.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{3}
 
-##Treino
+\colorsec{Treino}
 
 1\. Leia o trecho da reportagem a seguir.
 
@@ -191,7 +189,7 @@ tratamento praticamente triplica.
 terço. Essa tem sido a nossa experiência nesses quase 20 anos de
 trabalho.
 
-Fonte de pesquisa: Leandro Melito. EBC. No Brasil, se você for um jogador compulsivo, estará em dificuldades, alerta psiquiatra. Disponível em:
+\fonte{de pesquisa: Leandro Melito. EBC. No Brasil, se você for um jogador compulsivo, estará em dificuldades, alerta psiquiatra. Disponível em:
 www.ebc.com.br/noticias/saude/2016/08/no-brasil-se-voce-um-jogador-compulsivo-estara-em-dificuldades-alerta. Acesso em: 28 mar. 2023.
 
 Com a leitura do texto, é possível verificar que o psiquiatra apresenta
@@ -313,7 +311,7 @@ Na Espanha, cerca de 1 em cada 5 pessoas está em "risco de exclusão", enfrenta
 Esquecemos que nossa alimentação e conforto dependem em grande parte do acaso, como o lugar onde nascemos e a educação que recebemos. Embora haja exemplos de superação pessoal heroica, a maioria das histórias de vida é determinada pela sorte, inércia e condições sociais.
 \[\...\]
 
-Fonte de pesquisa: Enric Gonzáles. El país. Comida de pobres. Disponível em:
+\fonte{de pesquisa: Enric Gonzáles. El país. Comida de pobres. Disponível em:
 https://brasil.elpais.com/brasil/2019/12/27/opinion/1577467822\_271521.html.
 Acesso em: 5 maio 2023.
 
@@ -345,7 +343,7 @@ elas nasceram e quem as educou.
 \(D\) Incorreta. O trecho é um exemplo que vai auxiliar a tese de que a
 condição de vida das pessoas depende do acaso.
 
-# 2. Textos públicos e normativos
+# Módulo 2
 
 
 Habilidades do SAEB
@@ -361,7 +359,10 @@ científica.
 
 1. Analisar a relação temática entre diferentes gêneros jornalísticos.
 
-Habilidades da BNCC: EF69LP27, EF69LP02, EF69LP20.
+Habilidades da BNCC
+1. EF69LP27
+1. EF69LP02
+1. EF69LP20
 
 https://www.freepik.com/free-photo/view-metallic-typesetting-letters_27506247.htm#query=journalistic%20text&position=13&from_view=search&track=ais
 
@@ -393,7 +394,7 @@ necessário que o registro seja formal e impessoal.
 
 \<fim do boxe de conteúdo\>
 
-##Atividades
+\colorsec{Atividades}
 
 A proposta pública a seguir apresenta metas para o desenvolvimento da
 igualdade de raça e de gênero e povos e comunidades tradicionais e faz
@@ -424,7 +425,7 @@ objetivo dessa proposta, considerando a sociedade a que ela se destina?
 igualdade de direitos e redução das iniquidades como elemento de
 desenvolvimento da população do estado da Bahia.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{6}
 
 2\. O primeiro parágrafo apresenta os padrões de conduta que
 caracterizam socialmente a formação socioeconômica baiana. De que forma se deu a formação socioeconômica baiana? 
@@ -432,35 +433,37 @@ caracterizam socialmente a formação socioeconômica baiana. De que forma se de
 \Coment{ Essa sociedade se formou e se constituiu de forma patriarcal e,
 por séculos, escravocrata.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{5}
 
 3\. Quem tem a obrigação de garantir os direitos dos negros e das
 mulheres, e protegê-los? 
 
 \Coment{O Estado.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{4}
 
 4\. Explique o que significa dizer que é necessário promover a
 **emancipação do sujeito**. 
 
 \Coment{Espera-se que os alunos relacionem a expressão ao processo de liberdades política, cultural, humana e social de todas as pessoas que sofrem opressão.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{6}
 
 5\. Com base no título, pode-se perceber se a proposta pública abrange
-diversas demandas sociais? Justifique sua resposta. Sim, pois no título
-há a menção de que se trata de um "plano de desenvolvimento integrado",
-uma proposta que tem o objetivo de atender em conjunto diversas áreas.
+diversas demandas sociais? Justifique sua resposta. 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\Coment{Sim, pois no título
+há a menção de que se trata de um "plano de desenvolvimento integrado",
+uma proposta que tem o objetivo de atender em conjunto diversas áreas.}
+
+\linhas{6}
 
 6\. O texto traça finalidades e planejamentos a serem adotados para que
 a proposta pública seja efetivamente aplicada. Por que é fundamental registrar esses planejamentos e finalidades em um documento? Explique. 
 
 \Coment{Espera-se que os alunos percebam que esses planejamentos e finalidades conduzem as ações ou estratégias que deverão ser realizadas para que as propostas sejam realizadas pelo governo.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{6}
 
 7\. A proposta pública é um plano de ação criado por determinado
 governo e que circula na esfera política. Marque a alternativa a seguir que
@@ -503,7 +506,7 @@ Reescreva o parágrafo, a partir da expressão "É necessário" até "contra as 
 
 \Coment{É necessário que se produzam conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, que se promovam e implementem políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, que se realizem parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, que se desenvolvam e promovam políticas públicas de enfrentamento à violência contra as mulheres [...]}
 
-**Treino**
+\colorsec{Treino}
 
 1\. Observe a imagem e leia o texto, ambos de uma campanha de conscientização.
 
@@ -682,7 +685,7 @@ temática "3 vezes 22", outros três sobre pesquisas relativas ao acervo
 constante, um a respeito do restauro da biblioteca e, finalmente, outro
 dedicado à pesquisa de todo o material existente.
 
-# 3. Texto literário
+# Módulo 3
 
 Habilidades do SAEB
 
@@ -695,22 +698,19 @@ outros textos verbais ou não verbais.
 1. Inferir a presença de valores sociais, culturais e humanos em textos
 literários.
 
-Habilidades da BNCC: EF69LP44, EF69LP47 e EF89LP32.
+Habilidades da BNCC
+1. EF69LP44
+1. EF69LP47
+1. EF89LP32
 
 \<início do boxe de conteúdo\>
 
 **Conto**
 
-![Book festival concept of the woman watering garden and reading an open
-huge book. Back to school, library concept design. Vector illustration,
-poster and banner - Royalty-free Livro arte
-vetorial](./_SAEB_9_POR/media/image5.jpeg){width="5.905555555555556in"
-height="3.495138888888889in"}
+https://www.freepik.com/free-photo/literature-composition_1320551.htm#query=literature%20book&position=16&from_view=search&track=ais
 
-O gênero textual **conto** tem a finalidade de entreter, aflorar
-emoções, assim como provocar reflexões no leitor. O foco maior da
-narrativa não são as ações nem os espaços físicos, mas o mundo interior
-dos personagens.
+O gênero textual **conto** tem a finalidade de entreter e fazer aflorar
+emoções, assim como provocar reflexões no leitor. 
 
 O **tempo** é um ponto essencial na construção de narrativas, podendo
 estar presente no texto como **cronológico** ou **psicológico**.
@@ -718,42 +718,29 @@ estar presente no texto como **cronológico** ou **psicológico**.
 O **tempo cronológico** consiste no tempo "real", marcado pelo relógio
 (segundos, minutos) e pelo calendário (dias, semanas, meses, anos),
 assim como períodos (manhã, tarde, noite), estações (primavera, verão,
-outono, inverno), épocas (Páscoa, Ano Novo), e diversas outras marcações
-temporais. Ele permite que o leitor se situe em relação ao momento
-concreto em que algum fato ocorreu.
+outono, inverno), épocas (Páscoa, Ano Novo), entre diversas outras marcações. Ele permite que o leitor se situe em relação ao momento concreto em que algum fato ocorreu.
 
 O **tempo psicológico**, por sua vez, é individual e subjetivo, pois
-cada personagem sente a passagem de tempo de modo divergente e a
+cada personagem sente a passagem de tempo de modo diverso e a
 depender das emoções, situações, sentimentos, sensações. Ocorre na
-narrativa mediante as memórias e lembranças de um personagem, como um
-*flashback*, em que se relembra algo do passado
+narrativa mediante memórias e lembranças de um personagem, como um
+*flashback*, em que se relembra algo do passado.
 
 Normalmente, o conto apresenta apenas um conflito, tempo e espaço
 reduzidos e poucos personagens. Pode ser narrado em 1ª pessoa ou 3ª
 pessoa.
 
-Quando reproduz as falas dos personagens, o narrador utiliza o discurso
-indireto livre. Para esse tipo de discurso narrativo, a voz se confunde
-com a dos personagens e não se consegue diferenciá-las de forma exata. O
-uso de variados tipos de discurso, tempos verbais e a escolha de
-palavras e outros recursos linguísticos constroem a história e os
-sentidos do texto.
-
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
-1.  Leia o conto a seguir.
+1.  Leia o conto a segui para responder às questões de 1 a 9.
 
-> Promova a leitura compartilhada e colaborativa do texto com os alunos.
-> Oriente os alunos a marcar as palavras desconhecidas e a pesquisá-las
-> no dicionário depois da leitura. Estimule a participação de alunos com
-> mais dificuldade em interações orais e de compreensão leitora por
-> intermédio de perguntas direcionadas, considerando a capacidade
-> inicial deles, mas visando avanços.
->
-> **A pequena vendedora de fósforos**
->
+\Coment{Promova a leitura compartilhada e colaborativa do texto com os alunos. Oriente-os a marcar as palavras desconhecidas e a pesquisá-las no dicionário depois da leitura. Estimule a participação de todos, valendo-se de perguntas direcionadas, considerando a capacidade inicial deles, mas visando a avanços.}
+
+
+**A pequena vendedora de fósforos**
+
 > Estava tanto frio! A neve não parava de cair e a noite aproximava-se.
 > Aquela era a última noite de Dezembro, véspera do dia de Ano Novo.
 > Perdida no meio do frio intenso e da escuridão, uma pobre rapariguinha
@@ -851,131 +838,118 @@ Atividades
 > menina viu à luz dos fósforos, nem o brilho com que entrou, na
 > companhia da avó, no Ano Novo.
 >
-> ANDERSEN, Hans Christian. Contos de Hans Christian Andersen.
-> Disponível em:
-> <https://epicentroliterario.com.br/dominio_publico/a-pequena-vendedora-de-fosforos/>.
-> Acesso em: 28 mar. 2023.
 
-a\) Quem é a personagem principal do conto? A menina que vendia
-fósforos.
+Hans Christian. Contos de Hans Christian Andersen. A pequena vendedora de fósforos. Disponível em: <https://epicentroliterario.com.br/dominio_publico/a-pequena-vendedora-de-fosforos/>. Acesso em: 28 mar. 2023.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+1\) Quem é a personagem principal do conto? 
 
-b\) Em qual época aconteceu a história? Véspera do dia do Ano Novo.
+\Coment{A menina que vendia fósforos}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{5}
 
-c\) Descreva fisicamente a menina. A personagem tinha cabelos compridos
-e loiros, que se encaracolavam graciosamente em volta do pescoço
-magrinho.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+2\) Em qual época aconteceu a história? 
 
-d\) Por qual motivo vendedora de fósforos não quis voltar para casa?
-Porque não vendera um único maço de fósforos, e não podia apresentar nem
-uma moeda, e o pai era capaz de lhe bater. E afinal, em casa também não
-havia calor.
+\Coment{Véspera do dia do Ano Novo.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{3}
 
-e\) Os fatos narrados no conto "A pequena vendedora de fósforos" se
-deram em quanto tempo? Justifique com elementos do texto. Uma noite
+3\) Descreva fisicamente a menina. 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\Coment{A personagem tinha cabelos compridos e loiros, que se encaracolavam graciosamente em volta do pescoço magrinho.}
 
-e\) Descreva o desfecho do conto. Quando rompeu a manhã gelada, estava
-caída uma rapariguinha, com as faces roxas, um sorriso nos lábios...
-morta de frio, na última noite do ano.
+\linhas{4}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+4\) Por qual motivo a vendedora de fósforos não quis voltar para casa?
 
-2\. Qual é a finalidade de os contos serem publicados?
+\Coment{Porque não vendera um único maço de fósforos e não podia apresentar nem
+uma moeda, e o pai era capaz de lhe bater. E, afinal, em casa também não
+havia calor.}
 
-(x ) Levar entretenimento e encantamento ao leitor.
+\linhas{5}
 
-**( )** Informar o leitor sobre fatos do cotidiano.
+5\) Os fatos narrados no conto "A pequena vendedora de fósforos" se
+deram em quanto tempo? Justifique com elementos do texto. 
+
+\Coment{ Os fatos aconteceram no período de uma noite. No início aparece a marcação temporal "a noite aproximava-se" e, no final, aparece a delimitação "quando rompeu a manhã gelada".
+
+\linhas{4}
+
+6\) Reescreva, com suas palavras, o desfecho do conto. 
+
+Resposta pessoal. Apresenta-se, aqui, uma sugestão, apenas.
+
+Uma menina morreu de frio na última noite do ano, com um sorriso nos lábios e um punhado de fósforos no colo. O Ano Novo nasceu indiferente à sua morte e nunca souberam as coisas bonitas que ela viu à luz dos fósforos antes de morrer.
+
+\linhas{5}
+
+7\. Conto é um texto narrativo curto. Dentre as características a
+seguir, marque a que você observou ao ler o conto "A pequena vendedora
+de fósforos".
+
+( x ) Poucos personagens, com atuações que giram em torno de uma
+mesma situação.
+
+( ) Espaços variados muito distantes entre si, para ambientar a
+sequência dos fatos narrados.
+
+( ) Trama desenvolvida em um longo período de tempo.
+
+8\. O conto é narrado em:
+
+( ) 1ª pessoa ( x ) 3ª pessoa
+
+9\. O narrador conta a história como:
+
+\Coment{Explique aos alunos que o narrador observador só relata o que
+presenciou, sem entrar na mente dos personagens e contar ao leitor o que
+eles estão pensando.}
+
+( ) narrador-personagem
+
+( x ) narrador-observador
+
+10\. Marque, entre as opções a seguir, objetivos de se publicarem textos como os contos.
+
+( x ) Levar entretenimento e encantamento ao leitor.
+
+( ) Informar o leitor sobre fatos do cotidiano.
 
 ( x ) Levar o leitor a refletir sobre o comportamento humano e
 acontecimentos diversos.
 
-3\. Conto é um texto narrativo curto. Dentre as características a
-seguir, marque a que você observou ao ler o conto "A pequena vendedora
-de fósforos".
 
-**(** x ) Poucos personagens, com atuações que giram em torno de uma
-mesma situação.
+\colorsec{Treino}
 
-**( )** Espaços variados muito distantes entre si, para ambientar a
-sequência dos fatos narrados.
+1\. Leia o miniconto "O valor do silêncio".
 
-**( )** Trama desenvolvida em um longo período de tempo.
+**O valor do silêncio**
 
-Leia o texto para responder às questões 7 e 8.
+>Havia um lugar onde o silêncio reinava soberano. Era uma pequena cabana nas montanhas, onde um velho eremita vivia em paz consigo mesmo. Ele passava seus dias contemplando a natureza ao redor, sem perturbar a harmonia do lugar com palavras desnecessárias.
 
-**4.** O conto é narrado em:
+>Um dia, um viajante chegou à cabana em busca de abrigo para a noite. Ao entrar, percebeu que o velho homem sequer olhava em sua direção, e o silêncio era tão intenso que parecia ensurdecedor.
 
-( ) 1ª pessoa ( x ) 3ª pessoa
+>Incomodado com a falta de comunicação, o viajante tentou puxar assunto, contar histórias, mas o eremita apenas sorria e balançava a cabeça, sem emitir nenhum som.
 
-**5.** O narrador conta a história como:
+>Frustrado, o viajante passou a noite em silêncio e partiu na manhã seguinte. No entanto, durante sua jornada, percebeu que aquele silêncio tão incompreensível da cabana o acompanhava, trazendo-lhe uma sensação de paz e contemplação que jamais sentira antes.
 
-Explique aos alunos que o narrador observador só relata o que
-presenciou, sem entrar na mente dos personagens e contar ao leitor o que
-eles estão pensando.
+>Assim, o viajante aprendeu a valorizar o silêncio e a sua importância na vida. E sempre que sentia necessidade de se reconectar consigo mesmo, voltava àquela cabana nas montanhas, onde o velho eremita ainda vivia em silêncio, como um guardião da serenidade.
 
-( ) narrador-personagem
-
-( x ) narrador observador
-
-**\<Abre seção Treino\>**
-
-1 -- Leia o miniconto "A rua do silêncio". (Fácil)
-
-**A rua do silêncio**
-
-Perto de onde eu moro, tem um lugar chamado Rua do Silêncio. Eu gosto de
-levar o meu filho pra andar por essa rua. Quer dizer, não sei se sou eu
-que levo o Gabriel pra andar por lá ou se é ele que me leva. Ser levado
-é uma das melhores coisas da vida. Ainda mais quando quem me leva é o
-meu filho.
-
-Na Rua do Silêncio, dá pra gente ouvir um bocado de barulho. Mas é só
-barulho sussurrado, bom de catar e guardar. E, no começo da rua, se é
-que essa rua tem começo, a gente para na frente de um chafariz e fica
-lá, de olho fechado, escutando barulho de água caída. Só que, lá no
-fundo desse barulho, o que o Gabriel e eu escutamos mesmo é o som dos
-nossos suspiros. Ah, ficar de olho fechado, em frente àquele chafariz,
-ouvindo som de suspiro transbordado, é coisa bem de quem anda na Rua do
-Silêncio.
-
-Às vezes, quando a gente passa num lado da rua, tem barulho de recreio
-começado, dentro de uma escola de muro agachado. Bem, tem vezes que, no
-outro lado da rua, também dá para ouvir pensamento de moça avoada,
-bocejo de morcego e freada de caramujo. Mas o melhor dessa rua, o melhor
-mesmo, é que ela não fica só perto de onde eu moro. Fica depois de toda
-esquina, bem perto de logo ali, onde a gente sempre pode dobrar.
-
-Vassallo, Márcio. A rua do silêncio. Folhinha, 5 ago. 2006. Disponível
-em: www1.folha.uol.com.br/folhinha/dicas/di05080611.htm. Acesso em: 28
-mar. 2023.
+~Diva Lopes.~
 
 O miniconto é um texto
 
 \(A\) longo, em que o narrador conta, em 3ª pessoa, a história de dois
-personagens, o pai e o filho, que moram em uma rua silenciosa.
+personagens que moram em uma cabana silenciosa.
 
-\(B\) curto, e que discorre sobre a rua do silêncio, possui um
-narrador-personagem, que conta a história em 1ª pessoa, e o personagem
-Gabriel.
+\(B\) curto, com um narrador-observador, que conta a história em 3ª pessoa, e o personagem
+secundário, o eremita.
 
-\(C\) longo, contado em 1ª pessoa pelo narrador-personagem Gabriel, que
-mora em uma rua com barulho de freada de caramujo e bocejo de morcego.
+\(C\) longo, contado em 1ª pessoa pelo narrador-personagem, que
+é eremita e vive isolado.
 
-\(D\) curto, narrado em 3ª pessoa, sobre a história de um pai e um filho
-que moram em uma rua que tem apenas barulho de sussurro e do recreio da
-escola.
+\(D\) curto, narrado em 3ª pessoa, sobre dois amigos que, juntos, aprendem a valorizar o silêncio.
 
-Saeb: Identificar
-
-BNCC: EF69LP47: Analisar, em textos narrativos ficcionais, as diferentes
+BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
 formas de composição próprias de cada gênero, os recursos coesivos que
 constroem a passagem do tempo e articulam suas partes, a escolha lexical
 típica de cada gênero para a caracterização dos cenários e dos
@@ -991,96 +965,58 @@ uso de pontuação expressiva, palavras e expressões conotativas e
 processos figurativos e do uso de recursos linguístico-gramaticais
 próprios a cada gênero narrativo.
 
-a\) Incorreta. Não se trata de um texto longo, além de o narrador narrar
-em 1ª pessoa.
+a\) Incorreta. Não se trata de um texto longo, além de não viverem, os dois personagens, na cabana.
 
-b\) Correta. O espaço, que, no caso do texto é a rua do silêncio; um
-narrador, que participa da história, contando os fatos em 1ª pessoa; e
-os personagens, que são o filho Gabriel e o pai.
+b\) Correta. Trata-se de um texto curto, com conflito resumido e simples e poucos personagens.
 
 c\) Incorreta. Além de o texto não ser longo, Gabriel é o filho, não o
 narrador-personagem.
 
-d\) Incorreta. Apesar de ser um texto curto, ele não é narrado em 3ª
-pessoa.
+d\) Incorreta. Além de os personagens não serem exatamente amigos, o eremita aprendeu a valorizar o silêncio antes do outro homem.
 
-2\. Leia a crônica argumentativa da escritora Rachel de Queiroz. (Médio)
+2\. Leia uma crônica jornalística.
 
-**Vida de criança**
+**Valor inestimável**
 
-Quanto vale uma vida de criança no Rio de Janeiro? Ou quanto vale uma
-vida de criança no Brasil \[...\]?
+>Nos últimos anos, tem se tornado cada vez mais comum ouvir notícias sobre a violência contra crianças nas metrópoles brasileiras. São relatos de tiroteios em escolas, assassinatos de menores de idade e outras formas de violência que têm como vítimas os mais jovens.
 
-\[...\]
+>A violência é apenas um dos fatores que contribuem para essa desvalorização. A falta de acesso a serviços básicos, como saúde e educação de qualidade, também faz com que as crianças sejam deixadas à margem da sociedade. O ECA e outrox textos legais, apesar de sua complexidade, não bastam para manter todas as garantias desses jovens cidadãos em dia.
 
-Vida humana, a gente não realiza direito, mas vida humana tem valor. Um
-homem é um potencial de riqueza, representa milhares de horas de
-trabalho, de inteligência, \[...\] de capacidade artística, de progresso
-e beleza.
+>Além disso, muitas vezes essas crianças são vistas como um fardo pelos pais ou responsáveis, que precisam trabalhar longas horas para sustentar a família. E, assim, acabam sendo deixadas sozinhas em casa ou nas ruas, expostas a diversos riscos.
 
-Quantas crianças abandonadas andam aí pelas cidades \[...\] em vez de
-representarem, como o deviam, uma riqueza em crescimento, representam
-apenas um ônus, um prejuízo e talvez uma ameaça?
+>A vida de uma criança tem um valor inestimável. Não podemos permitir que a desvalorização dessas vidas continue a ser uma triste realidade em nossas metrópoles. É hora de agir, de nos unirmos para garantir um futuro melhor para as nossas crianças.
 
-QUEIROZ, Rachel de. Vida de criança. O Cruzeiro, 20 out. 1951.
-Disponível em:
-https://cronicabrasileira.org.br/cronicas/9213/vida-de-crianca. Acesso
-em: 27 mar. 2023.
+~Diva Lopes.~
 
-Para a autora,
+Para a autora
 
-\(A\) tanto o potencial de trabalho quanto a capacidade artística das
-pessoas são relevantes, de forma que as crianças têm inúmeras
-possibilidades no futuro.
+\(A\) apesar da gravidade dos casos, existe um arrefecimento da violência contra crianças.
 
-\(B\) mais importa o potencial gerador de riquezas financeiras das
-crianças do que outros aspectos, mesmo que a autora cite a "capacidade
-artística" e a "beleza".
+\(B\) leis de proteção às crianças, como o ECA, são textos frágeis, por isso não garantem o fim da violência.
 
-\(C\) ainda que as crianças representem potencial, atualmente elas são
-mais um prejuízo, porque representam "milhares de horas de trabalho"
-para o Brasil.
+\(C\) há desrespeito à criança e ao adolescente por mais que seus pais e cuidadores lutem por esses direitos.
 
-\(D\) embora algumas crianças representem potencial econômico e
-artístico, algumas serão um ônus para a sociedade, pois não têm
-capacidade artística.
+\(D\) é preciso haver uma postura mais ativa de todos, enquanto agentes sociais, para que haja reversão do quadro de violência instalado.
 
-Saeb: D4
-
-BNCC: EF69LP44: Inferir a presença de valores sociais, culturais e
+BNCC: EF69LP44 - Inferir a presença de valores sociais, culturais e
 humanos e de diferentes visões de mundo, em textos literários,
 reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre
 as identidades, sociedades e culturas e considerando a autoria e o
 contexto social e histórico de sua produção.
 
-a\) Correta. Ao ler a crônica argumentativa de Rachel de Queiroz,
-infere-se que, para a autora, por conta do potencial das crianças de
-realizarem diversas atividades artísticas e econômicas, todas elas são
-relevantes para o futuro e para o progresso da sociedade brasileira.
+a\) Incorreta. Pelo contrário, afirma-se que houve aumento nos casos, não diminuição ou arrefecimento.
 
-b\) Incorreta. A autora também considera relevante a "beleza" e a
-"capacidade artística" das crianças, não se detendo apenas em ressaltar
-os aspectos econômicos.
+b\) Incorreta. Não se qualifica o ECA como texto frágil - o que se afirma é que, simplesmente, ele, juntamente com outros textos legais, não basta para resolver o problema.
 
-c\) Incorreta. As "milhares de horas de trabalho" dizem respeito à
-capacidade futura das crianças, não ao ônus gerado na sociedade
-brasileira.
+c\) Incorreta. O que se diz no texto é que, muitas vezes, as crianças são consideradas como fardos ou pesos por seus pais.
 
-d\) Incorreta. A autora menciona que o ônus gerado pelas crianças
-corresponde somente às crianças abandonadas, visto que há um enorme
-desperdício de potencial artístico e econômico.
+d\) Correta. Ao final do texto, afirma-se que "É hora de agir, de nos unirmos para garantir um futuro melhor para as nossas crianças.".
 
-3\. Leia um trecho de um discurso de formatura. (Difícil)
+3\. Leia um trecho de um discurso de formatura.
 
-"O altruísmo deve ser a lei do homem", dizia o discurso de 1955 dos
-formandos de medicina da USP. "A solidariedade deve existir mais forte
-que todos os erros e defeitos do homem", continuava o texto.
+O discurso de formatura dos estudantes de medicina da USP, em 1955, enfatizava o altruísmo como a lei do homem e a solidariedade como algo mais forte que todos os erros e defeitos humanos. Sylvio Saraiva, o orador responsável pelas palavras, manteve-se fiel à mensagem e ajudava pacientes que não podiam pagar por consultas.
 
-Orador autor dessas frases, Sylvio Saraiva manteve-se fiel ao discurso
-ao longo da carreira. Dava um jeito de atender pacientes que não
-tivessem condições de arcar com uma consulta, por exemplo.
-
-GOMES, Paulo. Mortes: Admirado, neurologista era inabalável. Disponível
+\fonte{de pesquisa: Paulo Gomes. Folha de S. Paulo. Admirado, neurologista era inabalável. Disponível
 em:
 www1.folha.uol.com.br/cotidiano/2018/01/1947572-mortes-admirado-neurologista-era-inabalavel.shtml.
 Acesso em: 28 mar. 2023.
@@ -1095,27 +1031,26 @@ O tema central do discurso de formatura, proferido em 1955, era
 
 \(D\) a defesa da gratuidade de consultas médicas.
 
-Saeb: D6
-
-BNCC: EF69LP44: Inferir a presença de valores sociais, culturais e
+BNCC: EF69LP44 - Inferir a presença de valores sociais, culturais e
 humanos e de diferentes visões de mundo, em textos literários,
 reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre
 as identidades, sociedades e culturas e considerando a autoria e o
 contexto social e histórico de sua produção.
 
-a\) Incorreta. O texto não defende explicitamente a profissão dos
+a\) Incorreta. O texto não defende explicitamente a importância da profissão dos
 médicos, mas a importância de haver solidariedade entre os homens.
 
 b\) Correta. Pode-se identificar que Sylvio Saraiva defendia o altruísmo
 e a solidariedade entre os homens.
 
 c\) Incorreta. O texto usa "lei" em sentido figurado, argumentando que a
-solidariedade deve ser tão importante como uma lei.
+solidariedade deve ser tão importante quanto uma lei.
 
 d\) Incorreta. Não existe a explicitação dessa ideia no discurso de
 formatura.
 
-Módulo 4
+
+# Módulo 4
 
 Neste módulo, os alunos vão ler, interpretar e identificar os elementos
 que compõem o gênero textual notícia; reconhecer as entrelinhas da
@@ -1126,10 +1061,10 @@ Habilidades da BNCC: EF69LP16, EF69LP43, EF89LP05.
 
 Habilidades do SAEB:
 
-\- Analisar efeitos de sentido produzido pelo uso de formas de
+*  Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
 
-\- Analisar os efeitos de sentido decorrentes dos mecanismos de
+*  Analisar os efeitos de sentido decorrentes dos mecanismos de
 construção de textos jornalísticos/midiáticos.
 
 Notícia
@@ -1167,7 +1102,7 @@ enunciador.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1\. Leia a notícia a seguir.
 
@@ -1354,7 +1289,7 @@ projetos.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1 -- Leia um trecho de notícia a seguir. (Fácil)
 
@@ -1535,7 +1470,7 @@ notícia mostram imparcialidade
 d\) Incorreta. A fala literal é objetiva, já que mostra o que foi dito
 sem a interferência das autoras do texto.
 
-5\. Módulo 5
+# Módulo 5
 
 Neste módulo, os alunos vão entender como fazer distinção entre fato e
 opinião.
@@ -1544,9 +1479,9 @@ Habilidades da BNCC: (não há correspondência)
 
 Habilidades do SAEB:
 
-\- Inferir informações implícitas em distintos textos.
+*  Inferir informações implícitas em distintos textos.
 
-\- Distinguir fatos de opiniões em textos.
+*  Distinguir fatos de opiniões em textos.
 
 **Fato x Opinião**
 
@@ -1592,7 +1527,7 @@ aprender a diferenciá-los é praticar com bastante leitura.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1\. Leia a notícia a seguir.
 
@@ -1729,7 +1664,7 @@ decorrência da posição social que assumem.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia um trecho da resenha crítica sobre o filme "O Piano". (Fácil)
 
@@ -1913,7 +1848,7 @@ oficial, apesar de não serem citados no texto II, isso porque, na
 enquete popular o jornal de esportes colocou as opções que estavam para
 ser escolhidas oficialmente.
 
-Módulo 6
+# Módulo 6
 
 Neste módulo, os alunos vão compreender o meme como gênero textual
 digital.
@@ -1922,7 +1857,7 @@ Habilidades da BNCC: EF69LP03 e EF69LP05.
 
 Habilidades do SAEB:
 
-\- Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
+*  Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
 crítica.
 
 \<início do boxe de conteúdo\>
@@ -1970,7 +1905,7 @@ ao comportamento humano.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia o meme a seguir.
 
@@ -2054,7 +1989,7 @@ meme](./_SAEB_9_POR/media/image13.jpeg){width="4.25in" height="4.25in"}
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia o trecho da entrevista a seguir. (Fácil)
 
@@ -2201,7 +2136,7 @@ d\) Correta. O humor da charge se encontra na fala da personagem, quando
 ela cita a quaresma, período em que muitos religiosos não comem carne,
 para comparar com o fato de a carne estar muito cara
 
-Módulo 7
+# Módulo 7
 
 Neste módulo, os alunos vão explorar as características do gênero
 textual reportagem, avaliando e analisando graus de parcialidade nesse
@@ -2211,11 +2146,11 @@ Habilidades da BNCC: (não há correspondência)
 
 Habilidades do SAEB:
 
-\- Analisar marcas de parcialidade em textos jornalísticos.
+*  Analisar marcas de parcialidade em textos jornalísticos.
 
-\- Avaliar diferentes graus de parcialidade em textos jornalísticos.
+*  Avaliar diferentes graus de parcialidade em textos jornalísticos.
 
-\- Avaliar a fidedignidade de informações sobre um mesmo fato divulgado
+*  Avaliar a fidedignidade de informações sobre um mesmo fato divulgado
 em diferentes veículos e mídias.
 
 \<início do boxe de conteúdo\>
@@ -2258,7 +2193,7 @@ ao tema que está em discussão.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1\. A reportagem que você vai ler foi publicada no site do Plenarinho.
 Leia com atenção.
@@ -2522,7 +2457,7 @@ que foi usada pelo jornalista.
 
 ( ) Pouco objetiva e informal.
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia os trechos de textos a seguir, que exploram as prospecções
 brasileiras para o cumprimento da Agenda 2030, proposta pela ONU.
@@ -2723,7 +2658,7 @@ o que evidencia a intenção do jornalista de ser imparcial e objetivo.
 d\) Correta. As informações são apresentadas de modo impessoal e
 objetivo.
 
-Módulo 8
+# Módulo 8
 
 Neste módulo, os alunos vão identificar a presença de modalizadores na
 linguagem persuasiva de anúncio publicitário e campanhas.
@@ -2732,12 +2667,12 @@ Habilidades da BNCC: EF69LP04, EF69LP28, EF89LP16, EF89LP31
 
 Habilidades do SAEB:
 
-\- Identificar os recursos de modalização em textos diversos.
+*  Identificar os recursos de modalização em textos diversos.
 
-\- Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais
+*  Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais
 com base no gênero textual e na intenção comunicativa.
 
-\- Analisar os efeitos de sentido produzidos pelo uso de modalizadores
+*  Analisar os efeitos de sentido produzidos pelo uso de modalizadores
 em textos diversos.
 
 \<início do boxe de conteúdo\>
@@ -2785,7 +2720,7 @@ fundamentais na construção argumentativa. Observe:
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia o anúncio de uma campanha de adoção de cães.
 
@@ -2888,7 +2823,7 @@ c)  Releia esse trecho do anúncio.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia dois trechos de textos que tratam sobre a Lei Seca. (Fácil)
 
@@ -3061,7 +2996,7 @@ d\) Incorreta. Ao usar a expressão "dessa forma", ela deixou em
 evidência a tentativa de retomar e reunir os argumentos anteriores,
 finalizando o texto.
 
-Módulo 9
+# Módulo 9
 
 Neste módulo, os alunos vão identificar as figuras de linguagem e
 compreender os efeitos de sentido criados por elas.
@@ -3070,9 +3005,9 @@ Habilidades da BNCC: EF69LP17, EF89LP06, EF89LP14 e EF89LP37.
 
 Habilidades do SAEB:
 
-\- Analisar o uso de figuras de linguagem como estratégia argumentativa.
+*  Analisar o uso de figuras de linguagem como estratégia argumentativa.
 
-\- Avaliar a eficácia das estratégias argumentativas em textos de
+*  Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
 
 \<início do boxe de conteúdo\>
@@ -3207,7 +3142,7 @@ Note que o pronome demonstrativo "**isto**"** **antecede o referente
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia as duas primeiras estrofes do poema de Luís Vaz de Camões. Se
     julgar pertinente, forneça aos alunos o poema integral, para uma
@@ -3326,7 +3261,7 @@ e\) Assonância. Resposta pessoal.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia o trecho do editorial a seguir. (Fácil)
 
@@ -3477,7 +3412,7 @@ d\) Incorreta. A gradação consiste em construir uma série na qual o
 sentido das expressões vai se intensificando até um clímax ou se
 reduzindo até um anticlímax.
 
-Módulo 10
+# Módulo 10
 
 Neste módulo, os alunos vão compreender o papel das conjunções como
 recursos de coesão sequencial.
@@ -3486,9 +3421,9 @@ Habilidades da BNCC: EF09LP08 e EF09LP11.
 
 Habilidades do SAEB:
 
-\- Analisar os mecanismos que contribuem para a progressão textual.
+*  Analisar os mecanismos que contribuem para a progressão textual.
 
-\- Analisar os processos de referenciação lexical e pronominal.
+*  Analisar os processos de referenciação lexical e pronominal.
 
 \<início do boxe de conteúdo\>
 
@@ -3538,7 +3473,7 @@ O articulador **por exemplo** introduz uma explicação a respeito do que
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia um trecho de abertura do livro Fome Zero: Uma História
     Brasileira, organizado por Adriana Veiga Aranha para responder às
@@ -3701,7 +3636,7 @@ c\) Releia o slogan do anúncio:
 
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia o anúncio a seguir. (Fácil)
 
@@ -3854,9 +3789,9 @@ Habilidades da BNCC: EF69LP55, EF69LP56 e EF09LP07.
 
 Habilidades do SAEB:
 
-\- Analisar as variedades linguísticas em textos.
+*  Analisar as variedades linguísticas em textos.
 
-\- Avaliar a adequação das variedades linguísticas em contextos de uso.
+*  Avaliar a adequação das variedades linguísticas em contextos de uso.
 
 \<início do boxe de conteúdo\>
 
@@ -3944,7 +3879,7 @@ Observe:
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia o anúncio de uma campanha para doação de alimentos. Oriente a
     leitura do anúncio, retomando as características do gênero. Solicite
@@ -4064,7 +3999,7 @@ Acesso em: 9 abr. 2023.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Examine o início de um cordel. (Fácil)
 
@@ -4213,7 +4148,7 @@ complemento e se ligam a ele indiretamente.
 d\) Incorreta. O objeto indireto é o termo que completa o sentido de um
 verbo transitivo indireto.
 
-Simulados
+# Simulado
 
 1\. Leia o cartaz de uma campanha publicitária.
 

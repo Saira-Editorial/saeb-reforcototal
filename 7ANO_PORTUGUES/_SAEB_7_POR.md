@@ -1,4 +1,5 @@
-**Módulo 1: Argumentar e convencer**
+# Módulo 1 
+ 
 
 SAEB: - Identificar o uso de recursos persuasivos em textos verbais e
 não verbais.
@@ -60,7 +61,7 @@ o uso de recursos persuasivos em demais gêneros textuais, apontando
 também para suas especificidades quanto ao público alvo, função
 comunicativa e meios de veiculação.
 
-Atividades:
+\colorsec{Atividades}
 
 1)  De acordo com seus conhecimentos, escreva dois tipos de recursos
     persuasivos presentes em campanhas publicitárias:
@@ -206,7 +207,7 @@ Ao trazer as fontes e citar nomes de pessoas envolvidas em grupos e
 organizações oficiais, a matéria se torna mais confiável e os dados
 podem ser questionados, pesquisados e confrontados pelo leitor.
 
-**Treino**
+\colorsec{Treino}
 
 **Questão 1:**
 
@@ -362,7 +363,8 @@ local.
 
 Nível: Difícil
 
-**Módulo 2: Os domínios da comunicação**
+# Módulo 2 
+ 
 
 Saeb: Identificar elementos constitutivos de textos pertencentes ao
 domínio jornalístico/midiático.
@@ -495,7 +497,7 @@ Textos de divulgação científica: com a finalidade de promover a
 divulgação de pesquisas e resultados de trabalhos científicos baseados
 em estudos e práticas de observação
 
-Atividades:
+\colorsec{Atividades}
 
 Analise a imagem a seguir e responda as questões:
 
@@ -713,7 +715,7 @@ sejam potencializadas ou desenvolvidas as seguintes ações:(\...)"
 
 (2 ) tem por objetivo regulamentar e normatizar
 
-**Treino:**
+\colorsec{Treino}
 
 **Questão 1:**
 
@@ -1015,7 +1017,8 @@ no Artigo 3º.
 
 Nível: Difícil
 
-**Módulo 3: Nas tramas do texto**
+# Módulo 3 
+ 
 
 Saeb:- Analisar elementos constitutivos de textos pertencentes ao
 domínio literário.
@@ -1100,7 +1103,7 @@ também promove integração de diversas expressões artísticas. Cite também
 outras expressões tais como a música e as artes plásticas e estimule os
 estudantes a pensarem como essas expressões se complementam.
 
-Atividades
+\colorsec{Atividades}
 
 1)  O conto popular é um gênero literário proveniente da tradição oral e
     em sua textualidade mantém algumas marcas de estilo quanto à
@@ -1266,7 +1269,7 @@ A autora utiliza os dois pontos como forma de introduzir uma explicação.
 Em outras palavras, ser poeta pode significar não ser nem alegre nem
 triste.
 
-**Treino**
+\colorsec{Treino}
 
 Questão 1:
 
@@ -1496,7 +1499,8 @@ traço mais característico da poesia concretista.
 
 Nível: fácil
 
-**Módulo 4: A construção e as formas de composição do sentido**
+# Módulo 4 
+ 
 
 Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
@@ -1556,7 +1560,7 @@ a persuasão aos textos publicitários, porém indique a importância deste
 recurso para os textos de opinião e para qualquer argumentação trazendo
 para a discussão situações do dia a dia.
 
-Atividades
+\colorsec{Atividades}
 
 Leia o texto abaixo para responder as questões:
 
@@ -1696,7 +1700,7 @@ silenciosa, os casos de bullying podem ser mais graves. A vítima pode
 apresentar mudanças de comportamento e pode não comunicar a escola e a
 família sobre as agressões.
 
-Treino
+\colorsec{Treino}
 
 Questão 1:
 
@@ -1850,7 +1854,8 @@ não a sensibilização do leitor e sim a confiabilidade da afirmação
 
 Nível difícil
 
-**Módulo 5: Fato ou Opinião**
+# Módulo 5 
+ 
 
 Saeb: Inferir informações implícitas em distintos textos.
 
@@ -1887,7 +1892,7 @@ argumentos baseados em fatos e faça as distinções quanto a construção de
 argumentos baseados em opiniões. Chame a atenção para a importância
 destas distinções para a vida prática.
 
-Atividades:
+\colorsec{Atividades}
 
 1)  Leia as afirmações abaixo e assinale (F) para fatos e (O) para
     opiniões:
@@ -2002,7 +2007,7 @@ como a transpiração."
 
 O fato apresentado é de que a transpiração é involuntária
 
-**Treino:**
+\colorsec{Treino}
 
 **Questão 1:**
 
@@ -2135,7 +2140,8 @@ d)  Incorreta. A matéria traz dados e esses dados estão sendo colocados
 
 Nível difícil
 
-**Módulo 6: Humor e as ferramentas da crítica**
+# Módulo 6 
+ 
 
 * Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
 crítica.
@@ -2180,7 +2186,7 @@ estudados para um recurso conhecido pelos estudantes. Estimule-os a
 pensar quais são os recursos utilizados e como eles se articulam para
 produzir humor ou ironia.
 
-Atividades:
+\colorsec{Atividades}
 
 1)  Leia a tirinha abaixo e responda:
 
@@ -2251,7 +2257,7 @@ cidadãos, dentre eles a dignidade, o direito à moradia, acesso à saúde e
 educação. Porém, se trata de um morador de rua que não teve tais
 direitos garantidos.
 
-Treino:
+\colorsec{Treino}
 
 Questão 1:
 
@@ -2374,7 +2380,8 @@ d)Incorreta. a tirinha não faz alusão a esse fato
 
 Nível difícil
 
-**Módulo 7: Os pontos de vista da notícia**
+# Módulo 7 
+ 
 
 Saeb: Analisar marcas de parcialidade em textos jornalísticos.
 
@@ -2437,7 +2444,7 @@ a monetização de determinados conteúdos, explique como é importante
 analisar quem são os financiadores e quais as propagandas e empresas
 relacionadas aos veículos de informação que conhecem.
 
-Atividades:
+\colorsec{Atividades}
 
 > Analise as duas notícias abaixo e responda as questões
 
@@ -2630,7 +2637,7 @@ Imagens e gráficos podem contribuir para embasar as informações e trazem
 mais confiabilidade à notícia pois podem ser interpretados, questionados
 e verificados.
 
-Treino
+\colorsec{Treino}
 
 Questão 1
 
@@ -2751,7 +2758,8 @@ título
 
 Nível difícil
 
-**Módulo 8: Modalização e argumentação**
+# Módulo 8 
+ 
 
 Saeb: Identificar os recursos de modalização em textos diversos.
 
@@ -2822,7 +2830,7 @@ discursos diretos e indiretos e do uso de advérbios que qualificam as
 ações com advérbios que indicam urgência, condições, sugestões,
 obrigatoriedade, etc
 
-Atividades:
+\colorsec{Atividades}
 
 ![](./imgSAEB_7_POR/media/image9.png){width="2.8553554243219597in"
 height="2.8553554243219597in"}
@@ -2967,7 +2975,7 @@ sinônimo
 O verbo falar no segundo quadrinho se refere a opinião, e poderia ser
 substituído por dizer ou pensar. Pensaria, diria.
 
-Treino
+\colorsec{Treino}
 
 Questão 1:
 
@@ -3094,7 +3102,8 @@ passado, mas que ocorre no presente e pode continuar ocorrendo
 
 Nível difícil
 
-**Módulo 9: As formas de interação da linguagem**
+# Módulo 9 
+ 
 
 Saeb:Analisar o uso de figuras de linguagem como estratégia
 argumentativa.
@@ -3185,7 +3194,7 @@ Mostre como o uso das figuras de linguagem podem ampliar os efeitos de
 sentido, seja nos textos literários, nos textos jornalísticos, para
 efeitos de ironia, humor, etc.
 
-Atividades:
+\colorsec{Atividades}
 
 Que, havendo tanto já que as partes vendo
 
@@ -3293,7 +3302,7 @@ O vento sopra com sua bocarra, os pássaros, seus eternos namorados,
 
 acordam cantando ao ouvi-la se espreguiçar.
 
-Treino:
+\colorsec{Treino}
 
 Questão 1:
 
@@ -3397,7 +3406,8 @@ uma comparação
 
 Nível fácil
 
-**Módulo 10: Tecendo com as palavras: recursos de coesão e progressão
+# Módulo 10 
+ 
 textual**
 
 Saeb:Analisar os mecanismos que contribuem para a progressão textual.
@@ -3454,7 +3464,7 @@ Chame a atenção para os diversos tipos, funções e classes gramaticais de
 palavras que podem ser usadas a fim de contribuir para estabelecer um
 discurso coeso e bem elaborado.
 
-Atividades:
+\colorsec{Atividades}
 
 > Analise o trecho abaixo:
 >
@@ -3577,7 +3587,7 @@ c)Adoraria viajar nas minhas férias, porém não tenho dinheiro para isso.
 
 ( F) Devem ser usados apenas por quem pretende escrever um texto
 
-Treino
+\colorsec{Treino}
 
 Questão 1
 
@@ -3706,7 +3716,8 @@ faz referência ao sujeito da última frase
 
 Nível médio
 
-**Módulo 11: Nossas línguas**
+# Módulo 11 
+ 
 
 Saeb:Analisar as variedades linguísticas em textos.
 
@@ -3751,7 +3762,7 @@ Portanto, é importante valorizar e respeitar a diversidade linguística
 como um patrimônio cultural e expressivo que considera todos os falantes
 da língua, combatendo os preconceitos e promovendo a inclusão social.
 
-Atividades:
+\colorsec{Atividades}
 
 1)  Quais são os fatores que devem ser considerados para compreender as
     variações linguísticas existentes entre os falantes de uma mesma
@@ -3887,7 +3898,7 @@ comunicação em determinados contextos
 
 \(X\) Mensagens em redes sociais
 
-Treino:
+\colorsec{Treino}
 
 Questão 1:
 
@@ -4016,7 +4027,7 @@ jargões e expressões técnicas
 
 Nível difícil
 
-**Simulado 1**
+# Simulado 1
 
 **Questão 1:**
 

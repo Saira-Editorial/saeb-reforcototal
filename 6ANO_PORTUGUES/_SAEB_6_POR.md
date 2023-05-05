@@ -1,6 +1,8 @@
 SAEB -- LÍNGUA PORTUGUESA -- 6º ANO
 
-# MÓDULO 1: O que eu penso também tem valor
+# MÓDULO 1 
+
+  O que eu penso também tem valor
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -15,7 +17,7 @@ SAEB -- LÍNGUA PORTUGUESA -- 6º ANO
 |                                  | manifestando concordância ou     |
 |                                  | discordância.                    |
 |                                  |                                  |
-|                                  | **(EF67LP07)** Identificar o uso |
+|                                  | **(EF67LP07)** Identificar o uso |
 |                                  | de recursos persuasivos em       |
 |                                  | textos argumentativos diversos   |
 |                                  | (como a elaboração do título,    |
@@ -305,7 +307,7 @@ Resposta: A autora conclui que mesmo com todos os problemas causados
 pelo vício em celulares, é impossível ir contra esse tipo de evolução
 tecnológica que acontece com o tempo.
 
-**TREINO**
+\colorsec{Treino}
 
 **1.**
 
@@ -478,7 +480,9 @@ BNCC: EF67LP07
 
 Nível de dificuldade: difícil.
 
-# MÓDULO 2: Eu, a sociedade, direitos e deveres
+# MÓDULO 2 
+
+  Eu, a sociedade, direitos e deveres
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -643,7 +647,7 @@ Confira na tabela a seguir as principais estratégias argumentativas que
 podemos utilizar em textos expositivos.
 
   **Tipo de estratégia**                    **Por que utilizar**                                                                                                                                                                                                      **Exemplo**
-  ----------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ----------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------
   Dados estatísticos de fontes confiáveis   Esse tipo de informação, quando extraída de fontes confiáveis, parte de pesquisas desenvolvidas por especialistas em diversas áreas do conhecimento, o que as torna praticamente irrefutáveis, ou seja, incontestáveis.   **De acordo com uma pesquisa do Ministério da Saúde**, as crianças estão mais vulneráveis a sofrer problemas respiratórios no inverno.
   Exemplificação                            Vivências comuns ao dia a dia das pessoas possibilitam o contato com situações que podem ser usadas para exemplificar seus argumentos.                                                                                    A falta de oportunidades profissionais para pessoas com pouca experiência muitas vezes faz com que jovens se vejam obrigados a trabalhar em profissões que não condizem com sua área de formação, **a exemplo** dos motoristas de aplicativo.
   Comparação                                Utilizar séries, documentários, novelas, personagens, pessoas de referência e outros repertórios que fazem parte da sua vivência podem embasar um argumento e gerar uma aproximação do leitor com o texto.                **Assim como** a apresentadora Xuxa, é importante que outras celebridades se posicionem a respeito da importância de uma alimentação saudável, pois isso serve de inspiração para que mais pessoas adotem estilos de vida semelhantes.
@@ -759,7 +763,7 @@ questões 4 a 6.
 crianças](./imgSAEB_6_POR/media/image2.jpeg){width="5.905555555555556in"
 height="3.3069444444444445in"}
 
-Fonte:
+\fonte{
 <https://www.canalsaude.fiocruz.br/noticias/noticiaAberta/campanha-estimula-habitos-saudaveis-para-as-criancas13112019>
 
 **Texto 2**
@@ -926,7 +930,7 @@ preferencial em Juara --- PODER
 LEGISLATIVO](./imgSAEB_6_POR/media/image5.png){width="3.662917760279965in"
 height="2.0606069553805773in"}
 
-Fonte: Câmara Municipal de Juara (MT).
+\fonte{Câmara Municipal de Juara (MT).
 
 Por sua natureza reivindicatória, o objetivo do texto apresentado é
 tornar o convívio entre as pessoas
@@ -971,7 +975,7 @@ do Rio de Janeiro:
 automaticamente](./imgSAEB_6_POR/media/image6.png){width="4.975430883639545in"
 height="2.5668886701662292in"}
 
-Fonte:
+\fonte{
 [[https://twitter.com/Prefeitura\_Rio/status/1633079144815681536]{.underline}](https://twitter.com/Prefeitura_Rio/status/1633079144815681536)
 
 Arte, por favor, borrar o nome da pessoa que comentou o Tweet da
@@ -1020,7 +1024,7 @@ BNCC: EF67LP16
 
 Nível de dificuldade: médio.
 
-**TREINO**
+\colorsec{Treino}
 
 \num{1} Leia o texto a seguir.
 
@@ -1092,7 +1096,7 @@ confiança
 baixa](./imgSAEB_6_POR/media/image8.png){width="4.125357611548557in"
 height="3.2919520997375327in"}
 
-Fonte das imagens:
+\fonte{
 <https://www.petropolis.rj.gov.br/pmp/phocadownload/destaques/2019/agosto/manual_de_calcada_acessivel_petropolis.pdf>
 
 O objetivo do piso ao redor do telefone público é
@@ -1182,7 +1186,9 @@ BNCC: **EF69LP20**
 
 **Nível: difícil.**
 
-# MÓDULO 3: Textos que conversam
+# MÓDULO 3 
+
+  Textos que conversam
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -1375,7 +1381,7 @@ height="4.270090769903762in"}
 
 **Legenda: Sapatinho de cristal.**
 
-Fonte: Pixabay.
+\fonte{Pixabay.
 
 \num{1} Enumere os fatos do texto 1, de acordo com a ordem cronológica dos
 acontecimentos.
@@ -1666,7 +1672,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: difícil.
 
-**TREINO**
+\colorsec{Treino}
 
 \num{1} Observe os dois textos a seguir.
 
@@ -1732,7 +1738,7 @@ Nível: fácil
 rua](./imgSAEB_6_POR/media/image13.jpeg){width="4.690160761154855in"
 height="2.736111111111111in"}
 
-Fonte:
+\fonte{
 <https://pixabay.com/pt/photos/arte-de-rua-urbano-banksy-muro-606379/>
 
 A intertextualidade da obra de arte ocorre
@@ -1829,7 +1835,9 @@ BNCC: EF67LP27
 
 Nível: médio.
 
-# MÓDULO 4: Palavra do especialista
+# MÓDULO 4 
+
+  Palavra do especialista
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -2119,7 +2127,7 @@ BNCC: EF69LP43
 
 Nível: difícil.
 
-**TREINO**
+\colorsec{Treino}
 
 \num{1} Observe o infográfico a seguir.
 
@@ -2127,7 +2135,7 @@ Nível: difícil.
 automaticamente](./imgSAEB_6_POR/media/image15.jpeg){width="3.433333333333333in"
 height="3.3768110236220474in"}
 
-Fonte:
+\fonte{
 <https://aetrancoso.pt/2019/10/10/10-de-outubro-de-2019-dia-mundial-da-saude-mental/>
 
 Qual é a tese apresentada no infográfico?
@@ -2274,7 +2282,9 @@ BNCC: EF69LP43
 
 Nível: difícil.
 
-# MÓDULO 5: Fato e opinião
+# MÓDULO 5 
+
+  Fato e opinião
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -2488,7 +2498,7 @@ Resposta: A autora faz um trocadilho com a fato de Frida ser uma
 artista. A expressão "uma obra à parte" significa que determinado fato
 foi incrível, maravilhoso.
 
-**TREINO**
+\colorsec{Treino}
 
 \num{1} Leia o trecho de uma resenha crítica sobre o gibi "Turma da Mônica
 Jovem":
@@ -2635,7 +2645,9 @@ BNCC: EF67LP04
 
 Nível: Difícil
 
-# MÓDULO 6: Qual é a graça?
+# MÓDULO 6 
+
+  Qual é a graça?
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -2746,13 +2758,13 @@ ambiguidade.
 
 Resposta:
 
-\- Moça, essa baguete foi feita hoje?
+*  Moça, essa baguete foi feita hoje?
 
-\- Sim, foi feita hoje.
+*  Sim, foi feita hoje.
 
-\- E qual é o sabor?
+*  E qual é o sabor?
 
-\- É de parmesão.
+*  É de parmesão.
 
 Leia um trecho de uma crônica de Marina Colasanti e responda às
 perguntas 4 a 6.
@@ -2820,7 +2832,7 @@ explodiu, menina).
 Resposta: O cachorro rasgou toda a almofada, mas justificou contanto que
 ela havia explodido porque veio com defeito.
 
-**TREINO**
+\colorsec{Treino}
 
 \num{1} Leia o texto a seguir.
 
@@ -2918,7 +2930,7 @@ Nível: difícil
 disponível.](./imgSAEB_6_POR/media/image19.jpeg){width="3.4722222222222223in"
 height="3.4722222222222223in"}
 
-Fonte:
+\fonte{
 <https://www.facebook.com/jardimdaressurreicao/photos/a.1647643748665564/5432439776852590/>.
 Acesso em: mar. 2023.
 
@@ -2954,7 +2966,9 @@ BNCC: EF69LP05
 
 Nível: fácil
 
-# MÓDULO 7: Tudo o que se lê é verdade?
+# MÓDULO 7 
+
+  Tudo o que se lê é verdade?
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -3105,7 +3119,7 @@ ter certeza de sua veracidade.
 Há vários fatores que podem ajudar a determinar a veracidade de um
 texto, como:
 
-Fonte confiável: uma fonte confiável é aquela que tem uma reputação
+\fonte{ uma fonte confiável é aquela que tem uma reputação
 sólida por fornecer informações precisas e imparciais. Verifique se o
 autor do texto é uma fonte confiável ou se está baseando suas
 informações em fontes confiáveis.
@@ -3226,7 +3240,7 @@ de publicação da notícia; se o veículo que a publicou é de
 credibilidade; e se o texto apresenta uma referência bibliográfica para
 a fonte das informações.
 
-**TREINO**
+\colorsec{Treino}
 
 \num{1} Leia o texto a seguir.
 
@@ -3387,7 +3401,9 @@ BNCC: EF67LP03
 
 Nível: fácil
 
-# MÓDULO 8: Os modalizadores do discurso em nosso dia a dia
+# MÓDULO 8 
+
+  Os modalizadores do discurso em nosso dia a dia
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -3586,7 +3602,7 @@ Identifique, neste trecho, o que são fatos apresentados no filme e o que
 Resposta:
 
   FATOS DO FILME                                                                                                                                                                                 OPINIÃO DO AUTOR
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------
   Apresenta canções conhecidas, desencontros e encontros improváveis, filme que caminha na forma clássica das comédias românticas, filme que embala, diverte e rende conversas no pós-crédito.   Canções assobiáveis há décadas, encontros e desencontros improváveis, mas tocantes; vontade de dar spoiler quase incontornável; o filme rende conversas animadas no pós-crédito.
 
 \num{7} Analise as frases extraídas do texto. Depois, analise o modalizador
@@ -3629,7 +3645,7 @@ questões 8 a 10.
 automaticamente](./imgSAEB_6_POR/media/image25.jpeg){width="2.1484219160104985in"
 height="3.038461286089239in"}
 
-Fonte:
+\fonte{
 <https://torres.rs.gov.br/2018/07/27/vem-ai-o-projeto-esqueca-um-livro-com-o-proposito-de-incentivar-a-leitura/>
 
 \num{8} O tempo verbal predominante na campanha é o imperativo afirmativo.
@@ -3652,7 +3668,7 @@ Qual é o objetivo do uso desse modalizador nesta frase?
 Resposta: O objetivo é reforçar, afirmar, que pessoas do Brasil inteiro
 estão aderindo à campanha.
 
-**TREINO**
+\colorsec{Treino}
 
 \num{1} Leia o cartaz a seguir.
 
@@ -3793,7 +3809,9 @@ BNCC: EF69LP04
 
 Nível: difícil
 
-# MÓDULO 9: As figuras de linguagem
+# MÓDULO 9 
+
+  As figuras de linguagem
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -4017,7 +4035,7 @@ quando o texto diz que "a fome aperta" e "a forme abre", e gradação,
 quando se listam o que pode ser feito com o fubá: "cuscuz, broas,
 sonhos, bolos".
 
-**TREINO**
+\colorsec{Treino}
 
 \num{1}
 
@@ -4141,7 +4159,9 @@ BNCC: EF67LP38
 
 Nível: difícil.
 
-# MÓDULO 10: Os pronomes em nosso dia a dia
+# MÓDULO 10 
+
+  Os pronomes em nosso dia a dia
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -4195,7 +4215,7 @@ Observe a imagem a seguir e responda aos exercícios.
 automaticamente](./imgSAEB_6_POR/media/image30.png){width="3.145736001749781in"
 height="3.1416666666666666in"}
 
-Fonte:
+\fonte{
 <https://br.freepik.com/fotos-gratis/colecao-de-retratos-de-cachorrinhos-adoraveis_19008908.htm#query=pets&position=21&from_view=search&track=sph>
 
 Textos: TODO GRUPINHO DA ESCOLA TEM
@@ -4397,7 +4417,7 @@ novo.
 baixa](./imgSAEB_6_POR/media/image31.jpeg){width="4.175in"
 height="5.910983158355205in"}
 
-Fonte:
+\fonte{
 <https://mercado.etc.br/estudantes-no-parana-desenvolvem-campanha-sobre-desperdicio-de-alimentos/>.
 Acesso em: mar. 2023.
 
@@ -4412,7 +4432,7 @@ Tantos alimentos são desperdiçados no mundo.
 
 Tanta comida é desperdiçada no mundo.
 
-**TREINO**
+\colorsec{Treino}
 
 \num{1} Leia o texto a seguir.
 
@@ -4569,7 +4589,9 @@ BNCC: EF06LP12
 
 Nível: difícil.
 
-# MÓDULO 11: Para cada situação, uma adequação
+# MÓDULO 11 
+
+  Para cada situação, uma adequação
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -4740,7 +4762,7 @@ geográfica.
 Leia um trecho do conto "Gaetaninho", de Alcântara Machado, e responda
 às questões 6 e 7.
 
-\- Xi, Gaetaninho, como é bom!
+*  Xi, Gaetaninho, como é bom!
 
 Gaetaninho ficou banzando bem no meio da rua. O Ford quase o derrubou e
 ele não viu o Ford. O carroceiro disse um palavrão e ele não ouviu o
@@ -4999,7 +5021,7 @@ Nível: fácil.
 automaticamente](./imgSAEB_6_POR/media/image34.jpeg){width="1.9807688101487315in"
 height="1.9807688101487315in"}
 
-Fonte: https://ciencianarua.net/tirinha-de-silva-joao-20-05-2020/
+\fonte{https://ciencianarua.net/tirinha-de-silva-joao-20-05-2020/
 
 No primeiro quadrinho da tira, o modalizador enunciativo promove a
 intenção de
@@ -5028,12 +5050,12 @@ enunciador.
 
 Saeb:
 
-\- Identificar os recursos de modalização em textos diversos.
+*  Identificar os recursos de modalização em textos diversos.
 
-\- Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais
+*  Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais
 com base no gênero textual e na intenção comunicativa.
 
-\- Analisar os efeitos de sentido produzidos pelo uso de modalizadores
+*  Analisar os efeitos de sentido produzidos pelo uso de modalizadores
 em textos diversos.
 
 BNCC: EF69LP28
@@ -5160,7 +5182,7 @@ Rio de Janeiro:
 automaticamente](./imgSAEB_6_POR/media/image6.png){width="4.975430883639545in"
 height="2.5668886701662292in"}
 
-Fonte:
+\fonte{
 [[https://twitter.com/Prefeitura\_Rio/status/1633079144815681536]{.underline}](https://twitter.com/Prefeitura_Rio/status/1633079144815681536)
 
 Arte, por favor, borrar o nome da pessoa que comentou o Tweet da
@@ -5344,7 +5366,7 @@ Nível: difícil.
 automaticamente](./imgSAEB_6_POR/media/image15.jpeg){width="3.433333333333333in"
 height="3.3768110236220474in"}
 
-Fonte:
+\fonte{
 <https://aetrancoso.pt/2019/10/10/10-de-outubro-de-2019-dia-mundial-da-saude-mental/>
 
 Analisando-se os recursos verbais e não verbais, pode-se afirmar que o
@@ -5536,7 +5558,7 @@ Nível: difícil
 disponível.](./imgSAEB_6_POR/media/image35.jpeg){width="4.658333333333333in"
 height="4.658333333333333in"}
 
-Fonte: https://www.facebook.com/jardimdaressurreicao/
+\fonte{https://www.facebook.com/jardimdaressurreicao/
 
 O argumento utilizado na campanha para incentivar o combate ao discurso
 de ódio é formado por
@@ -5631,7 +5653,7 @@ Nível: médio.
 média](./imgSAEB_6_POR/media/image36.png){width="4.233775153105862in"
 height="4.3141021434820646in"}
 
-Fonte:
+\fonte{
 <https://www.crmpr.org.br/Pais-precisam-manter-atualizado-o-calendario-de-vacinacao-dos-filhos-mesmo-na-pandemia-11-54287.shtml>
 
 Considerando o pronome "seu" no título da campanha, qual é o público
@@ -5785,7 +5807,7 @@ jornalísticos.
 automaticamente](./imgSAEB_6_POR/media/image38.png){width="5.905555555555556in"
 height="3.9569444444444444in"}
 
-Fonte:
+\fonte{
 <http://www.unifap.br/conscientizacao-no-transito-e-o-objetivo-da-campanha-maio-amarelo-2/>
 
 A proposta da campanha é incentivar as pessoas a
@@ -5842,10 +5864,10 @@ De acordo com Damiani, uma indicação pedindo operações tapa-buraco no
 município serão apresentadas por ele na próxima sessão e adianta que irá
 se reunir com representantes do Executivo para debater o assunto.
 
-(Fonte: Câmara Municipal de Sorriso, publicado em nov. 2022. Disponível
+\fonte{Câmara Municipal de Sorriso, publicado em nov. 2022. Disponível
 em: \<
 <https://sorriso.mt.leg.br/noticia/damiani-pede-manutencao-asfaltica-em-ruas-esburacadas-de-sorriso-637e35ae893b7>\>.
-Acesso em: mar. 2023.)
+Acesso em: mar. 2023.
 
 A notícia apresenta uma reclamação
 
@@ -6022,11 +6044,10 @@ Nível: fácil
 automaticamente](./imgSAEB_6_POR/media/image41.png){width="5.198641732283464in"
 height="5.500767716535433in"}
 
-(Fonte: <https://dragoesdegaragem.com/cientirinhas/cientirinhas-18/>)
----------------------------------------------------------------------
+\fonte{<https://dragoesdegaragem.com/cientirinhas/cientirinhas-18/>
 
 Qual das alternativas melhor descreve o tom da linguagem usada no texto?
-------------------------------------------------------------------------
+
 
 a) nervoso e combativo
 ----------------------
@@ -6041,22 +6062,22 @@ d) triste e melancólico
 -----------------------
 
 Resposta: b. O texto adota uma linguagem leve e humorística.
-------------------------------------------------------------
+
 
 Justificativas:
 ---------------
 
 a) Incorreta. Embora os macacos aparentemente estivessem discutindo no primeiro quadrinho, a linguagem é humorística e leve.
-----------------------------------------------------------------------------------------------------------------------------
+
 
 c) Incorreta. O terceiro quadrinho propõe uma fala mais informativa da personagem, mas a tira é de humor.
----------------------------------------------------------------------------------------------------------
+
 
 d) Incorreta. Em nenhum momento o texto aparenta qualquer indício de tristeza ou melancolia.
---------------------------------------------------------------------------------------------
+
 
 Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou crítica.
----------------------------------------------------------------------------------
+
 
 BNCC: EF69LP05
 --------------
@@ -6071,16 +6092,16 @@ Nível: fácil
 ----------------------------
 
 Estamos na Boa Vista e fomos hoje à casa de uns amigos que eram tão bons para nós, todas as vezes que aqui vínhamos. Obsequiavam sempre a mamãe com frutas, ovos, frangos e verduras. 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------
 
 Esta amizade ficou forte com a parecença de Luisinha, minha irmã, com a sobrinha deles que estava fora. A mulher, Dona Mariquinha, dizia sempre que nos via: "Que saudades da Quitinha! Vendo a sua menina, parece que estou vendo a outra, Dona Carolina. É cara duma, cara doutra, sem tirar nem pôr. Ainda hei de juntar as duas para a senhora ver". Mamãe dizia: "É pena mesmo a sua não estar aqui". Ela dizia: "O dia chegará, Dona Carolina".
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (MORLEY, Helena. *Minha vida de menina*. 1a ed. São Paulo: Companhia de Bolso, 2016.)
--------------------------------------------------------------------------------------
+
 
 O trecho "Obsequiavam sempre a mamãe com frutas, ovos, frangos e verduras." apresenta qual tipo de variação linguística?
-------------------------------------------------------------------------------------------------------------------------
+
 
 a) Econômica
 ------------
@@ -6095,22 +6116,22 @@ d) Geográfica
 -------------
 
 Resposta: B. O texto original foi criado em meados de 1940, e por isso, retrata a variação linguística histórica, com palavras mais rebuscadas. Por exemplo: Obsequiava, que no contexto quer dizer presentear.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 Justificativas: 
 ---------------
 
 A- Incorreta. O trecho e a forma de se expressar não tem relação com a classe econômica dos personagens envolvidos, mas sim com o período histórico em que o texto foi criado
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------
 
 C- Incorreta. O trecho e a forma de se expressar não tem relação com a contexto social dos personagens envolvidos, mas sim com o período histórico em que o texto foi criado
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
 
 D- Incorreta. O trecho e a forma de se expressar não tem relação com a origem geográfica dos personagens envolvidos, mas sim com o período histórico em que o texto foi criado
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------
 
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio literário.
------------------------------------------------------------------------------------
+
 
 BNCC: EF69LP44
 --------------
@@ -6138,37 +6159,32 @@ doutorado no Departamento de Patologia da Faculdade de Medicina da USP,
 sob orientação do professor Carlos Augusto Pasqualucci.
 
 (Escobar, Herton. Cara a cara com a família imperial: pesquisa simula rostos de D. Pedro I e suas esposas. Jornal da USP, publicado em 07/03/2023. Atualizado em 10/03/2023. Disponível em <https://jornal.usp.br/ciencias/cara-a-cara-com-a-familia-imperial-pesquisa-simula-rostos-de-d-pedro-i-e-suas-esposas/>. Acesso em 14/03/2023. Adaptado.)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Qual é a ideia central do texto?
---------------------------------
 
 a) Contar a história de D. Pedro e da família Real brasileira.
---------------------------------------------------------------
 
 b) Divulgar o trabalho de pesquisa de uma arqueóloga brasileira.
-----------------------------------------------------------------
 
 c) Explicar um fenômeno científico e artístico.
------------------------------------------------
 
 d) Fazer uma resenha de uma pesquisa científica.
-------------------------------------------------
+
 
 Resposta: b. O trecho é um texto de divulgação científica cujo objetivo é apresentar um trabalho de pesquisa e seus resultados.
--------------------------------------------------------------------------------------------------------------------------------
+
 
 Justificativas:
 ---------------
 
 a) Incorreta. A pesquisa é da arqueóloga que é sobre a família Real brasileira.
--------------------------------------------------------------------------------
+
 
 c) Incorreta. O texto tem a intenção de divulgar um trabalho de pesquisa e seus resultados.
--------------------------------------------------------------------------------------------
+
 
 d) Incorreta. O texto de divulgação científica é informativo, e não opinativo.
-------------------------------------------------------------------------------
+
 
 **Saeb:** Identificar elementos constitutivos de gêneros de divulgação
 científica.
@@ -6186,7 +6202,7 @@ BNCC: **EF69LP20**
 -----------
 
 **"-- Adeus -- disse a raposa. -- Eis o meu segredo. É muito simples: só se vê bem com o coração. O essencial é invisível para os olhos."**
--------------------------------------------------------------------------------------------------------------------------------------------
+
 
 **(*O pequeno príncipe*)**
 --------------------------
@@ -6195,13 +6211,13 @@ BNCC: **EF69LP20**
 -----------
 
 **\"A grandeza não está em ser forte, mas no uso correto da força. Grande é aquela cuja força conquista mais corações.\"**
---------------------------------------------------------------------------------------------------------------------------
+
 
 **(*Extraordinário*)**
 ----------------------
 
 **A mensagem que caracteriza a intertextualidade entre as duas obras é**
-------------------------------------------------------------------------
+
 
 **a) Sempre siga seus sonhos.**
 -------------------------------
@@ -6216,22 +6232,22 @@ BNCC: **EF69LP20**
 ------------------------------
 
 **Resposta: b. Tanto no trecho de "O pequeno príncipe" quando no trecho de "Extraordinário" a mensagem que se passa é de uma relação gentil com as pessoas, a fim de conquistá-las.**
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------
 
 **Justificativas:**
 -------------------
 
 **a) Incorreta. Os trechos não incentivam o leitor a buscar seus sonhos.**
---------------------------------------------------------------------------
+
 
 **c) Incorreta. Os trechos falam de relações de afeto, e não de esperança.**
-----------------------------------------------------------------------------
+
 
 **d) Incorreta. Os trechos não dão lição de moral relacionada a aprendizado com os erros.**
--------------------------------------------------------------------------------------------
+
 
 **Saeb:** Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
----------------------------------------------------------------------------------------------------------------------
+
 
 BNCC: EF67LP27
 --------------
@@ -6243,46 +6259,46 @@ Nível: difícil
 --------------------------
 
 "Estudantes que ingressaram no ensino médio em 2022 frequentam as aulas em um novo sistema, chamado de "novo ensino médio": esse novo formato adotado pelas escolas levantou muitas opiniões divergentes, principalmente por parte de estudantes, já que em algumas escolas o ensino em tempo integral foi aplicado, os alunos tendem a se desenvolver mais no tempo integral, com as 9 aulas diárias.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Em meu ponto de vista como estudante, o novo ensino médio assustou bastante no começo, mas a coordenação da minha escola fez com que tudo ficasse mais leve. Foi possível que nós nos adaptássemos ao longo dos meses -- no começo foi bastante difícil e confuso, eram 27 disciplinas e, mesmo que nem todas tenham aulas massivas e sim aulas práticas, ainda assim era tudo muito novo para nós que ficamos bastante tempo sem frequentar a escola."
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (DANTAS, Grazi. O novo Ensino Médio na visão de uma estudante. Agência Jovem de Notícias, publicado em out. 2022. Disponível em: \< <https://agenciajovem.org/opiniao-o-novo-ensino-medio-na-visao-de-uma-estudante/>\>. Acesso em: mar. 2023. Adaptado.)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 Qual é o ponto de vista da autora sobre o novo Ensino Médio?
-------------------------------------------------------------
+
 
 a) Positiva, pois a escola tornou tudo mais leve.
--------------------------------------------------
+
 
 b) Confusa, pois eram 27 disciplinas e tudo muito novo.
--------------------------------------------------------
+
 
 c) Negativa, pois o novo formato assustou bastante.
----------------------------------------------------
+
 
 d) Positiva em alguns pontos e negativa em outros.
---------------------------------------------------
+
 
 Resposta: a. Como a própria estudante informa, "o novo ensino médio assustou bastante no começo, mas a coordenação da minha escola fez com que tudo ficasse mais leve".
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------
 
 Justificativas:
 ---------------
 
 b) Incorreta. Embora fossem muitas disciplinas, a escola auxiliou os estudantes e tudo ficou mais leve.
--------------------------------------------------------------------------------------------------------
+
 
 c) Incorreta. A estudante achou confuso de início, mas gostou da proposta.
---------------------------------------------------------------------------
+
 
 d) Incorreta. A estudante menciona dificuldades no início, mas acabou gostando da proposta.
--------------------------------------------------------------------------------------------
+
 
 Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de construção de textos jornalísticos/midiáticos.
------------------------------------------------------------------------------------------------------------------
+
 
 BNCC: EF69LP16
 --------------
@@ -6294,46 +6310,46 @@ Nível: médio.
 --------------------------
 
 A popularização dos drones comerciais, das inteligências artificiais e dos softwares de modelagem 3D permitiram o desenvolvimento de um novo método para controlar áreas de reflorestamento. Durante seu doutorado no Instituto de Energia e Ambiente (IEE) da USP, o engenheiro florestal e pesquisador Rafael Walter de Albuquerque criou um procedimento mais rápido e capaz de enriquecer os tradicionais.\[\...\]
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "Toda restauração demanda um monitoramento. Assim como nós temos que monitorar o nosso organismo, que é complexo,--- temos que fazer exames periodicamente, principalmente quando a idade avança, para garantir que está tudo em ordem ---, quando nós estamos recuperando a floresta, precisamos visitá-la periodicamente para ver se os dados dela estão bons e se será preciso tomar uma atitude ou não", conta Rafael Albuquerque ao Jornal da USP.\[\...\]
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (CONTERNO, Ivan. Drones e modelagem 3D auxiliarão a recuperação de florestas. Jornal da USP, publicado em mar. 2023. Disponível em: \< <https://jornal.usp.br/ciencias/drones-e-modelagem-3d-auxiliarao-a-recuperacao-de-florestas/>\>. Acesso em: mar. 2023. Adaptado.)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 Qual é o objetivo do pesquisador ao dizer que a floresta é como nosso organismo, complexo?
-------------------------------------------------------------------------------------------
+
 
 a) Promover uma evidência para apoiar um argumento.
----------------------------------------------------
+
 
 b) Facilitar a compreensão do leitor por meio de uma metáfora.
---------------------------------------------------------------
+
 
 c) Criar uma imagem vívida de uma floresta na mente do leitor.
---------------------------------------------------------------
+
 
 d) Tornar o texto mais interessante para o leitor.
---------------------------------------------------
+
 
 Resposta: b. Para facilitar o entendimento do leitor quanto à importância do drone para o reflorestamento, o pesquisador usa uma metáfora, comparando a floresta ao nosso organismo.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------
 
 Justificativas:
 ---------------
 
 a) Incorreta. Embora no trecho o objetivo seja apresentar um argumento para a tese de que é necessário o uso do drone, o pesquisador o compara a floresta ao organismo humano a fim de facilitar a compreensão do leitor.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 c) Incorreta. O intuito é facilitar a compreensão do leitor, e não apenas gerar uma imagem da floresta na mente dele.
----------------------------------------------------------------------------------------------------------------------
+
 
 d) Incorreta. O texto, por ser uma artigo de divulgação científica, naturalmente é interessante para quem o lê pois o público-alvo com frequência são pessoas que têm afinidade com o assunto.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 Saeb: Analisar efeitos de sentido produzido pelo uso de formas de apropriação textual (paráfrase, citação etc.).
-----------------------------------------------------------------------------------------------------------------
+
 
 BNCC: EF69LP43
 --------------
@@ -6345,43 +6361,43 @@ Nível: médio
 ---
 
 ![Uma imagem contendo Desenho técnico Descrição gerada automaticamente](./imgSAEB_6_POR/media/image42.png){width="5.905555555555556in" height="4.960416666666666in"}
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------
 
-Fonte: <https://www.instagram.com/p/CPG8z6dsj5u/?hl=pt>
--------------------------------------------------------
+\fonte{<https://www.instagram.com/p/CPG8z6dsj5u/?hl=pt>
+
 
 Em qual momento da história é apresentado o efeito de humor?
-------------------------------------------------------------
+
 
 a) No primeiro quadrinho, que já apresenta um cliente bem incomum.
-------------------------------------------------------------------
+
 
 b) No segundo quadrinho, em que o atendente usa uma linguagem formal.
----------------------------------------------------------------------
+
 
 c) No terceiro quadrinho, em que o cliente responde incorretamente à pergunta do atendente.
--------------------------------------------------------------------------------------------
+
 
 d) No quarto quadrinho, em que o atendente responde à pergunta do cliente de forma literal.
--------------------------------------------------------------------------------------------
+
 
 Resposta: d. O humor da tirinha se dá na resposta do atendente, que não compreende a pergunta do cliente, no quadrinho anterior, e responde de forma literal.
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------
 
 Justificativas:
 ---------------
 
 a) Incorreta. O fato de o cliente ser incomum é subjetivo e não é responsável pelo efeito de humor.
----------------------------------------------------------------------------------------------------
+
 
 b) Incorreta. O atendente utiliza uma linguagem adequada ao contexto.
----------------------------------------------------------------------
+
 
 c) Incorreta. O cliente compreende a pergunta e responde de forma a adianta-se quanto as opções de bebidas. O atendente que não compreendeu.
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Saeb: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou crítica.
---------------------------------------------------------------------------------
+
 
 BNCC**:** EF69LP03
 
@@ -6392,43 +6408,43 @@ Nível: fácil
 ---
 
 ![Viva de Perto --- Ministério do Turismo](./imgSAEB_6_POR/media/image43.jpeg){width="5.905555555555556in" height="3.9340277777777777in"}
------------------------------------------------------------------------------------------------------------------------------------------
 
-Fonte: <https://www.gov.br/turismo/pt-br/centrais-de-conteudo/viva-de-perto-fazendo-ola-natal-rn>
--------------------------------------------------------------------------------------------------
+
+\fonte{<https://www.gov.br/turismo/pt-br/centrais-de-conteudo/viva-de-perto-fazendo-ola-natal-rn>
+
 
 Qual é o intuito do uso do verbo "fazer" no gerúndio, na propaganda?
---------------------------------------------------------------------
+
 
 a) Dar a ideia de que em Natal é isso o que as pessoas ficam fazendo.
----------------------------------------------------------------------
+
 
 b) Gerar uma ambiguidade entre imagem e a orientação para o turista.
---------------------------------------------------------------------
+
 
 c) Fazer uma descrição da imagem para pessoas que não fazer leitura visual.
----------------------------------------------------------------------------
+
 
 d) Persuadir o leitor a visitar Natal a partir de um texto bem-humorado.
-------------------------------------------------------------------------
+
 
 Resposta: b. O verbo no gerúndio dá a ideia de um presente que está acontecendo. Na campanha, as pessoas no carro estão fazendo ola, o que gera uma ambiguidade quando se lê a linha fina abaixo, "Continue vivendo experiências", ou seja, orientando ao turista que continue viajando e "fazendo ola" por aí.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Justificativas:
 ---------------
 
 a) Incorreta. A campanha não informa que em Natal é isso que as pessoas ficam fazendo. Ela usa um momento turístico para persuadir as pessoas as visitarem a cidade.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------
 
 c) Incorreta. "Fazendo ola" não é uma frase com o intuito de se fazer uma descrição visual da imagem.
------------------------------------------------------------------------------------------------------
+
 
 d) Incorreta. A campanha tem o objetivo, como um todo, de convidar o turista a visitar Natal por meio de um texto leve, e um dos recursos é a escolha léxical.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------
 
 Saeb: Identificar o uso de recursos persuasivos em textos verbais e não verbais.
---------------------------------------------------------------------------------
+
 
 BNCC: EF67LP05
 --------------
@@ -6457,7 +6473,7 @@ De acordo com Damiani, uma indicação pedindo operações tapa-buraco no
 município serão apresentadas por ele na próxima sessão e adianta que irá
 se reunir com representantes do Executivo para debater o assunto.
 
-(Fonte: Câmara Municipal de Sorriso, publicado em nov. 2022. Disponível
+\fonte{Câmara Municipal de Sorriso, publicado em nov. 2022. Disponível
 em: \<
 <https://sorriso.mt.leg.br/noticia/damiani-pede-manutencao-asfaltica-em-ruas-esburacadas-de-sorriso-637e35ae893b7>\>.
 Acesso em: mar. 2023.)
@@ -6501,7 +6517,7 @@ BNCC: EF67LP17
 Nível: fácil.
 
 15. Leia um trecho da obra *Diário da princesa*, de Meg Cabot.
---------------------------------------------------------------
+
 
 "Como se todo mundo já não acreditasse que eu sou uma aberração. Sou
 praticamente a maior aberração de toda a escola. Quero dizer, tenho que
@@ -6603,49 +6619,36 @@ BNCC: EF69LP03
 Nível: fácil.
 
 Leia o texto a seguir para responder às questões 2 e 3.
--------------------------------------------------------
 
 "A popularização dos drones comerciais, das inteligências artificiais e dos softwares de modelagem 3D permitiram o desenvolvimento de um novo método para controlar áreas de reflorestamento. Durante seu doutorado no Instituto de Energia e Ambiente (IEE) da USP, o engenheiro florestal e pesquisador Rafael Walter de Albuquerque criou um procedimento mais rápido e capaz de enriquecer os tradicionais.\[\...\]
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 O aplicativo e o método desenvolvidos na pesquisa poderão ser utilizados gratuitamente por profissionais com pouco treinamento, bastando que sigam o guia que será lançado em livro até o final do primeiro semestre de 2023 pelo Pacto pela Restauração da Mata Atlântica em parceria com a Aliança pela Restauração na Amazônia. "Nós acreditamos que esse trabalho vai ajudar o País, porque muitos profissionais, universidades e empresas precisam consultar como se faz o uso de drones e de imagens de satélite para monitorar a restauração florestal na Amazônia e na Mata Atlântica, e esse conhecimento estava muito pulverizado", justifica o engenheiro, que coordenou o grupo de especialistas responsável."
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 (CONTERNO, Ivan. Drones e modelagem 3D auxiliarão a recuperação de florestas. Jornal da USP, publicado em mar. 2023. Disponível em: \< <https://jornal.usp.br/ciencias/drones-e-modelagem-3d-auxiliarao-a-recuperacao-de-florestas/>\>. Acesso em: mar. 2023. Adaptado.)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. Qual é o tema central do texto?
-----------------------------------
 
 a) O uso de drones em aplicações comerciais.
---------------------------------------------
 
 b) O desenvolvimento de novos métodos de reflorestamento.
----------------------------------------------------------
 
 c) Os benefícios da inteligência artificial na ciência ambiental.
------------------------------------------------------------------
 
 d) Os desafios da implementação do reflorestamento na Amazônia.
----------------------------------------------------------------
 
 Resposta: C. O texto apresenta uma pesquisa sobre inteligência artificial e seus benefícios para o reflorestamento.
--------------------------------------------------------------------------------------------------------------------
 
 Justificativas:
----------------
 
 a) Incorreta. Os drones do artigo são usados em um trabalho de reflorestamento.
--------------------------------------------------------------------------------
 
 b) Incorreta. O artigo traz informações de uma pesquisa que utiliza drones e inteligência artificial para o reflorestamento.
-----------------------------------------------------------------------------------------------------------------------------
 
 d) Incorreta. O artigo mostra os benefícios do uso da IA para vencer os desafios do reflorestamento.
-----------------------------------------------------------------------------------------------------
 
 Saeb: Identificar teses, opiniões, posicionamentos explícitos e argumentos em textos.
--------------------------------------------------------------------------------------
 
 BNCC: **EF67LP07**
 ------------------
@@ -6654,37 +6657,37 @@ Nível: difícil.
 ---------------
 
 3. Qual é a importância do método desenvolvido na pesquisa?
------------------------------------------------------------
+
 
 a) É mais barato e complexo que métodos tradicionais.
------------------------------------------------------
+
 
 b) Requer treinamento árduo e muitos especialistas para funcionar.
-------------------------------------------------------------------
+
 
 c) É mais barato e mais acessível para profissionais com pouco treinamento.
----------------------------------------------------------------------------
+
 
 d) É útil para o monitoramento do reflorestamento em regiões específicas.
--------------------------------------------------------------------------
+
 
 Resposta: c. O método é mais barato e de fácil utilização por profissionais com pouco treinamento, conforme explica o trecho: "O aplicativo e o método desenvolvidos na pesquisa poderão ser utilizados gratuitamente por profissionais com pouco treinamento, bastando que sigam o guia que será lançado em livro até o final do primeiro semestre de 2023 pelo Pacto pela Restauração da Mata Atlântica em parceria com a Aliança pela Restauração na Amazônia."
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Justificativas:
 ---------------
 
 a) Incorreta. O aplicativo é barato e mais simples que os métodos tradicionais.
--------------------------------------------------------------------------------
+
 
 b) Incorreta. O método facilita o trabalho para profissionais com pouco treinamento.
-------------------------------------------------------------------------------------
+
 
 d) Incorreta. O pesquisador acredita que o método auxiliará o país como um todo.
---------------------------------------------------------------------------------
+
 
 Saeb: Identificar teses, opiniões, posicionamentos explícitos e argumentos em textos.
--------------------------------------------------------------------------------------
+
 
 BNCC: **EF67LP05**
 ------------------
@@ -6696,10 +6699,10 @@ Nível: médio.
 --
 
 ![Desenho de personagem Descrição gerada automaticamente com confiança baixa](./imgSAEB_6_POR/media/image44.png){width="3.7818766404199473in" height="4.541666666666667in"}
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------
 
 <https://dragoesdegaragem.com/cientirinhas/cientirinhas-177/>
--------------------------------------------------------------
+
 
 Com base no desfecho da tirinha, o que gera o efeito de humor?
 
@@ -6737,37 +6740,37 @@ Nível: médio.
 -------------
 
 Leia o texto a seguir para responder às questões 5 a 8.
--------------------------------------------------------
+
 
 Artigo 1°
 ---------
 
 Todos os seres humanos nascem livres e iguais em dignidade e em direitos. Dotados de razão e de consciência, devem agir uns para com os outros em espírito de fraternidade.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------
 
 Artigo 2°
 ---------
 
 Todos os seres humanos podem invocar os direitos e as liberdades proclamados na presente Declaração, sem distinção alguma, nomeadamente de raça, de cor, de sexo, de língua, de religião, de opinião política ou outra, de origem nacional ou social, de fortuna, de nascimento ou de qualquer outra situação. Além disso, não será feita nenhuma distinção fundada no estatuto político, jurídico ou internacional do país ou do território da naturalidade da pessoa, seja esse país ou território independente, sob tutela, autônomo ou sujeito a alguma limitação de soberania.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Artigo 3°
 ---------
 
 Todo indivíduo tem direito à vida, à liberdade e à segurança pessoal.
----------------------------------------------------------------------
+
 
 Artigo 4°
 ---------
 
 Ninguém será mantido em escravatura ou em servidão; a escravatura e o trato dos escravos, sob todas as formas, são proibidos.
------------------------------------------------------------------------------------------------------------------------------
+
 
 (Declaração Universal dos Direitos Humanos. Disponível em: \< <https://www.ohchr.org/en/human-rights/universal-declaration/translations/portuguese?LangID=por>\>. Acesso em: mar. 2023. Fragmento)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 5. Qual das alternativas a seguir melhor descreve o objetivo do texto? 
-----------------------------------------------------------------------
+
 
 a) informar
 -----------
@@ -6782,19 +6785,19 @@ d) questionar
 -------------
 
 Resposta: a. O texto tem como objetivo informar leis e regras a serem seguidas.
--------------------------------------------------------------------------------
+
 
 Justificativas:
 ---------------
 
 b) Incorreta. O texto informative não tem a intenção de persuadir o leitor a adotar comportamentos.
----------------------------------------------------------------------------------------------------
+
 
 c) Incorreta. O texto informativo não tem a intenção de divertir o leitor.
---------------------------------------------------------------------------
+
 
 d) Incorreta. O texto informativo não tem a intenção de questionar fatos.
--------------------------------------------------------------------------
+
 
 **Saeb:** Identificar formas de organização de textos normativos, legais
 e/ou reinvindicatórios.
@@ -6821,19 +6824,19 @@ BNCC: **EF69LP20**
 ---------------
 
 **Resposta: a. A mensagem em textos normativos é assertiva pois tem caráter informativo.**
-------------------------------------------------------------------------------------------
+
 
 **Justificativas:**
 -------------------
 
 **b) Incorreta. A mensagem é assertiva e o documento é incontestável.** 
------------------------------------------------------------------------
+
 
 **c) Incorreta. A mensagem não é específica, é assertiva.**
------------------------------------------------------------
+
 
 **d) Incorreta. A mensagem é assertiva, portando, bem direcionada e correta.**
-------------------------------------------------------------------------------
+
 
 **Saeb:** Identificar formas de organização de textos normativos, legais
 e/ou reinvindicatórios.
@@ -6860,19 +6863,19 @@ BNCC: **EF69LP20**
 -----------------
 
 **Resposta: b. A Declaração Universal dos Direitos Humanos é para todas as pessoas.**
--------------------------------------------------------------------------------------
+
 
 **Justificativas:**
 -------------------
 
 **a) Incorreta. O texto direciona-se a todas as pessoas.**
-----------------------------------------------------------
+
 
 **c) Incorreta. O texto não se direciona a acadêmicos apenas, mas sim ao público em geral.**
---------------------------------------------------------------------------------------------
+
 
 **d) Incorreta. O texto não se direciona apenas a políticos, mas ao público em geral.**
----------------------------------------------------------------------------------------
+
 
 **Saeb:** Identificar formas de organização de textos normativos, legais
 e/ou reinvindicatórios.
@@ -6884,34 +6887,34 @@ BNCC: **EF69LP20**
 -----------------
 
 **8. Qual é a linguagem utilizada no texto e como ela contribui para a compreensão geral da mensagem?**
--------------------------------------------------------------------------------------------------------
+
 
 **a) A linguagem é formal e respeita a norma padrão da língua, para que alcance com clareza todas as pessoas.**
----------------------------------------------------------------------------------------------------------------
+
 
 **b) A linguagem é informal e adequada à norma coloquial da língua, para que alcance diversos grupos de pessoas.**
-------------------------------------------------------------------------------------------------------------------
+
 
 **c) A linguagem é técnica e respeita a norma padrão da língua, para que alcance com clareza todas as pessoas.**
-----------------------------------------------------------------------------------------------------------------
+
 
 **d) A linguagem é poética e respeita a norma padrão da língua, para que alcance com clareza todas as pessoas.**
-----------------------------------------------------------------------------------------------------------------
+
 
 **Resposta: a. O texto normativo apresenta uma linguagem formal, respeitando a norma padrão da língua, para que alcance de forma assertiva todas as pessoas.**
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------
 
 **Justificativas:**
 -------------------
 
 **b) Incorreta. A linguagem é formal e respeita a norma padrão da língua.**
----------------------------------------------------------------------------
+
 
 **c) Incorreta. A linguagem é formal, mas não técnica. Por linguagem técnica entende-se a variação linguística típica de alguns grupos, especialmente relacionados a profissões, como exemplo, em manuais técnicos.**
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 **d) Incorreta. A linguagem poética é encontrada em textos literários e geralmente segue a estrutura em estrofes e versos.**
-----------------------------------------------------------------------------------------------------------------------------
+
 
 **Saeb:** Identificar formas de organização de textos normativos, legais
 e/ou reinvindicatórios.
@@ -6926,40 +6929,40 @@ BNCC: **EF69LP20**
 --
 
 ![O pai do Armandinho, o menino de cabelo azul que reflete sobre arte, a política e direitos humanos - Trip](./imgSAEB_6_POR/media/image45.jpeg){width="5.905555555555556in" height="3.3222222222222224in"}
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
-(Fonte: <https://revistatrip.uol.com.br/upload/2019/02/5c6c0cf368385/906x264x960x540x-26x-137/nov20181.jpg>)
-------------------------------------------------------------------------------------------------------------
+\fonte{<https://revistatrip.uol.com.br/upload/2019/02/5c6c0cf368385/906x264x960x540x-26x-137/nov20181.jpg>)
+
 
 O efeito de humor da tirinha é dado a partir de uma ironia, que pode ser identificada
--------------------------------------------------------------------------------------
+
 
 a) na fala do menino no primeiro quadrinho.
 -------------------------------------------
 
 b) na fala do menino no segundo quadrinho, apenas.
---------------------------------------------------
+
 
 c) na fala da menina no segundo quadrinho, apenas.
---------------------------------------------------
+
 
 d) tanto na fala do menino quanto na da menina no segundo quadrinho. 
---------------------------------------------------------------------
+
 
 Resposta: c. A fala da menina é irônica, pois quando ela afirma que é isso que a preocupa, ela está justamente contrariando a orientação do menino.
----------------------------------------------------------------------------------------------------------------------------------------------------
+-------
 
 Justificativas:
 ---------------
 
 a) e b) Incorretaa. O menino não é irônico no texto.
-----------------------------------------------------
+
 
 d) Incorreta. O menino não é irônico no texto. 
 ----------------------------------------------
 
 Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou crítica.
----------------------------------------------------------------------------------
+
 
 BNCC: EF69LP05
 --------------
@@ -6968,7 +6971,7 @@ Nível: médio
 ------------
 
 Leia a notícia a seguir para responder às questões 11 a 13.
------------------------------------------------------------
+
 
 **Câmara aprova projeto que obriga pet shops e clínicas veterinárias a divulgar adoção de animais**
 ===================================================================================================
@@ -6977,16 +6980,15 @@ Leia a notícia a seguir para responder às questões 11 a 13.
 que abrigam animais abandonados*
 
 O Plenário da Câmara dos Deputados aprovou nesta quinta-feira (16) o Projeto de Lei 50/19, do deputado Fred Costa (Patriota-MG), que obriga pet shops, clínicas veterinárias e estabelecimentos semelhantes a fixarem em suas instalações cartazes que facilitem e incentivem a adoção de animais domésticos. O texto será enviado para análise do Senado.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 O objetivo da proposta, segundo Costa, é reduzir o número de animais abandonados nas ruas, sujeitos à violência humana, à incidência de zoonoses e acidentes de trânsito. "Devemos sempre lembrar que, antes de serem 'coisas' de propriedade humana, os animais são seres vivos", justificou o autor do projeto.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 De acordo com o texto aprovado, o cartaz deverá conter o nome da instituição responsável pela oferta (ONG ou entidade defensora dos animais), telefone e e-mail para contato e informações sobre a importância da adoção responsável de animais e os seus benefícios. Os animais deverão ser entregues para adoção vacinados e vermifugados, cabendo os custos aos adotantes ou as instituições responsáveis pela adoção.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-(Fonte: Agência Câmara de Notícias. Disponível em: \< <https://www.camara.leg.br/noticias/945937-camara-aprova-projeto-que-obriga-pet-shops-e-clinicas-veterinarias-a-divulgar-adocao-de-animais>\>. Acesso em: mar. 2023. Adaptado.)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\fonte{Agência Câmara de Notícias. Disponível em: \< <https://www.camara.leg.br/noticias/945937-camara-aprova-projeto-que-obriga-pet-shops-e-clinicas-veterinarias-a-divulgar-adocao-de-animais>\>. Acesso em: mar. 2023. Adaptado.)
 
 11. O principal objetivo da notícia é
 -------------------------------------
@@ -7001,25 +7003,25 @@ c) criticar uma nova diretriz do governo.
 -----------------------------------------
 
 d) fornecer informações sobre pet shops e clínicas veterinárias.
-----------------------------------------------------------------
+
 
 Resposta: a. O objetivo da notícia é informar as pessoas sobre a aprovação de um projeto de lei.
-------------------------------------------------------------------------------------------------
+
 
 Justificativas:
 ---------------
 
 b) Incorreta. O projeto de lei é sobre o incentivo à adoção de animais, e não a notícia incentiva a prática.
-------------------------------------------------------------------------------------------------------------
+
 
 c) Incorreta. A notícia não critica o novo projeto de lei.
-----------------------------------------------------------
+
 
 d) Incorreta. A notícia não informa sobre pet shops e clínicas veterinárias.
-----------------------------------------------------------------------------
+
 
 SAEB: Avaliar a fidedignidade de informações sobre um mesmo fato divulgado em diferentes veículos e mídias.
------------------------------------------------------------------------------------------------------------
+
 
 BNCC: EF06LP01
 --------------
@@ -7028,37 +7030,37 @@ Nível: fácil.
 -------------
 
 12. O trecho "Devemos sempre lembrar que, antes de serem 'coisas' de propriedade humana, os animais são seres vivos" demonstra
-------------------------------------------------------------------------------------------------------------------------------
+
 
 a) um argumento científico que justifica o projeto de lei.
-----------------------------------------------------------
+
 
 b) uma opinião do autor do projeto de lei sobre os animais.
------------------------------------------------------------
+
 
 c) um posicionamento do governo com relação ao projeto de lei.
---------------------------------------------------------------
+
 
 d) um posicionamento da população que justifica o projeto de lei.
------------------------------------------------------------------
+
 
 Resposta: a. Embora tenha sido pronunciada pelo autor do projeto de lei, essa informação é embasada cientificamente, pois os animais de fato são seres vivos antes mesmo de terem um dono, por isso é usada como justificativa plausível para um projeto de lei.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 Justificativas:
 ---------------
 
 b) Incorreta. O autor do projeto tem um ponto de vista que também se embasa no mesmo argumento usado na justificativa para o projeto.
--------------------------------------------------------------------------------------------------------------------------------------
+
 
 c) Incorreta. O governo de modo geral não se manifestou sobre o projeto.
-------------------------------------------------------------------------
+
 
 d) Incorreta. Nem toda a população pode estar de acordo com a justificativa do projeto.
----------------------------------------------------------------------------------------
+
 
 SAEB: Avaliar a fidedignidade de informações sobre um mesmo fato divulgado em diferentes veículos e mídias.
------------------------------------------------------------------------------------------------------------
+
 
 BNCC: EF06LP01
 --------------
@@ -7067,7 +7069,7 @@ Nível: difícil.
 ---------------
 
 13. Qual das alternativas representa o adjetivo que melhor descreve o posicionamento do autor do projeto com relação à causa de animais abandonados? 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+--------
 
 a) apoiador
 -----------
@@ -7082,22 +7084,22 @@ d) indiferente
 --------------
 
 Resposta: a. O criador do projeto de lei mostra-se apoiador da causa de animais abandonados.
---------------------------------------------------------------------------------------------
+
 
 Justificativas:
 ---------------
 
 b) Incorreta. O autor do projeto não critica a causa de animais abandonados, ele apoia a causa.
------------------------------------------------------------------------------------------------
+
 
 c) Incorreta. O argumento para o projeto de lei demonstra também a opinião do autor do projeto com relação à causa.
--------------------------------------------------------------------------------------------------------------------
+
 
 d) Incorreta. O autor do projeto deixa clara sua opinião sobre a causa.
------------------------------------------------------------------------
+
 
 SAEB: Avaliar a fidedignidade de informações sobre um mesmo fato divulgado em diferentes veículos e mídias.
------------------------------------------------------------------------------------------------------------
+
 
 BNCC: EF06LP01
 --------------
@@ -7106,46 +7108,46 @@ Nível: médio.
 -------------
 
 Leia o infográfico a seguir para responder às questões 14 e 15.
----------------------------------------------------------------
+
 
 ![Interface gráfica do usuário, Texto, Linha do tempo Descrição gerada automaticamente](./imgSAEB_6_POR/media/image46.png){width="5.905555555555556in" height="2.88125in"}
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------
 
-Fonte: \< <https://www.medicina.ufmg.br/contato-precoce-com-tecnologia-digital-pode-provocar-danos-a-saude-dos-bebes%EF%BB%BF/>\>.
-----------------------------------------------------------------------------------------------------------------------------------
+\fonte{\< <https://www.medicina.ufmg.br/contato-precoce-com-tecnologia-digital-pode-provocar-danos-a-saude-dos-bebes%EF%BB%BF/>\>.
+
 
 14. Sobre a mensagem apresentada no infográfico, é correto afirmar que
-----------------------------------------------------------------------
+
 
 a) traz informações básicas e direcionadas para qualquer pessoa.
-----------------------------------------------------------------
+
 
 b) tem caráter apelativo e é direcionada a pais e responsáveis.
----------------------------------------------------------------
+
 
 c) são informações técnicas voltadas a profissionais da saúde.
---------------------------------------------------------------
+
 
 d) são informações científicas direcionadas a todas as pessoas.
----------------------------------------------------------------
+
 
 Resposta: d. O infográfico é produzido pela Faculdade de Medicina da Universidade Federal de Minas Gerais e apresenta informações científicas com um texto leve que pode ser compreendido por qualquer leitor.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 Justificativas:
 ---------------
 
 a) Incorreta. O infográfico não traz informações básicas de modo geral, são informações específicas do ponto de vista científico.
----------------------------------------------------------------------------------------------------------------------------------
+
 
 b) Incorreta. O infográfico tem caráter informativo. A linguagem apelativa é típica de propagandas, por exemplo. O texto também pode ser direcionado e compreendido para qualquer leitor.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------
 
 c) Incorreta. O infográfico não apresenta informações técnicas, e sim científicas, e é direcionado a qualquer pessoa.
----------------------------------------------------------------------------------------------------------------------
+
 
 Saeb: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
----------------------------------------------------------------------------------------------------
+
 
 BNCC: **EF69LP02**
 ------------------
@@ -7184,7 +7186,7 @@ d\) Incorreta. O infográfico não menciona apenas a primeira infância;
 ele traz informações sobre crianças com menos de 2 anos até 12 anos.
 
 Saeb: Analisar a relação temática entre diferentes gêneros jornalísticos.
--------------------------------------------------------------------------
+
 
 **BNCC:** EF69LP02
 
@@ -7194,55 +7196,55 @@ SIMULADO 4
 ----------
 
 Leia o texto a seguir para responder às questões 1 a 4.
--------------------------------------------------------
+
 
 Contato com tecnologia digital pode provocar danos aos bebês﻿
--------------------------------------------------------------
+
 
 Antes mesmo de aprender a falar, muitos baixinhos já tateiam as telas de smartphones e tablets feito gente grande. A cena, apesar de cada vez mais comum na era digital, não deveria ser vista com tanta naturalidade. Muito menos incentivada. O alerta dos especialistas é para os danos que o uso desses aparelhos por crianças com menos de 2 anos pode trazer para a saúde. Essa longa lista de prejuízos desbanca qualquer possibilidade de ver vantagem em expor os pequenos precocemente às novas tecnologias. Isso incluiu assistir à vídeos, filmes, jogar videogames em tablet, celular ou qualquer outro aparelho com tela.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 O contato deve ser zero. E o alerta não vem de hoje. A Organização Mundial da Saúde já recomenda que crianças com menos de 2 anos não devem ser expostas às telas digitais, principalmente durante as refeições ou de 1 a 2 horas antes de dormir. A Sociedade Brasileira de Pediatria apresenta o mesmo posicionamento. No Canadá e nos Estados Unidos, especialistas também dizem que os bebês não devem ter contato com as telas.\[\...\]
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 "A luz azul desses dispositivos diminui a produção do hormônio melatonina, essencial para o sono. E nessa fase da vida, o sono é essencial para o desenvolvimento da criança", explica a professora do Departamento de Pediatria da Faculdade de Medicina da UFMG, Liubiana Arantes de Araújo.\[\...\]
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (UFMG. Contato com tecnologia digital pode provocar danos aos bebês﻿. Publicado em 26 abr. 2019. Disponível em: \< <https://www.medicina.ufmg.br/contato-precoce-com-tecnologia-digital-pode-provocar-danos-a-saude-dos-bebes%EF%BB%BF/>\>. Acesso em: mar. 2023. Adaptado.)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Qual das opções abaixo melhor descreve o argumento principal apresentado no artigo? 
---------------------------------------------------------------------------------------
+
 
 a) A tecnologia digital pode causar problemas de desenvolvimento em bebês. 
---------------------------------------------------------------------------
+
 
 b) A tecnologia digital é perigosa para bebês e inofensiva crianças. 
---------------------------------------------------------------------
+
 
 c) Crianças devem ser expostas à tecnologia digital após os dois anos.
-----------------------------------------------------------------------
+
 
 d) Os bebês não devem ser expostos a tecnologias digitais.
-----------------------------------------------------------
+
 
 Resposta: a. Segundo o artigo, o contato dos bebês com tecnologia digital deve ser zero, pois os efeitos da luz azul da tela podem implicar redução de melatonina, que é essencial para o sono, que por sua vez é importante para o desenvolvimento de crianças com idade inferior a 2 anos.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Justificativas:
 ---------------
 
 b) Incorreta. O texto deixa claro o dano a bebês, mas não menciona que uso da tecnologia digital é inofensiva a crianças.
--------------------------------------------------------------------------------------------------------------------------
+
 
 c) Incorreta. O texto orienta que a exposição após os dois anos deve ser feita com cautela, e não que ela deve ser feita.
--------------------------------------------------------------------------------------------------------------------------
+
 
 d) Incorreta. Esta é a tese e não o argumento do artigo.
---------------------------------------------------------
+
 
 Saeb: Identificar elementos constitutivos de gêneros de divulgação científica.
-------------------------------------------------------------------------------
+
 
 BNCC: **EF67LP17**
 ------------------
@@ -7251,7 +7253,7 @@ BNCC: **EF67LP17**
 -------------------
 
 2. Qual é a fonte de evidência apresentada no artigo? 
------------------------------------------------------
+
 
 a) Um único estudo, 
 -------------------
@@ -7266,19 +7268,19 @@ d) Opiniões de especialistas,
 -----------------------------
 
 Resposta: b. Estudos realizados pela OMS, SBP, governos dos Estados Unidos e Canadá embasam as recomendações dos especialistas.
--------------------------------------------------------------------------------------------------------------------------------
+
 
 Justificativas:
 ---------------
 
 a) Incorreto: Estudos realizados pela OMS, SBP, governos dos Estados Unidos e Canadá, e não apenas um desses estudos, embasam as recomendações dos especialistas.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------
 
 c) Incorreto: Estudos realizados pela OMS, SBP, governos dos Estados Unidos e Canadá embasam as recomendações dos especialistas.
---------------------------------------------------------------------------------------------------------------------------------
+
 
 d) Incorreto: As opiniões dos especialistas se embasam em estudos realizados pela OMS, SBP, governos dos Estados Unidos e Canadá 
---------------------------------------------------------------------------------------------------------------------------------
+
 
 BNCC:
 -----
@@ -7287,37 +7289,37 @@ BNCC:
 ---------------------------
 
 a) A tecnologia digital é prejudicial aos bebês, 
-------------------------------------------------
+
 
 b) Os pais devem ser cautelosos ao expor seus bebês à tecnologia digital, 
--------------------------------------------------------------------------
+
 
 c) A tecnologia digital não tem impacto sobre os bebês, 
--------------------------------------------------------
+
 
 d) Os efeitos da tecnologia digital em bebes não são claros.
-------------------------------------------------------------
+
 
 Resposta: a. O artigo é claro em informar que a tecnologia digital é prejudicial, especialmente em bebês (crianças com idade inferior a 2 anos).
-------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
 Justificativas: 
 ---------------
 
 b) Incorreta: A mensagem principal não é que os pais sejam cautelosos, mas sim que permitam zero contato até os 2 anos.
------------------------------------------------------------------------------------------------------------------------
+
 
 c) Incorreta: a mensagem do artigo é exatamente o contrário,
-------------------------------------------------------------
+
 
 d) Incorreta: o Artigo deixa claro os efeitos prejudiciais no desenvolvimento das crianças.
--------------------------------------------------------------------------------------------
+
 
 BNCC
 ----
 
 4. Qual das alternativas melhor descreve a linguagem utilizada no artigo?
--------------------------------------------------------------------------
+
 
 a) Tecnica e científica, 
 ------------------------
@@ -7332,43 +7334,43 @@ d) Ambígua e vaga,
 ------------------
 
 Resposta: c -- embora o texto fale sobre pesquisas científicas e e assuntos relacionados a saúde, o do artigo passa uma mensagem simples e direta aos leitores.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------
 
 Justificativas:
 ---------------
 
 a) O artigo não utiliza linguagem técnica para expor seu argumento.
--------------------------------------------------------------------
+
 
 b) O artigo não utiliza não expõe opiniões próprias ou sentimentos para expor seu argumento.
---------------------------------------------------------------------------------------------
+
 
 d) O artigo expor seu argumento de forma clara, sem possibilidade de interpretação.
------------------------------------------------------------------------------------
+
 
 BNCC:
 -----
 
 Leia os textos 1 e 2, a seguir, para responder às questões 5 e 6.
------------------------------------------------------------------
+
 
 Texto 1
 -------
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Email Descrição gerada automaticamente](./imgSAEB_6_POR/media/image47.png){width="4.808333333333334in" height="4.393312554680665in"}
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------
 
-Fonte: <https://memoria.ebc.com.br/noticias/brasil/2014/05/manifestantes-protestam-contra-copa-no-centro-de-brasilia>. Acesso em: mar. 2023.
---------------------------------------------------------------------------------------------------------------------------------------------
+\fonte{<https://memoria.ebc.com.br/noticias/brasil/2014/05/manifestantes-protestam-contra-copa-no-centro-de-brasilia>. Acesso em: mar. 2023.
+
 
 Texto 2
 -------
 
 ![Linha do tempo Descrição gerada automaticamente com confiança média](./imgSAEB_6_POR/media/image48.jpeg){width="4.125in" height="4.086679790026246in"}
---------------------------------------------------------------------------------------------------------------------------------------------------------
+------------
 
-Fonte: <https://museudememes.com.br/collection/naovaitercopa/nao-vai-ter-copa>
-------------------------------------------------------------------------------
+\fonte{<https://museudememes.com.br/collection/naovaitercopa/nao-vai-ter-copa>
+
 
 5. Qual é a relação entre a notícia e o meme? 
 ---------------------------------------------
@@ -7380,28 +7382,28 @@ b) O meme serve como inspiração para a notícia.
 -----------------------------------------------
 
 c) A notícia e o meme não possuem relação entre si. 
----------------------------------------------------
+
 
 d) A notícia e o meme são formas de comunicação que não se relacionam.
-----------------------------------------------------------------------
+
 
 Resposta: a. O conceito de meme é ressignificar uma mensagem, geralmente, em tom jocoso. No exemplo, temos um texto que se referia à construção de estádios e infraestrutura para a copa do mundo em 2014, em que as pessoas que não apoiavam o evento se utilizavam do jargão "não vai ter copa!", e esse jargão foi utilizado como piada em um "anúncio" de imóvel que não possui o cômodo "copa".
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Justificativas:
 ---------------
 
 b) Incorreta. Nos textos de referência, a notícia serve de inspiração para o meme.
-----------------------------------------------------------------------------------
+
 
 c) Incorreta. Nos textos de referência, a notícia o meme estão relacionados.
-----------------------------------------------------------------------------
+
 
 d) Incorreta. Nos textos de referência, a notícia o meme estão relacionados.
-----------------------------------------------------------------------------
+
 
 Saeb: Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
------------------------------------------------------------------------------------------------------------------
+
 
 BNCC: EF69LP44
 --------------
@@ -7410,37 +7412,37 @@ Nível: médio.
 -------------
 
 6. O propósito da intertextualidade entre a notícia e o meme é 
---------------------------------------------------------------
+
 
 a) fornecer contexto adicional para a notícia. 
 ----------------------------------------------
 
 b) aumentar o engajamento da narrativa da notícia. 
---------------------------------------------------
+
 
 c) criticar ou parodiar a notícia. 
 ----------------------------------
 
 d) complementar o assunto abordado pela notícia.
-------------------------------------------------
+
 
 Resposta: c. Geralmente o meme surge como uma paródia ou crítica à uma notícia ou fato do momento. O meme do Texto 2 se relaciona à notícia fazendo uma paródia entre "copa do mundo" e o cômodo "copa".
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 Justificativas:
 ---------------
 
 a) Incorreta. O meme não gera um contexto adicional, mas sim pega uma parte da notícia e a utiliza em outro contexto, com outra mensagem.
------------------------------------------------------------------------------------------------------------------------------------------
+
 
 b) Incorreta. O meme em si é feito para viralizar, porém o engajamento ocorre em torno da piada, e não no texto original.
--------------------------------------------------------------------------------------------------------------------------
+
 
 d) Incorreta. O meme da coletânea não serve como complemento para a notícia.
-----------------------------------------------------------------------------
+
 
 Saeb: Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
------------------------------------------------------------------------------------------------------------------
+
 
 BNCC: EF69LP44
 --------------
@@ -7451,16 +7453,16 @@ Nível: difícil
  
 
 Leia o cordel a seguir para responder às questões 7 a 10.
----------------------------------------------------------
+
 
 ![Texto Descrição gerada automaticamente](./imgSAEB_6_POR/media/image49.png){width="2.7752405949256342in" height="5.66715769903762in"}
---------------------------------------------------------------------------------------------------------------------------------------
+
 
 Disponível em: <http://www.ablc.com.br/e-tudo-vem-a-ser-nada/>.
----------------------------------------------------------------
+
 
 7. Em determinado verso, o autor do poema refere-se a si mesmo por meio do pronome
-----------------------------------------------------------------------------------
+
 
 a) ele. 
 -------
@@ -7475,22 +7477,22 @@ d) nós.
 -------
 
 Resposta: d. O autor se inclui em uma ação comum a todas as pessoas e acaba referindo a si mesmo na primeira pessoa do plural: nós, em "Vemos um rico pomposo".
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------
 
 Justificativas:
 ---------------
 
 a) Incorreta. O autor utiliza a terceira pessoa do singular para referir-se ao "rico pomposo". Mesmo assim, o pronome é oculto.
--------------------------------------------------------------------------------------------------------------------------------
+
 
 b) Incorreta. O autor utiliza a terceira pessoa do singular no feminino, porém o pronome é oculto.
---------------------------------------------------------------------------------------------------
+
 
 c) Incorreta. O autor não utiliza terceira pessoa do plural.
-------------------------------------------------------------
+
 
 Saeb: Analisar os processos de referenciação lexical e pronominal.
-------------------------------------------------------------------
+
 
 BNCC: EF06LP12
 --------------
@@ -7499,7 +7501,7 @@ Nível: difícil
 --------------
 
 8. Qual é a função do "Se", na frase \"Se julgando poderosa"?
--------------------------------------------------------------
+
 
 a) Pronome reflexivo. 
 ---------------------
@@ -7514,22 +7516,22 @@ d) Pronome interrogativo.
 -------------------------
 
 Resposta: a. O "se" é um pronome reflexivo. Nessa construção, o sujeito é "tanta gente orgulhosa" e comete a ação sobre si mesmo.
----------------------------------------------------------------------------------------------------------------------------------
+
 
 Justificativas: 
 ---------------
 
 b) Incorreta. Os pronomes demonstrativos são usados para apontar a relação de distância (de lugar ou de tempo) entre o nome ao qual se referem e as pessoas do discurso.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------
 
 c) Incorreta. Os pronomes indefinidos são aqueles que se referem à terceira pessoa do discurso de forma vaga, imprecisa e genérica.
------------------------------------------------------------------------------------------------------------------------------------
+
 
 d) Incorreta. Os pronomes interrogativos são aqueles que utilizamos nas construções de perguntas diretas ou indiretas: que, quem, qual, quanto.
------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 Saeb: Analisar os processos de referenciação lexical e pronominal.
-------------------------------------------------------------------
+
 
 BNCC: EF06LP12
 --------------
@@ -7538,7 +7540,7 @@ Nível: difícil
 --------------
 
 9. O que o autor quis dizer com a frase \"tudo vem a ser nada\", no título do cordel? 
--------------------------------------------------------------------------------------
+
 
 a) Nada tem sentido. 
 --------------------
@@ -7553,22 +7555,22 @@ d) Tudo é eterno.
 -----------------
 
 Resposta: c. O cordel fala sobre a temporalidade das coisas, que de repente se tem tudo o que é material, mas quando a pessoa morre, por exemplo, tudo pode virar nada.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------
 
 Justificativas:
 ---------------
 
 a) Incorreta. O cordel dá sentido às coisas e diz que de repente elas podem perder o sentido.
----------------------------------------------------------------------------------------------
+
 
 b) Incorreta. O autor não fala do propósito das coisas no texto, ele menciona quando é que as coisas perdem o propósito.
-------------------------------------------------------------------------------------------------------------------------
+
 
 d) Incorreta. O cordel fala justamente sobre a temporalidade das coisas.
-------------------------------------------------------------------------
+
 
 Saeb: Inferir a presença de valores sociais, culturais e humanos em textos literários.
---------------------------------------------------------------------------------------
+
 
 BNCC: EF69LP47
 --------------
@@ -7577,7 +7579,7 @@ Nível: difícil
 --------------
 
 10. Que figura de linguagem é utilizada quando o autor escreve: \"O tempo se alonga como se fosse infinito e a gente se sente dono dele\"? 
-------------------------------------------------------------------------------------------------------------------------------------------
+
 
 (A) Metáfora, 
 -------------
@@ -7604,10 +7606,10 @@ BNCC:
 ---
 
 ![Diagrama, Aplicativo Descrição gerada automaticamente](./imgSAEB_6_POR/media/image50.png){width="4.777587489063867in" height="5.95in"}
-----------------------------------------------------------------------------------------------------------------------------------------
 
-Fonte: <https://www.instagram.com/p/CkJ4ETwg5Kv/?hl=pt>
--------------------------------------------------------
+
+\fonte{<https://www.instagram.com/p/CkJ4ETwg5Kv/?hl=pt>
+
 
 O que provoca o efeito de humor da tirinha?
 
@@ -7645,49 +7647,49 @@ Nível: médio.
 -------------
 
 Leia um trecho da peça "Auto da compadecida", de Ariano Suassuna, e responda às questões 12 a 15.
--------------------------------------------------------------------------------------------------
+
 
 CHICÓ
 -----
 
 Isso não vai dar certo. Você já começa com suas coisas, João. E havia necessidade de inventar que era empregado de Antônio Morais?
-----------------------------------------------------------------------------------------------------------------------------------
+
 
 JOÃO GRILO
 ----------
 
 Meu filho, empregado do major e empregado de um amigo do major é quase a mesma coisa. O padeiro vive dizendo que é amigo do homem, de modo que a diferença é muito pouca. Além disso, eu podia perfeitamente ter sido mandado pelo major, porque o filho dele está doente e pode até precisar do padre.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 CHICÓ
 -----
 
 João, deixe de agouro com o menino, que isso pode se virar por cima de você.
-----------------------------------------------------------------------------
+
 
 JOÃO GRILO
 ----------
 
 E você deixe de conversa. Nunca vi homem mais mole do que você, Chicó. O padeiro mandou você arranjar o padre para benzer o cachorro e eu arranjei sem ter sido mandado. Que é que você quer mais?
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 CHICÓ
 -----
 
 Ih, olha como isso está pegado com o patrão! Faz gosto um empregado dessa qualidade.
-------------------------------------------------------------------------------------
+
 
 JOÃO GRILO
 ----------
 
 Muito pelo contrário, ainda hei de me vingar do que ele e a mulher me fizeram quando estive doente. Três dias passei em cima de uma cama para morrer e nem um copo dágua me mandaram. Mas fiz esse trabalho somente porque se trata de enganar o padre. Não vou com aquela cara.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 (SUASSUNA, Ariano. Auto da Compadecida. 34 ed./3ª imp. Rio de Janeiro: Agir, 1999. Fragmento.)
-----------------------------------------------------------------------------------------------
+
 
 12. Qual variação está presente na seguinte frase de 'Auto da Compadecida': \"João, deixe de agouro com o menino, que isso pode se virar por cima de você.\"? 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------
 
 a) Histórica
 ------------
@@ -7702,22 +7704,22 @@ d) Geográfica
 -------------
 
 Resposta: d. No trecho, a variação linguística está relacionada à localização geográfica em que a história se passa, ou seja, no Nordeste do Brasil. A expressão "deixe de agouro com o menino" também pode significar "não deseje mal para o menino", em outras regiões do Brasil.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 Justificativas
 --------------
 
 a) Incorreta. A variação histórica ocorre quando a sentença apresenta termos que já caíram em desuso.
------------------------------------------------------------------------------------------------------
+
 
 b) Incorreta. A variação social é o tipo de linguagem utilizada por determinado grupo social, que por preferências, atividades e ou nível socioeconômico adota um linguajar próprio.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------
 
 c) Incorreta. A variação estilística ocorre quando o falante altera seu estilo de linguagem a fim de se adequar a contextos distintos. 
---------------------------------------------------------------------------------------------------------------------------------------
+
 
 Saeb: Analisar as variedades linguísticas em textos.
-----------------------------------------------------
+
 
 BNCC: EF69LP55
 --------------
@@ -7726,13 +7728,13 @@ Nível: médio
 ------------
 
 13. A frase \"pegado com o patrão\", no contexto apresentado, significa que o empregado 
----------------------------------------------------------------------------------------
+
 
 a) tem uma boa relação com o patrão. 
 ------------------------------------
 
 b) está agindo de forma inapropriada com o patrão.
---------------------------------------------------
+
 
 c) está trabalhando arduamente para o patrão. 
 ---------------------------------------------
@@ -7741,22 +7743,22 @@ d) não está fazendo seu trabalho corretamente.
 ----------------------------------------------
 
 Resposta: c. Perceba que no trecho anterior João Grilo diz a Chicó que arranjou um padre para o padeiro sem nem ter sido mandando. Ou seja, ele trabalhou arduamente para o patrão.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------
 
 Justificativas:
 ---------------
 
 a) Incorreta. João Grilo não tem uma boa relação com o patrão, o que se confirma no trecho seguinte, em "Muito pelo contrário, ainda hei de me vingar do que ele e a mulher me fizeram quando estive doente."
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 b) Incorreta. Estar "pegado" significa próximo, trabalhando duro, e não agindo de forma inapropriada.
------------------------------------------------------------------------------------------------------
+
 
 d) Incorreta. João Grilo deixa claro o quanto trabalha duro, por isso estava tão chateado com o patrão, por não ter reconhecimento nem quando estava doente.
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------
 
 Saeb: Analisar as variedades linguísticas em textos.
-----------------------------------------------------
+
 
 BNCC: EF69LP55
 --------------
@@ -7765,16 +7767,16 @@ Nível: médio
 ------------
 
 Leia o texto a seguir para responder às questões 14 e 15.
----------------------------------------------------------
+
 
 ![Texto Descrição gerada automaticamente](./imgSAEB_6_POR/media/image51.png){width="5.905555555555556in" height="5.905555555555556in"}
---------------------------------------------------------------------------------------------------------------------------------------
 
-Fonte: \< <https://tubarao.sc.gov.br/uploads/sites/265/2022/01/3172563.png>\>.
-------------------------------------------------------------------------------
+
+\fonte{\< <https://tubarao.sc.gov.br/uploads/sites/265/2022/01/3172563.png>\>.
+
 
 14. Qual é o objetivo do texto contido na imagem? 
--------------------------------------------------
+
 
 a) Anunciar um evento.
 ----------------------
@@ -7789,19 +7791,19 @@ d) Exibir um manual de instrução.
 ---------------------------------
 
 Resposta: c. O texto é um anúncio de uma campanha de vacinação para crianças e jovens a partir de 12 anos de idade.
--------------------------------------------------------------------------------------------------------------------
+
 
 Justificativas:
 ---------------
 
 a) Incorreta. Embora o texto informe sobre um evento fictício, o objetivo da campanha é chamar os jovens, especialmente os que conhecem o anime, para a campanha de vacinação.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------
 
 b) Incorreta. O texto promove a campanha de vacinação, e não a vacina em si.
-----------------------------------------------------------------------------
+
 
 d) Incorreta: O texto não é um manual de instrução e sim uma campanha publicitária.
------------------------------------------------------------------------------------
+
 
 Saeb: Identificar elementos constitutivos de textos pertencentes ao
 domínio jornalístico/midiático.
@@ -7811,7 +7813,7 @@ BNCC: EF69LP02
 Nível: fácil
 
 15. Qual o objetivo do evento mencionado no texto?
---------------------------------------------------
+
 
 a) Promover saúde e bem-estar.
 ------------------------------
@@ -7826,19 +7828,19 @@ d) Promover cultura e entretenimento.
 -------------------------------------
 
 Resposta: a. O evento divulgado é uma campanha de vacinação para crianças e jovens com idade a partir de 12 anos.
------------------------------------------------------------------------------------------------------------------
+
 
 Justificativas:
 ---------------
 
 b) Incorreta: O evento trata de uma campanha de vacinação, direcionada à saúde e bem-estar do público-alvo.
------------------------------------------------------------------------------------------------------------
+
 
 c) Incorreta: O anime utilizado para promover o evento pode estar relacionado a games e inovação, mas o objetivo do evento é promover saúde e bem-estar.
---------------------------------------------------------------------------------------------------------------------------------------------------------
+------------
 
 d) Incorreta: A campanha utiliza uma imagem familiar aos jovens para promover a vacinação direcionada à saúde e bem-estar do público-alvo.
-------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Saeb: Identificar elementos constitutivos de textos pertencentes ao
 domínio jornalístico/midiático.

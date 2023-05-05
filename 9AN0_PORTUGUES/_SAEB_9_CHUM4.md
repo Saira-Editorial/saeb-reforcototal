@@ -14,7 +14,7 @@ O poder, por sua vez, pode ser exercido dentro ou fora dessas instituições, ta
 
 As instituições do estado podem ser vistas como um meio de equilibrar as relações de poder, estabelecendo regras claras e garantindo a participação cidadã nas decisões políticas. No entanto, as instituições também podem ser usadas como mecanismos de controle e dominação por parte dos grupos dominantes, reforçando as desigualdades sociais e econômicas. Portanto, a relação entre poder, estado e instituições é dinâmica e exige uma análise crítica constante para entender e promover a justiça e a igualdade na sociedade.}
 
-Atividades
+\colorsec{Atividades}
 
 Leia o texto para resolver as atividades 1 e 2.
 
@@ -63,7 +63,7 @@ enfrentamento?
 
 > Mais de um quarto dos bairros do Rio de Janeiro (25,5%) estão sob o controle das milícias, abrangendo 57,5% do território da cidade. As três principais facções criminosas envolvidas no tráfico de drogas - Comando Vermelho, Terceiro Comando e Amigos dos Amigos - controlam juntas 34,2% dos bairros e 15,4% do território. Isso significa que cerca de 3,7 milhões de pessoas vivem em áreas dominadas por grupos criminosos, o que equivale a 57,1% da população da cidade.
 
-~Fonte de pesquisa: Aiuri Rebello. El País. Milícias já dominam um quarto dos bairros do Rio de Janeiro, com quase 60% do território da cidade. Disponível\ em:\ https://brasil.elpais.com/brasil/2020-10-19/milicias-ja-dominam-um-quarto-dos-bairros-do-rio-de-janeiro-com-quase-60-do-territorio-da-cidade.html.\ Acesso\ em:\ 03\ mar.\ 2023.~
+\fonte{de pesquisa: Aiuri Rebello. El País. Milícias já dominam um quarto dos bairros do Rio de Janeiro, com quase 60% do território da cidade. Disponível\ em:\ https://brasil.elpais.com/brasil/2020-10-19/milicias-ja-dominam-um-quarto-dos-bairros-do-rio-de-janeiro-com-quase-60-do-territorio-da-cidade.html.\ Acesso\ em:\ 03\ mar.\ 2023.~
 
 O fortalecimento de grupos criminosos tem sido uma constante nas últimas
 décadas no Brasil, mais especificamente no estado do Rio de Janeiro. A
@@ -82,7 +82,7 @@ expansão.}
 
 > A Comissão antiviolência da federação espanhola anunciou as punições decorrentes das vaias ao hino espanhol durante a final da Copa do Rei entre Barcelona e Athletic Bilbao. O clube catalão, campeão do torneio, recebeu a multa mais pesada dos dois finalistas, no valor de 60 mil euros (cerca de R$ 246 mil). Já o Bilbao, vice-campeão, foi multado em 18 mil euros (cerca de R$ 67 mil). Embora as vaias tenham partido da torcida catalã, a comissão antiviolência decidiu punir o clube por omissão às ameaças de vaia, que já eram previamente conhecidas.
 
-~Fonte de pesquisa: Extra. Vaias ao hino espanhol na final da Copa do Rei rendem multa de R$ 246 mil ao Barcelona. Disponível\ em:\ https://extra.globo.com/esporte/vaias-ao-hino-espanhol-na-final-da-copa-do-rei-rendem-multa-de-246-mil-ao-barcelona-16981835.html.\ Acesso\ em:\ 03\ mar.\ 2023.~
+\fonte{de pesquisa: Extra. Vaias ao hino espanhol na final da Copa do Rei rendem multa de R$ 246 mil ao Barcelona. Disponível\ em:\ https://extra.globo.com/esporte/vaias-ao-hino-espanhol-na-final-da-copa-do-rei-rendem-multa-de-246-mil-ao-barcelona-16981835.html.\ Acesso\ em:\ 03\ mar.\ 2023.~
 
 A população da Catalunha e dos Países Bascos, sedes dos clubes Barcelona
 e Athletic Bilbao, respectivamente, reconhecem-se enquanto espanhóis.
@@ -157,7 +157,7 @@ formação de um novo Estado. Por isso, é importante que ocorra a
 manifestação dos locais, na tentativa de tentar transmitir o sentimento
 nacional, divergente da unidade territorial espanhola.}
 
-**Treino**
+\colorsec{Treino}
 
 \num{1} Leia o texto.
 
@@ -165,7 +165,7 @@ nacional, divergente da unidade territorial espanhola.}
 
 >Na noite deste domingo (1º), o presidente da Catalunha, Carles Puigdemont, declarou que o referendo sobre a independência da região da Espanha concedeu à Catalunha o "direito de ser um Estado". Segundo ele, os cidadãos catalães conquistaram "o direito de ter um estado independente na forma de uma república" e "o direito de serem ouvidos, respeitados e reconhecidos". O referendo resultou em uma vitória esmagadora do "Sim", com 90,09% dos votos (2.020.144 votos), enquanto o "Não" obteve 7,87% (176.565 votos). Os votos em branco foram 2,03% (45.586); os nulos, 0,89% (20.129). De acordo com o governo catalão, foram registrados um total de 2.262.424 votos.
 
-~Fonte de pesquisa: G1. Independência da Catalunha vence referendo com 90% dos votos, diz governo catalão. Disponível em: https://g1.globo.com/mundo/noticia/presidente-catalao-diz-que-catalunha-ganhou-direito-de-ser-um-estado-premie-espanhol-afirma-que-nao-houve-referendo.ghtml. Acesso em: 08 mar. 2023.~
+\fonte{de pesquisa: G1. Independência da Catalunha vence referendo com 90% dos votos, diz governo catalão. Disponível em: https://g1.globo.com/mundo/noticia/presidente-catalao-diz-que-catalunha-ganhou-direito-de-ser-um-estado-premie-espanhol-afirma-que-nao-houve-referendo.ghtml. Acesso em: 08 mar. 2023.~
 
 Tendo em vista a aprovação do referendo, conclui-se que os catalães
 demonstraram
@@ -248,7 +248,7 @@ públicas.
 
 > Alexandre José Borjaili, presidente da Associação Brasileira dos Revendedores de GLP (Asmirg) há 15 anos, lamenta a situação do mercado de gás no Rio de Janeiro, que se tornou uma realidade à parte no setor. Mesmo com revendas regularizadas, funcionários correm risco de morte ao fazer negócios fora do estabelecimento. Segundo ele, de 70% a 80% do mercado do estado está nas mãos do crime organizado, tornando difícil para qualquer ação do governo chegar ao consumidor final. Borjaili ressalta que essa realidade não se aplica apenas ao vale-gás, mas também quando há controle de preços por políticas estatais. Se o crime controla a venda, qualquer ação governamental acaba sendo inútil.
 
-~Fonte de pesquisa: Luã Marinatto. Extra. Tráfico e milícia já controlam 80% da venda de botijões de gás no estado do Rio. Disponível\ em:\ https://extra.globo.com/casos-de-policia/trafico-milicia-ja-controlam-80-da-venda-de-botijoes-de-gas-no-estado-do-rio-25365008.html.\ Acesso\ em\: 03\ mar.\ 2023.~
+\fonte{de pesquisa: Luã Marinatto. Extra. Tráfico e milícia já controlam 80% da venda de botijões de gás no estado do Rio. Disponível\ em:\ https://extra.globo.com/casos-de-policia/trafico-milicia-ja-controlam-80-da-venda-de-botijoes-de-gas-no-estado-do-rio-25365008.html.\ Acesso\ em\: 03\ mar.\ 2023.~
 
 A situação descrita no texto exemplifica
 
@@ -276,259 +276,3 @@ de gás em áreas de comunidade, impondo seus preços e locais de
 compra, à revelia das determinações do Estado e de sua regulação de preços.
 A "obediência" às regras impostas pelo crime organizado é explicada
 pela manutenção da segurança e da integridade dos populares.
-
-**SIMULADO**
-
-\num{1} Leia os trechos a seguir:
-
-**Texto I**
-
-*O presidente palestino, Mahmud Abbas, pediu nesta segunda-feira (22)
-que a União Europeia (UE) reconheça \"rapidamente\" um Estado palestino
-independente, em uma visita a Bruxelas na qual busca o apoio europeu
-após a decisão de Washington de reconhecer Jerusalém como a capital de
-Israel.*
-
-~Disponível\ em:\ https://www.em.com.br/app/noticia/internacional/2018/01/22/interna\_internacional,932677/presidente-palestino-urge-a-ue-reconhecimento-de-estado-independente.shtml.\ Acesso\ em\ 03\ mar.\ 2023.~
-
-**Texto II**
-
-*Em janeiro de 2014, os partidos curdos, incluindo o dominante Partido
-da União Democrática (PYD), declararam a criação de \"administrações
-autônomas\" nos três rincões de Afrin, Kobane e Jazira.*
-
-*Em março de 2016, anunciaram o estabelecimento de um \"sistema
-federal\" que incluía principalmente áreas árabes e turcomenas
-capturadas durante batalhas contra o Estado Islâmico.*
-
-*O anúncio foi rejeitado pelo governo sírio, pela oposição síria, pela
-Turquia e pelos EUA.*
-
-~Disponível\ em:\ https://www.bbc.com/portuguese/internacional-50012988.\ Acesso\ em:\ 03\ mar.\ 2023.~
-
-Os exemplos acima demonstram que a formação de Estados independentes
-carece também
-
-a\) da adoção de um sistema federalista.
-
-b\) de reconhecimento internacional.
-
-c\) da criação de partidos políticos.
-
-d\) do estabelecimento de uma capital.
-
-SAEB: Tematiza formas de poder não estatais, como as de caráter
-religioso e científico, para abordar questões relativas à regulação das
-condutas sociais, ao funcionamento das estruturas sociopolíticas e, em
-âmbito internacional, às relações entre nações e organismos
-multilaterais. Nessa perspectiva, considera os territórios, os processos
-de disputa e construção de fronteiras e as trajetórias de consolidação e
-manutenção de poder em diferentes momentos, lugares e escalas.
-
-BNCC: (EF09GE08) Analisar transformações territoriais, considerando o
-movimento de fronteiras, tensões, conflitos e múltiplas regionalidades
-na Europa, na Ásia e na Oceania.
-
-a\) INCORRETA. A formação de um Estado independente não está
-relacionada, diretamente, à forma de governo adotada e a organização
-política interna.
-
-b\) CORRETA. Os exemplos mostram que os palestinos foram buscar
-reconhecimento do seu Estado junto à União Europeia (UE), importante
-agente internacional. Sendo assim, uma das formas de formar e assegurar
-a continuidade de um Estado nacional é o reconhecimento externo. Já no
-caso dos curdos, o contrário, houve a organização interna, contudo, não
-houve reconhecimento internacional, o que dificulta a formação do
-Estado.
-
-c\) INCORRETA. A formação de um Estado independente não está relacionada
-à formação de partidos políticos.
-
-d\) INCORRETA. A formação de um Estado independente não está relacionada
-ao estabelecimento de uma capital.
-
-\num{2} Leia o trecho a seguir:
-
-*Em muitas cidades ingovernáveis, o estado geralmente não pode
-proporcionar a lei e ordem e responder às necessidades básicas de
-segurança e é substituído por uma grande variedade de sistemas
-alternativos e ilegais de segurança* \[\...\]
-
-~BLICKMAN,\ Tom;\ Insegurança\ humana\ e\ mercados\ de\ violência;\ In:\ RIBEIRO,\ Paulo\ Jorge;\ OLIVEIRA,\ Roseane;\ O\ impacto\ da\ ação\ das\ milícias\ em\ relação\ às\ políticas\ públicas\ de\ segurança\ no\ rio\ de\ Janeiro.\ Amsterdam,\ dezembro\ de\ 2009.\ ISSN\ 1871-3408.~
-
-A situação descrita no trecho exemplifica
-
-a)  o vácuo de poder deixado pelo Estado.
-
-b)  o gerenciamento popular de demandas comuns.
-
-c)  a concessão de legitimidade ao crime organizado.
-
-d)  a opção deliberada no oferecimento de segurança pública.
-
-SAEB: Tematiza formas de poder não estatais, como as de caráter
-religioso e científico, para abordar questões relativas à regulação das
-condutas sociais, ao funcionamento das estruturas sociopolíticas e, em
-âmbito internacional, às relações entre nações e organismos
-multilaterais.
-
-a\) CORRETA. A atuação do crime organizado, no caso do oferecimento de
-segurança por agentes do crime organizado, se dá pelo vácuo de poder
-deixado pelo Estado, e cooptado pelos criminosos. Na ausência de um
-agente regulador os criminosos impõem sua lógica aos habitantes locais,
-referendados pelo aparato bélico, que depois utilizam para combater o
-próprio Estado e manter o controle territorial.
-
-b\) INCORRETA. Na situação descrita não há o envolvimento popular no
-controle da segurança oferecida, pelo contrário, a lógica dos criminosos
-é imposta, com os populares seguindo suas regras.
-
-c\) INCORRETA. O crime organizado não tem suas ações, e existência, tida
-como legitima, uma vez que, o monopólio da violência pertence somente ao
-Estado.
-
-d\) INCORRETA. Nas áreas de controle do crime organizado não há uma
-opção ou alternativa paralela no oferecimento da segurança.
-
-\num{3} Leia o trecho sobre o Movimento dos Trabalhadores Rurais Sem Terra
-(MST):
-
-\[\...\] *Organizado nacionalmente, ele se constitui no principal
-movimento social no campo e busca, através das ocupações de terras,
-criar fatos políticos que mobilizem e sensibilizem os governantes para a
-necessidade da reforma agrária. Esse movimento utiliza-se também das
-caminhadas pelas estradas até as capitais, onde se realizam
-manifestações e ocupações de repartições públicas para pressionar os
-governos.*
-
-~OLIVEIRA,\ Ariovaldo\ Umbelino\ de.\ Os\ Movimentos\ Sociais\ no\ Campo\ e\ a\ Reforma\ Agrária\ no\ Brasil.\ In:\ Geografia\ do\ Brasil.\ São\ Paulo:\ EDUSP.\ Acesso\ em:\ 04\ mar.\ 2023.~
-
-A finalidade do movimento social citado compreende
-
-a)  a correção de uma assimetria criada pelo Estado brasileiro ao longo
-    do tempo.
-
-b)  a promoção de insegurança aos produtores rurais do agronegócio
-    nacional.
-
-c)  a ampliação das relações entre pequenos e grandes produtores
-    agrícolas.
-
-d)  a centralização e o direcionamento da produção agrícola nacional.
-
-SAEB: Aborda as representações, as relações de poder e de dominação, bem
-como as diversas formas de organização política, abrangendo questões
-pertinentes às nações, aos povos, às lutas por reformas, guerras e
-revoluções.
-
-a\) CORRETA. A reforma agrária no Brasil visa corrigir um aspecto
-histórico na estrutura fundiária brasileira, pautada historicamente pelo
-latifúndio. Dessa forma, o MST tem como finalidade forçar o Estado
-nacional a corrigir uma assimetria fomentada ao longo do tempo.
-
-b\) INCORRETA. A luta pela reforma agrária no Brasil não visa prejudicar
-os negócios do agronegócio nacional, muito menos promover insegurança
-aos seus produtores.
-
-c\) INCORRETA. De acordo com o excerto, o MST não tem como finalidade
-intermediar a relação entre pequenos e grandes produtores agrícolas.
-
-d\) INCORRETA. De acordo com o excerto, o MST não tem como finalidade
-centralizar e direcionar a produção agrícola nacional.
-
-\num{4} Leia o trecho a seguir.
-
-\[\...\] *Tensões entre judeus e não judeus alcançaram o ponto de
-ebulição, e em 1948 uma Grã-Bretanha exausta entregou o problema para as
-Nações Unidas, a qual votou por dividir a região em dois países. Os
-judeus concordaram, os árabes disseram "Não".*
-
-~MARSHALL,\ Tim.\ Prisioneiros\ da\ Geografia.\ 10\ mapas\ que\ explicam\ tudo\ o\ que\ você\ precisa\ saber\ sobre\ política\ global.\ Tradução:\ Maria\ Luiza\ X.\ de\ A.\ Borges.~
-
-A situação apresentada faz referência à disputa
-
-a)  política entre Iraque e Irã.
-
-b)  bélica entre a Síria e o Líbano.
-
-c)  territorial entre Israel e Palestina.
-
-d)  diplomática entre Iêmen e Arábia Saudita.
-
-SAEB: Tematiza formas de poder não estatais, como as de caráter
-religioso e científico, para abordar questões relativas à regulação das
-condutas sociais, ao funcionamento das estruturas sociopolíticas e, em
-âmbito internacional, às relações entre nações e organismos
-multilaterais. Nessa perspectiva, considera os territórios, os processos
-de disputa e construção de fronteiras e as trajetórias de consolidação e
-manutenção de poder em diferentes momentos, lugares e escalas.
-
-BNCC: (EF09GE08) Analisar transformações territoriais, considerando o
-movimento de fronteiras, tensões, conflitos e múltiplas regionalidades
-na Europa, na Ásia e na Oceania.
-
-a\) INCORRETA. As relações envolvendo Iraque e Irã não envolvem a
-disputa entre judeus e árabes.
-
-b\) INCORRETA. As relações envolvendo Síria e Líbano não envolvem a
-disputa entre judeus e árabes.
-
-c\) CORRETA. Judeus e árabes têm a sua disputa mais conhecida envolvendo
-a formação do Estado de Israel, judeu, e o impedimento à formação do
-Estado da Palestina, árabe. Não bastasse ambos estarem situados no mesmo
-território, Israel vem incorporando ao Estado áreas destinadas aos
-palestinos.
-
-d\) INCORRETA. As relações envolvendo Iêmen e Arábia Saudita não
-envolvem a disputa entre judeus e árabes.
-
-\num{5} Leia o trecho a seguir:
-
-**Entenda quem são os curdos, povo no centro da disputa entre Turquia e
-EUA**
-
-Maior nação apátrida do mundo, etnia se divide em 5 países e ajudou EUA
-a derrotar Estado Islâmico na Síria
-
-***Quem são e onde vivem os curdos?***
-
-*Descendentes da Pérsia antiga, os curdos são hoje a maior nação
-apátrida do mundo, com população entre 30 e 40 milhões de pessoas. Desde
-4.300 a.C., eles habitam uma grande região montanhosa de 500 mil km² que
-se estende por Irã, Iraque, Síria, Armênia e Turquia. Essa região
-histórico-cultural é conhecida como Curdistão.*
-
-~Adaptado\ de:\ https://www1.folha.uol.com.br/mundo/2019/10/entenda-quem-sao-os-curdos-a-maior-nacao-apatrida-do-mundo.shtml.\ Acesso\ em:\ 04\ mar.\ 2023.~
-
-A característica apátrida dos povos curdos denota a ausência
-
-a)  de uma cultura nacional.
-
-b)  de um território próprio.
-
-c)  de um idioma comum.
-
-d)  de um dialeto.
-
-SAEB: Aborda as representações, as relações de poder e de dominação, bem
-como as diversas formas de organização política, abrangendo questões
-pertinentes às nações, aos povos, às lutas por reformas, guerras e
-revoluções.
-
-a\) INCORRETA. O termo apátrida compreende as pessoas que não apresentam
-uma nacionalidade, e não está diretamente relacionado aos aspectos
-culturais.
-
-b\) CORRETA. Os curdos são apátridas por não ter o sentimento de
-pertencimento aos países onde habitam, no caso, Irã, Síria, Armênia,
-Turquia e Iraque. Dessa forma, evidencia-se que os curdos carecem de um
-território próprio para a formação do seu Estado, no caso, o Curdistão.
-
-c\) INCORRETA. O termo apátrida compreende as pessoas que não apresentam
-uma nacionalidade, e não está diretamente relacionado aos aspectos
-linguísticos.
-
-d\) INCORRETA. O termo apátrida compreende as pessoas que não apresentam
-uma nacionalidade, e não está diretamente relacionado aos dialetos
-locais.
-
