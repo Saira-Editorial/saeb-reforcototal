@@ -99,7 +99,7 @@ seu lugar na fila etc. Propor que os alunos reflitam sobre onde eles
 utilizam os números no cotidiano, desde a hora que acordam até a hora de
 dormir.
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Complete as lacunas abaixo com os numeros primos entre 2 e 65
 
@@ -318,7 +318,7 @@ para escrever qualquer número. Além disso, esse sistema de numeração é
 posicional; isso quer dizer que a posição do algarismo indica o seu
 valor numérico.
 
-Treino
+\colorsec{Treino}
 
 1\) O maior cometa já descoberto é o Holmes, que possui 2 251 km de
 diâmetro
@@ -536,7 +536,7 @@ Produzir uma figura semelhante a essa nos moldes do projeto.
 Educação](./imgSAEB_6_MAT/media/image22.png){width="1.0930238407699038in"
 height="1.8034897200349955in"}
 
-Atividades
+\colorsec{Atividades}
 
 1\) Adriana e Marina são jogadoras de Vôlei, em uma partida Adriana fez
 18 pontos e Marina 17 Qual o total de pontos das duas jogadoras juntas?
@@ -773,7 +773,7 @@ possível, fazer a identificação desses elementos utilizando exemplos ou
 atividades para que eles possam compreender a nomenclatura correta e as
 ideias ligadas a essa simbologia.
 
-Treino:
+\colorsec{Treino}
 
 1\) Três asteroides se aproximam do sol a cada 20, 24, e 28 anos,
 respectivamente. Se o último ano em que todos estiveram próximos do sol
@@ -920,7 +920,7 @@ interessante refletir com os alunos sobre o uso de alimentos para
 representar frações, pois muitas vezes uma fatia pode aparentemente
 possuir o mesmo tamanho que outras, mas a massa pode ser diferente.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Dois irmãos Abel e Caim resolveram comprar uma pizza juntos, ao
 chegar em casa Abel comeu 3/8 da pizza, enquanto Caim comeu 7/16 avos,
@@ -1114,7 +1114,7 @@ de seus numeradores e denominadores e desenvolver a ideia de frações
 equivalentes, que será vista a seguir. Destacar que, para comparar as
 frações, é necessário verificar se ambas se referem ao mesmo todo.
 
-Treino:
+\colorsec{Treino}
 
 1\) Ester preencheu 3/4 de uma jarra de 500 ml com refresco. Na hora de
 servir a bebida, ele distribuiu o líquido igualmente em 5 copos de 50
@@ -1497,7 +1497,7 @@ Resposta:20% de lucro
 
 Deixar o espaço de 4 linhas para resolução
 
-Treino
+\colorsec{Treino}
 
 1\) Em uma cidade em que as passagens de ônibus custavam R\$1,20 o novo
 prefeito reajustou o preço das passagens em 25%. Qual será o novo valor
@@ -1675,7 +1675,7 @@ x = 40 -- y$\rightarrow \ $x = 40 -- 24 $\rightarrow \ $x = 16\
 \
 Portanto, a solução do sistema é S = (16, 24)
 
-Atividades
+\colorsec{Atividades}
 
 1\) Resolva as Equações polinomiais abaixo e descubra o valor de X em
 cada uma delas
@@ -1930,7 +1930,7 @@ essa.
 
 Resposta: Alternativa c
 
-Treino:
+\colorsec{Treino}
 
 1\) Numa caixa há bolas Vermelhas e bolas amarelas num total de 360. Se
 o número de bolas vermelhas é o quádruplo do de amarelas, o número de
@@ -2126,7 +2126,7 @@ inclusive escalas, divisões proporcionais e taxa de variação.
   Grandezas INVERSAMENTE proporcionais
   Duas grandezas são inversamente proporcionais quando uma aumenta e outra diminui na mesma proporção.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Para se construir uma calçada, é comum, na constituição do concreto,
 se utilizar cimento, areia e brita, na seguinte proporção: 1 parte de
@@ -2330,7 +2330,7 @@ x = 140 / 14
 Portanto, se caso aumente a capacidade dos caminhões para 14 m³, então o
 número de caminhões necessários será igual a 10.
 
-Treino
+\colorsec{Treino}
 
 1\) Em uma indústria, 20 máquinas iguais, de mesmo rendimento, produzem
 juntos 5000 peças iguais, em meia hora de funcionamento simultâneo e
@@ -2895,7 +2895,7 @@ Estas são as principais propriedades dos triângulos:
     desigualdade triangular, trata-se da condição de existência do
     triângulo.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Sabendo que a soma dos ângulos internos de um triangulo
 necessariamente é 180° complete as figuras abaixo com seus respectivos
@@ -3153,7 +3153,7 @@ e\) As ruas Itália e Marrocos são concorrentes F
 Reproduzir fielmente o mapa descrito acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
-Treino
+\colorsec{Treino}
 
 > 1\) Sabendo que (OP) é bissetriz do ângulo AÔB, qual é o valor de x?
 
@@ -3523,7 +3523,7 @@ Resposta Alternativa D
 Reproduzir fielmente a imagem descrita acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
-Treino
+\colorsec{Treino}
 
 1\) Os retângulos da figura representam cidades. Os números na figura
 representam os preços dos bilhetes de comboio entre cidades vizinhas. O
@@ -3953,7 +3953,7 @@ alterando o conteúdo.
 
 Resposta Alternativa C
 
-Treino:
+\colorsec{Treino}
 
 1\) O trenzinho em que 25% dos vagões estão coloridos é:
 
@@ -4352,7 +4352,7 @@ Resposta:
 ![](./imgSAEB_6_MAT/media/image99.png){width="3.4479166666666665in"
 height="1.5833333333333333in"}
 
-Treino
+\colorsec{Treino}
 
 1\) Uma cooperativa agrícola produziu 36 toneladas de feijão. Toda essa
 produção será embalada em sacos de 120 kg antes de ser transportada para
@@ -4486,7 +4486,7 @@ height="1.4791666666666667in"}
 
 Produzir uma figura como essa
 
-Atividades:
+\colorsec{Atividades}
 
 ![](./imgSAEB_6_MAT/media/image102.jpeg){width="0.9375in"
 height="0.9375in"}1) Uma moeda é lançada 3 vezes. Qual a probabilidade
@@ -4676,7 +4676,7 @@ a\) 25/64
 
 b\) 9/64
 
-Treino
+\colorsec{Treino}
 
 1 -- Na lanchonete, você pode escolher entre 4 tipos de pães para seu
 sanduíche pão de forma, pão francês, pão sírio e pão preto. Você pode

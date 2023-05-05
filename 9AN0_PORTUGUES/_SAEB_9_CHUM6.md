@@ -154,7 +154,7 @@ industrialização da agricultura, que, historicamente, foi tida como uma
 atividade urbana e que agora tem sido um motivador do crescimento
 urbano no espaço rural, e as mobilizações feitas pelos trabalhadores rurais no espaço urbano.}
 
-# Treino
+\colorsec{Treino}
 
 \num{1} Leia o texto.
 

@@ -58,7 +58,7 @@ e de solicitação, carta do leitor.
 
 \<fim do boxe de conteúdo\>
 
-##Atividades
+\colorsec{Atividades}
 
 O anúncio trata do trânsito de bicicletas. Leia-o atentamente
 para responder às questões de 1 a 8.
@@ -160,7 +160,7 @@ Leia, agora, mais um texto para, então, responder às questões 9 e 10.
 
 \linhas{3}
 
-# Treino
+\colorsec{Treino}
 
 1\. Leia o trecho da reportagem a seguir.
 
@@ -394,7 +394,7 @@ necessário que o registro seja formal e impessoal.
 
 \<fim do boxe de conteúdo\>
 
-##Atividades
+\colorsec{Atividades}
 
 A proposta pública a seguir apresenta metas para o desenvolvimento da
 igualdade de raça e de gênero e povos e comunidades tradicionais e faz
@@ -506,7 +506,7 @@ Reescreva o parágrafo, a partir da expressão "É necessário" até "contra as 
 
 \Coment{É necessário que se produzam conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, que se promovam e implementem políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, que se realizem parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, que se desenvolvam e promovam políticas públicas de enfrentamento à violência contra as mulheres [...]}
 
-# Treino
+\colorsec{Treino}
 
 1\. Observe a imagem e leia o texto, ambos de uma campanha de conscientização.
 
@@ -732,7 +732,7 @@ pessoa.
 
 \<fim do boxe de conteúdo\>
 
-##Atividades
+\colorsec{Atividades}
 
 1.  Leia o conto a segui para responder às questões de 1 a 9.
 
@@ -918,7 +918,7 @@ eles estão pensando.}
 acontecimentos diversos.
 
 
-##Treino
+\colorsec{Treino}
 
 1\. Leia o miniconto "O valor do silêncio".
 
@@ -1102,7 +1102,7 @@ enunciador.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1\. Leia a notícia a seguir.
 
@@ -1289,7 +1289,7 @@ projetos.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1 -- Leia um trecho de notícia a seguir. (Fácil)
 
@@ -1527,7 +1527,7 @@ aprender a diferenciá-los é praticar com bastante leitura.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1\. Leia a notícia a seguir.
 
@@ -1664,7 +1664,7 @@ decorrência da posição social que assumem.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia um trecho da resenha crítica sobre o filme "O Piano". (Fácil)
 
@@ -1905,7 +1905,7 @@ ao comportamento humano.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia o meme a seguir.
 
@@ -1989,7 +1989,7 @@ meme](./_SAEB_9_POR/media/image13.jpeg){width="4.25in" height="4.25in"}
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia o trecho da entrevista a seguir. (Fácil)
 
@@ -2193,7 +2193,7 @@ ao tema que está em discussão.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1\. A reportagem que você vai ler foi publicada no site do Plenarinho.
 Leia com atenção.
@@ -2457,7 +2457,7 @@ que foi usada pelo jornalista.
 
 ( ) Pouco objetiva e informal.
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia os trechos de textos a seguir, que exploram as prospecções
 brasileiras para o cumprimento da Agenda 2030, proposta pela ONU.
@@ -2720,7 +2720,7 @@ fundamentais na construção argumentativa. Observe:
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia o anúncio de uma campanha de adoção de cães.
 
@@ -2823,7 +2823,7 @@ c)  Releia esse trecho do anúncio.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia dois trechos de textos que tratam sobre a Lei Seca. (Fácil)
 
@@ -3142,7 +3142,7 @@ Note que o pronome demonstrativo "**isto**"** **antecede o referente
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia as duas primeiras estrofes do poema de Luís Vaz de Camões. Se
     julgar pertinente, forneça aos alunos o poema integral, para uma
@@ -3261,7 +3261,7 @@ e\) Assonância. Resposta pessoal.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia o trecho do editorial a seguir. (Fácil)
 
@@ -3473,7 +3473,7 @@ O articulador **por exemplo** introduz uma explicação a respeito do que
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia um trecho de abertura do livro Fome Zero: Uma História
     Brasileira, organizado por Adriana Veiga Aranha para responder às
@@ -3636,7 +3636,7 @@ c\) Releia o slogan do anúncio:
 
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia o anúncio a seguir. (Fácil)
 
@@ -3879,7 +3879,7 @@ Observe:
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia o anúncio de uma campanha para doação de alimentos. Oriente a
     leitura do anúncio, retomando as características do gênero. Solicite
@@ -3999,7 +3999,7 @@ Acesso em: 9 abr. 2023.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Examine o início de um cordel. (Fácil)
 
