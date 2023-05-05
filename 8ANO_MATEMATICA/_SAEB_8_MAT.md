@@ -7209,7 +7209,7 @@ Por método observativo a figura é um octógono = 8 lados
 
 Utilizando a formula temos que:
 
-$\frac{Ai = \left( 8 - 2 \right).\ \ \ 180}{8}$ =
+$\frac{Ai = \left( 8 - 2 \right)\ \ .\ \ 180}{8}$ =
 
 $\frac{Ai = \ 6\ \ .\ \ 180}{8\ }$ =
 
@@ -7217,7 +7217,7 @@ $\frac{Ai = 1080}{8}$ = 135°
 
 Agora calculando os ângulos do triangulo
 
-$\frac{Ai = \left( 3 - 2 \right).\ \ \ 180}{3}$ =
+$\frac{Ai = \left( 3 - 2 \right)\ \ .\ \ 180}{3}$ =
 
 $\frac{Ai = \ \ \ 180}{3}$ = 60°
 
@@ -8416,13 +8416,13 @@ a menos do polígono
 
 Alternativa C: Correta, Pois: Considerando que a formula para calcular
 cada ângulo interno de um polígono regular é
-$\frac{Ai = \left( n - 2 \right).\ \ \ 180}{n}$ temos que:
+$\frac{Ai = \left( n - 2 \right)\ \ .\ \ 180}{n}$ temos que:
 
 Polígono que deve ser feito: Eneágono = 9 lados
 
-$\frac{Ai = \left( 9 - 2 \right).\ \ \ 180}{9}$ =
+$\frac{Ai = \left( 9 - 2 \right)\ \ .\ \ 180}{9}$ =
 
-$\frac{Ai = 7\ .\ \ \ 180}{9}$ =
+$\frac{Ai = 7\ \ \ .\ \ 180}{9}$ =
 
 $\frac{Ai = 1260}{9}$ = 140° logo alternativa C
 
