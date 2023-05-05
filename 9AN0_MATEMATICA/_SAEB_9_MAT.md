@@ -74,7 +74,7 @@ b)  -- 1,8
 
 c)  
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.4
+Professor: BNCC: EF09MA02 SAEB: 9N1.4
 
 ![Imagem em preto e branco Descrição gerada automaticamente com
 confiança
@@ -92,11 +92,9 @@ Fazer a figura colocando a resposta com a seta e letra
 
 Colocar uma linha para a resposta
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.4
->
-> Considerando as aproximações ; ; 0,75 e
->
-> Temos: ; 0,75; ; ; 7
+Professor: BNCC: EF09MA02 SAEB: 9N1.4
+Considerando as aproximações ; ; 0,75 e
+Temos: ; 0,75; ; ; 7
 
 \num{4}  Complete a tabela:
 
@@ -108,34 +106,29 @@ Colocar uma linha para a resposta
                                          Dois milésimos
                                          
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.1
->
-> Dois centésimos // ou 0,3 // Três milésimos // ou 0,002 // Cinquenta e
-> um décimos
+Professor: BNCC: EF09MA02 SAEB: 9N1.1
+Dois centésimos // ou 0,3 // Três milésimos // ou 0,002 // Cinquenta e
+um décimos
 
 \num{5}  Os números naturais podem ser primos ou compostos. Considerando os
     números naturais 87 e 29, como podemos classificá-los? E quais os
     critérios você utilizou para definir a classificação?
 
-> Deixar 3 linhas para resposta
->
-> Professor: BNCC: EF09MA02 SAEB: 9N1.2
->
-> O número 89 é composto, pois pode ser escrito como 3 · 29 e o número
-> 29 é primo, pois não tem outro divisor primo.
+Deixar 3 linhas para resposta
+Professor: BNCC: EF09MA02 SAEB: 9N1.2
+O número 89 é composto, pois pode ser escrito como 3 · 29 e o número
+29 é primo, pois não tem outro divisor primo.
 
 \num{6}  Jorge adora propor desafios matemáticos para seus netos. No último
     domingo disse para seu neto que em 2023 ele completou a idade
     correspondente ao número de divisores positivos do número 5 040.
     Quantos aos completou Jorge no ano de 2023?
 
-> Deixar 3 linhas para resposta
->
-> Professor: BNCC: EF09MA02 SAEB: 9N1.11
->
-> Decompondo o número 5 040 temos que: com isso o número de divisores
-> positivos são: (4+1) · (2+1) · (1+1) · (1+1) = 5 · 3 · 2 · 2 = 60.
-> Desta forma Jorge completou 60 anos em 2023.
+Deixar 3 linhas para resposta
+Professor: BNCC: EF09MA02 SAEB: 9N1.11
+Decompondo o número 5 040 temos que: com isso o número de divisores
+positivos são: (4+1) · (2+1) · (1+1) · (1+1) = 5 · 3 · 2 · 2 = 60.
+Desta forma Jorge completou 60 anos em 2023.
 
 \num{7}  Complete a tabela:
 
@@ -147,9 +140,8 @@ Colocar uma linha para a resposta
   0,25                    
                           
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.1
->
-> 2,4 // // // // 0,875
+Professor: BNCC: EF09MA02 SAEB: 9N1.1
+2,4 // // // // 0,875
 
 \num{8}  Decomponha os números abaixo em fatores primos: Deixar espaço na
     frente de cada item para responder
@@ -161,7 +153,7 @@ b)  1250
 
 c)  4800
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.2
+Professor: BNCC: EF09MA02 SAEB: 9N1.2
 
 a)  256 = 2^8^
 
@@ -177,7 +169,7 @@ c)  4800 = 2^6^ · 3 · 5^2^
 a)  
 b)  
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.2
+Professor: BNCC: EF09MA02 SAEB: 9N1.2
 
 a)  360
 
@@ -188,9 +180,8 @@ b)  4725
     seguinte expressão . Qual o valor que Thiago deve colocar no lugar
     de x?
 
-> Colocar uma linha para a resposta
->
-> Professor: BNCC: EF09MA02 SAEB: 9N1.2
+Colocar uma linha para a resposta
+Professor: BNCC: EF09MA02 SAEB: 9N1.2
 
 Como o número 336 = 2^4^ · 3 · 7, temos que x é igual a 4
 
@@ -208,14 +199,14 @@ c)  3
 
 d)  **2**
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.2
+Professor: BNCC: EF09MA02 SAEB: 9N1.2
 
 Desta forma temos que x = 2
 
 \num{2}  Em um jogo foi proposto 4 cartas com afirmações em que o jogador
     deve encontrar a verdadeira.
 
-> Imagem: Fazer 4 retângulos com uma afirmação em cada:
+Imagem: Fazer 4 retângulos com uma afirmação em cada:
 
 A)  Todo múltiplo de 5 é ímpar
 
@@ -235,7 +226,7 @@ c)  C
 
 d)  **D**
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.11
+Professor: BNCC: EF09MA02 SAEB: 9N1.11
 
 a)  Falso, 10 é múltiplo de 5 e não é ímpar.
 
@@ -264,7 +255,7 @@ c)  C
 
 d)  **D**
 
-> Professor: BNCC: EF09MA02 SAEB: 9N1.4
+Professor: BNCC: EF09MA02 SAEB: 9N1.4
 
 O item D, pois entre os números 1 e 2 temos 9 marcações e a letra D está
 na sexta marcação, o que corresponde a 1,6.
@@ -504,11 +495,9 @@ c)  6
 
 d)  **8**
 
-> Professor:
->
-> BNCC: EF09MA03 SAEB: 9N1.6
->
-> d
+Professor:
+BNCC: EF09MA03 SAEB: 9N1.6
+d
 
 \colorsec{Treino}
 
@@ -805,13 +794,11 @@ c)  $\frac{\mathbf{9}}{\mathbf{48}}$
 
 d)  $\frac{5}{16}$
 
-> Professor
->
-> BNCC: - SAEB:9N1.8
->
-> Pelo gráfico a quantidade a fração da quantidade de peixes que Pedro
-> tem em relação ao total é $\frac{3}{16}$, esta fração é equivalente a
-> fração da alternativa c.
+Professor
+BNCC: - SAEB:9N1.8
+Pelo gráfico a quantidade a fração da quantidade de peixes que Pedro
+tem em relação ao total é $\frac{3}{16}$, esta fração é equivalente a
+fração da alternativa c.
 
 \num{0} O professor de André montou uma lista de exercícios que destes
     alguns iriam cair na sua avaliação. Alice já resolveu $\frac{4}{5}$,
@@ -828,12 +815,10 @@ c)  **Alice e Augusto.**
 
 d)  Augusto e Cadu.
 
-> Professor
->
-> BNCC: - SAEB:9N1.8
->
-> As frações equivalentes são as que representam a quantidade da Alice e
-> Augusto, pois $\frac{4}{5} = \frac{12}{15}$.
+Professor
+BNCC: - SAEB:9N1.8
+As frações equivalentes são as que representam a quantidade da Alice e
+Augusto, pois $\frac{4}{5} = \frac{12}{15}$.
 
 \colorsec{Treino}
 
@@ -848,11 +833,9 @@ c)  $\frac{126}{990}$
 
 d)  $\frac{63}{99}$
 
-> Professor
->
-> BNCC: - SAEB:9N1.10
->
-> 0,126126\... = $\frac{126}{999} = \frac{14}{111}$
+Professor
+BNCC: - SAEB:9N1.10
+0,126126\... = $\frac{126}{999} = \frac{14}{111}$
 
 \num{2}  O número x, de forma a que as frações
     $\frac{12}{37} = \frac{x}{111}$ sejam equivalentes é:
@@ -866,12 +849,10 @@ c)  36
 
 d)  48
 
-> Professor
->
-> BNCC: - SAEB:9N1.7
->
-> Como o valor 111 é igual a 3·37, então basta fazer 3·12=36, desta
-> forma x=36.
+Professor
+BNCC: - SAEB:9N1.7
+Como o valor 111 é igual a 3·37, então basta fazer 3·12=36, desta
+forma x=36.
 
 \num{3}  Observando os pedaços de chocolate, percebemos que há três tipos
     espalhados.
@@ -906,9 +887,8 @@ d)  ![](./_SAEB_9_MAT/media/image57.png){width="2.1085159667541555in"
 Essas imagens da alternativa foram feitas pelo autor, podem ser mantidas
 ou alteradas para se adequar ao projeto.
 
-> Professor
->
-> BNCC: - SAEB: 9N1.8
+Professor
+BNCC: - SAEB: 9N1.8
 
 $\frac{2}{3}\ $de 12 são 8 pedaços e $\frac{1}{2}$ de 12 são 6 pedaços,
 ou seja, Juca comeu 14 pedaços dos 35 disponíveis. A fração que ele
@@ -1158,14 +1138,11 @@ c)  **R\$ 1.505,00**
 
 d)  R\$ 2.120,00
 
-> Professor
->
-> BNCC: EF09MA05 SAEB: 9N2.3
->
-> Como foi pago 30% de entrada sobrou 70% para a segunda parcela. Para
-> saber o valor da segunda parcela precisamos calcular 70% de 2150.
->
-> 0,70 · 2150 =1505.
+Professor
+BNCC: EF09MA05 SAEB: 9N2.3
+Como foi pago 30% de entrada sobrou 70% para a segunda parcela. Para
+saber o valor da segunda parcela precisamos calcular 70% de 2150.
+0,70 · 2150 =1505.
 
 \num{2}  Hugo comprou 150 figurinhas para o seu álbum da copa do mundo
     de 2022. Porém, dessas 150 figurinhas, 90 eram repetidas.
@@ -1181,12 +1158,10 @@ c)  60%
 
 d)  90%
 
-> Professor
->
-> BNCC: EF09MA05 SAEB: 9N2.3
->
-> Hugo comprou 150 figurinhas, mas apenas 60 não eram repetidas, sendo
-> assim ele usou efetivamente $\frac{60}{150} = 0,40 = 40\%.$
+Professor
+BNCC: EF09MA05 SAEB: 9N2.3
+Hugo comprou 150 figurinhas, mas apenas 60 não eram repetidas, sendo
+assim ele usou efetivamente $\frac{60}{150} = 0,40 = 40\%.$
 
 \num{3}  Kríssia quer comprar à vista uma mochila que custa R\$ 560,00, mas,
     para pagamento à vista, a loja oferece um desconto de 5%. No entanto
@@ -1204,13 +1179,10 @@ c)  420,00
 
 d)  404,32
 
-> Professor
->
-> BNCC: EF09MA05 SAEB: 9N2.3
->
-> Houve dois descontos sucessivos, sendo um de 20% e outro de 5%.
->
-> (1 -- 0,2) · (1 -- 0,05) · 560 = 0,8 · 095 · 560 = 425,60.
+Professor
+BNCC: EF09MA05 SAEB: 9N2.3
+Houve dois descontos sucessivos, sendo um de 20% e outro de 5%.
+(1 -- 0,2) · (1 -- 0,05) · 560 = 0,8 · 095 · 560 = 425,60.
 
 # Módulo 5 
 
@@ -2954,13 +2926,11 @@ c)  320 000
 
 d)  400 000
 
-> BNCC: EF09MA06 SAEB: 9A1.5
->
-> Pelo gráfico podemos concluir que temos uma função linear em que a
-> cada 2 anos há uma aumento de 40 000. Com isso em 10 anos teremos um
-> aumento de cinco vezes maior, ou seja, 5·40 000 = 200 000.
->
-> Alternativa D.
+BNCC: EF09MA06 SAEB: 9A1.5
+Pelo gráfico podemos concluir que temos uma função linear em que a
+cada 2 anos há uma aumento de 40 000. Com isso em 10 anos teremos um
+aumento de cinco vezes maior, ou seja, 5·40 000 = 200 000.
+Alternativa D.
 
 \num{3}  Baseado no gráfico apresentado abaixo:
 
@@ -2978,10 +2948,9 @@ c)  (3,0)
 
 d)  (4,-3)
 
-> BNCC: EF09MA06 SAEB: 9A2.4
->
-> Pelo gráfico podemos localizar o ponto mais alto do gráfico e
-> determinar seu par ordenado que é (2,1). Alternativa B.
+BNCC: EF09MA06 SAEB: 9A2.4
+Pelo gráfico podemos localizar o ponto mais alto do gráfico e
+determinar seu par ordenado que é (2,1). Alternativa B.
 
 # Módulo 10 
 
@@ -3801,13 +3770,10 @@ Fazer imagem semelhante, é importante os dados
 Maria saiu da esquina indicada pelo ponto Q e percorreu o seguinte
 percurso:
 
-> • caminhou 500 metros na direção Norte;
->
-> • depois caminhou 200 metros na direção Oeste;
->
-> • depois caminhou 300 metros na direção Sul;
->
-> • e, finalmente, caminhou mais 200 metros na direção Oeste.
+• caminhou 500 metros na direção Norte;
+• depois caminhou 200 metros na direção Oeste;
+• depois caminhou 300 metros na direção Sul;
+• e, finalmente, caminhou mais 200 metros na direção Oeste.
 
 Ao final desse percurso, Maria chegou na esquina indicada pela letra:
 
@@ -3950,18 +3916,14 @@ BNCC: - SAEB 9G2.1
 
 Alternativa D. São 2 quadras ao Sul e duas quadras ao Leste
 
-> 2\. Qual é a melhor maneira de determinar sua localização exata em um
-> mapa?
->
-> a\) Usando um sistema de orientação, como uma bússola ou GPS.
->
-> b\) Estimando sua posição com base em pontos de referência próximos.
->
-> c\) Adivinhando sua posição com base em sua experiência anterior na
-> área.
->
-> d\) Olhando para o mapa e tentando comparar com o ambiente ao seu
-> redor.
+2\. Qual é a melhor maneira de determinar sua localização exata em um
+mapa?
+a\) Usando um sistema de orientação, como uma bússola ou GPS.
+b\) Estimando sua posição com base em pontos de referência próximos.
+c\) Adivinhando sua posição com base em sua experiência anterior na
+área.
+d\) Olhando para o mapa e tentando comparar com o ambiente ao seu
+redor.
 
 BNCC: - SAEB 9G2.1
 
@@ -4859,13 +4821,12 @@ c)  2,0%
 
 d)  2,5%
 
-> SAEB: 9E2.4 - Resolver problemas que envolvam a probabilidade de
-> ocorrência de um resultado em eventos aleatórios equiprováveis
-> independentes ou dependentes.
->
-> BNCC: EF09MA20 - Reconhecer, em experimentos aleatórios, eventos
-> independentes e dependentes e calcular a probabilidade de sua
-> ocorrência, nos dois casos.
+SAEB: 9E2.4 - Resolver problemas que envolvam a probabilidade de
+ocorrência de um resultado em eventos aleatórios equiprováveis
+independentes ou dependentes.
+BNCC: EF09MA20 - Reconhecer, em experimentos aleatórios, eventos
+independentes e dependentes e calcular a probabilidade de sua
+ocorrência, nos dois casos.
 
 Calculando as probabilidades de ser mulher e olhos azuis ou ser homem
 com olhos azuis temos:
@@ -4887,16 +4848,14 @@ c)  66%
 
 d)  60%
 
-> SAEB: 9E2.4 - Resolver problemas que envolvam a probabilidade de
-> ocorrência de um resultado em eventos aleatórios equiprováveis
-> independentes ou dependentes.
->
-> BNCC: EF09MA20 - Reconhecer, em experimentos aleatórios, eventos
-> independentes e dependentes e calcular a probabilidade de sua
-> ocorrência, nos dois casos.
->
-> Há 5 maneiras de sacar R\$ 400,00 em notas de 20 ou 50, sendo que
-> apenas em 2 temos quantidade ímpar de notas, veja a tabela:
+SAEB: 9E2.4 - Resolver problemas que envolvam a probabilidade de
+ocorrência de um resultado em eventos aleatórios equiprováveis
+independentes ou dependentes.
+BNCC: EF09MA20 - Reconhecer, em experimentos aleatórios, eventos
+independentes e dependentes e calcular a probabilidade de sua
+ocorrência, nos dois casos.
+Há 5 maneiras de sacar R\$ 400,00 em notas de 20 ou 50, sendo que
+apenas em 2 temos quantidade ímpar de notas, veja a tabela:
 
   **Nota de 20**   **Nota de 50**   **Total**
   ---------------- ---------------- -----------
@@ -4906,9 +4865,8 @@ d)  60%
   15               2                17
   20               0                20
 
-> Desta forma a probabilidade é de 2/5 ou 40%.
->
-> Alternativa b.
+Desta forma a probabilidade é de 2/5 ou 40%.
+Alternativa b.
 
 3.  Em uma urna são depositadas 5 bolas vermelhas, 6 bolas azuis e 4
     bolas amarelas, todas com mesmo formato e tamanho. Se duas bolas
@@ -4924,13 +4882,12 @@ c)  30%
 
 d)  45%
 
-> SAEB: 9E2.4 - Resolver problemas que envolvam a probabilidade de
-> ocorrência de um resultado em eventos aleatórios equiprováveis
-> independentes ou dependentes.
->
-> BNCC: EF09MA20 - Reconhecer, em experimentos aleatórios, eventos
-> independentes e dependentes e calcular a probabilidade de sua
-> ocorrência, nos dois casos.
+SAEB: 9E2.4 - Resolver problemas que envolvam a probabilidade de
+ocorrência de um resultado em eventos aleatórios equiprováveis
+independentes ou dependentes.
+BNCC: EF09MA20 - Reconhecer, em experimentos aleatórios, eventos
+independentes e dependentes e calcular a probabilidade de sua
+ocorrência, nos dois casos.
 
 Para atender à solicitação temos que ter duas bolas vermelhas ou ter
 duas bolas amarelas ou duas bolas azuis.
@@ -4995,12 +4952,11 @@ SAEB -- 9N2.1 - Resolver problemas de adição, subtração, multiplicação,
 
 divisão, potenciação ou radiciação envolvendo números reais,
 
-> EF09MA03 - Efetuar cálculos com números reais, inclusive potências com
-> expoentes fracionários.
->
-> Segundo o texto a distância entre Terra e Sol no apogeu era de 152
-> milhões de quilômetro, escrevendo em Notação Científica
-> $1,52 \cdot 10^{8}$km.
+EF09MA03 - Efetuar cálculos com números reais, inclusive potências com
+expoentes fracionários.
+Segundo o texto a distância entre Terra e Sol no apogeu era de 152
+milhões de quilômetro, escrevendo em Notação Científica
+$1,52 \cdot 10^{8}$km.
 
 3.  Observando a malha:
 
@@ -5020,14 +4976,11 @@ c)  $\frac{3}{5}$
 
 d)  $\frac{4}{5}$
 
-> SAEB 9N1.7 - Representar frações menores ou maiores que a unidade
->
-> por meio de representações pictóricas OU associar frações a
->
-> representações pictóricas.
->
-> $\frac{\text{Quadrados\ pintados}}{\text{Total\ de\ quadrados}} = \frac{32}{80} = \frac{2}{5}$
-> , com isso temos a alternativa b.
+SAEB 9N1.7 - Representar frações menores ou maiores que a unidade
+por meio de representações pictóricas OU associar frações a
+representações pictóricas.
+$\frac{\text{Quadrados\ pintados}}{\text{Total\ de\ quadrados}} = \frac{32}{80} = \frac{2}{5}$
+, com isso temos a alternativa b.
 
 4.  Pedro tem uma dívida com o banco no valor de R\$ 6 000,00. Neste mês
     recebeu um bônus por desempenho e pagará 20% desta dívida.
@@ -5042,19 +4995,16 @@ c)  R\$ 1.200,00
 
 d)  R\$ 2.400,00
 
-> SAEB: 9N2.3 - Resolver problemas que envolvam porcentagens, incluindo
-> os que lidam com acréscimos e decréscimos simples, aplicação de
-> percentuais sucessivos e determinação das taxas percentuais.
->
-> BNCC: EF09MA05 - Resolver e elaborar problemas que envolvam
-> porcentagens, com a ideia de aplicação de percentuais sucessivos e a
-> determinação das taxas percentuais, preferencialmente com o uso de
-> tecnologias digitais, no contexto da educação financeira.
->
-> Calculando 20% de 6.000 → 0,2 · 6000 = 1200. Desta forma Pedro irá
-> pagar R\$1.200,00 ao banco.
->
-> Alternativa c.
+SAEB: 9N2.3 - Resolver problemas que envolvam porcentagens, incluindo
+os que lidam com acréscimos e decréscimos simples, aplicação de
+percentuais sucessivos e determinação das taxas percentuais.
+BNCC: EF09MA05 - Resolver e elaborar problemas que envolvam
+porcentagens, com a ideia de aplicação de percentuais sucessivos e a
+determinação das taxas percentuais, preferencialmente com o uso de
+tecnologias digitais, no contexto da educação financeira.
+Calculando 20% de 6.000 → 0,2 · 6000 = 1200. Desta forma Pedro irá
+pagar R\$1.200,00 ao banco.
+Alternativa c.
 
 5.  Aluísio olhou sua carteira e decidiu dar um terço do dinheiro que
     tinha nela para sua neta mais velha. Posteriormente ele deu mais 10
@@ -5126,37 +5076,27 @@ Alternativa d.
     > altura, em metros, e *t* o tempo em segundos. Quantos metros de
     > altura estará o objeto após 3 segundos do lançamento?
 
-> a\) 1
->
-> b\) 2
->
-> c\) 4
->
-> d\) 6
->
-> SAEB: 9A2.4 - Resolver problemas que possam ser representados por
-> equações polinomiais de 2º grau.
->
-> Para achar a altura, basta substituir t = 3 na expressão: h(3) = - 3²
-> + 5 · 3 = - 9 + 15 = 6, ou seja, a altura será de 6 metros.
->
-> Alternativa d.
+a\) 1
+b\) 2
+c\) 4
+d\) 6
+SAEB: 9A2.4 - Resolver problemas que possam ser representados por
+equações polinomiais de 2º grau.
+Para achar a altura, basta substituir t = 3 na expressão: h(3) = - 3²
++ 5 · 3 = - 9 + 15 = 6, ou seja, a altura será de 6 metros.
+Alternativa d.
 
 8.  Rodrigo por ser prudente sempre controla a velocidade em suas
     > viagens. Em uma viagem recente entre Porto Feliz e Cidade Alegre
     > ele fez a viagem em uma velocidade média de 80 km e com isso
     > gastou 2,5 horas.
 
-> Para voltar se Rodrigo fizer a viagem com velocidade média de 100 km/h
-> deverá gastar quanto tempo?
->
-> a\) 1h 30min
->
-> b\) 2h
->
-> c\) 2h 40min
->
-> d\) 3h
+Para voltar se Rodrigo fizer a viagem com velocidade média de 100 km/h
+deverá gastar quanto tempo?
+a\) 1h 30min
+b\) 2h
+c\) 2h 40min
+d\) 3h
 
 BNCC: EF09MA07 - Resolver problemas que envolvam a razão entre duas
 grandezas de espécies diferentes, como velocidade e densidade
@@ -5435,13 +5375,11 @@ c)  $\sqrt{6}$
 
 d)  $\sqrt{10}$
 
-> SAEB - 9N1.3 - números racionais ou irracionais.
->
-> EF09MA02 - Reconhecer um número irracional como um número real cuja
-> representação decimal é infinita e não periódica, e estimar a
-> localização de alguns deles na reta numérica.
->
-> Alternativa d, pois $3 < \sqrt{10} < 4$
+SAEB - 9N1.3 - números racionais ou irracionais.
+EF09MA02 - Reconhecer um número irracional como um número real cuja
+representação decimal é infinita e não periódica, e estimar a
+localização de alguns deles na reta numérica.
+Alternativa d, pois $3 < \sqrt{10} < 4$
 
 2.  A idade estimada do universo é de cerca de 13.8 bilhões de anos.
     Essa estimativa é baseada em dados observacionais e teóricos,
@@ -5467,11 +5405,10 @@ SAEB -- 9N2.1 - Resolver problemas de adição, subtração, multiplicação,
 
 divisão, potenciação ou radiciação envolvendo números reais,
 
-> EF09MA03 - Efetuar cálculos com números reais, inclusive potências com
-> expoentes fracionários.
->
-> Alternativa c. Segundo o texto a idade do universo é estimada em 13,8
-> bilhões, escrevendo em Notação Científica $1,38 \cdot 10^{10}$.
+EF09MA03 - Efetuar cálculos com números reais, inclusive potências com
+expoentes fracionários.
+Alternativa c. Segundo o texto a idade do universo é estimada em 13,8
+bilhões, escrevendo em Notação Científica $1,38 \cdot 10^{10}$.
 
 3.  Quatro colegas pintaram uma parede. Jorge pintou $\frac{1}{6}$ dessa
     parede, Gabriel pintou $\frac{3}{18}$, Mário pintou $\frac{2}{8}$ e
@@ -5517,26 +5454,21 @@ c)  O preço ficará 1% menor do que antes do aumento.
 d)  O preço ficará 99% menor em comparação com o preço depois do
     aumento.
 
-> SAEB: 9N2.3 - Resolver problemas que envolvam porcentagens, incluindo
-> os que lidam com acréscimos e decréscimos simples, aplicação de
-> percentuais sucessivos e determinação das taxas percentuais.
->
-> BNCC: EF09MA05 - Resolver e elaborar problemas que envolvam
-> porcentagens, com a ideia de aplicação de percentuais sucessivos e a
-> determinação das taxas percentuais, preferencialmente com o uso de
-> tecnologias digitais, no contexto da educação financeira.
->
-> Quando um produto tem 10% de aumento o preço p é corrigido pelo fato
-> (1+0,1) e ao ser descontado em 10% é corrigido pelo fator (1-0,1),
-> como neste caso ocorreram os dois podemos calcular assim:
->
-> Seja p o valor antes do aumento, após o aumento será p·(1+0,1) = 1,1p.
-> Como depois temos o desconto, aplicaremos o fator de correção:
->
-> 1,1p·(1-0,1) = 1,1p·0,9 = 0,99p, ou seja, o produto custará 99% do
-> valor antes do aumento o que implica em um desconto de 1%.
->
-> Alternativa c.
+SAEB: 9N2.3 - Resolver problemas que envolvam porcentagens, incluindo
+os que lidam com acréscimos e decréscimos simples, aplicação de
+percentuais sucessivos e determinação das taxas percentuais.
+BNCC: EF09MA05 - Resolver e elaborar problemas que envolvam
+porcentagens, com a ideia de aplicação de percentuais sucessivos e a
+determinação das taxas percentuais, preferencialmente com o uso de
+tecnologias digitais, no contexto da educação financeira.
+Quando um produto tem 10% de aumento o preço p é corrigido pelo fato
+(1+0,1) e ao ser descontado em 10% é corrigido pelo fator (1-0,1),
+como neste caso ocorreram os dois podemos calcular assim:
+Seja p o valor antes do aumento, após o aumento será p·(1+0,1) = 1,1p.
+Como depois temos o desconto, aplicaremos o fator de correção:
+1,1p·(1-0,1) = 1,1p·0,9 = 0,99p, ou seja, o produto custará 99% do
+valor antes do aumento o que implica em um desconto de 1%.
+Alternativa c.
 
 5.  O estacionamento de um shopping, cobra pela primeira hora, R\$ 8,00
     e, em cada hora seguinte, ou fração da hora, R\$ 3,00.
@@ -5603,13 +5535,10 @@ Alternativa b.
 Se o custo foi de 100 mil reais, então, o número de produtos produzidos
 foi
 
-> a\) 6.
->
-> b\) 7.
->
-> c\) 8.
->
-> d\) 10.
+a\) 6.
+b\) 7.
+c\) 8.
+d\) 10.
 
 8\. Mário gosta muito de montar e desmontar coisas, recentemente ganhou
 um brinquedo de robótica e estava estudando as engrenagens e seus
@@ -5919,14 +5848,12 @@ c)  $5\sqrt{2}$
 
 d)  $\sqrt{10}$
 
-> SAEB - 9N1.3 - números racionais ou irracionais.
->
-> EF09MA02 - Reconhecer um número irracional como um número real cuja
-> representação decimal é infinita e não periódica, e estimar a
-> localização de alguns deles na reta numérica.
->
-> Alternativa c.
-> $\sqrt{8} + \sqrt{18} = \ \sqrt{2^{2} \cdot 2} + \sqrt{3^{2} \cdot 2} = 2\sqrt{2} + 3\sqrt{2} = 5\sqrt{2}.$
+SAEB - 9N1.3 - números racionais ou irracionais.
+EF09MA02 - Reconhecer um número irracional como um número real cuja
+representação decimal é infinita e não periódica, e estimar a
+localização de alguns deles na reta numérica.
+Alternativa c.
+$\sqrt{8} + \sqrt{18} = \ \sqrt{2^{2} \cdot 2} + \sqrt{3^{2} \cdot 2} = 2\sqrt{2} + 3\sqrt{2} = 5\sqrt{2}.$
 
 2.  Em uma distribuidora de material para escritório, existem 100 pilhas
     de resmas de papel A4, com cada pilha tendo 1 metro de altura. Cada
@@ -6026,13 +5953,10 @@ Montar o desenho com o dê cima
 
 A massa da caixa pequena é
 
-> a\) 50 g.
->
-> b\) 100 g.
->
-> c\) 150 g.
->
-> d\) 300 g.
+a\) 50 g.
+b\) 100 g.
+c\) 150 g.
+d\) 300 g.
 
 SAEB: 9A1.1 - Resolver uma equação polinomial de 1º grau
 
@@ -6054,13 +5978,10 @@ Alternativa b.
 
 A relação entre y e x é dada pela expressão:
 
-> a\) y = 4x + 1.
->
-> b\) y = 2x + 2
->
-> c\) y = 4x -- 3
->
-> d\) y = 3x + 2
+a\) y = 4x + 1.
+b\) y = 2x + 2
+c\) y = 4x -- 3
+d\) y = 3x + 2
 
 SAEB: 9A1.3 -- Identificar uma representação algébrica para o padrão ou
 a regularidade de uma sequência de números racionais OU representar
@@ -6078,13 +5999,10 @@ Alternativa c.
 7\. Os valores referentes às duas raízes da equação **x² + 2x -- 24 =
 0** estão no intervalo
 
-> a\) de 4 até 6.
->
-> b\) de -- 7 até 5.
->
-> c\) de -- 5 até 7.
->
-> d\) de -- 6 até 2.
+a\) de 4 até 6.
+b\) de -- 7 até 5.
+c\) de -- 5 até 7.
+d\) de -- 6 até 2.
 
 SAEB: 9A1.7 - Resolver uma equação polinomial de 2º grau
 
@@ -6437,12 +6355,10 @@ c)  O Jornal B traz um percentual que supera em muito a fração dada pelo
 
 d)  Não é possível executar comparação.
 
-> SAEB 9N1.8 -- Identificar frações equivalentes.
->
-> Escrevendo 37,5% em forma de fração irredutível, temos:
->
-> $37,5\% = \frac{37,5}{100} = \frac{375}{1000} = \frac{3}{8}$, ou seja,
-> temos exatamente o mesmo valor representado. Alternativa a.
+SAEB 9N1.8 -- Identificar frações equivalentes.
+Escrevendo 37,5% em forma de fração irredutível, temos:
+$37,5\% = \frac{37,5}{100} = \frac{375}{1000} = \frac{3}{8}$, ou seja,
+temos exatamente o mesmo valor representado. Alternativa a.
 
 4.  Um comerciante precisou aumentar o preço de uma mercadoria de acordo
     com a inflação, pois quando não repassa o aumento ao consumidor
@@ -6538,30 +6454,23 @@ Alternativa d.
 
 Qual é o número de lados de um polígono que tem 14 diagonais?
 
-> a\) 35
->
-> b\) 32
->
-> c\) 10
->
-> d\) 7
->
-> SAEB: 9A1.7 - Resolver uma equação polinomial de 2º grau.
->
-> Para determinar a quantidade de lados, precisamos resolver a equação:
->
-> $14 = \frac{n^{2} - 3n}{2} \rightarrow n^{2} - 3n - 28 = 0$, por se
-> tratar de uma equação do 2º grau podemos aplicar Bhaskara.
+a\) 35
+b\) 32
+c\) 10
+d\) 7
+SAEB: 9A1.7 - Resolver uma equação polinomial de 2º grau.
+Para determinar a quantidade de lados, precisamos resolver a equação:
+$14 = \frac{n^{2} - 3n}{2} \rightarrow n^{2} - 3n - 28 = 0$, por se
+tratar de uma equação do 2º grau podemos aplicar Bhaskara.
 
 $$\mathrm{\Delta} = \left( - 3 \right)^{2} - 4 \cdot 1 \cdot \left( - 28 \right) = 9 + 112 = 121$$
 
-> $n = \frac{- ( - 3) \pm \sqrt{121}}{2} = \frac{3 \pm 11}{2} = \left\{ \begin{matrix}
-> \frac{3 + 11}{2} = 7\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \\
-> \frac{3 - 11}{2} = - 4\ Não\ convém \\
-> \end{matrix} \right.\ $. Por se tratar de quantidade de lados de um
-> polígono desprezamos o valor negativo.
->
-> Alternativa d.
+$n = \frac{- ( - 3) \pm \sqrt{121}}{2} = \frac{3 \pm 11}{2} = \left\{ \begin{matrix}
+\frac{3 + 11}{2} = 7\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \\
+\frac{3 - 11}{2} = - 4\ Não\ convém \\
+\end{matrix} \right.\ $. Por se tratar de quantidade de lados de um
+polígono desprezamos o valor negativo.
+Alternativa d.
 
 8.  Uma das grandes preocupações de hoje é a quantidade de açúcar
     ingerido, por isso as pessoas têm ficado mais atentar aos dados da
@@ -6573,13 +6482,10 @@ gramas desse chocolate.
 
 Quantos gramas de açúcar contém essa barra que Fernando comprou?
 
-> a\) 48
->
-> b\) 96
->
-> c\) 108
->
-> d\) 160
+a\) 48
+b\) 96
+c\) 108
+d\) 160
 
 SAEB: 9A2.1 - Resolver problemas que envolvam variação de
 proporcionalidade direta ou inversa entre duas ou mais grandezas,
