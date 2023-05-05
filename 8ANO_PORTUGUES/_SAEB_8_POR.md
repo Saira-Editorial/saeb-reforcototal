@@ -79,7 +79,7 @@ ou engajar o público em ideias e comportamentos.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**[ATIVIDADES]{.underline}**
+\colorsec{Atividades}
 
 \num{1} Numere a segunda coluna de acordo com a primeira considerando o
 teor dos argumentos que você espera encontrar em cada gênero textual
@@ -488,7 +488,7 @@ profissional.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**[ATIVIDADES]{.underline}**
+\colorsec{Atividades}
 
 **Texto para as questões de 1 a 4.**
 
@@ -938,7 +938,7 @@ cada gênero literário e ver alguns exemplos.
 |                      |     > personagens.   |                      |
 +----------------------+----------------------+----------------------+
 
-**[ATIVIDADES]{.underline}**
+\colorsec{Atividades}
 
 **Texto para as questões de 1 a 3.**
 
@@ -1479,7 +1479,7 @@ linguísticos que demarcam as vozes presentes num texto.
 
 [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]{.underline}
 
-**[ATIVIDADES]{.underline}**
+\colorsec{Atividades}
 
 **Texto para as questões de 1 a 7.**
 
@@ -1814,7 +1814,7 @@ assunto.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**[ATIVIDADES]{.underline}**
+\colorsec{Atividades}
 
 **Texto para as questões de 1 a 4.**
 
@@ -2133,7 +2133,7 @@ quebrou! Agora só teremos que subir 12 lances de escada, são bem
 poucos." (Certamente, a pessoa não está feliz por ter que subir 12
 lances de escada.)
 
-**[ATIVIDADES]{.underline}**
+\colorsec{Atividades}
 
 \num{1} Numere a segunda coluna de acordo com a primeira, associando a
 anedota à estratégia geradora de humor.
@@ -2578,7 +2578,7 @@ jornalísticos podem revelar parcialidade. Exemplos:
 
 *instituição financeira / banco.
 
-**[ATIVIDADES]{.underline}**
+\colorsec{Atividades}
 
 **Texto para as questões de 1 a 4.**
 
@@ -2947,7 +2947,7 @@ DELIMITAÇÃO
 *Matematicamente/Geograficamente* (do ponto de vista da
 matemática/geografia)
 
-**[ATIVIDADES]{.underline}**
+\colorsec{Atividades}
 
 \num{1} Marque o sentido expresso pelas palavras modalizadoras em
 destaque nas frases.
@@ -3411,7 +3411,7 @@ em textos argumentativos.
 |                      | linguístico.         |                      |
 +----------------------+----------------------+----------------------+
 
-**[ATIVIDADES]{.underline}**
+\colorsec{Atividades}
 
 Nomeie a figura de linguagem presente em cada texto e justifique a
 presença dela.
@@ -3710,7 +3710,7 @@ alguns exemplos.
   **Hipótese / condição**                          se, caso, a menos que, salvo se, exceto se, a não ser que, desde que, supondo que, admitindo que etc.
   **Sequência temporal**                           em primeiro lugar, num primeiro momento, antes de, em segundo lugar, em seguida, seguidamente, então, durante, ao mesmo tempo, quando, simultaneamente, depois de, após, até que, enquanto, logo que, no fim de, por fim, finalmente. .
 
-**[ATIVIDADES]{.underline}**
+\colorsec{Atividades}
 
 \num{1} Numere a segunda coluna de acordo com a primeira, conforme o
 valor semântico dos conectivos presente nas orações.
@@ -4177,7 +4177,7 @@ do preconceito linguístico e da valorização social diferente que é dada
 às variedades da língua com base em critérios não linguísticos, mas
 históricos, ideológicos, políticos e econômicos.
 
-**[ATIVIDADES]{.underline}**
+\colorsec{Atividades}
 
 \num{1} Conceitue norma-padrão, norma culta e norma popular.
 
