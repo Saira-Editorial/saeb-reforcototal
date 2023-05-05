@@ -31,13 +31,13 @@ trabalho manual.}
 
 \num{3} Leia o texto.
 
->O uso de máquinas na agricultura tem impactado negativamente o número de empregos no setor. De acordo com dados da Pesquisa Nacional por Amostra de Domicílios (Pnad 2012), houve uma redução de 756 mil vagas no campo em relação ao ano anterior. O setor agrícola, que empregava 20,4% da população em 2004, agora representa apenas 14,2% dos empregos na economia. Apesar da diminuição da mão-de-obra, a atividade agrícola continua a crescer devido à mecanização. Essa é a explicação dada pela gerente de pesquisas do IBGE, Maria Lucia França Pontes Vieira.
+>O uso de máquinas na agricultura tem impactado negativamente o número de empregos no setor. De acordo com dados da Pesquisa Nacional por Amostra de Domicílios (Pnad 2012), houve uma redução de 756 mil vagas no campo em relação ao ano anterior. O setor agrícola, que empregava 20,4% da população em 2004, agora representa apenas 14,2% dos empregos na economia. Apesar da diminuição da mão de obra, a atividade agrícola continua a crescer devido à mecanização. Essa é a explicação dada pela gerente de pesquisas do IBGE, Maria Lucia França Pontes Vieira.
 
 \fonte{de pesquisa: Terra. IBGE: mecanização elimina postos de trabalho no campo. Disponível\ em:\ https://www.terra.com.br/economia/ibge-mecanizacao-elimina-postos-de-trabalho-no-campo,e70882ddb7f61410VgnCLD200000bbcceb0aRCRD.html.\ Acesso\ em:\ 12\ mar.\ 2023.~
 
 Demonstre que esse texto tem relação com êxodo rual e desemprego estrutural.
 
-\coment{O texto apresenta dados que indicam que o uso crescente de máquinas na agricultura tem resultado em uma redução significativa de empregos no campo. Esse fenômeno está relacionado a dois conceitos importantes: êxodo rural e desemprego estrutural. O êxodo rural é um processo de migração da população do campo para as cidades, muitas vezes em busca de melhores oportunidades de trabalho e de vida. A mecanização da agricultura tem sido um dos fatores que impulsionam o êxodo rural, uma vez que o uso de máquinas pode reduzir a necessidade de mão-de-obra no campo, tornando o trabalho agrícola menos atraente e menos rentável. O desemprego estrutural, por sua vez, é um tipo de desemprego que ocorre quando as mudanças na economia ou no mercado de trabalho tornam obsoletas algumas habilidades e profissões, fazendo com que trabalhadores percam seus empregos e encontrem dificuldades para se recolocar no mercado. No caso da agricultura, a mecanização tem sido um dos fatores que contribuem para o desemprego estrutural, uma vez que a demanda por trabalhadores no campo diminuiu significativamente com a adoção de máquinas e tecnologias. Assim, o texto mostra que o uso crescente de máquinas na agricultura tem impactado negativamente o emprego no campo, contribuindo para o êxodo rural e o desemprego estrutural. Esses fenômenos têm consequências importantes para a economia e a sociedade, pois podem levar à concentração de renda, à pobreza e ao aumento da desigualdade social.}
+\coment{O texto apresenta dados que indicam que o uso crescente de máquinas na agricultura tem resultado em uma redução significativa de empregos no campo. Esse fenômeno está relacionado a dois conceitos importantes: êxodo rural e desemprego estrutural. O êxodo rural é um processo de migração da população do campo para as cidades, muitas vezes em busca de melhores oportunidades de trabalho e de vida. A mecanização da agricultura tem sido um dos fatores que impulsionam o êxodo rural, uma vez que o uso de máquinas pode reduzir a necessidade de mão de obra no campo, tornando o trabalho agrícola menos atraente e menos rentável. O desemprego estrutural, por sua vez, é um tipo de desemprego que ocorre quando as mudanças na economia ou no mercado de trabalho tornam obsoletas algumas habilidades e profissões, fazendo com que trabalhadores percam seus empregos e encontrem dificuldades para se recolocar no mercado. No caso da agricultura, a mecanização tem sido um dos fatores que contribuem para o desemprego estrutural, uma vez que a demanda por trabalhadores no campo diminuiu significativamente com a adoção de máquinas e tecnologias. Assim, o texto mostra que o uso crescente de máquinas na agricultura tem impactado negativamente o emprego no campo, contribuindo para o êxodo rural e o desemprego estrutural. Esses fenômenos têm consequências importantes para a economia e a sociedade, pois podem levar à concentração de renda, à pobreza e ao aumento da desigualdade social.}
 
 \num{4} Analise o gráfico a seguir.
 
@@ -69,7 +69,7 @@ partir da década 50. A entrada de tecnologia e capital financeiro
 imprimiu um novo ritmo à economia brasileira, e progressivamente a
 população foi se transferindo para as cidades. O setor agrário da
 economia, sobretudo a partir da década de 70, mecanizou-se, liberou
-mão-de-obra e as cidades sofreram um crescimento demográfico repentino.
+mão de obra e as cidades sofreram um crescimento demográfico repentino.
 
 ~Jurandyr Ross.\ A\ sociedade\ industrial\ e\ o\ ambiente. In:\ _Geografia\ do\ Brasil_.\ São\ Paulo:\ EDUSP, 2019.~
 
@@ -103,7 +103,7 @@ direcionamento ao mercado externo.
 \num{7} Leia o trecho a seguir.
 
 >As atividades agrícolas chamadas modernas são cada vez mais avançadas
-tecnologicamente, empregando baixa quantidade de mão-de-obra e
+tecnologicamente, empregando baixa quantidade de mão de obra e
 utilizando maquinarias, adubos químicos, inseticidas e herbicidas. Esse
 modelo de produção agrícola intensificou-se principalmente nas décadas
 que sucederam à Segunda Guerra Mundial. É um modelo de países
@@ -136,7 +136,7 @@ modernização do campo.
 
 \coment{As consequências compreendem a perda de postos de trabalho, dada a
 utilização de maquinário, e, consequentemente, a menor utilização de
-mão-de-obra humana, além do aumento da produtividade agrícola.}
+mão de obra humana, além do aumento da produtividade agrícola.}
 
 \num{10} Leia o trecho a seguir.
 
@@ -170,7 +170,7 @@ urbano no espaço rural, e as mobilizações feitas pelos trabalhadores rurais n
 
 De acordo com o texto, a inteligência artificial tem o potencial de
 
-a)  renovar a mão-de-obra.
+a)  renovar a mão de obra.
 b)  reduzir o desemprego estrutural.
 c)	reforçar potencialidades humanas.
 d)  retomar postos de trabalho manual.
@@ -180,7 +180,7 @@ decorrentes do processo de industrialização com as transformações no
 trabalho em diferentes regiões do mundo e suas consequências no Brasil.
 
 a\) Incorreta. No texto, não se destaca a possibilidade de renovação da
-mão-de-obra por conta da introdução de tecnologias no ambiente de
+mão de obra por conta da introdução de tecnologias no ambiente de
 trabalho.
 
 b\) Incorreta. No texto, não se fala de desemprego estrutural.
@@ -222,7 +222,7 @@ trabalho em diferentes regiões do mundo e suas consequências no Brasil.
 
 a\) Correta. Concomitantemente à ampliação da mecanização do campo,
 percebe-se que ocorre a redução dos postos de trabalho, ou seja, as
-máquinas têm reduzido a necessidade da mão-de-obra no campo.
+máquinas têm reduzido a necessidade da mão de obra no campo.
 
 b\) Incorreta: No texto, ressalta-se o aumento da produtividade, mas isso não está associado aos trabalhadores em si.
 
@@ -270,3 +270,4 @@ rural, e não de saída.
 
 d\) Incorreta. Embora tenha havido a internacionalização da produção do
 campo, não houve o desincentivo à industrialização nacional.
+
