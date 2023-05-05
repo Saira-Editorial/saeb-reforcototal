@@ -6860,7 +6860,7 @@ não é correto.
 Alternativa D: incorreta, ao deslocar a virgula uma casa para direita o
 aluno chegaria a assinalar essa alternativa de forma equivocada.
 
-# Simulado 1:
+# Simulado 1
 
 1\) O número de ouro é um número\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 misterioso e enigmático, presente em uma infinidade de elementos da
@@ -7437,7 +7437,7 @@ Alternativa D: incorreta, o aluno chegaria a essa conclusão ao
 considerar que o número de funcionários seja a quantidade de
 probabilidades o que é incorreto.
 
-# Simulado 2:
+# Simulado 2
 
 1\) Qual é o menor número natural que devemos multiplicar pelo número
 125 para que o produto seja um número quadrado perfeito?
@@ -8049,7 +8049,7 @@ multiplicativos 10" o aluno chegaria a essa conclusão erroneamente.
 Alternativa D: incorreta, ao não considerar "três elementos
 multiplicativos 10" o aluno chegaria a essa conclusão erroneamente.
 
-# Simulado 3:
+# Simulado 3
 
 1\) Na sequência de Fibonacci os dois primeiros números são 1 e 1. A
 partir daí, cada número é igual à soma dos dois anteriores: 1, 1, 2, 3,
@@ -8662,7 +8662,7 @@ Alternativa D: incorreta, esse valor seria a probabilidade de não
 encontrar alguém com uma pulseira vermelha, o aluno poderia chegar a
 essa conclusão interpretando errado o enunciado.
 
-# Simulado 4:
+# Simulado 4
 
 1\) Ao calcularmos $\sqrt{3^{3} + 3²}$ obtemos como resposta:
 
