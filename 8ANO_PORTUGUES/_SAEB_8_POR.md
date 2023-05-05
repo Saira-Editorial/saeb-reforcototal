@@ -270,7 +270,7 @@ frase "água é vida" e a imagem de uma torneira.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**[TREINO]{.underline}**
+\colorsec{Treino}
 
 **Texto para as questões 1 e 2.**
 
@@ -678,7 +678,7 @@ profissionais da saúde e a outros interessados em plantas medicinais.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**[TREINO]{.underline}**
+\colorsec{Treino}
 
 **Questão 1**
 
@@ -1208,7 +1208,7 @@ tempo e os personagens da história para o leitor.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**[TREINO]{.underline}**
+\colorsec{Treino}
 
 **Texto para as questões 1 e 2.**
 
@@ -1584,7 +1584,7 @@ calasse e até tivesse dúvida se o pai ainda estava no diálogo.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**[TREINO]{.underline}**
+\colorsec{Treino}
 
 **Texto para as questões 1 e 2.**
 
@@ -1944,7 +1944,7 @@ era mais passivo.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**[TREINO]{.underline}**
+\colorsec{Treino}
 
 **Questão 1**
 
@@ -2324,7 +2324,7 @@ os ricos têm uma opinião contrária e estão insatisfeitos com a queda dos
 preços da passagem aérea, pois isso atrairá a população menos abastada
 para esse tipo de transporte historicamente ocupado pela elite.
 
-**[TREINO]{.underline}**
+\colorsec{Treino}
 
 **Questão 1**
 
@@ -2702,7 +2702,7 @@ Resposta pessoal. Uma hipótese plausível de resposta, com base na
 abordagem feita às caraterísticas dos textos, é apontar a notícia
 apresentada no texto IV.
 
-**[TREINO]{.underline}**
+\colorsec{Treino}
 
 **Questão 1**
 
@@ -3180,7 +3180,7 @@ abordado de uma forma que pode lhe causar incômodo.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**[TREINO]{.underline}**
+\colorsec{Treino}
 
 **Texto para as questões de 1 a 3.**
 
@@ -3478,7 +3478,7 @@ usar uma expressão mais pesada como "mentir".
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**[TREINO]{.underline}**
+\colorsec{Treino}
 
 **Questão 1**
 
@@ -3890,7 +3890,7 @@ lei]{.underline} e [a realidade]{.underline}.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**[TREINO]{.underline}**
+\colorsec{Treino}
 
 **Questão 1**
 
@@ -4472,7 +4472,7 @@ transgridem a norma-padrão, o que se identifica no texto da publicação.
 Portanto, na tentativa de dialogar com esse público, a linguagem está
 adequada.
 
-**[TREINO]{.underline}**
+\colorsec{Treino}
 
 **Questão 1**
 
