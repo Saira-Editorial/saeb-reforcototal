@@ -307,7 +307,7 @@ Resposta: A autora conclui que mesmo com todos os problemas causados
 pelo vício em celulares, é impossível ir contra esse tipo de evolução
 tecnológica que acontece com o tempo.
 
-# Treino
+\colorsec{Treino}
 
 **1.**
 
@@ -1024,7 +1024,7 @@ BNCC: EF67LP16
 
 Nível de dificuldade: médio.
 
-# Treino
+\colorsec{Treino}
 
 \num{1} Leia o texto a seguir.
 
@@ -1672,7 +1672,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: difícil.
 
-# Treino
+\colorsec{Treino}
 
 \num{1} Observe os dois textos a seguir.
 
@@ -2127,7 +2127,7 @@ BNCC: EF69LP43
 
 Nível: difícil.
 
-# Treino
+\colorsec{Treino}
 
 \num{1} Observe o infográfico a seguir.
 
@@ -2498,7 +2498,7 @@ Resposta: A autora faz um trocadilho com a fato de Frida ser uma
 artista. A expressão "uma obra à parte" significa que determinado fato
 foi incrível, maravilhoso.
 
-# Treino
+\colorsec{Treino}
 
 \num{1} Leia o trecho de uma resenha crítica sobre o gibi "Turma da Mônica
 Jovem":
@@ -2832,7 +2832,7 @@ explodiu, menina).
 Resposta: O cachorro rasgou toda a almofada, mas justificou contanto que
 ela havia explodido porque veio com defeito.
 
-# Treino
+\colorsec{Treino}
 
 \num{1} Leia o texto a seguir.
 
@@ -3240,7 +3240,7 @@ de publicação da notícia; se o veículo que a publicou é de
 credibilidade; e se o texto apresenta uma referência bibliográfica para
 a fonte das informações.
 
-# Treino
+\colorsec{Treino}
 
 \num{1} Leia o texto a seguir.
 
@@ -3668,7 +3668,7 @@ Qual é o objetivo do uso desse modalizador nesta frase?
 Resposta: O objetivo é reforçar, afirmar, que pessoas do Brasil inteiro
 estão aderindo à campanha.
 
-# Treino
+\colorsec{Treino}
 
 \num{1} Leia o cartaz a seguir.
 
@@ -4035,7 +4035,7 @@ quando o texto diz que "a fome aperta" e "a forme abre", e gradação,
 quando se listam o que pode ser feito com o fubá: "cuscuz, broas,
 sonhos, bolos".
 
-# Treino
+\colorsec{Treino}
 
 \num{1}
 
@@ -4432,7 +4432,7 @@ Tantos alimentos são desperdiçados no mundo.
 
 Tanta comida é desperdiçada no mundo.
 
-# Treino
+\colorsec{Treino}
 
 \num{1} Leia o texto a seguir.
 

@@ -199,7 +199,7 @@ A imagem faz parte de uma campanha sobre direitos humanos e, nela, lê-se em ing
 
 \coment{A campanha "Sem justiça, sem paz" está diretamente relacionada aos direitos humanos, pois enfatiza a necessidade de justiça e igualdade para todas as pessoas, independentemente de raça, etnia, gênero, orientação sexual ou qualquer outra característica. A frase "Sem justiça, sem paz" sugere que a paz verdadeira só pode ser alcançada quando a justiça é garantida e os direitos humanos são respeitados. A campanha geralmente é usada em protestos contra a violência policial, discriminação racial e outras questões sociais que violam os direitos humanos. A campanha é, portanto, uma forma de conscientizar as pessoas sobre a importância dos direitos humanos e da justiça social, bem como de lutar por mudanças positivas nessas áreas.}
 
-# Treino
+\colorsec{Treino}
 
 \num{1} Leia os textos de artigos da Constituição Federal brasileira de 1988.
 

@@ -47,7 +47,7 @@ completa um número. Se todos os fatores tiverem expoente par, o número
 será um quadrado perfeito. Caso um dos fatores não apresente expoente
 par, o número não será um quadrado perfeito.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Calculando-se $\sqrt{27}$ , obtém-se 5,196152423\..., número que tem
 representação decimal infinita, mas não é dízima periódica.
@@ -287,7 +287,7 @@ g\) 1,342 = $\frac{1342}{1000}$
 
 h\) 5,09409 = $\frac{509\ 409}{100\ 000}$
 
-Treino
+\colorsec{Treino}
 
 1\) Qual é a decomposição do número 1 000 em fatores primos?
 
@@ -479,7 +479,7 @@ A raiz quadrada de 25 é 5, pois 5 x 5 = 52 = 25 Logo $\sqrt{25}$ = 5
 
 A raiz quadrada de 49 é 7, pois 7 x 7 = 72 = 49. Logo $\sqrt{49}$ = 7
 
-Atividades:
+\colorsec{Atividades}
 
 $$\ $$
 
@@ -790,7 +790,7 @@ e)$\ \sqrt{36}$= 6, 6^.^4=perímetro= 24
 
 f)$\sqrt{16}$= 4, 4^.^4=perímetro =16
 
-Treino
+\colorsec{Treino}
 
 1\) Raul estava passeando pela rua e ao passar por uma loja de discos
 antigos viu um álbum musical com o seguinte título: "Eu Nasci Há Dez Mil
@@ -1015,7 +1015,7 @@ Para isso, montamos uma equação:
 Logo temos que $\frac{3}{9}$ simplificando $\frac{1}{3}$ é a nossa
 fração geratriz.
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Classifique com V para verdadeiro e F para falso as afirmações a
 seguir:
@@ -1369,7 +1369,7 @@ d\) $\frac{1}{4}$
 
 Deixar o espaço de 3 linhas para resposta.
 
-Treino:
+\colorsec{Treino}
 
 1\) Assinale a alternativa correta:
 
@@ -1543,7 +1543,7 @@ Pelo método multiplicativo de seu correspondente decimal temos:
 
 300 . $\frac{25}{100}$ = 75
 
-Atividades
+\colorsec{Atividades}
 
 1\) Em uma gincana realizada por uma escola haverá várias modalidades
 para que os alunos se inscrevam para participar. Ao final das inscrições
@@ -1881,7 +1881,7 @@ Resposta:
 
 **J= 96,04**
 
-Treino:
+\colorsec{Treino}
 
 1\) Beatriz é Cozinheira em uma escola, após o almoço nessa escola
 sempre é servido um suco, onde para se preparar é ideal usar a proporção
@@ -2134,7 +2134,7 @@ Temos então que 2x =18 logo x=9
 
 Substituindo o valor de x em qualquer uma das equações obtemos que y= 7
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Classifique cada um destes sistemas de equações em determinado,
 indeterminado ou impossível, para x e y números racionais
@@ -2432,7 +2432,7 @@ Se o número de galinhas é igual a 15 e temos 35 cabeças, logo 35- 15 =
 
 Então o número de vacas na fazenda é de 20.
 
-Treino:
+\colorsec{Treino}
 
 1\) Dois tambores contêm juntos 900 litros de petróleo Se passarmos 100
 litros do primeiro tanque para o segundo, este ficará com o dobro do
@@ -2653,7 +2653,7 @@ X² - 8y + 12
 
 A² + 5a²b + 3ab² + b³
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Dalva tem 44 anos. Escreva uma expressão algébrica que representa a
 idade que ela teve há x anos e a idade que ele terá daqui a y anos,
@@ -3041,7 +3041,7 @@ n\) 8x + 6x + 4x= 18x
 
 o\) (-2xy²)^4^= 16x^4^y^8^
 
-Treino:
+\colorsec{Treino}
 
 1\) Elza resolveu comprar uma piscina com as medidas abaixo:
 
@@ -3231,7 +3231,7 @@ X = $\  \pm \frac{1}{4}$
 
 Logo o conjunto solução é $+ \frac{1}{4}$ e $- \ \frac{1}{4}$
 
-Atividades
+\colorsec{Atividades}
 
 1\) Determine a solução da equação x² + 4 = 0 no conjunto R
 
@@ -3494,7 +3494,7 @@ Multiplicando por 1 000, temos que -4 . 1000 = - 4000
 
 Logo Mateus deve 4 000,00 R\$ ao banco.
 
-Treino
+\colorsec{Treino}
 
 1\) Clebinho é atacante de um famoso time de futebol, durante uma
 partida o número de finalizações de Clebinho no gol foi a soma das
@@ -3913,7 +3913,7 @@ g\) 30 m/s .3,6= 108 km/h
 
 h\) 40 m/s . 3,6= 144km/h
 
-Treino
+\colorsec{Treino}
 
 1\) Dona Estela está preparando a Ceia de Natal para sua família e
 comprou um peru de 4,2 kg para servir, ao pesquisar sobre o tempo de
@@ -4095,7 +4095,7 @@ número de diagonais de um polígono
 Utilizando a fórmula S~i~ = (n-2) . 180° , podemos calcular a soma dos
 ângulos internos de um polígono.
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Complete a Tabela com o nome dos polígonos segundo o número de lados
 
@@ -4432,7 +4432,7 @@ h\) raio
 
 i\) raio
 
-Treino
+\colorsec{Treino}
 
 1\) Alfredo desenhou, em uma madeira, um eneágono regular cujo perímetro
 era de 117 cm
@@ -4980,7 +4980,7 @@ b\)
 
 X=7
 
-Treino:
+\colorsec{Treino}
 
 1\) Denomina-se incentro o ponto comum
 
@@ -5301,7 +5301,7 @@ Resposta Considerando 8 planetas temos que:
 
 8 x 100 000 = 800 000 km foi o deslocamento.
 
-Treino:
+\colorsec{Treino}
 
 1\) Um jogador de Futebol em cada partida corre em média 8 km,
 considerando que um campeonato tenha 38 rodadas, e que esse jogador
@@ -6036,7 +6036,7 @@ Volume de um cilindro V= $\Pi$. R² .h
 
 Volume de um paralelepípedo temos que V= l.l.l
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Considere o cubo abaixo
 
@@ -6738,7 +6738,7 @@ Resposta:
 
 $P(E)\frac{n(2)}{n(7)}$= 28% aproximadamente
 
-Treino
+\colorsec{Treino}
 
 1\) Em uma fábrica de sapatos houve um defeito com umas das maquinas da
 linha de produção, onde após uma pesquisa realizada foi constatado que,
@@ -6860,7 +6860,7 @@ não é correto.
 Alternativa D: incorreta, ao deslocar a virgula uma casa para direita o
 aluno chegaria a assinalar essa alternativa de forma equivocada.
 
-Simulado 1:
+# Simulado 1:
 
 1\) O número de ouro é um número\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 misterioso e enigmático, presente em uma infinidade de elementos da
@@ -7437,7 +7437,7 @@ Alternativa D: incorreta, o aluno chegaria a essa conclusão ao
 considerar que o número de funcionários seja a quantidade de
 probabilidades o que é incorreto.
 
-Simulado 2:
+# Simulado 2:
 
 1\) Qual é o menor número natural que devemos multiplicar pelo número
 125 para que o produto seja um número quadrado perfeito?
@@ -8049,7 +8049,7 @@ multiplicativos 10" o aluno chegaria a essa conclusão erroneamente.
 Alternativa D: incorreta, ao não considerar "três elementos
 multiplicativos 10" o aluno chegaria a essa conclusão erroneamente.
 
-Simulado 3:
+# Simulado 3:
 
 1\) Na sequência de Fibonacci os dois primeiros números são 1 e 1. A
 partir daí, cada número é igual à soma dos dois anteriores: 1, 1, 2, 3,
@@ -8662,7 +8662,7 @@ Alternativa D: incorreta, esse valor seria a probabilidade de não
 encontrar alguém com uma pulseira vermelha, o aluno poderia chegar a
 essa conclusão interpretando errado o enunciado.
 
-Simulado 4:
+# Simulado 4:
 
 1\) Ao calcularmos $\sqrt{3^{3} + 3²}$ obtemos como resposta:
 

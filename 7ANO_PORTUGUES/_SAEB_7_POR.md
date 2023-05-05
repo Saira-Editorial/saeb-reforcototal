@@ -61,7 +61,7 @@ o uso de recursos persuasivos em demais gêneros textuais, apontando
 também para suas especificidades quanto ao público alvo, função
 comunicativa e meios de veiculação.
 
-Atividades:
+\colorsec{Atividades}
 
 1)  De acordo com seus conhecimentos, escreva dois tipos de recursos
     persuasivos presentes em campanhas publicitárias:
@@ -207,7 +207,7 @@ Ao trazer as fontes e citar nomes de pessoas envolvidas em grupos e
 organizações oficiais, a matéria se torna mais confiável e os dados
 podem ser questionados, pesquisados e confrontados pelo leitor.
 
-# Treino
+\colorsec{Treino}
 
 **Questão 1:**
 
@@ -497,7 +497,7 @@ Textos de divulgação científica: com a finalidade de promover a
 divulgação de pesquisas e resultados de trabalhos científicos baseados
 em estudos e práticas de observação
 
-Atividades:
+\colorsec{Atividades}
 
 Analise a imagem a seguir e responda as questões:
 
@@ -715,7 +715,7 @@ sejam potencializadas ou desenvolvidas as seguintes ações:(\...)"
 
 (2 ) tem por objetivo regulamentar e normatizar
 
-**Treino:**
+\colorsec{Treino}
 
 **Questão 1:**
 
@@ -1103,7 +1103,7 @@ também promove integração de diversas expressões artísticas. Cite também
 outras expressões tais como a música e as artes plásticas e estimule os
 estudantes a pensarem como essas expressões se complementam.
 
-Atividades
+\colorsec{Atividades}
 
 1)  O conto popular é um gênero literário proveniente da tradição oral e
     em sua textualidade mantém algumas marcas de estilo quanto à
@@ -1269,7 +1269,7 @@ A autora utiliza os dois pontos como forma de introduzir uma explicação.
 Em outras palavras, ser poeta pode significar não ser nem alegre nem
 triste.
 
-# Treino
+\colorsec{Treino}
 
 Questão 1:
 
@@ -1560,7 +1560,7 @@ a persuasão aos textos publicitários, porém indique a importância deste
 recurso para os textos de opinião e para qualquer argumentação trazendo
 para a discussão situações do dia a dia.
 
-Atividades
+\colorsec{Atividades}
 
 Leia o texto abaixo para responder as questões:
 
@@ -1700,7 +1700,7 @@ silenciosa, os casos de bullying podem ser mais graves. A vítima pode
 apresentar mudanças de comportamento e pode não comunicar a escola e a
 família sobre as agressões.
 
-Treino
+\colorsec{Treino}
 
 Questão 1:
 
@@ -1892,7 +1892,7 @@ argumentos baseados em fatos e faça as distinções quanto a construção de
 argumentos baseados em opiniões. Chame a atenção para a importância
 destas distinções para a vida prática.
 
-Atividades:
+\colorsec{Atividades}
 
 1)  Leia as afirmações abaixo e assinale (F) para fatos e (O) para
     opiniões:
@@ -2007,7 +2007,7 @@ como a transpiração."
 
 O fato apresentado é de que a transpiração é involuntária
 
-**Treino:**
+\colorsec{Treino}
 
 **Questão 1:**
 
@@ -2186,7 +2186,7 @@ estudados para um recurso conhecido pelos estudantes. Estimule-os a
 pensar quais são os recursos utilizados e como eles se articulam para
 produzir humor ou ironia.
 
-Atividades:
+\colorsec{Atividades}
 
 1)  Leia a tirinha abaixo e responda:
 
@@ -2257,7 +2257,7 @@ cidadãos, dentre eles a dignidade, o direito à moradia, acesso à saúde e
 educação. Porém, se trata de um morador de rua que não teve tais
 direitos garantidos.
 
-Treino:
+\colorsec{Treino}
 
 Questão 1:
 
@@ -2444,7 +2444,7 @@ a monetização de determinados conteúdos, explique como é importante
 analisar quem são os financiadores e quais as propagandas e empresas
 relacionadas aos veículos de informação que conhecem.
 
-Atividades:
+\colorsec{Atividades}
 
 > Analise as duas notícias abaixo e responda as questões
 
@@ -2637,7 +2637,7 @@ Imagens e gráficos podem contribuir para embasar as informações e trazem
 mais confiabilidade à notícia pois podem ser interpretados, questionados
 e verificados.
 
-Treino
+\colorsec{Treino}
 
 Questão 1
 
@@ -2830,7 +2830,7 @@ discursos diretos e indiretos e do uso de advérbios que qualificam as
 ações com advérbios que indicam urgência, condições, sugestões,
 obrigatoriedade, etc
 
-Atividades:
+\colorsec{Atividades}
 
 ![](./imgSAEB_7_POR/media/image9.png){width="2.8553554243219597in"
 height="2.8553554243219597in"}
@@ -2975,7 +2975,7 @@ sinônimo
 O verbo falar no segundo quadrinho se refere a opinião, e poderia ser
 substituído por dizer ou pensar. Pensaria, diria.
 
-Treino
+\colorsec{Treino}
 
 Questão 1:
 
@@ -3194,7 +3194,7 @@ Mostre como o uso das figuras de linguagem podem ampliar os efeitos de
 sentido, seja nos textos literários, nos textos jornalísticos, para
 efeitos de ironia, humor, etc.
 
-Atividades:
+\colorsec{Atividades}
 
 Que, havendo tanto já que as partes vendo
 
@@ -3302,7 +3302,7 @@ O vento sopra com sua bocarra, os pássaros, seus eternos namorados,
 
 acordam cantando ao ouvi-la se espreguiçar.
 
-Treino:
+\colorsec{Treino}
 
 Questão 1:
 
@@ -3464,7 +3464,7 @@ Chame a atenção para os diversos tipos, funções e classes gramaticais de
 palavras que podem ser usadas a fim de contribuir para estabelecer um
 discurso coeso e bem elaborado.
 
-Atividades:
+\colorsec{Atividades}
 
 > Analise o trecho abaixo:
 >
@@ -3587,7 +3587,7 @@ c)Adoraria viajar nas minhas férias, porém não tenho dinheiro para isso.
 
 ( F) Devem ser usados apenas por quem pretende escrever um texto
 
-Treino
+\colorsec{Treino}
 
 Questão 1
 
@@ -3762,7 +3762,7 @@ Portanto, é importante valorizar e respeitar a diversidade linguística
 como um patrimônio cultural e expressivo que considera todos os falantes
 da língua, combatendo os preconceitos e promovendo a inclusão social.
 
-Atividades:
+\colorsec{Atividades}
 
 1)  Quais são os fatores que devem ser considerados para compreender as
     variações linguísticas existentes entre os falantes de uma mesma
@@ -3898,7 +3898,7 @@ comunicação em determinados contextos
 
 \(X\) Mensagens em redes sociais
 
-Treino:
+\colorsec{Treino}
 
 Questão 1:
 
@@ -4027,7 +4027,7 @@ jargões e expressões técnicas
 
 Nível difícil
 
-**Simulado 1**
+# Simulado 1
 
 **Questão 1:**
 

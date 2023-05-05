@@ -14,7 +14,7 @@ O poder, por sua vez, pode ser exercido dentro ou fora dessas instituições, ta
 
 As instituições do estado podem ser vistas como um meio de equilibrar as relações de poder, estabelecendo regras claras e garantindo a participação cidadã nas decisões políticas. No entanto, as instituições também podem ser usadas como mecanismos de controle e dominação por parte dos grupos dominantes, reforçando as desigualdades sociais e econômicas. Portanto, a relação entre poder, estado e instituições é dinâmica e exige uma análise crítica constante para entender e promover a justiça e a igualdade na sociedade.}
 
-Atividades
+\colorsec{Atividades}
 
 Leia o texto para resolver as atividades 1 e 2.
 
@@ -157,7 +157,7 @@ formação de um novo Estado. Por isso, é importante que ocorra a
 manifestação dos locais, na tentativa de tentar transmitir o sentimento
 nacional, divergente da unidade territorial espanhola.}
 
-# Treino
+\colorsec{Treino}
 
 \num{1} Leia o texto.
 
