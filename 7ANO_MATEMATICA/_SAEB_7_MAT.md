@@ -6285,7 +6285,7 @@ $$P(1).P(2).P(3) = \ 0,551\ \text{aproximadamente}\ 55\%.$$
 D- Errada, para que os arremessos fossem perto de 1%, a probabilidade de
 erro do arremessador seria muito perto de 0,98, ou melhor, 98%.
 
-Simulado 1
+# Simulado 1
 
 1\) Sandra e Letícia montaram um percurso cheio de obstáculos, chamaram
 seus amigos para completarem o percurso enquanto elas cronometravam para
@@ -6813,7 +6813,7 @@ Para encontrar o valor de s basta substituir o valor de t dado. Assim,
 
 $$5c = d\  \rightarrow \ 5c = 75\  \rightarrow \ c = \frac{75}{5} = 15$$
 
-Simulado 2
+# Simulado 2
 
 1\) Marcela vai fazer uma viagem para o exterior e precisa levar pelo
 menos 300 combinações diferentes de looks para um ensaio fotográfico. Na
@@ -7327,7 +7327,7 @@ $$s - 15 = 2t\  \rightarrow \ s - 15 = 2\  \times \ 8\  \rightarrow \ s - 15 = 1
 
 D - Errada, pois ao invés de fazer 16 + 15, fez 16-15.
 
-Simulado 3
+# Simulado 3
 
 1\) Fabrício colocou em uma tabela, o lucro de todos os dias da semana
 do restaurante em que é dono. Temos que o lucro foi superior a 400
@@ -7814,7 +7814,7 @@ $x - 2 + 20$.
 D - Errada, pois além de não fazer o jogo de sinal com o y, não trocou a
 operação do 18 que encontrou ao mudar de lado na igualdade.
 
-Simulado 4
+# Simulado 4
 
 1\) Em uma corrida, o primeiro lugar ganhou com diferença de 0,035 de
 tempo para o segundo lugar. A diferença de tempo por extenso é:

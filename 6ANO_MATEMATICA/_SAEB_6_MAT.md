@@ -4771,7 +4771,7 @@ pares como formas de buscar uma solução.
 
 alternativa D, correta 1/730
 
-Simulado 1
+# Simulado 1
 
 1\) O maior cometa já descoberto é o Holmes, que possui 2 251 km de
 diâmetro
@@ -5264,7 +5264,7 @@ Alternativa D: incorreta, a falta de adaptação a planificações e vistas
 aéreas pode levar ao aluno confusão de figuras chegando a assinalar essa
 alternativa sem compreender realmente o que a figura representa.
 
-Simulado 2
+# Simulado 2
 
 1\) Marcos têm três filhos cujas idades foram representadas em números
 romanos:
@@ -5818,7 +5818,7 @@ Alternativa D: correta, pois:
 
 Trata-se de um octógono, por possuir 8 lados e 8 ângulos.
 
-Simulado 3
+# Simulado 3
 
 1\) Ana Beatriz estava lendo um artigo sobre a escrita dos números pelos
 romanos quando se deparou com o seguinte número: MMMDCCXVIII. Curiosa,
@@ -6291,7 +6291,7 @@ divisão.
 Alternativa D: incorreta o aluno pode realizar uma multiplicação ao
 invés de divisão
 
-Simulado 4
+# Simulado 4
 
 1\) Adalberto encontrou nos cadernos antigos de seu pai o seguinte
 número em escrita egípcia:

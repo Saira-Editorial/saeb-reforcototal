@@ -4943,7 +4943,7 @@ Alternativa c.
 
  
 
-Simulado 1
+# Simulado 1
 
 1.  Os números distribuídos abaixo pertencem a dois conjuntos.
 
@@ -5415,7 +5415,7 @@ ou seja, aproximadamente 22%.
 
 Alternativa c.
 
-Simulado 2
+# Simulado 2
 
 1.  Observe a reta numérica abaixo:
 
@@ -5906,7 +5906,7 @@ cm.
 
 Alternativa c.
 
-Simulado 3
+# Simulado 3
 
 1.  O número $\sqrt{8} + \sqrt{18}$ pode ser escrito como:
 
@@ -6366,7 +6366,7 @@ $P\left( A \right) = \frac{6}{36} = \frac{1}{6}$*.*
 
 *Alternativa d.*
 
-Simulado 4
+# Simulado 4
 
 1.  O número $\sqrt{12}$ é um número:
 

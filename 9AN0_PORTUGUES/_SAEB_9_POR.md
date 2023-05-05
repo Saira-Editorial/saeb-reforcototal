@@ -4148,7 +4148,7 @@ complemento e se ligam a ele indiretamente.
 d\) Incorreta. O objeto indireto é o termo que completa o sentido de um
 verbo transitivo indireto.
 
-Simulados
+# Simulado
 
 1\. Leia o cartaz de uma campanha publicitária.
 
