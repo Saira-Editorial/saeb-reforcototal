@@ -1,4 +1,6 @@
-# Módulo 1: Conjuntos Numéricos
+# Módulo 1 
+
+  Conjuntos Numéricos
 
 \conteudo{Os números racionais e irracionais são duas categorias de números
 importantes na matemática.
@@ -267,7 +269,9 @@ d)  **D**
 O item D, pois entre os números 1 e 2 temos 9 marcações e a letra D está
 na sexta marcação, o que corresponde a 1,6.
 
-# Módulo 2: Operações
+# Módulo 2 
+
+  Operações
 
 \conteudo{...}
 
@@ -595,7 +599,9 @@ BNCC: EF09MA04 SAEB: 9N1.4
 
 $150 \cdot \frac{1}{1000000000} = \ 150 \cdot \frac{1}{10^{9}} = 150 \cdot 10^{- 9} = 1,5 \cdot 10^{- 7}m$
 
-# Módulo 3: Frações (associadas a imagens e fração geratriz)
+# Módulo 3 
+
+  Frações (associadas a imagens e fração geratriz)
 
 \conteudo{...}
 
@@ -909,7 +915,9 @@ ou seja, Juca comeu 14 pedaços dos 35 disponíveis. A fração que ele
 comeu de chocolate foi $\frac{14}{35} = \frac{2}{5}$ que está
 representada na alternativa b.
 
-# Módulo 4: Porcentagem: Aumentos e Descontos
+# Módulo 4 
+
+  Porcentagem Aumentos e Descontos
 
 \conteudo{...}
 
@@ -1204,7 +1212,9 @@ d)  404,32
 >
 > (1 -- 0,2) · (1 -- 0,05) · 560 = 0,8 · 095 · 560 = 425,60.
 
-# Módulo 5: Equação do 1º grau
+# Módulo 5 
+
+  Equação do 1º grau
 
 \conteudo{...}
 
@@ -1565,7 +1575,9 @@ x+2 = 12
 
 10·11·12 = 1 320
 
-# Módulo 6: Sequências e Expressões Algébricas
+# Módulo 6 
+
+  Sequências e Expressões Algébricas
 
 \conteudo{...}
 
@@ -1946,7 +1958,9 @@ Montando a equação, sabemos que:
 
 x=17
 
-# Módulo 7: Equações do 2º grau
+# Módulo 7 
+
+  Equações do 2º grau
 
 \conteudo{...}
 
@@ -2337,7 +2351,9 @@ x = 12
 
 Única raiz, ou seja, são gêmeos.
 
-# Módulo 8: Grandezas Direta e Inversamente Proporcionais
+# Módulo 8 
+
+  Grandezas Direta e Inversamente Proporcionais
 
 \conteudo{
     [Grandeza Diretamente Proporcional]
@@ -2653,7 +2669,9 @@ minutos.
 
 Alternativa c.
 
-# Módulo 9: Função do 1º e 2º grau
+# Módulo 9 
+
+  Função do 1º e 2º grau
 
 \conteudo{...}
 
@@ -2965,7 +2983,9 @@ d)  (4,-3)
 > Pelo gráfico podemos localizar o ponto mais alto do gráfico e
 > determinar seu par ordenado que é (2,1). Alternativa B.
 
-# Módulo 10: Geometria Plana I
+# Módulo 10 
+
+  Geometria Plana I
 
 \conteudo{...}
 
@@ -3288,7 +3308,9 @@ BNCC: - SAEB: 9G1.4
 Entre todas as figuras listadas temos que apenas o quadrado tem ângulos
 internos iguais e lados iguais, por isso o único regular.
 
-# Módulo 11: Geometria II
+# Módulo 11 
+
+  Geometria II
 
 \conteudo{...}
 
@@ -3642,7 +3664,9 @@ Assim temos:
 
 Alternativa C.
 
-# Módulo 12: Deslocamento usando coordenadas
+# Módulo 12 
+
+  Deslocamento usando coordenadas
 
 \conteudo{...}
 
@@ -3965,7 +3989,9 @@ BNCC: - SAEB 9G2.1
 
 Alternativa A. Subiu 3 quadras Norte e 2 quartas Leste.
 
-# Módulo 13: Estatística
+# Módulo 13 
+
+  Estatística
 
 \conteudo{...}
 
@@ -4305,7 +4331,9 @@ celular quando comparado com os outros meios de acesso.
 
 Alternativa c.
 
-# Módulo 14: Unidades de medida
+# Módulo 14 
+
+  Unidades de medida
 
 \conteudo{...}
 
@@ -4600,7 +4628,9 @@ Calculando o volume do cilindro instalado como reservatório temos:
 $V = {1,5}^{2} \cdot 3,14 \cdot 3 = 21,195\ m³$, ou seja, 21 195 litros,
 o que atendeu a demanda com a sobra de 1 195 litros. Alternativa B.
 
-# Módulo 15: Probabilidade
+# Módulo 15 
+
+  Probabilidade
 
 \conteudo{...}
 
