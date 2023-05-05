@@ -296,7 +296,7 @@ http://www.viagemliteraria.com.br/2021/03/a-familia-mandible-lionel-shriver.html
 
 Acesso em: 10 fev. 2023 (fragmento adaptado).
 
-**Questão 1**
+\num{1}
 
 Os gêneros textuais podem ser reconhecidos com base em determinadas
 características que apresentam. Considerando-se as características do
@@ -340,7 +340,7 @@ avaliação que a resenhista trará sobre o livro não tem o objetivo de
 vendê-lo como mercadoria para o leitor, e sim dizer-lhe se deve
 experimentar lê-lo ou não.
 
-**Questão 2**
+\num{2}
 
 A resenhista ressalta um diferencial do livro. Esse diferencial, segundo
 ela, foi que a convenceu a lê-lo, e também pode interessar ao público. O
@@ -383,7 +383,7 @@ Unidos, em vez do mais comum, que é uma invasão zumbi ou alienígena, e
 isso a deixa ainda mais instigada a lê-lo e pode também incentivar o
 leitor.
 
-**Questão 3**
+\num{3}
 
 ![Jornal com texto preto sobre fundo branco Descrição gerada
 automaticamente](./imgSAEB_8_POR/media/image2.jpeg){width="2.5625in"
@@ -680,7 +680,7 @@ profissionais da saúde e a outros interessados em plantas medicinais.
 
 \colorsec{Treino}
 
-**Questão 1**
+\num{1}
 
 ![Interface gráfica do usuário, Texto, Aplicativo, chat ou mensagem de
 texto, Email Descrição gerada
@@ -726,7 +726,7 @@ didatismo nem se encontram no texto marcas de instrução ao leitor.
 \(D\) Correta. O gênero notícia tem a finalidade de informar o leitor
 sobre acontecimentos passados e futuros relevantes para a sociedade.
 
-**Questão 2**
+\num{2}
 
 A nova variante Ômicron do novo coronavírus fez com que o mundo
 mergulhasse em uma nova onda da doença no começo de 2022. Já nos
@@ -786,7 +786,7 @@ tem maior credibilidade, de modo que as aspas servem, ao mesmo tempo,
 para comprovar que a notícia veicula informações reais já confirmadas
 por instituição competente.
 
-**Questão 3**
+\num{3}
 
 Se alguém lhe disser: "você dorme como um urso!", saiba que anda
 dormindo demais. Afinal, ursos são capazes de dormir por muito, muito
@@ -1260,7 +1260,7 @@ LIMA, Nelson. Disponível em:
 http://dominiopublico.mec.gov.br/download/texto/ea000321.pdf. Acesso em:
 23 mar. 2023 (fragmento).
 
-**Questão 1**
+\num{1}
 
 O recurso empregado na descrição da experiência vivida na cena do poema
 é o apelo
@@ -1289,7 +1289,7 @@ caramelo e à própria boca.
 
 \(D\) Incorreta. O apelo humorístico não está presente no poema.
 
-**Questão 2**
+\num{2}
 
 Qual visão de mundo já abordada por diferentes filósofos está implícita
 no poema?
@@ -1324,7 +1324,7 @@ e não a saúde ou a sabedoria.
 \(D\) Incorreta. O poema descreve as sensações de um momento específico
 e não a busca da felicidade.
 
-**Questão 3**
+\num{3}
 
 **Smita**
 
@@ -1609,7 +1609,7 @@ sempre tão escuro. Quase que já não sabia onde é que estava a luz, onde
 GUIMARAENS, J. A*. Contos e novelas*. Rio de Janeiro: Imago, 1976
 (fragmento).
 
-**Questão 1**
+\num{1}
 
 No texto, emprega-se uma técnica narrativa de gerenciamento de vozes em
 que
@@ -1641,7 +1641,7 @@ expressiva, embora estejam inseridas na voz do narrador.
 \(D\) Incorreta. Os sinais gráficos de marcação do discurso direto, como
 travessão e aspas, não são usados no discurso indireto livre.
 
-**Questão 2**
+\num{2}
 
 Analisando a técnica narrativa de gerenciamento de vozes empregada no
 texto, infere-se que o narrador
@@ -1679,7 +1679,7 @@ por eles.
 vozes do menino e da galinha tal como são ditas ou pensadas, embora não
 estejam marcadas graficamente como discurso direto.
 
-**Questão 3**
+\num{3}
 
 **POPline**: Quando vocês \[Nando Reis e Pitty\] tiveram a ideia de sair
 em turnê juntos? Foi papo de empresário ou partiu de vocês?
@@ -1946,7 +1946,7 @@ era mais passivo.
 
 \colorsec{Treino}
 
-**Questão 1**
+\num{1}
 
 As cianobactérias podem, sob certas condições, crescer com rapidez nos
 cursos d\'água, formando colônias visíveis. A maioria dos casos de
@@ -1988,7 +1988,7 @@ relação necessária de causa e consequência.
 
 \(D\) Incorreta. O trecho expressa um fato.
 
-**Questão 2**
+\num{2}
 
 **Conexão**
 
@@ -2035,7 +2035,7 @@ expõe sua subjetividade por meio do relato de vivências e experiências
 pessoais, ao mesmo tempo fazendo perguntas retóricas ao leitor para
 buscar uma interação entre ambas as vivências, do autor e do leitor.
 
-**Questão 3**
+\num{3}
 
 **Direito de ter direitos**
 
@@ -2326,7 +2326,7 @@ para esse tipo de transporte historicamente ocupado pela elite.
 
 \colorsec{Treino}
 
-**Questão 1**
+\num{1}
 
 **Reunião de mães**
 
@@ -2366,7 +2366,7 @@ idade escolar.
 
 \(D\) Incorreta. Não há quebra de expectativa no texto.
 
-**Questão 2**
+\num{2}
 
 **TEXTO I**
 
@@ -2426,7 +2426,7 @@ necessária aos efeitos de humor.
 posicionamento crítico frente ao fato, isto é, a parcialidade é que se
 faz presente.
 
-**Questão 3**
+\num{3}
 
 **Conexão**
 
@@ -2704,7 +2704,7 @@ apresentada no texto IV.
 
 \colorsec{Treino}
 
-**Questão 1**
+\num{1}
 
 **Ipea: população em situação de rua no Brasil supera 281 mil**
 
@@ -2757,7 +2757,7 @@ permanente.
 \(D\) Incorreta. O texto não aborda a solidariedade nem campanhas de
 doação.
 
-**Questão 2**
+\num{2}
 
 **TEXTO I**
 
@@ -2812,7 +2812,7 @@ faz uma reclamação sobre a greve por ser opinativo.
 se solidariza com as pessoas que depende do transporte público,
 avaliando negativamente a greve.
 
-**Questão 3**
+\num{3}
 
 **TEXTO I**
 
@@ -3196,7 +3196,7 @@ Disponível em:
 https://agenciabrasil.ebc.com.br/geral/noticia/2023-03/manaus-sofre-com-expansao-urbana-em-assentamentos-precarios.
 Acesso em: 19 mar. 2023 (fragmento).
 
-**Questão 1**
+\num{1}
 
 O texto, sendo do gênero notícia, privilegia na manchete o emprego de
 verbos no tempo presente, produzindo o efeito de
@@ -3235,7 +3235,7 @@ com objetividade, embora possa apresentar traço de opinião. Entretanto,
 o tempo verbal presente não é um dos elementos linguísticos usados para
 marcar opinião.
 
-**Questão 2**
+\num{2}
 
 Os termos "expansão urbana" e "crescimento desordenado", ao revelarem
 posicionamentos distintos em relação ao mesmo fato, exemplificam o
@@ -3273,7 +3273,7 @@ de notícias em relação ao fato.
 desejável no gênero notícia, apenas uma das expressões, o termo
 "expansão urbana", traz um efeito semântico mais imparcial.
 
-**Questão 3**
+\num{3}
 
 A transmissão de informações sobre o fato mescla-se, na notícia, com a
 emissão de posicionamento do veículo, manifestado no(a)
@@ -3480,7 +3480,7 @@ usar uma expressão mais pesada como "mentir".
 
 \colorsec{Treino}
 
-**Questão 1**
+\num{1}
 
 Enquanto minha mãe era velada na sala de casa, tia Leonor me trocou a
 roupa e disse: "A mamãe descansou". Fiquei sem saber o que pensar; tinha
@@ -3532,7 +3532,7 @@ da mãe.
 real da expressão usada pela tia. Esse entendimento foi provocado em
 outra situação posterior, vivida com a avó.
 
-**Questão 2**
+\num{2}
 
 Se eu pudesse trincar a terra toda
 
@@ -3592,7 +3592,7 @@ faz presente no poema.
 \(D\) Incorreta. Trata-se da ironia, figura de linguagem que significa o
 contrário do que se diz, característica que não se encontra no poema.
 
-**Questão 3**
+\num{3}
 
 **Obesidade infantil é tema do programa Salto para o Futuro**
 
@@ -3892,7 +3892,7 @@ lei]{.underline} e [a realidade]{.underline}.
 
 \colorsec{Treino}
 
-**Questão 1**
+\num{1}
 
 \[\...\]
 
@@ -3950,7 +3950,7 @@ dito.
 \(D\) Correta. O termo "pequenita" retoma o nome Georgeana e, ao mesmo
 tempo, qualifica a menina, indicando que era uma criança.
 
-**Questão 2**
+\num{2}
 
 Se alguém lhe disser: "você dorme como um urso!", saiba que anda
 dormindo demais. Afinal, ursos são capazes de dormir por muito, muito
@@ -3997,7 +3997,7 @@ progressão textual, na medida em que o segundo e o terceiro retomam a
 ideia do primeiro, porém especificando-o, numa relação semântica de todo
 (recursos naturais) e parte (folhas e frutos).
 
-**Questão 3**
+\num{3}
 
 As primeiras duas décadas do século XXI, no Brasil e no mundo
 globalizado, foram marcadas por consideráveis avanços científicos,
@@ -4474,7 +4474,7 @@ adequada.
 
 \colorsec{Treino}
 
-**Questão 1**
+\num{1}
 
 **POPline**: Quando vocês \[Nando Reis e Pitty\] tiveram a ideia de sair
 em turnê juntos? Foi papo de empresário ou partiu de vocês?
@@ -4520,7 +4520,7 @@ linguística.
 \(D\) Incorreta. Os termos não exemplificam nenhum tipo de variação
 linguística.
 
-**Questão 2**
+\num{2}
 
 **Conexão**
 
@@ -4572,7 +4572,7 @@ leitores possível, daí seu caráter mais acessível.
 disso, a linguagem coloquial não pressupõe que o leitor deva ser menos
 escolarizado.
 
-**Questão 3**
+\num{3}
 
 **Mudança**
 
@@ -4637,7 +4637,7 @@ letra.
 
 **[SIMULADO 1]{.underline}**
 
-**Questão 1**
+\num{1}
 
 **Direito de ter direitos**
 
@@ -4683,7 +4683,7 @@ conteúdo como condição para se compreender o trecho.
 o uso da palavra "cidadania" é frequente, mas seu significado é pouco
 conhecido.
 
-**Questão 2**
+\num{2}
 
 ![Uma imagem contendo Código QR Descrição gerada
 automaticamente](./imgSAEB_8_POR/media/image28.png){width="4.03125in"
@@ -4728,7 +4728,7 @@ cartaz.
 determinado tipo de traje e adornos típicos de um grupo social que usa
 as gírias de interação "bicho" e "se liga", presentes no texto verbal.
 
-**Questão 3**
+\num{3}
 
 Pescadores e caçadores são sempre os heróis de suas histórias \[\...\].
 Quem quiser acreditar neste causo, aqui relatado, que acredite! Não sou
@@ -4800,7 +4800,7 @@ estado. Enquanto aproveitam a praia, eles conversam:
 
 Elaborado pelo autor.
 
-**Questão 4**
+\num{4}
 
 No diálogo, o fato de os amigos viverem em regiões diferentes faz com
 que eles
@@ -4830,7 +4830,7 @@ cada um dos personagens, condicionando o emprego de "bolacha" e
 \(D\) Incorreta. Biscoito e bolacha são variações do nome dado ao mesmo
 alimento com base no critério de região e não de sabor.
 
-**Questão 5**
+\num{5}
 
 O traço de humor do texto reside
 
@@ -4864,7 +4864,7 @@ palavra diferente para nomear o alimento. Isso fica claro quando ele
 finge não saber o que é "bolacha", pois em sua variedade linguística o
 termo mais aceito é "biscoito".
 
-**Questão 6**
+\num{6}
 
 +----------------------------------+----------------------------------+
 | ![Texto Descrição gerada         | > ![Uma imagem contendo texto,   |
@@ -4935,7 +4935,7 @@ https://seer.ufrgs.br/RevistaValise/article/download/41375/26239.
 
 Acesso em: 16 fev. 2023 (fragmento adaptado).
 
-**Questão 7**
+\num{7}
 
 O trecho é a transcrição de uma apresentação oral feita em um seminário
 universitário. Nesse contexto, o autor do texto privilegia o uso da
@@ -4971,7 +4971,7 @@ formalidade.
 \(D\) Incorreta. O texto não contém marcas de variação linguística
 regional.
 
-**Questão 8**
+\num{8}
 
 O trecho "Preparei uma seleção de imagens focando a apresentação na
 produção de desenho, que é tema deste seminário" contém o elemento
@@ -5003,7 +5003,7 @@ embora seja catafórico.
 \(D\) Incorreta. O termo, embora seja formado por pronome que indica
 posse, não remete ao sujeito.
 
-**Questão 9**
+\num{9}
 
 Trago dentro do meu coração,
 
@@ -5066,7 +5066,7 @@ e, de fato, as admira, porém ele se refere a elas por representarem
 características particulares dos locais, não necessariamente por gostar
 da natureza.
 
-**Questão 10**
+\num{10}
 
 ![Texto Descrição gerada automaticamente com confiança
 média](./imgSAEB_8_POR/media/image31.png){width="4.211025809273841in"
@@ -5105,7 +5105,7 @@ convencer as pessoas a procurar o diagnóstico antes que seja tarde.
 contágio é viral. Um fator de risco, por exemplo, para uma doença viral
 é frequentar locais com grande público.
 
-**Questão 11**
+\num{11}
 
 **TEXTO I**
 
@@ -5184,7 +5184,7 @@ somente entretê-las não se relaciona com a notícia do texto I; a baixa
 cobertura vacinal citada no texto I se relaciona com a necessidade de
 atrair a população para vacinar suas crianças.
 
-**Questão 12**
+\num{12}
 
 **TEXTO I**
 
@@ -5237,7 +5237,7 @@ sua intenção não é fazer denúncia.
 informação nova que veicula. O texto II não visa conscientizar, embora o
 tema seja oportuno para tal empreitada.
 
-**Questão 13**
+\num{13}
 
 ![Interface gráfica do usuário, Texto, Aplicativo, chat ou mensagem de
 texto, Email Descrição gerada
@@ -5313,7 +5313,7 @@ conhece essa música?
 MADEIRA, Carla. *A natureza da mordida.* 1.ed. Rio de Janeiro: Record,
 2022 (fragmento).
 
-**Questão 14**
+\num{14}
 
 No diálogo, a personagem é interpelada duas vezes. Em relação à segunda
 pergunta que lhe é feita, sua resposta expressa
@@ -5347,7 +5347,7 @@ perguntas espontaneamente, sem demonstrar que se sente constrangida.
 de desconhecimento não é coerente porque a personagem não responde nem
 que sim, nem que não, ou seja, ela tem dúvida.
 
-**Questão 15**
+\num{15}
 
 A figura de linguagem empregada em "A primeira vez tem sempre os
 melhores ouvidos" introduz a intenção de
@@ -5386,7 +5386,7 @@ atenta.
 
 **SIMULADO 2**
 
-**Questão 1**
+\num{1}
 
 **Mudança**
 
@@ -5451,7 +5451,7 @@ coerência, o que é incorreto, pois trata-se de uma habilidade de
 articulação que mobiliza outros conhecimentos para além das regras da
 norma-padrão.
 
-**Questão 2**
+\num{2}
 
 ![Livro aberto com texto preto sobre fundo branco Descrição gerada
 automaticamente](./imgSAEB_8_POR/media/image35.png){width="1.8147419072615922in"
@@ -5489,7 +5489,7 @@ destaque à sua eficiência como recurso persuasivo.
 \(D\) Incorreta. O texto não menciona os locais ou estabelecimentos onde
 se pode comprar o produto.
 
-**Questão 3**
+\num{3}
 
 No filme "Matrix", clássico do gênero ficção científica, o protagonista
 Neo é confrontado pela descoberta de que o mundo em que vive é, na
@@ -5559,7 +5559,7 @@ uma orelha, depois um joelho, e a piada nem tinha essa graça toda.
 BUARQUE, Chico Buarque. *Budapeste.* São Paulo: Companhia das Letras,
 2003 (fragmento).
 
-**Questão 4**
+\num{4}
 
 A expressão "devia ser proibido" revela, da parte do
 narrador-personagem,
@@ -5600,7 +5600,7 @@ sido apontado pela professora.
 \(D\) Incorreta. O narrador se mostra decepcionado não com o erro, mas
 com a postura da professora ao caçoar dele duas vezes por ter errado.
 
-**Questão 5**
+\num{5}
 
 As duas ocorrências do pronome possessivo "dela" dependem de outro termo
 presente no texto para terem seu sentido completo. Esse termo é
@@ -5628,7 +5628,7 @@ ele aponta para um termo posterior na cadeia textual. Portanto, em
 
 \(D\) Incorreta. O pronome "dela" não se refere a "língua estrangeira".
 
-**Questão 6**
+\num{6}
 
 Num passado não muito distante\...
 
@@ -5675,7 +5675,7 @@ pretende não ser reconhecido e está sozinho caminhando no escuro de uma
 rodovia. Além disso, na descrição do cenário, percebe-se que é noite e
 que há neblina, o que dificulta a visibilidade.
 
-**Questão 7**
+\num{7}
 
 **Torto arado**
 
@@ -5760,7 +5760,7 @@ http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaol
 
 Acesso em: 21 fev. 2023 (fragmento).
 
-**Questão 8**
+\num{8}
 
 A ideia que o autor pretende sustentar no texto é a de que
 
@@ -5797,7 +5797,7 @@ opostos.
 \(D\) Incorreta. O autor cita o acesso ao conhecimento com um de exemplo
 de benefício da tecnologia.
 
-**Questão 9**
+\num{9}
 
 O articulador "em contrapartida" introduz no texto uma
 
@@ -5829,7 +5829,7 @@ conclusivo.
 tecnologia. O articulador introduz desvantagens, isto é, apresenta
 ideias opostas às anteriores e que avaliam negativamente a tecnologia.
 
-**Questão 10**
+\num{10}
 
 Estava exausto, cansado, mas não conseguia dormir. A adrenalina do show
 percorria todo o meu corpo dolorido, ainda sentia as batidas da banda
@@ -5881,7 +5881,7 @@ depara novamente com um problema que o incomoda pela frequência com que
 acontece: a dificuldade de memorizar os nomes dos lugares onde se
 apresenta.
 
-**Questão 11**
+\num{11}
 
 ![Texto Descrição gerada
 automaticamente](./imgSAEB_8_POR/media/image36.png){width="3.03125in"
@@ -5921,7 +5921,7 @@ para os cristãos é o salvador do mundo. Dessa forma, o sangue do doador
 \(D\) Incorreta. O cartaz se destina ao público em geral, sem distinção
 de crença, dada a importância dessa ação para quem precisa.
 
-**Questão 12**
+\num{12}
 
 Biosfera. O conjunto de todos os ecossistemas terrestres é chamado de
 biosfera, que significa a camada de vida que envolve a Terra. É a área
@@ -5991,7 +5991,7 @@ muito pouco.
 DOMINGOS, Reinaldo. *Como reduzir o impulso de comprar*. São Paulo: DSOP
 Educação Financeira, 2013 (fragmento).
 
-**Questão 13**
+\num{13}
 
 Em seu texto, o autor desenvolve uma crítica ao comportamento
 
@@ -6025,7 +6025,7 @@ dos que já adquiriu.
 presente no texto, mas não com destaque. O conformismo é mencionado
 apenas no fim do texto como um tipo de sintoma do consumismo.
 
-**Questão 14**
+\num{14}
 
 A finalidade comunicativa do texto indica que foi organizado em forma de
 
@@ -6055,7 +6055,7 @@ da sociedade apresentando argumentos que fundamentem a tese.
 \(D\) Incorreta. A carta de reclamação tem destinatário certo, o que não
 ocorre no texto em questão.
 
-**Questão 15**
+\num{15}
 
 **TEXTO I**
 
@@ -6129,7 +6129,7 @@ no meio jornalístico.
 
 **[SIMULADO 3]{.underline}**
 
-**Questão 1**
+\num{1}
 
 **TEXTO I**
 
@@ -6191,7 +6191,7 @@ falante em adequar-se ao contexto sociocomunicativo, tal como num
 tribunal, em que se exige um padrão de linguagem predominantemente
 jurídica.
 
-**Questão 2**
+\num{2}
 
 **A Raposa e as Uvas**
 
@@ -6247,7 +6247,7 @@ uvas os quais provavelmente lhe trariam algum mal se fossem verdadeiros,
 porém são inventados por ela para evitar admitir sua limitação em
 alcançar as uvas.
 
-**Questão 3**
+\num{3}
 
 ![Diagrama Descrição gerada
 automaticamente](./imgSAEB_8_POR/media/image38.png){width="3.6555555555555554in"
@@ -6291,7 +6291,7 @@ cotidiano.
 da campanha, apenas chama o leitor à ação, após o texto "provar" a ideia
 de que a dor de doar sangue é menor que muitas outras na vida.
 
-**Questão 4**
+\num{4}
 
 A criança que fui chora na estrada.
 
@@ -6335,7 +6335,7 @@ em textos teatrais, por exemplo.
 \(D\) Incorreta. Por se tratar de um poema, o texto pertence ao gênero
 lírico e não ao gênero narrativo.
 
-**Questão 5**
+\num{5}
 
 Bula de Remédio: documento que acompanha um medicamento para orientar o
 usuário quanto à ingestão.
@@ -6410,7 +6410,7 @@ público das arquibancadas \[\...\].
 GALEANO, E. *Futebol ao sol e à sombra*. Porto Alegre: L&PM, 1995
 (fragmento).
 
-**Questão 6**
+\num{6}
 
 Nas relações de sentido construídas no texto, o termo "dever" se
 relaciona, no contexto do futebol, com a ideia de roteiro, assim como
@@ -6447,7 +6447,7 @@ opõe-se ao futebol alegre, ousado e criativo.
 responsáveis pelo futebol roteirizado, que se relaciona com o dever e,
 consequentemente, opõe-se ao prazer.
 
-**Questão 7**
+\num{7}
 
 Do ponto de vista do jogador, o futebol do dever e o futebol do prazer
 caracterizam-se, respectivamente, por
@@ -6483,7 +6483,7 @@ criatividade não é associada pelo autor ao futebol de várzea. Ele diz
 que, por sorte, ainda se encontra um representante do futebol do prazer
 nos campos profissionais.
 
-**Questão 8**
+\num{8}
 
 Para realçar as qualidades do futebol do prazer sobre as do futebol do
 dever, o autor emprega exagero em
@@ -6519,7 +6519,7 @@ habilidade do jogador atrevido, por meio de uma linguagem conotativa,
 como forma de mostrar quanta criatividade está presente no futebol não
 roteirizado que privilegia o prazer e não o dever.
 
-**Questão 9**
+\num{9}
 
 No Distrito Federal, uma reportagem revelou orientações ilegais contidas
 em material utilizado no curso de formação de praças da PM. A Promotoria
@@ -6578,7 +6578,7 @@ dos conceitos como algo ilegal, por deturpar as orientações dadas a
 policiais num curso de formação, e a notícia manteve o tom de gravidade
 da prática.
 
-**Questão 10**
+\num{10}
 
 VERA -- (sentando-se pensativa) Algo de ruim aconteceu a ele. Pode até
 estar morto! Oh, Michael, estou tão angustiada com Dmitri.
@@ -6628,7 +6628,7 @@ espaço.
 personagens, isto é, em discurso direto. O narrador pode aparecer
 eventualmente, mas não reproduz falas de personagens.
 
-**Questão 11**
+\num{11}
 
 Mito 04: "Português é muito difícil": os estudantes, principalmente,
 utilizam essa afirmação (falsa!) para se referirem às** **regras da
@@ -6680,7 +6680,7 @@ não fazem essa distinção e acabam afirmando levianamente que o português
 é difícil, porque reduzem a língua, em todos os seus usos, àquela
 modalidade ensinada na escola.
 
-**Questão 12**
+\num{12}
 
 A gente se acostuma a morar em apartamentos de fundos e a não ter outra
 vista que não as janelas ao redor. E, porque não tem vista, logo se
@@ -6719,7 +6719,7 @@ marcadores temporais.
 marcado pela conjunção "porque", e todas as ações são consequência da
 ação principal que é morar em apartamento.
 
-**Questão 13**
+\num{13}
 
 TÍTULO I
 
@@ -6799,7 +6799,7 @@ inúteis e talvez perigosas.
 *RAMOS, Graciliano. Vidas secas. Rio de Janeiro: Record, 2013
 (fragmento).*
 
-**Questão 14**
+\num{14}
 
 A descrição física e psicológica do personagem contribui caracterizá-lo
 como alguém
@@ -6835,7 +6835,7 @@ a falta de conhecimento das letras o fio condutor do texto.
 língua com que se dirige aos brutos, isso não é sinônimo de mau humor, e
 sim de uma forma austera de tratamento.
 
-**Questão 15**
+\num{15}
 
 Em "Na verdade falava pouco", o narrador introduz uma
 
@@ -6864,7 +6864,7 @@ leitor uma visão mais apurada do perfil do personagem descrito.
 
 **[SIMULADO 4]{.underline}**
 
-**Questão 1**
+\num{1}
 
 **Campus Party: reciclagem de lixo eletrônico dá origem a projetos
 sociais**
@@ -6918,7 +6918,7 @@ com o lançamento de inovações tecnológicas.
 \(D\) Incorreta. A geração de lixo eletrônico independe da existência de
 projetos sociais de destinação adequada e reutilização dos eletrônicos.
 
-**Questão 2**
+\num{2}
 
 **Obesidade infantil é tema do programa Salto para o Futuro**
 
@@ -6970,7 +6970,7 @@ questão não remete aos dados da OMS, citado no texto.
 \(D\) Incorreta. A referenciação promovida na relação entre os termos em
 questão não se relaciona diretamente com o convite feito ao espectador.
 
-**Questão 3**
+\num{3}
 
 **TEXTO I**
 
@@ -7049,7 +7049,7 @@ Disponível em: https://bvsms.saude.gov.br/bvs/folder/10006001944.pdf.
 
 Acesso em: 09 mar. 2023 (adaptado).
 
-**Questão 4**
+\num{4}
 
 A campanha, na linguagem verbal e não verbal, busca ganhar a adesão do
 público por meio da ênfase
@@ -7083,7 +7083,7 @@ infantil, que teme a aplicação de injeção.
 \(D\) Incorreta. A referência ao público no texto e na fotografia cumpre
 apenas um caráter informativo.
 
-**Questão 5**
+\num{5}
 
 Textos publicitários utilizam diferentes recursos na construção da
 mensagem. Na campanha apresentada, o recurso utilizado é
@@ -7114,7 +7114,7 @@ sentido figurado de desdenhar da doença.
 \(D\) Incorreta. O texto da campanha apresenta um jogo entre os sentidos
 figurado e literal, como na expressão "mostre a língua".
 
-**Questão 6**
+\num{6}
 
 Passava das 11 horas da noite quando Bento deixou a fazendo do compadre
 Chico em sua velha caminhonete vermelha. Estava a pouco menos de vinte
@@ -7157,7 +7157,7 @@ distância.
 \(D\) Incorreta. Trata-se de uma referência à morte do amigo que
 percorria aquele trajeto.
 
-**Questão 7**
+\num{7}
 
 Era uma O ônibus Greyhound fez sua parada regular em Meade, Ohio, uma
 insignificante cidade produtora de papel a uma hora ao sul de Columbus
@@ -7242,7 +7242,7 @@ domingo vou jantar com você". \[\...\]
 ASSIS, Machado de. *Dom Casmurro*. Rio de Janeiro: Nova Aguilar, 1994
 (fragmento).
 
-**Questão 8**
+\num{8}
 
 O narrador considera ser uma anedota a situação que vivenciou com um
 rapaz no trem. A situação pode ser considerada engraçada porque
@@ -7275,7 +7275,7 @@ pelo cansaço.
 rapaz indignado. Entretanto, ele não percebeu que se tratou de cansaço e
 não de indiferença.
 
-**Questão 9**
+\num{9}
 
 De acordo com o contexto, o uso da expressão "fechei os olhos três ou
 quatro vezes" teve o objetivo de
@@ -7311,7 +7311,7 @@ vezes que o narrador dormiu.
 atenção no rapaz foi o cansaço, pois ele nega que tenha sido indiferente
 ao poema do rapaz.
 
-**Questão 10**
+\num{10}
 
 **O goleiro**
 
@@ -7368,7 +7368,7 @@ num único lance. Não se trata do efeito de humor do texto.
 citados para fins de comparação do quanto um goleiro precisa fazer para
 ser reconhecido ou para recuperar esse reconhecimento perante a torcida.
 
-**Questão 11**
+\num{11}
 
 **Manutenção**
 
@@ -7423,7 +7423,7 @@ o caso de um apelo, pois privilegia a objetividade.
 \(D\) Incorreta. Sendo o texto do gênero manual de instruções, não se
 trata de convite.
 
-**Questão 12**
+\num{12}
 
 **TEXTO I**
 
@@ -7524,7 +7524,7 @@ influenciam o poeta em seu fazer poético.
 \(D\) Incorreta. A intertextualidade é um fenômeno identificável no
 conteúdo e não na forma de textos.
 
-**Questão 13**
+\num{13}
 
 **Como nuvens pelo céu**
 
@@ -7587,7 +7587,7 @@ transitórias.
 referido no poema. O eu lírico, ao contrário, não reconhece seus sonhos
 porque são passageiros.
 
-**Questão 14**
+\num{14}
 
 Assim como acontece em várias famílias brasileiras, na minha há uma
 prática comum: quem ascende socialmente numa capital (no caso, Salvador)
@@ -7628,7 +7628,7 @@ retomam um único trecho mesmo sendo formas linguísticas diferentes entre
 si. Eles retomam o seguinte trecho: "quem ascende socialmente numa
 capital acaba "puxando" os parentes do interior".
 
-**Questão 15**
+\num{15}
 
 Se eu pudesse trincar a terra toda
 
