@@ -1,92 +1,43 @@
-**Módulo 6**
+# 6. A construção da integração mundial
 
-A construção da integração mundial
+\colorsec{Eixo de conhecimento do SAEB}
+Relações de trabalho e circulação.
 
-Este módulo foi estruturado pensando em como o avanço da tecnológico na
-produção agropecuária industrial, mudaram a configuração da população
-urbana/rural, no Brasil, além de como as relações de trabalho no país é
-afetado por tal dinâmica. Além disso, tem-se como o avanço da
-industrialização impacta a dinâmica populacional e as formas de
-organização trabalhista.
+\colorsec{Habilidades da BNCC}
+EF09GE10, EF09GE11, EF09GE12.
 
-Habilidades BNCC: EF09GE10, EF09GE11, EF09GE12
+\conteudo{A construção da integração mundial é um processo complexo e multifacetado, que envolve a interação de diversos fatores políticos, econômicos, sociais e culturais. Uma teoria possível sobre a construção da integração mundial é que ela é impulsionada pelo avanço das tecnologias de comunicação e transporte, que tornam o mundo cada vez mais interconectado. Isso cria oportunidades para a criação de redes de comércio, finanças, informação e conhecimento, que transcendem as fronteiras nacionais e regionais.
 
-Habilidades SAEB
+Além disso, a construção da integração mundial também é influenciada pelas mudanças nas relações políticas e econômicas entre os países. O aumento da interdependência econômica e a crescente importância das organizações internacionais, como a ONU e a OMC, são exemplos disso. A cooperação internacional, seja na forma de acordos bilaterais, regionais ou multilaterais, também pode facilitar a construção da integração mundial, ao promover a redução de barreiras comerciais, a livre circulação de pessoas e ideias, e a cooperação em questões globais, como a mudança climática e a pandemia de COVID-19.
 
-EIXO 1: RELAÇÕES DE TRABALHO E CIRCULAÇÃO
+Em última análise, a construção da integração mundial é um processo contínuo e em constante evolução, que envolve a interação de múltiplos fatores e atores. No entanto, é possível argumentar que a integração mundial pode trazer benefícios significativos para as pessoas e para o planeta, ao promover a cooperação, o desenvolvimento sustentável e a paz mundial.}
 
-Ao longo as atividades, ficará perceptível que as questões estão
-encadeadas, articulando-se entre si, desta forma, o conteúdo vai se
-articulando através de atividades interpretativas que mobilizam também o
-conteúdo previsto para ser visto ao longo dos quatro anos do Ensino
-fundamental -- anos finais, esta é uma forma que facilita a compreensão
-do aluno ao seguir uma estrutura que remete a uma sequência de aulas.
+\num{1} Leia o texto.
 
-*Relatório divulgado pelo Fórum Econômico Mundial prevê que, até 2025, a
-automação e a divisão do trabalho entre humanos e máquinas fecharão 85
-milhões de empregos no mundo em empresas de médio e grande porte em 15
-setores e 26 economias, incluindo o Brasil.*
+>Um relatório recente divulgado pelo Fórum Econômico Mundial prevê que a automação e a divisão do trabalho entre humanos e máquinas resultarão no fechamento de 85 milhões de empregos em empresas de médio e grande porte em 15 setores e 26 economias até 2025, incluindo o Brasil. As funções em áreas como processamento de dados, contabilidade e suporte administrativo devem ser as mais afetadas pela automação e a digitalização no local de trabalho.
 
-*Funções em áreas como processamento de dados, contabilidade e suporte
-administrativo são as que mais devem perder empregos à medida que a
-automação e a digitalização no local de trabalho aumentam.*
+~Fonte de pesquisa: Marta Cavallini. G1. Automação deve acabar com 85 milhões de empregos nos próximos 5 anos, diz relatório do Fórum Econômico Mundial. Disponível\ em:\ https://g1.globo.com/economia/concursos-e-emprego/noticia/2020/10/21/automacao-deve-fechar-85-milhoes-de-empregos-diz-relatorio-do-forum-economico-mundial.ghtml.\ Acesso em: 11\ mar.\ 2023.~
 
-~Disponível\ em:\ https://g1.globo.com/economia/concursos-e-emprego/noticia/2020/10/21/automacao-deve-fechar-85-milhoes-de-empregos-diz-relatorio-do-forum-economico-mundial.ghtml.\ Acesso\ 11\ mar.\ 2023.~
-
-\num{1} A partir da leitura do trecho acima, conceitue o tipo de desemprego
+A partir da leitura do texto, conceitue o tipo de desemprego
 especificado.
 
-O tipo de desemprego especificado no trecho é o estrutural, dada a
-mudança da estrutura produtiva -- automação, que irá substituir o
-trabalho manual.
+\coment{O tipo de desemprego especificado no texto é o estrutural, dada a
+mudança da estrutura produtiva (automação), que irá substituir o
+trabalho manual.}
 
-\num{2} Analise a imagem a seguir.
+\num{2} O **ludismo** foi um movimento inglês do início do século XIX no qual os trabalhadores destruíam as máquinas, alegando que elas eram responsáveis pela perda de postos de trabalho. Que mudanças na organização dos trabalhadores esse tipo de movimento propiciou?
 
-Inserir imagem de trabalhadores quebrando as máquinas industriais.
-Fonte: https://www.infoescola.com/historia/ludismo/
+\coment{O ludismo inaugura um período em que os trabalhadores canalizaram sua revolta contra as máquinas, mostrando a força coletiva do operariado. Com isso, conseguiram denunciar as péssimas condições de vida que tinham e lutar por melhoras nas condições de vida e trabalho de forma organizada e coletiva, o que mais tarde geraria os sindicatos.}
 
-![Ludismo - Movimento Ludita -
-InfoEscola](./imgSAEB_9_CHUM6/media/image1.jpeg){width="3.5416666666666665in"
-height="1.992396106736658in"}
+\num{3} Leia o texto.
 
-~Disponível\ em:\ https://www.infoescola.com/historia/ludismo/.\ Acesso\ em\ 10\ mar.\ 2023.~
+>O uso de máquinas na agricultura tem impactado negativamente o número de empregos no setor. De acordo com dados da Pesquisa Nacional por Amostra de Domicílios (Pnad 2012), houve uma redução de 756 mil vagas no campo em relação ao ano anterior. O setor agrícola, que empregava 20,4% da população em 2004, agora representa apenas 14,2% dos empregos na economia. Apesar da diminuição da mão-de-obra, a atividade agrícola continua a crescer devido à mecanização. Essa é a explicação dada pela gerente de pesquisas do IBGE, Maria Lucia França Pontes Vieira.
 
-O Ludismo foi um movimento inglês do início do século XIX no qual os
-trabalhadores destruíam as máquinas, alegando que elas eram responsáveis
-pela perda de postos de trabalho. A partir disso, quais os tipos de
-mudanças na organização dos trabalhadores este tipo de movimento
-propiciou?
+~Fonte de pesquisa: Terra. IBGE: mecanização elimina postos de trabalho no campo. Disponível\ em:\ https://www.terra.com.br/economia/ibge-mecanizacao-elimina-postos-de-trabalho-no-campo,e70882ddb7f61410VgnCLD200000bbcceb0aRCRD.html.\ Acesso\ em:\ 12\ mar.\ 2023.~
 
-O Ludismo inaugura um período em que os trabalhadores canalizaram sua
-revolta, contra as máquinas, mostrando a força coletiva do operariado.
-Com isso, conseguiram denunciar as péssimas condições de vida que
-tinham, e lutar por melhoras nas condições de vida e trabalho de forma
-organizada e coletiva, o que mais tarde geraria os sindicatos.
+Demonstre que esse texto tem relação com êxodo rual e desemprego estrutural.
 
-\num{3} Leia o trecho a seguir.
-
-*A mecanização do campo vem corroendo cada vez mais os empregos no setor
-agrícola. O contingente de trabalhadores no segmento vem sendo reduzido
-de forma constante, e os números de 2012 da Pesquisa Nacional por
-Amostra de Domicílios (Pnad 2012) corroboram essa tendência. No ano
-passado, houve redução de 756 mil vagas no campo na comparação com 2011.
-O setor agrícola fechou 2012 com 13,4 milhões de empregados.*
-
-*Com isso, entre os grupamentos de atividade da economia, a agricultura
-respondeu por 14,2% dos empregos. Antes, em 2004, essa proporção era bem
-maior, e correspondia a 20,4% do total. \"A atividade agrícola vem
-apresentando cada vez mais máquinas. A mão-de-obra é decrescente. Ter
-menos trabalhadores não implica na queda da atividade\", explica a
-gerente de pesquisas do IBGE, Maria Lucia França Pontes Vieira.*
-\[\...\].
-
-~Disponível\ em:\ https://www.terra.com.br/economia/ibge-mecanizacao-elimina-postos-de-trabalho-no-campo,e70882ddb7f61410VgnCLD200000bbcceb0aRCRD.html.\ Acesso\ em\ 12.\ Mar.\ 2023.~
-
-Sublinhe os termos associados ao texto apresentado acima.
-
-DESEMPREGO CONJUNTURAL -- ÊXODO URBANO -- MIGRAÇÃO PENDULAR [ÊXODO
-RURAL]{.underline} -- [DESEMPREGO ESTRUTURAL]{.underline} --
-TRANSUMÂNCIA
+\coment{O texto apresenta dados que indicam que o uso crescente de máquinas na agricultura tem resultado em uma redução significativa de empregos no campo. Esse fenômeno está relacionado a dois conceitos importantes: êxodo rural e desemprego estrutural. O êxodo rural é um processo de migração da população do campo para as cidades, muitas vezes em busca de melhores oportunidades de trabalho e de vida. A mecanização da agricultura tem sido um dos fatores que impulsionam o êxodo rural, uma vez que o uso de máquinas pode reduzir a necessidade de mão-de-obra no campo, tornando o trabalho agrícola menos atraente e menos rentável. O desemprego estrutural, por sua vez, é um tipo de desemprego que ocorre quando as mudanças na economia ou no mercado de trabalho tornam obsoletas algumas habilidades e profissões, fazendo com que trabalhadores percam seus empregos e encontrem dificuldades para se recolocar no mercado. No caso da agricultura, a mecanização tem sido um dos fatores que contribuem para o desemprego estrutural, uma vez que a demanda por trabalhadores no campo diminuiu significativamente com a adoção de máquinas e tecnologias. Assim, o texto mostra que o uso crescente de máquinas na agricultura tem impactado negativamente o emprego no campo, contribuindo para o êxodo rural e o desemprego estrutural. Esses fenômenos têm consequências importantes para a economia e a sociedade, pois podem levar à concentração de renda, à pobreza e ao aumento da desigualdade social.}
 
 \num{4} Analise o gráfico a seguir.
 
@@ -103,43 +54,34 @@ height="2.920126859142607in"}
 Tendo em vista o gráfico, aponte dois fatores responsáveis pela mudança
 da configuração populacional brasileira a partir dos anos de 1970.
 
-A partir dos anos de 1970 o Brasil passou a ter maior parte da população
-vivendo em ambiente urbano, concluindo o processo do êxodo rural. Dessa
-forma, dois fatores relacionados a este processo compreendem o processo
-de industrialização em vigor no país, que aumentava os postos de
+\coment{A partir dos anos de 1970, o Brasil passou a ter maior parte da população
+vivendo em ambiente urbano, concluindo o processo do êxodo rural, em razão da industrialização em vigor no país, que aumentava os postos de
 trabalho nas cidades e oferecia diferentes condições de vida, além da
-mecanização do campo, reduzindo as possibilidades de trabalho no
-ambiente rural.
+mecanização do campo, que reduzia as possibilidades de trabalho no
+ambiente rural.}
 
-\num{5} Leia o trecho a seguir:
+\num{5} Leia o trecho a seguir.
 
-\[\...\] *Aqui a população que reside nas cidades passou de 45% em 1960
+>Aqui a população que reside nas cidades passou de 45% em 1960
 para 75% em 1990 e mais de 80% em 2000. Essa transferência intensa para
 as cidades foi fruto de uma política desenvolvimentista implementada a
 partir da década 50. A entrada de tecnologia e capital financeiro
 imprimiu um novo ritmo à economia brasileira, e progressivamente a
 população foi se transferindo para as cidades. O setor agrário da
 economia, sobretudo a partir da década de 70, mecanizou-se, liberou
-mão-de-obra e as cidades sofreram um crescimento demográfico repentino.*
+mão-de-obra e as cidades sofreram um crescimento demográfico repentino.
 
-~ROSS,\ Jurandyr.\ A\ Sociedade\ Industrial\ e\ o\ Ambiente.~
-~In:\ Geografia\ do\ Brasil.\ São\ Paulo:\ EDUSP.~
+~Jurandyr Ross.\ A\ sociedade\ industrial\ e\ o\ ambiente. In:\ _Geografia\ do\ Brasil_.\ São\ Paulo:\ EDUSP, 2019.~
 
-Analise a afirmativa que segue:
+Com base no texto, você concorda com a ideia de que o crescimento demográfico das cidades brasileiras foi acompanhado de amplo planejamento urbano estatal? Explique seus argumentos com exemplos.
 
-  ---------------------------------------------------------------------------------------------------------
-  O crescimento demográfico das cidades brasileiras foi acompanhado de amplo planejamento urbano estatal.
-  ---------------------------------------------------------------------------------------------------------
-
-Você concorda com a afirmativa? Explique seus argumentos com exemplos.
-
-Espera-se que o aluno não concorde com a afirmativa, dado que o
+\coment{Espera-se que o aluno não concorde com a afirmativa, dado que o
 crescimento demográfico urbano no Brasil não foi acompanhado com
-políticas públicas de ordenamento territorial, e de outros tipos.
-Exemplos, tem-se o crescimento numérico e espacial de favelas, mostrando
+políticas públicas de ordenamento territorial e de outros tipos.
+Como exemplo, tem-se o crescimento numérico e espacial de favelas, mostrando
 a insuficiência da política habitacional brasileira, além da
-insuficiência dos serviços associados ao saneamento básico -- água
-tratada, coleta e tratamento de esgoto, etc.
+insuficiência dos serviços associados ao saneamento básico --- água
+tratada, coleta e tratamento de esgoto, etc.}
 
 \num{6} Analise a imagem a seguir.
 
@@ -150,110 +92,71 @@ Fonte: https://www.embrapa.br/visao-de-futuro/trajetoria-do-agro
 automaticamente](./imgSAEB_9_CHUM6/media/image3.png){width="5.040017497812773in"
 height="3.5180555555555557in"}
 
-~Disponível\ em:\ https://www.embrapa.br/visao-de-futuro/trajetoria-do-agro.\ Acesso\ em\ 12\ mar.\ 2023.~
+A partir da cronologia explicitada na imagem, cite e explique uma mudança relacionada à produção agrícola brasileira.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ~Professor,\ neste\ caso,\ é\ importante\ pontuar\ que\ esta\ cronologia,\ sobretudo\ à\ industrialização\ e\ a\ criação\ da\ Embrapa,\ marcam\ a\ submissão\ agrícola\ frente\ a\ indústria\ e\ a\ academia.~
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-A partir da cronologia explicitada acima, cite e explique uma mudança
-relacionada à produção agrícola brasileira.
-
-O processo de mecanização e internacionalização da produção agrícola
-nacional orientou os cultivos à produção de *commodities* agrícolas, em
+\coment{O processo de mecanização e internacionalização da produção agrícola
+nacional orientou os cultivos à produção de _commodities_ agrícolas, em
 detrimento de culturas agrícolas consumidas no mercado interno.
-Importante ressaltar que a produção de commodities visava o
+É importante ressaltar que a produção de _commodities_ visava ao
 direcionamento ao mercado externo.
 
 \num{7} Leia o trecho a seguir.
 
-*As atividades agrícolas chamadas modernas são cada vez mais avançadas
+>As atividades agrícolas chamadas modernas são cada vez mais avançadas
 tecnologicamente, empregando baixa quantidade de mão-de-obra e
-utilizando maquinarias, adubos químicos inseticidas e herbicidas. Esse
+utilizando maquinarias, adubos químicos, inseticidas e herbicidas. Esse
 modelo de produção agrícola intensificou-se principalmente nas décadas
 que sucederam à Segunda Guerra Mundial. É um modelo de países
 industrializados, como Estados Unidos, Inglaterra, França, Alemanha,
-Rússia e Ucrânia.*
+Rússia e Ucrânia.
 
-~ROSS,\ Jurandyr.\ A\ Sociedade\ Industrial\ e\ o\ Ambiente.~
-~In:\ Geografia\ do\ Brasil.\ São\ Paulo:\ EDUSP.~
+~Jurandyr Ross.\ A\ sociedade\ industrial\ e\ o\ ambiente. In:\ _Geografia\ do\ Brasil_.\ São\ Paulo:\ EDUSP, 2019.~
 
-Analise a afirmativa a seguir:
+Você concorda com a ideia de que a modernização agrícola tem favorecido a concentração fundiária e o processo de saída populacional do campo? Explique.
 
-  --------------------------------------------------------------------------------------------------------------
-  A modernização agrícola tem favorecido à concentração fundiária e o processo de saída populacional do campo.
-  --------------------------------------------------------------------------------------------------------------
-
-Você concorda com a afirmativa acima? Explique.
-
-Espera-se que o aluno concorde com a afirmativa, uma vez que a
-modernização agrícola favorece à perda de postos de trabalho, o que
+\coment{Espera-se que o aluno concorde com a afirmativa, uma vez que a
+modernização agrícola favorece a perda de postos de trabalho, o que
 diminui as possibilidades dos trabalhadores rurais, sendo uma
-alternativa, a saída do campo. Além disso, a modernização também tem
-favorecido à concentração fundiária, dada a orientação da produção ao
-mercado externo, e a melhor implementação dos insumos agrícolas citados
-em grandes extensões de terras.
+alternativa a saída do campo. Além disso, a modernização também tem
+favorecido a concentração fundiária, dada a orientação da produção ao
+mercado externo, além da melhor implementação dos insumos agrícolas citados em grandes extensões de terras.}
 
-\num{8} Leia o trecho a seguir.
+\num{8} Massimo Montanari e Jean Louis Fladrin, no livro _A história da alimentação_, consideram que a Revolução Industrial atingiu a história da gastronomia em vários aspectos, mas antes de tudo pelo desenvolvimento promovido no setor. A partir dessa ideia, cite duas mudanças nos hábitos alimentares tendo em vista a industrialização da gastronomia.
 
-*No livro A História da Alimentação, Flandrin e Montanari consideram que
-a Revolução Industrial atingiu a história da gastronomia em vários
-aspectos, mas antes de tudo pelo desenvolvimento promovido no setor.*
-\[\...\].
+\coment{Os alunos podem citar o aumento do consumo de alimentos à base de óleo, farinha e açúcar, que tiveram ampla produção com a industrialização. Além disso, houve a redução do consumo de produtos _in natura_, como vegetais e legumes.}
 
-~Disponível\ em:\ https://entresabores.com.br/a-industrializacao-e-as-mudancas-no-comportamento-alimentar/.\
-Acesso\ em\ 10\ mar.\ 2023.~
+\num{9} Leia o texto.
 
-A partir do trecho, cite duas mudanças nos hábitos alimentares tendo em
-vista a industrialização da gastronomia.
+>Durante o período de 1960 a 2017, observou-se um aumento significativo no número de tratores por mil hectares, passando de 0,06 para 17,1 tratores por hectare. Além disso, a potência média por hectare aumentou de 0,38 para 1,71 cavalo por hectare. De acordo com os autores, houve um crescimento acentuado no número de tratores (50%) entre os censos de 2006 e 2017, o que sugere uma forte modernização no setor agropecuário nesse período.
 
-Os alunos podem citar o aumento do consumo de alimentos à base de óleo,
-farinha e açúcar, que tiveram ampla produção com a industrialização.
-Além disso, houve a redução do consumo de produtos *in natura*, como
-vegetais e legumes.
+~Fonte de pesquisa: Embrapa. Trajetória do Agro. Disponível em: https://www.embrapa.br/visao-de-futuro/trajetoria-do-agro. Acesso em: 12 mar. 2023~
 
-\num{9} Leia o trecho a seguir:
-
-*Entre 1960 e 2017, houve um crescimento do número de tratores por mil
-hectares de 0,06 para 17,1 (trator por hectare). A potência média por
-hectare passou de 0,38 para 1,71 (cv por hectare) no período. Os autores
-constatam também um crescimento acentuado de tratores (50%) entre os
-censos de 2006 e 2017, o que indicou forte modernização agropecuária no
-período recente. Também trazem informações sobre a distribuição regional
-de tratores e outras máquinas agrícolas.*
-
-~Disponível\ em:\ https://www.embrapa.br/visao-de-futuro/trajetoria-do-agro.\ Acesso\ em:\ 10\ mar.\ 2023.~
-
-A partir do trecho, aponte e explique duas consequências deste avanço da
+A partir do texto, aponte e explique duas consequências do avanço da
 modernização do campo.
 
-As consequências compreendem a perda de postos de trabalho, dada a
-utilização de maquinário e, consequentemente, a menor utilização de
-mão-de-obra humana, e o aumento da produtividade agrícola, dada a
-utilização de maquinário.
+\coment{As consequências compreendem a perda de postos de trabalho, dada a
+utilização de maquinário, e, consequentemente, a menor utilização de
+mão-de-obra humana, além do aumento da produtividade agrícola.}
 
-\num{10} Leia o trecho a seguir:
+\num{10} Leia o trecho a seguir.
 
-*O processo de industrialização da agricultura tem eliminado
+>O processo de industrialização da agricultura tem eliminado
 gradativamente a separação entre a cidade e o campo, entre o rural e o
-urbano, unificando-os dialeticamente, Isto quer dizer que campo e
-cidade, cidade e campo formam uma unidade contraditória.*
+urbano, unificando-os dialeticamente. Isso quer dizer que campo e
+cidade, cidade e campo formam uma unidade contraditória.
 
-~OLIVEIRA,\ Ariovaldo\ Umbelino.\ Agricultura\ Brasileira:\ Transformações\ Recentes.\ In:\ Geografia\ do\ Brasil.\ São\ Paulo:\ EDUSP.~
+~Ariovaldo\ Umbelino Oliveira.\ Agricultura\ brasileira:\ transformações\ recentes.\ In:\ _Geografia\ do\ Brasil_.\ São\ Paulo:\ EDUSP, 2019.~
 
-A partir do seu conhecimento, aponte duas situações que ilustram a
-eliminação gradativa da separação entre campo e cidade.
+Com base no texto, a partir de seu conhecimento sobre o assunto, aponte duas situações que ilustram a eliminação gradativa da separação entre campo e cidade.
 
-Duas situações que podem ser expostas compreendem a própria
+\coment{Duas situações que podem ser expostas compreendem a própria
 industrialização da agricultura, que, historicamente, foi tida como uma
-atividade urbana, e que agora tem sido um motivador do crescimento
-urbano no espaço rural. Outra situação que pode ser apontada, compreende
-as mobilizações feitas pelos trabalhadores rurais, sendo feitas no
-espaço urbano.
+atividade urbana e que agora tem sido um motivador do crescimento
+urbano no espaço rural, e as mobilizações feitas pelos trabalhadores rurais no espaço urbano.}
 
-**Treino**
+##Treino
 
-\num{1} Leia o trecho a seguir:
+\num{1} Leia o texto.
 
 *As previsões sobre o potencial da inteligência artificial e de
 tecnologias associadas sobre os empregos variam bastante conforme os
@@ -628,3 +531,4 @@ c\) INCORRETA. A política de reforma agrária só foi adotada nos anos de
 d\) CORRETA. Os fatores apontados estimularam a saída da população do
 campo em direção a cidade, seja pela perda de oportunidade de trabalho
 no campo, ou pela possibilidade de melhores condições de vida na cidade.
+

@@ -1,194 +1,136 @@
-**Módulo 4**
+# O Estado
 
-Poder, estado e instituições
+\colorsec{Eixo de conhecimento do SAEB}
+Poder, estado e instituições.
 
-Este módulo foi estruturado no intuito de abordar as diversas
-perspectivas sobre o Estado, seu funcionamento e seus agentes, os pontos
-essenciais que o constituem, o seu funcionamento paralelo, e a tentativa
-de rupturas com àqueles já formados e constituídos.
+\colorsec{Habilidade da BNCC}
+EF09GE08
 
-Habilidades BNCC: EF09GE08
+\conteudo{Poder, estado e instituições são conceitos inter-relacionados que descrevem as complexas dinâmicas do sistema político em uma sociedade. O poder pode ser definido como a capacidade de influenciar e controlar as decisões e ações de outros indivíduos ou grupos. O estado, por sua vez, é uma estrutura política que detém o poder soberano sobre uma determinada área geográfica, com autoridade para impor leis e regulamentos, cobrar impostos e administrar a justiça. As instituições, por fim, são os órgãos e mecanismos formais que permitem que o estado exerça seu poder, como o legislativo, o executivo e o judiciário.
 
-Habilidades SAEB
+A relação entre esses três conceitos é complexa e pode variar de acordo com o tipo de estado e a sua história política. Em geral, as instituições são criadas pelo estado para exercer seu poder de forma organizada e institucionalizada. Elas são responsáveis por regulamentar a vida política, social e econômica de uma sociedade e garantir o cumprimento das leis e das normas.
 
-EIXO 4: PODER, ESTADO E INSTITUIÇÕES
+O poder, por sua vez, pode ser exercido dentro ou fora dessas instituições, tanto pelo estado quanto por atores políticos externos. As relações de poder podem ser simétricas ou assimétricas, dependendo da capacidade de cada ator político de influenciar ou controlar as decisões e ações dos outros. A capacidade de exercer o poder pode ser influenciada por vários fatores, como a riqueza, a posição social, a educação, a habilidade política e a força militar.
 
-Ao longo as atividades, ficará perceptível que as questões estão
-encadeadas, articulando-se entre si, desta forma, o conteúdo vai se
-articulando através de atividades interpretativas que mobilizam também o
-conteúdo previsto para ser visto ao longo dos quatro anos do Ensino
-fundamental -- anos finais, esta é uma forma que facilita a compreensão
-do aluno ao seguir uma estrutura que remete a uma sequência de aulas.
+As instituições do estado podem ser vistas como um meio de equilibrar as relações de poder, estabelecendo regras claras e garantindo a participação cidadã nas decisões políticas. No entanto, as instituições também podem ser usadas como mecanismos de controle e dominação por parte dos grupos dominantes, reforçando as desigualdades sociais e econômicas. Portanto, a relação entre poder, estado e instituições é dinâmica e exige uma análise crítica constante para entender e promover a justiça e a igualdade na sociedade.}
 
-*Mesmo em um cenário de negacionismo e de grande disseminação de
-notícias falsas sobre vacinas, o Projeto S -- estudo de efetividade da
-vacina Coronavac na cidade de Serrana/SP -- teve sucesso em aumentar a
+Atividades
+
+Leia o texto para resolver as atividades 1 e 2.
+
+\textbf{Projeto S é exemplo de como incentivar a vacinação e combater a desinformação}
+
+>[...]
+>
+>Mesmo em um cenário de negacionismo e de grande disseminação de
+notícias falsas sobre vacinas, o Projeto S --- estudo de efetividade da
+vacina Coronavac na cidade de Serrana/SP --- teve sucesso em aumentar a
 credibilidade da CoronaVac ao apresentar dados do mundo real que
-comprovam a sua efetividade.*
+comprovam a sua efetividade.
 
-*"A estreita coordenação entre pesquisadores, autoridades locais e
+>"A estreita coordenação entre pesquisadores, autoridades locais e
 estaduais e líderes comunitários foi fundamental para tornar este estudo
 possível e se refletiu na alta aceitação da vacina. O papel dos líderes
 comunitários na promoção do programa de vacinação do estudo também foi
 um aspecto essencial para o sucesso da imunização", destacam os
 pesquisadores no artigo sobre o Projeto S, que foi publicado e
-encaminhado à revista científica* Lancet *e está publicado na plataforma
-de* preprints *SSRN para revisão por pares.*
+encaminhado à revista científica _Lancet_ [...].
 
-~BUTANTAN,\ Instituto.\ Projeto\ S\ é\ exemplo\ de\ como\ incentivar\ a\ vacinação\ e\ combater\ a\ desinformação\
-Disponível\ em:\ https://butantan.gov.br/noticias/projeto-s-e-exemplo-de-como-incentivar-a-vacinacao-e-combater-a-desinformacao.\ Acesso\ em\ 03\ mar.\ 2023.~
+>[...]
+
+~Portal do Butantan. Projeto S é exemplo de como incentivar a vacinação e combater a desinformação. Disponível em: https://butantan.gov.br/noticias/projeto-s-e-exemplo-de-como-incentivar-a-vacinacao-e-combater-a-desinformacao. Acesso em: 07 mar. 2023.~
 
 \num{1} O Brasil tem um histórico positivo em relação às campanhas de
-vacinação contra diversos agentes infecciosos. Mesmo assim, na pandemia
-de COVID-19, foi necessário grande esforço para levar à população aos
-locais de aplicação das vacinas, inclusive de agentes não estatais.
+vacinação contra diversos agentes infecciosos. Mesmo assim, durante a pandemia
+de covid-19, foi necessário grande esforço para levar a população aos
+locais de aplicação das vacinas, inclusive por parte de agentes não estatais.
 Tendo em vista o trecho publicado, qual foi a importância dos líderes
 comunitários para o sucesso da campanha de vacinação?
 
-Os líderes comunitários têm grande permeabilidade e influência dentro
+\coment{Os líderes comunitários têm grande permeabilidade e influência dentro
 dos limites territoriais em que atuam, tendo sido um importante veículo
-de propagação e esclarecimento da campanha de vacinação.
+de propagação e esclarecimento da campanha de vacinação.}
 
-\num{2} A figura do Estado foi vital para o controle e enfrentamento à
-pandemia de COVID-19. Contudo, outros agentes também foram essenciais e
-nortearam as ações estatais ao longo da pandemia. Sublinhe abaixo, além
-dos líderes comunitários, aqueles que auxiliaram o Estado neste
-enfrentamento:
+\num{2} A figura do Estado foi vital para o controle e o enfrentamento da
+pandemia de covid-19, contudo outros agentes também foram essenciais e
+nortearam as ações estatais ao longo da pandemia. Além
+dos líderes comunitários, quem são os agentes que auxiliaram o Estado nesse
+enfrentamento?
 
-[PESQUISADORES]{.underline} -- NEGACIONISTAS -- [MÉDICOS]{.underline} --
-[AUTORIDADES PÚBLICAS]{.underline}
+\coment{Foram os pesquisadores e os médicos, além das autoridades públicas.}
 
-Obviamente, àqueles que foram importantíssimos, e juntamente com o
-Estado, auxiliaram o enfrentamento à pandemia de COVID-19, foram
-médicos, os pesquisadores(as) e autoridades públicas.
+\num{3} Leia o texto.
 
-\num{3} Leia o trecho a seguir:
+> Mais de um quarto dos bairros do Rio de Janeiro (25,5%) estão sob o controle das milícias, abrangendo 57,5% do território da cidade. As três principais facções criminosas envolvidas no tráfico de drogas - Comando Vermelho, Terceiro Comando e Amigos dos Amigos - controlam juntas 34,2% dos bairros e 15,4% do território. Isso significa que cerca de 3,7 milhões de pessoas vivem em áreas dominadas por grupos criminosos, o que equivale a 57,1% da população da cidade.
 
-*As milícias cariocas já controlam 25,5% dos bairros do Rio de Janeiro,
-em um total de 57,5% do território da cidade. As três principais facções
-criminosas do tráfico de drogas --- Comando Vermelho, Terceiro Comando e
-Amigos dos Amigos --- possuem juntas o domínio de outros 34,2% dos
-bairros e 15,4% do território. Ao todo, 3,7 milhões de pessoas vivem em
-local controlado por algum grupo criminoso, ou o equivalente a 57,1% da
-população.*
-
-~Disponível\ em:\ https://brasil.elpais.com/brasil/2020-10-19/milicias-ja-dominam-um-quarto-dos-bairros-do-rio-de-janeiro-com-quase-60-do-territorio-da-cidade.html.\ Acesso\ em\ 03\ mar.\ 2023.~
+~Fonte de pesquisa: Aiuri Rebello. El País. Milícias já dominam um quarto dos bairros do Rio de Janeiro, com quase 60% do território da cidade. Disponível\ em:\ https://brasil.elpais.com/brasil/2020-10-19/milicias-ja-dominam-um-quarto-dos-bairros-do-rio-de-janeiro-com-quase-60-do-territorio-da-cidade.html.\ Acesso\ em:\ 03\ mar.\ 2023.~
 
 O fortalecimento de grupos criminosos tem sido uma constante nas últimas
-décadas no Brasil, mais especificamente, no Estado do Rio de Janeiro. A
-milícia e o tráfico controlam territórios e diversos tipos de serviços,
-público e privados. Tendo em vista esta expansão, cite um motivo que
-justifique o crescimento do domínio destes grupos.
+décadas no Brasil, mais especificamente no estado do Rio de Janeiro. A
+milícia e o tráfico controlam territórios e diversos tipos de serviço,
+públicos e privados. Tendo em vista essa expansão, cite um motivo que
+justifique o crescimento do domínio desses grupos.
 
-O crescimento destes grupos foi resultado do fracasso de políticas
-públicas, especificamente, do setor de segurança. O Estado tem sido
-ineficiente em combater as ações destes grupos, além de conter sua
-expansão.
+\coment{O crescimento de tais grupos foi resultado do fracasso de políticas
+públicas, especificamente do setor de segurança. O Estado tem sido
+ineficiente em combater as ações desses grupos, além de conter sua
+expansão.}
 
-\num{4} Leia o texto que segue:
+\num{4} Leia o texto.
 
-*As vaias ao hino espanhol durante a final da Copa do Rei, entre
-Barcelona e Athletic Bilbao, custaram caro. A Comissão antiviolência da
-federação espanhola anunciou, nesta segunda, as punições impostas aos
-envolvidos. Campeão do torneio, o clube catalão recebeu a multa mais
-pesada dos dois finalistas: 60 mil euros (cerca de R\$ 246 mil).*
+\textbf{Vaias ao hino espanhol na final da Copa do Rei rendem multa de 246 mil ao Barcelona}
 
-*O Bilbao também não escapou, embora tenha recebido multa mais branda. O
-vice-campeão da Copa do Rei terá que pagar 18 mil euros (cerca de R\$ 67
-mil). Embora as vaias tenham partido da torcida catalã, a comissão
-antiviolência decidiu punir o clube por omissão às ameaças de vaia, que
-já eram previamente conhecidas.*
+> A Comissão antiviolência da federação espanhola anunciou as punições decorrentes das vaias ao hino espanhol durante a final da Copa do Rei entre Barcelona e Athletic Bilbao. O clube catalão, campeão do torneio, recebeu a multa mais pesada dos dois finalistas, no valor de 60 mil euros (cerca de R$ 246 mil). Já o Bilbao, vice-campeão, foi multado em 18 mil euros (cerca de R$ 67 mil). Embora as vaias tenham partido da torcida catalã, a comissão antiviolência decidiu punir o clube por omissão às ameaças de vaia, que já eram previamente conhecidas.
 
-~Disponível\ em:\ https://extra.globo.com/esporte/vaias-ao-hino-espanhol-na-final-da-copa-do-rei-rendem-multa-de-246-mil-ao-barcelona-16981835.html.\ Acesso\ em:\ 03\ mar.\ 2023.~
-
-Após a leitura do texto leia a afirmativa que segue:
+~Fonte de pesquisa: Extra. Vaias ao hino espanhol na final da Copa do Rei rendem multa de R$ 246 mil ao Barcelona. Disponível\ em:\ https://extra.globo.com/esporte/vaias-ao-hino-espanhol-na-final-da-copa-do-rei-rendem-multa-de-246-mil-ao-barcelona-16981835.html.\ Acesso\ em:\ 03\ mar.\ 2023.~
 
 A população da Catalunha e dos Países Bascos, sedes dos clubes Barcelona
-e Athletic Bilbao, respectivamente, se reconhecem enquanto espanhóis.
+e Athletic Bilbao, respectivamente, reconhecem-se enquanto espanhóis.
 
-Você concorda ou discorda da afirmativa? Explique.
+Você concorda com essa afirmativa ou discorda dela? Justifique.
 
-Discordo. Catalães e bascos não se reconhecem enquanto espanhóis, dada a
-anexação forçada destas duas regiões pelo Estado espanhol no passado.
-Além disso, durante o século XX foram povos que sofreram com a ditadura
-franquista, inclusive, a população foi cerceada das culturas e línguas
-locais, o que fomentou um sentimento de repulsa ao Estado espanhol, por
-isso às vaias ao hino nacional na partida citada. Ademais, recentemente,
+\coment{O aluno deve discordar. Catalães e bascos não se reconhecem enquanto espanhóis, dada a
+anexação forçada das duas regiões pelo Estado espanhol no passado.
+Além disso, durante o século XX, foram povos que sofreram com a ditadura
+franquista --- inclusive a população foi cerceada das culturas e das línguas
+locais ---, o que fomentou um sentimento de repulsa ao Estado espanhol. Por
+isso, ocorreram as vaias ao hino nacional na partida citada. Ademais, recentemente,
 a população da Catalunha votou em favor de um referendo que pede a
-independência da região frente à Espanha.
+independência da região frente à Espanha.}
 
-\num{5} Leia o trecho a seguir:
+\num{5} Espalhados pelos territórios de cinco países (Turquia, Iraque, Síria, Irã e Armênia), os curdos totalizam algo entre 25 e 35 milhões de pessoas. Apesar de formarem o quarto maior grupo étnico do Oriente Médio, nunca conseguiram um país próprio. Independentemente da origem, os curdos compõem um grupo populacional
+numeroso e têm como objetivo a formação de um Estado. Explique a dificuldade dos curdos de conseguirem o objetivo de formação de um Estado próprio.
 
-*Os curdos formam uma população estimada entre 25 milhões e 35 milhões e
-habitam uma região montanhosa que se espalha pelos territórios de cinco
-países: Turquia, Iraque, Síria, Irã e Armênia. Eles compõem o quarto
-maior grupo étnico do Oriente Médio, mas nunca conseguiram um país
-próprio.* \[\...\]
-
-Inserir mapa com as áreas de ocupação curda no Oriente Médio.
-
-![área ocupada por
-curdos](./imgSAEB_9_CHUM4/media/image1.jpeg){width="3.760780839895013in"
-height="2.1979166666666665in"}
-
-~Disponível\ em:\ https://www.bbc.com/portuguese/internacional-50012988.\ Acesso\ em:\ 04\ mar.\ 2023.~
-
-Independente da origem, os curdos compõem um grupo populacional
-numeroso, e tem como objetivo a formação de um Estado. Tendo em vista, o
-mapa e o trecho, explique a dificuldade dos curdos em conseguirem o
-objetivo de formação do seu Estado.
-
-Os curdos podem ser entendidos enquanto nação, ou seja, um grupo com
-similaridades étnicas e objetivos em comum. Contudo, a formação do
-Estado curdo é dificultada pela ausência de território, uma vez que, os
-locais onde os curdos habitam atualmente abrigam Estados nacionais já
+\coment{Os curdos podem ser entendidos enquanto nação, ou seja, um grupo com
+similaridades étnicas e objetivos em comum; contudo a formação do
+Estado curdo é dificultada pela ausência de território, uma vez que os
+locais onde os curdos vivem atualmente abrigam Estados nacionais já
 formados e reconhecidos internacionalmente. Dessa forma, a obtenção de
 um território para a formação do Curdistão compreende um assunto muito
-delicado e que envolve outros Estados nacionais.
+delicado, que envolve outros Estados nacionais.}
 
-\num{6} Leia o trecho a seguir:
-
-*A maioria separatista do Parlamento catalão proclamou nesta
-sexta-feira, unilateralmente, a independência da Catalunha, acabando com
-quase um mês de incerteza após o referendo de autodeterminação ocorrido
-em 1º de outubro, apesar da suspensão da Justiça espanhola.* \[\...\]
-
-*Mas, como era de se esperar, nem as instituições europeias nem os
-países do bloco, como França, Alemanha e Reino Unido, reconheceram essa
-declaração. \"A soberania e a integridade territorial da Espanha são e
-continuarão sendo invioláveis\", disse um porta-voz em Berlim.*
-
-~Disponível:\ https://exame.com/mundo/uniao-europeia-nao-reconhece-independencia-da-catalunha/.\ Acesso\ em\ 04\ mar.\ 2023.~
-
+\num{6} A maioria separatista do Parlamento catalão proclamou unilateralmente a independência da Catalunha, encerrando quase um mês de incerteza após o referendo de autodeterminação ocorrido em 1º de outubro, apesar da suspensão da Justiça espanhola. Como esperado, no entanto, as instituições europeias e os países do bloco, como França, Alemanha e Reino Unido, não reconheceram a declaração. Em Berlim, um porta-voz afirmou que a soberania e a integridade territorial da Espanha são e continuarão sendo invioláveis.
 Mesmo sendo desejo de maioria da população da Catalunha, o processo de
-independência da região está longe de se realidade. Qual o entrave
-apontado no trecho exposto à obtenção da independência catalã?
+independência da região está longe de ser realidade. Qual é o entrave
+à obtenção da independência catalã?
 
-O entrave apontado pelo texto é o não reconhecimento de órgãos
-internacionais, neste caso a União Europeia. Para a formação de um novo
-Estado nacional é vital ter o reconhecimento internacional, seja de
-países, instituições ou blocos.
+\coment{O entrave é o não reconhecimento de órgãos
+internacionais, como a União Europeia. Para a formação de um novo
+Estado nacional, é vital obter o reconhecimento internacional, seja de
+países, seja de instituições, seja de blocos.}
 
-\num{7} Analise o mapa a seguir:
-
-Inserir mapa com a evolução do território israelense em detrimento da
-redução do território ocupado pelos palestinos.
-
-![Diagrama Descrição gerada automaticamente com confiança
-média](./imgSAEB_9_CHUM4/media/image2.jpeg){width="5.905555555555556in"
-height="3.1944444444444446in"}
-
-Tendo em vista o produto cartográfico, aponte e explique a razão dos
+\num{7} De 1917 até a atualidade, o mundo acompanha a evolução do território israelense e a
+redução do território ocupado pelos palestinos. Aponte e explique a razão dos
 conflitos entre israelenses e palestinos.
 
-A razão para os conflitos entre judeus e palestinos a partir da criação
+\coment{A razão para os conflitos entre judeus e palestinos a partir da criação
 do Estado de Israel (1947) é o avanço territorial dos israelenses,
 incorporando áreas antes controladas pelos árabes. Além disso, os
 palestinos reivindicam a criação de um Estado próprio, no mesmo
 território onde está situado o Estado israelense, o que complica uma
-resolução de paz para estes povos.
+resolução de paz para esses povos.}
 
-\num{8} Atribua verdadeiro (V) ou falso (F) para as afirmativas a seguir:
+\num{8} Atribua V (verdadeiro) e F (falso) para as afirmativas a seguir.
 
 \(V\) A existência de um Estado demanda, necessariamente, um território.
 
@@ -201,204 +143,116 @@ consulta popular.
 \(V\) Os pedidos de independência estão ligados à falta de pertencimento
 à unidade territorial central.
 
-A sequência correta compreende V-F-V-V. No caso, a existência de um
-Estado demanda, necessariamente, um território. Como exemplo, os
-próprios curdos e palestinos, ligados à afirmativa seguinte. Os dois
-povos não apresentam território próprio, inviabilizando a formação de um
-Estado nacional, embora, compreendam nações, dada a existência de um
-povo cultural e etnicamente singular. Além disso, os exemplos dos
-catalães demonstram que a formação de um novo Estado nacional demanda a
-consulta popular -- mas não necessariamente a aprovação na consulta
-significa a formação do novo Estado, e no mesmo caso, percebe-se, com a
-aprovação do referendo de independência da Catalunha, que os pedidos de
-independência estão ligados à falta de pertencimento à unidade
-territorial central, no caso o governo espanhol sediado em Madri.
+\num{9} Ao longo do processo de formação dos Estados, diversas comunidades foram reunidas em um mesmo território, submetidas a um mesmo governo e às mesmas leis, independentemente de sua origem ou tamanho. Como resultado das guerras de conquista, povos menores foram agrupados com os maiores. Por outro lado, o nacionalismo é um movimento que se baseia no sentimento de lealdade à nação por parte de um grupo de pessoas que compartilham tradições, língua, cultura, religião ou interesses comuns e que busca estabelecer uma identidade política autônoma e o direito à autodeterminação. Nem sempre, porém, o nacionalismo é reconhecido pelas autoridades governamentais, que podem manter a soberania e a integridade territorial do Estado em detrimento das reivindicações nacionalistas. Que povos estão inseridos nesse contexto?
 
-\num{9} Leia o trecho a seguir:
+\coment{Estão inseridos nesse contexto: curdos, catalães, bascos e palestinos.}
 
-*No processo de desenvolvimento de Estados, distintos povos foram postos
-em um mesmo território, sob um mesmo governo e leis. Pequenos povos
-acabaram sendo colocados junto com os maiores em virtude das guerras de
-conquista, uns com os outros.*
+\num{10} De um lado, gritos de "Barcelona, vocês sempre serão Espanha!". De outro, faixas da torcida do Barcelona pedindo liberdade. Esse era o cenário de um jogo pelas oitavas de final da Liga dos Campeões no estádio Camp Nou, em Barcelona. Qual é o motivo para a veiculação da mensagem sobre liberdade em jogos internacionais do Barcelona?
 
-\[\...\]
-
-*O nacionalismo, compreendido pelo sentimento de lealdade à nação por
-parte de um conjunto de pessoas unidas num mesmo território por
-tradições, língua, cultura, religião ou interesses comuns, é um
-movimento que constitui uma individualidade política com direito de se
-autodeterminar.*
-
-~ATAIDE,\ Ana\ Luísa\ Brito\ de;\ OBREGON,\ Marcelo\ Fernando\ Quiroga.\ O\ surgimento\ de\ grupos\ separatistas\ na\ Europa\ no\ século\ 21:\ o\ caso\ da\ Catalunha.\ Derecho\ y\ Cambio\ Social\ N.°\ 58,\ OCT-DIC\ 2019.~
-
-Sublinhe abaixo os povos que estão inseridos no contexto trazido pelo
-trecho.
-
-MADRILENHOS -- ISRAELENSES -- CURDOS -- CATALÃES -- BASCOS -- ARMÊNIOS
--- PALESTINOS
-
-É correto que sejam sublinhados os seguintes povos: Curdos; Catalães;
-Bascos e Palestinos.
-
-\num{10} Analise o trecho e a imagem a seguir:
-
-*Gritos de \"Barcelona, vocês sempre serão Espanha\", que soa a pior das
-ofensas para quem é catalão, provocou uma ação violenta de seguranças no
-Camp Nou contra torcedores do Chelsea após a vitória do Barcelona por 3
-a 0, nesta quarta-feira, pelas oitavas de final da Liga dos Campeões.*
-
-~Disponível\ em:\ https://www.uol.com.br/esporte/futebol/campeonatos/liga-dos-campeoes/ultimas-noticias/2018/03/15/provocacao-a-catalaes-gera-violencia-contra-torcida-do-chelsea-no-camp-nou.htm?cmpid=copiaecola.\ Acesso\ em\ 04\ mar.\ 2023~
-
-Inserir imagem das arquibancadas do Camp Nou, Barcelona, com faixas
-pedindo liberdade (*freedom*) à região da Catalunha.
-
-![Multidão de pessoas Descrição gerada
-automaticamente](./imgSAEB_9_CHUM4/media/image3.jpeg){width="5.453846237970254in"
-height="2.662790901137358in"}
-
-~Torcedores\ do\ Barcelona\ com\ bandeira\ levando\ os\ dizeres:\ "*liberdade"*\ (esq.)\ e\ "*é\ apenas\ sobre\ liberdade*"\ (dir.)~
-
-Qual o motivo da veiculação da mensagem sobre a liberdade da Catalunha
-em jogos internacionais do F.C Barcelona?
-
-Devido à globalização, os jogos de futebol têm uma abrangência muito
-grande, fazendo com que a mensagem de protesto seja ecoada a muitos
-lugares. Neste caso, a Catalunha deseja ser uma região independente da
+\coment{Devido à globalização, os jogos de futebol têm uma abrangência muito
+grande, fazendo com que a mensagem de protesto seja ecoada em muitos
+lugares. Nesse caso, a Catalunha deseja ser uma região independente da
 Espanha, mas carece também de reconhecimento internacional para a
-formação de um novo Estado. Por isso é importante que ocorra a
+formação de um novo Estado. Por isso, é importante que ocorra a
 manifestação dos locais, na tentativa de tentar transmitir o sentimento
-nacional, divergente à unidade territorial espanhola.~\
-~
+nacional, divergente da unidade territorial espanhola.}
 
 **Treino**
 
-\num{1} Leia o trecho a seguir:
+\num{1} Leia o texto.
 
-*O presidente da Catalunha, Carles Puigdemont, disse na noite deste
-domingo (1º) que a Catalunha "ganhou o direito de ser um Estado" após a
-realização do referendo sobre sua independência da Espanha. \"Neste dia
-de esperança e sofrimento, os cidadãos da Catalunha ganharam o direito
-de ter um estado independente na forma de uma república\... conquistamos
-o direito de sermos ouvidos, respeitados e reconhecidos\", afirmou.*
+\textbf{Independência da Catalunha vence referendo com 90% dos votos, diz governo catalão}
 
-\[\...\]
+>Na noite deste domingo (1º), o presidente da Catalunha, Carles Puigdemont, declarou que o referendo sobre a independência da região da Espanha concedeu à Catalunha o "direito de ser um Estado". Segundo ele, os cidadãos catalães conquistaram "o direito de ter um estado independente na forma de uma república" e "o direito de serem ouvidos, respeitados e reconhecidos". O referendo resultou em uma vitória esmagadora do "Sim", com 90,09% dos votos (2.020.144 votos), enquanto o "Não" obteve 7,87% (176.565 votos). Os votos em branco foram 2,03% (45.586); os nulos, 0,89% (20.129). De acordo com o governo catalão, foram registrados um total de 2.262.424 votos.
 
-*O "Sim" venceu o referendo deste domingo com 90,09% (2.020.144 votos),
-o "Não" teve 7,87% (176.565 votos), votos em branco foram 2,03% (45.586)
-e nulos foram 0,89% (20.129). No total foram registrados 2.262.424
-votos, segundo o governo catalão.*
-
-~Disponível\ em:\ https://g1.globo.com/mundo/noticia/presidente-catalao-diz-que-catalunha-ganhou-direito-de-ser-um-estado-premie-espanhol-afirma-que-nao-houve-referendo.ghtml.\ Acesso\ em\ 04\ mar.\ 2023.~
+~Fonte de pesquisa: G1. Independência da Catalunha vence referendo com 90% dos votos, diz governo catalão. Disponível em: https://g1.globo.com/mundo/noticia/presidente-catalao-diz-que-catalunha-ganhou-direito-de-ser-um-estado-premie-espanhol-afirma-que-nao-houve-referendo.ghtml. Acesso em: 08 mar. 2023.~
 
 Tendo em vista a aprovação do referendo, conclui-se que os catalães
 demonstraram
 
-a)  a sua territorialidade.
+a) sua territorialidade.
 
-b)  a sua nacionalidade.
+b) sua nacionalidade.
 
-c)  o seu apartidarismo.
+c) seu apartidarismo.
 
-d)  a sua legitimidade.
+d) sua legitimidade.
 
-SAEB: Aborda as representações, as relações de poder e de dominação, bem
-como as diversas formas de organização política, abrangendo questões
-pertinentes às nações, aos povos, às lutas por reformas, guerras e
-revoluções.
-
-BNCC: (EF09GE08) Analisar transformações territoriais, considerando o
+BNCC: EF09GE08 -- Analisar transformações territoriais, considerando o
 movimento de fronteiras, tensões, conflitos e múltiplas regionalidades
 na Europa, na Ásia e na Oceania.
 
-a\) CORRETA. Ao aprovar o referendo em prol da independência da região,
-os catalães demonstram a sua territorialidade, ou seja, seu sentimento
+a\) Correta. Ao aprovar o referendo em prol da independência da região,
+os catalães demonstram sua territorialidade, ou seja, seu sentimento
 de pertencimento à Catalunha, e não ao Estado espanhol.
 
-b\) INCORRETA. A nação catalã, ou seja, o grupo de pessoas com traços
-étnicos e culturais em comum, existe independentemente do referendo, e
-da sua escolha, tanto que 7% dos catalães optaram pela manutenção da
-região junto ao Estado espanhol.
+b\) Incorreta. A nação catalã, ou seja, o grupo de pessoas com traços
+étnicos e culturais em comum, existe independentemente do referendo.
 
-c\) INCORRETA. O referendo compreende a consulta popular sobre um
-determinado tema, mas que não envolve a escolha por partidos políticos
-ou o seu rechaço em relação aos mesmos.
+c\) Incorreta. O referendo compreende a consulta popular sobre determinado tema, mas que não envolve a escolha por partidos políticos
+ou o seu rechaço em relação a eles.
 
-d\) INCORRETA. O referendo é uma das etapas dos catalães em busca da sua
-legitimidade frente ao Estado espanhol, ou seja, a conquista da sua
+d\) Incorreta. O referendo é uma das etapas dos catalães em busca de sua
+legitimidade frente ao Estado espanhol, ou seja, a conquista de sua
 independência. Sua realização e aprovação não resultou, diretamente, na
 independência da Catalunha, tanto é que não foi considerado legítimo
 pelo governo espanhol.
 
-\num{2} Leia o trecho a seguir:
+\num{2} Leia o texto.
 
-*O Ministério da Saúde anunciou, nesta quarta-feira (08), um dos
-embaixadores da Campanha Nacional de Vacinação deste ano. O* influencer
-*Ivan Baron, do Rio Grande do Norte, é ativista pela causa das pessoas
-com deficiência.*
+\textbf{Ministério da Saúde anuncia um dos embaixadores da Campanha Nacional de Vacinação}
 
-\[\...\] *Ivan Baron falou sobre a importância da vacinação das pessoas
+>O Ministério da Saúde anunciou, nesta quarta-feira (08), um dos
+embaixadores da Campanha Nacional de Vacinação deste ano. O influencer
+Ivan Baron, do Rio Grande do Norte, é ativista pela causa das pessoas
+com deficiência [...].
+
+>Ivan Baron falou sobre a importância da vacinação das pessoas
 com deficiência e a relevância das políticas públicas inclusivas. "Todos
-nós temos esse compromisso com a saúde pública* \[\...\]*".*
+nós temos esse compromisso com a saúde pública [...]."
 
-~Disponível\ em:\ https://www.gov.br/saude/pt-br/assuntos/noticias/2023/fevereiro/ministerio-da-saude-anuncia-embaixador-da-campanha-nacional-de-vacinacao.\ Acesso\ em:\ 03\ mar.\ 2023.~
+>[...]
 
-A escolha de *digital* *influencers* para estimular campanhas públicas
+~Ministério da Saúde. Ministério da Saúde anuncia um dos embaixadores da Campanha Nacional de Vacinação. Disponível\ em:\ https://www.gov.br/saude/pt-br/assuntos/noticias/2023/fevereiro/ministerio-da-saude-anuncia-embaixador-da-campanha-nacional-de-vacinacao.\ Acesso\ em:\ 03\ mar.\ 2023.~
+
+A escolha de um _digital influencer_ para estimular campanhas públicas
 de vacinação explica-se
 
 a)  pelo descontentamento da população com os resultados de testes das
     vacinas.
 
-b)  pelo reconhecimento dos *influencers* pelo público geral/específico.
+b)  pelo reconhecimento dos _influencers_ pelo público geral.
 
 c)  pela repulsa populacional às campanhas públicas de vacinação.
 
 d)  pelo rechaço da população às figuras políticas e públicas.
 
-SAEB: Toma como ponto de partida o funcionamento do poder estatal, mas
-não se restringe às suas instituições, relações e agentes. Tematiza
-formas de poder não estatais, como as de caráter religioso e científico,
-para abordar questões relativas à regulação das condutas sociais, ao
-funcionamento das estruturas sociopolíticas e, em âmbito internacional,
-às relações entre nações e organismos multilaterais.
-
-a\) INCORRETA. A importância de ser vacinar é reforçada nas campanhas de
+a\) Incorreta. A importância de se vacinar é reforçada nas campanhas de
 vacinação, além do fato de não se escolher os imunizantes
-disponibilizados. Neste caso, a escolha dos *influencers* não visa
+disponibilizados. Nesse caso, a escolha dos _influencers_ não visa
 remediar descontentamento com resultados de testes.
 
-b\) CORRETA. *Influencers* são reconhecidos pela sociedade, ou por
+b\) Correta. _Influencers_ são reconhecidos pela sociedade, ou por
 grupos mais específicos, e suas ações muitas vezes servem como estímulos
-para pessoas não famosas. Neste caso, a escolha do Estado por
-*influencers* para estampar campanhas explica-se pelo seu
-reconhecimento, e espera-se que seus seguidores tomem a mesma atitude,
-ou seja, busquem a vacinação.
+para pessoas não famosas.
 
-c\) INCORRETA. O texto não destaca a repulsa da população pelas
+c\) Incorreta. O texto não destaca a repulsa da população pelas
 campanhas vacinais.
 
-d\) INCORRETA. O texto não destaca o rechaço da população às figuras
-públicas, pelo contrário, dado que o Estado buscou um *influencer* para
-estampar a campanha de vacinação.
+d\) Incorreta. O texto não destaca o rechaço da população às figuras
+públicas.
 
-\num{3} Leia o trecho a seguir:
+\num{3} Leia o texto.
 
-*--- O Rio de Janeiro virou uma realidade à parte no setor. A pessoa tem
-uma revenda regularizada, mas, se o funcionário atravessa a rua e faz
-negócio onde não deve, pode ser morto --- lamenta Alexandre José
-Borjaili, presidente da Asmirg (Associação Brasileira dos Revendores de
-GLP) há 15 anos, que prossegue: --- Sabemos que de 70% a 80% do mercado
-do estado encontram-se nessa situação \[nas mãos do crime organizado\].
-Esse cenário faz com que qualquer ação do governo tenha muita
-dificuldade de chegar ao consumidor final. Digo isso não só em relação
-ao vale-gás, mas também quando há alguma política estatal que tenta
-fazer controle de preços. Se é o crime que, em última instância,
-controla a venda, do que adianta?*
+\textbf{Tráfico e milícia já controlam 80% da venda de botijões de gás no estado do Rio}
 
-~Disponível\ em:\ https://extra.globo.com/casos-de-policia/trafico-milicia-ja-controlam-80-da-venda-de-botijoes-de-gas-no-estado-do-rio-25365008.html.\ Acesso\ em\ 03\ mar.\ 2023.~
+> Alexandre José Borjaili, presidente da Associação Brasileira dos Revendedores de GLP (Asmirg) há 15 anos, lamenta a situação do mercado de gás no Rio de Janeiro, que se tornou uma realidade à parte no setor. Mesmo com revendas regularizadas, funcionários correm risco de morte ao fazer negócios fora do estabelecimento. Segundo ele, de 70% a 80% do mercado do estado está nas mãos do crime organizado, tornando difícil para qualquer ação do governo chegar ao consumidor final. Borjaili ressalta que essa realidade não se aplica apenas ao vale-gás, mas também quando há controle de preços por políticas estatais. Se o crime controla a venda, qualquer ação governamental acaba sendo inútil.
 
-A situação descrita no trecho exemplifica
+~Fonte de pesquisa: Luã Marinatto. Extra. Tráfico e milícia já controlam 80% da venda de botijões de gás no estado do Rio. Disponível\ em:\ https://extra.globo.com/casos-de-policia/trafico-milicia-ja-controlam-80-da-venda-de-botijoes-de-gas-no-estado-do-rio-25365008.html.\ Acesso\ em\: 03\ mar.\ 2023.~
 
-a)  a transferência do monopólio da força do Estado ao crime organizado.
+A situação descrita no texto exemplifica
+
+a)  a transferência do monopólio da força do Estado para o crime organizado.
 
 b)  o reconhecimento da legitimidade do crime organizado pelo Estado.
 
@@ -406,33 +260,22 @@ c)  a aceitação da população frente às atividades do crime organizado.
 
 d)  a regulação da atividade comercial pelo crime organizado.
 
-SAEB: Tematiza formas de poder não estatais, como as de caráter
-religioso e científico, para abordar questões relativas à regulação das
-condutas sociais, ao funcionamento das estruturas sociopolíticas e, em
-âmbito internacional, às relações entre nações e organismos
-multilaterais. Nessa perspectiva, considera os territórios, os processos
-de disputa e construção de fronteiras e as trajetórias de consolidação e
-manutenção de poder em diferentes momentos, lugares e escalas.
+a\) Incorreta. O Estado brasileiro não está transferindo o monopólio da força para as mãos do crime organizado.
 
-a\) INCORRETA. A atuação do crime organizado, e o seu domínio
-territorial, vem da imposição da força sobre os territórios, e numa
-perspectiva de enfrentamento ao Estado, nunca com a transferência do
-monopólio da força, uma das definições clássica de Estado.
-
-b\) INCORRETA. Na situação descrita não há reconhecimento da
+b\) Incorreta. Na situação descrita, não há reconhecimento da
 legitimidade do crime organizado pelo Estado. No caso, houve a imposição
-da força pelo crime organizado que resultou no domínio das atividades
+da força pelo crime organizado, que resultou no domínio das atividades
 comerciais.
 
-c\) INCORRETA. O texto não destaca a aceitação populacional das ações do
-crime organizado, na verdade, o cumprimento das imposições feitas pelos
-criminosos se dá para a manutenção da segurança e integridade própria.
+c\) Incorreta. O texto não destaca a aceitação populacional das ações do
+crime organizado. Na realidade, o cumprimento das imposições feitas pelos
+criminosos se dá para a manutenção da segurança e da integridade próprias.
 
-d\) CORRETA. O texto destaca que o crime organizado controla o mercado
-de gás em áreas de comunidade, impondo os seus preços e locais de
-compra, a revelia das determinações do Estado e sua regulação de preços.
-A "obediência" às regras impostas pelo crime organizados é explicada
-pela manutenção da segurança e integridade dos populares.
+d\) Correta. O texto destaca que o crime organizado controla o mercado
+de gás em áreas de comunidade, impondo seus preços e locais de
+compra, à revelia das determinações do Estado e de sua regulação de preços.
+A "obediência" às regras impostas pelo crime organizado é explicada
+pela manutenção da segurança e da integridade dos populares.
 
 **SIMULADO**
 
@@ -688,3 +531,4 @@ linguísticos.
 d\) INCORRETA. O termo apátrida compreende as pessoas que não apresentam
 uma nacionalidade, e não está diretamente relacionado aos dialetos
 locais.
+
