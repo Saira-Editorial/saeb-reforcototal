@@ -283,17 +283,12 @@ grandezas da física e da química, entre outras situações.
 
 As operações envolvendo os números reais são:
 
-\- Adição
-
-\- Subtração
-
-\- Multiplicação
-
-\- Divisão
-
-\- Potenciação
-
-\- Radiciação
+* Adição
+* Subtração
+* Multiplicação
+* Divisão
+* Potenciação
+* Radiciação
 
 [Potenciação]{.underline}
 
