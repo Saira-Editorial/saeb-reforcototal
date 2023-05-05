@@ -1,9 +1,6 @@
-\num{1}
+# 1. Classificações Numéricas
 
-BNCC: EF06MA01 EF06MA05
-
-Habilidades SAEB
-
+Habilidades do SAEB
 \- Escrever números racionais (representação fracionária ou decimal
 finita) em sua representação por algarismos ou em língua materna ou
 associar o registro numérico ao registro em língua materna.
@@ -22,105 +19,68 @@ número natural em fatores primos ou relacionar as propriedades
 aritméticas (primo, composto, "múltiplo/fator de" ou "divisor de") de um
 número natural à sua decomposição em fatores primos.
 
+Habilidades da BNCC 
+EF06MA01, EF06MA05.
+
 Classes e ordens numéricas:
 
-Produzir uma imagem como essa nos padrões do projeto
+%Paulo: criar uma tabela igual às informações disponíveis na imagem a seguir:
 
 ![](./imgSAEB_6_MAT/media/image1.png){width="5.0in"
 height="2.8020833333333335in"}
 
-Números primos: Considerando o conjunto dos números naturais, define-se
-como número primo aqueles números que possuem exatamente dois divisores,
-o 1 e o próprio número em questão. Na tabela abaixo estão alguns números
-considerados primos.
-
-![O que são números primos? Saiba a sua importância -
-LUMA](./imgSAEB_6_MAT/media/image2.jpeg){width="3.2943930446194227in"
-height="1.853096019247594in"}
-
-Montar tabela semelhante com as cores do projeto
+Números primos: Considerando o conjunto dos números naturais, definem-se
+como números primos aqueles que possuem exatamente dois divisores,
+o 1 e o próprio número em questão. Alguns exemplos de números primos são: 2, 
+3, 5, 7, 11, 13 etc.
 
 A decomposição de um número composto em fatores primos consiste em
 escrever um número através da multiplicação de números primos que
 compõem o próprio número.
 
 Exemplo: Decomposição do número 144 em fatores primos:
+%Paulo: criar uma tabela com as informações disponíveis na imagem do link https://pt-static.z-dn.net/files/d08/8b00809d79a65807cefe49582b314584.png
 
-> ![qual e a fatoração dos primos do numero 144? -
-> Brainly.com.br](./imgSAEB_6_MAT/media/image3.png){width="1.3020833333333333in"
-> height="1.442684820647419in"}
+> Veja a seguir alguns exemplos provenientes do sistema de numeração romano:
 >
-> Alguns sistemas de numeração:
->
-> Egípcio:
->
-> Produzir uma imagem como essa nos padrões do projeto.
->
-> ![](./imgSAEB_6_MAT/media/image4.png){width="2.6936745406824145in"
-> height="2.9577602799650045in"}
->
-> Romano:
->
-> Montar as figuras abaixo no padrão do projeto:
+> %Paulo: criar uma tabela com as informações da imagem a seguir.
 >
 > ![](./imgSAEB_6_MAT/media/image5.png){width="3.5625in"
 > height="2.7604166666666665in"}
->
-> Babilônico:
->
-> Montar as figuras abaixo no padrão do projeto:
->
-> ![](./imgSAEB_6_MAT/media/image6.png){width="3.7291666666666665in"
-> height="0.75in"}
->
-> ![](./imgSAEB_6_MAT/media/image7.png){width="5.0in"
-> height="2.59375in"}
->
-> Chinês:
->
-> Montar as figuras abaixo no padrão do projeto:
->
-> ![](./imgSAEB_6_MAT/media/image8.png){width="4.239583333333333in"
-> height="3.5520833333333335in"}
 
 Pedir aos alunos que imaginem um mundo onde os números não existam como
 os conhecemos hoje. Propor que descrevam situações em que é necessário
-utilizar números para diferentes finalidades, mas eles devem fazer isso
-sem utilizar os símbolos que estamos acostumados. Observar o
+utilizarmos números para diferentes finalidades, mas que façam isso
+sem os símbolos que normalmente empregamos. Observar o
 envolvimento dos alunos, motivando-os a compartilhar a opinião com os
 colegas.
 
-O objetivo é incentivar o aluno a refletir sobre os números e as
-diversas maneiras com que os utilizamos. Provavelmente, ele já possui um
-conhecimento prévio sobre o assunto e utiliza os números em seu
-cotidiano para contar, ordenar, codificar e medir, como usar o número
-para codificar o telefone, medir sua altura, contar sua idade, ordenar
-seu lugar na fila etc. Propor que os alunos reflitam sobre onde eles
-utilizam os números no cotidiano, desde a hora que acordam até a hora de
-dormir.
+O objetivo é incentivar o aluno a refletir sobre os números e suas diversas 
+utilidades. Provavelmente, ele já possui um conhecimento prévio sobre o 
+assunto e utiliza os números em seu cotidiano para contar, ordenar, codificar 
+e medir, ao medir sua altura, contar sua idade, ordenar seu lugar na fila etc. 
+Propor que os alunos reflitam sobre onde eles utilizam os números no cotidiano, 
+desde a hora que acordam até a hora de dormir.
 
-Atividades:
+##Atividades:
 
-1\) Complete as lacunas abaixo com os numeros primos entre 2 e 65
+1\) Complete as lacunas abaixo com os números primos entre 2 e 65
+
+%Paulo: Fazer uma tabela tal como a imagem a seguir.
 
 ![](./imgSAEB_6_MAT/media/image9.png){width="5.541666666666667in"
 height="1.625in"}
 
-Fazer tabela com as lacunas
 
 Resposta:
 
+%Paulo: Fazer uma tabela tal como a imagem a seguir.
 ![](./imgSAEB_6_MAT/media/image10.png){width="5.477083333333334in"
 height="1.8138888888888889in"}
 
-Fazer tabela com as lacunas e respostas
-
-Os números primos de 2 a 100, que devem ser obtidos pela construção
+R: Os números primos de 2 a 65, que devem ser obtidos pela construção
 proposta aos alunos no boxe, são: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29,
 31, 37, 41, 43, 47, 53, 59, 61.
-
-Inserir o quadro acima com os respectivos espaços ou seja um quadro de
-3x6
 
 2\) indique V para as afirmações verdadeiras e F para as falsas.
 
@@ -140,8 +100,6 @@ Inserir o quadro acima com os respectivos espaços ou seja um quadro de
 
 \(V\) os números 41, 43 e 47 são primos.
 
-Deixar um espaço entre os parenteses para inserção de V ou F
-
 3\) decomponha em fatores primos
 
 a\) 100
@@ -150,13 +108,11 @@ b\) 60
 
 c\) 225
 
-d\) 1 000
+d\) 1.000
 
 e\) 36
 
-Deixar um espaço de 5 linhas entre cada item acima
-
-Respostas:
+R:
 
 a\) 2² · 5² = 100
 
@@ -164,17 +120,15 @@ b\) 2² · 3 · 5 = 60
 
 c\) 3² · 5² = 225
 
-d\) 2³ · 5^3^ = 1000
+d\) 2³ · 5³ = 1.000
 
 e\) 2² · 3² = 36
 
-4\) A decomposição em fatores primos do numero 720 é:
+4\) A decomposição em fatores primos do número 720 é:
 
-2^4^ · 3² · 5 = 720
+2^4 · 3² · 5 = 720
 
-Inserir um espaço de 5 linhas para resolução
-
-5\) O menor numero composto formado pelos fatores primos 2, 3, 5 e 11 é:
+5\) O menor número composto formado pelos fatores primos 2, 3, 5 e 11 é:
 
 a\) 21
 
@@ -184,18 +138,14 @@ c\) 330
 
 d\) 3 000
 
-Inserir um espaço de 5 linhas para resolução
+R: O menor número possível é:
 
-Resposta: O menor número possivel é:
+2 · 3 · 5 · 11 = 330, logo, alternativa C.
 
-2 · 3 · 5 · 11 = 330 logo alternativa C
-
-6\) O numero 8 pode ser fatorado como 8 = 2 · 2 · 2 = 2³ e portanto
-possui 3 fatores primos. o numero 30 tambem tem 3 fatores primos, pois
-30 = 2 · 3 · 5, dessa forma, assinale a alternativa que apresenta apenas
-numeros compostos formados por 3 fatores primos.
-
-Inserir um espaço de 5 linhas para resolução
+6\) O número 8 pode ser fatorado como 8 = 2 · 2 · 2 = 2³ e, portanto,
+possui 3 fatores primos. O número 30 também tem 3 fatores primos, pois
+30 = 2 · 3 · 5. Dessa forma, assinale a alternativa que apresenta apenas
+números compostos formados por 3 fatores primos.
 
 a\) 12, 18, 27, 50
 
@@ -205,68 +155,68 @@ c\) 25, 49, 64, 81
 
 d\) 32, 36, 48, 80
 
-Resposta: Alternativa C
+Resposta: Alternativa C.
 
-7\) Observe os numeros a seguir :
+7\) Observe os números a seguir :
 
-> ![](./imgSAEB_6_MAT/media/image11.png){width="5.364583333333333in"
-> height="1.8125in"}
+%Paulo: inserir uma tabela com os seguintes números romanos. Inserir uma
+segunda coluna para as respostas:
+VIII
+XVII
+XXIII
+LIX
+DXLV
+MDXCVIII
+Quais números estão representados em cada quadro?
 
-Quais numeros estão representados em cada quadro?
+Resposta: 8, 17, 23. 59, 545 e 1598.
 
-Representar fielmente o quadro descrito acima pois qualquer falta de
-simbolo em qualquer um dos quadros resulta em erros de interpretação.
-
-Deixar um espaço de 4 linhas para resolução
-
-Resposta: Todos os quadros apresentam o numero: 1724
-
-Explorar com eles as regras do Sistema de Numeração Egípcio nos exemplos
-dos números apresentados na página. Reforçar que, nesse sistema de
-numeração, a ordem dos símbolos não modifica o número escrito.
+Explorar com eles as regras do sistema de numeração romano nos exemplos
+dos números apresentados na página.
 
 8\) Represente a quantidade de objetos a seguir nos sistemas de
-numeração romano e decimal
+numeração romano e decimal.
 
 > a\)
 
-![](./imgSAEB_6_MAT/media/image12.png){width="2.3224300087489063in"
-height="1.1019794400699912in"}
+%Paulo: inserir imagem:
+Disponível em: https://br.freepik.com/fotos-gratis/linha-de-lapis-afiados-verdes-sobre-fundo-branco_5223660.htm#query=lined%20up%20pencils&position=21&from_view=search&track=ais. Acesso em: 5 maio 2023.
 
-Romano: XI
 
-Decimal: 11
+R:
+Romano: IX
+
+Decimal: 9
 
 b\)
 
-![](./imgSAEB_6_MAT/media/image13.png){width="2.7604166666666665in"
-height="1.8012270341207348in"}
+%Paulo: inserir imagem:
+Disponível em: https://br.freepik.com/fotos-gratis/homem-colheita-segurando-pedido-jogo-livros_5301939.htm#query=five%20books&position=4&from_view=search&track=ais. Acesso em: 5 maio 2023.
 
+R:
 Romano: V
 
 Decimal: 5
 
 c\)
 
-![](./imgSAEB_6_MAT/media/image14.png){width="3.3958333333333335in"
-height="2.3333333333333335in"}
+%Paulo: inserir imagem:
+Disponível em: https://br.freepik.com/fotos-gratis/macas-vermelhas-e-verdes-isoladas-na-placa-de-madeira_14705803.htm#page=2&query=twenty%20apples&position=30&from_view=search&track=ais
 
-Romano: XX
+R:
+Romano: VII
 
-Decimal: 20
-
-Inserir as figuras descritas acima, podendo ser figuras semelhantes a
-essas
+Decimal: 7
 
 Se achar conveniente, apresentar alguns jornais em francês, italiano e
 inglês, por exemplo, e mostrar que, em todos, os números utilizados são
-os números indo-arábicos. Dessa forma, eles terão uma percepção concreta
-da universalidade do Sistema de Numeração Indo-arábico. Uma vez que os
-alunos percebam que o Sistema de Numeração Decimal possui regras e
+os números indo-arábicos. Dessa forma, os alunos terão uma percepção concreta
+da universalidade do sistema de numeração indo-arábico. Uma vez que os
+alunos percebam que o sistema de numeração decimal possui regras e
 características que o fizeram prevalecer sobre os outros sistemas
 apresentados, é chegado o momento de eles verificarem, de fato, quais
 são essas regras e características. Uma estratégia possível é fazer a
-comparação das características do Sistema de Numeração Decimal com
+comparação das características do sistema de numeração decimal com
 outros sistemas, ressaltando as diferenças e semelhanças. Com base nessa
 discussão, organizar, com a turma, uma tabela para que os alunos
 sistematizem as regras estudadas de todos os sistemas que foram
@@ -275,59 +225,53 @@ apresentados.
 9\) Passe os números do sistema de numeração romano a seguir para o
 sistema decimal:
 
-a\) IV = 4
+a\) IV = 
 
-b\) VI = 6
+b\) VI = 
 
-c\) XL = 40
+c\) XL = 
 
-d\) LX = 60
+d\) LX = 
 
-e\) XC = 90
+e\) XC = 
 
-f\) CX = 110
+f\) CX = 
 
-Deixar o espaço de 1 linha para resolução abaixo de cada item
+R:
+4, 6, 40, 60, 90 e 110.
 
-10\) O número 35 482 pose ser decomposto em parcelas 30 000 + 5 000 +
-400 + 80 + 2. Seguindo esse mesmo raciocínio decomponha os seguintes
+10\) O número 35.482 pode ser decomposto nas parcelas 30.000 + 5.000 +
+400 + 80 + 2. Seguindo esse mesmo raciocínio, decomponha os seguintes
 números:
 
-a\) 9 876
+a\) 9.876
 
-9 000 + 800 + 70 + 6
+R: 9.000 + 800 + 70 + 6
 
-b\) 12 345
+b\) 12.345
 
-10 000 + 2 000 + 300 + 40 + 5
+R: 10.000 + 2.000 + 300 + 40 + 5
 
-c\) 678 910
+c\) 678.910
 
-600 000 + 70 000 + 8 000 + 900 +10
+R: 600.000 + 70.000 + 8.000 + 900 + 10
 
-d\) 60 504
+d\) 60.504
 
-60 000 + 500 + 4
+60.000 + 500 + 4
 
-Deixar o espaço de 1 linha para resolução abaixo de cada item
 
-Reforçar aos alunos que o Sistema de Numeração Decimal tem um símbolo
+Reforçar aos alunos que o sistema de numeração decimal tem um símbolo
 que representa a ausência de quantidade -- o zero (0) -- e tem base 10,
 ou seja, utilizam-se apenas 10 símbolos -- 1, 2, 3, 4, 5, 6, 7, 8, 9 e 0
 para escrever qualquer número. Além disso, esse sistema de numeração é
 posicional; isso quer dizer que a posição do algarismo indica o seu
 valor numérico.
 
-Treino
+## Treino
 
-1\) O maior cometa já descoberto é o Holmes, que possui 2 251 km de
+1\) O maior cometa já descoberto é o Holmes, que possui 2.251 km de
 diâmetro
-
-![](./imgSAEB_6_MAT/media/image15.png){width="3.7178182414698164in"
-height="1.9672889326334209in"}
-
-Inserir a figura descrita acima podendo ser outra fotografia, dede que
-seja do mesmo planeta
 
 Quantas ordens possui o número que representa diâmetro do cometa?
 
@@ -341,26 +285,26 @@ d\) 10 ordens
 
 Resposta: C
 
-BNCC: EF06MA01 EF06MA05
-
-Habilidade Saeb: Compor ou decompor números racionais positivos
+SAEB: Compor ou decompor números racionais positivos
 (representação decimal finita) na forma aditiva, ou em suas ordens, ou
 em adições e multiplicações.
 
-Alternativa A:Incorreta, o aluno pode ter uma mal interpretação e contar
+BNCC: EF06MA01 -- Comparar, ordenar, ler e escrever números naturais e números racionais cuja representação decimal é finita, fazendo uso da reta numérica.
+
+Alternativa A: Incorreta, o aluno pode ter uma mal interpretação e contar
 as classes ao invés das ordens.
 
 Alternativa B: Incorreta, o aluno pode ter uma mal interpretação e
-considerar que ordens é um conjunto de 3 números após o ponto.
+considerar que as ordens são um conjunto de 3 números após o ponto.
 
 Alternativa C: Alternativa correta.
 
 Alternativa D: Incorreta, o aluno pode compreender que ordens são a soma
 de todos os números descritos.
 
-2\) José tem IX de idade seu irmão mais velho tem XXI e o mais novo V,
-somando a idade dos três dá a idade do pai. Quantos anos tem o pai
-deles?
+2\) José tem IX de idade, seu irmão mais velho tem XXI e o mais novo, V. 
+Somando a idade dos três, encontramos a idade de seu pai. Quantos anos 
+tem o pai dos garotos?
 
 a\) XXV
 
@@ -372,22 +316,19 @@ d\) XXX
 
 Resposta: B
 
-BNCC: EF06MA01 EF06MA05
-
-Habilidade Saeb: Converter uma representação de um número racional
+SAEB: Converter uma representação de um número racional
 positivo para outra representação.
+
+BNCC: EF06MA05 -- Classificar números naturais em primos e compostos, estabelecer relações entre números, expressas pelos termos “é múltiplo de”, “é divisor de”, “é fator de”, e estabelecer, por meio de investigações, critérios de divisibilidade por 2, 3, 4, 5, 6, 8, 9, 10, 100 e 1000.
 
 Alternativa A: Incorreta, o aluno pode esquecer de somar um "X".
 
 Alternativa B: Alternativa Correta.
 
-Alternativa C: Incorreta, o aluno pode compreender que IX é na verdade
-11 ao invés de 9
+Alternativa C: Incorreta, o aluno pode compreender que IX é 11 ao invés de 9.
 
 Alternativa D: Incorreta, o aluno pode esquecer de somar a idade do
 irmão mais novo.
-
-Deixar o espaço de 5 linhas para resolução
 
 3\) O algarismo romano MMMDCCXVII representa o seguinte número decimal:
 
@@ -399,16 +340,14 @@ c\) 3718
 
 d\) 3417
 
-Deixar o espaço de 4 linhas para resolução
-
 Resposta: B
 
-BNCC: EF06MA01 EF06MA05
-
-Habilidade Saeb: Converter uma representação de um número racional
+SAEB: Converter uma representação de um número racional
 positivo para outra representação.
 
-Alternativa A: O aluno pode considerar que a letra "D" represente
+BNCC: EF06MA01 -- Comparar, ordenar, ler e escrever números naturais e números racionais cuja representação decimal é finita, fazendo uso da reta numérica.
+
+Alternativa A: Incorreta, o aluno pode considerar que a letra "D" representa
 "Dezena", logo o valor seria esse.
 
 Alternativa B: Correta
@@ -416,10 +355,10 @@ Alternativa B: Correta
 Alternativa C: Incorreta, o aluno pode confundir e contar um "I" a mais
 e considerar que o valor correto é esse.
 
-Alternativa D: O aluno pode considerar que a letra D signifique
+Alternativa D: Incorreta, o aluno pode considerar que a letra D signifique
 Duzentos, logo o resultado seria esse.
 
-\num{2}
+#Operações
 
 BNCC: EF06MA06 EF06MA07 EF06MA10 EF06MA11 EF07MA04 EF08MA01 EF08MA02
 EF08MA03 EF09MA03 EF09MA04
@@ -6802,3 +6741,4 @@ Letra S -- Cubo
 Letra T -- Pirâmide base quadrada
 
 Letra U -- Pirâmide base triangular
+
