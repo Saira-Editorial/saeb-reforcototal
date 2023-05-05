@@ -1,18 +1,21 @@
-# 1. Classificações Numéricas
+# Módulo 1
 
-Habilidades do SAEB
-\- Escrever números racionais (representação fracionária ou decimal
+BNCC: EF06MA01 EF06MA05
+
+Habilidades SAEB
+
+*  Escrever números racionais (representação fracionária ou decimal
 finita) em sua representação por algarismos ou em língua materna ou
 associar o registro numérico ao registro em língua materna.
 
-\- Compor ou decompor números racionais positivos (representação decimal
+*  Compor ou decompor números racionais positivos (representação decimal
 finita) na forma aditiva, ou em suas ordens, ou em adições e
 multiplicações.
 
-\- Comparar ou ordenar números reais, com ou sem suporte da reta
+*  Comparar ou ordenar números reais, com ou sem suporte da reta
 numérica
 
-\- Converter uma representação de um número racional positivo para outra
+*  Converter uma representação de um número racional positivo para outra
 representação. - Identificar um número natural como primo, composto,
 "múltiplo/fator de" ou "divisor de" ou identificar a decomposição de um
 número natural em fatores primos ou relacionar as propriedades
@@ -62,7 +65,7 @@ e medir, ao medir sua altura, contar sua idade, ordenar seu lugar na fila etc.
 Propor que os alunos reflitam sobre onde eles utilizam os números no cotidiano, 
 desde a hora que acordam até a hora de dormir.
 
-##Atividades:
+\colorsec{Atividades}
 
 1\) Complete as lacunas abaixo com os números primos entre 2 e 65
 
@@ -100,7 +103,7 @@ proposta aos alunos no boxe, são: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29,
 
 \(V\) os números 41, 43 e 47 são primos.
 
-3\) decomponha em fatores primos
+3\) Decomponha em fatores primos.
 
 a\) 100
 
@@ -268,7 +271,7 @@ para escrever qualquer número. Além disso, esse sistema de numeração é
 posicional; isso quer dizer que a posição do algarismo indica o seu
 valor numérico.
 
-## Treino
+\colorsec{Treino}
 
 1\) O maior cometa já descoberto é o Holmes, que possui 2.251 km de
 diâmetro
@@ -342,6 +345,8 @@ d\) 3417
 
 Resposta: B
 
+BNCC: EF06MA01 EF06MA05
+
 SAEB: Converter uma representação de um número racional
 positivo para outra representação.
 
@@ -358,21 +363,23 @@ e considerar que o valor correto é esse.
 Alternativa D: Incorreta, o aluno pode considerar que a letra D signifique
 Duzentos, logo o resultado seria esse.
 
-#Operações
+# Módulo 2
 
-BNCC: EF06MA06 EF06MA07 EF06MA10 EF06MA11 EF07MA04 EF08MA01 EF08MA02
-EF08MA03 EF09MA03 EF09MA04
-
-Habilidades SAEB - Calcular o resultado de adições, subtrações,
+Habilidades SAEB 
+* Calcular o resultado de adições, subtrações,
 multiplicações ou divisões envolvendo número reais. - Calcular o
-resultado de potenciação ou radiciação envolvendo números reais. -
-Resolver problemas de adição, subtração, multiplicação, divisão,
+resultado de potenciação ou radiciação envolvendo números reais.
+
+* Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
 científica.
 
-\- Resolver problemas de contagem cuja resolução envolva a aplicação do
+*  Resolver problemas de contagem cuja resolução envolva a aplicação do
 princípio multiplicativo. - Resolver problemas que envolvam as ideias de
 múltiplo, divisor, máximo divisor comum ou mínimo múltiplo comum.
+
+BNCC 
+EF06MA06, EF06MA07, EF06MA10, EF06MA11.
 
 Adição
 
@@ -473,7 +480,7 @@ Produzir uma figura semelhante a essa nos moldes do projeto.
 Educação](./imgSAEB_6_MAT/media/image22.png){width="1.0930238407699038in"
 height="1.8034897200349955in"}
 
-Atividades
+\colorsec{Atividades}
 
 1\) Adriana e Marina são jogadoras de Vôlei, em uma partida Adriana fez
 18 pontos e Marina 17 Qual o total de pontos das duas jogadoras juntas?
@@ -710,7 +717,7 @@ possível, fazer a identificação desses elementos utilizando exemplos ou
 atividades para que eles possam compreender a nomenclatura correta e as
 ideias ligadas a essa simbologia.
 
-Treino:
+\colorsec{Treino}
 
 1\) Três asteroides se aproximam do sol a cada 20, 24, e 28 anos,
 respectivamente. Se o último ano em que todos estiveram próximos do sol
@@ -816,13 +823,13 @@ BNCC: EF06MA09
 
 Habilidades Saeb
 
-\- Representar frações menores ou maiores que a unidade por meio de
+*  Representar frações menores ou maiores que a unidade por meio de
 representações pictóricas ou associar frações a representações
 pictóricas.
 
-\- Identificar frações equivalentes.
+*  Identificar frações equivalentes.
 
-\- Determinar uma fração geratriz para uma dízima periódica
+*  Determinar uma fração geratriz para uma dízima periódica
 
 Uma fração** **é um número usado para representar parcela de um valor
 inteiro que foi dividido em partes iguais, ou seja, se um objeto
@@ -857,7 +864,7 @@ interessante refletir com os alunos sobre o uso de alimentos para
 representar frações, pois muitas vezes uma fatia pode aparentemente
 possuir o mesmo tamanho que outras, mas a massa pode ser diferente.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Dois irmãos Abel e Caim resolveram comprar uma pizza juntos, ao
 chegar em casa Abel comeu 3/8 da pizza, enquanto Caim comeu 7/16 avos,
@@ -1051,7 +1058,7 @@ de seus numeradores e denominadores e desenvolver a ideia de frações
 equivalentes, que será vista a seguir. Destacar que, para comparar as
 frações, é necessário verificar se ambas se referem ao mesmo todo.
 
-Treino:
+\colorsec{Treino}
 
 1\) Ester preencheu 3/4 de uma jarra de 500 ml com refresco. Na hora de
 servir a bebida, ele distribuiu o líquido igualmente em 5 copos de 50
@@ -1220,7 +1227,7 @@ resultado erroneamente.
 
 BNCC: EF06MA13
 
-\- Resolver problemas que envolvam porcentagens, incluindo os que lidam
+*  Resolver problemas que envolvam porcentagens, incluindo os que lidam
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
 
@@ -1434,7 +1441,7 @@ Resposta:20% de lucro
 
 Deixar o espaço de 4 linhas para resolução
 
-Treino
+\colorsec{Treino}
 
 1\) Em uma cidade em que as passagens de ônibus custavam R\$1,20 o novo
 prefeito reajustou o preço das passagens em 25%. Qual será o novo valor
@@ -1555,15 +1562,15 @@ BNCC: EF06MA14
 
 Habilidades Saeb
 
-\- Resolver uma equação polinomial de 1º grau.
+*  Resolver uma equação polinomial de 1º grau.
 
-\- Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
+*  Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
 equações de 1º grau com duas incógnitas que modela um problema.
 
-\- Associar uma equação polinomial de 1º grau com duas variáveis a uma
+*  Associar uma equação polinomial de 1º grau com duas variáveis a uma
 reta no plano cartesiano.
 
-\- Resolver problemas que possam ser representados por sistema de
+*  Resolver problemas que possam ser representados por sistema de
 equações de 1º grau com duas incógnitas.
 
 A equação do 1º grau 
@@ -1612,7 +1619,7 @@ x = 40 -- y$\rightarrow \ $x = 40 -- 24 $\rightarrow \ $x = 16\
 \
 Portanto, a solução do sistema é S = (16, 24)
 
-Atividades
+\colorsec{Atividades}
 
 1\) Resolva as Equações polinomiais abaixo e descubra o valor de X em
 cada uma delas
@@ -1867,7 +1874,7 @@ essa.
 
 Resposta: Alternativa c
 
-Treino:
+\colorsec{Treino}
 
 1\) Numa caixa há bolas Vermelhas e bolas amarelas num total de 360. Se
 o número de bolas vermelhas é o quádruplo do de amarelas, o número de
@@ -2063,7 +2070,7 @@ inclusive escalas, divisões proporcionais e taxa de variação.
   Grandezas INVERSAMENTE proporcionais
   Duas grandezas são inversamente proporcionais quando uma aumenta e outra diminui na mesma proporção.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Para se construir uma calçada, é comum, na constituição do concreto,
 se utilizar cimento, areia e brita, na seguinte proporção: 1 parte de
@@ -2267,7 +2274,7 @@ x = 140 / 14
 Portanto, se caso aumente a capacidade dos caminhões para 14 m³, então o
 número de caminhões necessários será igual a 10.
 
-Treino
+\colorsec{Treino}
 
 1\) Em uma indústria, 20 máquinas iguais, de mesmo rendimento, produzem
 juntos 5000 peças iguais, em meia hora de funcionamento simultâneo e
@@ -2381,24 +2388,24 @@ Habilidades Saeb:
 Identificar, no plano cartesiano, figuras obtidas por uma ou mais
 transformações geométricas (reflexão, translação, rotação).
 
-\- Relacionar o número de vértices, faces ou arestas de prismas ou
+*  Relacionar o número de vértices, faces ou arestas de prismas ou
 pirâmides, em função do seu polígono da base.
 
-\- Relacionar objetos tridimensionais às suas planificações ou vistas.
+*  Relacionar objetos tridimensionais às suas planificações ou vistas.
 
-\- Classificar polígonos em regulares e não regulares.
+*  Classificar polígonos em regulares e não regulares.
 
-\- Reconhecer polígonos semelhantes ou as relações existentes entre
+*  Reconhecer polígonos semelhantes ou as relações existentes entre
 ângulos e lados correspondentes nesses tipos de polígonos.
 
-\- Reconhecer circunferência/círculo como lugares geométricos, seus
+*  Reconhecer circunferência/círculo como lugares geométricos, seus
 elementos (centro, raio, diâmetro, corda, arco, ângulo central, ângulo
 inscrito).
 
-\- Construir/desenhar figuras geométricas planas ou espaciais que
+*  Construir/desenhar figuras geométricas planas ou espaciais que
 satisfaçam condições dadas.
 
-\- Resolver problemas que envolvam relações entre os elementos de uma
+*  Resolver problemas que envolvam relações entre os elementos de uma
 circunferência/círculo (raio, diâmetro, corda, arco, ângulo central,
 ângulo inscrito).
 
@@ -2759,34 +2766,34 @@ BNCC: EF06MA19
 
 Habilidades Saeb
 
-\- Identificar propriedades e relações existentes entre os elementos de
+*  Identificar propriedades e relações existentes entre os elementos de
 um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
 determinação da medida de um ângulo interno ou externo).
 
-\- Classificar triângulos ou quadriláteros em relação aos lados ou aos
+*  Classificar triângulos ou quadriláteros em relação aos lados ou aos
 ângulos internos.
 
-\- Identificar retas ou segmentos de retas concorrentes, paralelos ou
+*  Identificar retas ou segmentos de retas concorrentes, paralelos ou
 perpendiculares.
 
-\- Identificar relações entre ângulos formados por retas paralelas
+*  Identificar relações entre ângulos formados por retas paralelas
 cortadas por uma transversal.
 
-\- Resolver problemas que envolvam relações entre ângulos formados por
+*  Resolver problemas que envolvam relações entre ângulos formados por
 retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
 
-\- Resolver problemas que envolvam relações métricas do triângulo
+*  Resolver problemas que envolvam relações métricas do triângulo
 retângulo, incluindo o teorema de Pitágoras.
 
-\- Resolver problemas que envolvam polígonos semelhantes.
+*  Resolver problemas que envolvam polígonos semelhantes.
 
-\- Resolver problemas que envolvam aplicação das relações de
+*  Resolver problemas que envolvam aplicação das relações de
 proporcionalidade abrangendo retas paralelas cortadas por transversais.
 
-\- Determinar o ponto médio de um segmento de reta ou a distância entre
+*  Determinar o ponto médio de um segmento de reta ou a distância entre
 dois pontos quaisquer, dadas as coordenadas desses pontos no plano
 cartesiano.
 
@@ -2832,7 +2839,7 @@ Estas são as principais propriedades dos triângulos:
     desigualdade triangular, trata-se da condição de existência do
     triângulo.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Sabendo que a soma dos ângulos internos de um triangulo
 necessariamente é 180° complete as figuras abaixo com seus respectivos
@@ -3090,7 +3097,7 @@ e\) As ruas Itália e Marrocos são concorrentes F
 Reproduzir fielmente o mapa descrito acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
-Treino
+\colorsec{Treino}
 
 > 1\) Sabendo que (OP) é bissetriz do ângulo AÔB, qual é o valor de x?
 
@@ -3193,12 +3200,12 @@ BNCC: EF06MA19
 
 Habilidades Saeb
 
-\- Identificar propriedades e relações existentes entre os elementos de
+*  Identificar propriedades e relações existentes entre os elementos de
 um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
 determinação da medida de um ângulo interno ou externo).
 
-\- Classificar triângulos ou quadriláteros em relação aos lados ou aos
+*  Classificar triângulos ou quadriláteros em relação aos lados ou aos
 ângulos internos.
 
 Alternativa A: incorreta, pois o aluno pode considerar cortar mais peças
@@ -3460,7 +3467,7 @@ Resposta Alternativa D
 Reproduzir fielmente a imagem descrita acima podendo ser alterado as
 cores, porém não se alterando o conteúdo.
 
-Treino
+\colorsec{Treino}
 
 1\) Os retângulos da figura representam cidades. Os números na figura
 representam os preços dos bilhetes de comboio entre cidades vizinhas. O
@@ -3548,36 +3555,36 @@ BNCC: EF06MA31, EF06MA32
 
 Habilidade Saeb:
 
-\- Identificar os indivíduos (universo ou população-alvo da pesquisa),
+*  Identificar os indivíduos (universo ou população-alvo da pesquisa),
 as variáveis e os tipos de variáveis (quantitativas ou categóricas) em
 um conjunto de dados.
 
-\- Representar ou associar os dados de uma pesquisa estatística ou de um
+*  Representar ou associar os dados de uma pesquisa estatística ou de um
 levantamento em listas, tabelas (simples ou de dupla entrada) ou
 gráficos (barras simples ou agrupadas, colunas simples ou agrupadas,
 pictóricos, de linhas, de setores, ou em histograma).
 
-\- Inferir a finalidade da realização de uma pesquisa estatística ou de
+*  Inferir a finalidade da realização de uma pesquisa estatística ou de
 um levantamento, dada uma tabela (simples ou de dupla entrada) ou
 gráfico (barras simples ou agrupadas, colunas simples ou agrupadas,
 pictóricos, de linhas, de setores ou em histograma) com os dados dessa
 pesquisa. - Interpretar o significado das medidas de tendência central
 (média aritmética simples, moda e mediana) ou da amplitude.
 
-\- Calcular os valores de medidas de tendência central de uma pesquisa
+*  Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
-\- Resolver problemas que envolvam dados estatísticos apresentados em
+*  Resolver problemas que envolvam dados estatísticos apresentados em
 tabelas (simples ou de dupla entrada) ou gráficos (barras simples ou
 agrupadas, colunas simples ou agrupadas, pictóricos, de linhas, de
 setores ou em histograma).
 
-\- Argumentar ou analisar argumentações/conclusões com base nos dados
+*  Argumentar ou analisar argumentações/conclusões com base nos dados
 apresentados em tabelas (simples ou de dupla entrada) ou gráficos
 (barras simples ou agrupadas, colunas simples ou agrupadas, pictóricos,
 de linhas, de setores ou em histograma).
 
-\- Explicar/descrever os passos para a realização de uma pesquisa
+*  Explicar/descrever os passos para a realização de uma pesquisa
 estatística ou de um levantamento.
 
 População: todos os indivíduos dentro do grupo que se deseja estudar ou
@@ -3890,7 +3897,7 @@ alterando o conteúdo.
 
 Resposta Alternativa C
 
-Treino:
+\colorsec{Treino}
 
 1\) O trenzinho em que 25% dos vagões estão coloridos é:
 
@@ -3948,10 +3955,10 @@ BNCC: EF06MA31, EF06MA32
 
 Habilidade Saeb:
 
-\- Interpretar o significado das medidas de tendência central (média
+*  Interpretar o significado das medidas de tendência central (média
 aritmética simples, moda e mediana) ou da amplitude.
 
-\- Calcular os valores de medidas de tendência central de uma pesquisa
+*  Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
 Alternativa A: incorreta, o aluno pode realizar o cálculo da mediana ao
@@ -3988,10 +3995,10 @@ BNCC: EF06MA31, EF06MA32
 
 Habilidade Saeb:
 
-\- Interpretar o significado das medidas de tendência central (média
+*  Interpretar o significado das medidas de tendência central (média
 aritmética simples, moda e mediana) ou da amplitude.
 
-\- Calcular os valores de medidas de tendência central de uma pesquisa
+*  Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
 Alternativa A: incorreta, o aluno que não compreender corretamente o
@@ -4012,7 +4019,7 @@ BNCC: EF06MA24
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam medidas de grandezas (comprimento,
+*  Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais. - Resolver problemas que envolvam perímetro
 de figuras planas. - Resolver problemas que envolvam área de figuras
@@ -4289,7 +4296,7 @@ Resposta:
 ![](./imgSAEB_6_MAT/media/image99.png){width="3.4479166666666665in"
 height="1.5833333333333333in"}
 
-Treino
+\colorsec{Treino}
 
 1\) Uma cooperativa agrícola produziu 36 toneladas de feijão. Toda essa
 produção será embalada em sacos de 120 kg antes de ser transportada para
@@ -4310,7 +4317,7 @@ BNCC: EF06MA24
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam medidas de grandezas (comprimento,
+*  Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais.
 
@@ -4346,7 +4353,7 @@ BNCC: EF06MA24
 
 Habilidade Saeb:
 
-\- Resolver problemas que envolvam medidas de grandezas (comprimento,
+*  Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais.
 
@@ -4423,7 +4430,7 @@ height="1.4791666666666667in"}
 
 Produzir uma figura como essa
 
-Atividades:
+\colorsec{Atividades}
 
 ![](./imgSAEB_6_MAT/media/image102.jpeg){width="0.9375in"
 height="0.9375in"}1) Uma moeda é lançada 3 vezes. Qual a probabilidade
@@ -4613,7 +4620,7 @@ a\) 25/64
 
 b\) 9/64
 
-Treino
+\colorsec{Treino}
 
 1 -- Na lanchonete, você pode escolher entre 4 tipos de pães para seu
 sanduíche pão de forma, pão francês, pão sírio e pão preto. Você pode
@@ -4708,7 +4715,7 @@ pares como formas de buscar uma solução.
 
 alternativa D, correta 1/730
 
-Simulado 1
+# Simulado 1
 
 1\) O maior cometa já descoberto é o Holmes, que possui 2 251 km de
 diâmetro
@@ -5201,7 +5208,7 @@ Alternativa D: incorreta, a falta de adaptação a planificações e vistas
 aéreas pode levar ao aluno confusão de figuras chegando a assinalar essa
 alternativa sem compreender realmente o que a figura representa.
 
-Simulado 2
+# Simulado 2
 
 1\) Marcos têm três filhos cujas idades foram representadas em números
 romanos:
@@ -5755,7 +5762,7 @@ Alternativa D: correta, pois:
 
 Trata-se de um octógono, por possuir 8 lados e 8 ângulos.
 
-Simulado 3
+# Simulado 3
 
 1\) Ana Beatriz estava lendo um artigo sobre a escrita dos números pelos
 romanos quando se deparou com o seguinte número: MMMDCCXVIII. Curiosa,
@@ -6228,7 +6235,7 @@ divisão.
 Alternativa D: incorreta o aluno pode realizar uma multiplicação ao
 invés de divisão
 
-Simulado 4
+# Simulado 4
 
 1\) Adalberto encontrou nos cadernos antigos de seu pai o seguinte
 número em escrita egípcia:
@@ -6741,4 +6748,5 @@ Letra S -- Cubo
 Letra T -- Pirâmide base quadrada
 
 Letra U -- Pirâmide base triangular
+
 
