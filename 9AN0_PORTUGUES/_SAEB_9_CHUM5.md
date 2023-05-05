@@ -1,307 +1,206 @@
-**Módulo 5**
+# 5. Direitos humanos
 
-Fatos e problemas: Os direitos humanos
+\colorsec{Eixo de conhecimento do SAEB}
+Cidadania, direitos humanos e movimentos sociais.
 
-Este módulo foi estruturado no intuito de explorar diversas situações,
-passadas e presentes que dizem respeito a consolidação de direitos
-humanos básicos e as ações necessárias para a garantia de igualdade de
-condições e direitos que a diversidade interna a cada sociedade
-necessita.
+\colorsec{Habilidades da BNCC}
+EF09HI07, EF09HI09, EF09HI16, EF09HI21, EF09HI23.
 
-Habilidades BNCC: (EF09HI07); (EF09HI09); (EF09HI16); (EF09HI21);
-(EF09HI23)
+\conteudo{Os direitos humanos são um conjunto de normas e princípios que garantem a dignidade, liberdade e igualdade de todos os seres humanos, independentemente de sua origem, raça, religião, gênero, orientação sexual ou qualquer outra condição.
 
-Habilidades SAEB: Eixo 5 - - Cidadania, direitos humanos e movimentos
-sociais.
+Esses direitos são fundamentais para a construção de uma sociedade justa e democrática, onde todas as pessoas possam desfrutar de oportunidades iguais e viver com segurança e respeito. Eles são protegidos por leis internacionais e nacionais, e devem ser respeitados por governos, empresas e indivíduos.
 
-Professor, contextualizar as desigualdades sociais brasileiras,
-especialmente aquela de cunho racial é fundamental no auxílio para o
-aluno conseguir solucionar as atividades presentadas, cabe considerar
-que atualmente existem grandes embates na sociedade que relativizam ou
-diminuem as desigualdades e suas causas.
+Entre os direitos humanos mais importantes estão o direito à vida, à liberdade e à segurança pessoal, à igualdade perante a lei, à liberdade de pensamento, expressão e religião, ao trabalho digno, à educação e à saúde. A proteção desses direitos é essencial para o bem-estar das pessoas e para o desenvolvimento sustentável de todas as nações.}
 
-**1.**
+Leia os textos para resolver as atividades 1 e 2.
 
-**TEXTO I**
+**TEXTO 1**
+>\textbf{Serviço de Proteção aos Índios e Localização dos Trabalhadores Nacionais}
 
-*O Serviço de Proteção aos Índios e Localização dos Trabalhadores
+>O Serviço de Proteção aos Índios e Localização dos Trabalhadores
 Nacionais foi criado pelo decreto n. 8.072, de 20 de junho de 1910, com
 a finalidade de prestar assistência aos indígenas do Brasil e
 estabelecer centros agrícolas, constituídos pelos chamados trabalhadores
-nacionais.*
+nacionais.
 
-*A incorporação dos indígenas e dos trabalhadores nacionais no processo
+>A incorporação dos indígenas e dos trabalhadores nacionais no processo
 produtivo e o combate ao êxodo rural figuraram na pauta dos debates
 realizados pelos representantes dos setores agrícolas distanciados do
-centro de poder, que estiveram na origem da criação do [Ministério da
-Agricultura, Indústria e
-Comércio](http://mapa.an.gov.br/index.php/dicionario-primeira-republica/528-ministerio-da-agricultura-industria-e-comercio-1906-1931) em
-1906. Se nas áreas de plantio de café, a mão de obra era suprida pelos
+centro de poder, que estiveram na origem da criação do Ministério da
+Agricultura, Indústria e Comércio em 1906. Se nas áreas de plantio de café, a mão de obra era suprida pelos
 imigrantes, nas outras regiões se faziam necessárias medidas voltadas
-para os 'nacionais', denominação que abrangia ex-escravizados e seus
+para os "nacionais", denominação que abrangia ex-escravizados e seus
 descendentes, sertanejos e outros grupos (Mendonça, 1997, p. 85; 168).
-**[Assim, promover uma melhor distribuição espacial da força de trabalho
+Assim, promover uma melhor distribuição espacial da força de trabalho
 e administrar os conflitos indígenas resultantes, especialmente, do
 processo de especulação de terra impulsionado pela expansão da rede
 ferroviária, constituíram-se como objetivos da ação do Estado por meio
 do Serviço de Proteção aos Índios e Localização dos Trabalhadores
 Nacionais, de forma a contribuir para "o alargamento das fronteiras,
-simbólicas e econômicas, da Nação]{.underline}**" (Mendonça, 1997, p.
-168).* \[\...\]
+simbólicas e econômicas, da Nação]{.underline}" (Mendonça, 1997, p.
+168).
 
-<http://mapa.an.gov.br/index.php/ultimas-noticias/686-servico-de-protecao-aos-indios-e-localizacao-dos-trabalhadores-nacionais>
+>\[\...\]
 
-TEXTO II
+~Memória da Administração Pública Brasileira. Serviço de Proteção aos Índios e Localização dos Trabalhadores Nacionais. Disponível em: http://mapa.an.gov.br/index.php/ultimas-noticias/686-servico-de-protecao-aos-indios-e-localizacao-dos-trabalhadores-nacionais. Acesso em: 09 mar. 2023.~
 
-*Os índios Xokleng da TI Ibirama em Santa Catarina, são os sobreviventes
-de um processo brutal de colonização do sul do Brasil iniciado em meados
-do século passado, que quase os exterminou em sua totalidade. **[Apesar
-do extermínio de alguns subgrupos Xokleng no Estado, e do confinamento
-dos sobreviventes em área determinada, em 1914, o que garantiu a \"paz\"
-para os colonos e a conseqüente expansão e progresso do vale do rio
-Itajaí,]{.underline}** **[os Xokleng continuaram lutando para sobreviver
-a esta invasão, mesmo após a extinção quase total dos recursos naturais
-de sua terra, agravada pela construção da Barragem
-Norte.]{.underline}***
+**TEXTO 2**
+>\textbf{Os Xokleng}
 
-<https://pib.socioambiental.org/pt/Povo:Xokleng>
+>Os Xokleng, povo indígena da Terra Indígena Ibirama em Santa Catarina, são sobreviventes de um processo brutal de colonização do sul do Brasil, iniciado no século passado, que quase os levou à extinção. Embora alguns subgrupos Xokleng tenham sido exterminados no estado e os sobreviventes confinados em uma área delimitada em 1914, para garantir a "paz" aos colonos e a expansão do vale do rio Itajaí, os Xokleng persistem em lutar pela sobrevivência diante desta invasão, mesmo após a quase extinção dos recursos naturais de sua terra, agravada pela construção da Barragem Norte.
 
-\num{1} Tendo como base o trecho destacado dos textos, como podemos
+Fonte de pesquisa: Povos Indígenas do Brasil. Xokleng. Disponpível em: https://pib.socioambiental.org/pt/Povo:Xokleng. Acesso em: 09 mar. 2023.
+
+\num{1} Com base nos textos, como podemos
 caracterizar a relação da sociedade brasileira com as populações
 indígenas no começo do século XX?
 
-No primeiro texto fica claro o papel do estado como apaziguador dos
+\coment{No primeiro texto, fica claro o papel do Estado como apaziguador dos
 conflitos entre o avanço de atividades econômicas capitalistas e as
-populações indígenas. Já no segundo a menção a diminuição dos recursos
+populações indígenas. Já no segundo texto, a menção à diminuição dos recursos
 naturais mostra que existia uma disputa pelo acesso aos recursos, sendo
 utilizado inclusive o confinamento de populações indígenas para melhor
-espoliação dos recursos naturais.
+espoliação dos recursos naturais.}
 
-(EF09HI07) Identificar e explicar, em meio a lógicas de inclusão e
-exclusão, as pautas dos povos indígenas, no contexto republicano (até
-1964), e das populações afrodescendentes.
+\num{2} No texto 2, está implícita a principal causa dos
+conflitos entre população indígena e não indígena no período. Qual seria
+essa causa?
 
-\num{2} No trecho destacado no texto II está implícita a principal causa dos
-conflitos entre população indígena e não-indígena no período, qual seria
-tal causa?
+\coment{Trata-se da disputa pela posse do território e dos recursos naturais existentes.}
 
-A causa é disputa pela posse do território e dos recursos naturais
-existentes.
+\num{3} Leia os textos.
 
-(EF09HI07) Identificar e explicar, em meio a lógicas de inclusão e
-exclusão, as pautas dos povos indígenas, no contexto republicano (até
-1964), e das populações afrodescendentes.
+**TEXTO 1**
+>\textbf{A rodovia transamazônica e os indígenas tenharim: ontem e hoje}
 
-\num{3} Leia os trechos a seguir:
+>Manoel Duca, cacique da aldeia Bela Vista, de 52 anos, relatou em um depoimento que os indígenas Tenharim tinham muito medo dos trabalhadores da rodovia Transamazônica. Segundo ele, apenas três indígenas representavam o povo, enquanto os outros se escondiam no mato. A empresa responsável pela construção contratou os indígenas para fazer a desmatação, usando como incentivo o machado e a promessa de abrir a estrada. Durante um ano, trabalharam sem receber salário até a localidade Matamata, à margem do rio Aripuanã, derrubando árvores, inclusive dentro d'água. Os empregados das empreiteiras ordenavam aos indígenas nas aldeias: "Sai da frente!". A alimentação era insuficiente e a cultura dos indígenas foi perdida, incluindo as frutas encontradas no traçado da estrada e as redes de algodão que eles próprios faziam. Manoel Duca destacou que eles eram tratados como prisioneiros e eram obrigados a obedecer às ordens dos seus empregadores.
 
-Texto I
+~Fonte de pesquisa: Julio José Araújo Junior. ANPR. Disponível\ em:\ https://www.anpr.org.br/imprensa/artigos/20875-a-rodovia-transamazonica-e-os-indigenas-tenharim-ontem-e-hoje.\ Acesso\ em: 10\ mar.\ 2023.~
 
-*Em um dos depoimentos, o cacique da aldeia Bela Vista, Manoel Duca, de
-52 anos, afirma que os \[indígenas\] tenharim tinham muito medo dos
-trabalhadores da rodovia \[Transamazônica\]: "Só tinham três que
-representavam o povo, e o resto \[estava\] escondido no mato". Afirma
-que "a empresa pegou a gente para fazer desmatação", dizendo "olha aqui
-o machado, índio: vai abrir a estrada!" Derrubavam as árvores até mesmo
-dentro d\'água, tendo trabalhado um ano de graça "no cabo do machado"
-até a localidade Matamata, à margem do rio Aripuanã. Os empregados das
-empreiteiras apenas diziam para os índios nas aldeias: "Sai da frente!"
-Comiam pouco entre os turnos de trabalho: "Eles mandavam em nós que nem
-preso; quatorze pessoas. A alimentação cultural, as frutas que tinham na
-frente \[do traçado da estrada\], nós perdemos. Ficaram com as redinhas
-de algodão que fazíamos naquele tempo".* \[\...\]
+**TEXTO 2**
+>\textbf{Indígenas Tenharim pedem regularização das barreiras na Br 230/ Transamazônica e denunciam retirada ilegal de madeira e existência de assentamento do Incra dentro de Terra Indígena}
 
-~Disponível\ em:\ https://www.anpr.org.br/imprensa/artigos/20875-a-rodovia-transamazonica-e-os-indigenas-tenharim-ontem-e-hoje.\ Acesso\ em\ 10\ mar.\ 2023.~
+>A Organização dos Povos Indígenas do Alto Madeira (OPIAM) e a Coordenação das Organizações Indígenas da Amazônia Brasileira (Coiab) protocolaram, em 17/01, documentos no Ibama e Incra, denunciando a retirada ilegal de madeira e a presença de assentamentos do Incra dentro das Terras Indígenas Tenharim do Marmelo/Gleba B e Sepoti, localizadas nos municípios de Manicoré e Humaitá, no sul do Amazonas. Os Tenharim também entregaram documentos na Procuradoria da República no Amazonas, denunciando a instalação de barreiras na BR 230/Transamazônica dentro das terras indígenas e pedindo indenização e regularização das mesmas. Juntamente com os documentos, eles apresentaram ao Ministério Público Federal um relatório de estudo de impacto ambiental, cultural e antropológico realizado nas proximidades da BR. Os indígenas solicitaram ação das autoridades competentes para solucionar a situação.
 
-Texto II
+~Fonte de pesquisa: Coiab. Instituto Socioambienta. Indígenas Tenharim pedem regularização das barreiras na Br 230/ Transamazônica e denunciam retirada ilegal de madeira e existência de assentamento do Incra dentro de Terra Indígena. Disponível\ em:\ https://acervo.socioambiental.org/acervo/noticias/indigenas-tenharim-pedem-regularizacao-das-barreiras-na-br-230-transamazonica-e.\ Acesso\ em:\ 10\ mar.\ 2023.~
 
-*A Organização dos Povos Indígenas do Alto Madeira (OPIAM) e a
-Coordenação das Organizações Indígenas da Amazônia Brasileira (Coiab)
-protocolaram ontem (17/01) no Ibama e Incra, documentos que denunciam a
-retirada ilegal de madeira e a existência de assentamento do Incra
-dentro da Terra Indígena Tenharim do Marmelo/ Gleba B e Sepoti,
-localizadas no município de Manicoré e Humaitá, no sul do Amazonas.
-Foram entregues documentos ao Ibama e ao Incra, fazendo a denúncia e
-pedindo providências.*
+Os textos fazem menção a momentos distintos para uma mesma área. No
+primeiro, fala-se sobre o processo de abertura da rodovia federal BR-230 nos
+anos de 1970, mais conhecida como Transamazônica, enquanto, no segundo texto, fala-se sobre sua utilização nos dias de hoje. A partir da leitura dos textos, identifique os impactos da criação da
+rodovia Transamazônica para os indígenas locais.
 
-*Os Tenharim, entregaram também ao Ministério Público Federal, na
-Procuradoria da República no Amazonas, documentos referentes a
-instalação de barreiras dentro da Terra Indígena, onde está localizado a
-BR 230 / Transamazônica. No documento pedem indenização e a
-regularização das barreiras. Junto aos documentos entregues, os
-indígenas levaram ao conhecimento do Ministério Público Federal um
-relatório de um estudo de impacto ambiental, cultural e antropológico
-realizado nas imediações da Br.* \[\...\].
-
-~Disponível\ em:\ https://acervo.socioambiental.org/acervo/noticias/indigenas-tenharim-pedem-regularizacao-das-barreiras-na-br-230-transamazonica-e.\ Acesso\ em\ 10\ mar.\ 2023.~
-
-Os textos fazem menção a momentos distintos para uma mesma área. O
-primeiro fala sobre o processo de abertura da rodovia federal BR-230 nos
-anos de 1970, mais conhecida como Transamazônica, enquanto o segundo
-fala sobre a sua utilização nos dias de hoje.
-
-A partir da leitura dos textos, identifique os impactos da criação da
-Rodovia Transamazônica para os indígenas locais.
-
-A implantação da Rodovia Transamazônica foi uma das razões de
-aproximação entre indígenas e os demais grupos étnicos na região norte
-brasileira, que passaram a ocupá-la e desenvolvê-la em prol do dinamismo
-e crescimento econômico local. Contudo, esta aproximação foi muito
-sentida pelos indígenas uma vez que o contato com outros povos fez com
-que estivessem sujeitos a crimes \[como o trabalho análogo à escravidão
-descrito acima\] e doenças trazidas de fora, além da destruição dos
+\coment{A implantação da rodovia Transamazônica foi uma das razões de
+aproximação entre indígenas e os demais grupos étnicos na região Norte, que passaram a ocupá-la e desenvolvê-la em prol do dinamismo
+e do crescimento econômico local. Essa aproximação, contudo, foi muito
+sentida pelos indígenas, uma vez que o contato com outros povos fez com
+que estivessem sujeitos a crimes, como o trabalho análogo à escravidão, e doenças trazidas de fora, além da destruição dos
 recursos naturais locais. A manutenção da Rodovia e das atividades
-predatórias fez com que os indígenas se organizassem e criando
+predatórias fez com que os indígenas se organizassem, criando
 instituições capazes de denunciar as irregularidades que ocorrem em seus
-territórios. Importante frisar que a lógica imposta pelo capital sobre o
-território é distinta da lógica imposta pelos indígenas, que pautam a
-subsistência.
+territórios. É importante frisar que a lógica imposta pelo capital sobre o território é distinta da lógica imposta pelos indígenas, que pautam a
+subsistência.}
 
-(EF09HI21) Identificar e relacionar as demandas indígenas e quilombolas
-como forma de contestação ao modelo desenvolvimentista da ditadura.
+\num{4} Leia os textos.
 
-\num{4} *Após uma série de protestos dos estudantes da rede estadual de São
-Paulo, duramente reprimidos pela Polícia Militar,  o [Governador Geraldo
-Alckmin](http://brasil.elpais.com/tag/geraldo_alckmin/a/) anunciou nesta
-sexta-feira a decisão de suspender o plano de [reorganização
-escolar](http://brasil.elpais.com/tag/proyecto_reorganizacion_sistema_educativo_sao_paulo/a/),
-que entraria em vigor em 2016 e fecharia quase cem escolas no Estado.*
+**TEXTO 1**
+>\textbf{Ocupações em São Paulo}
 
-*A decisão vem depois do juiz Iberê de Castro Dias, da Vara da Infância
-Protetiva e Cível de Guarulhos, conceder liminar que suspende a
-chamada *reestruturação escolar* na cidade. Ele atendeu a um pedido
-do [Ministério
-Público](http://www1.folha.uol.com.br/educacao/2015/12/1714535-promotoria-e-defensoria-entram-com-acao-para-barrar-plano-de-alckmin.shtml) de
-São Paulo.*
+>“Realizamos uma assembleia ontem, mas não chegamos a uma conclusão. Hoje à noite, teremos outra para decidir se vamos ocupar ou não a escola.”, disse Douglas, de 17 anos, aluno do terceiro ano da Escola Estadual Diadema. O discurso dele parece uma repetição do passado. Há um ano, antes da escola ser a primeira a ser ocupada no Estado de São Paulo em protesto contra a reorganização escolar proposta pelo Governo Alckmin (PSDB), ele poderia ter dito exatamente a mesma coisa. Mas, na verdade, ele falou isso na semana passada, em frente à escola. Douglas mencionou a possibilidade de repetir um movimento que cresceu no final de 2015, culminando na derrubada do então secretário de Educação do Estado de São Paulo e na suspensão, pelo menos temporária, do projeto que fecharia 92 escolas.
+>
+>Douglas foi um dos principais envolvidos na ocupação da E. E. Diadema em 9 de novembro do ano passado. Naquela época, ninguém poderia imaginar que isso seria o início de um movimento em cascata que rapidamente se espalharia para mais de 200 escolas ocupadas em todo o Estado. As ocupações foram a segunda fase de uma luta iniciada com abaixo-assinados, protestos nas ruas e tentativas, sem sucesso, de conversas com os dirigentes de ensino.
+>
+>Naquela época, os alunos exigiam mais explicações sobre o projeto que foi anunciado às pressas. O Governo alegava que as escolas de ciclos únicos --- aquelas que oferecem apenas o Ensino Médio ou apenas o Ensino Fundamental --- apresentavam melhores resultados acadêmicos. Além disso, argumentava que o número de salas ociosas havia aumentado nos últimos anos e era necessário um remanejamento para otimizar os espaços.
 
-<https://brasil.elpais.com/brasil/2015/12/04/politica/1449237423_542806.html>
+~Fonte de pesquisa: Marina Rossi. El País. Reforma do Ensino Médio reacende mobilização um ano após ocupações em São Paulo. Disponível em: https://brasil.elpais.com/brasil/2016/10/14/politica/1476476414_549165.html. Acesso em: 10 mar. 2023.~
 
 A reorganização escolar de 2015 foi uma tentativa de reorganização das
-escolas do estado através da centralização das matrículas disponíveis em
-menos escolas.
+escolas do estado de São Paulo por meio da centralização das matrículas disponíveis em menos escolas. De acordo com o texto, explique dois fatos que levaram à não aplicação dessa reforma.
 
-De acordo com o texto, explique dois fatos que levaram a não aplicação
-desta reforma.
-
-A reforma conhecida como "reorganização escolar" não foi efetivada em
+\coment{A reforma, conhecida como "reorganização escolar", não foi efetivada em
 razão dos protestos promovidos pelos estudantes, além das decisões
-judiciais que contestaram a Reforma.
+judiciais que a contestaram.}
 
-(EF09HI09) Relacionar as conquistas de direitos políticos, sociais e
-civis à atuação de
+\num{5} Martin Luther King (1929-1968) notabilizou-se por sua liderança aos protestos não violentos e ao movimento pelos direitos sociais e civis dos negros nos Estados Unidos da América. O trecho a seguir faz parte do discurso proferido pelo reverendo King, após a decisão da Suprema Corte dos Estados Unidos tornar ilegal a segregação nos ônibus na cidade de Montgomery, em 1956.
 
-movimentos sociais.
-
-\num{5} Martin Luther King (1929-1968) notabilizou-se pela sua liderança aos
-protestos não violentos e ao movimento pelos direitos sociais e civis
-dos negros nos Estados Unidos da América. O trecho a seguir faz parte do
-discurso proferido pelo reverendo King, após a decisão da Suprema Corte
-dos Estados Unidos tornar ilegal a segregação nos ônibus na cidade de
-Montgomery \[Alabama-EUA\], em 1956:
-
-*Este é o momento em que devemos manifestar uma dignidade tranquila e um
-controle prudente. As emoções não podem expressar-se de forma
-desregrada. A violência não pode vir de nenhum de nós, pois, se formos
-vitimados com intenções violentas, teremos caminhado em vão, e nossos
-doze meses de dignidade gloriosa passarão a ser visto como as vésperas
-de uma tenebrosa catástrofe. Ao voltarmos para os ônibus, sejamos
-suficientemente amorosos para transformar em amigo o inimigo. Devemos
-passar agora do protesto à conciliação. Tenho firma a convicção de que
-Deus está operando em Montgomery.* \[\...\].
-
-~KING,\ Martin\ Luther.\ A\ Autobiografia\ de\ Martin\ Luther\ King\ /\ Martin\ Luther\ King\ ;\ organização\ Clayborne\ Carson;\ tradução\ Carlos\ Alberto\ Medeiros.\ --\ 1.ed.\ --\ Rio\ de\ Janeiro:\ Zahar,\ 2014.\ p.123.~
+>Este é um momento em que devemos agir com dignidade e prudência. Não devemos permitir que nossas emoções nos dominem ou que a violência nos defina. Se formos alvos de atos violentos, todo o nosso esforço para alcançar uma vida digna terá sido em vão, e nossos doze meses de luta gloriosa serão vistos como um prelúdio para uma catástrofe sombria. Enquanto voltamos para os ônibus, devemos ser suficientemente amorosos para transformar nossos inimigos em amigos. É hora de mudarmos nossa abordagem do protesto para a conciliação.
 
 A partir do trecho, analise a importância de ações não violentas nos
-protestos organizados por King a fim de conquistar a dessegregação dos
+protestos organizados por King a fim de conquistar a dessegregação nos
 ônibus em Montgomery.
 
-Luther King buscava chamar a atenção dos negros e das autoridades
-públicas -- políticos e líderes de organização -- à injustiça sofrida
-pelos seus semelhantes, além de que, a prática de protesto não violento
-atenuava a agressividade imposta pelos agentes do Estado.
+\coment{Martin Luther King buscava chamar a atenção dos negros e das autoridades
+públicas --- políticos e líderes de organização --- para a injustiça sofrida
+por seus semelhantes, além de que a prática de protesto não violento
+atenuava a agressividade imposta pelos agentes do Estado.}
 
-(EF09HI09) Relacionar as conquistas de direitos políticos, sociais e
-civis à atuação de movimentos sociais.
+\num{6} Leia os textos de dois artigos da "Declaração universal dos direitos humanos".
 
-\num{6} Chama-se "Declaração Universal dos Direitos Humanos" o documento
-elaborado pela recém-criada Organização das Nações Unidas visando a
-manutenção da paz e do respeito ao conjunto das populações humanas, a
-seguir, estão reproduzidos alguns de seus artigos:
+>\textbf{Artigo 3}
+>Todo ser humano tem direito à vida, à liberdade e à segurança pessoal.
 
-*Artigo 3*
+>\textbf{Artigo 4}
+>Ninguém será mantido em escravidão ou servidão; a escravidão e o
+tráfico de escravos serão proibidos em todas as suas formas.
 
-*Todo ser humano tem direito à vida, à liberdade e à segurança pessoal.*
+Após a leitura dos artigos, analise a notícia reproduzida a seguir.
 
-*Artigo 4*
+>\textbf{Vinícolas devem pagar R$ 7 milhões por caso de trabalho escravo no RS}
+_Uma parte é por danos morais coletivos e outra, individuais_
 
-*Ninguém será mantido em escravidão ou servidão; a escravidão e o
-tráfico de escravos serão proibidos em todas as suas formas.*
+>[...]
 
-<https://www.unicef.org/brazil/declaracao-universal-dos-direitos-humanos>
+>Em 22 de fevereiro [de 2023], uma ação conjunta entre a Polícia Rodoviária Federal (PRF), Polícia Federal (PF) e Ministério do Trabalho e Emprego (MTE) resgatou 207 trabalhadores que enfrentavam condições de trabalho degradantes em Bento Gonçalves, na Serra Gaúcha.
 
-Após a leitura dos artigos, analise a notícia abaixo:
+>O resgate ocorreu depois que três trabalhadores que fugiram do local contactaram a PRF, em Caxias do Sul (RS), e fizeram a denúncia.
 
-**O caso de trabalho análogo à escravidão em vinícolas no RS**
-==============================================================
+>Atraídos pela promessa de salário de R$ 3 mil, os trabalhadores relataram enfrentar atrasos nos pagamentos dos salários, violência física, longas jornadas e oferta de alimentos estragados.
 
-**Operação encontrou mais de 200 homens contratados para trabalhar na
-colheita de uva em Bento Gonçalves, no RS, em condições degradantes.
-Veja o que se sabe.**
+>Eles relataram ainda que, desde que chegaram, no início do mês, eram coagidos a permanecer no alojamento, sob pena de pagar multa por quebra do contrato de trabalho. A PF prendeu um empresário baiano responsável pela empresa, que foi encaminhado para o presídio de Bento Gonçalves.
 
-*Nos depoimentos, os trabalhadores relataram episódios de violência,
-tais como surras com cabo de vassoura, mordidas, choques elétricos e
-ataques com spray de pimenta, além de más condições de trabalho e de
-alojamento. Eles denunciaram ainda práticas como vales, multas e
-descontos nos salários, o que levou o MTE e o MPT a considerarem a
-situação como um regime de trabalho análogo à escravidão.*
+>Em notas, as vinícolas envolvidas disseram que desconheciam as irregularidades praticadas contra os trabalhadores recrutados pela empresa prestadora de serviços terceirizados.
 
-*Os homens trabalhavam na colheita de uva de domingo a sexta, das 5h às
-20h e sem pausas -- apesar de serem forçados a assinar no ponto que
-folgavam também aos domingos. \[\...\]*
+<[...]
 
-*Um dos trabalhadores afirmou, em entrevista ao jornal Folha de S.
-Paulo, que o combinado era receber R\$ 4 mil após 45 dias. Porém, eram
-abatidos do montante descontos que não foram previamente combinados.
-\[\...\]*
+~Felipe Pontes. Agência Brasil. Vinícolas devem pagar R$ 7 milhões por caso de trabalho escravo no RS. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2023-03/vinicolas-devem-pagar-r-7-milhoes-por-caso-de-trabalho-escravo-no-rs. Acesso em: 11 mar. 2023.~
 
-*Outro trabalhador relatou que, ao chegar no Rio Grande do Sul, soube
-que perderia a passagem de volta caso faltasse a um dia de trabalho.
-Além disso, o alojamento -- que deveria estar incluso -- seria
-descontado em folha no final do contrato. Por isso, afirma ele, a
-situação fazia com que os homens continuassem trabalhando mesmo se
-estivessem doentes.*
+Explique como cada artigo da "Declaração universal dos direitos humanos"
+foi desrespeitado no caso relatado pela notícia.
 
-*Os trabalhadores disseram que recebiam comida estragada dos
-representantes da Fênix, que só podiam comprar produtos em um mercadinho
-perto do alojamento, com preços superfaturados, e que o valor gasto era
-descontado do salário. Por isso, os trabalhadores acabavam o mês devendo
-dinheiro para a empresa, pois o consumo superava o valor do salário.
-Eles contaram ainda que não podiam sair do local e que, se quisessem,
-teriam que pagar a suposta \"dívida\". Além disso, os empregadores
-ameaçavam seus familiares.*
+\coment{Contrariamente ao artigo 3, os trabalhadores estavam em privação de liberdade e sofriam violência para aceitar as condições de exploração. Contrariamente ao artigo 4, os trabalhadores não tinham salário integral, liberdade de ir e vir e horas de descanso, o que configurava o trabalho análogo à escravidão.}
 
-<https://www.dw.com/pt-br/o-que-se-sabe-sobre-caso-de-trabalho-an%C3%A1logo-%C3%A0-escravid%C3%A3o-no-rs/a-64865707>
+\num{7} Ainda sobre o caso relatado na notícia reproduzida na atividade anterior, explique de que forma os mencionados artigos da "Declaração universal dos direitos humanos" podem passar a valer para os trabalhadores relacionados ao caso.
 
-Explique como cada artigo da "Declaração Universal dos Direitos Humanos"
-foi desrespeitado no caso relatado pela notícia:
+\coment{É fundamental que esses trabalhadores tenham condições de trabalho que não conflitem com a dignidade da pessoa humana e que lhes permitam ter uma vida como qualquer outro cidadão.}
 
-Artigo 3:
+Leia o texto, um comentário sobre um fato ocorrido alguns anos atrás, para resolver as atividades 8 e 9.
 
-Os trabalhadores estavam em privação de liberdade e sofriam violência
-para aceitar as condições de exploração.
+>\textbf{Protesto na ponte Rio-Niterói}
 
-Artigo 4:
+>Na manhã de hoje, 40 ativistas da ONG Greenpeace, incluindo 10 alpinistas, colocaram uma faixa com a mensagem "Líderes mundiais: pessoas e clima em primeiro lugar" no vão central da ponte Rio-Niterói. Infelizmente, o grande congestionamento causado pelo protesto gerou cinco vezes mais emissões de gás carbônico do que a poluição típica do horário. Embora isso não tenha saído como planejado, não podemos ignorar a importância da mensagem do protesto.
+>
+>A construção de uma economia verde e de baixo carbono, que gere empregos sustentáveis sem agravar o aquecimento global, é essencial para um verdadeiro resgate financeiro global. Infelizmente, o governo brasileiro não incentiva medidas sustentáveis para as montadoras nacionais, enquanto o governo dos EUA exige que a indústria automotiva construa modelos menos poluentes.
+>
+>Além disso, a abertura de linhas de financiamento para abatedouros, que são grandes responsáveis pelo desmatamento na Amazônia, é uma ação preocupante.
 
-Por não terem direito a salário integral, não terem liberdade de ir e
-vir e praticamente não terem horas de descanso, o trabalho dessas
-pessoas é considerado análogo a escravidão, ou seja, semelhante ao
-modelo praticado durante o Brasil colonial.
+~Fonte de pesquisa: Karla Cunha. Protesto do Greenpeace no Rio. Disponível em: http://www.karlacunha.com.br/protesto-do-greenpeace-no-rio/. Acesso em: 11 mar. 2023.~
 
-(EF09HI16) Relacionar a Carta dos Direitos Humanos ao processo de
-afirmação dos direitos fundamentais e de defesa da dignidade humana,
-valorizando as instituições voltadas para a defesa desses direitos e
-para a identificação dos agentes responsáveis por sua violação.
+\num{8} O que ações como a retratada no texto, que chamam a atenção de políticos globais para problemas enfrentados pelas populações, buscam demonstrar? Explique.
 
-Treino
+\coment{O texto ilustra uma ação que bloqueou o trânsito em uma ponte para chamar a atenção dos líderes mundiais para uma mensagem que queria ser transmitida. O fato de a ação chamar a atenção demonstra a insatisfação com atitudes dos líderes mundiais que representam governos.}
+
+\num{9} Explique como você enxerga a contradição apontada no texto a respeito do protesto mencionado.
+
+\coment{Resposta pessoal.} Deixar umas 10 linhas de resposta.
+
+\num{10} Observe a imagem a seguir.
+
+%Inserir foto: https://br.freepik.com/fotos-gratis/as-vidas-negras-importam-o-movimento-de-conscientizacao_13378160.htm#query=direitos%20humanos&position=41&from_view=search&track=ais
+
+A imagem faz parte de uma campanha sobre direitos humanos e, nela, lê-se em inglês "Sem justiça, sem paz". Explique como essa campanha se associa a direitos humanos.
+
+\coment{A campanha "Sem justiça, sem paz" está diretamente relacionada aos direitos humanos, pois enfatiza a necessidade de justiça e igualdade para todas as pessoas, independentemente de raça, etnia, gênero, orientação sexual ou qualquer outra característica. A frase "Sem justiça, sem paz" sugere que a paz verdadeira só pode ser alcançada quando a justiça é garantida e os direitos humanos são respeitados. A campanha geralmente é usada em protestos contra a violência policial, discriminação racial e outras questões sociais que violam os direitos humanos. A campanha é, portanto, uma forma de conscientizar as pessoas sobre a importância dos direitos humanos e da justiça social, bem como de lutar por mudanças positivas nessas áreas.}
+
+##Treino
 
 \num{1} Leia o trecho da Constituição cidadã de 1988 que versa sobre a
 educação:
@@ -481,96 +380,6 @@ como forma de contestação ao modelo desenvolvimentista da ditadura.
 
 Simulado
 
-\num{1} Na tira abaixo se mencionam duas publicações: O livro *1984*, de
-Oscar Wilde e a *Constituição Cidadã de 1988*, indicada pela bandeira do
-Brasil
-
-![Desenho de personagens de desenho animado Descrição gerada
-automaticamente com confiança
-média](./imgSAEB_9_CHUM5/media/image2.png){width="5.302083333333333in"
-height="1.625in"}
-
-<https://www.facebook.com/tirasarmandinho/posts/d41d8cd9/2704295009615788/?locale=pt_BR>
-
-A leitura da tira nos permite concluir que ocorre uma crítica
-
-a)  A antiguidade do livro 1984.
-
-b)  Ao conteúdo presente na constituição.
-
-c)  Ao anacronismo do conteúdo de 1984.
-
-d)  Ao suposto não cumprimento da constituição.
-
-INCORRETA. Não existe crítica a 1984, apenas a constatação que parece
-atual.
-
-INCORRETA. Não há menção ao conteúdo da Constituição.
-
-INCORRETA. Também não se aborda os assuntos tratados em 1984.
-
-CORRETA. Sendo a Constituição a base de toda a legislação Brasileira, o
-fato dela estar fora de moda significa que não está sendo respeitada, a
-tirinha portanto está criticando o desrespeito a constituição.
-
-(EF09HI23) Identificar direitos civis, políticos e sociais expressos na
-Constituição de 1988 e relacioná-los à noção de cidadania e ao pacto da
-sociedade brasileira de combate a diversas formas de preconceito, como o
-racismo.
-
-Além da noção de conhecimento sobre os direitos e deveres, retoma a
-temática da cidadania com a perspectiva de uma construção de
-consciência, de participação e luta coletiva pela solução de problemas e
-transformação da realidade.
-
-2.![Navio no mar Descrição gerada automaticamente com confiança
-baixa](./imgSAEB_9_CHUM5/media/image3.png){width="2.3365551181102364in"
-height="3.4583333333333335in"}
-
-*Hoje pela manhã, 40 ativistas da
-ONG [Greenpeace](http://www.greenpeace.org.br/), entre eles 10
-alpinistas, estenderam uma faixa no vão central da ponte Rio-Niteroi com
-a frase em inglês, "líderes do mundo: pessoas e o clima em primeiro
-lugar*". \[\...\]
-
-<http://www.karlacunha.com.br/protesto-do-greenpeace-no-rio/>
-
-Ações como as representadas acima, que chamam a atenção de políticos
-globais para problemas enfrentados pelas populações buscam demonstrar
-
-a)  A desmobilização popular.
-
-b)  O Apoio as opiniões dos líderes mundiais.
-
-c)  O desejo de mercantilizar as relações sociais.
-
-d)  A Insatisfação com as decisões tomadas pelos governos.
-
-> INCORRETA. A imagem e o texto ilustram uma ação popular que desafia
-> regras legais, trata-se, portanto, de um contexto de mobilização
-> popular.
->
-> INCORRETA. Não se identifica do texto e na imagem uma mensagem de
-> apoio aos líderes mundiais, mas sim uma mensagem direcionada aos
-> mesmos.
->
-> INCORRETA. Não se identifica no texto e na imagem apelos referentes às
-> relações mercantis referentes.
->
-> CORRETA. A imagem é o texto ilustram uma ação que bloqueou o trânsito
-> em uma ponte para chamar a atenção dos líderes mundiais para uma
-> mensagem que queria ser passada, o fato de ação chamar a atenção
-> demonstra insatisfação com atitudes dos líderes mundiais que
-> representam governos.
-
-(EF09HI23) Identificar direitos civis, políticos e sociais expressos na
-Constituição de 1988 e relacioná-los à noção de cidadania e ao pacto da
-sociedade brasileira de combate a diversas formas de preconceito, como o
-racismo.
-
-Aborda a ação política a partir da perspectiva da atuação cidadã e das
-formas alternativas de uso e organização do poder, contemplando os
-diversos movimentos e pleitos sociais e seus legados para as sociedades.
 
 3. 
 ==
@@ -744,3 +553,4 @@ contestação ao modelo desenvolvimentista da ditadura.
 Trata dos esforços de participação social de segmentos excluídos e suas
 estratégias reivindicatórias ante o Estado, considerando os distintos
 interesses que os constituem.
+
