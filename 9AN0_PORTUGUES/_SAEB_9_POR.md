@@ -58,7 +58,7 @@ e de solicitação, carta do leitor.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+##Atividades
 
 O anúncio trata do trânsito de bicicletas. Leia-o atentamente
 para responder às questões de 1 a 8.
@@ -348,48 +348,42 @@ condição de vida das pessoas depende do acaso.
 # 2. Textos públicos e normativos
 
 
-Habilidades da BNCC: EF69LP27 EF69LP02 EF69LP20
+Habilidades do SAEB
 
-Habilidades do SAEB:
-
-\- Identificar elementos constitutivos de textos pertencentes ao domínio
+1. Identificar elementos constitutivos de textos pertencentes ao domínio
 jornalístico/midiático.
 
-\- Identificar formas de organização de textos normativos, legais e/ou
+1. Identificar formas de organização de textos normativos, legais e/ou
 reivindicatórios.
 
-\- Identificar elementos constitutivos de gêneros de divulgação
+1. Identificar elementos constitutivos de gêneros de divulgação
 científica.
 
-\- Analisar a relação temática entre diferentes gêneros jornalísticos.
+1. Analisar a relação temática entre diferentes gêneros jornalísticos.
 
-<https://pixabay.com/pt/illustrations/brasil-bandeira-impress%c3%a3o-digital-652855/>
+Habilidades da BNCC: EF69LP27, EF69LP02, EF69LP20.
 
-**Proposta pública**
+https://www.freepik.com/free-photo/view-metallic-typesetting-letters_27506247.htm#query=journalistic%20text&position=13&from_view=search&track=ais
 
-![Ilustrações grátis de
-Brasil](./_SAEB_9_POR/media/image3.png){width="3.0416666666666665in"
-height="4.813186789151356in"}
 
 \<início do boxe de conteúdo\>
 
 Uma **proposta pública** é um conjunto de ações e decisões
-governamentais direcionado à solução de problemas referentes à
+governamentais direcionadas à solução de problemas referentes à
 sociedade. Propostas desse tipo são formuladas em prol de uma demanda
 socialmente relevante. Isto é, as políticas públicas consistem em ações,
 metas e planos que o conjunto de governos (nacional, estaduais ou
 municipais) planejam para atingir a satisfação da sociedade, assim como
-do interesse público. Essas propostas são realizadas com base em uma
-realidade real e devem apresentar objetivos, metas, programas, projetos
+do interesse público. Essas propostas são realizadas com base na
+realidade e devem apresentar objetivos, metas, programas, projetos
 e ações.
 
 Esse tipo de documento do governo normalmente tem como proposta alguma
 ação que beneficie determinado grupo social, étnico ou econômico. Muitas
-vezes, são elaborados com a participação ativa do setor privado, o que
-assegura à população que garantam e cumpram seus direitos à cidadania.
+vezes, são documentos elaborados com a participação ativa do setor privado, o que
+assegura à população que tenham garantidos seus direitos à cidadania.
 
-Esse gênero textual embasa uma política pública, por esse motivo está
-relacionada com várias outras áreas do conhecimento, como Geografia,
+Esses gêneros textuais embasam uma política pública; por esse motivo existe relação com várias outras áreas do conhecimento, como Geografia,
 Educação, Saúde, Gastronomia, História, Psicologia e diversas outras que
 criam dados, fatos e argumentos que sustentam as medidas que são
 expostas.
@@ -399,7 +393,7 @@ necessário que o registro seja formal e impessoal.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+##Atividades
 
 A proposta pública a seguir apresenta metas para o desenvolvimento da
 igualdade de raça e de gênero e povos e comunidades tradicionais e faz
