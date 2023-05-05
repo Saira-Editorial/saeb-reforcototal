@@ -49,7 +49,7 @@ substâncias tóxicas.}
 
 >Durante muito tempo, a relação dos seres humanos com a terra e o território não se baseava na noção de propriedade privada. Para os povos indígenas, essa relação é ainda mais profunda, pois o território é sagrado para eles. Como afirma Casé Angatu Xukuru Tupinambá em uma entrevista por telefone à IHU On-Line, "nós não somos donos da terra, nós somos a terra". O direito congênito, natural e originário é anterior ao direito da propriedade privada. Em vez de lutar por reforma agrária, os povos indígenas reivindicam o direito de estar na terra e de proteger o que consideram sagrado: a natureza, que os nutre e é por eles nutrida por meio da proteção.
 
-~Fonte de pesquisa: Ricardo Machado. IHU Online. “Nós não somos donos da terra, nós somos a terra”. Disponível em: https://www.ihuonline.unisinos.br/artigo/7395-nos-nao-somos-donos-da-terra-nos-somos-a-terra. Acesso\ em:\ 07\ mar.\ 2023.~
+\fonte{de pesquisa: Ricardo Machado. IHU Online. “Nós não somos donos da terra, nós somos a terra”. Disponível em: https://www.ihuonline.unisinos.br/artigo/7395-nos-nao-somos-donos-da-terra-nos-somos-a-terra. Acesso\ em:\ 07\ mar.\ 2023.~
 
 a\) A partir do texto, como podemos diferenciar a concepção de
 organização social dos indígenas frente aos colonizadores europeus?
@@ -139,7 +139,7 @@ dessa população na produção agrícola nacional.}
 
 >A pintura corporal é especialmente significativa para o grupo. Na puberdade, os jovens de ambos os sexos costumavam receber a aplicação do omarura, que consistia na tatuagem de dois círculos nas faces. A tinta utilizada era uma mistura de jenipapo e fuligem de carvão, aplicada sobre a face sangrada pelo dente do peixe-cachorra. No entanto, atualmente, devido ao preconceito da população das cidades ribeirinhas, os jovens se limitam a desenhar os dois círculos durante os rituais.
 
-~Fonte de pesquisa: Povos Indígenas no Brasil. Karajá. Disponível\ em:\ <https://pib.socioambiental.org/pt/Povo:Karaj%C3%A1>.\ Acesso\ em:\ 06\ mar.\ 2023.~
+\fonte{de pesquisa: Povos Indígenas no Brasil. Karajá. Disponível\ em:\ <https://pib.socioambiental.org/pt/Povo:Karaj%C3%A1>.\ Acesso\ em:\ 06\ mar.\ 2023.~
 
 a\) Bonecas, língua, atos familiares, enfeites, cestarias, festas, artesanato, padrão de ptinturas. Divida o patrimônio cultural da etnia indígena
 Karajá entre aqueles materiais e aqueles imateriais.
@@ -183,14 +183,14 @@ diferenciação do povo.
 
 >Você já ouviu falar na "Geração nem-nem"? Esse termo é usado para se referir aos jovens com idades entre 15 e 29 anos que estão fora do mercado de trabalho e das instituições educacionais. De acordo com um levantamento realizado pelo Centro de Políticas Sociais da Fundação Getulio Vargas (FGV Social), no último trimestre de 2020, 25,5% dos jovens brasileiros se enquadram nessa situação. Embora muitos acreditem que essa posição seja causada por falta de interesse e preguiça, a Tese Social de Impacto em Empregabilidade feita pela Artemisia mostra que a realidade é outra: a falta de oportunidades e de apoio é uma das principais razões, especialmente para jovens de favelas e periferias.
 
-~Fonte de pesquisa: Janaína Dantas. Vozes das periferias. Geração nem-nem: jovens das favelas e periferias são menos favorecidosna hora de buscar oportunidades. Disponível em: https://vozesdasperiferias.com/geracao-nem-nem-faltam-oportunidades-para-jovens. Acesso em: 04 maio 2023.~
+\fonte{de pesquisa: Janaína Dantas. Vozes das periferias. Geração nem-nem: jovens das favelas e periferias são menos favorecidosna hora de buscar oportunidades. Disponível em: https://vozesdasperiferias.com/geracao-nem-nem-faltam-oportunidades-para-jovens. Acesso em: 04 maio 2023.~
 
 **TEXTO 2**
 \textbf{PF mira grupo que alicia jovens no ES para levar drogas ao exterior}
 
 A Justiça Federal de Vitória expediu cinco mandados de busca e apreensão, que foram cumpridos pela Polícia Federal em dois locais do Espírito Santo e três em Santa Catarina. Os investigados poderão responder por tráfico internacional de drogas, associação para o tráfico e, possivelmente, lavagem de dinheiro, com penas que podem chegar a 30 anos de prisão. Após a prisão de três pessoas em 2020, medidas de cooperação internacional foram tomadas para obter provas que pudessem ajudar a determinar os envolvidos no recrutamento de jovens no Espírito Santo e no Brasil para atuar como "mulas" no tráfico internacional de drogas.
 
-~Fonte de pesquisa: Vinicius Zagoto. A Gazeta. PF mira grupo que alicia jovens no ES para levar drogas ao exterior. Disponível\ em:\ [www.agazeta.com.br/es/policia/pf-mira-grupo-que-alicia-jovens-no-es-para-levar-drogas-ao-exterior-1022](http://www.agazeta.com.br/es/policia/pf-mira-grupo-que-alicia-jovens-no-es-para-levar-drogas-ao-exterior-1022).\ Acesso\ em:\ 07\ mar.\ 2023.~
+\fonte{de pesquisa: Vinicius Zagoto. A Gazeta. PF mira grupo que alicia jovens no ES para levar drogas ao exterior. Disponível\ em:\ [www.agazeta.com.br/es/policia/pf-mira-grupo-que-alicia-jovens-no-es-para-levar-drogas-ao-exterior-1022](http://www.agazeta.com.br/es/policia/pf-mira-grupo-que-alicia-jovens-no-es-para-levar-drogas-ao-exterior-1022).\ Acesso\ em:\ 07\ mar.\ 2023.~
 
 Estabeleça uma relação possível entre os dois textos. Apresente uma
 introdução ao seu entendimento, desenvolva-o e conclua com sua opinião
@@ -210,7 +210,7 @@ partir disso, criando uma pequena redação.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 >A Unesco declarou nesta quarta-feira (26) a capoeira como Patrimônio Cultural Imaterial da Humanidade, reconhecendo-a como uma das manifestações artísticas mais tradicionais do Brasil. Ao som do berimbau, a capoeira mistura luta, dança e esporte, expressando a cultura do povo brasileiro. Mestres brasileiros já difundiram a arte para mais de 100 países, tornando-a um símbolo da cultura brasileira no mundo todo. A presidente do Iphan, Jurema Machado, declarou estar emocionada com o reconhecimento da capoeira como patrimônio mundial, visto que ela foi criada por escravos e proibida por muitos anos no Brasil.
 
-~Fonte de pesquisa: G1. Jornal Nacional, 26\ nov.\ 2014. Unesco reconhece a capoeira como Patrimônio Cultural da Humanidade. Disponível\ em:\ <https://g1.globo.com/jornal-nacional/noticia/2014/11/unesco-reconhece-capoeira-como-patrimonio-cultural-da-humanidade.html>.\ Acesso\ em:\ 07\ mar.\ 2023.^
+\fonte{de pesquisa: G1. Jornal Nacional, 26\ nov.\ 2014. Unesco reconhece a capoeira como Patrimônio Cultural da Humanidade. Disponível\ em:\ <https://g1.globo.com/jornal-nacional/noticia/2014/11/unesco-reconhece-capoeira-como-patrimonio-cultural-da-humanidade.html>.\ Acesso\ em:\ 07\ mar.\ 2023.^
 
 O reconhecimento da capoeira pela Unesco é importante por mostrar
 

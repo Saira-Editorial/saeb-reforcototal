@@ -75,7 +75,7 @@ quais atributos estão sendo mais ressaltados.}
 
 >O último relatório do Infosiga revelou que o número de mortes de ciclistas no estado de São Paulo triplicou somente no primeiro trimestre de 2019, reforçando a necessidade urgente de mais informação e respeito por parte dos condutores. A campanha terá uma abrangência ampla, incluindo blitz no trânsito para distribuição de panfletos e adesivos, ações em autoescolas, transportadoras e nas mídias sociais. Um dos objetivos principais é a conscientização da necessidade de se manter a distância de pelo menos 1,5 m entre o carro e o ciclista, evitando acidentes.
 
-~Fonte de pesquisa: Somos ciclistas. Campanha ACPC. Disponível em:  https://somosciclistas.com.br/noticias/48/campanha\_acpc~. Acesso em 05 maio 2023.
+\fonte{de pesquisa: Somos ciclistas. Campanha ACPC. Disponível em:  https://somosciclistas.com.br/noticias/48/campanha\_acpc~. Acesso em 05 maio 2023.
 
 
 1\. Em sua opinião, é importante haver campanhas relacionadas a esse
@@ -189,7 +189,7 @@ tratamento praticamente triplica.
 terço. Essa tem sido a nossa experiência nesses quase 20 anos de
 trabalho.
 
-Fonte de pesquisa: Leandro Melito. EBC. No Brasil, se você for um jogador compulsivo, estará em dificuldades, alerta psiquiatra. Disponível em:
+\fonte{de pesquisa: Leandro Melito. EBC. No Brasil, se você for um jogador compulsivo, estará em dificuldades, alerta psiquiatra. Disponível em:
 www.ebc.com.br/noticias/saude/2016/08/no-brasil-se-voce-um-jogador-compulsivo-estara-em-dificuldades-alerta. Acesso em: 28 mar. 2023.
 
 Com a leitura do texto, é possível verificar que o psiquiatra apresenta
@@ -311,7 +311,7 @@ Na Espanha, cerca de 1 em cada 5 pessoas está em "risco de exclusão", enfrenta
 Esquecemos que nossa alimentação e conforto dependem em grande parte do acaso, como o lugar onde nascemos e a educação que recebemos. Embora haja exemplos de superação pessoal heroica, a maioria das histórias de vida é determinada pela sorte, inércia e condições sociais.
 \[\...\]
 
-Fonte de pesquisa: Enric Gonzáles. El país. Comida de pobres. Disponível em:
+\fonte{de pesquisa: Enric Gonzáles. El país. Comida de pobres. Disponível em:
 https://brasil.elpais.com/brasil/2019/12/27/opinion/1577467822\_271521.html.
 Acesso em: 5 maio 2023.
 
@@ -1016,7 +1016,7 @@ d\) Correta. Ao final do texto, afirma-se que "É hora de agir, de nos unirmos p
 
 O discurso de formatura dos estudantes de medicina da USP, em 1955, enfatizava o altruísmo como a lei do homem e a solidariedade como algo mais forte que todos os erros e defeitos humanos. Sylvio Saraiva, o orador responsável pelas palavras, manteve-se fiel à mensagem e ajudava pacientes que não podiam pagar por consultas.
 
-Fonte de pesquisa: Paulo Gomes. Folha de S. Paulo. Admirado, neurologista era inabalável. Disponível
+\fonte{de pesquisa: Paulo Gomes. Folha de S. Paulo. Admirado, neurologista era inabalável. Disponível
 em:
 www1.folha.uol.com.br/cotidiano/2018/01/1947572-mortes-admirado-neurologista-era-inabalavel.shtml.
 Acesso em: 28 mar. 2023.

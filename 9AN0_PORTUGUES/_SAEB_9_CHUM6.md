@@ -16,7 +16,7 @@ Em última análise, a construção da integração mundial é um processo cont�
 
 >Um relatório recente divulgado pelo Fórum Econômico Mundial prevê que a automação e a divisão do trabalho entre humanos e máquinas resultarão no fechamento de 85 milhões de empregos em empresas de médio e grande porte em 15 setores e 26 economias até 2025, incluindo o Brasil. As funções em áreas como processamento de dados, contabilidade e suporte administrativo devem ser as mais afetadas pela automação e a digitalização no local de trabalho.
 
-~Fonte de pesquisa: Marta Cavallini. G1. Automação deve acabar com 85 milhões de empregos nos próximos 5 anos, diz relatório do Fórum Econômico Mundial. Disponível\ em:\ https://g1.globo.com/economia/concursos-e-emprego/noticia/2020/10/21/automacao-deve-fechar-85-milhoes-de-empregos-diz-relatorio-do-forum-economico-mundial.ghtml.\ Acesso em: 11\ mar.\ 2023.~
+\fonte{de pesquisa: Marta Cavallini. G1. Automação deve acabar com 85 milhões de empregos nos próximos 5 anos, diz relatório do Fórum Econômico Mundial. Disponível\ em:\ https://g1.globo.com/economia/concursos-e-emprego/noticia/2020/10/21/automacao-deve-fechar-85-milhoes-de-empregos-diz-relatorio-do-forum-economico-mundial.ghtml.\ Acesso em: 11\ mar.\ 2023.~
 
 A partir da leitura do texto, conceitue o tipo de desemprego
 especificado.
@@ -33,7 +33,7 @@ trabalho manual.}
 
 >O uso de máquinas na agricultura tem impactado negativamente o número de empregos no setor. De acordo com dados da Pesquisa Nacional por Amostra de Domicílios (Pnad 2012), houve uma redução de 756 mil vagas no campo em relação ao ano anterior. O setor agrícola, que empregava 20,4% da população em 2004, agora representa apenas 14,2% dos empregos na economia. Apesar da diminuição da mão-de-obra, a atividade agrícola continua a crescer devido à mecanização. Essa é a explicação dada pela gerente de pesquisas do IBGE, Maria Lucia França Pontes Vieira.
 
-~Fonte de pesquisa: Terra. IBGE: mecanização elimina postos de trabalho no campo. Disponível\ em:\ https://www.terra.com.br/economia/ibge-mecanizacao-elimina-postos-de-trabalho-no-campo,e70882ddb7f61410VgnCLD200000bbcceb0aRCRD.html.\ Acesso\ em:\ 12\ mar.\ 2023.~
+\fonte{de pesquisa: Terra. IBGE: mecanização elimina postos de trabalho no campo. Disponível\ em:\ https://www.terra.com.br/economia/ibge-mecanizacao-elimina-postos-de-trabalho-no-campo,e70882ddb7f61410VgnCLD200000bbcceb0aRCRD.html.\ Acesso\ em:\ 12\ mar.\ 2023.~
 
 Demonstre que esse texto tem relação com êxodo rual e desemprego estrutural.
 
@@ -49,7 +49,7 @@ https://www.embrapa.br/visao-de-futuro/trajetoria-do-agro
 automaticamente](./imgSAEB_9_CHUM6/media/image2.png){width="4.25in"
 height="2.920126859142607in"}
 
-~Fonte:\ IBGE.~
+\fonte{\ IBGE.~
 
 Tendo em vista o gráfico, aponte dois fatores responsáveis pela mudança
 da configuração populacional brasileira a partir dos anos de 1970.
@@ -86,7 +86,7 @@ tratada, coleta e tratamento de esgoto, etc.}
 \num{6} Analise a imagem a seguir.
 
 Inserir imagem mostrando a linha cronológica do agronegócio brasileiro.
-Fonte: https://www.embrapa.br/visao-de-futuro/trajetoria-do-agro
+\fonte{https://www.embrapa.br/visao-de-futuro/trajetoria-do-agro
 
 ![Linha do tempo Descrição gerada
 automaticamente](./imgSAEB_9_CHUM6/media/image3.png){width="5.040017497812773in"
@@ -129,7 +129,7 @@ mercado externo, além da melhor implementação dos insumos agrícolas citados 
 
 >Durante o período de 1960 a 2017, observou-se um aumento significativo no número de tratores por mil hectares, passando de 0,06 para 17,1 tratores por hectare. Além disso, a potência média por hectare aumentou de 0,38 para 1,71 cavalo por hectare. De acordo com os autores, houve um crescimento acentuado no número de tratores (50%) entre os censos de 2006 e 2017, o que sugere uma forte modernização no setor agropecuário nesse período.
 
-~Fonte de pesquisa: Embrapa. Trajetória do Agro. Disponível em: https://www.embrapa.br/visao-de-futuro/trajetoria-do-agro. Acesso em: 12 mar. 2023~
+\fonte{de pesquisa: Embrapa. Trajetória do Agro. Disponível em: https://www.embrapa.br/visao-de-futuro/trajetoria-do-agro. Acesso em: 12 mar. 2023~
 
 A partir do texto, aponte e explique duas consequências do avanço da
 modernização do campo.
@@ -166,7 +166,7 @@ urbano no espaço rural, e as mobilizações feitas pelos trabalhadores rurais n
 >
 >Os especialistas têm uma visão mais otimista sobre o impacto da tecnologia nos empregos. Pedro Amorim, Diretor Executivo da Experis, refere-se ao ChatGPT como "inteligência assistida" em vez de "inteligência artificial", afirmando que a tecnologia pode fornecer condições para que os seres humanos desenvolvam novas habilidades e se concentrem na qualidade, em vez de quantidade.
 
-~Fonte de pesquisa: João Guerreiro Rodrigues. CNN Portugal. Inteligência artificial. O ChatGPT põe em perigo a minha profissão? “Vão surgir novas funções". Disponível em: https://cnnportugal.iol.pt/inteligencia-artificial/emprego/inteligencia-artificial-o-chatgpt-poe-em-perigo-a-minha-profissao-vao-surgir-novas-funcoes/20230121/63cb04ff0cf2c84d7fc429dd. Acesso em: 11 mar. 2023.~
+\fonte{de pesquisa: João Guerreiro Rodrigues. CNN Portugal. Inteligência artificial. O ChatGPT põe em perigo a minha profissão? “Vão surgir novas funções". Disponível em: https://cnnportugal.iol.pt/inteligencia-artificial/emprego/inteligencia-artificial-o-chatgpt-poe-em-perigo-a-minha-profissao-vao-surgir-novas-funcoes/20230121/63cb04ff0cf2c84d7fc429dd. Acesso em: 11 mar. 2023.~
 
 De acordo com o texto, a inteligência artificial tem o potencial de
 

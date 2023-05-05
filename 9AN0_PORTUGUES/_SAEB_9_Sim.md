@@ -38,9 +38,8 @@ that previously thought.
 
 \[...\]"
 
-\<Fonte:
-<https://edition.cnn.com/2019/07/10/world/antarctica-ice-sheet-sea-levels-trnd/index.html>.
-Acesso em 01/03/2023.\>
+\fonte{<https://edition.cnn.com/2019/07/10/world/antarctica-ice-sheet-sea-levels-trnd/index.html>.
+Acesso em 01/03/2023.
 
 O texto reproduzido acima fala sobre
 
@@ -86,8 +85,7 @@ Hundreds of other major cities worldwide could be facing droughts,
 flooding, storms, and other climate catastrophes, said the study, which
 was conducted by the Crowther Lab at ETH Zurich university.
 
-\<Fonte:
-<https://edition.cnn.com/2019/07/11/europe/climate-cities-report-intl-hnk/index.html>.
+\fonte{<https://edition.cnn.com/2019/07/11/europe/climate-cities-report-intl-hnk/index.html>.
 Acesso em 01/03/2023.
 
 De acordo com o texto, o aumento das temperaturas na Inglaterra terá
@@ -131,7 +129,7 @@ was just able to follow her by asking many questions
 
 \<STOKER, Bram. *Dracula.* Disponível em:
 <https://www.gutenberg.org/cache/epub/345/pg345-images.html>. Acesso em
-01/03/2023.\>
+01/03/2023.
 
 O trecho acima faz parte de um texto
 
@@ -199,9 +197,8 @@ sometimes that's easier said than done.
 
 \[...\]".
 
-\<Fonte:
-<https://mediatalks.uol.com.br/en/2021/10/15/latin-american-media-seek-to-influence-public-debate-and-engage-audience-in-u-s-by-translating-their-journalism-to-english/>.
-Acesso em 01/03/2023.\>
+\fonte{<https://mediatalks.uol.com.br/en/2021/10/15/latin-american-media-seek-to-influence-public-debate-and-engage-audience-in-u-s-by-translating-their-journalism-to-english/>.
+Acesso em 01/03/2023.
 
 De acordo com o texto, podemos concluir que
 
@@ -253,8 +250,7 @@ Joe Biden rejoined on his first day in office in January 2021.
 
 \[...\]".
 
-\<Fonte: <https://www.bbc.com/news/science-environment-35073297>. Acesso
-em 01/03/2023.\>
+\fonte{\< <https://www.bbc.com/news/science-environment-35073297>. Aces em 01/03/2023.
 
 De acordo com o texto,
 
@@ -307,8 +303,7 @@ Stratford.
 
 \[...\]".
 
-\<Fonte: <https://www.bbc.com/news/uk-england-london-64758344>. Acesso
-em 01/03/2023.\>
+\fonte{\< <https://www.bbc.com/news/uk-england-london-64758344>. Aces em 01/03/2023.
 
 De acordo com o texto, os painéis solares serão instalados no estádio
 para
@@ -380,9 +375,8 @@ surface reduces the chance of the virus to enter the body.
 
 \[...\]."
 
-\<Fonte:
-<https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-effect-heres-why-you-should-wear-masks-in-public-places-even-when-there-is-no-mandate/photostory/92539871.cms?picid=92540018>.
-Acesso em: 02/03/2023.\>
+\fonte{<https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-effect-heres-why-you-should-wear-masks-in-public-places-even-when-there-is-no-mandate/photostory/92539871.cms?picid=92540018>.
+Acesso em: 02/03/2023.
 
 De acordo com o texto, um dos argumentos para o uso de máscaras contra a
 Covid-19 refere-se ao fato de que
@@ -441,9 +435,8 @@ trustworthy.
 
 \[...\]".
 
-\<Fonte:
-<https://www.washingtonpost.com/technology/2022/02/24/tips-avoid-misinformation-ukraine-2/>.
-Acesso em: 02/03/2023.\>
+\fonte{<https://www.washingtonpost.com/technology/2022/02/24/tips-avoid-misinformation-ukraine-2/>.
+Acesso em: 02/03/2023.
 
 Segundo o texto, como podemos identificar um argumento confiável?
 
@@ -488,9 +481,8 @@ distinct species.
 
 \[...\]".
 
-\<Fonte:
-<https://edition.cnn.com/2023/03/02/world/gold-throated-hummingbird-hybrid-scn/index.html>.
-Acesso em: 02/03/2023.\>
+\fonte{<https://edition.cnn.com/2023/03/02/world/gold-throated-hummingbird-hybrid-scn/index.html>.
+Acesso em: 02/03/2023.
 
 No contexto apresentado no texto acima, a palavra "spot" significa
 
@@ -560,7 +552,7 @@ Joes in it, Pip!'
 
 \<DICKENS, Charles. *Great Expectations.* Disponível em:
 <https://www.gutenberg.org/cache/epub/1400/pg1400-images.html>. Acesso
-em 02/03/2023.\>
+em 02/03/2023.
 
 As duas personagens envolvidas no diálogo reproduzido acima são:
 
@@ -607,9 +599,8 @@ Wednesday.
 
 \[...\]".
 
-\<Fonte:
-<https://www.npr.org/2023/02/22/1158793897/webb-telescope-huge-early-galaxies-big-bang>.
-Acesso em 02/03/2023.\>
+\fonte{<https://www.npr.org/2023/02/22/1158793897/webb-telescope-huge-early-galaxies-big-bang>.
+Acesso em 02/03/2023.
 
 O texto reproduzido acima fala sobre
 
@@ -653,9 +644,8 @@ less than a meter (3 feet) long.
 
 \[...\]".
 
-\<Fonte:
-<https://edition.cnn.com/2022/12/26/world/dinosaur-mammal-last-meal-scn/index.html>.
-Acesso em: 02/03/2023.\>
+\fonte{<https://edition.cnn.com/2022/12/26/world/dinosaur-mammal-last-meal-scn/index.html>.
+Acesso em: 02/03/2023.
 
 De acordo com o texto, os pesquisadores encontraram
 

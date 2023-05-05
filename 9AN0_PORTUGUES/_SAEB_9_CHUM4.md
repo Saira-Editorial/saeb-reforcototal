@@ -63,7 +63,7 @@ enfrentamento?
 
 > Mais de um quarto dos bairros do Rio de Janeiro (25,5%) estão sob o controle das milícias, abrangendo 57,5% do território da cidade. As três principais facções criminosas envolvidas no tráfico de drogas - Comando Vermelho, Terceiro Comando e Amigos dos Amigos - controlam juntas 34,2% dos bairros e 15,4% do território. Isso significa que cerca de 3,7 milhões de pessoas vivem em áreas dominadas por grupos criminosos, o que equivale a 57,1% da população da cidade.
 
-~Fonte de pesquisa: Aiuri Rebello. El País. Milícias já dominam um quarto dos bairros do Rio de Janeiro, com quase 60% do território da cidade. Disponível\ em:\ https://brasil.elpais.com/brasil/2020-10-19/milicias-ja-dominam-um-quarto-dos-bairros-do-rio-de-janeiro-com-quase-60-do-territorio-da-cidade.html.\ Acesso\ em:\ 03\ mar.\ 2023.~
+\fonte{de pesquisa: Aiuri Rebello. El País. Milícias já dominam um quarto dos bairros do Rio de Janeiro, com quase 60% do território da cidade. Disponível\ em:\ https://brasil.elpais.com/brasil/2020-10-19/milicias-ja-dominam-um-quarto-dos-bairros-do-rio-de-janeiro-com-quase-60-do-territorio-da-cidade.html.\ Acesso\ em:\ 03\ mar.\ 2023.~
 
 O fortalecimento de grupos criminosos tem sido uma constante nas últimas
 décadas no Brasil, mais especificamente no estado do Rio de Janeiro. A
@@ -82,7 +82,7 @@ expansão.}
 
 > A Comissão antiviolência da federação espanhola anunciou as punições decorrentes das vaias ao hino espanhol durante a final da Copa do Rei entre Barcelona e Athletic Bilbao. O clube catalão, campeão do torneio, recebeu a multa mais pesada dos dois finalistas, no valor de 60 mil euros (cerca de R$ 246 mil). Já o Bilbao, vice-campeão, foi multado em 18 mil euros (cerca de R$ 67 mil). Embora as vaias tenham partido da torcida catalã, a comissão antiviolência decidiu punir o clube por omissão às ameaças de vaia, que já eram previamente conhecidas.
 
-~Fonte de pesquisa: Extra. Vaias ao hino espanhol na final da Copa do Rei rendem multa de R$ 246 mil ao Barcelona. Disponível\ em:\ https://extra.globo.com/esporte/vaias-ao-hino-espanhol-na-final-da-copa-do-rei-rendem-multa-de-246-mil-ao-barcelona-16981835.html.\ Acesso\ em:\ 03\ mar.\ 2023.~
+\fonte{de pesquisa: Extra. Vaias ao hino espanhol na final da Copa do Rei rendem multa de R$ 246 mil ao Barcelona. Disponível\ em:\ https://extra.globo.com/esporte/vaias-ao-hino-espanhol-na-final-da-copa-do-rei-rendem-multa-de-246-mil-ao-barcelona-16981835.html.\ Acesso\ em:\ 03\ mar.\ 2023.~
 
 A população da Catalunha e dos Países Bascos, sedes dos clubes Barcelona
 e Athletic Bilbao, respectivamente, reconhecem-se enquanto espanhóis.
@@ -165,7 +165,7 @@ nacional, divergente da unidade territorial espanhola.}
 
 >Na noite deste domingo (1º), o presidente da Catalunha, Carles Puigdemont, declarou que o referendo sobre a independência da região da Espanha concedeu à Catalunha o "direito de ser um Estado". Segundo ele, os cidadãos catalães conquistaram "o direito de ter um estado independente na forma de uma república" e "o direito de serem ouvidos, respeitados e reconhecidos". O referendo resultou em uma vitória esmagadora do "Sim", com 90,09% dos votos (2.020.144 votos), enquanto o "Não" obteve 7,87% (176.565 votos). Os votos em branco foram 2,03% (45.586); os nulos, 0,89% (20.129). De acordo com o governo catalão, foram registrados um total de 2.262.424 votos.
 
-~Fonte de pesquisa: G1. Independência da Catalunha vence referendo com 90% dos votos, diz governo catalão. Disponível em: https://g1.globo.com/mundo/noticia/presidente-catalao-diz-que-catalunha-ganhou-direito-de-ser-um-estado-premie-espanhol-afirma-que-nao-houve-referendo.ghtml. Acesso em: 08 mar. 2023.~
+\fonte{de pesquisa: G1. Independência da Catalunha vence referendo com 90% dos votos, diz governo catalão. Disponível em: https://g1.globo.com/mundo/noticia/presidente-catalao-diz-que-catalunha-ganhou-direito-de-ser-um-estado-premie-espanhol-afirma-que-nao-houve-referendo.ghtml. Acesso em: 08 mar. 2023.~
 
 Tendo em vista a aprovação do referendo, conclui-se que os catalães
 demonstraram
@@ -248,7 +248,7 @@ públicas.
 
 > Alexandre José Borjaili, presidente da Associação Brasileira dos Revendedores de GLP (Asmirg) há 15 anos, lamenta a situação do mercado de gás no Rio de Janeiro, que se tornou uma realidade à parte no setor. Mesmo com revendas regularizadas, funcionários correm risco de morte ao fazer negócios fora do estabelecimento. Segundo ele, de 70% a 80% do mercado do estado está nas mãos do crime organizado, tornando difícil para qualquer ação do governo chegar ao consumidor final. Borjaili ressalta que essa realidade não se aplica apenas ao vale-gás, mas também quando há controle de preços por políticas estatais. Se o crime controla a venda, qualquer ação governamental acaba sendo inútil.
 
-~Fonte de pesquisa: Luã Marinatto. Extra. Tráfico e milícia já controlam 80% da venda de botijões de gás no estado do Rio. Disponível\ em:\ https://extra.globo.com/casos-de-policia/trafico-milicia-ja-controlam-80-da-venda-de-botijoes-de-gas-no-estado-do-rio-25365008.html.\ Acesso\ em\: 03\ mar.\ 2023.~
+\fonte{de pesquisa: Luã Marinatto. Extra. Tráfico e milícia já controlam 80% da venda de botijões de gás no estado do Rio. Disponível\ em:\ https://extra.globo.com/casos-de-policia/trafico-milicia-ja-controlam-80-da-venda-de-botijoes-de-gas-no-estado-do-rio-25365008.html.\ Acesso\ em\: 03\ mar.\ 2023.~
 
 A situação descrita no texto exemplifica
 

@@ -8,7 +8,7 @@
 
 **SUMÁRIO**
 
-# MÓDULO 1 
+# Módulo 1 
 
  ** -- **OS GÊNEROS TEXTUAIS ARGUMENTATIVOS**
 
@@ -24,8 +24,6 @@ carta de leitor, o editorial e o anúncio publicitário.
 Os argumentos e recursos persuasivos usados pelo autor para fundamentar
 e validar seu ponto de vista perante o leitor podem ser de diferentes
 tipos:
-
--   
 
 -   exemplificação;
 
@@ -83,7 +81,7 @@ ou engajar o público em ideias e comportamentos.
 
 **[ATIVIDADES]{.underline}**
 
-**1)** Numere a segunda coluna de acordo com a primeira considerando o
+\num{1} Numere a segunda coluna de acordo com a primeira considerando o
 teor dos argumentos que você espera encontrar em cada gênero textual
 argumentativo listado.
 
@@ -112,7 +110,7 @@ resenha crítica veicula a avaliação de alguém sobre um produto cultural
 não; para isso, avalia a qualidade dos personagens, do enredo, da
 narrativa, do desfecho, da trilha sonora etc.
 
-**2)** Associe as duas colunas de acordo com o tipo de argumento
+\num{2} Associe as duas colunas de acordo com o tipo de argumento
 exemplificado em cada parágrafo.
 
   1\. Alusão histórica   (   ) A internet é uma tecnologia que faz parte do cotidiano das pessoas e que protagoniza a cultura contemporânea. Ela é uma ferramenta que encurta distâncias e confere um caráter de acessibilidade universal à informação e aos mais diversos campos do conhecimento humano, sendo um dos principais agentes da globalização
@@ -147,7 +145,7 @@ assunto, corroborando a visão do autor. O argumento factual pinça um
 acontecimento concreto do cotidiano ou algo tido como verdade pela
 unanimidade da sociedade, para assim tornar seu argumento irrefutável.
 
-**3)** Você leu uma matéria num jornal e discordou do posicionamento do
+\num{3} Você leu uma matéria num jornal e discordou do posicionamento do
 jornalista ao abordar o tema. Você, então, decide interagir com o jornal
 e com o público que o acompanha, emitindo sua opinião sobre o assunto
 publicado naquela edição do jornal e questionando a abordagem do
@@ -169,7 +167,7 @@ interagir com a equipe de redação para emitir sua opinião à equipe de
 redação e a outros leitores. Sendo assim, o gênero que se destina a essa
 interação entre leitor e jornal é a carta de leitor.
 
-**4)** Você foi convidado a escrever um texto opinativo sobre uma série
+\num{4} Você foi convidado a escrever um texto opinativo sobre uma série
 de televisão de sua preferência para o jornal da escola e fazer a
 indicação dessa obra para os alunos como forma de enriquecer seu
 conhecimento cultural. Assinale o gênero textual que você precisará
@@ -189,7 +187,7 @@ não de indica a obra pelo fato de o autor que opina não ter gostado do
 conteúdo. Sendo assim, o gênero que se destina a essa finalidade é a
 resenha crítica.
 
-**5)** Agora, mãos à obra! Escreva um texto opinativo sobre um livro, um
+\num{5} Agora, mãos à obra! Escreva um texto opinativo sobre um livro, um
 filme ou uma série que você conheça para ser publicado no jornal da
 escola e faça a indicação da obra para os alunos. Procure apresentar
 argumentos plausíveis para convencê-los de que vale a pena conhecê-la.
@@ -216,7 +214,7 @@ http://barradesaofrancisco.es.leg.br/noticia/ler/609/dia-mundial-da-agua.
 
 Acesso em: 12 fev. 2023.
 
-**6)** Esse cartaz é um texto argumentativo pertencente à publicidade e
+\num{6} Esse cartaz é um texto argumentativo pertencente à publicidade e
 propaganda. Nele, os recursos persuasivos são construídos por meio da
 associação entre texto verbal e texto não verbal. Cite o recurso não
 verbal que foi utilizado para convencer o leitor a adotar o
@@ -233,21 +231,21 @@ ilustração de uma torneira aberta com água jorrando do planeta, que
 parece estar desaparecendo à medida que essa água escorre para fora
 dele.
 
-**7)** Qual é a ideia representada pela figura da torneira aberta, na
+\num{7} Qual é a ideia representada pela figura da torneira aberta, na
 ilustração presente no cartaz?
 
 (2 linhas)
 
 A figura da torneira aberta representa a ideia de desperdício da água.
 
-**8)** Por que a ilustração mostra a Terra apenas parcialmente, com se
+\num{8} Por que a ilustração mostra a Terra apenas parcialmente, com se
 faltasse uma parte do planeta? (4 linhas)
 
 A Terra é mostrada apenas parcialmente na ilustração porque o
 desperdício de água, que representa a vida, faz desaparecer,
 consequentemente, o planeta à medida que esse recurso natural se esvai.
 
-**9)** Qual é o sentido global que se constrói a partir da associação
+\num{9} Qual é o sentido global que se constrói a partir da associação
 entre o texto verbal e o texto não verbal do cartaz? (4 linhas)
 
 O sentido global que se pergunta na questão diz respeito às ideias que o
@@ -261,7 +259,7 @@ desperdício promove a morte ou o desaparecimento dele. Essa ideia pode
 ser sintetizada na frase "Sem água não há planeta Terra,
 consequentemente não há vida".
 
-**10)** Justifique importância da publicação desse cartaz para a
+\num{0} Justifique importância da publicação desse cartaz para a
 conscientização da população. (4 linhas)
 
 A questão permite resposta pessoal. Uma possibilidade de resposta é que
@@ -440,7 +438,7 @@ atenção sobre esse método mais amigável ao público infantil. Assim, o
 cartaz, além de divulgar a vacinação, incentiva os pais a vacinarem seus
 filhos e as crianças a perderem o medo da vacina.
 
-# MÓDULO 2 
+# Módulo 2 
 
  ** -- **OS GÊNEROS TEXTUAIS INFORMATIVOS**
 
@@ -505,7 +503,7 @@ Disponível em:
 https://g1.globo.com/bemestar/zika-virus/noticia/estudo-confirma-que-o-virus-da-zika-nao-e-transmitido-pela-saliva.ghtml.
 Acesso em: 15 fev. 2023.
 
-**1)** Ao ver esse texto, provavelmente você logo reconheceu o gênero
+\num{1} Ao ver esse texto, provavelmente você logo reconheceu o gênero
 textual a que ele pertence e deduziu o objetivo comunicativo dele.
 Cite-os. (2 linhas)
 
@@ -518,7 +516,7 @@ sensação de atualidade do conteúdo. Portanto, o gênero é notícia e o
 objetivo comunicativo é informar sobre uma descoberta científica que
 envolve o vírus da zika e sua transmissão.
 
-**2)** Aponte e explique uma marca de impessoalidade/objetividade
+\num{2} Aponte e explique uma marca de impessoalidade/objetividade
 presente nesse texto. (5 linhas)
 
 A impessoalidade/objetividade diz respeito à ausência de marcas de
@@ -526,7 +524,7 @@ autoria do que se diz no texto e ausência de valoração ou pontos de
 vista. No texto, isso é feito por meio do uso da 3ª pessoa (por exemplo,
 a frase do título) e da ausência de adjetivação valorativa.
 
-**3)** Qual recurso é utilizado no texto para afastar a responsabilidade
+\num{3} Qual recurso é utilizado no texto para afastar a responsabilidade
 pelo que é dito?
 
 (4 linhas)
@@ -536,7 +534,7 @@ O recurso é utilizado no texto para afastar a responsabilidade pelo que
 conclusões sobre o tema, sendo, portanto, o responsável pelos resultados
 informados na notícia em questão.
 
-**4)** Há mais de uma interpretação possível para o conteúdo desse
+\num{4} Há mais de uma interpretação possível para o conteúdo desse
 texto? Justifique.
 
 (4 linhas)
@@ -566,7 +564,7 @@ https://www.mulher.com.br/atualidades/ciencia/nova-especie-de-orangotango-descob
 
 Acesso em: 16 fev. 2023 (fragmento).
 
-**5)** Preencha o quadro com as informações pedidas sobre o texto.
+\num{5} Preencha o quadro com as informações pedidas sobre o texto.
 
   O que aconteceu? (o fato)   
   --------------------------- --
@@ -586,7 +584,7 @@ notícia e são requisitos desse gênero textual.
   Quando? (o tempo)          Em 2013
   Quem? (os participantes)   Pesquisadores da universidade suíça de Zurique
 
-**6)** Assinale com um X as características que você identifica no
+\num{6} Assinale com um X as características que você identifica no
 texto, de acordo com o gênero textual a que ele pertence.
 
   (   ) Objetividade (3ª pessoa)                   (   ) Impessoalidade
@@ -639,7 +637,7 @@ https://www.scielo.br/j/physis/a/kwsS5zBL84b5w9LrMrCjy5d/.
 
 Acesso em: 18 fev. 2023 (fragmento adaptado).
 
-**7)** O texto é do gênero artigo. Marque o subgênero a que ele
+\num{7} O texto é do gênero artigo. Marque o subgênero a que ele
 pertence.
 
 ( ) Artigo científico ( ) Artigo de opinião
@@ -649,7 +647,7 @@ diferenciam o artigo científico do artigo de opinião. A diferença básica
 é a ausência de valoração e juízo de valor no artigo científico e a
 centralidade no objetivo comunicativo de informar.
 
-**8)** Qual elemento ou característica do texto determinou a sua
+\num{8} Qual elemento ou característica do texto determinou a sua
 resposta à questão anterior? (3 linhas)
 
 Nesta questão, o aluno vai explicitar o que foi dito na resolução da
@@ -659,7 +657,7 @@ seja coerente. Uma possibilidade de resposta é a ausência de valoração e
 juízo de valor no artigo científico e a centralidade no objetivo
 comunicativo de informar.
 
-**9)** O que o trecho "à luz das publicações científicas contemporâneas"
+\num{9} O que o trecho "à luz das publicações científicas contemporâneas"
 revela quanto ao conteúdo do artigo? (4 linhas)
 
 O trecho é uma citação de autoridade no assunto em questão. Não há
@@ -667,7 +665,7 @@ citação explícita, mas fica claro que o conteúdo do artigo se apoiará em
 comprovações científicas prévias que já abordaram o assunto. Ou seja,
 parte do conteúdo do artigo já foi dita ou afirmada por outrem.
 
-**10)** Em sua opinião, esse artigo é voltado para leitores comuns ou
+\num{0} Em sua opinião, esse artigo é voltado para leitores comuns ou
 para leitores específicos? Justifique e cite o público-alvo, se for o
 caso. (2 linhas)
 
@@ -855,7 +853,7 @@ do leitor, de modo a estabelecer com ele uma interação e ganhar sua
 atenção. Isso se confirma ainda pelo fato de apenas na introdução o
 texto citar o ditado e não mais abordar o assunto.
 
-# MÓDULO 3 
+# Módulo 3 
 
  ** -- **OS GÊNEROS LITERÁRIOS**
 
@@ -992,7 +990,7 @@ PESSOA, Fernando. Disponível em:
 <https://campusvirtual.fiocruz.br/portal/?q=palavra-chave-de-documentos/fernando-pessoa>.
 Acesso em: 12 mar. 2023.
 
-**1)** O poema "Presságio" versa sobre um sentimento humano, o amor.
+\num{1} O poema "Presságio" versa sobre um sentimento humano, o amor.
 Esse amor é vivido na prática pelo eu lírico? Justifique. (4 linhas)
 
 O poema de Fernando Pessoa retrata um amor platônico. Ao longo do texto,
@@ -1002,7 +1000,7 @@ amada. Sendo assim, o amor entre eles nunca chega a acontecer na
 realidade, justamente porque o eu lírico, em certos versos, parece
 preferir o anonimato a correr o risco de não ser correspondido.
 
-**2)** Aponte outros sentimentos secundários que, como consequência do
+\num{2} Aponte outros sentimentos secundários que, como consequência do
 amor, parecem acometer o eu lírico em relação à pessoa amada. (3 linhas)
 
 O amor causa no eu lírico outros sentimentos em relação à pessoa amada,
@@ -1012,7 +1010,7 @@ lamento por seu amor não ser descoberto de outro modo senão pelas
 palavras, impotência por não conseguir expressar seu sentimento para a
 pessoa amada.
 
-**3)** Assumindo não saber como expressar seu amor com palavras, qual
+\num{3} Assumindo não saber como expressar seu amor com palavras, qual
 outra forma de expressão o eu lírico gostaria que a pessoa amada
 compreendesse? Comprove sua resposta com um trecho do poema. (4 linhas)
 
@@ -1038,14 +1036,14 @@ http://www.dominiopublico.gov.br/download/texto/ea000378.pdf.
 
 Acesso em: 26 fev. 2023.
 
-**4)** A qual dos gêneros literários (narrativo, lírico, dramático)
+\num{4} A qual dos gêneros literários (narrativo, lírico, dramático)
 pertence o texto? Justifique com as características do texto. (4 linhas)
 
 O texto é do gênero literário narrativo e suas características que
 comprovam isso são: é escrito em prosa, conta uma história estruturada
 com elementos da narrativa (narrador, personagens, enredo, tempo).
 
-**5)** Dentro do gênero literário que você indicou na questão anterior,
+\num{5} Dentro do gênero literário que você indicou na questão anterior,
 a qual gênero textual o texto pertence? Justifique com uma
 característica do texto. (2 linhas)
 
@@ -1053,7 +1051,7 @@ O texto, dentro do gênero literário narrativo, é uma fábula, gênero
 textual que apresenta texto curto, animais como personagens humanizados
 e uma lição moral que pode estar explícita ou implícita.
 
-**6)** Numere a segunda coluna de acordo com a primeira.
+\num{6} Numere a segunda coluna de acordo com a primeira.
 
   1\. Situação inicial   (   ) Chegado o Verão, a Cobra começou a estender-se e, então, o Homem disse-lhe que deveria seguir o caminho dela, mas a Cobra, relutante, levantou o pescoço para o morder.
   ---------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1073,7 +1071,7 @@ por exemplo, é trazer o desfecho ou o conflito para o início da
 história, invertendo a assim a ordem tradicional e prendendo a atenção
 do leitor.
 
-**7)** Um elemento característico do gênero textual apresentado na
+\num{7} Um elemento característico do gênero textual apresentado na
 questão anterior é a lição moral ou ensinamento ao fim do texto. No
 texto lido, ela está implícita. Explicite a lição moral que você
 aprendeu com esse texto. (4 linhas)
@@ -1088,7 +1086,7 @@ coerência entre a lição moral elaborada pelo aluno e o conteúdo da
 fábula em questão, pois a habilidade de interpretação de texto é,
 obviamente, o objetivo dessa elaboração.
 
-**8)** Associe as duas colunas conforme o gênero literário ao qual
+\num{8} Associe as duas colunas conforme o gênero literário ao qual
 pertence o texto.
 
 +----------------------+----------------------------------------------+
@@ -1187,7 +1185,7 @@ A questão explora as características composicionais de cada gênero
 literário, apresentando exemplos textuais para cada um. A explicitação
 dessas características será mais explorada na questão seguinte.
 
-**9)** Descreva as características composicionais que você identificou
+\num{9} Descreva as características composicionais que você identificou
 em cada texto para indicar seu gênero literário. (7 Linhas)
 
 Primeiro texto: Expressa emoções subjetivas do eu lírico (voz que fala
@@ -1202,7 +1200,7 @@ Terceiro texto: Apresenta os nomes dos personagens destacados de suas
 falas, com instruções do movimento que os atores deverão fazer ao
 encenar.
 
-**10)** Qual é a voz que fala no texto "Barcos de papel", apresentado na
+\num{0} Qual é a voz que fala no texto "Barcos de papel", apresentado na
 questão 8? Justifique. (3 linhas)
 
 A voz que fala no texto é a do narrador, pois ele apresenta o espaço, o
@@ -1378,7 +1376,7 @@ margem da sociedade.
 filhos de Deus, mas isso não é mencionado com objetivo de situá-los em
 alguma religião. O texto não cita a religião desse grupo social.
 
-# MÓDULO 4 
+# Módulo 4 
 
  ** -- **AS DIFERENTES VOZES DE UM TEXTO**
 
@@ -1497,42 +1495,42 @@ https://twitter.com/TRESCjusbr/status/1504085069098536961/photo/1.
 
 Acesso em: 13 mar. 2023 (adaptado).
 
-**1)** Quem é o autor dessa postagem publicada no Twitter? (2 linhas)
+\num{1} Quem é o autor dessa postagem publicada no Twitter? (2 linhas)
 
 O autor é o órgão de serviço público TRE (Tribunal Regional Eleitoral),
 a serviço da Justiça Eleitoral.
 
-**2)** A postagem é destinada a qualquer pessoa ou a um público
+\num{2} A postagem é destinada a qualquer pessoa ou a um público
 específico? (2 linhas)
 
 A publicação é destinada a um público específico.
 
-**3)** Aponte quem é o provável público-alvo da postagem. (3 linhas)
+\num{3} Aponte quem é o provável público-alvo da postagem. (3 linhas)
 
 O público-alvo são jovens em geral e jovens cuja idade ainda não obriga
 ao voto, mas que já podem votar e ainda não fizeram seu título de
 eleitor.
 
-**4)** Aponte a finalidade comunicativa do texto. (5 linhas)
+\num{4} Aponte a finalidade comunicativa do texto. (5 linhas)
 
 A finalidade comunicativa convidar os jovens para fazerem seu título de
 eleitor por meio de um aplicativo e incentivá-los a exercer seu direito
 de voto.
 
-**5)** A voz predominante no texto da postagem é condizente com o
+\num{5} A voz predominante no texto da postagem é condizente com o
 público-alvo e a finalidade comunicativa? Justifique. (5 linhas)
 
 A voz predominante é condizente com ambos, público e finalidade
 comunicativa, pois retratam um jovem dialogando com seus pares por meio
 de linguagem típica da idade.
 
-**6)** Duas vozes diferentes podem ser identificadas no texto da
+\num{6} Duas vozes diferentes podem ser identificadas no texto da
 postagem. Transcreva o único trecho que corresponde à voz específica do
 autor em questão. (2 linhas)
 
 "Use o Título Net para fazer seu título de eleitor on-line."
 
-**7)** Se a voz predominante fosse a do autor em questão,
+\num{7} Se a voz predominante fosse a do autor em questão,
 considerando-se a seriedade que normalmente se espera dele, a postagem
 teria o mesmo efeito sobre o público-alvo? Justifique. (6 linhas)
 
@@ -1564,19 +1562,19 @@ https://download.inep.gov.br/educacao\_basica/enem/provas/2014/2014\_PPL\_PV\_D2
 
 Acesso em: 23 mar. 2023 (tradução nossa).
 
-**8)** Além das vozes do menino e do pai, qual é a outra voz que pode
+\num{8} Além das vozes do menino e do pai, qual é a outra voz que pode
 ser identificada na fala do pai? (2 linhas)
 
 A voz que pode ser identificada na fala do pai é a voz da ciência ou do
 discurso científico.
 
-**9)** Justifique o longo silêncio que houve após a explicação do pai.
+\num{9} Justifique o longo silêncio que houve após a explicação do pai.
 (4 linhas)
 
 O longo silêncio que houve após a explicação do pai ocorreu porque a
 criança não compreendeu a explicação dada por ele.
 
-**10)** Relacione o longo silêncio à voz mobilizada na explicação do
+\num{0} Relacione o longo silêncio à voz mobilizada na explicação do
 pai. (4 linhas)
 
 A voz mobilizada pelo pai é desconhecida do menino, por empregar
@@ -1737,7 +1735,7 @@ privada.
 \(D\) Incorreta. A entrevista não traz perguntas que exijam emissão de
 opinião, trata-se de assunto do cotidiano dos artistas.
 
-# MÓDULO 5 
+# Módulo 5 
 
  ** -- **FATO E OPINIÃO: OBJETIVIDADE E SUBJETIVIDADE**
 
@@ -1830,7 +1828,7 @@ Disponível em:
 https://www.em.com.br/app/colunistas/luciana-atheniense/2023/02/27/interna\_luciana\_atheniense,1462512/o-impacto-da-tragedia-das-chuvas-no-turismo-do-litoral-norte-de-sp.shtml.
 Acesso em: 01 mar. 2023 (fragmento).
 
-**1)** Escreva, no quadro a seguir, os fatos e as opiniões que você
+\num{1} Escreva, no quadro a seguir, os fatos e as opiniões que você
 consegue identificar no texto.
 
   **Fatos**   **Opiniões**
@@ -1853,7 +1851,7 @@ consegue identificar no texto.
 | região.                          |                                  |
 +----------------------------------+----------------------------------+
 
-**2)** Além de objetividade, o texto apresenta marcas de subjetividade,
+\num{2} Além de objetividade, o texto apresenta marcas de subjetividade,
 que se manifesta por meio de duas expressões avaliativas específicas.
 Reescreva o texto eliminando essas duas expressões. (5 linhas)
 
@@ -1862,14 +1860,14 @@ O impacto das chuvas no turismo do litoral Norte de SP.
 Estradas fechas, praias interditadas e dezenas de mortes. Consumidores
 tiveram que cancelar ou remarcar a hospedagem em pousadas da região.
 
-**3)** Após a reescrita, houve prejuízo para o leitor interessado em
+\num{3} Após a reescrita, houve prejuízo para o leitor interessado em
 informar-se dos fatos ocorridos? Justifique. (4 linhas)
 
 A reescrita não trouxe prejuízo para o leitor interessado na informação,
 pois as expressões suprimidas não são factuais, e sim opinativas, sendo,
 portanto, dispensáveis sem prejuízo da informação.
 
-**4)** Após a reescrita, houve prejuízo para o leitor interessado em
+\num{4} Após a reescrita, houve prejuízo para o leitor interessado em
 saber a avaliação do autor sobre os fatos ocorridos? Justifique. (4
 linhas)
 
@@ -1893,7 +1891,7 @@ Guimarães. *Ficção*
 *completa*: volume II. Rio de Janeiro: Nova Aguilar, 1994. p. 409-413
 (fragmento).
 
-**5)** Qual é o fator principal que interfere na perspectiva do narrador
+\num{5} Qual é o fator principal que interfere na perspectiva do narrador
 em relação ao homem de quem ele fala, tornando-a ainda mais subjetiva?
 (3 linhas)
 
@@ -1901,13 +1899,13 @@ O fator que interfere na perspectiva do narrador e a torna ainda mais
 subjetiva é sua relação afetiva com o homem de quem ele fala, pois
 trata-se de pai e filho.
 
-**6)** Para confirmar sua impressão pessoal sobre o homem de quem fala,
+\num{6} Para confirmar sua impressão pessoal sobre o homem de quem fala,
 qual foi a iniciativa tomada pelo narrador? (2 linhas)
 
 O narrador recorreu ao testemunho de pessoas que conhecem seu pai desde
 a juventude.
 
-**7)** A qualidade atribuída pelo narrador aos terceiros de quem ele
+\num{7} A qualidade atribuída pelo narrador aos terceiros de quem ele
 colhe testemunhos influencia a credibilidade deles? Justifique. (3
 linhas)
 
@@ -1915,7 +1913,7 @@ Sim, o narrador caracteriza esses terceiros como "sensatas pessoas" e
 isso o influencia fortemente a dar credibilidade ao testemunho dessas
 pessoas.
 
-**8)** Em se tratando de um fragmento de narrativa, você consegue
+\num{8} Em se tratando de um fragmento de narrativa, você consegue
 prever, no desenvolvimento dela, o possível motivo pelo qual o narrador
 tece elogios ao homem e busca o testemunho de terceiros sobre ele? (5
 linhas)
@@ -1924,7 +1922,7 @@ Resposta pessoal. Uma hipótese de resposta plausível é a que o homem
 tenha desaparecido sem motivo aparente e o narrador esteja tentando
 entender os motivos por meio de uma análise de perfil.
 
-**9)** É possível que o narrador, com base na sua relação com o homem e
+\num{9} É possível que o narrador, com base na sua relação com o homem e
 no testemunho das "sensatas pessoas", esteja equivocado sobre ele?
 Justifique. (6 linhas)
 
@@ -1935,7 +1933,7 @@ ele parece ter levado em conta apenas testemunhos condizentes com sua
 opinião, excluindo os demais, pois ele próprio qualifica como "sensatas"
 as pessoas de quem colheu tais testemunhos.
 
-**10)** Com a breve descrição que faz da mãe, o narrador constrói, para
+\num{0} Com a breve descrição que faz da mãe, o narrador constrói, para
 o leitor, uma imagem dela oposta a determinado comportamento do homem.
 Explique. (5 linhas)
 
@@ -2089,7 +2087,7 @@ há países autoritários.
 correto de cidadania ainda é desconhecido, embora o termo seja muito
 usado no cotidiano.
 
-# MÓDULO 6 
+# Módulo 6 
 
  ** -- **OS EFEITOS DE SENTIDO: HUMOR E IRONIA**
 
@@ -2137,7 +2135,7 @@ lances de escada.)
 
 **[ATIVIDADES]{.underline}**
 
-**1)** Numere a segunda coluna de acordo com a primeira, associando a
+\num{1} Numere a segunda coluna de acordo com a primeira, associando a
 anedota à estratégia geradora de humor.
 
 +---------------------------+-----------------------------------------+
@@ -2221,7 +2219,7 @@ https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2023/03/critica-a-maju-cou
 
 br. Acesso em: 13 mar. 2023 (fragmento).
 
-**2)** Considerando o erro cometido pela jornalista e a crítica que
+\num{2} Considerando o erro cometido pela jornalista e a crítica que
 recebeu em razão dele, identifique o efeito de sentido da expressão "que
 grave, não?". Justifique. (5 linhas)
 
@@ -2229,7 +2227,7 @@ O efeito de sentido da expressão é de ironia, pois a autora pretende que
 o leitor entenda o contrário do que disse, isto é, que o erro não é
 grave.
 
-**3)** Na opinião da autora, o erro cometido pela jornalista justifica a
+\num{3} Na opinião da autora, o erro cometido pela jornalista justifica a
 crítica recebida por ela? Justifique. (3 linhas)
 
 A autora do artigo considera que a crítica feita à jornalista Maju
@@ -2249,27 +2247,27 @@ SIMÕES, Cadu. Disponível em:
 https://commons.wikimedia.org/wiki/File:Homem-Grilo\_%286%29.png. Acesso
 em: 14 mar. 2023.
 
-**4)** Em que consiste o humor presente na tirinha? (5 linhas)
+\num{4} Em que consiste o humor presente na tirinha? (5 linhas)
 
 O humor consiste no mal-entendido cometido pelo menino, que confundiu um
 supér-herói com outro, deixando o homem-grilo aborrecido por não ter
 sido reconhecido como pensou ser o caso.
 
-**5)** Qual foi a expectativa criada pelo herói ao receber o pedido de
+\num{5} Qual foi a expectativa criada pelo herói ao receber o pedido de
 autógrafo e o que ele acaba descobrindo em relação a ela, no último
 quadrinho? (3 linhas)
 
 O personagem tinha a expectativa de que já era um super-herói famoso,
 mas descobriu que ainda não tem fama.
 
-**6)** A estratégia usada pelo autor da tirinha para gerar o humor é a
+\num{6} A estratégia usada pelo autor da tirinha para gerar o humor é a
 quebra de expectativa. Justifique. (5 linhas)
 
 O personagem pensou ter sido reconhecido pelo menino como super-herói,
 mas, após dar o autógrafo, teve sua expectativa quebrada, pois o menino
 acaba revelando que o havia confundido com outro super-herói.
 
-**7)** O que o mal-entendido cometido pelo menino revela sobre a
+\num{7} O que o mal-entendido cometido pelo menino revela sobre a
 originalidade da fantasia do herói? (3 linhas)
 
 O mal-entendido revela que o herói veste uma fantasia que o caracteriza
@@ -2299,7 +2297,7 @@ Sensacionalista, 13 mar. 2023 2023. Disponível em:
 https://oglobo.globo.com/blogs/humor/sensacionalista/post/2023/03/governo-quer-lancar-passagem-aerea-a-r-200-e-ricos-©-cogitam-viajar-de-onibus.ghtml.
 Acesso em: 14 mar. 2023 (fragmento).
 
-**8)** O Texto IV é uma versão humorística e fictícia da manchete de
+\num{8} O Texto IV é uma versão humorística e fictícia da manchete de
 notícia apresentada no Texto III. Em que consiste o humor obtido no
 Texto IV. (5 linhas)
 
@@ -2308,7 +2306,7 @@ efeito contrário nos ricos, que passarão a viajar de ônibus, um
 transporte popular por ser barato e, consequentemente, menos eficiente
 no tempo de viagem.
 
-**9)** O humor foi empregado no Texto IV com o objetivo de fazer uma
+\num{9} O humor foi empregado no Texto IV com o objetivo de fazer uma
 crítica social. Qual é essa crítica? (5 linhas)
 
 A crítica social consiste no fato de os ricos não quererem se misturar
@@ -2317,7 +2315,7 @@ misturarem, preferirão viajar de ônibus, pois a queda no preço das
 passagens vai popularizar o transporte aéreo, sabidamente restrito à
 elite.
 
-**10)** O que a fuga para o transporte rodoviário indica sobre a
+\num{0} O que a fuga para o transporte rodoviário indica sobre a
 satisfação dos ricos em relação à queda no preço da passagem aérea?
 Justifique. (3 linhas)
 
@@ -2476,7 +2474,7 @@ espelhar e fugia de diálogos com viés acadêmicos.
 verdade, refutando-a, pois prefere exemplos práticos que sirvam de
 espelho.
 
-# MÓDULO 7 
+# Módulo 7 
 
  ** -- **PARCIALIDADE E IMPARCIALIDADE EM TEXTOS
 JORNALÍSTICOS**
@@ -2603,7 +2601,7 @@ claramente opinativo, porém ele se baseia num fato objetivo (as leis
 federais e estaduais vêm sofrendo mudanças), sobre o qual o autor passa
 a opinar e fazer avaliações.
 
-**2)** O fato é abordado com parcialidade ou imparcialidade? Justifique
+\num{2} O fato é abordado com parcialidade ou imparcialidade? Justifique
 sua resposta com um exemplo extraído do texto. (5 linhas)
 
 O fato (as leis federais e estaduais vêm sofrendo mudanças) é claramente
@@ -2612,7 +2610,7 @@ como prejudiciais à proteção das florestas públicas, sobretudo da
 Amazônia. Os elementos do texto que comprovam a imparcialidade são:
 "estimulam o roubo de florestas públicas", "quem der menos leva".
 
-**3)** Conforme sua resposta à questão anterior, esse texto jornalístico
+\num{3} Conforme sua resposta à questão anterior, esse texto jornalístico
 é provavelmente uma notícia ou uma reportagem? Justifique. (5 linhas)
 
 O texto provavelmente é do gênero reportagem, pois o trecho apresentado
@@ -2621,7 +2619,7 @@ diferenciando-se dela por abordar um fato relevante para a sociedade
 emitindo parecer sobre ele, cumprindo a função jornalística de formar de
 opinião.
 
-**4)** O título do texto apresenta uma ironia que se constrói por meio
+\num{4} O título do texto apresenta uma ironia que se constrói por meio
 de uma contradição. Explique essa contradição. (4 linhas)
 
 A contradição está no fato de se colocar à venda algo tão valioso como a
@@ -2647,12 +2645,12 @@ ESTADO DE MINAS, 04 mar. 2023. Disponível em:
 https://www.msn.com/pt-br/noticias/brasil/homem-tenta-furtar-fios-de-cobre-e-morre-eletrocutado-em-bh/ar-AA18dtwh.
 Acesso em: 04 mar. 2023.
 
-**5)** Nos textos II e III, do gênero notícia, qual é o fato que
+\num{5} Nos textos II e III, do gênero notícia, qual é o fato que
 certamente aconteceu? (2 linhas)
 
 O fato que certamente aconteceu é a morte de um homem por eletrocussão.
 
-**6)** Quais são os termos e expressões que sinalizam que os veículos de
+\num{6} Quais são os termos e expressões que sinalizam que os veículos de
 imprensa apresentaram versões diferentes do mesmo fato? Compare os dois
 textos. (3 linhas)
 
@@ -2660,7 +2658,7 @@ O Texto II diz que o homem tentou serrar os cabos e que esses cabos eram
 de alumínio, enquanto o Texto III diz que ele tentou furtá-los e que
 eles eram de cobre.
 
-**7)** Em qual dos dois textos está implícito um provável motivo para o
+\num{7} Em qual dos dois textos está implícito um provável motivo para o
 homem se arriscar a ter contato com um fio eletrizado? Justifique. (3
 linhas)
 
@@ -2679,13 +2677,13 @@ height="0.5569903762029746in"}
 Disponível em:
 https://g1.globo.com/mg/minas-gerais/noticia/2023/03/04/homem-morre-eletrocutado-em-cima-de-poste-em-bh-a-suspeita-e-de-que-ele-tentava-roubar-a-fiacao.ghtml
 
-**8)** Em relação ao tratamento do fato e à motivação do homem, qual é a
+\num{8} Em relação ao tratamento do fato e à motivação do homem, qual é a
 diferença do Texto IV para os textos II e III? (4 linhas)
 
 O Texto IV trata a morte como fato e o furto como hipótese como
 hipótese, enquanto os textos II e III não fazem essa distinção.
 
-**9)** Qual das três notícias -- textos II, III e IV -- atende melhor
+\num{9} Qual das três notícias -- textos II, III e IV -- atende melhor
 aos parâmetros do jornalismo? Justifique. (4 linhas)
 
 O Texto IV é o que melhor atende aos parâmetros do jornalismo, pois
@@ -2694,7 +2692,7 @@ categoricamente que o homem tentava roubar os frios, embora isso possa
 ser óbvio na situação, buscando manter no campo da hipótese para que não
 soe como acusação leviana.
 
-**10)** Por todas as características abordadas nas questões anteriores,
+\num{0} Por todas as características abordadas nas questões anteriores,
 na sua opinião, qual das três notícias apresenta maior imparcialidade?
 Justifique.
 
@@ -2872,7 +2870,7 @@ claros. O Texto I opõe-se ao governo, apresentando a notícia de modo
 desfavorável a ele, enquanto o Texto II é favorável ao governo, buscando
 um viés que favoreça a imagem do presidente.
 
-# MÓDULO 8 
+# Módulo 8 
 
  ** -- **MODALIZAÇÃO E ATITUDE DISCURSIVA**
 
@@ -2951,7 +2949,7 @@ matemática/geografia)
 
 **[ATIVIDADES]{.underline}**
 
-**1)** Marque o sentido expresso pelas palavras modalizadoras em
+\num{1} Marque o sentido expresso pelas palavras modalizadoras em
 destaque nas frases.
 
 a\) **Possivelmente**, aqui no Brasil, a melhor solução para os alunos
@@ -3007,7 +3005,7 @@ Julgamento. A palavra modalizadora expressa um julgamento subjetivo do
 locutor sobre uma situação de cujos motivos ele parece duvidar, por se
 tratar de algo recorrente.
 
-**2)** Numere a segunda coluna de acordo com o posicionamento do falante
+\num{2} Numere a segunda coluna de acordo com o posicionamento do falante
 em relação ao que diz.
 
   1\. Obrigatoriedade   ( ) É vedado ao assistente social praticar condutas antiéticas.
@@ -3026,7 +3024,7 @@ com o verbo "dever", que dentre as nuances como dedução lógica,
 necessidade e obrigatoriedade, expressa uma obrigatoriedade imposta por
 alguém com tal prerrogativa, como um professor falando com seu aluno.
 
-**3)** Adicione modalizadores às frases de acordo com o sentido indicado
+\num{3} Adicione modalizadores às frases de acordo com o sentido indicado
 nos parênteses.
 
 a\) Ele acredita demais nas próprias verdades. (Hipótese)b) Ele viu o
@@ -3056,7 +3054,7 @@ d\) Infelizmente não tirou boa nota na escola este ano.
 
 e\) João provavelmente viajará de avião por temer o perigo das estradas.
 
-**4)** Aponte, em cada texto, a palavra ou expressão que permite
+\num{4} Aponte, em cada texto, a palavra ou expressão que permite
 identificar a atitude de quem fala frente ao que é dito. Em seguida,
 justifique.
 
@@ -3092,7 +3090,7 @@ antecipa ao teor do que está sendo confirmado pela palavra, demonstrando
 que o locutor acredita piamente no que diz e pretende que seu leitor
 também acredite.
 
-**5)** Escreva sentenças que expressem as atitudes indicadas abaixo.
+\num{5} Escreva sentenças que expressem as atitudes indicadas abaixo.
 
 a\) Certeza
 
@@ -3123,14 +3121,14 @@ grandes autores da literatura."
 CEREJA, W. R; MAGALHÃES, T. C. *Português*: linguagens. São Paulo:
 Atual, 2012. P. 11.
 
-**6)** Qual é o assunto principal do texto?
+\num{6} Qual é o assunto principal do texto?
 
 (2 linhas)
 
 O assunto do texto é o valor da informação comparado ao valor da
 sabedoria.
 
-**7)** A parcialidade é uma característica presente no texto transcrito.
+\num{7} A parcialidade é uma característica presente no texto transcrito.
 Qual é a opinião que o texto traz sobre o assunto tratado?
 
 (5 linhas)
@@ -3140,7 +3138,7 @@ pois está é trivial, por sua presença maciça e facilidade de alcance por
 todos, enquanto a sabedoria está restrita à literatura de grandes
 autores, demandando maior esforço para ser adquirida.
 
-**8)** Qual é o efeito de sentido provocado pelos elementos linguísticos
+\num{8} Qual é o efeito de sentido provocado pelos elementos linguísticos
 "mas" e "só" na construção da opinião presente no texto?
 
 (5 linhas)
@@ -3163,7 +3161,7 @@ Disponível em:
 https://www.aracas.ba.gov.br/Site/Noticias/noticia-020620220839064273-E-a-melhor-preven-o-parar-de-fumar-Cuide-de-voc-e-da-sa-de-das-pessoas-ao.
 Acesso em: 19 mar. 2023.
 
-**9)** O texto utiliza-se da modalização para abordar o leitor de forma
+\num{9} O texto utiliza-se da modalização para abordar o leitor de forma
 menos enfática e mais suave. Qual é a ordem ou recomendação enfática que
 foi suavizada? (2 linhas)
 
@@ -3172,7 +3170,7 @@ foi suavizada? (2 linhas)
 Trata-se do sentido denotativo correspondente ao sentido conotativo
 empregado como estratégia argumentativa no texto original.
 
-**10)** Qual é o efeito de sentido obtido no texto com a abordagem menos
+\num{0} Qual é o efeito de sentido obtido no texto com a abordagem menos
 enfática do leitor?
 
 O emprego de sentido conotativo, responsável pela abordagem menos
@@ -3310,7 +3308,7 @@ posicionamento ao empregar o verbo "sofre". Por outro lado, a ONG citada
 emprega um termo mais neutro, "expansão urbana", para designar o mesmo
 fato.
 
-# MÓDULO 9 
+# Módulo 9 
 
  ** -- **FIGURAS DE LINGUAGEM E ESTRATÉGIA ARGUMENTATIVA**
 
@@ -3418,31 +3416,31 @@ em textos argumentativos.
 Nomeie a figura de linguagem presente em cada texto e justifique a
 presença dela.
 
-**1)** Parabéns à Argentina, que bateu o recorde com a maior inflação em
+\num{1} Parabéns à Argentina, que bateu o recorde com a maior inflação em
 31 anos. Convenhamos, 102% de inflação em 12 meses não é para qualquer
 um.
 
-**2)** O meio ambiente pede socorro!
+\num{2} O meio ambiente pede socorro!
 
-**3)** Vida ou morte são situações corriqueiras na vida de médicos e
+\num{3} Vida ou morte são situações corriqueiras na vida de médicos e
 veterinários.
 
-**4)** Fui tão feliz naquela época, eu vivia no paraíso e não sabia!
+\num{4} Fui tão feliz naquela época, eu vivia no paraíso e não sabia!
 
-**5)** "\[\...\] coube-me a boa fortuna de não comprar o pão com o suor
+\num{5} "\[\...\] coube-me a boa fortuna de não comprar o pão com o suor
 do meu rosto." (Machado de Assis)
 
-**6)** Eu já te falei um milhão de vezes que eu não gosto disso!
+\num{6} Eu já te falei um milhão de vezes que eu não gosto disso!
 
-**7)** Ela berrou, gritou, falou, sussurrou, murmurou... já não havia
+\num{7} Ela berrou, gritou, falou, sussurrou, murmurou... já não havia
 mais nada que pudesse fazer.
 
-**8)** Os pais normalmente odeiam que as crianças se sentem no braço do
+\num{8} Os pais normalmente odeiam que as crianças se sentem no braço do
 sofá.
 
-**9)** Aquela casa parece um hospício!
+\num{9} Aquela casa parece um hospício!
 
-**10)** O réu faltou com a verdade no julgamento.
+\num{0} O réu faltou com a verdade no julgamento.
 
 (3 linhas para cada item)
 
@@ -3648,7 +3646,7 @@ público de que o tema é relevante. O texto chega a dizer que a escolha
 do tema não foi por acaso, justificando-a com dados estatísticos da OMS
 sobre a doença.
 
-# MÓDULO 10 
+# Módulo 10 
 
   -- OS MECANISMOS DE PROGRESSÃO TEXTUAL**
 
@@ -3714,7 +3712,7 @@ alguns exemplos.
 
 **[ATIVIDADES]{.underline}**
 
-**1)** Numere a segunda coluna de acordo com a primeira, conforme o
+\num{1} Numere a segunda coluna de acordo com a primeira, conforme o
 valor semântico dos conectivos presente nas orações.
 
   1\. Conclusão     ( ) Conseguiu reaver o relógio, **contudo** o aparelho estava quebrado.
@@ -3733,7 +3731,7 @@ contextualizados, esses conectivos adquirem valores semânticos mais
 complexos no contexto, ainda relacionados ao valor semântico original,
 daí a importância de se saber seu valor essencial.
 
-**2)** Reescreva as orações abaixo ligando-as por meio de conectivos que
+\num{2} Reescreva as orações abaixo ligando-as por meio de conectivos que
 expressem as ideias indicadas entre parênteses. Faça as alterações
 necessárias.
 
@@ -3761,7 +3759,7 @@ c\) Está chovendo, portanto a roupa do varal ficou molhada.
 
 d\) Precisamos de um médico, pois / porque um cliente está passando mal.
 
-**3)** Complete a lacuna em cada frase com o conetivo adequado à ideia
+\num{3} Complete a lacuna em cada frase com o conetivo adequado à ideia
 indicada nos parênteses.
 
 a\) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ pertencêssemos a partidos rivais,
@@ -3806,7 +3804,7 @@ direitos humanos e democracia: uma análise longitudinal da percepção do
 cidadão brasileiro de 2007 a 2015. *Agenda Política*, São Carlos, v. 7,
 n. 1, p. 141-167, 2019 (fragmento adaptado).
 
-**4)** As autoras abrem o texto apresentando um fato e, na frase
+\num{4} As autoras abrem o texto apresentando um fato e, na frase
 seguinte, introduzem uma problematização relativa a esse fato. Aponte
 essa problematização.
 
@@ -3815,13 +3813,13 @@ essa problematização.
 A problematização é a falta da garantia dos direitos civis, políticos e
 sociais a muitos brasileiros.
 
-**5)** Indique o conectivo responsável por introduzir a problematização
+\num{5} Indique o conectivo responsável por introduzir a problematização
 apontada na questão anterior e cite seu valor semântico.
 
 O conectivo responsável por introduzir a problematização é "no entanto",
 cujo valor semântico é de oposição/contraste.
 
-**6)** Relacione o sentido expresso pelo conectivo à problematização
+\num{6} Relacione o sentido expresso pelo conectivo à problematização
 expressa na frase que ele introduz.
 
 (5 linhas)
@@ -3833,7 +3831,7 @@ sociais, ainda não têm esses direitos garantidos, o que indica um
 contraste entre a teoria de a realidade, expresso sobretudo nas frases
 seguintes do texto.
 
-**7)** Releia:
+\num{7} Releia:
 
 "Há, ainda, uma falta de sincronia entre o que está previsto na lei e o
 que de fato ocorre na sociedade brasileira \[\...\]".
@@ -3848,7 +3846,7 @@ O advérbio "ainda" enfatiza a permanência da falta da garantia de
 direitos durante os quase 30 anos em que já são garantidos por lei,
 tempo suficiente para serem colocados em prática.
 
-**8)** Indique os dois segmentos do texto que retomam, por meio de
+\num{8} Indique os dois segmentos do texto que retomam, por meio de
 paráfrase, as ideias das expressões "campo teórico" e "campo prático".
 
 (3 linhas)
@@ -3856,7 +3854,7 @@ paráfrase, as ideias das expressões "campo teórico" e "campo prático".
 As ideias das expressões "campo teórico" e "campo prático" são retomadas
 pelos termos "o que está previsto na lei" e "o que de fato ocorre".
 
-**9)** O pronome demonstrativo "isso" promove uma economia linguística
+\num{9} O pronome demonstrativo "isso" promove uma economia linguística
 no texto ao retomar, com apenas uma palavra, uma expressão longa. Qual
 expressão o pronome está substituindo?
 
@@ -3866,7 +3864,7 @@ O pronome "isso" retoma, na frase anterior, o termo "têm-se direitos
 civis, políticos e sociais garantidos", que também poderia ser dito como
 "a garantia dos direitos civis, políticos e sociais".
 
-**10)** As palavras e expressões abordadas nas questões anteriores foram
+\num{0} As palavras e expressões abordadas nas questões anteriores foram
 suprimidas do texto. Preencha as lacunas com outras palavras e
 expressões que mantenham os sentidos originais do texto.
 
@@ -4050,7 +4048,7 @@ um prejuízo, e estão em lados opostos.
 \(D\) Incorreta. A alternativa apresenta exemplos não opostos, pois
 ambos são prejuízos da tecnologia, segundo o texto.
 
-# MÓDULO 11 
+# Módulo 11 
 
  ** -- **VARIAÇÃO LINGUÍSTICA, NORMA-PADRÃO E PRECONCEITO
 LINGUÍSTICO**
@@ -4181,7 +4179,7 @@ históricos, ideológicos, políticos e econômicos.
 
 **[ATIVIDADES]{.underline}**
 
-**1)** Conceitue norma-padrão, norma culta e norma popular.
+\num{1} Conceitue norma-padrão, norma culta e norma popular.
 
   Norma-padrão   Norma culta   Norma popular
   -------------- ------------- ---------------
@@ -4191,7 +4189,7 @@ históricos, ideológicos, políticos e econômicos.
   -------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------
   Conjunto de regras de uso da língua escritas no livro que se conhece como gramática.   Modalidade da língua falada por pessoas residentes em centros urbanos e com nível de escolaridade superior.   Modalidade da língua falada pela população menos escolarizada, sobretudo no meio rural.
 
-**2)** Conceitue variação linguística e cada tipo de variação
+\num{2} Conceitue variação linguística e cada tipo de variação
 linguística: variação histórica, social, geográfica, social,
 situacional.
 
@@ -4254,7 +4252,7 @@ situacional.
 |                                  | de emprego.                      |
 +----------------------------------+----------------------------------+
 
-**3)** Pense sobre os seguintes exemplos de preconceito linguístico e
+\num{3} Pense sobre os seguintes exemplos de preconceito linguístico e
 responda.
 
 -   rir de alguém por causa do sotaque;
@@ -4280,7 +4278,7 @@ como outros usos mais valorizados socialmente, como, por exemplo, aquele
 prescrito pela norma-padrão. Caso não respeitassem regra alguma, seriam
 incompreensíveis a um falante da língua portuguesa.
 
-**4)** Escreva o tipo de variação linguística representado em cada
+\num{4} Escreva o tipo de variação linguística representado em cada
 situação de uso da língua e indique o fator que influencia a variação.
 
   **Uso da língua**                                                            **Tipo de variação linguística**
@@ -4297,7 +4295,7 @@ situação de uso da língua e indique o fator que influencia a variação.
   Conversar com o avô e estranhar os termos que ele usa de época passada   Variação histórica (influenciada pelo momento histórico da língua)
   Usar linguagem formal para participar de uma entrevista de emprego       Variação situacional (influenciada pela adequação ao contexto)
 
-**5)** Leia o texto a seguir.
+\num{5} Leia o texto a seguir.
 
 MULHER, entrando, assombrada.
 
@@ -4348,7 +4346,7 @@ designar um sujeito.
 exemplificado ou abordado em cada texto e aponte o fator que influencia
 a variação.**
 
-**6)** Tipo de variação linguística:
+\num{6} Tipo de variação linguística:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Fator de influência:
@@ -4392,7 +4390,7 @@ Tipo de variação linguística: social
 
 Fator de influência: pertencimento a uma tribo urbana (surfista)
 
-**7)** Tipo de variação linguística:
+\num{7} Tipo de variação linguística:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Fator de influência:
@@ -4412,7 +4410,7 @@ Tipo de variação linguística: histórica
 
 Fator de influência: momento histórico da língua
 
-**8)** Tipo de variação linguística:
+\num{8} Tipo de variação linguística:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Fator de influência:
@@ -4428,7 +4426,7 @@ Tipo de variação linguística: geográfica
 
 Fator de influência: região do falante
 
-**9)** Tipo de variação linguística:
+\num{9} Tipo de variação linguística:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Fator de influência:
@@ -4459,7 +4457,7 @@ Tipo de variação linguística: situacional
 
 Fator de influência: contexto comunicativo
 
-**10)** Leia esta postagem do Tribunal Regional Eleitoral.
+\num{0} Leia esta postagem do Tribunal Regional Eleitoral.
 
 ![Interface gráfica do usuário, Texto, Aplicativo Descrição gerada
 automaticamente](./imgSAEB_8_POR/media/image27.png){width="5.260416666666667in"
