@@ -26,7 +26,7 @@ diversas áreas da matemática e da ciência.}
 
 \colorsec{Atividades}
 
-1)  Escreva se os números abaixo são Racionais (Q) ou Irracionais (I)
+\num{1}  Escreva se os números abaixo são Racionais (Q) ou Irracionais (I)
 
 \_\_\_\_\_ Deixar espaço na frente de cada item para responder
 
@@ -55,7 +55,7 @@ e)  Este número trata-se de uma dízima **não** periódica, ou seja,
     irracional.
 
 
-2)  Localize na reta aproximadamente os locais correspondentes aos
+\num{2}  Localize na reta aproximadamente os locais correspondentes aos
     valores abaixo:
 
 ![Imagem em preto e branco Descrição gerada automaticamente com
@@ -81,7 +81,7 @@ height="0.883409886264217in"}
 
 Fazer a figura colocando a resposta com a seta e letra
 
-3)  Em um jogo realizado em sala de aula o professor colocou diversos
+\num{3}  Em um jogo realizado em sala de aula o professor colocou diversos
     números racionais e irracionais em uma urna. A primeira parte
     consistia em cada grupo sortear 5 números sem reposição,
     posteriormente deveriam colocar os números sorteados em ordem
@@ -96,7 +96,7 @@ Colocar uma linha para a resposta
 >
 > Temos: ; 0,75; ; ; 7
 
-4)  Complete a tabela:
+\num{4}  Complete a tabela:
 
   Representação decimal ou fracionário   Descrição na língua materna (escrito por extenso)
   -------------------------------------- ---------------------------------------------------
@@ -111,7 +111,7 @@ Colocar uma linha para a resposta
 > Dois centésimos // ou 0,3 // Três milésimos // ou 0,002 // Cinquenta e
 > um décimos
 
-5)  Os números naturais podem ser primos ou compostos. Considerando os
+\num{5}  Os números naturais podem ser primos ou compostos. Considerando os
     números naturais 87 e 29, como podemos classificá-los? E quais os
     critérios você utilizou para definir a classificação?
 
@@ -122,7 +122,7 @@ Colocar uma linha para a resposta
 > O número 89 é composto, pois pode ser escrito como 3 · 29 e o número
 > 29 é primo, pois não tem outro divisor primo.
 
-6)  Jorge adora propor desafios matemáticos para seus netos. No último
+\num{6}  Jorge adora propor desafios matemáticos para seus netos. No último
     domingo disse para seu neto que em 2023 ele completou a idade
     correspondente ao número de divisores positivos do número 5 040.
     Quantos aos completou Jorge no ano de 2023?
@@ -135,7 +135,7 @@ Colocar uma linha para a resposta
 > positivos são: (4+1) · (2+1) · (1+1) · (1+1) = 5 · 3 · 2 · 2 = 60.
 > Desta forma Jorge completou 60 anos em 2023.
 
-7)  Complete a tabela:
+\num{7}  Complete a tabela:
 
   Representação decimal   Representação fracionária
   ----------------------- ---------------------------
@@ -149,7 +149,7 @@ Colocar uma linha para a resposta
 >
 > 2,4 // // // // 0,875
 
-8)  Decomponha os números abaixo em fatores primos: Deixar espaço na
+\num{8}  Decomponha os números abaixo em fatores primos: Deixar espaço na
     frente de cada item para responder
 
 
@@ -168,7 +168,7 @@ b)  1250 = 2 · 5^4^
 c)  4800 = 2^6^ · 3 · 5^2^
 
 
-9)  Escreva o número que corresponde a cada fatoração em números primos:
+\num{9}  Escreva o número que corresponde a cada fatoração em números primos:
     Deixar espaço na frente de cada item para responder
 
 
@@ -182,7 +182,7 @@ a)  360
 b)  4725
 
 
-10) Ao fazer a decomposição de 336 em fatores primos, Thiago chegou a
+\num{0} Ao fazer a decomposição de 336 em fatores primos, Thiago chegou a
     seguinte expressão . Qual o valor que Thiago deve colocar no lugar
     de x?
 
@@ -194,7 +194,7 @@ Como o número 336 = 2^4^ · 3 · 7, temos que x é igual a 4
 
 \colorsec{Treino}
 
-1)  Se o número tem exatamente 60 divisores positivos então o valor e x
+\num{1}  Se o número tem exatamente 60 divisores positivos então o valor e x
     é:
 
 
@@ -210,7 +210,7 @@ d)  **2**
 
 Desta forma temos que x = 2
 
-2)  Em um jogo foi proposto 4 cartas com afirmações em que o jogador
+\num{2}  Em um jogo foi proposto 4 cartas com afirmações em que o jogador
     deve encontrar a verdadeira.
 
 > Imagem: Fazer 4 retângulos com uma afirmação em cada:
@@ -245,7 +245,7 @@ d)  Verdadeiro, como o 12 é par todo múltiplo deste número terá o
     fator 2.
 
 
-3)  Na reta numérica abaixo, há quatro valores indicados pelas letras A,
+\num{3}  Na reta numérica abaixo, há quatro valores indicados pelas letras A,
     B, C e D. Qual destas letras indica a localização do número 1,6?
 
 ![Linha do tempo Descrição gerada
@@ -330,7 +330,7 @@ Por exemplo, 8² = 64, desta forma podemos dizer que a raiz quadrada de
 
 \colorsec{Atividades}
 
-1)  Urano é o sétimo planeta do Sol e é o terceiro maior no sistema
+\num{1}  Urano é o sétimo planeta do Sol e é o terceiro maior no sistema
     solar. Foi descoberto por William Herschel em 1781. Tem um diâmetro
     equatorial de 51.800 quilômetros (32.190 milhas) e orbita o Sol uma
     vez a cada 84,01 anos da Terra. Tem uma distância média do Sol de
@@ -346,7 +346,7 @@ BNCC: EF09MA04 SAEB: 9N1.4
 
 2,87 · 10^9^ km.
 
-2)  Jorge foi fazer uma entrega, em um condomínio, de 50 caixas pesando
+\num{2}  Jorge foi fazer uma entrega, em um condomínio, de 50 caixas pesando
     60kg cada caixa. Para tal utilizou o elevador, que tinha a
     capacidade máxima de 800kg. Jorge pesa 100kg. Por segurança o
     zelador não deixa que o limite de capacidade do elevador seja
@@ -366,7 +366,7 @@ que o limite de peso que pode colocar no elevador será de no máximo 700
 kg. Para carregar 700 kg ele deverá levar no máximo 11 caixas por vez.
 50 : 11 = 4,54 aproximadamente, ou seja, 5 viagens.
 
-3)  Para fazer a publicação e um determinado livro, estimou-se um custo
+\num{3}  Para fazer a publicação e um determinado livro, estimou-se um custo
     inicial de R\$ 250.000,00 e ainda um custo de R\$ 10,00 por unidade.
     Elisa quer publicar um livro com uma tiragem de 5 000 exemplares.
 
@@ -380,7 +380,7 @@ BNCC: EF09MA04 SAEB: 9N1.5
 dividir o valor. 300 000 : 5 000 = 60. Ou seja um custo de R\$ 60,00 por
 unidade.
 
-4)  A cantina da escola optou por vender lanches saudáveis e fez uma
+\num{4}  A cantina da escola optou por vender lanches saudáveis e fez uma
     negociação com o distribuidor de maçãs da região. A negociação fez
     com que a cada duas maçãs fossem pagos (custo) o valor de R\$ 0,80.
     O preço de venda será de R\$ 1,00 a unidade.
@@ -479,7 +479,7 @@ BNCC: - SAEB: 9N2.4
 MDC (96, 240, 288, 360) = 24, desta forma podemos determinar que em cada
 pacote foram colocados 288 : 24 = 12 pacotes de feijão.
 
-9)  Uma costureira dispõe de dois pedaços de fita de comprimentos 1,20m
+\num{9}  Uma costureira dispõe de dois pedaços de fita de comprimentos 1,20m
     e 1,80m essas fitas, quantos pedaços menores de fita e de máximo
     tamanho possível ela conseguirá cortando as fitas?
 
@@ -494,7 +494,7 @@ MDC (1,20 e 1,80) = 0,60
 Serão 2 pedaços da fita de 1,20 e 3 pedaços da fita de 1,80. Os pedaços
 serão de 60 cm.
 
-10) Simplificando a expressão encontramos:
+\num{0} Simplificando a expressão encontramos:
 
 
 a)  2
@@ -513,7 +513,7 @@ d)  **8**
 
 \colorsec{Treino}
 
-1)  Fernando faz caminhada a cada 4 dias. Thiago, vizinho de Fernando,
+\num{1}  Fernando faz caminhada a cada 4 dias. Thiago, vizinho de Fernando,
     faz caminhada no mesmo parque, a cada 6 dias. Considerando que
     Fernando e Thiago se encontraram sexta fazendo caminhada.
 
@@ -535,7 +535,7 @@ MMC (4,6) = 12 dias. Após 7 dias será sexta-feira e podemos continuar
 contando (8º dia - sábado, 9º dia - domingo, 10º dia - segunda, 11º dia
 - terça e 12º dia - quarta).
 
-2)  Para arrecadar dinheiro para a festa de formatura do 9º ano Julinha
+\num{2}  Para arrecadar dinheiro para a festa de formatura do 9º ano Julinha
     decidiu fazer doces. Ela decidiu que para facilitar iria fazer
     pacotinhos com brigadeiros e com beijinhos. Fez uma primeira receita
     de cada para ver quantos consegui em cada receita. Neste primeiro
@@ -560,7 +560,7 @@ BNCC: EF09MA03 SAEB: 9N2.4
 
 MDC (120, 150) = 30, sendo assim temos 150 : 30 = 5 e 120 : 30 = 4
 
-3)  **Equipe diz ter descoberto menor forma de vida**
+\num{3}  **Equipe diz ter descoberto menor forma de vida**
 
 (WILLIAM J. BROAD do \"The New York Times\")
 
@@ -630,7 +630,7 @@ forma a escrever uma equação do 1º grau.
 
 Exemplos:
 
-1)  0,232323\...
+\num{1}  0,232323\...
 
 x = 0,232323\...
 
@@ -642,7 +642,7 @@ x = 0,232323\...
 
 $x = \frac{23}{99}$ .
 
-2)  0,5123123123\...
+\num{2}  0,5123123123\...
 
 Neste exemplo temos um dígito após a vírgula que não se repete, por isso
 é necessário fazer dois passos para que seja ajustado de maneira que
@@ -662,7 +662,7 @@ $x = \frac{5118}{9990}$.
 
 \colorsec{Atividades}
 
-1)  Dados dois números reais x e y, tais que x = 2,333\... e y =
+\num{1}  Dados dois números reais x e y, tais que x = 2,333\... e y =
     0,151515\... são dízimas periódicas. Qual a fração representa a soma
     de x e y?
 
@@ -676,7 +676,7 @@ $x = 2,333\ldots = 2 + \frac{1}{3} = \frac{7}{3}$ e
 $y = 0,1515\ldots = \ \frac{15}{99} = \frac{5}{33}$. Fazendo
 $x + y = \frac{7}{3} + \frac{5}{33} = \frac{77 + 5}{33} = \frac{82}{33}$.
 
-2)  A representação do número 2,123123123\... pode ser colocada pela
+\num{2}  A representação do número 2,123123123\... pode ser colocada pela
     fração:
 
 Deixar 2 linhas
@@ -687,7 +687,7 @@ BNCC: - SAEB:9N1.10
 
 $$2,123123123 = 2 + \frac{123}{999} = \frac{1998 + 123}{999} = \frac{2121}{999} = \frac{707}{333}$$
 
-3)  Beatriz precisa encontrar uma fração na forma irredutível que
+\num{3}  Beatriz precisa encontrar uma fração na forma irredutível que
     represente o número 5,151515\... . Qual será a fração que ela deve
     encontrar?
 
@@ -699,7 +699,7 @@ BNCC: - SAEB:9N1.10
 
 $$5,151515\ldots = 5 + \frac{15}{99} = 5 + \frac{5}{33} = \frac{165 + 5}{33} = \frac{170}{33}$$
 
-4)  Na imagem abaixo faça um x sobre os bombons de forma a representar a
+\num{4}  Na imagem abaixo faça um x sobre os bombons de forma a representar a
     fração equivalente a $\frac{5}{9}$.
 
 Fazer uma imagem semelhante a imagem abaixo sem os pontilhados, o aluno
@@ -719,7 +719,7 @@ Montar imagem como a de baixo
 baixa](./_SAEB_9_MAT/media/image44.png){width="3.5513724846894137in"
 height="1.3802077865266842in"}
 
-5)  Quando Artur chega em casa encontra uma pizza com alguns pedaços já
+\num{5}  Quando Artur chega em casa encontra uma pizza com alguns pedaços já
     consumidos, seu irmão deve ter comido, então come alguns pedaços.
     Qual a fração de pizza Artur comeu?
 
@@ -737,7 +737,7 @@ Pela imagem vemos que a pizza estava com 8 pedaços de 10 e
 posteriormente com 5 pedaços de 10, sendo assim Artur consumiu 3 pedaços
 de 10, ou seja, $\frac{3}{10\ }.$
 
-6)  A fração de $\ \frac{2}{7}$ ao ser somada com a fração representada
+\num{6}  A fração de $\ \frac{2}{7}$ ao ser somada com a fração representada
     na figura a seguir será igual a:
 
 ![Foto preta e branca de um guarda-chuva Descrição gerada
@@ -751,7 +751,7 @@ BNCC: - SAEB:9N1.7
 
 $$\frac{2}{7} + \frac{5}{8} = \frac{16 + 35}{56} = \frac{51}{56}$$
 
-7)  Qual das imagens abaixo representa 4 décimos?
+\num{7}  Qual das imagens abaixo representa 4 décimos?
 
 
 a)  ![Gráfico, Gráfico de barras Descrição gerada
@@ -773,7 +773,7 @@ BNCC: - SAEB:9N1.7
 
 Imagem da letra d
 
-8)  Qual a fração que representa a quantidade de crianças que preferem
+\num{8}  Qual a fração que representa a quantidade de crianças que preferem
     hamster como animal de estimação?
 
 ![](./_SAEB_9_MAT/media/image51.png){width="3.8593744531933507in"
@@ -787,7 +787,7 @@ Pela contagem temos 17 bolinhas que representam 34 crianças. Desta forma
 temos que 12 crianças que preferem hamster. A fração é
 $\frac{12}{34} = \frac{6}{17}$.
 
-9)  Uma fração equivalente ao número de peixes que Pedro tem em relação
+\num{9}  Uma fração equivalente ao número de peixes que Pedro tem em relação
     aos amigos.
 
 ![](./_SAEB_9_MAT/media/image52.png){width="3.6510411198600177in"
@@ -812,7 +812,7 @@ d)  $\frac{5}{16}$
 > tem em relação ao total é $\frac{3}{16}$, esta fração é equivalente a
 > fração da alternativa c.
 
-10) O professor de André montou uma lista de exercícios que destes
+\num{0} O professor de André montou uma lista de exercícios que destes
     alguns iriam cair na sua avaliação. Alice já resolveu $\frac{4}{5}$,
     Bruno $\frac{2}{7}$, Augusto $\frac{12}{15}$ e Cadu $\frac{8}{10}$.
 
@@ -836,7 +836,7 @@ d)  Augusto e Cadu.
 
 \colorsec{Treino}
 
-1)  A dízima periódica 0,126126\... é representada pela fração:
+\num{1}  A dízima periódica 0,126126\... é representada pela fração:
 
 
 a)  $\frac{126}{1000}$
@@ -853,7 +853,7 @@ d)  $\frac{63}{99}$
 >
 > 0,126126\... = $\frac{126}{999} = \frac{14}{111}$
 
-2)  O número x, de forma a que as frações
+\num{2}  O número x, de forma a que as frações
     $\frac{12}{37} = \frac{x}{111}$ sejam equivalentes é:
 
 
@@ -872,7 +872,7 @@ d)  48
 > Como o valor 111 é igual a 3·37, então basta fazer 3·12=36, desta
 > forma x=36.
 
-3)  Observando os pedaços de chocolate, percebemos que há três tipos
+\num{3}  Observando os pedaços de chocolate, percebemos que há três tipos
     espalhados.
 
 ![Desenho de personagens Descrição gerada automaticamente com confiança
@@ -946,7 +946,7 @@ fazer:
 
 \colorsec{Atividades}
 
-1)  Em um período de alta inflação os itens da cesta básica tiveram um
+\num{1}  Em um período de alta inflação os itens da cesta básica tiveram um
     aumento de 75%.
 
 Considerando que o preço inicial a cesta básica era de R\$ 60,00 , qual
@@ -959,7 +959,7 @@ BNCC: EF09MA05 SAEB: 9N2.3
 Calculando 75% de 60 teremos 0,75·60=45, ou seja, no final do período
 teremos o valor de R\$ 105,00.
 
-2)  Vou comprar um tênis no valor de R\$ 250,00 e tenho duas opções para
+\num{2}  Vou comprar um tênis no valor de R\$ 250,00 e tenho duas opções para
     pagar que são:
 
 I -- Pagamento à vista com 20% de desconto;
@@ -992,7 +992,7 @@ No entanto paga R\$ 125,00. Calculando o valor pago em relação ao que
 seria o valor à vista temos: $\frac{125}{75} = 1,667$, ou seja, 66,7% a
 mais.
 
-3)  Ao longo do ano de 2017 o preço de um artigo esportivo foi
+\num{3}  Ao longo do ano de 2017 o preço de um artigo esportivo foi
     reajustado da seguinte forma: de 15 de março a 15 de abril sofreu um
     aumento de 30%; de 15 de março a 15 de maio, 56%; de 15 de março a
     15 de junho, 48,2% e de 15 de março a 15 de julho, 90%.
@@ -1015,7 +1015,7 @@ determinará o valor procurado.
 
 76,92 · 1,9 = 146,15.
 
-4)  Veja os valores na tabela
+\num{4}  Veja os valores na tabela
 
   **ANO**    **Escola A**   **Escola B**
   ---------- -------------- --------------
@@ -1037,7 +1037,7 @@ Escola B: $\frac{180}{1500} = 0,12$
 
 Maior aumento foi o da escola A em 15% de aumento.
 
-5)  *"A sigla Ideb se refere ao Índice de Desenvolvimento da Educação
+\num{5}  *"A sigla Ideb se refere ao Índice de Desenvolvimento da Educação
     Básica e seu objetivo é medir a qualidade \[\...\]do ensino da
     educação básica no Brasil. "*
 
@@ -1067,7 +1067,7 @@ O índice era de 3,7 e aumentou para 4,2. Com isso temos um aumento de
 0,5 o que representa $\frac{0,5}{3,7} \cong 1,1351\ldots\ $ou seja, um
 aumento de aproximadamente 13,5%.
 
-6)  **Disparidade de rendimento entre sexos permanece alta apesar do
+\num{6}  **Disparidade de rendimento entre sexos permanece alta apesar do
     maior ganho para mulheres**
 
 Além da valorização do salário-mínimo, houve aumento real do rendimento
@@ -1089,7 +1089,7 @@ BNCC: EF09MA05 SAEB: 9N2.3
 A diferença entre os salários é de 1587 -- 1074 = 513. Calculando a
 razão $\frac{513}{1587} \cong 0,3232..$, ou seja, aproximadamente 32,3%.
 
-7)  Veja o gráfico:
+\num{7}  Veja o gráfico:
 
 ![Gráfico, Gráfico de barras Descrição gerada
 automaticamente](./_SAEB_9_MAT/media/image64.jpg){width="2.917817147856518in"
@@ -1108,7 +1108,7 @@ BNCC: EF09MA05 SAEB: 9N2.3
 Calculando a razão $\frac{3,9}{2,32} = 1,681\ldots\ $. Sendo assim temos
 uma previsão de aumento de 68,1%.
 
-8)  Calcule o percentual total de aumento sobre um produto que teve dois
+\num{8}  Calcule o percentual total de aumento sobre um produto que teve dois
     aumentos sucessivos de 20%.
 
 Professor
@@ -1118,7 +1118,7 @@ BNCC: EF09MA05 SAEB: 9N2.3
 (1 + 0,2) · (1 + 0,2) = 1,44. Assim podemos afirmar que tivemos um
 aumento de 44%.
 
-9)  Calcule o percentual total de desconto sobre um produto que teve
+\num{9}  Calcule o percentual total de desconto sobre um produto que teve
     dois descontos sucessivos de 10%.
 
 Professor
@@ -1128,7 +1128,7 @@ BNCC: EF09MA05 SAEB: 9N2.3
 (1 - 0,1) · (1 - 0,1) = 0,81. Assim podemos afirmar que tivemos um
 desconto de 19%.
 
-10) Um produto teve um aumento de 20% e posteriormente um desconto de
+\num{0} Um produto teve um aumento de 20% e posteriormente um desconto de
     15%. Considerando o valor final tivemos um aumento ou um desconto de
     quantos porcento?
 
@@ -1141,7 +1141,7 @@ que tivemos um aumento de 2%.
 
 \colorsec{Treino}
 
-1)  Jorge comprou uma televisão por R\$ 2.150,00 para pagar em duas
+\num{1}  Jorge comprou uma televisão por R\$ 2.150,00 para pagar em duas
     parcelas. A primeira parcela que corresponde a 30% do preço da
     televisão e o restante pagou após 30 dias.
 
@@ -1164,7 +1164,7 @@ d)  R\$ 2.120,00
 >
 > 0,70 · 2150 =1505.
 
-2)  Hugo comprou 150 figurinhas para o seu álbum da copa do mundo
+\num{2}  Hugo comprou 150 figurinhas para o seu álbum da copa do mundo
     de 2022. Porém, dessas 150 figurinhas, 90 eram repetidas.
 
 As figurinhas que efetivamente foram utilizadas representam qual
@@ -1185,7 +1185,7 @@ d)  90%
 > Hugo comprou 150 figurinhas, mas apenas 60 não eram repetidas, sendo
 > assim ele usou efetivamente $\frac{60}{150} = 0,40 = 40\%.$
 
-3)  Kríssia quer comprar à vista uma mochila que custa R\$ 560,00, mas,
+\num{3}  Kríssia quer comprar à vista uma mochila que custa R\$ 560,00, mas,
     para pagamento à vista, a loja oferece um desconto de 5%. No entanto
     por ser a última peça foi oferecido um desconto na etiqueta de 20%.
 
@@ -1241,36 +1241,36 @@ resolvê-la, o que chamamos de resolução de problemas que se reduzem a
 uma equação do 1º grau. Seguem algumas dicas para resolver problema
 matemáticos em geral:
 
-1)  Leia o problema cuidadosamente: certifique-se de entender o que o
+\num{1}  Leia o problema cuidadosamente: certifique-se de entender o que o
     problema está pedindo. Leia o problema mais de uma vez, se
     necessário.
 
-2)  Identifique as informações importantes: sublinhe ou destaque as
+\num{2}  Identifique as informações importantes: sublinhe ou destaque as
     informações que são relevantes para o problema. Seja claro sobre o
     que você está tentando encontrar e quais dados você tem.
 
-3)  Desenhe um diagrama: um diagrama pode ajudar a visualizar o problema
+\num{3}  Desenhe um diagrama: um diagrama pode ajudar a visualizar o problema
     e ajudar na solução. Isso pode ser especialmente útil em problemas
     geométricos.
 
-4)  Use palavras-chave: muitas vezes as palavras usadas em um problema
+\num{4}  Use palavras-chave: muitas vezes as palavras usadas em um problema
     podem dar uma indicação de que tipo de operação matemática deve ser
     usada. Por exemplo, \"mais\" pode indicar uma adição, \"menos\" pode
     indicar uma subtração, \"vezes\" pode indicar uma multiplicação e
     \"dividido por\" pode indicar uma divisão.
 
-5)  Escreva equações: transforme as informações importantes do problema
+\num{5}  Escreva equações: transforme as informações importantes do problema
     em equações matemáticas. Use variáveis para representar quantidades
     desconhecidas.
 
-6)  Simplifique: tente simplificar as equações matemáticas tanto quanto
+\num{6}  Simplifique: tente simplificar as equações matemáticas tanto quanto
     possível. Isso pode ajudar a reduzir a complexidade do problema.
 
-7)  Resolva a equação: use as propriedades matemáticas para resolver as
+\num{7}  Resolva a equação: use as propriedades matemáticas para resolver as
     equações. Lembre-se de seguir as regras corretas de operações
     matemáticas.
 
-8)  Verifique sua resposta: certifique-se de que sua resposta faz
+\num{8}  Verifique sua resposta: certifique-se de que sua resposta faz
     sentido no contexto do problema. Verifique se você respondeu a todas
     as partes do problema e se a resposta está em um formato adequado.
 
@@ -2129,7 +2129,7 @@ height="1.7583333333333333in"}
 Fazer imagem semelhante
 
 Cada piso é formado por quatro retângulos iguais de lados 10 cm e (x +
-10) cm respectivamente, e um quadrado de lado igual a x cm.
+\num{0} cm respectivamente, e um quadrado de lado igual a x cm.
 
 Sabendo-se que a área de cada piso equivale a 900 cm² o valor de x, em
 centímetros, é
@@ -2905,7 +2905,7 @@ $- \frac{3}{4}4^{2} + 6 \cdot 4 = - 12 + 24 = 12$ horas.
 
 \colorsec{Treino}
 
-1)  Uma prestadora de serviços cobra pela visita à residência do cliente
+\num{1}  Uma prestadora de serviços cobra pela visita à residência do cliente
     e pelo tempo necessário para realizar o serviço na residência. O
     valor da visita é R\$ 60 e o valor da hora para realização do
     serviço é R\$ 35. Uma expressão que indica o valor a ser pago (P) em
@@ -2926,7 +2926,7 @@ de visita. P(x)=35h+60.
 
 Alternativa D
 
-2)  Uma aplicação tem valorização determinada pelo gráfico abaixo,
+\num{2}  Uma aplicação tem valorização determinada pelo gráfico abaixo,
     diante dos dados determine o valor no tempo 10 anos.
 
 ![Forma Descrição gerada automaticamente com confiança
@@ -2949,7 +2949,7 @@ d)  400 000
 >
 > Alternativa D.
 
-3)  Baseado no gráfico apresentado abaixo:
+\num{3}  Baseado no gráfico apresentado abaixo:
 
 ![Diagrama Descrição gerada
 automaticamente](./_SAEB_9_MAT/media/image156.png){width="1.7251498250218722in"
@@ -2984,7 +2984,7 @@ Montar nova figura
 
 O plano cartesiano tem os pontos indicado par ordenado (a, b). O valor
 **a** é a abscissa e **b** é a ordenada. Por exemplo, o ponto A é (2,
-3).
+\num{3}.
 
 2 -- Polígonos
 
@@ -3381,7 +3381,7 @@ X = 60º, A = B = 60º.
 
 2\. Um retângulo foi desenhado em um plano cartesiano, com altura
 determinada pelos vértices dos pontos A e B de coordenadas (1, 3) e (1,
-4), respectivamente. Além disso, sabe-se que um ponto M de coordenadas
+\num{4}, respectivamente. Além disso, sabe-se que um ponto M de coordenadas
 (3, 3) é o ponto médio da base do retângulo.
 
 Qual é a área desse retângulo?
