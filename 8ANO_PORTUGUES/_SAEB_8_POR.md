@@ -2554,17 +2554,17 @@ religião sobre o voto.
 Vale ressaltar que diferentes formas linguísticas presentes nos textos
 jornalísticos podem revelar parcialidade. Exemplos:
 
-\- trocar ofensas / xingar;
+*trocar ofensas / xingar;
 
-\- revisão de tarifas / atualização de tarifas / aumento de preços;
+*revisão de tarifas / atualização de tarifas / aumento de preços;
 
-\- pouso não programado da aeronave / pane;
+*pouso não programado da aeronave / pane;
 
-\- enriquecimento ilícito / roubo;
+*enriquecimento ilícito / roubo;
 
-\- insuficiência orçamentária / falta de dinheiro;
+*insuficiência orçamentária / falta de dinheiro;
 
-\- instituição financeira / banco.
+*instituição financeira / banco.
 
 **[ATIVIDADES]{.underline}**
 

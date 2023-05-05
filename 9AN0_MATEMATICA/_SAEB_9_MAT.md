@@ -1385,7 +1385,7 @@ Lutador A -- Lutador B = 4
 
 -1,8x = 4 +77 -- 91
 
-\- 1,8x = -10
+*  1,8x = -10
 
 x = 5,56
 
@@ -2672,22 +2672,22 @@ entre duas variáveis.
 
 [Função do 1º grau -- Itens importantes]{.underline}
 
-\- É do f(x) = ax + b. O coeficiente a é chamado de angular e b de
+*  É do f(x) = ax + b. O coeficiente a é chamado de angular e b de
 coeficiente linear.
 
-\- Gráfico é formada por uma reta, dados dois pontos no plano cartesiano
+*  Gráfico é formada por uma reta, dados dois pontos no plano cartesiano
 é possível determinar o gráfico da função.
 
-\- A função pode ser crescente (a \>0), decrescente (a\<0).
+*  A função pode ser crescente (a \>0), decrescente (a\<0).
 
 [Função do 2º grau -- Itens importantes]{.underline}
 
-\- É do f(x) = ax² + bx + c.
+*  É do f(x) = ax² + bx + c.
 
-\- Gráfico é formada por uma parábola. A parábola pode ter concavidade
+*  Gráfico é formada por uma parábola. A parábola pode ter concavidade
 para cima (a\>0) ou para baixo (a\<0).
 
-\- A função tem ponto de máxima quando a parábola tem a concavidade para
+*  A função tem ponto de máxima quando a parábola tem a concavidade para
 baixo, a função tem ponto de mínimo quando a parábola tem a concavidade
 para cima.
 
