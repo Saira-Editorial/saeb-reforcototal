@@ -100,9 +100,8 @@ instituições capazes de denunciar as irregularidades que ocorrem em seus
 territórios. É importante frisar que a lógica imposta pelo capital sobre o território é distinta da lógica imposta pelos indígenas, que pautam a
 subsistência.}
 
-\num{4} Leia os textos.
+\num{4} Leia o texto.
 
-**TEXTO 1**
 >\textbf{Ocupações em São Paulo}
 
 >“Realizamos uma assembleia ontem, mas não chegamos a uma conclusão. Hoje à noite, teremos outra para decidir se vamos ocupar ou não a escola.”, disse Douglas, de 17 anos, aluno do terceiro ano da Escola Estadual Diadema. O discurso dele parece uma repetição do passado. Há um ano, antes da escola ser a primeira a ser ocupada no Estado de São Paulo em protesto contra a reorganização escolar proposta pelo Governo Alckmin (PSDB), ele poderia ter dito exatamente a mesma coisa. Mas, na verdade, ele falou isso na semana passada, em frente à escola. Douglas mencionou a possibilidade de repetir um movimento que cresceu no final de 2015, culminando na derrubada do então secretário de Educação do Estado de São Paulo e na suspensão, pelo menos temporária, do projeto que fecharia 92 escolas.
@@ -202,297 +201,170 @@ A imagem faz parte de uma campanha sobre direitos humanos e, nela, lê-se em ing
 
 ##Treino
 
-\num{1} Leia o trecho da Constituição cidadã de 1988 que versa sobre a
-educação:
+\num{1} Leia os textos de artigos da Constituição Federal brasileira de 1988.
 
-Constituição Federal de 1988
+>[...]
 
-Art. 205. A educação, direito de todos e dever do Estado e da família,
+>Art. 205. A educação, direito de todos e dever do Estado e da família,
 será promovida e incentivada com a colaboração da sociedade, visando ao
 pleno desenvolvimento da pessoa, seu preparo para o exercício da
 cidadania e sua qualificação para o trabalho.
 
-Art. 206. O ensino será ministrado com base nos seguintes princípios:
+>Art. 206. O ensino será ministrado com base nos seguintes princípios:
+I. igualdade de condições para o acesso e permanência na escola;
 
-I -- igualdade de condições para o acesso e permanência na escola;
+>[...]
 
 Art. 208. O dever do Estado com a Educação será efetivado mediante a
 garantia de:
 
-III - atendimento educacional especializado aos portadores de
+>[...]
+>
+III. atendimento educacional especializado aos portadores de
 deficiência, preferencialmente na rede regular de ensino;
 
-IV - atendimento em creche e pré-escola às crianças de 0 a 6 anos de
+>IV - atendimento em creche e pré-escola às crianças de 0 a 6 anos de
 idade.
 
-Art. 213. Os recursos públicos serão destinados às escolas, podendo ser
+>[...]
+>
+>Art. 213. Os recursos públicos serão destinados às escolas, podendo ser
 dirigidos a escolas comunitárias, confessionais ou filantrópicas,
 definidas em lei, que:
 
-I -- comprovem finalidade não lucrativa e apliquem seus excedentes
-financeiros em educação.
+>I. comprovem finalidade não lucrativa e apliquem seus excedentes
+financeiros em educação;
 
-Qual das situações a seguir exemplifica o respeito a constituição?
+>[...]
 
-a)  Diminuição da qualidade do ensino médio público.
+
+Qual das situações a seguir exemplifica o respeito à Constituição segundo esses artigos?
+
+a)  Diminuição da qualidade do Ensino Médio público.
 
 b)  Investimento público em escolas particulares pagas.
 
-c)  Restrição de vagas destinadas a matrícula de crianças em creches.
+c)  Restrição de vagas destinadas à matrícula de crianças em creches.
 
 d)  Garantia de especialista para acompanhar crianças portadoras de
-    deficiências.
+    deficiência.
 
-```{=html}
-<!-- -->
-```
-a)  INCORRETA. A diminuição da qualidade do ensino frente ao ensino
-    privado desrespeitaria a igualdade de condições estabelecida pela
-    Constituição.
-
-b)  INCORRETA. Tal ação desrespeitaria a regra quem estabelece que o
-    dinheiro deve ser voltado para o investimento nos serviços públicos
-
-c)  INCORRETA. Tal ação contraria a previsão de fornecimento de
-    atendimento em creches para crianças de zero a 6 anos.
-
-d)  CORRETA. A garantia de atendimento educacional especializado é
-    prevista em lei, sendo portanto uma ação garantida pela
-    Constituição.
-
-(EF09HI23) Identificar direitos civis, políticos e sociais expressos na
+BNCC: EF09HI23 -- Identificar direitos civis, políticos e sociais expressos na
 Constituição de 1988 e relacioná-los à noção de cidadania e ao pacto da
 sociedade brasileira de combate a diversas formas de preconceito, como o
 racismo.
 
-e)  
+a)  Incorreta. A diminuição da qualidade do ensino público frente ao ensino
+    privado desrespeitaria a igualdade de condições estabelecida pela
+    Constituição.
+b)  Incorreta. Tal ação desrespeitaria a regra que estabelece que o
+    dinheiro deve ser voltado para o investimento nos serviços públicos.
+c)  Incorreta. Tal ação contraria a previsão de fornecimento de
+    atendimento em creches para crianças de 0 a 6 anos.
+d)  Correta. A garantia de atendimento educacional especializado é
+    prevista em lei, sendo portanto uma ação garantida pela
+    Constituição.
 
-\num{2} *A proporção de pessoas pretas ou pardas (que compõem a população
-negra) cursando o ensino superior em instituições públicas brasileiras
-chegou a 50,3% em 2018. Apesar desta parcela da população representar
-55,8% dos brasileiros, é a primeira vez que os pretos e pardos
-ultrapassam a metade das matrículas em universidades e faculdades
-públicas.*![](./imgSAEB_9_CHUM5/media/image1.png){width="1.0416666666666666e-2in"
-height="1.0416666666666666e-2in"}![](./imgSAEB_9_CHUM5/media/image1.png){width="1.0416666666666666e-2in"
-height="1.0416666666666666e-2in"}*\[\...\]*
+\num{2} Leia o texto.
 
-<https://agenciabrasil.ebc.com.br/geral/noticia/2019-11/pela-primeira-vez-negros-sao-maioria-no-ensino-superior-publico>
+>\textbf{Pela primeira vez, negros são maioria no ensino superior público}
+>\textit{Segundo o IBGE, as matrículas de pretos e pardos somam 50,3%}
+
+>A proporção de pessoas pretas ou pardas (que compõem a população negra) cursando o ensino superior em instituições públicas brasileiras chegou a 50,3% em 2018. Apesar [de essa] parcela da população representar 55,8% dos brasileiros, é a primeira vez que os pretos e pardos ultrapassam a metade das matrículas em universidades e faculdades públicas.
+
+>Os dados estão no informativo Desigualdades Sociais por Cor ou Raça no Brasil, divulgado [...] pelo Instituto Brasileiro de Geografia e Estatística (IBGE). A comparação foi feita com as informações do suplemento de educação da Pesquisa Nacional por Amostra de Domicílio - Contínua (Pnad Contínua), que começou a ser aplicado em 2016.
+
+>A pesquisa mostra que a população negra está melhorando seus índices educacionais, tanto de acesso como de permanência, apesar de ainda se manter bem atrás dos índices medidos entre as pessoas brancas.
+
+>A proporção de jovens de 18 a 24 anos pretos ou pardos no ensino superior passou de 50,5% em 2016 para 55,6% em 2018. Entre os brancos, a proporção é de 78,8%. Na mesma faixa etária, o número de pretos e pardos com menos de 11 anos de estudo e que não estavam frequentando a escola caiu de 30,8% em 2016 para 28,8% em 2018, enquanto o indicador para a população branca é de 17,4%.
+
+>[...]
+
+~Akemi Nitahara. Agência Brasil. Pela primeira vez, negros são maioria no ensino superior público. Disponível em: https://agenciabrasil.ebc.com.br/geral/noticia/2019-11/pela-primeira-vez-negros-sao-maioria-no-ensino-superior-publico. Acesso em: 05 maio 2023.~
 
 A melhor proporção entre população preta no ensino superior e população
-preta total demanda
+preta total demanda atuação
 
-a)  atuação do movimento negro na formulação de propostas que facilitem
-    o acesso a universidade, como apoio financeiro.
+a)  do movimento negro na formulação de propostas que facilitem
+    o acesso à universidade, como apoio financeiro.
 
-b)  atuação governamental na adequação dos espaços estudantil a uma
+b)  do governo na adequação dos espaços estudantiis a uma
     população religiosamente diferenciada, como salas especiais.
 
-c)  atuação empresarial na reestruturação da gestão das universidades
+c)  do empresariado na reestruturação da gestão das universidades
     públicas, como a terceirização do trabalho em pesquisa.
 
-d)  atuação da sociedade civil no sentido de gerar maior igualdades na
+d)  da sociedade civil no sentido de gerar maior igualdade na
     disputa pelas vagas universitárias, como o fim das cotas raciais.
 
-```{=html}
-<!-- -->
-```
-a)  CORRETA. Em razão da desproporcionalidade entre a população negra
+BNCC: EF09HI09 -- Relacionar as conquistas de direitos políticos, sociais e civis à atuação de
+movimentos sociais.
+
+a)  Correta. Em razão da desproporcionalidade entre a população negra
     total e a população negra matrículada na universidade, é preciso
     criar medidas que favoreçam a entrada dessa população na
-    universidade como, por exemplo, apoio financeiro para se manter na
-    universidade, essa desproporcionalidade é fruto da desigualdade de
-    condições construída ao longo da história para a população negra
+    universidade, como o apoio financeiro para se manter na
+    universidade.
 
-b)  INCORRETA. Não se menciona no texto o possível papel da
+b)  Incorreta. Não se menciona no texto o possível papel da
     religiosidade negra na desigualdade de acesso à universidade
     pública, não tendo, portanto, relação com o questionamento
     apresentado.
 
-c)  INCORRETA. Universidades públicas são geridas pelos governos, ou
-    seja, pelo estado, e não por entes privados como empresários, desta
+c)  Incorreta. Universidades públicas são geridas pelos governos, ou
+    seja, pelo Estado, e não por entes privados como empresários. Dessa
     maneira, a ação proposta pela alternativa é inexequível.
 
-d)  INCORRETA. O fim das cotas raciais iria dificultar ainda mais o
-    acesso da população negra a universidade, pois a população negra não
+d)  Incorreta. O fim das cotas raciais dificultaria ainda mais o
+    acesso da população negra à universidade, pois a população negra não
     teria nenhum benefício compensatório para fazer frente às
-    desigualdade de condições existente entre a população negra e
-    branca.
+    desigualdade de condições existente entre a população negra e a população branca.
 
-\num{3} *Na segunda metade de 1974, o povo kinja se reunia na aldeia Kramna
-Mudî para uma celebração típica dos índios waimiri atroari, na margem do
-rio Alalaú. "Já tinham chegado os visitantes de Camanaú e do Baixo
-Alalaú. O pessoal das aldeias do Norte ainda estava a caminho. A festa
-já estava começando com muita gente reunida", escreve o indigenista
-Egydio Schwade, um dos fundadores do Conselho Indigenista Missionário, a
-partir dos relatos de seus alunos no curso de alfabetização na aldeia.
-"Pelo meio-dia, um ronco de avião ou de helicóptero se aproximou. O
-pessoal saiu da maloca para ver. A criançada estava toda no pátio para
-ver. O avião derramou como que um pó. Todos menos um foram atingidos e
-morreram." Quando os aldeados do Norte chegaram à aldeia, depararam-se
-com ao menos 33 mortos. \[\...\]*
+\num{3} Leia o texto.
 
-*Bombardeios em ataques aéreos\[\...\] e destruição de locais sagrados
-eram outras formas de massacre por parte dos militares naquela reserva a
-partir de 1974. Tudo isso em nome do Plano de Integração Nacional (PIN)
-decretado pelo general Emílio Garrastazu Médici, que previa uma ocupação
-de 2 milhões de km^2^ na Amazônia. O genocídio dos waimiri atroari pela
-ditadura militar estendeu-se entre os anos 1960 e 1980, durante três
-grandes projetos dentro desta terra indígena (TI): a abertura da BR-174,
-a Manaus-Boa Vista; a construção da hidrelétrica de Balbina; e a atuação
-de mineradoras e garimpeiros interessados em explorar as jazidas em seu
-território.*
+>\textbf{Genocídio dos waimiri atroari: o massacre indígena durante a ditadura militar}
 
-<https://www.nationalgeographicbrasil.com/historia/2019/04/ditadura-militar-waimiri-atroari-massagre-genocidio-aldeia-tribo-amazonia-indigena-indio-governo>
+>Na segunda metade de 1974, a aldeia Kramna Mudî, onde o povo kinja se reunia para uma celebração típica dos índios waimiri atroari, foi palco de um massacre que vitimou ao menos 33 pessoas. Segundo relatos do indigenista Egydio Schwade, um avião derramou um pó que atingiu a maioria dos presentes na festa, deixando-os paralisados e doentes. Homens brancos invadiram a aldeia por terra, com facas e revólveres, enquanto os parentes dos sobreviventes vinham a óbito. Esse massacre fazia parte de uma série de atrocidades cometidas pelos militares na reserva waimiri atroari durante os anos 1960 e 1980, em nome do Plano de Integração Nacional (PIN), que previa a ocupação de 2 milhões de quilômetros quadrados na Amazônia. O genocídio dos waimiri atroari envolveu a abertura da BR-174, a construção da hidrelétrica de Balbina e a atuação de mineradoras e garimpeiros que buscavam explorar as jazidas em seu território.
 
-Conflitos como o retratado contrapõe
+~Fonte de pesquisa: Kevin Damasio. National Geographic Brasil. Ditadura militar quase dizimou os waimiri atroari – e índígenas temem novo massacre. Disponível em: https://www.nationalgeographicbrasil.com/historia/2019/04/ditadura-militar-waimiri-atroari-massagre-genocidio-aldeia-tribo-amazonia-indigena-indio-governo. Acesso em: 05 maio 2023.
 
-a)  Modos de vida sustentáveis e espacialização de poderes autoritários.
+Conflitos como o retratado contrapõem
 
-b)  Circuitos econômicos industriais e circuitos econômicos agrários.
+a)  modos de vida sustentáveis e espacialização de poderes autoritários.
 
-c)  Execução de direitos humanos básicos e atraso econômico
+b)  circuitos econômicos industriais e circuitos econômicos agrários.
 
-d)  Populações negras e populações urbanas brancas.
+c)  execução de direitos humanos básicos e atraso econômico.
 
-```{=html}
-<!-- -->
-```
-a)  **CORRETA. As populações indígenas costumam conviver em maior
-    Harmonia com ambiente natural, sendo tidas como populações
-    praticantes de modos de vida sustentáveis, no contexto apresentado,
+d)  populações negras e populações urbanas brancas.
+
+BNCC: EF09HI21 -- Identificar e relacionar as demandas indígenas e quilombolas
+como forma de contestação ao modelo desenvolvimentista da ditadura.
+
+a)  Correta. As populações indígenas costumam conviver em maior
+    harmonia com o ambiente natural, sendo tidas como populações
+    praticantes de modos de vida sustentáveis. No contexto apresentado,
     os poderes autoritários do regime militar promoveram o massacre
-    contra a população indígena, assim existiu neste contexto uma
-    oposição entre o modo de vida indígena e expansão do domínio
-    territorial na ditadura militar.**
+    contra a população indígena, de modo que existiu uma
+    oposição entre o modo de vida indígena e a expansão do domínio
+    territorial na ditadura militar.
 
-b)  **INCORRETA. Não se menciona no texto a instalação de indústrias,
-    mas principalmente a abertura de estradas.**
+b)  Incorreta. Não se menciona no texto a instalação de indústrias,
+    mas principalmente a abertura de estradas.
 
-c)  **INCORRETA. Como menciona a reportagem, o regime militar promoveu
+c)  Incorreta. Como se menciona no texto, o regime militar promoveu
     massacres contra a população indígena, desrespeitando o direito
-    dessas populações fizerem em paz nas suas terras.**
+    de essas populações viverem em paz em suas terras.
 
-d)  **INCORRETA. As populações indígenas não são classificados como
+d)  Incorreta. As populações indígenas não são classificados como
     populações negras.**
 
-(EF09HI21) Identificar e relacionar as demandas indígenas e quilombolas
-como forma de contestação ao modelo desenvolvimentista da ditadura.
+
 
 Simulado
 
 
-3. 
-==
 
-Por que tantos negros são alvo de prisão injusta com base em
-reconhecimentos
-
-#### Praticados fora das normas pelas polícias, e até por Whatsapp, reconhecimentos são usados pela Justiça como prova única para condenar réus negros
-
-![Uma imagem contendo Texto Descrição gerada
-automaticamente](./imgSAEB_9_CHUM5/media/image4.jpeg){width="3.454096675415573in"
-height="1.9748140857392826in"}
-
-Ilustração: Antônio Junião / Ponte
-
-*Em 2017, um reconhecimento feito por foto, de maneira irregular, mudou
-a vida de [Barbara
-Querino](https://ponte.org/barbara-querino-a-babiy-como-a-justica-condenou-uma-jovem-negra-sem-provas/),
-22 anos. A modelo e dançarina, conhecida como Babiy, foi fotografa por
-policiais militares no dia em que seu irmão e seu primo foram presos,
-apesar de a jovem não ter qualquer participação com o crime.*
-
-*Essa imagem circulou em [grupos de WhatsApp e páginas do
-Facebook](https://ponte.org/quem-sao-os-responsaveis-por-barbara-querino-inocente-passar-quase-dois-anos-presa/),
-em mensagens que a apresentavam falsamente como membro de uma quadrilha
-de assaltantes de carros que atuava na zona sul da cidade de São Paulo.
-Babiy foi presa em janeiro de 2018 acusada de participar de dois roubos
-em setembro de 2017. Permaneceu presa [1 ano e 8
-meses](https://ponte.org/sou-a-prova-viva-de-que-o-brasil-e-racista-diz-babiy-sobre-sua-prisao/),
-mesmo apresentando provas de que não cometeu os crimes. Em 2020, a
-dançarina foi [absolvida definitivamente das
-acusações](https://ponte.org/condenada-sem-provas-barbara-querino-e-absolvida-pela-segunda-vez/).*
-\[\...\]
-
-<https://ponte.org/por-que-tantos-negros-sao-alvo-de-prisao-injusta-com-base-em-reconhecimentos/>
-
-Acontecimentos como o relatado são um claro desrespeito a declaração
-universal dos direitos humanos que estabelece que ninguém será
-
-a)  mantido em escravidão ou servidão.
-
-b)  arbitrariamente preso, detido ou exilado.
-
-c)  submetido à tortura, nem a tratamento cruel.
-
-d)  arbitrariamente privado de sua nacionalidade.
-
-INCORRETA. A reportagem fala sobre uma prisão injustas e não sobre fatos
-análogos à escravidão.
-
-CORRETA. A modelo mencionada na reportagem foi presa sem ter praticado
-nenhum crime com base em supostas provas forjadas pelas forças policiais
-que contraria um dos artigos da declaração universal dos direitos
-humanos que diz que ninguém será arbitrariamente preso ou detido ou
-exilado.
-
-INCORRETA. Não há menção a t tortura na reportagem, mas sim a uma prisão
-injusta.
-
-INCORRETA. A modelo foi presa no Brasil sendo Brasileira, portanto não
-se trata de privação da nacionalidade.
-
-(EF09HI16) Relacionar a Carta dos Direitos Humanos ao processo de
-afirmação dos direitos fundamentais e de defesa da dignidade humana,
-valorizando as instituições voltadas para a defesa desses direitos e
-para a identificação dos agentes responsáveis por sua violação.
-
-Explora ainda questões da diversidade humana, ligada à atuação para uma
-cultura de paz, com a devida valorização dos direitos humanos.
-
-\num{4} *Os Sistemas Agroflorestais (SAFs) permitem aos agricultores
-familiares conciliar a produção de alimentos com a gestão das riquezas
-naturais de cada bioma. Na Bahia, associados à CONAFER, indígenas da
-etnia Pataxó, do território Barra Velha, município de Porto Seguro, a
-629 km de Salvador, receberam do grupo ambiental Natureza Bela apoio
-para a implantação do corredor ecológico Monte Pascoal-Pau-Brasil, com a
-recuperação de uma área de mais de 50 hectares de terra, por meio da
-produção agroecológica de alimentos no Sistema Agroflorestal (SAF). *
-
-<https://conafer.org.br/povos-conafer-agricultores-pataxo-aliam-producao-de-alimentos-com-reflorestamento-via-safs/>
-
-Devido a prática de agricultura ecológica, a população Pataxó necessita,
-primordialmente
-
-a)  empréstimos bancários.
-
-b)  qualificação na área industrial.
-
-c)  Áreas completamente florestadas.
-
-d)  território disponível para o plantio.
-
-INCORRETA. Apesar de empréstimos comporem quase sempre o circuito da
-agricultura, a prática agroecológica por si não precisa de empréstimos
-para ser efetivada.
-
-INCORRETA. Como o contexto fala de expansão de cultivos, tal alternativa
-não se impõe como uma necessidade.
-
-INCORRETA. Como se mencionam cultivos, as áreas totalmente florestadas
-não seriam úteis.
-
-CORRETA. A população Pataxó precisa de áreas para o plantio, já que,
-conforme a notícia, estão desenvolvendo cultivos agrícolas.
-
-(EF09HI21) Identificar e relacionar as demandas indígenas e quilombolas
-como forma de
-
-contestação ao modelo desenvolvimentista da ditadura.
-
-Trata dos esforços de participação social de segmentos excluídos e suas
-estratégias reivindicatórias ante o Estado, considerando os distintos
-interesses que os constituem.
 
 \num{5} *Em depoimento à Comissão Nacional da Verdade, Davi Kopenawa, líder
 yanomami, relembrou o descaso do governo durante a realização de grandes
