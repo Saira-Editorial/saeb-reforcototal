@@ -1,8 +1,6 @@
-**Módulo 1: Conjuntos Numéricos**
+# Módulo 1: Conjuntos Numéricos
 
-RESUMO TEÓRICO
-
-Os números racionais e irracionais são duas categorias de números
+\conteudo{Os números racionais e irracionais são duas categorias de números
 importantes na matemática.
 
 Os números racionais são todos aqueles que podem ser escritos na forma
@@ -24,9 +22,9 @@ geometria e para outras áreas da matemática.
 Em resumo, os números racionais são aqueles que podem ser escritos na
 forma de fração, enquanto os números irracionais são aqueles que não
 podem. Ambos os tipos de números são importantes e estão presentes em
-diversas áreas da matemática e da ciência.
+diversas áreas da matemática e da ciência.}
 
-Atividades
+\colorsec{Atividades}
 
 1)  Escreva se os números abaixo são Racionais (Q) ou Irracionais (I)
 
@@ -56,9 +54,7 @@ d)  A raiz quadrada de 7 não é exata, está entre os números naturais 2 e
 e)  Este número trata-se de uma dízima **não** periódica, ou seja,
     irracional.
 
-```{=html}
-<!-- -->
-```
+
 2)  Localize na reta aproximadamente os locais correspondentes aos
     valores abaixo:
 
@@ -156,9 +152,7 @@ Colocar uma linha para a resposta
 8)  Decomponha os números abaixo em fatores primos: Deixar espaço na
     frente de cada item para responder
 
-```{=html}
-<!-- -->
-```
+
 a)  256
 
 b)  1250
@@ -173,15 +167,11 @@ b)  1250 = 2 · 5^4^
 
 c)  4800 = 2^6^ · 3 · 5^2^
 
-```{=html}
-<!-- -->
-```
+
 9)  Escreva o número que corresponde a cada fatoração em números primos:
     Deixar espaço na frente de cada item para responder
 
-```{=html}
-<!-- -->
-```
+
 a)  
 b)  
 
@@ -191,9 +181,7 @@ a)  360
 
 b)  4725
 
-```{=html}
-<!-- -->
-```
+
 10) Ao fazer a decomposição de 336 em fatores primos, Thiago chegou a
     seguinte expressão . Qual o valor que Thiago deve colocar no lugar
     de x?
@@ -204,14 +192,12 @@ b)  4725
 
 Como o número 336 = 2^4^ · 3 · 7, temos que x é igual a 4
 
-> Treino
+\colorsec{Treino}
 
 1)  Se o número tem exatamente 60 divisores positivos então o valor e x
     é:
 
-```{=html}
-<!-- -->
-```
+
 a)  5
 
 b)  4
@@ -258,9 +244,7 @@ c)  Falso, 2 é par e não é múltiplo de 6.
 d)  Verdadeiro, como o 12 é par todo múltiplo deste número terá o
     fator 2.
 
-```{=html}
-<!-- -->
-```
+
 3)  Na reta numérica abaixo, há quatro valores indicados pelas letras A,
     B, C e D. Qual destas letras indica a localização do número 1,6?
 
@@ -283,9 +267,9 @@ d)  **D**
 O item D, pois entre os números 1 e 2 temos 9 marcações e a letra D está
 na sexta marcação, o que corresponde a 1,6.
 
-**Módulo 2: Operações**
+# Módulo 2: Operações
 
-RESUMO TEÓRICO
+\conteudo{...}
 
 O conjunto dos números reais é a união entre o conjunto dos números
 racionais e o conjunto dos números irracionais, sendo assim, o número
@@ -344,7 +328,7 @@ iguais sucessivas vezes, a radiciação procura quais são esses elementos.
 Por exemplo, 8² = 64, desta forma podemos dizer que a raiz quadrada de
 64 é 8.
 
-Atividades
+\colorsec{Atividades}
 
 1)  Urano é o sétimo planeta do Sol e é o terceiro maior no sistema
     solar. Foi descoberto por William Herschel em 1781. Tem um diâmetro
@@ -414,7 +398,7 @@ Dado que o custo por unidade é de R\$ 0,40 e o valor de venda é R\$ 1,00
 temos um lucro por unidade de R\$ 0,60. Desta forma 90 : 0,60 = 150
 maçãs.
 
-5)  Uma xícara com leite pesa 420 g, porém se bebermos metade do leite
+\num{5}  Uma xícara com leite pesa 420 g, porém se bebermos metade do leite
     ele passa a pesar 230 g.
 
 Qual o peso da xícara vazia?
@@ -428,7 +412,7 @@ percebemos que houve uma redução de 190 g, ou seja, esta é massa ocupada
 por metade do leite, desta forma o leite tem a massa de 190 · 2 = 380 g
 e a xícara 420 -- 380 = 40 gramas.
 
-6)  "A NGC 4151 está localizada a cerca de 43 milhões de anos-luz da
+\num{6}  "A NGC 4151 está localizada a cerca de 43 milhões de anos-luz da
     Terra e se enquadra entre as galáxias jovens que possui um buraco
     negro em intensa atividade. Mas ela não é só lembrada por esses
     quesitos. A NGC 4151 é conhecida por astrônomos como o 'olho de
@@ -457,7 +441,7 @@ BNCC: EF09MA04 SAEB: 9N1.4
 
 43 milhões representa 43 000 000, ou seja, 43 · 10^6^ ou 4,3 · 10^7^.
 
-7)  Um professor de Educação Física quer mesclar os jogos que são
+\num{7}  Um professor de Educação Física quer mesclar os jogos que são
     oferecidos para suas turmas e com isso estabeleceu uma regularidade
     de repetição dos esportes das turmas. O futebol acontece a cada 30
     dias, os de basquete a cada 45 dias e os de handebol, a cada 60
@@ -476,7 +460,7 @@ Determinando o MMC (30, 45, 60) = 180
 
 Ocorrerá após 180 dias.
 
-8)  Durante uma campanha de arrecadação de alimentos motivados por uma
+\num{8}  Durante uma campanha de arrecadação de alimentos motivados por uma
     gincana na escola a turma da Larissa arrecadou: 288 pacotes de
     feijão, 96 pacotes de açúcar, 360 pacotes de arroz e 240 pacotes de
     fubá. Larissa recorreu a seus conhecimentos matemáticos para
@@ -512,9 +496,7 @@ serão de 60 cm.
 
 10) Simplificando a expressão encontramos:
 
-```{=html}
-<!-- -->
-```
+
 a)  2
 
 b)  4
@@ -529,7 +511,7 @@ d)  **8**
 >
 > d
 
-**Treino**
+\colorsec{Treino}
 
 1)  Fernando faz caminhada a cada 4 dias. Thiago, vizinho de Fernando,
     faz caminhada no mesmo parque, a cada 6 dias. Considerando que
@@ -618,9 +600,9 @@ BNCC: EF09MA04 SAEB: 9N1.4
 
 $150 \cdot \frac{1}{1000000000} = \ 150 \cdot \frac{1}{10^{9}} = 150 \cdot 10^{- 9} = 1,5 \cdot 10^{- 7}m$
 
-**Módulo 3: Frações (associadas a imagens e fração geratriz)**
+# Módulo 3: Frações (associadas a imagens e fração geratriz)
 
-RESUMO TEÓRICO
+\conteudo{...}
 
 A fração geratriz é aquela que quando calculamos seu valor decimal,
 obtemos como resultado será uma dízima periódica (número decimal
@@ -678,7 +660,7 @@ x = 0,5123123123\...
 
 $x = \frac{5118}{9990}$.
 
-Atividades
+\colorsec{Atividades}
 
 1)  Dados dois números reais x e y, tais que x = 2,333\... e y =
     0,151515\... são dízimas periódicas. Qual a fração representa a soma
@@ -771,9 +753,7 @@ $$\frac{2}{7} + \frac{5}{8} = \frac{16 + 35}{56} = \frac{51}{56}$$
 
 7)  Qual das imagens abaixo representa 4 décimos?
 
-```{=html}
-<!-- -->
-```
+
 a)  ![Gráfico, Gráfico de barras Descrição gerada
     automaticamente](./_SAEB_9_MAT/media/image47.png){width="1.0625in"
     height="1.2878783902012247in"}
@@ -854,13 +834,11 @@ d)  Augusto e Cadu.
 > As frações equivalentes são as que representam a quantidade da Alice e
 > Augusto, pois $\frac{4}{5} = \frac{12}{15}$.
 
-Treino
+\colorsec{Treino}
 
 1)  A dízima periódica 0,126126\... é representada pela fração:
 
-```{=html}
-<!-- -->
-```
+
 a)  $\frac{126}{1000}$
 
 b)  $\frac{14}{111}$
@@ -878,9 +856,7 @@ d)  $\frac{63}{99}$
 2)  O número x, de forma a que as frações
     $\frac{12}{37} = \frac{x}{111}$ sejam equivalentes é:
 
-```{=html}
-<!-- -->
-```
+
 a)  12
 
 b)  24
@@ -938,9 +914,9 @@ ou seja, Juca comeu 14 pedaços dos 35 disponíveis. A fração que ele
 comeu de chocolate foi $\frac{14}{35} = \frac{2}{5}$ que está
 representada na alternativa b.
 
-**Módulo 4: Porcentagem: Aumentos e Descontos**
+# Módulo 4: Porcentagem: Aumentos e Descontos
 
-RESUMO TEÓRICO
+\conteudo{...}
 
 Para determinar aumentos ou descontos sucessivos utilizamos o fator de
 correção. O fator de correção é dado por F = (1 + i), onde i é a taxa
@@ -968,7 +944,7 @@ fazer:
 (1 + 0,1) · (1 + 0,15) = 1,265 → 1 + 0,265 , ou seja, um aumento de
 26,5% no total.
 
-Atividades
+\colorsec{Atividades}
 
 1)  Em um período de alta inflação os itens da cesta básica tiveram um
     aumento de 75%.
@@ -1163,7 +1139,7 @@ BNCC: EF09MA05 SAEB: 9N2.3
 (1 +0,2) · (1 - 0,15) = 1,2 · 0,85 = 1,02. Desta forma podemos afirmar
 que tivemos um aumento de 2%.
 
-Treino
+\colorsec{Treino}
 
 1)  Jorge comprou uma televisão por R\$ 2.150,00 para pagar em duas
     parcelas. A primeira parcela que corresponde a 30% do preço da
@@ -1233,9 +1209,9 @@ d)  404,32
 >
 > (1 -- 0,2) · (1 -- 0,05) · 560 = 0,8 · 095 · 560 = 425,60.
 
-**Módulo 5: Equação do 1º grau**
+# Módulo 5: Equação do 1º grau
 
-RESUMO TEÓRICO
+\conteudo{...}
 
 A equação do primeiro grau refere-se a toda expressão algébrica que
 possui incógnita com grau 1. Uma sentença Matemática que pode ser
@@ -1298,7 +1274,7 @@ matemáticos em geral:
     sentido no contexto do problema. Verifique se você respondeu a todas
     as partes do problema e se a resposta está em um formato adequado.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Com o objetivo de juntar um dinheiro para a formatura Jorge começou
 a produzir doces para revender. Cada receita é composta de kg de
@@ -1388,7 +1364,7 @@ BNCC: - SAEB: 9A2.3
 4\) Dois lutadores MMA de categorias diferentes foram desafiados para
 disputar o cinturão de uma categoria intermediária às suas atuais. Um
 deles tinha 91 kg e o outro tinha 77 kg. Eles foram submetidos a uma
-intensa jornada de treinos, em que, a cada semana que se passava, o
+\colorsec{Treino}
 primeiro perdia 1,2 kg, enquanto o outro ganhava 0,6 kg. Logo após esse
 período de preparação, a diferença de massa entre os dois atletas era de
 apenas 4 kg.
@@ -1527,7 +1503,7 @@ x + 3x = 350
 
 x = 87,5 km até a parada e depois percorreu 350 -- 87,5 = 262,5 km.
 
-Treino
+\colorsec{Treino}
 
 1\) Aos domingos é comum em algumas cidades termos ciclovias, onde as
 famílias se reúnem para um passeio ciclístico. Uma locadora de bicicleta
@@ -1594,9 +1570,9 @@ x+2 = 12
 
 10·11·12 = 1 320
 
-**Módulo 6: Sequências e Expressões Algébricas**
+# Módulo 6: Sequências e Expressões Algébricas
 
-RESUMO TEÓRICO
+\conteudo{...}
 
 Sequências numéricas são conjuntos ordenados de números que seguem um
 padrão ou uma regra específica. Essas sequências podem ser finitas ou
@@ -1639,7 +1615,7 @@ sucessivamente teremos a sequência: (4, 7, 10, 13, 16, 19, \...).
 A sequencia numérica pode ser classificada como: Crescente, Decrescente
 ou constante.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Matheus montou figuras com palitos de fósforo. Na 1ª figura, montou
 um triângulo e, nas etapas seguintes, foi acrescentando triângulos
@@ -1890,7 +1866,7 @@ naturais:
 
 1², 2², 3² \... y = n².
 
-Treino
+\colorsec{Treino}
 
 1\) Renato colecionou figurinhas da copa do mundo, hoje se ganhar mais 8
 a quantidade ficará igual ao dobro da quantidade de figurinhas que
@@ -1975,9 +1951,9 @@ Montando a equação, sabemos que:
 
 x=17
 
-**Módulo 7: Equações do 2º grau**
+# Módulo 7: Equações do 2º grau
 
-RESUMO TEÓRICO
+\conteudo{...}
 
 Chamamos de equação do segundo grau as equações do tipo ax² + bx + c = 0
 com a, b e c ∈ R, em que **a** é diferente de zero.
@@ -2035,7 +2011,7 @@ c.  x² -- 5x = 0: também é uma equação incompleta de grau 2, com a = 9,
 
 d.  5x² -- 4 = 0: equação do segundo grau, com a = 5, b = 0, c = --4.
 
-Atividades
+\colorsec{Atividades}
 
 1\) O IMC (Índice de Massa Corporal) é um padrão internacional de
 cálculo da obesidade de um indivíduo adotado pela OMS (Organização
@@ -2290,7 +2266,7 @@ x = - 5 ou x = 3
 
 O número é 3.
 
-Treino
+\colorsec{Treino}
 
 1\) Em uma empresa, o custo de produção, em milhares de reais, de n
 peças iguais é calculado pela expressão C(n) = n² -- n + 10.
@@ -2366,11 +2342,10 @@ x = 12
 
 Única raiz, ou seja, são gêmeos.
 
-**Módulo 8: Grandezas Direta e Inversamente Proporcionais**
+# Módulo 8: Grandezas Direta e Inversamente Proporcionais
 
-RESUMO TEÓRICO
-
-[Grandeza Diretamente Proporcional]{.underline}
+\conteudo{
+    [Grandeza Diretamente Proporcional]
 
 Dizemos que duas grandezas x e y são diretamente proporcionais quando a
 razão (divisão) entre x e y sempre dá o mesmo resultado, ou seja, é
@@ -2422,8 +2397,9 @@ Com o mesmo índice de rendimento de produtividade de cada máquina
   **Máquinas**       2    4    8    16
   ------------------ ---- ---- ---- ----
   **Tempo (dias)**   80   40   20   10
+}
 
-Atividades
+\colorsec{Atividades}
 
 1\) Uma máquina produz 5 peças a cada 40 segundos. A tabela a seguir
 mostra a quantidade de peças que são produzidas em termo da quantidade
@@ -2605,7 +2581,7 @@ BNCC: EF09MA07 e EF09MA08 SAEB: 9A2.1
 $\frac{8}{x} = \frac{50}{80} \cdot \frac{16}{10} \rightarrow \frac{8}{x} = \frac{1}{1} \cdot \frac{2}{2} \rightarrow x = 8$,
 a quantidade de dias permanecerá a mesma.
 
-**Treino**
+\colorsec{Treino}
 
 1\) Um campeonato entre escolas foi promovido. Com isso separou-se
 algumas salas que foram organizadas. Para arrumar tais salas, seis
@@ -2682,9 +2658,9 @@ minutos.
 
 Alternativa c.
 
-**Módulo 9: Função do 1º e 2º grau**
+# Módulo 9: Função do 1º e 2º grau
 
-RESUMO TEÓRICO
+\conteudo{...}
 
 A função do 1º grau é uma função linear que pode ser escrita na forma
 f(x) = ax + b, onde a e b são constantes reais. É uma função que
@@ -2720,7 +2696,7 @@ para cima (a\>0) ou para baixo (a\<0).
 baixo, a função tem ponto de mínimo quando a parábola tem a concavidade
 para cima.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Uma empresa de transportes calcula o preço a ser cobrado de acordo
 com a distância percorrida entre a coleta e a entrega dos objetos. O
@@ -2927,7 +2903,7 @@ BNCC: EF09MA06 SAEB: 9A2.4
 Como a altura máxima foi atingida no tempo de 4 horas. h(4) =
 $- \frac{3}{4}4^{2} + 6 \cdot 4 = - 12 + 24 = 12$ horas.
 
-Treino
+\colorsec{Treino}
 
 1)  Uma prestadora de serviços cobra pela visita à residência do cliente
     e pelo tempo necessário para realizar o serviço na residência. O
@@ -2994,9 +2970,9 @@ d)  (4,-3)
 > Pelo gráfico podemos localizar o ponto mais alto do gráfico e
 > determinar seu par ordenado que é (2,1). Alternativa B.
 
-**Módulo 10: Geometria Plana I**
+# Módulo 10: Geometria Plana I
 
-RESUMO TEÓRICO
+\conteudo{...}
 
 1 -- Plano Cartesiano
 
@@ -3065,7 +3041,7 @@ Fazer imagem semelhante
 
 -   Raio -- segmento de reta entre o centro a e borda da circunferência.
 
-Atividades
+\colorsec{Atividades}
 
 1\. Escreva as coordenadas dos A, B e C.
 
@@ -3253,7 +3229,7 @@ circunferência.
 ABD é um ângulo **inscrito**. Porque o vértice está sobre a
 circunferência.
 
-**Treino**
+\colorsec{Treino}
 
 1\. Considere um poliedro convexo que possui oito vértices e apenas
 faces triangulares e quadrangulares. Sabe-se que o número de faces
@@ -3317,9 +3293,9 @@ BNCC: - SAEB: 9G1.4
 Entre todas as figuras listadas temos que apenas o quadrado tem ângulos
 internos iguais e lados iguais, por isso o único regular.
 
-**Módulo 11: Geometria II**
+# Módulo 11: Geometria II
 
-RESUMO TEÓRICO
+\conteudo{...}
 
 1 -- Triângulos
 
@@ -3381,7 +3357,7 @@ height="1.3968044619422573in"}
 
 Refazer a figura
 
-Atividades
+\colorsec{Atividades}
 
 1\. Determine o valor de x e os valores dos ângulos A e B.
 
@@ -3581,7 +3557,7 @@ Temos que x = 60º e y = 90º. Desta forma α será igual a:
 α + 90 + 90 + 60 = 360, pois fecha a circunferência. Logo podemos
 afirmar que α = 120º.
 
-Treino
+\colorsec{Treino}
 
 1\. Um portão é formado por barras de fecho:
 
@@ -3671,9 +3647,9 @@ Assim temos:
 
 Alternativa C.
 
-**Módulo 12: Deslocamento usando coordenadas**
+# Módulo 12: Deslocamento usando coordenadas
 
-RESUMO TEÓRICO
+\conteudo{...}
 
 **Localização e movimentação**
 
@@ -3935,7 +3911,7 @@ BNCC: - SAEB 9G2.1
 
 90 + 153 + 121 + 239 + 117 = 720 km.
 
-Treino
+\colorsec{Treino}
 
 1\. Observe a imagem:
 
@@ -3994,9 +3970,9 @@ BNCC: - SAEB 9G2.1
 
 Alternativa A. Subiu 3 quadras Norte e 2 quartas Leste.
 
-**Módulo 13: Estatística**
+# Módulo 13: Estatística
 
-RESUMO TEÓRICO
+\conteudo{...}
 
 A moda, a média e a mediana são medidas de tendência central usadas na
 estatística para resumir um conjunto de dados.
@@ -4028,7 +4004,7 @@ Em geral, a escolha da medida de tendência central depende da natureza
 dos dados e do objetivo da análise estatística. Cada medida pode ser
 útil em diferentes contextos e situações.
 
-Atividades
+\colorsec{Atividades}
 
 a)  Complete a frase
 
@@ -4248,7 +4224,7 @@ Novembro: 2 · 200 + 150 = 550
 
 Dezembro: 4 · 200 = 800
 
-Treino
+\colorsec{Treino}
 
 f)  Um studio de danças fez pesquisa sobre as suas turmas
 
@@ -4334,9 +4310,9 @@ celular quando comparado com os outros meios de acesso.
 
 Alternativa c.
 
-**Módulo 14: Unidades de medida**
+# Módulo 14: Unidades de medida
 
-RESUMO TEÓRICO
+\conteudo{...}
 
 As unidades de medidas de comprimento surgem para padronizar as medidas
 de distância. Existem várias unidades de medidas de comprimento, a
@@ -4383,7 +4359,7 @@ IMPORTANTE
 
 1 dm³ = 1 Litro
 
-Atividades
+\colorsec{Atividades}
 
 1\. Nanômetro (nm) é uma unidade de medida que equivale a um bilionésimo
 de 1 metro e que tem grande relevância na indústria de semicondutores.
@@ -4547,7 +4523,7 @@ Calculando a expectativa de pessoas temos:
 
 70 · 2 · 300 = 42 000 ml = 42 litros = 21 garrafas de 2 litros.
 
-Treino
+\colorsec{Treino}
 
 1\. Para fazer um determinado prato, Alessandra precisa de 1 kg de carne
 para cada receita. Ao tirar o pacote de carne da geladeira, vê que ele
@@ -4629,9 +4605,9 @@ Calculando o volume do cilindro instalado como reservatório temos:
 $V = {1,5}^{2} \cdot 3,14 \cdot 3 = 21,195\ m³$, ou seja, 21 195 litros,
 o que atendeu a demanda com a sobra de 1 195 litros. Alternativa B.
 
-**Módulo 15: Probabilidade**
+# Módulo 15: Probabilidade
 
-RESUMO TEÓRICO
+\conteudo{...}
 
 Probabilidade é o estudo das chances de obtenção de cada resultado de um
 experimento aleatório. A essas chances são atribuídos os números reais
@@ -4666,7 +4642,7 @@ Espaço Amostral: {1, 2, 3, 4, 5 e 6}
 
 $P\left( A \right) = \frac{5}{6}$.
 
-Atividades
+\colorsec{Atividades}
 
 1\. Um dado foi construído com duas faces 4 e nenhuma face 3. Ao lançar
 o dado qual a probabilidade de sair o número 4?
@@ -4842,15 +4818,14 @@ assim temos que:
 
 $$P\left( A \right) = \frac{60}{300} = \frac{1}{5}.$$
 
-Treino
+
+\colorsec{Treino}
 
 1.  Numa cidade, 56% dos habitantes são mulheres. Destas, 2,8% têm olhos
     azuis e 2,2% dos homens, olhos da mesma cor. A probabilidade de uma
     pessoa nessa cidade, escolhida ao acaso, ter olhos azuis é cerca de:
 
-```{=html}
-<!-- -->
-```
+
 a)  0,6%
 
 b)  1,4%
@@ -4878,9 +4853,7 @@ Alternativa d.
     50 reais. No caso de um saque de 400 reais, a probabilidade do
     número de cédulas entregues ser ímpar é igual a:
 
-```{=html}
-<!-- -->
-```
+
 a)  25%
 
 b)  40%
@@ -4917,9 +4890,7 @@ d)  60%
     forem retiradas sucessivamente, sem reposição, a probabilidade de
     que elas sejam de mesma cor é mais próxima de:
 
-```{=html}
-<!-- -->
-```
+
 a)  10%
 
 b)  15%
@@ -5914,9 +5885,7 @@ Simulado 3
 
 1.  O número $\sqrt{8} + \sqrt{18}$ pode ser escrito como:
 
-```{=html}
-<!-- -->
-```
+
 a)  $\sqrt{26}$
 
 b)  $2\sqrt{13}$
@@ -6376,9 +6345,7 @@ Simulado 4
 
 1.  O número $\sqrt{12}$ é um número:
 
-```{=html}
-<!-- -->
-```
+
 a)  Natural
 
 b)  Inteiro
