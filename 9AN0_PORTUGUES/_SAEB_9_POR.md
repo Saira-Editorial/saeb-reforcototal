@@ -1051,22 +1051,20 @@ solidariedade deve ser tão importante quanto uma lei.
 d\) Incorreta. Não existe a explicitação dessa ideia no discurso de
 formatura.
 
-# 4.
+# 4. Quem lê tanta notícia?
 
-Neste módulo, os alunos vão ler, interpretar e identificar os elementos
-que compõem o gênero textual notícia; reconhecer as entrelinhas da
-notícia para analisar os diferentes graus de
-neutralidade/parcialidade/imparcialidade.
+Habilidades do SAEB
 
-Habilidades da BNCC: EF69LP16, EF69LP43, EF89LP05.
-
-Habilidades do SAEB:
-
-*  Analisar efeitos de sentido produzido pelo uso de formas de
+1. Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
 
-*  Analisar os efeitos de sentido decorrentes dos mecanismos de
+1. Analisar os efeitos de sentido decorrentes dos mecanismos de
 construção de textos jornalísticos/midiáticos.
+
+Habilidades da BNCC
+1. EF69LP16
+1. EF69LP43
+1. EF89LP05.
 
 Notícia
 
@@ -1080,50 +1078,47 @@ height="3.513682195975503in"}
 
 A **notícia** consiste em um gênero textual jornalístico com a
 finalidade de divulgar fatos cotidianos de relevância e interesse social
-ou a um grupo muitovespecífico de leitores ao qual se dirige.
+ou a um grupo específico de leitores ao qual se dirige.
 
 O redator da notícia deve relatar os fatos de modo objetivo, sendo
-obrigatoriamente o mais isento possível para garantir que a
-reconstituição do acontecimento seja também o mais fiel possível.
+o mais isento possível para garantir que a reconstituição do acontecimento seja também o mais fiel possível.
 
 Uma notícia deve apresentar os seguintes elementos: o **título**, que
 tenta atrair o interesse do leitor; a **linha-fina**, cuja função é
 complementar o título com mais informações; o **lide** (parágrafo
-introdutório); e o **corpo** (o restante do texto, com informações mais
+introdutório) e o **corpo** (o restante do texto, com informações mais
 detalhadas). As notícias podem ser acompanhadas de fotografias e
 legendas.
 
-A notícia deve ser **exata e isenta da opinião** de quem a escreve. No
-entanto, observa-se que, do ponto de vista linguístico, uma boa escrita,
-a precisão nas informações e a citação de opiniões não garantem a
-isenção da notícia, porque não há como abordar um fato sem participar de
+A notícia deve ser **isenta da opinião** de quem a escreve. No
+entanto, observa-se que, do ponto de vista linguístico,
+não existe isenção absoluta, nem na notícia, nem em outro gênero qualquer, porque não há como abordar um fato sem participar de
 algum modo da transmissão da mensagem. A escolha das palavras a serem
 utilizadas normalmente deixa em evidência a intencionalidade do
 enunciador.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+##Atividades
 
-1\. Leia a notícia a seguir.
+1\. Leia a notícia a seguir para responder às questões de 1 a 8.
 
-Faça intervenções mediante perguntas sempre que aparecerem opiniões e
-relatos que possam colaborar e ampliar a discussão que será realizada
+\Coment{Faça intervenções mediante perguntas sempre que aparecerem opiniões e
+relatos que possam colaborar com a discussão que será realizada
 durante a leitura da notícia. Solicite aos alunos que leiam o título da
 notícia e pergunte: "Vocês já tinham conhecimento dessa informação?";
 "Quais informações vocês acham que encontrarão na notícia?". Eleja um
 aluno como escriba para anotar os sentidos levantados pela turma,
 especialmente as opiniões divergentes. Promova a leitura compartilhada e
-colaborativa com os alunos.
+colaborativa com os alunos.}
 
 **Servidores da Esplanada ganham espaço de trabalho compartilhado**
 
-Chamado de Sala 360°, ambiente de coworking é inovador e fruto de
-parceria entre MCom,
+*Chamado de Sala 360°, ambiente de coworking é inovador e fruto de
+parceria entre MCom, MInfra e ME*
 
-MInfra e ME
-
-Publicado em 28/12/2022 10h31 Atualizado em 28/12/2022 10h51
+Publicado em 28/12/2022 10h31 
+Atualizado em 28/12/2022 10h51
 
 Nesta terça-feira (27/12), um espaço moderno, dedicado ao trabalho
 compartilhado (coworking), foi aberto para o uso de servidores da
@@ -1210,24 +1205,28 @@ do ME com outros cinco órgãos para oferecer ambientes dotados de
 infraestrutura adequada para o desempenho do trabalho de servidores
 públicos federais em todo o país.
 
-Disponível em:
+Ministério da economia. Servidores da Esplanada ganham espaço de trabalho compartilhado. Disponível em:
 <https://www.gov.br/economia/pt-br/assuntos/noticias/2022/dezembro/servidores-da-esplanada-ganham-espaco-de-trabalho-compartilhado>.
 Acesso em: 28 mar. 2023.
 
-a\) Qual é o fato relatado pela notícia? A notícia relata o fato de os
-servidores da Esplanada ganharem um espaço de trabalho compartilhado.
+1.\ Qual é o fato relatado pela notícia? 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\Coment{A notícia relata o fato de os
+servidores da Esplanada ganharem um espaço de trabalho compartilhado.}
 
-b\) Determinados fatos se transformam em notícia porque despertam o
+\linhas{4}
+
+2.\ Determinados fatos se transformam em notícia porque despertam o
 interesse da sociedade. Por que esse espaço de trabalho dos servidores
-virou notícia? Porque é um projeto inovador e com infraestrutura
+virou notícia? 
+
+\Coment{Porque é um projeto inovador e com infraestrutura
 adequada para o desempenho do trabalho de servidores públicos federais
-em todo o país.
+em todo o país.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{4}
 
-c\) A função do título de uma notícia deve atrair o leitor,
+3.\ A função do título de uma notícia deve atrair o leitor,
 incentivando-o a ler o texto.
 
 -   Qual característica desse título contribui para esse objetivo?
@@ -1238,97 +1237,109 @@ incentivando-o a ler o texto.
 
 ( ) Enunciado que utiliza metáforas para destacar o assunto do texto.
 
-d\) No decorrer da notícia foram utilizados dois intertítulos.
+4.\ No decorrer da notícia foram utilizados dois intertítulos.
 
 -   Relacione cada intertítulo à opção que representa suas ideias
     principais.
 
 I. Palavra do servidor
 
-II\. Rede de espaços compartilhados
+II. Rede de espaços compartilhados
 
 ( II ) Informações sobre a inauguração dos primeiros espaços
-compartilhados.
+de trabalho comum.
 
 ( I ) Depoimentos de servidores que deram suas opiniões em relação ao
 novo espaço.
 
-e\) Qual é o objetivo da utilização de intertítulos em uma notícia? O
-objetivo é organizar a apresentação detalhada de informações conforme os
+5.\ Qual é o objetivo da utilização de intertítulos em uma notícia? 
+
+\Coment{O objetivo é organizar a apresentação detalhada de informações conforme os
 variados aspectos do tema abordado e, por ser um texto mais extenso, o
 uso de intertítulos torna a leitura mais dinâmica, tornando mais fácil a
-compreensão do texto.
+compreensão do texto.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{6}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Este fragmento apresenta uma fala reproduzida no texto:
 
-2\. Este fragmento apresenta uma fala reproduzida pelo jornalista.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  O projeto de modernização da gestão dos espaços foi viabilizado por meio de termo de adesão firmado entre os Ministérios das Comunicações (MCom), da Infraestrutura (MInfra) e da Economia (ME). Apesar de não ser a primeira sala do projeto, é a primeira inaugurada por dois órgãos ao mesmo tempo. "Essa sala já nasce compartilhada", destacou a secretária-adjunta de Gestão do ME, Elise Sueli Pereira Gonçalves.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  *O projeto de modernização da gestão dos espaços foi viabilizado por meio de termo de adesão firmado entre os Ministérios das Comunicações (MCom), da Infraestrutura (MInfra) e da Economia (ME). Apesar de não ser a primeira sala do projeto, é a primeira inaugurada por dois órgãos ao mesmo tempo. "Essa sala já nasce compartilhada", destacou a secretária-adjunta de Gestão do ME, Elise Sueli Pereira Gonçalves.
 
-a\) Foram utilizadas aspas para demarcar a citação no texto. Qual é a
+
+6.\ Foram utilizadas aspas para demarcar a citação no texto. Qual é a
 importância da utilização desse sinal gráfico para a organização do
-texto? As aspas reproduzem exatamente o que Elise Sueli Pereira disse em
-entrevista.
+texto? 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\Coment{As aspas reproduzem exatamente o que Elise Sueli Pereira disse em
+entrevista.}
 
-b\) Após a citação, foram apresentadas informações sobre a servidora.
-Qual é a finalidade de se trazer essas informações? Essas informações
-servem para especificar o perfil da entrevistada.
+\linhas{3}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+7.\ Após a citação, foram apresentadas informações sobre a servidora.
+Qual é a finalidade de se trazer essas informações? 
 
-c\) Observe que essa notícia apresenta *hiperlinks*. Como eles aparecem
-no texto e qual são suas funções? Está em destaque no texto e com uma
-cor diferente (azul). Sua função é fazer o leitor que esteja lendo a
+\Coment{Essas informações servem para especificar o perfil da entrevistada.}
+
+\linhas{4}
+
+8.\ Observe que essa notícia apresenta *hiperlinks*, em destaque no texto e com uma
+cor diferente (azul). Como eles aparecem no texto e qual são suas funções? 
+
+\Coment{Sua função é fazer o leitor que esteja lendo a
 notícia na internet acesse mais informações sobre os termos de uso e os
-projetos.
+projetos.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{4}
 
-**\<Abre seção Treino\>**
+Veja a imagem para resolver as questões 9 e 10.
 
-1 -- Leia um trecho de notícia a seguir. (Fácil)
+https://www.freepik.com/free-photo/fire-steppe-grass-is-burning-destroying-everything-its-path_18629392.htm#query=fire%20in%20the%20forest&position=29&from_view=search&track=ais
 
-**Federação paulista quer ampliar presença de mulheres em estádios**
+9.\ Sobre o que poderia falar uma notícia ilustrada por essa imagem?
 
-Com o objetivo de ampliar a presença de mulheres nos estádios, a
-Federação Paulista de Futebol anunciou medidas que serão adotadas ao
-longo da edição de 2020 do Campeonato Paulista.
+\Coment{Uma notícia ilustrada por essa foto poderia tratar do risco de incêndio em áreas verdes por caisa de focos de fogo em vegetação seca, por exemplo.Há outras respostas possíveis.}
 
-A competição começa nesta quarta-feira (22), com 16 equipes.
+\linhas{6}
 
-A campanha \#ElasNoEstádio foi lançada nesta terça, na sede da entidade,
-com a presença apenas de mulheres. \[...\] A ideia, segundo a federação,
-era transmitir aos profissionais a sensação de mulheres ao serem
-excluídas dos estádios.
+10.\ Crie, para a notícia imaginada:
 
-PETROCILO, Carlos. Federação paulista quer ampliar presença de mulheres
-em estádios. Folha de S. Paulo, 21 jan. 2020. Disponível em:
+1. Uma manchete (título).
+1. Uma legenda para a foto.
+
+\Coment{Sua função é fazer o leitor que esteja lendo a
+notícia na internet acesse mais informações sobre os termos de uso e os
+projetos.}
+
+\linhas{4}
+
+##Treino
+
+1 -- Leia um trecho de notícia a seguir.
+
+**Pela ampliação da presença de mulheres em estádios**
+
+A Federação Paulista de Futebol divulgou medidas que serão adotadas durante o Campeonato Paulista 2020 para aumentar a presença de mulheres nos estádios. A campanha #ElasNoEstádio foi lançada na sede da entidade, nesta quarta, com a presença exclusiva de mulheres, com o objetivo de transmitir aos profissionais a sensação de exclusão vivida pelas mulheres nos estádios. A competição começa nesta quarta-feira (22) e contará com a participação de 16 equipes.
+
+Fonte de pesquisa: Carlos Petrocilo. Folha de S. Paulo. Federação paulista quer ampliar presença de mulheres em estádios. Disponível em:
 www1.folha.uol.com.br/esporte/2020/01/federacao-paulista-quer-ampliar-presenca-de-mulheres-em-estadios.shtml.
 Acesso em: 29 mar. 2023.
 
-Em relação ao lide da notícia, compreende-se que a informação
+Em relação à interpretação da notícia, pode-se afirmar que
 
 \(A\) "nesta quarta" corresponde ao "quando" da notícia, informando
 quando foi realizado o evento de lançamento da campanha \#ElasNoEstádio.
 
 \(B\) "a competição começa nesta quarta-feira" corresponde ao "o quê" da
-notícia, trazendo qual é o assunto que gerou a produção da notícia.
+notícia, trazendo qual é o assunto que gerou a produção do texto.
 
 \(C\) "Federação Paulista de Futebol" corresponde ao "quem" da notícia,
 visto que foi a entidade que elaborou a campanha \#ElasNoEstádio.
 
-\(D\) "em estádios" corresponde ao "onde" da notícia, anunciando que a
+\(D\) "nos estádios" corresponde ao "onde" da notícia, anunciando que a
 Federação quer lançar a campanha nos jogos da competição.
 
-Saeb: D1
-
-BNCC: EF69LP16: Analisar e utilizar as formas de composição dos gêneros
+BNCC: EF69LP16 - Analisar e utilizar as formas de composição dos gêneros
 jornalísticos da ordem do relatar, tais como notícias (pirâmide
 invertida no impresso X blocos noticiosos hipertextuais e
 hipermidiáticos no digital, que também pode contar com imagens de vários
@@ -1349,45 +1360,36 @@ Futebol, que criou uma campanha de incentivo à presença das mulheres no
 estádio.
 
 d\) Incorreta. O "onde" da notícia corresponde à sede da entidade,
-informação que não aparece no lide.
+informação que não aparece no texto.
 
-2\. Leia o texto a seguir. (Médio)
+2\. Leia o texto a seguir.
 
-**Cientistas apontam a descoberta de proteína guardiã dos músculos**
+**Descoberta proteína guardiã dos músculos**
 
-Um dos efeitos gerados no corpo humano em função do envelhecimento é a
-perda da massa muscular, chamada sarcopenia. Pesquisadores franceses
-detectaram um mecanismo que poderá ajudar a prevenir essa complicação,
-classificada em 2016 pela Organização Mundial da Saúde como doença. Em
-estudos com ratos, os cientistas identificaram uma proteína que, ao ser
-superativada, consegue manter a força e a massa dos músculos. A
-descoberta foi apresentada na edição desta semana da revista Science
-Translational Medicine. \[...\]
+Em estudos com ratos, cientistas identificaram uma proteína que, ao ser
+superativada, consegue manter a força e a massa dos músculos. Trata-se de uma descoberta surpreendente e promissora, já que um dos efeitos gerados no corpo humano em consequência do envelhecimento é a perda da massa muscular - ou sarcopenia. Com sua pesquisa, os cientistas, que são franceses, descobriram um mecanismo que poderá ajudar a prevenir essa complicação, classificada como doença em 2016 pela Organização Mundial da Saúde.
 
-SOARES, Vilhena. "Cientistas apontam a descoberta de proteína guardiã
-dos músculos". Correio Braziliense. Disponível em:
+Fonte de pesquisa: Vilhena Soares. Correio Braziliense. "Cientistas apontam a descoberta de proteína guardiã dos músculos". Correio Braziliense. Disponível em:
 www.correiobraziliense.com.br/app/noticia/ciencia-e-saude/2019/11/07/interna\_ciencia\_saude,804406/cientistas-apontam-a-descoberta-de-proteina-guardia-dos-musculos.shtml.
 Acesso em: 28 mar. 2023.
 
-No trecho "Em estudos com ratos, os cientistas identificaram uma
+Para o trecho "Em estudos com ratos, cientistas identificaram uma
 proteína que, ao ser superativada, consegue manter a força e a massa dos
-músculos", uma paráfrase adequada seria em
+músculos", uma paráfrase adequada seria
 
 \(A\) "Cientistas identificaram ratos superativados que conseguem manter
 sua força e sua massa muscular".
 
-\(B\) "Os cientistas fizeram testes em ratos para investigar a força e a
+\(B\) "Cientistas fizeram testes em ratos para investigar a força e a
 massa muscular superativada dos ratos".
 
 \(C\) "A força e a massa muscular podem ser conservadas por meio da
-ativação de uma proteína, o que foi observado em testes com ratos".
+ativação de uma proteína, o que foi observado por cientistas em testes com ratos".
 
-\(D\) "Os estudos nos cientistas identificaram que eles possuem força e
+\(D\) "Os estudos dos cientistas identificaram que eles possuem força e
 massa muscular mantidas com o tempo".
 
-Saeb:
-
-BNCC: EF69LP43: Identificar e utilizar os modos de introdução de outras
+BNCC: EF69LP43 - Identificar e utilizar os modos de introdução de outras
 vozes no texto -- citação literal e sua formatação e paráfrase --, as
 pistas linguísticas responsáveis por introduzir no texto a posição do
 autor e dos outros autores citados ("Segundo X; De acordo com Y; De
@@ -1397,42 +1399,32 @@ de organização de referências bibliográficas) em textos científicos,
 desenvolvendo reflexão sobre o modo como a intertextualidade e a
 retextualização ocorrem nesses textos.
 
-a\) Incorreta. Os ratos não eram superativados, e sim as proteínas
+a\) Incorreta. Os ratos não eram superativados, mas sim as proteínas
 presentes no corpo dos animais.
 
 b\) Incorreta. Os testes não foram feitos para investigar a força e a
 massa muscular superativada nos ratos, mas para observar como a ativação
 de uma proteína consegue evitar a perda de massa muscular.
 
-c\) Correta. Em "A força e a massa muscular podem ser conservadas por
-meio da ativação de uma proteína, o que foi observado em testes com
-ratos", observa-se que as informações presentes no trecho original foram
+c\) Correta. Em "A força e a massa muscular podem ser conservadas por meio da
+ativação de uma proteína, o que foi observado por cientistas em testes com ratos", observa-se que as informações presentes no trecho original foram
 mantidas, embora tenham sido comunicadas de modo diferente.
 
 d\) Incorreta. O estudo não é para investigar a força dos cientistas,
 mas para compreender como a massa muscular reage a uma proteína
 superativada.
 
-3\. Leia o trecho da notícia a seguir. (Difícil)
+3\. Leia o trecho da notícia a seguir.
 
-**Covid-19: Condomínios residenciais adotam medidas para garantir
-segurança dos moradores**
+**Covid-19 e as medidas de condomínios residenciais**
 
-Obrigatoriedade de máscaras faciais, interdição de áreas comuns e
-suspensão de biometria fazem parte das medidas adotadas por complexos
-residenciais, para garantir a segurança de centenas de moradores frente
-à pandemia do novo coronavírus
-
-\[\...\]
-
-Em Águas Claras, no condomínio de duas torres em que vive o analista de
-sistemas Thiago Souza, 30 anos, as adaptações começaram \[\...\] ainda
-em março. "Além de fechar as áreas comuns, mantendo aberta apenas a
+Complexos residenciais estão adotando medidas para garantir a segurança dos moradores frente à pandemia do novo coronavírus. Entre elas, estão a obrigatoriedade de uso de máscaras faciais, interdição de áreas comuns e suspensão de biometria. Desde março, o condomínio de duas torres em Águas Claras, onde o analista de sistemas Thiago Souza vive, já colocou em prática essas adaptações. 
+"Além de fechar as áreas comuns, mantendo aberta apenas a
 lavanderia, aumentaram a higienização dos espaços. Compraram equipamento
 de proteção para os funcionários, e suspenderam o acesso biométrico na
-portaria", detalha.
+portaria", detalha Thiago.
 
-MACHADO, Mariana; SCHWINGEL, Samara. Covid-19: Condomínios residenciais
+Fonte de pesquisa: Mariana Machado e Samara Schwingel.Correio Braziliense. Covid-19: Condomínios residenciais
 adotam medidas para garantir segurança dos moradores. Disponível em:
 <https://www.correiobraziliense.com.br/cidades-df/2020/08/4868600-condominios-em-alerta.html>.
 Acesso em: 29 mar. 2023.
@@ -1452,9 +1444,7 @@ dito pelo morador.
 \(D\) é subjetiva, mostrando uma visão que difere do que as autoras ou o
 jornal acreditam.
 
-Saeb: D17
-
-BNCC: EF89LP05: Analisar o efeito de sentido produzido pelo uso, em
+BNCC: EF89LP05 - Analisar o efeito de sentido produzido pelo uso, em
 textos, de recurso a formas de apropriação textual (paráfrases,
 citações, discurso direto, indireto ou indireto livre).
 
@@ -1471,7 +1461,7 @@ notícia mostram imparcialidade
 d\) Incorreta. A fala literal é objetiva, já que mostra o que foi dito
 sem a interferência das autoras do texto.
 
-5\. Módulo 5
+# 5.
 
 Neste módulo, os alunos vão entender como fazer distinção entre fato e
 opinião.
@@ -1480,9 +1470,9 @@ Habilidades da BNCC: (não há correspondência)
 
 Habilidades do SAEB:
 
-*  Inferir informações implícitas em distintos textos.
+\- Inferir informações implícitas em distintos textos.
 
-*  Distinguir fatos de opiniões em textos.
+\- Distinguir fatos de opiniões em textos.
 
 **Fato x Opinião**
 
@@ -1858,7 +1848,7 @@ Habilidades da BNCC: EF69LP03 e EF69LP05.
 
 Habilidades do SAEB:
 
-*  Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
+\- Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
 crítica.
 
 \<início do boxe de conteúdo\>
@@ -2147,11 +2137,11 @@ Habilidades da BNCC: (não há correspondência)
 
 Habilidades do SAEB:
 
-*  Analisar marcas de parcialidade em textos jornalísticos.
+\- Analisar marcas de parcialidade em textos jornalísticos.
 
-*  Avaliar diferentes graus de parcialidade em textos jornalísticos.
+\- Avaliar diferentes graus de parcialidade em textos jornalísticos.
 
-*  Avaliar a fidedignidade de informações sobre um mesmo fato divulgado
+\- Avaliar a fidedignidade de informações sobre um mesmo fato divulgado
 em diferentes veículos e mídias.
 
 \<início do boxe de conteúdo\>
@@ -2668,12 +2658,12 @@ Habilidades da BNCC: EF69LP04, EF69LP28, EF89LP16, EF89LP31
 
 Habilidades do SAEB:
 
-*  Identificar os recursos de modalização em textos diversos.
+\- Identificar os recursos de modalização em textos diversos.
 
-*  Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais
+\- Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais
 com base no gênero textual e na intenção comunicativa.
 
-*  Analisar os efeitos de sentido produzidos pelo uso de modalizadores
+\- Analisar os efeitos de sentido produzidos pelo uso de modalizadores
 em textos diversos.
 
 \<início do boxe de conteúdo\>
@@ -3006,9 +2996,9 @@ Habilidades da BNCC: EF69LP17, EF89LP06, EF89LP14 e EF89LP37.
 
 Habilidades do SAEB:
 
-*  Analisar o uso de figuras de linguagem como estratégia argumentativa.
+\- Analisar o uso de figuras de linguagem como estratégia argumentativa.
 
-*  Avaliar a eficácia das estratégias argumentativas em textos de
+\- Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
 
 \<início do boxe de conteúdo\>
@@ -3422,9 +3412,9 @@ Habilidades da BNCC: EF09LP08 e EF09LP11.
 
 Habilidades do SAEB:
 
-*  Analisar os mecanismos que contribuem para a progressão textual.
+\- Analisar os mecanismos que contribuem para a progressão textual.
 
-*  Analisar os processos de referenciação lexical e pronominal.
+\- Analisar os processos de referenciação lexical e pronominal.
 
 \<início do boxe de conteúdo\>
 
@@ -3790,9 +3780,9 @@ Habilidades da BNCC: EF69LP55, EF69LP56 e EF09LP07.
 
 Habilidades do SAEB:
 
-*  Analisar as variedades linguísticas em textos.
+\- Analisar as variedades linguísticas em textos.
 
-*  Avaliar a adequação das variedades linguísticas em contextos de uso.
+\- Avaliar a adequação das variedades linguísticas em contextos de uso.
 
 \<início do boxe de conteúdo\>
 
