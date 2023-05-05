@@ -157,7 +157,7 @@ formação de um novo Estado. Por isso, é importante que ocorra a
 manifestação dos locais, na tentativa de tentar transmitir o sentimento
 nacional, divergente da unidade territorial espanhola.}
 
-**Treino**
+# Treino
 
 \num{1} Leia o texto.
 

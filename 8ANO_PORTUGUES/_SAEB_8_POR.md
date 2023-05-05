@@ -8,7 +8,9 @@
 
 **SUMÁRIO**
 
-**MÓDULO 1** -- **OS GÊNEROS TEXTUAIS ARGUMENTATIVOS**
+# MÓDULO 1 
+
+ ** -- **OS GÊNEROS TEXTUAIS ARGUMENTATIVOS**
 
 Argumentar é convencer, persuadir o outro de que os argumentos usados
 têm procedência lógica e podem ser comprovados.
@@ -438,7 +440,9 @@ atenção sobre esse método mais amigável ao público infantil. Assim, o
 cartaz, além de divulgar a vacinação, incentiva os pais a vacinarem seus
 filhos e as crianças a perderem o medo da vacina.
 
-**MÓDULO 2** -- **OS GÊNEROS TEXTUAIS INFORMATIVOS**
+# MÓDULO 2 
+
+ ** -- **OS GÊNEROS TEXTUAIS INFORMATIVOS**
 
 Os gêneros textuais informativos têm o objetivo de informar sobre
 determinado assunto, objeto ou fato, por isso são centrados na
@@ -851,7 +855,9 @@ do leitor, de modo a estabelecer com ele uma interação e ganhar sua
 atenção. Isso se confirma ainda pelo fato de apenas na introdução o
 texto citar o ditado e não mais abordar o assunto.
 
-**MÓDULO 3** -- **OS GÊNEROS LITERÁRIOS**
+# MÓDULO 3 
+
+ ** -- **OS GÊNEROS LITERÁRIOS**
 
 Os gêneros literários são categorias usadas para classificar os textos
 dos diversos gêneros textuais existentes na literatura de acordo com
@@ -1372,7 +1378,9 @@ margem da sociedade.
 filhos de Deus, mas isso não é mencionado com objetivo de situá-los em
 alguma religião. O texto não cita a religião desse grupo social.
 
-**MÓDULO 4** -- **AS DIFERENTES VOZES DE UM TEXTO**
+# MÓDULO 4 
+
+ ** -- **AS DIFERENTES VOZES DE UM TEXTO**
 
 Todo texto traz a voz do autor que o escreveu, mas também as vozes de
 terceiros que o autor mobiliza para confirmar, reforçar, corroborar,
@@ -1729,7 +1737,9 @@ privada.
 \(D\) Incorreta. A entrevista não traz perguntas que exijam emissão de
 opinião, trata-se de assunto do cotidiano dos artistas.
 
-**MÓDULO 5** -- **FATO E OPINIÃO: OBJETIVIDADE E SUBJETIVIDADE**
+# MÓDULO 5 
+
+ ** -- **FATO E OPINIÃO: OBJETIVIDADE E SUBJETIVIDADE**
 
 Nem sempre fato e opinião são facilmente diferenciados em textos. Muitas
 vezes, para distinguir entre eles, é necessário reconhecer o gênero
@@ -2079,7 +2089,9 @@ há países autoritários.
 correto de cidadania ainda é desconhecido, embora o termo seja muito
 usado no cotidiano.
 
-**MÓDULO 6** -- **OS EFEITOS DE SENTIDO: HUMOR E IRONIA**
+# MÓDULO 6 
+
+ ** -- **OS EFEITOS DE SENTIDO: HUMOR E IRONIA**
 
 A leitura de um texto envolve não só a habilidade de reconhecer as
 palavras e seus significados dicionarizados, mas também a habilidade de
@@ -2464,7 +2476,9 @@ espelhar e fugia de diálogos com viés acadêmicos.
 verdade, refutando-a, pois prefere exemplos práticos que sirvam de
 espelho.
 
-**MÓDULO 7** -- **PARCIALIDADE E IMPARCIALIDADE EM TEXTOS
+# MÓDULO 7 
+
+ ** -- **PARCIALIDADE E IMPARCIALIDADE EM TEXTOS
 JORNALÍSTICOS**
 
 Como visto no módulo 2, os textos jornalísticos fazem parte do grupo dos
@@ -2858,7 +2872,9 @@ claros. O Texto I opõe-se ao governo, apresentando a notícia de modo
 desfavorável a ele, enquanto o Texto II é favorável ao governo, buscando
 um viés que favoreça a imagem do presidente.
 
-**MÓDULO 8** -- **MODALIZAÇÃO E ATITUDE DISCURSIVA**
+# MÓDULO 8 
+
+ ** -- **MODALIZAÇÃO E ATITUDE DISCURSIVA**
 
 Um texto é muito mais que um simples conjunto organizado de palavras e
 frases combinadas. Por trás desse conjunto que chamamos de texto está a
@@ -3294,7 +3310,9 @@ posicionamento ao empregar o verbo "sofre". Por outro lado, a ONG citada
 emprega um termo mais neutro, "expansão urbana", para designar o mesmo
 fato.
 
-**MÓDULO 9** -- **FIGURAS DE LINGUAGEM E ESTRATÉGIA ARGUMENTATIVA**
+# MÓDULO 9 
+
+ ** -- **FIGURAS DE LINGUAGEM E ESTRATÉGIA ARGUMENTATIVA**
 
 As figuras de linguagem são recursos muito úteis aos textos
 argumentativos. Elas se caracterizam por expressarem sempre um sentido
@@ -3630,7 +3648,9 @@ público de que o tema é relevante. O texto chega a dizer que a escolha
 do tema não foi por acaso, justificando-a com dados estatísticos da OMS
 sobre a doença.
 
-**MÓDULO 10 -- OS MECANISMOS DE PROGRESSÃO TEXTUAL**
+# MÓDULO 10 
+
+  -- OS MECANISMOS DE PROGRESSÃO TEXTUAL**
 
 A progressão textual é o desenvolvimento das ideias e do tema de um
 texto. Esse desenvolvimento ocorre com a adição de informações novas às
@@ -4030,7 +4050,9 @@ um prejuízo, e estão em lados opostos.
 \(D\) Incorreta. A alternativa apresenta exemplos não opostos, pois
 ambos são prejuízos da tecnologia, segundo o texto.
 
-**MÓDULO 11** -- **VARIAÇÃO LINGUÍSTICA, NORMA-PADRÃO E PRECONCEITO
+# MÓDULO 11 
+
+ ** -- **VARIAÇÃO LINGUÍSTICA, NORMA-PADRÃO E PRECONCEITO
 LINGUÍSTICO**
 
 A língua portuguesa é falada, no Brasil, por mais de 200 milhões de

@@ -1,4 +1,5 @@
-**Módulo 1: Argumentar e convencer**
+# Módulo 1 
+ 
 
 SAEB: - Identificar o uso de recursos persuasivos em textos verbais e
 não verbais.
@@ -206,7 +207,7 @@ Ao trazer as fontes e citar nomes de pessoas envolvidas em grupos e
 organizações oficiais, a matéria se torna mais confiável e os dados
 podem ser questionados, pesquisados e confrontados pelo leitor.
 
-**Treino**
+# Treino
 
 **Questão 1:**
 
@@ -362,7 +363,8 @@ local.
 
 Nível: Difícil
 
-**Módulo 2: Os domínios da comunicação**
+# Módulo 2 
+ 
 
 Saeb: Identificar elementos constitutivos de textos pertencentes ao
 domínio jornalístico/midiático.
@@ -1015,7 +1017,8 @@ no Artigo 3º.
 
 Nível: Difícil
 
-**Módulo 3: Nas tramas do texto**
+# Módulo 3 
+ 
 
 Saeb:- Analisar elementos constitutivos de textos pertencentes ao
 domínio literário.
@@ -1266,7 +1269,7 @@ A autora utiliza os dois pontos como forma de introduzir uma explicação.
 Em outras palavras, ser poeta pode significar não ser nem alegre nem
 triste.
 
-**Treino**
+# Treino
 
 Questão 1:
 
@@ -1496,7 +1499,8 @@ traço mais característico da poesia concretista.
 
 Nível: fácil
 
-**Módulo 4: A construção e as formas de composição do sentido**
+# Módulo 4 
+ 
 
 Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
@@ -1850,7 +1854,8 @@ não a sensibilização do leitor e sim a confiabilidade da afirmação
 
 Nível difícil
 
-**Módulo 5: Fato ou Opinião**
+# Módulo 5 
+ 
 
 Saeb: Inferir informações implícitas em distintos textos.
 
@@ -2135,7 +2140,8 @@ d)  Incorreta. A matéria traz dados e esses dados estão sendo colocados
 
 Nível difícil
 
-**Módulo 6: Humor e as ferramentas da crítica**
+# Módulo 6 
+ 
 
 * Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
 crítica.
@@ -2374,7 +2380,8 @@ d)Incorreta. a tirinha não faz alusão a esse fato
 
 Nível difícil
 
-**Módulo 7: Os pontos de vista da notícia**
+# Módulo 7 
+ 
 
 Saeb: Analisar marcas de parcialidade em textos jornalísticos.
 
@@ -2751,7 +2758,8 @@ título
 
 Nível difícil
 
-**Módulo 8: Modalização e argumentação**
+# Módulo 8 
+ 
 
 Saeb: Identificar os recursos de modalização em textos diversos.
 
@@ -3094,7 +3102,8 @@ passado, mas que ocorre no presente e pode continuar ocorrendo
 
 Nível difícil
 
-**Módulo 9: As formas de interação da linguagem**
+# Módulo 9 
+ 
 
 Saeb:Analisar o uso de figuras de linguagem como estratégia
 argumentativa.
@@ -3397,7 +3406,8 @@ uma comparação
 
 Nível fácil
 
-**Módulo 10: Tecendo com as palavras: recursos de coesão e progressão
+# Módulo 10 
+ 
 textual**
 
 Saeb:Analisar os mecanismos que contribuem para a progressão textual.
@@ -3706,7 +3716,8 @@ faz referência ao sujeito da última frase
 
 Nível médio
 
-**Módulo 11: Nossas línguas**
+# Módulo 11 
+ 
 
 Saeb:Analisar as variedades linguísticas em textos.
 

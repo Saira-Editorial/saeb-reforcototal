@@ -1,6 +1,8 @@
 SAEB -- LÍNGUA PORTUGUESA -- 6º ANO
 
-# MÓDULO 1: O que eu penso também tem valor
+# MÓDULO 1 
+
+  O que eu penso também tem valor
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -15,7 +17,7 @@ SAEB -- LÍNGUA PORTUGUESA -- 6º ANO
 |                                  | manifestando concordância ou     |
 |                                  | discordância.                    |
 |                                  |                                  |
-|                                  | **(EF67LP07)** Identificar o uso |
+|                                  | **(EF67LP07)** Identificar o uso |
 |                                  | de recursos persuasivos em       |
 |                                  | textos argumentativos diversos   |
 |                                  | (como a elaboração do título,    |
@@ -305,7 +307,7 @@ Resposta: A autora conclui que mesmo com todos os problemas causados
 pelo vício em celulares, é impossível ir contra esse tipo de evolução
 tecnológica que acontece com o tempo.
 
-**TREINO**
+# Treino
 
 **1.**
 
@@ -478,7 +480,9 @@ BNCC: EF67LP07
 
 Nível de dificuldade: difícil.
 
-# MÓDULO 2: Eu, a sociedade, direitos e deveres
+# MÓDULO 2 
+
+  Eu, a sociedade, direitos e deveres
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -1020,7 +1024,7 @@ BNCC: EF67LP16
 
 Nível de dificuldade: médio.
 
-**TREINO**
+# Treino
 
 \num{1} Leia o texto a seguir.
 
@@ -1182,7 +1186,9 @@ BNCC: **EF69LP20**
 
 **Nível: difícil.**
 
-# MÓDULO 3: Textos que conversam
+# MÓDULO 3 
+
+  Textos que conversam
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -1666,7 +1672,7 @@ BNCC: EF69LP47; EF67LP27
 
 Nível: difícil.
 
-**TREINO**
+# Treino
 
 \num{1} Observe os dois textos a seguir.
 
@@ -1829,7 +1835,9 @@ BNCC: EF67LP27
 
 Nível: médio.
 
-# MÓDULO 4: Palavra do especialista
+# MÓDULO 4 
+
+  Palavra do especialista
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -2119,7 +2127,7 @@ BNCC: EF69LP43
 
 Nível: difícil.
 
-**TREINO**
+# Treino
 
 \num{1} Observe o infográfico a seguir.
 
@@ -2274,7 +2282,9 @@ BNCC: EF69LP43
 
 Nível: difícil.
 
-# MÓDULO 5: Fato e opinião
+# MÓDULO 5 
+
+  Fato e opinião
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -2488,7 +2498,7 @@ Resposta: A autora faz um trocadilho com a fato de Frida ser uma
 artista. A expressão "uma obra à parte" significa que determinado fato
 foi incrível, maravilhoso.
 
-**TREINO**
+# Treino
 
 \num{1} Leia o trecho de uma resenha crítica sobre o gibi "Turma da Mônica
 Jovem":
@@ -2635,7 +2645,9 @@ BNCC: EF67LP04
 
 Nível: Difícil
 
-# MÓDULO 6: Qual é a graça?
+# MÓDULO 6 
+
+  Qual é a graça?
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -2820,7 +2832,7 @@ explodiu, menina).
 Resposta: O cachorro rasgou toda a almofada, mas justificou contanto que
 ela havia explodido porque veio com defeito.
 
-**TREINO**
+# Treino
 
 \num{1} Leia o texto a seguir.
 
@@ -2954,7 +2966,9 @@ BNCC: EF69LP05
 
 Nível: fácil
 
-# MÓDULO 7: Tudo o que se lê é verdade?
+# MÓDULO 7 
+
+  Tudo o que se lê é verdade?
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -3226,7 +3240,7 @@ de publicação da notícia; se o veículo que a publicou é de
 credibilidade; e se o texto apresenta uma referência bibliográfica para
 a fonte das informações.
 
-**TREINO**
+# Treino
 
 \num{1} Leia o texto a seguir.
 
@@ -3387,7 +3401,9 @@ BNCC: EF67LP03
 
 Nível: fácil
 
-# MÓDULO 8: Os modalizadores do discurso em nosso dia a dia
+# MÓDULO 8 
+
+  Os modalizadores do discurso em nosso dia a dia
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -3652,7 +3668,7 @@ Qual é o objetivo do uso desse modalizador nesta frase?
 Resposta: O objetivo é reforçar, afirmar, que pessoas do Brasil inteiro
 estão aderindo à campanha.
 
-**TREINO**
+# Treino
 
 \num{1} Leia o cartaz a seguir.
 
@@ -3793,7 +3809,9 @@ BNCC: EF69LP04
 
 Nível: difícil
 
-# MÓDULO 9: As figuras de linguagem
+# MÓDULO 9 
+
+  As figuras de linguagem
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -4017,7 +4035,7 @@ quando o texto diz que "a fome aperta" e "a forme abre", e gradação,
 quando se listam o que pode ser feito com o fubá: "cuscuz, broas,
 sonhos, bolos".
 
-**TREINO**
+# Treino
 
 \num{1}
 
@@ -4141,7 +4159,9 @@ BNCC: EF67LP38
 
 Nível: difícil.
 
-# MÓDULO 10: Os pronomes em nosso dia a dia
+# MÓDULO 10 
+
+  Os pronomes em nosso dia a dia
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |
@@ -4412,7 +4432,7 @@ Tantos alimentos são desperdiçados no mundo.
 
 Tanta comida é desperdiçada no mundo.
 
-**TREINO**
+# Treino
 
 \num{1} Leia o texto a seguir.
 
@@ -4569,7 +4589,9 @@ BNCC: EF06LP12
 
 Nível: difícil.
 
-# MÓDULO 11: Para cada situação, uma adequação
+# MÓDULO 11 
+
+  Para cada situação, uma adequação
 
 +----------------------------------+----------------------------------+
 | SAEB                             | BNCC                             |

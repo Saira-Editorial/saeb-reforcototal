@@ -1,4 +1,4 @@
-# 1. O poder do texto
+# Módulo 1
 
 
 Habilidades do SAEB
@@ -114,8 +114,6 @@ concretas. No anúncio apresentado, quais são elas?
 \linhas{4}
 
 6\. Em sua opinião, campanhas educativas podem convencer a população a
-adotar nova postura diante de uma causa? Justifique sua resposta.
-
 \Coment{Resposta pessoal. Explique aos alunos que as campanhas educativas são
 fundamentais para conscientizar as pessoas e podem mudar atitudes.}
 
@@ -162,7 +160,7 @@ Leia, agora, mais um texto para, então, responder às questões 9 e 10.
 
 \linhas{3}
 
-##Treino
+# Treino
 
 1\. Leia o trecho da reportagem a seguir.
 
@@ -345,7 +343,7 @@ elas nasceram e quem as educou.
 \(D\) Incorreta. O trecho é um exemplo que vai auxiliar a tese de que a
 condição de vida das pessoas depende do acaso.
 
-# 2. Textos públicos e normativos
+# Módulo 2
 
 
 Habilidades do SAEB
@@ -508,7 +506,7 @@ Reescreva o parágrafo, a partir da expressão "É necessário" até "contra as 
 
 \Coment{É necessário que se produzam conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, que se promovam e implementem políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, que se realizem parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, que se desenvolvam e promovam políticas públicas de enfrentamento à violência contra as mulheres [...]}
 
-**Treino**
+# Treino
 
 1\. Observe a imagem e leia o texto, ambos de uma campanha de conscientização.
 
@@ -687,7 +685,7 @@ temática "3 vezes 22", outros três sobre pesquisas relativas ao acervo
 constante, um a respeito do restauro da biblioteca e, finalmente, outro
 dedicado à pesquisa de todo o material existente.
 
-# 3. Texto literário
+# Módulo 3
 
 Habilidades do SAEB
 
@@ -1051,7 +1049,8 @@ solidariedade deve ser tão importante quanto uma lei.
 d\) Incorreta. Não existe a explicitação dessa ideia no discurso de
 formatura.
 
-# 4.
+
+# Módulo 4
 
 Neste módulo, os alunos vão ler, interpretar e identificar os elementos
 que compõem o gênero textual notícia; reconhecer as entrelinhas da
@@ -1471,7 +1470,7 @@ notícia mostram imparcialidade
 d\) Incorreta. A fala literal é objetiva, já que mostra o que foi dito
 sem a interferência das autoras do texto.
 
-5\. Módulo 5
+# Módulo 5
 
 Neste módulo, os alunos vão entender como fazer distinção entre fato e
 opinião.
@@ -1849,7 +1848,7 @@ oficial, apesar de não serem citados no texto II, isso porque, na
 enquete popular o jornal de esportes colocou as opções que estavam para
 ser escolhidas oficialmente.
 
-Módulo 6
+# Módulo 6
 
 Neste módulo, os alunos vão compreender o meme como gênero textual
 digital.
@@ -2137,7 +2136,7 @@ d\) Correta. O humor da charge se encontra na fala da personagem, quando
 ela cita a quaresma, período em que muitos religiosos não comem carne,
 para comparar com o fato de a carne estar muito cara
 
-Módulo 7
+# Módulo 7
 
 Neste módulo, os alunos vão explorar as características do gênero
 textual reportagem, avaliando e analisando graus de parcialidade nesse
@@ -2659,7 +2658,7 @@ o que evidencia a intenção do jornalista de ser imparcial e objetivo.
 d\) Correta. As informações são apresentadas de modo impessoal e
 objetivo.
 
-Módulo 8
+# Módulo 8
 
 Neste módulo, os alunos vão identificar a presença de modalizadores na
 linguagem persuasiva de anúncio publicitário e campanhas.
@@ -2997,7 +2996,7 @@ d\) Incorreta. Ao usar a expressão "dessa forma", ela deixou em
 evidência a tentativa de retomar e reunir os argumentos anteriores,
 finalizando o texto.
 
-Módulo 9
+# Módulo 9
 
 Neste módulo, os alunos vão identificar as figuras de linguagem e
 compreender os efeitos de sentido criados por elas.
@@ -3413,7 +3412,7 @@ d\) Incorreta. A gradação consiste em construir uma série na qual o
 sentido das expressões vai se intensificando até um clímax ou se
 reduzindo até um anticlímax.
 
-Módulo 10
+# Módulo 10
 
 Neste módulo, os alunos vão compreender o papel das conjunções como
 recursos de coesão sequencial.
