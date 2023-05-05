@@ -1,0 +1,254 @@
+33:a)  0,25
+35:b)  
+37:c)  
+39:d)  
+41:e)  2,1230012579\...
+45:a)  Decimal exato é racional.
+47:b)  O número pi é irracional.
+49:c)  Toda fração é racional.
+51:d)  A raiz quadrada de 7 não é exata, está entre os números naturais 2 e
+54:e)  Este número trata-se de uma dízima **não** periódica, ou seja,
+69:a)  
+71:b)  -- 1,8
+73:c)  
+156:a)  256
+158:b)  1250
+160:c)  4800
+164:a)  256 = 2^8^
+166:b)  1250 = 2 · 5^4^
+168:c)  4800 = 2^6^ · 3 · 5^2^
+175:a)  
+176:b)  
+180:a)  360
+182:b)  4725
+201:a)  5
+203:b)  4
+205:c)  3
+207:d)  **2**
+228:a)  A
+230:b)  B
+232:c)  C
+234:d)  **D**
+238:a)  Falso, 10 é múltiplo de 5 e não é ímpar.
+240:b)  Falso, 3 é ímpar e não é múltiplo de 5.
+242:c)  Falso, 2 é par e não é múltiplo de 6.
+244:d)  Verdadeiro, como o 12 é par todo múltiplo deste número terá o
+257:a)  A
+259:b)  B
+261:c)  C
+263:d)  **D**
+500:a)  2
+502:b)  4
+504:c)  6
+506:d)  **8**
+522:a)  Segunda
+524:b)  Terça
+526:c)  **Quarta**
+528:d)  Sexta
+549:a)  **5 brigadeiros, 4 beijinhos, 30 pacotes de cada.**
+551:b)  15 brigadeiros, 12 beijinhos, 10 pacotes de cada.
+553:c)  10 brigadeiros, 12 beijinhos, 15 pacotes de cada.
+555:d)  3 brigadeiros, 3 beijinhos, 90 pacotes de cada.
+587:a)  m\.
+589:b)  **m.**
+591:c)  m\.
+593:d)  m\.
+609:periódico).
+757:a)  ![Gráfico, Gráfico de barras Descrição gerada
+761:b)  ![](./_SAEB_9_MAT/media/image48.png){width="1.0772823709536308in"
+764:c)  ![](./_SAEB_9_MAT/media/image49.png){width="1.0052077865266842in"
+767:d)  ![](./_SAEB_9_MAT/media/image50.png){width="0.9751038932633421in"
+799:a)  $\frac{1}{16}$
+801:b)  $\frac{3}{25}$
+803:c)  $\frac{\mathbf{9}}{\mathbf{48}}$
+805:d)  $\frac{5}{16}$
+822:a)  Alice e Bruno.
+824:b)  Bruno e Augusto.
+826:c)  **Alice e Augusto.**
+828:d)  Augusto e Cadu.
+842:a)  $\frac{126}{1000}$
+844:b)  $\frac{14}{111}$
+846:c)  $\frac{126}{990}$
+848:d)  $\frac{63}{99}$
+860:a)  12
+862:b)  24
+864:c)  36
+866:d)  48
+893:a)  ![](./_SAEB_9_MAT/media/image54.png){width="2.1168503937007874in"
+896:b)  ![](./_SAEB_9_MAT/media/image55.png){width="2.1085159667541555in"
+899:c)  ![](./_SAEB_9_MAT/media/image56.png){width="2.083513779527559in"
+902:d)  ![](./_SAEB_9_MAT/media/image57.png){width="2.1085159667541555in"
+1054:a)  **13,5%**
+1056:b)  10%
+1058:c)  5%
+1060:d)  0,5%
+1150:a)  R\$ 645,00
+1152:b)  R\$ 1.290,00
+1154:c)  **R\$ 1.505,00**
+1156:d)  R\$ 2.120,00
+1173:a)  **40%**
+1175:b)  50%
+1177:c)  60%
+1179:d)  90%
+1196:a)  532
+1198:b)  **425,60**
+1200:c)  420,00
+1202:d)  404,32
+1514:a)  R\$ 80,00
+1516:b)  R\$ 85,00
+1518:c)  R\$ 90,00
+1520:d)  R\$ 130,00
+1534:a)  20
+1536:b)  30
+1538:c)  40
+1540:d)  50
+2361:comportamento).
+2936:a)  260 000
+2938:b)  300 000
+2940:c)  320 000
+2942:d)  400 000
+2960:a)  (1,0)
+2962:b)  (2,1)
+2964:c)  (3,0)
+2966:d)  (4,-3)
+3005:figura).
+3148:a)  Prisma, Prisma
+3150:b)  Prisma, Cone
+3152:c)  Pirâmide, Prisma
+3154:d)  Prima, Pirâmide
+3573:a)  2
+3575:b)  2,5
+3577:c)  3
+3579:d)  4
+3596:a)  I
+3598:b)  II
+3600:c)  III
+3602:d)  IV
+3620:a)  12º
+3622:b)  20º
+3624:c)  24º
+3626:d)  48º
+3795:a)  R
+3797:b)  T
+3799:c)  S
+3801:d)  P
+3922:a)  100 m
+3924:b)  200 m
+3926:c)  300 m
+3928:d)  400 m
+4009:a)  Complete a frase
+4123:b)  Qual mês registrou a menor quantidade e qual registrou a maior
+4128:c)  Sabendo que em junho foram tratados 6 m³ de água, qual a porcentagem
+4135:d)  A menor quantidade foi registrada no mês de maio com 2m³ e a maior
+4138:e)  Como em junho foram tratados 6 m³ de água e em setembro foram
+4229:f)  Um studio de danças fez pesquisa sobre as suas turmas
+4339:a)  Volume
+4346:b)  Capacidade
+4829:a)  0,6%
+4831:b)  1,4%
+4833:c)  2,0%
+4835:d)  2,5%
+4857:a)  25%
+4859:b)  40%
+4861:c)  66%
+4863:d)  60%
+4894:a)  10%
+4896:b)  15%
+4898:c)  30%
+4900:d)  45%
+4929:a)  A e B pertencem aos Naturais, C e D pertencem aos Racionais.
+4931:b)  A e D pertencem aos Irracionais, B e C pertencem aos Racionais.
+4933:c)  A e C, pertencem aos Irracionais, B e D pertencem aos Racionais.
+4935:d)  A e D pertencem aos Racionais, B e C pertencem aos Irracionais.
+4961:a)  $1496 \cdot 10^{6}$km
+4963:b)  $14,96 \cdot 10^{6}$km
+4965:c)  $1,52 \cdot 10^{8}$km
+4967:d)  $152\ 000\ km$
+4990:a)  $\frac{1}{5}$
+4992:b)  $\frac{2}{5}$
+4994:c)  $\frac{3}{5}$
+4996:d)  $\frac{4}{5}$
+5012:a)  R\$ 120,00
+5014:b)  R\$ 1.000,00
+5016:c)  R\$ 1.200,00
+5018:d)  R\$ 2.400,00
+5041:a)  $\frac{x}{3} - 10 = 20$
+5043:b)  $x - \frac{x}{3} - 10 = 20$
+5045:c)  $x + 10 = \frac{x}{3} - 20$
+5047:d)  $\frac{x}{3} - \frac{10}{3} = 20$
+5072:a)  10
+5074:b)  12
+5076:c)  16
+5078:d)  17
+5229:a)  50º e 130º.
+5231:b)  130º e 50º.
+5233:c)  30º e 150º.
+5235:d)  150º e 30º.
+5405:a)  $\sqrt{3}$
+5407:b)  $\sqrt{5}$
+5409:c)  $\sqrt{6}$
+5411:d)  $\sqrt{10}$
+5433:a)  $138 \cdot 10^{6}$
+5435:b)  $13,8 \cdot 10^{7}$
+5437:c)  $1,38 \cdot 10^{10}$
+5439:d)  $138\ 000\ 000$
+5458:a)  Jorge e Mário
+5460:b)  Gabriel e Lucas
+5462:c)  Mário e Lucas
+5464:d)  Jorge e Gabriel
+5486:a)  O preço será o mesmo que antes do aumento.
+5488:b)  O preço ficará 1% maior do que antes do aumento.
+5490:c)  O preço ficará 1% menor do que antes do aumento.
+5492:d)  O preço ficará 99% menor em comparação com o preço depois do
+5889:a)  $\sqrt{26}$
+5891:b)  $2\sqrt{13}$
+5893:c)  $5\sqrt{2}$
+5895:d)  $\sqrt{10}$
+5913:a)  2500
+5915:b)  2000
+5917:c)  1000
+5919:d)  500
+5941:a)  $\frac{27}{99}$
+5943:b)  $\frac{5}{9}$
+5945:c)  $\frac{82}{99}$
+5947:d)  $\frac{32}{108}$
+5970:a)  R\$500,00
+5972:b)  R\$350,00
+5974:c)  R\$300,00
+5976:d)  R\$100,00
+6238:a)  Incorreta. Em 2021 ocorreu crescimento em todos os meses.
+6240:b)  Incorreta. Em 2022 de julho para agosto as vendas cresceram.
+6242:c)  Correta.
+6244:d)  Incorreta. Novembro para dezembro as vendas estavam estáveis.
+6257:a)  2
+6259:b)  3
+6261:c)  4
+6263:d)  5
+6349:a)  Natural
+6351:b)  Inteiro
+6353:c)  Racional
+6355:d)  Irracional
+6374:a)  $3 \cdot 10^{8}$
+6376:b)  $9,45 \cdot 10^{15}$
+6378:c)  $3,15 \cdot 10^{7}$
+6380:d)  $6,3 \cdot 10^{8}$
+6404:a)  Ambos os jornais trazem os mesmos valores, mas representados em
+6407:b)  O Jornal A traz um número muito maior de pessoas na sua fração
+6410:c)  O Jornal B traz um percentual que supera em muito a fração dada pelo
+6413:d)  Não é possível executar comparação.
+6431:a)  R\$ 50,00
+6433:b)  R\$ 48,96
+6435:c)  R\$ 53,22
+6437:d)  R\$ 48,38
+6494:a)  44
+6496:b)  49
+6498:c)  56
+6500:d)  72
+6673:a)  8
+6675:b)  12
+6677:c)  16
+6679:d)  20
+6777:a)  25%.
+6779:b)  75%.
+6781:c)  35%.
+6783:d)  60%.
