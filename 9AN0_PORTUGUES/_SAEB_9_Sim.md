@@ -1,92 +1,42 @@
 # Simulado 1
-==========
+\num{1} Leia o texto.
 
-Língua Portuguesa
------------------
+>**NASA-funded Research Reveals Alarming Risk of Antarctic Ice Sheets Melting**
 
-Arte
-----
+>There are numerous ominous signs of the repercussions of climate change, but few cause more concern for scientists than the ice sheets in Antarctica, located at the southern pole of our planet. These ice sheets have been melting for a considerable period of time, and it doesn't require an advanced degree in physics to comprehend the risks involved. As the ice thaws, it flows into the ocean, causing sea levels to rise, which is an obvious and significant problem.
 
-Educação Física
----------------
+>A new study published in the journal PNAS, which was funded by NASA, reveals an alarming complication. Scientists from the Georgia Institute of Technology, NASA Jet Propulsion Laboratory, and the University of Washington conducted hundreds of simulations to predict how one massive ice sheet, Thwaites Glacier, could deteriorate over the next 50 to 800 years. The findings indicated that the glacier is more prone to instability than was previously assumed.
 
-Língua Inglesa
---------------
+\fonte{Fonte de pesquisa: A. J. Willingham. CNN. Antarctica’s ice is degrading faster than we thought, and there may be no way to stop the consequences. Disponível em: *https://edition.cnn.com/2019/07/10/world/antarctica-ice-sheet-sea-levels-trnd/index.html*. Acesso em: 01 mar. 2023.}
 
-1 -- Leia o texto a seguir e responda à pergunta:
+O texto reproduzido trata
 
-**Antarctica's ice is degrading faster than we thought, and there may be
-no way to stop the consequences**
+a\) das consequências das mudanças climáticas no Brasil.
 
-"There are plenty of ominous indicators of the consequences of climate
-change, but few are more worrying to scientists than the ice sheets of
-Antarctica at our planet's southern pole.
+b\) de formas de impedirmos o derretimento do gelo na Antártica.
 
-These ice sheets have been melting for quite some time, and it doesn't
-take a degree in physics to understand the risk there. As the ice melts
-it flows into the ocean, causing sea levels to rise. And rising sea
-levels are obviously a huge problem.
+c\) do ritmo de derretimento do gelo antártico.
 
-Now, new NASA-funded research published in the journal PNAS reveals a
-concerning complication. Scientists from the Georgia Institute of
-Technology, NASA Jet Propulsion Laboratory and the University of
-Washington ran hundreds of simulations to predict how one large ice
-sheet, Thwaites Glacier, could degrade over the next 50 to 800 years.
+d\) da ameaça aos animais da Antártida.
 
-The results showed the glacier was more in danger of becoming unstable
-that previously thought.
+SAEB: Identificar o assunto de um texto, a partir de sua organização, de
+palavras cognatas e/ou de palavras formas por afixação. BNCC: EF06LI06 -- Antecipar o sentido global de textos em língua inglesa por inferências, com base em leitura rápida, observando títulos, primeiras e últimas frases de parágrafos e palavras-chave repetidas.
 
-\[...\]"
-
-\fonte{<https://edition.cnn.com/2019/07/10/world/antarctica-ice-sheet-sea-levels-trnd/index.html>.
-Acesso em 01/03/2023.
-
-O texto reproduzido acima fala sobre
-
-a\) as consequências das mudanças climáticas no Brasil.
-
-b\) formas de impedirmos o derretimento do gelo na Antártica.
-
-c\) o ritmo de derretimento do gelo antártico.
-
-d\) a ameaça aos animais da Antártida.
-
-Dificuldade: Média.
-
-Saeb: Identificar o assunto de um texto, a partir de sua organização, de
-palavras cognatas e/ou de palavras formas por afixação. BNCC: (EF06LI06)
-Antecipar o sentido global de textos em língua inglesa por inferências,
-com base em leitura rápida, observando títulos, primeiras e últimas
-frases de parágrafos e palavras-chave repetidas.
-
-a\) Incorreta. O texto fala sobre a Antártida.
-
-b\) Incorreta. O texto não apresenta formas de impedirmos esse processo.
-
-c\) Correta. O tema do texto pode ser encontrado no trecho "The results
-showed the glacier was more in danger of becoming unstable that
+a\) Incorreta. O texto trata da Antártida.
+b\) Incorreta. O texto não apresenta formas de impedirmos o processo mencionado.
+c\) Correta. O tema do texto pode ser encontrado com base no trecho "The results showed the glacier was more in danger of becoming unstable that
 previously thought".
-
 d\) Incorreta. O texto não cita animais da região.
 
-2 -- Leia o texto a seguir e responda à pergunta:
+\num{2} Leia o texto.
 
-**By 2050, London's climate will be as warm as Barcelona's, says new
-study**
+>**Climate Change Study Warns of Severe Droughts in London by 2050**
 
-In 2050, London's climate will feel more like Barcelona's, according to
-a new climate change study.
+>A new climate change study states that by 2050, London's climate will resemble that of Barcelona. However, this doesn't imply a pleasant warming. In fact, London might confront severe droughts, as Barcelona did in 2008 when it almost depleted its drinking water and reservoirs came close to drying out.
 
-If this sounds like a pleasant warming -- think again. London could be
-facing severe drought, as Barcelona did in 2008, when it nearly ran out
-of drinking water and reservoirs ran close to dry.
+>The study conducted by the Crowther Lab at ETH Zurich university reveals that hundreds of other major cities worldwide may also face droughts, floods, storms, and other climate catastrophes.
 
-Hundreds of other major cities worldwide could be facing droughts,
-flooding, storms, and other climate catastrophes, said the study, which
-was conducted by the Crowther Lab at ETH Zurich university.
-
-\fonte{<https://edition.cnn.com/2019/07/11/europe/climate-cities-report-intl-hnk/index.html>.
-Acesso em 01/03/2023.
+\fonte{Fonte de pesquisa: Jessie Yeung. CNN. By 2050, London’s climate will be as warm as Barcelona’s, says new study. Disponível em: *https://edition.cnn.com/2019/07/11/europe/climate-cities-report-intl-hnk/index.html*. Acesso em: 01 mar. 2023.
 
 De acordo com o texto, o aumento das temperaturas na Inglaterra terá
 como consequência
@@ -99,211 +49,130 @@ c\) uma seca severa em Barcelona.
 
 d\) uma seca severa em Londres.
 
-Dificuldade: Difícil.
-
-Saeb: Localizar informações específicas, a partir de diferentes
-objetivos de leitura, em textos em língua inglesa. BNCC: (EF06LI08)
+SAEB: Localizar informações específicas, a partir de diferentes
+objetivos de leitura, em textos em língua inglesa. BNCC: EF06LI08 --
 Identificar o assunto de um texto, reconhecendo sua organização textual
 e palavras cognatas.
 
 a\) Incorreta. O texto menciona tempestades em outros lugares do mundo.
-
 b\) Incorreta. O texto menciona efeitos contrários.
-
 c\) Incorreta. O texto menciona Barcelona para comparar as duas cidades.
-
 d\) Correta. Podemos encontrar a resposta no trecho "London could be
-facing severe drought \[\...\]".
+facing severe drought".
 
-3 -- Leia o trecho a seguir e responda à pergunta:
+\num{3} Leia o texto.
 
-"Just before I was leaving, the old lady came up to my room and said in
+>**Dracula**
+>
+Just before I was leaving, the old lady came up to my room and said in
 a very hysterical way:
-
+>
 "Must you go? Oh! young Herr, must you go?" She was in such an excited
 state that she seemed to have lost her grip of what German she knew, and
 mixed it all up with some other language which I did not know at all. I
-was just able to follow her by asking many questions
+was just able to follow her by asking many questions \[...\].
 
-\[...\]".
+\<Bram Stoker. _Dracula_. Disponível em:
+*https://www.gutenberg.org/cache/epub/345/pg345-images.html*. Acesso em:
+01 mar. 2023.
 
-\<STOKER, Bram. *Dracula.* Disponível em:
-<https://www.gutenberg.org/cache/epub/345/pg345-images.html>. Acesso em
-01/03/2023.
-
-O trecho acima faz parte de um texto
+Esse trecho faz parte de um texto
 
 a\) literário.
 
 b\) argumentativo.
 
-c\) de notícia.
+c\) noticioso.
 
 d\) instrucional.
 
-Dificuldade: Fácil.
-
-Saeb: Identificar a finalidade de um texto em língua inglesa, com base
+SAEB: Identificar a finalidade de um texto em língua inglesa, com base
 em sua estrutura, organização textual, pistas gráficas e/ou aspectos
-linguísticos. BNCC: (EF06LI07) Formular hipóteses sobre a finalidade de
+linguísticos. BNCC: EF06LI07 -- Formular hipóteses sobre a finalidade de
 um texto em língua inglesa, com base em sua estrutura, organização
 textual e pistas gráficas.
 
 a\) Correta. O texto apresenta personagens e diálogos.
-
 b\) Incorreta. O texto não apresenta argumentos.
-
 c\) Incorreta. O texto não expõe informações recentes ao leitor.
-
-d\) Incorreta. O texto não apresenta instruções ao leitor.
-
-Matemática
-----------
-
-Ciências da Natureza
---------------------
-
-Ciências Humanas
-----------------
+d\) Incorreta. O texto não apresenta instruções para o leitor.
 
 # Simulado 2
-==========
+\num{1} Leia o texto.
 
-Língua Portuguesa
------------------
+>**Latin American Digital Media Outlets Turn to English to Reach New Audiences**
 
-Arte
-----
+>Despite Spanish being spoken by more than 500 million people worldwide, English has become the dominant global language for communication in entertainment, information, and business. In recent years, several digital media outlets in Latin America, spanning from Mexico to Chile, have opted to translate and produce content in English to broaden their audience reach and ultimately boost profits. However, this task can prove challenging at times, and success is not always guaranteed.
 
-Educação Física
----------------
+\fonte{Fonte de pesquisa: Katherine Pennacchio. MediaTalks. Latin American media seek to influence public debate and engage audience by translating its journalism into English. Disponível em: *https://mediatalks.uol.com.br/en/2021/10/15/latin-american-media-seek-to-influence-public-debate-and-engage-audience-in-u-s-by-translating-their-journalism-to-english/*. Acesso em: 01 mar. 2023.}
 
-Língua Inglesa
---------------
-
-1 -- Leia o texto a seguir e responda à questão:
-
-**Latin American media seek to influence public debate and engage
-audience by translating its journalism into English**
-
-"Although more than 500 million people in the world speak Spanish,
-English is the global communication language par excellence in the areas
-of entertainment, information and business.
-
-In recent years, various digital media in Latin America, from Mexico to
-Chile, have decided to translate and create content in English as a way
-to reach new audiences and thus increase their profits. Although,
-sometimes that's easier said than done.
-
-\[...\]".
-
-\fonte{<https://mediatalks.uol.com.br/en/2021/10/15/latin-american-media-seek-to-influence-public-debate-and-engage-audience-in-u-s-by-translating-their-journalism-to-english/>.
-Acesso em 01/03/2023.
-
-De acordo com o texto, podemos concluir que
+A partir do texto, conclui-se que
 
 a\) a língua inglesa exerce influência na mídia europeia.
 
 b\) o inglês é irrelevante no mundo contemporâneo.
 
-c\) não há demanda para o ensino de inglês no Brasil.
+c\) a demanda para o ensino de inglês no Brasil não existe.
 
-d\) o inglês é considerada a língua internacional da área midiática.
+d\) o inglês é considerado a língua internacional da área midiática.
 
-Dificuldade: Média.
-
-Saeb: Avaliar a presença, no mundo globalizado, da língua inglesa e/ou
-de produtos culturais de países de língua inglesa. BNCC: (EF07LI21)
+SAEB: Avaliar a presença, no mundo globalizado, da língua inglesa e/ou
+de produtos culturais de países de língua inglesa. BNCC: EF07LI21 --
 Analisar o alcance da língua inglesa e os seus contextos de uso no mundo
 globalizado.
 
-a\) Incorreta. O texto fala sobre a mídia latino-americana.
-
-b\) Incorreta. O texto afirma exatamente o contrário.
-
+a\) Incorreta. O texto trata da mídia latino-americana.
+b\) Incorreta. No texto, afirma-se exatamente o contrário.
 c\) Incorreta. O texto não traz afirmações sobre o ensino de inglês no
 Brasil.
-
 d\) Correta. Essa afirmação pode ser encontrada no trecho "English is
-the global communication language par excellence \[\...\]" .
+the global communication language par excellence".
 
-2 -- Leia o texto a seguir e responda à pergunta:
+\num{2} Leia o texto.
 
-**COP27: Why is the Paris climate agreement still important?**
+>**World Leaders Gather at COP27 to Address Climate Change and Build on Paris Agreement**
 
-"The nations of the world are due to meet at the COP27 summit in Egypt,
-to try to agree far-reaching action on climate change.
+>The COP27 summit in Egypt will host representatives from various nations, who will gather to negotiate extensive measures aimed at combating climate change. The pressure is on for them to surpass the significant pledges made in Paris seven years ago.
 
-They are under pressure to improve on landmark commitments they made
-seven years ago in Paris.
+>The Paris Agreement was a momentous agreement, in which almost all of the world's nations endorsed a unified approach to reducing greenhouse gas emissions, which are responsible for global warming. Despite former US President Donald Trump's decision to pull out of the agreement, his successor Joe Biden reinstated it on his first day in office in January 2021.
 
-What is the Paris Agreement?
+\fonte{Fonte de pesquisa: Helen Briggs e Esme Stallard. BBC. COP27: Why is the Paris climate agreement still important? Disponível em: *https://www.bbc.com/news/science-environment-35073297*. Acesso em: 01 mar. 2023.}
 
-The Paris Agreement saw almost all the world\'s nations - for the first
-time - support a common strategy to cut the greenhouse gas emissions
-which cause global warming.
+O que se compreende do texto como um todo?
 
-\[...\]
+a\) Todos os líderes mundiais concordam a respeito do acordo de Paris.
 
-US President Donald Trump withdrew from the agreement, but his successor
-Joe Biden rejoined on his first day in office in January 2021.
+b\) O evento COP27 não é muito relevante.
 
-\[...\]".
+c\) Diversos líderes mundiais não compareceram ao encontro COP27.
 
-\fonte{\< <https://www.bbc.com/news/science-environment-35073297>. Aces em 01/03/2023.
-
-De acordo com o texto,
-
-a\) todos os líderes mundiais concordam a respeito do acordo de Paris.
-
-b\) o evento COP27 não é muito relevante.
-
-c\) diversos líderes mundiais não compareceram no encontro COP27.
-
-d\) os últimos presidentes dos EUA discordam a respeito do acordo de
+d\) Os últimos presidentes dos EUA discordam a respeito do acordo de
 Paris.
 
-Dificuldade: Fácil.
-
-Saeb: Contrapor perspectivas sobre um mesmo assunto em textos em língua
-inglesa. BNCC: (EF09LI06) Distinguir fatos de opiniões em textos
+SAEB: Contrapor perspectivas sobre um mesmo assunto em textos em língua
+inglesa. BNCC: EF09LI06 -- Distinguir fatos de opiniões em textos
 argumentativos da esfera jornalística.
 
 a\) Incorreta. O texto menciona discordâncias a respeito do acordo.
-
 b\) Incorreta. O texto menciona o evento como um encontro internacional
 importante.
-
 c\) Incorreta. O texto não faz menção a líderes que não compareceram ao
 evento.
-
 d\) Correta. Essa informação está no trecho "US President Donald Trump
 withdrew from the agreement, but his successor Joe Biden rejoined on his
 first day in office in January 2021".
 
-3 -- Leia o texto a seguir e responda à pergunta:
+\num{3} Leia o texto.
 
-**London Stadium to be covered in solar panels to generate power**
+>**West Ham United Stadium to be Wrapped in Solar Membrane in Effort to Reduce Carbon Emissions**
 
-"The 2012 Olympics stadium - now home to West Ham United - is to be
-wrapped in a solar membrane to reduce carbon emissions, it has been
-revealed.
+>The West Ham United stadium, which was originally built for the 2012 Olympics, is set to undergo a green transformation with the installation of a solar membrane aimed at reducing carbon emissions.
 
-It is estimated the project will cost £4 million over the first two
-years but would pay for itself after five years.
+>The project is expected to cost around £4 million during the first two years of implementation, but the investment is expected to be recouped within five years. Planning documents suggest that work on the site located in east London could commence later this year.
 
-According to planning documents, the work could start on the east London
-site later this year.
+>The stadium's owner, the London Legacy Development Corporation (LLDC), established to oversee the area's development around the Queen Elizabeth Olympic Park in Stratford after the 2012 Games, states that the building could start producing energy by the end of 2024.
 
-The building could then start generating energy by end of 2024,
-according to the stadium\'s owner, the London Legacy Development
-Corporation (LLDC) - a body set up after the 2012 Games to manage the
-development of the area around the Queen Elizabeth Olympic Park in
-Stratford.
-
-\[...\]".
-
-\fonte{\< <https://www.bbc.com/news/uk-england-london-64758344>. Aces em 01/03/2023.
+\fonte{Fonte de pesquisa: Noah Vickers. BBC. London Stadium to be covered in solar panels to generate power. Disponível em: *https://www.bbc.com/news/uk-england-london-64758344*. Acesso em 01 mar. 2023.
 
 De acordo com o texto, os painéis solares serão instalados no estádio
 para
@@ -316,45 +185,17 @@ c\) evitar apagões.
 
 d\) estimular o crescimento da cidade de Londres.
 
-Dificuldade: Difícil.
-
-Saeb: Distinguir fatos de opiniões em textos em língua inglesa. BNCC:
-(EF09LI06) Distinguir fatos de opiniões em textos argumentativos da
+SAEB: Distinguir fatos de opiniões em textos em língua inglesa. BNCC:
+EF09LI06 -- Distinguir fatos de opiniões em textos argumentativos da
 esfera jornalística.
 
-a\) Incorreta. O texto não menciona os treinos do time.
-
-b\) Correta. Essa afirmação pode ser encontrada no trecho "\[\...\] is
-to be wrapped in a solar membrane to reduce carbon emissions \[\...\]".
-
+a\) Incorreta. Apesar de se falar em um estádio, o texto não menciona os treinos de um time.
+b\) Correta. Essa afirmação pode ser encontrada no trecho "is
+to be wrapped in a solar membrane to reduce carbon emissions".
 c\) Incorreta. O texto não menciona essa possibilidade.
-
-d\) Incorreta. O texto apenas menciona a cidade de Londres.
-
-Matemática
-----------
-
-Ciências da Natureza
---------------------
-
-Ciências Humanas
-----------------
+d\) Incorreta. O texto apenas menciona a cidade de Londres, sem falar de seu crescimento.
 
 # Simulado 3
-==========
-
-Língua Portuguesa
------------------
-
-Arte
-----
-
-Educação Física
----------------
-
-Língua Inglesa
---------------
-
 1 -- Leia o texto a seguir e responda à pergunta:
 
 **Coronavirus effect: Here\'s why you should wear masks in public places
@@ -376,7 +217,7 @@ surface reduces the chance of the virus to enter the body.
 \[...\]."
 
 \fonte{<https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-effect-heres-why-you-should-wear-masks-in-public-places-even-when-there-is-no-mandate/photostory/92539871.cms?picid=92540018>.
-Acesso em: 02/03/2023.
+Acesso em: 02 mar. 2023.
 
 De acordo com o texto, um dos argumentos para o uso de máscaras contra a
 Covid-19 refere-se ao fato de que
@@ -436,7 +277,7 @@ trustworthy.
 \[...\]".
 
 \fonte{<https://www.washingtonpost.com/technology/2022/02/24/tips-avoid-misinformation-ukraine-2/>.
-Acesso em: 02/03/2023.
+Acesso em: 02 mar. 2023.
 
 Segundo o texto, como podemos identificar um argumento confiável?
 
@@ -482,7 +323,7 @@ distinct species.
 \[...\]".
 
 \fonte{<https://edition.cnn.com/2023/03/02/world/gold-throated-hummingbird-hybrid-scn/index.html>.
-Acesso em: 02/03/2023.
+Acesso em: 02 mar. 2023.
 
 No contexto apresentado no texto acima, a palavra "spot" significa
 
@@ -552,7 +393,7 @@ Joes in it, Pip!'
 
 \<DICKENS, Charles. *Great Expectations.* Disponível em:
 <https://www.gutenberg.org/cache/epub/1400/pg1400-images.html>. Acesso
-em 02/03/2023.
+em 02 mar. 2023.
 
 As duas personagens envolvidas no diálogo reproduzido acima são:
 
@@ -600,7 +441,7 @@ Wednesday.
 \[...\]".
 
 \fonte{<https://www.npr.org/2023/02/22/1158793897/webb-telescope-huge-early-galaxies-big-bang>.
-Acesso em 02/03/2023.
+Acesso em 02 mar. 2023.
 
 O texto reproduzido acima fala sobre
 
@@ -645,7 +486,7 @@ less than a meter (3 feet) long.
 \[...\]".
 
 \fonte{<https://edition.cnn.com/2022/12/26/world/dinosaur-mammal-last-meal-scn/index.html>.
-Acesso em: 02/03/2023.
+Acesso em: 02 mar. 2023.
 
 De acordo com o texto, os pesquisadores encontraram
 
@@ -683,3 +524,4 @@ Ciências da Natureza
 
 Ciências Humanas
 ----------------
+
