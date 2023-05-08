@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  8 MAY 2023 15:08
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  8 MAY 2023 15:16
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.079 seconds
+luaotfload | main : initialization completed in 0.101 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -2215,42 +2215,22 @@ Package microtype Info: Loading generic protrusion settings for font family
 ono8-regular.luc) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-<../watermarks/front5ano.pdf>] (./2-creditos.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--28
+<../watermarks/front5ano.pdf>] (../2-creditos.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 31.
+(Font)              <8> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 31.
+(Font)              <6> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 31.
+(Font)              <5> on input line 12.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--55
+Underfull \hbox (badness 10000) in paragraph at lines 39--45
 
  []
 
@@ -2294,7 +2274,7 @@ rn Roman (RS)
 )
 warning  (file ../watermarks/intro5ano.pdf) (pdf inclusion): PDF inclusion: foun
 d PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/intro5ano.pdf, id=166, 596.42624pt x 792.32413pt>
+<../watermarks/intro5ano.pdf, id=165, 596.42624pt x 792.32413pt>
 File: ../watermarks/intro5ano.pdf Graphic file (type pdf)
 <use ../watermarks/intro5ano.pdf>
 Package luatex.def Info: ../watermarks/intro5ano.pdf  used on input line 60.
@@ -2329,7 +2309,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 warning  (file ../watermarks/bg5anoimpar.pdf) (pdf inclusion): PDF inclusion: fo
 und PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/bg5anoimpar.pdf, id=221, 595.3472pt x 795.08401pt>
+<../watermarks/bg5anoimpar.pdf, id=220, 595.3472pt x 795.08401pt>
 File: ../watermarks/bg5anoimpar.pdf Graphic file (type pdf)
 <use ../watermarks/bg5anoimpar.pdf>
 Package luatex.def Info: ../watermarks/bg5anoimpar.pdf  used on input line 3.
@@ -2370,7 +2350,7 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 53.
 
 warning  (file ../watermarks/1modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
 und PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/1modulo5ano.pdf, id=275, 596.42624pt x 792.32413pt>
+<../watermarks/1modulo5ano.pdf, id=274, 596.42624pt x 792.32413pt>
 File: ../watermarks/1modulo5ano.pdf Graphic file (type pdf)
 <use ../watermarks/1modulo5ano.pdf>
 Package luatex.def Info: ../watermarks/1modulo5ano.pdf  used on input line 53.
@@ -2388,7 +2368,7 @@ Package babel Info: Redefining portuges shorthand "|
 
 <../watermarks/1modulo5ano.pdf>]
 Package mdframed Info: mdframed works in twoside mode on input line 73.
-<./imgs/img1.jpg, id=335, 1003.75pt x 669.50125pt>
+<./imgs/img1.jpg, id=334, 1003.75pt x 669.50125pt>
 File: ./imgs/img1.jpg Graphic file (type jpg)
 <use ./imgs/img1.jpg>
 Package luatex.def Info: ./imgs/img1.jpg  used on input line 73.
@@ -2423,7 +2403,7 @@ Package babel Info: Redefining portuges shorthand "|
 [7]
 warning  (file ../watermarks/bg5anopar.pdf) (pdf inclusion): PDF inclusion: foun
 d PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/bg5anopar.pdf, id=341, 596.42624pt x 792.32413pt>
+<../watermarks/bg5anopar.pdf, id=340, 596.42624pt x 792.32413pt>
 File: ../watermarks/bg5anopar.pdf Graphic file (type pdf)
 <use ../watermarks/bg5anopar.pdf>
 Package luatex.def Info: ../watermarks/bg5anopar.pdf  used on input line 76.
@@ -2438,7 +2418,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 76.
 [8<../watermarks/bg5anopar.pdf><./imgs/img1.jpg>]
-<./imgs/img2.jpg, id=358, 1003.75pt x 669.50125pt>
+<./imgs/img2.jpg, id=357, 1003.75pt x 669.50125pt>
 File: ./imgs/img2.jpg Graphic file (type jpg)
 <use ./imgs/img2.jpg>
 Package luatex.def Info: ./imgs/img2.jpg  used on input line 87.
@@ -2541,7 +2521,7 @@ Underfull \hbox (badness 2818) in paragraph at lines 211--215
 
 Package mdframed Info: mdframed inside a box 
  mdframed uses option nobreak mdframed on input line 217.
-<./imgs/img3.jpg, id=382, 963.6pt x 602.25pt>
+<./imgs/img3.jpg, id=381, 963.6pt x 602.25pt>
 File: ./imgs/img3.jpg Graphic file (type jpg)
 <use ./imgs/img3.jpg>
 Package luatex.def Info: ./imgs/img3.jpg  used on input line 220.
@@ -2565,7 +2545,7 @@ Overfull \hbox (54.90118pt too wide) has occurred while \output is active
 
 warning  (file ../watermarks/2modulo5ano.pdf) (pdf inclusion): PDF inclusion: fo
 und PDF version '1.7', but at most version '1.5' allowed
-<../watermarks/2modulo5ano.pdf, id=383, 596.42624pt x 792.32413pt>
+<../watermarks/2modulo5ano.pdf, id=382, 596.42624pt x 792.32413pt>
 File: ../watermarks/2modulo5ano.pdf Graphic file (type pdf)
 <use ../watermarks/2modulo5ano.pdf>
 Package luatex.def Info: ../watermarks/2modulo5ano.pdf  used on input line 254.
@@ -9028,24 +9008,24 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 46028 strings out of 494480
+ 46025 strings out of 494480
  156284,1373583 words of node,token memory allocated
  1732 words of node memory still in use:
    5 hlist, 1 vlist, 1 rule, 27 glue, 30 attribute, 254 glue_spec, 30 attribute_
 list, 3 shape, 3 write nodes
    avail lists: 1:3,2:3830,3:1065,4:868,5:3062,6:6557,7:1811,8:662,9:2104,10:260
 ,11:861,12:1
- 45903 multiletter control sequences out of 65536+600000
- 94 fonts using 16866663 bytes
+ 45901 multiletter control sequences out of 65536+600000
+ 93 fonts using 16599455 bytes
  84i,18n,96p,1330b,1418s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/edlab/texmf/tex/fonts/Cambria Bold.ttf></home/edlab/texmf/tex/fonts/Cambr
-ia Italic.ttf></home/edlab/texmf/tex/fonts/Cambria.ttf></home/edlab/texmf/tex/fo
-nts/Gotham-Black.otf></home/edlab/texmf/tex/fonts/MinionPro-It.ttf></home/edlab/
+ia Italic.ttf></home/edlab/texmf/tex/fonts/MinionPro-It.ttf></home/edlab/texmf/t
+ex/fonts/Cambria.ttf></home/edlab/texmf/tex/fonts/Gotham-Black.otf></home/edlab/
 texmf/tex/fonts/MinionPro-Regular.otf></home/edlab/texmf/tex/fonts/Minion Pro Bo
 ld.ttf></usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (270 pages, 74943740 bytes).
+Output written on LIVRO.pdf (270 pages, 74943091 bytes).
 
 PDF statistics: 3121 PDF objects out of 3580 (max. 8388607)
  2313 compressed objects within 24 object streams
