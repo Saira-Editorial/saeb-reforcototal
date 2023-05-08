@@ -1861,7 +1861,7 @@ e movimentos e podem apresentar criticidade em relação a assuntos ou
 temas em foco na mídia, ou podem conter teor puramente de humor. Esses
 elementos de variadas linguagens são criados pelos elaboradores dos
 memes, que utilizam aplicativos de imagem e som. Em relação aos recursos
-verbais, costumma-se utilizar trocadilhos e figuras de estilo que
+verbais, costuma-se utilizar trocadilhos e figuras de estilo que
 auxiliam na produção de discursos irônicos.
 
 Para se produzir um meme, pode-se fazer uso de técnicas muito
