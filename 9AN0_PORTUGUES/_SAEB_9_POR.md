@@ -1830,26 +1830,20 @@ ser escolhidas oficialmente.
 
 # 6. Universo digital
 
-Neste módulo, os alunos vão compreender o meme como gênero textual
-digital.
-
-Habilidades da BNCC: EF69LP03 e EF69LP05.
-
-Habilidades do SAEB:
+Habilidade do SAEB
 
 \- Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
 crítica.
 
+Habilidades da BNCC
+\- EF69LP03
+\- EF69LP05
+
 \<início do boxe de conteúdo\>
 
-https://www.istockphoto.com/br/foto/raccoon-engra%C3%A7ado-em-%C3%B3culos-de-sol-verdes-que-mostram-um-gesto-de-rocha-isolado-no-gm1154370446-313894675?utm\_campaign=srp\_photos\_inline&utm\_content=https%3A%2F%2Fwww.pexels.com%2Fprocurar%2Fhumor%2F&utm\_medium=affiliate&utm\_source=pexels&utm\_term=humor
+https://www.freepik.com/free-photo/business-pug-puppy-wearing-tie_3740893.htm#query=meme&position=3&from_view=search&track=sph
 
 **Memes: Humor, ironia e crítica**
-
-![Raccoon engraçado em óculos de sol verdes que mostram um gesto de
-rocha isolado no fundo branco - Foto de stock de Animal
-royalty-free](./_SAEB_9_POR/media/image9.jpeg){width="5.418575021872266in"
-height="3.5930555555555554in"}
 
 Memes de internet consistem em objetos de leitura, análise e observação.
 São vastamente utilizados usado na esfera digital (*blogs*, redes
@@ -1864,8 +1858,8 @@ Esses textos são altamente fantasiosos, combinados ou não a frases, sons
 e movimentos e podem apresentar criticidade em relação a assuntos ou
 temas em foco na mídia, ou podem conter teor puramente de humor. Esses
 elementos de variadas linguagens são criados pelos elaboradores dos
-memes, que utilizam aplicativos de imagem e som. No tocante aos recursos
-verbais, costuma-se utilizar trocadilhos e figuras de estilo que
+memes, que utilizam aplicativos de imagem e som. Em relação aos recursos
+verbais, costumma-se utilizar trocadilhos e figuras de estilo que
 auxiliam na produção de discursos irônicos.
 
 Para se produzir um meme, pode-se fazer uso de técnicas muito
@@ -1874,9 +1868,6 @@ está circulando, sendo conhecido do público -- cenas de filmes, de
 seriados, de novelas, personagens marcantes, fotos de personalidades
 públicas, frases de impacto de alguma personalidade, canções que estão
 em destaque etc.
-
-Meme é um gênero conhecido pela paródia, exigindo que o leitor realize
-conexões intertextuais e discursivas.
 
 Em razão de sua característica crítica e humorística, frequentemente os
 memes são utilizados para fazer crítica a hábitos e personalidades
@@ -1887,49 +1878,50 @@ ao comportamento humano.
 
 \colorsec{Atividades}
 
-1.  Leia o meme a seguir.
+1.  Observe o meme a seguir. Veja a imagem e leia o texto que o compõem.
 
-> Questione aos alunos se eles têm o hábito de compartilhar memes e de
-> elaborá-los. Explique a eles sobre esse novo gênero textual, criado
-> por conta da popularização das redes sociais. Diga-lhes que os memes
-> podem tanto criticar comportamentos e atitudes como ser brincadeiras
-> com imagens e jogos de palavras.
->
-> https://pt.dopl3r.com/memes/graciosos/voce-atrai-aquilo-que-tem-medo-ai-que-medo-de-ficar-rico/49887
+https://www.freepik.com/free-photo/photo-scared-woman-covers-face-with-both-hands-looks-through-fingers-peeks-with-fear-has-dark-hair-dressed-comfortable-jumper_11409440.htm#query=afraid&position=2&from_view=search&track=sph
 
-![VOCE ATRAI AQUILO QUE TEM MEDO AÍ QUE MEDO DE FICAR RICO
-](./_SAEB_9_POR/media/image10.jpeg){width="3.2708333333333335in"
-height="3.301602143482065in"}
+"Dizem que a gente atrai aquilo de que tem medo.
+Ai, que medo de ficar rico!"
 
--   De acordo com o meme, por que o personagem está com medo de ficar
-    rico? Por conta do ditado popular que diz que você atrai aquilo que
-    tem medo.
+De acordo com o meme, qual seria o objetivo de temer a riqueza? 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{3}
+	
+Por conta do ditado popular que diz que você atrai aquilo que tem medo. Logo, ter medo de ficar rico atrairia a riqueza em si.
 
-2.  Leia o meme a seguir.
 
-> https://www.coisasengracadas.com.br/memes/black-friday-confira-os-memes-do-dia-mais-esperado-para-comprar/
+Observe as imagens e os textos de um meme. Depois, responda às questões 2, 3 e 4.
 
-![black friday
-meme](./_SAEB_9_POR/media/image11.jpeg){width="3.988888888888889in"
-height="4.110844269466317in"}
+%Quadro 1: "Faltam 2 dias para a Black Friday: ESPEREM!"
+https://www.freepik.com/free-photo/annoyed-student-posing-against-white-wall_11140484.htm#query=angry%20man&position=28&from_view=search&track=ais
 
-a\) Por que, no primeiro e segundo quadros, o homem pede que as pessoas
-esperem? Ele pede que pessoas não façam compras até o dia a Black Friday
-(Dia no qual abre a temporada de compras natalícias com significativas
+%Quadro 2: "Falta 1 dia para a Black Friday: ESPEREM!"
+https://www.freepik.com/free-photo/annoyed-student-posing-against-white-wall_11140484.htm#query=angry%20man&position=28&from_view=search&track=ais
+
+%Quadro 3: "Chegou a Black Friday."
+https://www.freepik.com/free-photo/handsome-man-with-dark-hair-bristle-hides-face-with-hands_13761404.htm#query=sad%20man&position=47&from_view=search&track=ais
+
+
+2. Por que, no primeiro e no segundo quadros, o homem pede que as pessoas
+esperem? 
+
+\linhas{5}
+
+Ele pede que pessoas não façam compras até o dia a Black Friday
+(dia no qual se abre uma temporada de compras que promete significativas
 promoções em muitas lojas).
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+3. No terceiro quadro, o homem ficou envergonhado. Explique o motivo. 
 
-b\) No terceiro quadro, o homem ficou chateado. Explique o motivo. Ele
-ficou chateado porque a propaganda da promoção foi mentirosa, uma vez
-que o valor promocional não traz desconto algum.
+\linhas{6}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Ele ficou chateado porque a propaganda da promoção foi mentirosa, uma vez
+que os valores promocionais, provavelmente, não foram bons como prometido.
 
-c\) O texto acima traz humor em relação a um fato do dia a dia. Além de
-provocar humor, a função desse texto é:
+4. O texto traz humor em relação a um fato do dia a dia. Além de
+provocar humor, a função desse texto é
 
 ( ) dar opinião.
 
@@ -1937,41 +1929,90 @@ provocar humor, a função desse texto é:
 
 ( x ) realizar uma crítica.
 
-3.  Leia mais um meme e responda às questões.
+Leia mais um meme e responda às questões 5 e 6.
 
-https://ahseeit.com/portuguese/?qa=2014/qualquer-pessoa-mds-vc-e-muito-lerda-meme
+https://www.freepik.com/free-photo/unaware-doubtful-woman-spreads-hands-raises-eyebrows-with-hesitation_10584966.htm#query=i%20dont%20understand&position=5&from_view=search&track=ais
 
-![](./_SAEB_9_POR/media/image12.jpeg){width="4.208333333333333in"
-height="4.481003937007874in"}
+Pessoas: Vc n entende nd do q falamos c vc...
+Eu: Entendo nada de quê?
 
-a\) As abreviações das palavras se tornaram algo muito comum na
-comunicação com o advento da internet. O que a abreviatura no meme acima
-representa? A abreviação \"mds\". significa \"Meu Deus!\".
+5. As abreviações das palavras se tornaram algo muito comum na
+comunicação com o advento da internet. Reescreva a primeira fala do meme, explicitando cada uma das abreviações.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{2}
 
-b\) Por que a personagem do meme é chamada de muito lerda? Por que ela
-teve dificuldades até de entender a afirmação.
+Pessoas: Você não entende nada do que falamos com você...
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+6. Por que a personagem do meme pode ser considerada muito lerda? 
 
-4\. Leia o meme a seguir.
+\linhas{3}
 
-https://pt.memedroid.com/memes/tag/frete+gratis
+Por que ela teve dificuldades até de entender uma afirmação sobre a própria dificuldade de entender as coisas.
 
-![População brasileira comprando no mercado livre -
-meme](./_SAEB_9_POR/media/image13.jpeg){width="4.25in" height="4.25in"}
+Leia o meme a seguir para responder às questões 7, 8, 9 e 10.
 
--   Explique o humor desse meme. O fato de o personagem ficar contente
-    com o fato de o valor do frete ser apresentado como grátis, mesmo
-    que o valor total do produto continua o mesmo do anterior com frete
-    de 1 real.
+https://www.freepik.com/free-photo/hiker-climbing-outdoors_1150877.htm#query=difficult%20situation%20adventure&position=0&from_view=search&track=ais
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Eu me esforçando para conseguir comprar um produto de 1 real, só porque tem frete grátis, antes de saber que meu cartão vai ser recusado.
+
+7. Explique o humor desse meme. 
+
+\linhas{6}
+
+O fato de o homem se esforçar tanto simplesmente pelo fato de o valor do frete ser apresentado como grátis, mesmo que o valor total do produto seja tão baixo.
+
+8. Fica implícito que o esforço não será recompensado porque haverá um problema no trajeto. Qual seria esse empecilho?
+
+\linhas {3}
+
+Seria o fato de que o cartão do homem (consumidor) não seria aprovado, impedindo a compra.
+
+9. Existe uma crítica embutida no meme. Que crítica é essa?
+
+\linhas{4}
+
+Trata-se de uma crítica ao consumismo exacerbado e ao poder da propaganda.
+
+10. O que representa, visualmente, a ideia de que existe esforço por parte do homem para conseguir realizar a compra anunciada?
+
+\linhas{4}
+
+O que representa, na imagem, esse esforço, é a montanha e a dficuldade de escalá-la.
+
+
 
 \colorsec{Treino}
 
-1\. Leia o trecho da entrevista a seguir. (Fácil)
+1 -- Leia a charge a seguir.
+
+https://www.freepik.com/free-vector/hand-drawn-japan-food-illustration_22821914.htm#query=vegetarian%20meal&position=6&from_view=search&track=ais
+
+"Segunda-feira sem carne pelo planeta. terça, quarta, quinta, sexta, sábado e domingo sem carne por causa do bolso"
+
+O humor da charge se apresenta
+
+\(A\) no colorido dos vegetais mostrados na imagem.
+
+\(B\) no fato de os pratos não combinarem entre si.
+
+\(C\) na contradição gastronômica e ideológica de haver ovos na imagem.
+
+\(D\) na citação de dias da semana em que não se come carne por causa de seu preço.
+
+BNCC: EF69LP05 - Inferir e justificar, em textos multissemióticos --
+tirinhas, charges, memes, gifs etc. --, o efeito de humor, ironia e/ou
+crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de
+clichês, de recursos iconográficos, de pontuação etc.
+
+a\) Incorreta. O colorido não gera humor.
+
+b\) Incorreta. Pratos de vegetais combinam entre si.
+
+c\) Incorreta. Vegetarianos comem ovos.
+
+d\) Correta. O humor da charge se encontra no fato de que em apenas um dos dias da semana não se come carne pelo meio ambiente e pelo planeta; nos demais, o impedimento é o preço da carne.
+
+2\. Leia o trecho de entrevista a seguir.
 
 **"O Brasil exportava talentos, hoje exporta animação: leia entrevista
 com César Coelho"**
@@ -1984,7 +2025,7 @@ que a gente está tendo, como O menino e o mundo no Oscar, mas a gente já
 ganhou dois anos seguidos o Festival de Annecy, na França, e isso é a
 ponta de um iceberg que a gente já vem cultivando há mais de 10 anos.
 
-SANTANA, Ana Elisa. O Brasil exportava talentos, hoje exporta animação:
+Ana Elisa Santana. EBC. O Brasil exportava talentos, hoje exporta animação:
 leia entrevista com César Coelho. Disponível em:
 www.ebc.com.br/cultura/2016/02/o-brasil-exportava-talentos-hoje-exporta-animacao-leia-entrevista-com-cesar-coelho&gt;.
 Acesso em: 03 mar. 2023.
@@ -1999,9 +2040,7 @@ Por meio da leitura do trecho, o tema principal é (são)
 
 \(D\) a evolução da animação no Brasil.
 
-Saeb: D6
-
-BNCC: EF69LP03 Identificar, em notícias, o fato central, suas principais
+BNCC: EF69LP03 - Identificar, em notícias, o fato central, suas principais
 circunstâncias e eventuais decorrências; em reportagens e
 fotorreportagens o fato ou a temática retratada e a perspectiva de
 abordagem, em entrevistas os principais temas/subtemas abordados,
@@ -2018,17 +2057,11 @@ evolução das animações.
 \(D\) Correta. O tema principal é a evolução da animação no Brasil,
 dadas as informações sobre a mudança ocorrida nos últimos 12 anos
 
-2 -- Leia a charge a seguir. (Médio)
+3\- Observe a charge a seguir, que circulou na época da pandemia de Coronavírus.
 
-www.otempo.com.br/charges/charge-o-tempo-12-03-2020-1.2309691\#
+https://www.freepik.com/free-vector/nice-family-vampires_1321010.htm#query=addam%20s%20family&position=0&from_view=search&track=ais
 
-![Charge O TEMPO
-12/03/2020](./_SAEB_9_POR/media/image14.jpeg){width="5.905555555555556in"
-height="3.9368055555555554in"}
-
-DUKE, Corona. *O Tempo*, 12 mar. 2020. Disponível em:
-\<www.otempo.com.br/charges/charge-o-tempo-12-03-2020-1.2309691\#\>.
-Acesso em: 12 maio 2020.
+"Alguém sabe se o Mãozinha já tomou banho de álcool em gel?"
 
 Essa charge está relacionada à pandemia do coronavírus. Pode-se afirmar
 que o humor desse texto ocorre
@@ -2049,9 +2082,7 @@ das mãos.
 personagem da série lidaria com as restrições da pandemia causada pelo
 coronavírus.
 
-Saeb:
-
-BNCC: EF69LP05: Inferir e justificar, em textos multissemióticos --
+BNCC: EF69LP05 - Inferir e justificar, em textos multissemióticos --
 tirinhas, charges, memes, gifs etc. --, o efeito de humor, ironia e/ou
 crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de
 clichês, de recursos iconográficos, de pontuação etc.
@@ -2070,51 +2101,9 @@ personagens da série *A Família Addams*, o efeito de humor ocorre pela
 situação de o coronavírus ter afetado mais fortemente uma personagem que
 é apenas uma mão, a qual tem de lidar com as restrições e os
 procedimentos higiênicos específicos da pandemia relacionada ao
-coronavírus
+coronavírus.
 
-3 -- Leia a charge a seguir. (Difícil)
 
-![](./_SAEB_9_POR/media/image15.png){width="5.906944444444444in"
-height="3.933333333333333in"}
-
-DUKE. Charge o tempo. *O tempo*, 26 fev. 2020. Disponível em:
-\<www.otempo.com.br/charges/charge-o-tempo-26-02-2020-1.2302804\>.
-Acesso em: 03 mar. 2023
-
-O humor da charge se apresenta
-
-\(A\) na expressão de alegria nos rostos dos personagens quando a mãe
-cita que não comerão mais carne por conta da quaresma e do aumento do
-valor.
-
-\(B\) no fato de a família estar toda reunida para o jantar e
-demonstrarem surpresa quando a mãe diz que estão comemorando o início da
-quaresma.
-
-\(C\) nas expressões faciais de susto dos pais ao notarem que seus
-filhos estão comendo apenas salada durante o jantar.
-
-\(D\) no momento em que a personagem cita a quaresma, período que não se
-come carne, para comparar com o fato de a carne estar custando caro.
-
-Saeb:
-
-BNCC: EF69LP05: Inferir e justificar, em textos multissemióticos --
-tirinhas, charges, memes, gifs etc. --, o efeito de humor, ironia e/ou
-crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de
-clichês, de recursos iconográficos, de pontuação etc.
-
-a\) Incorreta. As personagens demonstram estar surpresos.
-
-b\) Incorreta. A família demonstra surpresa pelo fato de a mãe citar que
-eles não comerão mais carne por conta do aumento no valor e não porque
-estão comemorando o início da quaresma
-
-c\) Incorreta. Os pais não demonstram estar assustados
-
-d\) Correta. O humor da charge se encontra na fala da personagem, quando
-ela cita a quaresma, período em que muitos religiosos não comem carne,
-para comparar com o fato de a carne estar muito cara
 
 # Módulo 7
 
