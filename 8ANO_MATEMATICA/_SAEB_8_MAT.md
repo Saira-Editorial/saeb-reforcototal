@@ -47,7 +47,7 @@ completa um número. Se todos os fatores tiverem expoente par, o número
 será um quadrado perfeito. Caso um dos fatores não apresente expoente
 par, o número não será um quadrado perfeito.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Calculando-se $\sqrt{27}$ , obtém-se 5,196152423\..., número que tem
 representação decimal infinita, mas não é dízima periódica.
@@ -223,7 +223,7 @@ Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Resposta:
 
-Alternativa c 121, pois 11 x 11 = 121
+c 121, pois 11 x 11 = 121
 
 9\) O produto ou o quociente de dois números irracionais pode ser um
 número racional?
@@ -287,7 +287,7 @@ g\) 1,342 = $\frac{1342}{1000}$
 
 h\) 5,09409 = $\frac{509\ 409}{100\ 000}$
 
-Treino
+\colorsec{Treino}
 
 1\) Qual é a decomposição do número 1 000 em fatores primos?
 
@@ -307,16 +307,16 @@ Habilidades Saeb
 finita) na forma aditiva, ou em suas ordens, ou em adições e
 multiplicações.
 
-Alternativa A: incorreta ao não computar 1 elemento 2 e um elemento 5 na
+A: incorreta ao não computar 1 elemento 2 e um elemento 5 na
 fatoração chegará a esse resultado erroneamente.
 
-Alternativa B: incorreta ao computar 1 elemento 2 a mais e um elemento 5
+B: incorreta ao computar 1 elemento 2 a mais e um elemento 5
 a menos na fatoração chegará a esse resultado erroneamente.
 
-Alternativa C: correta, Ao decompor o número 1 000 em fatores primos
+C: correta, Ao decompor o número 1 000 em fatores primos
 obtemos 2³ x 5³
 
-Alternativa D: incorreta ao não computar 1 elemento 5 na fatoração
+D: incorreta ao não computar 1 elemento 5 na fatoração
 chegará a esse resultado erroneamente.
 
 2\) Sobre o número 123 456 789, podemos afirmar que:
@@ -339,20 +339,20 @@ em fatores primos ou relacionar as propriedades aritméticas (primo,
 composto, "múltiplo/fator de" ou "divisor de") de um número natural à
 sua decomposição em fatores primos.
 
-Alternativa A: incorreta, o aluno pode realizar a divisão incorretamente
+A: incorreta, o aluno pode realizar a divisão incorretamente
 do valor 123 456 789 e chegar a essa conclusão ao errar nos cálculos
 básicos.
 
-Alternativa B: incorreta, o aluno pode realizar a divisão incorretamente
+B: incorreta, o aluno pode realizar a divisão incorretamente
 do valor 123 456 789 e chegar a essa conclusão ao errar nos cálculos
 básicos.
 
-Alternativa C: Correta, Realizando a soma de 1+2+3+4+5+6+7+8+9= 45 logo
+C: Correta, Realizando a soma de 1+2+3+4+5+6+7+8+9= 45 logo
 45 é múltiplo de 3, então
 
 123 456 789 também será.
 
-Alternativa D: incorreta, o aluno pode realizar a divisão incorretamente
+D: incorreta, o aluno pode realizar a divisão incorretamente
 do valor 123 456 789 e chegar a essa conclusão ao errar nos cálculos
 básicos.
 
@@ -375,7 +375,7 @@ Habilidades Saeb
 finita) na forma aditiva, ou em suas ordens, ou em adições e
 multiplicações.
 
-Alternativa A: incorreta: ao contar as casas erroneamente e considerar o
+A: incorreta: ao contar as casas erroneamente e considerar o
 número uma casa a direita o aluno pode considerar esse resultado
 erroneamente.
 
@@ -383,11 +383,11 @@ Alternativa: B incorreta ao contar as casas erroneamente e considerar o
 número duas casas a direita o aluno pode considerar esse resultado
 erroneamente.
 
-Alternativa C: incorreta, ao contar as casas erroneamente e considerar o
+C: incorreta, ao contar as casas erroneamente e considerar o
 número uma casa a esquerda o aluno pode considerar esse resultado
 erroneamente.
 
-Alternativa D, Correta o número 3 está situado na casa das centenas de
+D, Correta o número 3 está situado na casa das centenas de
 milhar.
 
 # Módulo 2
@@ -479,7 +479,7 @@ A raiz quadrada de 25 é 5, pois 5 x 5 = 52 = 25 Logo $\sqrt{25}$ = 5
 
 A raiz quadrada de 49 é 7, pois 7 x 7 = 72 = 49. Logo $\sqrt{49}$ = 7
 
-Atividades:
+\colorsec{Atividades}
 
 $$\ $$
 
@@ -790,7 +790,7 @@ e)$\ \sqrt{36}$= 6, 6^.^4=perímetro= 24
 
 f)$\sqrt{16}$= 4, 4^.^4=perímetro =16
 
-Treino
+\colorsec{Treino}
 
 1\) Raul estava passeando pela rua e ao passar por uma loja de discos
 antigos viu um álbum musical com o seguinte título: "Eu Nasci Há Dez Mil
@@ -815,19 +815,19 @@ Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
 científica
 
-Alternativa A, incorreta, ao considerar o número de "zeros"
+A, incorreta, ao considerar o número de "zeros"
 incorretamente ao invés de 4 zeros consideráveis para 2, ocorreria esse
 erro.
 
-Alternativa B, incorreta, ao considerar o número de "zeros"
+B, incorreta, ao considerar o número de "zeros"
 incorretamente ao invés de 4 zeros consideráveis para 3, ocorreria esse
 erro.
 
-Alternativa C, Correta pois:
+C, Correta pois:
 
 10000 = 10^.^10^.^10^.^10 ou seja 10^4^
 
-Alternativa D, incorreta, ao considerar o número de "zeros"
+D, incorreta, ao considerar o número de "zeros"
 incorretamente ao invés de 4 zeros consideráveis para 5, ocorreria esse
 erro.
 
@@ -859,16 +859,16 @@ Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
 científica
 
-Alternativa A: incorreta, ao confundir expoente com base chegaria a esse
+A: incorreta, ao confundir expoente com base chegaria a esse
 resultado erroneamente.
 
-Alternativa B: incorreta: o aluno chegaria a esse conclusão se somasse
+B: incorreta: o aluno chegaria a esse conclusão se somasse
 todos os expoentes incorretamente.
 
-Alternativa C: incorreta, pois ao dividir o expoente do numerado por 2
+C: incorreta, pois ao dividir o expoente do numerado por 2
 ao invés de 3, o aluno chegaria a esse resultado.
 
-Alternativa D: Correta pois, utilizando a propriedade de multiplicação e
+D: Correta pois, utilizando a propriedade de multiplicação e
 divisão de potencias de mesma base temos que
 
 No numerador 2^25+35+30^=2^90^
@@ -903,19 +903,19 @@ Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
 científica.
 
-Alternativa A:Correta pois:
+A:Correta pois:
 
 2^10^ = 1024
 
 1024 ^.^32= 32768 megabytes.
 
-Alternativa B: incorreta, o aluno chegaria a esse resultado erroneamente
+B: incorreta, o aluno chegaria a esse resultado erroneamente
 ao considerar que 2^10^ seja 1 000 ao invés de 1 024.
 
-Alternativa C: incorreta, ao considerar um "dois" a menos na expressão,
+C: incorreta, ao considerar um "dois" a menos na expressão,
 chegaria a esse resultado incorreto.
 
-Alternativa D: incorreta, ao realizar apenas a multiplicação ao invés de
+D: incorreta, ao realizar apenas a multiplicação ao invés de
 realizar o cálculo da potência o aluno chegaria a esse resultado
 erroneamente.
 
@@ -1015,7 +1015,7 @@ Para isso, montamos uma equação:
 Logo temos que $\frac{3}{9}$ simplificando $\frac{1}{3}$ é a nossa
 fração geratriz.
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Classifique com V para verdadeiro e F para falso as afirmações a
 seguir:
@@ -1369,7 +1369,7 @@ d\) $\frac{1}{4}$
 
 Deixar o espaço de 3 linhas para resposta.
 
-Treino:
+\colorsec{Treino}
 
 1\) Assinale a alternativa correta:
 
@@ -1394,17 +1394,17 @@ Habilidade Saeb:
 
 Determinar uma fração geratriz para uma dízima periódica.
 
-Alternativa A: incorreta, o aluno pode ter uma confusão conceitual
+A: incorreta, o aluno pode ter uma confusão conceitual
 passando a acreditar que o número $\pi$ seja de fato uma dizima
 periódica simples pelo fato de ter números pares na sua composição.
 
-Alternativa B: incorreta, o aluno pode ter uma confusão conceitual ao
+B: incorreta, o aluno pode ter uma confusão conceitual ao
 não conseguir identificar uma a diferença entre uma dizima periódica
 simples e um irracional.
 
-Alternativa C, Correta. Questão conceitual.
+C, Correta. Questão conceitual.
 
-Alternativa D, incorreta, o aluno pode ter uma confusão conceitual ao
+D, incorreta, o aluno pode ter uma confusão conceitual ao
 não conseguir identificar uma a diferença entre uma dizima periódica
 simples e um irracional.
 
@@ -1427,16 +1427,16 @@ Habilidade Saeb: Representar frações menores ou maiores que a unidade
 por meio de representações pictóricas ou associar frações a
 representações pictóricas.
 
-Alternativa A: incorreta, o aluno chegaria a esse resultado caso
+A: incorreta, o aluno chegaria a esse resultado caso
 realizasse a soma de ambos os termos do enunciado.
 
-Alternativa B: incorreta, o aluno chegaria a esse valor caso
+B: incorreta, o aluno chegaria a esse valor caso
 multiplicasse os valores do enunciado.
 
-Alternativa C:incorreta, o aluno chegaria a esse valor caso dividisse os
+C:incorreta, o aluno chegaria a esse valor caso dividisse os
 valores do enunciado.
 
-Alternativa D:Correta, pois
+D:Correta, pois
 
 Considerando que $\frac{1}{3}$ não gostou ou 0,333333333\... Retirando
 $\frac{1}{6}$ obtemos 0,0555555\....
@@ -1473,15 +1473,15 @@ BNCC: EF08MA05
 Habilidade Saeb: Determinar uma fração geratriz para uma dízima
 periódica.
 
-Alternativa A: incorreta, o aluno pode chegar a esse valor ao calcular
+A: incorreta, o aluno pode chegar a esse valor ao calcular
 erroneamente a expressão e ao invés de calcular 1 800 : 99 , calcular 1
 800 : 9
 
-Alternativa B: incorreta, o aluno pode chegar a esse valor ao calcular
+B: incorreta, o aluno pode chegar a esse valor ao calcular
 erroneamente a expressão e ao invés de calcular 1 800 : 99 , calcular 1
 000 : 9
 
-Alternativa C: Correta, pois: 400 g : 22 pedaços = 18,1818181818\....
+C: Correta, pois: 400 g : 22 pedaços = 18,1818181818\....
 
 18,181818181818\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
 
@@ -1494,7 +1494,7 @@ Alternativa C: Correta, pois: 400 g : 22 pedaços = 18,1818181818\....
 Logo temos $\frac{1\ 800}{99}$ dividindo ambos por 9 temos que
 $\frac{200}{9}$
 
-Alternativa D : incorreta, o aluno pode chegar a esse valor ao calcular
+D : incorreta, o aluno pode chegar a esse valor ao calcular
 erroneamente a expressão e ao invés de calcular 1 800 : 99 , calcular 1
 800 : 101
 
@@ -1543,7 +1543,7 @@ Pelo método multiplicativo de seu correspondente decimal temos:
 
 300 . $\frac{25}{100}$ = 75
 
-Atividades
+\colorsec{Atividades}
 
 1\) Em uma gincana realizada por uma escola haverá várias modalidades
 para que os alunos se inscrevam para participar. Ao final das inscrições
@@ -1881,7 +1881,7 @@ Resposta:
 
 **J= 96,04**
 
-Treino:
+\colorsec{Treino}
 
 1\) Beatriz é Cozinheira em uma escola, após o almoço nessa escola
 sempre é servido um suco, onde para se preparar é ideal usar a proporção
@@ -1906,7 +1906,7 @@ Habilidade Saeb:
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
 
-Alternativa A: Correta pois
+A: Correta pois
 
 Somando os dois líquidos temos que 120+80 = 200
 
@@ -1922,15 +1922,15 @@ Logo 200 . x = 100 . 120
 
 X= 60 %
 
-Alternativa B: incorreta pois o aluno chegaria a esse resultado caso
+B: incorreta pois o aluno chegaria a esse resultado caso
 inserisse um "zero" a menos na expressão chegando a esse resultado
 erroneamente.
 
-Alternativa C: incorreta pois o aluno chegaria a esse resultado caso
+C: incorreta pois o aluno chegaria a esse resultado caso
 inserisse dois "zeros" a menos na expressão chegando a esse resultado
 erroneamente.
 
-Alternativa D: incorreta pois o aluno chegaria a esse resultado caso
+D: incorreta pois o aluno chegaria a esse resultado caso
 inserisse três "zeros" a menos na expressão chegando a esse resultado
 erroneamente.
 
@@ -1956,11 +1956,11 @@ Habilidade Saeb:
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
 
-Alternativa A: incorreta, o aluno chegaria a essa conclusão realizando a
+A: incorreta, o aluno chegaria a essa conclusão realizando a
 multiplicação reta na regra de três ao invés de realizar a multiplicação
 cruzada.
 
-Alternativa B: correta, pois
+B: correta, pois
 
 x\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
 
@@ -1972,10 +1972,10 @@ x\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
 
 X = 44 pessoas votaram nessa eleição
 
-Alternativa C: incorreta, o aluno poderia chegar a essa conclusão
+C: incorreta, o aluno poderia chegar a essa conclusão
 confundindo o valor de votos ao total real de pessoas que votaram.
 
-Alternativa D: incorreta, o aluno poderia chegar a essa conclusão
+D: incorreta, o aluno poderia chegar a essa conclusão
 confundindo o valor da porcentagem com o valor total de pessoas na
 votação.
 
@@ -2002,7 +2002,7 @@ Habilidade Saeb:
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
 
-Alternativa A: Correta, pois:
+A: Correta, pois:
 
 Aplicando juros simples temos que
 
@@ -2014,14 +2014,14 @@ Aplicando juros simples temos que
 
 X= 5 meses
 
-Alternativa B: incorreta, o aluno chegaria a essa conclusão caso não
+B: incorreta, o aluno chegaria a essa conclusão caso não
 realizar a operação de 1% : 100, onde chegaria a esse valor
 erroneamente.
 
-Alternativa C: incorreta, o aluno chegaria a essa conclusão caso
+C: incorreta, o aluno chegaria a essa conclusão caso
 multiplicasse 120 000 por 0,01 onde chegaria a esse valor equivocado.
 
-Alternativa D: incorreta, o aluno chegaria a essa conclusão caso
+D: incorreta, o aluno chegaria a essa conclusão caso
 considerasse que o valor dos juros a 1% ao mês logo dividindo 6 000 por
 1 chegando a essa conclusão precipitada.
 
@@ -2134,7 +2134,7 @@ Temos então que 2x =18 logo x=9
 
 Substituindo o valor de x em qualquer uma das equações obtemos que y= 7
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Classifique cada um destes sistemas de equações em determinado,
 indeterminado ou impossível, para x e y números racionais
@@ -2432,7 +2432,7 @@ Se o número de galinhas é igual a 15 e temos 35 cabeças, logo 35- 15 =
 
 Então o número de vacas na fazenda é de 20.
 
-Treino:
+\colorsec{Treino}
 
 1\) Dois tambores contêm juntos 900 litros de petróleo Se passarmos 100
 litros do primeiro tanque para o segundo, este ficará com o dobro do
@@ -2455,11 +2455,11 @@ Habilidade Saeb:
 *  Resolver problemas que possam ser representados por sistema de
 equações de 1º grau com duas incógnitas.
 
-Alternativa A: incorreta, esse seria o resultado em litros do primeiro
+A: incorreta, esse seria o resultado em litros do primeiro
 tanque ao invés do segundo, podendo levar o aluno assinalar essa
 alternativa, sem interpretar corretamente o problema.
 
-Alternativa B: Correta, pois
+B: Correta, pois
 
 Definindo como x e y os tanques temos que
 
@@ -2483,13 +2483,13 @@ x + y = 900\
 y = 900 - 400\
 y = 500 L
 
-Alternativa B.
+B.
 
-Alternativa C: incorreta, o aluno chegará a essa conclusão ao errar o
+C: incorreta, o aluno chegará a essa conclusão ao errar o
 jogo de sinal na equação final logo 900+ 300 = 1 200 viraria 900 -- 300
 = 600 logo o dividir a expressão por 3 o aluno chegaria a esse erro.
 
-Alternativa D: o aluno chegaria a essa conclusão ao somar os valores do
+D: o aluno chegaria a essa conclusão ao somar os valores do
 enunciado sem a o mesmo tentar realizar as operações, buscando assim uma
 possível resposta mais rápida.
 
@@ -2513,13 +2513,13 @@ Habilidade Saeb:
 *  Resolver problemas que possam ser representados por sistema de
 equações de 1º grau com duas incógnitas.
 
-Alternativa A:incorreta, o aluno pode confundir as operações e realizar
+A:incorreta, o aluno pode confundir as operações e realizar
 a operação de multiplicação ao invés da soma e chegar a essa resposta.
 
-Alternativa B: incorreta, o aluno pode esquecer de realizar o m.m.c. e
+B: incorreta, o aluno pode esquecer de realizar o m.m.c. e
 chegar a essa conclusão erroneamente.
 
-Alternativa C: correta pois,
+C: correta pois,
 
 Resposta: extraindo as informações do enunciado temos que:
 
@@ -2529,7 +2529,7 @@ X= 11 - $\frac{1}{3}$
 
 X= $\frac{32}{3}$ alternativa c
 
-Alternativa D: incorreta, o aluno pode confundir as operações e realizar
+D: incorreta, o aluno pode confundir as operações e realizar
 a operação de divisão ao invés da soma e chegar a essa resposta.
 
 3\) Qual é o valor de x que torna verdadeira a igualdade 2x-7 = -2,5x+2?
@@ -2550,11 +2550,11 @@ Habilidade Saeb
 
 *  Resolver uma equação polinomial de 1º grau.
 
-Alternativa A: incorreta, durante a resolução da equação caso o aluno
+A: incorreta, durante a resolução da equação caso o aluno
 erre o sinal do valor 2,5 e passe o negativo o valor final será esse. X=
 18
 
-Alternativa B: correta pois:
+B: correta pois:
 
 Realizando as operações algébricas temos que:
 
@@ -2564,11 +2564,11 @@ Realizando as operações algébricas temos que:
 
 X= 2 alternativa b
 
-Alternativa C: incorreta, durante a resolução da equação caso o aluno
+C: incorreta, durante a resolução da equação caso o aluno
 erre o sinal do valor -7 e passe o negativo o valor final será esse. X=
 1,111111111\....
 
-Alternativa D: incorreta, caso o aluno no final da expressão passe o
+D: incorreta, caso o aluno no final da expressão passe o
 valor 4,5 multiplicando ao invés de dividir o aluno chegara a esse
 resultado erroneamente.
 
@@ -2653,7 +2653,7 @@ X² - 8y + 12
 
 A² + 5a²b + 3ab² + b³
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Dalva tem 44 anos. Escreva uma expressão algébrica que representa a
 idade que ela teve há x anos e a idade que ele terá daqui a y anos,
@@ -3041,7 +3041,7 @@ n\) 8x + 6x + 4x= 18x
 
 o\) (-2xy²)^4^= 16x^4^y^8^
 
-Treino:
+\colorsec{Treino}
 
 1\) Elza resolveu comprar uma piscina com as medidas abaixo:
 
@@ -3067,7 +3067,7 @@ Habilidade Saeb:
 *  Resolver problemas que envolvam cálculo do valor numérico de
 expressões algébricas.
 
-Alternativa A:Correta pois
+A:Correta pois
 
 Considerando a medida dos lados temos que:
 
@@ -3081,13 +3081,13 @@ Utilizando distributiva
 
 3x² +8x +4
 
-Alternativa B: incorreta, o aluno poderia confundir o enunciado e
+B: incorreta, o aluno poderia confundir o enunciado e
 colocar o resultado do perímetro ao invés da área chegando a este valor.
 
-Alternativa C: incorreta, o aluno poderia realizar uma soma ao invés de
+C: incorreta, o aluno poderia realizar uma soma ao invés de
 uma multiplicação chegando a esse valor.
 
-Alternativa D: incorreta, o aluno poderia chegar a esse valor realizando
+D: incorreta, o aluno poderia chegar a esse valor realizando
 uma divisão ao invés de uma multiplicação.
 
 2\) Considerando que a²+ b² = 34 e ab= 15, qual o valor de
@@ -3110,13 +3110,13 @@ Habilidade Saeb
 *  Resolver problemas que envolvam cálculo do valor numérico de
 expressões algébricas.
 
-Alternativa A: incorreta o aluno chegaria a essa conclusão apenas
+A: incorreta o aluno chegaria a essa conclusão apenas
 dividindo um termo pelo outro.
 
-Alternativa B: incorreta o aluno chegaria a essa conclusão realizando
+B: incorreta o aluno chegaria a essa conclusão realizando
 apenas a subtração de um termo pelo outro.
 
-Alternativa C: Correta pois
+C: Correta pois
 
 $\frac{(a + b)²}{8}\ $= $\frac{a^{2} + 2ab + b²}{8}$
 
@@ -3124,7 +3124,7 @@ Fazendo a substituição de a²+ b² = 34 e ab= 15 temos que:
 
 $\frac{34 + (2.15)}{8} =$ $\frac{34 + 30}{8}$ = $\frac{64}{8}$ = 8
 
-Alternativa D: incorreta pois ao realizar a soma ao invés da
+D: incorreta pois ao realizar a soma ao invés da
 multiplicação no ultimo termo
 
 3\) Ao comprar uma bola de futebol, Joaquim resolver fazer experimentos
@@ -3152,16 +3152,16 @@ Habilidade Saeb:
 *  Resolver problemas que envolvam cálculo do valor numérico de
 expressões algébricas.
 
-Alternativa A: incorreta, o aluno ao errar o jogo de sinal no cálculo da
+A: incorreta, o aluno ao errar o jogo de sinal no cálculo da
 área o valor ficará desta forma.
 
-Alternativa B: incorreta, o aluno ao errar o jogo de sinal no cálculo do
+B: incorreta, o aluno ao errar o jogo de sinal no cálculo do
 perímetro o valor ficará desta forma.
 
-Alternativa C: incorreta, o aluno ao errar o jogo de sinal no cálculo da
+C: incorreta, o aluno ao errar o jogo de sinal no cálculo da
 área o valor ficará desta forma.
 
-Alternativa D: correta pois:
+D: correta pois:
 
 Para o cálculo da área
 
@@ -3231,7 +3231,7 @@ X = $\  \pm \frac{1}{4}$
 
 Logo o conjunto solução é $+ \frac{1}{4}$ e $- \ \frac{1}{4}$
 
-Atividades
+\colorsec{Atividades}
 
 1\) Determine a solução da equação x² + 4 = 0 no conjunto R
 
@@ -3494,7 +3494,7 @@ Multiplicando por 1 000, temos que -4 . 1000 = - 4000
 
 Logo Mateus deve 4 000,00 R\$ ao banco.
 
-Treino
+\colorsec{Treino}
 
 1\) Clebinho é atacante de um famoso time de futebol, durante uma
 partida o número de finalizações de Clebinho no gol foi a soma das
@@ -3518,12 +3518,12 @@ Habilidade Saeb:
 *  Resolver problemas que possam ser representados por equações
 polinomiais de 2º grau.
 
-Alternativa a incorreta: o aluno pode chegar a essa conclusão
+a incorreta: o aluno pode chegar a essa conclusão
 considerando que o enunciado pede apenas 1 valor das raízes da equação
 descrita e não a soma das raízes, chegando a essa conclusão
 erroneamente.
 
-Alternativa B: Correta, pois:
+B: Correta, pois:
 
 Utilizando Bhaskhara temos:
 
@@ -3548,12 +3548,12 @@ X2 = $\frac{7 - 7}{2}$ = 0
 Logo realizando a soma de 7+0 = 7 obtemos que Clebinho chutou 7 vezes ao
 gol.
 
-Alternativa C: incorreta: o aluno pode chegar a essa conclusão
+C: incorreta: o aluno pode chegar a essa conclusão
 considerando que o enunciado pede apenas o valor antes de se extrair das
 raízes da equação descrita e não a soma das raízes, chegando a essa
 conclusão erroneamente.
 
-Alternativa D: incorreta: o aluno pode chegar a essa conclusão
+D: incorreta: o aluno pode chegar a essa conclusão
 esquecendo de dividir o valor de uma das raízes por 2, assim chegaria a
 esse valor erroneamente.
 
@@ -3579,21 +3579,21 @@ Habilidade Saeb:
 *  Resolver problemas que possam ser representados por equações
 polinomiais de 2º grau.
 
-Alternativa A: incorreta: o aluno pode chegar a essa conclusão
+A: incorreta: o aluno pode chegar a essa conclusão
 considerando que o enunciado pede apenas 1 valor das raízes da equação
 descrita e não a soma das raízes, chegando a essa conclusão
 erroneamente.
 
-Alternativa B :incorreta: o aluno pode chegar a essa conclusão
+B :incorreta: o aluno pode chegar a essa conclusão
 considerando que o enunciado pede apenas o valor antes de se extrair das
 raízes da equação descrita e não a soma das raízes, chegando a essa
 conclusão erroneamente.
 
-Alternativa C: incorreta: o aluno pode chegar a essa conclusão
+C: incorreta: o aluno pode chegar a essa conclusão
 esquecendo de dividir o valor de uma das raízes por 4, assim chegaria a
 esse valor erroneamente.
 
-Alternativa D: correta pois:
+D: correta pois:
 
 Utilizando Bhaskhara temos:
 
@@ -3638,16 +3638,16 @@ Habilidade Saeb
 *  Resolver problemas que possam ser representados por equações
 polinomiais de 2º grau.
 
-Alternativa A: incorreta o aluno pode chegar a esse valor ao não
+A: incorreta o aluno pode chegar a esse valor ao não
 realizar a radiciação necessária e não completar a equação como é
 determinante para chegar ao resultado.
 
-Alternativa B: incorreta: o aluno pode chegar a essa conclusão
+B: incorreta: o aluno pode chegar a essa conclusão
 considerando que o enunciado pede apenas 1 valor das raízes da equação
 descrita e não a soma das raízes, chegando a essa conclusão
 erroneamente.
 
-Alternativa C: Correta pois:
+C: Correta pois:
 
 Utilizando Bhaskhara temos:
 
@@ -3671,7 +3671,7 @@ X2= $\frac{5 - 5}{12}$ = 0
 
 Logo temos que a parte preenchida do tanque foi de $\frac{5}{6}$.
 
-Alternativa D: incorreta, o aluno chegaria a esse valor apenas somando
+D: incorreta, o aluno chegaria a esse valor apenas somando
 os termos da equação e não realizando a operação por completo.
 
 # Módulo 8
@@ -3913,7 +3913,7 @@ g\) 30 m/s .3,6= 108 km/h
 
 h\) 40 m/s . 3,6= 144km/h
 
-Treino
+\colorsec{Treino}
 
 1\) Dona Estela está preparando a Ceia de Natal para sua família e
 comprou um peru de 4,2 kg para servir, ao pesquisar sobre o tempo de
@@ -3939,7 +3939,7 @@ Habilidade Saeb:
 ou inversa entre duas ou mais grandezas, inclusive escalas, divisões
 proporcionais e taxa de variação.
 
-Alternativa A: correta, pois:
+A: correta, pois:
 
 Utilizando a Regra de 3 simples temos que:
 
@@ -3951,14 +3951,14 @@ Utilizando a Regra de 3 simples temos que:
 
 X= 162 minutos ou 2 horas e 42 minutos
 
-Alternativa B: incorreta, o aluno poderia chegar a esse valor realizando
+B: incorreta, o aluno poderia chegar a esse valor realizando
 a multiplicação reta na regra de 3 e não a multiplicação cruzada.
 
-Alternativa C: incorreta, esse seria o valor caso o aluno não
+C: incorreta, esse seria o valor caso o aluno não
 convertesse horas em minutos como forma de solução, chegando a um valor
 equivocado.
 
-Alternativa D: incorreta, o aluno chegaria a esse resultado caso não
+D: incorreta, o aluno chegaria a esse resultado caso não
 realizasse a última operação necessária, que é a divisão.
 
 2\) 5 rosquinhas de coco possuem 64 calorias. Dirce consome diariamente
@@ -3983,10 +3983,10 @@ Habilidade Saeb:
 ou inversa entre duas ou mais grandezas, inclusive escalas, divisões
 proporcionais e taxa de variação.
 
-Alternativa A: incorreta, o aluno chegaria nesse resultado multiplicando
+A: incorreta, o aluno chegaria nesse resultado multiplicando
 reto a regra de três ao invés de multiplicar cruzado.
 
-Alternativa B: correta pois:
+B: correta pois:
 
 Utilizando a Regra de 3 simples temos que:
 
@@ -4000,10 +4000,10 @@ Utilizando a Regra de 3 simples temos que:
 
 X= 38,4
 
-Alternativa C: incorreta, o aluno chegaria a esse valor caso no final da
+C: incorreta, o aluno chegaria a esse valor caso no final da
 expressão ao invés de realizar uma divisão, realizar uma multiplicação.
 
-Alternativa D: incorreta, o auno chegaria a essa conclusão considerando
+D: incorreta, o auno chegaria a essa conclusão considerando
 que cada rosquinha possuísse 64 calorias, interpretando errado o
 enunciado.
 
@@ -4022,6 +4022,8 @@ d\) 2,43 ml
 
 Resposta: B
 
+# Módulo 9
+
 BNCC: EF08MA12 EF08MA13
 
 Habilidade Saeb:
@@ -4030,11 +4032,11 @@ Habilidade Saeb:
 ou inversa entre duas ou mais grandezas, inclusive escalas, divisões
 proporcionais e taxa de variação.
 
-Alternativa A: incorreta, o aluno chegaria a esse resultado realizando
+A: incorreta, o aluno chegaria a esse resultado realizando
 uma multiplicação reta ao invés de uma multiplicação cruzada, na regra
 de 3 simples.
 
-Alternativa B: Correta: pois
+B: Correta: pois
 
 Utilizando a Regra de 3 simples temos que:
 
@@ -4048,10 +4050,10 @@ Utilizando a Regra de 3 simples temos que:
 
 X= 24,3 ml
 
-Alternativa C: incorreta, o aluno chegaria a essa conclusão ao final da
+C: incorreta, o aluno chegaria a essa conclusão ao final da
 expressão ao invés de realizar uma divisão realizar uma multiplicação.
 
-Alternativa D: incorreta, o aluno chegaria a essa conclusão deslocando a
+D: incorreta, o aluno chegaria a essa conclusão deslocando a
 virgula uma casa para esquerda durante o cálculo final.
 
 # Módulo 10
@@ -4093,7 +4095,7 @@ número de diagonais de um polígono
 Utilizando a fórmula S~i~ = (n-2) . 180° , podemos calcular a soma dos
 ângulos internos de um polígono.
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Complete a Tabela com o nome dos polígonos segundo o número de lados
 
@@ -4430,7 +4432,7 @@ h\) raio
 
 i\) raio
 
-Treino
+\colorsec{Treino}
 
 1\) Alfredo desenhou, em uma madeira, um eneágono regular cujo perímetro
 era de 117 cm
@@ -4452,17 +4454,17 @@ BNCC: EF08MA18
 Habilidade Saeb- Construir/desenhar figuras geométricas planas ou
 espaciais que satisfaçam condições dadas.
 
-Alternativa A: Correta, pois
+A: Correta, pois
 
 117 : 9 = 13 cm de lado tem essa figura.
 
-Alternativa B: incorreta, o aluno poderia chegar a essa conclusão caso
+B: incorreta, o aluno poderia chegar a essa conclusão caso
 considerasse que o eneágono regular possui 10 lados e não 9.
 
-Alternativa c: incorreta, o aluno poderia chegar a essa conclusão caso
+c: incorreta, o aluno poderia chegar a essa conclusão caso
 considerasse que o eneágono regular possui 7 lados e não 9.
 
-Alternativa D: incorreta, o aluno poderia chegar a essa conclusão caso
+D: incorreta, o aluno poderia chegar a essa conclusão caso
 considerasse que o eneágono regular possui 5 lados e não 9.
 
 2\) O centro do campo de futebol é marcado com um ponto no centro da
@@ -4490,13 +4492,13 @@ Habilidade Saeb
 elementos (centro, raio, diâmetro, corda, arco, ângulo central, ângulo
 inscrito).
 
-Alternativa A: incorreta, o aluno chegaria a esse valor caso confundisse
+A: incorreta, o aluno chegaria a esse valor caso confundisse
 a formula da área do círculo com a formula do perímetro do círculo.
 
-Alternativa B: incorreta o aluno chegaria a essa conclusão, caso
+B: incorreta o aluno chegaria a essa conclusão, caso
 esquecesse do termo quadrático da expressão.
 
-Alternativa C: Correta
+C: Correta
 
 pois:
 
@@ -4508,7 +4510,7 @@ A= 3. 83,7225
 
 A= 251 m²
 
-Alternativa D: incorreta, o aluno chegaria a esse resultado caso
+D: incorreta, o aluno chegaria a esse resultado caso
 dividisse a expressão no final da formula ao invés de multiplicar.
 
 3\) Iolanda faz peças com tecidos. Uma das peças mais vendidas por ela é
@@ -4533,7 +4535,7 @@ Habilidade Saeb:
 *  Relacionar o número de vértices, faces ou arestas de prismas ou
 pirâmides, em função do seu polígono da base.
 
-Alternativa A: Correta
+A: Correta
 
 Hexágono regular = 6 lados
 
@@ -4541,13 +4543,13 @@ Hexágono regular = 6 lados
 
 20 . 30 cm = 600 cm de fita ou 6 metros de fita
 
-Alternativa B: incorreta, o aluno pode chegar a esse valor confundindo
+B: incorreta, o aluno pode chegar a esse valor confundindo
 cm com metros.
 
-Alternativa C: incorreta, o aluno pode chegar a esse valor considerando
+C: incorreta, o aluno pode chegar a esse valor considerando
 que um hexágono regular contenha 5 lados
 
-Alternativa D: incorreta, o aluno pode chegar a esse valor considerando
+D: incorreta, o aluno pode chegar a esse valor considerando
 que um hexágono regular contenha 4 lados.
 
 # Módulo 11
@@ -4978,7 +4980,7 @@ b\)
 
 X=7
 
-Treino:
+\colorsec{Treino}
 
 1\) Denomina-se incentro o ponto comum
 
@@ -5001,19 +5003,19 @@ retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
 
-Alternativa A: incorreta, as relações no triangulo são ligeiramente
+A: incorreta, as relações no triangulo são ligeiramente
 semelhantes, logo por definição o aluno deverá ter o conhecimento
 aflorado para conseguir identificar o conceito de incentro, ao não
 compreender o conceito completo logo esta alternativa pode ser uma
 resposta viável.
 
-Alternativa B: incorreta, as relações no triangulo são ligeiramente
+B: incorreta, as relações no triangulo são ligeiramente
 semelhantes, logo por definição o aluno deverá ter o conhecimento
 aflorado para conseguir identificar o conceito de incentro, ao não
 compreender o conceito completo logo esta alternativa pode ser uma
 resposta viável.
 
-Alternativa C: incorreta, as relações no triangulo são ligeiramente
+C: incorreta, as relações no triangulo são ligeiramente
 semelhantes, logo por definição o aluno deverá ter o conhecimento
 aflorado para conseguir identificar o conceito de incentro, ao não
 compreender o conceito completo logo esta alternativa pode ser uma
@@ -5051,18 +5053,18 @@ retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
 
-Alternativa A: Incorreta, este seria o valor relativo e não a medida
+A: Incorreta, este seria o valor relativo e não a medida
 final.
 
-Alternativa B: incorreta, ao errar o cálculo da multiplicação o valor
+B: incorreta, ao errar o cálculo da multiplicação o valor
 chegará a esse.
 
-Alternativa C: Correta pois:
+C: Correta pois:
 
 Se a altura relativa à hipotenusa BC mede 9,3 cm, a medida da hipotenusa
 será 18,6
 
-Alternativa D: Incorreta, o aluno chegara a esse conclusão ao errar o
+D: Incorreta, o aluno chegara a esse conclusão ao errar o
 cálculo de multiplicação dos termos destacados no enunciado.
 
 3\) Qual o perímetro de um triângulo com lados cujas medidas são 6 cm, 7
@@ -5087,11 +5089,11 @@ um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
 determinação da medida de um ângulo interno ou externo)
 
-Alternativa A: incorreta, o aluno chegara a essa conclusão se durante o
+A: incorreta, o aluno chegara a essa conclusão se durante o
 cálculo da soma dos lados do triangulo o aluno equivocadamente chegar ao
 resultado com 2 números a menos.
 
-Alternativa B: incorreta, o aluno chegara a essa conclusão se durante o
+B: incorreta, o aluno chegara a essa conclusão se durante o
 cálculo da soma dos lados do triangulo o aluno equivocadamente chegar ao
 resultado com 1 número a menos.
 
@@ -5101,7 +5103,7 @@ Perímetro= soma dos lados
 
 Logo 6 + 7 + 8 = 21cm
 
-Alternativa D: incorreta, o aluno chegara a essa conclusão se durante o
+D: incorreta, o aluno chegara a essa conclusão se durante o
 cálculo da soma dos lados do triangulo o aluno equivocadamente chegar ao
 resultado com 1 número a mais.
 
@@ -5299,7 +5301,7 @@ Resposta Considerando 8 planetas temos que:
 
 8 x 100 000 = 800 000 km foi o deslocamento.
 
-Treino:
+\colorsec{Treino}
 
 1\) Um jogador de Futebol em cada partida corre em média 8 km,
 considerando que um campeonato tenha 38 rodadas, e que esse jogador
@@ -5322,16 +5324,16 @@ Habilidade Saeb:
 representações bidimensionais (mapas, croquis etc.), plantas de
 ambientes ou vistas, de acordo com condições dadas.
 
-Alternativa A: incorreta, ao considerar que o enunciado pede o valor de
+A: incorreta, ao considerar que o enunciado pede o valor de
 km por partida o aluno pode chegar a essa conclusão.
 
-Alternativa B: incorreta, o aluno ao considerar a quantidade de rodadas
+B: incorreta, o aluno ao considerar a quantidade de rodadas
 ao invés da quantidade de km percorridos, pode chegar a esse valor
 
-Alternativa C: incorreta, ao deslocar erroneamente uma virgula para
+C: incorreta, ao deslocar erroneamente uma virgula para
 esquerda o aluno pode chegar a esse resultado erroneamente.
 
-Alternativa D: Correta pois
+D: Correta pois
 
 Resposta: 8km x 38 partidas = 304 km por campeonato
 
@@ -5355,15 +5357,15 @@ Habilidade Saeb:
 representações bidimensionais (mapas, croquis etc.), plantas de
 ambientes ou vistas, de acordo com condições dadas.
 
-Alternativa A: incorreta, pois esse seria o valor caso o aluno
+A: incorreta, pois esse seria o valor caso o aluno
 realizasse incorretamente a multiplicação esquecendo um "zero" da
 expressão.
 
-Alternativa B: incorreta, pois esse seria o valor caso o aluno
+B: incorreta, pois esse seria o valor caso o aluno
 realizasse incorretamente a multiplicação adicionando um "zero" na
 expressão.
 
-Alternativa C: Correta pois:
+C: Correta pois:
 
 50 km \-\-\-\-\-\-\-\-\-\-\-\-- 1 hora
 
@@ -5373,7 +5375,7 @@ X \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 8 horas
 
 400 km essa baleia irá percorrer.
 
-Alternativa D: incorreta, pois esse seria o valor caso o aluno
+D: incorreta, pois esse seria o valor caso o aluno
 realizasse incorretamente a multiplicação adicionando dois "zeros" na
 expressão.
 
@@ -5399,22 +5401,22 @@ Habilidade Saeb:
 representações bidimensionais (mapas, croquis etc.), plantas de
 ambientes ou vistas, de acordo com condições dadas.
 
-Alternativa A: Incorreta, como a questão ela requer que o aluno tenha um
+A: Incorreta, como a questão ela requer que o aluno tenha um
 conhecimento básico sobre pontos cardeais o aluno pode considerar
 correta esta alternativa caso compreenda que o pôr do sol fique ao Norte
 e não ao Oeste.
 
-Alternativa B: Incorreta, como a questão ela requer que o aluno tenha um
+B: Incorreta, como a questão ela requer que o aluno tenha um
 conhecimento básico sobre pontos cardeais o aluno pode considerar
 correta esta alternativa caso compreenda que o pôr do sol fique ao sul e
 não ao Oeste.
 
-Alternativa C: Incorreta, como a questão ela requer que o aluno tenha um
+C: Incorreta, como a questão ela requer que o aluno tenha um
 conhecimento básico sobre pontos cardeais o aluno pode considerar
 correta esta alternativa caso compreenda que o pôr do sol fique ao Leste
 e não ao Oeste.
 
-Alternativa D: Correta
+D: Correta
 
 Charles deve seguir rumo ao Oeste.
 
@@ -5870,15 +5872,15 @@ Habilidade Saeb:
 *  Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
-Alternativa A: incorreta, o aluno chegaria a esse resultado,
+A: incorreta, o aluno chegaria a esse resultado,
 considerando que o enunciado requer a maior altura da equipe, e não a
 média aritmética, chegando a uma conclusão equivocada.
 
-Alternativa B: incorreta, o aluno chegaria a esse resultado,
+B: incorreta, o aluno chegaria a esse resultado,
 considerando que o enunciado requer a menor altura da equipe, e não a
 média aritmética, chegando a uma conclusão equivocada.
 
-Alternativa C: Correta Pois:
+C: Correta Pois:
 
 Somando a altura dos atletas temos:
 
@@ -5888,7 +5890,7 @@ Como são 5 atletas
 
 10 : 5 = 2 metros de altura é a média
 
-Alternativa D: incorreta, o aluno chegaria a esse resultado,
+D: incorreta, o aluno chegaria a esse resultado,
 considerando que o enunciado requer a soma das alturas da equipe, e não
 a média aritmética, chegando a uma conclusão equivocada.
 
@@ -5917,21 +5919,21 @@ Habilidade Saeb
 *  Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
-Alternativa A: incorreta, o aluno chegaria a esse resultado,
+A: incorreta, o aluno chegaria a esse resultado,
 considerando que o enunciado requer a moda, e não a média aritmética,
 chegando a uma conclusão equivocada.
 
-Alternativa B: Correta, pois:
+B: Correta, pois:
 
 Considerando os dois pesos centrais são 46 e 45 kgs Logo 46 + 45 = 91
 
 91 : 2 = 45,5 Alternativa B
 
-Alternativa C: incorreta, o aluno chegaria a esse resultado,
+C: incorreta, o aluno chegaria a esse resultado,
 considerando que o enunciado requer a média aritmética, e não a média
 aritmética, chegando a uma conclusão equivocada.
 
-Alternativa D: o a aluno chegara a esse resultado esquecendo que em
+D: o a aluno chegara a esse resultado esquecendo que em
 casos de conteúdos pares a mediana deve ser a média entre os dois
 valores centrais, no caso ao pegar apenas um valor o aluno chegaria a
 esse resultado.
@@ -5966,22 +5968,22 @@ Habilidade Saeb:
 *  Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
-Alternativa A: incorreta, o aluno chegaria a esse resultado,
+A: incorreta, o aluno chegaria a esse resultado,
 considerando que o enunciado requer o menor tempo gasto, e não a média
 aritmética, chegando a uma conclusão equivocada.
 
-Alternativa B: incorreta, o aluno chegaria a esse resultado,
+B: incorreta, o aluno chegaria a esse resultado,
 considerando que o enunciado requer o maior tempo gasto, e não a média
 aritmética, chegando a uma conclusão equivocada.
 
-Alternativa C: correta Pois:
+C: correta Pois:
 
 Somando o tempo que Maria gastou na semana temos que:
 
 170 minutos / 5 = média de 34 minutos por dia Maria gasta para chegar ao
 trabalho.
 
-Alternativa D: incorreta, o aluno chegaria a esse resultado,
+D: incorreta, o aluno chegaria a esse resultado,
 considerando que o enunciado requer a soma dos tempos que Maria Gasta
 para ir ao trabalho, e não a média aritmética, chegando a uma conclusão
 equivocada.
@@ -6034,7 +6036,7 @@ Volume de um cilindro V= $\Pi$. R² .h
 
 Volume de um paralelepípedo temos que V= l.l.l
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Considere o cubo abaixo
 
@@ -6410,7 +6412,7 @@ Habilidade Saeb:
 *  Resolver problemas que envolvam volume de prismas retos ou cilindros
 retos.
 
-Alternativa A: Correta Pois:
+A: Correta Pois:
 
 V= $\Pi$. R² .h
 
@@ -6420,14 +6422,14 @@ V= 3 . 36 . 70
 
 V= 7560 cm³
 
-Alternativa B: Incorreta, o aluno chegaria a esse valor utilizando a
+B: Incorreta, o aluno chegaria a esse valor utilizando a
 formula da área e não a formula do volume como o enunciado pede.
 
-Alternativa C: incorreta o aluno chegaria a esse valor calculando o
+C: incorreta o aluno chegaria a esse valor calculando o
 perímetro da circunferência do cano e não o volume como pede o
 enunciado.
 
-Alternativa D: incorreta, o aluno chegaria a esse valor ao esquecer o
+D: incorreta, o aluno chegaria a esse valor ao esquecer o
 termo quadrático, que a formula necessita para obter um valor correto.
 
 2\) Vanessa estava pintando um quadro em uma tela retangular de 1 m por
@@ -6458,7 +6460,7 @@ Habilidade Saeb
 
 *  Resolver problemas que envolvam área de figuras planas.
 
-Alternativa A: Correta Pois:
+A: Correta Pois:
 
 Utilizando a formula da área do losango temos que:
 
@@ -6482,14 +6484,14 @@ Subtraindo
 
 Logo a alternativa correta letra A
 
-Alternativa B: incorreta, este valor é referente apenas ao valor da área
+B: incorreta, este valor é referente apenas ao valor da área
 do retângulo do quadro e não é referente ao valor a ser pintado. Como o
 enunciado pede.
 
-Alternativa C: incorreta, este valor é referente apenas área que já foi
+C: incorreta, este valor é referente apenas área que já foi
 pintada e não a área a ser pintada, como o enunciado pede.
 
-Alternativa D: incorreta, o aluno chegaria nesse valor, ao não converter
+D: incorreta, o aluno chegaria nesse valor, ao não converter
 o valor em metros para centímetros, encontrando esse valor erroneamente.
 
 3\) Um condomínio resolveu trocar sua caixa e d agua e colocaram uma
@@ -6517,13 +6519,13 @@ Habilidade Saeb:
 *  Resolver problemas que envolvam volume de prismas retos ou cilindros
 retos.
 
-Alternativa A: incorreta, o aluno poderia chegar a esse valor utilizando
+A: incorreta, o aluno poderia chegar a esse valor utilizando
 erroneamente a formula da área da base, e não a área do volume.
 
-Alternativa B: incorreta, o aluno poderia chegar a esse valor calculando
+B: incorreta, o aluno poderia chegar a esse valor calculando
 o perímetro da base e não o volume total da caixa como o enunciado pede.
 
-Alternativa C: incorreta, o aluno poderia chegar a essa conclusão ao não
+C: incorreta, o aluno poderia chegar a essa conclusão ao não
 observar o termo quadrático da formula e obter esse resultado
 erroneamente.
 
@@ -6736,7 +6738,7 @@ Resposta:
 
 $P(E)\frac{n(2)}{n(7)}$= 28% aproximadamente
 
-Treino
+\colorsec{Treino}
 
 1\) Em uma fábrica de sapatos houve um defeito com umas das maquinas da
 linha de produção, onde após uma pesquisa realizada foi constatado que,
@@ -6762,17 +6764,17 @@ Habilidade Saeb:
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes
 
-Alternativa A: incorreta, ao converter errado o valor em porcentagem o
+A: incorreta, ao converter errado o valor em porcentagem o
 aluno chegaria a esse valor deslocando erroneamente a virgula.
 
-Alternativa B: incorreta, este valor seria o número de calcados a ser
+B: incorreta, este valor seria o número de calcados a ser
 pego e não a porcentagem final provável, logo alternativa incorreta.
 
-Alternativa C: Correta pois:
+C: Correta pois:
 
 $P(E)\frac{n(4)}{n(100)}$= 0,04 ou 4%
 
-Alternativa D: incorreta, o aluno poderia chegar a essa conclusão ao
+D: incorreta, o aluno poderia chegar a essa conclusão ao
 apenas dividir o número de calcados totais pelo número de pares de
 calcados chegando ao valor descrito na alternativa o que não é o que o
 enunciado pede.
@@ -6801,18 +6803,18 @@ Habilidade Saeb:
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes
 
-Alternativa A: incorreta, o aluno pode realizar uma soma ao invés de uma
+A: incorreta, o aluno pode realizar uma soma ao invés de uma
 multiplicação, chegando a esse resultado erroneamente.
 
-Alternativa b: incorreta, o aluno chegara a esse valor caso esquecer do
+b: incorreta, o aluno chegara a esse valor caso esquecer do
 elemento "massas", assim multiplicando os outros fatores chegaria a essa
 conclusão.
 
-Alternativa c: incorreta, o aluno chegara a esse valor caso esquecer do
+c: incorreta, o aluno chegara a esse valor caso esquecer do
 elemento "saladas", assim multiplicando os outros fatores chegaria a
 essa conclusão.
 
-Alternativa D: Correta Pois:
+D: Correta Pois:
 
 Relendo o enunciado temos que:
 
@@ -6843,22 +6845,22 @@ Habilidade Saeb
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes.
 
-Alternativa A: Correta Pois:
+A: Correta Pois:
 
 $P(E)\frac{n(1)}{n(26)}$= 0,03 ou aproximadamente 3%
 
-Alternativa B: incorreta o aluno chegaria a essa conclusão ao confundir
+B: incorreta o aluno chegaria a essa conclusão ao confundir
 a quantidade de letras do alfabeto com a probabilidade do fato
 acontecer, o que não é correto.
 
-Alternativa C: incorreta o aluno chegaria a essa conclusão ao confundir
+C: incorreta o aluno chegaria a essa conclusão ao confundir
 a quantidade de iniciais, com a probabilidade do fato acontecer, o que
 não é correto.
 
-Alternativa D: incorreta, ao deslocar a virgula uma casa para direita o
+D: incorreta, ao deslocar a virgula uma casa para direita o
 aluno chegaria a assinalar essa alternativa de forma equivocada.
 
-Simulado 1:
+# Simulado 1
 
 1\) O número de ouro é um número\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 misterioso e enigmático, presente em uma infinidade de elementos da
@@ -6880,16 +6882,16 @@ c\) Inteiro
 
 d\) Natural
 
-Alternativa A: correta pois: está faltando a palavra Irracional no
+A: correta pois: está faltando a palavra Irracional no
 texto.
 
-Alternativa B: incorreta, o aluno pode considerar por semelhança que o
+B: incorreta, o aluno pode considerar por semelhança que o
 número seja um racional.
 
-Alternativa C: incorreta, o aluno pode considerar por falta de
+C: incorreta, o aluno pode considerar por falta de
 conhecimento que o número seja um inteiro.
 
-Alternativa D: incorreta, o aluno pode considerar por falta de
+D: incorreta, o aluno pode considerar por falta de
 conhecimento prévio que o número seja de alguma forma natural, devido a
 todas as respostas serem conjuntos.
 
@@ -6909,10 +6911,10 @@ c\) 9,11 ^.^ 10 ^-27^
 
 d\) 9,11 ^.^ 10 ^-26^
 
-Alternativa A: incorreta, o aluno ao contar um "zero" a mais o aluno
+A: incorreta, o aluno ao contar um "zero" a mais o aluno
 chegaria a esse resultado erroneamente.
 
-Alternativa B: Correta pois:
+B: Correta pois:
 
 Utilizando a notação cientifica temos que:
 
@@ -6931,7 +6933,7 @@ Logo Alternativa B
 AlternativaC: incorreta, o aluno ao contar um "zero" a menos o aluno
 chegaria a esse resultado erroneamente.
 
-Alternativa D: incorreta, o aluno ao contar dois "zeros" a menos o aluno
+D: incorreta, o aluno ao contar dois "zeros" a menos o aluno
 chegaria a esse resultado erroneamente.
 
 3\) Em um festival de Música a capacidade total de público era de 50 000
@@ -6948,7 +6950,7 @@ c\) 49 001
 
 d\) 4 950
 
-Alternativa incorreta, o aluno pode chegar à conclusão que de 100-99 =
+incorreta, o aluno pode chegar à conclusão que de 100-99 =
 1, logo ao tirar também o valor 1 de 50 000, encontraria o resultado
 correto, o que não é verídico.
 
@@ -6957,11 +6959,11 @@ Alternativa: B, Correta pois: Realizando o Cálculo temos que 50 000: 100
 
 500 . 99 = 49 500 foi o público total.
 
-Alternativa C: incorreta, o aluno pode considerar retirar 99 do valor de
+C: incorreta, o aluno pode considerar retirar 99 do valor de
 50 000 e chegar ao resultado da alternativa descrita, o que significa
 que o aluno realizou um calculo incorreto.
 
-Alternativa D: incorreta, o aluno pode chegar a esse resultado ao invés
+D: incorreta, o aluno pode chegar a esse resultado ao invés
 de multiplicar o valor de 50 000 por 0,99 , realizar a multiplicação por
 0,099.
 
@@ -6980,16 +6982,16 @@ c\) 4,37
 
 d\) 4,76
 
-Alternativa A: incorreta, esse seria o acréscimo do valor da passagem,
+A: incorreta, esse seria o acréscimo do valor da passagem,
 não o valor final.
 
-Alternativa B: incorreta, esse seria o valor da passagem caso houvesse
+B: incorreta, esse seria o valor da passagem caso houvesse
 12% de desconto e não de acréscimo como o enunciado manda.
 
-Alternativa C:incorreta, o aluno pode ao invés de calcular a
+C:incorreta, o aluno pode ao invés de calcular a
 porcentagem, realizar um soma chegando a essa conclusão.
 
-Alternativa D: Correta, pois
+D: Correta, pois
 
 4,25\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
 
@@ -7015,19 +7017,19 @@ c\) 1 352
 
 d\) 78
 
-Alternativa A: incorreta, o aluno pode considerar que essa seja o valor
+A: incorreta, o aluno pode considerar que essa seja o valor
 final do número de moedas, mas se trata de apenas o valor de um dos
 termos.
 
-Alternativa B: incorreta, o aluno pode considerar que essa seja o valor
+B: incorreta, o aluno pode considerar que essa seja o valor
 final do número de moedas, mas se trata de apenas o valor de um dos
 termos.
 
-Alternativa C: incorreta, o aluno pode considerar no final do sistemas
+C: incorreta, o aluno pode considerar no final do sistemas
 realizar a operação de multiplicação ao invés da soma, chegando a essa
 valor erroneamente.
 
-Alternativa D: Correta pois: lendo o enunciado obtemos o seguinte
+D: Correta pois: lendo o enunciado obtemos o seguinte
 sistema de equações:
 
 0,25x + 10y = 15,60
@@ -7067,17 +7069,17 @@ c\) 22x³+ 68x²+56x+
 
 d\) 22x³+ 68x²+56x+16
 
-Alternativa A: incorreta o aluno poderia chegar a essa conclusão
+A: incorreta o aluno poderia chegar a essa conclusão
 chegando apenas ao valor do volume apenas da primeira caixa.
 
-Alternativa B: incorreta o aluno poderia chegar a essa conclusão
+B: incorreta o aluno poderia chegar a essa conclusão
 chegando apenas ao valor do volume apenas da segunda caixa.
 
-Alternativa C: o aluno chegaria a esse valor calculando incorretamente o
+C: o aluno chegaria a esse valor calculando incorretamente o
 ultimo termo da equação esquecendo de realizar a última parte valor
 numérico
 
-Alternativa D: Correta Pois:
+D: Correta Pois:
 
 Considerando a formula do volume é l^.^ l^.^ l = volume temos que:
 
@@ -7127,11 +7129,11 @@ c\) 37
 
 d\) 2
 
-Alternativa a: incorreta, este valor representa apenas um dos termos da
+a: incorreta, este valor representa apenas um dos termos da
 equação e não o valor final o aluno pode chegar a assinalar esta
 resposta por apenas observar a equação e procurar uma resposta rápida.
 
-Alternativa b: Correta: pois:
+b: Correta: pois:
 
 Realizando a operação obtemos:
 
@@ -7141,10 +7143,10 @@ t²= $\sqrt{36}$
 
 t= ±6
 
-Alternativa C: incorreta, o aluno pode chegar a esse valor somando todos
+C: incorreta, o aluno pode chegar a esse valor somando todos
 os termos da equação o que não é o que o enunciado pede.
 
-Alternativa D: incorreta, o aluno pode apenas retirar o termo quadrático
+D: incorreta, o aluno pode apenas retirar o termo quadrático
 e cogitar que essa possa ser a alternativa correta.
 
 8\) Helena resolveu visitar seus pais que moram a 455 km de distância de
@@ -7162,20 +7164,20 @@ c\) 1,08 km/h
 
 d\) 18,05 km/h
 
-Alternativa A: Correta pois:
+A: Correta pois:
 
 Utilizando a razão $\frac{distância}{\text{tempo}}$ temos que
 $\frac{455}{7}$ = 65km/h
 
 A velocidade média desse carro foi de 65 km/h
 
-Alternativa B: Incorreta: o aluno pode chegar a essa conclusão caso
+B: Incorreta: o aluno pode chegar a essa conclusão caso
 dividir a distância pelo valor de 60 minutos ao invés de 7 horas.
 
-Alternativa C: incorreta, o aluno chegara a essa conclusão confundindo
+C: incorreta, o aluno chegara a essa conclusão confundindo
 km/h por km/m
 
-Alternativa D: incorreta o aluno chegara a essa conclusão confundindo
+D: incorreta o aluno chegara a essa conclusão confundindo
 km/h por m/s.
 
 9\) Considerando a figura, em que ABC é a representação de um triângulo
@@ -7196,18 +7198,18 @@ c\) 60°
 
 d\) 300°
 
-Alternativa A:incorreta, o aluno chegaria a essa conclusão realizando
+A:incorreta, o aluno chegaria a essa conclusão realizando
 apenas a primeira parte do cálculo esquecendo da figura triangular
 inserida abaixo do octógono.
 
-Alternativa B: Correta pois: Utilizando a Fórmula para obter o valor da
+B: Correta pois: Utilizando a Fórmula para obter o valor da
 figura temos que:
 
 Por método observativo a figura é um octógono = 8 lados
 
 Utilizando a formula temos que:
 
-$\frac{Ai = \left( 8 - 2 \right).\ \ \ 180}{8}$ =
+$\frac{Ai = \left( 8 - 2 \right)\ \ .\ \ 180}{8}$ =
 
 $\frac{Ai = \ 6\ \ .\ \ 180}{8\ }$ =
 
@@ -7215,7 +7217,7 @@ $\frac{Ai = 1080}{8}$ = 135°
 
 Agora calculando os ângulos do triangulo
 
-$\frac{Ai = \left( 3 - 2 \right).\ \ \ 180}{3}$ =
+$\frac{Ai = \left( 3 - 2 \right)\ \ .\ \ 180}{3}$ =
 
 $\frac{Ai = \ \ \ 180}{3}$ = 60°
 
@@ -7223,10 +7225,10 @@ Por definição temos que 135° + 60 ° - 360° = 165° logo alternativa B
 
 Logo x= 165°
 
-Alternativa C: resposta incorreta, o aluno pode considera o valor do
+C: resposta incorreta, o aluno pode considera o valor do
 ângulo interno do triângulo como resposta, o que é incorreto.
 
-Alternativa D: o aluno chegaria a esse valor caso não subtraísse também
+D: o aluno chegaria a esse valor caso não subtraísse também
 o valor do ângulo do triângulo chegando a esse valor erroneamente.
 
 10\) As medidas dos ângulos de um triângulo são expressas, em grau, por:
@@ -7244,13 +7246,13 @@ c\) 75°
 
 d)180°
 
-Alternativa A: incorreta, este valor é referente ao menor ângulo do
+A: incorreta, este valor é referente ao menor ângulo do
 triangulo e não do maior como o enunciado pede.
 
-Alternativa B: incorreta, este valor é referente ao segundo maior ângulo
+B: incorreta, este valor é referente ao segundo maior ângulo
 do triangulo e não do maior como o enunciado pede.
 
-Alternativa C: correta, pois
+C: correta, pois
 
 3x+4x+15+6x-30=180
 
@@ -7271,7 +7273,7 @@ Fazendo a substituição temos que os ângulos são
 
 Logo o ângulo maior é o de valor 75° alternativa c
 
-Alternativa D: incorreta, este valor é referente ao total da soma dos
+D: incorreta, este valor é referente ao total da soma dos
 ângulos do triangulo e não do maior ângulo como o enunciado pede.
 
 11\) Um circuito automobilístico possui 3,337km de perímetro, uma
@@ -7289,19 +7291,19 @@ c\) 3 259 km
 
 d\) 42,78km
 
-Alternativa A: correta
+A: correta
 
 3,337 x 78 voltas = 260,286 km
 
-Alternativa B: incorreta, o aluno ao invés de uma multiplicação pode
+B: incorreta, o aluno ao invés de uma multiplicação pode
 realizar uma soma em busca da resposta correta, o que não é o que o
 enunciado pede.
 
-Alternativa C: incorreta, o aluno ao invés de uma multiplicação pode
+C: incorreta, o aluno ao invés de uma multiplicação pode
 realizar uma subtração em busca da resposta correta, o que não é o que o
 enunciado pede.
 
-Alternativa D: incorreta, o aluno ao invés de uma multiplicação pode
+D: incorreta, o aluno ao invés de uma multiplicação pode
 realizar uma divisão em busca da resposta correta, o que não é o que o
 enunciado pede.
 
@@ -7332,13 +7334,13 @@ c\) 112 000
 
 d\) 175 000
 
-Alternativa A: incorreta, este valor é referente apenas ao 1° dia de
+A: incorreta, este valor é referente apenas ao 1° dia de
 Geraldo, o enunciado requer uma média aritmética o que pode levar o
 aluno a chegar a assinalar essa alternativa devido a ter este fator na
 semana de Geraldo podendo gerar uma confusão entre outras medidas
 estatísticas.
 
-Alternativa B: Correta pois:
+B: Correta pois:
 
 Somando as palavras digitadas durante os dias temos:
 
@@ -7346,13 +7348,13 @@ Somando as palavras digitadas durante os dias temos:
 
 653 000 : 6 = 130 600 palavras em média são digitadas por dia.
 
-Alternativa C: incorreta, este valor é referente apenas ao 2° dia de
+C: incorreta, este valor é referente apenas ao 2° dia de
 Geraldo, o enunciado requer uma média aritmética o que pode levar o
 aluno a chegar a assinalar essa alternativa devido a ter este fator na
 semana de Geraldo podendo gerar uma confusão entre outras medidas
 estatísticas.
 
-Alternativa D: incorreta, este valor é referente apenas ao 3° dia de
+D: incorreta, este valor é referente apenas ao 3° dia de
 Geraldo, o enunciado requer uma média aritmética o que pode levar o
 aluno a chegar a assinalar essa alternativa devido a ter este fator na
 semana de Geraldo podendo gerar uma confusão entre outras medidas
@@ -7371,14 +7373,14 @@ c\) 3 horas e 20 minutos
 
 d\) 20 minutos
 
-Alternativa A: incorreta, este valor seria correspondente ao valor do
+A: incorreta, este valor seria correspondente ao valor do
 volume e não a quantidade de tempo, assim o aluno chegaria erroneamente
 a essa alternativa.
 
-Alternativa B: incorreta, ao converter erroneamente o valor de minutos
+B: incorreta, ao converter erroneamente o valor de minutos
 para horas, o aluno chegaria a essa conclusão.
 
-Alternativa C: Correta pois:
+C: Correta pois:
 
 Para calcular o volume de um bloco retangular temos que V= l.l.l
 
@@ -7400,7 +7402,7 @@ X = 200 minutos
 
 200 minutos= 3horas e 20 minutos logo alternativa c
 
-Alternativa D: incorreta, o aluno chegaria a essa conclusão caso
+D: incorreta, o aluno chegaria a essa conclusão caso
 inserisse um "zero" a menos na expressão chegando a essa conclusão
 erroneamente.
 
@@ -7421,21 +7423,21 @@ c\) 0,25%
 
 d\) 40%
 
-Alternativa A: Correta, pois:
+A: Correta, pois:
 
 $P(E)\frac{n(1)}{n(40)}$= 2,5%
 
-Alternativa B: incorreta, pois o aluno poderia considerar o número de
+B: incorreta, pois o aluno poderia considerar o número de
 tentativas ao invés da probabilidade.
 
-Alternativa C: incorreta, o aluno chegaria a esse valor deslocando
+C: incorreta, o aluno chegaria a esse valor deslocando
 incorretamente a virgula 1 casa para esquerda.
 
-Alternativa D: incorreta, o aluno chegaria a essa conclusão ao
+D: incorreta, o aluno chegaria a essa conclusão ao
 considerar que o número de funcionários seja a quantidade de
 probabilidades o que é incorreto.
 
-Simulado 2:
+# Simulado 2
 
 1\) Qual é o menor número natural que devemos multiplicar pelo número
 125 para que o produto seja um número quadrado perfeito?
@@ -7448,18 +7450,18 @@ c)4
 
 d)5
 
-Alternativa A incorreta, o aluno pode considerar que a palavra quadrado
+A incorreta, o aluno pode considerar que a palavra quadrado
 remeta ao número dois, por semelhança.
 
-Alternativa B: incorreta, o aluno pode chegar à conclusão que 5³
+B: incorreta, o aluno pode chegar à conclusão que 5³
 equivalha a 125 onde se tornaria um quadrado perfeito o que está
 incorreto.
 
-Alternativa C: incorreta por considerar que um quadrado possua 4 lados o
+C: incorreta por considerar que um quadrado possua 4 lados o
 aluno pode considerar que tenha algo a ver com o número 4, o que está
 incorreto.
 
-Alternativa D,Correta: pois 5 x 125 = 625 e $\sqrt{625}$ = 25 logo um
+D,Correta: pois 5 x 125 = 625 e $\sqrt{625}$ = 25 logo um
 quadrado perfeito.
 
 2\) Um empresa de nanotecnologia resolveu inovar e criar o menor chip do
@@ -7479,7 +7481,7 @@ c\) 4,0 ^.^ 10^-5^
 
 d\) 2,0^.^10 ^-10^
 
-Alternativa A: correta pois
+A: correta pois
 
 Considerando a notação cientifica temos que
 
@@ -7493,14 +7495,14 @@ Separando os termos
 
 Logo temos que a área do Nano chip em cm² é 4,0 ^.^ 10^-10^
 
-Alternativa B: incorreta, ao errar o jogo de sinal na expressão e não
+B: incorreta, ao errar o jogo de sinal na expressão e não
 realizar a multiplicação de 2,0 por 2,0, o aluno chegaria a esse
 resultado, erroneamente.
 
-Alternativa C: incorreta, ao errar o jogo de sinal na expressão o aluno
+C: incorreta, ao errar o jogo de sinal na expressão o aluno
 chegaria a esse resultado, erroneamente.
 
-Alternativa D: Alternativa B: incorreta, ao não realizar a multiplicação
+D: Alternativa B: incorreta, ao não realizar a multiplicação
 de 2,0 por 2,0, o aluno chegaria a esse resultado, erroneamente.
 
 3\) Larissa e Leila são irmãs com apenas 1 ano de diferença, ao dividir
@@ -7516,13 +7518,13 @@ c\) Larissa tem 15 anos e Leila 16 anos
 
 d\) Larissa tem 16 anos e Leila 17 anos
 
-Alternativa A: incorreta, este problema tem 2 soluções possíveis, 1ª
+A: incorreta, este problema tem 2 soluções possíveis, 1ª
 realizando um divisão entre os dois termos, ou encontrando a fração
 geratriz do problema, o aluno pode considerar a alternativa correta
 simplesmente pelo fato da diferença entre as idades serem apenas de ano,
 sem realizar os possíveis cálculos indicados pelo enunciado.
 
-Alternativa B: Correta, pois:
+B: Correta, pois:
 
 9,3333333\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--10 x
 
@@ -7535,13 +7537,13 @@ Alternativa B: Correta, pois:
 Logo temos $\frac{84}{90}$ simplificando por 6 temos que $\frac{14}{15}$
 a idade de Larissa e Leila são respectivamente 14 e 15 anos.
 
-Alternativa C: incorreta, este problema tem 2 soluções possíveis, 1ª
+C: incorreta, este problema tem 2 soluções possíveis, 1ª
 realizando um divisão entre os dois termos, ou encontrando a fração
 geratriz do problema, o aluno pode considerar a alternativa correta
 simplesmente pelo fato da diferença entre as idades serem apenas de ano,
 sem realizar os possíveis cálculos indicados pelo enunciado.
 
-Alternativa D: incorreta, este problema tem 2 soluções possíveis, 1ª
+D: incorreta, este problema tem 2 soluções possíveis, 1ª
 realizando um divisão entre os dois termos, ou encontrando a fração
 geratriz do problema, o aluno pode considerar a alternativa correta
 simplesmente pelo fato da diferença entre as idades serem apenas de ano,
@@ -7567,11 +7569,11 @@ c\) Aumentou 1%.
 
 d\) Aumentou 79,20%.
 
-Alternativa A: incorreta, o aluno chegará a essa conclusão caso não
+A: incorreta, o aluno chegará a essa conclusão caso não
 realize os cálculos necessários, onde achara que por dar 10% de desconto
 e depois adicionar 10% logo o valor ficaria nulo, o que é incorreto.
 
-Alternativa B: Correta Pois:
+B: Correta Pois:
 
 Este problema possui duas formas de solução:
 
@@ -7627,11 +7629,11 @@ X= 99
 
 Logo o valor do vestido diminuiu 1 % alternativa letra B
 
-Alternativa C: incorreta, o aluno pode chegar a essa conclusão devido a
+C: incorreta, o aluno pode chegar a essa conclusão devido a
 semelhança entre os termos da resposta correta e a resposta incorreta,
 uma falta de atenção poderia levar a esse erro.
 
-Alternativa D: incorreta, o aluno chegaria a essa conclusão caso
+D: incorreta, o aluno chegaria a essa conclusão caso
 confundisse o valor final do produto com a porcentagem correspondente do
 produto.
 
@@ -7648,7 +7650,7 @@ c\) 40 reais
 
 d\) 60 reais
 
-Alternativa A: correta Pois:
+A: correta Pois:
 
 Determinando com x = bola e y = boneca temos que
 
@@ -7675,14 +7677,14 @@ e uma bola custam juntos 60 reais
 
 60-40 = 20 o preço da bola é 20 reais logo alternativa A
 
-Alternativa B: incorreta, o aluno chegaria a essa conclusão caso errasse
+B: incorreta, o aluno chegaria a essa conclusão caso errasse
 a troca de sinal da equação resultante do sistema.
 
-Alternativa C: incorreta, o aluno pode confundir os resultados entre o
+C: incorreta, o aluno pode confundir os resultados entre o
 preço da bola e da boneca, assim assinalaria essa alternativa
 erroneamente.
 
-Alternativa D: Incorreta: o aluno pode não conseguir deduzir o preço de
+D: Incorreta: o aluno pode não conseguir deduzir o preço de
 um brinquedo do outro chegando a essa conclusão precipitada.
 
 6\) Ao jogar um famoso jogo eletrônico, Davi resolveu observar mais cada
@@ -7705,14 +7707,14 @@ c\) 4x² + 48x+144
 
 d\) x² + 12x + 36
 
-Alternativa A: incorreta, o aluno poderia ao invés de realizar o cálculo
+A: incorreta, o aluno poderia ao invés de realizar o cálculo
 da área realizar o cálculo do perímetro, chegando a esse resultado
 incorreto.
 
-Alternativa B: incorreta, o aluno ao errar a multiplicação no termo "x"
+B: incorreta, o aluno ao errar a multiplicação no termo "x"
 considerará essa resposta como alternativa correta.
 
-Alternativa C: Correta pois considerando que cada lado dos quadrados é
+C: Correta pois considerando que cada lado dos quadrados é
 (x+6) e que a área do quadrado é l.l temos que:
 
 (x+6) (x+6)=
@@ -7727,7 +7729,7 @@ Como temos 4 quadrados na figura:
 
 Logo alternativa correta letra c
 
-Alternativa D: incorreta, caso o aluno considere calcular apenas 1
+D: incorreta, caso o aluno considere calcular apenas 1
 quadrado ao invés da figurar toda chegará a esse resultado erroneamente.
 
 7\) Pedro é um professor de matemática em um renomado colégio da cidade,
@@ -7746,15 +7748,15 @@ c\) 53 anos
 
 d\) 20 anos
 
-Alternativa A: incorreta, o aluno chegaria a essa conclusão ao pegar
+A: incorreta, o aluno chegaria a essa conclusão ao pegar
 apenas uma parte da equação correspondente e não o resultado final,
 chegando a uma resposta equivocada.
 
-Alternativa B: incorreta, o aluno chegaria a essa conclusão ao somar uma
+B: incorreta, o aluno chegaria a essa conclusão ao somar uma
 parte da equação correspondente e não o resultado final, chegando a uma
 resposta equivocada.
 
-Alternativa C: Correta pois:
+C: Correta pois:
 
 Realizando as operações obtemos:
 
@@ -7768,7 +7770,7 @@ X= 53
 
 Logo Pedro tem 53 anos.
 
-Alternativa D: incorreta, o aluno chegaria a essa conclusão ao somar os
+D: incorreta, o aluno chegaria a essa conclusão ao somar os
 elementos da equação correspondente e não o resultado final, chegando a
 uma resposta equivocada.
 
@@ -7787,7 +7789,7 @@ c\) 2 075 Habitantes/km²
 
 d\) 20 Habitantes/km²
 
-Alternativa A: correta pois:
+A: correta pois:
 
 Utilizando a razão da densidade demográfica que é
 
@@ -7798,14 +7800,14 @@ $densidade\ demografica = \frac{7\ 264\ 200}{35\ 000}$
 
 $densidade\ demografica = 207,5\ habitantes$/km²
 
-Alternativa B: incorreta, o aluno ao invés de realizar a divisão entre
+B: incorreta, o aluno ao invés de realizar a divisão entre
 número de pessoas e dimensão do espaço em km² realizar a divisão da
 dimensão pelo número de pessoas.
 
-Alternativa C: incorreta, o aluno pode chegar a esse resultado cortando
+C: incorreta, o aluno pode chegar a esse resultado cortando
 um "zero" a mais da expressão chegando nesse resultado erroneamente.
 
-Alternativa D: incorreta, o aluno pode chegar a esse resultado cortando
+D: incorreta, o aluno pode chegar a esse resultado cortando
 um "zero" a menos da expressão chegando nesse resultado erroneamente.
 
 9\) Um tijolo maciço comum, possui aproximadamente 11 centímetros de
@@ -7823,7 +7825,7 @@ c\) Não foi suficiente e Faltou 440 Tijolos
 
 d\) Manoel comprou tijolos necessários porem não houve sobra.
 
-Alternativa A: Correta pois:
+A: Correta pois:
 
 Calculando a parede da casa obtemos que a mesma possuirá 28m²
 
@@ -7833,14 +7835,14 @@ Dividindo 28 : 0,0264 = 1 060 Tijolos
 
 Logo 1500 -- 1060 = 440 tijolos sobraram.
 
-Alternativa B: incorreta, o aluno chegaria a esse valor caso confundisse
+B: incorreta, o aluno chegaria a esse valor caso confundisse
 área com perímetro, onde chegaria a esse valor.
 
-Alternativa C: incorreta, o aluno por meio de indução e não observar o
+C: incorreta, o aluno por meio de indução e não observar o
 conteúdo da alternativa pode ser levado a assinala-la, devido aos
 valores serem iguais mas o enunciado diferente.
 
-Alternativa D: incorreta, enunciado inserido para caso o aluno não tenha
+D: incorreta, enunciado inserido para caso o aluno não tenha
 conhecimento prévio, procurara a alternativa mais plausível para o
 enunciado.
 
@@ -7864,7 +7866,7 @@ c\) 44°
 
 d\) 68°
 
-Alternativa A: correta pois:
+A: correta pois:
 
 Utilizando as informações da imagem temos que
 
@@ -7880,13 +7882,13 @@ Logo como há uma bissetriz temos que 22+22= 44°
 
 Logo alternativa correta letra A
 
-Alternativa B: incorreta, o aluno chegaria a essa conclusão calculando
+B: incorreta, o aluno chegaria a essa conclusão calculando
 apenas o valor do ângulo BHA.
 
-Alternativa C: incorreta, o aluno chegaria a esse valor calculando
+C: incorreta, o aluno chegaria a esse valor calculando
 apenas o valor da bissetriz do ângulo.
 
-Alternativa D: incorreta, o aluno chegaria a essa conclusão considerando
+D: incorreta, o aluno chegaria a essa conclusão considerando
 o valor de outro ângulo diferente ao enunciado.
 
 11\) Iracema quer realizar uma viagem ao exterior, porem decidiu que o
@@ -7906,17 +7908,17 @@ c\) 41 km por dia
 
 d\) 42 km por dia
 
-Alternativa A: o aluno ao invés de realizar uma divisão dos termos, pode
+A: o aluno ao invés de realizar uma divisão dos termos, pode
 realizar uma porcentagem chegando a esse resultado erroneamente.
 
-Alternativa B: incorreta, o aluno pode chegar a essa conclusão
+B: incorreta, o aluno pode chegar a essa conclusão
 confundindo o número de dias com a quantidade km a ser percorrido.
 
-Alternativa C: incorreta, o aluno chegaria a essa conclusão
+C: incorreta, o aluno chegaria a essa conclusão
 desconsiderando as casas decimais, importante para a solução do
 problema.
 
-Alternativa D: Correta pois:
+D: Correta pois:
 
 1 235km : 30 dias = 41,16 km diários logo deverá andar com seu carro no
 mínimo 42 km por dia.
@@ -7949,21 +7951,21 @@ c\) R\$13,40
 
 d\) R\$12,12
 
-Alternativa A: Correta pois:
+A: Correta pois:
 
 Somando os meses obtemos: 73,05
 
 73,05 : 6 = 12, 175 logo alternativa correta letra A
 
-Alternativa B: incorreta, o aluno chegaria a esse resultado,
+B: incorreta, o aluno chegaria a esse resultado,
 considerando que o enunciado requer o menor preço, e não a média
 aritmética, chegando a uma conclusão equivocada.
 
-Alternativa C: incorreta, o aluno chegaria a esse resultado,
+C: incorreta, o aluno chegaria a esse resultado,
 considerando que o enunciado requer o maior valor, e não a média
 aritmética, chegando a uma conclusão equivocada.
 
-Alternativa D: incorreta, o aluno chegaria a esse resultado,
+D: incorreta, o aluno chegaria a esse resultado,
 considerando que o enunciado requer a mediana dos preços, e não a média
 aritmética, chegando a uma conclusão equivocada.
 
@@ -7992,11 +7994,11 @@ c\) 11,6m²
 
 d\) 1,63 m²
 
-Alternativa A: incorreta, o aluno chegará nesse valor caso considere
+A: incorreta, o aluno chegará nesse valor caso considere
 multiplicar as duas diagonais em busca do valor da área, sem utilizar a
 formula necessária.
 
-Alternativa B: Correta, pois
+B: Correta, pois
 
 Utilizando a formula da área do losango temos que:
 
@@ -8008,11 +8010,11 @@ A= 15,84 m²
 
 Logo deverá comprar 15,84 m² de folha de seda.
 
-Alternativa C: Incorreta, o aluno ao invés de utilizar a fórmula do
+C: Incorreta, o aluno ao invés de utilizar a fórmula do
 losango para definir a área, pode somar os valores, e chegar a esse
 valor erroneamente.
 
-Alternativa D: Incorreta, o aluno ao invés de utilizar a fórmula do
+D: Incorreta, o aluno ao invés de utilizar a fórmula do
 losango para definir a área, pode dividir os valores, e chegar a esse
 valor erroneamente.
 
@@ -8032,22 +8034,22 @@ c\) 2 500 possibilidades
 
 d\) 250 possibilidades
 
-Alternativa A: Correta pois:
+A: Correta pois:
 
 Temos que o número de vogais do nosso alfabeto é 5, logo:
 
 5 . 5 . 10 . 10 . 10 . 10 = 250 000 possibilidades de senhas diferentes.
 
-Alternativa B: incorreta, ao não considerar "um elemento multiplicativo
+B: incorreta, ao não considerar "um elemento multiplicativo
 10" o aluno chegaria a essa conclusão erroneamente.
 
-Alternativa C: incorreta, ao não considerar "dois elementos
+C: incorreta, ao não considerar "dois elementos
 multiplicativos 10" o aluno chegaria a essa conclusão erroneamente.
 
-Alternativa D: incorreta, ao não considerar "três elementos
+D: incorreta, ao não considerar "três elementos
 multiplicativos 10" o aluno chegaria a essa conclusão erroneamente.
 
-Simulado 3:
+# Simulado 3
 
 1\) Na sequência de Fibonacci os dois primeiros números são 1 e 1. A
 partir daí, cada número é igual à soma dos dois anteriores: 1, 1, 2, 3,
@@ -8067,15 +8069,15 @@ Continuando a calcular a sequência de Fibonacci temos: 13+21 = 34,
 
 Logo alternativa A: Correta
 
-Alternativa B incorreta: pois este valor se refere na realidade ao 2°
+B incorreta: pois este valor se refere na realidade ao 2°
 número acima de 3 dígitos da sequência de Fibonacci logo não é o que o
 enunciado pede.
 
-Alternativa C incorreta: pois este valor se refere na realidade ao 3°
+C incorreta: pois este valor se refere na realidade ao 3°
 número acima de 3 dígitos da sequência de Fibonacci logo não é o que o
 enunciado pede.
 
-Alternativa D incorreta: pois este valor se refere na realidade ao 4°
+D incorreta: pois este valor se refere na realidade ao 4°
 número acima de 3 dígitos da sequência de Fibonacci logo não é o que o
 enunciado pede.
 
@@ -8096,16 +8098,16 @@ c\) 20 000 segundos
 
 d\) 2 000 segundos
 
-Alternativa A: ao considerar dois "zeros" a menos em qualquer uma das
+A: ao considerar dois "zeros" a menos em qualquer uma das
 notações o aluno chegara a esse resultado erroneamente.
 
-Alternativa B: ao considerar um "zero" a menos em qualquer uma das
+B: ao considerar um "zero" a menos em qualquer uma das
 notações o aluno chegara a esse resultado erroneamente.
 
-Alternativa C: ao considerar um "zero" a mais em qualquer uma das
+C: ao considerar um "zero" a mais em qualquer uma das
 notações o aluno chegara a esse resultado erroneamente.
 
-Alternativa D, correta pois:
+D, correta pois:
 
 Considerando as notações cientificas temos que:
 
@@ -8135,7 +8137,7 @@ c\) 30 litros
 
 d\) 60 litros
 
-Alternativa A: correta
+A: correta
 
 Se na metade do caminho o tanque estava apenas com $\frac{1}{3}$ da
 capacidade, temos que em metade da viagem foi consumido $\frac{2}{3}$ do
@@ -8149,16 +8151,16 @@ analogamente também serão consumidos 40 litros, e como o tanque já
 possui 20 litros que restaram, basta abastecerem apenas mais 20 litros
 de gasolina.
 
-Alternativa B: incorreta, o aluno poderia chegar a essa conclusão ao não
+B: incorreta, o aluno poderia chegar a essa conclusão ao não
 compreender corretamente o enunciado e considerar a quantidade máxima ao
 invés da quantidade mínima a ser coloca no tanque de combustível.
 
-Alternativa C: incorreta, o aluno poderia chegar a essa conclusão ao não
+C: incorreta, o aluno poderia chegar a essa conclusão ao não
 compreender corretamente o enunciado e considerar que a quantidade a ser
 abastecida, seria a metade do tanque, devido o enunciado descrever que a
 conferencia de abastecimento foi realizada na metade do percurso.
 
-Alternativa D: incorreta, o aluno pode chegar a essa conclusão caso
+D: incorreta, o aluno pode chegar a essa conclusão caso
 considere que a família tenha que abastecer completamente o tanque para
 concluir a viagem.
 
@@ -8178,15 +8180,15 @@ c\) 25%
 
 d\) 7,84%
 
-Alternativa A: incorreta, o aluno poderia encontrar esse valor
+A: incorreta, o aluno poderia encontrar esse valor
 multiplicando a regra de 3 reta ao invés de fazer a multiplicação
 cruzada.
 
-Alternativa B: incorreta, 14 na verdade é quantidade de gramas que foi
+B: incorreta, 14 na verdade é quantidade de gramas que foi
 ingerida, o aluno pode confundir os termos e chegar nessa conclusão
 erroneamente.
 
-Alternativa C: correta pois:
+C: correta pois:
 
 x\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
 
@@ -8212,7 +8214,7 @@ Se 56g é o total de proteínas que Paloma necessita no dia, temos que 14g
 
 X=25 %
 
-Alternativa D: incorreta, esse valor seria obtido ao calcular
+D: incorreta, esse valor seria obtido ao calcular
 incorretamente a regra de três simples, realizando a multiplicação ao
 invés da divisão ao fazer a transição de valores na equação final.
 
@@ -8229,10 +8231,10 @@ c\) 34
 
 d\) 10
 
-Alternativa A: incorreta, o aluno chegaria a esse valor caso considerar
+A: incorreta, o aluno chegaria a esse valor caso considerar
 que só há na pilha madeira de 2cm
 
-Alternativa B: Correta, pois:
+B: Correta, pois:
 
 X= quantidade de madeira de 2cm\
 Y= quantidade de madeira de 5cm\
@@ -8250,10 +8252,10 @@ X=40-30=10 madeiras de 2cm.
 
 Logo alternativa B.
 
-Alternativa C: incorreta, o aluno pode considerar essa alternativa
+C: incorreta, o aluno pode considerar essa alternativa
 correta, caso entenda que a pilha só possua madeiras de 5cm
 
-Alternativa D: incorreta, o aluno considerará correta essa questão caso
+D: incorreta, o aluno considerará correta essa questão caso
 considere que as madeiras estejam colocadas intercaladas somando 5cm +
 2cm, obtendo 7 cm e dividindo pelo total, logo cálculos equivocados.
 
@@ -8269,11 +8271,11 @@ c\) 5x²
 
 d\) 4x² + 4x
 
-Alternativa A: incorreta, o aluno errando o sinal de negativo para
+A: incorreta, o aluno errando o sinal de negativo para
 positivo no termo 2 da expressão final, chegaria a esse resultado
 erroneamente.
 
-Alternativa B: Correta pois:
+B: Correta pois:
 
 Ao realizarmos as operações lembrando da fatoração por meio da soma de
 dois quadrados e da diferença de dois quadrados obtemos que:
@@ -8288,10 +8290,10 @@ x² + 2x+ 1 + x² -2x +1+ 2(x²-1)=
 
 Logo alternativa correta letra b
 
-Alternativa C: incorreta, ao errar um dos sinais dos termos "x²" o aluno
+C: incorreta, ao errar um dos sinais dos termos "x²" o aluno
 chegaria a esse valor equivocadamente.
 
-Alternativa D: incorreta, o aluno errando o sinal de negativo para
+D: incorreta, o aluno errando o sinal de negativo para
 positivo no termo 2x da expressão final, chegaria a esse resultado
 erroneamente.
 
@@ -8311,22 +8313,22 @@ c\) 42 anos
 
 d\) 1 ano
 
-Alternativa a incorreta: o aluno pode chegar a essa conclusão
+a incorreta: o aluno pode chegar a essa conclusão
 considerando que o enunciado pede apenas 1 valor das raízes da equação
 descrita e não a soma das raízes, chegando a essa conclusão
 erroneamente.
 
-Alternativa b incorreta: o aluno pode chegar a essa conclusão
+b incorreta: o aluno pode chegar a essa conclusão
 considerando que o enunciado pede apenas 1 valor das raízes da equação
 descrita e não a soma das raízes, chegando a essa conclusão
 erroneamente.
 
-Alternativa c incorreta: o aluno pode chegar a essa conclusão
+c incorreta: o aluno pode chegar a essa conclusão
 considerando que o enunciado pede o produto das raízes da equação
 descrita e não a soma das raízes, chegando a essa conclusão
 erroneamente.
 
-Alternativa d: Correta, pois:
+d: Correta, pois:
 
 Utilizando Bhaskhara temos:
 
@@ -8365,15 +8367,15 @@ c\) 3,05 g/cm³
 
 d\) 8,2 g/cm³
 
-Alternativa A: incorreta, o aluno pode chegar a esse valor realizando ao
+A: incorreta, o aluno pode chegar a esse valor realizando ao
 invés da divisão de massa por volume, realizar a divisão volume por
 massa.
 
-Alternativa B: incorreta, incorreta, o aluno pode chegar a esse valor
+B: incorreta, incorreta, o aluno pode chegar a esse valor
 realizando ao invés da divisão de massa por volume, realizar a soma de
 volume e massa.
 
-Alternativa C: correta pois:
+C: correta pois:
 
 Utilizando a razão da densidade que é $d = \frac{m}{v}$ temos que:
 
@@ -8381,7 +8383,7 @@ $d = \frac{12,2}{4}$
 
 d= 3,05 g/cm³
 
-Alternativa D: incorreta, incorreta, o aluno pode chegar a esse valor
+D: incorreta, incorreta, o aluno pode chegar a esse valor
 realizando ao invés da divisão de massa por volume, realizar a subtração
 de massa por volume.
 
@@ -8405,26 +8407,26 @@ c\) 140°
 
 d\) 144°
 
-Alternativa A: incorreta, o aluno poderia chegar a esse valor esquecendo
+A: incorreta, o aluno poderia chegar a esse valor esquecendo
 que a formula contém uma subtração por 2 no numerador chegando assim a
 esse valor erroneamente.
 
-Alternativa B: incorreta, o aluno chegaria a esse valor, contando 1 lado
+B: incorreta, o aluno chegaria a esse valor, contando 1 lado
 a menos do polígono
 
-Alternativa C: Correta, Pois: Considerando que a formula para calcular
+C: Correta, Pois: Considerando que a formula para calcular
 cada ângulo interno de um polígono regular é
-$\frac{Ai = \left( n - 2 \right).\ \ \ 180}{n}$ temos que:
+$\frac{Ai = \left( n - 2 \right)\ \ .\ \ 180}{n}$ temos que:
 
 Polígono que deve ser feito: Eneágono = 9 lados
 
-$\frac{Ai = \left( 9 - 2 \right).\ \ \ 180}{9}$ =
+$\frac{Ai = \left( 9 - 2 \right)\ \ .\ \ 180}{9}$ =
 
-$\frac{Ai = 7\ .\ \ \ 180}{9}$ =
+$\frac{Ai = 7\ \ \ .\ \ 180}{9}$ =
 
 $\frac{Ai = 1260}{9}$ = 140° logo alternativa C
 
-Alternativa D: o aluno chegaria a essa conclusão caso contasse 1 lado a
+D: o aluno chegaria a essa conclusão caso contasse 1 lado a
 mais na figura do polígono regular chegando assim a esse resultado
 erroneamente.
 
@@ -8443,7 +8445,7 @@ c\) 50°, 80° e 70°
 
 d\) 50°, 60° e 80°
 
-Alternativa A: Correta, Pois:
+A: Correta, Pois:
 
 Se o 1° ângulo externo mede 110° temos que:
 
@@ -8463,13 +8465,13 @@ Logo 60+70 = 130
 
 Logo os ângulos internos do triangulo são 50°,60°e 70°
 
-Alternativa B: incorreta, o aluno chegará a esse resultado casso errar a
+B: incorreta, o aluno chegará a esse resultado casso errar a
 subtração no cálculo do 1° ângulo citado no enunciado.
 
-Alternativa C: incorreta, o aluno chegará a esse resultado casso errar a
+C: incorreta, o aluno chegará a esse resultado casso errar a
 subtração no cálculo do 2° ângulo citado no enunciado.
 
-Alternativa D: incorreta, o aluno chegará a esse resultado casso errar a
+D: incorreta, o aluno chegará a esse resultado casso errar a
 subtração no cálculo do 3° ângulo citado no enunciado.
 
 11\) Ao entrar em um velho porão abandonado, Bruno descobriu um mapa com
@@ -8497,17 +8499,17 @@ c\) 34km
 
 d\) 35km
 
-Alternativa A: Correta pois
+A: Correta pois
 
 No total são 33 traços, logo 33 x 1 000 = 33 000 ou 33km
 
-Alternativa B: incorreta, o aluno ao contar 1 traço a menos chegaria a
+B: incorreta, o aluno ao contar 1 traço a menos chegaria a
 esse valor erroneamente.
 
-Alternativa C: incorreta, o aluno ao contar 1 traço a mais chegaria a
+C: incorreta, o aluno ao contar 1 traço a mais chegaria a
 esse valor erroneamente.
 
-Alternativa D: incorreta, o aluno ao contar 2 traços a mais chegaria a
+D: incorreta, o aluno ao contar 2 traços a mais chegaria a
 esse valor erroneamente.
 
 12\) Rodrigo está realizando uma dieta, reduzindo os carboidratos de sua
@@ -8540,19 +8542,19 @@ c\) 37g
 
 d\) 32 g
 
-Alternativa A: incorreta, este valor é apenas referente ao dia de
+A: incorreta, este valor é apenas referente ao dia de
 segunda na dieta de Rodrigo o que pode levar o aluno a assinalar essa
 alternativa erroneamente.
 
-Alternativa B: incorreta, este valor é apenas referente ao dia de terça
+B: incorreta, este valor é apenas referente ao dia de terça
 na dieta de Rodrigo o que pode levar o aluno a assinalar essa
 alternativa erroneamente.
 
-Alternativa C: incorreta, este valor é apenas referente ao dia de Quarta
+C: incorreta, este valor é apenas referente ao dia de Quarta
 na dieta de Rodrigo o que pode levar o aluno a assinalar essa
 alternativa erroneamente.
 
-Alternativa D: Correta pois:
+D: Correta pois:
 
 Somando a quantidade de gramas consumida durante a semana obtemos:
 
@@ -8574,14 +8576,14 @@ c)11,34g
 
 d\) 35 g
 
-Alternativa A: incorreta, o aluno pode chegar a essa conclusão ao
+A: incorreta, o aluno pode chegar a essa conclusão ao
 confundir o valor do volume com o valor da quantidade de gramas de sal
 no copo, como o enunciado pede.
 
-Alternativa B: incorreta, ao inserir um zero a mais na equação o aluno
+B: incorreta, ao inserir um zero a mais na equação o aluno
 chegaria a esse valor incorretamente.
 
-Alternativa C: Correta pois:
+C: Correta pois:
 
 V= $\Pi$. R² .h
 
@@ -8613,7 +8615,7 @@ x= 11,34 g de sal
 
 Logo alternativa C
 
-Alternativa D: incorreta, o aluno poderia chegar a essa conclusão ao
+D: incorreta, o aluno poderia chegar a essa conclusão ao
 compreender que o enunciado pede o valor de gramas referente a um litro
 de agua sem ao menos realizar os cálculos, chagando a esse valor
 erroneamente.
@@ -8638,11 +8640,11 @@ c\) 27%
 
 d\) 91%
 
-Alternativa A: incorreta, este seria o valor da probabilidade de
+A: incorreta, este seria o valor da probabilidade de
 encontrar alguém com a pulseira verde e não a pulseira vermelha como
 enunciado pede.
 
-Alternativa B: correta Pois
+B: correta Pois
 
 Somando o público do evento temos que:
 
@@ -8652,15 +8654,15 @@ Utilizando a fórmula temos que:
 
 $P(E)\frac{n(1\ 000)}{n(11\ 000)}$ = $\frac{1}{11}$ ou 9%
 
-Alternativa C: incorreta, este seria o valor da probabilidade de
+C: incorreta, este seria o valor da probabilidade de
 encontrar alguém com a pulseira azul e não a pulseira vermelha como
 enunciado pede.
 
-Alternativa D: incorreta, esse valor seria a probabilidade de não
+D: incorreta, esse valor seria a probabilidade de não
 encontrar alguém com uma pulseira vermelha, o aluno poderia chegar a
 essa conclusão interpretando errado o enunciado.
 
-Simulado 4:
+# Simulado 4
 
 1\) Ao calcularmos $\sqrt{3^{3} + 3²}$ obtemos como resposta:
 
@@ -8672,17 +8674,17 @@ c\) um número irracional menor que 20
 
 d\) A potência 3^5^
 
-Alternativa A: incorreta ao não extrair o valor da raiz o aluno pode
+A: incorreta ao não extrair o valor da raiz o aluno pode
 chegar a essa conclusão
 
-Alternativa B: Correta. Ao Calcularmos a operação obtemos o valor 6 que
+B: Correta. Ao Calcularmos a operação obtemos o valor 6 que
 é um número natural.
 
-Alternativa C: incorreta, ao calcular as potencias utilizando uma
+C: incorreta, ao calcular as potencias utilizando uma
 propriedade errada de potencias, o valor seria um irracional menor que
 20, o que estaria incorreto.
 
-Alternativa D: incorreta: ao calcular erroneamente a expressão abaixo da
+D: incorreta: ao calcular erroneamente a expressão abaixo da
 raiz chegaria a esse valor equivocadamente.
 
 2\) A medida média da distância entre a Terra e o Sol é de
@@ -8701,13 +8703,13 @@ c\) 6 000 horas
 
 d\) 60 000 horas
 
-Alternativa A: incorreta, o aluno pode chegar a essa conclusão caso
+A: incorreta, o aluno pode chegar a essa conclusão caso
 considerar apenas a base 10, esquecendo o restante do calculo
 
-Alternativa B: incorreta Ao realizar o cálculo excluindo a parte de base
+B: incorreta Ao realizar o cálculo excluindo a parte de base
 10 o aluno chegaria a esse resultado.
 
-Alternativa C: correta pois
+C: correta pois
 
 Considerando as notações cientificas temos que:
 
@@ -8719,7 +8721,7 @@ Realizando a operação 0,6 ^.^ 10000= 6000
 
 Logo resposta correta C, 6000 horas.
 
-Alternativa D: ao considerar um "zero" a mais em qualquer uma das
+D: ao considerar um "zero" a mais em qualquer uma das
 notações o aluno chegara a esse resultado erroneamente.
 
 3\) Dois maratonistas estavam correndo uma maratona de 30 km , após 40
@@ -8737,10 +8739,10 @@ c\) 13,5 km
 
 d\) 22,875km
 
-Alternativa A: incorreta, esse resultado seria obtido caso o aluno
+A: incorreta, esse resultado seria obtido caso o aluno
 apenas calculasse a quilometragem do primeiro atleta do enunciado
 
-Alternativa B: correta, pois Calculando o corredor A temos que:
+B: correta, pois Calculando o corredor A temos que:
 
 30 : 16= 1,875 . 5 = 9,375
 
@@ -8752,10 +8754,10 @@ Logo
 
 13,5 -- 9,375 = 4,125
 
-Alternativa C: incorreta, esse resultado seria obtido caso o aluno
+C: incorreta, esse resultado seria obtido caso o aluno
 apenas calculasse a quilometragem do segundo atleta do enunciado.
 
-Alternativa D: incorreta, esse resultado seria obtido caso o aluno ao
+D: incorreta, esse resultado seria obtido caso o aluno ao
 invés de realizar a diferença entre dois atletas, realizasse a adição.
 
 4\) Natalia iniciou uma dieta rigorosa, cortou todos os carboidratos,
@@ -8774,13 +8776,13 @@ c\) 3 kg
 
 d\) 60 kg
 
-Alternativa A: incorreta, o aluno pode reduzir o imc do enunciado o
+A: incorreta, o aluno pode reduzir o imc do enunciado o
 valor "5" ao invés de 5% chegando nesse valor erroneamente.
 
-Alternativa B: incorreta, o aluno chegaria a esse valor caso
+B: incorreta, o aluno chegaria a esse valor caso
 multiplicasse 57 x 0,05 chegando a esse valor.
 
-Alternativa C: correta, pois
+C: correta, pois
 
 Utilizando a regra de 3 simples temos que:
 
@@ -8794,7 +8796,7 @@ X= 60
 
 60 kg -- 57gk = 3kg foi a redução obtida por Natalia.
 
-Alternativa D: incorreta, esse valor é correspondente ao peso anterior
+D: incorreta, esse valor é correspondente ao peso anterior
 de Natalia, e não a redução de peso obtida.
 
 5\) Duas caixas contêm, conjuntamente, 84 pêssegos. Se fossem tirados
@@ -8811,19 +8813,19 @@ c\) 38 pêssegos em uma caixa e 46 na outra
 
 d\) 44 pêssegos em uma caixa e 40 na outra
 
-Alternativa A: incorreta, o aluno pode considerar a alternativa correta
+A: incorreta, o aluno pode considerar a alternativa correta
 por que satisfaz a condição de conjuntamente terem 84 pêssegos porem não
 satisfaz o segundo passo do enunciado, logo a questão necessita que
 ambos os termos estejam de acordo, estando apenas um termo correto não é
 suficiente que a alternativa esteja correta.
 
-Alternativa B: incorreta, o aluno pode considerar a alternativa correta
+B: incorreta, o aluno pode considerar a alternativa correta
 por que satisfaz a condição de conjuntamente terem 84 pêssegos porem não
 satisfaz o segundo passo do enunciado, logo a questão necessita que
 ambos os termos estejam de acordo, estando apenas um termo correto não é
 suficiente que a alternativa esteja correta.
 
-Alternativa C: correta pois
+C: correta pois
 
 Renomeando as caixas por x e y temos o seguinte sistema:
 
@@ -8846,7 +8848,7 @@ Y= 38
 Logo se em uma das caixas tem 38 pêssegos, analogamente na outra caixa
 tem 46 pêssegos. Resposta correta alternativa c
 
-Alternativa D: incorreta, o aluno pode considerar a alternativa correta
+D: incorreta, o aluno pode considerar a alternativa correta
 por que satisfaz a condição de conjuntamente terem 84 pêssegos porem não
 satisfaz o segundo passo do enunciado, logo a questão necessita que
 ambos os termos estejam de acordo, estando apenas um termo correto não é
@@ -8872,7 +8874,7 @@ c\) 5ab^6^
 
 d\) 3a^4^+ 6a³+ 3a²b²
 
-Alternativa A: correta, pois
+A: correta, pois
 
 Realizando as operações algébricas temos que:
 
@@ -8882,14 +8884,14 @@ Realizando as operações algébricas temos que:
 
 Logo alternativa correta letra a
 
-Alternativa B: Incorreta, o aluno poderia chegar a essa conclusão
+B: Incorreta, o aluno poderia chegar a essa conclusão
 somando dois termos não semelhante na expressão.
 
-Alternativa C: incorreta, o aluno chegaria a essa conclusão apenas
+C: incorreta, o aluno chegaria a essa conclusão apenas
 somando os termos da expressão e não realizando os devidos cálculos
 necessários.
 
-Alternativa D: incorreta, o aluno poderia esquecer de adicionar uma
+D: incorreta, o aluno poderia esquecer de adicionar uma
 letra "b" na expressão devido a quantidade de partes literais que o
 problema exige, chegando a essa conclusão.
 
@@ -8906,11 +8908,11 @@ c\) Movimentou se para trás 5 metros
 
 d\) Movimentou se para frente 2 metros
 
-Alternativa A: incorreta, este valor é apenas o resultado de uma das
+A: incorreta, este valor é apenas o resultado de uma das
 raízes da equação e não o valor final, o que poderia a levar o aluno
 assinalar a essa alternativa erroneamente.
 
-Alternativa B: Correta pois:
+B: Correta pois:
 
 Utilizando Bhaskara temos:
 
@@ -8937,11 +8939,11 @@ X2 = $\frac{2 - 12}{2}$ = $\frac{- 10}{2}$ = -5
 Multiplicando as raízes obtemos -- 35, logo como o número é negativo
 obtemos que o motorista andou para traz 35 metros
 
-Alternativa C: incorreta, este valor é apenas o resultado de uma das
+C: incorreta, este valor é apenas o resultado de uma das
 raízes da equação e não o valor final, o que poderia a levar o aluno
 assinalar a essa alternativa erroneamente.
 
-Alternativa D: incorreta, este valor é apenas o resultado da soma das
+D: incorreta, este valor é apenas o resultado da soma das
 raízes da equação e não o valor do produto, o que poderia a levar o
 aluno assinalar a essa alternativa erroneamente.
 
@@ -8963,16 +8965,16 @@ c\) 0,26 cm
 
 d\) 78,46 cm
 
-Alternativa A: incorreta, o aluno chegará nesse valor caso ao invés de
+A: incorreta, o aluno chegará nesse valor caso ao invés de
 realizar uma divisão, realizar uma soma dos termos do enunciado.
 
-Alternativa B: incorreta, o aluno chegará nesse valor caso ao invés de
+B: incorreta, o aluno chegará nesse valor caso ao invés de
 realizar uma divisão, realizar uma soma no final da expressão.
 
-Alternativa C: incorreta, o aluno chegará nesse valor caso desconsiderar
+C: incorreta, o aluno chegará nesse valor caso desconsiderar
 o valor de 3 metros de altura por andar, realizando apenas a divisão.
 
-Alternativa D: Correta, pois:
+D: Correta, pois:
 
 Considerando que o novo prédio terá 96 andares e que cada um possui 3
 metros, logo o prédio terá 306 metros de altura.
@@ -8996,11 +8998,11 @@ c\) 140°
 
 d\) 40°
 
-Alternativa A: incorreta, o aluno poderia considerar como correta a
+A: incorreta, o aluno poderia considerar como correta a
 alternativa ao somar o valor dos ângulos ao invés de subtrair no final
 da expressão.
 
-Alternativa B: incorreta, o aluno poderia considerar esse valor como
+B: incorreta, o aluno poderia considerar esse valor como
 correto ao considerar que o número de lados do polígono seja igual ao
 grau de cada ângulo.
 
@@ -9008,7 +9010,7 @@ grau de cada ângulo.
 os valores de ângulos internos e externos chegando a esse resultado
 erroneamente.
 
-Alternativa D: Correta pois:
+D: Correta pois:
 
 Si = 180(n -2)
 
@@ -9057,19 +9059,19 @@ c\) 30°
 
 d\) 100°
 
-Alternativa A: incorreta, o aluno chegaria a essa conclusão caso
+A: incorreta, o aluno chegaria a essa conclusão caso
 considerasse apenas o primeiro cálculo e não o cálculo completo da
 expressão.
 
-Alternativa B: o aluno chegaria a esse valor caso não compreendesse
+B: o aluno chegaria a esse valor caso não compreendesse
 corretamente o que o enunciado pede, e assim escolhendo uma alternativa
 que o valor contenha na figura descrita acima.
 
-Alternativa C: o aluno chegaria a esse valor caso não compreendesse
+C: o aluno chegaria a esse valor caso não compreendesse
 corretamente o que o enunciado pede, e assim escolhendo uma alternativa
 que o valor contenha na figura descrita acima.
 
-Alternativa D: Correta. Pois:
+D: Correta. Pois:
 
 No triangulo ABD temos que
 
@@ -9106,13 +9108,13 @@ c\) 43, 2 km
 
 d\) 432 km
 
-Alternativa A: incorreta, ao não realizar a conversão de km/h para m/s o
+A: incorreta, ao não realizar a conversão de km/h para m/s o
 aluno chegara a esse valor.
 
-Alternativa B: incorreta, ao não transformar metros em km o aluno
+B: incorreta, ao não transformar metros em km o aluno
 chegaria a esse resultado.
 
-Alternativa C: Correta pois
+C: Correta pois
 
 Considerando que a velocidade máxima do guepardo foi de 36 m/s e que
 
@@ -9120,7 +9122,7 @@ Considerando que a velocidade máxima do guepardo foi de 36 m/s e que
 
 1 200 x 36 = 43 200 metros ou 43,2 km
 
-Alternativa D: incorreta, ao deslocar a vírgula uma casa a mais o aluno
+D: incorreta, ao deslocar a vírgula uma casa a mais o aluno
 chegaria a esse resultado erroneamente.
 
 12\) Em uma corrida automobilística um piloto obteve as seguintes
@@ -9146,16 +9148,16 @@ c\) 305 km/h
 
 d\) 269 km/h
 
-Alternativa A: incorreta, este valor é referente apenas a velocidade ao
+A: incorreta, este valor é referente apenas a velocidade ao
 passar no primeiro setor.
 
-Alternativa B: incorreta, este valor é referente apenas a velocidade ao
+B: incorreta, este valor é referente apenas a velocidade ao
 passar no segundo setor.
 
-Alternativa C: incorreta, este valor é referente apenas a velocidade ao
+C: incorreta, este valor é referente apenas a velocidade ao
 passar no terceiro setor.
 
-Alternativa D: Correta Pois:
+D: Correta Pois:
 
 Somando as velocidades nos setores temos: 1076
 
@@ -9176,15 +9178,15 @@ c\) 10 m
 
 d\) 316 m
 
-Alternativa A: Incorreta, o aluno chegaria a essa conclusão colocando
+A: Incorreta, o aluno chegaria a essa conclusão colocando
 como resposta o valor do raio da base do reservatório e não o diâmetro
 como o enunciado pede.
 
-Alternativa B: incorreta, o aluno chegaria a essa conclusão ao não
+B: incorreta, o aluno chegaria a essa conclusão ao não
 terminar o cálculo que a expressão pede, e não realizar a radiciação no
 final da expressão.
 
-Alternativa C: Correta pois:
+C: Correta pois:
 
 Iniciamos fazendo a conversão
 
@@ -9208,7 +9210,7 @@ R = 5
 
 Logo o diâmetro é 10 m
 
-Alternativa D: incorreta, o aluno chegaria a essa conclusão ao não
+D: incorreta, o aluno chegaria a essa conclusão ao não
 realizar a conversão de litros para m³, onde chegaria a esse valor
 erroneamente.
 
@@ -9228,15 +9230,15 @@ c\) 2,7%
 
 d\) 0,27%
 
-Alternativa A: incorreta, o aluno poderia considerar este valor como
+A: incorreta, o aluno poderia considerar este valor como
 correto ao confundir o número de chances ao percentual correto.
 
-Alternativa B: incorreta, ao deslocar a virgula uma casa para esquerda o
+B: incorreta, ao deslocar a virgula uma casa para esquerda o
 aluno chegaria a assinalar essa alternativa de forma equivocada.
 
-Alternativa C: incorreta, ao deslocar a virgula duas casas para esquerda
+C: incorreta, ao deslocar a virgula duas casas para esquerda
 o aluno chegaria a assinalar essa alternativa de forma equivocada.
 
-Alternativa D: Correta pois:
+D: Correta pois:
 
 $P(E)\frac{n(1)}{n(365)}$ = 0,0027 ou 0,27%

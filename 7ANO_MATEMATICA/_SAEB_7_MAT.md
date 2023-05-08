@@ -184,7 +184,7 @@ escrevem em potências de 10. Isso porque esses números podem ser
 escritos na potência 10, o que facilita ver em uma reta numérica quem
 está mais próximo ou não.
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Marque Verdadeiro (V) ou falso (F) para as afirmações abaixo e
 justifique sua resposta.
@@ -403,7 +403,7 @@ Quem tem o maior pé é a Paula, pois como as casas centesimais são
 iguais, observa-se os milésimos, e de Thiago é 0 e de Paula 1, logo,
 Paula tem o pé maior.
 
-Treino
+\colorsec{Treino}
 
 1\) Marque a alternativa em que classifica os números respectivamente e
 corretamente.
@@ -617,7 +617,7 @@ $\text{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\sqrt{576} = \ \sqrt{2^{2}.2
 
 $$\sqrt{7} \rightarrow \ \sqrt{4} < \sqrt{7} < \sqrt{9} \rightarrow 2 < \sqrt{}7 < 3$$
 
-Atividades
+\colorsec{Atividades}
 
 1)  Calcule o valor das expressões a seguir:
 
@@ -944,7 +944,7 @@ $\frac{120}{30} = 4$ retalhos vermelhos
 
 $\frac{180}{30} = 6$ retalhos rosas
 
-Treino
+\colorsec{Treino}
 
 1)  Os fusos horários são feitos a partir do Meridiano de Greenwich, que
     é o marco 0. Toda localidade que tem horário atrasado em relação ao
@@ -1399,7 +1399,7 @@ dízima periódica ser simples, então é diretamente a regra dos 9 e zeros,
 o próprio período é o numerador e usa-se um nove para cada número do
 período.
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Encontre as frações das partes pintadas a partir das imagens:
 
@@ -1623,7 +1623,7 @@ Resposta: Sim, Ricardo e Flávio estão empatados, pois a fração de
 conclusão equivale ao mesmo tanto. Basta multiplicar o numerador e
 denominador por 4 da fração de Ricardo ou dividir a de Flávio.
 
-Treino
+\colorsec{Treino}
 
 1\) Qual a fração da dízima periódica 7,95959595...?
 
@@ -1820,7 +1820,7 @@ sucessivos nunca podemos somar as porcentagens. Use o exemplo anterior
 para mostrar como ficaria o resultado se for feito dessa forma. Se
 necessário faça um outro exemplo.
 
-Atividades
+\colorsec{Atividades}
 
 1)  Represente as porcentagens abaixo na forma de fração e decimal:
 
@@ -2053,7 +2053,7 @@ $$8100 \times 0,95 \times 0,9 = 6.196,5$$
 
 No início de 2023 o valor da mota era de R\$ 6.925,50.
 
-Treino
+\colorsec{Treino}
 
 1\) Marta desenvolveu um jogo de cartas com diferentes representações de
 porcentagem, onde ao tirar uma carta é necessário encontrar as outras 3
@@ -2349,7 +2349,7 @@ descobrir o x, substituindo na segunda equação:
 
 $$x - 3 = 9\  \Rightarrow \ x = 9 + 3\  \Rightarrow \ x = 12$$
 
-Atividades
+\colorsec{Atividades}
 
 1\) Daiane e Leandra compraram 7 balas e 4 chocolates e gastaram 10,70.
 Se o valor de cada chocolate equivale a 25 balas, quanto custou cada
@@ -2563,7 +2563,7 @@ Resposta:
 
 $$\ \frac{n}{2}\  + \ 10\  = \ 28\  \Rightarrow \ \frac{n}{2} = \ 28 - 10\  \Rightarrow \ n = 18*2\  \Rightarrow \ n = 36$$
 
-Treino
+\colorsec{Treino}
 
 1\) Considerando a balança, quanto vale o peso correspondente a 3x?
 
@@ -2790,7 +2790,7 @@ o 12º termo dessa sequência?
 Utilizando a lei de formação, temos que
 $a_{n} = n + 1 \rightarrow a_{12} = 12 + 1 = 13$
 
-Atividades
+\colorsec{Atividades}
 
 1\) Classifique se nas expressões matemáticas abaixo tem uma incógnita
 ou uma variável:
@@ -3242,7 +3242,7 @@ Professor, faça mais alguns exemplos para que os alunos compreendam bem
 como aplicar essas relações e como identificar de maneira correta se as
 grandezas são diretamente ou inversamente proporcionais.
 
-Atividades
+\colorsec{Atividades}
 
 1)  Representa as razões abaixo em forma de frações irredutíveis:
 
@@ -3781,7 +3781,7 @@ arco AB valerá 35°.
 Quando se tem um arco de 84°. Qual valor do ângulo inscrito na
 circunferência? O ângulo valerá 42°.
 
-Atividades
+\colorsec{Atividades}
 
 1\) Identifique qual transformação geométrica acontece em cada uma das
 situações.
@@ -3902,7 +3902,7 @@ Resposta:
 Uma propriedade dos polígonos é que quando são semelhantes, o perímetro
 também é semelhante.
 
-Treino
+\colorsec{Treino}
 
 1\) Da figura 1 para figura 2, aconteceram duas transformações
 geométricas. Quais foram elas?
@@ -4126,7 +4126,7 @@ isso, são utilizados em construções arquitetônicas, como telhados,
 estruturas metálicas, em objetos de uso diário e aparecem também nas
 artes plásticas.
 
-Atividades:
+\colorsec{Atividades}
 
 1)  Complete as frases abaixo de acordo com os ângulos gerados por duas
     paralelas cortadas por uma transversal:
@@ -4516,7 +4516,7 @@ apresentar deslocamentos em linha reta ou em linha curva. A direção
 indica a orientação em que o deslocamento ocorre, enquanto o sentido
 indica a orientação em relação ao ponto de partida.
 
-Atividades
+\colorsec{Atividades}
 
 1.  O que é um ponto de referência quando falamos de deslocamento? Dê
     exemplos.
@@ -4575,7 +4575,7 @@ Fazer uma imagem como essa.
 
 4\) Indique as coordenadas das figuras abaixo:
 
-![10 Atividades para trabalhar na malha
+ ![10 Atividades para trabalhar na malha
 quadriculada](./imgSAEB_7_MAT/media/image59.jpg){width="3.0399398512685916in"
 height="2.9328412073490813in"}
 
@@ -5286,7 +5286,7 @@ $$\text{Mediana} = \ 50 - 54 - 55 - 60 - 61 - 65 - 71$$
 
 $$\text{Mediana} = \ 60\text{km}/h$$
 
-Treino
+\colorsec{Treino}
 
 1\) Analise as afirmações e marque a correta.
 
@@ -5568,7 +5568,7 @@ height="2.2573272090988628in"}
 
 Fazer uma imagem como a colocada acima.
 
-Atividades:
+\colorsec{Atividades}
 
 1)  Encontre o valor das transformações das unidades de comprimento
     abaixo:
@@ -5822,7 +5822,7 @@ $V = 45^{3} = 91.125cm^{3} = \frac{91.125}{1000} = 91.125dm^{3} = 91.125\ \text{
 d\)
 $V = 5,4 \times 10 \times 3,5 = 189m^{3} = 189 \times 1000 = 189.000\ \text{litros}$
 
-Treino
+\colorsec{Treino}
 
 1\) Fernanda está reformando seu apartamento e vai trocar os pisos de
 todos os cômodos, sendo que o apartamento é retangular e tem medidas
@@ -6030,7 +6030,7 @@ A probabilidade que seja vermelha é:
 $\frac{6}{13} \times \frac{6}{12} = \frac{12}{156}$ ou, a fração
 irredutível $\frac{1}{13}$.
 
-Atividades:
+\colorsec{Atividades}
 
 1\) Classifique se os eventos são dependentes ou independentes:
 
@@ -6180,7 +6180,7 @@ temos:
 
 $$P(A).P(B|A) = \frac{18}{38} \times \frac{17}{37} = \ \frac{306}{1406} = \ \frac{153}{703}$$
 
-Treino
+\colorsec{Treino}
 
 1\) Jogando uma moeda, qual a chance de sair 3 vezes seguidas, a face
 coroa?
@@ -6285,7 +6285,7 @@ $$P(1).P(2).P(3) = \ 0,551\ \text{aproximadamente}\ 55\%.$$
 D- Errada, para que os arremessos fossem perto de 1%, a probabilidade de
 erro do arremessador seria muito perto de 0,98, ou melhor, 98%.
 
-Simulado 1
+# Simulado 1
 
 1\) Sandra e Letícia montaram um percurso cheio de obstáculos, chamaram
 seus amigos para completarem o percurso enquanto elas cronometravam para
@@ -6813,7 +6813,7 @@ Para encontrar o valor de s basta substituir o valor de t dado. Assim,
 
 $$5c = d\  \rightarrow \ 5c = 75\  \rightarrow \ c = \frac{75}{5} = 15$$
 
-Simulado 2
+# Simulado 2
 
 1\) Marcela vai fazer uma viagem para o exterior e precisa levar pelo
 menos 300 combinações diferentes de looks para um ensaio fotográfico. Na
@@ -7327,7 +7327,7 @@ $$s - 15 = 2t\  \rightarrow \ s - 15 = 2\  \times \ 8\  \rightarrow \ s - 15 = 1
 
 D - Errada, pois ao invés de fazer 16 + 15, fez 16-15.
 
-Simulado 3
+# Simulado 3
 
 1\) Fabrício colocou em uma tabela, o lucro de todos os dias da semana
 do restaurante em que é dono. Temos que o lucro foi superior a 400
@@ -7814,7 +7814,7 @@ $x - 2 + 20$.
 D - Errada, pois além de não fazer o jogo de sinal com o y, não trocou a
 operação do 18 que encontrou ao mudar de lado na igualdade.
 
-Simulado 4
+# Simulado 4
 
 1\) Em uma corrida, o primeiro lugar ganhou com diferença de 0,035 de
 tempo para o segundo lugar. A diferença de tempo por extenso é:

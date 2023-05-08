@@ -1,4 +1,4 @@
-# 1. O poder do texto
+# Módulo 1
 
 
 Habilidades do SAEB
@@ -58,7 +58,7 @@ e de solicitação, carta do leitor.
 
 \<fim do boxe de conteúdo\>
 
-##Atividades
+\colorsec{Atividades}
 
 O anúncio trata do trânsito de bicicletas. Leia-o atentamente
 para responder às questões de 1 a 8.
@@ -75,7 +75,7 @@ quais atributos estão sendo mais ressaltados.}
 
 >O último relatório do Infosiga revelou que o número de mortes de ciclistas no estado de São Paulo triplicou somente no primeiro trimestre de 2019, reforçando a necessidade urgente de mais informação e respeito por parte dos condutores. A campanha terá uma abrangência ampla, incluindo blitz no trânsito para distribuição de panfletos e adesivos, ações em autoescolas, transportadoras e nas mídias sociais. Um dos objetivos principais é a conscientização da necessidade de se manter a distância de pelo menos 1,5 m entre o carro e o ciclista, evitando acidentes.
 
-~Fonte de pesquisa: Somos ciclistas. Campanha ACPC. Disponível em:  https://somosciclistas.com.br/noticias/48/campanha\_acpc~. Acesso em 05 maio 2023.
+\fonte{de pesquisa: Somos ciclistas. Campanha ACPC. Disponível em:  https://somosciclistas.com.br/noticias/48/campanha\_acpc~. Acesso em 05 maio 2023.
 
 
 1\. Em sua opinião, é importante haver campanhas relacionadas a esse
@@ -114,8 +114,6 @@ concretas. No anúncio apresentado, quais são elas?
 \linhas{4}
 
 6\. Em sua opinião, campanhas educativas podem convencer a população a
-adotar nova postura diante de uma causa? Justifique sua resposta.
-
 \Coment{Resposta pessoal. Explique aos alunos que as campanhas educativas são
 fundamentais para conscientizar as pessoas e podem mudar atitudes.}
 
@@ -162,7 +160,7 @@ Leia, agora, mais um texto para, então, responder às questões 9 e 10.
 
 \linhas{3}
 
-##Treino
+\colorsec{Treino}
 
 1\. Leia o trecho da reportagem a seguir.
 
@@ -191,7 +189,7 @@ tratamento praticamente triplica.
 terço. Essa tem sido a nossa experiência nesses quase 20 anos de
 trabalho.
 
-Fonte de pesquisa: Leandro Melito. EBC. No Brasil, se você for um jogador compulsivo, estará em dificuldades, alerta psiquiatra. Disponível em:
+\fonte{de pesquisa: Leandro Melito. EBC. No Brasil, se você for um jogador compulsivo, estará em dificuldades, alerta psiquiatra. Disponível em:
 www.ebc.com.br/noticias/saude/2016/08/no-brasil-se-voce-um-jogador-compulsivo-estara-em-dificuldades-alerta. Acesso em: 28 mar. 2023.
 
 Com a leitura do texto, é possível verificar que o psiquiatra apresenta
@@ -313,7 +311,7 @@ Na Espanha, cerca de 1 em cada 5 pessoas está em "risco de exclusão", enfrenta
 Esquecemos que nossa alimentação e conforto dependem em grande parte do acaso, como o lugar onde nascemos e a educação que recebemos. Embora haja exemplos de superação pessoal heroica, a maioria das histórias de vida é determinada pela sorte, inércia e condições sociais.
 \[\...\]
 
-Fonte de pesquisa: Enric Gonzáles. El país. Comida de pobres. Disponível em:
+\fonte{de pesquisa: Enric Gonzáles. El país. Comida de pobres. Disponível em:
 https://brasil.elpais.com/brasil/2019/12/27/opinion/1577467822\_271521.html.
 Acesso em: 5 maio 2023.
 
@@ -345,7 +343,7 @@ elas nasceram e quem as educou.
 \(D\) Incorreta. O trecho é um exemplo que vai auxiliar a tese de que a
 condição de vida das pessoas depende do acaso.
 
-# 2. Textos públicos e normativos
+# Módulo 2
 
 
 Habilidades do SAEB
@@ -396,7 +394,7 @@ necessário que o registro seja formal e impessoal.
 
 \<fim do boxe de conteúdo\>
 
-##Atividades
+\colorsec{Atividades}
 
 A proposta pública a seguir apresenta metas para o desenvolvimento da
 igualdade de raça e de gênero e povos e comunidades tradicionais e faz
@@ -508,7 +506,11 @@ Reescreva o parágrafo, a partir da expressão "É necessário" até "contra as 
 
 \Coment{É necessário que se produzam conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, que se promovam e implementem políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, que se realizem parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, que se desenvolvam e promovam políticas públicas de enfrentamento à violência contra as mulheres [...]}
 
+<<<<<<< HEAD
 ##Treino
+=======
+\colorsec{Treino}
+>>>>>>> a9e7eac8b41b52723a7d65759106269db810757b
 
 1\. Observe a imagem e leia o texto, ambos de uma campanha de conscientização.
 
@@ -687,7 +689,7 @@ temática "3 vezes 22", outros três sobre pesquisas relativas ao acervo
 constante, um a respeito do restauro da biblioteca e, finalmente, outro
 dedicado à pesquisa de todo o material existente.
 
-# 3. Texto literário
+# Módulo 3
 
 Habilidades do SAEB
 
@@ -734,7 +736,7 @@ pessoa.
 
 \<fim do boxe de conteúdo\>
 
-##Atividades
+\colorsec{Atividades}
 
 1.  Leia o conto a segui para responder às questões de 1 a 9.
 
@@ -920,7 +922,7 @@ eles estão pensando.}
 acontecimentos diversos.
 
 
-##Treino
+\colorsec{Treino}
 
 1\. Leia o miniconto "O valor do silêncio".
 
@@ -1018,7 +1020,7 @@ d\) Correta. Ao final do texto, afirma-se que "É hora de agir, de nos unirmos p
 
 O discurso de formatura dos estudantes de medicina da USP, em 1955, enfatizava o altruísmo como a lei do homem e a solidariedade como algo mais forte que todos os erros e defeitos humanos. Sylvio Saraiva, o orador responsável pelas palavras, manteve-se fiel à mensagem e ajudava pacientes que não podiam pagar por consultas.
 
-Fonte de pesquisa: Paulo Gomes. Folha de S. Paulo. Admirado, neurologista era inabalável. Disponível
+\fonte{de pesquisa: Paulo Gomes. Folha de S. Paulo. Admirado, neurologista era inabalável. Disponível
 em:
 www1.folha.uol.com.br/cotidiano/2018/01/1947572-mortes-admirado-neurologista-era-inabalavel.shtml.
 Acesso em: 28 mar. 2023.
@@ -1051,7 +1053,12 @@ solidariedade deve ser tão importante quanto uma lei.
 d\) Incorreta. Não existe a explicitação dessa ideia no discurso de
 formatura.
 
+<<<<<<< HEAD
 # 4. Quem lê tanta notícia?
+=======
+
+# Módulo 4
+>>>>>>> a9e7eac8b41b52723a7d65759106269db810757b
 
 Habilidades do SAEB
 
@@ -1099,7 +1106,11 @@ enunciador.
 
 \<fim do boxe de conteúdo\>
 
+<<<<<<< HEAD
 ##Atividades
+=======
+\colorsec{Atividades}
+>>>>>>> a9e7eac8b41b52723a7d65759106269db810757b
 
 1\. Leia a notícia a seguir para responder às questões de 1 a 8.
 
@@ -1292,7 +1303,11 @@ projetos.}
 
 \linhas{4}
 
+<<<<<<< HEAD
 Veja a imagem para resolver as questões 9 e 10.
+=======
+\colorsec{Treino}
+>>>>>>> a9e7eac8b41b52723a7d65759106269db810757b
 
 https://www.freepik.com/free-photo/fire-steppe-grass-is-burning-destroying-everything-its-path_18629392.htm#query=fire%20in%20the%20forest&position=29&from_view=search&track=ais
 
@@ -1461,7 +1476,11 @@ notícia mostram imparcialidade
 d\) Incorreta. A fala literal é objetiva, já que mostra o que foi dito
 sem a interferência das autoras do texto.
 
+<<<<<<< HEAD
 # 5. Informação, fato, opinião
+=======
+# Módulo 5
+>>>>>>> a9e7eac8b41b52723a7d65759106269db810757b
 
 
 Habilidades do SAEB
@@ -1514,7 +1533,7 @@ aprender a diferenciá-los é praticar com bastante leitura.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1\. Leia a notícia a seguir.
 
@@ -1651,7 +1670,7 @@ decorrência da posição social que assumem.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia um trecho da resenha crítica sobre o filme "O Piano". (Fácil)
 
@@ -1835,7 +1854,7 @@ oficial, apesar de não serem citados no texto II, isso porque, na
 enquete popular o jornal de esportes colocou as opções que estavam para
 ser escolhidas oficialmente.
 
-Módulo 6
+# Módulo 6
 
 Neste módulo, os alunos vão compreender o meme como gênero textual
 digital.
@@ -1892,7 +1911,7 @@ ao comportamento humano.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia o meme a seguir.
 
@@ -1976,7 +1995,7 @@ meme](./_SAEB_9_POR/media/image13.jpeg){width="4.25in" height="4.25in"}
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia o trecho da entrevista a seguir. (Fácil)
 
@@ -2123,7 +2142,7 @@ d\) Correta. O humor da charge se encontra na fala da personagem, quando
 ela cita a quaresma, período em que muitos religiosos não comem carne,
 para comparar com o fato de a carne estar muito cara
 
-Módulo 7
+# Módulo 7
 
 Neste módulo, os alunos vão explorar as características do gênero
 textual reportagem, avaliando e analisando graus de parcialidade nesse
@@ -2180,7 +2199,7 @@ ao tema que está em discussão.
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1\. A reportagem que você vai ler foi publicada no site do Plenarinho.
 Leia com atenção.
@@ -2444,7 +2463,7 @@ que foi usada pelo jornalista.
 
 ( ) Pouco objetiva e informal.
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia os trechos de textos a seguir, que exploram as prospecções
 brasileiras para o cumprimento da Agenda 2030, proposta pela ONU.
@@ -2645,7 +2664,7 @@ o que evidencia a intenção do jornalista de ser imparcial e objetivo.
 d\) Correta. As informações são apresentadas de modo impessoal e
 objetivo.
 
-Módulo 8
+# Módulo 8
 
 Neste módulo, os alunos vão identificar a presença de modalizadores na
 linguagem persuasiva de anúncio publicitário e campanhas.
@@ -2707,7 +2726,7 @@ fundamentais na construção argumentativa. Observe:
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia o anúncio de uma campanha de adoção de cães.
 
@@ -2810,7 +2829,7 @@ c)  Releia esse trecho do anúncio.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia dois trechos de textos que tratam sobre a Lei Seca. (Fácil)
 
@@ -2983,7 +3002,7 @@ d\) Incorreta. Ao usar a expressão "dessa forma", ela deixou em
 evidência a tentativa de retomar e reunir os argumentos anteriores,
 finalizando o texto.
 
-Módulo 9
+# Módulo 9
 
 Neste módulo, os alunos vão identificar as figuras de linguagem e
 compreender os efeitos de sentido criados por elas.
@@ -3129,7 +3148,7 @@ Note que o pronome demonstrativo "**isto**"** **antecede o referente
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia as duas primeiras estrofes do poema de Luís Vaz de Camões. Se
     julgar pertinente, forneça aos alunos o poema integral, para uma
@@ -3248,7 +3267,7 @@ e\) Assonância. Resposta pessoal.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia o trecho do editorial a seguir. (Fácil)
 
@@ -3399,7 +3418,7 @@ d\) Incorreta. A gradação consiste em construir uma série na qual o
 sentido das expressões vai se intensificando até um clímax ou se
 reduzindo até um anticlímax.
 
-Módulo 10
+# Módulo 10
 
 Neste módulo, os alunos vão compreender o papel das conjunções como
 recursos de coesão sequencial.
@@ -3460,7 +3479,7 @@ O articulador **por exemplo** introduz uma explicação a respeito do que
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia um trecho de abertura do livro Fome Zero: Uma História
     Brasileira, organizado por Adriana Veiga Aranha para responder às
@@ -3623,7 +3642,7 @@ c\) Releia o slogan do anúncio:
 
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Leia o anúncio a seguir. (Fácil)
 
@@ -3866,7 +3885,7 @@ Observe:
 
 \<fim do boxe de conteúdo\>
 
-Atividades
+\colorsec{Atividades}
 
 1.  Leia o anúncio de uma campanha para doação de alimentos. Oriente a
     leitura do anúncio, retomando as características do gênero. Solicite
@@ -3986,7 +4005,7 @@ Acesso em: 9 abr. 2023.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**\<Abre seção Treino\>**
+\colorsec{Treino}
 
 1\. Examine o início de um cordel. (Fácil)
 
@@ -4135,7 +4154,7 @@ complemento e se ligam a ele indiretamente.
 d\) Incorreta. O objeto indireto é o termo que completa o sentido de um
 verbo transitivo indireto.
 
-Simulados
+# Simulado
 
 1\. Leia o cartaz de uma campanha publicitária.
 
