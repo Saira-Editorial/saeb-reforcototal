@@ -1,4 +1,4 @@
-# Módulo 1
+# 1. Convencer pelo texto
 
 
 Habilidades do SAEB
@@ -343,7 +343,7 @@ elas nasceram e quem as educou.
 \(D\) Incorreta. O trecho é um exemplo que vai auxiliar a tese de que a
 condição de vida das pessoas depende do acaso.
 
-# Módulo 2
+# 2. Textos, regras e novidades
 
 
 Habilidades do SAEB
@@ -689,7 +689,7 @@ temática "3 vezes 22", outros três sobre pesquisas relativas ao acervo
 constante, um a respeito do restauro da biblioteca e, finalmente, outro
 dedicado à pesquisa de todo o material existente.
 
-# Módulo 3
+# 3. Humanidade no texto
 
 Habilidades do SAEB
 
@@ -1055,10 +1055,6 @@ formatura.
 
 <<<<<<< HEAD
 # 4. Quem lê tanta notícia?
-=======
-
-# Módulo 4
->>>>>>> a9e7eac8b41b52723a7d65759106269db810757b
 
 Habilidades do SAEB
 
@@ -1305,9 +1301,6 @@ projetos.}
 
 <<<<<<< HEAD
 Veja a imagem para resolver as questões 9 e 10.
-=======
-\colorsec{Treino}
->>>>>>> a9e7eac8b41b52723a7d65759106269db810757b
 
 https://www.freepik.com/free-photo/fire-steppe-grass-is-burning-destroying-everything-its-path_18629392.htm#query=fire%20in%20the%20forest&position=29&from_view=search&track=ais
 
@@ -1478,10 +1471,6 @@ sem a interferência das autoras do texto.
 
 <<<<<<< HEAD
 # 5. Informação, fato, opinião
-=======
-# Módulo 5
->>>>>>> a9e7eac8b41b52723a7d65759106269db810757b
-
 
 Habilidades do SAEB
 
@@ -1499,32 +1488,25 @@ height="4.054687226596675in"}
 
 \<início do boxe de conteúdo\>
 
-A depender do gênero no qual estão estabelecidos, do seu público-alvo,
-do seu contexto e de seu tema, os textos podem ter variados objetivos e
+A depender do gênero no qual estão estabelecidos, de seu público-alvo,
+de seu contexto e de seu tema, os textos podem ter variados objetivos e
 intenções.
 
-Muitas vezes, o propósito de um texto é somente reproduzir um
-acontecimento, circunstância na qual ele será constituído apenas por
-fatos. Em outros casos, o autor de um texto tem o objetivo de expressar
-suas opiniões em relação a certo tema e/ou de algo que ocorreu. Nesse
-caso, o texto será elaborado com opiniões.
-
-Também existem textos que trazem acontecimentos e, ao mesmo tempo,
-opiniões do autor em relação a eles, casos nos quais em há um misto de
-fatos e opiniões.
+Muitas vezes, o propósito de um texto é simplesmente reproduzir um
+acontecimento; nesse caso, ele será constituído apenas por
+**fatos**. Em outros casos, o autor de um texto tem o objetivo de expressar
+suas opiniões em relação a certo tema ou em relação a algo que ocorreu. Nesse
+caso, o texto será elaborado com **opiniões**.
 
 Saber identificar fatos e opiniões em textos é fundamental para
 compreender ideias, de modo que se possa ter entendimento sobre o que
 ocorreu e, quando for o caso, conhecer a opinião de outros acerca disso,
-mas sabendo que podem ter outros pontos de vista. É fundamental conhecer
+sabendo que pode haver vários pontos de vista. É fundamental conhecer
 e respeitar outros pontos de vista para construir suas próprias
 interpretações e opiniões.
 
-Para saber a diferença entre fato e opinião, é fundamental compreender o
-significado de cada um deles.
-
+Resumindo...
 **Fato**: Algo que pode ser comprovado; verdade, realidade.
-
 **Opinião**: O que se pensa sobre um assunto ou pessoa; parecer, ponto
 de vista.
 
@@ -1535,16 +1517,14 @@ aprender a diferenciá-los é praticar com bastante leitura.
 
 \colorsec{Atividades}
 
-1\. Leia a notícia a seguir.
+Leia a notícia a seguir para responder às questões de 1 a 6.
 
-Promova a leitura compartilhada da notícia. Durante a leitura, chame a
-atenção dos alunos para os elementos que compõem a notícia, como título,
+\Coment {Promova a leitura compartilhada da notícia. Durante a leitura, chame a
+atenção dos alunos para os elementos que a compõem, como título,
 subtítulo (linha fina), data de publicação, foto, legenda. Diga-lhes que
 esses elementos podem ser vistos com mais frequência em notícias
-impressas, tendo em vista que há normas de padrão e manuais de estilo
-das empresas jornalísticas que devem ser seguidos a rigor. Em
-publicações de notícias na internet, nem sempre acontece uma organização
-dos elementos de forma tão rigorosa e padronizada.
+impressas. Em publicações de notícias na internet, nem sempre acontece uma organização
+dos elementos de forma tão rigorosa e padronizada.}
 
 **Suíços estreitam parceria com Governo Federal para restaurar relógio
 histórico danificado em 8 de janeiro**
@@ -1566,8 +1546,7 @@ artesãos do país europeu para auxiliar o Governo Federal Brasileiro no
 trabalho de restauração e recuperação do relógio histórico Balthasar
 Martinot Boulle, do Século XVII, que pertenceu a D. João VI. O relógio
 ficava exposto no Palácio do Planalto, em Brasília, e foi bastante
-danificado durante a tentativa de golpe de Estado ocorrida em 8 de
-janeiro deste ano.
+danificado [...] em 8 de janeiro deste ano.
 
 Segundo nota divulgada pela Embaixada da Suíça no Brasil, os graves
 acontecimentos "despertaram profunda emoção na Suíça, assim como uma
@@ -1582,7 +1561,7 @@ apoio de alguns dos maiores especialistas e artesãos para a restauração
 da peça. Os detalhes da cooperação ainda estão sendo definidos. Numa
 primeira avaliação, levando em conta os graves danos sofridos e as
 características e complexidade do relógio, será necessário o engajamento
-de um conjunto de especialistas. Ainda durante este mês de fevereiro
+de um conjunto de especialistas. Ainda durante este mês de fevereiro de
 2023, está prevista a visita de uma primeira missão técnica de
 especialistas suíços sob supervisão de curadores e especialistas
 brasileiros. Na sequência, será definido um cronograma para as
@@ -1590,48 +1569,45 @@ diferentes etapas de restauração do relógio.
 
 "A Suíça e o Brasil têm relações históricas de amizade e cooperação
 baseadas sobre valores comuns. A colaboração que decorre da nobre missão
-de proteger o património histórico e artístico é um elemento emblemático
+de proteger o patrimônio histórico e artístico é um elemento emblemático
 que reforçará ainda mais a amizade entre os nossos dois países", indicou
 a nota da Embaixada da Suíça no Brasil.
 
-Disponível em:
-<https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes/2023/02/suicos-estreitam-parceria-com-governo-federal-para-restaurar-relogio-historico-danificado-em-8-de-janeiro>.
-Acesso em 30 mar. 2023.
+Serviços e informações do Brasil. Suíços estreitam parceria com Governo Federal para restaurar relógio histórico danificado em 8 de janeiro. Disponível em:
+<https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes/2023/02/suicos-estreitam-parceria-com-governo-federal-para-restaurar-relogio-historico-danificado-em-8-de-janeiro>. Acesso em 30 mar. 2023.
 
-a\) Qual é o fato central da notícia? O fato de suíços firmarem parceria
-com o Governo Federal para a restauração do relógio histórico que foi
-danificado em 8 de janeiro na invasão ao Palácio do Planalto.
+1. Qual é o fato central da notícia? 
+\linhas {5}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+O fato de suíços firmarem parceria com o Governo Federal para a restauração do relógio histórico que foi danificado em 8 de janeiro na invasão ao Palácio do Planalto.
 
-b\) Por que esse fato virou notícia? Possível resposta: Porque o relógio
-fazia parte do acervo brasileiro e tinha um valor histórico
-incalculável. Foi trazido ao Brasil em 1808, por Dom João VI. Essa é uma
-das duas peças do relojoeiro francês Balthazar Martinot existentes. 
+2. Por que esse fato virou notícia? 
+ \linhas{5}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Possível resposta: Porque o relógio fazia parte do acervo brasileiro e tinha um valor histórico incalculável. Foi trazido ao Brasil em 1808, por Dom João VI. Essa é uma das duas peças do relojoeiro francês Balthazar Martinot existentes. 
 
-c\) Que fato foi noticiado na linha fina? O fato de que especialistas e
-artesãos do país europeu vão trabalhar com curadores e profissionais
-brasileiros na recuperação do objeto do Século XVII, que foi danificado
+3. Que fato foi noticiado na linha fina? 
+\linhas {6}
+
+O fato de que especialistas e artesãos do país europeu vão trabalhar com curadores e profissionais brasileiros na recuperação do objeto do Século XVII, que foi danificado
 durante a invasão ao Palácio do Planalto.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+4.  Qual é a função dessa linha em relação ao título? 
 
-d\) Qual é a função dessa linha em relação ao título? Complementar as
-informações do título.
+\linhas {3}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Complementar as informações do título e aumentar a vontade do leitor de ler a notícia.
 
-2\. Pode-se perceber na notícia o relato de fatos e apresentação de
-opiniões de pessoas consultadas pelo jornalista Leia novamente os
+
+5. Pode-se perceber na notícia o relato de fatos e a apresentação de
+opiniões de pessoas consultadas pelo jornalista. Leia novamente os
 trechos a seguir e marque F para o que for fato e O para o que for
 opinião.
 
-A atividade tem o objetivo de fazer os alunos compreenderem que o
+\Coment{A atividade tem o objetivo de fazer os alunos compreenderem que o
 autor/jornalista relata fatos na notícia, mas também pode reproduzir em
 discurso direto ou indireto opiniões de pessoas e relação aos
-acontecimentos.
+acontecimentos.}
 
 ( F ) A Embaixada da Suíça no Brasil ofereceu o suporte de especialistas
 e artesãos do país europeu para auxiliar o Governo Federal Brasileiro no
@@ -1651,28 +1627,62 @@ histórico e artístico é um elemento emblemático que reforçará ainda mais
 a amizade entre os nossos dois países", indicou a nota da Embaixada da
 Suíça no Brasil.
 
-3\. Qual é a sua opinião em relação ao fato de terem destruído o relógio
-histórico? Resposta pessoal. Espera-se que os alunos repudiem esse ato
+6. Qual é a sua opinião em relação ao fato de terem destruído o relógio
+histórico? 
+
+\linhas{4}
+
+Resposta pessoal. Espera-se que os alunos repudiem esse ato
 de vandalismo de um relógio considerado raro e de valor inestimável.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-4\. Como um fato pode ser comprovado?
+7. Como um fato pode ser comprovado?
+
+\linhas {2}
 
 Um fato pode ser comprovado por meio de evidências.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-5\. O que significa opinião?
+8. O que significa **opinião**?
+
+\linhas {3}
 
 Opinião consiste na interpretação das pessoas em relação ao fato, em
 decorrência da posição social que assumem.
 
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+9. Considere as seguintes afirmações. Classifique cada uma como um fato ou uma opinião e explique sua resposta.
+
+O aquecimento global é causado principalmente pela emissão de gases do efeito estufa.
+O aquecimento global é o maior problema enfrentado pela humanidade.
+O governo deve implementar impostos mais altos para reduzir as emissões de carbono.
+As mudanças climáticas são exageradas pela mídia e não representam uma ameaça real.
+
+\linhas {1 para cada afirmação}
+
+Fato. O aquecimento global ser causado principalmente pela emissão de gases do efeito estufa é uma afirmação baseada em dados científicos e pode ser verificada objetivamente.
+Opinião. A declaração de que o aquecimento global é o maior problema enfrentado pela humanidade é uma opinião pessoal, pois envolve uma avaliação subjetiva dos problemas globais.
+Opinião. A afirmação de que o governo deve implementar impostos mais altos para reduzir as emissões de carbono reflete uma opinião sobre a melhor estratégia para lidar com o problema do aquecimento global.
+Opinião. A afirmação de que as mudanças climáticas são exageradas pela mídia e não representam uma ameaça real é uma opinião que reflete uma perspectiva pessoal sobre o assunto.
+
+10. Determine se cada afirmação é um fato ou uma opinião. Justifique sua resposta.
+
+"De acordo com dados científicos, a Terra aqueceu aproximadamente 1 grau Celsius nos últimos 100 anos."
+"Eu acho que o aquecimento global é uma invenção das grandes empresas para lucrar com medidas ambientais."
+"O desmatamento das florestas tropicais está contribuindo para a perda de biodiversidade."
+"Acredito que as políticas de sustentabilidade devem ser priorizadas em todo o mundo para proteger o meio ambiente."
+
+\linhas {1 para cada item}
+
+Fato. A afirmação de que a Terra aqueceu aproximadamente 1 grau Celsius nos últimos 100 anos é um fato baseado em dados científicos e pode ser verificado por evidências.
+Opinião. A frase "Eu acho que o aquecimento global é uma invenção das grandes empresas para lucrar com medidas ambientais" expressa uma opinião pessoal e não pode ser verificada objetivamente.
+Fato. A afirmação de que o desmatamento das florestas tropicais está contribuindo para a perda de biodiversidade é um fato baseado em estudos científicos que demonstram a relação entre desmatamento e perda de biodiversidade.
+Opinião. A frase "Acredito que as políticas de sustentabilidade devem ser priorizadas em todo o mundo para proteger o meio ambiente" expressa uma opinião pessoal sobre a importância das políticas de sustentabilidade e não pode ser comprovada como verdade absoluta.
+
 
 \colorsec{Treino}
 
-1\. Leia um trecho da resenha crítica sobre o filme "O Piano". (Fácil)
+1\. Leia um trecho da resenha crítica sobre o filme "O Piano".
 
 **O Piano**
 
@@ -1681,7 +1691,6 @@ morar na Nova Zelândia, onde Ada se casará com um desbravador da ilha a
 quem foi prometida pelo seu pai. Ada é muda desde os seis anos de idade
 e utiliza o piano como uma das formas de se comunicar com o mundo.
 \[...\]
-
 A fotografia traz cenas belas e bem montadas. A narração do filme é
 feita por Ada, que logo no início indica que não é a voz dela, mas sim a
 voz de seu pensamento, de sua alma, e é exatamente essa narração um dos
@@ -1701,13 +1710,11 @@ Há uma opinião do autor da resenha no trecho
 
 \(D\) "A história se passa no final do século XIX".
 
-Saeb: D11
-
-BNCC: EF67LP04: Distinguir, em segmentos descontínuos de textos, fato da
+BNCC: EF67LP04 - Distinguir, em segmentos descontínuos de textos, fato da
 opinião enunciada em relação a esse mesmo fato.
 
 a\) Incorreta. O trecho corresponde a uma informação sobre o enredo do
-filme, que não apresenta, portanto, opiniões do resenhista sobre ele,
+filme; não apresenta, portanto, opiniões do resenhista sobre ele,
 demonstrando que o aluno considerou um trecho descritivo como uma
 opinião em vez de um fato.
 
@@ -1722,7 +1729,7 @@ o modo como o filme é estruturado.
 d\) Incorreta. O trecho corresponde a uma informação do enredo do filme,
 trazendo uma informação técnica da sinopse.
 
-2\. Leia o trecho do artigo sobre a pandemia do Coronavírus.
+2\. Leia o trecho de artigo sobre a pandemia do Coronavírus.
 
 **A Igualdade nas diferenças**
 
@@ -1757,10 +1764,6 @@ roteiro paralisante".
 \(D\) "Como de costume, na terra do futebol, as alas da realidade só se
 abrem depois do carnaval".
 
-Saeb:
-
-BNCC: Não há correspondência
-
 a\) Incorreta. O autor expõe sua opinião ao utilizar a palavra
 "ceticismo", dizendo que o mundo estava descrente sobre os
 acontecimentos.
@@ -1780,17 +1783,9 @@ em 2015.
 
 **Texto I**
 
-Duas enquetes realizadas pelo LANCE!Net e encerradas na tarde desta
-segunda-feira mostraram qual foi a reação dos leitores do site diante da
-divulgação das mascotes da Olimpíada Rio-2016. De acordo com o resultado
-da votação, o público não aprovou as personagens \[...\]
+As mascotes dos Jogos Olímpicos e Paralímpicos de 2016, que serão realizados na cidade do Rio de Janeiro, receberam os nomes Vinícius e Tom. Esses nomes foram escolhidos por meio de votação popular, obtendo um total de 323 mil votos, o que representa 44% do total. A escolha dos nomes é uma homenagem a dois ícones da Bossa Nova: o poeta Vinícius de Moraes e o compositor Antonio Carlos Jobim, conhecido como Tom Jobim. A colaboração entre eles resultou em "Garota de Ipanema", uma das canções brasileiras mais famosas em todo o mundo.
 
-A rejeição das mascotes beirou os 70%. Dos 1.041 votos registrados, 721
-foram de pessoas que não gostaram das personagens, inspiradas na fauna e
-na flora do Brasil.
-
-Já em relação aos nomes, Vinicius e Tom lideraram a preferência, com 48%
-dos votos. Oba e Eba ficaram em segundo lugar. \[...\]
+Vinícius, representando os Jogos Olímpicos, é retratado como um pequeno animal amarelo, com características de desenho animado, simbolizando a diversidade da fauna brasileira.
 
 LANCE. Enquete: leitores do L!Net reprovam mascotes da Olimpíada
 Rio-2016. Disponível
@@ -1799,27 +1794,12 @@ Acesso em: 01 mar. 2023.
 
 **Texto II**
 
-Vinícius e Tom são os nomes escolhidos para as mascotes dos Jogos
-Olímpicos e Paralímpicos de 2016, que serão realizados na cidade do Rio
-de Janeiro. Os nomes, decidido por voto popular, receberam 323 mil
-votos, ou seja, 44% do total. Os nomes são uma homenagem a dois
-expoentes da Bossa Nova, o poeta
+Os mascotes dos Jogos Olímpicos e Paralímpicos de 2016, que acontecerão na cidade do Rio de Janeiro, foram batizados de Vinícius e Tom. Esses nomes foram selecionados por meio de uma votação popular, recebendo um total de 323 mil votos, o equivalente a 44% do total.
 
-Vinícius de Moraes e o compositor Antonio Carlos Jobim, Tom Jobim. Da
-parceria deles nasceu Garota de Ipanema uma das canções brasileiras mais
-famosas no mundo.
+Fonte de pesauisa: Vitor Abdala. EBC. Mascotes dos Jogos Rio 2016 recebem os nomes Vinícius e Tom. EBC. Disponível em:
+www.ebc.com.br/cultura/2014/12/mascotes-dos-jogos-rio-2016-recebem-os-nomes-de-vinicius-e-tom. Acesso em: 01 mar. 2023.
 
-Vinícius é a mascote dos Jogos Olímpicos - um animalzinho amarelo, com
-traços de desenho animado, que representa a variedade da fauna
-brasileira \[...\]
-
-ABDALA, Vitor. Mascotes dos Jogos Rio 2016 recebem os nomes Vinícius e
-Tom. EBC. Disponível em:
-www.ebc.com.br/cultura/2014/12/mascotes-dos-jogos-rio-2016-recebem-os-nomes-de-vinicius-e-tom.
-Acesso em: 01 mar. 2023.
-
-Pela comparação das informações disponíveis em ambos os textos,
-conclui-se que
+Pela comparação das informações disponíveis em ambos os textos, conclui-se que
 
 \(A\) apenas a votação em enquetes populares não garante o resultado
 final.
@@ -1833,10 +1813,6 @@ personalidades.
 \(D\) os nomes Oba e Eba não participaram da enquete oficial das
 Olimpíadas.
 
-Saeb: D20
-
-BNCC:
-
 a\) Correta. Somente a participação na enquete popular não iria garantir
 o resultado oficial, visto que para esse resultado era necessária a
 participação na enquete oficial das mascotes.
@@ -1845,16 +1821,14 @@ b\) Incorreta. Não há garantias de que quem participou da votação
 popular também votou na oficial, fato que pode ter ocorrido ou não.
 
 c\) Incorreta. Não há como saber, pelos textos, que os autores da
-enquete não tinham
-
-conhecimento da homenagem às personalidades.
+enquete não tinham conhecimento da homenagem às personalidades.
 
 d\) Incorreta. Os nomes Oba e Eba também participaram da enquete
 oficial, apesar de não serem citados no texto II, isso porque, na
 enquete popular o jornal de esportes colocou as opções que estavam para
 ser escolhidas oficialmente.
 
-# Módulo 6
+# 6. Universo digital
 
 Neste módulo, os alunos vão compreender o meme como gênero textual
 digital.
@@ -4598,6 +4572,7 @@ ensino de gramática. São Paulo: Cortez Editora, 2008.
 
 VIGOTSKY, Lev S. **Pensamento e linguagem**. Tradução: Jefferson Luiz
 Camargo. São Paulo: Martins Fontes, 2003.
+
 
 
 
