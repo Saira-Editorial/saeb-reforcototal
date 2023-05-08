@@ -1,4 +1,6 @@
-# 1. Convencer pelo texto
+# Módulo 1
+
+Convencer pelo texto
 
 
 Habilidades do SAEB
@@ -343,7 +345,9 @@ elas nasceram e quem as educou.
 \(D\) Incorreta. O trecho é um exemplo que vai auxiliar a tese de que a
 condição de vida das pessoas depende do acaso.
 
-# 2. Textos, regras e novidades
+# Módulo 2
+
+Textos, regras e novidades
 
 
 Habilidades do SAEB
@@ -506,11 +510,8 @@ Reescreva o parágrafo, a partir da expressão "É necessário" até "contra as 
 
 \Coment{É necessário que se produzam conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, que se promovam e implementem políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, que se realizem parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, que se desenvolvam e promovam políticas públicas de enfrentamento à violência contra as mulheres [...]}
 
-<<<<<<< HEAD
-##Treino
-=======
+
 \colorsec{Treino}
->>>>>>> a9e7eac8b41b52723a7d65759106269db810757b
 
 1\. Observe a imagem e leia o texto, ambos de uma campanha de conscientização.
 
@@ -689,7 +690,9 @@ temática "3 vezes 22", outros três sobre pesquisas relativas ao acervo
 constante, um a respeito do restauro da biblioteca e, finalmente, outro
 dedicado à pesquisa de todo o material existente.
 
-# 3. Humanidade no texto
+# Módulo 3
+
+Humanidade no texto
 
 Habilidades do SAEB
 
@@ -1053,8 +1056,9 @@ solidariedade deve ser tão importante quanto uma lei.
 d\) Incorreta. Não existe a explicitação dessa ideia no discurso de
 formatura.
 
-<<<<<<< HEAD
-# 4. Quem lê tanta notícia?
+# Módulo 4
+
+Quem lê tanta notícia?
 
 Habilidades do SAEB
 
@@ -1102,11 +1106,7 @@ enunciador.
 
 \<fim do boxe de conteúdo\>
 
-<<<<<<< HEAD
-##Atividades
-=======
 \colorsec{Atividades}
->>>>>>> a9e7eac8b41b52723a7d65759106269db810757b
 
 1\. Leia a notícia a seguir para responder às questões de 1 a 8.
 
@@ -1299,7 +1299,6 @@ projetos.}
 
 \linhas{4}
 
-<<<<<<< HEAD
 Veja a imagem para resolver as questões 9 e 10.
 
 https://www.freepik.com/free-photo/fire-steppe-grass-is-burning-destroying-everything-its-path_18629392.htm#query=fire%20in%20the%20forest&position=29&from_view=search&track=ais
@@ -1469,8 +1468,9 @@ notícia mostram imparcialidade
 d\) Incorreta. A fala literal é objetiva, já que mostra o que foi dito
 sem a interferência das autoras do texto.
 
-<<<<<<< HEAD
-# 5. Informação, fato, opinião
+# Módulo 5
+
+Informação, fato, opinião
 
 Habilidades do SAEB
 
