@@ -508,7 +508,7 @@ Reescreva o parágrafo, a partir da expressão "É necessário" até "contra as 
 
 \Coment{É necessário que se produzam conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, que se promovam e implementem políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, que se realizem parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, que se desenvolvam e promovam políticas públicas de enfrentamento à violência contra as mulheres [...]}
 
-**Treino**
+##Treino
 
 1\. Observe a imagem e leia o texto, ambos de uma campanha de conscientização.
 
@@ -1461,18 +1461,14 @@ notícia mostram imparcialidade
 d\) Incorreta. A fala literal é objetiva, já que mostra o que foi dito
 sem a interferência das autoras do texto.
 
-# 5.
+# 5. Informação, fato, opinião
 
-Neste módulo, os alunos vão entender como fazer distinção entre fato e
-opinião.
 
-Habilidades da BNCC: (não há correspondência)
+Habilidades do SAEB
 
-Habilidades do SAEB:
+1. Inferir informações implícitas em distintos textos.
 
-\- Inferir informações implícitas em distintos textos.
-
-\- Distinguir fatos de opiniões em textos.
+1. Distinguir fatos de opiniões em textos.
 
 **Fato x Opinião**
 
@@ -4583,5 +4579,7 @@ ensino de gramática. São Paulo: Cortez Editora, 2008.
 
 VIGOTSKY, Lev S. **Pensamento e linguagem**. Tradução: Jefferson Luiz
 Camargo. São Paulo: Martins Fontes, 2003.
+
+
 
 
