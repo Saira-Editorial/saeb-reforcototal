@@ -83,20 +83,20 @@ quais atributos estão sendo mais ressaltados.}
 1\. Em sua opinião, é importante haver campanhas relacionadas a esse
 tema? Justifique sua resposta. 
 
-\Coment{Resposta pessoal. Espera-se que os alunos falem sobre a necessidade de uso de transportes alternativos para combater a poluição, além de se lembrarem de que a bicicleta é um tipo de transporte que contribui para que não se tenha uma vida sedentária, comum a muitas pessoas nos grandes centros.}
+\coment{Resposta pessoal. Espera-se que os alunos falem sobre a necessidade de uso de transportes alternativos para combater a poluição, além de se lembrarem de que a bicicleta é um tipo de transporte que contribui para que não se tenha uma vida sedentária, comum a muitas pessoas nos grandes centros.}
 
 \linhas{6}
 
 2\. Qual é a finalidade dessa campanha publicitária? 
 
-\Coment{A finalidade da campanha é estimular o convívio saudável no trânsito entre motoristas e ciclistas.}
+\coment{A finalidade da campanha é estimular o convívio saudável no trânsito entre motoristas e ciclistas.}
 
 \linhas{3}
 
 3\. Em sua opinião, qual pode ter sido o motivo para a produção dessa
 campanha? 
 
-\Coment{Resposta pessoal. Sugestão de resposta: "O motivo pode ter sido
+\coment{Resposta pessoal. Sugestão de resposta: "O motivo pode ter sido
 o número alto de acidentes entre ciclistas e motoristas que não se
 respeitam no trânsito."}
 
@@ -105,18 +105,18 @@ respeitam no trânsito."}
 4\. Uma das funções da propaganda é levar o leitor a realizar ações
 concretas. No anúncio apresentado, quais são elas? 
 
-\Coment{A ideia é que os motoristas respeitem a distância de 1,5 m dos ciclistas para que sejam evitados acidentes de trânsito.}
+\coment{A ideia é que os motoristas respeitem a distância de 1,5 m dos ciclistas para que sejam evitados acidentes de trânsito.}
 
 \linhas{4}
 
 5\. Qual é o público-alvo dessa campanha? 
 
-\Coment{Motoristas e ciclistas, assim como todas as pessoas que convivem no trânsito.}
+\coment{Motoristas e ciclistas, assim como todas as pessoas que convivem no trânsito.}
 
 \linhas{4}
 
 6\. Em sua opinião, campanhas educativas podem convencer a população a
-\Coment{Resposta pessoal. Explique aos alunos que as campanhas educativas são
+\coment{Resposta pessoal. Explique aos alunos que as campanhas educativas são
 fundamentais para conscientizar as pessoas e podem mudar atitudes.}
 
 \linhas{6}
@@ -125,7 +125,7 @@ fundamentais para conscientizar as pessoas e podem mudar atitudes.}
 Respeite-o!" dialoga com o leitor. Que forma verbal indica essa
 interlocução? 
 
-\Coment{A forma verbal "respeite" em **respeite-o**.}
+\coment{A forma verbal "respeite" em **respeite-o**.}
 
 \linhas{2}
 
@@ -152,13 +152,13 @@ Leia, agora, mais um texto para, então, responder às questões 9 e 10.
 
 9\. Para ajudar na conscientização, o texto traz dados estatísticos. Como eles ajudam nessa função de convencer os leitores?
 
-\Coment{Dados estatísticos ajudam na conscientização porque dão dados quantitativos que permitem visualizar a gravidade do problema - nesse caso, o problema da violência e das mortes no trânsito.}
+\coment{Dados estatísticos ajudam na conscientização porque dão dados quantitativos que permitem visualizar a gravidade do problema - nesse caso, o problema da violência e das mortes no trânsito.}
 
 \linhas{5}
 
 10\. Quam você imagina que sejam "todos os envolvidos nas vias públicas", como menciona o texto?
 
-\Coment{Os envolvidos são os motoristas, os ciclistas, os pedestres, o poder público etc.}
+\coment{Os envolvidos são os motoristas, os ciclistas, os pedestres, o poder público etc.}
 
 \linhas{3}
 
@@ -425,7 +425,7 @@ Acesso em: 28 mar. 2023.
 1\. Uma proposta pública é dirigida a vários grupos sociais. Qual é o
 objetivo dessa proposta, considerando a sociedade a que ela se destina?
 
-\Coment{O objetivo da proposta é planejar investimentos em políticas públicas de
+\coment{O objetivo da proposta é planejar investimentos em políticas públicas de
 igualdade de direitos e redução das iniquidades como elemento de
 desenvolvimento da população do estado da Bahia.}
 
@@ -434,7 +434,7 @@ desenvolvimento da população do estado da Bahia.}
 2\. O primeiro parágrafo apresenta os padrões de conduta que
 caracterizam socialmente a formação socioeconômica baiana. De que forma se deu a formação socioeconômica baiana? 
 
-\Coment{ Essa sociedade se formou e se constituiu de forma patriarcal e,
+\coment{ Essa sociedade se formou e se constituiu de forma patriarcal e,
 por séculos, escravocrata.}
 
 \linhas{5}
@@ -442,21 +442,21 @@ por séculos, escravocrata.}
 3\. Quem tem a obrigação de garantir os direitos dos negros e das
 mulheres, e protegê-los? 
 
-\Coment{O Estado.}
+\coment{O Estado.}
 
 \linhas{4}
 
 4\. Explique o que significa dizer que é necessário promover a
 **emancipação do sujeito**. 
 
-\Coment{Espera-se que os alunos relacionem a expressão ao processo de liberdades política, cultural, humana e social de todas as pessoas que sofrem opressão.}
+\coment{Espera-se que os alunos relacionem a expressão ao processo de liberdades política, cultural, humana e social de todas as pessoas que sofrem opressão.}
 
 \linhas{6}
 
 5\. Com base no título, pode-se perceber se a proposta pública abrange
 diversas demandas sociais? Justifique sua resposta. 
 
-\Coment{Sim, pois no título
+\coment{Sim, pois no título
 há a menção de que se trata de um "plano de desenvolvimento integrado",
 uma proposta que tem o objetivo de atender em conjunto diversas áreas.}
 
@@ -465,7 +465,7 @@ uma proposta que tem o objetivo de atender em conjunto diversas áreas.}
 6\. O texto traça finalidades e planejamentos a serem adotados para que
 a proposta pública seja efetivamente aplicada. Por que é fundamental registrar esses planejamentos e finalidades em um documento? Explique. 
 
-\Coment{Espera-se que os alunos percebam que esses planejamentos e finalidades conduzem as ações ou estratégias que deverão ser realizadas para que as propostas sejam realizadas pelo governo.}
+\coment{Espera-se que os alunos percebam que esses planejamentos e finalidades conduzem as ações ou estratégias que deverão ser realizadas para que as propostas sejam realizadas pelo governo.}
 
 \linhas{6}
 
@@ -497,7 +497,7 @@ Releia o último parágrafo do texto para responder às questões 9 e 10.
 
 9\. O que significa "fomentar", no contexto em que aparece nesse parágrafo?
 
-\Coment{"Fomentar" significa "Fomentar significa incentivar, promover ou estimular algo, seja por meio de ações concretas ou por meio de apoio e investimento. O termo pode se referir a diversas áreas, desde a economia até a cultura, e tem como objetivo impulsionar o desenvolvimento, o crescimento ou o progresso de determinada atividade, setor ou região. Fomentar pode ser entendido como uma ação proativa e estratégica que visa fortalecer determinada iniciativa ou empreendimento, contribuindo para que se torne mais sustentável, produtivo e efetivo."}
+\coment{"Fomentar" significa "Fomentar significa incentivar, promover ou estimular algo, seja por meio de ações concretas ou por meio de apoio e investimento. O termo pode se referir a diversas áreas, desde a economia até a cultura, e tem como objetivo impulsionar o desenvolvimento, o crescimento ou o progresso de determinada atividade, setor ou região. Fomentar pode ser entendido como uma ação proativa e estratégica que visa fortalecer determinada iniciativa ou empreendimento, contribuindo para que se torne mais sustentável, produtivo e efetivo."}
 
 10\. Veja as seguintes construções:
 
@@ -508,7 +508,7 @@ Desenvolver e promover políticas públicas*
 
 Reescreva o parágrafo, a partir da expressão "É necessário" até "contra as mulheres", introduzindo as expressões pela conjunção "que" e fazendo as adaptações necessárias.
 
-\Coment{É necessário que se produzam conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, que se promovam e implementem políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, que se realizem parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, que se desenvolvam e promovam políticas públicas de enfrentamento à violência contra as mulheres [...]}
+\coment{É necessário que se produzam conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, que se promovam e implementem políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, que se realizem parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, que se desenvolvam e promovam políticas públicas de enfrentamento à violência contra as mulheres [...]}
 
 
 \colorsec{Treino}
@@ -743,7 +743,7 @@ pessoa.
 
 1.  Leia o conto a segui para responder às questões de 1 a 9.
 
-\Coment{Promova a leitura compartilhada e colaborativa do texto com os alunos. Oriente-os a marcar as palavras desconhecidas e a pesquisá-las no dicionário depois da leitura. Estimule a participação de todos, valendo-se de perguntas direcionadas, considerando a capacidade inicial deles, mas visando a avanços.}
+\coment{Promova a leitura compartilhada e colaborativa do texto com os alunos. Oriente-os a marcar as palavras desconhecidas e a pesquisá-las no dicionário depois da leitura. Estimule a participação de todos, valendo-se de perguntas direcionadas, considerando a capacidade inicial deles, mas visando a avanços.}
 
 
 **A pequena vendedora de fósforos**
@@ -850,25 +850,25 @@ Hans Christian. Contos de Hans Christian Andersen. A pequena vendedora de fósfo
 
 1\) Quem é a personagem principal do conto? 
 
-\Coment{A menina que vendia fósforos}
+\coment{A menina que vendia fósforos}
 
 \linhas{5}
 
 2\) Em qual época aconteceu a história? 
 
-\Coment{Véspera do dia do Ano Novo.}
+\coment{Véspera do dia do Ano Novo.}
 
 \linhas{3}
 
 3\) Descreva fisicamente a menina. 
 
-\Coment{A personagem tinha cabelos compridos e loiros, que se encaracolavam graciosamente em volta do pescoço magrinho.}
+\coment{A personagem tinha cabelos compridos e loiros, que se encaracolavam graciosamente em volta do pescoço magrinho.}
 
 \linhas{4}
 
 4\) Por qual motivo a vendedora de fósforos não quis voltar para casa?
 
-\Coment{Porque não vendera um único maço de fósforos e não podia apresentar nem
+\coment{Porque não vendera um único maço de fósforos e não podia apresentar nem
 uma moeda, e o pai era capaz de lhe bater. E, afinal, em casa também não
 havia calor.}
 
@@ -877,7 +877,7 @@ havia calor.}
 5\) Os fatos narrados no conto "A pequena vendedora de fósforos" se
 deram em quanto tempo? Justifique com elementos do texto. 
 
-\Coment{ Os fatos aconteceram no período de uma noite. No início aparece a marcação temporal "a noite aproximava-se" e, no final, aparece a delimitação "quando rompeu a manhã gelada".
+\coment{ Os fatos aconteceram no período de uma noite. No início aparece a marcação temporal "a noite aproximava-se" e, no final, aparece a delimitação "quando rompeu a manhã gelada".
 
 \linhas{4}
 
@@ -907,7 +907,7 @@ sequência dos fatos narrados.
 
 9\. O narrador conta a história como:
 
-\Coment{Explique aos alunos que o narrador observador só relata o que
+\coment{Explique aos alunos que o narrador observador só relata o que
 presenciou, sem entrar na mente dos personagens e contar ao leitor o que
 eles estão pensando.}
 
@@ -1110,7 +1110,7 @@ enunciador.
 
 1\. Leia a notícia a seguir para responder às questões de 1 a 8.
 
-\Coment{Faça intervenções mediante perguntas sempre que aparecerem opiniões e
+\coment{Faça intervenções mediante perguntas sempre que aparecerem opiniões e
 relatos que possam colaborar com a discussão que será realizada
 durante a leitura da notícia. Solicite aos alunos que leiam o título da
 notícia e pergunte: "Vocês já tinham conhecimento dessa informação?";
@@ -1218,7 +1218,7 @@ Acesso em: 28 mar. 2023.
 
 1.\ Qual é o fato relatado pela notícia? 
 
-\Coment{A notícia relata o fato de os
+\coment{A notícia relata o fato de os
 servidores da Esplanada ganharem um espaço de trabalho compartilhado.}
 
 \linhas{4}
@@ -1227,7 +1227,7 @@ servidores da Esplanada ganharem um espaço de trabalho compartilhado.}
 interesse da sociedade. Por que esse espaço de trabalho dos servidores
 virou notícia? 
 
-\Coment{Porque é um projeto inovador e com infraestrutura
+\coment{Porque é um projeto inovador e com infraestrutura
 adequada para o desempenho do trabalho de servidores públicos federais
 em todo o país.}
 
@@ -1261,7 +1261,7 @@ novo espaço.
 
 5.\ Qual é o objetivo da utilização de intertítulos em uma notícia? 
 
-\Coment{O objetivo é organizar a apresentação detalhada de informações conforme os
+\coment{O objetivo é organizar a apresentação detalhada de informações conforme os
 variados aspectos do tema abordado e, por ser um texto mais extenso, o
 uso de intertítulos torna a leitura mais dinâmica, tornando mais fácil a
 compreensão do texto.}
@@ -1278,7 +1278,7 @@ Este fragmento apresenta uma fala reproduzida no texto:
 importância da utilização desse sinal gráfico para a organização do
 texto? 
 
-\Coment{As aspas reproduzem exatamente o que Elise Sueli Pereira disse em
+\coment{As aspas reproduzem exatamente o que Elise Sueli Pereira disse em
 entrevista.}
 
 \linhas{3}
@@ -1286,14 +1286,14 @@ entrevista.}
 7.\ Após a citação, foram apresentadas informações sobre a servidora.
 Qual é a finalidade de se trazer essas informações? 
 
-\Coment{Essas informações servem para especificar o perfil da entrevistada.}
+\coment{Essas informações servem para especificar o perfil da entrevistada.}
 
 \linhas{4}
 
 8.\ Observe que essa notícia apresenta *hiperlinks*, em destaque no texto e com uma
 cor diferente (azul). Como eles aparecem no texto e qual são suas funções? 
 
-\Coment{Sua função é fazer o leitor que esteja lendo a
+\coment{Sua função é fazer o leitor que esteja lendo a
 notícia na internet acesse mais informações sobre os termos de uso e os
 projetos.}
 
@@ -1305,7 +1305,7 @@ https://www.freepik.com/free-photo/fire-steppe-grass-is-burning-destroying-every
 
 9.\ Sobre o que poderia falar uma notícia ilustrada por essa imagem?
 
-\Coment{Uma notícia ilustrada por essa foto poderia tratar do risco de incêndio em áreas verdes por caisa de focos de fogo em vegetação seca, por exemplo.Há outras respostas possíveis.}
+\coment{Uma notícia ilustrada por essa foto poderia tratar do risco de incêndio em áreas verdes por caisa de focos de fogo em vegetação seca, por exemplo.Há outras respostas possíveis.}
 
 \linhas{6}
 
@@ -1314,7 +1314,7 @@ https://www.freepik.com/free-photo/fire-steppe-grass-is-burning-destroying-every
 1. Uma manchete (título).
 1. Uma legenda para a foto.
 
-\Coment{Sua função é fazer o leitor que esteja lendo a
+\coment{Sua função é fazer o leitor que esteja lendo a
 notícia na internet acesse mais informações sobre os termos de uso e os
 projetos.}
 
@@ -1604,7 +1604,7 @@ opiniões de pessoas consultadas pelo jornalista. Leia novamente os
 trechos a seguir e marque F para o que for fato e O para o que for
 opinião.
 
-\Coment{A atividade tem o objetivo de fazer os alunos compreenderem que o
+\coment{A atividade tem o objetivo de fazer os alunos compreenderem que o
 autor/jornalista relata fatos na notícia, mas também pode reproduzir em
 discurso direto ou indireto opiniões de pessoas e relação aos
 acontecimentos.}
