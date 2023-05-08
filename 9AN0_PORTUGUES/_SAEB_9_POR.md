@@ -1320,7 +1320,7 @@ projetos.}
 
 \linhas{4}
 
-##Treino
+\colorsec{Treino}
 
 1 -- Leia um trecho de notícia a seguir.
 
@@ -1519,7 +1519,7 @@ aprender a diferenciá-los é praticar com bastante leitura.
 
 Leia a notícia a seguir para responder às questões de 1 a 6.
 
-\Coment {Promova a leitura compartilhada da notícia. Durante a leitura, chame a
+\coment{Promova a leitura compartilhada da notícia. Durante a leitura, chame a
 atenção dos alunos para os elementos que a compõem, como título,
 subtítulo (linha fina), data de publicação, foto, legenda. Diga-lhes que
 esses elementos podem ser vistos com mais frequência em notícias
@@ -1576,30 +1576,30 @@ a nota da Embaixada da Suíça no Brasil.
 Serviços e informações do Brasil. Suíços estreitam parceria com Governo Federal para restaurar relógio histórico danificado em 8 de janeiro. Disponível em:
 <https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes/2023/02/suicos-estreitam-parceria-com-governo-federal-para-restaurar-relogio-historico-danificado-em-8-de-janeiro>. Acesso em 30 mar. 2023.
 
-1. Qual é o fato central da notícia? 
-\linhas {5}
+\num{1} Qual é o fato central da notícia? 
+\linhas{5}
 
 O fato de suíços firmarem parceria com o Governo Federal para a restauração do relógio histórico que foi danificado em 8 de janeiro na invasão ao Palácio do Planalto.
 
-2. Por que esse fato virou notícia? 
+\num{2} Por que esse fato virou notícia? 
  \linhas{5}
 
 Possível resposta: Porque o relógio fazia parte do acervo brasileiro e tinha um valor histórico incalculável. Foi trazido ao Brasil em 1808, por Dom João VI. Essa é uma das duas peças do relojoeiro francês Balthazar Martinot existentes. 
 
-3. Que fato foi noticiado na linha fina? 
-\linhas {6}
+\num{3} Que fato foi noticiado na linha fina? 
+\linhas{6}
 
 O fato de que especialistas e artesãos do país europeu vão trabalhar com curadores e profissionais brasileiros na recuperação do objeto do Século XVII, que foi danificado
 durante a invasão ao Palácio do Planalto.
 
-4.  Qual é a função dessa linha em relação ao título? 
+\num{4} Qual é a função dessa linha em relação ao título? 
 
-\linhas {3}
+\linhas{3}
 
 Complementar as informações do título e aumentar a vontade do leitor de ler a notícia.
 
 
-5. Pode-se perceber na notícia o relato de fatos e a apresentação de
+\num{5} Pode-se perceber na notícia o relato de fatos e a apresentação de
 opiniões de pessoas consultadas pelo jornalista. Leia novamente os
 trechos a seguir e marque F para o que for fato e O para o que for
 opinião.
@@ -1627,7 +1627,7 @@ histórico e artístico é um elemento emblemático que reforçará ainda mais
 a amizade entre os nossos dois países", indicou a nota da Embaixada da
 Suíça no Brasil.
 
-6. Qual é a sua opinião em relação ao fato de terem destruído o relógio
+\num{6} Qual é a sua opinião em relação ao fato de terem destruído o relógio
 histórico? 
 
 \linhas{4}
@@ -1636,43 +1636,43 @@ Resposta pessoal. Espera-se que os alunos repudiem esse ato
 de vandalismo de um relógio considerado raro e de valor inestimável.
 
 
-7. Como um fato pode ser comprovado?
+\num{7} Como um fato pode ser comprovado?
 
-\linhas {2}
+\linhas{2}
 
 Um fato pode ser comprovado por meio de evidências.
 
 
-8. O que significa **opinião**?
+\num{8} O que significa **opinião**?
 
-\linhas {3}
+\linhas{3}
 
 Opinião consiste na interpretação das pessoas em relação ao fato, em
 decorrência da posição social que assumem.
 
 
-9. Considere as seguintes afirmações. Classifique cada uma como um fato ou uma opinião e explique sua resposta.
+\num{9} Considere as seguintes afirmações. Classifique cada uma como um fato ou uma opinião e explique sua resposta.
 
 O aquecimento global é causado principalmente pela emissão de gases do efeito estufa.
 O aquecimento global é o maior problema enfrentado pela humanidade.
 O governo deve implementar impostos mais altos para reduzir as emissões de carbono.
 As mudanças climáticas são exageradas pela mídia e não representam uma ameaça real.
 
-\linhas {1 para cada afirmação}
+\linhas{1 para cada afirmação}
 
 Fato. O aquecimento global ser causado principalmente pela emissão de gases do efeito estufa é uma afirmação baseada em dados científicos e pode ser verificada objetivamente.
 Opinião. A declaração de que o aquecimento global é o maior problema enfrentado pela humanidade é uma opinião pessoal, pois envolve uma avaliação subjetiva dos problemas globais.
 Opinião. A afirmação de que o governo deve implementar impostos mais altos para reduzir as emissões de carbono reflete uma opinião sobre a melhor estratégia para lidar com o problema do aquecimento global.
 Opinião. A afirmação de que as mudanças climáticas são exageradas pela mídia e não representam uma ameaça real é uma opinião que reflete uma perspectiva pessoal sobre o assunto.
 
-10. Determine se cada afirmação é um fato ou uma opinião. Justifique sua resposta.
+\num{10} Determine se cada afirmação é um fato ou uma opinião. Justifique sua resposta.
 
 "De acordo com dados científicos, a Terra aqueceu aproximadamente 1 grau Celsius nos últimos 100 anos."
 "Eu acho que o aquecimento global é uma invenção das grandes empresas para lucrar com medidas ambientais."
 "O desmatamento das florestas tropicais está contribuindo para a perda de biodiversidade."
 "Acredito que as políticas de sustentabilidade devem ser priorizadas em todo o mundo para proteger o meio ambiente."
 
-\linhas {1 para cada item}
+\linhas{1 para cada item}
 
 Fato. A afirmação de que a Terra aqueceu aproximadamente 1 grau Celsius nos últimos 100 anos é um fato baseado em dados científicos e pode ser verificado por evidências.
 Opinião. A frase "Eu acho que o aquecimento global é uma invenção das grandes empresas para lucrar com medidas ambientais" expressa uma opinião pessoal e não pode ser verificada objetivamente.
@@ -1682,7 +1682,7 @@ Opinião. A frase "Acredito que as políticas de sustentabilidade devem ser prio
 
 \colorsec{Treino}
 
-1\. Leia um trecho da resenha crítica sobre o filme "O Piano".
+\num{1} Leia um trecho da resenha crítica sobre o filme "O Piano".
 
 **O Piano**
 
@@ -1729,7 +1729,7 @@ o modo como o filme é estruturado.
 d\) Incorreta. O trecho corresponde a uma informação do enredo do filme,
 trazendo uma informação técnica da sinopse.
 
-2\. Leia o trecho de artigo sobre a pandemia do Coronavírus.
+\num{2} Leia o trecho de artigo sobre a pandemia do Coronavírus.
 
 **A Igualdade nas diferenças**
 
@@ -1778,7 +1778,7 @@ primeiros infectados, o mundo se viu em meio a uma situação incomum.
 d\) Incorreta. Trata-se da opinião do autor a respeito de como as coisas
 são resolvidas no Brasil.
 
-3\. Leia os trechos sobre as mascotes das Olimpíadas no Rio de Janeiro,
+\num{3} Leia os trechos sobre as mascotes das Olimpíadas no Rio de Janeiro,
 em 2015.
 
 **Texto I**
@@ -1828,7 +1828,9 @@ oficial, apesar de não serem citados no texto II, isso porque, na
 enquete popular o jornal de esportes colocou as opções que estavam para
 ser escolhidas oficialmente.
 
-# 6. Universo digital
+# Módulo 6
+
+Universo digital
 
 Neste módulo, os alunos vão compreender o meme como gênero textual
 digital.
@@ -1955,7 +1957,7 @@ teve dificuldades até de entender a afirmação.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-4\. Leia o meme a seguir.
+\num{4} Leia o meme a seguir.
 
 https://pt.memedroid.com/memes/tag/frete+gratis
 
@@ -1971,7 +1973,7 @@ meme](./_SAEB_9_POR/media/image13.jpeg){width="4.25in" height="4.25in"}
 
 \colorsec{Treino}
 
-1\. Leia o trecho da entrevista a seguir. (Fácil)
+\num{1} Leia o trecho da entrevista a seguir. (Fácil)
 
 **"O Brasil exportava talentos, hoje exporta animação: leia entrevista
 com César Coelho"**
@@ -2175,7 +2177,7 @@ ao tema que está em discussão.
 
 \colorsec{Atividades}
 
-1\. A reportagem que você vai ler foi publicada no site do Plenarinho.
+\num{1} A reportagem que você vai ler foi publicada no site do Plenarinho.
 Leia com atenção.
 
 Oriente os alunos a identificar o tema da reportagem. Depois da leitura,
@@ -2349,7 +2351,7 @@ de toda a sociedade.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-2\. A reportagem tem como característica o trabalho investigativo
+\num{2} A reportagem tem como característica o trabalho investigativo
 realizado por jornalistas. Nela, os fatos são abordados de modo mais
 detalhado.
 
@@ -2371,7 +2373,7 @@ relatando.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-3\. A voz dos especialistas pode aparecer de variadas formas na
+\num{3} A voz dos especialistas pode aparecer de variadas formas na
 reportagem. Veja algumas
 
 possibilidades.
@@ -2426,7 +2428,7 @@ Mostrar que há formas de mudar o que não está certo.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-5\. Assinale a(s) alternativa(s) que melhor caracteriza(m) a linguagem
+\num{5} Assinale a(s) alternativa(s) que melhor caracteriza(m) a linguagem
 que foi usada pelo jornalista.
 
 ( ) Despretensiosa.
@@ -2439,7 +2441,7 @@ que foi usada pelo jornalista.
 
 \colorsec{Treino}
 
-1\. Leia os trechos de textos a seguir, que exploram as prospecções
+\num{1} Leia os trechos de textos a seguir, que exploram as prospecções
 brasileiras para o cumprimento da Agenda 2030, proposta pela ONU.
 (Fácil)
 
@@ -2528,7 +2530,7 @@ que é impossível.
 
 \(d\) Incorreta. Os textos não se complementam, mas sim se contrariam.
 
-2\. Leia a notícia a seguir. (Médio)
+\num{2} Leia a notícia a seguir. (Médio)
 
 **Brasil estreia contra Bolívia nas eliminatórias da Copa do Mundo
 2022**
@@ -2584,7 +2586,7 @@ em relação ao assunto.
 d\) Correta. A notícia mostra imparcialidade do autor, que não expõe sua
 opinião sobre o assunto.
 
-3\. Leia o trecho de notícia a seguir. (Difícil)
+\num{3} Leia o trecho de notícia a seguir. (Difícil)
 
 **Corrida de investidores leva petróleo norte-americano a uma nova queda
 de dois dígitos**
@@ -2763,7 +2765,7 @@ diferente postura diante de atos desrespeitosos, indignos e desiguais.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-3\. Leia mais este anúncio publicitário desenvolvido em comemoração ao
+\num{4} Leia mais este anúncio publicitário desenvolvido em comemoração ao
 Dia Internacional da Mulher.
 
 https://www.pmvc.ba.gov.br/prefeitura-realiza-campanha-marco-mulher-2021-com-o-tema-a-violencia-que-ninguem-ve/
@@ -2805,7 +2807,7 @@ c)  Releia esse trecho do anúncio.
 
 \colorsec{Treino}
 
-1\. Leia dois trechos de textos que tratam sobre a Lei Seca. (Fácil)
+\num{1} Leia dois trechos de textos que tratam sobre a Lei Seca. (Fácil)
 
 **Texto 1**
 
@@ -2876,7 +2878,7 @@ Lei Seca
 
 d\) Incorreta. Não existem modalizadores em ambos os textos.
 
-2\. Leia a campanha de doação de sangue. (Médio)
+\num{2} Leia a campanha de doação de sangue. (Médio)
 
 ![](./_SAEB_9_POR/media/image22.png){width="5.905555555555556in"
 height="4.1682863079615045in"}
@@ -2917,7 +2919,7 @@ doar sangue.
 d\) Correta. Mulheres grávidas ou que estejam a amamentar estão no grupo
 de pessoas que não podem doar sangue
 
-3\. Leia um trecho de uma redação nota mil no Enem. (Difícil)
+\num{3} Leia um trecho de uma redação nota mil no Enem. (Difícil)
 
 \[...\]
 
@@ -3217,7 +3219,7 @@ Cinzas? No anúncio, \"quarta-feira de cinzas\" significa a morte.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-3\. Faça uma pesquisa, em diferentes tipos de textos, e escreva um
+\num{4} Faça uma pesquisa, em diferentes tipos de textos, e escreva um
 exemplo para cada figura de linguagem proposta a seguir. Registre os
 resultados nas linhas.
 
@@ -3243,7 +3245,7 @@ e\) Assonância. Resposta pessoal.
 
 \colorsec{Treino}
 
-1\. Leia o trecho do editorial a seguir. (Fácil)
+\num{1} Leia o trecho do editorial a seguir. (Fácil)
 
 **Pobre Líbano**
 
@@ -3293,7 +3295,7 @@ pela utilização de "só".
 d\) Incorreta. "só" indica que essa destruição era vista após fenômenos
 naturais, e não que nunca foi vista.
 
-2\. Leia um trecho do poema de Fernando Pessoa. (Médio)
+\num{2} Leia um trecho do poema de Fernando Pessoa. (Médio)
 
 **Ah! Ser indiferente!**
 
@@ -3346,7 +3348,7 @@ elementos.
 d\) Incorreta. A metáfora é uma figura de linguagem que compara dois
 elementos sem utilizar conjunção.
 
-3\. Leia o trecho do Livro do desassossego, atribuído ao heterônimo
+\num{3} Leia o trecho do Livro do desassossego, atribuído ao heterônimo
 Bernardo Soares, de Fernando Pessoa. (Difícil)
 
 **L. do D. (Prefácio)**
@@ -3542,7 +3544,7 @@ subdesenvolvimento econômico".
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-2\. Releia um trecho do livro.
+4\. Releia um trecho do livro.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   A fome é a face mais amarga do retrato de uma sociedade que exibe índices de desigualdades sociais inadmissíveis frente aos níveis de riqueza alcançados pelo País. Extirpar essa mazela é mais do que uma prioridade é uma obrigação ainda não cumprida.
@@ -3576,7 +3578,7 @@ de:
 
 **( )** comparação.
 
-3\. Ipiranga é uma rede de postos de gasolina. Leia a seguir um anúncio
+\num{5} Ipiranga é uma rede de postos de gasolina. Leia a seguir um anúncio
 dessa empresa para conscientização de motoristas, motociclistas e
 pedestres para ampliar o movimento Maio Amarelo e o comportamento seguro
 no trânsito.
@@ -3618,7 +3620,7 @@ c\) Releia o slogan do anúncio:
 
 \colorsec{Treino}
 
-1\. Leia o anúncio a seguir. (Fácil)
+\num{1} Leia o anúncio a seguir. (Fácil)
 
 https://www.facebook.com/cnj.oficial/photos/a.191159914290110/1681947658544654/?type=3
 
@@ -3655,7 +3657,7 @@ oração apresenta um sentido completo.
 d\) Incorreta. Embora a conjunção introduza uma oração que complementa a
 primeira, esta não apresenta função de dar fundamentações à primeira.
 
-2\. Leia o trecho de uma redação nota mil no Enem, observando como a
+\num{2} Leia o trecho de uma redação nota mil no Enem, observando como a
 conclusão foi elaborada. (Médio)
 
 \[...\]
@@ -3719,7 +3721,7 @@ d\) Correta. As expressões apresentam os pronomes demonstrativos "isso",
 estão relacionadas diretamente com a resolução da tese retomada nessa
 conclusão
 
-3\. Leia o trecho da reportagem a seguir.
+\num{3} Leia o trecho da reportagem a seguir.
 
 **Em Lima, Brasil bate recorde histórico com 308 medalhas**
 
