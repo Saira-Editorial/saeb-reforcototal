@@ -3128,7 +3128,7 @@ $\left( n - 2 \right) + \left( n - 3 \right) = \left( 1 - 2 \right) + \left( 1 -
 D - Errada, pois
 $\left( n - 2 \right)\left( n - 3 \right) = \left( 1 - 2 \right)\left( 1 - 3 \right) = - 1\  \times \ ( - 2) = 2$
 
-# Módulo 8
+# Módulo 7
 
 Habilidade BNCC: EF07MA17
 

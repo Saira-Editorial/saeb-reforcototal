@@ -1,4 +1,6 @@
-# 1. Convencer pelo texto
+# Módulo 1
+
+Convencer pelo texto
 
 
 Habilidades do SAEB
@@ -81,20 +83,20 @@ quais atributos estão sendo mais ressaltados.}
 1\. Em sua opinião, é importante haver campanhas relacionadas a esse
 tema? Justifique sua resposta. 
 
-\Coment{Resposta pessoal. Espera-se que os alunos falem sobre a necessidade de uso de transportes alternativos para combater a poluição, além de se lembrarem de que a bicicleta é um tipo de transporte que contribui para que não se tenha uma vida sedentária, comum a muitas pessoas nos grandes centros.}
+\coment{Resposta pessoal. Espera-se que os alunos falem sobre a necessidade de uso de transportes alternativos para combater a poluição, além de se lembrarem de que a bicicleta é um tipo de transporte que contribui para que não se tenha uma vida sedentária, comum a muitas pessoas nos grandes centros.}
 
 \linhas{6}
 
 2\. Qual é a finalidade dessa campanha publicitária? 
 
-\Coment{A finalidade da campanha é estimular o convívio saudável no trânsito entre motoristas e ciclistas.}
+\coment{A finalidade da campanha é estimular o convívio saudável no trânsito entre motoristas e ciclistas.}
 
 \linhas{3}
 
 3\. Em sua opinião, qual pode ter sido o motivo para a produção dessa
 campanha? 
 
-\Coment{Resposta pessoal. Sugestão de resposta: "O motivo pode ter sido
+\coment{Resposta pessoal. Sugestão de resposta: "O motivo pode ter sido
 o número alto de acidentes entre ciclistas e motoristas que não se
 respeitam no trânsito."}
 
@@ -103,18 +105,18 @@ respeitam no trânsito."}
 4\. Uma das funções da propaganda é levar o leitor a realizar ações
 concretas. No anúncio apresentado, quais são elas? 
 
-\Coment{A ideia é que os motoristas respeitem a distância de 1,5 m dos ciclistas para que sejam evitados acidentes de trânsito.}
+\coment{A ideia é que os motoristas respeitem a distância de 1,5 m dos ciclistas para que sejam evitados acidentes de trânsito.}
 
 \linhas{4}
 
 5\. Qual é o público-alvo dessa campanha? 
 
-\Coment{Motoristas e ciclistas, assim como todas as pessoas que convivem no trânsito.}
+\coment{Motoristas e ciclistas, assim como todas as pessoas que convivem no trânsito.}
 
 \linhas{4}
 
 6\. Em sua opinião, campanhas educativas podem convencer a população a
-\Coment{Resposta pessoal. Explique aos alunos que as campanhas educativas são
+\coment{Resposta pessoal. Explique aos alunos que as campanhas educativas são
 fundamentais para conscientizar as pessoas e podem mudar atitudes.}
 
 \linhas{6}
@@ -123,7 +125,7 @@ fundamentais para conscientizar as pessoas e podem mudar atitudes.}
 Respeite-o!" dialoga com o leitor. Que forma verbal indica essa
 interlocução? 
 
-\Coment{A forma verbal "respeite" em **respeite-o**.}
+\coment{A forma verbal "respeite" em **respeite-o**.}
 
 \linhas{2}
 
@@ -150,13 +152,13 @@ Leia, agora, mais um texto para, então, responder às questões 9 e 10.
 
 9\. Para ajudar na conscientização, o texto traz dados estatísticos. Como eles ajudam nessa função de convencer os leitores?
 
-\Coment{Dados estatísticos ajudam na conscientização porque dão dados quantitativos que permitem visualizar a gravidade do problema - nesse caso, o problema da violência e das mortes no trânsito.}
+\coment{Dados estatísticos ajudam na conscientização porque dão dados quantitativos que permitem visualizar a gravidade do problema - nesse caso, o problema da violência e das mortes no trânsito.}
 
 \linhas{5}
 
 10\. Quam você imagina que sejam "todos os envolvidos nas vias públicas", como menciona o texto?
 
-\Coment{Os envolvidos são os motoristas, os ciclistas, os pedestres, o poder público etc.}
+\coment{Os envolvidos são os motoristas, os ciclistas, os pedestres, o poder público etc.}
 
 \linhas{3}
 
@@ -343,7 +345,9 @@ elas nasceram e quem as educou.
 \(D\) Incorreta. O trecho é um exemplo que vai auxiliar a tese de que a
 condição de vida das pessoas depende do acaso.
 
-# 2. Textos, regras e novidades
+# Módulo 2
+
+Textos, regras e novidades
 
 
 Habilidades do SAEB
@@ -421,7 +425,7 @@ Acesso em: 28 mar. 2023.
 1\. Uma proposta pública é dirigida a vários grupos sociais. Qual é o
 objetivo dessa proposta, considerando a sociedade a que ela se destina?
 
-\Coment{O objetivo da proposta é planejar investimentos em políticas públicas de
+\coment{O objetivo da proposta é planejar investimentos em políticas públicas de
 igualdade de direitos e redução das iniquidades como elemento de
 desenvolvimento da população do estado da Bahia.}
 
@@ -430,7 +434,7 @@ desenvolvimento da população do estado da Bahia.}
 2\. O primeiro parágrafo apresenta os padrões de conduta que
 caracterizam socialmente a formação socioeconômica baiana. De que forma se deu a formação socioeconômica baiana? 
 
-\Coment{ Essa sociedade se formou e se constituiu de forma patriarcal e,
+\coment{ Essa sociedade se formou e se constituiu de forma patriarcal e,
 por séculos, escravocrata.}
 
 \linhas{5}
@@ -438,21 +442,21 @@ por séculos, escravocrata.}
 3\. Quem tem a obrigação de garantir os direitos dos negros e das
 mulheres, e protegê-los? 
 
-\Coment{O Estado.}
+\coment{O Estado.}
 
 \linhas{4}
 
 4\. Explique o que significa dizer que é necessário promover a
 **emancipação do sujeito**. 
 
-\Coment{Espera-se que os alunos relacionem a expressão ao processo de liberdades política, cultural, humana e social de todas as pessoas que sofrem opressão.}
+\coment{Espera-se que os alunos relacionem a expressão ao processo de liberdades política, cultural, humana e social de todas as pessoas que sofrem opressão.}
 
 \linhas{6}
 
 5\. Com base no título, pode-se perceber se a proposta pública abrange
 diversas demandas sociais? Justifique sua resposta. 
 
-\Coment{Sim, pois no título
+\coment{Sim, pois no título
 há a menção de que se trata de um "plano de desenvolvimento integrado",
 uma proposta que tem o objetivo de atender em conjunto diversas áreas.}
 
@@ -461,7 +465,7 @@ uma proposta que tem o objetivo de atender em conjunto diversas áreas.}
 6\. O texto traça finalidades e planejamentos a serem adotados para que
 a proposta pública seja efetivamente aplicada. Por que é fundamental registrar esses planejamentos e finalidades em um documento? Explique. 
 
-\Coment{Espera-se que os alunos percebam que esses planejamentos e finalidades conduzem as ações ou estratégias que deverão ser realizadas para que as propostas sejam realizadas pelo governo.}
+\coment{Espera-se que os alunos percebam que esses planejamentos e finalidades conduzem as ações ou estratégias que deverão ser realizadas para que as propostas sejam realizadas pelo governo.}
 
 \linhas{6}
 
@@ -493,7 +497,7 @@ Releia o último parágrafo do texto para responder às questões 9 e 10.
 
 9\. O que significa "fomentar", no contexto em que aparece nesse parágrafo?
 
-\Coment{"Fomentar" significa "Fomentar significa incentivar, promover ou estimular algo, seja por meio de ações concretas ou por meio de apoio e investimento. O termo pode se referir a diversas áreas, desde a economia até a cultura, e tem como objetivo impulsionar o desenvolvimento, o crescimento ou o progresso de determinada atividade, setor ou região. Fomentar pode ser entendido como uma ação proativa e estratégica que visa fortalecer determinada iniciativa ou empreendimento, contribuindo para que se torne mais sustentável, produtivo e efetivo."}
+\coment{"Fomentar" significa "Fomentar significa incentivar, promover ou estimular algo, seja por meio de ações concretas ou por meio de apoio e investimento. O termo pode se referir a diversas áreas, desde a economia até a cultura, e tem como objetivo impulsionar o desenvolvimento, o crescimento ou o progresso de determinada atividade, setor ou região. Fomentar pode ser entendido como uma ação proativa e estratégica que visa fortalecer determinada iniciativa ou empreendimento, contribuindo para que se torne mais sustentável, produtivo e efetivo."}
 
 10\. Veja as seguintes construções:
 
@@ -504,13 +508,10 @@ Desenvolver e promover políticas públicas*
 
 Reescreva o parágrafo, a partir da expressão "É necessário" até "contra as mulheres", introduzindo as expressões pela conjunção "que" e fazendo as adaptações necessárias.
 
-\Coment{É necessário que se produzam conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, que se promovam e implementem políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, que se realizem parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, que se desenvolvam e promovam políticas públicas de enfrentamento à violência contra as mulheres [...]}
+\coment{É necessário que se produzam conteúdos em várias linguagens da comunicação que proporcionem reflexões sobre as problemáticas vivenciadas no dia a dia das mulheres relativas às questões de gênero, raça e classe, que se promovam e implementem políticas públicas voltadas para a construção da autonomia econômica e social das mulheres, que se realizem parcerias e alianças estratégicas com fim de atender e expandir a transversalidade das ações nas diversas áreas e serviços públicos, que se desenvolvam e promovam políticas públicas de enfrentamento à violência contra as mulheres [...]}
 
-<<<<<<< HEAD
-##Treino
-=======
+
 \colorsec{Treino}
->>>>>>> a9e7eac8b41b52723a7d65759106269db810757b
 
 1\. Observe a imagem e leia o texto, ambos de uma campanha de conscientização.
 
@@ -689,7 +690,9 @@ temática "3 vezes 22", outros três sobre pesquisas relativas ao acervo
 constante, um a respeito do restauro da biblioteca e, finalmente, outro
 dedicado à pesquisa de todo o material existente.
 
-# 3. Humanidade no texto
+# Módulo 3
+
+Humanidade no texto
 
 Habilidades do SAEB
 
@@ -740,7 +743,7 @@ pessoa.
 
 1.  Leia o conto a segui para responder às questões de 1 a 9.
 
-\Coment{Promova a leitura compartilhada e colaborativa do texto com os alunos. Oriente-os a marcar as palavras desconhecidas e a pesquisá-las no dicionário depois da leitura. Estimule a participação de todos, valendo-se de perguntas direcionadas, considerando a capacidade inicial deles, mas visando a avanços.}
+\coment{Promova a leitura compartilhada e colaborativa do texto com os alunos. Oriente-os a marcar as palavras desconhecidas e a pesquisá-las no dicionário depois da leitura. Estimule a participação de todos, valendo-se de perguntas direcionadas, considerando a capacidade inicial deles, mas visando a avanços.}
 
 
 **A pequena vendedora de fósforos**
@@ -847,25 +850,25 @@ Hans Christian. Contos de Hans Christian Andersen. A pequena vendedora de fósfo
 
 1\) Quem é a personagem principal do conto? 
 
-\Coment{A menina que vendia fósforos}
+\coment{A menina que vendia fósforos}
 
 \linhas{5}
 
 2\) Em qual época aconteceu a história? 
 
-\Coment{Véspera do dia do Ano Novo.}
+\coment{Véspera do dia do Ano Novo.}
 
 \linhas{3}
 
 3\) Descreva fisicamente a menina. 
 
-\Coment{A personagem tinha cabelos compridos e loiros, que se encaracolavam graciosamente em volta do pescoço magrinho.}
+\coment{A personagem tinha cabelos compridos e loiros, que se encaracolavam graciosamente em volta do pescoço magrinho.}
 
 \linhas{4}
 
 4\) Por qual motivo a vendedora de fósforos não quis voltar para casa?
 
-\Coment{Porque não vendera um único maço de fósforos e não podia apresentar nem
+\coment{Porque não vendera um único maço de fósforos e não podia apresentar nem
 uma moeda, e o pai era capaz de lhe bater. E, afinal, em casa também não
 havia calor.}
 
@@ -874,7 +877,7 @@ havia calor.}
 5\) Os fatos narrados no conto "A pequena vendedora de fósforos" se
 deram em quanto tempo? Justifique com elementos do texto. 
 
-\Coment{ Os fatos aconteceram no período de uma noite. No início aparece a marcação temporal "a noite aproximava-se" e, no final, aparece a delimitação "quando rompeu a manhã gelada".
+\coment{ Os fatos aconteceram no período de uma noite. No início aparece a marcação temporal "a noite aproximava-se" e, no final, aparece a delimitação "quando rompeu a manhã gelada".
 
 \linhas{4}
 
@@ -904,7 +907,7 @@ sequência dos fatos narrados.
 
 9\. O narrador conta a história como:
 
-\Coment{Explique aos alunos que o narrador observador só relata o que
+\coment{Explique aos alunos que o narrador observador só relata o que
 presenciou, sem entrar na mente dos personagens e contar ao leitor o que
 eles estão pensando.}
 
@@ -1053,8 +1056,9 @@ solidariedade deve ser tão importante quanto uma lei.
 d\) Incorreta. Não existe a explicitação dessa ideia no discurso de
 formatura.
 
-<<<<<<< HEAD
-# 4. Quem lê tanta notícia?
+# Módulo 4
+
+Quem lê tanta notícia?
 
 Habilidades do SAEB
 
@@ -1102,15 +1106,11 @@ enunciador.
 
 \<fim do boxe de conteúdo\>
 
-<<<<<<< HEAD
-##Atividades
-=======
 \colorsec{Atividades}
->>>>>>> a9e7eac8b41b52723a7d65759106269db810757b
 
 1\. Leia a notícia a seguir para responder às questões de 1 a 8.
 
-\Coment{Faça intervenções mediante perguntas sempre que aparecerem opiniões e
+\coment{Faça intervenções mediante perguntas sempre que aparecerem opiniões e
 relatos que possam colaborar com a discussão que será realizada
 durante a leitura da notícia. Solicite aos alunos que leiam o título da
 notícia e pergunte: "Vocês já tinham conhecimento dessa informação?";
@@ -1218,7 +1218,7 @@ Acesso em: 28 mar. 2023.
 
 1.\ Qual é o fato relatado pela notícia? 
 
-\Coment{A notícia relata o fato de os
+\coment{A notícia relata o fato de os
 servidores da Esplanada ganharem um espaço de trabalho compartilhado.}
 
 \linhas{4}
@@ -1227,7 +1227,7 @@ servidores da Esplanada ganharem um espaço de trabalho compartilhado.}
 interesse da sociedade. Por que esse espaço de trabalho dos servidores
 virou notícia? 
 
-\Coment{Porque é um projeto inovador e com infraestrutura
+\coment{Porque é um projeto inovador e com infraestrutura
 adequada para o desempenho do trabalho de servidores públicos federais
 em todo o país.}
 
@@ -1261,7 +1261,7 @@ novo espaço.
 
 5.\ Qual é o objetivo da utilização de intertítulos em uma notícia? 
 
-\Coment{O objetivo é organizar a apresentação detalhada de informações conforme os
+\coment{O objetivo é organizar a apresentação detalhada de informações conforme os
 variados aspectos do tema abordado e, por ser um texto mais extenso, o
 uso de intertítulos torna a leitura mais dinâmica, tornando mais fácil a
 compreensão do texto.}
@@ -1278,7 +1278,7 @@ Este fragmento apresenta uma fala reproduzida no texto:
 importância da utilização desse sinal gráfico para a organização do
 texto? 
 
-\Coment{As aspas reproduzem exatamente o que Elise Sueli Pereira disse em
+\coment{As aspas reproduzem exatamente o que Elise Sueli Pereira disse em
 entrevista.}
 
 \linhas{3}
@@ -1286,27 +1286,26 @@ entrevista.}
 7.\ Após a citação, foram apresentadas informações sobre a servidora.
 Qual é a finalidade de se trazer essas informações? 
 
-\Coment{Essas informações servem para especificar o perfil da entrevistada.}
+\coment{Essas informações servem para especificar o perfil da entrevistada.}
 
 \linhas{4}
 
 8.\ Observe que essa notícia apresenta *hiperlinks*, em destaque no texto e com uma
 cor diferente (azul). Como eles aparecem no texto e qual são suas funções? 
 
-\Coment{Sua função é fazer o leitor que esteja lendo a
+\coment{Sua função é fazer o leitor que esteja lendo a
 notícia na internet acesse mais informações sobre os termos de uso e os
 projetos.}
 
 \linhas{4}
 
-<<<<<<< HEAD
 Veja a imagem para resolver as questões 9 e 10.
 
 https://www.freepik.com/free-photo/fire-steppe-grass-is-burning-destroying-everything-its-path_18629392.htm#query=fire%20in%20the%20forest&position=29&from_view=search&track=ais
 
 9.\ Sobre o que poderia falar uma notícia ilustrada por essa imagem?
 
-\Coment{Uma notícia ilustrada por essa foto poderia tratar do risco de incêndio em áreas verdes por caisa de focos de fogo em vegetação seca, por exemplo.Há outras respostas possíveis.}
+\coment{Uma notícia ilustrada por essa foto poderia tratar do risco de incêndio em áreas verdes por caisa de focos de fogo em vegetação seca, por exemplo.Há outras respostas possíveis.}
 
 \linhas{6}
 
@@ -1315,13 +1314,13 @@ https://www.freepik.com/free-photo/fire-steppe-grass-is-burning-destroying-every
 1. Uma manchete (título).
 1. Uma legenda para a foto.
 
-\Coment{Sua função é fazer o leitor que esteja lendo a
+\coment{Sua função é fazer o leitor que esteja lendo a
 notícia na internet acesse mais informações sobre os termos de uso e os
 projetos.}
 
 \linhas{4}
 
-##Treino
+\colorsec{Treino}
 
 1 -- Leia um trecho de notícia a seguir.
 
@@ -1469,8 +1468,9 @@ notícia mostram imparcialidade
 d\) Incorreta. A fala literal é objetiva, já que mostra o que foi dito
 sem a interferência das autoras do texto.
 
-<<<<<<< HEAD
-# 5. Informação, fato, opinião
+# Módulo 5
+
+Informação, fato, opinião
 
 Habilidades do SAEB
 
@@ -1519,7 +1519,7 @@ aprender a diferenciá-los é praticar com bastante leitura.
 
 Leia a notícia a seguir para responder às questões de 1 a 6.
 
-\Coment {Promova a leitura compartilhada da notícia. Durante a leitura, chame a
+\coment{Promova a leitura compartilhada da notícia. Durante a leitura, chame a
 atenção dos alunos para os elementos que a compõem, como título,
 subtítulo (linha fina), data de publicação, foto, legenda. Diga-lhes que
 esses elementos podem ser vistos com mais frequência em notícias
@@ -1576,35 +1576,35 @@ a nota da Embaixada da Suíça no Brasil.
 Serviços e informações do Brasil. Suíços estreitam parceria com Governo Federal para restaurar relógio histórico danificado em 8 de janeiro. Disponível em:
 <https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes/2023/02/suicos-estreitam-parceria-com-governo-federal-para-restaurar-relogio-historico-danificado-em-8-de-janeiro>. Acesso em 30 mar. 2023.
 
-1. Qual é o fato central da notícia? 
-\linhas {5}
+\num{1} Qual é o fato central da notícia? 
+\linhas{5}
 
 O fato de suíços firmarem parceria com o Governo Federal para a restauração do relógio histórico que foi danificado em 8 de janeiro na invasão ao Palácio do Planalto.
 
-2. Por que esse fato virou notícia? 
+\num{2} Por que esse fato virou notícia? 
  \linhas{5}
 
 Possível resposta: Porque o relógio fazia parte do acervo brasileiro e tinha um valor histórico incalculável. Foi trazido ao Brasil em 1808, por Dom João VI. Essa é uma das duas peças do relojoeiro francês Balthazar Martinot existentes. 
 
-3. Que fato foi noticiado na linha fina? 
-\linhas {6}
+\num{3} Que fato foi noticiado na linha fina? 
+\linhas{6}
 
 O fato de que especialistas e artesãos do país europeu vão trabalhar com curadores e profissionais brasileiros na recuperação do objeto do Século XVII, que foi danificado
 durante a invasão ao Palácio do Planalto.
 
-4.  Qual é a função dessa linha em relação ao título? 
+\num{4} Qual é a função dessa linha em relação ao título? 
 
-\linhas {3}
+\linhas{3}
 
 Complementar as informações do título e aumentar a vontade do leitor de ler a notícia.
 
 
-5. Pode-se perceber na notícia o relato de fatos e a apresentação de
+\num{5} Pode-se perceber na notícia o relato de fatos e a apresentação de
 opiniões de pessoas consultadas pelo jornalista. Leia novamente os
 trechos a seguir e marque F para o que for fato e O para o que for
 opinião.
 
-\Coment{A atividade tem o objetivo de fazer os alunos compreenderem que o
+\coment{A atividade tem o objetivo de fazer os alunos compreenderem que o
 autor/jornalista relata fatos na notícia, mas também pode reproduzir em
 discurso direto ou indireto opiniões de pessoas e relação aos
 acontecimentos.}
@@ -1627,7 +1627,7 @@ histórico e artístico é um elemento emblemático que reforçará ainda mais
 a amizade entre os nossos dois países", indicou a nota da Embaixada da
 Suíça no Brasil.
 
-6. Qual é a sua opinião em relação ao fato de terem destruído o relógio
+\num{6} Qual é a sua opinião em relação ao fato de terem destruído o relógio
 histórico? 
 
 \linhas{4}
@@ -1636,43 +1636,43 @@ Resposta pessoal. Espera-se que os alunos repudiem esse ato
 de vandalismo de um relógio considerado raro e de valor inestimável.
 
 
-7. Como um fato pode ser comprovado?
+\num{7} Como um fato pode ser comprovado?
 
-\linhas {2}
+\linhas{2}
 
 Um fato pode ser comprovado por meio de evidências.
 
 
-8. O que significa **opinião**?
+\num{8} O que significa **opinião**?
 
-\linhas {3}
+\linhas{3}
 
 Opinião consiste na interpretação das pessoas em relação ao fato, em
 decorrência da posição social que assumem.
 
 
-9. Considere as seguintes afirmações. Classifique cada uma como um fato ou uma opinião e explique sua resposta.
+\num{9} Considere as seguintes afirmações. Classifique cada uma como um fato ou uma opinião e explique sua resposta.
 
 O aquecimento global é causado principalmente pela emissão de gases do efeito estufa.
 O aquecimento global é o maior problema enfrentado pela humanidade.
 O governo deve implementar impostos mais altos para reduzir as emissões de carbono.
 As mudanças climáticas são exageradas pela mídia e não representam uma ameaça real.
 
-\linhas {1 para cada afirmação}
+\linhas{1 para cada afirmação}
 
 Fato. O aquecimento global ser causado principalmente pela emissão de gases do efeito estufa é uma afirmação baseada em dados científicos e pode ser verificada objetivamente.
 Opinião. A declaração de que o aquecimento global é o maior problema enfrentado pela humanidade é uma opinião pessoal, pois envolve uma avaliação subjetiva dos problemas globais.
 Opinião. A afirmação de que o governo deve implementar impostos mais altos para reduzir as emissões de carbono reflete uma opinião sobre a melhor estratégia para lidar com o problema do aquecimento global.
 Opinião. A afirmação de que as mudanças climáticas são exageradas pela mídia e não representam uma ameaça real é uma opinião que reflete uma perspectiva pessoal sobre o assunto.
 
-10. Determine se cada afirmação é um fato ou uma opinião. Justifique sua resposta.
+\num{10} Determine se cada afirmação é um fato ou uma opinião. Justifique sua resposta.
 
 "De acordo com dados científicos, a Terra aqueceu aproximadamente 1 grau Celsius nos últimos 100 anos."
 "Eu acho que o aquecimento global é uma invenção das grandes empresas para lucrar com medidas ambientais."
 "O desmatamento das florestas tropicais está contribuindo para a perda de biodiversidade."
 "Acredito que as políticas de sustentabilidade devem ser priorizadas em todo o mundo para proteger o meio ambiente."
 
-\linhas {1 para cada item}
+\linhas{1 para cada item}
 
 Fato. A afirmação de que a Terra aqueceu aproximadamente 1 grau Celsius nos últimos 100 anos é um fato baseado em dados científicos e pode ser verificado por evidências.
 Opinião. A frase "Eu acho que o aquecimento global é uma invenção das grandes empresas para lucrar com medidas ambientais" expressa uma opinião pessoal e não pode ser verificada objetivamente.
@@ -1682,7 +1682,7 @@ Opinião. A frase "Acredito que as políticas de sustentabilidade devem ser prio
 
 \colorsec{Treino}
 
-1\. Leia um trecho da resenha crítica sobre o filme "O Piano".
+\num{1} Leia um trecho da resenha crítica sobre o filme "O Piano".
 
 **O Piano**
 
@@ -1729,7 +1729,7 @@ o modo como o filme é estruturado.
 d\) Incorreta. O trecho corresponde a uma informação do enredo do filme,
 trazendo uma informação técnica da sinopse.
 
-2\. Leia o trecho de artigo sobre a pandemia do Coronavírus.
+\num{2} Leia o trecho de artigo sobre a pandemia do Coronavírus.
 
 **A Igualdade nas diferenças**
 
@@ -1778,7 +1778,7 @@ primeiros infectados, o mundo se viu em meio a uma situação incomum.
 d\) Incorreta. Trata-se da opinião do autor a respeito de como as coisas
 são resolvidas no Brasil.
 
-3\. Leia os trechos sobre as mascotes das Olimpíadas no Rio de Janeiro,
+\num{3} Leia os trechos sobre as mascotes das Olimpíadas no Rio de Janeiro,
 em 2015.
 
 **Texto I**
@@ -1828,28 +1828,24 @@ oficial, apesar de não serem citados no texto II, isso porque, na
 enquete popular o jornal de esportes colocou as opções que estavam para
 ser escolhidas oficialmente.
 
-# 6. Universo digital
+# Módulo 6
 
-Neste módulo, os alunos vão compreender o meme como gênero textual
-digital.
+Universo digital
 
-Habilidades da BNCC: EF69LP03 e EF69LP05.
-
-Habilidades do SAEB:
+Habilidade do SAEB
 
 \- Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
 crítica.
 
+Habilidades da BNCC
+\- EF69LP03
+\- EF69LP05
+
 \<início do boxe de conteúdo\>
 
-https://www.istockphoto.com/br/foto/raccoon-engra%C3%A7ado-em-%C3%B3culos-de-sol-verdes-que-mostram-um-gesto-de-rocha-isolado-no-gm1154370446-313894675?utm\_campaign=srp\_photos\_inline&utm\_content=https%3A%2F%2Fwww.pexels.com%2Fprocurar%2Fhumor%2F&utm\_medium=affiliate&utm\_source=pexels&utm\_term=humor
+https://www.freepik.com/free-photo/business-pug-puppy-wearing-tie_3740893.htm#query=meme&position=3&from_view=search&track=sph
 
 **Memes: Humor, ironia e crítica**
-
-![Raccoon engraçado em óculos de sol verdes que mostram um gesto de
-rocha isolado no fundo branco - Foto de stock de Animal
-royalty-free](./_SAEB_9_POR/media/image9.jpeg){width="5.418575021872266in"
-height="3.5930555555555554in"}
 
 Memes de internet consistem em objetos de leitura, análise e observação.
 São vastamente utilizados usado na esfera digital (*blogs*, redes
@@ -1864,7 +1860,7 @@ Esses textos são altamente fantasiosos, combinados ou não a frases, sons
 e movimentos e podem apresentar criticidade em relação a assuntos ou
 temas em foco na mídia, ou podem conter teor puramente de humor. Esses
 elementos de variadas linguagens são criados pelos elaboradores dos
-memes, que utilizam aplicativos de imagem e som. No tocante aos recursos
+memes, que utilizam aplicativos de imagem e som. Em relação aos recursos
 verbais, costuma-se utilizar trocadilhos e figuras de estilo que
 auxiliam na produção de discursos irônicos.
 
@@ -1875,9 +1871,6 @@ seriados, de novelas, personagens marcantes, fotos de personalidades
 públicas, frases de impacto de alguma personalidade, canções que estão
 em destaque etc.
 
-Meme é um gênero conhecido pela paródia, exigindo que o leitor realize
-conexões intertextuais e discursivas.
-
 Em razão de sua característica crítica e humorística, frequentemente os
 memes são utilizados para fazer crítica a hábitos e personalidades
 públicas, constituindo em uma excelente ferramenta crítica relacionada
@@ -1887,49 +1880,50 @@ ao comportamento humano.
 
 \colorsec{Atividades}
 
-1.  Leia o meme a seguir.
+1.  Observe o meme a seguir. Veja a imagem e leia o texto que o compõem.
 
-> Questione aos alunos se eles têm o hábito de compartilhar memes e de
-> elaborá-los. Explique a eles sobre esse novo gênero textual, criado
-> por conta da popularização das redes sociais. Diga-lhes que os memes
-> podem tanto criticar comportamentos e atitudes como ser brincadeiras
-> com imagens e jogos de palavras.
->
-> https://pt.dopl3r.com/memes/graciosos/voce-atrai-aquilo-que-tem-medo-ai-que-medo-de-ficar-rico/49887
+https://www.freepik.com/free-photo/photo-scared-woman-covers-face-with-both-hands-looks-through-fingers-peeks-with-fear-has-dark-hair-dressed-comfortable-jumper_11409440.htm#query=afraid&position=2&from_view=search&track=sph
 
-![VOCE ATRAI AQUILO QUE TEM MEDO AÍ QUE MEDO DE FICAR RICO
-](./_SAEB_9_POR/media/image10.jpeg){width="3.2708333333333335in"
-height="3.301602143482065in"}
+"Dizem que a gente atrai aquilo de que tem medo.
+Ai, que medo de ficar rico!"
 
--   De acordo com o meme, por que o personagem está com medo de ficar
-    rico? Por conta do ditado popular que diz que você atrai aquilo que
-    tem medo.
+De acordo com o meme, qual seria o objetivo de temer a riqueza? 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{3}
+	
+Por conta do ditado popular que diz que você atrai aquilo que tem medo. Logo, ter medo de ficar rico atrairia a riqueza em si.
 
-2.  Leia o meme a seguir.
 
-> https://www.coisasengracadas.com.br/memes/black-friday-confira-os-memes-do-dia-mais-esperado-para-comprar/
+Observe as imagens e os textos de um meme. Depois, responda às questões 2, 3 e 4.
 
-![black friday
-meme](./_SAEB_9_POR/media/image11.jpeg){width="3.988888888888889in"
-height="4.110844269466317in"}
+%Quadro 1: "Faltam 2 dias para a Black Friday: ESPEREM!"
+https://www.freepik.com/free-photo/annoyed-student-posing-against-white-wall_11140484.htm#query=angry%20man&position=28&from_view=search&track=ais
 
-a\) Por que, no primeiro e segundo quadros, o homem pede que as pessoas
-esperem? Ele pede que pessoas não façam compras até o dia a Black Friday
-(Dia no qual abre a temporada de compras natalícias com significativas
+%Quadro 2: "Falta 1 dia para a Black Friday: ESPEREM!"
+https://www.freepik.com/free-photo/annoyed-student-posing-against-white-wall_11140484.htm#query=angry%20man&position=28&from_view=search&track=ais
+
+%Quadro 3: "Chegou a Black Friday."
+https://www.freepik.com/free-photo/handsome-man-with-dark-hair-bristle-hides-face-with-hands_13761404.htm#query=sad%20man&position=47&from_view=search&track=ais
+
+
+2. Por que, no primeiro e no segundo quadros, o homem pede que as pessoas
+esperem? 
+
+\linhas{5}
+
+Ele pede que pessoas não façam compras até o dia a Black Friday
+(dia no qual se abre uma temporada de compras que promete significativas
 promoções em muitas lojas).
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+3. No terceiro quadro, o homem ficou envergonhado. Explique o motivo. 
 
-b\) No terceiro quadro, o homem ficou chateado. Explique o motivo. Ele
-ficou chateado porque a propaganda da promoção foi mentirosa, uma vez
-que o valor promocional não traz desconto algum.
+\linhas{6}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Ele ficou chateado porque a propaganda da promoção foi mentirosa, uma vez
+que os valores promocionais, provavelmente, não foram bons como prometido.
 
-c\) O texto acima traz humor em relação a um fato do dia a dia. Além de
-provocar humor, a função desse texto é:
+4. O texto traz humor em relação a um fato do dia a dia. Além de
+provocar humor, a função desse texto é
 
 ( ) dar opinião.
 
@@ -1937,41 +1931,92 @@ provocar humor, a função desse texto é:
 
 ( x ) realizar uma crítica.
 
-3.  Leia mais um meme e responda às questões.
+Leia mais um meme e responda às questões 5 e 6.
 
-https://ahseeit.com/portuguese/?qa=2014/qualquer-pessoa-mds-vc-e-muito-lerda-meme
+https://www.freepik.com/free-photo/unaware-doubtful-woman-spreads-hands-raises-eyebrows-with-hesitation_10584966.htm#query=i%20dont%20understand&position=5&from_view=search&track=ais
 
-![](./_SAEB_9_POR/media/image12.jpeg){width="4.208333333333333in"
-height="4.481003937007874in"}
+Pessoas: Vc n entende nd do q falamos c vc...
+Eu: Entendo nada de quê?
 
-a\) As abreviações das palavras se tornaram algo muito comum na
-comunicação com o advento da internet. O que a abreviatura no meme acima
-representa? A abreviação \"mds\". significa \"Meu Deus!\".
+5. As abreviações das palavras se tornaram algo muito comum na
+comunicação com o advento da internet. Reescreva a primeira fala do meme, explicitando cada uma das abreviações.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{2}
 
-b\) Por que a personagem do meme é chamada de muito lerda? Por que ela
-teve dificuldades até de entender a afirmação.
+Pessoas: Você não entende nada do que falamos com você...
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+6. Por que a personagem do meme pode ser considerada muito lerda? 
 
-4\. Leia o meme a seguir.
+\num{4} Leia o meme a seguir.
 
-https://pt.memedroid.com/memes/tag/frete+gratis
+\linhas{3}
 
-![População brasileira comprando no mercado livre -
-meme](./_SAEB_9_POR/media/image13.jpeg){width="4.25in" height="4.25in"}
+Por que ela teve dificuldades até de entender uma afirmação sobre a própria dificuldade de entender as coisas.
 
--   Explique o humor desse meme. O fato de o personagem ficar contente
-    com o fato de o valor do frete ser apresentado como grátis, mesmo
-    que o valor total do produto continua o mesmo do anterior com frete
-    de 1 real.
+Leia o meme a seguir para responder às questões 7, 8, 9 e 10.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+https://www.freepik.com/free-photo/hiker-climbing-outdoors_1150877.htm#query=difficult%20situation%20adventure&position=0&from_view=search&track=ais
+
+Eu me esforçando para conseguir comprar um produto de 1 real, só porque tem frete grátis, antes de saber que meu cartão vai ser recusado.
+
+7. Explique o humor desse meme. 
+
+\linhas{6}
+
+O fato de o homem se esforçar tanto simplesmente pelo fato de o valor do frete ser apresentado como grátis, mesmo que o valor total do produto seja tão baixo.
+
+8. Fica implícito que o esforço não será recompensado porque haverá um problema no trajeto. Qual seria esse empecilho?
+
+\linhas {3}
+
+Seria o fato de que o cartão do homem (consumidor) não seria aprovado, impedindo a compra.
+
+9. Existe uma crítica embutida no meme. Que crítica é essa?
+
+\linhas{4}
+
+Trata-se de uma crítica ao consumismo exacerbado e ao poder da propaganda.
+
+10. O que representa, visualmente, a ideia de que existe esforço por parte do homem para conseguir realizar a compra anunciada?
+
+\linhas{4}
+
+O que representa, na imagem, esse esforço, é a montanha e a dficuldade de escalá-la.
+
+
 
 \colorsec{Treino}
 
-1\. Leia o trecho da entrevista a seguir. (Fácil)
+\num{1} Leia a charge a seguir entrevista a seguir.
+
+https://www.freepik.com/free-vector/hand-drawn-japan-food-illustration_22821914.htm#query=vegetarian%20meal&position=6&from_view=search&track=ais
+
+"Segunda-feira sem carne pelo planeta. terça, quarta, quinta, sexta, sábado e domingo sem carne por causa do bolso"
+
+O humor da charge se apresenta
+
+\(A\) no colorido dos vegetais mostrados na imagem.
+
+\(B\) no fato de os pratos não combinarem entre si.
+
+\(C\) na contradição gastronômica e ideológica de haver ovos na imagem.
+
+\(D\) na citação de dias da semana em que não se come carne por causa de seu preço.
+
+BNCC: EF69LP05 - Inferir e justificar, em textos multissemióticos --
+tirinhas, charges, memes, gifs etc. --, o efeito de humor, ironia e/ou
+crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de
+clichês, de recursos iconográficos, de pontuação etc.
+
+a\) Incorreta. O colorido não gera humor.
+
+b\) Incorreta. Pratos de vegetais combinam entre si.
+
+c\) Incorreta. Vegetarianos comem ovos.
+
+d\) Correta. O humor da charge se encontra no fato de que em apenas um dos dias da semana não se come carne pelo meio ambiente e pelo planeta; nos demais, o impedimento é o preço da carne.
+
+2\. Leia o trecho de entrevista a seguir.
 
 **"O Brasil exportava talentos, hoje exporta animação: leia entrevista
 com César Coelho"**
@@ -1984,7 +2029,7 @@ que a gente está tendo, como O menino e o mundo no Oscar, mas a gente já
 ganhou dois anos seguidos o Festival de Annecy, na França, e isso é a
 ponta de um iceberg que a gente já vem cultivando há mais de 10 anos.
 
-SANTANA, Ana Elisa. O Brasil exportava talentos, hoje exporta animação:
+Ana Elisa Santana. EBC. O Brasil exportava talentos, hoje exporta animação:
 leia entrevista com César Coelho. Disponível em:
 www.ebc.com.br/cultura/2016/02/o-brasil-exportava-talentos-hoje-exporta-animacao-leia-entrevista-com-cesar-coelho&gt;.
 Acesso em: 03 mar. 2023.
@@ -1999,9 +2044,7 @@ Por meio da leitura do trecho, o tema principal é (são)
 
 \(D\) a evolução da animação no Brasil.
 
-Saeb: D6
-
-BNCC: EF69LP03 Identificar, em notícias, o fato central, suas principais
+BNCC: EF69LP03 - Identificar, em notícias, o fato central, suas principais
 circunstâncias e eventuais decorrências; em reportagens e
 fotorreportagens o fato ou a temática retratada e a perspectiva de
 abordagem, em entrevistas os principais temas/subtemas abordados,
@@ -2018,17 +2061,11 @@ evolução das animações.
 \(D\) Correta. O tema principal é a evolução da animação no Brasil,
 dadas as informações sobre a mudança ocorrida nos últimos 12 anos
 
-2 -- Leia a charge a seguir. (Médio)
+3\- Observe a charge a seguir, que circulou na época da pandemia de Coronavírus.
 
-www.otempo.com.br/charges/charge-o-tempo-12-03-2020-1.2309691\#
+https://www.freepik.com/free-vector/nice-family-vampires_1321010.htm#query=addam%20s%20family&position=0&from_view=search&track=ais
 
-![Charge O TEMPO
-12/03/2020](./_SAEB_9_POR/media/image14.jpeg){width="5.905555555555556in"
-height="3.9368055555555554in"}
-
-DUKE, Corona. *O Tempo*, 12 mar. 2020. Disponível em:
-\<www.otempo.com.br/charges/charge-o-tempo-12-03-2020-1.2309691\#\>.
-Acesso em: 12 maio 2020.
+"Alguém sabe se o Mãozinha já tomou banho de álcool em gel?"
 
 Essa charge está relacionada à pandemia do coronavírus. Pode-se afirmar
 que o humor desse texto ocorre
@@ -2049,9 +2086,7 @@ das mãos.
 personagem da série lidaria com as restrições da pandemia causada pelo
 coronavírus.
 
-Saeb:
-
-BNCC: EF69LP05: Inferir e justificar, em textos multissemióticos --
+BNCC: EF69LP05 - Inferir e justificar, em textos multissemióticos --
 tirinhas, charges, memes, gifs etc. --, o efeito de humor, ironia e/ou
 crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de
 clichês, de recursos iconográficos, de pontuação etc.
@@ -2070,51 +2105,9 @@ personagens da série *A Família Addams*, o efeito de humor ocorre pela
 situação de o coronavírus ter afetado mais fortemente uma personagem que
 é apenas uma mão, a qual tem de lidar com as restrições e os
 procedimentos higiênicos específicos da pandemia relacionada ao
-coronavírus
+coronavírus.
 
-3 -- Leia a charge a seguir. (Difícil)
 
-![](./_SAEB_9_POR/media/image15.png){width="5.906944444444444in"
-height="3.933333333333333in"}
-
-DUKE. Charge o tempo. *O tempo*, 26 fev. 2020. Disponível em:
-\<www.otempo.com.br/charges/charge-o-tempo-26-02-2020-1.2302804\>.
-Acesso em: 03 mar. 2023
-
-O humor da charge se apresenta
-
-\(A\) na expressão de alegria nos rostos dos personagens quando a mãe
-cita que não comerão mais carne por conta da quaresma e do aumento do
-valor.
-
-\(B\) no fato de a família estar toda reunida para o jantar e
-demonstrarem surpresa quando a mãe diz que estão comemorando o início da
-quaresma.
-
-\(C\) nas expressões faciais de susto dos pais ao notarem que seus
-filhos estão comendo apenas salada durante o jantar.
-
-\(D\) no momento em que a personagem cita a quaresma, período que não se
-come carne, para comparar com o fato de a carne estar custando caro.
-
-Saeb:
-
-BNCC: EF69LP05: Inferir e justificar, em textos multissemióticos --
-tirinhas, charges, memes, gifs etc. --, o efeito de humor, ironia e/ou
-crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de
-clichês, de recursos iconográficos, de pontuação etc.
-
-a\) Incorreta. As personagens demonstram estar surpresos.
-
-b\) Incorreta. A família demonstra surpresa pelo fato de a mãe citar que
-eles não comerão mais carne por conta do aumento no valor e não porque
-estão comemorando o início da quaresma
-
-c\) Incorreta. Os pais não demonstram estar assustados
-
-d\) Correta. O humor da charge se encontra na fala da personagem, quando
-ela cita a quaresma, período em que muitos religiosos não comem carne,
-para comparar com o fato de a carne estar muito cara
 
 # Módulo 7
 
@@ -2175,7 +2168,7 @@ ao tema que está em discussão.
 
 \colorsec{Atividades}
 
-1\. A reportagem que você vai ler foi publicada no site do Plenarinho.
+\num{1} A reportagem que você vai ler foi publicada no site do Plenarinho.
 Leia com atenção.
 
 Oriente os alunos a identificar o tema da reportagem. Depois da leitura,
@@ -2349,7 +2342,7 @@ de toda a sociedade.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-2\. A reportagem tem como característica o trabalho investigativo
+\num{2} A reportagem tem como característica o trabalho investigativo
 realizado por jornalistas. Nela, os fatos são abordados de modo mais
 detalhado.
 
@@ -2371,7 +2364,7 @@ relatando.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-3\. A voz dos especialistas pode aparecer de variadas formas na
+\num{3} A voz dos especialistas pode aparecer de variadas formas na
 reportagem. Veja algumas
 
 possibilidades.
@@ -2426,7 +2419,7 @@ Mostrar que há formas de mudar o que não está certo.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-5\. Assinale a(s) alternativa(s) que melhor caracteriza(m) a linguagem
+\num{5} Assinale a(s) alternativa(s) que melhor caracteriza(m) a linguagem
 que foi usada pelo jornalista.
 
 ( ) Despretensiosa.
@@ -2439,7 +2432,7 @@ que foi usada pelo jornalista.
 
 \colorsec{Treino}
 
-1\. Leia os trechos de textos a seguir, que exploram as prospecções
+\num{1} Leia os trechos de textos a seguir, que exploram as prospecções
 brasileiras para o cumprimento da Agenda 2030, proposta pela ONU.
 (Fácil)
 
@@ -2528,7 +2521,7 @@ que é impossível.
 
 \(d\) Incorreta. Os textos não se complementam, mas sim se contrariam.
 
-2\. Leia a notícia a seguir. (Médio)
+\num{2} Leia a notícia a seguir. (Médio)
 
 **Brasil estreia contra Bolívia nas eliminatórias da Copa do Mundo
 2022**
@@ -2584,7 +2577,7 @@ em relação ao assunto.
 d\) Correta. A notícia mostra imparcialidade do autor, que não expõe sua
 opinião sobre o assunto.
 
-3\. Leia o trecho de notícia a seguir. (Difícil)
+\num{3} Leia o trecho de notícia a seguir. (Difícil)
 
 **Corrida de investidores leva petróleo norte-americano a uma nova queda
 de dois dígitos**
@@ -2763,7 +2756,7 @@ diferente postura diante de atos desrespeitosos, indignos e desiguais.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-3\. Leia mais este anúncio publicitário desenvolvido em comemoração ao
+\num{4} Leia mais este anúncio publicitário desenvolvido em comemoração ao
 Dia Internacional da Mulher.
 
 https://www.pmvc.ba.gov.br/prefeitura-realiza-campanha-marco-mulher-2021-com-o-tema-a-violencia-que-ninguem-ve/
@@ -2805,7 +2798,7 @@ c)  Releia esse trecho do anúncio.
 
 \colorsec{Treino}
 
-1\. Leia dois trechos de textos que tratam sobre a Lei Seca. (Fácil)
+\num{1} Leia dois trechos de textos que tratam sobre a Lei Seca. (Fácil)
 
 **Texto 1**
 
@@ -2876,7 +2869,7 @@ Lei Seca
 
 d\) Incorreta. Não existem modalizadores em ambos os textos.
 
-2\. Leia a campanha de doação de sangue. (Médio)
+\num{2} Leia a campanha de doação de sangue. (Médio)
 
 ![](./_SAEB_9_POR/media/image22.png){width="5.905555555555556in"
 height="4.1682863079615045in"}
@@ -2917,7 +2910,7 @@ doar sangue.
 d\) Correta. Mulheres grávidas ou que estejam a amamentar estão no grupo
 de pessoas que não podem doar sangue
 
-3\. Leia um trecho de uma redação nota mil no Enem. (Difícil)
+\num{3} Leia um trecho de uma redação nota mil no Enem. (Difícil)
 
 \[...\]
 
@@ -3217,7 +3210,7 @@ Cinzas? No anúncio, \"quarta-feira de cinzas\" significa a morte.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-3\. Faça uma pesquisa, em diferentes tipos de textos, e escreva um
+\num{4} Faça uma pesquisa, em diferentes tipos de textos, e escreva um
 exemplo para cada figura de linguagem proposta a seguir. Registre os
 resultados nas linhas.
 
@@ -3243,7 +3236,7 @@ e\) Assonância. Resposta pessoal.
 
 \colorsec{Treino}
 
-1\. Leia o trecho do editorial a seguir. (Fácil)
+\num{1} Leia o trecho do editorial a seguir. (Fácil)
 
 **Pobre Líbano**
 
@@ -3293,7 +3286,7 @@ pela utilização de "só".
 d\) Incorreta. "só" indica que essa destruição era vista após fenômenos
 naturais, e não que nunca foi vista.
 
-2\. Leia um trecho do poema de Fernando Pessoa. (Médio)
+\num{2} Leia um trecho do poema de Fernando Pessoa. (Médio)
 
 **Ah! Ser indiferente!**
 
@@ -3346,7 +3339,7 @@ elementos.
 d\) Incorreta. A metáfora é uma figura de linguagem que compara dois
 elementos sem utilizar conjunção.
 
-3\. Leia o trecho do Livro do desassossego, atribuído ao heterônimo
+\num{3} Leia o trecho do Livro do desassossego, atribuído ao heterônimo
 Bernardo Soares, de Fernando Pessoa. (Difícil)
 
 **L. do D. (Prefácio)**
@@ -3542,7 +3535,7 @@ subdesenvolvimento econômico".
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-2\. Releia um trecho do livro.
+4\. Releia um trecho do livro.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   A fome é a face mais amarga do retrato de uma sociedade que exibe índices de desigualdades sociais inadmissíveis frente aos níveis de riqueza alcançados pelo País. Extirpar essa mazela é mais do que uma prioridade é uma obrigação ainda não cumprida.
@@ -3576,7 +3569,7 @@ de:
 
 **( )** comparação.
 
-3\. Ipiranga é uma rede de postos de gasolina. Leia a seguir um anúncio
+\num{5} Ipiranga é uma rede de postos de gasolina. Leia a seguir um anúncio
 dessa empresa para conscientização de motoristas, motociclistas e
 pedestres para ampliar o movimento Maio Amarelo e o comportamento seguro
 no trânsito.
@@ -3618,7 +3611,7 @@ c\) Releia o slogan do anúncio:
 
 \colorsec{Treino}
 
-1\. Leia o anúncio a seguir. (Fácil)
+\num{1} Leia o anúncio a seguir. (Fácil)
 
 https://www.facebook.com/cnj.oficial/photos/a.191159914290110/1681947658544654/?type=3
 
@@ -3655,7 +3648,7 @@ oração apresenta um sentido completo.
 d\) Incorreta. Embora a conjunção introduza uma oração que complementa a
 primeira, esta não apresenta função de dar fundamentações à primeira.
 
-2\. Leia o trecho de uma redação nota mil no Enem, observando como a
+\num{2} Leia o trecho de uma redação nota mil no Enem, observando como a
 conclusão foi elaborada. (Médio)
 
 \[...\]
@@ -3719,7 +3712,7 @@ d\) Correta. As expressões apresentam os pronomes demonstrativos "isso",
 estão relacionadas diretamente com a resolução da tese retomada nessa
 conclusão
 
-3\. Leia o trecho da reportagem a seguir.
+\num{3} Leia o trecho da reportagem a seguir.
 
 **Em Lima, Brasil bate recorde histórico com 308 medalhas**
 
