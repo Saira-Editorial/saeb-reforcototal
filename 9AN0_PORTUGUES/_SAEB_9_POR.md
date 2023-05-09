@@ -2111,13 +2111,9 @@ coronavírus.
 
 # Módulo 7
 
-Neste módulo, os alunos vão explorar as características do gênero
-textual reportagem, avaliando e analisando graus de parcialidade nesse
-tipo de texto.
+Jornalismo e parcialidade
 
-Habilidades da BNCC: (não há correspondência)
-
-Habilidades do SAEB:
+Habilidades do SAEB
 
 \- Analisar marcas de parcialidade em textos jornalísticos.
 
@@ -2126,15 +2122,12 @@ Habilidades do SAEB:
 \- Avaliar a fidedignidade de informações sobre um mesmo fato divulgado
 em diferentes veículos e mídias.
 
+
 \<início do boxe de conteúdo\>
 
 **Reportagem**
 
 https://pixabay.com/pt/vectors/reportagem-o-neg%c3%b3cio-cinegrafista-4773846/
-
-![Gráficos vetoriais grátis de
-Reportagem](./_SAEB_9_POR/media/image16.png){width="3.521895231846019in"
-height="3.3541666666666665in"}
 
 A **reportagem** consiste em um gênero jornalístico que aborda questões
 de interesse do público em geral. Quem a elabora faz a realização de um
@@ -2152,13 +2145,11 @@ intenção de fornecer informações mais objetivas acerca do assunto.
 Normalmente, a reportagem traz associação de elementos da linguagem
 verbal -- título, linha-fina (ou subtítulo), texto principal e textos
 complementares -- a recursos visuais, como mapas, gráficos,
-infográficos, fotografias e ilustrações, que tem a finalidade de
-aumentar as informações e explicar detalhadamente o assunto, enfocando
-no trabalho investigativo na produção do texto.
+infográficos, fotografias e ilustrações, com a finalidade de
+aumentar as informações e explicar detalhadamente o assunto.
 
-A **linguagem** de uma reportagem precisa ser transmitida de modos claro
-e objetivo, para que se cumpra o objetivo de informar com detalhamento
-ao leitor. A voz dos entrevistados pode aparecer em discurso direto ou
+A **linguagem** de uma reportagem precisa ser transmitida de forma clara e objetiva, para que se cumpra o objetivo de informar com detalhamento
+o leitor. A voz dos entrevistados pode aparecer em discurso direto ou
 indireto. No discurso direto, o uso de verbos de elocução antes, no meio
 ou após a citação ajuda a perceber a intencionalidade de quem está
 falando. Utiliza-se a 3ª pessoa do discurso, o que confere tom impessoal
@@ -2168,14 +2159,13 @@ ao tema que está em discussão.
 
 \colorsec{Atividades}
 
-\num{1} A reportagem que você vai ler foi publicada no site do Plenarinho.
-Leia com atenção.
+A reportagem que você vai ler foi publicada no site do Plenarinho.
+Leia com atenção para, então, responder às questões de 1 a 6.
 
-Oriente os alunos a identificar o tema da reportagem. Depois da leitura,
-pergunte-lhes o que acharam do texto e quais informações consideraram
-mais interessantes. Solicite-lhes que tentem avaliar também a forma de
+\Coment{Oriente os alunos a identificar o tema da reportagem. Depois da leitura,
+pergunte o que acharam do texto e questione sobre informações que tenham chamado mais a atenção. Solicite que tentem avaliar também a forma de
 organização do texto e os elementos utilizados para destacar ou
-hierarquizar informações.
+hierarquizar informações}.
 
 **Drogas: inimigas da vida**
 
@@ -2192,11 +2182,11 @@ toda a sociedade.
 
 Os motivos do uso de drogas variam muito e pessoas têm diferentes
 necessidades, impulsos ou objetivos. No entanto, um ponto parece não se
-alterar muito de país para país: o fato dos jovens serem o grupo mais
+alterar muito de país para país: o fato de os jovens serem o grupo mais
 vulnerável às drogas.
 
 A adolescência é uma fase de muitas mudanças físicas, mas também
-sociais. Mudam os papéis e as relações, o comportamento é afetados e
+sociais. Mudam os papéis e as relações, o comportamento é afetado e
 cria-se um contexto de incertezas e descobertas. Além disso,
 muitas experiências da vida adulta passam a ser possíveis, sem que, no
 entanto, tenha-se maturidade para vivenciá-las.
@@ -2206,21 +2196,19 @@ desta etapa, o jovem muitas vezes decide experimentar algum tipo
 de droga sem saber exatamente aonde ela o levará. Isso é verdadeiro
 tanto para as drogas consideradas lícitas, como remédios, cigarro e o
 álcool, como para as ilícitas -- proibidas
-por [lei](https://plenarinho.leg.br/index.php/glossary/lei/) -- , como
-maconha, crack, cocaína.
+por lei , como maconha, crack, cocaína.
 
 **Consumo crescente**
 
 Uma triste notícia é que o consumo de drogas está começando cada vez
 mais cedo. Uma pesquisa feita
-pelo [Centro](https://plenarinho.leg.br/index.php/glossary/centro/) Brasileiro
-de Informações sobre Drogas Psicotrópicas (Cebrid), ouviu cerca de 50
+pelo Centro Brasileiro
+de Informações sobre Drogas Psicotrópicas (Cebrid) ouviu cerca de 50
 mil estudantes de escolas públicas. Os dados mostraram que crianças de
 10 anos de idade já começam a ter contato com as drogas. O álcool, na
 maioria das vezes, é a porta de entrada para o vício.
 
-Apesar de
-a [legislação](https://plenarinho.leg.br/index.php/glossary/legislacao/) brasileira
+Apesar de a legislação brasileira
 permitir o uso de bebidas alcoólicas somente a partir dos 18 anos, 90%
 dos estudantes entrevistados afirmaram que elas são facilmente
 adquiridas.
@@ -2236,7 +2224,7 @@ adolescência, vai se perguntar o porquê de não usar também. É preciso
 ficar atento às atitudes dentro da própria casa", advertiu.
 
 E vale lembrar: quanto mais cedo o jovem tem contato com a droga, maior
-é o risco dele se tornar usuário frequente. "Hoje, eles têm contato com
+é o risco de ele se tornar usuário frequente. "Hoje, eles têm contato com
 o álcool aos 11 anos, com cigarro aos 12 e com a maconha aos 13″, disse
 o médico.
 
@@ -2259,10 +2247,9 @@ mundo está fazendo, eu quero fazer também".
 **Drogas afetam a saúde**
 
 Muita gente acredita que o consumo esporádico de drogas não faz mal.
-Errado. Se não tiver sido prescrita por um médico, as drogas podem
+Errado. Se não tiver sido prescrita por um médico, a droga pode
 prejudicar de forma grave a saúde, perturbando os estudos e alterando o
-humor. E o pior: ninguém sabe com antecedência se vai ou não se tornar
-um viciado.
+humor. [...]
 
 "De um lado, há uma série de pressões culturais e sociais para que o
 jovem beba. De outro, existe a curiosidade e a necessidade de
@@ -2309,45 +2296,34 @@ J: Eu diria pra elas nunca experimentarem cigarro, nem nenhuma outra
 droga! Mesmo que seus colegas fumem e que pareça divertido, não caia
 nessa, pois o cigarro não traz absolutamente nada de bom. Se por acaso
 você estiver passando por problemas emocionais, como acontece com muitos
-adolescentes, converse com seus pais, pois são eles quem melhor pode
-ajudá-lo. Somente longe das drogas é possível ter uma vida saudável e
+adolescentes, converse com seus pais [...]. Somente longe das drogas é possível ter uma vida saudável e
 feliz. Infelizmente eu tive que sofrer para perceber isso. Mas garanto
 que aprendi a lição.
 
-Drogas: inimigas da vida**. Plenarinho.** Disponível em:
+Drogas: inimigas da vida. Plenarinho.Disponível em:
 <https://plenarinho.leg.br/index.php/2017/05/drogas-inimigas-da-vida/>.
 Acesso em: 05 abr. 2023.
 
-a\) A quem essa reportagem é dirigida? Ao público em geral, mas
-principalmente aos jovens.
+\num{1} A quem essa reportagem é dirigida? 
+\linhas{4}
+Ao público em geral, mas principalmente aos jovens.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{2} Qual é o provável objetivo de dedicar a esse público uma reportagem
+relacionada a esse tema? 
+\linhas{6}
+Provavelmente, trazer a discussão sobre o perigo das drogas para o dia a dia de crianças e jovens, considerando que é por meio da informação que se combate esse tipo de problema.
 
-b\) Qual é o provável objetivo de dedicar a esse público uma reportagem
-relacionada a esse tema? Provavelmente, trazer a discussão sobre o
-perigo das drogas para o dia a dia de crianças e jovens, considerando
-que é por meio da informação que se combate esse tipo de problema.
+\num{3} De acordo com a reportagem, por que os jovens decidem experimentar
+as drogas? 
+\linhas{4}
+Muitas vezes, em busca por amizades e o consolo para os dilemas dessa etapa da vida.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{4} Que informação no primeiro parágrafo da reportagem está relacionada
+com o título? 
+\linhas{4}
+As consequências que o vício traz para a vida dos jovens e para toda a sociedade.
 
-c\) De acordo com a reportagem, por que os jovens decidem experimentar
-as drogas? Muitas vezes, em busca por amizades e o consolo para
-os dilemas dessa etapa da vida.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-d\) Que informação no primeiro parágrafo da reportagem está relacionada
-com o título? As consequências que o vício traz para a vida dos jovens e
-de toda a sociedade.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\num{2} A reportagem tem como característica o trabalho investigativo
-realizado por jornalistas. Nela, os fatos são abordados de modo mais
-detalhado.
-
-a\) Marque os tipos de informações que deixam evidente o trabalho
-investigativo do jornalista na reportagem lida.
+\num{5} A reportagem tem como característica o trabalho investigativo realizado por jornalistas. Nela, os fatos são abordados de modo mais detalhado. Marque os tipos de informações que deixam evidente o trabalho investigativo do jornalista na reportagem lida.
 
 ( x ) Dados de pesquisas.
 
@@ -2357,17 +2333,11 @@ investigativo do jornalista na reportagem lida.
 
 ( x ) Entrevista.
 
-b\) Por qual motivo essas informações são importantes em uma reportagem?
-Porque deixam em evidência o compromisso do jornalista com a verdade,
-tendo em vista que apresentou elementos para comprovar o que está
-relatando.
+\num{6} Por qual motivo essas informações são importantes em uma reportagem?
+\linhas{5}
+Porque deixam em evidência o compromisso do jornalista com a verdade, tendo em vista que apresentou elementos para comprovar o que está relatando.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\num{3} A voz dos especialistas pode aparecer de variadas formas na
-reportagem. Veja algumas
-
-possibilidades.
+A voz dos especialistas pode aparecer de variadas formas na reportagem. Veja algumas possibilidades.Depois, responda às questões de 7 a 10.
 
 I.
 
@@ -2381,23 +2351,26 @@ II\.
   O publicitário Jorge Borges, que mora em Brasília, é um exemplo do que dizem as pesquisas. Quando tinha 34 anos, em entrevista ao Plenarinho, ele contou sobre sua luta para se livrar da dependência do tabaco.
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-a\) No trecho I, sublinhe o modo verbal utilizado para incluir a fala no
-texto da reportagem. Resposta no trecho.
+\num{7} No trecho I, sublinhe o modo verbal utilizado para incluir a fala no
+texto da reportagem. 
+\coment{Resposta no trecho.}
 
-b\) Ainda no trecho **I**, sublinhe os sinais gráficos utilizados para
-apresentar a fala do entrevistado. Resposta no trecho.
+\num{8} Ainda no trecho **I**, sublinhe os sinais gráficos utilizados para
+apresentar a fala do entrevistado. 
+\coment{Resposta no trecho}.
 
-c\) No que se refere à fala do trecho **II**, utilizou-se o discurso
-direto ou indireto? Discurso indireto.
+\num{9} No que se refere à fala do trecho **II**, utilizou-se o discurso
+direto ou o indireto? 
+\linhas{1}
+\coment{Discurso indireto.}
 
-d\) Qual discurso dá mais credibilidade à reportagem: o discurso direto
-ou o discurso indireto? Justifique sua resposta. O discurso direto, uma
-vez que transfere exatamente o que o entrevistado falou.
+\num{10} Qual discurso dá mais credibilidade à reportagem: o discurso direto
+ou o discurso indireto? Justifique sua resposta. 
+\linhas{5}
+\coment{O discurso direto, uma vez que transfere exatamente o que o entrevistado falou.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-4.  Na reportagem, o jornalista expressa sua opinião e suas impressões
-    em relação ao assunto. Releia os trechos a seguir.
+Na reportagem, o jornalista expressa sua opinião e suas impressões
+    em relação ao assunto. Releia os trechos a seguir e, então, responda às questões 11 e 12.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Muita gente acredita que o consumo esporádico de drogas não faz mal. Errado. Se não tiver sido prescrita por um médico, as drogas podem prejudicar de forma grave a saúde, perturbando os estudos e alterando o humor.
@@ -2407,19 +2380,17 @@ vez que transfere exatamente o que o entrevistado falou.
   E aí já dá até pra imaginar o resultado no desempenho escolar. Alunos que usam drogas faltam muito e tiram notas baixas. Além disso, o relacionamento com os amigos também pode ser prejudicado.
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-a\) O que o jornalista manifesta nesses trechos? O jornalista manifesta
-sua opinião em relação às consequências do uso de drogas.
+\num{11} O que o jornalista manifesta nesses trechos? 
+\linhas{3}
+\coment{O jornalista manifesta sua opinião em relação às consequências do uso de drogas.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-b\) Qual é a importância. desse tipo de comentário em uma reportagem
+\num{12} Qual é a importância desse tipo de comentário em uma reportagem
 sobre esse assunto?
+\linhas{3}
+\coment{Mostrar que há formas de mudar o que não está certo.}
 
-Mostrar que há formas de mudar o que não está certo.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\num{5} Assinale a(s) alternativa(s) que melhor caracteriza(m) a linguagem
+\num{13} Assinale a(s) alternativa(s) que melhor caracteriza(m) a linguagem
 que foi usada pelo jornalista.
 
 ( ) Despretensiosa.
@@ -2434,14 +2405,13 @@ que foi usada pelo jornalista.
 
 \num{1} Leia os trechos de textos a seguir, que exploram as prospecções
 brasileiras para o cumprimento da Agenda 2030, proposta pela ONU.
-(Fácil)
 
 **Texto 1**
 
 **Avanços brasileiros contribuem para cumprimento da Agenda 2030, diz
 especialista**
 
-Na avaliação do assessor sênior da Organização das Nações Unidas (ONU)
+Na avaliação do assessor sênior da Organização das Nações Unidas (ONU),
 Haroldo Machado Filho, os resultados alcançados pelo Brasil na
 implementação dos 8 Objetivos do Desenvolvimento do Milênio (ODM)
 merecem destaque mundial e colocam o país em posição de vantagem na
@@ -2455,14 +2425,11 @@ população com renda inferior a US\$ 1,25 ao dia de 25,5%, em 1990, para
 3,5%, em 2012.
 
 Para o assessor das Nações Unidas, a experiência brasileira pode servir
-de exemplo para
+de exemplo para outros países lidarem com as mesmas questões.
 
-outros países lidarem com as mesmas questões.
-
-DINIZ, Mariana. Avanços brasileiros contribuem para cumprimento da
+Mariana Diniza. EBC. Avanços brasileiros contribuem para cumprimento da
 Agenda 2030, diz especialista. Disponível em:
-www.ebc.com.br/noticias/2015/09/avancos-brasileiros-contribuem-para-cumprimento-da-agenda-2030-diz-especialista.
-Acesso em: 05 abr. 2023.
+www.ebc.com.br/noticias/2015/09/avancos-brasileiros-contribuem-para-cumprimento-da-agenda-2030-diz-especialista. Acesso em: 05 abr. 2023.
 
 **Texto 2**
 
@@ -2484,44 +2451,39 @@ Governo da Presidência da República, Henrique Ferreira, destacou que é
 impossível assumir que algumas metas serão cumpridas até 2030, como a
 ampliação total da cobertura de saneamento básico.
 
-BRITO, Débora. ONGs apontam desafios para Brasil atingir metas do
+Débora Brito. EBC. ONGs apontam desafios para Brasil atingir metas do
 Desenvolvimento Sustentável. Disponível em:
-http://agenciabrasil.ebc.com.br/geral/noticia/2017-06/ongs-apontam-desafios-para-brasil-atingir-metas-do-desenvolvimento-sustentavel.
-Acesso em: 05 abr. 2023. (adaptado)
+http://agenciabrasil.ebc.com.br/geral/noticia/2017-06/ongs-apontam-desafios-para-brasil-atingir-metas-do-desenvolvimento-sustentavel. Acesso em: 05 abr. 2023. (adaptado)
 
 Os trechos
 
-\(A\) tratam de um tema comum a partir da mesma perspectiva,
+\(A\) tratam de um tema comum a partir da mesma perspectiva;
 complementando-se, quando comparados.
 
 \(B\) tratam de um tema comum a partir de perspectivas diferentes,
-contrariando-se, quando
+contrapondo-se, quando comparados.
 
-comparados.
-
-\(C\) tratam de um tema comum a partir da mesma perspectiva,
+\(C\) tratam de um tema comum a partir da mesma perspectiva;
 contrariando-se, quando comparados.
 
-\(D\) tratam de um tema comum mediante perspectivas diferentes,
+\(D\) tratam de temas diferentes mediante perspectivas diferentes,
 complementando-se, quando comparados.
 
-Saeb:
+\coment{Vale a pena explicar aos alunos, neste ponto, a diferença básica entre os conceitos de "tema" e "assunto". O assunto é algo mais amplo, que geralmente pode ser resumido em uma palavra ou expressão muito curta, como "ecologia" ou "agenda 2030". Já o tema é um recorte do assunto, sendo mais específico. De um único assunto podem surgir vários temas. Do assunto "Agenda 2030", por exemplo, extraiu-se o tema "Perspectivas brasileiras para cumprimento dos objetivos da Agenda 2030".}
 
-BNCC: não há correspondência
-
-\(a\) Incorreta. Os textos não se complementam, mas sim se contrariam.
+\(a\) Incorreta. Os textos não se complementam, mas sim se contrapõem.
 
 \(b\) Correta. Os textos tratam de um tema comum, o planejamento para o
 cumprimento da agenda 2030 da ONU, mediante perspectivas diferentes,
-contrariando-se, tendo em vista que o primeiro texto afirma que a
+contrapondo-se, tendo em vista que o primeiro afirma que a
 erradicação da pobreza e da fome é possível, enquanto o segundo afirma
 que é impossível.
 
 \(c\) Incorreta. Os textos não tratam do assunto pela mesma perspectiva.
 
-\(d\) Incorreta. Os textos não se complementam, mas sim se contrariam.
+\(d\) Incorreta. Os textos tratam do mesmo tema.
 
-\num{2} Leia a notícia a seguir. (Médio)
+\num{2} Leia a notícia a seguir.
 
 **Brasil estreia contra Bolívia nas eliminatórias da Copa do Mundo
 2022**
@@ -2540,10 +2502,9 @@ terá chance de brigar por uma vaga: está prevista m uma disputa no
 formato mata-mata, com jogos de ida e volta, contra uma seleção de outro
 continente, ainda a ser definida pela Fifa.
 
-Rodrigues, Cláudia Soares. Brasil estreia contra Bolívia nas
-eliminatórias da Copa do Mundo 2022. EBC, 17 dez. 2019. Disponível em:
-http://agenciabrasil.ebc.com.br/esportes/noticia/2019-12/brasil-estreia-contra-bolivia-nas-eliminatorias-da-copa-do-mundo-2022.
-Acesso em: 05 abr. 2023.
+Cláudia Soares Rodrigues. EBC.Brasil estreia contra Bolívia nas
+eliminatórias da Copa do Mundo 2022. Disponível em:
+http://agenciabrasil.ebc.com.br/esportes/noticia/2019-12/brasil-estreia-contra-bolivia-nas-eliminatorias-da-copa-do-mundo-2022. Acesso em: 05 abr. 2023.
 
 A característica da notícia apresentada é
 
@@ -2561,9 +2522,7 @@ assunto.
 \(D\) a imparcialidade do autor, que informa sobre o jogo entre Brasil e
 Bolívia de maneira a não expor sua opinião sobre o assunto.
 
-Saeb:
-
-BNCC: Não há correspondência
+\coment{É interessante, neste ponto, falar sobre a impossibilidade de um texto ser, em sua totalidade, imparcial.}
 
 a\) Incorreta. A notícia expõe os países que jogarão antes da copa de
 2022, além de haver imparcialidade do autor.
@@ -2577,29 +2536,19 @@ em relação ao assunto.
 d\) Correta. A notícia mostra imparcialidade do autor, que não expõe sua
 opinião sobre o assunto.
 
-\num{3} Leia o trecho de notícia a seguir. (Difícil)
+\num{3} Leia o trecho de notícia a seguir.
 
-**Corrida de investidores leva petróleo norte-americano a uma nova queda
-de dois dígitos**
+Corrida de investidores provoca queda de dois dígitos no preço do petróleo norte-americano
 
-\[...\] Oito dias atrás, o barril de petróleo tipo Texas, o de
-referência nos Estados Unidos, entrava no negativo pela primeira vez em
-toda a série histórica \[...\].
+Há apenas oito dias, o preço do barril de petróleo do tipo Texas, referência nos Estados Unidos, caiu para valores negativos pela primeira vez em toda a sua série histórica 
 
-O consumo global de petróleo despencou nas últimas semanas, uma
-tendência comum em todos os países ocidentais e parte da Ásia. Mas as
-diferentes capacidades de armazenamento e o excesso de bombeamentos de
-alguns produtores do método fracking --- cuja produção é cada vez menos
-rentável, mas de onde continua saindo petróleo --- abriram uma fissura
-entre as duas referências petroleiras dos dois lados do Atlântico, o
-Brent e o Texas, sendo o segundo muito mais castigado que o primeiro.
+O consumo global de petróleo despencou nas últimas semanas, uma tendência comum em todos os países ocidentais e em parte da Ásia. No entanto, as diferentes capacidades de armazenamento e o excesso de extração por parte de alguns produtores utilizando o método do fracking - cuja produção está se tornando cada vez menos lucrativa, mas ainda continua a produzir petróleo - criaram uma divisão entre as duas referências de petróleo nos dois lados do Atlântico, o Brent e o Texas, sendo o último muito mais afetado que o primeiro.
 
-FARIZA, Ignacio. Corrida de investidores leva petróleo norte-americano a
+Fonte de pesquisa: Ignacio Fariza. Corrida de investidores leva petróleo norte-americano a
 uma nova queda de dois dígitos. El País, 29 abr. 2020. Disponível em:
-https://brasil.elpais.com/economia/2020-04-29/corrida-de-investidores-leva-petroleo-norte-americano-a-uma-nova-queda-de-dois-digitos.html.
-Acesso em: 05 abr. 2023.
+https://brasil.elpais.com/economia/2020-04-29/corrida-de-investidores-leva-petroleo-norte-americano-a-uma-nova-queda-de-dois-digitos.html. Acesso em: 05 abr. 2023.
 
-Na notícia a respeito do mercado financeiro relacionado ao petróleo
+Na notícia, a respeito do mercado financeiro relacionado ao petróleo
 produzido nos Estados Unidos, analisa-se que o texto foi escrito de
 maneira
 
@@ -2615,14 +2564,12 @@ notar como anda o consumo global de petróleo no mundo.
 \(D\) impessoal e objetiva, relacionado à função referencial da língua,
 não havendo avaliações do jornalista sobre a situação.
 
-Saeb:
-
-BNCC:
+\coment{Apesar de não se tratar de um texto técnico, ele traz elementos de um nível de complexidade que pode desafiar alguns leitores.}
 
 a\) Incorreta. O texto não é voltado para um público menos escolarizado.
 
 b\) Incorreta. O texto traz informações precisas a respeito da produção
-petrolífera dos Estados Unidos, e cita que entrou em crise oito dias
+petrolífera dos Estados Unidos e cita que entrou em crise oito dias
 atrás, um fato histórico.
 
 c\) Incorreta. O texto foi escrito majoritariamente em terceira pessoa,
@@ -2631,14 +2578,14 @@ o que evidencia a intenção do jornalista de ser imparcial e objetivo.
 d\) Correta. As informações são apresentadas de modo impessoal e
 objetivo.
 
+
 # Módulo 8
 
-Neste módulo, os alunos vão identificar a presença de modalizadores na
-linguagem persuasiva de anúncio publicitário e campanhas.
+A modalização
 
 Habilidades da BNCC: EF69LP04, EF69LP28, EF89LP16, EF89LP31
 
-Habilidades do SAEB:
+Habilidades do SAEB
 
 \- Identificar os recursos de modalização em textos diversos.
 
