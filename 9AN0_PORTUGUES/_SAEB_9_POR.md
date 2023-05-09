@@ -2583,8 +2583,6 @@ objetivo.
 
 A modalização
 
-Habilidades da BNCC: EF69LP04, EF69LP28, EF89LP16, EF89LP31
-
 Habilidades do SAEB
 
 \- Identificar os recursos de modalização em textos diversos.
@@ -2594,6 +2592,12 @@ com base no gênero textual e na intenção comunicativa.
 
 \- Analisar os efeitos de sentido produzidos pelo uso de modalizadores
 em textos diversos.
+
+Habilidades da BNCC
+\- EF69LP04
+\- EF69LP28
+\- EF89LP16
+\- EF89LP31
 
 \<início do boxe de conteúdo\>
 
@@ -2610,8 +2614,8 @@ adotar uma ideia, como o anúncio publicitário, por exemplo, as classes
 de palavras dos substantivos e dos adjetivos são utilizadas como
 procedimento argumentativo.
 
-A argumentação não se limita somente à condição tipológica estrutural,
-mas também à discursiva. Anúncios de propaganda configuram um gênero
+A argumentação não se limita à condição tipológica estrutural,
+mas também se expande à discursiva. Anúncios de propaganda configuram um gênero
 discursivo que apresenta em sua estrutura atributos que devem ser
 reconhecidos pelos leitores. Nesse gênero, elementos linguísticos --
 substantivos, adjetivos e advérbios -- são utilizados como estratégia
@@ -2622,7 +2626,7 @@ comunicativa do texto, comprovando a argumentação com o propósito de
 atingir, satisfatoriamente, o seu interlocutor (consumidor).
 
 Por meio dos adjetivos utilizados, pode-se notar a ideia do produtor --
-não apenas de anúncios, mas de qualquer gênero textual --, e seu ponto
+não apenas de anúncios, mas de qualquer gênero textual -- e seu ponto
 de vista em relação ao que observa, analisa.
 
 Os efeitos de sentido gerados pelos substantivos e adjetivos são
@@ -2642,24 +2646,19 @@ fundamentais na construção argumentativa. Observe:
 
 \colorsec{Atividades}
 
-1.  Leia o anúncio de uma campanha de adoção de cães.
+Leia o anúncio de uma campanha de adoção de cães para responder às questões 1 e 2.
 
 https://www.salinas.mg.gov.br/portal/0/galeria-de-fotos/314/adote-um-amigo!\#fotos-5
 
 ![](./_SAEB_9_POR/media/image19.jpeg){width="4.968055555555556in"
 height="4.968055555555556in"}
 
-a\) No anúncio, há a frase: "Eu sempre tenho alguém feliz me esperando
-em casa.".
+\num{1} No anúncio, há a frase: "Eu sempre tenho alguém feliz me esperando
+em casa.". Ao escolher o adjetivo **feliz** para modificar o substantivo **alguém**, o que o autor do anúncio quis deixar em evidência? 
+\linhas{4}
+\coment{Ele quis evidenciar o fato de sempre ter um cachorro feliz que o espera em casa.}
 
--   Ao escolher o adjetivo **feliz** para modificar o substantivo
-    **alguém**, o que o autor do anúncio quis deixar em evidência? Ele
-    quis evidenciar o fato de sempre ter um cachorro feliz que o espera
-    em casa.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-b\) É possível afirmar que o adjetivo **feliz**:
+\num{2} É possível afirmar que o adjetivo **feliz**:
 
 ( x ) intensifica a força argumentativa do substantivo ao qual se
 refere.
@@ -2668,84 +2667,70 @@ refere.
 
 ( ) não influencia na construção de sentidos do anúncio.
 
-2.  Leia o anúncio a seguir.
+Leia o anúncio a seguir para responder às questões de 3 a 6.
 
 http://lassance.mg.gov.br/dia-da-mulher-2023/
 
 ![](./_SAEB_9_POR/media/image20.jpeg){width="4.613888888888889in"
 height="4.613888888888889in"}
 
-a\) O que se destaca no anúncio? O fato de haver a imagem de várias
-mulheres de diferentes etnias e biotipos.
+\num{3} O que se destaca no anúncio? 
+\linhas{2}
+\coment{O fato de haver a imagem de várias mulheres de diferentes etnias e biotipos.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**b)** Que efeito essa imagem pretende provocar no leitor? Pretende
-impactar o leitor e fazê-lo refletir sobre o fato de que todas as
+\num{4} Que efeito essa imagem pretende provocar no leitor? 
+\linhas{4}
+\coment{Pretende impactar o leitor e fazê-lo refletir sobre o fato de que todas as
 mulheres, indiferentemente de sua classe social, cor, idade ou etnia,
-merecem igualdade, dignidade e respeito.
+merecem igualdade, dignidade e respeito.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-c\) O texto principal do anúncio foi elaborado com os substantivos
+\num{5} O texto principal do anúncio foi elaborado com os substantivos
 **igualdade**, **dignidade** e **respeito**. O que a escolha desses
-substantivos pretende despertar no interlocutor? Pretende despertar
-memórias de circunstâncias que tenha experenciado ou escutado em que não
-ocorreu igualdade, dignidade e respeito.
+substantivos pretende despertar no interlocutor? 
+\linhas{4}
+\coment{Pretende despertar memórias de circunstâncias que tenha experenciado ou escutado em que não ocorreu igualdade, dignidade e respeito.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-d\) Os substantivos **igualdade**, **dignidade** e **respeito** precisam
-da ação de alguém para que virem realidade o que representam. Como a
+\num{6} Os substantivos **igualdade**, **dignidade** e **respeito** precisam
+da ação de alguém para que vire realidade aquilo que representam. Como a
 escolha deles colabora para que o criador do anúncio alcance o seu
-propósito? Os substantivos buscam provocar o interlocutor para uma
-diferente postura diante de atos desrespeitosos, indignos e desiguais.
+propósito? 
+\linhas{4}
+\coment{Os substantivos buscam provocar o interlocutor para uma
+diferente postura diante de atos desrespeitosos, indignos e desiguais.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\num{4} Leia mais este anúncio publicitário desenvolvido em comemoração ao
-Dia Internacional da Mulher.
+Leia mais este anúncio publicitário desenvolvido em comemoração ao
+Dia Internacional da Mulher.Depois, responda às questões de 7 a 10.
 
 https://www.pmvc.ba.gov.br/prefeitura-realiza-campanha-marco-mulher-2021-com-o-tema-a-violencia-que-ninguem-ve/
 
 ![](./_SAEB_9_POR/media/image21.jpeg){width="4.197222222222222in"
 height="4.197222222222222in"}
 
-a)  Qual é a proposta dessa campanha? A proposta é que as mulheres não
-    se subestimem nem duvidem de seus potenciais. Promover reflexão,
-    conscientização e mobilização para a conquista dos direitos das
-    mulheres, assim como o de viver sem violência e sem discriminação
+\num{7}  Qual é a proposta dessa campanha? 
+\linhas{5}
+\coment{A proposta é que as mulheres não se subestimem nem duvidem de seus potenciais. Promover reflexão, conscientização e mobilização para a conquista dos direitos das mulheres, assim como o de viver sem violência e sem discriminação.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{8}  O tema da campanha é "A violência que ninguém vê". O que seria esse tipo de violência? 
+\linhas{6}
+\coment{Explique aos alunos que se trata de violência psicológica, que, em muitos casos, é o gatilho para casos mais graves, como a agressão física ou o feminicídio. Consiste na ação ou omissão que se destina a degradar ou controlar as ações da mulher, causando a ela dano emocional e diminuição da sua autoestima.}
 
-b)  O tema da campanha é "A violência que ninguém vê". O que seria esse
-    tipo de violência? Explique aos alunos que se trata de violência
-    psicológica, que, em muitos casos, é o gatilho para casos mais
-    graves, como a agressão física ou o feminicídio. Consiste na ação ou
-    omissão que se destina a degradar ou controlar as ações da mulher,
-    causando a ela dano emocional e diminuição da sua autoestima.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-c)  Releia esse trecho do anúncio.
+Releia um trecho do anúncio para responder às questões 9 e 10.
 
   -------------------------------------------------------------------
   Você é forte e corajosa. Não deixe te fazerem pensar o contrário.
   -------------------------------------------------------------------
 
--   No trecho, quais palavras podem ser consideradas apreciativas, isto
-    é, emitem juízo de valor sobre as mulheres? Por que essas palavras
-    foram usadas? Foram usados os adjetivos forte e corajosa. Essas
-    palavras chamam a atenção sobre os aspectos positivos das mulheres.
-    Explique aos alunos que os mecanismos de modalização apreciativa em
-    anúncios publicitários têm o a finalidade de destacar os aspectos
-    positivos da ideia ou do produto em divulgação.
+\num{9}  No trecho, quais palavras podem ser consideradas apreciativas, isto é, aquelas que emitem juízo de valor sobre as mulheres? 
+\linhas{2}
+\coment{Podem ser assim consideradas as palavras "forte" e "corajosa".}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{10} Por que essas palavras foram usadas? 
+\linhas{6} Essas palavras chamam a atenção sobre os aspectos positivos das mulheres. Explique aos alunos que os mecanismos de modalização apreciativa em anúncios publicitários têm o a finalidade de destacar os aspectos positivos da ideia ou do produto em divulgação.
 
 \colorsec{Treino}
 
-\num{1} Leia dois trechos de textos que tratam sobre a Lei Seca. (Fácil)
+\num{1} Leia dois trechos de textos que tratam sobre a Lei Seca.
 
 **Texto 1**
 
@@ -2759,10 +2744,9 @@ após terem ingerido bebida alcoólica. A maior fiscalização, aliada à
 imposição de rígidos limites e à conscientização da população, permitiu
 que tal alteração fosse possível. \[...\]
 
-MATTA, Paulo Henrique Caban Stern. "Sucesso absoluto". Cartilha do
+Paulo Henrique Caban Stern Matta. INEP. "Sucesso absoluto". Cartilha do
 participante 2016. Disponível em:
-<http://download.inep.gov.br/educacao_basica/enem/guia_participante/2016/manual_de_redacao_do_enem_2016.pdf>.
-Acesso em: 7 abr. 2023.
+<http://download.inep.gov.br/educacao_basica/enem/guia_participante/2016/manual_de_redacao_do_enem_2016.pdf>.Acesso em: 7 abr. 2023.
 
 **Texto 2**
 
@@ -2772,15 +2756,13 @@ são causados por condutores alcoolizados. A lei determina que, se
 comprovada a ingestão de álcool através do teste do "bafômetro" ou exame
 de sangue, o motorista poderia perder sua habilitação \[...\]
 
-DIAS, Clara de Araujo. "Amostra de redações nota 1000". Cartilha do
+Clara de Araujo Dias. INEP. "Amostra de redações nota 1000". Cartilha do
 participante 2016. Disponível em:
-http://download.inep.gov.br/educacao\_basica/enem/guia\_participante/2016/manual\_de\_redacao\_do\_enem\_2016.pdf.
-Acesso em: 7 abr. 2023.
+http://download.inep.gov.br/educacao\_basica/enem/guia\_participante/2016/manual\_de\_redacao\_do\_enem\_2016.pdf. Acesso em: 7 abr. 2023.
 
-Com base na leitura dos trechos, há modalizador que deixa em evidência
-opinião
+Com base na leitura dos trechos, há modalizador que deixa em evidência opinião
 
-\(A\) nos dois textos, uma vez que abordam uma opinião dos autores sobre
+\(A\) em ambos, uma vez que abordam uma opinião dos autores sobre
 o tema.
 
 \(B\) exclusivamente no texto 2, o qual traz o contexto da Lei Seca e
@@ -2789,12 +2771,10 @@ mostra sua finalidade.
 \(C\) exclusivamente no texto 1, o que pode ser visto no uso de palavras
 como "principalmente".
 
-\(D\) nos dois textos, o que pode ser visto pelo contexto da Lei Seca e
+\(D\) em ambos, o que pode ser visto pelo contexto da Lei Seca e
 pelo uso de palavras que expressam opinião.
 
-Saeb: Identificar
-
-BNCC: EF89LP31: Analisar e utilizar modalização epistêmica, isto é,
+BNCC: EF89LP31 -- Analisar e utilizar modalização epistêmica, isto é,
 modos de indicar uma avaliação sobre o valor de verdade e as condições
 de verdade de uma proposição, tais como os asseverativos -- quando se
 concorda com ("realmente, evidentemente, naturalmente, efetivamente,
@@ -2804,25 +2784,20 @@ indicam que se considera o conteúdo como quase certo ("talvez, assim,
 possivelmente, provavelmente, eventualmente").
 
 a\) Incorreta. Inexistem modalizadores nos dois textos, uma vez que no
-texto 2 a autora contextualiza a Lei Seca e seu objetivo, mas sem opinar
-em relação ao assunto.
+texto 2 a autora contextualiza a Lei Seca e seu objetivo, mas sem emitir opinião ou mostrar posição em relação ao assunto.
 
-b\) Incorreta. O texto 2 apresenta o contexto da Lei Seca e seu
-objetivo, mas isso não é um modalizador.
+b\) Incorreta. O texto 2 apresenta o contexto da Lei Seca e seu objetivo, mas isso não é um modalizador.
 
-c\) Correta. Há um modalizador apenas no texto I, o que pode ser visto
-pelo uso do advérbio "principalmente", para evidenciar a importância da
-Lei Seca
+c\) Correta. Há um modalizador apenas no texto I, o que pode ser visto pelo uso do advérbio "principalmente", para evidenciar a importância da Lei Seca.
 
 d\) Incorreta. Não existem modalizadores em ambos os textos.
 
-\num{2} Leia a campanha de doação de sangue. (Médio)
+\num{2} Leia a campanha de doação de sangue.
 
 ![](./_SAEB_9_POR/media/image22.png){width="5.905555555555556in"
 height="4.1682863079615045in"}
 
-CAMPANHA de doação de Sangue acontece neste sábado (07). Lucas do Rio
-Verde, 6 abr. 2018. Disponível em:
+CAMPANHA de doação de Sangue acontece neste sábado (07). Disponível em:
 \<www.lucasdorioverde.mt.gov.br/site/noticias/6303\>. Acesso em: 7 abr.
 2023.
 
@@ -2834,11 +2809,9 @@ Segundo informações da campanha, grávidas não podem
 
 \(C\) estar expostas a outras doenças.
 
-\(D\) fazer doação de sangue.
+\(D\) fazer doação de sangue em circunstância alguma.
 
-Saeb: D1
-
-BNCC: EF69LP04: Identificar e analisar os efeitos de sentido que
+BNCC: EF69LP04 -- Identificar e analisar os efeitos de sentido que
 fortalecem a persuasão nos textos publicitários, relacionando as
 estratégias de persuasão e apelo ao consumo com os recursos
 linguístico-discursivos utilizados, como imagens, tempo verbal, jogos de
@@ -2851,13 +2824,13 @@ sangue.
 b\) Incorreta. A campanha pede aos doadores de sangue que evitem a
 ingestão de alimentos gordurosos.
 
-c\) Incorreta. Essa informação se trata do grupo de pessoas que não pode
+c\) Incorreta. Essa informação trata do grupo de pessoas que não pode
 doar sangue.
 
-d\) Correta. Mulheres grávidas ou que estejam a amamentar estão no grupo
-de pessoas que não podem doar sangue
+d\) Correta. Mulheres grávidas ou que estejam amamentando estão no grupo
+de pessoas que não podem doar sangue.
 
-\num{3} Leia um trecho de uma redação nota mil no Enem. (Difícil)
+\num{3} Leia um trecho de uma redação nota mil no Enem.
 
 \[...\]
 
@@ -2874,10 +2847,8 @@ efeitos das propagandas que visam incentivar o consumismo. Dessa forma,
 será possível tornar o meio virtual um ambiente mais seguro e
 democrático para a população brasileira.
 
-TERRA DE DEUS, Fernanda Carolina Santos. Especialistas analisam sete
-redações nota mil do Enem; confira. Disponível em:
-<http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink7.pdf>.
-Acesso em: 7 abr. 2023.
+Fernanda Carolina Santos Terra de Deus. Especialistas analisam sete redações nota mil do Enem; confira. Disponível em:
+<http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink7.pdf>. Acesso em: 7 abr. 2023.
 
 Percebe-se a opinião da candidata em alguns trechos do texto, como em
 
@@ -2893,9 +2864,7 @@ uma crítica em relação à ação do governo quanto ao fato abordado.
 \(D\) "Dessa forma, será possível tornar o meio virtual um ambiente mais
 seguro", no qual ela descarta as ideias anteriores e propõe novas.
 
-Saeb: D14
-
-BNCC: EF89LP16: Analisar a modalização realizada em textos noticiosos e
+BNCC: EF89LP16 -- Analisar a modalização realizada em textos noticiosos e
 argumentativos, por meio das modalidades apreciativas, viabilizadas por
 classes e estruturas gramaticais como adjetivos, locuções adjetivas,
 advérbios, locuções adverbiais, orações adjetivas e adverbiais, orações
@@ -2918,17 +2887,20 @@ finalizando o texto.
 
 # Módulo 9
 
-Neste módulo, os alunos vão identificar as figuras de linguagem e
-compreender os efeitos de sentido criados por elas.
+Linguagem figurada
 
-Habilidades da BNCC: EF69LP17, EF89LP06, EF89LP14 e EF89LP37.
-
-Habilidades do SAEB:
+Habilidades do SAEB
 
 \- Analisar o uso de figuras de linguagem como estratégia argumentativa.
 
 \- Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
+
+Habilidades da BNCC
+\- EF69LP17
+\- EF89LP06
+\- EF89LP14
+\- EF89LP37
 
 \<início do boxe de conteúdo\>
 
