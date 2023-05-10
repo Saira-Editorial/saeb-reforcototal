@@ -364,9 +364,7 @@ científica.
 1. Analisar a relação temática entre diferentes gêneros jornalísticos.
 
 Habilidades da BNCC
-1. EF69LP27
-1. EF69LP02
-1. EF69LP20
+1. EF69LP27, EF69LP02, EF69LP20.
 
 https://www.freepik.com/free-photo/view-metallic-typesetting-letters_27506247.htm#query=journalistic%20text&position=13&from_view=search&track=ais
 
@@ -706,9 +704,7 @@ outros textos verbais ou não verbais.
 literários.
 
 Habilidades da BNCC
-1. EF69LP44
-1. EF69LP47
-1. EF89LP32
+1. EF69LP44, EF69LP47, EF89LP32.
 
 \<início do boxe de conteúdo\>
 
@@ -1069,9 +1065,7 @@ apropriação textual (paráfrase, citação etc.).
 construção de textos jornalísticos/midiáticos.
 
 Habilidades da BNCC
-1. EF69LP16
-1. EF69LP43
-1. EF89LP05.
+1. EF69LP16, EF69LP43, EF89LP05.
 
 Notícia
 
@@ -1838,8 +1832,7 @@ Habilidade do SAEB
 crítica.
 
 Habilidades da BNCC
-\- EF69LP03
-\- EF69LP05
+\- EF69LP03, EF69LP05.
 
 \<início do boxe de conteúdo\>
 
@@ -2594,10 +2587,7 @@ com base no gênero textual e na intenção comunicativa.
 em textos diversos.
 
 Habilidades da BNCC
-\- EF69LP04
-\- EF69LP28
-\- EF89LP16
-\- EF89LP31
+\- EF69LP04, EF69LP28, EF89LP16, EF89LP31.
 
 \<início do boxe de conteúdo\>
 
@@ -2897,21 +2887,13 @@ Habilidades do SAEB
 diferentes gêneros.
 
 Habilidades da BNCC
-\- EF69LP17
-\- EF89LP06
-\- EF89LP14
-\- EF89LP37
+\- EF69LP17, EF89LP06, EF89LP14, EF89LP37.
 
 \<início do boxe de conteúdo\>
 
 **Figuras de linguagem**
 
-https://www.istockphoto.com/br/vetor/mulher-jovem-gesticula-com-aspas-com-os-dedos-enquanto-diz-palavras-sarc%C3%A1sticas-ou-gm1466776257-498700063?utm\_source=pixabay&utm\_medium=affiliate&utm\_campaign=SRP\_vector\_sponsored&utm\_content=https%3A%2F%2Fpixabay.com%2Fpt%2Fvectors%2Fsearch%2Fironia%2F&utm\_term=ironia
-
-![Mulher jovem gesticula com aspas com os dedos enquanto diz palavras
-sarcásticas ou dicas - Vetor de Aspas
-royalty-free](./_SAEB_9_POR/media/image23.jpeg){width="4.770138888888889in"
-height="3.181587926509186in"}
+https://br.freepik.com/vetores-gratis/elementos-de-bate-papo_1010187.htm#query=language&position=1&from_view=search&track=sph
 
 As figuras de linguagem são recursos linguísticos utilizados por
 escritores, publicitários e outros produtores com a finalidade de
@@ -2939,15 +2921,10 @@ O termo **Beatles** é utilizado em lugar de "músicas dos Beatles".
 
 O *slogan* utiliza a marca Caloi para representar o produto (bicicleta).
 
--   O inventor pelo invento. Exemplo: Cecília e Filipe compraram uma
-    Harley Davidson.
-
-Cecília e Filipe compraram uma **moto** da marca Harley Davidson.
-
 -   o singular pelo plural ou vice-versa. Exemplo: **O
     espectador** deverá manter o silêncio durante a peça.
 
-A palavra **espectador***,* embora no singular, representa todos os
+A palavra **espectador***, embora no singular, representa todos os
 espectadores que assistirão à peça.
 
 -   a matéria pelo objeto (algo feito dessa matéria). Exemplo: Usava
@@ -2957,8 +2934,7 @@ Utiliza-se a palavra **ouro** em lugar de "objetos de ouro".
 
 **Aliteração**
 
-É a repetição de um **som consonantal**. Pode aparecer no começo ou no
-fim das palavras.
+É a repetição de um **som consonantal**. 
 
 Exemplo:
 
@@ -2970,10 +2946,7 @@ Vagam nos velhos vórtices velozes
 
 Dos ventos, vivas, vãs, vulcanizadas.
 
-CRUZ E SOUZA, João da. Violões que choram\... In: \_\_\_\_\_\_.
-**Faróis**. Disponível em:
-
-\<http://www.dominiopublico.gov.br/download/texto/bv000074.pdf\>. Acesso
+João da Cruz e Souza. Violões que choram. Faróis. Disponível em: \<http://www.dominiopublico.gov.br/download/texto/bv000074.pdf\>. Acesso
 em: 07 abr. 2023.
 
 No trecho do texto lido, utiliza-se a repetição do fonema /v/ para
@@ -2981,10 +2954,10 @@ imitar o som do violão, o que confere ritmo e musicalidade aos versos.
 
 **Assonância**
 
-Caracteriza-se pela repetição harmônica de **sons vocálicos** (vogais)
+Caracteriza-se pela repetição harmônica de **sons vocálicos**
 numa frase ou em versos.
 
-Exemplo: "Concord**ei**,** **mas não acredit**ei**.\"
+Exemplo: "Concord**ei**, mas não acredit**ei**.\"
 
 **Antítese**
 
@@ -2993,9 +2966,7 @@ opostos. Exemplo: Sua força é tão grande que inibe minha fraqueza.
 
 **Ironia**
 
-Afirmação do contrário do que realmente se pretende ou questionar algum
-
-comportamento com a finalidade de ridicularizar ou criticar.
+Afirmação do contrário do que realmente se pretende ou questionamento de algum comportamento com a finalidade de ridicularizar ou criticar.
 
 Exemplo:
 
@@ -3006,10 +2977,12 @@ O peixe estava tão gostoso que nem tive coragem de comê-lo.
 Utilização de palavras ou expressões que amenizam uma mensagem
 considerada desagradável ou impactante.
 
-Exemplo: Sua prima é **desprovida de beleza**!
+Exemplo: Sua prima é **desprovida de inteligência**!
 
-A expressão destacada é utilizada no lugar de **feia**, amenizando o que
+A expressão destacada é utilizada no lugar de **estúpida**, amenizando o que
 está sendo dito.
+
+Existem outros recursos linguísticos - no caso, coesivos, que também ajudam na construção do texto, mesmo não sendo figuras de linguagem. É o caso da anáfora e da catáfora.
 
 **Anáfora**
 
@@ -3036,10 +3009,7 @@ Note que o pronome demonstrativo "**isto**"** **antecede o referente
 
 \colorsec{Atividades}
 
-1.  Leia as duas primeiras estrofes do poema de Luís Vaz de Camões. Se
-    julgar pertinente, forneça aos alunos o poema integral, para uma
-    leitura proveitosa e para a auxiliar na resolução das atividades
-    propostas a seguir.
+Leia as duas primeiras estrofes do poema de Luís Vaz de Camões. Depois, responda às questões de 1 a 3.
 
 https://pixabay.com/pt/vectors/amor-p%c3%a1ssaros-animais-v%c3%b4o-cora%c3%a7%c3%b5es-1227864/
 
@@ -3067,23 +3037,19 @@ Amor é um fogo que arde sem se ver,
 
 \[\...\]
 
-CAMÕES, Luís Vaz de. Amor é um fogo que arde sem se ver. In:
-\_\_\_\_\_\_.
-
-**Sonetos**. Disponível em:
+Luís Vaz de Camões. Amor é um fogo que arde sem se ver. In: Sonetos. Disponível em:
 \<http://www.dominiopublico.gov.br/download/texto/bv000164.pdf\>. Acesso
 em: 7 abr. 2023.
 
-a\) Segundo os versos de Camões, qual é a definição do amor? O que o
-amor representa? É um sentimento poderoso e intenso que pode, em certos
-momentos, gerar dor e sofrimento.
+\num{1} Segundo os versos de Camões, qual é a definição do amor? O que o
+amor representa? 
+\linhas{3}
+\coment{É um sentimento poderoso e intenso que pode, em certos momentos, gerar dor e sofrimento.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-b\) Qual é a figura de linguagem é predominante na composição desses
+\num{2} Qual é a figura de linguagem é predominante na composição desses
 versos?
 
-( ) Anáfora
+( ) Eufemismo
 
 ( ) Pleonasmo
 
@@ -3091,85 +3057,65 @@ versos?
 
 ( ) Ironia
 
-c\) Que significado essa figura de linguagem confere ao sentimento
-amoroso? Evidencia a imagem de que o amor é contraditório e ambíguo.
+\num{3} Que significado essa figura de linguagem confere ao sentimento
+amoroso? 
+\linhas{2}
+\coment{Evidencia a imagem de que o amor é contraditório e ambíguo.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Observe o anúncio institucional a seguir, lendo o texto que o acompanha; então, responda às questões de 4 a 7.
 
-2.  Leia o anúncio publicitário a seguir.
+https://br.freepik.com/fotos-gratis/agente-de-seguros-que-trabalha-durante-processo-de-reivindicacao-de-acidente-de-carro-no-local-reclamacao-de-seguro-de-pessoas-e-de-carro_5597946.htm#query=car%20accident&position=18&from_view=search&track=ais
+"Você tem formas melhores e mais interessantes de usar a memória do seu celular. Se for dirigir, não beba. Bebida e direção são termos antitéticos. Como vida e morte..."
 
-> https://juverson.com.br/campanha-de-carnaval-detran-go
+\num{4} Observando a imagem, é possível deduzir qual seria a "forma pior e menos interessante" de usar a memória do celular. Qual seria ela?
+\linhas{4}
+\coment{Seria o uso dessa memória para registrar, em imagem, danos causados a um veículo -- no caso, um farol com lataria amassada em volta.}
 
-![](./_SAEB_9_POR/media/image25.png){width="5.0in"
-height="7.0702023184601925in"}
+\num{5} Qual é a condição que se estabelece, no texto do anúncio, para que se possa dirigir com segurança?
+\linhas{3}
+\coment{A condição é a pessoa que vai dirigir não ter consumido álcool.}
 
-a\) Qual é o objetivo dessa campanha? O objetivo é convencer os
-motoristas a aderirem a uma causa importante: álcool e direção podem
-encurtar vidas.
+\num{6} O que significa dizer, no texto do anúncio, que "bebida e direção são termos antitéticos"?
+\linhas{4}
+\coment{Significa que se trata de termos opostos entre si, que se tornam de certa forma conflituosos quando colocados em paralelo.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\coment{Vale a pena explicar aos alunos que a figura de linguagem mais coerente para se usar nesse contexto seria "paradoxo", não "antítese", já que, enquanto em uma antítese os termos se opõem semanticamente mas coexistem harmonicamente, no paradoxo surge a real contradição. No caso do texto da campanha, porém, o uso é menos formal.}
 
-b\) Quais os órgãos responsáveis pela publicação da propaganda? Balada
-Responsável, Detran-GO e Governo do Estado de Goiás.
+\num{7} Por que as palavras "vida" e "morte" podem ter sido escolhidas para exemplificar a ideia de antítese presente na campanha?
+\linhas{5}
+\coment{Essas palavras ajudam a construir a ideia de que, enquanto direção sem álcool pode significar vida, direção sob efeito de álcool passa a representar a morte.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Leia mais um anúncio e, então, responda às questões de 8 a 10.
 
-c\) Há no texto inicial da propaganda uma figura de linguagem que serve
-para alertar os motoristas sobre a importância de não ingerir bebidas
-alcoólicas ao dirigir. Qual figura de linguagem foi utilizada?
+https://br.freepik.com/fotos-gratis/sala-abandonada-com-uma-mesa-no-meio-e-prateleiras-contra-a-parede-perto-da-janela_17245241.htm#query=casa%20destru%C3%ADda&position=4&from_view=search&track=ais
 
-( ) Metonímia.
+"Quando o site de aluguel on-line diz que o imóvel só precisa de pequenos retoques, pode saber que é eufemismo. A não ser que o site seja o MoreBem. Isto a gente garante: alugue com a gente e more, de fato, bem."
 
-( ) Antítese.
+\num{8} Por que se afirma que "só precisa de pequenos retoques" seria só um eufemismo do site? E como isso se associa à imagem apresentada?
+\linhas{6}
+\coment{Seria um eufemismo porque, na realidade, a necessidade do imóvel seria de uma grande reforma. Isso se associa à imagem porque, na foto, fica claro que se trata de um imóvel bastante distruído, que, para se tornar habitável, precisa de uma enorme reforma.}
 
-( x ) Ironia.
+\num{9} O que se pode deduzir sobre a qualidade dos imóveis do site MoreBem a partir do texto?
+\linhas{4}
+\coment{É possível deduzir que o site não esconde necessidades de reparos e reformas em seus imóveis anunciados; além disso, também se pode deduzir que o MoreBem oferece imóveis em melhores condições de moradia.}
 
-d\) No anúncio, qual é o significado da expressão Quarta-Feira de
-Cinzas? No anúncio, \"quarta-feira de cinzas\" significa a morte.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\num{4} Faça uma pesquisa, em diferentes tipos de textos, e escreva um
-exemplo para cada figura de linguagem proposta a seguir. Registre os
-resultados nas linhas.
-
-a\) Metonímia. Resposta pessoal.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-b\) Antítese. Resposta pessoal.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-c\) Catáfora. Resposta pessoal.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-d\) Ironia. Resposta pessoal.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-e\) Assonância. Resposta pessoal.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{10} Como a palavra "isto" coopera para a construção de um texto claro e coeso?
+\linhas{4}
+\coment{A palavra atua em um processo de coesão referencial, no qual estabelece uma relação catafórica, ou seja, conecta-se a algo que será mencionado mais à frente no texto.}
 
 \colorsec{Treino}
 
-\num{1} Leia o trecho do editorial a seguir. (Fácil)
+\num{1} Leia o trecho do editorial a seguir.
 
 **Pobre Líbano**
 
-A violentíssima explosão que assolou a capital do Líbano \[\...\]
+A capital do Líbano, Beirute, foi devastada por uma explosão destrutiva, que
 produziu um rastro de destruição geralmente só observado após grandes
 catástrofes naturais, como terremotos ou furacões.
 
-Aproximadamente metade da cidade de Beirute foi destruída ou danificada.
-A região portuária, epicentro do desastre, ficou completamente
-aniquilada. O número de mortos já ultrapassa 150, e o de feridos, 5.000,
-enquanto as buscas prosseguem entre os escombros. Nada menos que 300 mil
-pessoas perderam suas casas.
+Cerca de metade da cidade sofreu destruição ou danos significativos. A área portuária, onde o desastre teve seu epicentro, foi completamente arrasada. O número de vítimas fatais já ultrapassou 150, e mais de 5.000 pessoas ficaram feridas, enquanto as operações de busca continuam em andamento nos destroços. Um total de 300 mil indivíduos lamentavelmente perdeu suas residências.
 
-POBRE Líbano. Disponível em:
+Fonte de pesquisa: POBRE Líbano. Disponível em:
 https://www1.folha.uol.com.br/opiniao/2020/08/pobre-libano.shtml. Acesso
 em: 08 abr. 2023.
 
@@ -3189,23 +3135,21 @@ por fenômenos naturais.
 \(D\) o fato de que a destruição causada pela explosão nunca foi vista
 antes no país.
 
-Saeb: Identificar
-
-BNCC:
+\coment{A palavra "só", por si, já aponta para a ideia de restrição. Como, em seguida, aparecem, mencionados, fenômenos naturais, fica claro que é essa a restrição a que se refere.}
 
 a\) Correta. O uso "só" mostra o ponto de vista do veículo de
 comunicação de que esse tipo de destruição era observado somente após
 fenômenos naturais.
 
-b\) Incorreta. "só" indica uma restrição, e não uma quantidade.
+b\) Incorreta. A palavra "só" indica uma restrição, não quantidade.
 
-c\) Incorreta. A comparação é feita pela interpretação da frase, e não
+c\) Incorreta. A comparação é feita pela interpretação da frase, não
 pela utilização de "só".
 
-d\) Incorreta. "só" indica que essa destruição era vista após fenômenos
-naturais, e não que nunca foi vista.
+d\) Incorreta. O termo "só" indica que essa destruição era vista após fenômenos
+naturais, não que nunca foi vista.
 
-\num{2} Leia um trecho do poema de Fernando Pessoa. (Médio)
+\num{2} Leia um trecho do poema de Fernando Pessoa.
 
 **Ah! Ser indiferente!**
 
@@ -3225,23 +3169,21 @@ Que os deuses dos deuses dominam o mundo.
 
 \[\...\]
 
-PESSOA, Fernando. Ah! Ser indiferente!. Disponível em:
+Fernando Pessoa. Ah! Ser indiferente!. Disponível em:
 http://arquivopessoa.net/textos/3152. Acesso em: 08 abr. 2023.
 
 A repetição dos termos "ser", "é do" e "que", no início dos versos, é
 uma figura de linguagem conhecida por
 
-\(A\) anáfora, que dá musicalidade ao poema.
+\(A\) anáfora (repetição de termos em início de frases ou versos), que dá musicalidade ao poema.
 
-\(B\) gradação, que intensifica a musicalidade do poema.
+\(B\) gradação (reiteração de termos cujo significado se amplia ou se reduz), que intensifica a musicalidade do poema.
 
-\(C\) alegoria, que dá ritmo ao poema.
+\(C\) alegoria (figura de metaforização, em que imagens se sobrepõem a ideias), que dá ritmo ao poema.
 
-\(D\) metáfora, que faz comparações entre os versos.
+\(D\) metáfora (substituições por aproximação de significados), que faz comparações entre os versos.
 
-Saeb: D18
-
-BNCC: EF89LP37: Analisar os efeitos de sentido do uso de figuras de
+BNCC: EF89LP37 -- Analisar os efeitos de sentido do uso de figuras de
 linguagem como ironia, eufemismo, antítese, aliteração, assonância,
 dentre outras.
 
@@ -3259,7 +3201,7 @@ d\) Incorreta. A metáfora é uma figura de linguagem que compara dois
 elementos sem utilizar conjunção.
 
 \num{3} Leia o trecho do Livro do desassossego, atribuído ao heterônimo
-Bernardo Soares, de Fernando Pessoa. (Difícil)
+Bernardo Soares, de Fernando Pessoa.
 
 **L. do D. (Prefácio)**
 
@@ -3268,9 +3210,7 @@ sangue meu. O que devera humilhar-me é a minha bandeira, que desfraldo;
 e **o riso com que deveria rir de mim, é um clarim com que saúdo e gero
 uma alvorada em que me faço**. \[...\]
 
-PESSOA, Fernando. Livro do desassossego. Disponível em:
-
-www.dominiopublico.gov.br/download/texto/vo000008.pdf. Acesso em: 08
+Fernando Pessoa. Livro do desassossego. Disponível em: www.dominiopublico.gov.br/download/texto/vo000008.pdf. Acesso em: 08
 abr. 2023.
 
 No trecho, a frase destacada é formada pela figura de linguagem que
@@ -3284,9 +3224,7 @@ caracteriza uma relação comparativa entre dois elementos, denominada
 
 \(D\) gradação.
 
-Saeb: D18
-
-BNCC: EF89LP37 Analisar os efeitos de sentido do uso de figuras de
+BNCC: EF89LP37 -- Analisar os efeitos de sentido do uso de figuras de
 linguagem como ironia, eufemismo, antítese, aliteração, assonância,
 dentre outras.
 
@@ -3298,11 +3236,12 @@ musical, sem utilizar palavras comparativas, caracterizando-se como uma
 metáfora
 
 c\) Incorreta. A comparação difere-se da metáfora por utilizar palavras
-comparativas, por exemplo, "como".
+comparativas; por exemplo, "como".
 
 d\) Incorreta. A gradação consiste em construir uma série na qual o
 sentido das expressões vai se intensificando até um clímax ou se
 reduzindo até um anticlímax.
+
 
 # Módulo 10
 
