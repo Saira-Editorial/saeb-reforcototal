@@ -75,7 +75,7 @@
 % Medidas (ver: memoir p.11 fig.2.3)
 \parindent=3ex			% Tamanho da indentação
 \parskip=0pt			% Entre parágrafos
-\marginparsep=-3em		% Entre mancha e nota lateral
+\marginparsep=-4.5em		% Entre mancha e nota lateral
 \marginparwidth=5em		% Tamanho da caixa de texto da nota laterial
 
 %\newcommand{\rmarginnote}[1]{%
@@ -138,7 +138,7 @@
 
 \copypagestyle{art}{baruch}
 \makeoddhead{art}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
-\makeevenhead{art}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Artes}{}{}
+\makeevenhead{art}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Arte}{}{}
 \makeevenfoot{art}{\hspace*{-2cm}\thepage}{}{}
 \makeoddfoot{art}{}{}{\hspace*{16.5cm}\thepage}
 
@@ -147,6 +147,12 @@
 \makeevenhead{port}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Língua Portuguesa}{}{}
 \makeevenfoot{port}{\hspace*{-2cm}\thepage}{}{}
 \makeoddfoot{port}{}{}{\hspace*{16.5cm}\thepage}
+
+\copypagestyle{simu}{baruch}
+\makeoddhead{simu}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
+\makeevenhead{simu}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Simulado}{}{}
+\makeevenfoot{simu}{\hspace*{-2cm}\thepage}{}{}
+\makeoddfoot{simu}{}{}{\hspace*{16.5cm}\thepage}
 
 % Testes
 
