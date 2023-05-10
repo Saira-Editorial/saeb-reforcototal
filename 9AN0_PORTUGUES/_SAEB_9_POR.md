@@ -3245,30 +3245,28 @@ reduzindo até um anticlímax.
 
 # Módulo 10
 
-Neste módulo, os alunos vão compreender o papel das conjunções como
-recursos de coesão sequencial.
+Coesão e conjunções
 
-Habilidades da BNCC: EF09LP08 e EF09LP11.
-
-Habilidades do SAEB:
+Habilidades do SAEB
 
 \- Analisar os mecanismos que contribuem para a progressão textual.
 
 \- Analisar os processos de referenciação lexical e pronominal.
 
+Habilidades da BNCC: EF09LP08 e EF09LP11.
+
 \<início do boxe de conteúdo\>
 
 **Coesão sequencial e seus recursos**
 
-https://www.istockphoto.com/br/foto/businessperson-que-param-pessoas-de-queda-na-mesa-gm1146964274-309226920?utm\_source=pixabay&utm\_medium=affiliate&utm\_campaign=SRP\_image\_sponsored&utm\_content=https%3A%2F%2Fpixabay.com%2Fpt%2Fimages%2Fsearch%2Fsequencial%2F&utm\_term=sequencial
+https://www.freepik.com/free-photo/diverse-hands-united-business-teamwork-gesture_17229781.htm#query=coes%C3%A3o&position=28&from_view=search&track=ais
 
-![Businessperson que param pessoas de queda na mesa - Foto de stock de
-Dilema moral
-royalty-free](./_SAEB_9_POR/media/image26.jpeg){width="5.145833333333333in"
-height="3.429748468941382in"}
+**Coesão** é a característica de um texto se apresentar com partes adequadamente conectadas entre si. No módulo anterior, você já aprendeu o que são a anáfora e a catáfora, que fazem parte da construção da coesão referencial. 
 
-**Coesão sequencial** consiste na segunda grande modalidade de coesão
-textual, sendo aquela que se estabelece entre enunciados, parte de
+**Coesão referencial** é um conceito que se refere à organização e conexão das informações em um texto por meio do uso adequado de pronomes, expressões referenciais e outros elementos linguísticos que fazem referência a entidades previamente mencionadas. Esse tipo de coesão visa evitar repetições desnecessárias, tornando o texto mais fluente, conciso e compreensível para o leitor. Através da coesão referencial, os pronomes e expressões utilizados são capazes de remeter claramente a pessoas, objetos ou ideias já mencionadas anteriormente no texto, estabelecendo uma ligação coesa e coerente entre as diferentes partes do discurso.
+
+**Coesão sequencial** consiste na modalidade de coesão
+textual que se estabelece entre enunciados, parte de
 enunciados, parágrafos e sequências textuais por intermédio de
 procedimentos linguísticos, fazendo as ideias do texto progredirem.
 
@@ -3283,42 +3281,24 @@ orações e parágrafos. Observe:
 
 **Afirmação/igualdade:** felizmente; infelizmente; obviamente; na
 verdade; realmente; de igual forma; do mesmo modo que; nesse sentido;
-semelhantemente
+semelhantemente.
 
 **Exclusão:** somente; só; sequer; senão; exceto; excluindo; tão
-somente; apenas
+somente; apenas.
 
 **Explicação:** como se nota; com efeito; como vimos; portanto; pois; é
-óbvio que; isto é; por exemplo; a saber; de fato; aliás
+óbvio que; isto é; por exemplo; a saber; de fato; aliás.
 
 **Continuação:** em seguida; depois; no geral; em termos gerais; por sua
-vez; outrossim
-
-Exemplo:
-
-Para uma boa saúde, por exemplo, é preciso se alimentar bem e dormir
-oito horas por dia.
-
-O articulador **por exemplo** introduz uma explicação a respeito do que
-é preciso fazer para ter boa saúde.
+vez; outrossim.
 
 \<fim do boxe de conteúdo\>
 
 \colorsec{Atividades}
 
-1.  Leia um trecho de abertura do livro Fome Zero: Uma História
-    Brasileira, organizado por Adriana Veiga Aranha para responder às
-    questões propostas. Promova a leitura compartilhada e colaborativa
-    com os alunos, fazendo pausas para relacionar as informações lidas.
-    Oriente os alunos a marcar as palavras desconhecidas para que sejam
-    pesquisadas no dicionário após a leitura.
+Leia um trecho de abertura do livro *Fome Zero: Uma História Brasileira*, organizado por Adriana Veiga Aranha, para responder às questões de 1 a 3.
 
-https://www.istockphoto.com/br/foto/fome-m%C3%A3os-do-pobre-velho-uma-tigela-vazia-foco-seletivo-pobreza-na-aposentadoria-gm1301538713-393549508?phrase=fome
-
-![Fome. Mãos do pobre velho uma tigela vazia. Foco seletivo. Pobreza na
-aposentadoria. Esmola - Foto de stock de Pobreza - Questão social
-royalty-free](./_SAEB_9_POR/media/image27.jpeg){width="5.239583333333333in"
-height="2.8502252843394578in"}
+https://www.freepik.com/free-photo/homeless-woman-holding-hands-out-help_11219942.htm#query=hunger&position=10&from_view=search&track=sph
 
 **Lições da história -- avanços e retrocessos na trajetória das
 políticas públicas de combate à fome e à pobreza no Brasil**
@@ -3370,106 +3350,84 @@ econômico".
 
 \[\...\]
 
-Fome Zero: Uma História Brasileira. Organizadora: Adriana Veiga Aranha.-
+Adriana Veiga Aranha (Org.). Fome Zero: Uma História Brasileira.
 Brasília, DF: Ministério Zero, v. 1, 2010. Disponível em:
 <https://www.mds.gov.br/webarquivos/publicacao/Fome%20Zero%20Vol1.pdf>.
 Acesso em: 8 abr. 2023.
 
-a\) Segundo o texto, por que a iniciativa de registrar a experiência do
-Fome Zero merece ser saudada com entusiasmo? Porque expressa a
-indignação da sociedade com a permanência do paradoxo da presença da
-fome num País que produz alimentos em abundância.
+\num{1} Segundo o texto, por que a iniciativa de registrar a experiência do
+Fome Zero merece ser saudada com entusiasmo? 
+\linhas{5} 
+\coment{Porque expressa a indignação da sociedade com a permanência do paradoxo da presença da fome num País que produz alimentos em abundância.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{2} Como é possível garantir que iniciativas que garantem a segurança
+alimentar de pessoas pobres tenham sucesso? 
+\linhas{3}
+\coment{O tema precisa estar contemplado na estratégia de desenvolvimento do país.}
 
-b\) Como é possível garantir que iniciativas que garantem a segurança
-alimentar de pessoas pobres tenham sucesso? O tema precisa estar
-contemplado na estratégia de desenvolvimento do país.
+\num{3} Para Josué de Castro, o que é a fome? 
+\linhas{3}
+\coment{Para ele, a fome "É a mais trágica expressão do subdesenvolvimento econômico".}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-c\) Para Josué de Castro, o que é a fome? É a mais trágica expressão do
-subdesenvolvimento econômico".
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-4\. Releia um trecho do livro.
+Releia um trecho do livro para responder às questões de 4 a 7.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   A fome é a face mais amarga do retrato de uma sociedade que exibe índices de desigualdades sociais inadmissíveis frente aos níveis de riqueza alcançados pelo País. Extirpar essa mazela é mais do que uma prioridade é uma obrigação ainda não cumprida.
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-a\) Procure no dicionário o significado da palavra extirpar e
-registre-o. Extirpar significa arrancar pela raiz.
+\num{4} Procure no dicionário o significado da palavra extirpar e
+registre-o. 
+\linhas{3}
+\coment{Extirpar significa arrancar pela raiz.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{5} Que efeito de sentidos essa palavra traz ao trecho? 
+\linhas{3} 
+\coment{Essa palavra evidencia a indignação da autora do texto em relação ao fato citado.}
 
-b\) Que efeito de sentidos essa palavra traz ao trecho? Essa palavra
-evidencia a indignação da autora do texto em relação ao fato citado.
+\num{6} Com que intenção provavelmente ela foi usada? 
+\linhas{4} 
+\coment{Como um recurso de persuasão para convencer o leitor do absurdo do fato de haver pessoas que passam fome.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-c\) Com que intenção provavelmente ela foi usada? Como um recurso de
-persuasão para convencer o leitor do absurdo do fato de haver pessoas
-que passam fome.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-d\) Interligando as ideias temos o advérbio **ainda**, funcionando como
+\num{7} Interligando as ideias temos o advérbio **ainda**, funcionando como
 um articulador textual. A relação que ele traz aos sentidos do trecho é
-de:
+de
 
 **( )** igualdade.
 
-**(** x **)** adição.
+**(** x **)** tempo.
 
 **( )** exclusão.
 
 **( )** comparação.
 
-\num{5} Ipiranga é uma rede de postos de gasolina. Leia a seguir um anúncio
-dessa empresa para conscientização de motoristas, motociclistas e
-pedestres para ampliar o movimento Maio Amarelo e o comportamento seguro
-no trânsito.
+Observe o anúncio e leia o texto que o acompanha para, então, responder às questões de 8 a 10.
 
-https://www.aberje.com.br/ipiranga-lanca-na-direcao-seja-amarelao-para-promover-maio-amarelo/
+https://www.freepik.com/free-photo/top-view-ingredients-veggies-salad_8964876.htm#query=healthy&position=28&from_view=search&track=sph
 
-![](./_SAEB_9_POR/media/image28.jpeg){width="4.895833333333333in"
-height="2.75in"}
+"Quanto mais saúde, mais vida. Quanto mais vida, mais memórias. Quanto mais memórias, melhor!
+Ser saudável é muito mais do que cortar prazeres - aliás, ser saudável é o oposto disso."
 
-a\) Qual é objetivo do produtor do anúncio? Provocar no leitor reflexão
-acerca da importância do comportamento consciente no trânsito.
+\num{8} A expressão "quanto mais"... ajuda a construir uma circunstância de
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**( )** condição.
 
-b\) O substantivo **amarelão** é formado a partir do verbo **amarelar**,
-que significa tingir de amarelo, tornar amarelo. **Amarelão** é uma
-gíria usada pelos falantes para referir-se a pessoas que perdem a
-coragem diante de situação difícil, perigosa, embaraçosa etc., sentem
-medo. Que efeito o uso dessa gíria produz no contexto apresentado?
-Explique sua resposta. No anúncio, a gíria tem significado positivo,
-reforçando a importância de se ter atitudes e comportamentos seguros e
-cautelosos no trânsito.
+**(** x **)** porporção.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**( )** concessão.
 
-c\) Releia o slogan do anúncio:
+**( )** finalidade.
 
-  -----------------------------------------------------------------------------------------
-  "[Amarelar]{.underline} no Trânsito é um ato de [coragem]{.underline}. Respeite a Vida"
-  -----------------------------------------------------------------------------------------
+\num{9} Por que você acha que se afirma que "quanto mais memórias, melhor"?
+\linhas{5}
+\coment{Porque a construção de memórias justifica as pessoas estarem vivas e conviverem. As memórias são o símbolo de um tempo vivido.}
 
--   Identifique e sublinhe as palavras com significados opostos.
-
--   Que efeitos de sentido o uso dessas palavras atribui ao anúncio?
-    Essas palavras realçam e intensificam a ideia que se quer transmitir
-    no anúncio.
-
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{10} Se "Ser saudável é muito mais do que cortar prazeres", mas sim o oposto disso, o que é, então, segundo o anúncio, ser saudável?
+\linhas{5}
+\coment{Ser saudável é, segundo o anúncio, não se privar dos prazeres da vida, não fazer cortes naquilo que se consome e se vive.}
 
 \colorsec{Treino}
 
-\num{1} Leia o anúncio a seguir. (Fácil)
+\num{1} Leia o anúncio a seguir. 
 
 https://www.facebook.com/cnj.oficial/photos/a.191159914290110/1681947658544654/?type=3
 
@@ -3611,7 +3569,9 @@ c\) Incorreta. É uma oração subordinada adverbial causal.
 d\) Correta. "Assim que cheguei em casa" é uma oração subordinada
 adverbial temporal, assim como a oração destacada no texto.
 
-11\. Variações da língua
+#Módulo 11
+
+Regências
 
 Neste módulo, os alunos vão analisar e explorar a regência de alguns
 verbos.
