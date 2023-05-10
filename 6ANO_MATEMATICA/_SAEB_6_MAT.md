@@ -1,4 +1,4 @@
-# 1. Representações dos números
+# 1. Representações numéricas
 
 Habilidades do SAEB
 
