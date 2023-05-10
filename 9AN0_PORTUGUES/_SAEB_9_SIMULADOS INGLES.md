@@ -196,88 +196,42 @@ c\) Incorreta. O texto não menciona essa possibilidade.
 d\) Incorreta. O texto apenas menciona a cidade de Londres, sem falar de seu crescimento.
 
 # Simulado 3
-1 -- Leia o texto a seguir e responda à pergunta:
+\num{1} Leia o texto.
 
-**Coronavirus effect: Here\'s why you should wear masks in public places
-even when there is no mandate**
+>**Coronavirus effect**
 
-"\[...\]
+>COVID is a respiratory tract infection, although it can sometimes affect other parts of the body. The coronavirus primarily enters the body through the nostrils and mouth, where it then replicates in the respiratory tract. The only way to prevent contracting the infection is by limiting the virus's entry through the nose and mouth. Properly wearing masks that cover the nose and mouth can help, as well as regularly sanitizing hands, particularly after touching a contaminated surface, to reduce the likelihood of the virus entering the body.
 
-**The virus affects the respiratory tract first**
-
-COVID is a respiratory tract infection though sometimes it affects other
-body organs. The coronavirus enters the body through the nostrils and
-mouth mostly and breeds in the respiratory tract.
-
-The only way to stop contracting the infection is by limiting its entry
-through nose and mouth. While masks cover nose and mouth properly,
-sanitizing hands regularly especially after touching a contaminated
-surface reduces the chance of the virus to enter the body.
-
-\[...\]."
-
-\fonte{<https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-effect-heres-why-you-should-wear-masks-in-public-places-even-when-there-is-no-mandate/photostory/92539871.cms?picid=92540018>.
-Acesso em: 02 mar. 2023.
+\fonte{Fonte de pesquisa: Times of India. Coronavirus Effect: Here's Why You Should Wear Masks In Public Places Even When There Is No Mandate. Disponível em: *https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-effect-heres-why-you-should-wear-masks-in-public-places-even-when-there-is-no-mandate/photostory/92539871.cms?picid=92540018*. Acesso em: 02 mar. 2023.}
 
 De acordo com o texto, um dos argumentos para o uso de máscaras contra a
-Covid-19 refere-se ao fato de que
+covid-19 refere-se ao fato de que
 
-a\) todos os órgãos do corpo podem ser afetados.
+a\) nem todos os órgãos do corpo podem ser afetados.
 
-b\) ela impede a contaminação de superfícies.
+b\) a medida impede a contaminação de superfícies.
 
 c\) a doença afeta o trato respiratório primeiro.
 
 d\) a higienização de mãos não é importante.
 
-Dificuldade: Difícil.
-
-Saeb: Identificar os recursos verbais e/ou não verbais que contribuem
+SAEB: Identificar os recursos verbais e/ou não verbais que contribuem
 para a construção da argumentação em textos em língua inglesa. BNCC:
-(EF09LI07) Identificar argumentos principais e as evidências/exemplos
+EF09LI07 -- Identificar argumentos principais e as evidências/exemplos
 que os sustentam.
 
-a\) Incorreta. O texto afirma que a doença pode afetar outros órgãos.
-
+a\) Incorreta. No texto, afirma-se, genericamente, que parte do corpo em geral podem ser afetadas.
 b\) Incorreta. O texto menciona a contaminação de superfícies.
+c\) Correta. Essa afirmação pode ser encontrada no trecho "COVID is a respiratory tract infection, although it can sometimes affect other parts of the body".
+d\) Incorreta. O texto afirma que a higienização deve ser realizada, além do uso de máscaras.
 
-c\) Correta. Essa afirmação pode ser encontrada no trecho "COVID is a
-respiratory tract infection though sometimes it affects other body
-organs".
+\num{2} Leia o texto.
 
-d\) Incorreta. O texto afirma que a higienização deve ser realizada
-junto ao uso de máscaras.
+>**Tips for Navigating Breaking News in the Age of Social Media**
 
-2 -- Leia o texto a seguir e responda à pergunta:
+>Breaking news can be accessed by anyone with an internet connection, albeit sometimes in a modified version. Social media posts tend to circulate at a rate that surpasses the capacity of most moderators and fact-checkers, and their content can be a mixed bag of factual, false, out-of-context, and even propagandistic information. How can you differentiate between trustworthy and untrustworthy sources, and what criteria should you employ when deciding what to share and report to tech companies? Here are some fundamental guidelines that everyone should utilize when consuming breaking news online: analyze who is disseminating the information. If it's your acquaintances or relatives, be cautious and do not accept their posts as accurate, unless they have direct experience or are acknowledged experts on the subject. If it's a stranger or organization, keep in mind that having a verified check mark or being popular does not equate to reliability.
 
-**How to avoid falling for and spreading misinformation online**
-
-Anyone with an internet connection can watch breaking news unfold in
-real time, or at least some version of it. Across social media, posts
-can fly up faster than most fact-checkers and moderators can handle, and
-they're often an unpredictable mix of true, fake, out of context and
-even propaganda.
-
-\[...\]
-
-How do you know what to trust, what not to share and what to flag to
-tech companies? Here are some basic tools everyone should use when
-consuming breaking news online.
-
-\[...\]
-
-**Check the source**
-
-Look at who is sharing the information. If it's from friends or family
-members, don't trust the posts unless they are personally on the ground
-or a confirmed expert. If it's a stranger or organization, remember that
-a verified check mark or being well-known does not make an account
-trustworthy.
-
-\[...\]".
-
-\fonte{<https://www.washingtonpost.com/technology/2022/02/24/tips-avoid-misinformation-ukraine-2/>.
-Acesso em: 02 mar. 2023.
+\fonte{Fonte de pesquisa: Heather Kelly. The Washington Post. How to avoid falling for and spreading misinformation online. Disponível em: *https://www.washingtonpost.com/technology/2022/02/24/tips-avoid-misinformation-ukraine-2/*. Acesso em: 02 mar. 2023.}
 
 Segundo o texto, como podemos identificar um argumento confiável?
 
@@ -289,204 +243,125 @@ c\) Devemos confiar somente nas informações encontradas na internet.
 
 d\) Devemos utilizar somente redes sociais confiáveis.
 
-Dificuldade: Fácil.
-
-Saeb: - Avaliar a qualidade e a validade das informações veiculadas em
+SAEB: Avaliar a qualidade e a validade das informações veiculadas em
 textos de língua inglesa, incluindo textos provenientes de ambientes
-virtuais. BNCC: (EF09LI06) Distinguir fatos de opiniões em textos
+virtuais. BNCC: EF09LI06 -- Distinguir fatos de opiniões em textos
 argumentativos da esfera jornalística.
 
 a\) Incorreta. Segundo o texto, devemos ser cuidadosos com textos
 compartilhados por familiares.
-
-b\) Correta. Podemos encontrar a resposta no trecho "\[\...\], don't
-trust the posts unless they are personally on the ground or a confirmed
-expert."
-
+b\) Correta. Checar a fonte das informações e confiar em especialistas são duas ferarmentas importantes contra as inverdades na internet.
 c\) Incorreta. De acordo com o texto, nem toda fonte da internet é
 confiável.
-
 d\) Incorreta. O texto apenas menciona o uso de redes sociais.
 
-3 -- Leia o texto a seguir e responda à pergunta:
+\num{3} Leia o texto.
 
-**Newly discovered hummingbird looks like it's wearing a golden collar**
+>**Discovery of a Potential New Hummingbird Species in Peru's Cordillera Azul National Park**
 
-"When researchers found a hummingbird with shiny gold feathers on its
-throat in Peru's Cordillera Azul National Park, they thought it was a
-newly discovered species.
+>When researchers spotted a hummingbird with shiny gold feathers on its throat in Peru's Cordillera Azul National Park, they thought it might be a newly discovered species. The park, located on a remote **spot** of the Andes Mountains' eastern slopes, is an ideal place to spot genetically distinct species.
 
-The park, part of an outer ridge of the Andes Mountains' eastern slopes,
-is an isolated place --- the perfect **spot** to find a genetically
-distinct species.
+\fonte{Fonte de pesquisa:  Ashley Strickland. CNN. Newly discovered hummingbird looks like it's wearing a golden collar. Disponível em: *https://edition.cnn.com/2023/03/02/world/gold-throated-hummingbird-hybrid-scn/index.html*. Acesso em: 02 mar. 2023.}
 
-\[...\]".
-
-\fonte{<https://edition.cnn.com/2023/03/02/world/gold-throated-hummingbird-hybrid-scn/index.html>.
-Acesso em: 02 mar. 2023.
-
-No contexto apresentado no texto acima, a palavra "spot" significa
+No contexto apresentado no texto, a palavra "spot" significa
 
 a\) "mácula".
 
-b\) "mancha"
+b\) "mancha".
 
 c\) "local".
 
 d\) "pinta".
 
-Dificuldade: Média.
-
-Saeb: Avaliar o uso do léxico (tais como palavras polissêmicas ou
-expressões metafóricas) em textos em língua inglesa. BNCC: (EF06LI08)
+SAEB: Avaliar o uso do léxico (tais como palavras polissêmicas ou
+expressões metafóricas) em textos em língua inglesa. BNCC: EF06LI08 --
 Identificar o assunto de um texto, reconhecendo sua organização textual
 e palavras cognatas.
 
 a\) Incorreta. A palavra não é utilizada no sentido figurado de
 "mácula".
-
 b\) Incorreta. A palavra não é utilizada na acepção de "mancha".
-
 c\) Correta. O termo se refere ao local onde a espécie foi encontrada.
-
 d\) Incorreta. A palavra não é utilizada na acepção de "pinta".
 
-Matemática
-----------
-
-Ciências da Natureza
---------------------
-
-Ciências Humanas
-----------------
-
 # Simulado 4
-==========
+num{1} Leia o texto.
 
-Língua Portuguesa
------------------
-
-Arte
-----
-
-Educação Física
----------------
-
-Língua Inglesa
---------------
-
-1 -- Leia o trecho a seguir e responda à pergunta:
-
-"I had never heard Joe read aloud to any greater extent than this
+>I had never heard Joe read aloud to any greater extent than this
 monosyllable, and I had observed at church last Sunday, when I
 accidentally held our Prayer-Book upside down, that it seemed to suit
 his convenience quite as well as if it had been all right. Wishing to
 embrace the present occasion of finding out whether in teaching Joe, I
-should have to begin quite at the beginning, I said, 'Ah! But read the
-rest, Jo.'
+should have to begin quite at the beginning, I said, "Ah! But read the
+rest, Jo."
 
-'The rest, eh, Pip?' said Joe, looking at it with a slow, searching eye,
-'One, two, three. Why, here's three Js, and three Os, and three J-O,
-Joes in it, Pip!'
+"The rest, eh, Pip?" said Joe, looking at it with a slow, searching eye,
+"One, two, three. Why, here's three Js, and three Os, and three J-O,
+Joes in it, Pip!"
 
-\[...\]".
-
-\<DICKENS, Charles. *Great Expectations.* Disponível em:
-<https://www.gutenberg.org/cache/epub/1400/pg1400-images.html>. Acesso
-em 02 mar. 2023.
+\fonte{Charles Dickens. _Great Expectations_. Disponível em:
+*https://www.gutenberg.org/cache/epub/1400/pg1400-images.html*. Acesso
+em: 02 mar. 2023.}
 
 As duas personagens envolvidas no diálogo reproduzido acima são:
 
-a\) Joe e observed.
+a\) Os e Js.
 
-b\) Joe e Sunday.
+b\) J-O e Sunday.
 
-c\) Joe e Prayer-Book.
+c\) Pip e Prayer-Book.
 
 d\) Joe e Pip.
 
-Dificuldade: Fácil.
-
-Saeb: Reconhecer elementos de forma e/ou conteúdo de textos de cunho
+SAEB: Reconhecer elementos de forma e/ou conteúdo de textos de cunho
 artístico-cultural (artes, literatura, música, dança, festividades,
-entre outros) em língua inglesa. BNCC: (EF07LI06) Antecipar o sentido
+entre outros) em língua inglesa. BNCC: EF07LI06 -- Antecipar o sentido
 global de textos em língua inglesa por inferências, com base em leitura
 rápida, observando títulos, primeiras e últimas frases de parágrafos e
 palavras-chave repetidas.
 
-a\) Incorreta. "Observed" é uma conjugação do verbo "observe".
+a\) Incorreta. "Js" refere-se às letras.
+b\) Incorreta. "Sunday" significa "domingo" e "J-O" refere-se às letras.
+c\) Incorreta. Pip é um personagem, mas "Prayer-Book" significa "livro de orações".
+d\) Correta. Joe e Pip são os personagens que aparecem no diálogo.
 
-b\) Incorreta. "Sunday" significa "domingo".
+\num{2} Leia o texto.
 
-c\) Incorreta. "Prayer-Book" significa "livro de orações".
+>**Astronomers Discover Massive Early Galaxies Dating Back to 600 Million Years After Big Bang**
 
-d\) Correta. Joe e Pip são citados no diálogo.
+>Scientists studying the universe have recently detected what appears to be colossal galaxies that existed approximately 600 million years after the Big Bang. These findings suggest that the early universe may have undergone a rapid development that led to the formation of these enormous galaxies. While the James Webb Space Telescope has identified galaxies that are even older, dating back to a mere 300 million years after the universe's beginning, it is the vast size and advanced age of these six massive galaxies that have astonished astronomers. These discoveries were reported on Wednesday.
 
-2 -- Leia o texto a seguir e responda à questão:
+\fonte{Fonte de pesquisa: The Associate Press. NPR. The Webb telescope finds surprisingly massive galaxies from the universe's youth. Disponível em: *https://www.npr.org/2023/02/22/1158793897/webb-telescope-huge-early-galaxies-big-bang*.
+Acesso em: 02 mar. 2023.
 
-**The Webb telescope finds surprisingly massive galaxies from the
-universe\'s youth**
+O texto trata
 
-"Astronomers have discovered what appear to be massive galaxies dating
-back to within 600 million years of the Big Bang, suggesting the early
-universe may have had a stellar fast-track that produced these
-\"monsters.\"
+a\) da natureza da galáxia que habitamos.
 
-While the new James Webb Space Telescope has spotted even older
-galaxies, dating to within a mere 300 million years of the beginning of
-the universe, it\'s the size and maturity of these six apparent
-mega-galaxies that stun scientists. They reported their findings
-Wednesday.
+b\) da descoberta de galáxias pelo telescópio James Webb.
 
-\[...\]".
+c\) do funcionamento do telescópio James Webb.
 
-\fonte{<https://www.npr.org/2023/02/22/1158793897/webb-telescope-huge-early-galaxies-big-bang>.
-Acesso em 02 mar. 2023.
+d\) da idade de nosso universo.
 
-O texto reproduzido acima fala sobre
-
-a\) a natureza da galáxia que habitamos.
-
-b\) a descoberta de galáxias pelo telescópio James Webb.
-
-c\) o funcionamento do telescópio James Webb.
-
-d\) a idade de nosso universo.
-
-Dificuldade: Média.
-
-Saeb: Identificar o assunto de um texto, a partir de sua organização, de
-palavras cognatas e/ou de palavras formas por afixação. BNCC: (EF06LI06)
+SAEB: Identificar o assunto de um texto, a partir de sua organização, de
+palavras cognatas e/ou de palavras formas por afixação. BNCC: EF06LI06 --
 Antecipar o sentido global de textos em língua inglesa por inferências,
 com base em leitura rápida, observando títulos, primeiras e últimas
 frases de parágrafos e palavras-chave repetidas.
 
 a\) Incorreta. O texto cita somente galáxias recentemente descobertas.
-
-b\) Correta. A resposta pode ser encontrada no trecho "Astronomers have
-discovered what appear to be massive galaxies dating back to within 600
-million years of the Big Bang \[...\]".
-
-c\) Incorreta. O texto apenas menciona o telescópio.
-
+b\) Correta. A resposta pode ser encontrada no trecho "Scientists studying the universe have recently detected what appears to be colossal galaxies that existed approximately 600 million years after the Big Bang".
+c\) Incorreta. O texto apenas menciona o telescópio, mas não explica seu funcionamento.
 d\) Incorreta. O texto não menciona informações sobre o universo.
 
-3 - Leia o texto a seguir e responda à questão:
+\num{3} Leia o texto.
 
-**Rare evidence that dinosaurs feasted on mammals uncovered**
+>**Preserved Remains of Dinosaur's Last Meal Found in Fossilized Microraptor**
 
-"Sometime during the Cretaceous Period, 120 million years ago, a
-dinosaur wolfed down its last meal --- a small mammal the size of a
-mouse. And it's still there.
+>Around 120 million years ago, during the Cretaceous Period, a dinosaur devoured its final meal: a tiny mammal measuring the size of a mouse. Remarkably, the remains of the meal still exist to this day. An observant researcher noticed the preserved foot of the mammal inside the abdomen of a fossilized Microraptor zhaoianus, a feathered therapod that measured less than one meter (or three feet) in length.
 
-A researcher with a sharp eye spotted the mammal's foot preserved inside
-the guts of a fossilized Microraptor zhaoianus, a feathered therapod
-less than a meter (3 feet) long.
-
-\[...\]".
-
-\fonte{<https://edition.cnn.com/2022/12/26/world/dinosaur-mammal-last-meal-scn/index.html>.
-Acesso em: 02 mar. 2023.
+\fonte{Fonte de pesquisa: Katie Hunt. CNN. Rare evidence that dinosaurs feasted on mammals uncovered. Disponível em: *https://edition.cnn.com/2022/12/26/world/dinosaur-mammal-last-meal-scn/index.html*. Acesso em: 02 mar. 2023.}
 
 De acordo com o texto, os pesquisadores encontraram
 
@@ -498,30 +373,13 @@ c\) novas espécies de mamíferos.
 
 d\) espécies de dinossauros minúsculas.
 
-Dificuldade: Difícil.
-
-Saeb: Localizar informações específicas, a partir de diferentes
-objetivos de leitura, em textos em língua inglesa. BNCC: (EF06LI08)
+SAEB: Localizar informações específicas, a partir de diferentes
+objetivos de leitura, em textos em língua inglesa. BNCC: EF06LI08 --
 Identificar o assunto de um texto, reconhecendo sua organização textual
 e palavras cognatas.
 
-a\) Correta. A informação pode ser encontrada no trecho "A researcher
-with a sharp eye spotted the mammal's foot preserved inside the guts of
-a fossilized Microraptor zhaoianus".
-
+a\) Correta. A informação pode ser encontrada no trecho "a dinosaur devoured its final meal: a tiny mammal measuring the size of a mouse".
 b\) Incorreta. O texto não menciona uma nova espécie.
-
 c\) Incorreta. O texto menciona um mamífero encontrado dentro das
-entranhas do dinossauro.
-
+entranhas de um dinossauro.
 d\) Incorreta. O texto menciona somente o tamanho do fóssil.
-
-Matemática
-----------
-
-Ciências da Natureza
---------------------
-
-Ciências Humanas
-----------------
-

@@ -2111,13 +2111,9 @@ coronavírus.
 
 # Módulo 7
 
-Neste módulo, os alunos vão explorar as características do gênero
-textual reportagem, avaliando e analisando graus de parcialidade nesse
-tipo de texto.
+Jornalismo e parcialidade
 
-Habilidades da BNCC: (não há correspondência)
-
-Habilidades do SAEB:
+Habilidades do SAEB
 
 \- Analisar marcas de parcialidade em textos jornalísticos.
 
@@ -2126,15 +2122,12 @@ Habilidades do SAEB:
 \- Avaliar a fidedignidade de informações sobre um mesmo fato divulgado
 em diferentes veículos e mídias.
 
+
 \<início do boxe de conteúdo\>
 
 **Reportagem**
 
 https://pixabay.com/pt/vectors/reportagem-o-neg%c3%b3cio-cinegrafista-4773846/
-
-![Gráficos vetoriais grátis de
-Reportagem](./_SAEB_9_POR/media/image16.png){width="3.521895231846019in"
-height="3.3541666666666665in"}
 
 A **reportagem** consiste em um gênero jornalístico que aborda questões
 de interesse do público em geral. Quem a elabora faz a realização de um
@@ -2152,13 +2145,11 @@ intenção de fornecer informações mais objetivas acerca do assunto.
 Normalmente, a reportagem traz associação de elementos da linguagem
 verbal -- título, linha-fina (ou subtítulo), texto principal e textos
 complementares -- a recursos visuais, como mapas, gráficos,
-infográficos, fotografias e ilustrações, que tem a finalidade de
-aumentar as informações e explicar detalhadamente o assunto, enfocando
-no trabalho investigativo na produção do texto.
+infográficos, fotografias e ilustrações, com a finalidade de
+aumentar as informações e explicar detalhadamente o assunto.
 
-A **linguagem** de uma reportagem precisa ser transmitida de modos claro
-e objetivo, para que se cumpra o objetivo de informar com detalhamento
-ao leitor. A voz dos entrevistados pode aparecer em discurso direto ou
+A **linguagem** de uma reportagem precisa ser transmitida de forma clara e objetiva, para que se cumpra o objetivo de informar com detalhamento
+o leitor. A voz dos entrevistados pode aparecer em discurso direto ou
 indireto. No discurso direto, o uso de verbos de elocução antes, no meio
 ou após a citação ajuda a perceber a intencionalidade de quem está
 falando. Utiliza-se a 3ª pessoa do discurso, o que confere tom impessoal
@@ -2168,14 +2159,13 @@ ao tema que está em discussão.
 
 \colorsec{Atividades}
 
-\num{1} A reportagem que você vai ler foi publicada no site do Plenarinho.
-Leia com atenção.
+A reportagem que você vai ler foi publicada no site do Plenarinho.
+Leia com atenção para, então, responder às questões de 1 a 6.
 
-Oriente os alunos a identificar o tema da reportagem. Depois da leitura,
-pergunte-lhes o que acharam do texto e quais informações consideraram
-mais interessantes. Solicite-lhes que tentem avaliar também a forma de
+\Coment{Oriente os alunos a identificar o tema da reportagem. Depois da leitura,
+pergunte o que acharam do texto e questione sobre informações que tenham chamado mais a atenção. Solicite que tentem avaliar também a forma de
 organização do texto e os elementos utilizados para destacar ou
-hierarquizar informações.
+hierarquizar informações}.
 
 **Drogas: inimigas da vida**
 
@@ -2192,11 +2182,11 @@ toda a sociedade.
 
 Os motivos do uso de drogas variam muito e pessoas têm diferentes
 necessidades, impulsos ou objetivos. No entanto, um ponto parece não se
-alterar muito de país para país: o fato dos jovens serem o grupo mais
+alterar muito de país para país: o fato de os jovens serem o grupo mais
 vulnerável às drogas.
 
 A adolescência é uma fase de muitas mudanças físicas, mas também
-sociais. Mudam os papéis e as relações, o comportamento é afetados e
+sociais. Mudam os papéis e as relações, o comportamento é afetado e
 cria-se um contexto de incertezas e descobertas. Além disso,
 muitas experiências da vida adulta passam a ser possíveis, sem que, no
 entanto, tenha-se maturidade para vivenciá-las.
@@ -2206,21 +2196,19 @@ desta etapa, o jovem muitas vezes decide experimentar algum tipo
 de droga sem saber exatamente aonde ela o levará. Isso é verdadeiro
 tanto para as drogas consideradas lícitas, como remédios, cigarro e o
 álcool, como para as ilícitas -- proibidas
-por [lei](https://plenarinho.leg.br/index.php/glossary/lei/) -- , como
-maconha, crack, cocaína.
+por lei , como maconha, crack, cocaína.
 
 **Consumo crescente**
 
 Uma triste notícia é que o consumo de drogas está começando cada vez
 mais cedo. Uma pesquisa feita
-pelo [Centro](https://plenarinho.leg.br/index.php/glossary/centro/) Brasileiro
-de Informações sobre Drogas Psicotrópicas (Cebrid), ouviu cerca de 50
+pelo Centro Brasileiro
+de Informações sobre Drogas Psicotrópicas (Cebrid) ouviu cerca de 50
 mil estudantes de escolas públicas. Os dados mostraram que crianças de
 10 anos de idade já começam a ter contato com as drogas. O álcool, na
 maioria das vezes, é a porta de entrada para o vício.
 
-Apesar de
-a [legislação](https://plenarinho.leg.br/index.php/glossary/legislacao/) brasileira
+Apesar de a legislação brasileira
 permitir o uso de bebidas alcoólicas somente a partir dos 18 anos, 90%
 dos estudantes entrevistados afirmaram que elas são facilmente
 adquiridas.
@@ -2236,7 +2224,7 @@ adolescência, vai se perguntar o porquê de não usar também. É preciso
 ficar atento às atitudes dentro da própria casa", advertiu.
 
 E vale lembrar: quanto mais cedo o jovem tem contato com a droga, maior
-é o risco dele se tornar usuário frequente. "Hoje, eles têm contato com
+é o risco de ele se tornar usuário frequente. "Hoje, eles têm contato com
 o álcool aos 11 anos, com cigarro aos 12 e com a maconha aos 13″, disse
 o médico.
 
@@ -2259,10 +2247,9 @@ mundo está fazendo, eu quero fazer também".
 **Drogas afetam a saúde**
 
 Muita gente acredita que o consumo esporádico de drogas não faz mal.
-Errado. Se não tiver sido prescrita por um médico, as drogas podem
+Errado. Se não tiver sido prescrita por um médico, a droga pode
 prejudicar de forma grave a saúde, perturbando os estudos e alterando o
-humor. E o pior: ninguém sabe com antecedência se vai ou não se tornar
-um viciado.
+humor. [...]
 
 "De um lado, há uma série de pressões culturais e sociais para que o
 jovem beba. De outro, existe a curiosidade e a necessidade de
@@ -2309,45 +2296,34 @@ J: Eu diria pra elas nunca experimentarem cigarro, nem nenhuma outra
 droga! Mesmo que seus colegas fumem e que pareça divertido, não caia
 nessa, pois o cigarro não traz absolutamente nada de bom. Se por acaso
 você estiver passando por problemas emocionais, como acontece com muitos
-adolescentes, converse com seus pais, pois são eles quem melhor pode
-ajudá-lo. Somente longe das drogas é possível ter uma vida saudável e
+adolescentes, converse com seus pais [...]. Somente longe das drogas é possível ter uma vida saudável e
 feliz. Infelizmente eu tive que sofrer para perceber isso. Mas garanto
 que aprendi a lição.
 
-Drogas: inimigas da vida**. Plenarinho.** Disponível em:
+Drogas: inimigas da vida. Plenarinho.Disponível em:
 <https://plenarinho.leg.br/index.php/2017/05/drogas-inimigas-da-vida/>.
 Acesso em: 05 abr. 2023.
 
-a\) A quem essa reportagem é dirigida? Ao público em geral, mas
-principalmente aos jovens.
+\num{1} A quem essa reportagem é dirigida? 
+\linhas{4}
+Ao público em geral, mas principalmente aos jovens.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{2} Qual é o provável objetivo de dedicar a esse público uma reportagem
+relacionada a esse tema? 
+\linhas{6}
+Provavelmente, trazer a discussão sobre o perigo das drogas para o dia a dia de crianças e jovens, considerando que é por meio da informação que se combate esse tipo de problema.
 
-b\) Qual é o provável objetivo de dedicar a esse público uma reportagem
-relacionada a esse tema? Provavelmente, trazer a discussão sobre o
-perigo das drogas para o dia a dia de crianças e jovens, considerando
-que é por meio da informação que se combate esse tipo de problema.
+\num{3} De acordo com a reportagem, por que os jovens decidem experimentar
+as drogas? 
+\linhas{4}
+Muitas vezes, em busca por amizades e o consolo para os dilemas dessa etapa da vida.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{4} Que informação no primeiro parágrafo da reportagem está relacionada
+com o título? 
+\linhas{4}
+As consequências que o vício traz para a vida dos jovens e para toda a sociedade.
 
-c\) De acordo com a reportagem, por que os jovens decidem experimentar
-as drogas? Muitas vezes, em busca por amizades e o consolo para
-os dilemas dessa etapa da vida.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-d\) Que informação no primeiro parágrafo da reportagem está relacionada
-com o título? As consequências que o vício traz para a vida dos jovens e
-de toda a sociedade.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\num{2} A reportagem tem como característica o trabalho investigativo
-realizado por jornalistas. Nela, os fatos são abordados de modo mais
-detalhado.
-
-a\) Marque os tipos de informações que deixam evidente o trabalho
-investigativo do jornalista na reportagem lida.
+\num{5} A reportagem tem como característica o trabalho investigativo realizado por jornalistas. Nela, os fatos são abordados de modo mais detalhado. Marque os tipos de informações que deixam evidente o trabalho investigativo do jornalista na reportagem lida.
 
 ( x ) Dados de pesquisas.
 
@@ -2357,17 +2333,11 @@ investigativo do jornalista na reportagem lida.
 
 ( x ) Entrevista.
 
-b\) Por qual motivo essas informações são importantes em uma reportagem?
-Porque deixam em evidência o compromisso do jornalista com a verdade,
-tendo em vista que apresentou elementos para comprovar o que está
-relatando.
+\num{6} Por qual motivo essas informações são importantes em uma reportagem?
+\linhas{5}
+Porque deixam em evidência o compromisso do jornalista com a verdade, tendo em vista que apresentou elementos para comprovar o que está relatando.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\num{3} A voz dos especialistas pode aparecer de variadas formas na
-reportagem. Veja algumas
-
-possibilidades.
+A voz dos especialistas pode aparecer de variadas formas na reportagem. Veja algumas possibilidades.Depois, responda às questões de 7 a 10.
 
 I.
 
@@ -2381,23 +2351,26 @@ II\.
   O publicitário Jorge Borges, que mora em Brasília, é um exemplo do que dizem as pesquisas. Quando tinha 34 anos, em entrevista ao Plenarinho, ele contou sobre sua luta para se livrar da dependência do tabaco.
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-a\) No trecho I, sublinhe o modo verbal utilizado para incluir a fala no
-texto da reportagem. Resposta no trecho.
+\num{7} No trecho I, sublinhe o modo verbal utilizado para incluir a fala no
+texto da reportagem. 
+\coment{Resposta no trecho.}
 
-b\) Ainda no trecho **I**, sublinhe os sinais gráficos utilizados para
-apresentar a fala do entrevistado. Resposta no trecho.
+\num{8} Ainda no trecho **I**, sublinhe os sinais gráficos utilizados para
+apresentar a fala do entrevistado. 
+\coment{Resposta no trecho}.
 
-c\) No que se refere à fala do trecho **II**, utilizou-se o discurso
-direto ou indireto? Discurso indireto.
+\num{9} No que se refere à fala do trecho **II**, utilizou-se o discurso
+direto ou o indireto? 
+\linhas{1}
+\coment{Discurso indireto.}
 
-d\) Qual discurso dá mais credibilidade à reportagem: o discurso direto
-ou o discurso indireto? Justifique sua resposta. O discurso direto, uma
-vez que transfere exatamente o que o entrevistado falou.
+\num{10} Qual discurso dá mais credibilidade à reportagem: o discurso direto
+ou o discurso indireto? Justifique sua resposta. 
+\linhas{5}
+\coment{O discurso direto, uma vez que transfere exatamente o que o entrevistado falou.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-4.  Na reportagem, o jornalista expressa sua opinião e suas impressões
-    em relação ao assunto. Releia os trechos a seguir.
+Na reportagem, o jornalista expressa sua opinião e suas impressões
+    em relação ao assunto. Releia os trechos a seguir e, então, responda às questões 11 e 12.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Muita gente acredita que o consumo esporádico de drogas não faz mal. Errado. Se não tiver sido prescrita por um médico, as drogas podem prejudicar de forma grave a saúde, perturbando os estudos e alterando o humor.
@@ -2407,19 +2380,17 @@ vez que transfere exatamente o que o entrevistado falou.
   E aí já dá até pra imaginar o resultado no desempenho escolar. Alunos que usam drogas faltam muito e tiram notas baixas. Além disso, o relacionamento com os amigos também pode ser prejudicado.
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-a\) O que o jornalista manifesta nesses trechos? O jornalista manifesta
-sua opinião em relação às consequências do uso de drogas.
+\num{11} O que o jornalista manifesta nesses trechos? 
+\linhas{3}
+\coment{O jornalista manifesta sua opinião em relação às consequências do uso de drogas.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-b\) Qual é a importância. desse tipo de comentário em uma reportagem
+\num{12} Qual é a importância desse tipo de comentário em uma reportagem
 sobre esse assunto?
+\linhas{3}
+\coment{Mostrar que há formas de mudar o que não está certo.}
 
-Mostrar que há formas de mudar o que não está certo.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\num{5} Assinale a(s) alternativa(s) que melhor caracteriza(m) a linguagem
+\num{13} Assinale a(s) alternativa(s) que melhor caracteriza(m) a linguagem
 que foi usada pelo jornalista.
 
 ( ) Despretensiosa.
@@ -2434,14 +2405,13 @@ que foi usada pelo jornalista.
 
 \num{1} Leia os trechos de textos a seguir, que exploram as prospecções
 brasileiras para o cumprimento da Agenda 2030, proposta pela ONU.
-(Fácil)
 
 **Texto 1**
 
 **Avanços brasileiros contribuem para cumprimento da Agenda 2030, diz
 especialista**
 
-Na avaliação do assessor sênior da Organização das Nações Unidas (ONU)
+Na avaliação do assessor sênior da Organização das Nações Unidas (ONU),
 Haroldo Machado Filho, os resultados alcançados pelo Brasil na
 implementação dos 8 Objetivos do Desenvolvimento do Milênio (ODM)
 merecem destaque mundial e colocam o país em posição de vantagem na
@@ -2455,14 +2425,11 @@ população com renda inferior a US\$ 1,25 ao dia de 25,5%, em 1990, para
 3,5%, em 2012.
 
 Para o assessor das Nações Unidas, a experiência brasileira pode servir
-de exemplo para
+de exemplo para outros países lidarem com as mesmas questões.
 
-outros países lidarem com as mesmas questões.
-
-DINIZ, Mariana. Avanços brasileiros contribuem para cumprimento da
+Mariana Diniza. EBC. Avanços brasileiros contribuem para cumprimento da
 Agenda 2030, diz especialista. Disponível em:
-www.ebc.com.br/noticias/2015/09/avancos-brasileiros-contribuem-para-cumprimento-da-agenda-2030-diz-especialista.
-Acesso em: 05 abr. 2023.
+www.ebc.com.br/noticias/2015/09/avancos-brasileiros-contribuem-para-cumprimento-da-agenda-2030-diz-especialista. Acesso em: 05 abr. 2023.
 
 **Texto 2**
 
@@ -2484,44 +2451,39 @@ Governo da Presidência da República, Henrique Ferreira, destacou que é
 impossível assumir que algumas metas serão cumpridas até 2030, como a
 ampliação total da cobertura de saneamento básico.
 
-BRITO, Débora. ONGs apontam desafios para Brasil atingir metas do
+Débora Brito. EBC. ONGs apontam desafios para Brasil atingir metas do
 Desenvolvimento Sustentável. Disponível em:
-http://agenciabrasil.ebc.com.br/geral/noticia/2017-06/ongs-apontam-desafios-para-brasil-atingir-metas-do-desenvolvimento-sustentavel.
-Acesso em: 05 abr. 2023. (adaptado)
+http://agenciabrasil.ebc.com.br/geral/noticia/2017-06/ongs-apontam-desafios-para-brasil-atingir-metas-do-desenvolvimento-sustentavel. Acesso em: 05 abr. 2023. (adaptado)
 
 Os trechos
 
-\(A\) tratam de um tema comum a partir da mesma perspectiva,
+\(A\) tratam de um tema comum a partir da mesma perspectiva;
 complementando-se, quando comparados.
 
 \(B\) tratam de um tema comum a partir de perspectivas diferentes,
-contrariando-se, quando
+contrapondo-se, quando comparados.
 
-comparados.
-
-\(C\) tratam de um tema comum a partir da mesma perspectiva,
+\(C\) tratam de um tema comum a partir da mesma perspectiva;
 contrariando-se, quando comparados.
 
-\(D\) tratam de um tema comum mediante perspectivas diferentes,
+\(D\) tratam de temas diferentes mediante perspectivas diferentes,
 complementando-se, quando comparados.
 
-Saeb:
+\coment{Vale a pena explicar aos alunos, neste ponto, a diferença básica entre os conceitos de "tema" e "assunto". O assunto é algo mais amplo, que geralmente pode ser resumido em uma palavra ou expressão muito curta, como "ecologia" ou "agenda 2030". Já o tema é um recorte do assunto, sendo mais específico. De um único assunto podem surgir vários temas. Do assunto "Agenda 2030", por exemplo, extraiu-se o tema "Perspectivas brasileiras para cumprimento dos objetivos da Agenda 2030".}
 
-BNCC: não há correspondência
-
-\(a\) Incorreta. Os textos não se complementam, mas sim se contrariam.
+\(a\) Incorreta. Os textos não se complementam, mas sim se contrapõem.
 
 \(b\) Correta. Os textos tratam de um tema comum, o planejamento para o
 cumprimento da agenda 2030 da ONU, mediante perspectivas diferentes,
-contrariando-se, tendo em vista que o primeiro texto afirma que a
+contrapondo-se, tendo em vista que o primeiro afirma que a
 erradicação da pobreza e da fome é possível, enquanto o segundo afirma
 que é impossível.
 
 \(c\) Incorreta. Os textos não tratam do assunto pela mesma perspectiva.
 
-\(d\) Incorreta. Os textos não se complementam, mas sim se contrariam.
+\(d\) Incorreta. Os textos tratam do mesmo tema.
 
-\num{2} Leia a notícia a seguir. (Médio)
+\num{2} Leia a notícia a seguir.
 
 **Brasil estreia contra Bolívia nas eliminatórias da Copa do Mundo
 2022**
@@ -2540,10 +2502,9 @@ terá chance de brigar por uma vaga: está prevista m uma disputa no
 formato mata-mata, com jogos de ida e volta, contra uma seleção de outro
 continente, ainda a ser definida pela Fifa.
 
-Rodrigues, Cláudia Soares. Brasil estreia contra Bolívia nas
-eliminatórias da Copa do Mundo 2022. EBC, 17 dez. 2019. Disponível em:
-http://agenciabrasil.ebc.com.br/esportes/noticia/2019-12/brasil-estreia-contra-bolivia-nas-eliminatorias-da-copa-do-mundo-2022.
-Acesso em: 05 abr. 2023.
+Cláudia Soares Rodrigues. EBC.Brasil estreia contra Bolívia nas
+eliminatórias da Copa do Mundo 2022. Disponível em:
+http://agenciabrasil.ebc.com.br/esportes/noticia/2019-12/brasil-estreia-contra-bolivia-nas-eliminatorias-da-copa-do-mundo-2022. Acesso em: 05 abr. 2023.
 
 A característica da notícia apresentada é
 
@@ -2561,9 +2522,7 @@ assunto.
 \(D\) a imparcialidade do autor, que informa sobre o jogo entre Brasil e
 Bolívia de maneira a não expor sua opinião sobre o assunto.
 
-Saeb:
-
-BNCC: Não há correspondência
+\coment{É interessante, neste ponto, falar sobre a impossibilidade de um texto ser, em sua totalidade, imparcial.}
 
 a\) Incorreta. A notícia expõe os países que jogarão antes da copa de
 2022, além de haver imparcialidade do autor.
@@ -2577,29 +2536,19 @@ em relação ao assunto.
 d\) Correta. A notícia mostra imparcialidade do autor, que não expõe sua
 opinião sobre o assunto.
 
-\num{3} Leia o trecho de notícia a seguir. (Difícil)
+\num{3} Leia o trecho de notícia a seguir.
 
-**Corrida de investidores leva petróleo norte-americano a uma nova queda
-de dois dígitos**
+Corrida de investidores provoca queda de dois dígitos no preço do petróleo norte-americano
 
-\[...\] Oito dias atrás, o barril de petróleo tipo Texas, o de
-referência nos Estados Unidos, entrava no negativo pela primeira vez em
-toda a série histórica \[...\].
+Há apenas oito dias, o preço do barril de petróleo do tipo Texas, referência nos Estados Unidos, caiu para valores negativos pela primeira vez em toda a sua série histórica 
 
-O consumo global de petróleo despencou nas últimas semanas, uma
-tendência comum em todos os países ocidentais e parte da Ásia. Mas as
-diferentes capacidades de armazenamento e o excesso de bombeamentos de
-alguns produtores do método fracking --- cuja produção é cada vez menos
-rentável, mas de onde continua saindo petróleo --- abriram uma fissura
-entre as duas referências petroleiras dos dois lados do Atlântico, o
-Brent e o Texas, sendo o segundo muito mais castigado que o primeiro.
+O consumo global de petróleo despencou nas últimas semanas, uma tendência comum em todos os países ocidentais e em parte da Ásia. No entanto, as diferentes capacidades de armazenamento e o excesso de extração por parte de alguns produtores utilizando o método do fracking - cuja produção está se tornando cada vez menos lucrativa, mas ainda continua a produzir petróleo - criaram uma divisão entre as duas referências de petróleo nos dois lados do Atlântico, o Brent e o Texas, sendo o último muito mais afetado que o primeiro.
 
-FARIZA, Ignacio. Corrida de investidores leva petróleo norte-americano a
+Fonte de pesquisa: Ignacio Fariza. Corrida de investidores leva petróleo norte-americano a
 uma nova queda de dois dígitos. El País, 29 abr. 2020. Disponível em:
-https://brasil.elpais.com/economia/2020-04-29/corrida-de-investidores-leva-petroleo-norte-americano-a-uma-nova-queda-de-dois-digitos.html.
-Acesso em: 05 abr. 2023.
+https://brasil.elpais.com/economia/2020-04-29/corrida-de-investidores-leva-petroleo-norte-americano-a-uma-nova-queda-de-dois-digitos.html. Acesso em: 05 abr. 2023.
 
-Na notícia a respeito do mercado financeiro relacionado ao petróleo
+Na notícia, a respeito do mercado financeiro relacionado ao petróleo
 produzido nos Estados Unidos, analisa-se que o texto foi escrito de
 maneira
 
@@ -2615,14 +2564,12 @@ notar como anda o consumo global de petróleo no mundo.
 \(D\) impessoal e objetiva, relacionado à função referencial da língua,
 não havendo avaliações do jornalista sobre a situação.
 
-Saeb:
-
-BNCC:
+\coment{Apesar de não se tratar de um texto técnico, ele traz elementos de um nível de complexidade que pode desafiar alguns leitores.}
 
 a\) Incorreta. O texto não é voltado para um público menos escolarizado.
 
 b\) Incorreta. O texto traz informações precisas a respeito da produção
-petrolífera dos Estados Unidos, e cita que entrou em crise oito dias
+petrolífera dos Estados Unidos e cita que entrou em crise oito dias
 atrás, um fato histórico.
 
 c\) Incorreta. O texto foi escrito majoritariamente em terceira pessoa,
@@ -2631,14 +2578,12 @@ o que evidencia a intenção do jornalista de ser imparcial e objetivo.
 d\) Correta. As informações são apresentadas de modo impessoal e
 objetivo.
 
+
 # Módulo 8
 
-Neste módulo, os alunos vão identificar a presença de modalizadores na
-linguagem persuasiva de anúncio publicitário e campanhas.
+A modalização
 
-Habilidades da BNCC: EF69LP04, EF69LP28, EF89LP16, EF89LP31
-
-Habilidades do SAEB:
+Habilidades do SAEB
 
 \- Identificar os recursos de modalização em textos diversos.
 
@@ -2647,6 +2592,12 @@ com base no gênero textual e na intenção comunicativa.
 
 \- Analisar os efeitos de sentido produzidos pelo uso de modalizadores
 em textos diversos.
+
+Habilidades da BNCC
+\- EF69LP04
+\- EF69LP28
+\- EF89LP16
+\- EF89LP31
 
 \<início do boxe de conteúdo\>
 
@@ -2663,8 +2614,8 @@ adotar uma ideia, como o anúncio publicitário, por exemplo, as classes
 de palavras dos substantivos e dos adjetivos são utilizadas como
 procedimento argumentativo.
 
-A argumentação não se limita somente à condição tipológica estrutural,
-mas também à discursiva. Anúncios de propaganda configuram um gênero
+A argumentação não se limita à condição tipológica estrutural,
+mas também se expande à discursiva. Anúncios de propaganda configuram um gênero
 discursivo que apresenta em sua estrutura atributos que devem ser
 reconhecidos pelos leitores. Nesse gênero, elementos linguísticos --
 substantivos, adjetivos e advérbios -- são utilizados como estratégia
@@ -2675,7 +2626,7 @@ comunicativa do texto, comprovando a argumentação com o propósito de
 atingir, satisfatoriamente, o seu interlocutor (consumidor).
 
 Por meio dos adjetivos utilizados, pode-se notar a ideia do produtor --
-não apenas de anúncios, mas de qualquer gênero textual --, e seu ponto
+não apenas de anúncios, mas de qualquer gênero textual -- e seu ponto
 de vista em relação ao que observa, analisa.
 
 Os efeitos de sentido gerados pelos substantivos e adjetivos são
@@ -2695,24 +2646,19 @@ fundamentais na construção argumentativa. Observe:
 
 \colorsec{Atividades}
 
-1.  Leia o anúncio de uma campanha de adoção de cães.
+Leia o anúncio de uma campanha de adoção de cães para responder às questões 1 e 2.
 
 https://www.salinas.mg.gov.br/portal/0/galeria-de-fotos/314/adote-um-amigo!\#fotos-5
 
 ![](./_SAEB_9_POR/media/image19.jpeg){width="4.968055555555556in"
 height="4.968055555555556in"}
 
-a\) No anúncio, há a frase: "Eu sempre tenho alguém feliz me esperando
-em casa.".
+\num{1} No anúncio, há a frase: "Eu sempre tenho alguém feliz me esperando
+em casa.". Ao escolher o adjetivo **feliz** para modificar o substantivo **alguém**, o que o autor do anúncio quis deixar em evidência? 
+\linhas{4}
+\coment{Ele quis evidenciar o fato de sempre ter um cachorro feliz que o espera em casa.}
 
--   Ao escolher o adjetivo **feliz** para modificar o substantivo
-    **alguém**, o que o autor do anúncio quis deixar em evidência? Ele
-    quis evidenciar o fato de sempre ter um cachorro feliz que o espera
-    em casa.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-b\) É possível afirmar que o adjetivo **feliz**:
+\num{2} É possível afirmar que o adjetivo **feliz**:
 
 ( x ) intensifica a força argumentativa do substantivo ao qual se
 refere.
@@ -2721,84 +2667,70 @@ refere.
 
 ( ) não influencia na construção de sentidos do anúncio.
 
-2.  Leia o anúncio a seguir.
+Leia o anúncio a seguir para responder às questões de 3 a 6.
 
 http://lassance.mg.gov.br/dia-da-mulher-2023/
 
 ![](./_SAEB_9_POR/media/image20.jpeg){width="4.613888888888889in"
 height="4.613888888888889in"}
 
-a\) O que se destaca no anúncio? O fato de haver a imagem de várias
-mulheres de diferentes etnias e biotipos.
+\num{3} O que se destaca no anúncio? 
+\linhas{2}
+\coment{O fato de haver a imagem de várias mulheres de diferentes etnias e biotipos.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**b)** Que efeito essa imagem pretende provocar no leitor? Pretende
-impactar o leitor e fazê-lo refletir sobre o fato de que todas as
+\num{4} Que efeito essa imagem pretende provocar no leitor? 
+\linhas{4}
+\coment{Pretende impactar o leitor e fazê-lo refletir sobre o fato de que todas as
 mulheres, indiferentemente de sua classe social, cor, idade ou etnia,
-merecem igualdade, dignidade e respeito.
+merecem igualdade, dignidade e respeito.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-c\) O texto principal do anúncio foi elaborado com os substantivos
+\num{5} O texto principal do anúncio foi elaborado com os substantivos
 **igualdade**, **dignidade** e **respeito**. O que a escolha desses
-substantivos pretende despertar no interlocutor? Pretende despertar
-memórias de circunstâncias que tenha experenciado ou escutado em que não
-ocorreu igualdade, dignidade e respeito.
+substantivos pretende despertar no interlocutor? 
+\linhas{4}
+\coment{Pretende despertar memórias de circunstâncias que tenha experenciado ou escutado em que não ocorreu igualdade, dignidade e respeito.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-d\) Os substantivos **igualdade**, **dignidade** e **respeito** precisam
-da ação de alguém para que virem realidade o que representam. Como a
+\num{6} Os substantivos **igualdade**, **dignidade** e **respeito** precisam
+da ação de alguém para que vire realidade aquilo que representam. Como a
 escolha deles colabora para que o criador do anúncio alcance o seu
-propósito? Os substantivos buscam provocar o interlocutor para uma
-diferente postura diante de atos desrespeitosos, indignos e desiguais.
+propósito? 
+\linhas{4}
+\coment{Os substantivos buscam provocar o interlocutor para uma
+diferente postura diante de atos desrespeitosos, indignos e desiguais.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\num{4} Leia mais este anúncio publicitário desenvolvido em comemoração ao
-Dia Internacional da Mulher.
+Leia mais este anúncio publicitário desenvolvido em comemoração ao
+Dia Internacional da Mulher.Depois, responda às questões de 7 a 10.
 
 https://www.pmvc.ba.gov.br/prefeitura-realiza-campanha-marco-mulher-2021-com-o-tema-a-violencia-que-ninguem-ve/
 
 ![](./_SAEB_9_POR/media/image21.jpeg){width="4.197222222222222in"
 height="4.197222222222222in"}
 
-a)  Qual é a proposta dessa campanha? A proposta é que as mulheres não
-    se subestimem nem duvidem de seus potenciais. Promover reflexão,
-    conscientização e mobilização para a conquista dos direitos das
-    mulheres, assim como o de viver sem violência e sem discriminação
+\num{7}  Qual é a proposta dessa campanha? 
+\linhas{5}
+\coment{A proposta é que as mulheres não se subestimem nem duvidem de seus potenciais. Promover reflexão, conscientização e mobilização para a conquista dos direitos das mulheres, assim como o de viver sem violência e sem discriminação.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{8}  O tema da campanha é "A violência que ninguém vê". O que seria esse tipo de violência? 
+\linhas{6}
+\coment{Explique aos alunos que se trata de violência psicológica, que, em muitos casos, é o gatilho para casos mais graves, como a agressão física ou o feminicídio. Consiste na ação ou omissão que se destina a degradar ou controlar as ações da mulher, causando a ela dano emocional e diminuição da sua autoestima.}
 
-b)  O tema da campanha é "A violência que ninguém vê". O que seria esse
-    tipo de violência? Explique aos alunos que se trata de violência
-    psicológica, que, em muitos casos, é o gatilho para casos mais
-    graves, como a agressão física ou o feminicídio. Consiste na ação ou
-    omissão que se destina a degradar ou controlar as ações da mulher,
-    causando a ela dano emocional e diminuição da sua autoestima.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-c)  Releia esse trecho do anúncio.
+Releia um trecho do anúncio para responder às questões 9 e 10.
 
   -------------------------------------------------------------------
   Você é forte e corajosa. Não deixe te fazerem pensar o contrário.
   -------------------------------------------------------------------
 
--   No trecho, quais palavras podem ser consideradas apreciativas, isto
-    é, emitem juízo de valor sobre as mulheres? Por que essas palavras
-    foram usadas? Foram usados os adjetivos forte e corajosa. Essas
-    palavras chamam a atenção sobre os aspectos positivos das mulheres.
-    Explique aos alunos que os mecanismos de modalização apreciativa em
-    anúncios publicitários têm o a finalidade de destacar os aspectos
-    positivos da ideia ou do produto em divulgação.
+\num{9}  No trecho, quais palavras podem ser consideradas apreciativas, isto é, aquelas que emitem juízo de valor sobre as mulheres? 
+\linhas{2}
+\coment{Podem ser assim consideradas as palavras "forte" e "corajosa".}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{10} Por que essas palavras foram usadas? 
+\linhas{6} Essas palavras chamam a atenção sobre os aspectos positivos das mulheres. Explique aos alunos que os mecanismos de modalização apreciativa em anúncios publicitários têm o a finalidade de destacar os aspectos positivos da ideia ou do produto em divulgação.
 
 \colorsec{Treino}
 
-\num{1} Leia dois trechos de textos que tratam sobre a Lei Seca. (Fácil)
+\num{1} Leia dois trechos de textos que tratam sobre a Lei Seca.
 
 **Texto 1**
 
@@ -2812,10 +2744,9 @@ após terem ingerido bebida alcoólica. A maior fiscalização, aliada à
 imposição de rígidos limites e à conscientização da população, permitiu
 que tal alteração fosse possível. \[...\]
 
-MATTA, Paulo Henrique Caban Stern. "Sucesso absoluto". Cartilha do
+Paulo Henrique Caban Stern Matta. INEP. "Sucesso absoluto". Cartilha do
 participante 2016. Disponível em:
-<http://download.inep.gov.br/educacao_basica/enem/guia_participante/2016/manual_de_redacao_do_enem_2016.pdf>.
-Acesso em: 7 abr. 2023.
+<http://download.inep.gov.br/educacao_basica/enem/guia_participante/2016/manual_de_redacao_do_enem_2016.pdf>.Acesso em: 7 abr. 2023.
 
 **Texto 2**
 
@@ -2825,15 +2756,13 @@ são causados por condutores alcoolizados. A lei determina que, se
 comprovada a ingestão de álcool através do teste do "bafômetro" ou exame
 de sangue, o motorista poderia perder sua habilitação \[...\]
 
-DIAS, Clara de Araujo. "Amostra de redações nota 1000". Cartilha do
+Clara de Araujo Dias. INEP. "Amostra de redações nota 1000". Cartilha do
 participante 2016. Disponível em:
-http://download.inep.gov.br/educacao\_basica/enem/guia\_participante/2016/manual\_de\_redacao\_do\_enem\_2016.pdf.
-Acesso em: 7 abr. 2023.
+http://download.inep.gov.br/educacao\_basica/enem/guia\_participante/2016/manual\_de\_redacao\_do\_enem\_2016.pdf. Acesso em: 7 abr. 2023.
 
-Com base na leitura dos trechos, há modalizador que deixa em evidência
-opinião
+Com base na leitura dos trechos, há modalizador que deixa em evidência opinião
 
-\(A\) nos dois textos, uma vez que abordam uma opinião dos autores sobre
+\(A\) em ambos, uma vez que abordam uma opinião dos autores sobre
 o tema.
 
 \(B\) exclusivamente no texto 2, o qual traz o contexto da Lei Seca e
@@ -2842,12 +2771,10 @@ mostra sua finalidade.
 \(C\) exclusivamente no texto 1, o que pode ser visto no uso de palavras
 como "principalmente".
 
-\(D\) nos dois textos, o que pode ser visto pelo contexto da Lei Seca e
+\(D\) em ambos, o que pode ser visto pelo contexto da Lei Seca e
 pelo uso de palavras que expressam opinião.
 
-Saeb: Identificar
-
-BNCC: EF89LP31: Analisar e utilizar modalização epistêmica, isto é,
+BNCC: EF89LP31 -- Analisar e utilizar modalização epistêmica, isto é,
 modos de indicar uma avaliação sobre o valor de verdade e as condições
 de verdade de uma proposição, tais como os asseverativos -- quando se
 concorda com ("realmente, evidentemente, naturalmente, efetivamente,
@@ -2857,25 +2784,20 @@ indicam que se considera o conteúdo como quase certo ("talvez, assim,
 possivelmente, provavelmente, eventualmente").
 
 a\) Incorreta. Inexistem modalizadores nos dois textos, uma vez que no
-texto 2 a autora contextualiza a Lei Seca e seu objetivo, mas sem opinar
-em relação ao assunto.
+texto 2 a autora contextualiza a Lei Seca e seu objetivo, mas sem emitir opinião ou mostrar posição em relação ao assunto.
 
-b\) Incorreta. O texto 2 apresenta o contexto da Lei Seca e seu
-objetivo, mas isso não é um modalizador.
+b\) Incorreta. O texto 2 apresenta o contexto da Lei Seca e seu objetivo, mas isso não é um modalizador.
 
-c\) Correta. Há um modalizador apenas no texto I, o que pode ser visto
-pelo uso do advérbio "principalmente", para evidenciar a importância da
-Lei Seca
+c\) Correta. Há um modalizador apenas no texto I, o que pode ser visto pelo uso do advérbio "principalmente", para evidenciar a importância da Lei Seca.
 
 d\) Incorreta. Não existem modalizadores em ambos os textos.
 
-\num{2} Leia a campanha de doação de sangue. (Médio)
+\num{2} Leia a campanha de doação de sangue.
 
 ![](./_SAEB_9_POR/media/image22.png){width="5.905555555555556in"
 height="4.1682863079615045in"}
 
-CAMPANHA de doação de Sangue acontece neste sábado (07). Lucas do Rio
-Verde, 6 abr. 2018. Disponível em:
+CAMPANHA de doação de Sangue acontece neste sábado (07). Disponível em:
 \<www.lucasdorioverde.mt.gov.br/site/noticias/6303\>. Acesso em: 7 abr.
 2023.
 
@@ -2887,11 +2809,9 @@ Segundo informações da campanha, grávidas não podem
 
 \(C\) estar expostas a outras doenças.
 
-\(D\) fazer doação de sangue.
+\(D\) fazer doação de sangue em circunstância alguma.
 
-Saeb: D1
-
-BNCC: EF69LP04: Identificar e analisar os efeitos de sentido que
+BNCC: EF69LP04 -- Identificar e analisar os efeitos de sentido que
 fortalecem a persuasão nos textos publicitários, relacionando as
 estratégias de persuasão e apelo ao consumo com os recursos
 linguístico-discursivos utilizados, como imagens, tempo verbal, jogos de
@@ -2904,13 +2824,13 @@ sangue.
 b\) Incorreta. A campanha pede aos doadores de sangue que evitem a
 ingestão de alimentos gordurosos.
 
-c\) Incorreta. Essa informação se trata do grupo de pessoas que não pode
+c\) Incorreta. Essa informação trata do grupo de pessoas que não pode
 doar sangue.
 
-d\) Correta. Mulheres grávidas ou que estejam a amamentar estão no grupo
-de pessoas que não podem doar sangue
+d\) Correta. Mulheres grávidas ou que estejam amamentando estão no grupo
+de pessoas que não podem doar sangue.
 
-\num{3} Leia um trecho de uma redação nota mil no Enem. (Difícil)
+\num{3} Leia um trecho de uma redação nota mil no Enem.
 
 \[...\]
 
@@ -2927,10 +2847,8 @@ efeitos das propagandas que visam incentivar o consumismo. Dessa forma,
 será possível tornar o meio virtual um ambiente mais seguro e
 democrático para a população brasileira.
 
-TERRA DE DEUS, Fernanda Carolina Santos. Especialistas analisam sete
-redações nota mil do Enem; confira. Disponível em:
-<http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink7.pdf>.
-Acesso em: 7 abr. 2023.
+Fernanda Carolina Santos Terra de Deus. Especialistas analisam sete redações nota mil do Enem; confira. Disponível em:
+<http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink7.pdf>. Acesso em: 7 abr. 2023.
 
 Percebe-se a opinião da candidata em alguns trechos do texto, como em
 
@@ -2946,9 +2864,7 @@ uma crítica em relação à ação do governo quanto ao fato abordado.
 \(D\) "Dessa forma, será possível tornar o meio virtual um ambiente mais
 seguro", no qual ela descarta as ideias anteriores e propõe novas.
 
-Saeb: D14
-
-BNCC: EF89LP16: Analisar a modalização realizada em textos noticiosos e
+BNCC: EF89LP16 -- Analisar a modalização realizada em textos noticiosos e
 argumentativos, por meio das modalidades apreciativas, viabilizadas por
 classes e estruturas gramaticais como adjetivos, locuções adjetivas,
 advérbios, locuções adverbiais, orações adjetivas e adverbiais, orações
@@ -2971,17 +2887,20 @@ finalizando o texto.
 
 # Módulo 9
 
-Neste módulo, os alunos vão identificar as figuras de linguagem e
-compreender os efeitos de sentido criados por elas.
+Linguagem figurada
 
-Habilidades da BNCC: EF69LP17, EF89LP06, EF89LP14 e EF89LP37.
-
-Habilidades do SAEB:
+Habilidades do SAEB
 
 \- Analisar o uso de figuras de linguagem como estratégia argumentativa.
 
 \- Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
+
+Habilidades da BNCC
+\- EF69LP17
+\- EF89LP06
+\- EF89LP14
+\- EF89LP37
 
 \<início do boxe de conteúdo\>
 
@@ -4565,6 +4484,7 @@ ensino de gramática. São Paulo: Cortez Editora, 2008.
 
 VIGOTSKY, Lev S. **Pensamento e linguagem**. Tradução: Jefferson Luiz
 Camargo. São Paulo: Martins Fontes, 2003.
+
 
 
 
