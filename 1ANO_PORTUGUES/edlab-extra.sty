@@ -65,7 +65,7 @@
 
 % Definindo as cores CMYK
 \definecolor{rosa}{cmyk}{0,1,0,0}
-\newcommand{\rosa}[1]{\footnotesize\textcolor{rosa}{#1}}
+\newcommand{\rosa}[1]{\textcolor{rosa}{#1}}
 
 \definecolor{azul}{cmyk}{1,0.85,0.27,0.1}
 \newcommand{\azul}[1]{\textcolor{azul}{#1}}
@@ -143,7 +143,7 @@
 }
 
 % Numeração dos exercícios
-\newcommand{\num}[1]{\begin{adjustbox}{valign=B}\begin{hangparas}{0in}{1}\hspace*{-0.5cm}\Large\textcolor{azul}{#1}\normalsize\hspace{0.2em}\end{hangparas}\end{adjustbox}}
+\newcommand{\num}[1]{\vspace{3ex plus 2ex minus 3ex}\begin{adjustbox}{valign=B}\begin{hangparas}{0in}{1}\hspace*{-0.5cm}\Large\textcolor{azul}{#1}\normalsize\hspace{0.2em}\end{hangparas}\end{adjustbox}}
 
 
 
@@ -164,13 +164,9 @@
 
 % Cria box de conteúdos
 \newcommand{\conteudo}[1]{
-\begin{flushright}
-\adjustbox{varwidth=.85\linewidth}{
 \begin{mdframed}[linewidth=10pt,linecolor=salmao!20,backgroundcolor=salmao!20,roundcorner=20pt]
 #1
 \end{mdframed}
-}
-\end{flushright}
 }
 
 % Para diferenciar a citação da fonte do conteúdo dos textos em quote
