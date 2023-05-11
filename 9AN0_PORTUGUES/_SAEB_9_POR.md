@@ -3427,16 +3427,12 @@ Ser saudável é muito mais do que cortar prazeres - aliás, ser saudável é o 
 
 \colorsec{Treino}
 
-\num{1} Leia o anúncio a seguir. 
+\num{1} Leia o texto que acompanha um anúncio de prevenção ao bullying.
 
-https://www.facebook.com/cnj.oficial/photos/a.191159914290110/1681947658544654/?type=3
-
-![Nenhuma descrição de foto
-disponível.](./_SAEB_9_POR/media/image29.png){width="5.479166666666667in"
-height="5.479166666666667in"}\<início de texto citado\>
+"Bullying é uma forma de agressão. Zoação ofensiva e violência não são brincadeiras. O bullying pode se manifestar das seguintes formas: física e material; sexual; verbal; psicológica e moral; virtual ou cyberbullying."
 
 Na frase do anúncio "Zoação ofensiva **e** violência não são
-brincadeiras, a conjunção destacada estabelece uma relação de sentido
+brincadeiras", a conjunção destacada estabelece uma relação de sentido
 que
 
 \(A\) exclui uma informação.
@@ -3447,9 +3443,7 @@ que
 
 \(D\) justifica uma informação.
 
-Saeb: Identificar
-
-BNCC: EF09LP11: Inferir efeitos de sentido decorrentes do uso de
+BNCC: EF09LP11 -- Inferir efeitos de sentido decorrentes do uso de
 recursos de coesão sequencial (conjunções e articuladores textuais).
 
 a\) Incorreta. Uma vez que a informação é complementar à outra, não há
@@ -3465,7 +3459,7 @@ d\) Incorreta. Embora a conjunção introduza uma oração que complementa a
 primeira, esta não apresenta função de dar fundamentações à primeira.
 
 \num{2} Leia o trecho de uma redação nota mil no Enem, observando como a
-conclusão foi elaborada. (Médio)
+conclusão foi elaborada.
 
 \[...\]
 
@@ -3482,10 +3476,9 @@ efeitos das propagandas que visam incentivar o consumismo. Dessa forma,
 será possível tornar o meio virtual um ambiente mais seguro e
 democrático para a população brasileira.
 
-TERRA DE DEUS, Fernanda Carolina Santos. Especialistas analisam sete
+Fernanda Carolina Santos Terra de Deus. Especialistas analisam sete
 redações nota mil do Enem; confira. Disponível em:
-<http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink7.pdf>.
-Acesso em: 09 abr. 2023.
+<http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink7.pdf>. Acesso em: 09 abr. 2023.
 
 As expressões "Isso deve ocorrer", "Além disso" e "Dessa forma" são
 expressões que concorrem para a coesão textual, uma vez que estabelecem
@@ -3507,9 +3500,7 @@ evidenciando um contraste.
 ao conteúdo exposto e sugerido na internet" e as diferentes formas de
 isso ocorrer.
 
-Saeb: D2
-
-BNCC: BNCC: EF09LP11: Inferir efeitos de sentido decorrentes do uso de
+BNCC: EF09LP11 -- Inferir efeitos de sentido decorrentes do uso de
 recursos de coesão sequencial (conjunções e articuladores textuais).
 
 a\) Incorreta. A mídia deve ser parceira do governo nessa questão,
@@ -3523,7 +3514,7 @@ solução para a tese.
 c\) Incorreta. O texto não contrasta a mídia com o Ministério da
 Educação, mas sim propõe uma articulação entre as duas esferas.
 
-d\) Correta. As expressões apresentam os pronomes demonstrativos "isso",
+d\) Correta. As expressões apresentam os pronomes "isso",
 "disso" e "dessa", os quais retomam as ideias dispostas no texto, que
 estão relacionadas diretamente com a resolução da tese retomada nessa
 conclusão
@@ -3554,8 +3545,6 @@ apresenta uma oração subordinada adverbial temporal é
 
 \(D\) "comi o almoço assim que cheguei em casa".
 
-Saeb:
-
 BNCC: EF09LP08 - Identificar, em textos lidos e em produções próprias, a
 relação que conjunções (e locuções conjuntivas) coordenativas e
 subordinativas estabelecem entre as orações que conectam.
@@ -3573,18 +3562,15 @@ adverbial temporal, assim como a oração destacada no texto.
 
 Regências
 
-Neste módulo, os alunos vão analisar e explorar a regência de alguns
-verbos.
-
-Habilidades da BNCC: EF69LP55, EF69LP56 e EF09LP07.
-
-Habilidades do SAEB:
+Habilidades do SAEB
 
 \- Analisar as variedades linguísticas em textos.
 
 \- Avaliar a adequação das variedades linguísticas em contextos de uso.
 
 \<início do boxe de conteúdo\>
+
+Habilidades da BNCC: EF69LP55, EF69LP56 e EF09LP07.
 
 **Regências verbal e nominal**
 
@@ -3623,19 +3609,13 @@ Verbo **namorar**: pela norma-padrão é transitivo direto (namorar
 alguém), mas, nos dias atuais, começou a ser usado como transitivo
 indireto (namorar com alguém).
 
-Verbo **chegar**: "chegar **em** algum lugar" ou "**a** algum lugar". No
-uso diário e informal, a tendência é que os falantes considerem que
-"quem chega chega e fica no lugar", daí julgarem mais adequada a forma
-"chegar em casa".
+Verbo **chegar**: rege o uso da preposição **a**, embora, cotidianamente, seja usado com a preposição **em** na ssituações de uso mais informal da língua.
 
-Verbo **preferir: a** regência comum no dia a dia é "preferir uma coisa
+Verbo **preferir**: a regência comum no dia a dia é "preferir uma coisa
 do que outra", mas pela norma-padrão é "preferir alguma coisa a outra".
 
 Verbo **simpatizar:** somente pode ser usado com a preposição **com**
 antecedendo o objeto indireto, como em: "Simpatizo com aquele homem.".
-
-A norma-padrão é uma forma de dominar a língua para adequar seu uso a
-variadas situações de comunicação.
 
 A **regência nominal**, por sua vez, consiste na relação que se
 estabelece entre um nome -- termo regente -- e o termo que lhe serve de
@@ -3647,12 +3627,6 @@ para completar seu sentido. O primeiro termo, interligado pela
 preposição **entre**, indica quais elementos fazem parte da disputa; o
 segundo, interligado pela preposição **por**, informa a razão da
 disputa.
-
-No estudo da regência nominal, é necessário levar em consideração que
-vários nomes seguem rigorosamente o mesmo regime dos verbos
-correspondentes. O substantivo **incorporação**, por exemplo, vem do
-verbo **incorporar**, que exige um complemento verbal para ser
-compreendido.
 
 Normalmente, a relação entre o nome e seu complemento é definida por uma
 preposição. Determinados nomes podem pedir preposições variadas.
@@ -3672,40 +3646,35 @@ Observe:
 
 \colorsec{Atividades}
 
-1.  Leia o anúncio de uma campanha para doação de alimentos. Oriente a
-    leitura do anúncio, retomando as características do gênero. Solicite
-    aos alunos que observem a parte não verbal e relacione-a com a
-    verbal.
+1.  Leia o anúncio de uma campanha para doação de alimentos para responder às questões de 1 a 3.
 
 > https://www.bomjesusdooeste.sc.gov.br/noticias/index/ver/codMapaItem/8423/codNoticia/550878
 >
 > ![](./_SAEB_9_POR/media/image31.jpeg){width="3.9583333333333335in"
 > height="3.5416666666666665in"}
 
-a)  Releia o *slogan* do anúncio: "Estamos juntos contra a fome e unidos
+\num{1} Releia o *slogan* do anúncio: "Estamos juntos contra a fome e unidos
     pela prosperidade humana". Se essa frase não tivesse os termos
     **fome** e **prosperidade humana**, seria possível atribuir os
-    sentidos pretendidos? Justifique sua resposta. Espera-se que os
+    sentidos pretendidos? Justifique sua resposta. 
+	\linhas{5}
+	\coment{Espera-se que os
     alunos cheguem à conclusão de que não seria possível, uma vez que as
     palavras às quais os termos estão relacionados necessariamente
-    precisam de complementos para ser compreendidas.
+    precisam de complementos para ser compreendidas.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{2} Que preposições determinam a ligação entre os nomes e os termos que
+    complementam seu sentido? 
+	\linhas{4]
+	\coment{As preposições **contra** e **pela** (da
+    preposição *per* e do artigo *a*) e **a**.}
 
-b)  Que preposições determinam a ligação entre os nomes e os termos que
-    complementam seu sentido? As preposições **contra** e **pela** (da
-    preposição *per* e do artigo *a*) e **a**.
+\num{3} Explique o que significa prosperidade humana. 
+\linhas{5}
+\coment{Resposta pessoal.
+    Sugestão de resposta: abundância, fartura e estabilidade dos homens.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-c)  Explique o que significa prosperidade humana. Resposta pessoal.
-    Sugestão de resposta: abundância, fartura e estabilidade dos homens.
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-```{=html}
-<!-- -->
-```
-2.  Leia o anúncio do Dia da Consciência Negra.
+Leia o anúncio do Dia da Consciência Negra para responder às questões 4, 5 e 6.
 
 https://www.minasnovas.mg.leg.br/institucional/noticias/20-de-novembro-dia-da-consciencia-negra/image/image\_view\_fullscreen
 
@@ -3713,28 +3682,26 @@ https://www.minasnovas.mg.leg.br/institucional/noticias/20-de-novembro-dia-da-co
 Negra](./_SAEB_9_POR/media/image32.jpeg){width="3.6979166666666665in"
 height="3.6979166666666665in"}
 
-a\) Em sua opinião, por que existe um dia especial para comemorar a
-consciência negra? Para que todas as pessoas em geral se conscientizem
-de que as diferenças devem ser respeitadas e o racismo eliminado, e que
-os afrodescendentes têm os mesmos direitos e deveres que qualquer
-cidadão brasileiro.
+\num{4} Em sua opinião, por que existe um dia especial para comemorar a
+consciência negra? 
+\linhas{6}
+\coment{Resposta pessoal. Para que todas as pessoas em geral se conscientizem
+de que as diferenças devem ser respeitadas e o racismo eliminado, o que depende de ações afirmativas e da reiteração sobre a importância da conscientização. 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{5} Que termo complementa o verbo **lutar** e de que forma ele está
+ligado ao nome? 
+\linhas{4}
+\coment{O complemento é "contra o racismo" e está ligado ao
+verbo pela preposição **contra.**}
 
-b\) Que termo complementa o verbo **lutar** e de que forma ele está
-ligado ao nome? O complemento é "contra o racismo" e está ligado ao
-verbo pela preposição **contra.**
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-c\) Além de "lutar contra o racismo", quais outras lutas podem
-transformar vidas?? Cite duas. Resposta pessoal. Sugestões de resposta:
+\num{6} Além de "lutar contra o racismo", quais outras lutas podem
+transformar vidas?? Cite duas. 
+\linhas{5}
+\coment{Resposta pessoal. Sugestões de resposta:
 luta por direitos iguais; luta por empregos fixos; luta por salários
-justos; luta por saneamento básico.
+justos; luta por saneamento básico.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-3\. Leia a manchete a seguir.
+Leia a manchete a seguir para responder às questões 7 e 8.
 
 **Coronavírus: infectologista responde a várias perguntas; veja**
 
@@ -3742,24 +3709,24 @@ Disponível em:
 <https://g1.globo.com/mg/minas-gerais/noticia/2020/04/06/coronavirus-infectologista-responde-a-varias-perguntas-veja.ghtml>.
 Acesso em: 9 abr. 2023.
 
-a\) A regência verbal do verbo **responder** está de acordo com a
-gramática normativa? Justifique sua resposta. Sim. De acordo cm a
+\num{7} A regência verbal do verbo **responder** está de acordo com a
+gramática normativa? Justifique sua resposta. 
+\linhas{5]
+\coment{Sim. De acordo cm a
 gramática normativa, nesse sentido, o verbo **responder** pode ser
 transitivo direto ou indireto, admitindo os dois tipos de complementos
-verbais.
+verbais.}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-b\) Assinale a resposta correta. Com base em sua resposta anterior, é
+\num{8} Assinale a resposta correta. Com base em sua resposta anterior, é
 possível afirmar que:
 
-**(**x ) **a várias perguntas** é objeto direto.
+**(**x ) **a várias perguntas** é objeto indireto.
 
 **( ) várias** é objeto direto e **perguntas** é objeto indireto.
 
 **( ) a várias perguntas** é objeto direto.
 
-4\. Leia outra manchete de jornal.
+\num{9} Leia outra manchete de jornal.
 
 **Ministro diz que novas medidas do governo visam frear desemprego**
 
@@ -3767,15 +3734,15 @@ Disponível em:
 <https://g1.globo.com/mg/minas-gerais/noticia/2020/04/06/coronavirus-infectologista-responde-a-varias-perguntas-veja.ghtml>.
 Acesso em: 9 abr. 2023.
 
--   Pode-se afirmar que a forma verbal "visar" foi usada em consonância
-    com a norma-padrão? Justifique sua resposta. Não, pois o verbo visar
+Pode-se afirmar que a forma verbal "visar" foi usada em consonância
+    com a norma-padrão? Justifique sua resposta. 
+	\linhas{4} 
+	\coment{Não, pois o verbo visar
     é transitivo indireto no sentido de "ter em vista", "almejar",
     "pretender", e o objeto indireto deve vir precedido da preposição
-    **a.**
+    **a.**}
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-5\. Leia a manchete a seguir.
+\num{10} Leia a manchete a seguir.
 
 **Brasileiros preferem ficar 24 horas sem água que sem o smartphone**
 
@@ -3784,64 +3751,53 @@ Disponível em:
 Acesso em: 9 abr. 2023.
 
 -   É possível afirmar que a forma verbal "preferem" foi utilizada em
-    conformidade com a norma-padrão? Justifique sua resposta. Não.
+    conformidade com a norma-padrão? Justifique sua resposta. 
+	\linhas{4}
+	\coment{Não.
     Existe uma variação, pois, em lugar da preposição **a**, foi usada a
-    expressão que.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    expressão que.}
 
 \colorsec{Treino}
 
-1\. Examine o início de um cordel. (Fácil)
+1\. Examine o início de um poema narrativo.
 
-**A botija do Zé Duda**
+**Passarinho fugido**
 
-Já ouviu contar a história de arrancador de botija?
+Um dia ouvi uma história
+Dessas sem precedentes
+Havia gente ali ouvindo
+Pra levar a fofoca aos parentes.
 
-\[...\]
+Contaram que certo dia
+Tava tudo bem nublado
+Abriu-se a gaiola
+Onde o canário tava enjaulado...
 
-é o matuto cavando e o cão tapando o buraco
+(Texto produzido para o material)
 
-até que chega o momento que o caboco não aguenta
+Há exemplo da língua popular falada em:
 
-tá de garra dum rosário, acende uma vela benta,
+\(A\) "Um dia ouvi uma história".
 
-reza uma hora ou mais,
+\(B\) "Havia gente ali ouvindo".
 
-\[...\]
+\(C\) "Tava tudo bem nublado".
 
-mas só volta às três e meia depois que arranca a panela
+\(D\) "Abriu-se a gaiola".
 
-PEDROSA, Chico. "A botija do Zé Duda". Chico Pedrosa. Poesia viva. Rio
-de Janeiro: Rocha Sonora, 2010. CD, Faixa 2.
-
-Há exemplos da língua popular falada em:
-
-\(A\) "é o matuto cavando".
-
-\(B\) "até que chega o momento".
-
-\(C\) "tá de garra dum rosário".
-
-\(D\) "acende uma vela benta".
-
-Saeb: D3
-
-BNCC: EF69LP55: Reconhecer as variedades da língua falada, o conceito de
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de
 norma-padrão e o de preconceito linguístico.
 
 a\) Incorreta. A expressão não apresenta traços da língua falada.
 
 b\) Incorreta. A expressão está em conformidade com a norma-padrão.
 
-c\) Correta. Verifica-se a variedade falada da língua no verso "tá de
-garra dum rosário", pois "tá" é uma forma reduzida de "está" e "dum" é a
-junção de "de um".
+c\) Correta. Verifica-se a variedade falada da língua no verso "tava tudo bem nublado", pois "tava" é uma forma reduzida de "estava".
 
 d\) Incorreta. A expressão está em conformidade com a norma-padrão.
 
 2\. Leia um trecho da carta que o escrivão Pero Vaz de Caminha escreveu
-para Dom Manuel, em 1500. (Médio)
+para Dom Manuel, em 1500.
 
 \[\...\]
 
