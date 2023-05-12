@@ -1,7 +1,14 @@
 Notas (README.md)
 =====
 
-```
+
+> 12mai
+* Precisamos fechar até dia 22 de maio por conta do edital (Ipojuca);
+* Fabia: acabar no LaTeX e fechar no Indesign;
+* Fabia: pergunta sobre buraco gerado pelo magenta;
+* Jorge: pedir para o Felipe converter os originais do MATE09 para tex e deixar na pasta originais mesmo. Ele pode utilizar o Word2TeX https://www.chikrii.com/products/word2tex/
+
+> 10mai
 * Alinhas chaptertitle à esquerda
 * Deixamos o quinto ano para o final
 * Estabelecer fontsize = 14pt para 01-05 anos
@@ -19,7 +26,6 @@ Notas (README.md)
 	       ficam com o mesmo estilo que as habilidades do Saeb, 
 	       mas só com um marcador). - Migrar habilidades do Treino 
 	       e dos Simulados para o gabarito."
-```
 
 
 Observações
