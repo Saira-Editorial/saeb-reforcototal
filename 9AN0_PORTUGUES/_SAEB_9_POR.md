@@ -3891,9 +3891,9 @@ d\) Incorreta. O objeto indireto é o termo que completa o sentido de um
 verbo transitivo indireto.
 
 
-# Simulado
+# Simulado 1
 
-1\. Leia o cartaz de uma campanha publicitária.
+Leia o cartaz de uma campanha publicitária para responder às questões de 1 a 5.
 
 **http://agenciaal.alesc.sc.gov.br/index.php/sala\_imprensa\_single/novas-pecas-publicitarias-daeo-desfecho-a-campanha-adocaeo-lacos-de-amor\#!prettyPhoto**
 
@@ -3903,19 +3903,17 @@ verbo transitivo indireto.
 \<http://agenciaal.alesc.sc.gov.br/index.php/sala\_imprensa\_single/novas-pecas-publicitarias-daeo-desfecho-a-campanha-adocaeo-lacos-de-amor\#!prettyPhoto\>.
 Acesso em: 9 abr. 2023.**
 
-**O público-alvo dessa campanha são**
+1\. O público-alvo dessa campanha são
 
-**(A) crianças que estão na fila de espera da adoção.**
+(A) crianças que estão na fila de espera da adoção.
 
-**(B) pessoas que desejam participar do processo de adoção.**
+(B) pessoas que desejam participar do processo de adoção.
 
-**(C) famílias que querem entregar uma criança para a adoção.**
+(C) famílias que querem entregar uma criança para a adoção.
 
-**(D) cidadãos que já adotaram crianças.**
+(D) cidadãos que já adotaram crianças.
 
-Saeb: D4
-
-BNCC: EF69LP02: Analisar e comparar peças publicitárias variadas
+BNCC: EF69LP02 -- Analisar e comparar peças publicitárias variadas
 (cartazes, folhetos, outdoor, anúncios e propagandas em diferentes
 mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação
 entre elas em campanhas, as especificidades das várias semioses e
@@ -3929,14 +3927,123 @@ a\) Incorreta. O texto é destinado a quem pode e quer praticar a adoção.
 b\) Correta. O público-alvo é toda pessoa que deseja participar do
 processo de adoção.
 
-c\) Incorreta. O texto não para pessoas que querem dar um filho para a
+c\) Incorreta. O texto não é para pessoas que querem dar um filho para a
 adoção, mas às pessoas que querem adotar uma criança.
 
 d\) Incorreta. A campanha se destina a quem tem o desejo de adotar uma
 criança. O propósito é convencer o leitor a realizar esse ato.
 
-2\. Leia um trecho do texto acerca da construção dos espetáculos
-teatrais.
+
+2\. Mais especificamente, que tipo de processo de adoção é estimulado por meio da expressão "um amor que não tem idade"?
+
+(A) adoção por parte de pais jovens.
+
+(B) adoção para crianças que ainda não nasceram.
+
+(C) adoção de crianças crescidas, que já não são bebês.
+
+(D) adoção de irmãos.
+
+BNCC: EF69LP02 -- Analisar e comparar peças publicitárias variadas
+(cartazes, folhetos, outdoor, anúncios e propagandas em diferentes
+mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação
+entre elas em campanhas, as especificidades das várias semioses e
+mídias, a adequação dessas peças ao público-alvo, aos objetivos do
+anunciante e/ou da campanha e à construção composicional e estilo dos
+gêneros em questão, como forma de ampliar suas possibilidades de
+compreensão (e produção) de textos pertencentes a esses gêneros.
+
+a\) Incorreta. Embora também possa haver referência a isso, a imagem aponta para a adoção de crianças mais velha, menos comum do que a de bebês.
+
+b\) Incorreta.  Não há qualquer relação possível de se estabelecer com a ideia de adoção de crianças ainda não nascidas.
+
+c\) Correta. As imagens mostram crianças crescidas; além disso, sabe-se que esses processos de adoção são menos comuns.
+
+d\) Incorreta. Não se menciona a adoção de irmãos, nem ela pode ser lida nas entrelinhas. 
+
+3\. Como as imagens e o texto verbal dialogam nesse anúncio?
+
+(A) imagem e texto verbal geram incoerência proposital, para chamar a atenção dos leitores.
+
+(B) imagem e texto verbal se contradizem, invalidando a mensagem trazida pelo anúncio.
+
+(C) texto verbal e texto não verbal não se relacionam diretamente.
+
+(D) texto verbal e imagem se complementam, sendo o anúncio um texto multissemiótico.
+
+BNCC: EF69LP02 -- Analisar e comparar peças publicitárias variadas
+(cartazes, folhetos, outdoor, anúncios e propagandas em diferentes
+mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação
+entre elas em campanhas, as especificidades das várias semioses e
+mídias, a adequação dessas peças ao público-alvo, aos objetivos do
+anunciante e/ou da campanha e à construção composicional e estilo dos
+gêneros em questão, como forma de ampliar suas possibilidades de
+compreensão (e produção) de textos pertencentes a esses gêneros.
+
+a\) Incorreta. Não há incoerência entre texto escrito e imagem, pelo contrário.
+
+b\) Incorreta. Não se constrói uma contradição entre texto escrito e imagem.
+
+c\) Incorreta. Há relação próxima entre texto escrito e imagem; as fotos complementam o que o texto escrito diz.
+
+d\) Correta. Há, de fato, uma complementação. As fotos mostram famílias felizes com seus filhos, mostrando as ideias de laço e de amor mencionadas no texto verbal.
+
+4\. O anúncio é do estado de Santa Catarina, o que se comprova
+
+(A) pelo texto verbal em letras menores, no alto, à direita.
+
+(B) pelas imagens apresentadas, que mostram características geográficas do estado.
+
+(C) pelo slogan que, como qualquer brasileiro pode notar, remete ao estado.
+
+(D) pelo texto maior, em letras brancas, que parece manuscrito.
+
+BNCC: EF69LP02 -- Analisar e comparar peças publicitárias variadas
+(cartazes, folhetos, outdoor, anúncios e propagandas em diferentes
+mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação
+entre elas em campanhas, as especificidades das várias semioses e
+mídias, a adequação dessas peças ao público-alvo, aos objetivos do
+anunciante e/ou da campanha e à construção composicional e estilo dos
+gêneros em questão, como forma de ampliar suas possibilidades de
+compreensão (e produção) de textos pertencentes a esses gêneros.
+
+a\) Correta. É somente na leitura desse texto em letras menores que se pode compreender que se trata de Santa Catarina.
+
+b\) Incorreta. Não há qualquer característica geográfica apresentada no anúncio, nem de Santa Catarina, nem de outro estado.
+
+c\) Incorreta. O slogan é geral e não faz referência a Santa Catarina.
+
+d\) Incorreta. O texto em letras brancas é geral e não faz referência a Santa Catarina.
+
+5\. Na parte inferior do cartaz, em miniatura, aparecem
+
+(A) brasões de famílias que passaram pelo processo de adoção.
+
+(B) símbolos de órgãos que apoiam a campanha.
+
+(C) símbolos de instituições que acolhem crianças.
+
+(D) marcas de empresas que financiam processos de adoção.
+
+BNCC: EF69LP02 -- Analisar e comparar peças publicitárias variadas
+(cartazes, folhetos, outdoor, anúncios e propagandas em diferentes
+mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação
+entre elas em campanhas, as especificidades das várias semioses e
+mídias, a adequação dessas peças ao público-alvo, aos objetivos do
+anunciante e/ou da campanha e à construção composicional e estilo dos
+gêneros em questão, como forma de ampliar suas possibilidades de
+compreensão (e produção) de textos pertencentes a esses gêneros..
+
+a\) Incorreta. Os símbolos são de instituições, não são brasões de famílias.
+
+b\) Correta. Trata-se, de fato, de órgãos e instituições variados que apoiam a campanha.
+
+c\) Incorreta. As instituições representadas não acolhem crianças.
+
+d\) Incorreta. Não há esse tipo de financiamento.
+
+
+Leia um trecho do texto acerca da construção dos espetáculos teatrais. Depois, responda às questões 6 e 7.
 
 **Corpo, Expressão e Movimento**
 
@@ -3944,15 +4051,15 @@ teatrais.
 
 O processo de criação teatral envolve todo um coletivo em pesquisa,
 jogos teatrais e improvisação. Ele pode ser feito por meio de um texto
-pré-existente ou mesmo na construção de um novo texto. Assim vai se
-definindo personagens, cenas e outros elementos que compõe o espetáculo
+pré-existente ou mesmo na construção de um novo texto. Assim vão se
+definindo personagens, cenas e outros elementos que compõem o espetáculo
 teatral.
 
 CORPO, expressão e movimento. Disponível em:
 http://sme.goiania.go.gov.br/conexaoescola/eaja/musica-e-teatro/. Acesso
 em: 9 abr. 2023.
 
-Pela leitura do texto, pode-se afirmar que os jogos teatrais e a
+6\. Pela leitura do texto, pode-se afirmar que os jogos teatrais e a
 improvisação
 
 \(A\) representam o resultado final da encenação e são sempre
@@ -3967,9 +4074,7 @@ construção do espetáculo.
 \(D\) fazem parte de um processo utilizado pelos atores, porque eles
 dependem da presença de plateia.
 
-Saeb: D4
-
-BNCC: EF69LP44: Inferir a presença de valores sociais, culturais e
+BNCC: EF69LP44 -- Inferir a presença de valores sociais, culturais e
 humanos e de diferentes visões de mundo, em textos literários,
 reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre
 as identidades, sociedades e culturas e considerando a autoria e o
@@ -3987,12 +4092,40 @@ dos elementos do espetáculo teatral.
 
 d\) Incorreta. Nessas situações, pode não haver a presença de plateia.
 
-3\. Leia o trecho de uma entrevista com uma escritora.
+
+7\. A pergunta presente no título do texto
+
+\(A\) mostra que não haverá respostas, elas devem ser buscadas pelo leitor.
+
+\(B\) apresenta, em si mesma, um passo a passo para a construção da peça teatral.
+
+\(C\) aponta para o fato de que haverá muitos dados estatísticos no texto.
+
+\(D\) dirige-se diretamente ao leitor, gerando nele curiosidade e vontade de ler o texto.
+
+BNCC: EF69LP44 -- Inferir a presença de valores sociais, culturais e
+humanos e de diferentes visões de mundo, em textos literários,
+reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre
+as identidades, sociedades e culturas e considerando a autoria e o
+contexto social e histórico de sua produção.
+
+a\) Incorreta. Há, no conteúdo do texto, respostas para a questão proposta.
+
+b\) Incorreta. Não há passo a passo, nem no título, nem no corpo do texto. Há, apenas, diretrizes.
+
+c\) Incorreta. Não há dados estatísticos no texto, nem isso se apresenta na pergunta do título.
+
+d\) Correta. De fato, ao se referir diretamente ao leitor, a questão o envolve e o faz querer ler o texto.
+
+
+# Simulado 2
+
+Leia o trecho de uma entrevista com uma escritora. Depois, responda às questões de 1 a 3.
 
 **Margaret Atwood, autora de O conto de aia: "Para mim é natural ser uma
 'raposa velha' malvada"**
 
-\[...\] Mais de três décadas depois de sua publicação, O conto da aia
+\[...\] Mais de três décadas depois de sua publicação, *O conto da aia*
 retornou às listas de livros mais vendidos \[...\]. A distopia de
 Margaret Atwood (Ottawa, 1939) voltou com força, e a prolífica autora --
 que publicou seu primeiro livro de poemas em 1969 \[...\] -- se decidiu
@@ -4001,7 +4134,7 @@ a escrever a sequência.
 \[...\]
 
 P. A senhora escreveu que existem romances que enfeitiçam os leitores, e
-outros a seus escritores, e que com O conto da aia as duas coisas
+outros a seus escritores, e que com *O conto da aia* as duas coisas
 aconteceram. Esse livro a perseguiu?
 
 R. Sim, com certeza. Há obras que resistem a ser somente livros e foi
@@ -4009,12 +4142,12 @@ assim com esse romance. Também há personagens que escapam das páginas
 como Dom Quixote, que passou a ser uma metáfora e está aí dando voltas
 pelo mundo.
 
-AGUILAR, Andrea. Margaret Atwood, autora de O conto de aia: "Para mim é
+Andrea Aguilar. Margaret Atwood, autora de O conto de aia: "Para mim é
 natural ser uma 'raposa velha' malvada". Disponível em:
 https://brasil.elpais.com/brasil/2019/09/06/cultura/1567786560\_937893.html.
 Acesso em: 7 abr. 2023.
 
-Compreende-se que o primeiro parágrafo
+\num{1} Compreende-se que o primeiro parágrafo
 
 \(A\) mostra como serão as perguntas e as respostas da dinâmica de
 conversa entre os participantes, iniciando o assunto de maneira
@@ -4030,9 +4163,7 @@ jornalístico.
 \(D\) justifica a elaboração das perguntas que aparecem posteriormente,
 pois a entrevistadora mostra quais objetivos tinha com a entrevista.
 
-Saeb: D12
-
-BNCC: EF69LP16: Analisar e utilizar as formas de composição dos gêneros
+BNCC: EF69LP16 -- Analisar e utilizar as formas de composição dos gêneros
 jornalísticos da ordem do relatar, tais como notícias (pirâmide
 invertida no impresso X blocos noticiosos hipertextuais e
 hipermidiáticos no digital, que também pode contar com imagens de vários
@@ -4054,11 +4185,68 @@ apresentação do entrevistado no primeiro parágrafo, destinado ao leitor.
 d\) Incorreta. O texto apresenta apenas a história da entrevistada, não
 mostrando os propósitos da entrevista.
 
-4\. Leia um trecho do artigo de divulgação científica.
+\num{2} Como se organizam, por escrito, os turnos de fala da entrevista?
+
+\(A\) perguntas e respostas aparecem separadas - primeiro uma bateria de perguntas, depois suas respostas.
+
+\(B\) perguntas e respostas aparecem em cores diferentes para que se esclareçam suas funções.
+
+\(C\) perguntas e respostas se alternam, com indicações simples e diretas para se diferenciarem entre si.
+
+\(D\) aparecem apenas perguntas, sendo que as respostas ficam a cargo do leitor.
+
+BNCC: EF69LP16 -- Analisar e utilizar as formas de composição dos gêneros
+jornalísticos da ordem do relatar, tais como notícias (pirâmide
+invertida no impresso X blocos noticiosos hipertextuais e
+hipermidiáticos no digital, que também pode contar com imagens de vários
+tipos, vídeos, gravações de áudio etc.), da ordem do argumentar, tais
+como artigos de opinião e editorial (contextualização, defesa de
+tese/opinião e uso de argumentos) e das entrevistas: apresentação e
+contextualização do entrevistado e do tema, estrutura pergunta e
+resposta etc.
+
+a\) Incorreta. Não há baterias separadas de perguntas e de respostas.
+
+b\) Incorreta. Não aparece, no texto, a estratégia da diferenciação por cores.
+
+c\) Correta. Há intercalação entre perguntas e respostas e elas são marcadas com as letras P e R.
+
+d\) Incorreta. As respostas são, naturalmente, dadas pela entrevistada.
+
+\num{3} A citação de D. Quixote, pela entrevistada, serve como argumentação por meio de 
+
+\(A\) fato concreto.
+
+\(B\) exemplificação.
+
+\(C\) citação de autoridade - D. Quixote, nesse caso.
+
+\(D\) contra-argumentação.
+
+BNCC: EF69LP16 -- Analisar e utilizar as formas de composição dos gêneros
+jornalísticos da ordem do relatar, tais como notícias (pirâmide
+invertida no impresso X blocos noticiosos hipertextuais e
+hipermidiáticos no digital, que também pode contar com imagens de vários
+tipos, vídeos, gravações de áudio etc.), da ordem do argumentar, tais
+como artigos de opinião e editorial (contextualização, defesa de
+tese/opinião e uso de argumentos) e das entrevistas: apresentação e
+contextualização do entrevistado e do tema, estrutura pergunta e
+resposta etc.
+
+a\) Incorreta. Não aparecem fatos concretos do mundo nessa argumentação.
+
+b\) Correta. O personagem D. Quixote serve, de fato, como exemplo, na literatura, de presonagem que foi além do romance a que pertencia.
+
+c\) Incorreta. D. Quixote é usado como personagem de exemplo, simplesmente, não como autoridade no assunto.
+
+d\) Incorreta. A citação do personagem não funciona como contra-argumentação.
+
+
+Leia um trecho do artigo de divulgação científica para responder às questões 4 e 5.
 
 **Inteligência artificial a favor do coração**
 
-\[\...\] projeto da Universidade Estadual de Campinas (Unicamp), que
+\[\...\] projeto da Universidade Estadual de Campinas (Unicamp) [...]
 pode reverter em economia de R\$ 50 milhões por ano para o Sistema Único
 demSaúde (SUS). Conduzido pelo Laboratório Aterolab da Faculdade de
 Ciências Médicas (FCM), o projeto visa identificar os pacientes de
@@ -4073,11 +4261,11 @@ novo infarto ou, mesmo, morte súbita. Muitas tentativas já foram feitas
 para identificar quem é esse paciente que corre mais risco", diz o
 cardiologista. \[\...\]
 
-TUNES, Suzel. Inteligência artificial a favor do coração. Disponível em:
+Suzel Tunes. Inteligência artificial a favor do coração. Disponível em:
 https://revistapesquisa.fapesp.br/inteligencia-artificial-a-favor-do-coracao/.
 Acesso em: 8 abr. 2023.
 
-Percebe-se que a fala do cardiologista é uma citação direta porque
+\num {4} Percebe-se que a fala do cardiologista é uma citação direta porque
 
 \(A\) apresenta um verbo de elocução após a fala.
 
@@ -4087,9 +4275,7 @@ Percebe-se que a fala do cardiologista é uma citação direta porque
 
 \(D\) mostra a ideia do especialista sem utilizar a fala literal dele.
 
-Saeb: D1
-
-BNCC: EF69LP43: Identificar e utilizar os modos de introdução de outras
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras
 vozes no texto -- citação literal e sua formatação e paráfrase --, as
 pistas linguísticas responsáveis por introduzir no texto a posição do
 autor e dos outros autores citados ("Segundo X; De acordo com Y; De
@@ -4115,7 +4301,37 @@ do texto.
 d\) Incorreta. A citação direta é a transcrição da fala literal de
 alguém.
 
-5\. Leia um trecho de uma notícia sobre as epidemias.
+
+\num {5} Para falar a favor da importância do estudo citado
+
+\(A\) utiliza-se o nome do especialista que o comanda, sem que haja citação de benefícios financeiros.
+
+\(B\) foca-se na ideia de que os pacientes podem sobreviver a infartos, mesmo que eles ocorram.
+
+\(C\) apresentam-se dados numéricos dos resultados do estudo, organizados em gráficos.
+
+\(D\) mostra-se que, além dos benefícios à saúde da população, há também ganhos econômicos. 
+
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras
+vozes no texto -- citação literal e sua formatação e paráfrase --, as
+pistas linguísticas responsáveis por introduzir no texto a posição do
+autor e dos outros autores citados ("Segundo X; De acordo com Y; De
+minha/nossa parte, penso/amos que"\...) e os elementos de normatização
+(tais como as regras de inclusão e formatação de citações e paráfrases,
+de organização de referências bibliográficas) em textos científicos,
+desenvolvendo reflexão sobre o modo como a intertextualidade e a
+retextualização ocorrem nesses textos.
+
+a\) Incorreta. Há, sim, logo no início do texto citado, a menção a ganhos econômicos.
+
+b\) Incorreta. A ideia é evitar que esses eventos ocorram no ano que já sucede um, sem que se fale em evitar o já ocorrido.
+
+c\) Incorreta. Não há menção a dados numéricos no texto.
+
+d\) Correta. A menção a uma potencial economia de gastos aparece bem no início do texto, em destaque.
+
+
+Leia um trecho de uma notícia sobre as epidemias. Depois, responda às questões 6 e 7.
 
 **Como acabam as epidemias**
 
@@ -4131,11 +4347,11 @@ contágio fica mais difícil, e a enfermidade míngua. Historicamente, esse
 catedrático de microbiologia da Universidade Complutense de Madri
 \[\...\]
 
-MEDIAVILLA, Daniel. Como acabam as epidemias. El País. Disponível em:
+Daniel Mediavilla. Como acabam as epidemias. El País. Disponível em:
 https://brasil.elpais.com/ciencia/2020-03-26/como-acabam-as-epidemias.html.
 Acesso em: 9 abr. 2023.
 
-Um dos modos de a reportagem mostrar credibilidade aos fatos expostos é
+\num{6} Um dos modos de a reportagem mostrar credibilidade aos fatos expostos é
 
 \(A\) expor as ideias do especialista, de forma indireta, sobre as
 maneiras de dar um fim ao contágio por vírus, o que retoma ações do
@@ -4150,14 +4366,12 @@ embasar o que está sendo informado, como as palavras do microbiologista.
 \(D\) utilizar dos conhecimentos do especialista e dos dados históricos
 para fundamentar as opiniões do autor da reportagem sobre as epidemias.
 
-Saeb: D1
-
-BNCC: EF89LP05: Analisar o efeito de sentido produzido pelo uso, em
+BNCC: EF89LP05 -- Analisar o efeito de sentido produzido pelo uso, em
 textos, de recurso a formas de apropriação textual (paráfrases,
 citações, discurso direto, indireto ou indireto livre).
 
 a\) Incorreta. O trecho não expõe as ideias do especialista de forma
-indireta, mas reproduz, de forma direta.
+indireta, mas sim de forma direta.
 
 b\) Incorreta. O trecho, além de não apontar o distanciamento do pastor
 como a forma adequada de isolamento, não produz a comparação com o ano
@@ -4175,6 +4389,32 @@ míngua" -- dando credibilidade ao que foi informado.
 d\) Incorreta. Não há a exposição de dados históricos, mas de um fato
 que aconteceu no passado e sua relação no combate das epidemias na
 história da humanidade.
+
+\num{7} Para estruturar o texto, o autor recorreu a
+
+\(A\) expor nomes de personagens comuns que viveram as duas pandemias citadas.
+
+\(B\) construir um paralelo entre dois eventos semelhantes, em momentos distintos na história.
+
+\(C\) reproduzir depoimentos de cidadãos que viveram a pandemia de COVID-19.
+
+\(D\) selecionar palavras raras do nosso léxico, como "míngua".
+
+BNCC: EF89LP05 -- Analisar o efeito de sentido produzido pelo uso, em
+textos, de recurso a formas de apropriação textual (paráfrases,
+citações, discurso direto, indireto ou indireto livre).
+
+a\) Incorreta. Embora personagens sejam citados de forma inespecífica, seus nomes não aparecem.
+
+b\) Correta. Trata-se de um paralelo entre a gripe de 1918 e a recente pandemia de COVID-19.
+
+c\) Incorreta. Não há depoimentos de pessoas que vivenciaram a recente pandemia.
+
+d\) Incorreta. Não se selecionaram, de forma proposital, palavras raras da língua.
+
+
+
+# Simulado 3
 
 6\. Leia um trecho de um manifesto.
 
@@ -4293,6 +4533,11 @@ ao 12., e suas alíneas, deste Capítulo" confere ao texto o caráter
 normativo característico dos editais.
 
 d\) Incorreta. O texto é formal.
+
+
+# Simulado 4
+
+
 
 **REFERÊNCIAS**
 
