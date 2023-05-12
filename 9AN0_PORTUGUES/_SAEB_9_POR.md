@@ -3817,9 +3817,9 @@ CAMINHA, Pero Vaz de. A carta. Disponível em:
 www.dominiopublico.gov.br/download/texto/ua000283.pdf. Acesso em: 9 abr.
 2023.
 
-**barretes**: gorro
+**barretes**: gorros.
 
-**carapucinha**: veste para a cabeça
+**carapucinha**: veste para a cabeça.
 
 A utilização da norma-padrão escrita na carta ocorre porque o escrivão
 
@@ -3829,9 +3829,7 @@ A utilização da norma-padrão escrita na carta ocorre porque o escrivão
 
 \(C\) apresenta a duração dos acontecimentos da viagem.
 
-\(D\) está se dirigindo a uma autoridade, no caso, o rei.
-
-Saeb:
+\(D\) está se dirigindo a uma autoridade; no caso, o rei.
 
 BNCC: EF69LP56: Fazer uso consciente e reflexivo de regras e normas da
 norma-padrão em situações de fala e escrita nas quais ela deve ser
@@ -3846,11 +3844,10 @@ c\) Incorreta. Nesse trecho, não há mais dados para afirmar o tempo dos
 acontecimentos, além de esse não ser o motivo de a norma padrão ser
 usada.
 
-d\) Correta. Por ser uma carta dirigida a uma autoridade, a carta usa a
+d\) Correta. Por ser uma dirigida a uma autoridade, a carta usa a
 norma-padrão da língua utilizada no período.
 
 3\. Leia o trecho a seguir, do conto tradicional "Rumpelstichen".
-(Difícil)
 
 **Rumpelstichen**
 
@@ -3878,8 +3875,6 @@ classificado como
 
 \(D\) objeto indireto.
 
-Saeb:
-
 BNCC: EF09LP07 - Comparar o uso de regência verbal e regência nominal na
 norma-padrão com seu uso no português brasileiro coloquial oral.
 
@@ -3894,6 +3889,7 @@ complemento e se ligam a ele indiretamente.
 
 d\) Incorreta. O objeto indireto é o termo que completa o sentido de um
 verbo transitivo indireto.
+
 
 # Simulado
 
@@ -4339,6 +4335,7 @@ ensino de gramática. São Paulo: Cortez Editora, 2008.
 
 VIGOTSKY, Lev S. **Pensamento e linguagem**. Tradução: Jefferson Luiz
 Camargo. São Paulo: Martins Fontes, 2003.
+
 
 
 
