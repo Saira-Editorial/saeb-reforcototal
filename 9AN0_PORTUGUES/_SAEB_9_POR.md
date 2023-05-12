@@ -115,15 +115,19 @@ concretas. No anúncio apresentado, quais são elas?
 
 \linhas{4}
 
-6\. Em sua opinião, campanhas educativas podem convencer a população a
+6\. Em sua opinião, campanhas educativas podem convencer a população a se tornar mais consciente?
+
+\linhas{6}
+
 \coment{Resposta pessoal. Explique aos alunos que as campanhas educativas são
 fundamentais para conscientizar as pessoas e podem mudar atitudes.}
 
-\linhas{6}
 
 7\. O período "Ciclista não é obstáculo, ele faz parte do trânsito:
 Respeite-o!" dialoga com o leitor. Que forma verbal indica essa
 interlocução? 
+
+Imagem meramente ilustrativa que pode ser cortada se necessário: <https://www.freepik.com/free-vector/location-tracking-concept-illustration_12704343.htm#query=bike&position=13&from_view=search&track=sph>
 
 \coment{A forma verbal "respeite" em **respeite-o**.}
 
@@ -148,6 +152,8 @@ Leia, agora, mais um texto para, então, responder às questões 9 e 10.
 
 >A educação no trânsito começa desde cedo, nas escolas, ensinando as crianças sobre as leis de trânsito, as sinalizações e as precauções que devem ser tomadas ao atravessar a rua. Além disso, é importante que os adultos também sejam educados e respeitem as leis de trânsito, como o uso do cinto de segurança, a não utilização do celular enquanto dirigem, a obediência aos limites de velocidade e a sinalização nas vias.
 
+Imagem meramente ilustrativa que pode ser cortada se necessário: <https://www.freepik.com/free-vector/city-street-isometric-illustration_21078598.htm#query=traffic&position=16&from_view=search&track=sph>
+
 ~Texto escrito para este material.~
 
 9\. Para ajudar na conscientização, o texto traz dados estatísticos. Como eles ajudam nessa função de convencer os leitores?
@@ -168,6 +174,8 @@ Leia, agora, mais um texto para, então, responder às questões 9 e 10.
 
 **"No Brasil, se você for um jogador compulsivo, estará em
 dificuldades", alerta psiquiatra**
+
+Imagem meramente ilustrativa que pode ser cortada se necessário: <https://www.freepik.com/free-photo/close-up-people-playing-bingo-together_20825618.htm#query=bingo&position=12&from_view=search&track=sph>
 
 >\[...\] Em 2004, quando os bingos foram proibidos, os pacientes não
 desapareceram, mas a demanda diminuiu bastante. Teve um momento que os
@@ -233,6 +241,8 @@ trabalho.
 2\. Leia o texto.
 
 **No Rio, escolas públicas buscam parcerias para melhorar ensino médio**
+
+Imagem meramente ilustrativa que pode ser cortada se necessário: <https://www.freepik.com/free-photo/book-with-green-board-background_2244883.htm#query=school&position=18&from_view=search&track=sph>
 
 \[...\]
 
@@ -306,6 +316,8 @@ melhorar seu relacionamento com sua família.
 3\. Leia o trecho de um artigo de opinião.
 
 **Comida de pobres**
+
+Imagem meramente ilustrativa que pode ser cortada se necessário: <https://www.freepik.com/free-photo/full-shot-african-woman-sitting-chair_24747737.htm#query=poverty&position=2&from_view=search&track=sph>
 
 \[\...\]
 Na Espanha, cerca de 1 em cada 5 pessoas está em "risco de exclusão", enfrentando situações difíceis. Além disso, 5 em cada 100 cidadãos sofrem com "privação material severa", incluindo fome e frio. No entanto, muitos de nós não parecemos se importar com essa realidade e frequentemente culpamos aqueles que estão nessa situação, como se a pobreza fosse uma escolha.
@@ -409,6 +421,8 @@ e de gênero e povos e comunidades tradicionais.
 
 **PLANO DE DESENVOLVIMENTO INTEGRADO BAHIA 2035**
 
+Imagem meramente ilustrativa que pode ser cortada se necessário:<https://www.freepik.com/free-photo/beggars-sitting-bridge-with-cups-have-money_8351907.htm#query=poverty&position=10&from_view=search&track=sph>
+
 >A promoção do desenvolvimento na Bahia enfrenta desafios fundamentais relacionados ao racismo e à violência de gênero, que caracterizam socialmente sua formação socioeconômica como patriarcal e escravocrata por séculos. Esses padrões de conduta foram historicamente utilizados para justificar relações de dominação, exploração e violência, o que pode ser comprovado pela atualidade dessas condutas, evidenciada pelo número de feminicídios e homicídios que vitimam a população negra. A igualdade de raça e gênero e o combate ao racismo são essenciais para transformar os padrões das relações étnico-raciais e de gênero ainda vigentes, já que esses traços estruturantes atingem desrespeitosamente a maioria da população, negros e mulheres.
 
 >Os critérios organizadores das relações sociais devem pautar-se na conquista da cidadania e na defesa incansável dos direitos humanos, em vez da diferença de raça e gênero, que promove uma inserção injusta e violenta. O Estado precisa proteger os direitos dos negros e das mulheres e considerar a questão racial e de gênero como dimensão estratégica central na resolução da desigualdade social, considerando as superposições interseccionais. Isso requer um modelo de desenvolvimento inclusivo para a população negra, para as mulheres e para os povos e comunidades tradicionais.
@@ -462,6 +476,8 @@ uma proposta que tem o objetivo de atender em conjunto diversas áreas.}
 
 6\. O texto traça finalidades e planejamentos a serem adotados para que
 a proposta pública seja efetivamente aplicada. Por que é fundamental registrar esses planejamentos e finalidades em um documento? Explique. 
+
+Imagem meramente ilustrativa que pode ser cortada se necessário:<https://www.freepik.com/free-photo/cropped-photo-attractive-young-man-office-working_8076236.htm#query=documents&position=2&from_view=search&track=sph>
 
 \coment{Espera-se que os alunos percebam que esses planejamentos e finalidades conduzem as ações ou estratégias que deverão ser realizadas para que as propostas sejam realizadas pelo governo.}
 
@@ -559,6 +575,8 @@ sobre o trânsito apenas no mês de maio, mas sim em todos os meses.
 ambiente.
 
 **Estatuto da Associação de Preservação do Meio Ambiente e da Vida**
+
+Imagem meramente ilustrativa que pode ser cortada se necessário:<https://www.freepik.com/free-vector/flat-jungle-background_13994831.htm#query=forest&position=13&from_view=search&track=sph>
 
 \[...\] Art. 3o -- A Associação de Preservação do Meio Ambiente e da
 Vida -- APREMAVI tem por objetivos:
@@ -744,6 +762,8 @@ pessoa.
 
 **A pequena vendedora de fósforos**
 
+Imagem meramente ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/match-flame-background-high-resolution-image_18833854.htm#query=palito%20de%20f%C3%B3sforo&position=48&from_view=search&track=ais>
+
 > Estava tanto frio! A neve não parava de cair e a noite aproximava-se.
 > Aquela era a última noite de Dezembro, véspera do dia de Ano Novo.
 > Perdida no meio do frio intenso e da escuridão, uma pobre rapariguinha
@@ -927,6 +947,8 @@ acontecimentos diversos.
 
 **O valor do silêncio**
 
+Imagem meramente ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/beautiful-pine-trees-mountains_9971812.htm#query=silence%20cottage&position=4&from_view=search&track=ais>
+
 >Havia um lugar onde o silêncio reinava soberano. Era uma pequena cabana nas montanhas, onde um velho eremita vivia em paz consigo mesmo. Ele passava seus dias contemplando a natureza ao redor, sem perturbar a harmonia do lugar com palavras desnecessárias.
 
 >Um dia, um viajante chegou à cabana em busca de abrigo para a noite. Ao entrar, percebeu que o velho homem sequer olhava em sua direção, e o silêncio era tão intenso que parecia ensurdecedor.
@@ -981,6 +1003,8 @@ d\) Incorreta. Além de os personagens não serem exatamente amigos, o eremita a
 
 **Valor inestimável**
 
+Imagem meramente ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/portrait-serious-afro-american-little-boy-dressed-white-t-shirt-frowning-having-grumpy-facial-expression-showing-all-ten-fingers-both-hands-making-no-gesture-stop-sign_11891312.htm#query=violence%20against%20kids&position=3&from_view=search&track=ais>
+
 >Nos últimos anos, tem se tornado cada vez mais comum ouvir notícias sobre a violência contra crianças nas metrópoles brasileiras. São relatos de tiroteios em escolas, assassinatos de menores de idade e outras formas de violência que têm como vítimas os mais jovens.
 
 >A violência é apenas um dos fatores que contribuem para essa desvalorização. A falta de acesso a serviços básicos, como saúde e educação de qualidade, também faz com que as crianças sejam deixadas à margem da sociedade. O ECA e outrox textos legais, apesar de sua complexidade, não bastam para manter todas as garantias desses jovens cidadãos em dia.
@@ -1025,6 +1049,8 @@ www1.folha.uol.com.br/cotidiano/2018/01/1947572-mortes-admirado-neurologista-era
 Acesso em: 28 mar. 2023.
 
 O tema central do discurso de formatura, proferido em 1955, era
+
+Imagem meramente ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/hands-unrecognizable-female-doctor-writing-form-typing-laptop-keyboard_5839269.htm#query=doctor&position=9&from_view=search&track=sph>
 
 \(A\) a importância da profissão dos médicos.
 
@@ -1320,6 +1346,8 @@ projetos.}
 
 **Pela ampliação da presença de mulheres em estádios**
 
+Imagem meramente ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/girl-stadium_1277471.htm#query=women%20at%20staduim&position=2&from_view=search&track=ais>
+
 A Federação Paulista de Futebol divulgou medidas que serão adotadas durante o Campeonato Paulista 2020 para aumentar a presença de mulheres nos estádios. A campanha #ElasNoEstádio foi lançada na sede da entidade, nesta quarta, com a presença exclusiva de mulheres, com o objetivo de transmitir aos profissionais a sensação de exclusão vivida pelas mulheres nos estádios. A competição começa nesta quarta-feira (22) e contará com a participação de 16 equipes.
 
 Fonte de pesquisa: Carlos Petrocilo. Folha de S. Paulo. Federação paulista quer ampliar presença de mulheres em estádios. Disponível em:
@@ -1366,6 +1394,8 @@ informação que não aparece no texto.
 2\. Leia o texto a seguir.
 
 **Descoberta proteína guardiã dos músculos**
+
+Imagem meramente ilustrativa que pode ser cortada:<https://www.freepik.com/free-photo/doctor-performing-medical-research-lab_24236681.htm#query=laboratory%20mice&position=0&from_view=search&track=ais>
 
 Em estudos com ratos, cientistas identificaram uma proteína que, ao ser
 superativada, consegue manter a força e a massa dos músculos. Trata-se de uma descoberta surpreendente e promissora, já que um dos efeitos gerados no corpo humano em consequência do envelhecimento é a perda da massa muscular - ou sarcopenia. Com sua pesquisa, os cientistas, que são franceses, descobriram um mecanismo que poderá ajudar a prevenir essa complicação, classificada como doença em 2016 pela Organização Mundial da Saúde.
@@ -1418,6 +1448,8 @@ superativada.
 3\. Leia o trecho da notícia a seguir.
 
 **Covid-19 e as medidas de condomínios residenciais**
+
+Imagem meramente ilustrativa que pode ser cortada: <https://www.freepik.com/free-vector/realistic-coronavirus-background_9986460.htm#query=covid%2019&position=8&from_view=search&track=ais>
 
 Complexos residenciais estão adotando medidas para garantir a segurança dos moradores frente à pandemia do novo coronavírus. Entre elas, estão a obrigatoriedade de uso de máscaras faciais, interdição de áreas comuns e suspensão de biometria. Desde março, o condomínio de duas torres em Águas Claras, onde o analista de sistemas Thiago Souza vive, já colocou em prática essas adaptações. 
 "Além de fechar as áreas comuns, mantendo aberta apenas a
@@ -1639,6 +1671,8 @@ Um fato pode ser comprovado por meio de evidências.
 
 \num{8} O que significa **opinião**?
 
+Imagem meramente ilustrativa que pode ser cortada: <https://www.freepik.com/free-vector/opinion-concept-illustration_12219840.htm#query=opinion&position=0&from_view=search&track=sph>
+
 \linhas{3}
 
 Opinião consiste na interpretação das pessoas em relação ao fato, em
@@ -1679,6 +1713,8 @@ Opinião. A frase "Acredito que as políticas de sustentabilidade devem ser prio
 \num{1} Leia um trecho da resenha crítica sobre o filme "O Piano".
 
 **O Piano**
+
+Imagem meramente ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/woman-playing-piano_5351321.htm#query=piano&position=9&from_view=search&track=sph>
 
 A história se passa no final do século XIX, quando Ada e sua filha vão
 morar na Nova Zelândia, onde Ada se casará com um desbravador da ilha a
@@ -1727,6 +1763,8 @@ trazendo uma informação técnica da sinopse.
 
 **A Igualdade nas diferenças**
 
+Imagem meramente ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/people-masks-stands-street_7368688.htm#page=2&query=covid%20pandemy&position=32&from_view=search&track=ais>
+
 Nos primeiros dias de 2020, o mundo passou a acompanhar com certo
 ceticismo as notícias sobre a nova doença que se espalhava pelo
 território chinês. Apesar de as advertências sobre os riscos de uma
@@ -1739,7 +1777,7 @@ Os brasileiros, por sua vez, retardaram um pouco mais. Como de costume,
 na terra do futebol, as alas da realidade só se abrem depois do
 carnaval.
 
-CALANDRA, Henrique Nelson; GURGEL, Sergio Ricardo do Amaral. A Igualdade
+Henrique Nelson Calandra; Sergio Ricardo do Amaral Gurgel. A Igualdade
 nas diferenças. Correio Braziliense, 14 ago. 2020. Disponível em:
 www.correiobraziliense.com.br/opiniao/2020/08/4868463-a-igualdade-nas
 diferencas.html. Acesso em: 01 abr. 2023.
@@ -1774,6 +1812,8 @@ são resolvidas no Brasil.
 
 \num{3} Leia os trechos sobre as mascotes das Olimpíadas no Rio de Janeiro,
 em 2015.
+
+Imagem meramente ilustrativa que pode ser cortada: <https://www.freepik.com/free-vector/collection-athletes_899351.htm#query=olimpic%20games&position=24&from_view=search&track=ais>
 
 **Texto I**
 
@@ -2366,7 +2406,7 @@ Na reportagem, o jornalista expressa sua opinião e suas impressões
     em relação ao assunto. Releia os trechos a seguir e, então, responda às questões 11 e 12.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Muita gente acredita que o consumo esporádico de drogas não faz mal. Errado. Se não tiver sido prescrita por um médico, as drogas podem prejudicar de forma grave a saúde, perturbando os estudos e alterando o humor.
+  Muita gente acredita que o consumo esporádico de drogas não faz mal. Errado. Se não tiver sido prescrita por um médico, a droga pode prejudicar de forma grave a saúde, perturbando os estudos e alterando o humor.
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2400,6 +2440,8 @@ que foi usada pelo jornalista.
 brasileiras para o cumprimento da Agenda 2030, proposta pela ONU.
 
 **Texto 1**
+
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/hands-holding-earth-csr-business-campaign_17229783.htm#query=agenda%202030&position=4&from_view=search&track=ais>
 
 **Avanços brasileiros contribuem para cumprimento da Agenda 2030, diz
 especialista**
@@ -2480,6 +2522,8 @@ que é impossível.
 
 **Brasil estreia contra Bolívia nas eliminatórias da Copa do Mundo
 2022**
+
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/football-background-grass-with-trophy_2351182.htm#query=fifa%20world%20cup&position=2&from_view=search&track=ais>
 
 O caminho da seleção brasileira para garantir uma vaga na Copa do Mundo
 de 2022, no Catar, foi traçado na manhã de hoje (17) pela Conmebol, que
@@ -3037,6 +3081,8 @@ Amor é um fogo que arde sem se ver,
 
 \[\...\]
 
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/couple-embracing-looking-lake_982148.htm#query=love%20couple&position=1&from_view=search&track=ais>
+
 Luís Vaz de Camões. Amor é um fogo que arde sem se ver. In: Sonetos. Disponível em:
 \<http://www.dominiopublico.gov.br/download/texto/bv000164.pdf\>. Acesso
 em: 7 abr. 2023.
@@ -3153,6 +3199,8 @@ naturais, não que nunca foi vista.
 
 **Ah! Ser indiferente!**
 
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/man-holding-umbrella-jetty-by-tranquil-lake_18930136.htm#query=loneliness&position=1&from_view=search&track=sph>
+
 \[...\]
 
 Ser alheio até a si mesmo!
@@ -3204,6 +3252,8 @@ elementos sem utilizar conjunção.
 Bernardo Soares, de Fernando Pessoa.
 
 **L. do D. (Prefácio)**
+
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/golden-pawn-chess-move-out-from-line-different-thinking-leading-change-disruption-unique-concept-by-3d-render_24458825.htm#query=contrastant&position=8&from_view=search&track=sph>
 
 Mas o contraste não me esmaga --- liberta-me; e a ironia que há nele é
 sangue meu. O que devera humilhar-me é a minha bandeira, que desfraldo;
@@ -3306,6 +3356,8 @@ políticas públicas de combate à fome e à pobreza no Brasil**
 Anna Maria Medeiros Peliano
 
 **Abertura**
+
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-psd/delicious-foodstuff-arrangement_20281576.htm#page=2&query=food%20for%20all&position=35&from_view=search&track=ais>
 
 A iniciativa de registrar a experiência do Fome Zero merece ser saudada
 com entusiasmo. Afinal, o próprio nome do programa expressa a indignação
@@ -3429,6 +3481,8 @@ Ser saudável é muito mais do que cortar prazeres - aliás, ser saudável é o 
 
 \num{1} Leia o texto que acompanha um anúncio de prevenção ao bullying.
 
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-vector/racism-concept-with-hands-pointing-person_8702850.htm#query=stop%20bullying&position=23&from_view=search&track=ais>
+
 "Bullying é uma forma de agressão. Zoação ofensiva e violência não são brincadeiras. O bullying pode se manifestar das seguintes formas: física e material; sexual; verbal; psicológica e moral; virtual ou cyberbullying."
 
 Na frase do anúncio "Zoação ofensiva **e** violência não são
@@ -3460,6 +3514,8 @@ primeira, esta não apresenta função de dar fundamentações à primeira.
 
 \num{2} Leia o trecho de uma redação nota mil no Enem, observando como a
 conclusão foi elaborada.
+
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/standard-quality-control-collage-concept_30589259.htm#query=secure%20information&position=0&from_view=search&track=ais>
 
 \[...\]
 
@@ -3522,6 +3578,8 @@ conclusão
 \num{3} Leia o trecho da reportagem a seguir.
 
 **Em Lima, Brasil bate recorde histórico com 308 medalhas**
+
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-vector/award-medal-realistic-composition-with-isolated-image-medal-with-laurel-wreath-blank-background-vector-illustration_23129813.htm#query=medal&position=1&from_view=search&track=sph>
 
 \[...\]
 
@@ -3746,6 +3804,8 @@ Pode-se afirmar que a forma verbal "visar" foi usada em consonância
 
 **Brasileiros preferem ficar 24 horas sem água que sem o smartphone**
 
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/young-latin-woman-smiling-happy-making-selfie-by-smartphone-city_39467686.htm#query=smartphone&position=13&from_view=search&track=sph>
+
 Disponível em:
 <https://adnews.com.br/brasileiros-preferem-ficar-24-horas-sem-agua-que-sem-o-smartphone/>.
 Acesso em: 9 abr. 2023.
@@ -3760,6 +3820,8 @@ Acesso em: 9 abr. 2023.
 \colorsec{Treino}
 
 1\. Examine o início de um poema narrativo.
+
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/closeup-selective-focus-shot-beautiful-house-sparrow_17417593.htm#query=bird&position=3&from_view=search&track=sph>
 
 **Passarinho fugido**
 
@@ -3812,6 +3874,8 @@ foram com eles para onde outros muitos deles estavam com moças e
 mulheres. E trouxeram de lá muitos arcos e barretes de penas de aves,
 uns verdes, outros amarelos, dos quais creio que o Capitão há demandar
 uma amostra a Vossa Alteza.
+
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-vector/vintage-sailing-wooden-pirate-boat_16263453.htm#query=caravela%20portuguesa&position=6&from_view=search&track=ais#position=6&query=caravela%20portuguesa>
 
 CAMINHA, Pero Vaz de. A carta. Disponível em:
 www.dominiopublico.gov.br/download/texto/ua000283.pdf. Acesso em: 9 abr.
@@ -4049,6 +4113,8 @@ Leia um trecho do texto acerca da construção dos espetáculos teatrais. Depois
 
 \[...\] Você sabe como acontece a construção de uma peça teatral?
 
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/mime-reading-manuscript-stage-empty-auditorium_2975761.htm#query=theatre&position=29&from_view=search&track=sph>
+
 O processo de criação teatral envolve todo um coletivo em pesquisa,
 jogos teatrais e improvisação. Ele pode ser feito por meio de um texto
 pré-existente ou mesmo na construção de um novo texto. Assim vão se
@@ -4215,6 +4281,8 @@ d\) Incorreta. As respostas são, naturalmente, dadas pela entrevistada.
 
 \num{3} A citação de D. Quixote, pela entrevistada, serve como argumentação por meio de 
 
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-vector/watercolor-don-quixote-illustration_34658458.htm#query=don%20quixote&position=5&from_view=search&track=ais>
+
 \(A\) fato concreto.
 
 \(B\) exemplificação.
@@ -4245,6 +4313,8 @@ d\) Incorreta. A citação do personagem não funciona como contra-argumentaçã
 Leia um trecho do artigo de divulgação científica para responder às questões 4 e 5.
 
 **Inteligência artificial a favor do coração**
+
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/person-holding-anatomic-heart-model-educational-purpose_34136869.htm#query=human%20heart&position=3&from_view=search&track=ais>
 
 \[\...\] projeto da Universidade Estadual de Campinas (Unicamp) [...]
 pode reverter em economia de R\$ 50 milhões por ano para o Sistema Único
@@ -4421,6 +4491,8 @@ Leia um trecho de um manifesto para responder às questões 1 e 2.
 Em defesa do meio ambiente brasileiro e da produção de alimentos
 saudáveis: não ao substitutivo do código florestal!
 
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/full-shot-forest-warden-looking-tree_29803333.htm#query=forest%20protection&position=5&from_view=search&track=ais>
+
 O Código Florestal (Lei nº. 4.771, de 15 de setembro de 1965) está
 baseado em uma série de princípios que respondem às principais
 preocupações no que tange ao uso sustentável do meio ambiente. Apesar
@@ -4509,6 +4581,8 @@ Estadual Paulista (Unesp) para responder às questões 3 e 4.
 
 **DA PROVA DE TÍTULOS**
 
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/hand-with-pen-writing-paper_978444.htm#query=concurso%20p%C3%BAblico&position=3&from_view=search&track=ais>
+
 35\. A prova de títulos será aplicada no mesmo dia e local das provas
 objetiva e dissertativa, será aplicada logo após a prova dissertativa,
 no período da tarde, devendo o candidato observar, total e atentamente o
@@ -4595,6 +4669,8 @@ Leia o poema para responder às questões de 5 a 7.
 
 **No casarão**
 
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/spooky-scene-with-old-house_32879726.htm#query=terror%20mansion&position=1&from_view=search&track=ais>
+
 No casarão antigo e sombrio,
 Onde o tempo parece ter perdido o fio,
 Um mistério aguarda noite e dia,
@@ -4640,7 +4716,7 @@ Permaneceu com seu mistério preservado.
 Uma história contada para outro desvendar,
 E despertar em seu coração a vontade de explorar.
 
-Diva Lopes
+~Diva Lopes~
 
 \num{5} O poema, organizado em estrofes de 4 versos, é um texto de natureza
 
@@ -4731,158 +4807,132 @@ d\) Correta.Como um poema de narrativa de mistério, o ambiente descrito é somb
 
 # Simulado 4
 
-\num{1}
+Leia o texto para responder às questões de 1 a 3. Trata-se de uma dissertação sobre o tema "Por que a produção cultural não é valorizada como a produção industrial?".
 
+**Cultura x indústria**
 
-(A)
-(B)
-(C)
-(D)
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/greek-statue-double-color-exposure-remixed-media_17227603.htm#query=culture&position=15&from_view=search&track=sph>
 
-BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
-formas de composição próprias de cada gênero, os recursos coesivos que
-constroem a passagem do tempo e articulam suas partes, a escolha lexical
-típica de cada gênero para a caracterização dos cenários e dos
-personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
-tipos de discurso, dos verbos de enunciação e das variedades
-linguísticas (no discurso direto, se houver) empregados, identificando o
-enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
-diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
-típico de cada gênero, da caracterização dos espaços físico e
-psicológico e dos tempos cronológico e psicológico, das diferentes vozes
-no texto (do narrador, de personagens em discurso direto e indireto), do
-uso de pontuação expressiva, palavras e expressões conotativas e
-processos figurativos e do uso de recursos linguístico-gramaticais
-próprios a cada gênero narrativo.
+A valorização da produção industrial em nossa sociedade é evidente, uma vez que a indústria é frequentemente considerada o pilar do desenvolvimento econômico. No entanto, a produção cultural muitas vezes é relegada a um papel secundário, não recebendo a devida valorização e reconhecimento. Isso se dá porque a indústria produz bens materiais e a cultura, imateriais.
 
-a\)
-b\)
-c\)
-d\)
+A produção industrial, caracterizada pela fabricação em massa de bens tangíveis, é valorizada devido à sua capacidade de gerar empregos, impulsionar o crescimento econômico e satisfazer as necessidades materiais da sociedade. Por outro lado, a produção cultural, que abrange áreas como arte, música, literatura e cinema, é infelizmente vista como uma atividade subjetiva e não prioritária.
 
-\num{2}
+Uma das razões para essa disparidade reside na forma como a sociedade enxerga o valor econômico. A produção industrial é diretamente mensurável em termos de números, como o PIB, taxas de emprego e lucro das empresas. Por outro lado, o valor da produção cultural é mais difícil de quantificar, uma vez que muitas vezes é baseado em aspectos subjetivos, como a apreciação estética e a expressão criativa.
 
+Além disso, a produção cultural muitas vezes enfrenta desafios em termos de distribuição e acesso. A produção industrial tem uma presença física e pode ser facilmente comercializada e distribuída em larga escala. Por outro lado, a produção cultural, especialmente em formatos como arte e música, pode enfrentar barreiras geográficas, dificuldades na comercialização e falta de acesso para determinados públicos.
 
-(A)
-(B)
-(C)
-(D)
+Outro fator relevante é a falta de compreensão e educação sobre a importância da produção cultural. A educação tradicional muitas vezes dá mais ênfase às disciplinas científicas e técnicas, negligenciando a importância das artes e humanidades. Essa falta de compreensão contribui para a desvalorização da produção cultural, pois não se reconhece plenamente o impacto que ela tem no enriquecimento da sociedade e no desenvolvimento humano.
 
-BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
-formas de composição próprias de cada gênero, os recursos coesivos que
-constroem a passagem do tempo e articulam suas partes, a escolha lexical
-típica de cada gênero para a caracterização dos cenários e dos
-personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
-tipos de discurso, dos verbos de enunciação e das variedades
-linguísticas (no discurso direto, se houver) empregados, identificando o
-enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
-diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
-típico de cada gênero, da caracterização dos espaços físico e
-psicológico e dos tempos cronológico e psicológico, das diferentes vozes
-no texto (do narrador, de personagens em discurso direto e indireto), do
-uso de pontuação expressiva, palavras e expressões conotativas e
-processos figurativos e do uso de recursos linguístico-gramaticais
-próprios a cada gênero narrativo.
+É essencial que a sociedade reconheça a importância da produção cultural e a valorize de forma equilibrada em relação à produção industrial. A cultura é um pilar fundamental da identidade de um povo, promove a diversidade, estimula a criatividade e é essencial para a expressão e reflexão sobre os valores humanos. Para alcançar essa valorização, é necessário promover uma mudança de mentalidade, fomentando a educação e a compreensão sobre a produção cultural. É fundamental apoiar e investir em projetos culturais, oferecer espaços de exposição e garantir o acesso igualitário à cultura.
 
-a\)
-b\)
-c\)
-d\)
+\num{1} Quais são os parágrafos, no texto, dedicados à argumentação? 
 
-\num{3}
+(A) 3 e 4.
+(B) 4 e 5.
+(C) De 2 a 5.
+(D) De 1 a 4.
 
+BNCC: EF89LP04 - Identificar e avaliar teses/opiniões/posicionamentos
+explícitos e implícitos, argumentos e contra-argumentos em textos
+argumentativos do campo (carta de leitor, comentário, artigo de opinião,
+resenha crítica etc.), posicionando-se frente à questão controversa de
+forma sustentada.
 
-(A)
-(B)
-(C)
-(D)
+a\) Incorreta. Trata-se de dois parágrafos argumentativos, mas não se trata de todos eles.
+b\) Incorreta. Trata-se de dois parágrafos argumentativos, mas não se trata de todos eles.
+c\) Correta. São, de fato, os parágrafos dedicados ao desenvolvimento, onde se coloca a argumentação.
+d\) Incorreta. O primeiro parágrafo é introdutório e o quinto parágrafo também faz parte da argumentação.
 
-BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
-formas de composição próprias de cada gênero, os recursos coesivos que
-constroem a passagem do tempo e articulam suas partes, a escolha lexical
-típica de cada gênero para a caracterização dos cenários e dos
-personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
-tipos de discurso, dos verbos de enunciação e das variedades
-linguísticas (no discurso direto, se houver) empregados, identificando o
-enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
-diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
-típico de cada gênero, da caracterização dos espaços físico e
-psicológico e dos tempos cronológico e psicológico, das diferentes vozes
-no texto (do narrador, de personagens em discurso direto e indireto), do
-uso de pontuação expressiva, palavras e expressões conotativas e
-processos figurativos e do uso de recursos linguístico-gramaticais
-próprios a cada gênero narrativo.
+\num{2} A tese defendida no texto é a de que
 
-a\)
-b\)
-c\)
-d\)
+(A) a diferença de valorização está no fato de que a indústria produz bens palpáveis e a cultura, impalpáveis.
+(B) a distância entre indústria e cultura está na rapidez da produção, sendo a indústria bem mais ágil.
+(C) a divergência entre valorização da cultura e da indústria está no tipo de mão de obra desses dois segmentos.
+(D) a diferença de valorização não está nas produções desses dois segmentos, mas no público-alvo.
 
-\num{4}
+BNCC: EF89LP04 - Identificar e avaliar teses/opiniões/posicionamentos
+explícitos e implícitos, argumentos e contra-argumentos em textos
+argumentativos do campo (carta de leitor, comentário, artigo de opinião,
+resenha crítica etc.), posicionando-se frente à questão controversa de
+forma sustentada.
 
+a\) Correta. Na tese, elaborada no primeiro parágrafo, diz-se que a diferença de valorização está no tipo de produção de cada segmento.
+b\) Incorreta. Não se menciona a agilidade de produção no texto.
+c\) Incorreta. Não se estabalece qualquer relação com o tipo de mão de obra utilizada.
+d\) Incorreta. Não se estabelece relação com o público-alvo desses segmentos.
 
-(A)
-(B)
-(C)
-(D)
+\num{3} No segundo parágrafo, aparece uma palavra que funciona como modalizador. Ela antecipa o fato de que, na concepção do enunciador, a cultura é injustamente desvalorizada. Trata-se da palavra
 
-BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
-formas de composição próprias de cada gênero, os recursos coesivos que
-constroem a passagem do tempo e articulam suas partes, a escolha lexical
-típica de cada gênero para a caracterização dos cenários e dos
-personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
-tipos de discurso, dos verbos de enunciação e das variedades
-linguísticas (no discurso direto, se houver) empregados, identificando o
-enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
-diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
-típico de cada gênero, da caracterização dos espaços físico e
-psicológico e dos tempos cronológico e psicológico, das diferentes vozes
-no texto (do narrador, de personagens em discurso direto e indireto), do
-uso de pontuação expressiva, palavras e expressões conotativas e
-processos figurativos e do uso de recursos linguístico-gramaticais
-próprios a cada gênero narrativo.
+(A) massa
+(B) impulsionar
+(C) sociedade
+(D) infelizmente
 
-a\)
-b\)
-c\)
-d\)
+BNCC: EF89LP16 -- Analisar a modalização realizada em textos noticiosos e
+argumentativos, por meio das modalidades apreciativas, viabilizadas por
+classes e estruturas gramaticais como adjetivos, locuções adjetivas,
+advérbios, locuções adverbiais, orações adjetivas e adverbiais, orações
+relativas restritivas e explicativas etc., de maneira a perceber a
+apreciação ideológica sobre os fatos noticiados ou as posições
+implícitas ou assumidas.
 
-\num{5}
+a\) Incorreta. A palavra não atua como modalizador.
+b\) Incorreta. O verbo na forma nominal não mostra nenhuma ideia do enunciador.
+c\) Incorreta. O substantivo não demonstra qualquer ideia prévia do enunciador.
+d\) Correta. O advérbio atua como modalizador, mostrando que o enunciador considera equivocada e injusta a desvalorização da cultura diante da indústria.
 
+\num{4} leia um trecho de notícia.
 
-(A)
-(B)
-(C)
-(D)
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/side-view-woman-singing-microphone_9521259.htm#query=female%20singer&position=2&from_view=search&track=ais>
 
-BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
-formas de composição próprias de cada gênero, os recursos coesivos que
-constroem a passagem do tempo e articulam suas partes, a escolha lexical
-típica de cada gênero para a caracterização dos cenários e dos
-personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
-tipos de discurso, dos verbos de enunciação e das variedades
-linguísticas (no discurso direto, se houver) empregados, identificando o
-enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
-diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
-típico de cada gênero, da caracterização dos espaços físico e
-psicológico e dos tempos cronológico e psicológico, das diferentes vozes
-no texto (do narrador, de personagens em discurso direto e indireto), do
-uso de pontuação expressiva, palavras e expressões conotativas e
-processos figurativos e do uso de recursos linguístico-gramaticais
-próprios a cada gênero narrativo.
+Em um espetáculo musical surpreendente, a renomada cantora Maria Silva encantou o público presente com sua voz única e emocionante. A plateia, extasiada, pôde apreciar a performance espetacular da artista, que conquistou a todos com sua técnica impecável e presença de palco cativante. Essa noite inesquecível reforçou o talento excepcional de Maria Silva.
 
-a\)
-b\)
-c\)
-d\)
+Há, no trecho, quanto modalizadores apreciativos?
 
-\num{6}
+(A) Nenhum.
+(B) Um.
+(C) Menos de três.
+(D) Mais de quatro.
 
+BNCC: EF89LP16 -- Analisar a modalização realizada em textos noticiosos e
+argumentativos, por meio das modalidades apreciativas, viabilizadas por
+classes e estruturas gramaticais como adjetivos, locuções adjetivas,
+advérbios, locuções adverbiais, orações adjetivas e adverbiais, orações
+relativas restritivas e explicativas etc., de maneira a perceber a
+apreciação ideológica sobre os fatos noticiados ou as posições
+implícitas ou assumidas.
 
-(A)
-(B)
-(C)
-(D)
+a\) Incorreta. O texto aparece com muitos modalizadores apreciativos.
+b\) Incorreta. Há muito mais do que um modalizador apreciativo no trecho.
+c\) Incorreta. Há quase uma dezena de modalizadores apreciativos no trecho.
+d\) Correta. Surpreendente, única, emocionante, extasiada, espetacular, impecável, cativante, inesquecível, excepcional.
+
+Leia o texto para responder às questões de 5 a 7.
+
+**Ancestralidade**
+
+Imagem ilustrativa que pode ser cortada: <https://www.freepik.com/free-photo/front-view-brown-box-light-floor_8853437.htm#query=ba%C3%BA%20antigo&position=8&from_view=search&track=ais>
+
+Havia uma pequena cidade cercada por montanhas majestosas, onde vivia uma jovem chamada Isabela. Ela sempre se sentiu intrigada com a história de seus antepassados, mas nunca teve a oportunidade de mergulhar mais fundo em suas raízes familiares.
+
+Um dia, Isabela encontrou um antigo baú no sótão de sua casa. Dentro dele, havia fotografias amareladas, cartas empoeiradas e um diário escrito por sua bisavó. Curiosa, ela começou a ler as palavras cuidadosamente escritas naquelas páginas.
+
+À medida que mergulhava nas histórias contadas por sua bisavó, ela sentia uma conexão profunda com aqueles que vieram antes dela. As dificuldades, os triunfos, os amores e as perdas de seus antepassados ganhavam vida nas palavras do diário. Lá pela página dez, a menina começou a perceber como essas histórias moldaram sua própria identidade. Ela descobriu que tinha um talento natural para a música, assim como seu avô, que era um exímio violinista. Percebeu, também, que sua paixão pela natureza e pela preservação do meio ambiente vinha de suas raízes indígenas, passadas de geração em geração.
+
+Conforme avançava na leitura, ela também percebia a importância de honrar e preservar a herança deixada por seus antepassados. Bela aprendeu a valorizar as tradições culturais, as histórias transmitidas oralmente e a sabedoria acumulada ao longo dos tempos. Com o tempo, Isabela se tornou uma contadora de histórias, levando adiante as narrativas de sua família e da comunidade em que vivia. Ela compartilhava as lições aprendidas com os jovens, para que também pudessem reconhecer a importância de suas raízes e se sentir conectados com a história de sua própria gente.
+
+A mulher Isabela notou, então, que suas raízes eram um elo entre passado, presente e futuro. Ela compreendeu que as histórias e tradições transmitidas de geração em geração eram um tesouro valioso que poderia inspirar e guiar as pessoas ao longo de suas vidas. Assim, descobriu que a ancestralidade não era apenas uma questão de conhecimento histórico, mas uma fonte de força, identidade e inspiração. Ela aprendeu que conhecer e honrar suas raízes era essencial para sua própria formação como pessoa, permitindo-lhe compreender sua história pessoal e encontrar seu lugar no mundo.
+
+Com um coração cheio de gratidão e sabedoria, Isabela continuou sua jornada, compartilhando as histórias de seus antepassados e lembrando a todos que a importância da ancestralidade reside no poder de nutrir e enriquecer a alma, conectando-se com as raízes que nos tornam quem somos.
+
+Diva Lopes
+
+\num{5} O texto, que é uma narrativa, enquadra-se no gênero
+
+(A) crônica.
+(B) conto.
+(C) novela.
+(D) romance.
 
 BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
 formas de composição próprias de cada gênero, os recursos coesivos que
@@ -4900,18 +4950,17 @@ uso de pontuação expressiva, palavras e expressões conotativas e
 processos figurativos e do uso de recursos linguístico-gramaticais
 próprios a cada gênero narrativo.
 
-a\)
-b\)
-c\)
-d\)
+a\) Incorreta. A crônica tem um tom mais delimitado ao seu tempo, trazendo ao enredo acontecimentos comuns do cotidiano.
+b\) Correta. Trata-se de uma narrativa do tipo conto, com um conflito único e poucos personagens.
+c\) Incorreta. A novela é um texto mais longo, com mais personagens e mais conflitos do que o conto.
+d\) Incorreta. A novela é um texto bem mais longo, com muito mais personagens e mais conflitos do que o conto.
 
-\num{7}
+\num{6} Qual é o recorte de tempo que se passa no conto?
 
-
-(A)
-(B)
-(C)
-(D)
+(A) Alguns dias, apenas.
+(B) Meses, nos quais Isabela não chega a completar um ano de vida.
+(C) Anos, nos quais Isabela amadurece e descobre seu talento.
+(D) Passa-se toda a vida de Isabela.
 
 BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
 formas de composição próprias de cada gênero, os recursos coesivos que
@@ -4929,10 +4978,39 @@ uso de pontuação expressiva, palavras e expressões conotativas e
 processos figurativos e do uso de recursos linguístico-gramaticais
 próprios a cada gênero narrativo.
 
-a\)
-b\)
-c\)
-d\)
+a\) Incorreta. Nota-se que, ao longo da narrativa, a personagem amadurece e se descobre contadora de histórias.
+b\) Incorreta. Isabela cresce e se torna mulher ao longo da narrativa.
+c\) Correta. Mostra-se, no conto, que Isabela começa mais menina  se torna mulher durante suas descobertas.
+d\) Incorreta. Isabela já é uma criança crescida quando a história começa e não é ainda uma idosa quando ela termina.
+
+
+\num{7} Quanto mais Isabela mergulha nas histórias, mais ela descobre que
+
+(A) não há memórias de seus antepassados.
+(B) sua bisavó era excelente inventora de histórias.
+(C) sua história é independente da de seus antepassados.
+(D) a história de seus ancestrais influencia em sua formação como mulher.
+
+BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
+formas de composição próprias de cada gênero, os recursos coesivos que
+constroem a passagem do tempo e articulam suas partes, a escolha lexical
+típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
+tipos de discurso, dos verbos de enunciação e das variedades
+linguísticas (no discurso direto, se houver) empregados, identificando o
+enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
+típico de cada gênero, da caracterização dos espaços físico e
+psicológico e dos tempos cronológico e psicológico, das diferentes vozes
+no texto (do narrador, de personagens em discurso direto e indireto), do
+uso de pontuação expressiva, palavras e expressões conotativas e
+processos figurativos e do uso de recursos linguístico-gramaticais
+próprios a cada gênero narrativo.
+
+a\) Incorreta. Há memórias, que a menina descobre e começa a ler, no diário que encontra.
+b\) Incorreta. As histórias não são inventadas, são reais do tempo da bisavó de Isabela.
+c\) Incorreta. Isabela descobre justamente que sua história e sua formação se mesclam às histórias de seus antepassados.
+d\) Correta. A menina, durante a leitura, descobre como ler aquelas memórias é importante para sua própria formação.
 
 **REFERÊNCIAS**
 
