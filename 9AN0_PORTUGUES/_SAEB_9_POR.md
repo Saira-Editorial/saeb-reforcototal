@@ -4416,7 +4416,7 @@ d\) Incorreta. Não se selecionaram, de forma proposital, palavras raras da lín
 
 # Simulado 3
 
-6\. Leia um trecho de um manifesto.
+Leia um trecho de um manifesto para responder às questões 1 e 2.
 
 Em defesa do meio ambiente brasileiro e da produção de alimentos
 saudáveis: não ao substitutivo do código florestal!
@@ -4435,7 +4435,7 @@ saudáveis: não ao substitutivo do código florestal! Disponível em:
 www.mma.gov.br/estruturas/182/\_arquivos/manifestoagriculturafamiliar\_182.pdf.
 Acesso em: 10 abr. 2023.
 
-Identifica-se que a finalidade do texto é
+\num{1} Identifica-se que a finalidade do texto é
 
 \(A\) advertir as entidades populares sobre o Código Florestal.
 
@@ -4445,9 +4445,7 @@ Identifica-se que a finalidade do texto é
 
 \(D\) mudar a forma de prover alimentos produzidos no país.
 
-Saeb: D6
-
-BNCC: EF69LP20: Identificar, tendo em vista o contexto de produção, a
+BNCC: EF69LP20 -- Identificar, tendo em vista o contexto de produção, a
 forma de organização dos textos normativos e legais, a lógica de
 hierarquização de seus itens e subitens e suas partes: parte inicial
 (título -- nome e data -- e ementa), blocos de artigos (parte, livro,
@@ -4474,8 +4472,40 @@ agricultura familiar e camponesa.
 d\) Incorreta. O modo de prover alimentos é o que o manifesto procura
 proteger.
 
-7\. Leia um trecho do texto divulgado pela Reitoria da Universidade
-Estadual Paulista (Unesp).
+\num{2} A expressão que aparece entre parênteses -- Lei nº. 4.771, de 15 de setembro de 1965 -- tem o objetivo de
+
+\(A\) indicar o número da Lei em que see stabeleceu o referido código, além da data de sua publicação.
+
+\(B\) indicar o período em que se deu a redação da notícia, já que ela é anterior à data de sua publicação.
+
+\(C\) mostrar que as melhorias do código florestal são recentes e que ele já está atualizado o bastante.
+
+\(D\) indicar o código numérico complexo que delimita e identifica a lei deste ano -- por isso chamada de código.
+
+BNCC: EF69LP20 -- Identificar, tendo em vista o contexto de produção, a
+forma de organização dos textos normativos e legais, a lógica de
+hierarquização de seus itens e subitens e suas partes: parte inicial
+(título -- nome e data -- e ementa), blocos de artigos (parte, livro,
+capítulo, seção, subseção), artigos (caput e parágrafos e incisos) e
+parte final (disposições pertinentes à sua implementação) e analisar
+efeitos de sentido causados pelo uso de vocabulário técnico, pelo uso do
+imperativo, de palavras e expressões que indicam circunstâncias, como
+advérbios e locuções adverbiais, de palavras que indicam generalidade,
+como alguns pronomes indefinidos, de forma a poder compreender o caráter
+imperativo, coercitivo e generalista das leis e de outras formas de
+regulamentação.
+
+a\) Correta. As leis costumam, de fato, ser identificadas por um número e pela data de sua publicação.
+
+b\) Incorreta. A notícia foi redigida, muito provavelmente, pouco tempo antes de sua publicação -- em um tempo distante do ano de 1965.
+
+c\) Incorreta. Pelo contrário, a data de publicação mostra que a lei está vigente já há muitos anos.
+
+d\) Incorreta.O número da lei é uma espécie de código, mas a data não faz parte disso.
+
+
+Leia um trecho do texto divulgado pela Reitoria da Universidade
+Estadual Paulista (Unesp) para responder às questões 3 e 4.
 
 **DA PROVA DE TÍTULOS**
 
@@ -4496,7 +4526,7 @@ Disponível em:
 https://documento.vunesp.com.br/documento/stream/MTU4NTQyMQ%3d%3d.
 Acesso em: 9 abr. 2023.
 
-O texto em questão é um edital em razão da
+\num{3} O texto em questão é um edital em razão da
 
 \(A\) reflexão que o texto faz sobre o modo de se aplicar provas,
 propondo uma ordem específica.
@@ -4510,9 +4540,7 @@ mencionados no texto.
 \(D\) maneira informal com que o texto se dirige ao candidato, tentando
 atingir diversas pessoas.
 
-Saeb: D9
-
-BNCC: EF69LP27: Analisar a forma composicional de textos pertencentes a
+BNCC: EF69LP27 -- Analisar a forma composicional de textos pertencentes a
 gêneros normativos/ jurídicos e a gêneros da esfera política, tais como
 propostas, programas políticos (posicionamento quanto a diferentes ações
 a serem propostas, objetivos, ações previstas etc.), propaganda política
@@ -4534,10 +4562,377 @@ normativo característico dos editais.
 
 d\) Incorreta. O texto é formal.
 
+\num{4} Basicamente, o texto veta
+
+\(A\) a alegação de não legibilidade e a presença de familiares no espaço determinado.
+
+\(B\) a alegação de desconhecimento das cláusulas e a entrega de documentos por outras pessoas, no prédio.
+
+\(C\) o atraso dos candidatos no dia da prova de títulos e que o mesmo candidato faça prova de títulos e prova dissertativa.
+
+\(D\) a presença dos candidatos no lugar onde ocorrem as provas e a comunicação entre candidatos.
+
+BNCC: EF69LP27 -- Analisar a forma composicional de textos pertencentes a
+gêneros normativos/ jurídicos e a gêneros da esfera política, tais como
+propostas, programas políticos (posicionamento quanto a diferentes ações
+a serem propostas, objetivos, ações previstas etc.), propaganda política
+(propostas e sua sustentação, posicionamento quanto a temas em
+discussão) e textos reivindicatórios: cartas de reclamação, petição
+(proposta, suas justificativas e ações a serem adotadas) e suas marcas
+linguísticas, de forma a incrementar a compreensão de textos
+pertencentes a esses gêneros e a possibilitar a produção de textos mais
+adequados e/ou fundamentados quando isso for requerido.
+
+a\) Incorreta. Não se fala sobre legibilidade e os familiares são proibidos de levar documentos, não de estar no espaço.
+
+b\) Correta. Trata-se, de fato, dos dois pontos em destaque como proibições no texto.
+
+c\) Incorreta. É natural que os candidatos não possam se atrasar, mas isso não está em foco no texto. Além disso, os candidatos fazem, sim, as duas provas.
+
+d\) Incorreta. Os candidatos só podem participar do processo se estiverem no local de provas e a comunicação entre candidatos não é um foco do texto.
+
+Leia o poema para responder às questões de 5 a 7.
+
+**No casarão**
+
+No casarão antigo e sombrio,
+Onde o tempo parece ter perdido o fio,
+Um mistério aguarda noite e dia,
+Segredos ocultos em cada fresta vazia.
+
+Eles, amigos corajosos e audazes,
+Decidiram explorar aqueles lugares desvairados,
+Há tempos companheiros, curiosos e aventureiros,
+Ansiando desvendar enigmas verdadeiros.
+
+Na primeira noite, sob a luz prateada,
+Adentraram o casarão sem receio ou parada.
+Passos cautelosos, corações acelerados,
+Cada passo, um suspense desenhado.
+
+Cortinas empoeiradas dançavam no ar,
+A velha escada rangia ao pisar,
+Quadros sinistros encaravam em silêncio,
+Um eco misterioso percorria o palácio imenso.
+
+Entre corredores sombrios, encontraram um baú,
+Chaves enferrujadas, mistério a perscrutar,
+Ao abri-lo, revelou-se um mapa enigmático,
+Que levava a um tesouro, tesouro fantástico.
+
+Desvendando pistas, em noites de escuridão,
+Seguiram trilhas, em busca de eoção.
+Passaram por salões cheios de poeira,
+O medo e a emoção em sua pele inteira.
+
+Mas, ao chegarem ao aposento final,
+O tesouro esperado não estava no local.
+No seu lugar, um bilhete escrito à mão,
+"A verdadeira riqueza está na jornada, não no chão".
+
+Embora desapontados, entenderam a lição,
+Que a aventura vivida foi a verdadeira atração,
+Desvendaram segredos, fortaleceram a amizade,
+naquela noite, ganharam mais que a vaidade.
+
+E, assim, o casarão abandonado
+Permaneceu com seu mistério preservado.
+Uma história contada para outro desvendar,
+E despertar em seu coração a vontade de explorar.
+
+Diva Lopes
+
+\num{5} O poema, organizado em estrofes de 4 versos, é um texto de natureza
+
+(A) informativa.
+(B) injuntiva.
+(C) narrativa.
+(D) dissertativa.
+
+BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
+formas de composição próprias de cada gênero, os recursos coesivos que
+constroem a passagem do tempo e articulam suas partes, a escolha lexical
+típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
+tipos de discurso, dos verbos de enunciação e das variedades
+linguísticas (no discurso direto, se houver) empregados, identificando o
+enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
+típico de cada gênero, da caracterização dos espaços físico e
+psicológico e dos tempos cronológico e psicológico, das diferentes vozes
+no texto (do narrador, de personagens em discurso direto e indireto), do
+uso de pontuação expressiva, palavras e expressões conotativas e
+processos figurativos e do uso de recursos linguístico-gramaticais
+próprios a cada gênero narrativo.
+
+a\) Incorreta. O texto serve para um objetivo diferente de simpelsmente informar. Trata-se de texto literário.
+b\) Incorreta. O texto não tem o objetivo de mostrar regras ou dar instruções.
+c\) Correta. Os elementos essenciais da narração -- como tempo, espaço e personagens -- estão presentes.
+d\) Incorreta. O texto não tem o objetivo de comprovar uma tese por meio de argumentos.
+
+\num{6} Ao final, a lição que se constrói no texto é a de que nem tudo se resume ao resultado daquilo que buscamos, mas está na busca em si e nos aprendizados que chegam com ela. Isso está mais concentrado em sentido no verso
+
+
+(A) "Onde o tempo parece ter perdido o fio"
+(B) "Há tempos companheiros, curiosos e aventureiros" 
+(C) "A verdadeira riqueza está na jornada, não no chão"
+(D) "E despertar em seu coração a vontade de explorar."
+
+BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
+formas de composição próprias de cada gênero, os recursos coesivos que
+constroem a passagem do tempo e articulam suas partes, a escolha lexical
+típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
+tipos de discurso, dos verbos de enunciação e das variedades
+linguísticas (no discurso direto, se houver) empregados, identificando o
+enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
+típico de cada gênero, da caracterização dos espaços físico e
+psicológico e dos tempos cronológico e psicológico, das diferentes vozes
+no texto (do narrador, de personagens em discurso direto e indireto), do
+uso de pontuação expressiva, palavras e expressões conotativas e
+processos figurativos e do uso de recursos linguístico-gramaticais
+próprios a cada gênero narrativo.
+
+a\) Incorreta. Esse verso simplesmente compõe a descrição do ambiente.
+b\) Incorreta. Esse verso trata do passado dos amigos.
+c\) Correta. Esse verso atrela o valor das coisas ao percurso, não à chegada.
+d\) Incorreta. Esse verso fala de desejos futuros, que extrapolam, inclusive, o tempo do poema.
+
+\num{7} Pode-se dizer que o cenário, o ambiente, o espaço, representam elementos enriquecedores dos textos. Nesse caso, o ambiente delineado pela descrição é, majoritariamente,
+
+(A) solar e energético.
+(B) dinâmico e acelerado.
+(C) leve e despreocupado.
+(D) sombrio e obscuro.
+
+BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
+formas de composição próprias de cada gênero, os recursos coesivos que
+constroem a passagem do tempo e articulam suas partes, a escolha lexical
+típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
+tipos de discurso, dos verbos de enunciação e das variedades
+linguísticas (no discurso direto, se houver) empregados, identificando o
+enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
+típico de cada gênero, da caracterização dos espaços físico e
+psicológico e dos tempos cronológico e psicológico, das diferentes vozes
+no texto (do narrador, de personagens em discurso direto e indireto), do
+uso de pontuação expressiva, palavras e expressões conotativas e
+processos figurativos e do uso de recursos linguístico-gramaticais
+próprios a cada gênero narrativo.
+
+a\) Incorreta. Há pouca luz na descrição e aenergia não é um ponto em destaque.
+b\) Incorreta. Não se vê essa dinãmica e essa aceleração nos versos.
+c\) Incorreta. Não se lê, nos versos, a ideia de leveza e o suspense criado é o oposto da despreocupação.
+d\) Correta.Como um poema de narrativa de mistério, o ambiente descrito é sombrio e obscuro, para manter o clima de teror e suspense.
+
+
 
 # Simulado 4
 
+\num{1}
 
+
+(A)
+(B)
+(C)
+(D)
+
+BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
+formas de composição próprias de cada gênero, os recursos coesivos que
+constroem a passagem do tempo e articulam suas partes, a escolha lexical
+típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
+tipos de discurso, dos verbos de enunciação e das variedades
+linguísticas (no discurso direto, se houver) empregados, identificando o
+enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
+típico de cada gênero, da caracterização dos espaços físico e
+psicológico e dos tempos cronológico e psicológico, das diferentes vozes
+no texto (do narrador, de personagens em discurso direto e indireto), do
+uso de pontuação expressiva, palavras e expressões conotativas e
+processos figurativos e do uso de recursos linguístico-gramaticais
+próprios a cada gênero narrativo.
+
+a\)
+b\)
+c\)
+d\)
+
+\num{2}
+
+
+(A)
+(B)
+(C)
+(D)
+
+BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
+formas de composição próprias de cada gênero, os recursos coesivos que
+constroem a passagem do tempo e articulam suas partes, a escolha lexical
+típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
+tipos de discurso, dos verbos de enunciação e das variedades
+linguísticas (no discurso direto, se houver) empregados, identificando o
+enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
+típico de cada gênero, da caracterização dos espaços físico e
+psicológico e dos tempos cronológico e psicológico, das diferentes vozes
+no texto (do narrador, de personagens em discurso direto e indireto), do
+uso de pontuação expressiva, palavras e expressões conotativas e
+processos figurativos e do uso de recursos linguístico-gramaticais
+próprios a cada gênero narrativo.
+
+a\)
+b\)
+c\)
+d\)
+
+\num{3}
+
+
+(A)
+(B)
+(C)
+(D)
+
+BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
+formas de composição próprias de cada gênero, os recursos coesivos que
+constroem a passagem do tempo e articulam suas partes, a escolha lexical
+típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
+tipos de discurso, dos verbos de enunciação e das variedades
+linguísticas (no discurso direto, se houver) empregados, identificando o
+enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
+típico de cada gênero, da caracterização dos espaços físico e
+psicológico e dos tempos cronológico e psicológico, das diferentes vozes
+no texto (do narrador, de personagens em discurso direto e indireto), do
+uso de pontuação expressiva, palavras e expressões conotativas e
+processos figurativos e do uso de recursos linguístico-gramaticais
+próprios a cada gênero narrativo.
+
+a\)
+b\)
+c\)
+d\)
+
+\num{4}
+
+
+(A)
+(B)
+(C)
+(D)
+
+BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
+formas de composição próprias de cada gênero, os recursos coesivos que
+constroem a passagem do tempo e articulam suas partes, a escolha lexical
+típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
+tipos de discurso, dos verbos de enunciação e das variedades
+linguísticas (no discurso direto, se houver) empregados, identificando o
+enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
+típico de cada gênero, da caracterização dos espaços físico e
+psicológico e dos tempos cronológico e psicológico, das diferentes vozes
+no texto (do narrador, de personagens em discurso direto e indireto), do
+uso de pontuação expressiva, palavras e expressões conotativas e
+processos figurativos e do uso de recursos linguístico-gramaticais
+próprios a cada gênero narrativo.
+
+a\)
+b\)
+c\)
+d\)
+
+\num{5}
+
+
+(A)
+(B)
+(C)
+(D)
+
+BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
+formas de composição próprias de cada gênero, os recursos coesivos que
+constroem a passagem do tempo e articulam suas partes, a escolha lexical
+típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
+tipos de discurso, dos verbos de enunciação e das variedades
+linguísticas (no discurso direto, se houver) empregados, identificando o
+enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
+típico de cada gênero, da caracterização dos espaços físico e
+psicológico e dos tempos cronológico e psicológico, das diferentes vozes
+no texto (do narrador, de personagens em discurso direto e indireto), do
+uso de pontuação expressiva, palavras e expressões conotativas e
+processos figurativos e do uso de recursos linguístico-gramaticais
+próprios a cada gênero narrativo.
+
+a\)
+b\)
+c\)
+d\)
+
+\num{6}
+
+
+(A)
+(B)
+(C)
+(D)
+
+BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
+formas de composição próprias de cada gênero, os recursos coesivos que
+constroem a passagem do tempo e articulam suas partes, a escolha lexical
+típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
+tipos de discurso, dos verbos de enunciação e das variedades
+linguísticas (no discurso direto, se houver) empregados, identificando o
+enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
+típico de cada gênero, da caracterização dos espaços físico e
+psicológico e dos tempos cronológico e psicológico, das diferentes vozes
+no texto (do narrador, de personagens em discurso direto e indireto), do
+uso de pontuação expressiva, palavras e expressões conotativas e
+processos figurativos e do uso de recursos linguístico-gramaticais
+próprios a cada gênero narrativo.
+
+a\)
+b\)
+c\)
+d\)
+
+\num{7}
+
+
+(A)
+(B)
+(C)
+(D)
+
+BNCC: EF69LP47 - Analisar, em textos narrativos ficcionais, as diferentes
+formas de composição próprias de cada gênero, os recursos coesivos que
+constroem a passagem do tempo e articulam suas partes, a escolha lexical
+típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos
+tipos de discurso, dos verbos de enunciação e das variedades
+linguísticas (no discurso direto, se houver) empregados, identificando o
+enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo
+típico de cada gênero, da caracterização dos espaços físico e
+psicológico e dos tempos cronológico e psicológico, das diferentes vozes
+no texto (do narrador, de personagens em discurso direto e indireto), do
+uso de pontuação expressiva, palavras e expressões conotativas e
+processos figurativos e do uso de recursos linguístico-gramaticais
+próprios a cada gênero narrativo.
+
+a\)
+b\)
+c\)
+d\)
 
 **REFERÊNCIAS**
 
