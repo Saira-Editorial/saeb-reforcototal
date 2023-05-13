@@ -3,32 +3,18 @@ SAEB -- LÍNGUA PORTUGUESA -- 6º ANO
 # MÓDULO 1 
 
   O que eu penso também tem valor
+  
+  Habilidades do SAEB
+  
+  - Identificar o uso de recursos persuasivos em textos verbais e não verbais.
+  - Identificar teses, opiniões, posicionamentos explícitos e argumentos em textos.
+  
+  Habilidades da BNCC: EF67LP05 e EF67LP07.
 
-+----------------------------------+----------------------------------+
-| SAEB                             | BNCC                             |
-+==================================+==================================+
-| \- Identificar o uso de recursos | **(EF67LP05)** Identificar e     |
-| persuasivos em textos verbais e  | avaliar                          |
-| não verbais.                     | teses/opiniões/posicionamentos   |
-|                                  | explícitos e argumentos em       |
-| \- Identificar teses, opiniões,  | textos argumentativos (carta de  |
-| posicionamentos explícitos e     | leitor, comentário, artigo de    |
-| argumentos em textos.            | opinião, resenha crítica etc.),  |
-|                                  | manifestando concordância ou     |
-|                                  | discordância.                    |
-|                                  |                                  |
-|                                  | **(EF67LP07)** Identificar o uso |
-|                                  | de recursos persuasivos em       |
-|                                  | textos argumentativos diversos   |
-|                                  | (como a elaboração do título,    |
-|                                  | escolhas lexicais, construções   |
-|                                  | metafóricas, a explicitação ou a |
-|                                  | ocultação de fontes de           |
-|                                  | informação) e perceber seus      |
-|                                  | efeitos de sentido.              |
-+----------------------------------+----------------------------------+
 
-Com frequência no dia a dia nos deparamos com informações de diferentes
+\conteudo
+
+{Com frequência no dia a dia nos deparamos com informações de diferentes
 tipos, que influenciam nosso modo de pensar ou de agir. Da mesma forma,
 é comum que outras pessoas precisem exercer seu posicionamento a
 respeito de determinados assuntos, a fim de fazer valer aquilo que
@@ -51,26 +37,11 @@ ser facilmente contestado. Por outro lado, quando uma teoria é
 apresentada a partir de aspectos lógicos, isto é, apoiados na palavra de
 especialistas, em pesquisas e coletas de dados, por exemplo, ela se
 torna forte o suficiente para servir, inclusive, como ponto de
-referência.
+referência.}
 
-Nos exercícios que se seguem, vamos praticar, por meio de exercícios,
-recursos argumentativos a partir de textos comuns em nosso dia a dia,
-como o comentário em rede social, o artigo de opinião, a carta de
-reclamação, a resenha crítica e a crônica argumentativa.
 
-Neste módulo, os(as) alunos(as) serão desafiados com questões
-relacionadas ao campo de atuação jornalístico-midiático a partir de
-atividades de análise e interpretação de textos verbais e não verbais
-veiculados por diferentes meios e canais de comunicação. É um bom
-momento para explorar o multiletramento, uma vez que nos Anos Finais do
-Ensino Fundamental espera-se que os(as) estudantes comecem a identificar
-teses e informações explícitas e implícitas em textos argumentativos,
-bem como o uso de recursos persuasivos nesses gêneros textuais.
 
-Aqui, vamos explorar textos argumentativos presentes no meio
-jornalístico, mais precisamente o comentário em rede social, o artigo de
-opinião, a carta de reclamação, a resenha crítica e a crônica
-argumentativa.
+\colorsec{Atividades}
 
 Leia o texto a seguir e responda às questões 1 a 4.
 
@@ -111,26 +82,26 @@ Acesso em: 14 fev. 2023. Adaptado.)
 estudantes de uma escola municipal de Maruípe, em Vitória (ES),
 destinada ao prefeito da cidade. Qual é o objetivo da carta?
 
-Resposta: O objetivo era demonstrar situações preocupantes no município,
+\coment{O objetivo era demonstrar situações preocupantes no município,
 do ponto de vista dos alunos, e sugestões de melhoria propostas por
-eles.
+eles.}
 
 \num{2} Qual argumento os(as) estudantes utilizam para justificar sua
 preocupação com os alagamentos na escola? De que maneira eles(as) sabem
 desse tipo de informação?
 
-Resposta: Os(as) estudantes se preocupam com os vírus e bactérias que
+\coment{ Os(as) estudantes se preocupam com os vírus e bactérias que
 podem estar presentes na água do esgoto. Segundo a carta, eles
 aprenderam que esses alagamentos acontecem devido ao lixo que as pessoas
-jogam na rua.
+jogam na rua.}
 
 \num{3} Qual é a tese proposta pelos(as) estudantes como possível solução
 para os alagamentos na escola? O que justifica essa escolha?
 
-Resposta: Os(as) estudantes propõem que o prefeito invista em
+\coment{ Os(as) estudantes propõem que o prefeito invista em
 conscientização sobre coleta seletiva, pois, dessa forma, as pessoas
 saberiam melhor a destinação do lixo, reduzindo a possibilidade de o
-jogarem incorretamente na rua.
+jogarem incorretamente na rua.}
 
 \num{4} No último parágrafo, a jornalista afirma que "o amor pelos animais
 também foi um tópico tratado na carta". Com base na leitura desse
@@ -138,18 +109,15 @@ parágrafo, é possível afirmar que a solicitação dos(as) estudantes foi
 feita com base em um argumento lógico ou emotivo? Justifique sua
 resposta.
 
-Resposta: Pode-se afirmar que a solicitação dos(as) estudantes foi feita
+\coment{ Pode-se afirmar que a solicitação dos(as) estudantes foi feita
 com base em um argumento emotivo, uma vez que afirmam na carta que os
 animais também têm sentimentos, mas não apresentam nenhum argumento
 lógico, como pesquisa científica ou palavra de especialista, que
-justifique esse argumento.
+justifique esse argumento.}
 
 A **resenha crítica** é um tipo de texto que tem por característica
 avaliar obras dos mais diversos tipos: artigos, livros, canções, peças
-teatrais, filmes etc.
-
-Leia a seguir um trecho da resenha crítica do filme *Turma da Mônica:
-Laços* e responda às questões 5, 6 e 7.
+teatrais, filmes etc. Leia a seguir um trecho da resenha crítica do filme *Turma da Mônica: Laços* e responda às questões 5, 6 e 7.
 
 *Turma da Mônica: Laços* tem visual super colorido\[\...\]. Essa
 estética fornece os pilares imagéticos a uma trama que transcorre
@@ -194,7 +162,7 @@ personagens de seu autor, Maurício de Sousa.
 precisar de celulares e outros dispositivos eletrônicos para se
 divertir.
 
-Respostas:
+\coment{
 
 ( F ) A resenha tenta convencer o(a) leitor(a) a assistir ao filme.
 
@@ -227,25 +195,22 @@ da Mônica, Maurício de Sousa.
 
 ( V ) O filme apresenta crianças em situações de aventuras atemporais,
 sem precisar de celulares e outros dispositivos eletrônicos para se
-divertir.
-
-Conforme explica o último parágrafo, o diretor resgata uma infância com
-sabor nostálgico de passado, sem a mediação de dispositivos eletrônicos.
+divertir. Conforme explica o último parágrafo, o diretor resgata uma infância com
+sabor nostálgico de passado, sem a mediação de dispositivos eletrônicos.}
 
 \num{6} De que maneira o(a) leitor(a) do texto percebe que o autor da
 crítica gostou do filme?
 
-Resposta: O autor da resenha utiliza adjetivos positivos sobre a obra,
+\coment{ O autor da resenha utiliza adjetivos positivos sobre a obra,
 ou seja, fala bem das cenas, do visual, do comportamento das personagens
-e até mesmo do diretor do filme.
+e até mesmo do diretor do filme.}
 
 \num{7} Retire do texto ao menos dois trechos que demonstram o
 posicionamento do autor da resenha em relação ao filme *Turma da Mônica:
 Laços*.
 
-Resposta: Espera-se que os(as) estudantes retirem do texto trechos que
+\coment{ Espera-se que os(as) estudantes retirem do texto trechos que
 apresentam adjetivos positivos em relação à obra.
-
 Sugestões de resposta:
 
 *Turma da Mônica: Laços* tem visual **super colorido**.
@@ -254,13 +219,11 @@ Existe a preservação da pureza das crianças que adentram
 **corajosamente** num território interditado\...
 
 \...faz desse seu segundo longa-metragem uma **preciosa** homenagem à
-imaginação de Maurício de Sousa
+imaginação de Maurício de Sousa}
 
 A **crônica argumentativa** é um gênero textual que busca apresentar
 reflexões pontos de vista pessoais a respeito de temas ou situações
-cotidianas.
-
-Leia um trecho da crônica *Nadar contra é impossível*, de Marina
+cotidianas. Leia um trecho da crônica *Nadar contra é impossível*, de Marina
 Colasanti, e responda às questões 8, 9 e 10.
 
 "Então, agora, além da contaminação do ar e da água, além da
@@ -291,21 +254,21 @@ Acesso em: 22 fev. 2023. Fragmento.)
 celular por que estão viciadas. Qual argumento ela utiliza para
 justificar essa afirmação?
 
-Resposta: A autora utiliza um dado científico. Ela explica o conceito de
+\coment{ A autora utiliza um dado científico. Ela explica o conceito de
 adrenalina, um hormônio que transmite prazer intenso. Segundo ela,
-quando a pessoa utiliza o celular, ela libera adrenalina.
+quando a pessoa utiliza o celular, ela libera adrenalina.}
 
 \num{9} A autora se mostra indignada com o fato de o vício em celulares não
 ser combatido. Por que, de acordo com o texto, isso acontece?
 
-Resposta: Porque esse tipo de vício passa tão batido no dia a dia que
-sequer é considerado um vício.
+\coment{ Porque esse tipo de vício passa tão batido no dia a dia que
+sequer é considerado um vício.}
 
 \num{10} A que conclusão a autora chega, ao final de sua crônica?
 
-Resposta: A autora conclui que mesmo com todos os problemas causados
+\coment{ A autora conclui que mesmo com todos os problemas causados
 pelo vício em celulares, é impossível ir contra esse tipo de evolução
-tecnológica que acontece com o tempo.
+tecnológica que acontece com o tempo.}
 
 \colorsec{Treino}
 
@@ -343,7 +306,7 @@ décadas.
 d\) critérios e valores distorcidos são problemas de ordem ética,
 econômica e social.
 
-Resposta: C.
+BNCC: EF67LP05
 
 A. Incorreta. O texto afirma que as crianças aprendem a consumir de
 forma inconsequente, porém não é essa a principal razão do desequilíbrio
@@ -362,10 +325,6 @@ social, porém não são os responsáveis diretos pelo desequilíbrio global.
 
 Saeb: Identificar teses, opiniões, posicionamentos explícitos e
 argumentos em textos.
-
-BNCC: EF67LP05
-
-Nível: fácil.
 
 \num{2} Observe a imagem a seguir.
 
@@ -399,7 +358,7 @@ c\) as cores das imagens, que variam em uma escala de vermelho para
 d\) a combinação de emojis com expressões faciais, as cores universais e
 os textos abaixo das imagens, tornando a pesquisa inclusiva.
 
-Resposta: D
+BNCC: EF67LP07
 
 a\) Incorreta. Os emojis de fato estão presentes no dia a dia das
 pessoas que utilizam ferramentas de comunicação digital, por exemplo,
@@ -418,13 +377,6 @@ pesquisa, elas precisam estar atreladas a uma imagem.
 d\) Correta. A combinação de expressões faciais, texto de apoio e cores
 torna a pesquisa intuitiva, ou seja, fácil de ser respondida por todos
 os públicos, e inclusiva, isto é, acessível a todas as pessoas.
-
-Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
-verbais.
-
-BNCC: EF67LP07
-
-Nível de dificuldade: médio.
 
 \num{3} *Nunca subestime uma mulherzinh*a é uma reunião de contos e crônicas
 publicados pela autora nos jornais *Correio Braziliense* e *O Estado de
@@ -453,7 +405,7 @@ d\) dar um novo sentido à palavra "mulherzinha", que pode ser pejorativo
 em alguns contextos, mas aqui está sendo usado para representar a
 autora, uma mulher baixinha.
 
-Resposta: D
+BNCC: EF67LP07
 
 a\) Incorreta. A intenção de usar a palavra "mulher" no diminutivo não é
 fazer chacota com a autora do livro: pelo contrário, é ironizar o fato
@@ -473,143 +425,23 @@ pejorativo, contudo, neste caso, pretende-se dar outro efeito de sentido
 em sentido literal, para representar a autora, que é uma mulher
 realmente pequena.
 
-Saeb: Identificar teses, opiniões, posicionamentos explícitos e
-argumentos em textos.
 
-BNCC: EF67LP07
-
-Nível de dificuldade: difícil.
 
 # MÓDULO 2 
 
   Eu, a sociedade, direitos e deveres
+  
+  Habilidades do SAEB
+  
+  - Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+- Identificar formas de organização de textos normativos, legais e/ou reinvindicatórios.
+- Identificar elementos constitutivos de gêneros de divulgação científica.
+- Analisar a relação temática entre diferentes gêneros jornalísticos.
 
-+----------------------------------+----------------------------------+
-| SAEB                             | BNCC                             |
-+==================================+==================================+
-| \- Identificar elementos         | **(****EF69LP02)** Analisar e    |
-| constitutivos de textos          | comparar peças publicitárias     |
-| pertencentes ao domínio          | variadas (cartazes,              |
-| jornalístico/midiático.          | folhetos, *outdoor*, anúncios e  |
-|                                  | propagandas em diferentes        |
-| \- Identificar formas de         | mídias, *spots*, *jingle*,       |
-| organização de textos            | vídeos etc.), de forma a         |
-| normativos, legais e/ou          | perceber a articulação entre     |
-| reinvindicatórios.               | elas em campanhas, as            |
-|                                  | especificidades das várias       |
-| \- Identificar elementos         | semioses e mídias, a adequação   |
-| constitutivos de gêneros de      | dessas peças ao público-alvo,    |
-| divulgação científica.           | aos objetivos do anunciante e/ou |
-|                                  | da campanha e à construção       |
-| \- Analisar a relação temática   | composicional e estilo dos       |
-| entre diferentes gêneros         | gêneros em questão, como forma   |
-| jornalísticos.                   | de ampliar suas possibilidades   |
-|                                  | de compreensão (e produção) de   |
-|                                  | textos pertencentes a esses      |
-|                                  | gêneros.                         |
-|                                  |                                  |
-|                                  | **(****EF69LP20)** Identificar,  |
-|                                  | tendo em vista o contexto de     |
-|                                  | produção, a forma de organização |
-|                                  | dos textos normativos e legais,  |
-|                                  | a lógica de hierarquização de    |
-|                                  | seus itens e subitens e suas     |
-|                                  | partes: parte inicial (título -- |
-|                                  | nome e data -- e ementa), blocos |
-|                                  | de artigos (parte, livro,        |
-|                                  | capítulo, seção, subseção),      |
-|                                  | artigos (caput e parágrafos e    |
-|                                  | incisos) e parte final           |
-|                                  | (disposições pertinentes à sua   |
-|                                  | implementação) e analisar        |
-|                                  | efeitos de sentido causados pelo |
-|                                  | uso de vocabulário técnico, pelo |
-|                                  | uso do imperativo, de palavras e |
-|                                  | expressões que indicam           |
-|                                  | circunstâncias, como advérbios e |
-|                                  | locuções adverbiais, de palavras |
-|                                  | que indicam generalidade, como   |
-|                                  | alguns pronomes indefinidos, de  |
-|                                  | forma a poder compreender o      |
-|                                  | caráter imperativo, coercitivo e |
-|                                  | generalista das leis e de outras |
-|                                  | formas de regulamentação.        |
-|                                  |                                  |
-|                                  | **(EF69LP27)** Analisar a forma  |
-|                                  | composicional de textos          |
-|                                  | pertencentes a gêneros           |
-|                                  | normativos/ jurídicos e a        |
-|                                  | gêneros da esfera política, tais |
-|                                  | como propostas, programas        |
-|                                  | políticos (posicionamento quanto |
-|                                  | a diferentes ações a serem       |
-|                                  | propostas, objetivos, ações      |
-|                                  | previstas etc.), propaganda      |
-|                                  | política (propostas e sua        |
-|                                  | sustentação, posicionamento      |
-|                                  | quanto a temas em discussão) e   |
-|                                  | textos reivindicatórios: cartas  |
-|                                  | de reclamação, petição           |
-|                                  | (proposta, suas justificativas e |
-|                                  | ações a serem adotadas) e suas   |
-|                                  | marcas linguísticas, de forma a  |
-|                                  | incrementar a compreensão de     |
-|                                  | textos pertencentes a esses      |
-|                                  | gêneros e a possibilitar a       |
-|                                  | produção de textos mais          |
-|                                  | adequados e/ou fundamentados     |
-|                                  | quando isso for requerido.       |
-|                                  |                                  |
-|                                  | **(EF67LP16)** Explorar e        |
-|                                  | analisar espaços de reclamação   |
-|                                  | de direitos e de envio de        |
-|                                  | solicitações (tais como          |
-|                                  | ouvidorias, SAC, canais ligados  |
-|                                  | a órgãos públicos, plataformas   |
-|                                  | do consumidor, plataformas de    |
-|                                  | reclamação), bem como de textos  |
-|                                  | pertencentes a gêneros que       |
-|                                  | circulam nesses espaços,         |
-|                                  | reclamação ou carta de           |
-|                                  | reclamação, solicitação ou carta |
-|                                  | de solicitação, como forma de    |
-|                                  | ampliar as possibilidades de     |
-|                                  | produção desses textos em casos  |
-|                                  | que remetam a reivindicações que |
-|                                  | envolvam a escola, a comunidade  |
-|                                  | ou algum de seus membros como    |
-|                                  | forma de se engajar na busca de  |
-|                                  | solução de problemas pessoais,   |
-|                                  | dos outros e coletivos.          |
-|                                  |                                  |
-|                                  | **(****EF67LP17)** Analisar, a   |
-|                                  | partir do contexto de produção,  |
-|                                  | a forma de organização das       |
-|                                  | cartas de solicitação e de       |
-|                                  | reclamação (datação, forma de    |
-|                                  | início, apresentação             |
-|                                  | contextualizada do pedido ou da  |
-|                                  | reclamação, em geral,            |
-|                                  | acompanhada de explicações,      |
-|                                  | argumentos e/ou relatos do       |
-|                                  | problema, fórmula de finalização |
-|                                  | mais ou menos cordata,           |
-|                                  | dependendo do tipo de carta e    |
-|                                  | subscrição) e algumas das marcas |
-|                                  | linguísticas relacionadas à      |
-|                                  | argumentação, explicação ou      |
-|                                  | relato de fatos, como forma de   |
-|                                  | possibilitar a escrita           |
-|                                  | fundamentada de cartas como      |
-|                                  | essas ou de postagens em canais  |
-|                                  | próprios de reclamações e        |
-|                                  | solicitações em situações que    |
-|                                  | envolvam questões relativas à    |
-|                                  | escola, à comunidade ou a algum  |
-|                                  | dos seus membros.                |
-+----------------------------------+----------------------------------+
+Habilidades da BNCC: EF69LP02, EF69LP20, EF69LP27, EF67LP16 e EF67LP17.
 
-Os **textos expositivos** são aqueles que têm como objetivo expor
+\conteudo
+{Os **textos expositivos** são aqueles que têm como objetivo expor
 informações, apresentando ao leitor determinado assunto. Com uma
 linguagem clara e objetiva, esse tipo de texto apresenta uma ideia
 central que, em alguns casos, é o fio condutor para que um autor
@@ -652,17 +484,7 @@ podemos utilizar em textos expositivos.
   Exemplificação                            Vivências comuns ao dia a dia das pessoas possibilitam o contato com situações que podem ser usadas para exemplificar seus argumentos.                                                                                    A falta de oportunidades profissionais para pessoas com pouca experiência muitas vezes faz com que jovens se vejam obrigados a trabalhar em profissões que não condizem com sua área de formação, **a exemplo** dos motoristas de aplicativo.
   Comparação                                Utilizar séries, documentários, novelas, personagens, pessoas de referência e outros repertórios que fazem parte da sua vivência podem embasar um argumento e gerar uma aproximação do leitor com o texto.                **Assim como** a apresentadora Xuxa, é importante que outras celebridades se posicionem a respeito da importância de uma alimentação saudável, pois isso serve de inspiração para que mais pessoas adotem estilos de vida semelhantes.
   Causa e consequência                      Para buscar a solução de um problema, é preciso identificar sua causa. Quais são as consequências do problema para as pessoas? Como ele surgiu?                                                                           **Desde a colonização, a população indígena foi escravizada e colocada à margem nossa sociedade. Uma das consequências disso** é o desrespeito, até os dias de hoje, às terras demarcadas e garantidas aos povos nativos.
-  Citação                                   Quando se tem uma opinião sólida e declarada, (como em uma entrevista, por exemplo), de um(a) especialista no assunto tratado.                                                                                            **De acordo com o médico** Dráuzio Varella**,** fumar é um hábito prejudicial à saúde de modo geral.
-
-Vamos compreender na prática, a partir de alguns exercícios, como esses
-conceitos são aplicados.
-
-Professor(a), os exercícios que seguem apresentam uma variedade de
-textos expositivos que circulam em diferentes contextos da vida
-cotidiana. É importante que os(as) estudantes treinem habilidades
-voltadas à interpretação de informações implícitas e explícitas em
-textos, objetivos de cada gênero apresentado e como se dá seu impacto
-social.
+  Citação                                   Quando se tem uma opinião sólida e declarada, (como em uma entrevista, por exemplo), de um(a) especialista no assunto tratado.                                                                                            **De acordo com o médico** Dráuzio Varella**,** fumar é um hábito prejudicial à saúde de modo geral.}
 
 Leia o texto a seguir, publicado no Jornal da USP, e responda às
 questões 1 a 3.
@@ -7848,3 +7670,4 @@ domínio jornalístico/midiático.
 BNCC: EF69LP02
 
 Nível: médio
+
