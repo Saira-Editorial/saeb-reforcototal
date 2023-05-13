@@ -486,6 +486,7 @@ podemos utilizar em textos expositivos.
   Causa e consequência                      Para buscar a solução de um problema, é preciso identificar sua causa. Quais são as consequências do problema para as pessoas? Como ele surgiu?                                                                           **Desde a colonização, a população indígena foi escravizada e colocada à margem nossa sociedade. Uma das consequências disso** é o desrespeito, até os dias de hoje, às terras demarcadas e garantidas aos povos nativos.
   Citação                                   Quando se tem uma opinião sólida e declarada, (como em uma entrevista, por exemplo), de um(a) especialista no assunto tratado.                                                                                            **De acordo com o médico** Dráuzio Varella**,** fumar é um hábito prejudicial à saúde de modo geral.}
 
+
 Leia o texto a seguir, publicado no Jornal da USP, e responda às
 questões 1 a 3.
 
@@ -523,7 +524,7 @@ humano, e sim respeitá-lo enquanto cão.
 expressions, em português significa "Cães podem inferir informações
 implícitas em expressões humanas relacionadas a emoções.*
 
-(GAMA, Guilherme. Seu cão reconhece suas emoções e toma decisões a
+(Guilherme Gama. Seu cão reconhece suas emoções e toma decisões a
 partir disso, mostra estudo da USP. Jornal da USP, publicado em 23 de
 nov. de 2021. Disponível em: \<
 <https://jornal.usp.br/ciencias/seu-cao-reconhece-suas-emocoes-e-toma-decisoes-a-partir-disso-mostra-estudo-da-usp/>\>.
@@ -532,54 +533,28 @@ Acesso em: 01 mar. 2023. Adaptado.)
 \num{1} Qual é o principal assunto do texto? Em que parte da estrutura do
 texto é possível constatar essa informação?
 
-Resposta: O texto fala sobre a capacidade dos cães de reconhecerem as
+\coment{ O texto fala sobre a capacidade dos cães de reconhecerem as
 emoções humanas e tomarem decisões a partir disso. É possível constatar
-essa informação no título do texto.
-
-SAEB: Identificar elementos constitutivos de textos pertencentes ao
-domínio jornalístico/midiático.; Identificar elementos constitutivos de
-gêneros de divulgação científica.;- Analisar a relação temática entre
-diferentes gêneros jornalísticos.
-
-BNCC: EF69LP20
-
-Nível: Fácil.
+essa informação no título do texto.}
 
 \num{2} Qual é a função do subtítulo do artigo?
 
-Resposta: O subtítulo apresenta para o leitor a pesquisa que será
-apresentada no artigo.
-
-SAEB: Identificar elementos constitutivos de textos pertencentes ao
-domínio jornalístico/midiático.; Identificar elementos constitutivos de
-gêneros de divulgação científica.;- Analisar a relação temática entre
-diferentes gêneros jornalísticos.
-
-BNCC: EF69LP20
-
-Nível: Médio.
+\coment{ O subtítulo apresenta para o leitor a pesquisa que será
+apresentada no artigo.}
 
 \num{3} Qual é o objetivo de se fazer a pesquisa apresentada no artigo? Em
 que parte do texto é possível obter essa informação?
 
-Resposta: O objetivo, segundo a pesquisadora, é desenvolver uma relação
+\coment{ O objetivo, segundo a pesquisadora, é desenvolver uma relação
 mais saudável e respeitosa entre pessoas e animais, a partir das
 informações constatadas. Essa informação encontra-se no último parágrafo
-do texto.
+do texto.}
 
-SAEB: Identificar elementos constitutivos de textos pertencentes ao
-domínio jornalístico/midiático.; Identificar elementos constitutivos de
-gêneros de divulgação científica.;- Analisar a relação temática entre
-diferentes gêneros jornalísticos.
 
-BNCC: EF69LP20
-
-Nível: Difícil.
-
-Observe com atenção os Textos 1 e 2, a seguir, para responder às
+Observe com atenção os Textos I e II, a seguir, para responder às
 questões 4 a 6.
 
-**Texto 1**
+**Texto I**
 
 ![Campanha estimula hábitos saudáveis para as
 crianças](./imgSAEB_6_POR/media/image2.jpeg){width="5.905555555555556in"
@@ -588,7 +563,7 @@ height="3.3069444444444445in"}
 \fonte{
 <https://www.canalsaude.fiocruz.br/noticias/noticiaAberta/campanha-estimula-habitos-saudaveis-para-as-criancas13112019>
 
-**Texto 2**
+**Texto II**
 
 Precisa ser criado pela Arte. Vamos simular uma postagem de rede social.
 A primeira imagem deve conter o seguinte texto no topo: HÁBITOS
@@ -621,9 +596,7 @@ obesidade.
 c\) conscientizar as pessoas com relação ao problema da obesidade
 infantil.
 
-Resposta: D
-
-Justificativa: Ambos os textos são campanhas de conscientização com
+\coment{Resposta: D. Ambos os textos são campanhas de conscientização com
 relação à obesidade infantil.
 
 a\) Incorreta. O Texto 1 fornece dicas de comportamentos que podem ser
@@ -637,46 +610,25 @@ hábitos saudáveis na infância, o objetivo das campanhas não é este.
 
 c\) Incorreta. Os textos são campanhas publicitárias, e não materiais
 informativos. Portanto, o objetivo deles é conscientizar sobre uma
-ideia, no caso o combate à obesidade infantil.
-
-SAEB: Identificar elementos constitutivos de textos pertencentes ao
-domínio jornalístico/midiático.
-
-BNCC: EF69LP02
-
-Nível de dificuldade: fácil
+ideia, no caso o combate à obesidade infantil.}
 
 \num{5} Qual dos dois textos alcança uma quantidade maior de leitores(as),
 se considerarmos os canais em que é veiculado? Justifique sua resposta.
 
-Resposta: O Texto 1 alcança um número maior de pessoas, porque, por ser
+\coment{ O Texto 1 alcança um número maior de pessoas, porque, por ser
 um cartaz publicitário, pode ser divulgado em diversos locais, como
 postos de saúde, escolas, hospitais, redes sociais e páginas de
 internet. Já o Texto 2 é uma postagem de rede social, ficando restrita
 apenas às pessoas que seguem aquela página por interesses em comum com
-determinado perfil.
-
-SAEB: Identificar elementos constitutivos de textos pertencentes ao
-domínio jornalístico/midiático.
-
-BNCC: EF69LP02
-
-Nível de dificuldade: difícil.
+determinado perfil.}
 
 \num{6} Qual dos textos promove ao(à) leitor(a) maior credibilidade com
 relação às informações divulgadas? Justifique sua resposta.
 
-Resposta: O Texto 1, pois tem como autor da campanha o Ministério da
+\coment{ O Texto 1, pois tem como autor da campanha o Ministério da
 Saúde, um órgão ligado ao Governo Federal. Isso pode ser observado no
 rodapé da campanha. Ao contrário, o Texto 2 não apresenta nenhuma
-informação a não ser o slogan da campanha e uma hashtag.
-
-SAEB: Identificar elementos constitutivos de textos pertencentes ao
-domínio jornalístico/midiático.
-
-BNCC: EF69LP02
-
-Nível de dificuldade: médio.
+informação a não ser o slogan da campanha e uma hashtag.}
 
 Leia, a seguir, o artigo 4º da Declaração Universal dos Direitos dos
 Animais e responda às questões 7 e 8.
@@ -695,14 +647,9 @@ Acesso em: 2 mar. 2023. Fragmento.
 \num{7} Explique, com suas palavras e com base na leitura, a finalidade da
 Declaração Universal dos Direitos dos Animais.
 
-Resposta: A Declaração Universal dos Direitos dos Animais tem a
+\coment{A Declaração Universal dos Direitos dos Animais tem a
 finalidade de garantir que os direitos dos animais sejam preservados por
-nós, seres humanos.
-
-SAEB: Identificar formas de organização de textos normativos, legais
-e/ou reivindicatórios.
-
-Nível de dificuldade: fácil.
+nós, seres humanos.}
 
 \num{8} O parágrafo 2 da Declaração Universal dos Direitos dos Animais
 informa que toda a privação de liberdade no caso de animais selvagens,
@@ -719,31 +666,20 @@ viverem em liberdade.
 d\) pessoas que estudam animais selvagens e restringem sua liberdade
 para este fim estão, na realidade, cometendo um crime.
 
-Resposta: É um dever dos seres humanos garantir o direito de animais
+\coment{ É um dever dos seres humanos garantir o direito de animais
 selvagens viverem em liberdade.
-
 A Declaração Universal dos Direitos dos Animais é um texto normativo que
 tem como princípio garantir direitos de sobrevivência dos animais de
 modo geral, a fim de orientar a convivência harmoniosa entre eles e os
 seres humanos. Cabe a nós garantir esse direito, uma vez que os animais
 são seres irracionais.
-
-Justificativas:
-
 \(a\) Incorreta. O texto orienta sobre direitos de animais selvagens,
 mas não informa que prendê-los é crime.
-
 \(b\) Incorreta. O trecho não menciona nada sobre poder manter animais
 domésticos presos.
-
 \(d\) Incorreta. O trecho menciona que restringir a liberdade de animais
 selvagens, mesmo que para estudo, fere esse direito, porém não menciona
-que é crime ou que a pessoa será punida por fazer isso.
-
-SAEB: Identificar formas de organização de textos normativos, legais
-e/ou reivindicatórios.
-
-Nível de dificuldade: médio.
+que é crime ou que a pessoa será punida por fazer isso.}
 
 \num{9} Observe a imagem a seguir.
 
@@ -765,30 +701,18 @@ tornar o convívio entre as pessoas
 
 \(d\) mais justo.
 
-Resposta: D. Mais justo.
-
-O texto normativo apresentado trata do direito ao atendimento
+\coment{ D. Mais justo. O texto normativo apresentado trata do direito ao atendimento
 prioritário dos grupos descritos nas imagens: idosos, gestantes, pessoas
 com crianças de colo, pessoas com deficiência e autistas. Por seu
 caráter reivindicatório, o objetivo é tornar o convívio entre as pessoas
 mais justo.
-
-Justificativas:
-
 a\) Incorreta. Não se trata de tornar o convívio mais alegre, e sim
 igualitário e inclusivo.
-
 b\) Incorreta. O objetivo do texto normativo é regulamentar normas de
 bom convívio, a fim de tornar o dia a dia das pessoas mais justos em
 direitos.
-
 c\) Incorreta. O direito a atendimento prioritário não faz da vida de
-pessoas pertencentes aos grupos da imagem mais segura.
-
-SAEB: Identificar formas de organização de textos normativos, legais
-e/ou reivindicatórios.
-
-Nível de dificuldade: médio.
+pessoas pertencentes aos grupos da imagem mais segura.}
 
 \num{10} Observe uma imagem retirada do Twitter da Prefeitura do município
 do Rio de Janeiro:
@@ -799,15 +723,12 @@ height="2.5668886701662292in"}
 
 \fonte{
 [[https://twitter.com/Prefeitura\_Rio/status/1633079144815681536]{.underline}](https://twitter.com/Prefeitura_Rio/status/1633079144815681536)
-
 Arte, por favor, borrar o nome da pessoa que comentou o Tweet da
 prefeitura.
 
 Atualmente, é muito comum as pessoas utilizarem plataformas digitais e
 redes sociais para expor algum problema de impacto social, como esse da
-imagem.
-
-A resposta do usuário à postagem da prefeitura do Rio de Janeiro tem o
+imagem. A resposta do usuário à postagem da prefeitura do Rio de Janeiro tem o
 mesmo teor que o de um(a)
 
 a\) artigo de opinião.
@@ -818,33 +739,19 @@ c\) texto informativo.
 
 d\) campanha publicitária.
 
-Resposta: b. Carta de reclamação.
-
+\coment{ b. Carta de reclamação.
 A carta de reclamação é um gênero textual que expressa uma indignação ou
 uma insatisfação de determinado indivíduo diante de alguma relação
 comercial, de serviço ou compra, por exemplo. Na postagem, o consumidor
 reclama de ônibus de determinada linha, afirmando que é impossível
 viajar neles.
-
-Justificativas:
-
 a\) Incorreta. O artigo de opinião é um gênero textual jornalístico que
 tem como objetivo comentar e opinar a respeito de um tema.
-
 c\) Incorreta. O texto informativo tem como objetivo informar o(a)
 leitor(a) sobre determinado assunto, elucidando e esclarecendo-o(a)
 sobre o tema em questão.
-
 d\) Incorreta. A campanha publicitária tem como objetivo persuadir uma
-pessoa a comprar um produto ou adotar um comportamento.
-
-SAEB: Identificar formas de organização de textos normativos, legais
-e/ou reivindicatórios.; analisar a relação temática entre diferentes
-gêneros jornalísticos.
-
-BNCC: EF67LP16
-
-Nível de dificuldade: médio.
+pessoa a comprar um produto ou adotar um comportamento.}
 
 \colorsec{Treino}
 
@@ -879,10 +786,10 @@ c\) uma reivindicação para que o SUS seja defendido e não atacado.
 
 d\) uma propaganda para divulgar nas redes sociais os serviços do SUS.
 
-Resposta: a. A campanha é um incentivo para que as pessoas se
-conscientizem e reivindiquem a manutenção do SUS.
+BNCC: EF67LP16
 
-Justificativas:
+a\) Correta. A campanha é um incentivo para que as pessoas se
+conscientizem e reivindiquem a manutenção do SUS.
 
 b\) Incorreta. A campanha não pretende convidar pessoas a utilizarem o
 SUS.
@@ -893,12 +800,6 @@ alguma forma ele é atacado.
 d\) Incorreta. Embora veiculada em redes sociais, a campanha busca
 defender a manutenção do SUS e não divulgar seus serviços.
 
-Saeb: Analisar a relação temática entre diferentes gêneros
-jornalísticos.
-
-BNCC: EF67LP16
-
-Nível de dificuldade: médio.
 
 \num{2} O piso tátil, instalado em calçadas e estabelecimentos, apresenta
 dois tipos de padrão: em bolinhas ou em faixas paralelas.
@@ -933,14 +834,14 @@ objeto.
 d\) proteger o objeto de qualquer avaria em decorrência da aproximação
 de pessoas com bengalas, por exemplo.
 
-Resposta: b. O piso tátil em bolinha, conforme explica a imagem 1, é um
-alerta para a pessoa com deficiência visual, ou sejam, serve para
-orientá-la de que ali há um objeto.
-
-Justificativas:
+BNCC: EF69LP20
 
 a\) Incorreta. Nenhum piso tátil tem função de evitar que qualquer
 pessoa deixe de acessar um recurso público.
+
+b\) Correta. O piso tátil em bolinha, conforme explica a imagem 1, é um
+alerta para a pessoa com deficiência visual, ou sejam, serve para
+orientá-la de que ali há um objeto.
 
 c\) Incorreta. O piso com função de direcionamento é aquele com padrão
 em faixas.
@@ -948,37 +849,21 @@ em faixas.
 d\) Incorreta. O objeto está cercado pelo piso para alertar o acesso da
 pessoa com deficiência a partir de qualquer sentido.
 
-Saeb: Identificar formas de organização de textos normativos, legais
-e/ou reinvindicatórios.
-
-BNCC: EF69LP20
-
-Nível: fácil
 
 \num{3} Leia o texto a seguir.
 
-No dia 26 de janeiro de 2023, um asteroide de tamanho estimado igual ao
-de um ônibus passou pelo céu do extremo sul da América do Sul logo após
-as 21h (horário de Brasília). A rocha espacial, conhecida como 2023 BU,
-passou a aproximadamente 3.600 km do nosso planeta, o que é considerado
-bem rente.
+Em 26 de janeiro de 2023, um asteroide com tamanho estimado semelhante ao de um ônibus cruzou o céu do extremo sul da América do Sul pouco depois das 21h (horário de Brasília). O objeto espacial, identificado como 2023 BU, passou a uma distância aproximada de 3.600 km do nosso planeta, o que é considerado uma proximidade significativa.
 
-Apesar disso, não houve motivo para pânico, houve apenas a confirmação
-que existem asteroides de tamanho significativo que se aproximam
-bastante da Terra e precisam ser mapeados.\[\...\]
+Apesar disso, não houve razão para alarme, apenas confirmou-se a existência de asteroides de tamanho considerável que se aproximam consideravelmente da Terra e necessitam ser rastreados.
 
-Desta vez não corremos perigo, porém, os cientistas continuam realizando
-um grande esforço para localizar os asteroides que se colidissem com a
-Terra poderiam causar grandes estragos. Os verdadeiros gigantes que
-estão por aí, como a rocha de 12 km de diâmetro que dizimou os
-dinossauros, provavelmente já foram detectados e não são motivo de
-preocupação. \[\...\]
+Desta vez, não estivemos em perigo iminente; no entanto, os cientistas estão continuamente empenhados em localizar asteroides que, em caso de colisão com a Terra, poderiam causar danos consideráveis. Os verdadeiros gigantes que estão presentes, como o asteroide de 12 km de diâmetro que causou a extinção dos dinossauros, provavelmente já foram identificados e não representam motivo de preocupação.
 
-No artigo científico, os trechos "tamanho estimado igual ao de um
-ônibus", "considerado bem rente" e "verdadeiros gigantes que estão por
-aí" são empregados no sentido de
+Fonte de pesquisa: O Globo. Asteroide do tamanho de ônibus deve passar rente à América do Sul com a menor distância já registrada da Terra. Disponível em <https://oglobo.globo.com/mundo/epoca/noticia/2023/01/asteroide-e-esperado-para-passar-rente-a-america-do-sul-com-a-menor-distancia-ja-registrada-da-terra.ghtml>. Acesso em 13 de maio de 2023.
 
-a\) comparar termos técnicos com outros da linguagem coloquial
+
+No texto, os trechos "tamanho estimado semelhante ao de um ônibus", "considerado uma proximidade significativa" e "Os verdadeiros gigantes que estão presentes" são empregados no sentido de
+
+a\) comparar termos técnicos com outros da linguagem coloquial.
 
 b\) dar ao leitor uma projeção imagética do que está sendo explicado.
 
@@ -987,13 +872,13 @@ c\) explicar em termos técnicos as dimensões apresentadas no trecho.
 d\) fazer uma metáfora bem-humorada das dimensões das coisas no
 universo.
 
-Resposta: b. Embora seja um texto de divulgação científica, a linguagem
-torna-se acessível quando as pessoas conseguem criar uma imagem do que
-está sendo explicado.
-
-Justificativas:
+BNCC: EF69LP20
 
 a\) Incorreto, O texto não compara termos técnicos.
+
+b\) Embora seja um texto de divulgação científica, a linguagem
+torna-se acessível quando as pessoas conseguem criar uma imagem do que
+está sendo explicado.
 
 c\) Incorreto. As dimensões são explicadas por meio de linguagem
 coloquial.
@@ -1001,81 +886,22 @@ coloquial.
 d\) Incorreto. Não há uma metáfora ou comparação, e sim explicações
 sobre os termos técnicos.
 
-Saeb: Identificar elementos constitutivos de gêneros de divulgação
-científica.
 
-BNCC: **EF69LP20**
-
-**Nível: difícil.**
 
 # MÓDULO 3 
 
   Textos que conversam
+  
+  Habilidades do SAEB
+  
+  - Analisar elementos constitutivos de textos pertencentes ao domínio literário.
+- Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
+- Inferir a presença de valores sociais, culturais e humanos em textos literários.
 
-+----------------------------------+----------------------------------+
-| SAEB                             | BNCC                             |
-+==================================+==================================+
-| \- Analisar elementos            | EF69LP44: Inferir a presença de  |
-| constitutivos de textos          | valores sociais, culturais e     |
-| pertencentes ao domínio          | humanos e de diferentes visões   |
-| literário.                       | de mundo, em textos literários,  |
-|                                  | reconhecendo nesses textos       |
-| \- Analisar a intertextualidade  | formas de estabelecer múltiplos  |
-| entre textos literários ou entre | olhares sobre as identidades,    |
-| estes e outros textos verbais ou | sociedades e culturas e          |
-| não verbais.                     | considerando a autoria e o       |
-|                                  | contexto social e histórico de   |
-| \- Inferir a presença de valores | sua produção.                    |
-| sociais, culturais e humanos em  |                                  |
-| textos literários.               | EF69LP47: Analisar, em textos    |
-|                                  | narrativos ficcionais, as        |
-|                                  | diferentes formas de composição  |
-|                                  | próprias de cada gênero, os      |
-|                                  | recursos coesivos que constroem  |
-|                                  | a passagem do tempo e articulam  |
-|                                  | suas partes, a escolha lexical   |
-|                                  | típica de cada gênero para a     |
-|                                  | caracterização dos cenários e    |
-|                                  | dos personagens e os efeitos de  |
-|                                  | sentido decorrentes dos tempos   |
-|                                  | verbais, dos tipos de discurso,  |
-|                                  | dos verbos de enunciação e das   |
-|                                  | variedades linguísticas (no      |
-|                                  | discurso direto, se houver)      |
-|                                  | empregados, identificando o      |
-|                                  | enredo e o foco narrativo e      |
-|                                  | percebendo como se estrutura a   |
-|                                  | narrativa nos diferentes gêneros |
-|                                  | e os efeitos de sentido          |
-|                                  | decorrentes do foco narrativo    |
-|                                  | típico de cada gênero, da        |
-|                                  | caracterização dos espaços       |
-|                                  | físico e psicológico e dos       |
-|                                  | tempos cronológico e             |
-|                                  | psicológico, das diferentes      |
-|                                  | vozes no texto (do narrador, de  |
-|                                  | personagens em discurso direto e |
-|                                  | indireto), do uso de pontuação   |
-|                                  | expressiva, palavras e           |
-|                                  | expressões conotativas e         |
-|                                  | processos figurativos e do uso   |
-|                                  | de recursos linguístico          |
-|                                  | gramaticais próprios a cada      |
-|                                  | gênero narrativo.                |
-|                                  |                                  |
-|                                  | EF67LP27: Analisar, entre os     |
-|                                  | textos literários e entre estes  |
-|                                  | e outras manifestações           |
-|                                  | artísticas (como cinema, teatro, |
-|                                  | música, artes visuais e          |
-|                                  | midiáticas), referências         |
-|                                  | explícitas ou implícitas a       |
-|                                  | outros textos, quanto aos temas, |
-|                                  | personagens e recursos           |
-|                                  | literários e semióticos.         |
-+----------------------------------+----------------------------------+
+Habilidades da BNCC: EF69LP44, EF69LP47, EF67LP27.
 
-A intertextualidade é uma técnica que envolve a criação de conexões
+\conteúdo
+{A intertextualidade é uma técnica que envolve a criação de conexões
 entre diferentes textos, sejam eles literários, jornalísticos,
 publicitários ou mesmo conversas do dia a dia. É uma forma de
 estabelecer relações entre ideias, conceitos, histórias e personagens, a
@@ -1094,21 +920,8 @@ No dia a dia, a intertextualidade pode ser vista em diversas situações,
 desde as conversas informais entre amigos até as produções artísticas e
 culturais. Por exemplo, quando alguém faz uma referência a uma cena de
 um filme ou a uma música famosa em uma conversa, essa pessoa está
-estabelecendo uma conexão intertextual.
+estabelecendo uma conexão intertextual.}
 
-Dica para o professor:
-
-Professor(a), neste módulo vamos trabalhar o impacto social de diversos
-tipos de textos que circulam no campo jornalístico-midiático e em outros
-campos da vida pública, como memes, contos e outros gêneros que agregam
-linguagem verbal e não verbal, sempre dentro da temática
-intertextualidade. As atividades buscam, a princípio, resgatar
-conhecimentos prévios dos alunos para que respondam às perguntas.
-
-Além disso, serão propostas questões que buscam desenvolver habilidades
-interpretativas e de compreensão textual com vistas aos tempos verbais,
-foco narrativo, discurso direto e indireto e efeito de sentido de
-escolhas lexicais.
 
 Utilize os dois textos a seguir para responder às questões 1 a 4.
 
@@ -1228,7 +1041,7 @@ boas o suficiente para se vestir.
 
 ( ) A filha do chefe é feita de empregada por sua madrasta.
 
-Resolução:
+\coment{
 
 ( 1 ) Uma das esposas do chefe morre.
 
@@ -1248,45 +1061,26 @@ para que ela possa ir ao festival.
 ( 3 ) Certo dia, a garota queria ir a um festival, porém não tinha
 roupas boas o suficiente para se vestir.
 
-( 2 ) A filha do chefe é feita de empregada por sua madrasta.
+( 2 ) A filha do chefe é feita de empregada por sua madrasta.}
 
-Saeb: Analisar a intertextualidade entre textos literários ou entre
-estes e outros textos verbais ou não verbais.
-
-BNCC: EF69LP47; EF67LP27
-
-Nível: fácil.
 
 \num{2} O Texto 2 apresenta apenas uma imagem e uma legenda. O que essa
 imagem representa? Por que ela foi escolhida?
 
-Resposta: A imagem do Texto 2 é o sapato de cristal, que remete à
+\coment{ A imagem do Texto 2 é o sapato de cristal, que remete à
 história da Cinderela. Ela foi escolhida porque o sapatinho de cristal é
 o ícone que representa a Cinderela: por causa dele o príncipe descobre
-com quem deve se casar no desfecho da história.
-
-Saeb: Analisar a intertextualidade entre textos literários ou entre
-estes e outros textos verbais ou não verbais.
-
-BNCC: EF69LP47; EF67LP27
-
-Nível: médio.
+com quem deve se casar no desfecho da história.}
 
 \num{3} Quais são as principais semelhanças entre o Texto 1 e o conto de
 fadas representado pela imagem do Texto 2?
 
-Resposta: Tanto a história do Texto 1 quanto a história da Cinderela
+\coment{ Tanto a história do Texto 1 quanto a história da Cinderela
 tratam de uma princesa que, após a morte da mãe, é feita de empregada
 pela madrasta. Em ambos os casos, uma criatura mágica oferece-lhe ajuda
 para que ela possa ir a uma festa e nas duas histórias a personagem
-abandona um sapato.
+abandona um sapato.}
 
-Saeb: Analisar a intertextualidade entre textos literários ou entre
-estes e outros textos verbais ou não verbais.
-
-BNCC: EF69LP47; EF67LP27
-
-Nível: médio.
 
 \num{4} Assinale verdadeiro (V) ou falso (F) sobre o que torna o Texto 1
 diferente do conto de fadas referido no Texto 2.
@@ -1309,9 +1103,9 @@ madrasta e suas duas meia-irmãs.
 ( ) O elemento místico no Texto 1 está no fato de os sapos falarem, ao
 passo que no Texto 2 está no fato de haver uma fada-madrinha.
 
-Resolução:
+\coment
 
-( V ) O Texto 1 é escrito conforme lendas e referências típicas da
+{( V ) O Texto 1 é escrito conforme lendas e referências típicas da
 cultura africana.
 
 ( V ) O Texto 2 dá ênfase ao sapato de cristal, ao passo que no Texto 1
@@ -1329,36 +1123,23 @@ madrasta e suas duas meia-irmãs.
 ( F ) O elemento místico no Texto 1 é o sapo, ao passo que no Texto 2 é
 a carruagem de abóbora.
 
-Justificativas:
-
 No Texto 1, a filha do chefe deseja ir ao Festival da Colheita para
 encontrar o príncipe. A informação é falsa, pois ela apenas deseja ir ao
 festival celebrar com seu povo. O filho do chefe a vê no fim da festa.
-
 O Texto 1 deixa menciona apenas a madrasta e uma filha, e não duas
-meia-irmãs, como na história da Cinderela.
+meia-irmãs, como na história da Cinderela.}
 
-Saeb: Analisar a intertextualidade entre textos literários ou entre
-estes e outros textos verbais ou não verbais.
-
-BNCC: EF69LP44; EF69LP47; EF67LP27
-
-Nível: Difícil.
 
 Leia os textos seguir e responda às perguntas 5 a 7.
 
 **Texto 1**
 
-![Foto grátis gatinho adorável com parede monocromática atrás
-dela](./imgSAEB_6_POR/media/image10.jpeg){width="2.5378794838145233in"
-height="2.5378794838145233in"}
+Veja a imagem de um meme e leia o texto que a acompanha.
 
 <https://br.freepik.com/fotos-gratis/gatinho-adoravel-com-parede-monocromatica-atras-dela_13863379.htm#page=5&query=gato&position=45&from_view=search&track=sph>
-
-Arte, escrever na imagem: \"OLHOS DE CIGANA, OBLÍQUA E DISSIMULADA.
+"OLHOS DE CIGANA, OBLÍQUA E DISSIMULADA.
 (Machado de Assis)\".
 
-Vamos simular um meme.
 
 **Texto 2**
 
@@ -1382,39 +1163,18 @@ Fitar: olhar; admirar.
 \num{5} Qual é o efeito de sentido que a palavra "obliqua" adquire no
 contexto do Texto 1?
 
-Resposta: A palavra adquire um sentido real, já que os olhos do gatinho
-são realmente inclinados, na diagonal.
-
-Saeb: Analisar a intertextualidade entre textos literários ou entre
-estes e outros textos verbais ou não verbais.
-
-BNCC: EF69LP47; EF67LP27
-
-Nível: fácil.
+\coment{ A palavra adquire um sentido real, já que os olhos do gatinho
+são realmente inclinados, na diagonal.}
 
 \num{6} Por que a palavra "dissimulada" faz sentido no Texto 1?
 
-Resposta: Porque é um senso comum algumas pessoas associarem gatos a
-seres traiçoeiros.
-
-Saeb: Analisar a intertextualidade entre textos literários ou entre
-estes e outros textos verbais ou não verbais.
-
-BNCC: EF69LP47; EF67LP27
-
-Nível: médio.
+\coment{ Porque é um senso comum algumas pessoas associarem gatos a
+seres traiçoeiros.}
 
 \num{7} A que se refere o pronome "os", no trecho "Só me perguntava o que
 era, se nunca os vira", extraído do Texto 2?
 
-Resposta: O pronome se refere aos olhos de Capitu.
-
-Saeb: Analisar a intertextualidade entre textos literários ou entre
-estes e outros textos verbais ou não verbais.
-
-BNCC: EF69LP47; EF67LP27
-
-Nível: difícil.
+\coment{ O pronome se refere aos olhos de Capitu.}
 
 Leia o texto a seguir para responder às questões 8 a 10.
 
@@ -1429,35 +1189,22 @@ Precisa inserir o texto "De mal\... a pior."
 outro, com o texto "De mal\... a pior.". Explique o uso das reticências
 e do ponto-final nesse texto.
 
-Resposta: As reticências dão ao leitor a ideia de que o texto, no ponto
+\coment{ As reticências dão ao leitor a ideia de que o texto, no ponto
 de partida "De mal", continua até um destino, "pior.". Elas dão ao texto
 um ar misterioso, para que o leitor tenha curiosidade de saber o nome do
-destino. O ponto-final encerra a frase da mesma forma como um destino.
+destino. O ponto-final encerra a frase da mesma forma como um destino.}
 
-Saeb: Analisar a intertextualidade entre textos literários ou entre
-estes e outros textos verbais ou não verbais.
-
-BNCC: EF69LP47; EF67LP27
-
-Nível: difícil.
 
 \num{9} Observe que o pontilhado que forma a rota da origem ao destino é uma
 linha curvada para baixo, de modo que o planeta parece estar triste.
 Esse detalhe é proposital na composição da imagem? Qual é a função desse
 recurso não verbal para o leitor?
 
-Resposta: Esse detalhe é proposital, pois a imagem de modo geral compõe
+\coment{Esse detalhe é proposital, pois a imagem de modo geral compõe
 a rota com os ícones e os pontilhados como se o planeta tivesse um rosto
 humano triste -- ou, até mesmo, um emoji triste. Esse recurso ajuda a
 contextualizar sobre a produção do texto: o que vai de mal a pior? A
-resposta seria o planeta Terra.
-
-Saeb: Analisar a intertextualidade entre textos literários ou entre
-estes e outros textos verbais ou não verbais.
-
-BNCC: EF69LP47; EF67LP27
-
-Nível: difícil.
+resposta seria o planeta Terra.}
 
 \num{10} A imagem faz intertextualidade com
 
@@ -1469,30 +1216,20 @@ c\) uma figura de linguagem.
 
 d\) uma cantiga popular.
 
-Resposta: B. A frase da imagem é um ditado popular: "de mal a pior",
-usada quando se quer dizer que não há nada tão ruim que não possa
-piorar.
 
-Justificativas:
-
+\coment{
 a\) Incorreta. Embora a expressão "de mal a pior" esteja presente em
 algumas canções da MPB, ela é um ditado popular.
-
+b\) Correta. A frase da imagem é um ditado popular: "de mal a pior",
+usada quando se quer dizer que não há nada tão ruim que não possa
+piorar.
 c\) Incorreta. De mal a pior é um ditado, uma expressão popular, e não
 uma figura de linguagem. Aqui, na imagem, seu uso pode ser associado a
 uma ironia, para dar o efeito de sentido de humor, mas o texto em si é
 um dito popular.
+d\) "De mal a pior" não aparece em nenhuma cantiga popular.}
 
-d\) "De mal a pior" não aparece em nenhuma cantiga popular.
 
-Resposta: O pronome se refere aos olhos de Capitu.
-
-Saeb: Analisar a intertextualidade entre textos literários ou entre
-estes e outros textos verbais ou não verbais.
-
-BNCC: EF69LP47; EF67LP27
-
-Nível: difícil.
 
 \colorsec{Treino}
 
@@ -1534,25 +1271,19 @@ c\) não têm qualquer relação.
 
 d\) são de cunho informativo.
 
-Resposta: b. Os textos apresentam intertextualidade com relação ao tema,
-que são as consequências de haver um apagão do sol.
-
-Justificativas:
+BNCC: EF67LP27.
 
 a\) Incorreta. O texto 1 é um quadrinho e o texto 2 é um texto de
 divulgação científica.
+
+b\) Os textos apresentam intertextualidade com relação ao tema,
+que são as consequências de haver um apagão do sol.
 
 c\) Incorreta. Os textos apresentam a mesma temática.
 
 d\) Incorreta. Apenas o texto 2 é de cunho informativo, pois transmite a
 mensagem de maneira assertiva.
 
-Saeb: Analisar a intertextualidade entre textos literários ou entre
-estes e outros textos verbais ou não verbais.
-
-BNCC: EF67LP27
-
-Nível: fácil
 
 \num{2} Observe a imagem a seguir.
 
@@ -1576,11 +1307,7 @@ mede a força.
 d\) a partir da composição de elementos verbais e não verbais, como a
 pintura e os quadros de aviso.
 
-Resposta: c. A imagem forma uma intertextualidade ao unir o sinal
-sonoro, na parede, com um hidrante, no chão, e a pintura do garoto
-brincando com um martelo que mede a força.
-
-Justificativas:
+BNCC: EF67LP27.
 
 a\. Incorreta. Os elementos não verbais da imagem não se dissociam de
 elementos cotidianos; eles fazem parte deles.
@@ -1588,15 +1315,12 @@ elementos cotidianos; eles fazem parte deles.
 b\. Incorreta. A obra não pretende instruir como acionar o alerta
 sonoro.
 
+c\. Correta. A imagem forma uma intertextualidade ao unir o sinal
+sonoro, na parede, com um hidrante, no chão, e a pintura do garoto
+brincando com um martelo que mede a força.
+
 d\. Incorreta. Os elementos verbais, como os quadros na parece, não
 fazem diferença na composição da imagem.
-
-Saeb: Analisar a intertextualidade entre textos literários ou entre
-estes e outros textos verbais ou não verbais.
-
-BNCC: EF67LP27
-
-Nível: difícil.
 
 \num{3} Observe a imagem a seguir.
 
@@ -1636,10 +1360,7 @@ De Sol, de amor, de ar pra sobreviver.
 
 (Toquinho)
 
-Resposta: d. A imagem apresenta um caule cortado em formato de coração,
-comparando o sentimento com a mata.
-
-Justificativas:
+BNCC: EF67LP27
 
 a\. Incorreta. Embora a letra fale sobre mata, caule e raiz, não se pode
 afirmar que a imagem é de um desmatamento.
@@ -1650,12 +1371,10 @@ natureza, portanto, não apresenta intertextualidade com a imagem.
 c\. Incorreta. A letra fala apenas de sentimentos humanos, e não
 apresenta intertextualidade com a imagem.
 
-Saeb: Analisar a intertextualidade entre textos literários ou entre
-estes e outros textos verbais ou não verbais.
+d\. Correta. A imagem apresenta um caule cortado em formato de coração,
+comparando o sentimento com a mata.
 
-BNCC: EF67LP27
 
-Nível: médio.
 
 # MÓDULO 4 
 
