@@ -4199,11 +4199,11 @@ b\) dúvida.
 
 c\) condição.
 
-e\) negação.
+d\) negação.
 
-Resposta: a -- certeza.
+BNCC: EF69LP28.
 
-Justificativas:
+a\) A intenção é a de certeza.
 
 b\) O modalizador em questão é o verbo decidi, que promove a intenção de
 certeza do enunciador.
@@ -4215,19 +4215,6 @@ em casa que isso passa logo".
 d\) Em nenhum dos quadrinho há qualquer intenção de negação por parte do
 enunciador.
 
-Saeb:
-
-*  Identificar os recursos de modalização em textos diversos.
-
-*  Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais
-com base no gênero textual e na intenção comunicativa.
-
-*  Analisar os efeitos de sentido produzidos pelo uso de modalizadores
-em textos diversos.
-
-BNCC: EF69LP28
-
-Nível: fácil
 
 \num{2} Leia o texto a seguir.
 
@@ -4266,10 +4253,7 @@ familiares.
 d\) o prato traz boas memórias das reuniões familiares que ele tinha na
 Venezuela.
 
-Resposta: d. Para Ricardo, o prato remete às boas memórias que tinha das
-reuniões com amigos e familiares na Venezuela, com música e cerveja.
-
-Justificativas:
+BNCC: EF69LP43.
 
 a\) Incorreta. O prato não é feito somente em celebrações. No texto
 mesmo é informado que Ricardo faz o prato no Brasil.
@@ -4281,12 +4265,9 @@ c\) Incorreta. Ricardo costumava fazer o prato em reuniões com seus
 familiares e amigos, mas o texto não informa que é tipicamente feito
 somente nessas ocasiões.
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
-apropriação textual (paráfrase, citação etc.).
+d\) Para Ricardo, o prato remete às boas memórias que tinha das
+reuniões com amigos e familiares na Venezuela, com música e cerveja.
 
-BNCC: EF69LP43
-
-Nível: fácil.
 
 \num{3} Leia o texto a seguir.
 
@@ -4322,10 +4303,7 @@ c\) refere-se ao nome do livro mencionado no texto.
 
 d\) refere-se ao fato de tratar de alimentos do mundo todo.
 
-Resposta: d. O título da matéria, "Sabores sem fronteiras", refere-se ao
-fato de o livro trazer receitas do mundo todo.
-
-Justificativas:
+BNCC: EF67LP07.
 
 a\) Incorreta. O título não trata especificamente da história de
 Ricardo. Ele é apenas um exemplo.
@@ -4335,12 +4313,9 @@ outro, mas sim dos pratos de cada lugar que aparecem no livro.
 
 c\) Incorreta. Não se pode afirmar que esse é o nome do livro.
 
-Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
-verbais.
+d\) O título da matéria, "Sabores sem fronteiras", refere-se ao
+fato de o livro trazer receitas do mundo todo.
 
-BNCC: EF67LP07
-
-Nível: médio.
 
 \num{4} Observe uma imagem retirada do Twitter da Prefeitura do município do
 Rio de Janeiro:
@@ -4365,12 +4340,12 @@ b\) metáfora.
 
 c\) catacrese.
 
-d\) personificação,
+d\) personificação.
 
-Resposta: a. A pessoa utiliza uma hipérbole ao dizer que é insuportável
+BNCC: EF67LP38.
+
+a\) Correta. A pessoa utiliza uma hipérbole ao dizer que é insuportável
 viajar nos ônibus daquela linha, pois são pequenos e sem ar.
-
-Justificativas:
 
 b\) Incorreta. Metáfora é uma comparação, o que não ocorre no
 comentário.
@@ -4381,12 +4356,6 @@ há um termo específico para designar um conceito.
 d\) Incorreta. Personificação é o ato de dar características humanas a
 seres e objetos inanimados.
 
-Saeb: Analisar o uso de figuras de linguagem como estratégia
-argumentativa.
-
-BNCC: EF67LP38
-
-Nível: fácil
 
 \num{5} Leia o texto a seguir.
 
@@ -4420,10 +4389,10 @@ c\) incontestável.
 
 d\) insustentável.
 
-Resposta: a. Imprescindível quer dizer que o SUS é absolutamente
-necessário, ou seja, indispensável.
+BNCC: EF67LP04.
 
-Justificativas:
+a\) Imprescindível quer dizer que o SUS é absolutamente
+necessário, ou seja, indispensável.
 
 b\) Incorreta. Irrecusável é a característica do que não se pode
 recusar, o que não é o caso do SUS no contexto.
@@ -4434,11 +4403,6 @@ o que não é o caso do SUS no contexto.
 b\) Incorreta. Insustentável significa que o SUS não se manteria, não se
 sustentaria, o que não é o caso do contexto.
 
-Saeb: Inferir informações implícitas em distintos textos.
-
-BNCC: EF67LP04
-
-Nível: médio.
 
 \num{6} Leia o *jingle* da campanha de Júlio Prestes, um homem que foi
 candidato à presidência do Brasil em 1920:
@@ -4463,27 +4427,19 @@ c\) convidar seu Toninho a votar em Júlio Prestes.
 
 d\) incentivar os paulistas a votarem em Júlio Prestes.
 
-Resposta: b. A canção ressalta as qualidades do candidato, a fim de
-convencer as pessoas a votarem nele.
+BNCC: EF67LP04.
 
-Justificativas:
-
-a\. Incorreta. A canção não tem como objetivo incentivar as pessoas a
+a\) Incorreta. A canção não tem como objetivo incentivar as pessoas a
 votarem, mas sim de divulgar um candidato.
 
-c\. Incorreta. Seu Toninho é um nome que representa o eleitor de modo
+b\) Correta. A canção ressalta as qualidades do candidato, a fim de
+convencer as pessoas a votarem nele.
+
+c\) Incorreta. Seu Toninho é um nome que representa o eleitor de modo
 geral.
 
-d\. Incorreta. Apenas o candidato é paulista e não os eleitores de modo
+d\) Incorreta. Apenas o candidato é paulista e não os eleitores de modo
 geral.
-
-Saeb: Inferir informações implícitas em distintos textos.
-
-BNCC: EF67LP04
-
-Nível: Médio.
-
-Leia o texto a seguir.
 
 ![Interface gráfica do usuário, Aplicativo Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image12.png){width="4.758333333333334in"
@@ -4505,11 +4461,7 @@ c\) o que aconteceria aos planetas se o Sol se apagasse.
 
 d\) de que forma a vida na Terra seria extinta se o Sol morresse.
 
-Resposta: c. O quadrinho explica, de forma lúdica, que sem o Sol nenhum
-planeta se manteria vivo, pois estão todos os três girando em torno do
-Sol.
-
-Justificativas
+BNCC: EF69LP20.
 
 a\) Incorreta. O quadrinho não menciona o que poderia apagar o sol, e
 sim o que aconteceria aos outros astros se ele se apagasse.
@@ -4517,15 +4469,13 @@ sim o que aconteceria aos outros astros se ele se apagasse.
 b\) Incorreta. Embora o fim do Sol seja uma hipótese de extinção da vida
 na Terra, a temática do quadrinho são as consequências do apagão do Sol.
 
+c\) Correta. O quadrinho explica, de forma lúdica, que sem o Sol nenhum
+planeta se manteria vivo, pois estão todos os três girando em torno do
+Sol.
+
 d\) Incorreta. A extinção da vida na Terra poderia ser causada pelo
 apagão do sol, mas não é a única hipótese.
 
-Saeb: Identificar elementos constitutivos de gêneros de divulgação
-científica.
-
-BNCC: EF69LP20
-
-Nível: difícil.
 
 \num{7} Observe o infográfico a seguir.
 
@@ -4547,16 +4497,16 @@ c\) alunos de escolas públicas.
 
 d\) adultos e idosos.
 
-Resposta: b. O infográfico apresenta imagens com traços leves e lúdicos,
+BNCC: EF69LP16.
+
+a\) Incorreta. O texto pode ser consumido por adultos, mas não é o
+público-alvo.
+
+b\) O infográfico apresenta imagens com traços leves e lúdicos,
 bem como uma fonte semelhante à letra cursiva. Esse tipo de imagem é
 mais comum em meios infanto-juvenis. Além disso, os textos são claros e
 dão pistas de que são destinados à pessoas mais vulneráveis, que
 precisam do apoio de um adulto, por exemplo.
-
-Justificativas:
-
-a\) Incorreta. O texto pode ser consumido por adultos, mas não é o
-público-alvo.
 
 c\) Incorreta. Qualquer jovem ou criança é o público do texto, não
 especificamente alunos de escolas públicas.
@@ -4565,12 +4515,6 @@ d\) Incorreta. A linguagem usada para alcançar adultos e idosos poderia
 ser mais formal e apresentar outros tipos de imagem, mais densas, por
 exemplo.
 
-Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
-construção de textos jornalísticos/midiáticos.
-
-BNCC: EF69LP16
-
-Nível: médio.
 
 \num{8} Leia o texto a seguir.
 
@@ -4600,11 +4544,7 @@ c\) paráfrase.
 
 d\) citação de citação.
 
-Resposta: c. Chapeuzinho Amarelo é a história de Chapeuzinho Vermelho
-recontada sob a perspectiva de Chico Buarque, portanto, pode-se dizer
-que é uma paráfrase.
-
-Justificativas:
+BNCC: EF69LP43.
 
 a\) Incorreta. O autor não apresenta em sua obra trechos da obra
 original Chapeuzinho Vermelho.
@@ -4612,15 +4552,16 @@ original Chapeuzinho Vermelho.
 b\) Incorreta. O autor não faz menção à obra original conhecida,
 Chapeuzinho Vermelho.
 
+c\) Correta. Chapeuzinho Amarelo é a história de Chapeuzinho Vermelho
+recontada sob a perspectiva de Chico Buarque, portanto, pode-se dizer
+que é uma paráfrase.
+
 d\) Incorreta. A história Chapeuzinho Amarelo não cita de nenhuma forma
 a obra original conhecida, Chapeuzinho Vermelho.
 
 Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
 
-BNCC: EF69LP43
-
-Nível: médio.
 
 \num{9} Leia o texto a seguir.
 
@@ -4655,22 +4596,17 @@ c\) \... a veterana que adora ler e continua lendo de tudo.
 
 d\) \... a autora foi reconhecida com diversos prêmios como o Jabuti.
 
-Resposta: b. Neste trecho fica implícito que o fato de o professor ser
-importante é uma opinião da autora.
-
-Justificativas:
+BNCC: EF67LP04.
 
 a\) Incorreta. O trecho representa uma verdade, segundo a especialista.
+
+b\) Correta. Neste trecho fica implícito que o fato de o professor ser
+importante é uma opinião da autora.
 
 c\) Incorreta. O trecho apresenta um fato sobre a autora.
 
 d\) Incorreta. O trecho apresenta um fato sobre a autora.
 
-Saeb: Distinguir fatos de opiniões em textos.
-
-Bncc: EF67LP04
-
-Nível: difícil
 
 \num{10}
 
@@ -4697,11 +4633,11 @@ lobo.
 d\) fazer com que o leitor pense tanto no lobo quando a Chapeuzinho
 Amarelo.
 
-Resposta: a. O lobo que aparece neste trecho o um lobo presente na
+BNCC: EF67LP27.
+
+a\) Correta. O lobo que aparece neste trecho o um lobo presente na
 memória coletiva, consagrado pela história da Chapeuzinho Vermelho, o
 que se justifica pela descrição do animal.
-
-Justificativas:
 
 b\) Incorreta. A ideia não era reforçar o animal em que ela estava
 pensando, e sim especificá-lo.
@@ -4712,12 +4648,6 @@ provocar humor com essa figura de som.
 d\) Incorreta. A ideia é fazer com que o leitor pense no lobo em que ela
 estava pensando, ou seja, o da Chapeuzinho Vermelho.
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
-literário.
-
-BNCC: EF67LP27
-
-Nível: difícil
 
 \num{11} Observe a propaganda a seguir.
 
@@ -4738,28 +4668,21 @@ c\) uma hipérbole.
 
 d\) uma personificação.
 
-Resposta: b. A campanha utiliza-se de um eufemismo, por meio da junção
-do recurso visual da cova (sentido literal) com o verbo enterrar
-(sentido conotativo), para dar o sentido de humor e argumentar contra o
-discurso de ódio.
-
-Justificativas:
+BNCC: EF67LP38.
 
 a\) Incorreta. A metáfora é uma comparação implícita entre duas coisas
 que têm características em comum.
+
+b\) Correta. A campanha utiliza-se de um eufemismo, por meio da junção
+do recurso visual da cova (sentido literal) com o verbo enterrar
+(sentido conotativo), para dar o sentido de humor e argumentar contra o
+discurso de ódio.
 
 c\) Incorreta. A hipérbole é um exagero proposital para enfatizar uma
 ideia ou emoção.
 
 d\) Incorreta. A personificação é a atribuição de características
 humanas a seres inanimados ou animais.
-
-Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
-diferentes gêneros.
-
-BNCC: EF67LP38
-
-Nível: difícil.
 
 \num{12} Leia um trecho da crônica "A bola!", de Mário Prata.
 
@@ -4791,28 +4714,22 @@ c\) social.
 
 d\) estilístico.
 
-Resposta: b. As variações históricas tratam das mudanças ocorridas na
+BNCC: EF69LP55.
+
+a\) Incorreta. As variações culturais ocorrem de acordo com a cultura
+dos falantes, e muitas vezes estão relacionadas a aspectos geográficos.
+
+b\) Correta. As variações históricas tratam das mudanças ocorridas na
 língua com o decorrer do tempo. O texto nitidamente foi escrito décadas
 atrás, o que se pode notar pelo uso de palavras já ultrapassadas, como
 tasca, e a menção ao programa Roda Viva no presente, como se ainda
 existisse.
-
-Justificativas:
-
-a\) Incorreta. As variações culturais ocorrem de acordo com a cultura
-dos falantes, e muitas vezes estão relacionadas a aspectos geográficos.
 
 c\) Incorreta. As variações sociais são as diferenças de acordo com o
 grupo social do falante, como profissão, faixa etária, entre outros.
 
 d\) Incorreta. As variações estilísticas remetem ao contexto que exige a
 adaptação da fala ou ao estilo dela.
-
-Saeb: Analisar as variedades linguísticas em textos.
-
-BNCC: EF69LP55
-
-Nível: médio.
 
 \num{13} Leia o texto a seguir.
 
@@ -4826,18 +4743,15 @@ height="4.3141021434820646in"}
 Considerando o pronome "seu" no título da campanha, qual é o público
 alvo da campanha?
 
-a\) Pediatras
+a\) Pediatras.
 
-b\) Público de modo geral
+b\) Público de modo geral.
 
-c\) Crianças em idade de Vacinação
+c\) Crianças em idade de Vacinação.
 
-d\) Pais e responsáveis de crianças em idade de vacinação
+d\) Pais e responsáveis de crianças em idade de vacinação.
 
-Resposta: D. "Seu" é um pronome possessivo que se refere aos filhos das
-pessoas às quais a campanha é dirigida
-
-Justificativas:
+Habilidade: EF06LP12.
 
 a\) Incorreta. Embora as crianças sejam os pacientes de pediatras, a
 campanha deixa claro que não se referem a "seus pacientes", mas sim
@@ -4849,11 +4763,9 @@ filhos.
 c\) Incorreta. Embora a vacina se destine às crianças, a campanha se
 dirige aos seus pais.
 
-Saeb: Analisar os processos de referenciação lexical e pronominal.
+d\) "Seu" é um pronome possessivo que se refere aos filhos das
+pessoas às quais a campanha é dirigida
 
-Habilidade: EF06LP12
-
-Nível: fácil
 
 \num{14}
 
@@ -4879,50 +4791,44 @@ históricos do século 19 como seres humanos, que é o que eles realmente
 eram. Da mesma forma como nós temos a nossa vida hoje, eles tiveram a
 vida deles no passado", diz Valdirene Ambiel.
 
-**(Escobar, Herton. Cara a cara com a família imperial: pesquisa simula
+(Escobar, Herton. Cara a cara com a família imperial: pesquisa simula
 rostos de D. Pedro I e suas esposas. Jornal da USP, publicado em
 07/03/2023. Atualizado em 10/03/2023. Disponível em
 <https://jornal.usp.br/ciencias/cara-a-cara-com-a-familia-imperial-pesquisa-simula-rostos-de-d-pedro-i-e-suas-esposas/>.
-Acesso em 14/03/2023. Adaptado.)**
+Acesso em 14/03/2023. Adaptado.)
 
-**A pesquisadora justifica sua pesquisa a partir do argumento de que**
+A pesquisadora justifica sua pesquisa a partir do argumento de que
 
-**a) as pessoas não têm noção de como eram os membros da família Real.**
+a\) as pessoas não têm noção de como eram os membros da família Real.
 
-**b) as pessoas não acreditam na existência da família Real.**
+b\) as pessoas não acreditam na existência da família Real.
 
-**c) é importante examinar, pela primeira vez, os restos mortais dos
-primeiros imperadores do Brasil.**
+c\) é importante examinar, pela primeira vez, os restos mortais dos
+primeiros imperadores do Brasil.
 
-**d) é importante saber que as pessoas da família Real tinham vida como
-nós temos hoje em dia.**
+d\) é importante saber que as pessoas da família Real tinham vida como
+nós temos hoje em dia.
 
-**Resposta: d. Segundo a pesquisadora, o principal legado da pesquisa é
+BNCC: EF67LP05.
+
+a\) Incorreta. O texto não deixa claro o conhecimento das pessoas em
+geral sobre a aparência da família Real, porém, não é isso que a
+pesquisadora usa para justificar a pesquisa.
+
+b\) Incorreta. Em nenhum momento o texto menciona que pessoas não
+acreditam na existência da família Real.
+
+c\) Incorreta. A pesquisadora examinou os restos mortais dos membros da
+família Real no intuito de desenvolver sua pesquisa, e não porque é
+importante fazer isso.
+
+d\) Correta. Segundo a pesquisadora, o principal legado da pesquisa é
 fazer com que esses personagens históricos do século 19 sejam vistos
 como pessoas como nós, o que realmente eram, e que tinham a vida deles
-no passado.**
+no passado.
 
-**Justificativas:**
 
-**a) Incorreta. O texto não deixa claro o conhecimento das pessoas em
-geral sobre a aparência da família Real, porém, não é isso que a
-pesquisadora usa para justificar a pesquisa.**
-
-**b) Incorreta. Em nenhum momento o texto menciona que pessoas não
-acreditam na existência da família Real.**
-
-**c) Incorreta. A pesquisadora examinou os restos mortais dos membros da
-família Real no intuito de desenvolver sua pesquisa, e não porque é
-importante fazer isso.**
-
-**Saeb: Identificar teses, opiniões, posicionamentos explícitos e
-argumentos em textos.**
-
-**BNCC:** EF67LP05
-
-**Nível: médio**
-
-**15.**
+15.
 
 ![Uma imagem contendo Interface gráfica do usuário Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image37.png){width="5.905555555555556in"
@@ -4944,10 +4850,10 @@ c\) riscos ao planeta.
 
 d\) dicas de ecologia.
 
-Resposta: a. O infográfico traz dicas de consumo consciente de modo
-geral, que impactam no bem-estar de todos no planeta.
+BNCC: EF69LP02.
 
-Justificativas:
+a\) Correta. O infográfico traz dicas de consumo consciente de modo
+geral, que impactam no bem-estar de todos no planeta.
 
 b\) Incorreta. O infográfico traz dicas variadas de como zelar pelo
 planeta, e não por florestas especificamente.
@@ -4959,12 +4865,7 @@ consciente.
 d\) Incorreta. O infográfico não fala apenas de ecologia, e sim de
 consumo consciente.
 
-**Saeb:** Analisar a relação temática entre diferentes gêneros
-jornalísticos.
 
-**BNCC:** EF69LP02
-
-**Nível: fácil**
 
 # Simulado 2
 
