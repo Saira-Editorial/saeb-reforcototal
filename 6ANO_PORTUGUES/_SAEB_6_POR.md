@@ -2740,51 +2740,16 @@ ficar parados diante dos dados apresentados sobre o trabalho infantil.
 # MÓDULO 8 
 
   Os modalizadores do discurso em nosso dia a dia
+  
+  Habilidades do SAEB
+  - Identificar os recursos de modalização em textos diversos.
+  - Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais com base no gênero textual e na intenção comunicativa.
+- Analisar os efeitos de sentido produzidos pelo uso de modalizadores em textos diversos.
 
-+----------------------------------+----------------------------------+
-| SAEB                             | BNCC                             |
-+==================================+==================================+
-| \- Identificar os recursos de    | EF69LP04: Identificar e analisar |
-| modalização em textos diversos.  | os efeitos de sentido que        |
-|                                  | fortalecem a persuasão nos       |
-| \- Analisar os efeitos de        | textos publicitários,            |
-| sentido dos tempos, modos e/ou   | relacionando as estratégias de   |
-| vozes verbais com base no gênero | persuasão e apelo ao consumo com |
-| textual e na intenção            | os recursos                      |
-| comunicativa.                    | linguístico-discursivos          |
-|                                  | utilizados, como imagens, tempo  |
-| \- Analisar os efeitos de        | verbal, jogos de palavras,       |
-| sentido produzidos pelo uso de   | figuras de linguagem etc., com   |
-| modalizadores em textos          | vistas a fomentar práticas de    |
-| diversos.                        | consumo conscientes.             |
-|                                  |                                  |
-|                                  | EF69LP28: Observar os mecanismos |
-|                                  | de modalização adequados aos     |
-|                                  | textos jurídicos, as modalidades |
-|                                  | deônticas, que se referem ao     |
-|                                  | eixo da conduta                  |
-|                                  | (o                               |
-|                                  | brigatoriedade/permissibilidade) |
-|                                  | como, por exemplo: Proibição:    |
-|                                  | "Não se deve fumar em recintos   |
-|                                  | fechados."; Obrigatoriedade: "A  |
-|                                  | vida tem que valer a pena.";     |
-|                                  | Possibilidade: "É permitido a    |
-|                                  | entrada de menores acompanhados  |
-|                                  | de adultos responsáveis", e os   |
-|                                  | mecanismos de modalização        |
-|                                  | adequados aos textos políticos e |
-|                                  | propositivos, as modalidades     |
-|                                  | apreciativas, em que o locutor   |
-|                                  | exprime um juízo de valor        |
-|                                  | (positivo ou negativo) acerca do |
-|                                  | que enuncia. Por exemplo: "Que   |
-|                                  | belo discurso!", "Discordo das   |
-|                                  | escolhas de Antônio."            |
-|                                  | "Felizmente, o buraco ainda não  |
-|                                  | causou acidentes mais graves."   |
-+----------------------------------+----------------------------------+
+Habilidades da BNCC: EF69LP04 e EF69LP28.
+  
 
+\conteudo{
 O modalizador é uma palavra ou expressão por meio do qual o enunciador
 revela seu posicionamento em uma situação comunicativa. De forma
 implícita ou explícita, em textos de impacto social é frequente que os
@@ -2793,16 +2758,7 @@ a compreender o que é dito por ele. Em outras palavras, o modalizador
 modifica a maneira de como dizemos/escrevemos as ideias.
 
 Podem ser empregados como modalizadores adjetivos, advérbios, modos
-verbais como o imperativo, locuções verbais etc.
-
-Dica para o professor:
-
-Professor, o estudo de modalizadores discursivos não é tão simples para
-muitos estudantes, uma vez que a interpretação de informações implícitas
-em textos algumas vezes pode parecer subjetiva. Portanto, nos exercícios
-que seguem vamos destrinchar o estudo de modalizadores no intuito de
-desenvolver habilidades de identificação e efeito de sentido nas frases,
-com particular atenção a textos de impacto social.
+verbais como o imperativo, locuções verbais etc.}
 
 \num{1} Leia as frases a seguir e classifique o posicionamento do enunciador
 quanto à **possibilidade**, **certeza** ou **obrigatoriedade**.
@@ -2828,34 +2784,21 @@ g\. É proibido fumar neste lugar.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 h\. Não é permitido entrar com animais neste
 estabelecimento.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Respostas:
-
+\coment{
 a\. É indiscutivelmente possível viajar para qualquer lugar do mundo
 tendo bastante dinheiro. certeza
-
 b\. Peça para sua mãe deixar você dormir na minha casa.
 obrigatoriedade/possibilidade
-
 c\. Talvez eu vá ao jogo sexta-feira. possibilidade
-
 d\. Compre em até 10x sem juros. obrigatoriedade/possibilidade
-
 e\. Não tenho certeza se vou à festa amanhã. possibilidade
-
 f\. Se eu conseguir chegar a tempo, vou à sua casa ainda hoje.
 possibilidade
-
 g\. É proibido fumar neste lugar. certeza
+h\. Não é permitido entrar com animais neste estabelecimento. certeza}
 
-h\. Não é permitido entrar com animais neste estabelecimento. certeza
 
-Dica para o professor: Neste exercício o objetivo é que os alunos
-percebam o posicionamento sem analisar a fundo contextos. Algumas
-expressões podem ter uma dupla interpretação. Sendo assim, considere
-correta ambas as respostas e explique em que contextos pode ocorrer uma
-ou outra.
-
-Leia a resenha crítica do filme "Yesterday", para responder às questões
+Leia a resenha crítica do filme "Yesterday" para responder às questões
 2 a 8.
 
 E se em um universo alternativo os Beatles nunca tivessem existido? Se
@@ -2894,31 +2837,39 @@ Acesso em: mar. 2023. Adaptado.)
 discurso uma mesma conjunção, porém em algumas ocorrências distintas.
 Qual é esse modalizador e que intenção ele representa?
 
-Resposta: O modalizador utilizado é a conjunção "se", que, em todas as
-ocorrências do parágrafo, indicam uma condição.
+\linhas{4}
+
+\coment{O modalizador utilizado é a conjunção "se", que, em todas as
+ocorrências do parágrafo, indicam uma condição.}
 
 \num{3} No segundo parágrafo, o autor da resenha crítica apresenta sua
 opinião sobre a história. Em qual trecho isso aparece e qual termo ele
 utiliza para fazer um julgamento de valor?
 
-Resposta: O trecho em que ele deixa claro seu posicionamento é "A
+\linhas{6}
+
+\coment{O trecho em que ele deixa claro seu posicionamento é "A
 história é um tanto simplista, mas tem sua beleza.". O termo que ele
 utiliza para deixar explícito esse julgamento de valor é o adjetivo
-"simplista".
+"simplista".}
 
 \num{4} Ainda no segundo parágrafo, no trecho "clichê, mas aceitável", ele
 demostra outro julgamento de valor. A quem ele se refere?
 
-Resposta: Ele se refere ao fato de a personagem ser um músico amador em
-busca do sucesso.
+\linhas{3}
+
+\coment{Ele se refere ao fato de a personagem ser um músico amador em
+busca do sucesso.}
 
 \num{5} No segundo parágrafo, o resenhista informa que o músico da história
 acorda no hospital "em um mundo **muito estranho**". Isso é uma opinião
 do autor ou uma verdade que aparece no filme? O que justifica a escolha
 desse adjetivo pelo autor?
 
-Resposta: Isso é uma opinião do autor, porque, para ele, é muito
-estranho um mundo em que as pessoas não conheçam os Beatles.
+\linhas{4}
+
+\coment{Isso é uma opinião do autor, porque, para ele, é muito
+estranho um mundo em que as pessoas não conheçam os Beatles.}
 
 \num{6} Releia o início do terceiro parágrafo do texto:
 
@@ -2935,11 +2886,11 @@ Identifique, neste trecho, o que são fatos apresentados no filme e o que
   ---------------- ------------------
                    
 
-Resposta:
+\coment{
 
   FATOS DO FILME                                                                                                                                                                                 OPINIÃO DO AUTOR
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------
-  Apresenta canções conhecidas, desencontros e encontros improváveis, filme que caminha na forma clássica das comédias românticas, filme que embala, diverte e rende conversas no pós-crédito.   Canções assobiáveis há décadas, encontros e desencontros improváveis, mas tocantes; vontade de dar spoiler quase incontornável; o filme rende conversas animadas no pós-crédito.
+  Apresenta canções conhecidas, desencontros e encontros improváveis, filme que caminha na forma clássica das comédias românticas, filme que embala, diverte e rende conversas no pós-crédito.   Canções assobiáveis há décadas, encontros e desencontros improváveis, mas tocantes; vontade de dar spoiler quase incontornável; o filme rende conversas animadas no pós-crédito.}
 
 \num{7} Analise as frases extraídas do texto. Depois, analise o modalizador
 em destaque e classifique-o quanto a ser uma condição ou uma certeza.
@@ -2964,15 +2915,11 @@ d\) **[Não precisamos]{.underline}** disso.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Respostas:
-
+\coment{
 a\) se = condição; de fato = certeza
-
 b\) exato = certeza
-
 c\) quase = condição; incontornável = certeza
-
-d\) Não precisamos = certeza.
+d\) Não precisamos = certeza.}
 
 Leia a campanha de incentivo à leitura, a seguir, para responder às
 questões 8 a 10.
@@ -2987,13 +2934,17 @@ height="3.038461286089239in"}
 \num{8} O tempo verbal predominante na campanha é o imperativo afirmativo.
 Qual é a intenção comunicativa do texto?
 
-Resposta: A intenção é convencer o leitor a adotar a ideia da campanha,
-que é esquecer um livro em lugares públicos.
+\linhas{3}
+
+\coment{A intenção é convencer o leitor a adotar a ideia da campanha,
+que é esquecer um livro em lugares públicos.}
 
 \num{9} O verbo "realizada" qualifica um termo que o precede. Que termo é
 esse?
 
-Resposta: O termo é "ação".
+\linhas{2}
+
+\coment{O termo é "ação".}
 
 \num{10} Analise a frase:
 
@@ -3001,8 +2952,10 @@ Resposta: O termo é "ação".
 
 Qual é o objetivo do uso desse modalizador nesta frase?
 
-Resposta: O objetivo é reforçar, afirmar, que pessoas do Brasil inteiro
-estão aderindo à campanha.
+\linhas{4}
+
+\coment{O objetivo é reforçar, afirmar, que pessoas do Brasil inteiro
+estão aderindo à campanha.}
 
 \colorsec{Treino}
 
@@ -3023,26 +2976,20 @@ c\) condição.
 
 d\) possibilidade.
 
-Resposta: b. Embora seja um advérbio de negação, enquanto modalizador do
-discurso ele funciona como um reforço de certeza, afirmação, no
-enunciado de que Bullying não é legal.
-
-Justificativas:
+BNCC: EF69LP04.
 
 a\) Incorreta. O advérbio de negação, aqui, não nega o posicionamento do
 enunciador da campanha, pelo contrário, ele o afirma.
+
+b\) Correta. Embora seja um advérbio de negação, enquanto modalizador do
+discurso ele funciona como um reforço de certeza, afirmação, no
+enunciado de que Bullying não é legal.
 
 c\) Incorreta. Não existe uma condição para que o enunciador considere o
 bullying legal ou não.
 
 d\) Incorreta. Não é uma possibilidade o bullying ser ou não legal.
 
-Saeb: Analisar os efeitos de sentido produzidos pelo uso de
-modalizadores em textos diversos.
-
-BNCC: EF69LP04
-
-Nível: fácil
 
 \num{2} Leia o trecho a seguir.
 
@@ -3087,10 +3034,7 @@ dali adiante.
 d\) apresentar em primeiro lugar o que ele pensa sobre um outro assunto,
 antes de voltar ao tema do texto.
 
-Resposta: c. demonstrar ao leitor que irá começar a apresentar seu
-posicionamento dali adiante.
-
-Justificativas:
+BNCC: EF69LP04.
 
 a\) Incorreta. O especialista coloca apenas um posicionamento: ele é a
 favor da proibição em alguns casos.
@@ -3098,15 +3042,12 @@ favor da proibição em alguns casos.
 b\) Incorreta. O especialista não se contradiz. Ele é contraditório à
 proibição dos jogos.
 
+c\) demonstrar ao leitor que irá começar a apresentar seu
+posicionamento dali adiante.
+
 d\) Incorreta. O especialista fala apenas sobre um assunto: ele é contra
 a proibição, e justifica seu posicionamento.
 
-Saeb: Analisar os efeitos de sentido produzidos pelo uso de
-modalizadores em textos diversos.
-
-BNCC: EF69LP04
-
-Nível: médio
 
 \num{3} "Em princípio, eu sou contra proibições, pois elas vão contra a
 liberdade das pessoas. A gente deveria conscientizá-las", afirma. Se o
@@ -3121,12 +3062,12 @@ c\) permissão.
 
 d\) dúvida.
 
-Resposta: a. Ao trocar o verbo "deveria", que exprime uma
+BNCC: EF69LP04.
+
+a\) Correta. Ao trocar o verbo "deveria", que exprime uma
 obrigatoriedade, por "poderia", a frase toma o sentido de condição, ou
 seja, poderiam ou não ser conscientizadas a depender de alguma
 circunstância.
-
-Justificativas:
 
 b\) Incorreta. O verbo "poderia" exprime possibilidade mediante
 condição. O verbo "dever" já está representando obrigatoriedade.
@@ -3138,64 +3079,18 @@ pessoas?"
 d\) Incorreta. O verbo "poderia" não exprime dúvida, exceto se no caso
 de pergunta. Por exemplo: "Eu poderia conscientizar as pessoas?"
 
-Saeb: Analisar os efeitos de sentido produzidos pelo uso de
-modalizadores em textos diversos.
 
-BNCC: EF69LP04
-
-Nível: difícil
 
 # MÓDULO 9 
 
   As figuras de linguagem
+  - Analisar o uso de figuras de linguagem como estratégia argumentativa.
+- Avaliar a eficácia das estratégias argumentativas em textos de diferentes gêneros.
 
-+----------------------------------+----------------------------------+
-| SAEB                             | BNCC                             |
-+==================================+==================================+
-| \- Analisar o uso de figuras de  | EF69LP17: Perceber e analisar os |
-| linguagem como estratégia        | recursos estilísticos e          |
-| argumentativa.                   | semióticos dos gêneros           |
-|                                  | jornalísticos e publicitários,   |
-| \- Avaliar a eficácia das        | os aspectos relativos ao         |
-| estratégias argumentativas em    | tratamento da informação em      |
-| textos de diferentes gêneros.    | notícias, como a ordenação dos   |
-|                                  | eventos, as escolhas lexicais, o |
-|                                  | efeito de imparcialidade do      |
-|                                  | relato, a morfologia do verbo,   |
-|                                  | em textos noticiosos e           |
-|                                  | argumentativos, reconhecendo     |
-|                                  | marcas de pessoa, número, tempo, |
-|                                  | modo, a distribuição dos verbos  |
-|                                  | nos gêneros textuais (por        |
-|                                  | exemplo, as formas de pretérito  |
-|                                  | em relatos; as formas de         |
-|                                  | presente e futuro em gêneros     |
-|                                  | argumentativos; as formas de     |
-|                                  | imperativo em gêneros            |
-|                                  | publicitários), o uso de         |
-|                                  | recursos persuasivos em textos   |
-|                                  | argumentativos diversos (como a  |
-|                                  | elaboração do título, escolhas   |
-|                                  | lexicais, construções            |
-|                                  | metafóricas, a explicitação ou a |
-|                                  | ocultação de fontes de           |
-|                                  | informação) e as estratégias de  |
-|                                  | persuasão e apelo ao consumo com |
-|                                  | os recursos                      |
-|                                  | linguístico-discursivos          |
-|                                  | utilizados (tempo verbal, jogos  |
-|                                  | de palavras, metáforas,          |
-|                                  | imagens).                        |
-|                                  |                                  |
-|                                  | EF67LP38: Analisar os efeitos de |
-|                                  | sentido do uso de figuras de     |
-|                                  | linguagem, como comparação,      |
-|                                  | metáfora, metonímia,             |
-|                                  | personificação, hipérbole,       |
-|                                  | dentre outras.                   |
-+----------------------------------+----------------------------------+
+Habilidades da BNCC: EF69LP17 e EF67LP38.
+  
 
-Figuras de linguagem são recursos utilizados para expressar ideias e
+\conteudo{Figuras de linguagem são recursos utilizados para expressar ideias e
 emoções de forma mais intensa, criativa e poética. São usadas para
 enriquecer o discurso, tornando-o mais expressivo e marcante.
 
@@ -3236,18 +3131,7 @@ sugerir acusticamente algum elemento, ato, fenômeno;
 
 **Pleonasmo:** é uma figura de linguagem que expressa a redundância.
 
-**Dica para o professor:**
-
-As figuras de linguagem estão mais presentes no dia a dia dos estudantes
-do que eles se dão conta. Aqui, vamos estudar alguns textos de
-circulação social de gêneros mais canônicos, contudo, sugere-se trazer
-exemplos de materiais multimidiáticos que de impacto social.
-
-A depender do tempo disponibilizado para trabalhar este conteúdo e das
-necessidades da turma, conduza mais explicações relacionadas às demais
-figuras de linguagem não citadas nesta lista.
-
-Ainda, enquanto estratégias argumentativas, explique que as figuras de
+As figuras de
 linguagem são usadas para:
 
 **Tornar a mensagem mais expressiva**: podem tornar a mensagem mais
@@ -3271,7 +3155,7 @@ de forma mais vívida e intensa.
 
 **Criar identificação:** a metonímia, por exemplo, é usada para criar
 identificação entre a mensagem e o contexto em que ela está sendo
-utilizada, tornando-a mais pessoal e próxima do leitor ou ouvinte.
+utilizada, tornando-a mais pessoal e próxima do leitor ou ouvinte.}
 
 Leia o texto a seguir para responder às questões 1 a 4.
 
@@ -3281,21 +3165,30 @@ height="5.689394138232721in"}
 
 \num{1} Qual é o objetivo da campanha?
 
-Resposta: O objetivo é incentivar as pessoas a doarem sangue.
+\linhas {2}
+
+\coment{O objetivo é incentivar as pessoas a doarem sangue.}
 
 \num{2} Que recursos a campanha utiliza para argumentar a favor dessa ideia?
 
-Resposta: A campanha compara o sangue doado a um presente.
+\linhas{2}
+
+\coment{A campanha compara o sangue doado a um presente.}
 
 \num{3} Qual a importância da imagem utilizada na campanha?
 
-Resposta: A imagem é um cartãozinho de "de -- para" na forma de uma gota
+\linhas{4}
+
+\coment{A imagem é um cartãozinho de "de -- para" na forma de uma gota
 de sangue. Ela complementa o texto no que diz respeito ao apelo visual
-da campanha.
+da campanha.}
 
 \num{4} Que figura de linguagem predomina na propaganda?
 
-Resposta: A metáfora é a figura predominante na campanha.
+\linhas{2}
+
+\coment{A metáfora é a figura predominante na campanha.}
+
 
 Leia a tirinha a seguir e responda às questões 5 a 8.
 
@@ -3309,27 +3202,35 @@ WESLEY. As crônicas de Wesley. Disponível em:
 \num{5} Em "Acha que vamos vencer o interclasse este ano?", qual é a figura
 de linguagem presente? O que a fala da personagem significa?
 
-Resposta: A figura de linguagem presente é a metonímia, ou seja, quando
+\linhas{5}
+
+\coment{A figura de linguagem presente é a metonímia, ou seja, quando
 há substituição da parte pelo todo. O menino substitui a palavra
-"campeonato" pelo nome, "interclasse".
+"campeonato" pelo nome, "interclasse".}
 
 \num{6} Em "Já sinto o cheiro da vitória!", qual é a figura de linguagem
 presente? O que a fala da personagem significa?
 
-Resposta: A figura de linguagem presente é a sinestesia. A personagem
-quis dizer que ele pressentia que iriam vencer o campeonato.
+\linhas{4}
+
+\coment{A figura de linguagem presente é a sinestesia. A personagem
+quis dizer que ele pressentia que iriam vencer o campeonato.}
 
 \num{7} Em qual momento da história é possível identificar o efeito de humor
 da tirinha? Quais recursos são usados para que isso aconteça?
 
-Resposta: No terceiro quadrinho, quando a personagem, cheira a própria
+\linhas{5}
+
+\coment{No terceiro quadrinho, quando a personagem, cheira a própria
 axila. Os recursos usados são a imagem dela com o braço erguido,
-cheirando a si mesma, e a onomatopeia "snif, snif".
+cheirando a si mesma, e a onomatopeia "snif, snif".}
 
 \num{8} O que provoca o efeito de humor na tira?
 
-Resposta: O fato de a menina se chamar Vitória, e ter entendido que o
-garoto sentia o cheiro dela.
+\linhas{3}
+
+\coment{O fato de a menina se chamar Vitória, e ter entendido que o
+garoto sentia o cheiro dela.}
 
 \num{9} Assinale a alternativa que contém uma metáfora.
 
@@ -3341,16 +3242,12 @@ c\) Mariana tinha uma voz doce, delicada e macia.
 
 d\) O bebê comeu o prato todo de papinha no almoço!
 
-Resposta: b. Costuma-se utilizar o termo "batata da perna" para
-referir-se à panturrilha por comparação.
-
-Justificativas:
-
+\coment{
 a\) Incorreta. A figura de linguagem presente na frase é a gradação.
-
+b\) Correta. Costuma-se utilizar o termo "batata da perna" para
+referir-se à panturrilha por comparação.
 c\) Incorreta. A figura de linguagem presente na frase é a sinestesia.
-
-d\) Incorreta. A figura de linguagem presente na frase é a metonímia.
+d\) Incorreta. A figura de linguagem presente na frase é a metonímia.}
 
 \num{10} Leia o texto a seguir.
 
@@ -3366,10 +3263,12 @@ ninguém quer sair do mingau de fubá."
 Identifique os dois trechos em que aparecem figuras de linguagem e
 classifique-as.
 
-Resposta: No trecho, aparecem duas figuras de linguagem: personificação,
+\linhas{6}
+
+\coment{o trecho, aparecem duas figuras de linguagem: personificação,
 quando o texto diz que "a fome aperta" e "a forme abre", e gradação,
 quando se listam o que pode ser feito com o fubá: "cuscuz, broas,
-sonhos, bolos".
+sonhos, bolos".}
 
 \colorsec{Treino}
 
@@ -3395,12 +3294,12 @@ c\) pleonasmo.
 
 d\) metáfora.
 
-Resposta: b. Aliteração é a repetição de fonemas idênticos ou
-semelhantes para sugerir acusticamente algum elemento, ato, fenômeno.
-
-Justificativas:
+BNCC: EF67LP38.
 
 a\) Incorreta. Onomatopeia é a representação gráfica dos sons.
+
+b\) Correta. Aliteração é a repetição de fonemas idênticos ou
+semelhantes para sugerir acusticamente algum elemento, ato, fenômeno.
 
 c\) Incorreta. Pleonasmo é uma figura de linguagem que expressa a
 redundância.
@@ -3408,12 +3307,6 @@ redundância.
 d\) Incorreta. Metáfora é uma comparação implícita entre duas coisas que
 têm características em comum.
 
-Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
-diferentes gêneros.
-
-BNCC: EF67LP38
-
-Nível: fácil.
 
 \num{2} Observe a publicidade do Greenpeace, a seguir.
 
@@ -3432,10 +3325,10 @@ c\) uma hipérbole.
 
 d\) uma personificação.
 
-Resposta: a) A campanha argumenta comparando a mata a um tabuleiro de
-xadrez, ou seja, uma metáfora.
+BNCC: EF67LP38.
 
-Justificativas:
+a\) A campanha argumenta comparando a mata a um tabuleiro de
+xadrez, ou seja, uma metáfora.
 
 b\) Incorreta. O eufemismo utiliza-se de expressões para atenuar uma
 ideia tida como agressiva ou desagradável.
@@ -3446,12 +3339,6 @@ ideia ou emoção.
 d\) Incorreta. A personificação consiste em atribuir características
 humanas a seres e objetos inanimados.
 
-Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
-diferentes gêneros.
-
-BNCC: EF67LP38
-
-Nível: médio.
 
 \num{3} Leia um trecho de um artigo de opinião, a seguir.
 
@@ -3475,10 +3362,7 @@ c\) catacrese.
 
 d\) metonímia.
 
-Resposta: d. A criatura a que o texto se refere é o 14Bis, avião
-construído por Santos Dummont. A figura de linguagem é a metonímia.
-
-Justificativas:
+BNCC: EF67LP38.
 
 a\) Incorreta. Metáfora é uma comparação.
 
@@ -3488,12 +3372,10 @@ humanas a seres e objetos inanimados.
 c\) Incorreta. A catacrese ocorre quando uma palavra é usada de forma
 incorreta ou inapropriada, por falta de um termo mais adequado.
 
-Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
-diferentes gêneros.
+d\) A criatura a que o texto se refere é o 14Bis, avião
+construído por Santos Dummont. A figura de linguagem é a metonímia.
 
-BNCC: EF67LP38
 
-Nível: difícil.
 
 # MÓDULO 10 
 
