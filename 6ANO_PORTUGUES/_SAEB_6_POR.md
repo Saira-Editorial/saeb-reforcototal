@@ -3380,20 +3380,14 @@ construído por Santos Dummont. A figura de linguagem é a metonímia.
 # MÓDULO 10 
 
   Os pronomes em nosso dia a dia
+  
+  Habilidades do SAEB
+  - Analisar os mecanismos que contribuem para a progressão textual.
+- Analisar os processos de referenciação lexical e pronominal.
 
-+----------------------------------+----------------------------------+
-| SAEB                             | BNCC                             |
-+==================================+==================================+
-| \- Analisar os mecanismos que    | EF06LP12: Utilizar, ao produzir  |
-| contribuem para a progressão     | texto, recursos de coesão        |
-| textual.                         | referencial (nome e pronomes),   |
-|                                  | recursos semânticos de           |
-| \- Analisar os processos de      | sinonímia, antonímia e homonímia |
-| referenciação lexical e          | e mecanismos de representação de |
-| pronominal.                      | diferentes vozes (discurso       |
-|                                  | direto e indireto).              |
-+----------------------------------+----------------------------------+
-
+Habilidade da BNCC: EF06LP12.
+ 
+ \coment{
 Na língua portuguesa, sempre que vamos nos referir a um substantivo
 empregamos algumas classes de palavras capazes de dar a ele limites de
 significação. É o caso de artigos, adjetivos, numerais e pronomes.
@@ -3413,19 +3407,8 @@ que palavras diferentes apresentem semelhante ou igual campo de
 significação), **antônimos** (referem-se a termos que apresentam,
 simultaneamente, grafias e sentidos diferentes, esses, muitas vezes
 opostos entre si) e **homônimos** (palavras que trazem sentido distinto,
-embora apresentem pronúncia idêntica).
+embora apresentem pronúncia idêntica).}
 
-Dica para o professor:
-
-Professor, os exercícios propostos neste módulo visam trabalhar
-mecanismos que contribuem para a progressão textual, em especial formas
-de representação de diferentes vozes do discurso, bem como os processos
-de referenciação pronominal e lexical em textos de diferentes gêneros.
-
-Não aprofundamos aqui, na introdução, o detalhamento e a classificação
-dos pronomes, porém, sugerimos que seja dada especial atenção a este
-conteúdo, por meio da aplicação de conceitos, a depender das
-necessidades da turma.
 
 Observe a imagem a seguir e responda aos exercícios.
 
@@ -3453,16 +3436,20 @@ o que só tira nota alta
 \num{1} O texto está escrito em formato de meme. Reescreva o texto, na forma
 de discurso direto, inserindo as pontuações necessárias.
 
-Resposta: Todo grupinho da escola tem: o que faz cara de dó quando toma
+\linhas{5}
+
+\coment{Todo grupinho da escola tem: o que faz cara de dó quando toma
 bronca, o que só ri, o que sempre faz piada, o que é bonzinho de
-verdade, o desligado e o que só tira nota alta.
+verdade, o desligado e o que só tira nota alta.}
 
 \num{2} Na frase "**todo** grupinho da escola tem", qual é o efeito de
 sentido provocado pelo pronome em destaque?
 
-Resposta: "Todo" é um pronome indefinido, que traz ao texto a ideia de
+\linhas{4}
+
+\coment{"Todo" é um pronome indefinido, que traz ao texto a ideia de
 generalização: todo grupo tem um aluno com aquelas características,
-porém sem nomear um grupo específico.
+porém sem nomear um grupo específico.}
 
 \num{3} Substitua os termos destacados a seguir por um sinônimo e um
 antônimo.
@@ -3491,25 +3478,17 @@ Sinônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Antônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Respostas: Professor, algumas alternativas apresentam mais de uma
+\coment{Algumas alternativas apresentam mais de uma
 possibilidade de resposta. Sugere-se, se possível, aproveitar a
 atividade para orientar o uso de um dicionário para consulta.
-
 a\) Sinônimo: cara de piedade
-
 Antônimo: cada de sapeca
-
 b\) Sinônimo: cara de piedade
-
 Antônimo: cada de sapeca
-
 c\) Sinônimo: cortês, gentil, solidário
-
 Antônimo: malvado
-
 d\) Sinônimo: inteligente
-
-Antônimo: tira nota baixa
+Antônimo: tira nota baixa}
 
 \num{4} Um dos cachorrinhos representa um tipo de aluno considerado
 "desligado". Escreva uma frase que contenha um efeito de sentido
@@ -3522,14 +3501,11 @@ Antônimo:
 
 Sinônimo:
 
-Sugestões de respostas:
-
+\coment{Sugestões de respostas:
 Homônimo: O ventilador da sala estava desligado, por isso estava calor.
-
 Antônimo: João é muito atento à aula, sempre presta atenção à
 professora.
-
-Sinônimo: João é desatento, quase não presta atenção na professora.
+Sinônimo: João é desatento, quase não presta atenção na professora.}
 
 \num{5} Preencha corretamente as lacunas com os pronomes "eu" ou "mim".
 
@@ -3547,9 +3523,7 @@ f\) Entre tu e \_\_\_\_\_\_\_\_ há muitos assuntos para serem tratados.
 
 g\) Pode fazer aquela comida gostosa para \_\_\_\_\_\_\_\_?
 
-Respostas:
-
-a\) eu; b) mim; c) eu; d) eu; e) eu; f) eu; g) mim
+\coment{a\) eu; b) mim; c) eu; d) eu; e) eu; f) eu; g) mim}
 
 Leia um excerto da crônica "O lápis", de Mário Prata, e responda aos
 exercícios 6 a 9.
@@ -3578,26 +3552,36 @@ adequado.
 a\) Resolvi escrever um texto com letra de forma, escanear e ver se o
 computador reconhecia **o meu texto**.
 
-Resposta: Resolvi escrever um texto com letra de forma, escanear e ver
-se o computador **o** reconhecia.
+\linhas{2}
+
+\coment{Resolvi escrever um texto com letra de forma, escanear e ver
+se o computador **o** reconhecia.}
 
 b\) Para que serve saber somar ou subtrair se **as maquininhas** estão
 aí?
 
-Resposta: Para que serve saber somar ou subtrair se **elas** estão aí?
+\linhas{2}
+
+\coment{Para que serve saber somar ou subtrair se **elas** estão aí?}
 
 c\) Para que serve o curso primário?
 
-Resposta: Para que serve **ele**?
+\linhas{2}
+
+\coment{Para que serve **ele**?}
 
 d\) Não adianta o governo testar **alunos** **e professores e
 universidades.**
 
-Resposta: Não adianta o governo testá-los.
+\linhas{2}
+
+\coment{Não adianta o governo testá-los.}
 
 e\) Se não der certo, **a gente** apaga e começa de novo.
 
-Resposta: Se não der certo, **nós apagamos** **e começamos** de novo.
+\linhas{2}
+
+\coment{Se não der certo, **nós apagamos** **e começamos** de novo.}
 
 \num{7} Transforme o trecho que está em discurso direto, a seguir, para
 discurso indireto.
@@ -3606,18 +3590,20 @@ Aí, não tendo mais o que inventar para brincar, resolvi escrever um
 texto com letra de forma (por que se chama de forma?), escanear e ver se
 o computador reconhecia o meu texto.
 
-Resposta:
+\linhas{6}
 
-Aí, não tendo mais o que inventar para brincar, resolveu escrever um
+\coment{Aí, não tendo mais o que inventar para brincar, resolveu escrever um
 texto com letra de forma. Perguntou a si mesmo por que se chamava letra
-de forma. Escaneou e viu se o computador reconhecia seu texto.
+de forma. Escaneou e viu se o computador reconhecia seu texto.}
 
 \num{8} No trecho "É aqui que eu queria chegar.", a que se refere o pronome
 demonstrativo "aqui"?
 
-Resposta: Aqui não se refere a um lugar específico, e sim a um problema
+\linhas{5}
+
+\coment{Aqui não se refere a um lugar específico, e sim a um problema
 que o autor começará a relatar logo em seguida: de que não adianta o
-governo testar alunos e professores e universidades.
+governo testar alunos e professores e universidades.}
 
 \num{9} Reescreva o trecho a seguir, a fim de eliminar as repetições.
 
@@ -3625,9 +3611,11 @@ Vamos voltar ao lápis e ao dois mais dois. Vamos começar pela base.
 Vamos escrever a lápis. Mesmo porque, se não der certo, a gente apaga e
 começa de novo."
 
-Resposta: Vamos voltar ao lápis, ao dois mais dois, começar pela base e
+\linhas{5}
+
+\coment{Vamos voltar ao lápis, ao dois mais dois, começar pela base e
 escrever a lápis, porque, se não der certo, nós apagamos e começamos de
-novo.
+novo.}
 
 \num{10} Observe a propaganda sobre o desperdício de alimentos:
 
@@ -3644,11 +3632,11 @@ por outro que provoque mesmo efeito de sentido.
 
 **Quanta comida é desperdiçada no mundo?**
 
-Sugestões de resposta: Muita comida é desperdiçada no mundo.
+\linhas{2}
 
+\coment{Sugestões de resposta: Muita comida é desperdiçada no mundo.
 Tantos alimentos são desperdiçados no mundo.
-
-Tanta comida é desperdiçada no mundo.
+Tanta comida é desperdiçada no mundo.}
 
 \colorsec{Treino}
 
@@ -3684,25 +3672,20 @@ c\) à coordenadora do Campus Virtual Fiocruz apenas.
 
 d\) à campanha \#OBrasilPrecisadoSUS.
 
-Resposta: b. Os pronomes seu e sua referem-se ambos ao SUS. Contudo, há
-uma incoerência gramatical na frase.
+BNCC: EF06LP12.
 
-Justificativas:
-
-a\) Incorreto. Caso a frase fizesse referência ao SUS e à profissional,
+a\) Incorreta. Caso a frase fizesse referência ao SUS e à profissional,
 deveria estar escrita da seguinte forma: O papel do SUS na pandemia
 ressaltou ainda mais a importância da especialista.
+
+b\) Correta. Os pronomes seu e sua referem-se ambos ao SUS. Contudo, há
+uma incoerência gramatical na frase.
 
 c\) Incorreta. Os pronomes fazem referência à importância do SUS.
 
 d\) Incorreta. Os pronomes fazem referência ao último substantivo do
 qual se fala, no caso, o SUS.
 
-Saeb: Analisar os processos de referenciação lexical e pronominal.
-
-BNCC: EF06LP12
-
-Nível: médio.
 
 \num{2} Leia o texto a seguir.
 
@@ -3736,10 +3719,7 @@ c\) aos professores.
 
 d\) a alunos e professores.
 
-Resposta: d. O pronome referencia-se a alunos e professores, o que é
-reforçado pelo verbo ter na 3ª pessoa do plural.
-
-Justificativas.
+BNCC: EF06LP12
 
 a\) Incorreta. O pronome refere-se a alunos e professores.
 
@@ -3749,11 +3729,9 @@ plural. O pronome acompanha o substantivo em número.
 c\) Incorreta. O pronome refere-se a alunos e professores, todos têm que
 gostar do livro.
 
-Saeb: Analisar os processos de referenciação lexical e pronominal.
+d\) Correta. O pronome referencia-se a alunos e professores, o que é
+reforçado pelo verbo ter na 3ª pessoa do plural.
 
-BNCC: EF06LP12
-
-Nível: fácil.
 
 \num{3} Leia o texto a seguir.
 
@@ -3786,11 +3764,7 @@ c\) ele está falando de sua receita no livro.
 
 d\) ele quer que o leitor se sinta próximo à receita.
 
-Resposta: c. A reportagem é sobre o livro de receitas e o texto leva a
-crer que Ricardo é um dos personagens, que, na entrevista, está falando
-sobre sua receita presente no livro.
-
-Justificativas:
+BNCC: EF06LP12.
 
 a\) Incorreta. Não se pode afirmar que no momento da entrevista havia um
 prato feito próximo a Ricardo.
@@ -3798,35 +3772,27 @@ prato feito próximo a Ricardo.
 b\) Incorreta. O texto não informa que a receita foi patenteada por
 Ricardo ou pelo livro, pelo contrário, a ideia do livro é divulga-la.
 
+c\) A reportagem é sobre o livro de receitas e o texto leva a
+crer que Ricardo é um dos personagens, que, na entrevista, está falando
+sobre sua receita presente no livro.
+
 d\) Incorreta. Caso o intuito de Ricardo fosse fazer com que o leitor se
 sentisse próximo à receita, o pronome mais adequado seria "essa".
 
-Saeb: Analisar os processos de referenciação lexical e pronominal.
 
-BNCC: EF06LP12
-
-Nível: difícil.
 
 # MÓDULO 11 
 
   Para cada situação, uma adequação
+  
+  Habilidades do SAEB
+  - Analisar as variedades linguísticas em textos.
+- Avaliar a adequação das variedades linguísticas em contextos de uso.
 
-+----------------------------------+----------------------------------+
-| SAEB                             | BNCC                             |
-+==================================+==================================+
-| \- Analisar as variedades        | EF69LP55: Reconhecer as          |
-| linguísticas em textos.          | variedades da língua falada, o   |
-|                                  | conceito de norma-padrão e o de  |
-| \- Avaliar a adequação das       | preconceito linguístico.         |
-| variedades linguísticas em       |                                  |
-| contextos de uso.                | EF69LP56: Fazer uso consciente e |
-|                                  | reflexivo de regras e normas da  |
-|                                  | norma-padrão em situações de     |
-|                                  | fala e escrita nas quais ela     |
-|                                  | deve ser usada.                  |
-+----------------------------------+----------------------------------+
+Habilidades da BNCC: EF69LP55 e EF69LP56.
 
-Desde que começados a estudar Língua Portuguesa na escola, sabemos que
+
+\conteudo{Desde que começados a estudar Língua Portuguesa na escola, sabemos que
 existe uma norma padrão que fornece as diretrizes para o que se
 considera escrever corretamente.
 
@@ -3865,11 +3831,6 @@ coloquial, às vezes usando recursos de imagem como emojis.
 É importante ressaltar que não existe jeito certo ou errado de falar.
 Existe a maneira mais adequada para cada contexto.
 
-Dica para o professor:
-
-Professor, aproveite para conversar com a turma sobre preconceito
-linguístico:
-
 "Segundo o professor, linguista e filólogo Marcos Bagno, o maior
 pesquisador deste campo no país, o preconceito linguístico pode ser
 classificado como todo juízo de valor negativo às variedades
@@ -3886,10 +3847,7 @@ também a regionalidades e sotaques.
 Ainda segundo Bagno, a maior referência literária nacional sobre o
 assunto, o preconceito linguístico é reforçado por construções sociais
 ideológicas." (Fonte:
-<https://ead.uri.br/blog/preconceito-linguistico>.)
-
-Informe aos estudantes que nosso país é diverso e que todas as pessoas
-devem ser respeitadas, independentemente da maneira como falam.
+<https://ead.uri.br/blog/preconceito-linguistico>.)}
 
 Leia a tirinha a seguir.
 
@@ -3903,22 +3861,28 @@ em: mar. 2023.
 
 \num{1} Qual é a linguagem utilizada na tirinha?
 
-Resposta: A tirinha está escrita em linguagem informal ou coloquial.
+\linhas {2}
+
+\coment{A tirinha está escrita em linguagem informal ou coloquial.}
 
 \num{2} Que tipo de variação linguística ocorre na fala da lua, no terceiro
 quadrinho? Reescreva a fala, substituindo o termo "daora" por um
 sinônimo.
 
-Resposta: O termo "daora" é uma gíria. Ele poderia ser substituído por
+\linhas{6}
+
+\coment{O termo "daora" é uma gíria. Ele poderia ser substituído por
 "legal", "demais", "muito bom", entre outros. Professor, aqui, atente-se
 às variações regionais dos alunos, pois esse termo pode sofrer
-influência de regionalismo.
+influência de regionalismo.}
 
 \num{3} Qual é o efeito de humor da tira?
 
-Resposta: O fato de a Terra dizer que é raro um meteoro não se desfazer
+\linhas{4}
+
+\coment{O fato de a Terra dizer que é raro um meteoro não se desfazer
 e, no último quadrinho, acontecer o momento em que os dinossauros são
-extintos.
+extintos.}
 
 Leia um trecho da reportagem do jornal *O Povo*, a seguir, e responda
 aos exercícios 4 e 5.
@@ -3948,7 +3912,9 @@ Acesso em: mar. 2023. Adaptado)
 \num{4} O termo "cearensidade", empregado no título da matéria, um
 neologismo que a qual tipo de variação linguística tratada no texto?
 
-Resposta: O termo refere-se ao regionalismo.
+\linhas{2}
+
+\coment{O termo refere-se ao regionalismo.}
 
 \num{5} O termo "cearencês", usado no primeiro parágrafo é um(a)
 
@@ -3960,22 +3926,15 @@ c\) coloquialismo.
 
 d\) regionalismo.
 
-Resposta: a. Gíria.
-
-O termo cearencês é uma gíria usada para representar a variação
-linguística utilizada por pessoas que nasceram ou residem no Ceará.
-
-Justificativas:
-
+\coment{
+a\) Correta. Gíria.
 b\) Incorreta. Jargão é uma frase, expressão ou palavra que define algo
 específico de um grupo profissional, social ou cultural.
-
 c\) Incorreta. Coloquialismo é o tipo de linguagem informal, do dia a
 dia, que não necessariamente obedece à norma padrão da língua.
-
 d\) Incorreta. Regionalismo é o tipo de variação linguística
 caracterizada pelo uso de termos e expressões de determinada região
-geográfica.
+geográfica.}
 
 Leia um trecho do conto "Gaetaninho", de Alcântara Machado, e responda
 às questões 6 e 7.
@@ -4011,8 +3970,10 @@ Acesso em: mar. 2023.)
 descendente de italianos. Quais elementos, neste trecho, permitem
 identificar essa característica?
 
-Resposta: O prórprio nome da personagem, Gaetaninho, e o grito da mãe em
-italiano, "Subito!".
+\linhas{4}
+
+\coment{O prórprio nome da personagem, Gaetaninho, e o grito da mãe em
+italiano, "Subito!".}
 
 \num{7} "Eta salame de mestre!" é uma expressão coloquial que, no contexto
 da história, foi usada para dizer que
@@ -4025,21 +3986,17 @@ c\) o menino driblou a mãe com perfeição.
 
 d\) o menino sabia jogar bola como um profissional.
 
-Resposta: c. Gaetaninho driblou a mãe com perfeição, conforme descrito
-no parágrafo anterior.
-
-Justificativas:
-
+\coment{
 a\) Incorreta. Ao dizer que a jogada foi muito difícil, exprime-se um
 julgamento de valor, que não vem ao caso, uma vez que a expressão faz
 referência ao parágrafo anterior.
-
 b\) Incorreta. Ao dizer que a jogada foi muito fácil, exprime-se um
 julgamento de valor, que não vem ao caso, uma vez que a expressão faz
 referência ao parágrafo anterior.
-
+c\) Correta. Gaetaninho driblou a mãe com perfeição, conforme descrito
+no parágrafo anterior.
 d\) Incorreta. O fato de driblar a mãe com perfeição não significa que
-Gaetaninho sabia jogar como um profissional.
+Gaetaninho sabia jogar como um profissional.}
 
 Observe a imagem a seguir e responda às questões 8, 9 e 10.
 
@@ -4054,22 +4011,28 @@ whatsapp usando este diálogo.
 \num{8} Considerando-se o nível de linguagem do diálogo, que tipo de
 proximidade têm as pessoas que participam dessa conversa?
 
-Resposta: O diálogo é informal, o que demonstra que as pessoas têm algum
-grau de intimidade, ou seja, são amigas.
+\linhas{4}
+
+\coment{O diálogo é informal, o que demonstra que as pessoas têm algum
+grau de intimidade, ou seja, são amigas.}
 
 \num{9} O que a primeira pessoa a falar na conversa quis dizer ao pedir que
 o amigo fosse correndo?
 
-Resposta: A pessoa quis dizer para o amigo ir logo.
+\linhas{2}
+
+\coment{A pessoa quis dizer para o amigo ir logo.}
 
 \num{10} Ainda no primeiro bloco de texto, aparece o termo "pfv". Que
 elemento auxilia o amigo a compreender o significado que essa expressão
 quis dizer?
 
-Resposta: O emoji das mãos juntas, em oração, que reforça o pedido de
-"por favor".
+\linhas{3}
 
-TREINO
+\coment{O emoji das mãos juntas, em oração, que reforça o pedido de
+"por favor".}
+
+\colorsec{Treino}
 
 \num{1} Leia o *jingle* da campanha de Júlio Prestes, um homem que foi
 candidato à presidência do Brasil em 1920:
@@ -4095,13 +4058,7 @@ c\) à época em que a música foi escrita.
 
 d\) à região geográfica do candidato à presidência.
 
-Resposta: c. A letra faz uma alusão ao contexto histórico, ou seja, à
-época, em que foi escrita. Isso pode ser percebido por "terra do leite
-grosso", que era considerada Minas Gerais, "bota cerca no caminho",
-quando a maioria das cidades ainda eram rurais, e "colosso", um termo
-que praticamente caiu em desuso nos dias de hoje.
-
-Justificativas:
+BNCC: EF69LP55.
 
 a\) Incorreta. A canção não faz menção à condição social do eleitor, até
 mesmo porque uma campanha política sempre visa alcançar a todos.
@@ -4109,14 +4066,15 @@ mesmo porque uma campanha política sempre visa alcançar a todos.
 b\) Incorreta. A canção não menciona nada sobre o contexto econômico do
 leitor ou mesmo da época de modo geral.
 
+c\) Correta. A letra faz uma alusão ao contexto histórico, ou seja, à
+época, em que foi escrita. Isso pode ser percebido por "terra do leite
+grosso", que era considerada Minas Gerais, "bota cerca no caminho",
+quando a maioria das cidades ainda eram rurais, e "colosso", um termo
+que praticamente caiu em desuso nos dias de hoje.
+
 d\) Incorreta. Embora a letra mencione algumas regiões, o candidato era
 para presidente, ou seja, alcançava todo o Brasil.
 
-Saeb: Analisar as variedades linguísticas em textos.
-
-BNCC: EF69LP55
-
-Nível: difícil.
 
 \num{2} Leia um trecho da crônica "Criança diz cada uma\...", de Mário
 Prata.
@@ -4149,12 +4107,7 @@ c\) social.
 
 d\) estilística.
 
-Resposta: c. As variações sociais são as diferenças de acordo com o
-grupo social do falante, incluindo a faixa etária. No trecho, o humor é
-dado principalmente pela inocência da criança, que responde de acordo
-com seu repertório.
-
-Justificativas:
+BNCC: EF69LP55.
 
 a\) Incorreta. As variações culturais ocorrem de acordo com a cultura
 dos falantes, e muitas vezes estão relacionadas a aspectos geográficos.
@@ -4162,15 +4115,15 @@ dos falantes, e muitas vezes estão relacionadas a aspectos geográficos.
 b\) Incorreta. As variações históricas tratam das mudanças ocorridas na
 língua com o decorrer do tempo e não de acordo com a faixa etária.
 
+c\) Correta. As variações sociais são as diferenças de acordo com o
+grupo social do falante, incluindo a faixa etária. No trecho, o humor é
+dado principalmente pela inocência da criança, que responde de acordo
+com seu repertório.
+
 d\) Incorreta. As variações estilísticas remetem ao contexto que exige a
 adaptação da fala ou ao estilo dela. Aqui, pai e filho conversam
 informalmente apenas.
 
-Saeb: Analisar as variedades linguísticas em textos.
-
-BNCC: EF69LP55
-
-Nível: médio.
 
 \num{3} Leia a reportagem a seguir.
 
@@ -4209,12 +4162,12 @@ c\) da idade do entrevistado.
 
 d\) a classe econômica do entrevistado.
 
-Resposta: a. O entrevistado é venezuelano, portanto, é esperado e
+BNCC: EF69LP55
+
+a\) O entrevistado é venezuelano, portanto, é esperado e
 aceitável que não utilize a norma padrão da língua portuguesa. No
 trecho, ele esquece de conjugar o verbo "morava" em "Sempre cozinhei
 este prato quando Venezuela\...".
-
-Justificativas:
 
 b\) Incorreta. O entrevistado ainda carrega resquícios de seu idioma
 materno, e isso independe de seu contexto social atual.
@@ -4225,11 +4178,7 @@ deslize ocorrido na frase.
 d\) Incorreta. Não fica claro qual é a classe econômica do entrevistado
 e isso não importa para o tipo de deslize ocorrido na frase.
 
-Saeb: Analisar as variedades linguísticas em textos.
 
-BNCC: EF69LP55
-
-Nível: fácil.
 
 # Simulado 1
 
