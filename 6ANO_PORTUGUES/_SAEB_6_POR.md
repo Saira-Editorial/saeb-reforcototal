@@ -2043,36 +2043,13 @@ Facebook.
 # MÓDULO 6 
 
   Qual é a graça?
+  
+  Habilidade do SAEB
+  - Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou crítica.
 
-+----------------------------------+----------------------------------+
-| SAEB                             | BNCC                             |
-+==================================+==================================+
-| \- Inferir, em textos            | EF69LP03: Identificar, em        |
-| multissemióticos, efeitos de     | notícias, o fato central, suas   |
-| humor, ironia e/ou crítica.      | principais circunstâncias e      |
-|                                  | eventuais decorrências; em       |
-|                                  | reportagens e fotorreportagens o |
-|                                  | fato ou a temática retratada e a |
-|                                  | perspectiva de abordagem, em     |
-|                                  | entrevistas os principais        |
-|                                  | temas/subtemas abordados,        |
-|                                  | explicações dadas ou teses       |
-|                                  | defendidas em relação a esses    |
-|                                  | subtemas; em tirinhas, memes,    |
-|                                  | charge, a crítica, ironia ou     |
-|                                  | humor presente.                  |
-|                                  |                                  |
-|                                  | EF69LP05: Inferir e justificar,  |
-|                                  | em textos multissemióticos --    |
-|                                  | tirinhas, charges, memes, gifs   |
-|                                  | etc. --, o efeito de humor,      |
-|                                  | ironia e/ou crítica pelo uso     |
-|                                  | ambíguo de palavras, expressões  |
-|                                  | ou imagens ambíguas, de clichês, |
-|                                  | de recursos iconográficos, de    |
-|                                  | pontuação etc.                   |
-+----------------------------------+----------------------------------+
+Habilidades da BNCC: EF69LP03 e EF69LP05.
 
+\coment{
 Para cada situação comunicativa existe uma escolha lexical, ou seja, de
 termos, verbos, palavras e expressões, que varia de acordo com a
 intenção do enunciador.
@@ -2096,16 +2073,8 @@ receptor.
 
 **Ironia**: consiste na utilização de determinada palavra ou expressão
 que, em um outro contexto diferente do usual, ganha um novo sentido,
-geralmente em uma oposição de sentidos.
+geralmente em uma oposição de sentidos.}
 
-Dica para o professor:
-
-Professor, aqui vamos estudar a ironia como um recurso de humor pelo
-humor, bem como uma forma de crítica.
-
-As coletâneas foram produzidas a partir de inspirações em memes e outros
-textos de circulação social. Aproveite para conversar com os alunos
-sobre o impacto social desses textos.
 
 Leia o texto abaixo para responder às perguntas 1 a 3.
 
@@ -2127,42 +2096,38 @@ c\) no fato de a atendente não ouvir direito a pergunta.
 
 d\) na simpatia da atendente ao fazer uma piada.
 
-Resposta: b. O humor está presente na ambiguidade da pergunta feita pela
-cliente.
-
-Justificativas:
-
+\coment{
 a\) Incorreta. Em nenhum momento a tirinha dá a impressão de que a
 atendente não sabe o que é baguete.
-
+b\) O humor está presente na ambiguidade da pergunta feita pela
+cliente.
 c\) Incorreta. A atendente ouve a pergunta, porém entende-a de forma
 ambígua.
-
 d\) Incorreta. Mesmo que a atendente fizesse uma piada proposital, o
-humor desta residiria no fato de a pergunta ter sido ambígua.
+humor desta residiria no fato de a pergunta ter sido ambígua.}
 
 \num{2} Explique a ambiguidade presente no texto.
 
-Resposta: A ambiguidade está no modo como objeto indireto "de" é usado.
+\linhas{6}
+
+\coment{A ambiguidade está no modo como objeto indireto "de" é usado.
 Ao perguntar se a baguete é de hoje, a cliente quer saber se o pão foi
 feito naquele dia. Já a atendente entende que ela se referia ao sabor do
-pão, então responde que é de parmesão.
+pão, então responde que é de parmesão.}
 
 \num{3} Reescreva o texto, de modo a excluir qualquer possibilidade de
 ambiguidade.
 
-Resposta:
+\linhas{6}
 
+\coment{
 *  Moça, essa baguete foi feita hoje?
-
 *  Sim, foi feita hoje.
-
 *  E qual é o sabor?
-
-*  É de parmesão.
+*  É de parmesão.}
 
 Leia um trecho de uma crônica de Marina Colasanti e responda às
-perguntas 4 a 6.
+perguntas de 4 a 6.
 
 "Houve um tempo em que comíamos comida. Hoje queremos gastronomia. Nas
 casas, a bem da verdade, consome-se mais gastronomia na TV, do que à
@@ -2179,24 +2144,30 @@ Acesso em: 10 mar. 2023. Adaptado.)
 \num{4} De acordo com a leitura, qual é a diferença entre comida e
 gastronomia?
 
-Resposta: Comida é a forma como as pessoas se referiam ao alimento no
+\linhas{6}
+
+\coment{Comida é a forma como as pessoas se referiam ao alimento no
 dia a dia, para matar a fome. Com a modernidade, as pessoas não querem
 mais apenas comer, querem gastronomia, ou seja, comer de um jeito chique
-e, consequentemente, pagando mais.
+e, consequentemente, pagando mais.}
 
 \num{5} Identifique, no texto, em quais trechos a autora é irônica.
 
-Resposta: Pode-se identificar ironia nas seguintes passagens: "Nas
+\linhas{7}
+
+\coment{Pode-se identificar ironia nas seguintes passagens: "Nas
 casas, a bem da verdade, consome-se mais gastronomia na TV, do que à
 mesa"; "que eu saiba, ainda não foi inventada a pizza gastronômica de
 encomenda"; "Mas na hora de escolher um restaurante, vamos de
-gastronômicos até onde o bolso alcança".
+gastronômicos até onde o bolso alcança".}
 
 \num{6} Ao dizer que "nas casas consome-se mais gastronomia na TV", o que a
 autora quer dizer?
 
-Resposta: A autora quer dizer que somos mais seletivos em casa, com o
-que escolhemos assistir na TV, do que com o que comemos.
+\linhas{3}
+
+\coment{A autora quer dizer que somos mais seletivos em casa, com o
+que escolhemos assistir na TV, do que com o que comemos.}
 
 Leia o texto a seguir para responder às questões 7 a 10.
 
@@ -2213,19 +2184,26 @@ Veio com defeito, com certeza\...
 personagem: o cachorro. Porém, em seu discurso ele interage com mais
 alguém. Quem é essa pessoa e o que ela representa?
 
-Resposta: O cachorro interage com a Márcia, que seria a dona dele.
+\linhas{3}
+
+\coment{O cachorro interage com a Márcia, que seria a dona dele.}
 
 \num{8} Quais elementos demonstram que o cão tem uma relação de proximidade
 com a Márcia?
 
-Resposta: O fato de o cachorro estar na mesma casa que ela, sentado no
+\linhas{4}
+
+\coment{O fato de o cachorro estar na mesma casa que ela, sentado no
 sofá, e o tom informal da fala do cachorro (Márcia do céu; a almofada
-explodiu, menina).
+explodiu, menina).}
 
 \num{10} Explique a ironia contida na cena.
 
-Resposta: O cachorro rasgou toda a almofada, mas justificou contanto que
-ela havia explodido porque veio com defeito.
+\linhas{3}
+
+\coment{O cachorro rasgou toda a almofada, mas justificou contanto que
+ela havia explodido porque veio com defeito.}
+
 
 \colorsec{Treino}
 
@@ -2258,11 +2236,7 @@ c\) fato de beleléu ser uma palavra que imita um som.
 
 d\) fato de a pessoa ficar pensando na palavra beleléu.
 
-Resposta: d. O efeito de humor é apresentado na linha fina do texto,
-quando a pessoa informa que há décadas fica pensando no "bendito do
-beleléu".
-
-Justificativas:
+BNCC: EF69LP05.
 
 a\) Incorreta. A origem do termo é obscura, mas esse é um fato sobre a
 palavra e não o que dá o humor do texto.
@@ -2273,12 +2247,10 @@ b\) Incorreta. O texto explica que é um eufemismo para a morte, mas não
 c\) Incorreta. O fato de ser uma possível onomatopeia não provoca por si
 só o efeito de humor ao texto.
 
-Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
-crítica.
+d\) O efeito de humor é apresentado na linha fina do texto,
+quando a pessoa informa que há décadas fica pensando no "bendito do
+beleléu".
 
-BNCC: EF69LP05
-
-Nível: médio
 
 \num{2} Leia o texto a seguir.
 
@@ -2300,13 +2272,16 @@ c\) da fala irônica do Sol, no segundo quadrinho.
 
 d\) da mudança na expressão facial dos planetas.
 
-Resposta: b. O humor da tirinha acontece quando o Sol fala que vai levar
+BNCC: EF69LP05.
+
+a\) Incorreta. A fala do sol não é irônica em nenhum dos
+quadrinhos. Percebe-se que ele usa ambiguidade, mas de modo inocente. 
+
+b\) Correta. O humor da tirinha acontece quando o Sol fala que vai levar
 os amigos com ele quando ele morrer. Ou seja, significa que ele vai
 "matar" os outros astros também se isso acontecer.
 
-Justificativas:
-
-a\) e c) Incorretas. A fala do sol não é irônica em nenhum dos
+c\) Incorreta. A fala do sol não é irônica em nenhum dos
 quadrinhos. Percebe-se que ele usa ambiguidade, mas de modo inocente.
 
 d\) Incorreta. A mudança na expressão dos planetas ocorre como resposta
@@ -2315,9 +2290,6 @@ d\) Incorreta. A mudança na expressão dos planetas ocorre como resposta
 Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
 crítica.
 
-BNCC: EF69LP05
-
-Nível: difícil
 
 \num{3} Observe a campanha publicitária a seguir.
 
@@ -2339,63 +2311,35 @@ c\) a foto da cova somada ao comando dado no verbo.
 
 d\) a ambiguidade presente no uso da palavra "enterre".
 
-Resposta: c. Por ser uma publicidade veiculada por um cemitério, a foto
-da cova somada ao verbo "enterrar" fornece o efeito de humor da
-campanha.
-
-Justificativas:
+BNCC: EF69LP05.
 
 a\) Incorreta. Não há ironia no texto.
 
 b\) Incorreta. O verbo no imperativo é algo comum às campanhas
 publicitárias.
 
+c\) Correta. Por ser uma publicidade veiculada por um cemitério, a foto
+da cova somada ao verbo "enterrar" fornece o efeito de humor da
+campanha.
+
 d\) Incorreta. Há humor na ambiguidade de sentido do verbo enterre,
 porém, o efeito de humor da campanha se dá com a combinação de texto e
 imagem.
 
-Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
-crítica.
 
-BNCC: EF69LP05
-
-Nível: fácil
 
 # MÓDULO 7 
 
   Tudo o que se lê é verdade?
+  
+  Habilidades do SAEB
+  - Analisar marcas de parcialidade em textos jornalísticos.
+- Avaliar diferentes graus de parcialidade em textos jornalísticos.
+- Avaliar a fidedignidade de informações sobre um mesmo fato divulgado em diferentes veículos e mídias.
 
-+----------------------------------+----------------------------------+
-| SAEB                             | BNCC                             |
-+==================================+==================================+
-| \- Analisar marcas de            | EF06LP01: Reconhecer a           |
-| parcialidade em textos           | impossibilidade de uma           |
-| jornalísticos.                   | neutralidade absoluta no relato  |
-|                                  | de fatos e identificar           |
-| \- Avaliar diferentes graus de   | diferentes graus de              |
-| parcialidade em textos           | parcialidade/ imparcialidade     |
-| jornalísticos.                   | dados pelo recorte feito e pelos |
-|                                  | efeitos de sentido advindos de   |
-| \- Avaliar a fidedignidade de    | escolhas feitas pelo autor, de   |
-| informações sobre um mesmo fato  | forma a poder desenvolver uma    |
-| divulgado em diferentes veículos | atitude crítica frente aos       |
-| e mídias.                        | textos jornalísticos e tornar-se |
-|                                  | consciente das escolhas feitas   |
-|                                  | enquanto produtor de textos.     |
-|                                  |                                  |
-|                                  | EF67LP03: Comparar informações   |
-|                                  | sobre um mesmo fato divulgadas   |
-|                                  | em diferentes veículos e mídias, |
-|                                  | analisando e avaliando a         |
-|                                  | confiabilidade.                  |
-|                                  |                                  |
-|                                  | EF67LP04: Distinguir, em         |
-|                                  | segmentos descontínuos de        |
-|                                  | textos, fato da opinião          |
-|                                  | enunciada em relação a esse      |
-|                                  | mesmo fato.                      |
-+----------------------------------+----------------------------------+
+Habilidades da BNCC: EF06LP01, EF67LP03, EF67LP04.
 
+\conteudo{
 Uma notícia é um relato factual de um evento, acontecimento ou situação
 que é considerado de interesse público. A notícia é geralmente divulgada
 pelos meios de comunicação, como jornais, revistas, *sites* de notícias,
@@ -2501,16 +2445,6 @@ completamente falsos. É importante ler com atenção, analisar
 criticamente e considerar várias fontes para chegar a uma conclusão
 informada.
 
-Dica para o professor:
-
-Professor, não é foco deste módulo a abordagem de fake News, contudo,
-você pode aproveitar o material e os exercícios para explicar que é
-importante verificar a fonte e a veracidade das informações antes de
-compartilhá-las ou usá-las como base para tomar decisões. É fundamental
-ter um pensamento crítico, checar as fontes, buscar informações em
-fontes confiáveis e responsáveis, e não compartilhar notícias sem antes
-ter certeza de sua veracidade.
-
 Há vários fatores que podem ajudar a determinar a veracidade de um
 texto, como:
 
@@ -2536,7 +2470,7 @@ está tentando enganar ou manipular o leitor.
 Motivação: verifique se o autor do texto tem alguma motivação para
 enganar ou manipular o leitor. Por exemplo, se o autor é um político que
 está tentando obter votos, ele pode distorcer a verdade para atingir
-seus objetivos.
+seus objetivos.}
 
 Leia os textos a seguir para responder às questões.
 
@@ -2562,78 +2496,99 @@ height="1.4761898512685914in"}
 
 \num{1} Qual é a temática comum entre as manchetes?
 
-Resposta: O compartilhamento de senhas na Netflix.
+\linhas{2}
+
+\coment{O compartilhamento de senhas na Netflix.}
 
 \num{2} Qual das três manchetes apresenta um texto com informações mais
 claras e objetivas relacionadas ao tema?
 
-Resposta: A manchete do Texto 2.
+\linhas{2}
+
+\coment{A manchete do Texto 2.}
 
 \num{3} É possível saber qual das três manchetes apresenta a notícia mais
 recente? Justifique sua resposta.
 
-Resposta: Não é possível saber, pois o Texto 2 apresenta a data de "um
-mês atrás", e não se sabe a qual mês ele se refere.
+\linhas{3}
+
+\coment{Não é possível saber, pois o Texto 2 apresenta a data de "um
+mês atrás", e não se sabe a qual mês ele se refere.}
 
 \num{4} O Texto 1 e o Texto 3 foram divulgados pelo mesmo veículo, mas
 apresentam algumas diferenças. Qual das duas manchetes fornece dados
 mais confiáveis ao leitor? Por quê?
 
-Resposta: A manchete do Texto 3 apresenta informações que geram mais
+\linhas{5}
+
+\coment{A manchete do Texto 3 apresenta informações que geram mais
 confiança, pois além de ter uma linguagem mais formal, no título ela já
-anuncia que há regras para o compartilhamento de senhas.
+anuncia que há regras para o compartilhamento de senhas.}
 
 \num{5} Qual das manchetes apresenta viés de opinião pessoal? Em quais
 trechos é possível identificar isso?
 
-Resposta: Na manchete do Texto 1. O autor da notícia se refere ao
+\linhas{8}
+
+\coment{Na manchete do Texto 1. O autor da notícia se refere ao
 compartilhamento de senhas como "farra". Isso dá ao leitor a impressão
 de que o compartilhamento de senhas é uma festa, uma diversão para o
 usuário da Netflix. No subtítulo da matéria, ele também informa que as
 pessoas compartilhas senhas com amigos e parentes, dando a entender que
-sabe de que maneira essa prática funciona.
+sabe de que maneira essa prática funciona.}
 
 \num{6} Nos três textos o leitor pode inferir que a prática de compartilhar
 senhas é errada. Em qual deles isso é trazido como uma certeza? Em que
 trecho é possível identificar essa informação?
 
-Resposta: No texto 2. O subtítulo da manchete apresenta a informação de
-que a prática é irregular e vedada em contrato.
+\linhas{4}
+
+\coment{No texto 2. O subtítulo da manchete apresenta a informação de
+que a prática é irregular e vedada em contrato.}
 
 \num{7} No Texto 3, a manchete apresenta inicia-se com um aposto
 explicativo: "**Sim**, Netflix vai cobrar mais de quem divide senha em
 2023". Que efeito de sentido essa escolha lexical provoca no leitor?
 
-Resposta: O "Sim" afirma ao leitor que a notícia é de fato verdadeira,
+\linhas{5}
+
+\coment{O "Sim" afirma ao leitor que a notícia é de fato verdadeira,
 que foi conferida, ou seja, que a Netflix vai mesmo cobrar pelo
-compartilhamento de senhas.
+compartilhamento de senhas.}
 
 \num{8} No Texto 3, qual termo é utilizado para informar que o
 compartilhamento de senhas é uma prática irregular?
 
-Resposta: O termo utilizado é "combater".
+\linhas{2}
+
+\coment{O termo utilizado é "combater".}
 
 \num{9} Considerando as informações apresentadas nas manchetes e linhas
 finas dos três textos, redija uma manchete e uma linha fina que
 apresente informações precisas para o leitor ser qualquer viés de
 opinião.
 
-Resposta: Professor(a), embora aqui a resposta seja de certa forma
+\linhas{6}
+
+\coment{Embora aqui a resposta seja de certa forma
 pessoal para os alunos, espera-se que todos abordem, na manchete, o tema
 principal da notícia, comum entre os três textos, e na linha fina uma
 breve explicação do contexto. Segue exemplo:
 
 **Netflix anuncia novas regras para o compartilhamento de senhas**
 
-Usuários terão que pagar caso desejem continuar com a prática
+Usuários terão que pagar caso desejem continuar com a prática}
 
 \num{10} Ao abrir essas notícias, para quais dados o leitor deve se atentar
 a fim de saber se as informações foram checadas antes de ser publicadas?
 
-Resposta: A linguagem utilizada na notícia, sem viés de opinião; a data
+\linhas{5}
+
+\coment{A linguagem utilizada na notícia, sem viés de opinião; a data
 de publicação da notícia; se o veículo que a publicou é de
 credibilidade; e se o texto apresenta uma referência bibliográfica para
-a fonte das informações.
+a fonte das informações.}
+
 
 \colorsec{Treino}
 
@@ -2677,10 +2632,7 @@ aspas.
 d\) Traz uma pergunta de senso comum, já que muitas pessoas tratam
 animais como filhos.
 
-Resposta: d. O título é uma pergunta pertinente e de senso comum, pois
-muitas pessoas consideram pets como filhos.
-
-Justificativas:
+BNCC: EF67LP04.
 
 a\) Incorreta. A resposta, dada no primeiro parágrafo, não é a opinião
 do autor, e sim uma explicação técnica.
@@ -2691,11 +2643,9 @@ reflexão, uma vez que a resposta já é fornecida no primeiro parágrafo.
 c\) Incorreta. A expressão está entre aspas porque "pai de pet" é um
 termo comum apenas a pessoas que o conhecem.
 
-Saeb: Analisar marcas de parcialidade em textos jornalísticos.
+d\) Correta. O título é uma pergunta pertinente e de senso comum, pois
+muitas pessoas consideram pets como filhos.
 
-BNCC: EF67LP04
-
-Nível: médio
 
 \num{2} Observe os dois títulos a seguir.
 
@@ -2726,13 +2676,13 @@ c\) Somente o Título 1 apresenta o ponto de vista do veículo.
 
 d\) Nenhum dos títulos apresenta o ponto de vista do veículo.
 
-Resposta: b. O Título 2 apresenta o ponto de vista do veículo ao
-confirmar que pessoas são pais de pet, admitindo que há uma rotina para
-essas pessoas.
-
-Justificativas:
+BNCC: EF67LP03.
 
 a\) Incorreta. Apenas o Título 2 apresenta o ponto de vista do veículo.
+
+b\) Correta. O Título 2 apresenta o ponto de vista do veículo ao
+confirmar que pessoas são pais de pet, admitindo que há uma rotina para
+essas pessoas.
 
 c\) Incorreta. O Título 1 apresenta o tema da matéria por meio de uma
 pergunta reflexiva, sem se posicionar a respeito dela.
@@ -2740,11 +2690,6 @@ pergunta reflexiva, sem se posicionar a respeito dela.
 d\) Incorreta. O Título 2 apresenta sim um ponto de vista a respeito do
 tema da matéria.
 
-Saeb: Analisar marcas de parcialidade em textos jornalísticos.
-
-BNCC: EF67LP03
-
-Nível: difícil
 
 \num{2} Leia o texto a seguir.
 
@@ -2776,10 +2721,7 @@ c\) "As novas estimativas são um alerta.".
 
 d\) "Não podemos ficar parados".
 
-Resposta: d. É um posicionamento do diretor-geral da OIT que não podemos
-ficar parados diante dos dados apresentados sobre o trabalho infantil.
-
-Justificativas:
+BNCC: EF67LP03.
 
 a\) Incorreta. O trecho apresenta uma possibilidade real de acontecer,
 mediante um fato apresentado.
@@ -2790,11 +2732,10 @@ c\) Incorreta. As estimativas são um alerta. O especialista apenas
 menciona que os dados são um alerta, mas sem colocar seu julgamento de
 valor.
 
-Saeb: Analisar marcas de parcialidade em textos jornalísticos.
+d\) Correta. É um posicionamento do diretor-geral da OIT que não podemos
+ficar parados diante dos dados apresentados sobre o trabalho infantil.
 
-BNCC: EF67LP03
 
-Nível: fácil
 
 # MÓDULO 8 
 
