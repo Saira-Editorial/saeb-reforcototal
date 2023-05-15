@@ -1379,57 +1379,15 @@ comparando o sentimento com a mata.
 # MÓDULO 4 
 
   Palavra do especialista
+  
+  Habilidades do SAEB
+  - Analisar efeitos de sentido produzido pelo uso de formas de apropriação textual (paráfrase, citação etc.).
+- Analisar os efeitos de sentido decorrentes dos mecanismos de construção de textos jornalísticos/midiáticos.
 
-+----------------------------------+----------------------------------+
-| SAEB                             | BNCC                             |
-+==================================+==================================+
-| \- Analisar efeitos de sentido   | EF69LP16: Analisar e utilizar as |
-| produzido pelo uso de formas de  | formas de composição dos gêneros |
-| apropriação textual (paráfrase,  | jornalísticos da ordem do        |
-| citação etc.).                   | relatar, tais como notícias      |
-|                                  | (pirâmide invertida no impresso  |
-| \- Analisar os efeitos de        | X blocos noticiosos              |
-| sentido decorrentes dos          | hipertextuais e hipermidiáticos  |
-| mecanismos de construção de      | no digital, que também pode      |
-| textos jornalísticos/midiáticos. | contar com imagens de vários     |
-|                                  | tipos, vídeos, gravações de      |
-|                                  | áudio etc.), da ordem do         |
-|                                  | argumentar, tais como artigos de |
-|                                  | opinião e editorial              |
-|                                  | (contextualização, defesa de     |
-|                                  | tese/opinião e uso de            |
-|                                  | argumentos) e das entrevistas:   |
-|                                  | apresentação e contextualização  |
-|                                  | do entrevistado e do tema,       |
-|                                  | estrutura pergunta e resposta    |
-|                                  | etc.                             |
-|                                  |                                  |
-|                                  | EF69LP43: Identificar e utilizar |
-|                                  | os modos de introdução de outras |
-|                                  | vozes no texto -- citação        |
-|                                  | literal e sua formatação e       |
-|                                  | paráfrase --, as pistas          |
-|                                  | linguísticas responsáveis por    |
-|                                  | introduzir no texto a posição do |
-|                                  | autor e dos outros autores       |
-|                                  | citados ("Segundo X; De acordo   |
-|                                  | com Y; De minha/nossa parte,     |
-|                                  | penso/amos que"\...) e os        |
-|                                  | elementos de normatização (tais  |
-|                                  | como as regras de inclusão e     |
-|                                  | formatação de citações e         |
-|                                  | paráfrases, de organização de    |
-|                                  | referências bibliográficas) em   |
-|                                  | textos científicos,              |
-|                                  | desenvolvendo reflexão sobre o   |
-|                                  | modo como a intertextualidade e  |
-|                                  | a retextualização ocorrem nesses |
-|                                  | textos.                          |
-+----------------------------------+----------------------------------+
+Habilidades da BNCC: EF69LP16 e EF69LP43.
 
-\"A citação é um elogio, é a forma de dizer ao autor citado que ele é
-importante.\" - Umberto Eco
 
+\conteudo{
 As citações de terceiros em textos são uma prática comum na escrita
 acadêmica e literária, permitindo que o autor apresente ideias e
 informações de outras fontes e dê crédito apropriado ao autor original.
@@ -1458,14 +1416,7 @@ original.
 
 Independentemente do tipo de citação escolhido, é importante sempre
 indicar a fonte utilizada na lista de referências ou bibliografia do seu
-trabalho.
-
-Dica para o professor:
-
-Professor, neste módulo serão propostos exercícios de leitura e
-interpretação de gêneros textuais jornalísticos para o desenvolvimento
-de habilidades relacionadas ao uso adequado de citações enquanto
-estratégias argumentativas.
+trabalho.}
 
 Utilize o texto a seguir para responder às questões 1 a 7.
 
@@ -1500,70 +1451,49 @@ trabalhado no texto. No caso desse artigo, se considerarmos que o verbo
 "ver" está empregado em seu sentido denotativo, ou seja, literal, que
 tipo de informação o leitor pode esperar, antes de ler o texto?
 
-Resposta: O leitor espera compreender mais sobre como funciona a visão
-dos gatos, ou seja, como eles enxergam.
+\linhas{3}
 
-Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
-construção de textos jornalísticos/midiáticos.
+\coment{ O leitor espera compreender mais sobre como funciona a visão
+dos gatos, ou seja, como eles enxergam.}
 
-BNCC: EF69LP16
-
-Nível: médio.
 
 \num{2} Após a leitura do texto, qual é o efeito de sentido que o verbo
 "veem" adquire no título? Justifique sua resposta.
 
-Resposta: O verbo tem o sentido de compreender, pois o texto não fala
+\linhas{5}
+
+\coment{O verbo tem o sentido de compreender, pois o texto não fala
 apenas do modo como os gatos enxergar, mas sim como eles entendem o
-mundo ao seu redor.
-
-Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
-construção de textos jornalísticos/midiáticos.
-
-BNCC: EF69LP16
-
-Nível: médio.
+mundo ao seu redor.}
 
 \num{3} Qual é a tese apresentada no texto? Copie o trecho que apresenta
 essa informação.
 
-Resposta: A tese é de que os gatos domésticos ainda são animais
+\linhas{6}
+
+\coment{A tese é de que os gatos domésticos ainda são animais
 selvagens. O trecho que confirma essa informação é o último parágrafo:
 "Ou seja, o que ratos sabiam e pufes suspeitavam, a ciência agora
-confirma: o gato doméstico ainda é selvagem."
+confirma: o gato doméstico ainda é selvagem."}
 
-Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
-construção de textos jornalísticos/midiáticos.
-
-BNCC: EF69LP16
-
-Nível: fácil.
 
 \num{4} Que tipos de argumentos o autor utiliza para defender essa tese?
 
-Resposta: O autor utiliza comparações, como em "diferente dos cachorros,
+\linhas{6}
+
+\coment{O autor utiliza comparações, como em "diferente dos cachorros,
 que querem ser gente, os gatos não querem ser outra coisa." e "para o
 gato, cada sala é uma selva", e o trecho que apresenta a citação de um
-autor especialista, John Bradshaw.
+autor especialista, John Bradshaw.}
 
-Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
-construção de textos jornalísticos/midiáticos.
-
-BNCC: EF69LP16
-
-Nível: difícil.
 
 \num{5} Por que o autor do artigo reproduz a fala de um especialista no
 desenvolvimento do texto?
 
-Resposta: Porque a fala do especialista dá credibilidade ao texto.
+\linhas{3}
 
-Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
-construção de textos jornalísticos/midiáticos.
+\coment{Porque a fala do especialista dá credibilidade ao texto.}
 
-BNCC: EF69LP43
-
-Nível: fácil.
 
 \num{6} As aspas utilizadas em "Ele descende de um felino territorial e
 solitário que aceitou a coexistência com outros gatos e ainda está se
@@ -1577,40 +1507,23 @@ c\) dão destaque à tese de que os gatos são felinos selvagens.
 
 d\) dão destaque ao fato de um especialista ter sido entrevistado.
 
-Resposta: a. As aspas reproduzem a fala do especialista na forma de
+\coment{A resposta correta é "a". As aspas reproduzem a fala do especialista na forma de
 discurso indireto.
-
-Justificativas:
-
 b\) Incorreta. O discurso direto é representado por meio de travessão e
 quebra de parágrafo.
-
 c\) Incorreta. A função das aspas, aqui, é demarcar o que foi
 reproduzido da fala do especialista.
-
 d\) Incorreta. O fato de um especialista ter sido entrevistado apenas
 não exige por si só que o trecho em que isso é mencionado seja usado
-entre aspas.
-
-Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
-construção de textos jornalísticos/midiáticos.
-
-BNCC: EF69LP43
-
-Nível: médio.
+entre aspas.}
 
 \num{7} Além as aspas, qual é o recurso utilizado no texto para que o leitor
 reconheça a frase do especialista como uma citação?
 
-Resposta: O verbo dizer, após o trecho entre aspas: "diz John Bradshaw,
-autor de *Catsense\...".*
+\linhas{3}
 
-Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
-construção de textos jornalísticos/midiáticos.
-
-BNCC: EF69LP43
-
-Nível: fácil
+\coment{O verbo dizer, após o trecho entre aspas: "diz John Bradshaw,
+autor de *Catsense\...".*}
 
 Leia o texto a seguir para responder às questões 8 a 10.
 
@@ -1631,42 +1544,30 @@ mar. 2023.)
 \num{8} Qual é o motivo da confusão entre o verso e a maneira como ele foi
 compreendido?
 
-Resposta: A sonoridade parecida entre as palavras "tu me tinhas" e
-"Tumitinha".
+\linhas{3}
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
-apropriação textual (paráfrase, citação etc.).
+\coment{A sonoridade parecida entre as palavras "tu me tinhas" e
+"Tumitinha".}
 
-BNCC: EF69LP43
-
-Nível: médio.
 
 \num{9} Qual é o recurso utilizado pelo autor para que as pessoas saibam que
 a história que ele reconta é, na verdade, inventada pela sua amiga?
 
-Resposta: O autor menciona, no começo do texto que sua amiga Adriana
-confessou que entendia a letra de Ciranda-cirandinha de outro jeito.
+\linhas{3}
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
-apropriação textual (paráfrase, citação etc.).
+\coment{O autor menciona, no começo do texto que sua amiga Adriana
+confessou que entendia a letra de Ciranda-cirandinha de outro jeito.}
 
-BNCC: EF69LP43
-
-Nível: difícil.
 
 \num{10} Qual é o efeito de sentido que o verbo "confessar" provoca nesse
 caso?
 
-Resposta: O verbo confessar deixa evidente que o fato era, até então, um
+\linhas{5}
+
+\coment{O verbo confessar deixa evidente que o fato era, até então, um
 segredo da amiga do autor do texto, algo que ela tinha vergonha de
-falar. Por isso ele informa que ela "confessou" que cantava errado.
+falar. Por isso ele informa que ela "confessou" que cantava errado.}
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
-apropriação textual (paráfrase, citação etc.).
-
-BNCC: EF69LP43
-
-Nível: difícil.
 
 \colorsec{Treino}
 
@@ -1689,10 +1590,10 @@ c\) Não é possível ter saúde mental se as dicas não forem seguidas.
 
 d\) A saúde mental só depende da pessoa.
 
-Resposta: a. O infográfico apresenta dicas de saúde mental que englobam
-comportamentos que auxiliam na manutenção do físico e do psicológico.
+BNCC: EF69LP43.
 
-Justificativas:
+a\) Correta. O infográfico apresenta dicas de saúde mental que englobam
+comportamentos que auxiliam na manutenção do físico e do psicológico.
 
 b\) Incorreta. As informações do infográfico são dicas, sugestões, e não
 necessariamente bastam para se ter saúde mental.
@@ -1703,12 +1604,6 @@ se essas dicas não forem seguidas.
 d\) Incorreta. A saúde mental depende de uma série de circunstâncias. O
 infográfico apresenta apenas algumas dicas.
 
-Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
-construção de textos jornalísticos/midiáticos.
-
-BNCC: EF69LP43
-
-Nível: fácil
 
 \num{2} Leia a reportagem a seguir.
 
@@ -1743,29 +1638,23 @@ b\) uma citação indireta.
 
 d\) uma citação de citação.
 
-Resposta: c. O texto apresenta a tese de que os primeiros anos de vida
-funcionam como base para as aquisições que o cérebro fará nos anos
-seguintes, portanto, promover a saúde mental infantil é uma forma de
-cuidar de nossos futuros jovens, adultos e idosos. Para argumentar, é
-utilizado como recurso uma citação indireta de um dado da OMS.
-
-Justificativas:
+BNCC: EF69LP43.
 
 a\) Incorreta. A citação usada como argumento é indireta.
 
 b\) Incorreta. Seria uma citação direta se o trecho estivesse
 identificado entre aspas, por exemplo.
 
+c\) Correta. O texto apresenta a tese de que os primeiros anos de vida
+funcionam como base para as aquisições que o cérebro fará nos anos
+seguintes, portanto, promover a saúde mental infantil é uma forma de
+cuidar de nossos futuros jovens, adultos e idosos. Para argumentar, é
+utilizado como recurso uma citação indireta de um dado da OMS.
+
 d\) Incorreta. A paráfrase ocorre com mais frequência em textos que
 demonstram que o enunciador reconta uma história, e não em artigos
 científicos.
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
-apropriação textual (paráfrase, citação etc.).
-
-BNCC: EF69LP43
-
-Nível: médio.
 
 \num{3} Leia o texto a seguir.
 
@@ -1804,11 +1693,7 @@ público leitor.
 d\) Na entrevista, a escritora diz que é preciso conversar com as
 crianças pois elas entendem mais do que se imagina.
 
-Resposta: d. É possível identificar que esta é uma citação indireta a
-partir de expressões modalizadoras que representam o posicionamento da
-entrevistada; neste caso, o verbo "dizer" faz essa função.
-
-Justificativas:
+BNCC: EF69LP43
 
 a\) Incorreta. O primeiro parágrafo é apenas uma introdução da matéria.
 
@@ -1816,27 +1701,22 @@ b\) Incorreta. Esta é uma citação direta, destacada entre aspas.
 
 c\) Incorreta. Esta é uma introdução à citação direta subsequente.
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
-apropriação textual (paráfrase, citação etc.).
+d\) Correta. É possível identificar que esta é uma citação indireta a
+partir de expressões modalizadoras que representam o posicionamento da
+entrevistada; neste caso, o verbo "dizer" faz essa função.
 
-BNCC: EF69LP43
-
-Nível: difícil.
 
 # MÓDULO 5 
 
   Fato e opinião
+  
+  Habilidades do SAEB
+  - Inferir informações implícitas em distintos textos.
+- Distinguir fatos de opiniões em textos.
 
-+----------------------------------+----------------------------------+
-| SAEB                             | BNCC                             |
-+==================================+==================================+
-| \- Inferir informações           | EF67LP04: Distinguir, em         |
-| implícitas em distintos textos.  | segmentos descontínuos de        |
-|                                  | textos, fato da opinião          |
-| \- Distinguir fatos de opiniões  | enunciada em relação a esse      |
-| em textos.                       | mesmo fato.                      |
-+----------------------------------+----------------------------------+
+Habilidade da BNCC: EF67LP04.
 
+\coment{}
 Opinião é uma avaliação subjetiva ou julgamento que uma pessoa faz sobre
 algo, com base em sua experiência, conhecimento, crenças, valores e
 emoções. É uma expressão pessoal e subjetiva de um ponto de vista, que
@@ -1852,25 +1732,8 @@ pessoa para pessoa, e que nem sempre são baseadas em fatos ou
 evidências. Por isso, é essencial buscar elementos que comprovem a
 veracidade de uma informação, avaliar as opiniões com cuidado e
 considerar diferentes perspectivas antes de formar uma opinião própria
-sobre um determinado assunto.
+sobre um determinado assunto.}
 
-Professor, este módulo visa desenvolver habilidades que preparem os
-estudantes para um posicionamento crítico frente à distinção de fatos de
-opiniões. Explique e, se possível, dê exemplos, do que é um fato e do
-que é uma opinião. Informe-os que qualquer antes de formular uma opinião
-sobre qualquer assunto é importante munir-se de informações de
-credibilidade oriundas de fontes distintas.
-
-Aqui, aproveite para mencionar um pouco sobre *fake news*: as *fakes
-news* são notícias falsas ou enganosas que são divulgadas com o intuito
-de enganar ou manipular o público. Elas podem ser criadas com diversos
-objetivos, tais como ganhar dinheiro com cliques em sites, influenciar a
-opinião pública, causar controvérsia, entre outros. São um problema cada
-vez mais presente na era digital, em que informações podem ser
-disseminadas rapidamente pelas redes sociais e outras plataformas
-*online*. Elas podem causar danos significativos, como a disseminação de
-desinformação, o aumento de conflitos sociais, atrapalhar a reputação de
-pessoas ou organizações, entre outros.
 
 Leia o texto a seguir para responder às questões 1 a 5.
 
@@ -1886,30 +1749,40 @@ Não há bem que para sempre dure, e não há mal que dure para sempre.
 
 \num{1} A quem é atribuída a frase da imagem?
 
-Resposta: A Clarice Lispector.
+\linhas{2}
+
+\coment{A Clarice Lispector.}
 
 \num{2} Qual é a função dos elementos não verbais no caso desse texto?
 
-Resposta: A imagem da lua tem a única função de chamar a atenção para a
-postagem. Ela não agrega nada para a frase.
+\linhas{3}
+
+\coment{A imagem da lua tem a única função de chamar a atenção para a
+postagem. Ela não agrega nada para a frase.}
 
 \num{3} De que maneira uma pessoa pode descobrir se essa frase é mesmo de
 Clarice Lispector? Há, na imagem, algo que forneça essa informação?
 
-Resposta: Para ter certeza, a pessoa pode pesquisar quem é Clarice
+\linhas{5}
+
+\coment{Para ter certeza, a pessoa pode pesquisar quem é Clarice
 Lispector e que tipo de frase é essa. A imagem em si não dá qualquer
-pista de que a frase é realmente da autora.
+pista de que a frase é realmente da autora.}
 
 \num{4} Que tipo de frase é essa? Em que contexto(s) ela circula?
 
-Resposta: A frase é um ditado popular, de autoria desconhecida. Ela
-circula de pessoa para pessoa, em muitos meios sociais específicos.
+\linhas{4}
+
+\coment{A frase é um ditado popular, de autoria desconhecida. Ela
+circula de pessoa para pessoa, em muitos meios sociais específicos.}
 
 \num{5} Caso essa frase fosse mesmo dessa autora, de que maneira ela deveria
 ser apresentada, para que o leitor não tenha dúvida quanto à autoria?
 
-Resposta: A frase deveria estar entre aspas e o nome da autora deveria
-estar acompanhado da referência bibliográfica.
+\linhas{3}
+
+\coment{A frase deveria estar entre aspas e o nome da autora deveria
+estar acompanhado da referência bibliográfica.}
 
 Leia o texto a seguir para responder às questões 6 a 10.
 
@@ -1961,23 +1834,16 @@ confortável."\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 g\) "a construção da imagem por meio da vestimenta, mostrou ser uma obra
 de arte à parte"\_\_\_\_\_\_\_\_\_\_\_\_
 
-Respostas:
-
-a\) "Frida precisou reinventar-se." fato
-
-b\) "Para muita gente, o fascínio começa neste ponto." opinião
-
-c\) "houve uma mudança radical após o acidente." fato
-
+\coment{
+a\) "Frida precisou reinventar-se." fato.
+b\) "Para muita gente, o fascínio começa neste ponto." opinião.
+c\) "houve uma mudança radical após o acidente." fato.
 d\) "Ela precisou usar espartilhos de gesso e de couro, muletas e pernas
-postiças." fato
-
-e\) "Algo que não é a coisa mais bonita de se olhar." opinião
-
-f\) "Algo que no dia a dia não é confortável." opinião
-
+postiças." fato.
+e\) "Algo que não é a coisa mais bonita de se olhar." opinião.
+f\) "Algo que no dia a dia não é confortável." opinião.
 g\) "a construção da imagem por meio da vestimenta mostrou ser uma obra
-de arte à parte." opinião
+de arte à parte." opinião.}
 
 \num{7} No primeiro parágrafo, o trecho "pintar as coisas que via com seus
 próprios olhos" está entre aspas porque
@@ -1993,21 +1859,17 @@ importante para o entendimento do leitor.
 d\) a frase está em sentido figurado, ou seja, não é um fato sobre a
 vida de Frida, e sim uma opinião.
 
-Resposta: b. A frase é uma paráfrase.
-
-Justificativas:
-
+\coment{
 a\) Incorreta. O texto não apresenta entrevista ou mesmo citação
 indireta de qualquer especialista em Frida Kahlo.
-
+b\) Corrreta. A frase é uma paráfrase.
 c\) Incorreta. O destaque dado à frase, na verdade, é uma paráfrase em
 que a autora reproduz falas comuns atribuídas a historiadores. Ela
 utiliza suas próprias palavras, porém destacando que a frase é de outra
 pessoa.
-
 d\) Incorreto. A frase é um fato sobre Frida. Embora esteja escrito em
 sentido figurado, é fato que a partir do acidente Frida passou a pintar
-aquilo que sentia.
+aquilo que sentia.}
 
 \num{8} Leia a definição da palavra mito, segundo o dicionário Michaelis:
 
@@ -2017,8 +1879,10 @@ pessoas, não pode ser comprovada; ficção."
 Qual é o intuito da autora do artigo de opinião ao chamar Frida Kahlo,
 uma pessoa real, de mito?
 
-Resposta: O intuito é comparar a história de vida da autora com uma
-história de ficção, quase inacreditável.
+\linhas{4}
+
+\coment{O intuito é comparar a história de vida da autora com uma
+história de ficção, quase inacreditável.}
 
 \num{9} Releia o trecho: "E, no entanto, a construção da imagem por meio da
 vestimenta mostrou ser uma obra de arte à parte, algo que nenhum outro
@@ -2027,17 +1891,21 @@ reafirmar sua feminilidade."
 
 Explique, especificamente nesse trecho, o que é fato e o que é opinião.
 
-Resposta: É fato que Frida precisou reconstruir sua imagem por meio da
+\linhas{6}
+
+\coment{É fato que Frida precisou reconstruir sua imagem por meio da
 vestimenta, partindo de uma necessidade interna de reafirmar sua
 feminilidade. É uma opinião da autora que esse processo foi uma obra de
-arte à parte.
+arte à parte.}
 
 \num{10} Explique o uso da expressão "uma obra de arte à parte", no último
 parágrafo.
 
-Resposta: A autora faz um trocadilho com a fato de Frida ser uma
+\linhas{4}
+
+\coment{A autora faz um trocadilho com a fato de Frida ser uma
 artista. A expressão "uma obra à parte" significa que determinado fato
-foi incrível, maravilhoso.
+foi incrível, maravilhoso.}
 
 \colorsec{Treino}
 
@@ -2064,10 +1932,7 @@ c\) é satisfatório ver
 
 d\) mas com certo amadurecimento
 
-Resposta: d. O fato de as personagens apresentarem certo amadurecimento
-não é uma opinião da resenhista, e sim uma constatação.
-
-Justificativas:
+BNCC: EF67LP04
 
 a\) Incorreta. A resenhista considera o enredo simples, mas pode não ser
 simples para outras pessoas.
@@ -2077,11 +1942,9 @@ b\) Incorreta. Querer ler mais é uma opinião da autora.
 c\) Incorreta. É satisfatório para a autora ver que a personalidade das
 personagens se mantém.
 
-Saeb: Distinguir fatos de opiniões em textos.
+d\) Correta. O fato de as personagens apresentarem certo amadurecimento
+não é uma opinião da resenhista, e sim uma constatação.
 
-BNCC: EF67LP04
-
-Nível: médio
 
 \num{2} Leia o texto a seguir.
 
@@ -2114,9 +1977,9 @@ c\) um fato sobre o SUS, justificado pela especialista.
 
 d\) um fato sobre o SUS, checado pela jornalista.
 
-Resposta: a. A entrevistada considera o SUS imprescindível para o país.
+BNCC: EF67LP04.
 
-Justificativas:
+a\) Correta. A entrevistada considera o SUS imprescindível para o país.
 
 b\) Incorreta. A jornalista não exprime sua opinião na matéria.
 
@@ -2127,11 +1990,6 @@ todas as pessoas.
 d\) Incorreta. A jornalista reproduz, por citação direta e indireta, a
 opinião da especialista.
 
-Saeb: Distinguir fatos de opiniões em textos.
-
-BNCC: EF67LP04
-
-Nível: fácil
 
 \num{3} Leia o texto a seguir.
 
@@ -2165,11 +2023,7 @@ c\) educar as novas gerações para um uso positivo das redes é urgente.
 d\) acabar com o bullying \#édaminhaconta foi desenvolvida em parceria
 com Facebook e Instagram.
 
-Resposta: d. Sobre a campanha especificamente, a informação trazida no
-texto é de que foi criada pela Safernet em parceria com Instagram e
-Facebook.
-
-Justificativas:
+BNCC: EF67LP04.
 
 a\) Incorreta. É objetivo da campanha conscientizar as novas gerações
 sobre o bullying.
@@ -2180,11 +2034,11 @@ não necessariamente o bullying é responsabilidade apenas desse grupo.
 c\) Incorreta. Esta é uma opinião do especialista, e não objetivo da
 campanha.
 
-Saeb: Distinguir fatos de opiniões em textos.
+d\) Correta. Sobre a campanha especificamente, a informação trazida no
+texto é de que foi criada pela Safernet em parceria com Instagram e
+Facebook.
 
-BNCC: EF67LP04
 
-Nível: Difícil
 
 # MÓDULO 6 
 
