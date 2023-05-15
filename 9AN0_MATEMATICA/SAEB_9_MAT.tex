@@ -2276,7 +2276,7 @@ $ xy - 4y + 15x - 60 = 360 \\
 
 x\textsuperscript{2} - 4x - 96 = 0  \\
 
-\delta = (-4)\textsuperscript{2} - 4 \cdot 1 \cdot (-96) = 400 \\
+\Delta = (-4)\textsuperscript{2} - 4 \cdot 1 \cdot (-96) = 400 \\
 
 x = \frac{4 \pm 20}{2}  \\
 
@@ -2820,129 +2820,114 @@ representações (tabular, algébrica, gráfica).
   \item EF09MA06.
 \end{itemize}
 
+\conteudo{A \textbf{função do 1º grau} é uma função linear que pode ser 
+escrita na forma $f(x) = ax + b$, onde \textbf{a} e \textbf{b} são constantes
+reais. É uma função que representa uma reta no plano cartesiano e tem uma
+inclinação constante. Ela é usada para modelar situações que envolvem uma
+relação de proporcionalidade direta entre duas variáveis.
 
-Função do 1º e 2º grau
+Já a \textbf{função do 2º grau} é uma função quadrática que pode ser escrita 
+na forma $f(x) = ax^2 + bx + c$, onde \textbf{a}, \textbf{b} e \textbf{c} são
+constantes reais, com \textbf{a} diferente de zero. É uma função que
+representa uma curva no plano cartesiano e pode ter um ponto máximo ou mínimo.
+Ela é usada para modelar situações que envolvem uma relação de 
+proporcionalidade indireta entre duas variáveis.
 
-\conteudo{...}
-
-A função do 1º grau é uma função linear que pode ser escrita na forma
-f(x) = ax + b, onde a e b são constantes reais. É uma função que
-representa uma reta no plano cartesiano e tem uma inclinação constante.
-Ela é usada para modelar situações que envolvem uma relação de
-proporcionalidade direta entre duas variáveis.
-
-Já a função do 2º grau é uma função quadrática que pode ser escrita na
-forma f(x) = ax² + bx + c, onde a, b e c são constantes reais, com a
-diferente de zero. É uma função que representa uma curva no plano
-cartesiano e pode ter um ponto máximo ou mínimo. Ela é usada para
-modelar situações que envolvem uma relação de proporcionalidade indireta
-entre duas variáveis.
-
-\ul{Função do 1º grau -- Itens importantes}
+\textbf{Função do 1º grau -- Itens importantes}
 
 \begin{itemize}
-\item
-  É do f(x) = ax + b. O coeficiente a é chamado de angular e b de
-  coeficiente linear.
-\item
-  Gráfico é formada por uma reta, dados dois pontos no plano cartesiano
+
+  \item $f(x) = ax + b$. O coeficiente \textbf{a} é chamado de \textbf{angular}
+  e \textbf{b} de coeficiente \textbf{linear};
+  
+  \item Seu gráfico é formado por uma reta. Dados dois pontos no plano cartesiano,
   é possível determinar o gráfico da função.
-\item
-  A função pode ser crescente (a \textgreater0), decrescente
-  (a\textless0).
+  
+  \item A função pode ser \textbf{crescente} ($a\textgreater0$) e 
+  \textbf{decrescente} ($a\textless0$).
+
 \end{itemize}
 
-\ul{Função do 2º grau -- Itens importantes}
+\textbf{Função do 2º grau -- Itens importantes}
 
 \begin{itemize}
-\item
-  É do f(x) = ax² + bx + c.
-\item
-  Gráfico é formada por uma parábola. A parábola pode ter concavidade
-  para cima (a\textgreater0) ou para baixo (a\textless0).
-\item
-  A função tem ponto de máxima quando a parábola tem a concavidade para
-  baixo, a função tem ponto de mínimo quando a parábola tem a
+  
+  \item $f(x) = ax^2 + bx + c$.
+  
+  \item Seu gráfico é formado por uma parábola. A parábola pode ter concavidade
+  para cima ($a\textgreater0$) ou para baixo ($a\textless0$).
+  
+  \item A função tem \textbf{ponto de máxima} quando a parábola tem a concavidade para baixo e \textbf{ponto de mínimo} quando a parábola tem a
   concavidade para cima.
+
 \end{itemize}
 
 \colorsec{Atividades}
 
-1) Uma empresa de transportes calcula o preço a ser cobrado de acordo
+\num{1} Uma empresa de transportes calcula o preço a ser cobrado de acordo
 com a distância percorrida entre a coleta e a entrega dos objetos. O
 preço total a pagar (P) depende da distância (d) a ser percorrida,
 acrescido de um valor fixo de R\$ 400,00, referente ao carregamento e à
 descarga dos objetos.
 
-Parte dos valores são vistos nesta tabela
+Observe os valores na tabela a seguir.
 
-\begin{longtable}[]{@{}lllll@{}}
-\toprule\noalign{}
-\textbf{Representação parcial do quadro disponível na empresa} & & &
-& \\
-\midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
-Distância percorrida (km) & 10 & 20 & 30 & ... \\
-Preço total a pagar (R\$) & 430 & 460 & 490 & ... \\
-\end{longtable}
+% Please add the following required packages to your document preamble:
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[]
+\begin{tabular}{|
+>{\columncolor[HTML]{CBCEFB}}c cccc|}
+\hline
+\multicolumn{5}{|c|}{\cellcolor[HTML]{ECF4FF}\textbf{Representação parcial do quadro disponível na empresa}} \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{CBCEFB}\textbf{Distância percorrida (km)}} & \multicolumn{1}{c|}{10} & \multicolumn{1}{c|}{20} & \multicolumn{1}{c|}{30} & ... \\ \hline
+\multicolumn{1}{|c|}{\cellcolor[HTML]{CBCEFB}\textbf{Preço total a pagar (R\$)}} & \multicolumn{1}{c|}{430} & \multicolumn{1}{c|}{460} & \multicolumn{1}{c|}{490} & ... \\ \hline
+\end{tabular}
+\end{table}
 
 Escreva a função que pode modelar o preço.
 
-Deixar 3 linhas
+%deixar box pequeno para resolução
 
-BNCC: EF09MA06 SAEB: 9A2.5
+\coment{Podemos verificar pela tabela que o valor aumenta de 30 em 30 a cada
+aumento de 10 km, de modo que o aumento será de 3 em 3 por unidade.
 
-Podemos verificar pela tabela que o valor aumenta de 30 em 30 a cada
-aumento de 10 km, sendo assim temos que o aumento será de 3 em 3 por
-unidade.
+Com isso temos: $P(d) = 3 \cdot d + 400$}
 
-Com isso temos:
-
-\[P\left( d \right) = 3 \cdot d + 400\]
-
-2) Veja o quadro a seguir e determine a regra matemática que relaciona x
+\num{2} Veja o quadro a seguir e determine a regra matemática que relaciona x
 e y.
 
-\begin{longtable}[]{@{}lllll@{}}
-\toprule\noalign{}
-x & --1 & 2 & 3 & 5 \\
-\midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
-y & --4 & 5 & 8 & 14 \\
-\end{longtable}
+\begin{table}[]
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+\textbf{x} & - 1 & 2 & 3 & 5 \\ \hline
+\textbf{y} & - 4 & 5 & 8 & 14 \\ \hline
+\end{tabular}
+\end{table}
 
-Deixar 3 linhas
+%deixar box pequeno para resolução
 
-BNCC: EF09MA06 SAEB: 9A2.5
-
-Primeiramente podemos imaginar a tabela de maneira que tenha o
+\coment{Primeiramente podemos imaginar a tabela de maneira que tenha o
 distanciamento de uma unidade para cada valor de x.
 
-\begin{longtable}[]{@{}llllllll@{}}
-\toprule\noalign{}
-x & --1 & 0 & 1 & 2 & 3 & 4 & 5 \\
-\midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
-y & --4 & --1 & 2 & 5 & 8 & 11 & 14 \\
-\end{longtable}
+\begin{table}[]
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+\hline
+\textbf{x} & - 1 & 0 & 1 & 2 & 3 & 4 & 5 \\ \hline
+\textbf{y} & - 4 & - 1 & 2 & 5 & 8 & 11 & 14 \\ \hline
+\end{tabular}
+\end{table}
 
 Com a tabela ampliada fica claro o aumento de 3 unidades em y a cada
-aumento de 1 unidade em x. Essa regularidade nos aponta que em é função
-afim do tipo y = ax+b e o valor de a é 3. Para determinar o valor de b
-basta ajustar o valor:
+aumento de 1 unidade em x. Essa regularidade nos aponta que se trata de
+função afim do tipo $y = ax+b$ e o valor de a é 3. Para determinar o valor
+de b basta ajustar o valor:
 
-Para x = 0, por exemplo, y = 3·0 + b = --1 (dado da tabela) 0 + b = --
-1, ou seja, b = -- 1.
+Para $x = 0$, por exemplo, $y = 3 \cdot 0 + b = -1$ (dado da tabela) 
+$0 + b = -1$, ou seja, $b = - 1$.
+$y = 3x - 1$}
 
-y = 3x -- 1
-
-3) Considere o gráfico da função real representado no plano cartesiano a
+\num{3} Considere o gráfico da função real representado no plano cartesiano a
 seguir.
 
 \begin{figure}
@@ -2951,48 +2936,49 @@ seguir.
 \caption{Forma Descrição gerada automaticamente}
 \end{figure}
 
-Determine a função afim, f(x).
+Determine a função afim, $f(x)$.
 
-Deixar 4 linhas
+%deixar box médio para resolução
 
-BNCC: EF09MA06 SAEB: 9A2.5
+\coment{Como o eixo y é ``cortado'' no valor 4, temos que $b = 4$. Para
+determinar o valor de a, vamos substituir na função, pois pelo gráfico 
+sabemos que $f(2) = 0$ (raiz da função).
 
-Como o eixo y é ``cortado'' no valor 4, temos que b = 4, para determinar
-o valor de a vamos substituir na função, pois pelo gráfico sabemos que
-f(2) = 0 (raiz da função).
+$f(2) = a \cdot 2 + 4 = 0 \rightarrow \\
+2a = - 4 \rightarrow a = - 2 \cdot f(x) = - 2x + 4$.}
 
-f(2) = a · 2 + 4 = 0 →2a = - 4 → a = - 2. f(x) = - 2x + 4.
+\num{4} Para se deslocar em uma cidade que não possui transporte
+de carro por aplicativo, é preciso contar com uma das empresas de transporte.
 
-4) Para se deslocar em uma cidade de interior que não possui transporte
-de carro por aplicativo utiliza-se uma das empresas de transporte.
+% Please add the following required packages to your document preamble:
+% \usepackage[table,xcdraw]{xcolor}
+% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
+\begin{table}[]
+\begin{tabular}{|
+>{\columncolor[HTML]{DAE8FC}}l |c|c|}
+\hline
+ & \cellcolor[HTML]{DAE8FC}\textbf{Empresa 1} & \cellcolor[HTML]{DAE8FC}\textbf{Empresa 2} \\ \hline
+\textbf{Taxa fixa (R\$)} & 5 & 7 \\ \hline
+\textbf{Taxa por quilômetro (R\$/km)} & 0,45 & 0,35 \\ \hline
+\end{tabular}
+\end{table}
 
-\begin{longtable}[]{@{}lll@{}}
-\toprule\noalign{}
-& \textbf{Empresa 1} & \textbf{Empresa 2} \\
-\midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
-\textbf{Taxa fixa (R\$)} & 5 & 7 \\
-\textbf{Taxa por quilômetro (R\$/km)} & 0,45 & 0,35 \\
-\end{longtable}
+Baseado nestes preços, em qual distância o valor das duas empresas se
+iguala?
 
-Baseado nestes preços para qual distância o valor das duas empresas se
-iguala.
+%deixar box médio para resolução
+\coment{Empresa 1: $P_1 = 0,45x + 5$
 
-Deixar 4 linhas
+Empresa 2: $P_2 = 0,35x + 7$
 
-BNCC: EF09MA06 SAEB: 9A2.5
+$P_1 = P_2 \rightarrow 0,45x + 5 = 0,35x + 7 \\
 
-Empresa1: P\textsubscript{1} = 0,45x + 5
+0,10x = 2 \rightarrow x = 20$ km
 
-Empresa2: P\textsubscript{2} = 0,35x + 7
+Portanto, o valor da corrida das duas empresas é o mesmo quando são 
+percorridos 20 km.}
 
-P\textsubscript{1} = P\textsubscript{2} → 0,45x + 5 = 0,35x + 7
-
-0,10x = 2 → x = 20 km
-
-5) Carlos trabalha como segurança, cobrando uma taxa fixa de 150,00 mais
+\num{5} Carlos trabalha como segurança, cobrando uma taxa fixa de 150,00 mais
 20,00 por hora. Roberto, na mesma função, cobra uma taxa fixa de 120,00
 mais 25,00 por hora. O tempo máximo para contratarmos o Roberto, de tal
 forma que não seja mais caro que o de Carlos será, em horas, igual a
@@ -3015,7 +3001,7 @@ P\textsubscript{C} = P\textsubscript{R} → 20x + 150 = 25x + 120
 
 30 = 5x → x = 6.
 
-\textbf{6) O corte transversal de um túnel, de pista única, em que a
+\num{6} O corte transversal de um túnel, de pista única, em que a
 base tem 30 m de largura e} a altura máxima é de 10 m, o formato é um
 arco de parábola, conforme representado na ilustração e no gráfico a
 seguir, sendo o vértice da parábola.
@@ -3044,7 +3030,7 @@ a·(225 -- 450) = 10 → a = \(- \ \frac{10}{225} = \  - \ \frac{2}{45}\).
 
 \(f\left( a \right) = - \ \frac{2}{45}(x^{2} - 30x)\).
 
-7) Em uma indústria, o custo de produção em mil reais de x mil unidades
+\num{7} Em uma indústria, o custo de produção em mil reais de x mil unidades
 de determinado produto, é dada pela função Calcule o custo para a
 produção de 100 unidades.
 
@@ -3054,7 +3040,7 @@ Calculando o custo para x = 100 temos:
 
 C(100) = 0,1·(100)² - 4·100 + 70 = 0,1·10000 -- 400 + 70 = 670.
 
-8) A concentração de um medicamento de certa medicação, em varia de
+\num{8} A concentração de um medicamento de certa medicação, em varia de
 acordo com a função em que é o tempo decorrido, em horas, após a
 ingestão da medicação, durante um período de observação de horas.
 Determine a concentração após 12 horas.
@@ -3063,7 +3049,7 @@ BNCC: EF09MA06 SAEB: 9A1.7
 
 C = 6·12 -- 0,25·12² = 72 -- 36 = 36.
 
-9) Qual função representa o gráfico abaixo?
+\num{9} Qual função representa o gráfico abaixo?
 
 \begin{figure}
 \centering
@@ -3089,7 +3075,7 @@ Resolvendo o sistema
 
 \(f\left( x \right) = \frac{2}{3}x + \frac{2}{3}\).
 
-10) O deslocamento de um balão é dado pelo gráfico abaixo. Sabe-se que a
+\num{10} O deslocamento de um balão é dado pelo gráfico abaixo. Sabe-se que a
 altura máxima foi atingida na metade do tempo. A altura em metros, do
 balão, está em função do tempo em horas, através da fórmula . Qual é
 altura máxima?
