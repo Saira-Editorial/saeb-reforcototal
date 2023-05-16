@@ -119,7 +119,7 @@ Leia o texto para responder às questões 1 e 2.
 
 >Se você me acompanha, sabe que sou fascinada por distopias. Não perco a oportunidade de ler uma boa história desse gênero. Então, quando recebi o livro "A família Mandible" como a escolha de janeiro do Clube Intrínsecos, número 028, percebi que se tratava de uma sátira distópica. Minha curiosidade ficou imensa e eu mal podia esperar para devorar o livro assim que tivesse a chance. Fiquei ainda mais intrigada quando descobri que, em vez de abordar uma distopia futurista com invasões de zumbis ou alienígenas, o enredo tratava de um apocalipse financeiro que levou os Estados Unidos da América, uma das maiores potências mundiais, ao colapso. No entanto, será que, ao final da leitura, achei que toda essa curiosidade valeu a pena? Venha descobrir!
 
-\fonte{Evelyn Butgnoli. Viagem literária. A família Mandible - Lionel Shriver. Disponível em: _http://www.viagemliteraria.com.br/2021/03/a-familia-mandible-lionel-shriver.html_. Acesso em: 10 fev. 2023.
+\fonte{Fonte de pesquisa: Evelyn Butgnoli. Viagem literária. A família Mandible - Lionel Shriver. Disponível em: _http://www.viagemliteraria.com.br/2021/03/a-familia-mandible-lionel-shriver.html_. Acesso em: 10 fev. 2023.
 
 \num{1} Os gêneros textuais podem ser reconhecidos com base em determinadas
 características que apresentam. Considerando-se as características do
@@ -220,7 +220,7 @@ d) Incorreta. As doenças são graves, e a vacinação é importante, mas a feli
 
 # Módulo 2 
 
- ** -- **Gêneros textuais informativos**
+ **Gêneros textuais informativos**
  
  \colorsec{Habilidades do SAEB}
  - Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
@@ -232,12 +232,11 @@ d) Incorreta. As doenças são graves, e a vacinação é importante, mas a feli
 - EF69LP02, EF69LP20, EF69LP27, EF08LP01.
 
 Os gêneros textuais informativos têm o objetivo de informar sobre
-determinado assunto, objeto ou fato, por isso são centrados na
+determinado assunto, objeto ou fato. Por isso, são centrados na
 informação a ser transmitida, sem juízo de valor por parte do autor,
-prezando assim pela isenção e imparcialidade, diferentemente do que
-ocorre nos gêneros argumentativos, que são opinativos. Dentre os gêneros
-informativos, destacam-se a notícia, a reportagem, o artigo científico e
-o verbete.
+prezando assim pela isenção e pela imparcialidade, diferentemente do que
+ocorre nos gêneros argumentativos, que são opinativos. Entre os gêneros
+informativos, destacam-se a **notícia**, a **reportagem**, o **artigo científico** e o **verbete**.
 
 Por não conterem opinião ou pontos de vista do autor, não pretendem
 também convencer o leitor ou ganhar sua adesão. Sendo assim, não há
@@ -248,244 +247,149 @@ A linguagem nos gêneros textuais informativos é objetiva (impessoal, em
 3ª pessoa), concisa (focada nas informações essenciais), denotativa
 (literal) e clara (precisa), com predominância da norma-padrão.
 
-Assim como acontece nos gêneros textuais argumentativos, há nos gêneros
-textuais informativos o uso de dados, estatísticas e citação para
-reforçar a veracidade da informação e garantir a credibilidade dela, já
-que se trata dos domínios jornalístico e científico, que têm seu rigor e
-compromisso próprios.
-
-Para fins de organização do conteúdo visto até aqui, o esquema a seguir
-classifica alguns dos gêneros textuais do domínio
-jornalístico/midiático, subdividindo-os em argumentativos e
-informativos.
-
-Este esquema é apenas um rascunho. Gentileza montar algo mais
-profissional.
-
-                                                                        Artigo de opinião
-  ------------------------------------ -------------------------------- -----------------------------------------
-                                       **Argumentativos/ opinativos**   Resenha crítica
-                                                                        Carta de leitor
-  **Domínio jornalístico/midiático**                                    Editorial
-                                                                        Anúncio publicitário
-                                                                        
-                                       **Informativos**                 Notícia
-                                                                        Reportagem
-                                                                        Verbete
-                                                                        Artigo científico
-                                                                        Outros gêneros de divulgação científica
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+Pode haver nos gêneros textuais informativos o uso de dados, estatísticas e citação para reforçar a veracidade da informação e garantir a credibilidade dela, já que se trata do domínio jornalístico e do científico, que têm seu rigor e compromisso próprios.
 
 \colorsec{Atividades}
 
-**Texto para as questões de 1 a 4.**
+Para resolver as atividades de 1 a 4, leia uma manchete e o respectivo subtítulo a seguir.
 
-**TEXTO I**
+>**Estudo confirma que o vírus da zika não é transmitido pela saliva**
+>*Baixas quantidades virais, substâncias antimicrobianas naturais e textura viscosa dificultam a infecção do zika por meio de contato com a saliva, de acordo com o artigo.*
 
-![Tela de celular com texto preto sobre fundo branco Descrição gerada
-automaticamente com confiança
-média](./imgSAEB_8_POR/media/image3.png){width="5.353472222222222in"
-height="1.493860454943132in"}
+\fonte{G1. Estudo confirma que o vírus da zika não é transmitido pela saliva. Disponível em: _https://g1.globo.com/bemestar/zika-virus/noticia/estudo-confirma-que-o-virus-da-zika-nao-e-transmitido-pela-saliva.ghtml_. Acesso em: 16 maio 2023.}
 
-Disponível em:
-https://g1.globo.com/bemestar/zika-virus/noticia/estudo-confirma-que-o-virus-da-zika-nao-e-transmitido-pela-saliva.ghtml.
-Acesso em: 15 fev. 2023.
+\num{1} Apenas com base nessas informações, provavelmente você logo reconheceu o gênero
+textual a que o texto pertence e deduziu o objetivo comunicativo dele.
+Cite-os.
 
-\num{1} Ao ver esse texto, provavelmente você logo reconheceu o gênero
-textual a que ele pertence e deduziu o objetivo comunicativo dele.
-Cite-os. (2 linhas)
+\linhas{4}
+\coment{Trata-se de uma notícia, e o objetivo comunicativo é informar sobre uma descoberta científica que envolve o vírus da zika e sua transmissão.}
 
-Cabe chamar a atenção do aluno para as características do texto em
-questão: ele apresenta um título e um subtítulo; a linguagem é impessoal
-e objetiva, pois privilegia a 3ª pessoa e se apoia num estudo para
-confirmar o que diz; além disso, não há sentidos figurados e sim
-literais, e os verbos estão no presente do indicativo, trazendo uma
-sensação de atualidade do conteúdo. Portanto, o gênero é notícia e o
-objetivo comunicativo é informar sobre uma descoberta científica que
-envolve o vírus da zika e sua transmissão.
+\num{2} Aponte e explique uma marca de impessoalidade e objetividade
+presente nesse texto.
 
-\num{2} Aponte e explique uma marca de impessoalidade/objetividade
-presente nesse texto. (5 linhas)
+\linhas{6}
+\coment{No texto, isso é feito por meio do uso da 3ª pessoa e da ausência de adjetivação valorativa.}
 
-A impessoalidade/objetividade diz respeito à ausência de marcas de
-autoria do que se diz no texto e ausência de valoração ou pontos de
-vista. No texto, isso é feito por meio do uso da 3ª pessoa (por exemplo,
-a frase do título) e da ausência de adjetivação valorativa.
+\num{3} Qual recurso é utilizado no texto para afastar a responsabilidade pelo que é dito?
 
-\num{3} Qual recurso é utilizado no texto para afastar a responsabilidade
-pelo que é dito?
-
-(4 linhas)
-
-O recurso é utilizado no texto para afastar a responsabilidade pelo que
-é dito é a citação de um estudo científico prévio que pesquisou e fez
-conclusões sobre o tema, sendo, portanto, o responsável pelos resultados
-informados na notícia em questão.
+\linhas{4}
+\coment{Trata-se da citação de um estudo científico prévio que pesquisou e fez conclusões sobre o tema}
 
 \num{4} Há mais de uma interpretação possível para o conteúdo desse
-texto? Justifique.
+texto? Justifique sua resposta.
 
-(4 linhas)
-
-Não. Há apenas uma interpretação possível porque o texto privilegia o
+\linhas{6}
+\coment{Não. Há apenas uma interpretação possível porque o texto privilegia o
 sentido literal das palavras, dando ao leitor pouca possibilidade de
 interpretação para além do sentido pretendido, já que as palavras são
-empregadas em seu sentido original, dicionarizado.
+empregadas em seu sentido original, dicionarizado.}
 
-**Texto para as questões 5 e 6.**
+Para resolver as atividades 5 e 6, leia o texto a seguir.
 
-**TEXTO II**
+>**Nova espécie de orangotango descoberta em pequena ilha**
 
-**Nova espécie de orangotango descoberta em pequena ilha**
+>Cientistas da universidade suíça de Zurique que estão trabalhando em Sumatra, uma ilha na Indonésia, conseguiram confirmar que uma pequena população de orangotangos é, de fato, uma espécie nova e anteriormente desconhecida.
 
-Pesquisadores da universidade suíça de Zurique alocados em Sumatra, uma
-ilha da Indonésia, conseguiram comprovar que uma pequena população de
-orangotangos era, na verdade, uma nova espécie até então desconhecida.
+>A investigação teve início em 2013, quando os restos mortais de um orangotango macho revelaram que certas características dentárias e cranianas do primata eram distintas e exclusivas, conforme informado pela instituição acadêmica.
 
-A descoberta teve início em 2013, quando os restos mortais de um
-orangotango macho mostraram "que certas características dos dentes e do
-crânio do macaco eram únicas", segundo o material divulgado pela
-faculdade.
+\fonte{Fonte de pesquisa: Vix. Mulher. Nova espécie de orangotango descoberta em pequena ilha: como são os tapanuli?. Disponível em: _https://www.mulher.com.br/atualidades/ciencia/nova-especie-de-orangotango-descoberta-em-pequena-ilha-como-sao-os-tapanuli_. Acesso em: 16 fev. 2023.
 
-Disponível em:
-https://www.mulher.com.br/atualidades/ciencia/nova-especie-de-orangotango-descoberta-em-pequena-ilha-como-sao-os-tapanuli.
+\num{5} Sobre o texto, responda às perguntas básicas de estruturação de uma notícia.
 
-Acesso em: 16 fev. 2023 (fragmento).
+a) O fato. O que aconteceu?
+\linhas{2}
+\coment{Descoberta de uma nova espécie de orangotango}
 
-\num{5} Preencha o quadro com as informações pedidas sobre o texto.
+b) O modo. De que forma aconteceu?
+\linhas{2}
+\coment{Pela análise das características dos dentes e do crânio de um orangotango macho morto.}
 
-  O que aconteceu? (o fato)   
-  --------------------------- --
-  Como? (de que forma)        
-  Onde? (o local)             
-  Quando? (o tempo)           
-  Quem? (Os participantes)    
+c) O local. Onde aconteceu?
+\linhas{2}
+\coment{Na pequena ilha de Sumatra.}
 
-Trata-se de uma teoria básica da estruturação de uma notícia. As
-informações que serão preenchidas no quadro estão presentes em toda
-notícia e são requisitos desse gênero textual.
+d) O tempo. Quando aconteceu?
+\linhas{2}
+\coment{Em 2013.}
 
-  O quê? (o fato)            Descoberta de uma nova espécie de orangotango
-  -------------------------- ---------------------------------------------------------------------------------------
-  Como? (de que forma)       Pela análise das características dos dentes e do crânio de um orangotango macho morto
-  Onde? (o local)            Numa pequena ilha de Sumatra
-  Quando? (o tempo)          Em 2013
-  Quem? (os participantes)   Pesquisadores da universidade suíça de Zurique
+e) Os participantes. Quem são as pessoas envolvidas?
+\linhas{2}
+\coment{Pesquisadores da universidade suíça de Zurique.}
 
 \num{6} Assinale com um X as características que você identifica no
 texto, de acordo com o gênero textual a que ele pertence.
 
-  (   ) Objetividade (3ª pessoa)                   (   ) Impessoalidade
-  ------------------------------------------------ -------------------------------------
-  (    ) Citação de autoridade no assunto          (   ) Parcialidade
-  ( ) Concisão (foco nas informações essenciais)   (    ) Escrita em norma-padrão
-  (   ) Prolixidade                                (   ) Sentido conotativo (figurado)
-  (   ) Escrita em norma não padrão                (   ) Imparcialidade
-  (   ) Sentido denotativo (literal)               (   ) Pessoalidade
-  (   ) Subjetividade (1ª pessoa)                  
+( \coment{X} ) Objetividade (3ª pessoa).
+( \coment{X} ) Impessoalidade.
+( \coment{X} ) Citação de autoridade no assunto.
+(   ) Parcialidade.
+( \coment{X} ) Concisão (foco nas informações essenciais).
+( \coment{X} ) Escrita em norma-padrão.
+(   ) Prolixidade.
+(   ) Sentido conotativo (figurado).
+(   ) Escrita em norma não padrão.
+( \coment{X} ) Imparcialidade.
+( \coment{X} ) Sentido denotativo (literal).
+(   ) Pessoalidade.
+(   ) Subjetividade (1ª pessoa).
 
-O gênero textual notícia pressupõe centralidade na informação,
-pressupondo assim objetividade e distanciando-se, portanto, da
-subjetividade. Dessa forma, as demais características vão sendo daí
-deduzidas, sempre se afastando da subjetividade e da marca de autoria.
-São características presentes no texto em questão.
+Para resolver as atividades de 7 a 10, leia o texto a seguir.
 
-  ( X ) Objetividade (3ª pessoa)                     ( X ) Impessoalidade
-  -------------------------------------------------- -------------------------------------
-  ( X ) Citação de autoridade no assunto             (   ) Parcialidade
-  ( X ) Concisão (foco nas informações essenciais)   ( X ) Escrita em norma-padrão
-  (   ) Prolixidade                                  (   ) Sentido conotativo (figurado)
-  (   ) Escrita em norma não padrão                  ( X ) Imparcialidade
-  ( X ) Sentido denotativo (literal)                 (   ) Pessoalidade
-  (   ) Subjetividade (1ª pessoa)                    
+>**Plantas medicinais: uma abordagem sobre o uso seguro e racional**
 
-**Texto para as questões de 7 a 10.**
+>Diversas espécies vegetais possuem propriedades medicinais e servem como complementos terapêuticos no tratamento de doenças, trazendo benefícios consideráveis para a saúde quando utilizadas de forma racional e apropriada. No entanto, as plantas contêm uma ampla gama de compostos químicos, que podem ser benéficos, mas também acarretar potenciais riscos à saúde. Portanto, é crucial que os usuários, profissionais da área da saúde e prescritores possuam conhecimento sobre as plantas, incluindo sua identificação correta, conservação, métodos de preparo e uso, bem como os possíveis efeitos colaterais.
 
-**TEXTO III**
+>Neste artigo, são abordadas as plantas medicinais, seus riscos e benefícios, levando em consideração as publicações científicas contemporâneas. Destaca-se a importância dos profissionais de saúde como educadores e promotores de saúde nas comunidades, especialmente aquelas que utilizam o Sistema Único de Saúde.
 
-**Plantas medicinais: uma abordagem sobre o uso seguro e racional**
+\fonte{Fonte de pesquisa: SCIELO. Plantas medicinais: uma abordagem sobre o uso seguro e racional. Disponível em:
+_https://www.scielo.br/j/physis/a/kwsS5zBL84b5w9LrMrCjy5d/_. Acesso em: 18 fev. 2023.}
 
-Muitas plantas são utilizadas com finalidades medicinais, constituindo
-alternativas terapêuticas complementares ao tratamento de doenças,
-trazendo inúmeros benefícios à saúde, quando utilizadas racionalmente e
-de maneira adequada. No entanto, as plantas constituem um arsenal grande
-de constituintes químicos, que podem ser benéficos, mas também podem
-representar um risco potencial à saúde. Desse modo, é importante que o
-usuário, os profissionais de saúde e os prescritores tenham
-conhecimentos sobre a planta, a correta identificação, conservação, modo
-de preparo e uso, além dos possíveis efeitos colaterais. Neste artigo,
-as plantas medicinais, seus riscos e benefícios são discutidos à luz das
-publicações científicas contemporâneas, atentando para a contribuição
-dos profissionais de saúde em relação ao seu papel de educadores e
-promotores de saúde atuantes em comunidades, especialmente aquelas
-usuárias do Sistema Único de Saúde.
+\num{7} O texto relaciona-se ao gênero artigo. Marque o subgênero a que ele se relaciona.
 
-Disponível em:
-https://www.scielo.br/j/physis/a/kwsS5zBL84b5w9LrMrCjy5d/.
+( \coment{X} ) Artigo científico.
+(  ) Artigo de opinião.
 
-Acesso em: 18 fev. 2023 (fragmento adaptado).
+\num{8} Qual elemento ou característica do texto determinou sua
+resposta à questão anterior?
 
-\num{7} O texto é do gênero artigo. Marque o subgênero a que ele
-pertence.
-
-( ) Artigo científico ( ) Artigo de opinião
-
-A questão exige que o aluno identifique as características que
-diferenciam o artigo científico do artigo de opinião. A diferença básica
-é a ausência de valoração e juízo de valor no artigo científico e a
-centralidade no objetivo comunicativo de informar.
-
-\num{8} Qual elemento ou característica do texto determinou a sua
-resposta à questão anterior? (3 linhas)
-
-Nesta questão, o aluno vai explicitar o que foi dito na resolução da
-questão anterior sobre as características que diferenciam o artigo
-científico do artigo de opinião, ou algo mais que tenha percebido e que
-seja coerente. Uma possibilidade de resposta é a ausência de valoração e
+\linhas{6}
+\coment{Uma possibilidade de resposta é a ausência de valoração e
 juízo de valor no artigo científico e a centralidade no objetivo
-comunicativo de informar.
+comunicativo de informar.}
 
-\num{9} O que o trecho "à luz das publicações científicas contemporâneas"
-revela quanto ao conteúdo do artigo? (4 linhas)
+\num{9} O que o trecho "levando em consideração as publicações científicas contemporâneas"
+revela sobre o conteúdo do texto? Explique.
 
-O trecho é uma citação de autoridade no assunto em questão. Não há
+\linhas{6}
+\coment{O trecho é uma representação de autoridade no assunto em questão. Não há
 citação explícita, mas fica claro que o conteúdo do artigo se apoiará em
 comprovações científicas prévias que já abordaram o assunto. Ou seja,
-parte do conteúdo do artigo já foi dita ou afirmada por outrem.
+parte do conteúdo do artigo já foi dita ou afirmada por outrem.}
 
-\num{0} Em sua opinião, esse artigo é voltado para leitores comuns ou
-para leitores específicos? Justifique e cite o público-alvo, se for o
-caso. (2 linhas)
+\num{10} Em sua opinião, esse artigo é voltado para leitores comuns ou
+para leitores específicos? Justifique sua resposta e cite o público-alvo.
 
-O texto exige certo conhecimento prévio sobre plantas medicinais e a
-área de saúde. Além disso, o assunto traz um recorte bastante específico
-que, por outro motivo que não o de estudo, não interessaria ao grande
-público, isto é, ao leitor comum. Portanto, podemos dizer que seu
-público-alvo é específico, restringindo-se, por exemplo, aos
-profissionais da saúde e a outros interessados em plantas medicinais.
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\linhas{6}
+\coment{O texto exige certo conhecimento prévio sobre plantas medicinais e a área de saúde. Além disso, o assunto traz um recorte bastante específico que, por outro motivo que não o de estudo, não interessaria ao grande público, isto é, ao leitor comum. Portanto, podemos dizer que seu público-alvo é específico, restringindo-se, por exemplo, aos
+profissionais da saúde e a outros interessados em plantas medicinais.}
 
 \colorsec{Treino}
 
-\num{1}
+\num{1} Leia o texto.
 
-![Interface gráfica do usuário, Texto, Aplicativo, chat ou mensagem de
-texto, Email Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image4.png){width="5.905555555555556in"
-height="1.7868055555555555in"}
+>**Defesa Civil alerta para chuvas intensas em SP no carnaval**
 
-O carnaval em São Paulo terá chuvas intensas, segundo alerta da Defesa
-Civil Estadual. A previsão meteorológica é que o volume alcance de 80
-milímetros a 250 milímetros até domingo (19). O litoral norte do estado
-deve ser o mais impactado. A Baixada Santista, Serra da Mantiqueira,
-Vale do Ribeira e Itapeva podem ter até 150 milímetros de chuvas. Com o
-solo já encharcado, há risco de deslizamentos em regiões de encosta.
+>O carnaval em São Paulo terá chuvas intensas, segundo alerta da Defesa Civil Estadual. A previsão meteorológica é que o volume alcance de 80 milímetros a 250 milímetros \[...]. O litoral norte do estado deve ser o mais impactado. A Baixada Santista, Serra da Mantiqueira, Vale do Ribeira e Itapeva podem ter até 150 milímetros de chuvas. Com o solo já encharcado, há risco de deslizamentos em regiões de encosta.
 
-Disponível em:
-https://agenciabrasil.ebc.com.br/geral/noticia/2023-02/defesa-civil-alerta-para-chuvas-intensas-no-carnaval-em-sao-paulo.
-Acesso em: 17 fev. 2023 (fragmento).
+>A chegada de uma frente fria \[...] deixa o tempo instável e cria condições para chuvas intensas, com momentos de temporais na faixa leste do estado. A previsão é que também ocorram raios, vento e granizo. A temperatura ficará mais amena \[...].
+
+>Para quem mora em São José dos Campos, Barretos e Franca, o total de chuvas pode alcançar a 100 milímetros. Na capital e região metropolitana, Campinas, Sorocaba, Ribeirão Preto e Araraquara, o volume total de precipitações é de até 80 milímetros.
+
+>\[...]
+
+\fonte{Agência Brasil. Defesa Civil alerta para chuvas intensas em SP no carnaval. Disponível em:
+_https://agenciabrasil.ebc.com.br/geral/noticia/2023-02/defesa-civil-alerta-para-chuvas-intensas-no-carnaval-em-sao-paulo_. Acesso em: 17 fev. 2023.
 
 A finalidade desse texto é
 
@@ -497,42 +401,41 @@ c\) ensinar.
 
 d\) informar.
 
-Saeb: Identificar elementos constitutivos de textos pertencentes ao
+SAEB: Identificar elementos constitutivos de textos pertencentes ao
 domínio jornalístico/midiático.
-
-BNCC: EF08LP01
+BNCC: EF08LP01 -- Identificar e comparar as várias editorias de jornais impressos e digitais e de sites noticiosos, de forma a refletir sobre os tipos de fato que são noticiados e comentados, as escolhas sobre o que noticiar e o que não noticiar e o destaque/enfoque dado e a fidedignidade da informação.
 
 \(A\) Incorreta. O gênero textual é notícia e, assim, não se encontram
 no texto marcas de valoração ou pontos de vista.
-
 \(B\) Incorreta. Embora o texto possa gerar a sensação de alerta na
 população, por antecipar grande volume de chuva, a finalidade
 comunicativa primária de uma notícia não é alertar.
-
 \(C\) Incorreta. O gênero notícia não tem como característica o
-didatismo nem se encontram no texto marcas de instrução ao leitor.
-
+didatismo, nem se encontram no texto marcas de instrução ao leitor.
 \(D\) Correta. O gênero notícia tem a finalidade de informar o leitor
 sobre acontecimentos passados e futuros relevantes para a sociedade.
 
-\num{2}
+\num{2} Leia o texto.
 
+>**Retrospectiva 2022: confira as principais notícias de janeiro**
+
+>\[...]
+>
 A nova variante Ômicron do novo coronavírus fez com que o mundo
 mergulhasse em uma nova onda da doença no começo de 2022. Já nos
 primeiros dias do ano, 4 mil voos foram cancelados no mundo. No dia 19,
 a Organização Pan-Americana de Saúde (Opas) afirmou que o vírus se
 espalhava "como nunca antes" nas Américas. No mesmo dia, a Fundação
 Oswaldo Cruz (Fiocruz) revelou que o aumento do número de casos no
-Brasil era seis vezes acima do observado no início de dezembro de 2021.
+Brasil era seis vezes acima do observado no início de dezembro de 2021. \[...]
 
-Disponível em:
-https://agenciabrasil.ebc.com.br/geral/noticia/2022-09/retrospectiva-2022-confira-principais-noticias-de-janeiro.
-Acesso em: 13 fev. 2023.
+\fonte{Agência Brasil. Retrospectiva 2022: confira as principais notícias de janeiro. Disponível em:
+_https://agenciabrasil.ebc.com.br/geral/noticia/2022-09/retrospectiva-2022-confira-principais-noticias-de-janeiro_. Acesso em: 13 fev. 2023.}
 
 Considerando-se a relevância do assunto e as características do texto,
 as aspas em "como nunca antes" foram usadas para
 
-a\) destacar a frase e assim chamar a atenção do leitor.
+a\) destacar a frase para chamar a atenção do leitor.
 
 b\) citar os dados que comprovam a verdade da notícia.
 
@@ -540,64 +443,45 @@ c\) informar que o vírus se espalha de uma maneira nova.
 
 d\) atribuir a frase a um terceiro com maior credibilidade.
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
+SAEB: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
-
-BNCC: (EF08LP01) Identificar e comparar as várias editorias de jornais
+BNCC: EF08LP01 -- Identificar e comparar as várias editorias de jornais
 impressos e digitais e de *sites* noticiosos, de forma a refletir sobre
 os tipos de fato que são noticiados e comentados, as escolhas sobre o
-que noticiar e o que não noticiar e o destaque/enfoque
-
-dado e a fidedignidade da informação.
+que noticiar e o que não noticiar e o destaque/enfoque dado e a fidedignidade da informação.
 
 \(A\) Incorreta. Outros tipos de destaque poderiam ser usados para
 chamar a atenção do leitor, tais como negrito, itálico, sublinhado, os
 quais não carregariam, entretanto, o mesmo valor do uso das aspas nesse
 texto.
-
-\(B\) Incorreta. O trecho entre aspas não traz dados no sentido estrito,
+\(B\) Incorreta. O trecho entre aspas não traz dados no sentido estrito;
 trata-se apenas de parte de um texto maior da Organização Pan-Americana
 de Saúde, ao qual o leitor não tem acesso na notícia em questão.
-
 \(C\) Incorreta. Do ponto de vista semântico, o trecho entre aspas
 realmente significa que o vírus se espalha de uma maneira nova,
-diferente do modo até então conhecido. Porém, as aspas não foram usadas
+diferentemente do modo até então conhecido. Porém, as aspas não foram usadas
 simplesmente para informar isso. Seu valor é externo ao texto, pois está
 relacionado aos princípios de isenção e objetividade do jornalismo.
-
 \(D\) Correta. O texto jornalístico, em geral, preza pela objetividade e
-isenção. Uma das formas de atender a esses requisitos é citar entre
-aspas as palavras de outrem. No texto em questão, as aspas foram usadas
-evitar assumir a responsabilidade por uma afirmação categórica feita, na
-verdade, por uma instituição que tem legitimidade para tal (a
+pela isenção. Uma das formas de atender a esses requisitos é citar entre
+aspas as palavras de outrem. No texto em questão, as aspas foram usadas para evitar assumir a responsabilidade por uma afirmação categórica feita, na
+realidade, por uma instituição que tem legitimidade para tal (a
 Organização Pan-Americana de Saúde). Isso significa que tal instituição
 tem maior credibilidade, de modo que as aspas servem, ao mesmo tempo,
 para comprovar que a notícia veicula informações reais já confirmadas
 por instituição competente.
 
-\num{3}
+\num{3} Leia o texto.
 
-Se alguém lhe disser: "você dorme como um urso!", saiba que anda
-dormindo demais. Afinal, ursos são capazes de dormir por muito, muito
-tempo. Na verdade, eles hibernam. Passam meses sem acordar para comer,
-beber água, tomar banho... \[\...\]
+>**Uma soneca por todo o inverno**
+>
+>Se alguém comentar: "Você dorme como um urso!", saiba que está dormindo excessivamente. Afinal, os ursos têm a capacidade de dormir por períodos extremamente longos. Na realidade, eles hibernam, ficando meses sem acordar para comer, beber água ou se higienizar. Mas como os ursos e outros animais conseguem fazer isso?
+>
+>A natureza parece encontrar soluções para tudo. No inverno, os recursos naturais diminuem. Basta observar as árvores, por exemplo, e perceber que há menos folhas e menos frutas disponíveis. Nesse contexto, para alguns animais, é mais vantajoso "dormir" durante esse período de escassez alimentar.
+>
+>É claro que dormir por um período tão prolongado requer algum tipo de preparação. Nas estações que antecedem o inverno, os animais que hibernam se preparam comendo em grande quantidade. Dessa forma, eles acumulam reservas de energia na forma de gordura corporal. E, quando o inverno chega, eles estão prontos para passar longos e frios meses em suas tocas, até a chegada da primavera.
 
-### Mas por que dormir taaanto?
-
-\[\...\] O inverno é a época do ano em que os recursos naturais
-diminuem. Só de olharmos para as árvores, por exemplo, vemos que há
-menos folhas, menos frutos... Então, naturalmente, para alguns animais é
-melhor "dormir" neste período em que há menor oferta de alimentos. 
-
-Claro que dormir por um período tão grande requer algum preparo. Então,
-nas estações anteriores ao inverno, os animais que hibernam se preparam
-comendo muito! Assim, acumulam reservas de energia na forma de gordura
-corporal. E quando o inverno chega... estão prontinhos para passar
-longos e frios meses dentro da toca até que venha a primavera.
-
-Disponível em: https://chc.org.br/artigo/uma-soneca-por-todo-o-inverno/.
-
-Acesso em: 13 fev. 2023 (fragmento).
+\fonte{Fonte de pesquisa: Ciência Hoje das Crianças. Uma soneca por todo o inverno. Disponível em: _https://chc.org.br/artigo/uma-soneca-por-todo-o-inverno/_. Acesso em: 13 fev. 2023.}
 
 A linguagem não habitual empregada nesse texto contribui para alcançar o
 objetivo de
@@ -613,20 +497,17 @@ explicando com linguagem cotidiana a hibernação de alguns animais
 selvagens.
 
 d\) divulgar para a população os ditados populares inspirados no
-comportamento dos animais, como, por exemplo, "você dorme como um
-urso!".
+comportamento dos animais, como, por exemplo, o dito popular "você dorme como um urso".
 
-Saeb: Identificar elementos constitutivos de gêneros de divulgação
+SAEB: Identificar elementos constitutivos de gêneros de divulgação
 científica.
 
-BNCC: Sem correspondência exata.
-
-\(A\) Incorreta. O texto não é construído não com linguagem técnica, por
-isso seu público-alvo não são estudiosos nem pessoas com grande
+\(A\) Incorreta. O texto não é construído com linguagem técnica e, por
+isso, seu público-alvo não são estudiosos nem pessoas com grande
 conhecimento científico.
 
-\(B\) Incorreta. O texto não é construído não com linguagem técnica, por
-isso seu público-alvo não são biólogos, que, para aprenderem conteúdos
+\(B\) Incorreta. O texto não é construído com linguagem técnica e, por
+isso, seu público-alvo não são biólogos, que, para aprenderem conteúdos
 de sua área, provavelmente procurarão textos científicos especializados,
 normalmente divulgados em forma de artigos científicos, teses,
 dissertações.
@@ -636,7 +517,7 @@ vocabulário e linguagem simples e cotidianos, sem perder seu caráter
 científico, pois seu objetivo é fazer divulgação científica correta para
 o grande público não especializado.
 
-\(D\) Incorreta. Não é objetivo do texto divulgar o ditado popular, que
+\(D\) Incorreta. Não é o objetivo do texto divulgar o ditado popular, que
 nesse caso serve apenas para ativar um conhecimento prévio e corriqueiro
 do leitor, de modo a estabelecer com ele uma interação e ganhar sua
 atenção. Isso se confirma ainda pelo fato de apenas na introdução o
