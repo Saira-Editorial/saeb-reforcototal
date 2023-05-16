@@ -525,7 +525,7 @@ texto citar o ditado e não mais abordar o assunto.
 
 # Módulo 3 
 
- ** -- **Gêneros literários**
+ **Gêneros literários**
  
  \colorsec{Habilidades do SAEB}
  - Analisar elementos constitutivos de textos pertencentes ao domínio literário.
@@ -540,16 +540,16 @@ dos diversos gêneros textuais existentes na literatura de acordo com
 suas características em comum. Essas categorias são: gênero narrativo ou
 épico, gênero lírico e gênero dramático. Dessa forma, qualquer texto
 literário pode ser classificado como narrativo, lírico ou dramático com
-base em suas características. Vamos então conhecer as características de
-cada gênero literário e ver alguns exemplos.
+base em suas características.
 
 +----------------------+----------------------+----------------------+
-| **Gênero literário** | **Características**  | **Exemplos**         |
+| **Gênero literário** | **Características**  | **Exemplos**       |
 +======================+======================+======================+
 | Narrativo ou épico   | Conta uma história   | Conto, novela,       |
 |                      | estruturada com os   | romance, fábula,     |
 |                      | seguintes elementos: | crônica, conto de    |
-|                      |                      | fadas, lenda.        |
+|                      |                      | fadas, lenda, poema  | 
+|                      |                      | narrativo.           |
 |                      | -   Enredo (situação |                      |
 |                      |     > inicial ou     |                      |
 |                      |     > introdução,    |                      |
@@ -564,13 +564,10 @@ cada gênero literário e ver alguns exemplos.
 |                      | -   Tempo;           |                      |
 |                      |                      |                      |
 |                      | -   Espaço.          |                      |
-|                      |                      |                      |
-|                      | É geralmente escrito |                      |
-|                      | em prosa.            |                      |
 +----------------------+----------------------+----------------------+
 | Lírico               | Expressa emoções,    | Poema, letra de      |
 |                      | sentimentos, desejos | música, hino,        |
-|                      | e ideias subjetivos  | soneto, sátira.      |
+|                      | e ideias subjetivas  | soneto, sátira.      |
 |                      | do eu lírico (voz    |                      |
 |                      | que fala no poema).  |                      |
 |                      |                      |                      |
@@ -592,7 +589,7 @@ cada gênero literário e ver alguns exemplos.
 +----------------------+----------------------+----------------------+
 | Dramático            | É escrito para ser   | Peça de teatro,      |
 |                      | encenado por atores  | auto, comédia,       |
-|                      | num palco.           | tragicomédia.        |
+|                      | em um palco.         | tragicomédia.        |
 |                      |                      |                      |
 |                      | O texto tem a        |                      |
 |                      | seguinte estrutura:  |                      |
@@ -609,8 +606,8 @@ cada gênero literário e ver alguns exemplos.
 |                      |     > (instrução de  |                      |
 |                      |     > como a cena ou |                      |
 |                      |     > fala devem ser |                      |
-|                      |     > interpretadas) |                      |
-|                      |     > pelo ator;     |                      |
+|                      |     > interpretadas  |                      |
+|                      |     > pelo ator);    |                      |
 |                      |                      |                      |
 |                      | -   Falas dos        |                      |
 |                      |     > personagens.   |                      |
@@ -618,250 +615,180 @@ cada gênero literário e ver alguns exemplos.
 
 \colorsec{Atividades}
 
-**Texto para as questões de 1 a 3.**
+Para resolver as atividades de 1 a 3, leia o poema a seguir.
 
-**TEXTO I**
+>**Presságio**
 
-**Presságio**
+>O amor, quando se revela,
 
-O amor, quando se revela,
+>Não se sabe revelar.
 
-Não se sabe revelar.
+>Sabe bem olhar p'ra ela,
 
-Sabe bem olhar p'ra ela,
+>Mas não lhe sabe falar.
 
-Mas não lhe sabe falar.
+>Quem quer dizer o que sente
 
-Quem quer dizer o que sente
+>Não sabe o que há de dizer.
 
-Não sabe o que há de dizer.
+>Fala: parece que mente...
 
-Fala: parece que mente...
+>Cala: parece esquecer...
 
-Cala: parece esquecer...
+>Ah, mas se ela adivinhasse,
 
-Ah, mas se ela adivinhasse,
+>Se pudesse ouvir o olhar,
 
-Se pudesse ouvir o olhar,
+>E se um olhar lhe bastasse
 
-E se um olhar lhe bastasse
+>P'ra saber que a estão a amar!
 
-P'ra saber que a estão a amar!
+>Mas quem sente muito, cala;
 
-Mas quem sente muito, cala;
+>Quem quer dizer quanto sente
 
-Quem quer dizer quanto sente
+>Fica sem alma nem fala,
 
-Fica sem alma nem fala,
+>Fica só, inteiramente!
 
-Fica só, inteiramente!
+>Mas se isto puder contar-lhe
 
-Mas se isto puder contar-lhe
+>O que não lhe ouso contar,
 
-O que não lhe ouso contar,
+>Já não terei que falar-lhe
 
-Já não terei que falar-lhe
+>Porque lhe estou a falar...
 
-Porque lhe estou a falar...
-
-PESSOA, Fernando. Disponível em:
-<https://campusvirtual.fiocruz.br/portal/?q=palavra-chave-de-documentos/fernando-pessoa>.
-Acesso em: 12 mar. 2023.
+\fonte{Fernando Pessoa. Disponível em:
+_https://campusvirtual.fiocruz.br/portal/?q=palavra-chave-de-documentos/fernando-pessoa_. Acesso em: 12 mar. 2023.}
 
 \num{1} O poema "Presságio" versa sobre um sentimento humano, o amor.
-Esse amor é vivido na prática pelo eu lírico? Justifique. (4 linhas)
+Esse amor é vivido na prática pelo eu lírico? Explique e justifique.
 
-O poema de Fernando Pessoa retrata um amor platônico. Ao longo do texto,
+\linhas{10}
+\coment{O poema de Fernando Pessoa retrata um amor platônico. Ao longo do texto,
 o eu lírico sofre com esse amor que sente, mas não pela falta de
-reciprocidade, e sim pela falta de coragem de se confessor à pessoa
+reciprocidade, e sim pela falta de coragem de se abrir com a pessoa
 amada. Sendo assim, o amor entre eles nunca chega a acontecer na
 realidade, justamente porque o eu lírico, em certos versos, parece
-preferir o anonimato a correr o risco de não ser correspondido.
+preferir o anonimato a correr o risco de não ser correspondido.}
 
 \num{2} Aponte outros sentimentos secundários que, como consequência do
-amor, parecem acometer o eu lírico em relação à pessoa amada. (3 linhas)
+amor, parecem acometer o eu lírico em relação à pessoa amada.
 
-O amor causa no eu lírico outros sentimentos em relação à pessoa amada,
-como o receio de se de declarar, o medo de não ser correspondido, a
-dúvida entre falar (declarar seu amor à pessoa amada) ou calar-se, o
-lamento por seu amor não ser descoberto de outro modo senão pelas
-palavras, impotência por não conseguir expressar seu sentimento para a
-pessoa amada.
+\linhas{6}
+\coment{O receio de se de declarar, o medo de não ser correspondido, a
+dúvida entre falar ou calar-se, o lamento por seu amor não ser descoberto de outro modo senão pelas palavras e a impotência por não conseguir expressar seu sentimento para a pessoa amada.}
 
 \num{3} Assumindo não saber como expressar seu amor com palavras, qual
 outra forma de expressão o eu lírico gostaria que a pessoa amada
-compreendesse? Comprove sua resposta com um trecho do poema. (4 linhas)
+compreendesse? Comprove sua resposta com um trecho do poema.
 
-O eu lírico, na terceira estrofe, deseja que a pessoa amada pudesse
-compreender seu amor por ela apenas pelo olhar. O trecho que comprova
-isso é "Se pudesse ouvir o olhar, / E se um olhar lhe bastasse / P'ra
-saber que a estão a amar!".
+\linhas{6}
+\coment{O eu lírico, na terceira estrofe, deseja que a pessoa amada pudesse compreender seu amor por ela apenas pelo olhar. O trecho que comprova isso é "Se pudesse ouvir o olhar, / E se um olhar lhe bastasse / P'ra saber que a estão a amar!"}
 
-**Texto para as questões de 4 a 7.**
+Para resolver as atividades de 4 a 7, leia o texto a seguir.
 
-**TEXTO II**
+>**O homem e a cobra**
+>
+Durante um frio inverno e debaixo de forte chuva, andava uma cobra,
+fraca e encolhida. Um homem de piedade a recolheu, agasalhou e alimentou
+enquanto houve frio. Chegado o verão, a cobra começou a estender-se e,
+então, o homem disse-lhe que deveria seguir o caminho dela, mas a cobra,
+relutante, levantou o pescoço para o morder. O homem, por isso, lançou
+mão de um pau e investiu contra a cobra. Após uma longa luta, a cobra
+restou morta e o homem muito mordido.
 
-Durante um frio inverno e debaixo de forte chuva, andava uma Cobra,
-fraca e encolhida. Um Homem de piedade a recolheu, agasalhou e alimentou
-enquanto houve frio. Chegado o verão, a Cobra começou a estender-se e,
-então, o Homem disse-lhe que deveria seguir o caminho dela, mas a Cobra,
-relutante, levantou o pescoço para o morder. O Homem, por isso, lançou
-mão de um pau e investiu contra a Cobra. Após uma longa luta, a Cobra
-restou morta e o Homem muito mordido.
+\fonte{Joseph Shafan. *As fábulas de Esopo*. Disponível em:
+_http://www.dominiopublico.gov.br/download/texto/ea000378.pdf_. Acesso em: 26 fev. 2023.}
 
-Disponível em:
-http://www.dominiopublico.gov.br/download/texto/ea000378.pdf.
+\num{4} A qual dos gêneros literários (narrativo, lírico ou dramático)
+pertence o texto? Justifique sua resposta, mencionando características do texto.
 
-Acesso em: 26 fev. 2023.
-
-\num{4} A qual dos gêneros literários (narrativo, lírico, dramático)
-pertence o texto? Justifique com as características do texto. (4 linhas)
-
-O texto é do gênero literário narrativo e suas características que
-comprovam isso são: é escrito em prosa, conta uma história estruturada
-com elementos da narrativa (narrador, personagens, enredo, tempo).
+\linhas{4}
+\coment{O texto é do gênero literário narrativo, pois conta uma história estruturada com elementos da narrativa (narrador, personagens, enredo, tempo).}
 
 \num{5} Dentro do gênero literário que você indicou na questão anterior,
-a qual gênero textual o texto pertence? Justifique com uma
-característica do texto. (2 linhas)
+a qual gênero textual o texto pertence? Justifique sua resposta com uma
+característica do texto.
 
-O texto, dentro do gênero literário narrativo, é uma fábula, gênero
-textual que apresenta texto curto, animais como personagens humanizados
-e uma lição moral que pode estar explícita ou implícita.
+\linhas{4}
+\coment{Trata-se de um fábula, texto curto que animais como personagens humanizados e uma lição moral, que pode estar explícita ou implícita.}
 
-\num{6} Numere a segunda coluna de acordo com a primeira.
+\num{6} Com base no texto, numere a segunda coluna de acordo com a primeira.
 
-  1\. Situação inicial   (   ) Chegado o Verão, a Cobra começou a estender-se e, então, o Homem disse-lhe que deveria seguir o caminho dela, mas a Cobra, relutante, levantou o pescoço para o morder.
-  ---------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  2\. Conflito           (   )   Após uma longa luta, a Cobra restou morta e o Homem muito mordido.
-  3\. Clímax             (   ) Durante um frio Inverno e debaixo de forte chuva, andava uma Cobra, fraca e encolhida. Um Homem de piedade a recolheu, agasalhou e alimentou enquanto houve frio.
-  4\. Desfecho           (   ) O Homem, por isso, lançou mão de um pau e investiu contra a Cobra.
-
-Gabarito: 2 / 4 / 1 / 3
-
-A questão explora as partes de um dos principais elementos da narrativa,
-o enredo, tradicionalmente formado por situação inicial, conflito,
-clímax e desfecho, nessa ordem. O texto em questão apresenta um enredo
-tradicional. Entretanto, a ordem dessas partes pode ser alterada e
-trabalhada em um texto narrativo, de modo a tornar a narrativa mais
-interessante para o leitor. Uma estratégia muito usada pelos escritores,
-por exemplo, é trazer o desfecho ou o conflito para o início da
-história, invertendo a assim a ordem tradicional e prendendo a atenção
-do leitor.
+  I. Situação inicial.   ( \coment{II} ) Chegado o verão, a cobra começou a estender-se e, então, o homem disse-lhe que deveria seguir o caminho dela, mas a cobra, relutante, levantou o pescoço para o morder.
+  II. Conflito.           ( \coment{IV} )   Após uma longa luta, a cobra restou morta e o homem muito mordido.
+  III. Clímax.             ( \coment{I} ) Durante um frio inverno e debaixo de forte chuva, andava uma cobra, fraca e encolhida. Um homem de piedade a recolheu, agasalhou e alimentou enquanto houve frio.
+  IV. Desfecho.           ( \coment{III} ) O homem, por isso, lançou mão de um pau e investiu contra a cobra.
 
 \num{7} Um elemento característico do gênero textual apresentado na
-questão anterior é a lição moral ou ensinamento ao fim do texto. No
+questão anterior é a moral (ou ensinamento) ao fim do texto. No
 texto lido, ela está implícita. Explicite a lição moral que você
-aprendeu com esse texto. (4 linhas)
+apreendeu desse texto. Explique.
 
-Resposta pessoal. A fábula é um texto literário que exibe valores
-sociais, culturais e humanos. Esses valores aparecem, muitas vezes, em
-forma de uma lição moral, algo bem característico numa fábula. Dessa
-forma, o aluno, ao pensar sobre o ensinamento e elaborá-lo por si, está
-treinando sua habilidade de identificar, nos demais textos literários, a
-presença desses valores. É importante lembrar que o professor avaliará a
-coerência entre a lição moral elaborada pelo aluno e o conteúdo da
-fábula em questão, pois a habilidade de interpretação de texto é,
-obviamente, o objetivo dessa elaboração.
+\linhas{6}
+\coment{Resposta pessoal.
 
 \num{8} Associe as duas colunas conforme o gênero literário ao qual
 pertence o texto.
 
-+----------------------+----------------------------------------------+
-| 1\. Gênero narrativo | (    )                                       |
-|                      |                                              |
-|                      | Está alta no céu a lua e é primavera.        |
-|                      |                                              |
-|                      | Penso em ti e dentro de mim estou completo.  |
-|                      |                                              |
-|                      | Corre pelos vagos campos até mim uma brisa   |
-|                      | ligeira.                                     |
-|                      |                                              |
-|                      | Penso em ti, murmuro o teu nome; não sou eu: |
-|                      | sou feliz.                                   |
-|                      |                                              |
-|                      | Amanhã virás, andarás comigo a colher flores |
-|                      | pelos campos,                                |
-|                      |                                              |
-|                      | E eu andarei contigo pelos campos a ver-te   |
-|                      | colher flores.                               |
-|                      |                                              |
-|                      | PESSOA, Fernando. Disponível em:             |
-|                      | http://dominiopub                            |
-|                      | lico.mec.gov.br/download/texto/vo000006.pdf. |
-|                      |                                              |
-|                      | Acesso em: 12 mar. 2023 (fragmento).         |
-+======================+==============================================+
-| 2\. Gênero dramático | (    )                                       |
-|                      |                                              |
-|                      | Manhã de sol. Miguel e André saíram à rua,   |
-|                      | levando os brinquedos ganhos no dia          |
-|                      | anterior. Miguel, uma bela miniatura de      |
-|                      | transatlântico, com todos os detalhes de um  |
-|                      | navio de verdade: motor, hélices, que o      |
-|                      | faziam viajar na água. André, não menos      |
-|                      | satisfeito, levava sob o braço um            |
-|                      | porta-aviões, também movido e iluminado a    |
-|                      | pilhas. Haviam recebido os presentes de seu  |
-|                      | pai, o capitão-de-mar-e-guerra Ramiro        |
-|                      | Gouveia, que os trouxera do Exterior, na     |
-|                      | última viagem que fizera.                    |
-|                      |                                              |
-|                      | Dentro de casa, Miguel e André não podiam    |
-|                      | brincar com os navios. Assim, naquele dia,   |
-|                      | resolveram descer a rua e levar os           |
-|                      | brinquedos para um rio que corria quinhentos |
-|                      | metros além.                                 |
-|                      |                                              |
-|                      | MONTEIRO, José Maviael. *Os barcos de        |
-|                      | papel*. 16. ed. São Paulo: Ática, 1999       |
-|                      | (fragmento).                                 |
-+----------------------+----------------------------------------------+
-| 3\. Gênero           | (    )                                       |
-|                      |                                              |
-| lírico               | JOÃO GRILO, ajoelhando-se, em tom lamentoso  |
-|                      |                                              |
-|                      | Lembra-te de Nosso Senhor Jesus Cristo.      |
-|                      | Chicó. Chicó, Jesus vai contigo e tu vais    |
-|                      | com Jesus. Lembra-te de Nosso Senhor Jesus   |
-|                      | Cristo, Chicó.                               |
-|                      |                                              |
-|                      | CHICÓ                                        |
-|                      |                                              |
-|                      | Que latomia é essa para o meu lado? Você     |
-|                      | quer me agourar?                             |
-|                      |                                              |
-|                      | JOÃO GRILO, erguendo-se                      |
-|                      |                                              |
-|                      | Ah, e você está vivo?                        |
-|                      |                                              |
-|                      | CHICÓ                                        |
-|                      |                                              |
-|                      | Estou, que é que você está pensando? Não é   |
-|                      | besta não?                                   |
-|                      |                                              |
-|                      | JOÃO GRILO                                   |
-|                      |                                              |
-|                      | Você disse que hora de chamar padre era a    |
-|                      | hora da morte, começou a gritar por Padre    |
-|                      | João, eu só podia pensar que estava          |
-|                      |                                              |
-|                      | lhe dando a agonia.                          |
-|                      |                                              |
-|                      | CHICÓ, depois de estender-lhe o punho        |
-|                      | fechado                                      |
-|                      |                                              |
-|                      | Padre João!                                  |
-|                      |                                              |
-|                      | SUASSUNA, Ariano. *Auto da compadecida.* 35  |
-|                      | ed. Rio de Janeiro: Agir, 2005 (fragmento).  |
-+----------------------+----------------------------------------------+
+I. Gênero épico.
+II. Gênero dramático.
+III. Gênero lírico.
 
-Gabarito: 3 / 1 / 2
+( \coment{III} ) **Vai alta no céu a lua da Primavera** (Fernando Pessoa)
 
-A questão explora as características composicionais de cada gênero
-literário, apresentando exemplos textuais para cada um. A explicitação
-dessas características será mais explorada na questão seguinte.
+Vai alta no céu a lua da Primavera
+
+Penso em ti e dentro de mim estou completo.
+
+
+Corre pelos vagos campos até mim uma brisa ligeira.
+
+Penso em ti, murmuro o teu nome; e não sou eu: sou feliz.
+
+
+Amanhã virás, andarás comigo a colher flores pelo campo,
+
+E eu andarei contigo pelos campos ver-te colher flores.
+
+Eu já te vejo amanhã a colher flores comigo pelos campos,
+
+Pois quando vieres amanhã e andares comigo no campo a colher flores,
+
+Isso será uma alegria e uma verdade para mim.
+
+( \coment{I} ) **A divina comédia** (Dante Alighieri)
+
+No meio do caminho de nossa vida,
+
+Encontrei-me em uma selva escura,
+
+Pois o caminho certo havia se perdido.
+
+
+Ah, como é difícil dizer o quão selvagem
+
+E amarga é essa floresta,
+
+Que renova o medo em minha mente!
+
+
+Tão amarga que se assemelha à morte,
+
+Mas para falar sobre o bem que encontrei lá,
+
+Falarei também sobre outras coisas que observei.
+
+( \coment{II} ) **O auto da Compadecida** (Ariano Suassuna)
+
+JOÃO GRILO, ajoelhando-se, em tom lamentoso: Lembra-te de Nosso Senhor Jesus Cristo. Chicó. Chicó, Jesus vai contigo e tu vais com Jesus. Lembra-te de Nosso Senhor Jesus Cristo, Chicó.
+CHICÓ: Que latomia é essa para o meu lado? Você quer me agourar?
+JOÃO GRILO, erguendo-se: Ah, e você está vivo?
+CHICÓ: Estou, que é que você está pensando? Não é besta não?
+JOÃO GRILO: Você disse que hora de chamar padre era a hora da morte, começou a gritar por Padre João, eu só podia pensar que estava lhe dando a agonia.
+CHICÓ, depois de estender-lhe o punho fechado: Padre João!
 
 \num{9} Descreva as características composicionais que você identificou
 em cada texto para indicar seu gênero literário. (7 Linhas)
