@@ -1,83 +1,30 @@
-**LÍNGUA PORTUGUESA**
-
-**8º ANO**
-
-**CRÉDITOS**
-
-**Abraão Augusto Coutinho**
-
-**SUMÁRIO**
-
 # Módulo 1 
 
- ** -- **OS GÊNEROS TEXTUAIS ARGUMENTATIVOS**
+**Gêneros textuais argumentativos**
+
+\colorsec{Habilidades do SAEB}
+- Identificar o uso de recursos persuasivos em textos verbais e não verbais.
+- Identificar teses, opiniões, posicionamentos explícitos e argumentos em textos.
+
+\colorsec{Habilidade da BNCC}
+- EF89LP04.
 
 Argumentar é convencer, persuadir o outro de que os argumentos usados
 têm procedência lógica e podem ser comprovados.
 
 Os gêneros textuais argumentativos têm o objetivo de apresentar e
 defender um ponto de vista sobre um assunto por meio de argumentação e
-recursos persuasivos que buscam a adesão do leitor/interlocutor. Dentre
-esses gêneros, destacam-se o artigo de opinião, a resenha crítica, a
-carta de leitor, o editorial e o anúncio publicitário.
-
-Os argumentos e recursos persuasivos usados pelo autor para fundamentar
-e validar seu ponto de vista perante o leitor podem ser de diferentes
-tipos:
-
--   exemplificação;
-
--   autoridade (citação de especialistas ou pensadores);
-
--   relações causa-efeito;
-
--   provérbios e sabedoria popular;
-
--   alusão histórica;
-
--   comparação;
-
--   saber universal;
-
--   factuais;
-
--   provas concretas com dados estatísticos;
-
--   raciocínio lógico (dedução e indução).
-
-Portanto, duas características fundamentais dos textos argumentativos
+recursos persuasivos que buscam a adesão do interlocutor. Duas características fundamentais dos textos argumentativos
 são a emissão de juízo de valor e o emprego de argumentos e recursos
 persuasivos para justificar o ponto de vista.
 
-Veja um resumo das características de alguns dos gêneros argumentativos.
+Entre esses gêneros, destacam-se o **artigo de opinião**, a **resenha crítica**, a **carta de leitor**, o **editorial** e o **anúncio publicitário**.
 
-  **Gêneros textuais argumentativos**   **Objetivo comunicativo**                                                                                                                                       **Público-alvo**                                                                                      **Linguagem**
-  ------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Artigo de opinião                     Opinar sobre um assunto relevante que esteja em evidência na sociedade.                                                                                         Os leitores de um jornal, revista ou portal de notícias.                                              Em norma-padrão; pode ter tom mais impessoal (em 3ª pessoa) ou pessoal (em 1ª pessoa); o nível de formalidade pode variar conforme o perfil do público-alvo.
-  Resenha crítica                       Apresentar um resumo comentado e opinativo sobre um filme, uma série, um livro ou outra obra, de modo a persuadir o leitor a consumir ou não aquela produção.   Os fãs ou interessados em consumir o filme, a série, o livro ou outra obra.                           Em norma-padrão ou não padrão (coloquial); pode ter tom mais impessoal (em 3ª pessoa) ou pessoal (em 1ª pessoa); o nível de formalidade pode variar conforme o perfil do público-alvo.
-  Carta de leitor                       Expor ponto de vista acerca de um determinado assunto publicado em determinado jornal ou revista.                                                               O editor da revista ou do jornal, ou o autor da matéria jornalística que motivou a carta de leitor.   Em norma-padrão; pode ter tom mais impessoal (1ª pessoa) ou pessoal (em 1ª pessoa).
-  Editorial                             Expor a opinião do jornal ou revista sobre assuntos abordados nas notícias e reportagens publicados naquele veículo de informação.                              Os leitores daquele jornal ou revista.                                                                Em norma-padrão, geralmente com tom impessoal (3ª pessoa), por representar a opinião da equipe jornalística em não de uma pessoa.
-  Anúncio publicitário                  Vender um produto ou divulgar uma ideia.                                                                                                                        O público em geral ou específico, dependendo do produto ou da ideia.                                  A linguagem é variada e pode valer-se de texto verbal e texto não verbal.
-
-Vale lembrar que tipo textual e gênero textual são categorias
-diferentes. O tipo textual diz respeito às características de construção
-do texto, relacionadas a uma função comunicativa (narrar, expor,
-relatar, persuadir, prescrever, descrever etc.) e o gênero textual diz
-respeito à função social do texto, reconhecível pelos falantes quando
-estão diante de determinado texto. Por exemplo, os gêneros textuais que
-vimos neste módulo são o artigo de opinião, a resenha crítica, a carta
-de leitor, o editorial e o anúncio publicitário. Todos eles podem ser
-considerados exemplos do tipo textual argumentativo, embora outros tipos
-textuais possam coexistir com ele num mesmo texto.
-
-Vale lembrar, ainda, que no anúncio publicitário a estrutura típica dos
-demais gêneros textuais do tipo argumentativo não se repete, tal como no
-artigo de opinião, pois os argumentos e recursos persuasivos da
-publicidade podem ser apresentados em forma de texto verbal ou não
-verbal, com certa dinamicidade, visto que seu objetivo é vender produtos
-ou engajar o público em ideias e comportamentos.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+* O artigo de opinião tem o objetivo de opinar sobre um assunto relevante que esteja em evidência na sociedade. Seu público-alvo são os leitores de um jornal, revista ou portal de notícias. A linguagem pode ter tom mais impessoal (em 3ª pessoa) ou pessoal (em 1ª pessoa), e o nível de formalidade pode variar conforme o perfil do público.
+* A resenha crítica tem o objetivo de apresentar um resumo comentado e opinativo sobre um filme, uma série, um livro ou outra obra, de modo a persuadir o leitor a consumir ou não aquela produção. Seu público-alvo são os fãs ou interessados em consumir o filme, a série, o livro ou outra obra. A linguagem pode ser coloquial e pode ter tom mais impessoal (em 3ª pessoa) ou pessoal (em 1ª pessoa); o nível de formalidade pode variar
+* A carta de leitor tem o objetivo de expor ponto de vista acerca de determinado assunto publicado em um jornal ou uma revista. Seu público-alvo é o editor da revista ou do jornal, ou o autor da matéria jornalística que motivou a carta de leitor. A linguagem pode ter tom mais impessoal (1ª pessoa) ou pessoal (em 1ª pessoa).
+* O editorial tem o objetivo de expor a opinião do jornal ou da revista sobre assuntos abordados nas notícias e reportagens publicados naquele veículo de informação. Seu público-alvo são os leitores daquele jornal ou revista. A linguagem, geralmente, tem tom impessoal (3ª pessoa), por representar a opinião da equipe jornalística, e não de uma pessoa.
+* O anúncio publicitário tem o objetivo de vender um produto ou divulgar uma ideia. Seu público-alvo pode ser geral ou específico, dependendo do produto ou da ideia. A linguagem é variada e pode valer-se de texto verbal e texto não verbal.
 
 \colorsec{Atividades}
 
@@ -85,65 +32,17 @@ ou engajar o público em ideias e comportamentos.
 teor dos argumentos que você espera encontrar em cada gênero textual
 argumentativo listado.
 
-  1\. Artigo de opinião      (   ) Qualidade dos personagens, do enredo, da narrativa, do desfecho, da trilha sonora etc.
-  -------------------------- ------------------------------------------------------------------------------------------------------------------------
-  2\. Anúncio publicitário   (   ) Dados e estatísticas, citação de especialista na área, exemplificação de fatos importantes e de repercussão etc.
-  3\. Resenha crítica        (  ) Imagem de personalidade famosa, pergunta provocativa, trocadilhos, apelo ao consumo etc.
-
-Gabarito: 3 / 1 / 2
-
-A cada gênero textual argumentativo correspondem os respectivos
-argumentos que contribuem para o alcance de seu objetivo comunicativo.
-Esse é o teor da questão, ou seja, a identificação do teor do argumento
-que se somará às demais características do gênero, como construção
-composicional, conteúdo temático e estilo, para a consecução do objetivo
-comunicativo. O artigo de opinião visa versa sobre assuntos relevantes
-para a sociedade e, assim, busca adesão do leitor a um ponto de vista
-pessoal, sustentado em dados, estatísticas, citação de especialista na
-área, exemplificação de fatos importante e de repercussão etc. O anúncio
-publicitário busca vender um produto ou divulgar uma ideia; no caso da
-questão, o anúncio busca vender ou divulgar um produto de consumo e,
-para convencer o consumidor, lança mão da imagem de personalidade
-famosa, pergunta provocativa, trocadilhos, apelo ao consumo etc. A
-resenha crítica veicula a avaliação de alguém sobre um produto cultural
-(livro, filme, série etc.), de modo a convencer o leitor a consumi-lo ou
-não; para isso, avalia a qualidade dos personagens, do enredo, da
-narrativa, do desfecho, da trilha sonora etc.
+  I. Artigo de opinião      ( \coment{III} ) Qualidade dos personagens, do enredo, da narrativa, do desfecho, da trilha sonora etc.
+    II. Anúncio publicitário   ( \coment{I} ) Dados e estatísticas, citação de especialista na área, exemplificação de fatos importantes e de repercussão etc.
+  III. Resenha crítica        ( \coment{II} ) Imagem de personalidade famosa, pergunta provocativa, trocadilhos, apelo ao consumo etc.
 
 \num{2} Associe as duas colunas de acordo com o tipo de argumento
 exemplificado em cada parágrafo.
 
-  1\. Alusão histórica   (   ) A internet é uma tecnologia que faz parte do cotidiano das pessoas e que protagoniza a cultura contemporânea. Ela é uma ferramenta que encurta distâncias e confere um caráter de acessibilidade universal à informação e aos mais diversos campos do conhecimento humano, sendo um dos principais agentes da globalização
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  2\. Exemplificação     (   ) Em primeiro lugar, deve-se ressaltar a ausência de medidas governamentais para combater a venda de dados pessoais e a manipulação do comportamento nas redes. Segundo o pensador Thomas Hobbes, o Estado é responsável por garantir o bem-estar da população, entretanto, isso não ocorre no Brasil.
-  3\. Autoridade         (   ) A utilização dos meios de comunicação para manipular comportamentos não é recente no Brasil: ainda em 1937, Getúlio Vargas apropriou-se da divulgação de uma falsa ameaça comunista para legitimar a implantação de um governo ditatorial.
-  4\. Factual            (   ) Em consequência disso, os deficientes auditivos encontram inúmeras dificuldades em variados âmbitos de suas vidas. Um exemplo disso é a difícil inserção dos surdos no mercado de trabalho, devido à precária educação recebida por eles e ao preconceito intrínseco à sociedade brasileira.
-
-Disponível em:
-http://portal.mec.gov.br/component/tags/tag/40141-redacao-nota-mil.
-
-Acesso em: 17 fev. 2023 (fragmentos).
-
-Gabarito: 4 / 3 / 1 / 2
-
-Na seleção de argumentos para embasar seu ponto de vista num texto do
-gênero textual argumentativo, o autor tem à disposição alguns tipos de
-argumentos conforme o impacto que queira causar no leitor. Esses tipos
-são, por exemplo: argumento de alusão histórica, argumento por
-exemplificação, argumento de autoridade e argumento factual. O objetivo
-da questão é desenvolver a habilidade de distinguir entre esses
-argumentos e perceber como se dá sua construção no texto. A alusão
-histórica remete o leitor a um acontecimento relevante registrado na
-história, normalmente envolvendo algum evento ou personalidade
-conhecidos, como é o caso de Getúlio Vargas em 1937. O argumento por
-exemplificação cita uma situação ou pessoa que, como o nome já diz,
-exemplificam, na prática, uma situação referida no texto ou o tema
-abordado. O argumento de autoridade recorre à palavra de uma pessoa
-notável na área ou assunto de interesse do texto, como forma de
-comprovar ou reforçar que aquilo é defendido por alguém que entende do
-assunto, corroborando a visão do autor. O argumento factual pinça um
-acontecimento concreto do cotidiano ou algo tido como verdade pela
-unanimidade da sociedade, para assim tornar seu argumento irrefutável.
+  I. Alusão histórica   ( \coment{IV} ) A internet é uma tecnologia que faz parte do cotidiano das pessoas e que protagoniza a cultura contemporânea. Ela é uma ferramenta que encurta distâncias e confere um caráter de acessibilidade universal à informação e aos mais diversos campos do conhecimento humano, sendo um dos principais agentes da globalização
+ II. Exemplificação     ( \coment{III} ) Em primeiro lugar, deve-se ressaltar a ausência de medidas governamentais para combater a venda de dados pessoais e a manipulação do comportamento nas redes. Segundo o pensador Thomas Hobbes, o Estado é responsável por garantir o bem-estar da população, entretanto, isso não ocorre no Brasil.
+  III. Autoridade         ( \coment{I} ) A utilização dos meios de comunicação para manipular comportamentos não é recente no Brasil: ainda em 1937, Getúlio Vargas apropriou-se da divulgação de uma falsa ameaça comunista para legitimar a implantação de um governo ditatorial.
+  IV. Factual            ( \coment{II} ) Em consequência disso, os deficientes auditivos encontram inúmeras dificuldades em variados âmbitos de suas vidas. Um exemplo disso é a difícil inserção dos surdos no mercado de trabalho, devido à precária educação recebida por eles e ao preconceito intrínseco à sociedade brasileira.
 
 \num{3} Você leu uma matéria num jornal e discordou do posicionamento do
 jornalista ao abordar o tema. Você, então, decide interagir com o jornal
@@ -156,16 +55,7 @@ seu objetivo.
 
 ( ) Resenha crítica
 
-( ) Carta de leitor
-
-Gabarito: Carta de leitor
-
-A situação-problema apresentada na questão envolve a leitura de uma
-matéria no jornal que, de alguma forma, causou no leitor um desconforto
-ou discordância, provocando nele, por consequência, a intenção de
-interagir com a equipe de redação para emitir sua opinião à equipe de
-redação e a outros leitores. Sendo assim, o gênero que se destina a essa
-interação entre leitor e jornal é a carta de leitor.
+( \coment{X} ) Carta de leitor
 
 \num{4} Você foi convidado a escrever um texto opinativo sobre uma série
 de televisão de sua preferência para o jornal da escola e fazer a
@@ -175,149 +65,81 @@ escrever para realizar essa tarefa.
 
 ( ) Artigo de opinião
 
-( ) Resenha crítica
+( \coment{X} ) Resenha crítica
 
 ( ) Carta de leitor
 
-A situação-problema apresentada na questão envolve a exposição de
-opinião e avaliação de um produto cultural, com o objetivo de convencer
-as pessoas a conhecerem ou não a obra. O texto pode emitir opinião
-positiva, quando se indica a obra para as pessoas, ou negativa, quando
-não de indica a obra pelo fato de o autor que opina não ter gostado do
-conteúdo. Sendo assim, o gênero que se destina a essa finalidade é a
-resenha crítica.
+\num{5} Escreva um texto opinativo sobre um livro, um filme ou uma série que você conheça para ser publicado no jornal da escola e faça a indicação da obra para os alunos. Procure apresentar argumentos plausíveis para convencê-los de que vale a pena conhecê-la.
 
-\num{5} Agora, mãos à obra! Escreva um texto opinativo sobre um livro, um
-filme ou uma série que você conheça para ser publicado no jornal da
-escola e faça a indicação da obra para os alunos. Procure apresentar
-argumentos plausíveis para convencê-los de que vale a pena conhecê-la.
+\linhas{15}
+\coment{A atividade se destina a colocar em prática a teoria básica estudada sobre o gênero argumentativo resenha crítica. Talvez esse gênero textual já tenha sido estudado mais a fundo e de forma sistematizada; entretanto, mais importante do que atender às exigências da teoria de construção composicional, conteúdo temático e estilo do gênero é o aluno entender que precisa convencer seu leitor com uma avaliação convincente da obra, por meio de argumentos que convençam o leitor a se interessar por conhecê-la.}
 
-(10 linhas)
+Leia o texto para resolver as atividades de 6 a 10.
 
-A atividade se destina a colocar em prática a teoria básica estudada
-sobre o gênero argumentativo resenha crítica. Talvez esse gênero textual
-já tenha sido estudado mais a fundo e de forma sistematizada no curso
-regular do Ensino Fundamental. Entretanto, mais importante do que
-atender às exigências da teoria de construção composicional, conteúdo
-temático e estilo do gênero é o aluno entender que precisa convencer seu
-leitor com uma avaliação convincente da obra, por meio de argumentos que
-convençam o leitor a se interessar por conhecê-la.
+%Paulo, inserir o anúncio disponível em: https://aguaslindasdegoias.go.gov.br/dia-mundial-da-agua/
 
-**Texto para as questões de 6 a 10.**
-
-![Diagrama Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image1.png){width="3.2916666666666665in"
-height="1.9899409448818897in"}
-
-Disponível em:
-http://barradesaofrancisco.es.leg.br/noticia/ler/609/dia-mundial-da-agua.
-
-Acesso em: 12 fev. 2023.
-
-\num{6} Esse cartaz é um texto argumentativo pertencente à publicidade e
-propaganda. Nele, os recursos persuasivos são construídos por meio da
+\num{6} Esse cartaz é um texto argumentativo. Nele, os recursos persuasivos são construídos por meio da
 associação entre texto verbal e texto não verbal. Cite o recurso não
 verbal que foi utilizado para convencer o leitor a adotar o
-comportamento explicitado no texto verbal. (4 linhas)
+comportamento explicitado no texto verbal.
 
-A pergunta da questão refere-se especificamente ao recurso persuasivo
-não verbal que, em interação com o recurso verbal, constrói o sentido
-global do cartaz, isto é, a imagem ou ilustração que corrobora o texto
-verbal. Portanto, a questão não aborda o conteúdo, e sim a forma, a
-materialidade do texto não verbal. É recomendável fazer essa ponderação
-ao aluno. Falando da resposta esperada, especificamente, o recurso
-persuasivo não verbal utilizado para se obter a adesão do leitor é a
-ilustração de uma torneira aberta com água jorrando do planeta, que
-parece estar desaparecendo à medida que essa água escorre para fora
-dele.
+\linhas{6}
+\coment{O recurso persuasivo não verbal utilizado para se obter a adesão do leitor é a imagem de duas mãos que acolhem uma gota de água que cai, num gesto de proteção com esse recurso.}
 
-\num{7} Qual é a ideia representada pela figura da torneira aberta, na
-ilustração presente no cartaz?
+\num{7} Qual é a ideia representada pela ilustração presente no cartaz?
 
-(2 linhas)
+\linhas{2}
+\coment{A figura da torneira aberta representa a ideia de cuidado com a água.}
 
-A figura da torneira aberta representa a ideia de desperdício da água.
+\num{8} De que modo as cores predominantes no cartaz relacionam-se com o tema central dele?
 
-\num{8} Por que a ilustração mostra a Terra apenas parcialmente, com se
-faltasse uma parte do planeta? (4 linhas)
-
-A Terra é mostrada apenas parcialmente na ilustração porque o
-desperdício de água, que representa a vida, faz desaparecer,
-consequentemente, o planeta à medida que esse recurso natural se esvai.
+\linhas{6}
+\coment{O predomínio de azul relaciona-se à água, o bem que está sendo celebrado no cartaz, assim como a outra cor predominante (verde) relaciona-se com o cuidado com o meio ambiente.}
 
 \num{9} Qual é o sentido global que se constrói a partir da associação
-entre o texto verbal e o texto não verbal do cartaz? (4 linhas)
+entre o texto verbal e o texto não verbal do cartaz?
 
-O sentido global que se pergunta na questão diz respeito às ideias que o
-leitor pode reconstruir a partir de sua leitura individual da interação
-entre a mensagem do texto verbal e a do texto não verbal. Sendo assim, a
-resposta é pessoal, mas sempre dentro uma lógica adequada ao cartaz. Uma
-possibilidade de resposta é que o texto não verbal ilustra o
-desperdício, enquanto o texto verbal diz que água é vida; portanto, a
-preservação da água promove a preservação do planeta como um todo, e o
-desperdício promove a morte ou o desaparecimento dele. Essa ideia pode
-ser sintetizada na frase "Sem água não há planeta Terra,
-consequentemente não há vida".
+\linhas{6}
+\coment{No cartaz, está ilustrada uma situação de cuidado e proteção com a água, o que se reflete na ideia de economia de água traduzida no texto verbal.}
 
-\num{0} Justifique importância da publicação desse cartaz para a
-conscientização da população. (4 linhas)
+\num{10} Justifique importância da publicação desse cartaz para a
+conscientização da população.
 
-A questão permite resposta pessoal. Uma possibilidade de resposta é que
+\linhas{6}
+\coment{Uma possibilidade de resposta é que
 a publicação desse cartaz transmite a mensagem da preservação da água de
 forma simples e corriqueira, pelo fato de usar frases pouco complexas e
-ilustrações facilmente reconhecíveis pela população em geral, como a
-frase "água é vida" e a imagem de uma torneira.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ilustrações facilmente reconhecíveis pela população em geral.}
 
 \colorsec{Treino}
 
-**Texto para as questões 1 e 2.**
+Leia o texto para responder às questões 1 e 2.
 
-**A família Mandible - Lionel Shriver**
+>**A família Mandible - Lionel Shriver**
 
-Quem me acompanha sabe que sou chegada em uma distopia. Não perco a
-oportunidade de ler uma. Então, quando recebi "A família Mandible",
-livro do mês de janeiro do Clube Intrínsecos, nº 028, vi que se tratava
-de uma sátira distópica, e a curiosidade foi tão grande, mas tão grande,
-que eu quis devorar o livro assim que tivesse oportunidade. A
-curiosidade aumentou ainda mais quando soube que, em vez de uma distopia
-futurista sobre uma invasão zumbi ou alienígena, o livro tratava de um
-apocalipse financeiro que simplesmente afundou os Estados Unidos da
-América, uma das maiores potências do mundo. Mas será que, ao final da
-leitura, achei que valeu a pena toda essa curiosidade? Vem que te conto!
-\[\...\]
+>Se você me acompanha, sabe que sou fascinada por distopias. Não perco a oportunidade de ler uma boa história desse gênero. Então, quando recebi o livro "A família Mandible" como a escolha de janeiro do Clube Intrínsecos, número 028, percebi que se tratava de uma sátira distópica. Minha curiosidade ficou imensa e eu mal podia esperar para devorar o livro assim que tivesse a chance. Fiquei ainda mais intrigada quando descobri que, em vez de abordar uma distopia futurista com invasões de zumbis ou alienígenas, o enredo tratava de um apocalipse financeiro que levou os Estados Unidos da América, uma das maiores potências mundiais, ao colapso. No entanto, será que, ao final da leitura, achei que toda essa curiosidade valeu a pena? Venha descobrir!
 
-BUTIGNOLI, Evelyn. A família Mandible - Lionel Shriver. *Viagem
-Literária*, 03 mar. 2021.
+\fonte{Evelyn Butgnoli. Viagem literária. A família Mandible - Lionel Shriver. Disponível em: _http://www.viagemliteraria.com.br/2021/03/a-familia-mandible-lionel-shriver.html_. Acesso em: 10 fev. 2023.
 
-Disponível em:
-http://www.viagemliteraria.com.br/2021/03/a-familia-mandible-lionel-shriver.html.
-
-Acesso em: 10 fev. 2023 (fragmento adaptado).
-
-\num{1}
-
-Os gêneros textuais podem ser reconhecidos com base em determinadas
+\num{1} Os gêneros textuais podem ser reconhecidos com base em determinadas
 características que apresentam. Considerando-se as características do
 texto lido, ele corresponde ao gênero
 
-**a)** crônica, porque a resenhista faz uma narração do seu cotidiano
+a) crônica, porque a resenhista faz uma narração do seu cotidiano
 como leitora.
 
-**b)** diário, porque a resenhista conta suas experiências literárias em
+b) diário, porque a resenhista conta suas experiências literárias em
 um dia específico.
 
-**c) resenha** crítica, porque a resenhista apresenta sua avaliação
+c) resenha crítica, porque a resenhista apresenta sua avaliação
 sobre um livro que leu.
 
-**d)** anúncio publicitário, porque a resenhista elogia um livro para
+d) anúncio publicitário, porque a resenhista elogia um livro para
 convencer o leitor a comprá-lo.
 
-Saeb: Identificar teses, opiniões, posicionamentos explícitos e
+SAEB: Identificar teses, opiniões, posicionamentos explícitos e
 argumentos em textos.
-
-BNCC: (EF89LP04) Identificar e avaliar teses/opiniões/posicionamentos
+BNCC: EF89LP04 -- Identificar e avaliar teses/opiniões/posicionamentos
 explícitos e implícitos, argumentos e contra-argumentos em textos
 argumentativos do campo (carta de leitor, comentário, artigo de opinião,
 resenha crítica etc.), posicionando-se frente à questão controversa de
@@ -326,40 +148,32 @@ forma sustentada.
 \(A\) Incorreta. O texto não é do gênero crônica, pois a situação
 explicitada não está situada no tempo, embora o texto de fato expresse
 uma experiência literária da resenhista.
-
 \(B\) Incorreta. O texto não é do gênero diário, pois seu objetivo não é
 falar sobre o cotidiano literário da resenhista nem sobre outro tipo de
 situação cotidiana.
-
 \(C\) Correta. O texto é do gênero resenha crítica porque apresenta a
-avaliação e opinião da resenhista sobre um livro que ela leu, para
-indicar a leitura ao leitor ou não.
-
+avaliação e a opinião da resenhista sobre um livro que ela leu, para
+indicar a leitura ao leitor.
 \(D\) Incorreta. O texto não é do gênero anúncio publicitário, pois a
 avaliação que a resenhista trará sobre o livro não tem o objetivo de
 vendê-lo como mercadoria para o leitor, e sim dizer-lhe se deve
 experimentar lê-lo ou não.
 
-\num{2}
-
-A resenhista ressalta um diferencial do livro. Esse diferencial, segundo
-ela, foi que a convenceu a lê-lo, e também pode interessar ao público. O
+\num{2} A autora ressalta um diferencial do livro. Esse diferencial, segundo
+ela, foi o que a convenceu a lê-lo e também pode interessar ao público. O
 diferencial está descrito em:
 
-a\) "Vem que te conto!"
+a\) "Venha descobrir!"
 
-b\) "Quem me acompanha sabe que sou chegada em uma distopia."
+b\) "Se você me acompanha, sabe que sou fascinada por distopias."
 
-c\) "Mas será que, ao final da leitura, achei que valeu a pena toda essa
-curiosidade?"
+c\) "No entanto, será que, ao final da leitura, achei que toda essa curiosidade valeu a pena?"
 
-d\) "\[\...\] em vez de uma distopia futurista sobre uma invasão zumbi
-ou alienígena, o livro tratava de um apocalipse financeiro \[\...\]"
+d\) "em vez de abordar uma distopia futurista com invasões de zumbis ou alienígenas, o enredo tratava de um apocalipse financeiro".
 
-Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
+SAEB: Identificar o uso de recursos persuasivos em textos verbais e não
 verbais.
-
-BNCC: (EF89LP04) Identificar e avaliar teses/opiniões/posicionamentos
+BNCC: EF89LP04 -- Identificar e avaliar teses/opiniões/posicionamentos
 explícitos e implícitos, argumentos e contra-argumentos em textos
 argumentativos do campo (carta de leitor, comentário, artigo de opinião,
 resenha crítica etc.), posicionando-se frente à questão controversa de
@@ -367,15 +181,12 @@ forma sustentada.
 
 \(A\) Incorreta. O trecho expressa um convite para que o leitor continue
 acompanhando a resenha para saber se a autora gostou ou não do livro.
-
 \(B\) Incorreta. O trecho expressa um gosto da resenhista por um gênero
 literário específico e não se refere ainda ao livro em questão, que
 nesse ponto da resenha não tinha sido citado.
-
 \(C\) Incorreta. O trecho expressa uma hipótese ou dúvida que a
 resenhista deixa em suspense, como forma de incentivar o leitor a
 continuar lendo a resenha para saber a opinião dela sobre o livro.
-
 \(D\) Correta. O trecho expressa o diferencial do livro em questão, pois
 a resenhista diz que ele é diferente dos outros livros do gênero
 distopia futurista por mostrar um apocalipse financeiro nos Estados
@@ -383,64 +194,42 @@ Unidos, em vez do mais comum, que é uma invasão zumbi ou alienígena, e
 isso a deixa ainda mais instigada a lê-lo e pode também incentivar o
 leitor.
 
-\num{3}
+\num{3} Leia o cartaz.
 
-![Jornal com texto preto sobre fundo branco Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image2.jpeg){width="2.5625in"
-height="2.529861111111111in"}
+%Paulo, inserir o cartaz disponível em: https://cosmopolis.sp.gov.br/saude-inicia-a-campanha-nacional-de-vacinacao-contra-a-poliomielite/
 
-Disponível em:
-https://www12.senado.leg.br/noticias/infomaterias/2022/05/vacinacao-infantil-despenca-no-pais-e-epidemias-graves-ameacam-voltar.
-Acesso em: 13 fev. 2023.
+A importância da figura sorridente do personagem Zé Gotinha deve-se ao fato de que
 
-Além de divulgar uma campanha do Ministério da Saúde, esse cartaz busca
-influenciar a adesão do público-alvo por meio de uma estratégia
-argumentativa que ressalta o(a)
+a) o personagem é o exemplo ruim de alguém que se vacina.
+b) a intenção da campanha é motivar as crianças a se vacinarem.
+c) a campanha pretende criar a ideia de que a vacina afasta a felicidade.
+d) as doenças contra as quais se anuncia são leves e não causam grandes problemas.
 
-a)  sintoma da doença, manifestado principalmente como uma paralisia.
-
-b)  data da vacinação, disponibilizada gratuitamente por prazo
-    > determinado.
-
-c)  responsabilidade dos pais, chamados a atentar para a saúde de seus
-    > filhos.
-
-d)  uso de vacina oral, conhecida por ser menos invasiva e mais amigável
-    > às crianças.
-
-Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
+SAEB: Identificar o uso de recursos persuasivos em textos verbais e não
 verbais.
-
-BNCC: (EF89LP04) Identificar e avaliar teses/opiniões/posicionamentos
+BNCC: EF89LP04 -- Identificar e avaliar teses/opiniões/posicionamentos
 explícitos e implícitos, argumentos e contra-argumentos em textos
 argumentativos do campo (carta de leitor, comentário, artigo de opinião,
 resenha crítica etc.), posicionando-se frente à questão controversa de
 forma sustentada.
 
-\(A\) Incorreta. O cartaz especifica o nome da doença (paralisia
-infantil) que será evitada pela vacina, mas não entra em detalhes sobre
-o sintoma apresentado pela criança doente.
-
-\(B\) Incorreta. A data da vacinação, no caso do cartaz, não pode ser
-considerada uma estratégia argumentativa, pois não faz parte da
-persuasão ao público, tendo apenas o papel informativo.
-
-\(C\) Incorreta. A responsabilidade dos pais em relação à vacinação não
-é abordada no cartaz. A única menção a eles é feita por meio do verbo
-imperativo "vacine", que está escrito de forma menos destacada, com
-tamanho menor que o restante, tendo assim menor relevância.
-
-\(D\) Correta. Vacinas, em geral, podem ser aplicadas por via oral ou
-por meio de injeção, o que causa medo nas crianças devido à dor da
-picada. Assim, a ênfase da campanha na aplicação oral (gotinha) se dá
-pelo uso de um conhecido bordão da Xuxa, contribuindo para chamar a
-atenção sobre esse método mais amigável ao público infantil. Assim, o
-cartaz, além de divulgar a vacinação, incentiva os pais a vacinarem seus
-filhos e as crianças a perderem o medo da vacina.
+a) Incorreta. O objetivo do personagem é justamente o de aproximar a vacinação das crianças.
+b) Correta. A felicidade do personagem mostra como se vacinar é algo bom.
+c) Incorreta. A ideia é justamente o contrário, já que a campanha serve para mostrar que a vacinação é algo bom.
+d) Incorreta. As doenças são graves, e a vacinação é importante, mas a felicidade do personagem não diminui esses dados.
 
 # Módulo 2 
 
- ** -- **OS GÊNEROS TEXTUAIS INFORMATIVOS**
+ ** -- **Gêneros textuais informativos**
+ 
+ \colorsec{Habilidades do SAEB}
+ - Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+- Identificar formas de organização de textos normativos, legais e/ou reinvindicatórios.
+- Identificar elementos constitutivos de gêneros de divulgação científica.
+- Analisar a relação temática entre diferentes gêneros jornalísticos.
+
+\colorsec{Habilidades da BNCC}
+- EF69LP02, EF69LP20, EF69LP27, EF08LP01.
 
 Os gêneros textuais informativos têm o objetivo de informar sobre
 determinado assunto, objeto ou fato, por isso são centrados na
@@ -855,7 +644,15 @@ texto citar o ditado e não mais abordar o assunto.
 
 # Módulo 3 
 
- ** -- **OS GÊNEROS LITERÁRIOS**
+ ** -- **Gêneros literários**
+ 
+ \colorsec{Habilidades do SAEB}
+ - Analisar elementos constitutivos de textos pertencentes ao domínio literário.
+- Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
+- Inferir a presença de valores sociais, culturais e humanos em textos literários.
+
+\colorsec{Habilidades da BNCC}
+- EF69LP44, EF69LP47, EF89LP32.
 
 Os gêneros literários são categorias usadas para classificar os textos
 dos diversos gêneros textuais existentes na literatura de acordo com
@@ -1378,7 +1175,14 @@ alguma religião. O texto não cita a religião desse grupo social.
 
 # Módulo 4 
 
- ** -- **AS DIFERENTES VOZES DE UM TEXTO**
+ ** -- **As diferentes vozes de um texto**
+ 
+ \colorsec{Habilidades da BNCC}
+ - Analisar efeitos de sentido produzido pelo uso de formas de apropriação textual (paráfrase, citação etc.).
+- Analisar os efeitos de sentido decorrentes dos mecanismos de construção de textos jornalísticos/midiáticos.
+
+\colorsec{Habilidades da BNCC}
+- EF69LP16, EF69LP43, EF89LP05.
 
 Todo texto traz a voz do autor que o escreveu, mas também as vozes de
 terceiros que o autor mobiliza para confirmar, reforçar, corroborar,
@@ -1737,7 +1541,11 @@ opinião, trata-se de assunto do cotidiano dos artistas.
 
 # Módulo 5 
 
- ** -- **FATO E OPINIÃO: OBJETIVIDADE E SUBJETIVIDADE**
+ ** -- **Objetividade e subjetividade**
+ 
+ \colorsec{Habilidades do SAEB}
+ - Inferir informações implícitas em distintos textos.
+- Distinguir fatos de opiniões em textos.
 
 Nem sempre fato e opinião são facilmente diferenciados em textos. Muitas
 vezes, para distinguir entre eles, é necessário reconhecer o gênero
@@ -2089,7 +1897,13 @@ usado no cotidiano.
 
 # Módulo 6 
 
- ** -- **OS EFEITOS DE SENTIDO: HUMOR E IRONIA**
+ ** -- **Humor e ironia**
+ 
+ \colorsec{Habilidade do SAEB}
+ - Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou crítica.
+
+\colorsec{Habilidades da BNCC}
+- EF69LP03, EF69LP05.
 
 A leitura de um texto envolve não só a habilidade de reconhecer as
 palavras e seus significados dicionarizados, mas também a habilidade de
@@ -2476,8 +2290,12 @@ espelho.
 
 # Módulo 7 
 
- ** -- **PARCIALIDADE E IMPARCIALIDADE EM TEXTOS
-JORNALÍSTICOS**
+ ** -- **Parcialidade em textos jornalísticos**
+ 
+ \colorsec{Habilidades do SAEB}
+ - Analisar marcas de parcialidade em textos jornalísticos.
+- Avaliar diferentes graus de parcialidade em textos jornalísticos.
+- Avaliar a fidedignidade de informações sobre um mesmo fato divulgado em diferentes veículos e mídias.
 
 Como visto no módulo 2, os textos jornalísticos fazem parte do grupo dos
 gêneros textuais informativos e, assim, são centrados na informação a
@@ -2872,7 +2690,15 @@ um viés que favoreça a imagem do presidente.
 
 # Módulo 8 
 
- ** -- **MODALIZAÇÃO E ATITUDE DISCURSIVA**
+ ** -- **Modalização**
+ 
+ \colorsec{Habilidades do SAEB}
+ - Identificar os recursos de modalização em textos diversos.
+ - Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais com base no gênero textual e na intenção comunicativa.
+- Analisar os efeitos de sentido produzidos pelo uso de modalizadores em textos diversos.
+
+\colorsec{Habilidades da BNCC}
+- EF69LP04, EF69LP28, EF89LP16, EF89LP31, EF08LP16.
 
 Um texto é muito mais que um simples conjunto organizado de palavras e
 frases combinadas. Por trás desse conjunto que chamamos de texto está a
@@ -3310,7 +3136,14 @@ fato.
 
 # Módulo 9 
 
- ** -- **FIGURAS DE LINGUAGEM E ESTRATÉGIA ARGUMENTATIVA**
+ ** -- **Figuras de linguagem**
+ 
+ \colorsec{Habilidade do SAEB}
+ - Analisar o uso de figuras de linguagem como estratégia argumentativa.
+- Avaliar a eficácia das estratégias argumentativas em textos de diferentes gêneros.
+
+\colorsec{Habilidades da BNCC}
+- EF69LP17, EF89LP06, EF89LP14, EF89LP37.
 
 As figuras de linguagem são recursos muito úteis aos textos
 argumentativos. Elas se caracterizam por expressarem sempre um sentido
@@ -3648,7 +3481,14 @@ sobre a doença.
 
 # Módulo 10 
 
-  -- OS MECANISMOS DE PROGRESSÃO TEXTUAL**
+  **Progressão textual**
+  
+  \colorsec{Habilidade do SAEB}
+  - Analisar os mecanismos que contribuem para a progressão textual.
+- Analisar os processos de referenciação lexical e pronominal.
+
+\colorsec{Habilidades da BNCC}
+- EF08LP13, EF08LP15.
 
 A progressão textual é o desenvolvimento das ideias e do tema de um
 texto. Esse desenvolvimento ocorre com a adição de informações novas às
@@ -4050,8 +3890,14 @@ ambos são prejuízos da tecnologia, segundo o texto.
 
 # Módulo 11 
 
- ** -- **VARIAÇÃO LINGUÍSTICA, NORMA-PADRÃO E PRECONCEITO
-LINGUÍSTICO**
+ ** -- **Variação linguística**
+ 
+ \colorsec{Habilidades do SAEB}
+ - Analisar as variedades linguísticas em textos.
+- Avaliar a adequação das variedades linguísticas em contextos de uso.
+
+\colorsec{Habilidades da BNCC}
+- EF69LP55, EF69LP56.
 
 A língua portuguesa é falada, no Brasil, por mais de 200 milhões de
 pessoas, que podem ser agrupadas de acordo com as diferentes regiões do
@@ -4635,7 +4481,7 @@ letra.
 
 [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]{.underline}
 
-**[SIMULADO 1]{.underline}**
+#Simulado 1
 
 \num{1}
 
@@ -7728,3 +7574,4 @@ Acessado em: 03/07/2018.
 
 SARMENTO, Leila Luar: TUFANO: Douglas. **Literatura, Gramática e
 Produção de Texto**. São Paulo: Moderna, 2001.
+
