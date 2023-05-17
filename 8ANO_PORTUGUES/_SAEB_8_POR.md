@@ -738,51 +738,51 @@ II. Gênero dramático.
 III. Gênero lírico.
 
 ( \coment{III} ) **Vai alta no céu a lua da Primavera** (Fernando Pessoa)
-
+>
 Vai alta no céu a lua da Primavera
-
+>
 Penso em ti e dentro de mim estou completo.
 
-
+>
 Corre pelos vagos campos até mim uma brisa ligeira.
-
+>
 Penso em ti, murmuro o teu nome; e não sou eu: sou feliz.
 
-
+>
 Amanhã virás, andarás comigo a colher flores pelo campo,
-
+>
 E eu andarei contigo pelos campos ver-te colher flores.
-
+>
 Eu já te vejo amanhã a colher flores comigo pelos campos,
-
+>
 Pois quando vieres amanhã e andares comigo no campo a colher flores,
-
+>
 Isso será uma alegria e uma verdade para mim.
 
 ( \coment{I} ) **A divina comédia** (Dante Alighieri)
-
+>
 No meio do caminho de nossa vida,
-
+>
 Encontrei-me em uma selva escura,
-
+>
 Pois o caminho certo havia se perdido.
 
-
+>
 Ah, como é difícil dizer o quão selvagem
-
+>
 E amarga é essa floresta,
-
+>
 Que renova o medo em minha mente!
 
-
+>
 Tão amarga que se assemelha à morte,
-
+>
 Mas para falar sobre o bem que encontrei lá,
-
+>
 Falarei também sobre outras coisas que observei.
 
 ( \coment{II} ) **O auto da Compadecida** (Ariano Suassuna)
-
+>
 JOÃO GRILO, ajoelhando-se, em tom lamentoso: Lembra-te de Nosso Senhor Jesus Cristo. Chicó. Chicó, Jesus vai contigo e tu vais com Jesus. Lembra-te de Nosso Senhor Jesus Cristo, Chicó.
 CHICÓ: Que latomia é essa para o meu lado? Você quer me agourar?
 JOÃO GRILO, erguendo-se: Ah, e você está vivo?
@@ -791,83 +791,77 @@ JOÃO GRILO: Você disse que hora de chamar padre era a hora da morte, começou 
 CHICÓ, depois de estender-lhe o punho fechado: Padre João!
 
 \num{9} Descreva as características composicionais que você identificou
-em cada texto para indicar seu gênero literário. (7 Linhas)
+em cada texto da atividade anterior para indicar seu gênero literário.
 
-Primeiro texto: Expressa emoções subjetivas do eu lírico (voz que fala
-no poema). É escrito em versos e estrofes, com linguagem conotativa
-(figurada) e rimas.
+\linhas{8}
+\coment{O poema de Fernando Pessoa expressa emoções subjetivas do eu lírico. O trecho de *A divina comédia* apresenta sequência narrativa escrita em versos. O texto de Ariano Suassuna apresenta os nomes dos personagens destacados de suas falas, com instruções do movimento que os atores deverão fazer ao encenar.
 
-Segundo texto: Apresenta sequência narrativa escrita em prosa com verbos
-no pretérito. Apresenta personagens e narrador. Apresenta o elemento da
-narrativa denominado situação inicial.
+\num{10} Qual é a voz que fala no texto *A divina comédia*, apresentado na
+atividade 8? Justifique sua resposta.
 
-Terceiro texto: Apresenta os nomes dos personagens destacados de suas
-falas, com instruções do movimento que os atores deverão fazer ao
-encenar.
-
-\num{0} Qual é a voz que fala no texto "Barcos de papel", apresentado na
-questão 8? Justifique. (3 linhas)
-
-A voz que fala no texto é a do narrador, pois ele apresenta o espaço, o
-tempo e os personagens da história para o leitor.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{4}
+\coment{A voz que fala no texto é a do narrador, pois ele apresenta o espaço e o
+tempo da narrativa. Trata-se de um poema épico.}
 
 \colorsec{Treino}
 
-**Texto para as questões 1 e 2.**
+Leia o texto a seguir e responda às questões 1 e 2.
 
-**Caramelo**
-
+>**Caramelo**
+>
 No café
-
+>
 A xícara de expresso esfriava
-
+>
 Nessas raras tardes elegantes
-
+>
 Do Rio de Janeiro
-
+>
 Quando não estamos
-
+>
 Ensopados de suor
-
+>
 Uma brisa fria do mar
 
+>
 Fazia o vapor desvanecer
-
+>
 Minha boca adocicada
-
+>
 Pelo *petit four*
-
+>
 Aguardava com ânsia
-
+>
 Um caramelo
 
+>
 Quando esse caramelo
-
+>
 Adoçou minha boca
-
+>
 Os prazeres do café
-
+>
 E do *petit four*
-
+>
 Foram subestimados
 
+>
 Um caramelo viçoso
-
+>
 Encolhe-se ao vento frio
-
+>
 E pede abrigo
-
+>
 Em minha boca
 
-LIMA, Nelson. Disponível em:
-http://dominiopublico.mec.gov.br/download/texto/ea000321.pdf. Acesso em:
-23 mar. 2023 (fragmento).
 
-\num{1}
+>\[...]
 
-O recurso empregado na descrição da experiência vivida na cena do poema
+\fonte{Nelson Lima. *Poetas devem jogar poemas no lixo*. Disponível em:
+_http://dominiopublico.mec.gov.br/download/texto/ea000321.pdf_. Acesso em:
+23 mar. 2023.}
+
+\num{1} O recurso empregado na descrição da experiência vivida na cena do poema
 é o apelo
 
 a\) moral, refletindo valores.
@@ -878,25 +872,20 @@ c\) crítico, refletindo uma opinião.
 
 d\) humorístico, refletindo um estado de espírito.
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
-
-BNCC: EF69LP44
+BNCC: EF69LP44 -- Inferir a presença de valores sociais, culturais e humanos e de diferentes visões de mundo, em textos literários, reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre as identidades, sociedades e culturas e considerando a autoria e o contexto social e histórico de sua produção.
 
 \(A\) Incorreta. O apelo moral não está presente no poema.
 
 \(B\) Correta. O apelo sensorial está presente no poema por meio de
-referências à sensação térmica no Rio de Janeiro, à temperatura e
-degustação do café, ao paladar ("boca adocicada"), ao sabor doce do
-caramelo e à própria boca.
+referências à sensação térmica no Rio de Janeiro, à temperatura e à degustação do café, ao paladar ("boca adocicada"), ao sabor doce do caramelo e à própria boca.
 
 \(C\) Incorreta. O apelo crítico não está presente no poema.
 
 \(D\) Incorreta. O apelo humorístico não está presente no poema.
 
-\num{2}
-
-Qual visão de mundo já abordada por diferentes filósofos está implícita
+\num{2} Que visão de mundo já abordada por diferentes filósofos está implícita
 no poema?
 
 a\) A verdadeira felicidade está nas coisas mais simples da vida.
@@ -909,44 +898,40 @@ sabedoria.
 d\) Felicidade é como uma borboleta: quanto mais se tenta apanhá-la,
 mais ela se afasta de você.
 
-Saeb: Analisar a intertextualidade entre textos literários ou entre
+SAEB: Analisar a intertextualidade entre textos literários ou entre
 estes e outros textos verbais ou não verbais.
-
-BNCC: EF89LP32
+BNCC: EF89LP32 -- Analisar os efeitos de sentido decorrentes do uso de mecanismos de
+intertextualidade (referências, alusões, retomadas) entre os textos literários, entre esses textos literários e outras manifestações artísticas (cinema, teatro, artes visuais e midiáticas, música), quanto aos temas, personagens, estilos, autores etc., e entre o texto original e paródias, paráfrases, pastiches, trailer honesto, vídeos-minuto, vidding, dentre outros.
 
 \(A\) Correta. O eu lírico exalta o momento em que toma café expresso
-com caramelo numa tarde do Rio de Janeiro, a qual ele considera rara e
-que, por isso mesmo, se torna um momento de degustação e deleite. Isso
-comprova que o eu lírico valoriza coisas simples como um simples café
-com caramelo.
+com caramelo em uma tarde do Rio de Janeiro, a qual ele considera rara, que, por isso mesmo, se torna um momento de degustação e deleite. Isso comprova que o eu lírico valoriza coisas simples como um singelo café com caramelo.
 
-\(B\) Incorreta. O poema descreve as sensações de um momento específico
+\(B\) Incorreta. O poema descreve as sensações de um momento específico,
 e não pensamentos.
 
-\(C\) Incorreta. O poema descreve as sensações de um momento específico
+\(C\) Incorreta. O poema descreve as sensações de um momento específico,
 e não a saúde ou a sabedoria.
 
-\(D\) Incorreta. O poema descreve as sensações de um momento específico
+\(D\) Incorreta. O poema descreve as sensações de um momento específico,
 e não a busca da felicidade.
 
-\num{3}
+\num{3} Leia o texto.
 
-**Smita**
+>**Smita**
 
-Smita acorda com uma estranha sensação, uma suave urgência, um inédito
+>Smita acorda com uma estranha sensação, uma suave urgência, um inédito
 frio na barriga. Hoje é um dia que ela irá lembrar para o resto da vida.
 Hoje, sua filha vai entrar para a escola.
 
-Na escola, Smita nunca pôs os pés. Aqui, em Badlapur, gente como ela não
-vai à escola. Smita é uma *dalit.* Uma intocável. Desses que Ghandi
+>Na escola, Smita nunca pôs os pés. Aqui, em Badlapur, gente como ela não
+vai à escola. Smita é uma *dalit*. Uma intocável. Desses que Ghandi
 chamava de filhos de Deus. Fora das castas, fora do sistema, fora de
 tudo. Uma espécie à parte, julgada impura demais para se misturar com as
 outras, uma ralé indigna da qual as pessoas cuidadosamente se afastam,
 como separar o joio do trigo. Como Smita, eles são milhões a viver fora
 das aldeias, da sociedade, na periferia da humanidade.
 
-COLOMBANI, Laetitia. *A trança*. 1.ed. São Paulo: Intrínseca, 2021
-(fragmento).
+\fonte{Laetitia Colombani. *A trança*. São Paulo: Intrínseca, 2021.}
 
 A narrativa retrata uma sociedade que discrimina a personagem devido a
 
@@ -958,27 +943,26 @@ c\) seu gênero, sendo proibida de frequentar a escola por ser mulher.
 
 d\) sua religião, sendo considerada herege por servir a outros deuses.
 
-Saeb: Inferir a presença de valores sociais, culturais e humanos em
+SAEB: Inferir a presença de valores sociais, culturais e humanos em
 textos literários.
+BNCC: EF69LP44 -- Inferir a presença de valores sociais, culturais e humanos e de diferentes visões de mundo, em textos literários, reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre as identidades, sociedades e culturas e considerando a autoria e o contexto social e histórico de sua produção.
 
-BNCC: EF69LP44
-
-\(A\) Correta. A personagem é discrimina por sua origem social, pois ela
+\(A\) Correta. A personagem é discriminada por sua origem social, pois ela
 é uma *dalit*, um grupo social excluído da sociedade indiana o qual não
 participa sequer do sistema de castas, conforme diz a narrativa.
 
 \(B\) Incorreta. A personagem é discriminada por ser uma *dalit,* um
 grupo social excluído da sociedade na Índia. O fato de ela ter uma filha
 não é mencionado como causa da discriminação sofrida, mesmo porque não é
-possível, no trecho, saber se é mãe solteira.
+possível, no trecho, saber se é mãe solo.
 
 \(C\) Incorreta. O gênero da personagem, inicialmente, parece ter
 relação com a proibição de ir à escola, mas a narrativa logo esclarece
 que todo o grupo social dos *dalits*, do qual ela faz parte, vive à
 margem da sociedade.
 
-\(D\) Incorreta. O texto cita uma fala de Gandhi sobe os *dalits* serem
-filhos de Deus, mas isso não é mencionado com objetivo de situá-los em
+\(D\) Incorreta. O texto cita uma fala de Gandhi sobre os *dalits* serem
+filhos de Deus, mas isso não é mencionado com o objetivo de situá-los em
 alguma religião. O texto não cita a religião desse grupo social.
 
 # Módulo 4 
@@ -7382,4 +7366,5 @@ Acessado em: 03/07/2018.
 
 SARMENTO, Leila Luar: TUFANO: Douglas. **Literatura, Gramática e
 Produção de Texto**. São Paulo: Moderna, 2001.
+
 
