@@ -1295,266 +1295,190 @@ opinião; trata-se de assunto do cotidiano dos artistas.
 
 # Módulo 5 
 
- ** -- **Objetividade e subjetividade**
+ **Objetividade e subjetividade**
  
- \colorsec{Habilidades do SAEB}
- - Inferir informações implícitas em distintos textos.
+\colorsec{Habilidades do SAEB}
+- Inferir informações implícitas em distintos textos.
 - Distinguir fatos de opiniões em textos.
 
 Nem sempre fato e opinião são facilmente diferenciados em textos. Muitas
 vezes, para distinguir entre eles, é necessário reconhecer o gênero
 textual e suas características predominantes. Numa notícia, por exemplo,
 espera-se encontrar mais fatos do que opiniões, pois imparcialidade e
-objetividade são predominantes nesse gênero textual jornalístico. Por
+objetividade devem ser predominantes nesse gênero textual jornalístico. Por
 outro lado, ainda no campo jornalístico, o gênero reportagem, por
-aprofundar-se mais num assunto ou fato, é mais flexível à opinião de
+aprofundar-se mais em um assunto, é mais flexível à opinião de
 quem escreve, permitindo a coexistência de fato e opinião no mesmo
 texto, assim como ocorre em textos dos gêneros textuais argumentativos.
 
-Segundo o dicionário on-line Michaelis, a palavra "fato" tem os
-seguintes significados:
+Segundo dicionário da língua portuguesa, fato é:
 
-\num{1} Evento de cuja ocorrência se tem conhecimento, ou coisa cuja
-existência não se põe em dúvida;
+* evento de cuja ocorrência se tem conhecimento, ou coisa cuja existência não se põe em dúvida;
+* tudo aquilo que acontece por ação do homem ou em decorrência de eventos exteriores ou naturais, que independem da vontade humana; acontecido, acontecimento, ocorrência;
+* Algo cuja existência é inquestionável; realidade, verdade.
 
-\num{2} Tudo aquilo que acontece por ação do homem ou em decorrência de
-eventos exteriores ou naturais, que independem da vontade humana;
-acontecido, acontecimento, ocorrência;
+Por sua vez, os mesmos dicionários trazem que opinião é:
 
-\num{3} Algo cuja existência é inquestionável; realidade, verdade.
-
-Por sua vez, o mesmo dicionário traz os seguintes significados para
-"opinião":
-
-\num{1} Modo de pensar, de julgar, de ver;
-
-\num{2} Ponto de vista ou posição tomada sobre assunto em particular
-(social, político, religioso etc.);
-
-\num{3} Parecer emitido sobre determinado assunto em que muito se refletiu e
-deliberou;
-
-\num{4} Juízo de valor que se faz sobre alguém ou alguma coisa.
+* modo de pensar, de julgar, de ver;
+* ponto de vista ou posição tomada sobre assunto em particular (social, político, religioso etc.);
+* parecer emitido sobre determinado assunto em que muito se refletiu e deliberou;
+* juízo de valor que se faz sobre alguém ou alguma coisa.
 
 Dessa forma, dois conceitos são determinantes para a distinção entre
 fato e opinião: a objetividade e a subjetividade. A opinião se
 caracteriza pela subjetividade, isto é, o ponto vista do sujeito, sua
 visão e impressão pessoal, seus sentimentos sobre um fato. Palavras e
-expressões que sinalizam opinião são, por exemplo, o uso de adjetivos e
-advérbios ou de expressões avaliativas. O fato, por outro lado,
+expressões que sinalizam opinião são, por exemplo, os adjetivos e os advérbios ou expressões avaliativas. O fato, por outro lado,
 caracteriza-se pela objetividade, ou seja, a realidade dos
 acontecimentos concretos inquestionáveis. Uma marca linguística da
 objetividade é a presença do sentido literal das palavras e a ausência
 de adjetivos e advérbios que sinalizem pontos de vista.
 
-Para finalizar, vejamos dois exemplos que ilustram fato e opinião. Neles
-é possível perceber que a opinião pode ser construída por meio da adição
-elementos linguísticos dispensáveis para a compreensão básica da frase,
+Vejamos dois exemplos que ilustram fato e opinião. Com eles,
+é possível perceber que a opinião pode ser construída por meio da adição de elementos linguísticos dispensáveis para a compreensão básica da frase,
 o que facilita, em alguns casos, a diferenciação entre fato e opinião.
 
-Exemplo 1 (fato): UM ACIDENTE OCORREU NA MANHÃ DE ONTEM.
-
-Exemplo 2 (opinião): UM TRÁGICO ACIDENTE QUE OCORREU NA MANHÃ DE ONTEM
-PODERIA TER SIDO EVITADO.
-
-Quando falamos em "elementos linguísticos dispensáveis" nos exemplos
-apresentados, estamos nos referindo ao aspecto sintático das frases.
-Isso significa que a eliminação das marcas linguísticas avaliativas
-presentes no exemplo 2 não gera prejuízo sintático para a frase, que,
-nesse caso, deixa o status de opinião e passa ao status de fato, como no
-exemplo 1. Essas marcas linguísticas são, portanto, acessórias. A
-percepção disso fica mais fácil quando destacamos os termos dispensáveis
-na frase: Um [trágico]{.underline} acidente [que]{.underline} ocorreu na
-manhã de ontem [poderia ter sido evitado]{.underline}.
-
-Fato e opinião podem estar presentes, simultaneamente ou isoladamente,
-em quaisquer gêneros textuais e domínios discursivos, em maior ou menor
-grau. Os dois gêneros jornalísticos mencionados, notícia e reportagem,
-são apenas exemplares de textos do mesmo domínio discursivo que,
-entretanto, se diferenciam pela liberdade do autor na abordagem do
-assunto.
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+Fato: Um acidente ocorreu na manhã de ontem.
+Opinião: Um trágico acidente que ocorreu na manhã de ontem poderia ter sido evitado.
 
 \colorsec{Atividades}
 
-**Texto para as questões de 1 a 4.**
+Leia a manchete a seguir para resolver as atividades de 1 a 4.
 
-**TEXTO I**
+>**O impacto da tragédia das chuvas no turismo do litoral Norte de SP**
+>*Estradas fechadas, praias interditadas e dezenas de mortes. No cenário de caos, consumidores tiveram que cancelar ou remarcar a hospedagem em pousadas da região*
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image6.png){width="5.905555555555556in"
-height="1.1381944444444445in"}
+\fonte{Luciana Atheniense. Estado de Minas. O impacto da tragédia das chuvas no turismo do litoral Norte de SP. Disponível em: _https://www.em.com.br/app/colunistas/luciana-atheniense/2023/02/27/interna\_luciana\_atheniense,1462512/o-impacto-da-tragedia-das-chuvas-no-turismo-do-litoral-norte-de-sp.shtml_. Acesso em: 01 mar. 2023.}
 
-Disponível em:
-https://www.em.com.br/app/colunistas/luciana-atheniense/2023/02/27/interna\_luciana\_atheniense,1462512/o-impacto-da-tragedia-das-chuvas-no-turismo-do-litoral-norte-de-sp.shtml.
-Acesso em: 01 mar. 2023 (fragmento).
+\num{1} Escreva os fatos e as opiniões que você consegue identificar no texto.
 
-\num{1} Escreva, no quadro a seguir, os fatos e as opiniões que você
-consegue identificar no texto.
-
-  **Fatos**   **Opiniões**
-  ----------- --------------
-              
-
-+----------------------------------+----------------------------------+
-| **Fatos**                        | **Opiniões**                     |
-+==================================+==================================+
-| As chuvas no litoral norte de SP | As chuvas no litoral norte de SP |
-| tiveram impacto no turismo.      | são uma tragédia e causaram um   |
-|                                  | cenário de caos.                 |
-| Houve fechamento de estradas,    |                                  |
-| interdição de praias e dezenas   |                                  |
-| de mortes.                       |                                  |
-|                                  |                                  |
-| Consumidores tiveram que         |                                  |
-| cancelar ou remarcar a           |                                  |
-| hospedagem em pousadas da        |                                  |
-| região.                          |                                  |
-+----------------------------------+----------------------------------+
+\linhas{8}
+\coment{Fatos: as chuvas no litoral norte de São Paulo tiveram impacto no turismo; houve fechamento de estradas, interdição de praias e dezenas de mortes; consumidores precisaram cancelar ou remarcar a hospedagem em pousadas da região. Opinião: as chuvas no litoral norte de São Paulo são uma tragédia e causaram um cenário de caos.}
 
 \num{2} Além de objetividade, o texto apresenta marcas de subjetividade,
 que se manifesta por meio de duas expressões avaliativas específicas.
-Reescreva o texto eliminando essas duas expressões. (5 linhas)
+Reescreva o texto eliminando essas duas expressões.
 
-O impacto das chuvas no turismo do litoral Norte de SP.
-
-Estradas fechas, praias interditadas e dezenas de mortes. Consumidores
-tiveram que cancelar ou remarcar a hospedagem em pousadas da região.
+\linhas{6}
+\coment{O impacto das chuvas no turismo do litoral Norte de SP. Estradas fechadas, praias interditadas e dezenas de mortes. Consumidores tiveram que cancelar ou remarcar a hospedagem em pousadas da região.}
 
 \num{3} Após a reescrita, houve prejuízo para o leitor interessado em
-informar-se dos fatos ocorridos? Justifique. (4 linhas)
+informar-se dos fatos ocorridos? Justifique sua resposta.
 
-A reescrita não trouxe prejuízo para o leitor interessado na informação,
+\linhas{6}
+\coment{A reescrita não trouxe prejuízo para o leitor interessado na informação,
 pois as expressões suprimidas não são factuais, e sim opinativas, sendo,
-portanto, dispensáveis sem prejuízo da informação.
+portanto, dispensáveis sem prejuízo da informação.}
 
 \num{4} Após a reescrita, houve prejuízo para o leitor interessado em
-saber a avaliação do autor sobre os fatos ocorridos? Justifique. (4
-linhas)
+saber a avaliação do autor sobre os fatos ocorridos? Justifique sua resposta.
 
-A reescrita trouxe prejuízo para o leitor que buscou a avaliação do
-autor, pois as expressões suprimidas são opinativas.
+\linhas{6}
+\coment{A reescrita trouxe prejuízo para o leitor que buscou a avaliação do
+autor, pois as expressões suprimidas são opinativas.}
 
-**Texto para as questões de 5 a 10.**
+Leia o texto a seguir para resolver as atividades de 5 a 10.
 
-**TEXTO II**
-
-Nosso pai era homem cumpridor, ordeiro, positivo; e sido assim desde
+>**A terceira margem do rio**
+>
+>Nosso pai era homem cumpridor, ordeiro, positivo; e sido assim desde
 mocinho e menino, pelo que testemunharam as diversas sensatas pessoas,
 quando indaguei a informação. Do que eu mesmo me alembro, ele não
 figurava mais estúrdio nem mais triste do que os outros, conhecidos
 nossos. Só quieto. Nossa mãe era quem regia, e que ralhava no diário com
 a gente -- minha irmã, meu irmão e eu.
 
-ROSA, João Guimarães. A terceira margem do rio. In: ROSA, João
-Guimarães. *Ficção*
-
-*completa*: volume II. Rio de Janeiro: Nova Aguilar, 1994. p. 409-413
-(fragmento).
+\fonte{João Guimarães Rosa. A terceira margem do rio. In: *Ficção completa*: volume II. Rio de Janeiro: Nova Aguilar, 1994.}
 
 \num{5} Qual é o fator principal que interfere na perspectiva do narrador
 em relação ao homem de quem ele fala, tornando-a ainda mais subjetiva?
-(3 linhas)
 
-O fator que interfere na perspectiva do narrador e a torna ainda mais
-subjetiva é sua relação afetiva com o homem de quem ele fala, pois
-trata-se de pai e filho.
+\linhas{4}
+\coment{O fator que interfere na perspectiva do narrador e a torna ainda mais
+subjetiva é sua relação afetiva com o homem de quem ele fala, pois se trata de uma relação de pai e filho.}
 
 \num{6} Para confirmar sua impressão pessoal sobre o homem de quem fala,
-qual foi a iniciativa tomada pelo narrador? (2 linhas)
+qual foi a iniciativa tomada pelo narrador?
 
-O narrador recorreu ao testemunho de pessoas que conhecem seu pai desde
-a juventude.
+\linhas{2}
+\coment{O narrador recorreu ao testemunho de pessoas que conhecem seu pai desde
+a juventude.}
 
 \num{7} A qualidade atribuída pelo narrador aos terceiros de quem ele
-colhe testemunhos influencia a credibilidade deles? Justifique. (3
-linhas)
+colhe testemunhos influencia a credibilidade deles? Justifique sua resposta.
 
-Sim, o narrador caracteriza esses terceiros como "sensatas pessoas" e
+\linhas{6}
+\coment{Sim. O narrador caracteriza esses terceiros como "sensatas pessoas", e
 isso o influencia fortemente a dar credibilidade ao testemunho dessas
-pessoas.
+pessoas.}
 
 \num{8} Em se tratando de um fragmento de narrativa, você consegue
 prever, no desenvolvimento dela, o possível motivo pelo qual o narrador
-tece elogios ao homem e busca o testemunho de terceiros sobre ele? (5
-linhas)
+tece elogios ao homem e busca o testemunho de terceiros sobre ele? 
 
-Resposta pessoal. Uma hipótese de resposta plausível é a que o homem
+\linhas{6}
+\coment{Resposta pessoal. Uma hipótese de resposta plausível é que o homem
 tenha desaparecido sem motivo aparente e o narrador esteja tentando
-entender os motivos por meio de uma análise de perfil.
+entender os motivos por meio de uma análise de perfil.}
 
 \num{9} É possível que o narrador, com base na sua relação com o homem e
 no testemunho das "sensatas pessoas", esteja equivocado sobre ele?
-Justifique. (6 linhas)
+Justifique sua resposta.
 
-Resposta pessoal. Uma hipótese de resposta plausível é a de que o
+\linhas{8}
+\coment{Resposta pessoal. Uma hipótese de resposta plausível é que o
 narrador esteja equivocado, pois pode estar sob influência da relação
 afetiva que tem com o homem, o que pode enviesar sua visão; além disso,
 ele parece ter levado em conta apenas testemunhos condizentes com sua
 opinião, excluindo os demais, pois ele próprio qualifica como "sensatas"
-as pessoas de quem colheu tais testemunhos.
+as pessoas de quem colheu tais testemunhos.}
 
-\num{0} Com a breve descrição que faz da mãe, o narrador constrói, para
+\num{10} Com a breve descrição que faz da mãe, o narrador constrói, para
 o leitor, uma imagem dela oposta a determinado comportamento do homem.
-Explique. (5 linhas)
+Explique como isso se dá.
 
-O pai é descrito como uma pessoa quieta, enquanto a mãe era quem "regia"
+\linhas{6}
+\coment{O pai é descrito como uma pessoa quieta, enquanto a mãe era quem "regia"
 e "ralhava no diário com os filhos". Essas expressões, no contexto,
 denotam que a mãe era atuante no dia a dia com os filhos, enquanto o pai
-era mais passivo.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+era mais passivo.}
 
 \colorsec{Treino}
 
-\num{1}
+\num{1} Leia o texto.
 
-As cianobactérias podem, sob certas condições, crescer com rapidez nos
-cursos d\'água, formando colônias visíveis. A maioria dos casos de
-intoxicação por ingestão desses organismos foi observada após aplicação
-de sulfato de cobre em águas com alta densidade de plâncton vegetal.
-Isso podia ser esperado: a aplicação constante de sulfato de cobre faz
-com que as algas morram e sua parede celular se rompa, liberando as
-toxinas na água. Por isso, atualmente o uso dessa substância como
-desinfetante não é recomendado.
+>**As cianobactérias**
 
-CIÊNCIA HOJE, v. 25, n. 145, dez. 98, p. 33 (fragmento adaptado).
+>Sob determinadas circunstâncias, as cianobactérias podem proliferar rapidamente nos corpos d'água, resultando na formação de colônias visíveis. A maioria dos casos de intoxicação por ingestão desses organismos ocorreu após a aplicação de sulfato de cobre em águas com alta densidade de plâncton vegetal. Isso era previsível, uma vez que a aplicação contínua de sulfato de cobre leva à morte das algas e à ruptura de suas paredes celulares, liberando as toxinas na água. Por esse motivo, o uso dessa substância como desinfetante não é recomendado atualmente.
+
+\fonte{Texto escrito para este material.}
 
 Há traço de opinião em
 
-a\) "Isso podia ser esperado: \[\...\]".
+a\) "Isso era previsível".
 
-b\) "\[\...\] a aplicação constante de sulfato de cobre faz com que as
-algas morram \[\...\]".
+b\) "a aplicação contínua de sulfato de cobre leva à morte das algas".
 
-c\) "As cianobactérias podem, sob certas condições, crescer com rapidez
-nos cursos d\'água \[\...\]".
+c\) "Sob determinadas circunstâncias, as cianobactérias podem proliferar rapidamente nos corpos d'água".
 
-d\) "A maioria dos casos de intoxicação por ingestão desses organismos
-foi observada após aplicação de sulfato de cobre \[\...\]".
+d\) "A maioria dos casos de intoxicação por ingestão desses organismos ocorreu após a aplicação de sulfato de cobre".
 
-Saeb: Distinguir fatos de opiniões em textos.
-
-BNCC: não há correspondência.
+SAEB: Distinguir fatos de opiniões em textos.
 
 \(A\) Correta. O texto é do gênero artigo científico e, como tal,
 privilegia a transmissão de informação com objetividade. Porém, há nele
-um traço sutil de opinião. No trecho "Isso podia ser esperado" avalia o
+um traço sutil de opinião. No trecho "Isso era previsível" avalia o
 fato como uma decorrência óbvia, pois ambos estabelecem entre si uma
 relação necessária de causa e consequência.
-
 \(B\) Incorreta. O trecho expressa um fato.
-
 \(C\) Incorreta. O trecho expressa um fato.
-
 \(D\) Incorreta. O trecho expressa um fato.
 
-\num{2}
+\num{2} Leia o texto.
 
-**Conexão**
+>**Conexão**
 
-Regido por esse despretensioso fluxo de ideias, me sinto tentado a fazer
+>Regido por esse despretensioso fluxo de ideias, me sinto tentado a fazer
 uma parada. Até aqui me fiz tantas perguntas\... Mas será que você,
 leitor, é um jovem em busca de referências? Ou será que você é como eu
 quando adolescente, que queria bater um papo sobre as identidades em
@@ -1562,59 +1486,52 @@ formação, mas sem um viés acadêmico? Só um papo que trouxesse conforto e
 em que eu pudesse me espelhar\... Quando, neste livro, eu sou você? Onde
 nos encontramos? Em nossas semelhanças ou em nossas discordâncias?
 
-RAMOS, Lázaro. *Na minha pele*. 1.ed. Rio de Janeiro: Objetiva, 2017
-(fragmento).
+Lázaro Ramos. *Na minha pele*. Rio de Janeiro: Objetiva, 2017.
 
-A ideia presente no título se concretiza ao longo do texto pelo(a)
+A ideia presente no título se concretiza ao longo do texto
 
-a\) descompasso entre as subjetividades do autor e do leitor.
+a\) pelo descompasso entre as subjetividades do narrador e do leitor.
 
-b\) apresentação de ideias centradas na subjetividade do autor.
+b\) pela apresentação de ideias centradas na subjetividade do narrador.
 
-c\) apresentação de ideias centradas na subjetividade do leitor.
+c\) pela apresentação de ideias centradas na subjetividade do leitor.
 
-d\) busca de interação entre as subjetividades do autor e do leitor.
+d\) pela busca de interação entre as subjetividades do narrador e do leitor.
 
-Saeb: Inferir informações implícitas em distintos textos.
+SAEB: Inferir informações implícitas em distintos textos.
 
-BNCC: não há correspondência
-
-\(A\) Incorreta. O autor busca interagir com o leitor para estabelecer
+\(A\) Incorreta. O narrador busca interagir com o leitor para estabelecer
 com ele a correspondência entre suas vivências, de modo que não se sabe
 se tal intenção provoca semelhanças ou descompasso entre as
-subjetividades de autor e leitor.
-
-\(B\) Incorreta. O autor expõe situações de sua vivência para buscar
+subjetividades de narrador e leitor.
+\(B\) Incorreta. O narrador expõe situações de sua vivência para buscar
 interação com as vivências do leitor, de modo que as ideias são voltadas
-para ambas as subjetividades, do autor e do leitor.
-
-\(C\) Incorreta. O autor expõe situações de sua vivência para buscar
+para ambas as subjetividades, do narrador e do leitor.
+\(C\) Incorreta. O narrador expõe situações de sua vivência para buscar
 interação com as vivências do leitor, de modo que as ideias são voltadas
-para ambas as subjetividades, do autor e do leitor.
-
-\(D\) Correta. A conexão expressa no título é buscada quando o autor
+para ambas as subjetividades, do narrador e do leitor.
+\(D\) Correta. A conexão expressa no título é buscada quando o narrador
 expõe sua subjetividade por meio do relato de vivências e experiências
 pessoais, ao mesmo tempo fazendo perguntas retóricas ao leitor para
-buscar uma interação entre ambas as vivências, do autor e do leitor.
+buscar uma interação entre ambas as vivências, do narrador e do leitor.
 
-\num{3}
+\num{3} Leia o texto.
 
-**Direito de ter direitos**
+>**Direito de ter direitos**
 
-Cidadania -- uma palavra usada com frequência, mas que poucos entendem o
-que significa -- quer dizer, em essência, a garantia por lei de viver
+>Cidadania --- uma palavra usada com frequência, mas que poucos entendem o
+que significa --- quer dizer, em essência, a garantia por lei de viver
 dignamente. É o direito de expressar as próprias ideias; de votar em
 quem quiser sem nenhum tipo de constrangimento; de processar um médico
 ou hospital por negligência ou imperícia; de devolver um produto
 estragado e receber o dinheiro de volta; \[\...\]
 
-O direito de ter direitos foi uma conquista árdua da humanidade. No
+>O direito de ter direitos foi uma conquista árdua da humanidade. No
 Brasil, por exemplo, demorou muito tempo para que as pessoas tivessem o
 direito de votar e escolher seus governantes. \[\...\]
 
-DIMENSTEIN, Gilberto. *O cidadão de papel*: a infância, a adolescência e
-os Direitos Humanos no Brasil. 24.ed. São Paulo: Ática, 2012
-(fragmento).
+\fonte{Gilberto Dimenstein. *O cidadão de papel:* a infância, a adolescência e
+os Direitos Humanos no Brasil. São Paulo: Ática, 2012.}
 
 A leitura do texto permite inferir que
 
@@ -1626,25 +1543,20 @@ c\) a cidadania é garantida em todos os países do mundo.
 
 d\) a sociedade é hoje bem informada sobre cidadania.
 
-Saeb: Inferir informações implícitas em distintos textos.
-
-BNCC: não há correspondência
+SAEB: Inferir informações implícitas em distintos textos.
 
 \(A\) Correta. O leitor precisa, antes, compreender que o conceito de
-cidadania é amplo e abrande diferentes direitos, dentre eles o direito
+cidadania é amplo e abrange diferentes direitos, dentre os quais o direito
 ao voto. Assim, ao citar o exemplo do Brasil, fica claro que esse
 direito de cidadania foi conquistado tardiamente no país.
-
 \(B\) Incorreta. Pelo contrário, o texto enfatiza que o conceito de
-cidadania é amplo que abrange os diferentes direito a que se pode ter
+cidadania é amplo e abrange os diferentes direitos a que se pode ter
 acesso. Os direitos específicos listados no texto são apenas
 exemplificações dos tantos outros abrangidos.
-
 \(C\) Incorreta. O texto diz que a cidadania foi uma conquista árdua da
 humanidade, porém não é possível deduzir daí que ela seja garantida em
 todos os países do mundo, pois um conhecimento prévio básico nos diz que
 há países autoritários.
-
 \(D\) Incorreta. O texto nega essa afirmativa ao dizer que o conceito
 correto de cidadania ainda é desconhecido, embora o termo seja muito
 usado no cotidiano.
