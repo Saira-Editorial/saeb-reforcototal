@@ -14,7 +14,7 @@ SAEB -- LÍNGUA PORTUGUESA -- 6º ANO
 
 \conteudo
 
-{Com frequência no dia a dia nos deparamos com informações de diferentes
+{Com frequência, no dia a dia, nos deparamos com informações de diferentes
 tipos, que influenciam nosso modo de pensar ou de agir. Da mesma forma,
 é comum que outras pessoas precisem exercer seu posicionamento a
 respeito de determinados assuntos, a fim de fazer valer aquilo que
@@ -39,7 +39,7 @@ especialistas, em pesquisas e coletas de dados, por exemplo, ela se
 torna forte o suficiente para servir, inclusive, como ponto de
 referência.}
 
-
+https://www.freepik.com/free-photo/top-view-abstract-composition-with-innovation-elements_13295955.htm#query=logic%20argument&position=3&from_view=search&track=ais
 
 \colorsec{Atividades}
 
@@ -48,18 +48,18 @@ Leia o texto a seguir e responda às questões 1 a 4.
 **Estudantes escrevem carta com sugestões para a cidade e entregam ao
 prefeito**
 
-As ideias de pequenos cidadãos parecem simples, mas podem resultar em
+>As ideias de pequenos cidadãos parecem simples, mas podem resultar em
 melhorias para a cidade. Estudantes da turma do 3º ano A, da Escola
 Municipal de Ensino Fundamental (Emef) Octacílio Lomba, em Maruípe,
 entregaram uma carta ao prefeito de Vitória, Lorenzo Pazolini, com
 sugestões para a capital.
 
-Além da escrita, feita a muitos pares de mãos, os estudantes também
+>Além da escrita, feita a muitos pares de mãos, os estudantes também
 fizeram desenhos sobre como está a situação hoje e como eles imaginam
 que possa ser, com melhorias. No encontro com o prefeito, os estudantes
 leram a carta.
 
-\"Percebemos que a rua da nossa escola alaga, às vezes. E isso tem nos
+>\"Percebemos que a rua da nossa escola alaga, às vezes. E isso tem nos
 preocupado devido ao contato com vírus e bactérias que pode haver na
 água do esgoto. Nós aprendemos que esses alagamentos acontecem devido ao
 lixo que as pessoas jogam na rua. Será que o senhor não poderia investir
@@ -67,14 +67,14 @@ mais em trabalhos de conscientização da coleta seletiva? Assim as
 pessoas vão aprender como o lixo deve ser organizado\", diz um dos
 trechos da carta.\[;;;\]
 
-O amor pelos animais também foi um tópico tratado na carta: \"Se não for
+>O amor pelos animais também foi um tópico tratado na carta: \"Se não for
 pedir muito, o senhor poderia providenciar campanhas de conscientização
 para evitar os maus tratos de animais? Pois eles também têm
 sentimentos.\" \[\...\]
 
-(FRANÇA, Brunella. Estudantes escrevem carta com sugestões para a cidade
-e entregam ao prefeito. Publicada em 23 de novembro de 2021. Prefeitura
-de Vitória. Disponível em: \<
+https://www.freepik.com/free-photo/boy-girl-use-digital-laptop-while-walking-street-have-weekend-time_17093791.htm#page=2&query=9%20year%20old%20children%20t%20scool&position=1&from_view=search&track=ais
+
+(Brunella França.Prefeitura de Vitória.  Estudantes escrevem carta com sugestões para a cidade e entregam ao prefeito. Disponível em: \<
 <https://www.vitoria.es.gov.br/noticia/estudantes-escrevem-carta-com-sugestoes-para-a-cidade-e-entregam-ao-prefeito-44202>\>.
 Acesso em: 14 fev. 2023. Adaptado.)
 
@@ -83,7 +83,7 @@ estudantes de uma escola municipal de Maruípe, em Vitória (ES),
 destinada ao prefeito da cidade. Qual é o objetivo da carta?
 
 \coment{O objetivo era demonstrar situações preocupantes no município,
-do ponto de vista dos alunos, e sugestões de melhoria propostas por
+do ponto de vista dos alunos, além de sugestões de melhoria propostas por
 eles.}
 
 \num{2} Qual argumento os(as) estudantes utilizam para justificar sua
@@ -119,35 +119,25 @@ A **resenha crítica** é um tipo de texto que tem por característica
 avaliar obras dos mais diversos tipos: artigos, livros, canções, peças
 teatrais, filmes etc. Leia a seguir um trecho da resenha crítica do filme *Turma da Mônica: Laços* e responda às questões 5, 6 e 7.
 
-*Turma da Mônica: Laços* tem visual super colorido\[\...\]. Essa
-estética fornece os pilares imagéticos a uma trama que transcorre
-pontuando a importância da amizade em detrimento das diferenças.
-\[\...\]
+>A adaptação cinematográfica de *Turma da Mônica: Laços* apresenta uma estética visual incrivelmente colorida, que serve como base para uma história que enfatiza a importância da amizade acima das diferenças.
 
-Existe a preservação da pureza das crianças que adentram corajosamente
-num território interditado em busca do amigo peludo sob a custódia de
-uma figura misteriosa. Todavia, a ingenuidade delas vai até determinado
-ponto, não sendo extrapolada e, portanto, caracterizando a infância sem
-com isso fazer das figuras bobas ou inverossímeis. \[\...\]
+>O filme preserva a inocência das crianças, que corajosamente se aventuram em um lugar proibido em busca de seu amigo peludo, que está sob a custódia de uma figura misteriosa. No entanto, a ingenuidade delas tem seus limites e não é exagerada, o que retrata a infância sem tornar os personagens bobos ou pouco realistas.
 
-Daniel Rezende, que já havia demonstrado grandes qualidades como diretor
-à frente de *Bingo: O Rei das Manhãs* (2017), faz desse seu segundo
-longa-metragem uma preciosa homenagem à imaginação de Maurício de Sousa
-e, ao mesmo tempo, resgata uma infância com sabor nostálgico de passado,
-um período atravessado por questões atemporais, aqui sem a mediação de
-dispositivos eletrônicos ou de algo que os valha.
+>Daniel Rezende, que já demonstrou suas habilidades como diretor em *Bingo: O Rei das Manhãs* (2017), presta uma preciosa homenagem à imaginação de Maurício de Sousa neste seu segundo longa-metragem. Ao mesmo tempo, resgata uma infância com um toque nostálgico do passado, um período marcado por questões atemporais, sem a presença de dispositivos eletrônicos ou qualquer outra distração moderna.
 
-(MÜLLER, Marcelo. Resenha crítica de Turma da Mônica: Laços. Papo de
-Cinema. Disponível em:
+https://www.freepik.com/free-psd/funny-cinema-composition-3d-illustration_22793173.htm#query=movies&position=11&from_view=search&track=sph
+
+(Fonte de pesquisa: Marcelo Müller. Papo de
+Cinema. Resenha crítica de Turma da Mônica: Laços. Disponível em:
 \<<https://www.papodecinema.com.br/filmes/turma-da-monica-lacos/>\>.
-Acesso em: 22 fev. 2023. Fragmento.)
+Acesso em: 22 fev. 2023.)
 
 \num{5} Assinale verdadeiro (V) ou falso (F) para as afirmações a seguir.
 
 ( ) A resenha tenta convencer o(a) leitor(a) a assistir ao filme.
 
 ( ) O visual colorido do filme favorece a imaginação das pessoas que
-assistem ao filme.
+assistem a ele.
 
 ( ) A lição do filme é pontuar os laços de amizade, mesmo que em meio às
 diferenças.
@@ -170,7 +160,7 @@ A resenha apenas traz o ponto de vista do resenhista sobre o filme, sem
 tentar convencer o(a) leitor(a) a assisti-lo.
 
 ( V ) O visual colorido do filme favorece a imaginação das pessoas que
-assistem ao filme.
+assistem a ele.
 
 Na segunda linha da resenha o autor pontua que o visual super colorido
 do filme favorece pilares imagéticos para quem o assiste.
@@ -195,7 +185,9 @@ da Mônica, Maurício de Sousa.
 
 ( V ) O filme apresenta crianças em situações de aventuras atemporais,
 sem precisar de celulares e outros dispositivos eletrônicos para se
-divertir. Conforme explica o último parágrafo, o diretor resgata uma infância com
+divertir. 
+
+Conforme explica o último parágrafo, o diretor resgata uma infância com
 sabor nostálgico de passado, sem a mediação de dispositivos eletrônicos.}
 
 \num{6} De que maneira o(a) leitor(a) do texto percebe que o autor da
@@ -203,7 +195,7 @@ crítica gostou do filme?
 
 \coment{ O autor da resenha utiliza adjetivos positivos sobre a obra,
 ou seja, fala bem das cenas, do visual, do comportamento das personagens
-e até mesmo do diretor do filme.}
+e até mesmo do diretor do longa.}
 
 \num{7} Retire do texto ao menos dois trechos que demonstram o
 posicionamento do autor da resenha em relação ao filme *Turma da Mônica:
@@ -213,82 +205,59 @@ Laços*.
 apresentam adjetivos positivos em relação à obra.
 Sugestões de resposta:
 
-*Turma da Mônica: Laços* tem visual **super colorido**.
+*a ingenuidade delas tem seus limites e não é exagerada, o que retrata a infância sem tornar os personagens bobos ou pouco realistas**.
 
-Existe a preservação da pureza das crianças que adentram
-**corajosamente** num território interditado\...
+*Daniel Rezende, que já demonstrou suas habilidades como diretor em *Bingo: O Rei das Manhãs* (2017)*
 
-\...faz desse seu segundo longa-metragem uma **preciosa** homenagem à
-imaginação de Maurício de Sousa}
+*presta uma preciosa homenagem à imaginação de Maurício de Sousa neste seu segundo longa-metragem.*
 
 A **crônica argumentativa** é um gênero textual que busca apresentar
 reflexões pontos de vista pessoais a respeito de temas ou situações
-cotidianas. Leia um trecho da crônica *Nadar contra é impossível*, de Marina
-Colasanti, e responda às questões 8, 9 e 10.
+cotidianas. Leia a crônica *A prisão Digital*, de Diva Lopes, e responda às questões 8, 9 e 10.
 
-"Então, agora, além da contaminação do ar e da água, além da
-contaminação de oceanos e rios, teremos que nos cuidar da contaminação
-digital do cérebro.
+>Era uma vez uma era digital, onde a tecnologia avançada tomou conta do cotidiano das pessoas. Smartphones, tablets e computadores se tornaram extensões de seus corpos, oferecendo uma miríade de possibilidades. Mas, como tudo na vida, o encanto dessa modernidade tinha um preço oculto.
 
-E, a partir daqui, entramos na escorregadia área dos vícios.\[\...\]
-Adrenalina é um hormônio neurotransmissor derramado no organismo para
-prepará-lo a enfrentamentos. E transmite um prazer intenso, diferente de
-todos os outros.
+>O vício em tecnologia se infiltrou nas vidas das pessoas sorrateiramente, como uma teia virtual que as envolvia. O fascínio inicial pela praticidade e pela conexão instantânea foi gradualmente substituído por uma necessidade insaciável de estar online. A busca frenética por likes, seguidores e notificações se tornou o novo padrão de validação social.
 
-O jovem de 20 anos que olha o celular 190 vezes por dia, não o faz por
-avidez de notícias ou de conhecimentos. O faz porque não pode deixar de
-fazê-lo. É um vício, e uma reafirmação de êxito, tão comum a todos que
-sequer é encarado como vício. E, como tal, combatido.
+>Nas mesas de jantar, as famílias se reuniam, mas os olhares se perdiam nas telas iluminadas. A comunicação cara a cara foi substituída por emojis e mensagens curtas. As ruas antes repletas de risos e conversas agora se tornaram um desfile de cabeças baixas, imersas em um mundo virtual que parecia mais real do que o próprio mundo real.
 
-Que geração estamos fabricando, não sabemos. Qual será o resultado, no
-cérebro dos pequenos postados durante 4 horas por dia diante de telas de
-variados tamanhos, ignoramos. Mas nadar contra a correnteza do próprio
-tempo é impossível."
+>Os sinais de dependência eram claros. O sujeito se sentia ansioso quando separado de seu dispositivo eletrônico, experimentando uma espécie de abstinência tecnológica. Noites em claro eram gastas em redes sociais, jogos online e maratonas intermináveis de séries, deixando de lado o sono reparador e a vida social offline.
 
-(COLASANTI, Marina. Nadar contra é impossível. Publicado em 3 de
-dezembro de 2020. Disponível em:\<
-<https://www.marinacolasanti.com/2020/12/nadar-contra-e-impossivel.html>\>.
-Acesso em: 22 fev. 2023. Fragmento.)
+>A sociedade despertou para a realidade assustadora: a tecnologia que inicialmente prometia facilitar a vida agora se tornara uma prisão invisível. As pessoas eram escravas de suas próprias criações. Mas, como em todas as histórias, havia uma oportunidade de mudança.
 
-\num{8} Segundo a autora, as pessoas não conseguem parar de utilizar o
-celular por que estão viciadas. Qual argumento ela utiliza para
-justificar essa afirmação?
+>A conscientização sobre o vício em tecnologia começou a ganhar força. Campanhas de desconexão foram lançadas, incentivando as pessoas a encontrarem um equilíbrio saudável entre o mundo digital e o mundo real. Pessoas corajosas começaram a se desconectar, a olhar nos olhos uns dos outros e a redescobrir a beleza das conversas profundas e do toque humano.
 
-\coment{ A autora utiliza um dado científico. Ela explica o conceito de
-adrenalina, um hormônio que transmite prazer intenso. Segundo ela,
-quando a pessoa utiliza o celular, ela libera adrenalina.}
+>É verdade que a tecnologia trouxe avanços incríveis e facilitou muitos aspectos de nossas vidas. No entanto, é fundamental reconhecer os limites e controlar seu poder. Devemos lembrar que somos seres humanos, dotados de emoções, relacionamentos e conexões reais. A tecnologia deve ser uma ferramenta, não uma prisão que nos afasta da nossa essência.
 
-\num{9} A autora se mostra indignada com o fato de o vício em celulares não
-ser combatido. Por que, de acordo com o texto, isso acontece?
+>Então, que possamos nos desconectar quando necessário, aproveitar momentos de silêncio e introspecção, olhar para o céu, sentir a brisa e abraçar aqueles que amamos. Que possamos encontrar o equilíbrio entre o mundo digital e o mundo real, e assim viver uma vida plena, livre das correntes invisíveis do vício em tecnologia.
 
-\coment{ Porque esse tipo de vício passa tão batido no dia a dia que
-sequer é considerado um vício.}
+https://www.freepik.com/free-photo/man-hand-holding-virtual-world-with-internet-connection-metaverse-global-business-marketing-banking-financial-pass-thru-application-technology-concept_24458775.htm#query=digital%20world&position=25&from_view=search&track=ais
 
-\num{10} A que conclusão a autora chega, ao final de sua crônica?
+(Diva Lopes. A prisão digital.)
 
-\coment{ A autora conclui que mesmo com todos os problemas causados
-pelo vício em celulares, é impossível ir contra esse tipo de evolução
-tecnológica que acontece com o tempo.}
+\num{8} No primeiro parágrafo, há um jogo de palavras logo no início, em que duas palavras escritas de forma idêntica apresentam significados diferentes. Quais são essas palavras e como os significados delas se diferenciam?
+
+\coment{ Trata-se das duas ocorrências da palavra "era" - a primeira é uma forma verbal e a segunda é o nome de um longo período de tempo.}
+
+\num{9} O que significa a palavra "miríade", utilizada no texto? Se for preciso, faça uma pesquisa sobre ela. Como essa palavra contribui para a construção da argumentação na crônica? 
+
+\coment{A palavra significa "um grande número ou quantidade indefinida de algo". Na crônica, ela mostra a força do universo digital, que, por sua imensa quantidade de possibilidades, não só envolve como também vicia as pessoas.}
+
+\num{10} Qual é a mensagem final que se deixa no texto? Como você a interpreta?
+
+\coment{ A mensagem é que devemos nos reconectar ao mundo real, sabendo estar desconectados para aproveitar aquilo que só existe fora dos aparelhos e dos aplicativos.}
 
 \colorsec{Treino}
 
 \num{1}
 
-O consumismo está relacionado à ideia de devorar, destruir e extinguir.
-Se agora, tragédias naturais, como queimadas, furacões, inundações
-gigantescas, enchentes e períodos prolongados de seca, são muito mais
-comuns e frequentes, é porque a exploração irresponsável do meio
-ambiente prevaleceu ao longo de décadas.
+O consumismo está diretamente ligado à ideia de devorar, destruir e extinguir. Se hoje testemunhamos tragédias naturais como queimadas, furacões, inundações gigantescas e períodos prolongados de seca ocorrendo com maior frequência, é porque a exploração irresponsável do meio ambiente prevaleceu ao longo de décadas.
 
-Concentrar todos os esforços no consumo é contribuir, dia após dia, para
-o desequilíbrio global. O consumismo infantil, portanto, é um problema
-que não está ligado apenas à educação escolar e doméstica. Embora a
-questão seja tratada quase sempre como algo relacionado à esfera
-familiar, crianças que aprendem a consumir de forma inconsequente e
-desenvolvem critérios e valores distorcidos são de fato um problema de
-ordem ética, econômica e social.
+Focar todos os esforços no consumo é contribuir, dia após dia, para o desequilíbrio global. O consumismo infantil, portanto, é um problema que vai além da esfera educacional, seja na escola ou em casa. Embora seja comumente associado à responsabilidade familiar, devemos compreender que crianças que aprendem a consumir de forma inconsequente e desenvolvem critérios e valores distorcidos representam um problema ético, econômico e social.
 
-(Consumismo infantil: um problema de todos. Disponível em: \<
+https://www.freepik.com/free-photo/cute-little-girl-shopping-outdoors_28005005.htm#query=child%20consumism&position=27&from_view=search&track=ais
+
+(Fonte de pesquisa: Consumismo infantil: um problema de todos. Disponível em: \<
 <https://criancaeconsumo.org.br/consumismo-infantil/>\>. Acesso em: 22
 fev. 2022. Fragmento.)
 
@@ -306,7 +275,7 @@ décadas.
 d\) critérios e valores distorcidos são problemas de ordem ética,
 econômica e social.
 
-BNCC: EF67LP05.
+BNCC: EF67LP05 -- Identificar e avaliar teses/opiniões/posicionamentos explícitos e argumentos em textos argumentativos (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), manifestando concordância ou discordância.
 
 a\) Incorreta. O texto afirma que as crianças aprendem a consumir de
 forma inconsequente, porém não é essa a principal razão do desequilíbrio
@@ -324,20 +293,10 @@ não de modo geral) são de fato problemas de ordem ética, econômica e
 social, porém não são os responsáveis diretos pelo desequilíbrio global.
 
 
-\num{2} Observe a imagem a seguir.
+\num{2} Observe a imagem e o texto a seguir.
 
-![Interface gráfica do usuário, Aplicativo, Teams Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image1.png){width="5.905555555555556in"
-height="1.5354166666666667in"}
-
-Sugiro que aqui a arte redesenhe esses emojis. No flaticon achei todos
-eles:
-[[https://br.freepik.com/icones-premium/emojis\_26110665.htm\#query=emoji&position=9&from\_view=search&track=sph]{.underline}](https://br.freepik.com/icones-premium/emojis_26110665.htm#query=emoji&position=9&from_view=search&track=sph)
-
-As cores devem ser mantidas como na imagem original por questões
-pedagógicas.
-
-O texto pode ser reescrito da seguinte forma: Quão satisfeito você está
+https://www.freepik.com/free-photo/arrangement-with-different-feelings_12558427.htm#query=satisfaction%20research%20with%20emojis&position=11&from_view=search&track=ais
+Quão satisfeito você está
 com nossos serviços? Muito insatisfeito, Insatisfeito, Sem opinião
 definida, Satisfeito, Muito satisfeito.
 
@@ -348,7 +307,7 @@ relação aos serviços nessa pesquisa são
 a\) os emojis, por extarem muito presentes no dia a dia das pessoas.
 
 b\) os textos, que variam de "muito insatisfeito" a "muito satisfeito",
-posicionados abaixo das imagens.
+comumente posicionados abaixo das imagens.
 
 c\) as cores das imagens, que variam em uma escala de vermelho para
 "muito insatisfeito" a verde para "muito satisfeito".
@@ -356,7 +315,7 @@ c\) as cores das imagens, que variam em uma escala de vermelho para
 d\) a combinação de emojis com expressões faciais, as cores universais e
 os textos abaixo das imagens, tornando a pesquisa inclusiva.
 
-BNCC: EF67LP07.
+BNCC: EF67LP07 -- Identificar o uso de recursos persuasivos em textos argumentativos diversos (como a elaboração do título, escolhas lexicais, construções metafóricas, a explicitação ou a ocultação de fontes de informação) e perceber seus efeitos de sentido.
 
 a\) Incorreta. Os emojis de fato estão presentes no dia a dia das
 pessoas que utilizam ferramentas de comunicação digital, por exemplo,
@@ -376,16 +335,16 @@ d\) Correta. A combinação de expressões faciais, texto de apoio e cores
 torna a pesquisa intuitiva, ou seja, fácil de ser respondida por todos
 os públicos, e inclusiva, isto é, acessível a todas as pessoas.
 
-\num{3} *Nunca subestime uma mulherzinh*a é uma reunião de contos e crônicas
+\num{3} *Nunca subestime uma mulherzinha* é uma reunião de contos e crônicas
 publicados pela autora nos jornais *Correio Braziliense* e *O Estado de
 Minas*, com prefácio de Zélia Duncan.
 
-Nesta publicação o leitor poderá comprovar o talento literário e a
-irreverência de *Fernanda Takai*, uma mulherzinha com pouco mais de um
-metro e meio, de voz suave, que no *Pato Fu* se escondia atrás de uma
-guitarra.\[\...\]
 
-(Disponível em: \<<https://fernandatakai.com.br/livros/>\>. Acesso em:
+Neste texto, os leitores poderão testemunhar o talento literário e a irreverência de Fernanda Takai, uma mulher de estatura pequena, com pouco mais de um metro e meio, e uma voz suave. Em sua trajetória no Pato Fu, ela costumava se esconder atrás de uma guitarra.
+
+https://www.freepik.com/free-vector/flat-women-hands-with-feminism-fists-raised-up_23004466.htm#query=girl%20power&position=33&from_view=search&track=ais
+
+(Fonte de pesquisa: \<<https://fernandatakai.com.br/livros/>\>. Acesso em:
 22 de fev. 2023.)
 
 No título do livro de Fernanda Takai, *Nunca subestime uma mulherzinha*,
@@ -403,7 +362,7 @@ d\) dar um novo sentido à palavra "mulherzinha", que pode ser pejorativo
 em alguns contextos, mas aqui está sendo usado para representar a
 autora, uma mulher baixinha.
 
-BNCC: EF67LP07.
+BNCC: EF67LP07 -- Identificar o uso de recursos persuasivos em textos argumentativos diversos (como a elaboração do título, escolhas lexicais, construções metafóricas, a explicitação ou a ocultação de fontes de informação) e perceber seus efeitos de sentido.
 
 a\) Incorreta. A intenção de usar a palavra "mulher" no diminutivo não é
 fazer chacota com a autora do livro: pelo contrário, é ironizar o fato
@@ -6345,5 +6304,6 @@ b\) Incorreta. O evento trata de uma campanha de vacinação, direcionada à sa�
 c\) Incorreta. O anime utilizado para promover o evento pode estar relacionado a games e inovação, mas o objetivo do evento é promover saúde e bem-estar.
 
 d\) Incorreta. A campanha utiliza uma imagem familiar aos jovens para promover a vacinação direcionada à saúde e bem-estar do público-alvo.
+
 
 
