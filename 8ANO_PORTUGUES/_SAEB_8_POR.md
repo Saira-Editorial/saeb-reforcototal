@@ -1563,7 +1563,7 @@ usado no cotidiano.
 
 # Módulo 6 
 
- ** -- **Humor e ironia**
+ **Humor e ironia**
  
  \colorsec{Habilidade do SAEB}
  - Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou crítica.
@@ -1579,39 +1579,37 @@ interlocutores envolvidos, os papéis sociais que eles desempenham etc.
 
 Como exemplo, podemos pensar na frase "A porta está aberta". Dita por
 alguém que está dentro de casa e acaba de ouvir a campainha tocando,
-essa frase expressa uma autorização para que o visitante entre. Dita num
+essa frase expressa uma autorização para que o visitante entre. Dita em um
 ambiente de trabalho por um chefe a um funcionário insatisfeito com seu
 salário, ela pode ser interpretada como um convite para que o
 funcionário se retire da empresa ou peça demissão.
 
-O que podemos concluir daí? Os efeitos de sentido não estão ditos
+O que podemos concluir disso? Os efeitos de sentido não estão ditos
 explicitamente no texto. Alguém que tem a intenção de provocar humor não
-avisa que está fazendo piada, ele espera que o leitor/ouvinte
+avisa que está fazendo piada, mas espera que o interlocutor
 simplesmente interprete as pistas linguísticas e contextuais e, assim,
 perceba o efeito de humor.
 
 Alguns dos efeitos de sentido mais importantes que encontramos em textos
-são o humor e a ironia, muito comuns em piadas, anedotas, tirinhas e
+são o **humor** e a **ironia**, muito comuns em piadas, anedotas, tirinhas e
 charges. O objetivo desses efeitos de sentido nem sempre é apenas fazer
 piada ou crítica pura e simplesmente, mas sim levar o leitor a refletir
 sobre aquele assunto.
 
-O humor é um efeito de sentido gerador de riso cujo objetivo é e pode
+O humor é um efeito de sentido gerador de riso que pode
 ser provocado por meio de diferentes estratégias. Algumas delas são
 quebra de expectativa, contradição, ambiguidade, trocadilhos, jogos de
-palavras, situações absurdas ou engraçadas etc. Em resumo, o humor é
+palavras, situações absurdas ou engraçadas. Em resumo, o humor é
 provocado quando algo ocorre fora do que é esperado. Vejamos um exemplo
 de texto humorístico baseado em trocadilho: "O que o tijolo falou para o
-outro? Há um ciumento entre nós." (Trocadilho com a palavra "cimento").
+outro? Há um ciumento entre nós." Cria-se, nessa piadinha, um trocadilho entre as palavras "ciumento", que se relaciona à relação entre os dois tijolos, e "cimento", que se relaciona com o contexto de uma obra, em que os tijolos são esperados.
 
 A ironia consiste em dizer algo que, no contexto, expressa o contrário
-do que realmente significa, ou seja, é a palavra ou expressão dita com o
+do que realmente significa, ou seja, é a palavra ou a expressão dita com o
 objetivo de produzir um sentido contrário ao de sua aplicação comum em
 determinada situação comunicativa. Geralmente o objetivo é fazer uma
 crítica. Vejamos um exemplo de ironia: "Puxa, que bom que o elevador
-quebrou! Agora só teremos que subir 12 lances de escada, são bem
-poucos." (Certamente, a pessoa não está feliz por ter que subir 12
-lances de escada.)
+quebrou! Agora só teremos que subir 12 lances de escada..." Certamente, a pessoa não está feliz por ter de subir 12 lances de escada.
 
 \colorsec{Atividades}
 
@@ -1619,204 +1617,164 @@ lances de escada.)
 anedota à estratégia geradora de humor.
 
 +---------------------------+-----------------------------------------+
-| 1\. Trocadilho            | ( )                                     |
+| I. Trocadilho            | ( \coment{IV} )                                     |
 |                           |                                         |
 |                           | Um rapaz chegou num velório e a         |
 |                           | primeira coisa que perguntou foi:       |
 |                           |                                         |
-|                           | -- Qual é a senha do wi-fi?             |
+|                           | --- Qual é a senha do wi-fi?             |
 |                           |                                         |
 |                           | Um parente incomodado disse:            |
 |                           |                                         |
-|                           | -- Respeite o falecido!                 |
+|                           | --- Respeite o falecido!                 |
 |                           |                                         |
 |                           | E ele perguntou:                        |
 |                           |                                         |
-|                           | -- É tudo junto?                        |
+|                           | --- É tudo junto?                        |
 +===========================+=========================================+
-| 2\. Quebra de expectativa | ( )                                     |
+| II. Quebra de expectativa | ( \coment{I} )                                     |
 |                           |                                         |
 |                           | Qual a cidade brasileira que não tem    |
 |                           | táxi?                                   |
 |                           |                                         |
 |                           | Uberlândia.                             |
 +---------------------------+-----------------------------------------+
-| 3\. Ambiguidade           | ( )                                     |
+| III. Ambiguidade           | ( \coment{III} )                                     |
 |                           |                                         |
 |                           | Por que a plantinha não foi atendida no |
 |                           | hospital?                               |
 |                           |                                         |
 |                           | Porque só tinha médico de plantão.      |
 +---------------------------+-----------------------------------------+
-| 4\. Situação absurda      | ( )                                     |
+| IV. Situação absurda      | ( \coment{II} )                                     |
 |                           |                                         |
-|                           | Dois amigos conversando...              |
+|                           | Dois amigos conversando:                |
 |                           |                                         |
-|                           | -- Meu pai quer que eu faça Direito e   |
+|                           | --- Meu pai quer que eu faça Direito e   |
 |                           | seja um bom advogado.                   |
 |                           |                                         |
-|                           | -- Que bom, vai seguir a profissão do   |
+|                           | --- Que bom! Vai seguir a profissão do   |
 |                           | velho?                                  |
 |                           |                                         |
-|                           | -- Não, ele quer que tire ele da        |
+|                           | --- Não! Ele quer que tire ele da        |
 |                           | cadeia.                                 |
 +---------------------------+-----------------------------------------+
 
-Gabarito: 4 / 1 / 3 / 2
 
-A situação absurda consiste no fato de que o rapaz, mesmo sendo
-informação de que se tratava de um velório, não adequou seu
-comportamento a um contexto em que se espera empatia.
+Leia a manchete a seguir para resolver as atividades 2 e 3.
 
-O trocadilho, que pode, em determinados contextos, parecer-se com
-ambiguidade, consiste no fato de que a palavra "Uberlândia" remete ao
-aplicativo de transporte Uber. A ideia que justifica esse trocadilho é a
-de que carros de transporte pelo aplicativo substituíram os táxis nas
-cidades brasileiras.
+>**Crítica a Maju Coutinho não passou deoportunismo naturalizado**
+>*Jornalista trocou nome de escola de samba e logo corrigiu; que grave, não?*
 
-A ambiguidade consiste na dupla significação que a palavra "plantão"
-pode expressar na anedota, já que o contexto situacional é um hospital:
-atendimento médico em horário excepcional e planta grande em oposição a
-plantinha.
-
-A quebra de expectativa consiste em duas situações: ao contrário do que
-se espera, o rapaz entrará para o curso de direito não com o objetivo de
-obter a profissão de advogado, mas sim para atuar na defesa de seu pai
-junto à justiça; ao contrário do que se espera, o pai do rapaz não é
-advogado, mas presidiário.
-
-**Texto para as questões 2 e 3.**
-
-**TEXTO I**
-
-![Tela de celular com texto preto sobre fundo branco Descrição gerada
-automaticamente com confiança
-média](./imgSAEB_8_POR/media/image7.png){width="3.7395833333333335in"
-height="1.8284558180227473in"}
-
-Disponível em:
-https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2023/03/critica-a-maju-coutinho-©-passou-de-oportunismo-naturalizado.shtml&cd=1&hl=pt-BR&ct=clnk&gl=
-
-br. Acesso em: 13 mar. 2023 (fragmento).
+\fonte{Djamila Ribeiro. Folha de S.Paulo. Crítica a Maju Coutinho não passou deoportunismo naturalizado. Disponível em: _https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2023/03/critica-a-maju-coutinho-©-passou-de-oportunismo-naturalizado.shtml&cd=1&hl=pt-BR&ct=clnk&gl=_. Acesso em: 13 mar. 2023.
 
 \num{2} Considerando o erro cometido pela jornalista e a crítica que
 recebeu em razão dele, identifique o efeito de sentido da expressão "que
-grave, não?". Justifique. (5 linhas)
+grave, não?". Explique.
 
-O efeito de sentido da expressão é de ironia, pois a autora pretende que
+\linhas{4}
+\coment{O efeito de sentido da expressão é de ironia, pois a autora pretende que
 o leitor entenda o contrário do que disse, isto é, que o erro não é
-grave.
+grave.}
 
 \num{3} Na opinião da autora, o erro cometido pela jornalista justifica a
 crítica recebida por ela? Justifique. (3 linhas)
 
-A autora do artigo considera que a crítica feita à jornalista Maju
+\linhas{4}
+\coment{A autora do artigo considera que a crítica feita à jornalista Maju
 Coutinho não foi merecida, pois o erro não foi grave e, além disso, logo
-foi corrigido.
+foi corrigido.}
 
-**Texto para as questões de 4 a 7.**
-
-**TEXTO II**
+Leia a tirinha para resolver as atividades de 4 a 7.
 
 ![Desenho de personagem de desenho animado Descrição gerada
 automaticamente com confiança
 média](./imgSAEB_8_POR/media/image8.png){width="5.40625in"
 height="1.7797287839020122in"}
 
-SIMÕES, Cadu. Disponível em:
-https://commons.wikimedia.org/wiki/File:Homem-Grilo\_%286%29.png. Acesso
-em: 14 mar. 2023.
+\num{4} Em que consiste o humor presente na tirinha?
 
-\num{4} Em que consiste o humor presente na tirinha? (5 linhas)
-
-O humor consiste no mal-entendido cometido pelo menino, que confundiu um
+\linhas{4}
+\coment{O humor consiste no mal-entendido cometido pelo menino, que confundiu um
 supér-herói com outro, deixando o homem-grilo aborrecido por não ter
-sido reconhecido como pensou ser o caso.
+sido reconhecido, como tinha pensado ser o caso.}
 
 \num{5} Qual foi a expectativa criada pelo herói ao receber o pedido de
 autógrafo e o que ele acaba descobrindo em relação a ela, no último
-quadrinho? (3 linhas)
+quadrinho?
 
-O personagem tinha a expectativa de que já era um super-herói famoso,
-mas descobriu que ainda não tem fama.
+\linhas{4}
+\coment{O personagem tinha a expectativa de que já era um super-herói famoso,
+mas descobriu que ainda não tem fama.}
 
 \num{6} A estratégia usada pelo autor da tirinha para gerar o humor é a
-quebra de expectativa. Justifique. (5 linhas)
+quebra de expectativa. Justifique essa afirmação.
 
-O personagem pensou ter sido reconhecido pelo menino como super-herói,
+\linhas{6}
+\coment{O personagem pensou ter sido reconhecido pelo menino como super-herói,
 mas, após dar o autógrafo, teve sua expectativa quebrada, pois o menino
-acaba revelando que o havia confundido com outro super-herói.
+acaba revelando que o havia confundido com outro super-herói.}
 
 \num{7} O que o mal-entendido cometido pelo menino revela sobre a
-originalidade da fantasia do herói? (3 linhas)
+originalidade da fantasia do herói?
 
-O mal-entendido revela que o herói veste uma fantasia que o caracteriza
-de forma pouco original e que, provavelmente, se parece com a fantasia
-de outro super-herói.
+\linhas{4}
+\coment{O mal-entendido revela que o herói veste uma fantasia que o caracteriza
+de forma pouco original.}
 
-**Textos para as questões de 8 a 10.**
+Leia as duas manchetes a seguir para resolver as atividades de 8 a 10.
 
-**TEXTO III**
+**TEXTO I**
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image9.png){width="5.197916666666667in"
-height="1.0849365704286964in"}
+>**Governo pretende lançar programa com passagens aéreas a R\$ 200**
+>*Valor tem recorte de renda e categorias, como aposentados e servidores*
 
-Agência Brasil, 14 mar. 2023. Disponível em:
-https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/ervi/2023-03/programa-do-governo-preve-passagens-aereas-por-r-200.
-Acesso em: 14 mar. 2023 (fragmento).
+\fonte{Priscilla Mazenotti. Agência Brasil. Governo pretende lançar programa com passagens aéreas a R\$ 200. Disponível em: _https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/ervi/2023-03/programa-do-governo-preve-passagens-aereas-por-r-200_.
+Acesso em: 14 mar. 2023.}
 
-**TEXTO IV**
+**TEXTO II**
 
-![Interface gráfica do usuário, Texto, Aplicativo, Email Descrição
-gerada
-automaticamente](./imgSAEB_8_POR/media/image10.png){width="3.5208333333333335in"
-height="1.147665135608049in"}
+>**Governo quer lançar passagem aérea a R$ 200 e ricos já cogitam viajar de ônibus**
 
-Sensacionalista, 13 mar. 2023 2023. Disponível em:
-https://oglobo.globo.com/blogs/humor/sensacionalista/post/2023/03/governo-quer-lancar-passagem-aerea-a-r-200-e-ricos-©-cogitam-viajar-de-onibus.ghtml.
-Acesso em: 14 mar. 2023 (fragmento).
+\fonte{Sensacionalista. Governo quer lançar passagem aérea a R$ 200 e ricos já cogitam viajar de ônibus. Disponível em: _https://oglobo.globo.com/blogs/humor/sensacionalista/post/2023/03/governo-quer-lancar-passagem-aerea-a-r-200-e-ricos-©-cogitam-viajar-de-onibus.ghtml_. Acesso em: 14 mar. 2023.}
 
-\num{8} O Texto IV é uma versão humorística e fictícia da manchete de
-notícia apresentada no Texto III. Em que consiste o humor obtido no
-Texto IV. (5 linhas)
+\num{8} O texto II é uma versão humorística e fictícia da manchete de
+notícia apresentada no texto I. Em que consiste o humor obtido no texto II?
 
-O humor consiste no fato de a queda no valor da passagem aérea causar um
+\linhas{6}
+\coment{O humor consiste no fato de a queda no valor da passagem aérea causar um
 efeito contrário nos ricos, que passarão a viajar de ônibus, um
-transporte popular por ser barato e, consequentemente, menos eficiente
-no tempo de viagem.
+transporte popular por ser mais barato e, consequentemente, menos eficiente
+no tempo de viagem.}
 
-\num{9} O humor foi empregado no Texto IV com o objetivo de fazer uma
-crítica social. Qual é essa crítica? (5 linhas)
+\num{9} O humor foi empregado no texto II com o objetivo de fazer uma
+crítica social. Qual é essa crítica?
 
-A crítica social consiste no fato de os ricos não quererem se misturar
-com os pobres que provavelmente viajarão mais de avião. Para evitar se
-misturarem, preferirão viajar de ônibus, pois a queda no preço das
-passagens vai popularizar o transporte aéreo, sabidamente restrito à
-elite.
+\linhas{8}
+\coment{A crítica social consiste no fato de os mais ricos não quererem se juntar aos mais pobres, que provavelmente viajarão mais de avião. Para evitar isso, preferirão viajar de ônibus, pois a queda no preço das passagens vai popularizar o transporte aéreo, sabidamente restrito à elite.}
 
-\num{0} O que a fuga para o transporte rodoviário indica sobre a
+\num{10} O que a fuga para o transporte rodoviário indica sobre a
 satisfação dos ricos em relação à queda no preço da passagem aérea?
-Justifique. (3 linhas)
+Justifique sua resposta.
 
-A fuga de um transporte de elite para um transporte popular indica que
+\linhas{6}
+\coment{A fuga de um transporte de elite para um transporte popular indica que
 os ricos têm uma opinião contrária e estão insatisfeitos com a queda dos
 preços da passagem aérea, pois isso atrairá a população menos abastada
-para esse tipo de transporte historicamente ocupado pela elite.
+para esse tipo de transporte historicamente ocupado pela elite.}
 
 \colorsec{Treino}
 
-\num{1}
+\num{1} Leia o texto.
 
-**Reunião de mães**
+>**Reunião de mães**
 
-Na reunião de pais só havia mães. Eu me sentiria constrangido em meio a
-tanta mulher, por mais simpáticas que me parecessem, e abaria nem
-entrando -- se não pudesse logo distinguir, espalhadas no auditório,
+>Na reunião de pais só havia mães. Eu me sentiria constrangido em meio a
+tanta mulher, por mais simpáticas que me parecessem, e acabaria nem
+entrando --- se não pudesse logo distinguir, espalhadas no auditório,
 duas ou três presenças masculinas \[\...\].
 
-PESSOA, Fernando. Reunião de mães. In: *O homem nu*. 13.ed. Rio de
-Janeiro: Record, 1976 (fragmento).
+\fonte{Fernando Pessoa. Reunião de mães. In: *O homem nu*. Rio de Janeiro: Record, 1976.}
 
 O efeito de humor é obtido no texto a partir da presença de
 
@@ -1828,52 +1786,28 @@ c\) situação absurda.
 
 d\) quebra de expectativa.
 
-Saeb: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
+SAEB: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
 crítica.
-
-BNCC: EF69LP05
+BNCC: EF69LP05 -- Inferir e justificar, em textos multissemióticos --- tirinhas, charges, memes, gifs etc. --–, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc.
 
 \(A\) Incorreta. O texto não apresenta contradição como forma de gerar
 humor.
-
 \(B\) Correta. A situação humorística é criada pela brincadeira com a
 expressão "reunião de pais", com a palavra "pais" ora significando
 progenitor masculino, ora significando ambos os progenitores, pai e mãe.
-
-\(C\) Incorreta. A situação narrada não é absurda e sim corriqueira,
+\(C\) Incorreta. A situação narrada não é absurda, mas corriqueira,
 pois a reunião de pais faz parte do cotidiano de famílias com filhos em
 idade escolar.
-
 \(D\) Incorreta. Não há quebra de expectativa no texto.
 
-\num{2}
+\num{2} Leia a manchete humorística.
 
-**TEXTO I**
+>**Autoridades aprendem com enxurradas e já começam a trabalhar em desculpas para 2024**
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image11.png){width="2.8478543307086612in"
-height="0.59375in"}
-
-BANDNEWS FM, 19 fev. 2023. Disponível em:
-https://www.band.uol.com.br/bandnews-fm/noticias/chuvas-em-sp-causam-enxurradas-e-interditam-rodovias-no-litoral-norte-16583695.
-
-Acesso em: 06 mar. 2023 (fragmento).
-
-**TEXTO II**
-
-![Texto Descrição gerada automaticamente com confiança
-média](./imgSAEB_8_POR/media/image12.png){width="3.34375in"
-height="0.7614479440069991in"}
-
-SENSACIONALISTA, 26 fev. 2023. Disponível em:
-<https://oglobo>.globo.com/blogs/humor/sensacionalista/post/2023/02/autoridades-aprendem-com-enxurradas-e-©-comecam-a-trabalhar-em-desculpas-para-2024.ghtml.
-
-Acesso em: 06 mar. 2023 (fragmento).
+Sensacionalista. Autoridades aprendem com enxurradas e já começam a trabalhar em desculpas para 2024. Disponível em: _https://oglobo>.globo.com/blogs/humor/sensacionalista/post/2023/02/autoridades-aprendem-com-enxurradas-e-©-comecam-a-trabalhar-em-desculpas-para-2024.ghtml_. Acesso em: 06 mar. 2023.
 
 O jornal *Sensacionalista* se destaca pelo humor crítico em suas
-notícias fictícias baseadas em notícias reais, como no caso do Texto II,
-que apresenta uma versão humorística que pode ser associada ao Texto I.
-O principal recurso usado para provocar humor crítico no Texto II é a
+notícias fictícias baseadas em notícias reais. O principal recurso usado para provocar humor crítico nessa manchete é a
 
 a\) ironia.
 
@@ -1883,34 +1817,30 @@ c\) objetividade.
 
 d\) imparcialidade.
 
-Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
+SAEB: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
 crítica.
-
-BNCC: EF69LP05
+BNCC: EF69LP05 -- Inferir e justificar, em textos multissemióticos --- tirinhas, charges, memes, gifs etc. --–, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc.
 
 \(A\) Correta. O texto ironiza a postura de procrastinação da classe
 política, que ano após ano deixa de atuar na resolução dos problemas
 causados pelo grande volume de chuvas que já é conhecido e esperado todo
 ano.
-
 \(B\) Incorreta. A denúncia não se faz presente no texto, pois se trata
 de um texto humorístico que se utiliza de outras estratégias
 argumentativas mais aptas do que a denúncia para gerar o humor, tais
 como a ironia.
-
 \(C\) Incorreta. Por ser um texto voltado para o humor, a objetividade
 não está presente nele, já que ela pode prejudicar a expressividade
 necessária aos efeitos de humor.
-
 \(D\) Incorreta. Por ser um texto voltado para o humor, pressupõe-se o
 posicionamento crítico frente ao fato, isto é, a parcialidade é que se
 faz presente.
 
-\num{3}
+\num{3} Leia o texto.
 
-**Conexão**
+>**Conexão**
 
-Regido por esse despretensioso fluxo de ideias, me sinto tentado a fazer
+>Regido por esse despretensioso fluxo de ideias, me sinto tentado a fazer
 uma parada. Até aqui me fiz tantas perguntas\... Mas será que você,
 leitor, é um jovem em busca de referências? Ou será que você é como eu
 quando adolescente, que queria bater um papo sobre as identidades em
@@ -1918,8 +1848,7 @@ formação, mas sem um viés acadêmico? Só um papo que trouxesse conforto e
 em que eu pudesse me espelhar\... Quando, neste livro, eu sou você? Onde
 nos encontramos? Em nossas semelhanças ou em nossas discordâncias?
 
-RAMOS, Lázaro. *Na minha pele*. 1.ed. Rio de Janeiro: Objetiva, 2017
-(fragmento).
+Lázaro Ramos. *Na minha pele*. Rio de Janeiro: Objetiva, 2017.
 
 Ao relatar sua busca por diálogos sobre as identidades em formação na
 juventude, o autor emprega a expressão "viés acadêmico" para
@@ -1927,7 +1856,7 @@ juventude, o autor emprega a expressão "viés acadêmico" para
 a\) contrapor sua inquietude juvenil à sua passividade na vida adulta.
 
 b\) incentivar o leitor a dedicar-se ao estudo teórico do tema
-identidade.
+tratado.
 
 c\) caracterizar uma forma de abordagem com que ele não se identificava.
 
@@ -1936,23 +1865,15 @@ vividas.
 
 Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
 crítica.
-
-BNCC: EF69LP05
+BNCC: EF69LP05 -- Inferir e justificar, em textos multissemióticos --- tirinhas, charges, memes, gifs etc. ---, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc.
 
 \(A\) Incorreta. O autor não apresenta passividade frente à clara
-inquietude juvenil, pois seu texto apresenta questionamentos que indica
+inquietude juvenil, pois seu texto apresenta questionamentos que indicam
 a permanência da postura inquieta frente ao tema em questão.
-
-\(B\) Incorreta. O autor chama o leitor para um diálogo voltado para
-vida prática, de modo a ter alguém em que se espelhar, tal como o autor
-fazia na juventude.
-
-\(C\) Correta. O autor relata que buscava exemplos práticos para se
-espelhar e fugia de diálogos com viés acadêmicos.
-
+\(B\) Incorreta. O autor chama o leitor para um diálogo voltado para a vida prática, de modo a ter alguém em quem se espelhar, tal como o autor fazia na juventude.
+\(C\) Correta. O autor relata que buscava exemplos práticos para se espelhar e fugia de diálogos com viés acadêmico.
 \(D\) Incorreta. Ao referir-se à abordagem acadêmica, o autor está, na
-verdade, refutando-a, pois prefere exemplos práticos que sirvam de
-espelho.
+realidade, refutando-a, pois prefere exemplos práticos que sirvam de espelho.
 
 # Módulo 7 
 
