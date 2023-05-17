@@ -1,5 +1,10 @@
 Notas (README.md)
 =====
+> 17mai
+* Jorge: Perdemos o controle do Gantt. Há muitas tarefas em Armário
+* Fabia: A questão do formato
+* Fabia: Importante é entregar
+* Felipe: Comentei as partes que podem ser cortadas no MATE01 MATE02.
 
 
 > 12mai
