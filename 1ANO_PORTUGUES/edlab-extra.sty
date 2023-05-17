@@ -178,5 +178,10 @@
 
 % Redefinindo quote
 \renewenvironment{quote}
+{\begin{mdframed}[linewidth=10pt,linecolor=azul!20,backgroundcolor=azul!20,roundcorner=20pt]\normalsize}
+{\end{mdframed}}
+
+
+\newenvironment{myquote}
 {\begin{mdframed}[linewidth=10pt,linecolor=azul!20,backgroundcolor=azul!20,roundcorner=20pt]\begin{center}\normalsize}
 {\end{center}\end{mdframed}}
