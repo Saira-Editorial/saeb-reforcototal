@@ -1877,28 +1877,28 @@ realidade, refutando-a, pois prefere exemplos práticos que sirvam de espelho.
 
 # Módulo 7 
 
- ** -- **Parcialidade em textos jornalísticos**
+ **Parcialidade em textos jornalísticos**
  
- \colorsec{Habilidades do SAEB}
- - Analisar marcas de parcialidade em textos jornalísticos.
+\colorsec{Habilidades do SAEB}
+- Analisar marcas de parcialidade em textos jornalísticos.
 - Avaliar diferentes graus de parcialidade em textos jornalísticos.
 - Avaliar a fidedignidade de informações sobre um mesmo fato divulgado em diferentes veículos e mídias.
 
-Como visto no módulo 2, os textos jornalísticos fazem parte do grupo dos
-gêneros textuais informativos e, assim, são centrados na informação a
+Muitos textos jornalísticos fazem parte do grupo dos
+gêneros textuais informativos e são centrados na informação a
 ser transmitida. Isso pressupõe certo distanciamento do autor, isto é,
 menor presença de marcas de subjetividade ou valoração, o que no
-jornalismo é chamado de imparcialidade. Porém, nesse campo da
+jornalismo é chamado de **imparcialidade**, porém, nesse campo da
 comunicação, há graus variados de tratamento da informação, isto é, há
 diferentes níveis de imparcialidade, conforme o foco dado pelo jornal
 aos diferentes aspectos do fato abordado. Isso porque, além da função de
 informar, o jornalismo tem também a função de formar opinião.
 
 Sendo assim, nem sempre um texto jornalístico se limita a transmitir
-informação, há gêneros textuais jornalísticos que informam e opinam ao
-mesmo tempo. Imparcialidade e parcialidade, portanto, são
+informação. Há gêneros textuais jornalísticos que informam e opinam ao
+mesmo tempo. Imparcialidade e **parcialidade**, portanto, são
 características presentes no jornalismo, dependendo do gênero textual, e
-referem-se à presença ou ausência de valoração.
+referem-se à presença ou à ausência de valoração.
 
 Notícia e reportagem, típicos do jornalismo, são dois exemplos de
 gêneros em que ocorre variação no tratamento da informação e, assim, no
@@ -1915,220 +1915,132 @@ linguísticas do texto, ou implícita, isto é, quando exige interpretação
 por parte do leitor. Dessa forma, uma habilidade muito importante é a de
 identificar a parcialidade em textos jornalísticos.
 
-Como dito acima, o foco dado pelo jornalista a determinado aspecto de um
-fato pode ser indicativo de parcialidade. Vejamos as seguintes
-manchetes:
-
-Manchete 1
-
-![Uma imagem contendo garrafa, laranja, luz, tráfego Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image13.png){width="2.1041666666666665in"
-height="0.3726935695538058in"}
-
-Disponível em:
-https://www1.folha.uol.com.br/poder/2017/10/1929305-voto-religioso-so-guia-2-entre-10-brasileiros-diz-datafolha.shtml.
-Acesso em: 04 mar. 2023.
-
-Manchete 2
-
-![Foto em preto e branco Descrição gerada automaticamente com confiança
-média](./imgSAEB_8_POR/media/image14.png){width="2.1458333333333335in"
-height="0.469588801399825in"}
-
-Disponível em:
-https://g1.globo.com/politica/noticia/8-em-cada-10-brasileiros-dizem-©-seguir-orientacao-de-religiosos-na-hora-do-voto-aponta-datafolha.ghtml.
-Acesso em: 04 mar. 2023.
-
-Manchete 3
-
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image15.png){width="1.7395833333333333in"
-height="0.6893700787401574in"}
-
-Disponível em:
-https://datafolha.folha.uol.com.br/opiniaopublica/2017/10/1930455-para-votar-19-dos-brasileiros-com-religiao-seguem-indicacao-da-igreja.shtml.
-Acesso em: 04 mar. 2023.
-
-Manchete 4
-
-![](./imgSAEB_8_POR/media/image16.png){width="2.922192694663167in"
-height="0.3350349956255468in"}
-
-Disponível em:
-https://veja.abril.com.br/politica/so-19-seguem-lider-religioso-ao-votar-diz-datafolha/.
-Acesso em: 04 mar. 2023.
-
-Todas essas manchetes, dadas por diferentes jornais, abordam o mesmo
-assunto: o resultado de uma pesquisa do Datafolha sobre a influência da
-religião na orientação do voto. Embora o assunto seja o mesmo, há nessas
-manchetes diferentes tratamentos da informação, ou seja, o foco em
-determinado aspecto da pesquisa é dado conforme a escolha do veículo de
-informação, deixando transparecer diferentes perspectivas sobre o mesmo
-fato. Isso pode ser observado no uso de numerais quantitativos ou de
-dados percentuais como forma de ressaltar ou diminuir a influência da
-religião sobre o voto.
-
-Vale ressaltar que diferentes formas linguísticas presentes nos textos
-jornalísticos podem revelar parcialidade. Exemplos:
-
-*trocar ofensas / xingar;
-
-*revisão de tarifas / atualização de tarifas / aumento de preços;
-
-*pouso não programado da aeronave / pane;
-
-*enriquecimento ilícito / roubo;
-
-*insuficiência orçamentária / falta de dinheiro;
-
-*instituição financeira / banco.
-
 \colorsec{Atividades}
 
-**Texto para as questões de 1 a 4.**
+Leia o texto a seguir para resolver as atividades de 1 a 4.
+
+>**Quem oferecer menos leva a Amazônia**
+>
+O desmatamento na Amazônia está em constante crescimento, o que torna cada vez mais improvável que o país cumpra a meta de redução estabelecida para 2020. De acordo com os compromissos assumidos em 2010, o Governo Federal estabeleceu a meta de limitar a perda anual da cobertura florestal na Amazônia a 3.900 quilômetros quadrados até o próximo ano. No entanto, em 2018, esse índice atingiu 7.900 quilômetros quadrados, a maior taxa da década, e os sistemas de alerta indicam um aumento de 20% no desmatamento entre agosto de 2018 e abril de 2019. Esses números evidenciam que o Brasil continua destruindo um de seus recursos mais valiosos sem melhorar a qualidade de vida na região, que continua apresentando indicadores socioeconômicos abaixo da média nacional.
+>
+Esse processo de devastação ocorre devido à fragilização das políticas públicas de controle do desmatamento, à falta de uma estratégia de desenvolvimento para a região que valorize a preservação florestal e à existência de leis federais e estaduais que incentivam a apropriação ilegal de terras públicas, as quais são desmatadas para posterior privatização. Na verdade, desde 2017, essas regras fundiárias que estimulam o desmatamento vêm passando por preocupantes modificações, muitas vezes despercebidas pela sociedade brasileira. Todas essas alterações são justificadas em nome da modernização da regularização fundiária e da redução da burocracia. No entanto, na prática, as novas leis acabam favorecendo a grilagem de terras.
+>
+Além da modificação da lei federal, os estados da Amazônia também estão promovendo uma série de alterações em suas regras fundiárias, seguindo a mesma direção: legalizar o que era ilegal e incentivar o roubo de terras públicas no futuro. A existência de leis em diferentes níveis de governo ocorre porque a legislação federal se aplica apenas às terras pertencentes à União, enquanto cada estado tem o poder de estabelecer suas próprias regras para as áreas sob sua jurisdição. De acordo com estimativas do Imazon, cerca de 33% da Amazônia Legal não possui destinação fundiária ou não há informações disponíveis publicamente sobre o assunto. A maioria dessas áreas pertence aos estados (75%). Portanto, as regras estaduais têm um impacto ainda maior do que as regras federais na determinação do destino de uma extensa área de florestas públicas não designadas.
+
+\fonte{Fonte de pesquisa: Brenda Brito e Jeferson Almeida. El País. A Amazônia está à venda: quem der menos leva. Disponível em: _https://brasil.elpais.com/brasil/2019/06/19/opinion/1560981343_901218.html_. Acesso em: 17 maio 2023.}
+
+\num{1} Qual é o fato que está sendo abordado no texto?
+
+\linhas{8}
+\coment{O fato abordado são as mudanças que estão sendo feitas nas leis federais
+e estaduais que versam sobre florestas públicas e a Amazônia. O texto é
+claramente opinativo, porém ele se baseia em um fato objetivo (as leis
+federais e estaduais que vêm sofrendo mudanças), sobre o qual os autores passam
+a opinar e fazer avaliações.}
+
+\num{2} O fato é abordado com parcialidade ou imparcialidade? Justifique
+sua resposta com um exemplo extraído do texto.
+
+\linhas{10}
+\coment{O fato (as leis federais e estaduais que vêm sofrendo mudanças) é claramente
+abordado com imparcialidade, pois os autores passam a avaliar essas mudanças
+como prejudiciais à proteção das florestas públicas, sobretudo da
+Amazônia. Os elementos do texto que comprovam a imparcialidade são, por exemplo:
+"estimulam o roubo de florestas públicas", "quem oferecer menos leva a Amazônia".}
+
+\num{3} Conforme sua resposta à questão anterior, esse texto jornalístico
+aproxima-se melhor de uma notícia ou de uma reportagem? Justifique sua resposta.
+
+\linhas{10}
+\coment{O texto aproxima-se melhor de uma reportagem, pois o trecho apresentado
+tem uma estrutura semelhante à de uma notícia, diferenciando-se dela por abordar um fato relevante para a sociedade e emitindo parecer sobre ele, cumprindo a função jornalística de formar opinião.}
+
+\num{4} O título do texto apresenta uma ironia que se constrói por meio
+de uma contradição. Explique essa contradição.
+
+\linhas{4}
+\coment{A contradição está no fato de se colocar à venda algo tão valioso como a
+Amazônia e aceitar o menor valor pela venda dela.}
+
+Leia as manchetes a seguir para resolver as atividades de 5 a 10. As manchetes foram adaptadas de jornais que circulam no estado de Minas Gerais.
 
 **TEXTO I**
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image17.png){width="5.018445975503062in"
-height="0.9937762467191601in"}
+>**Homem tenta serrar fio de alumínio e morre eletrocutado no Betânia, em Belo Horizonte**
 
-Disponível em:
-https://brasil.elpais.com/brasil/2019/06/19/opinion/1560981343\_901218.html.
-
-Acesso em: 04 mar. 2023 (fragmento).
-
-10) Qual é o fato que está sendo abordado no texto? (2 linhas)
-
-O fato abordado são as mudanças que estão sendo feitas nas leis federais
-e estaduais que versam sobre florestas públicas e a Amazônia. O texto é
-claramente opinativo, porém ele se baseia num fato objetivo (as leis
-federais e estaduais vêm sofrendo mudanças), sobre o qual o autor passa
-a opinar e fazer avaliações.
-
-\num{2} O fato é abordado com parcialidade ou imparcialidade? Justifique
-sua resposta com um exemplo extraído do texto. (5 linhas)
-
-O fato (as leis federais e estaduais vêm sofrendo mudanças) é claramente
-abordado com imparcialidade, pois o autor passa a avaliar essas mudanças
-como prejudiciais à proteção das florestas públicas, sobretudo da
-Amazônia. Os elementos do texto que comprovam a imparcialidade são:
-"estimulam o roubo de florestas públicas", "quem der menos leva".
-
-\num{3} Conforme sua resposta à questão anterior, esse texto jornalístico
-é provavelmente uma notícia ou uma reportagem? Justifique. (5 linhas)
-
-O texto provavelmente é do gênero reportagem, pois o trecho apresentado
-tem uma estrutura semelhante à de uma notícia (título e subtítulo),
-diferenciando-se dela por abordar um fato relevante para a sociedade
-emitindo parecer sobre ele, cumprindo a função jornalística de formar de
-opinião.
-
-\num{4} O título do texto apresenta uma ironia que se constrói por meio
-de uma contradição. Explique essa contradição. (4 linhas)
-
-A contradição está no fato de se colocar à venda algo tão valioso como a
-Amazônia e aceitar o menor valor pela venda dela.
-
-**Texto para as questões de 5 a 10.**
 
 **TEXTO II**
 
-![](./imgSAEB_8_POR/media/image18.png){width="3.1702482502187226in"
-height="0.366084864391951in"}
+>**Homem tenta furtar fios de cobre e morre eletrocutado em Belo Horizonte**
 
-O TEMPO, 04 mar. 2023. Disponível em:
-https://www.otempo.com.br/cidades/homem-tenta-serrar-fio-de-aluminio-e-morre-eletrocutado-no-betania-em-bh-1.2823651.
-Acesso em: 05 mar. 2023.
 
 **TEXTO III**
 
-![](./imgSAEB_8_POR/media/image19.png){width="4.515415573053368in"
-height="0.3090277777777778in"}
+>**Homem morre eletrocutado em cima de poste em Belo Horizonte: a suspeita é que ele tentava roubar a fiação**
 
-ESTADO DE MINAS, 04 mar. 2023. Disponível em:
-https://www.msn.com/pt-br/noticias/brasil/homem-tenta-furtar-fios-de-cobre-e-morre-eletrocutado-em-bh/ar-AA18dtwh.
-Acesso em: 04 mar. 2023.
+\num{5} Considerando as três manchetes como um todo, que fato está sendo noticiado?
 
-\num{5} Nos textos II e III, do gênero notícia, qual é o fato que
-certamente aconteceu? (2 linhas)
-
-O fato que certamente aconteceu é a morte de um homem por eletrocussão.
+\linhas{2}
+\coment{O fato que certamente aconteceu é a morte de um homem eletrocutado.}
 
 \num{6} Quais são os termos e expressões que sinalizam que os veículos de
-imprensa apresentaram versões diferentes do mesmo fato? Compare os dois
-textos. (3 linhas)
+imprensa apresentaram versões diferentes do mesmo fato? Compare os textos I e II.
 
-O Texto II diz que o homem tentou serrar os cabos e que esses cabos eram
-de alumínio, enquanto o Texto III diz que ele tentou furtá-los e que
-eles eram de cobre.
+\linhas{6}
+\coment{O texto I diz que o homem tentou serrar os cabos e que esses cabos eram
+de alumínio, enquanto o texto II acrescenta que ele tentou furtá-los e que
+eles eram de cobre.}
 
-\num{7} Em qual dos dois textos está implícito um provável motivo para o
-homem se arriscar a ter contato com um fio eletrizado? Justifique. (3
-linhas)
+\num{7} Entre os textos I e II, em qual está dito um provável motivo para o
+homem se arriscar a ter contato com um fio eletrizado? Justifique sua resposta.
 
-O Texto III traz implícito um provável motivo para o homem se arriscar a
+\linhas{4}
+\coment{O texto II traz um provável motivo para o homem se arriscar a
 ter contato com um fio eletrizado, pois diz que ele tentou furtar os
-fios. Portanto, o furto foi o motivo que o levou a se arriscar.
-
-**Leia outra manchete sobre o mesmo fato.**
-
-**TEXTO IV**
-
-![Foto em preto e branco Descrição gerada automaticamente com confiança
-média](./imgSAEB_8_POR/media/image20.png){width="2.5208333333333335in"
-height="0.5569903762029746in"}
-
-Disponível em:
-https://g1.globo.com/mg/minas-gerais/noticia/2023/03/04/homem-morre-eletrocutado-em-cima-de-poste-em-bh-a-suspeita-e-de-que-ele-tentava-roubar-a-fiacao.ghtml
+fios; portanto o furto foi o motivo que o levou a se arriscar.}
 
 \num{8} Em relação ao tratamento do fato e à motivação do homem, qual é a
-diferença do Texto IV para os textos II e III? (4 linhas)
+diferença do texto III para os textos I e II?
 
-O Texto IV trata a morte como fato e o furto como hipótese como
-hipótese, enquanto os textos II e III não fazem essa distinção.
+\linhas{4}
+\coment{O texto III trata a morte como fato e o furto como hipótese, enquanto os textos I e II não fazem essa distinção.}
 
-\num{9} Qual das três notícias -- textos II, III e IV -- atende melhor
-aos parâmetros do jornalismo? Justifique. (4 linhas)
+\num{9} Qual das três manchetes atende melhor aos parâmetros do jornalismo? Justifique sua resposta.
 
-O Texto IV é o que melhor atende aos parâmetros do jornalismo, pois
+\linhas{8}
+\coment{O texto III é o que melhor atende aos parâmetros do jornalismo, pois
 apresenta o fato com objetividade e imparcialidade, evitando afirmar
-categoricamente que o homem tentava roubar os frios, embora isso possa
-ser óbvio na situação, buscando manter no campo da hipótese para que não
-soe como acusação leviana.
+categoricamente que o homem tentava roubar os fios e buscando manter no campo da hipótese para que não soe como acusação leviana.}
 
-\num{0} Por todas as características abordadas nas questões anteriores,
-na sua opinião, qual das três notícias apresenta maior imparcialidade?
-Justifique.
+\num{10} Por todas as características abordadas nas atividades anteriores,
+na sua opinião, qual das três manchetes apresenta maior imparcialidade? Justifique sua resposta.
 
-(3 linhas)
-
-Resposta pessoal. Uma hipótese plausível de resposta, com base na
-abordagem feita às caraterísticas dos textos, é apontar a notícia
-apresentada no texto IV.
+\linhas{4}
+\coment{Resposta pessoal. Uma hipótese plausível de resposta, com base na
+abordagem feita às caraterísticas dos textos, é apontar o texto III.}
 
 \colorsec{Treino}
 
-\num{1}
+\num{1} Leia o texto.
 
-**Ipea: população em situação de rua no Brasil supera 281 mil**
+> **Ipea: população em situação de rua no Brasil supera 281 mil**
 
-*Em dez anos, esse segmento vulnerável cresceu 211%*
+>*Em dez anos, esse segmento vulnerável cresceu 211%*
 
-O estudo do Ipea alerta que o aumento de pessoas nas ruas é muito maior
+>\[...]
+>
+>O estudo do Ipea alerta que o aumento de pessoas nas ruas é muito maior
 em proporção do que o da população em geral. No período de dez anos, de
 2012 a 2022, o crescimento desse segmento vulnerável foi de 211%.
 Segundo dados do IBGE, o aumento populacional brasileiro foi de 11%
 entre 2011 e 2021.
-
+>
 A Região Sudeste concentra pouco mais da metade da população em situação
 de rua do país: são 151 mil pessoas. Na sequência estão Nordeste, Sul,
 Centro-Oeste e Norte. A pesquisa destaca a Região Norte, onde está a
 menor parcela de população de rua do país \[\...\].
 
-Disponível em:
-https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-02/ipea-populacao-em-situacao-de-rua-no-brasil-supera-281-mil.
-Acesso em: 05 mar. 2023.
+\fonte{Gabriel Brum. Agência Brasil. Ipea: população em situação de rua no Brasil supera 281 mil. Disponível em: _https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-02/ipea-populacao-em-situacao-de-rua-no-brasil-supera-281-mil_. Acesso em: 05 mar. 2023.}
 
 A expressão "população em situação de rua" é uma escolha alternativa
 para referir-se aos indivíduos antes referidos como "moradores de rua"
@@ -2142,48 +2054,35 @@ c\) condição temporária, isto é, "estar na rua" e não "ser da rua".
 
 d\) solidariedade, para aumentar a adesão às campanhas de doação.
 
-Saeb: Analisar marcas de parcialidade em textos jornalísticos.
-
-BNCC: não há correspondência
+SAEB: Analisar marcas de parcialidade em textos jornalísticos.
 
 \(A\) Incorreta. Não se trata de linguagem neutra, pois a escolha entre
-os diferentes termos citados não se refere à abordagem de gênero nem
-está sendo abordada no texto.
-
+os diferentes termos citados não se refere à abordagem de gênero.
 \(B\) Incorreta. O texto não aborda o tema sob o ponto de vista da
 compaixão.
-
 \(C\) Correta. O texto traz o tema sob um ponto de vista do problema
 social que assola o país. A expressão traz um sentido implícito de
-condição temporária que se opõe a "morador de rua" e "mendigo", formas
-linguísticas categóricas que expressam o sentido implícitos de condição
-permanente.
-
+condição temporária que se opõe a "morador de rua" ou "mendigo", formas
+linguísticas categóricas que expressam o sentido de condição permanente.
 \(D\) Incorreta. O texto não aborda a solidariedade nem campanhas de
 doação.
 
-\num{2}
+\num{2} Leia as manchetes a seguir.
 
 **TEXTO I**
 
-![Interface gráfica do usuário, Texto, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image21.png){width="5.051060804899388in"
-height="1.1255599300087489in"}
+>**Greve do Metrô é mantida para a semana do Carnaval**
+>*Metroviários de Belo Horizonte decidiram manter a greve do Metrô após assembleia na noite desta terça-feira (14)*
 
-Disponível em:
-https://www.itatiaia.com.br/editorias/cidades/2023/02/14/greve-do-metro-e-mantida-para-semana-do-carnaval.
-Acesso em: 05 mar. 2023.
+\fonte{Maria Cavalcanti. Itatiaia. Greve do Metrô é mantida para semana do Carnaval. Disponível em: _https://www.itatiaia.com.br/editorias/cidades/2023/02/14/greve-do-metro-e-mantida-para-semana-do-carnaval_. Acesso em: 05 mar. 2023.}
+
 
 **TEXTO II**
 
-![Tela de celular com texto preto sobre fundo branco Descrição gerada
-automaticamente com confiança
-média](./imgSAEB_8_POR/media/image22.png){width="5.364436789151356in"
-height="1.375in"}
+>**Serviço essencial deve ser prestado**
+>*Falta na greve do Metrô, sobretuddo, a empatia: milhares de belo-horizontinos e turistas estão privados, no Carnaval, de um meio de transporte fundamental*
 
-Disponível em:
-https://www.otempo.com.br/erviço/editorial/erviço-essencial-deve-ser-prestado-1.2817688.
-Acesso em: 05 mar. 2023.
+\fonte{O tempo. Serviço essencial deve ser prestado. Disponível em: _https://www.otempo.com.br/opiniao/editorial/servico-essencial-deve-ser-prestado-1.2817688_. Acesso em: 05 mar. 2023.}
 
 Esses textos jornalísticos apresentam diferentes finalidades
 comunicativas em razão de seus gêneros serem distintos. Os textos I e II
@@ -2198,47 +2097,36 @@ transporte.
 
 d\) avaliar a necessidade da greve e solidarizar-se com os prejudicados.
 
-Saeb: Avaliar diferentes graus de parcialidade em textos jornalísticos.
+SAEB: Avaliar diferentes graus de parcialidade em textos jornalísticos.
 
-BNCC: não há correspondência
-
-\(A\) Incorreta. O Texto I foi publicado após a assembleia, não podendo
-ser uma divulgação dela. O Texto II critica a decisão tomada na
+\(A\) Incorreta. O texto I foi publicado após a assembleia, não podendo
+ser uma divulgação dela. O texto II critica a decisão tomada na
 assembleia, e não o evento propriamente dito.
-
-\(B\) Correta. O Texto I, sendo uma notícia, informa os leitores de que
-a greve foi mantida. O Texto II, sendo um texto opinativo, avalia
+\(B\) Correta. O texto I, sendo uma notícia, informa os leitores de que
+a greve foi mantida. O texto II, sendo um texto opinativo, avalia
 negativamente a decisão de manter a greve.
-
-\(C\) Incorreta. O Texto I apenas noticia um fato, e o Texto II de fato
-faz uma reclamação sobre a greve por ser opinativo.
-
-\(D\) Incorreta. O Texto I apenas noticia um fato, e o Texto II de fato
-se solidariza com as pessoas que depende do transporte público,
+\(C\) Incorreta. O texto I apenas noticia um fato, e o texto II de fato
+faz uma reclamação sobre a greve, por ser opinativo.
+\(D\) Incorreta. O texto I apenas noticia um fato, e o texto II de fato
+se solidariza com as pessoas que dependem do transporte público,
 avaliando negativamente a greve.
 
-\num{3}
+\num{3} Leia as manchetes a seguir.
 
 **TEXTO I**
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image23.png){width="5.905555555555556in"
-height="0.8590277777777777in"}
+>**Com Bolsonaro, desmatamento na Amazônia cresce 150%, pior marca já registrada pelo Imazon**
+>*Com devastação recorde em 2022, floresta perdeu o equivalente aos estados de Alagoas e Sergipe nos últimos quatro anos*
 
-Disponível em:
-https://www.brasildefato.com.br/2023/01/20/com-bolsonaro-desmatamento-na-amazonia-cresce-150-pior-marca-©-registrada-pelo-imazon.
+\fonte{Murilo Pajolla. Brasil de fato. Com Bolsonaro, desmatamento na Amazônia cresce 150%, pior marca já registrada pelo Imazon. Disponível em: _https://www.brasildefato.com.br/2023/01/20/com-bolsonaro-desmatamento-na-amazonia-cresce-150-pior-marca-©-registrada-pelo-imazon_. Acesso em: 05 mar. 2023.}
 
-Acesso em: 05 mar. 2023 (fragmento).
 
 **TEXTO II**
 
-![Interface gráfica do usuário, Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image24.png){width="5.415972222222222in"
-height="1.8647659667541556in"}
+>**A mídia mentiu: desmatamento na Amazônia cai mais de 11% em 2022**
+>*O resultado positivo foi consequência do trabalho de diferentes órgãos do Governo Federal na Operação Guardiões*
 
-Disponível em:
-https://jornaldireita.com.br/a-midia-mentiu-desmatamento-na-amazonia-cai-mais-de-11-em-2022/.
-Acesso em: 05 mar. 2023 (fragmento).
+\fonte{Redacción Brasil. Jornal Direita. A mídia mentiu: desmatamento na Amazônia cai mais de 11% em 2022. Disponível em: _https://jornaldireita.com.br/a-midia-mentiu-desmatamento-na-amazonia-cai-mais-de-11-em-2022/_. Acesso em: 05 mar. 2023.}
 
 As manchetes apresentadas nos textos I e II versam sobre o mesmo fato.
 Ao compará-las, o leitor em busca de se informar sobre o assunto terá de
@@ -2252,27 +2140,22 @@ c\) as taxas reais de aumento e queda do desmatamento.
 
 d\) os posicionamentos políticos assumidos pelos veículos.
 
-Saeb: Avaliar a fidedignidade de informações sobre um mesmo fato
+SAEB: Avaliar a fidedignidade de informações sobre um mesmo fato
 divulgado em diferentes veículos e mídias.
-
-BNCC: não há correspondência
 
 \(A\) Incorreta. Os dois textos mencionam o ano de 2022 como o período
 principal de referência das informações.
-
 \(B\) Incorreta. O fato certo presente em ambos os textos,
 independentemente do viés, é a ocorrência do desmatamento.
-
 \(C\) Correta. Os dois textos apresentam dados distintos sobre o
 desmatamento, e o leitor não consegue, à primeira vista, identificar
 qual é mais real, pois provavelmente os critérios por trás do
 levantamento desses dados são completamente diferentes entre os veículos
 de informação e voltados para o interesse do ponto de vista que se quer
 transmitir no texto.
-
 \(D\) Incorreta. Ambos os textos expressam posicionamentos políticos
-claros. O Texto I opõe-se ao governo, apresentando a notícia de modo
-desfavorável a ele, enquanto o Texto II é favorável ao governo, buscando
+claros. O texto I opõe-se ao governo, apresentando a notícia de modo
+desfavorável a ele, enquanto o texto II é favorável ao governo, buscando
 um viés que favoreça a imagem do presidente.
 
 # Módulo 8 
