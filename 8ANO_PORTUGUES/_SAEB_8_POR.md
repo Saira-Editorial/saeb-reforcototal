@@ -967,7 +967,7 @@ alguma religião. O texto não cita a religião desse grupo social.
 
 # Módulo 4 
 
- ** -- **As diferentes vozes de um texto**
+ **As diferentes vozes de um texto**
  
  \colorsec{Habilidades da BNCC}
  - Analisar efeitos de sentido produzido pelo uso de formas de apropriação textual (paráfrase, citação etc.).
@@ -982,10 +982,10 @@ refutar as ideias e informações que apresenta em seu texto. Essas outras
 vozes podem revelar visões de mundo, ideologias, concepções, argumentos,
 dizeres, pontos de vista.
 
-As diferentes vozes presentes num texto podem ser marcadas de forma
+As diferentes vozes presentes em um texto podem ser marcadas de forma
 explícita, quando são identificáveis na superfície do texto, ou de forma
 implícita, quando não podem ser imediatamente identificadas. Dois
-procedimentos linguísticos bem comuns de demarcar a presença explícita
+procedimentos linguísticos bem comuns para demarcar a presença explícita
 de diferentes vozes num texto são a citação (discurso direto) e a
 paráfrase (discurso indireto), muito comuns em textos de divulgação
 científica. Outro procedimento menos explícito é o uso, por exemplo, do
@@ -1001,12 +1001,12 @@ veículo de informação por aquele dizer. No jornalismo, esse recurso pode
 também ter o objetivo de manter um dizer no campo hipotético. Por sua
 vez, os artigos de opinião e os textos publicitários podem recorrer a
 frases de efeito que expressem o sentido de consenso para convencer o
-leitor. Imaginemos, por exemplo, a frase "As crianças são o futuro da
-nação" num texto de propaganda política em que o objetivo seja convencer
-o eleitor.
+leitor.
 
-Vejamos, no quadro a seguir, alguns exemplos dos procedimentos
-linguísticos que demarcam as vozes presentes num texto.
+Imaginemos, por exemplo, a frase "As crianças são o futuro da
+nação" em um texto de propaganda política em que o objetivo seja convencer
+o eleitor. Vejamos, no quadro a seguir, alguns exemplos dos procedimentos
+linguísticos que demarcam as vozes presentes em um texto.
 
 +----------------------------------+----------------------------------+
 | **Mecanismo de introdução de     | **Exemplo**                      |
@@ -1014,179 +1014,146 @@ linguísticos que demarcam as vozes presentes num texto.
 +==================================+==================================+
 | Discurso direto                  | Para o presidente, a internet    |
 |                                  | trouxe "resultados               |
-|                                  | extraordinários" para a economia |
-|                                  | global e para as sociedades.     |
-|                                  | (Agência Brasil, 22 fev. 2023)   |
+|                                  | extraordinários para a economia  |
+|                                  | global e para as sociedades".    |
 +----------------------------------+----------------------------------+
-|                                  | Entrevistador: O que você julga  |
-|                                  | ser mais importante na música?   |
-|                                  | Dinheiro ou contatos?            |
-|                                  |                                  |
-|                                  | Entrevistado: Os contatos são    |
-|                                  | muito importantes para quem está |
-|                                  | começando. É a oportunidade que  |
-|                                  | abre caminhos e portas. \[\...\] |
-+----------------------------------+----------------------------------+
-| Discurso indireto (paráfrase)    | Lula afirma que as plataformas   |
+| Discurso indireto (paráfrase)    | O presidente afirma que as plataformas   |
 |                                  | digitais definiram a maneira     |
 |                                  | como as pessoas se comunicam, se |
 |                                  | relacionam e como consomem       |
-|                                  | produtos e serviços. (Agência    |
-|                                  | Brasil, 22 fev. 2023)            |
+|                                  | produtos e serviços.             |
 +----------------------------------+----------------------------------+
-| Discurso indireto livre (junção  | Enlameado até a cintura,         |
-| dos discursos direto e indireto) | Tiãozinho cresce de ódio. Se     |
-|                                  | pudesse matar o carreiro\...     |
-|                                  | Deixa eu crescer!\... Deixa eu   |
-|                                  | ficar grande!\... Hei de dar     |
-|                                  | conta deste danisco\... Se uma   |
-|                                  | cobra picasse seu Soronho\...    |
-|                                  | Tem tanta cascavel nos           |
-|                                  | pastos\... Tanta urutu, perto de |
-|                                  | casa\... se uma onça comesse o   |
-|                                  | carneiro, de noite\... Um onção  |
-|                                  | grande, da pintada\... Que       |
-|                                  | raiva!\... (Guimarães Rosa,      |
-|                                  | *Sagarana*).                     |
-+----------------------------------+----------------------------------+
-| Outros marcadores de discurso    | De acordo com prefeitura, os     |
+| Outros marcadores de discurso    | De acordo com a prefeitura, os   |
 | indireto: "segundo", "de acordo  | turistas gastaram 17 vezes mais  |
 | com", "para"                     | que os residentes da capital     |
 |                                  | paulista durante o Carnaval      |
-|                                  | 2023. (Agência Brasil, 27 fev.   |
-|                                  | 2023)                            |
+|                                  | de 2023.                         |
 +----------------------------------+----------------------------------+
 | Futuro do pretérito              | Ossos encontrados em sítio       |
 |                                  | arqueológico brasileiro seriam   |
 |                                  | de um homem pré-histórico.       |
-|                                  | (Manchete de jornal)             |
 +----------------------------------+----------------------------------+
-| Afirmações de consenso           | Os jovens são o futuro da nação. |
-+----------------------------------+----------------------------------+
-| Linguagem característica de      | "Bora votar este ano, galera!!!  |
-| grupos sociais                   | Bora participar do               |
-|                                  | \#RolêdasEleições -- twittaço    |
-|                                  | promovido pelo \@TSE hoje para   |
-|                                  | conscientizar os jovens sobre a  |
-|                                  | importância do voto."            |
-|                                  | (Propaganda promovida pela       |
-|                                  | Justiça Eleitoral)               |
-+----------------------------------+----------------------------------+
-
-[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]{.underline}
 
 \colorsec{Atividades}
 
-**Texto para as questões de 1 a 7.**
+Leia o texto a seguir para resolver as atividades de 1 a 7.
 
-**TEXTO I**
+>**Bora Votar! Conheça a nova campanha para o eleitorado jovem**
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image5.jpg){width="2.8958333333333335in"
-height="2.8958333333333335in"}
+>Se você faz 16 anos antes das próximas eleições, tire seu título eleitoral na internet e “Bora Votar!”. A nova campanha nacional criada pela Secretaria de Comunicação do Tribunal Superior Eleitoral (TSE) com foco no eleitorado jovem estreia nesta segunda-feira (13) nas emissoras de televisão e rádio de todo o país.
 
-Tribunal Regional Eleitoral de Santa Catarina (TRE-SC), 16 mar. 2022.
-Disponível em:
-https://twitter.com/TRESCjusbr/status/1504085069098536961/photo/1.
+>\[...]
 
-Acesso em: 13 mar. 2023 (adaptado).
+>Com o conceito “Bora Votar. Eu vou porque eu posso”, a campanha incentiva o alistamento eleitoral e o voto consciente dos jovens de 16 e 17 anos, que, mesmo não sendo obrigados a votar, podem participar do processo eleitoral e escolher seus representantes nos Poderes Executivo e Legislativo.
 
-\num{1} Quem é o autor dessa postagem publicada no Twitter? (2 linhas)
+>O objetivo da ação é estimular o interesse dessa faixa etária em participar da vida política e conscientizá-los sobre o potencial que o voto tem de mudar a realidade do país. A campanha transmite a mensagem de que o Brasil pertence a toda a população brasileira e que os jovens podem fazer a diferença por meio do voto.
 
-O autor é o órgão de serviço público TRE (Tribunal Regional Eleitoral),
-a serviço da Justiça Eleitoral.
+>A campanha destaca que votar é um exercício de cidadania que fortalece a democracia. Segundo a iniciativa do TSE, ao votar, a cidadã e o cidadão podem ajudar a mudar o futuro da cidade, do estado, do país. “Portanto, não permita que outras pessoas decidam por você. Por isso, vote porque você pode, vote porque você quer, vote porque você se importa. Não deixe de emitir sua opinião”, alerta a ação.
 
-\num{2} A postagem é destinada a qualquer pessoa ou a um público
-específico? (2 linhas)
+>O vídeo da campanha foi protagonizado por jovens atrizes e atores negros, pardos, indígenas e brancos, retratados em situações cotidianas, indo ao encontro de um dos objetivos da Justiça Eleitoral em suas ações de comunicação: representar a diversidade da população brasileira.
 
-A publicação é destinada a um público específico.
+>\[...]
 
-\num{3} Aponte quem é o provável público-alvo da postagem. (3 linhas)
+\fonte{Tribunal Superior Eleitoral. Bora Votar! Conheça a nova campanha para o eleitorado jovem. Disponível em: _https://www.tse.jus.br/comunicacao/noticias/2021/Setembro/bora-votar-conheca-a-nova-campanha-para-o-eleitorado-jovem_. Acesso em: 17 maio 2023.}
 
-O público-alvo são jovens em geral e jovens cuja idade ainda não obriga
+\num{1} Quem é o autor do texto e por que essa autoria é relevante ao se considerar o teor do texto?
+
+\linhas{4}
+\coment{O texto foi escrito e publicado pelo TSE (Tribubal Superior Eleitoral), o que é relevante porque o assunto do texto é justamente o incentivo a novos eleitores.}
+
+\num{2} A campanha mencionada é destinada a qualquer pessoa ou a um público específico?
+
+\linhas{2}
+\coment{A campanha é destinada a um público específico.}
+
+\num{3} Aponte quem é o provável público-alvo da campanha.
+
+\linhas{4}
+\coment{O público-alvo são jovens em geral e jovens cuja idade ainda não obriga
 ao voto, mas que já podem votar e ainda não fizeram seu título de
-eleitor.
+eleitor.}
 
-\num{4} Aponte a finalidade comunicativa do texto. (5 linhas)
+\num{4} Aponte a finalidade comunicativa da campanha mencionada.
 
-A finalidade comunicativa convidar os jovens para fazerem seu título de
-eleitor por meio de um aplicativo e incentivá-los a exercer seu direito
-de voto.
+\linhas{4}
+\coment{A finalidade comunicativa é convidar os jovens para fazerem seu título de
+eleitor e incentivá-los a exercer seu direito de voto.}
 
-\num{5} A voz predominante no texto da postagem é condizente com o
-público-alvo e a finalidade comunicativa? Justifique. (5 linhas)
+\num{5} A voz evocada pelo conceito da campanha é condizente com o
+público-alvo e a finalidade comunicativa? Justifique sua resposta.
 
-A voz predominante é condizente com ambos, público e finalidade
+\linhas{6}
+\coment{Essa voz é condizente com os dois fatores, público e finalidade
 comunicativa, pois retratam um jovem dialogando com seus pares por meio
-de linguagem típica da idade.
+de linguagem típica da idade.}
 
-\num{6} Duas vozes diferentes podem ser identificadas no texto da
-postagem. Transcreva o único trecho que corresponde à voz específica do
-autor em questão. (2 linhas)
+\num{6} Releia o trecho destacado a seguir.
 
-"Use o Título Net para fazer seu título de eleitor on-line."
+>“Portanto, não permita que outras pessoas decidam por você. Por isso, vote porque você pode, vote porque você quer, vote porque você se importa. Não deixe de emitir sua opinião”, alerta a ação.
 
-\num{7} Se a voz predominante fosse a do autor em questão,
-considerando-se a seriedade que normalmente se espera dele, a postagem
-teria o mesmo efeito sobre o público-alvo? Justifique. (6 linhas)
+Como você caracteriza o tom dessa mensagem em relação à campanha como um todo?
 
-A postagem elaborada com a seriedade que se espera do autor não teria o
+\linhas{6}
+\coment{Ao contrário do conceito da campanha, que é mais informal e mais ligado à fala dos jovens, essa mensagem é mais formal e mais séria, justamente porque o assunto da camapanha merece muita atenção e desperta muita relevância.}
+
+\num{7} Se a voz predominante for a da mensagem analisada na atividade anterior,
+considerando-se a seriedade que normalmente se espera do autor do texto, a campanha
+teria o mesmo efeito sobre o público-alvo? Justifique sua resposta.
+
+\linhas{8}
+\coment{A campanha elaborada com a seriedade que se espera do autor não teria o
 mesmo efeito sobre o público-alvo, pois assim estaria desconsiderando o
 leitor que pretende alcançar, o que resultaria no uso de uma linguagem
 distante do universo dessas pessoas e que não contribuiria para que esse
-público se reconhece ali e aderisse à causa.
+público se reconhecesse ali e aderisse à causa.}
 
-**Texto para as questões de 8 a 10.**
+Leia o texto a seguir para resolver as atividades de 8 a 10.
 
-**TEXTO II**
+>**O menino e a maçã**
 
-Um menino de quatro anos de idade estava comendo uma maçã, sentado no
+>Um menino de quatro anos de idade estava comendo uma maçã, sentado no
 banco de trás do carro, quando perguntou:
 
--- Papai, por que a minha maçã está ficando marrom?
+>--- Papai, por que a minha maçã está ficando marrom?
 
--- Porque -- o pai explicou -- depois de você comer a casca, a polpa do
+>--- Porque --- o pai explicou ---, depois de você comer a casca, a polpa do
 fruto começa a entrar em contato com o ar, o que faz com que oxide,
 alterando assim a estrutura molecular e tornando sua cor diferente.
 
-Houve um longo silêncio. Em seguida, o filho perguntou baixinho:
+>Houve um longo silêncio. Em seguida, o filho perguntou baixinho:
 
--- Papai, você está falando comigo?
+>--- Papai, você está falando comigo?
 
-Disponível em:
-https://download.inep.gov.br/educacao\_basica/enem/provas/2014/2014\_PPL\_PV\_D2\_CD6.pdf.
-
-Acesso em: 23 mar. 2023 (tradução nossa).
+\fonte{Tradução feita para este material. O texto original está disponível em: _http://hayspost.com_. Acesso em: 17 maio 2023.}
 
 \num{8} Além das vozes do menino e do pai, qual é a outra voz que pode
-ser identificada na fala do pai? (2 linhas)
+ser identificada na fala do pai?
 
-A voz que pode ser identificada na fala do pai é a voz da ciência ou do
-discurso científico.
+\linhas{2}
+\coment{A voz que pode ser identificada na fala do pai é uma voz do discurso científico.}
 
 \num{9} Justifique o longo silêncio que houve após a explicação do pai.
-(4 linhas)
 
-O longo silêncio que houve após a explicação do pai ocorreu porque a
-criança não compreendeu a explicação dada por ele.
+\linhas{4}
+\coment{O longo silêncio que houve após a explicação do pai ocorreu porque a
+criança não compreendeu a explicação dada por ele.}
 
-\num{0} Relacione o longo silêncio à voz mobilizada na explicação do
-pai. (4 linhas)
+\num{10} Relacione o longo silêncio à voz mobilizada na explicação do
+pai.
 
-A voz mobilizada pelo pai é desconhecida do menino, por empregar
+\linhas{6}
+\linhas{A voz mobilizada pelo pai é desconhecida para o menino, por empregar
 linguagem e vocabulário técnicos do ramo científico, algo distante da
 realidade de uma criança de quatro anos, o que fez com que ela se
-calasse e até tivesse dúvida se o pai ainda estava no diálogo.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+calasse e até tivesse dúvida se o pai estava de fato se dirigindo a ela.}
 
 \colorsec{Treino}
 
-**Texto para as questões 1 e 2.**
+Leia o texto a seguir para responder às questões 1 e 2.
 
-**Galinha cega**
+>**Galinha cega**
 
-O dono correu atrás de sua branquinha, agarrou-a, lhe examinou os olhos.
+>O dono correu atrás de sua branquinha, agarrou-a, lhe examinou os olhos.
 Estavam direitinhos, graças a Deus, e muito pretos. Soltou-a no terreiro
 e lhe atirou mais milho. A galinha continuou a bicar o chão
 desorientada. Atirou ainda mais, com paciência, até que ela se fartasse.
@@ -1196,18 +1163,17 @@ aquilo, meu Deus do céu? Se fosse efeito de uma pedrada na cabeça e se
 soubesse quem havia mandado a pedra, algum moleque da vizinhança, aí...
 Nem por sombra imaginou que era a cegueira irremediável que principiava.
 
-Também a galinha, coitada, não compreendia nada, absolutamente nada
+>Também a galinha, coitada, não compreendia nada, absolutamente nada
 daquilo. Por que não vinham mais os dias luminosos em que procurava a
 sombra das pitangueiras? Sentia ainda o calor do sol, mas tudo quase
 sempre tão escuro. Quase que já não sabia onde é que estava a luz, onde
 é que estava a sombra.
 
-GUIMARAENS, J. A*. Contos e novelas*. Rio de Janeiro: Imago, 1976
-(fragmento).
+>\[...]
 
-\num{1}
+J. A. Guimaraens. *Contos e novelas*. Rio de Janeiro: Imago, 1976.
 
-No texto, emprega-se uma técnica narrativa de gerenciamento de vozes em
+\num{1} No texto, emprega-se uma técnica narrativa de gerenciamento de vozes em
 que
 
 a\) a voz do narrador silencia as vozes dos personagens.
@@ -1218,28 +1184,22 @@ c\) as vozes dos personagens perdem sua importância expressiva.
 
 d\) as vozes dos personagens são introduzidas por sinais gráficos.
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
+SAEB: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras vozes no texto – citação literal e sua formatação e paráfrase –, as pistas linguísticas responsáveis por introduzir no texto a posição do autor e dos outros autores citados (“Segundo X; De acordo com Y; De minha/nossa parte, penso/amos que”...) e os elementos de normatização (tais como as regras de inclusão e formatação de citações e paráfrases, de organização de referências bibliográficas) em textos científicos, desenvolvendo reflexão sobre o modo como a intertextualidade e a retextualização ocorrem nesses textos.
 
-BNCC: EF69LP43
-
-\(A\) Incorreta. As vozes dos personagens estão presentes no texto,
+\(A\) Incorreta. As vozes dos personagens estão presentes no texto;
 apenas não estão marcadas graficamente, por se tratar de discurso
 indireto livre.
-
 \(B\) Correta. A técnica narrativa empregada é o discurso indireto
 livre, caracterizado por não marcar graficamente as vozes dos
 personagens, inserindo-as dentro da voz do narrador.
-
 \(C\) Incorreta. As vozes das personagens mantêm sua importância
 expressiva, embora estejam inseridas na voz do narrador.
-
 \(D\) Incorreta. Os sinais gráficos de marcação do discurso direto, como
 travessão e aspas, não são usados no discurso indireto livre.
 
-\num{2}
-
-Analisando a técnica narrativa de gerenciamento de vozes empregada no
+\num{2} Analisando-se a técnica narrativa de gerenciamento de vozes empregada no
 texto, infere-se que o narrador
 
 a\) omite as angústias dos personagens.
@@ -1250,10 +1210,9 @@ c\) conhece os pensamentos dos personagens.
 
 d\) manipula e altera as falas dos personagens.
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
+SAEB: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
-
-BNCC: EF89LP05
+BNCC: EF89LP05 -- Analisar o efeito de sentido produzido pelo uso, em textos, de recurso a formas de apropriação textual (paráfrases, citações, discurso direto, indireto ou indireto livre).
 
 \(A\) Incorreta. As angústias do menino e da galinha são claramente
 perceptíveis nos trechos que marcam a presença de suas vozes no texto.
@@ -1275,22 +1234,26 @@ por eles.
 vozes do menino e da galinha tal como são ditas ou pensadas, embora não
 estejam marcadas graficamente como discurso direto.
 
-\num{3}
+\num{3} Leia o texto.
 
-**POPline**: Quando vocês \[Nando Reis e Pitty\] tiveram a ideia de sair
+>**ENTREVISTA: a simbiose afetuosa de Pitty e Nando Reis em nova turnê**
+
+>\[...]
+
+>**POPline**: Quando vocês \[Nando Reis e Pitty\] tiveram a ideia de sair
 em turnê juntos? Foi papo de empresário ou partiu de vocês?
 
-**Nando**: Então, na verdade não foi um papo de empresário coisa
-nenhuma, foi uma ideia nossa. Começou há um ano e meio. Ela publicou um
-vídeo dela cantando "Relicário". Eu fiquei super emocionado. Começamos a
+
+>**Nando**: Então, na verdade não foi um papo de empresário coisa
+nenhuma. Foi uma ideia nossa. Começou há um ano e meio. Ela publicou um
+vídeo dela cantando "Relicário". Eu fiquei superemocionado. Começamos a
 conversar. Eu fiz um convite pra fazer o dueto \["Um tiro no coração"\]
 e imediatamente ela topou, mas falou "eu quero mais". E daí pintou a
 ideia de fazer a turnê em que estamos trabalhando há um ano e tanto.
 
-Disponível em:
-https://portalpopline.com.br/entrevista-simbiose-pitty-nando-reis-nova-turne/.
+>\[...]
 
-Acesso em: 18 mar. 2023 (fragmento adaptado).
+\fonte{Douglas Françoza. POPline. ENTREVISTA: a simbiose afetuosa de Pitty e Nando Reis em nova turnê. Disponível em: _https://portalpopline.com.br/entrevista-simbiose-pitty-nando-reis-nova-turne/_. Acesso em: 18 mar. 2023.}
 
 O gênero entrevista se caracteriza pela alternância das vozes do
 entrevistador e do entrevistado. No texto transcrito, essa
@@ -1308,10 +1271,9 @@ artistas.
 d\) afastar do entrevistador a responsabilidade pelas opiniões do
 entrevistado.
 
-Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
+SAEB: Analisar os efeitos de sentido decorrentes dos mecanismos de
 construção de textos jornalísticos/midiáticos.
-
-BNCC: EF89LP05
+BNCC: EF89LP05 -- Analisar o efeito de sentido produzido pelo uso, em textos, de recurso a formas de apropriação textual (paráfrases, citações, discurso direto, indireto ou indireto livre).
 
 \(A\) Incorreta. A análise da entrevista mostra que o nível de
 formalidade entre os participantes foi baixo, o que se percebe pelo
@@ -1329,7 +1291,7 @@ por pessoas muito próximas a ele, pois estão no universo de sua vida
 privada.
 
 \(D\) Incorreta. A entrevista não traz perguntas que exijam emissão de
-opinião, trata-se de assunto do cotidiano dos artistas.
+opinião; trata-se de assunto do cotidiano dos artistas.
 
 # Módulo 5 
 
