@@ -2160,7 +2160,7 @@ um viés que favoreça a imagem do presidente.
 
 # Módulo 8 
 
- ** -- **Modalização**
+ **Modalização**
  
  \colorsec{Habilidades do SAEB}
  - Identificar os recursos de modalização em textos diversos.
@@ -2171,331 +2171,248 @@ um viés que favoreça a imagem do presidente.
 - EF69LP04, EF69LP28, EF89LP16, EF89LP31, EF08LP16.
 
 Um texto é muito mais que um simples conjunto organizado de palavras e
-frases combinadas. Por trás desse conjunto que chamamos de texto está a
-escolha feita dentre infinitas possibilidades de combinação e seleção de
-palavras e frases. É justamente aí -- nas possibilidades de escolha e
-combinação -- que o autor pode interferir e moldar seu texto segundo
+enunciados combinados. Por trás desse conjunto que chamamos de texto está a
+escolha feita entre infinitas possibilidades de combinação e seleção de
+palavras e frases. É justamente nas possibilidades de escolha e
+combinação que o autor pode interferir, para moldar seu texto segundo
 diferentes objetivos.
 
 Essa intervenção deixa marcas que permitem perceber as atitudes do autor
-em relação àquilo que está dizendo e o direcionamento argumentativo que
-ele pretende dar ao texto. Chamamos essas marcas de modalizadores do
-discurso. Em resumo, modalizadores são as marcas linguísticas que
+em relação àquilo que está dizendo e o direcionamento argumentativo que pretende dar ao texto. Chamamos essas marcas de **modalizadores do
+discurso**. Em resumo, modalizadores são as marcas linguísticas que
 revelam a atitude do autor em relação ao que ele diz, revelando,
 portanto, a subjetividade de quem fala ou escreve. Essas atitudes podem
-ser de crítica, elogio, análise/julgamento, delimitação, sentimento,
+ser, por exemplo, de crítica, elogio, análise/julgamento, delimitação, sentimento,
 intenção, desejo, vontade, necessidade, obrigatoriedade, certeza,
-dúvida, possibilidade, proibição, permissão, crença etc.
-
-A modalização pode ser identificada num texto por meio da observação de
-diferentes elementos linguísticas. Vejamos alguns exemplos.
-
-CERTEZA E INCERTEZA/POSSIBILIDADE OU HIPÓTESE
-
-*É certo que/Certamente*
-
-*Tenho certeza que*
-
-*É claro que/Está claro que*
-
-*É provável que/Provavelmente*
-
-*Talvez*
-
-*Pode ser que*
-
-*É possível que/Possivelmente*
-
-*Parece que*
-
-Verbo no modo indicativo -- Certeza/verdade (A água *ferve* a 100
-graus.)
-
-Verbo no modo subjuntivo -- Dúvida/hipótese (Talvez ele *chegue* mais
-tarde.)
-
-NECESSIDADE E OBRIGAÇÃO
-
-*É preciso*
-
-*É necessário/Faz-se necessário*
-
-*É obrigatório*
-
-*É dever*
-
-*É indispensável*
-
-ANÁLISE/JULGAMENTO
-
-*Felizmente*
-
-*Lamentavelmente*
-
-*Estranhamente*
-
-*Ainda bem que*
-
-*Sinceramente/Francamente*
-
-DELIMITAÇÃO
-
-*Matematicamente/Geograficamente* (do ponto de vista da
-matemática/geografia)
+dúvida, possibilidade, proibição, permissão, crença.
 
 \colorsec{Atividades}
 
-\num{1} Marque o sentido expresso pelas palavras modalizadoras em
+\num{1} Explicite o sentido expresso pelas palavras modalizadoras em
 destaque nas frases.
 
 a\) **Possivelmente**, aqui no Brasil, a melhor solução para os alunos
 das redes públicas de ensino consistirá no uso de conteúdos transmitidos
 por meio dos celulares com internet.
 
-( ) Avaliação ( ) Possibilidade ( ) Delimitação
+Trata-se de avaliação, possibilidade ou delimitação?
 
-Possibilidade. O advérbio "possivelmente" marca uma atitude ponderada do
-enunciador, ao evitar fazer uma afirmação categórica e expressá-la como
-uma possibilidade que pode ou não ser eficiente como solução para o
-problema apontado.
+\linhas{1}
+\coment{Possibilidade.}
 
 b\) O secretário-geral das Nações Unidas, António Guterres, afirmou que
 "**precisamos** alçar a voz contra todas as expressões de racismo e
 casos de comportamento racista".
 
-( ) Avaliação ( ) Obrigação ( ) Necessidade
+Trata-se de avaliação, obrigação ou necessidade?
 
-Necessidade. O locutor traz implícita em sua fala a ideia da necessidade
-de que as pessoas, em conjunto, se posicionem contra expressões de
-racismo e casos de comportamento racista.
+\linhas{1}
+\coment{Necessidade.}
 
-c\) A arte de viver cada vez mais **se faz indispensável** para a
+c\) A arte de viver cada vez mais se faz **indispensável** para a
 emancipação humana.
 
-( ) Necessidade ( ) Obrigação ( ) Certeza
+Trata-se de necessidade, obrigação ou certeza?
 
-Necessidade. A palavra expressa a atitude do locutor frente à relação
-entre a arte de viver cada vez mais e a emancipação humana, significando
-que entre elas há uma relação de dependência.
+\linhas{1}
+\coment{Necessidade.}
 
-d\) Hoje enfrentamos em nosso país árdua discussão sobre o uso do ensino
+d\) Hoje enfrentamos, em nosso país, árdua discussão sobre o uso do ensino
 mediado por tecnologias. **Talvez** esse período nos ensine que ambas as
 modalidades **podem** conviver em harmonia em prol de um projeto
 pedagógico que atenda às necessidades de uma educação voltada para o
-século 21.
+século XXI.
 
-( ) Julgamento ( ) Obrigação ( ) Hipótese
+Trata-se de julgamento, obrigação ou hipótese?
 
-Hipótese. O locutor expressa na frase uma hipótese que ele espera
-acontecer a partir da discussão feita em torno do ensino mediado por
-tecnologias, mas que ao mesmo tempo pode não vir a ocorrer, justamente
-por ser uma hipótese.
+\linhas{1}
+\coment{Hipótese.}
 
 e\) **Estranhamente**, a cada temporada, os eleitores teimam em repetir
 erros grosseiros, votando em candidatos que, lá na frente, voltam a
 atentar contra a cidadania.
 
-( ) Delimitação ( ) Julgamento ( ) Certeza
+Trata-se de delimitação, julgamento ou certeza?
 
-Julgamento. A palavra modalizadora expressa um julgamento subjetivo do
-locutor sobre uma situação de cujos motivos ele parece duvidar, por se
-tratar de algo recorrente.
+\linhas{1}
+\coment{Julgamento.}
 
-\num{2} Numere a segunda coluna de acordo com o posicionamento do falante
+\num{2} Numerando-os, classifique os itens pelo posicionamento do falante
 em relação ao que diz.
 
-  1\. Obrigatoriedade   ( ) É vedado ao assistente social praticar condutas antiéticas.
-  --------------------- -----------------------------------------------------------------
-  2\. Proibição         ( ) Você pode sair hoje à noite com seus amigos.
-  3\. Permissão         ( ) Você deve fazer as tarefas de casa.
+I. Obrigatoriedade.
+II. Proibição.
+III. Permissão.
 
-Gabarito: 2 / 3 / 1
-
-A estrutura "é vedado" é típica dos textos de lei ou de gênero
-semelhante para expressar proibições. O verbo "poder", dentre as nuances
-de sentido que apresenta, como possibilidade, dedução lógica, permissão,
-expressa uma permissão dada por alguém que detém tal prerrogativa, como,
-por exemplo, um pai ou uma mãe falando com o filho. É o mesmo que ocorre
-com o verbo "dever", que dentre as nuances como dedução lógica,
-necessidade e obrigatoriedade, expressa uma obrigatoriedade imposta por
-alguém com tal prerrogativa, como um professor falando com seu aluno.
+( \coment{II} ) É vedado ao assistente social praticar condutas antiéticas.
+( \coment{III} ) Você pode sair hoje à noite com seus amigos.
+( \coment{I} ) Você deve fazer as tarefas de casa.
 
 \num{3} Adicione modalizadores às frases de acordo com o sentido indicado
-nos parênteses.
+entre parênteses.
 
-a\) Ele acredita demais nas próprias verdades. (Hipótese)b) Ele viu o
-gabarito antes da prova. (Incerteza)
+a\) Ele acredita demais nas próprias verdades. (Hipótese)
+
+\linhas{3}
+\coment{Possibilidade de resposta: Talvez ele acredite demais nas próprias verdades.}
+
+b\) Ele viu o gabarito antes da prova. (Incerteza)
+
+\linhas{3}
+\coment{Possibilidade de resposta: Parece que ele viu o gabarito antes da prova.}
 
 c\) Eu vou chegar à escola às 7h. (Necessidade)
 
+\linhas{3}
+\coment{Possibilidade de resposta: Eu preciso chegar à escola às 7h.}
+
 d\) Não tirou boa nota na escola este ano. (Julgamento)
 
-e\) João viajará de avião por temer o perigo das estradas.
-(Probabilidade)
+\linhas{3}
+\coment{Possibilidade de resposta: Infelizmente, não tirou boa nota na escola este ano.}
 
-(1 linha para cada frase)
+e\) João viajará de avião por temer o perigo das estradas. (Probabilidade)
 
-São diversas as possibilidades de palavras de modalização para a
-construção das ideias sugeridas, que devem ser aceitas desde que
-coerentes e coesas do ponto de vista semântico e formal da língua.
-Hipóteses de resposta:
-
-a\) Talvez ele acredite demais nas próprias verdades.
-
-b\) Parece que ele viu o gabarito antes da prova.
-
-c\) Eu preciso chegar à escola às 7h.
-
-d\) Infelizmente não tirou boa nota na escola este ano.
-
-e\) João provavelmente viajará de avião por temer o perigo das estradas.
+\linhas{3}
+\coment{Possibilidade de resposta: João provavelmente viajará de avião por temer o perigo das estradas.}
 
 \num{4} Aponte, em cada texto, a palavra ou expressão que permite
 identificar a atitude de quem fala frente ao que é dito. Em seguida,
-justifique.
+justifique a resposta.
 
 a\) Um banho quente de chuveiro elétrico de 15 minutos consome 135
 litros de água. Um banho de 5 minutos, com o registro fechado para
 ensaboar, consome apenas 45 litros.
 
+\linhas{4}
+\coment{A palavra é "apenas". O locutor avalia uma atitude em relação a outra no
+uso de água, realçando uma delas como a mais adequada para a economia de
+água.}
+
 b\) Ainda é cedo para afirmar quais são os verdadeiros impactos da
 sociedade tecnológica.
+
+\linhas{4}
+\coment{A expressão é "ainda é cedo". O locutor alerta que pode ser leviano
+fazer uma afirmação sobre os impactos da sociedade tecnológica.
 
 c\) O controle de dados dos internautas pode ser utilizado como
 artifício para manipular a opinião desse público.
 
+\linhas{4}
+\coment{A expressão é "pode ser". O locutor evita generalizar que todo controle
+de dados é usado para fins negativos de manipulação, expressando assim
+que o uso para essa finalidade é uma das possibilidades, que podem
+também ser positivas.}
+
 d\) Sim! Foi a Tara Sports, usando a imagem de Ronaldo Fenômeno, que
 salvou o Cruzeiro de um buraco ainda maior em 2022.
 
-(3 linhas para cada frase)
-
-a\) Palavra: apenas. O locutor avalia uma atitude em relação a outra no
-uso de água, realçando uma delas como a mais adequada para a economia de
-água.
-
-b\) Expressão: ainda é cedo para. O locutor alerta que pode ser leviano
-fazer uma afirmação sobre os impactos da sociedade tecnológica.
-
-c\) Expressão: pode ser. O locutor evita generalizar que todo controle
-de dados é usado para fins negativos de manipulação, expressando assim
-que o uso para essa finalidade é uma das possibilidades, que podem
-também ser positivas.
-
-d\) Palavra: "Sim!". Trata-se de uma afirmação categórica que se
+\linhas{4}
+\coment{A palavra é "sim". Trata-se de uma afirmação categórica que se
 antecipa ao teor do que está sendo confirmado pela palavra, demonstrando
 que o locutor acredita piamente no que diz e pretende que seu leitor
-também acredite.
+também acredite.}
 
-\num{5} Escreva sentenças que expressem as atitudes indicadas abaixo.
+\num{5} Escreva sentenças que expressem as atitudes indicadas a seguir.
 
-a\) Certeza
+a\) Certeza.
 
-b\) Incerteza
+\linhas{3}
+\coment{Resposta pessoal.}
 
-c\) Hipótese
+b\) Incerteza.
 
-d\) Necessidade
+\linhas{3}
+\coment{Resposta pessoal.}
 
-e\) Obrigação
+c\) Hipótese.
 
-f\) Análise/julgamento
+\linhas{3}
+\coment{Resposta pessoal.}
 
-(1 linha para cada item)
+d\) Necessidade.
 
-São diversas as possibilidades de palavras de modalização para a
-construção das ideias sugeridas, que devem ser aceitas desde que
-coerentes e coesas do ponto de vista semântico e formal da língua.
+\linhas{3}
+\coment{Resposta pessoal.}
 
-**Texto para as questões de 6 a 8.**
+e\) Obrigação.
 
-**TEXTO I**
+\linhas{3}
+\coment{Resposta pessoal.}
 
-"A informação está cada vez mais ao nosso alcance. Mas a sabedoria, que
+f\) Análise/julgamento.
+
+\linhas{3}
+\coment{Resposta pessoal.}
+
+Leia o texto a seguir para resolver as atividades de 6 a 8.
+
+>A informação está cada vez mais ao nosso alcance. Mas a sabedoria, que
 é o tipo mais precioso de conhecimento, essa só pode ser encontrada nos
-grandes autores da literatura."
+grandes autores da literatura.
 
-CEREJA, W. R; MAGALHÃES, T. C. *Português*: linguagens. São Paulo:
-Atual, 2012. P. 11.
+\fonte{W. R. Cereja e T. C. Magalhães. *Português:* linguagens. São Paulo:
+Atual, 2012.}
 
 \num{6} Qual é o assunto principal do texto?
 
-(2 linhas)
+\linhas{2}
+\coment{O assunto do texto é o valor da informação comparado ao valor da
+sabedoria.}
 
-O assunto do texto é o valor da informação comparado ao valor da
-sabedoria.
+\num{7} A parcialidade é uma característica presente no texto. Qual é a opinião que o texto traz sobre o assunto tratado?
 
-\num{7} A parcialidade é uma característica presente no texto transcrito.
-Qual é a opinião que o texto traz sobre o assunto tratado?
-
-(5 linhas)
-
-A opinião expressa é a de que a sabedoria vale mais que a informação,
-pois está é trivial, por sua presença maciça e facilidade de alcance por
-todos, enquanto a sabedoria está restrita à literatura de grandes
-autores, demandando maior esforço para ser adquirida.
+\linhas{6}
+\coment{A opinião expressa é a de que a sabedoria vale mais que a informação,
+pois esta é trivial, por sua presença maciça e pela facilidade de alcance por
+todos, enquanto aquela está restrita à literatura de grandes autores, demandando maior esforço para ser adquirida.}
 
 \num{8} Qual é o efeito de sentido provocado pelos elementos linguísticos
-"mas" e "só" na construção da opinião presente no texto?
+"mas" e "só" na construção da opinião presente no texto? Explique.
 
-(5 linhas)
-
-O articulador "mas" expressa sentido oposto ao que foi dito na frase
-anterior, e com ela o texto atribui valor especial à sabedoria em
+\linhas{6}
+\coment{O articulador "mas" expressa sentido oposto ao que foi dito na frase
+anterior, e com ele o texto atribui valor especial à sabedoria em
 oposição à trivialidade da informação. O termo "só" reforça que a
 sabedoria é restrita a poucos, enquanto a informação é mais facilmente
-acessível.
+acessível.}
 
-**Texto para as questões 9 e 10.**
+\num{9} Para tentar combater o tabagismo, a Prefeitura de Araçás (um município da Bahia) lançou um anúncio com estes dizeres:
 
-**TEXTO II**
+>Não deixe sua vida virar fumaça!
 
-![Texto, Quadro de comunicações Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image25.jpeg){width="2.575in"
-height="3.21875in"}
+O anúncio de que esse texto fazia parte celebrava o dia 31 de maio como o dia mundial de combate ao fumo.
 
-Disponível em:
-https://www.aracas.ba.gov.br/Site/Noticias/noticia-020620220839064273-E-a-melhor-preven-o-parar-de-fumar-Cuide-de-voc-e-da-sa-de-das-pessoas-ao.
-Acesso em: 19 mar. 2023.
+O texto utiliza-se da estratégia de abordar o leitor de forma menos enfática e mais suave. Qual é a ordem ou recomendação enfática que foi suavizada?
 
-\num{9} O texto utiliza-se da modalização para abordar o leitor de forma
-menos enfática e mais suave. Qual é a ordem ou recomendação enfática que
-foi suavizada? (2 linhas)
+\linhas{2}
+\coment{A ordem é: Pare de fumar!}
 
-"Pare de fumar!"
+\num{10} Ainda sobre o texto presente na atividade anterior, qual é o efeito de sentido obtido no texto com a abordagem menos enfática do leitor?
 
-Trata-se do sentido denotativo correspondente ao sentido conotativo
-empregado como estratégia argumentativa no texto original.
-
-\num{0} Qual é o efeito de sentido obtido no texto com a abordagem menos
-enfática do leitor?
-
-O emprego de sentido conotativo, responsável pela abordagem menos
+\linhas{6}
+\coment{O emprego de sentido conotativo, responsável pela abordagem menos
 enfática ao leitor, gerou um efeito menos impositivo e autoritário no
 texto, e assim pode contribuir para a adesão do leitor, por não ser
-abordado de uma forma que pode lhe causar incômodo.
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+abordado de uma forma que pode lhe causar incômodo.}
 
 \colorsec{Treino}
 
-**Texto para as questões de 1 a 3.**
+Leia o texto e responda às questões de 1 a 3.
 
-**Manaus sofre com expansão urbana em assentamentos precários**
+>**Manaus sofre com expansão urbana em assentamentos precários**
+>*Crescimento desordenado favorece ocorrência de desastres naturais*
 
-*Crescimento desordenado favorece ocorrência de desastres naturais*
+>Um estudo publicado recentemente pela rede colaborativa de organizações não governamentais (ONGs) MapBiomas mostra que Manaus é a cidade com maior expansão das áreas urbanizadas em assentamentos precários no país. A ocupação desordenada em áreas de risco trouxe problemas ambientais graves, como a ocorrência de desastres naturais e outros processos de degradação ambiental causados pela ação do homem. \[...] um deslizamento de terra na capital amazonense atingiu 11 casas do bairro Jorge Teixeira, na zona leste da cidade, e deixou oito mortos. O prefeito David Almeida decretou estado de calamidade pública.
 
-Um estudo publicado recentemente pela rede colaborativa de organizações
-não governamentais (ONGs) MapBiomas mostra que Manaus é a cidade com
-maior expansão das áreas urbanizadas em assentamentos precários no país.
+>Em razão dessa tragédia, a MapBiomas reuniu dados específicos do bairro onde ocorreram as fatalidades para verificar a evolução de áreas urbanizadas em Manaus. "Especificamente na Rua Pingo D’agua, no Bairro Jorge Teixeira em Manaus, onde ocorreu a morte de oito pessoas devido a um deslizamento de terra, não havia registro de área de risco cadastrada. No entanto, a área encontra-se dentro de um assentamento precário conhecido e delimitado pelo IBGE", aponta o estudo.
 
-Disponível em:
-https://agenciabrasil.ebc.com.br/geral/noticia/2023-03/manaus-sofre-com-expansao-urbana-em-assentamentos-precarios.
-Acesso em: 19 mar. 2023 (fragmento).
+>\[...]
 
-\num{1}
+\fonte{Pedro Lacerda. Agência Brasil. Manaus sofre com expansão urbana em assentamentos precários. Disponível em: _https://agenciabrasil.ebc.com.br/geral/noticia/2023-03/manaus-sofre-com-expansao-urbana-em-assentamentos-precarios_. Acesso em: 19 mar. 2023.}
 
-O texto, sendo do gênero notícia, privilegia na manchete o emprego de
-verbos no tempo presente, produzindo o efeito de
+\num{1} O texto privilegia na manchete o emprego de verbos no tempo presente, produzindo o efeito de
 
 a\) atualidade dos fatos noticiados.
 
@@ -2505,35 +2422,25 @@ c\) imparcialidade na abordagem dos fatos.
 
 d\) apreciação sobre os fatos noticiados.
 
-Saeb: Analisar os efeitos de sentido dos tempos, modos e/ou vozes
+SAEB: Analisar os efeitos de sentido dos tempos, modos e/ou vozes
 verbais com base no gênero textual e na intenção comunicativa.
-
-BNCC: EF08LP16
+BNCC: EF08LP16 -- Explicar os efeitos de sentido do uso, em textos, de estratégias de modalização e argumentatividade (sinais de pontuação, adjetivos, substantivos, expressões de grau, verbos e perífrases verbais, advérbios etc.).
 
 \(A\) Correta. A notícia privilegia o relato de fatos relevantes do
-cotidiano de uma sociedade, e para manter o interesse do leitor ou
+cotidiano de uma sociedade e, para manter o interesse do leitor ou
 ganhar sua atenção, precisa sempre parecer nova e recente, já que os
-fatos novos sempre se sobrepõem aos antigos, o mesmo acontecendo com as
-notícias. Para isso, recorre ao emprego do tempo verbal presente do
-indicativo.
-
+fatos novos sempre se sobrepõem aos antigos. Para isso, recorre ao emprego do tempo verbal presente do indicativo.
 \(B\) Incorreta. A veracidade dos fatos não depende exclusivamente do
 tempo verbal presente, pois há trechos de notícia narrados com o tempo
-verbal passado, nem por isso deixando de ser verdadeiros. Além disso, a
-veracidade pode ser comprovada com o depoimento das pessoas envolvidas
-no fato.
-
+verbal pretérito que não deixam de ser verdadeiros.
 \(C\) Incorreta. A imparcialidade se constrói por meio de outras
-estratégias, como o uso de terceira pessoa, citação de depoimentos etc.
-
+estratégias, como o uso de terceira pessoa.
 \(D\) Incorreta. O gênero notícia busca, geralmente, abordar os fatos
 com objetividade, embora possa apresentar traço de opinião. Entretanto,
 o tempo verbal presente não é um dos elementos linguísticos usados para
 marcar opinião.
 
-\num{2}
-
-Os termos "expansão urbana" e "crescimento desordenado", ao revelarem
+\num{2} Os termos "expansão urbana" e "crescimento desordenado", ao revelarem
 posicionamentos distintos em relação ao mesmo fato, exemplificam o
 fenômeno da
 
@@ -2545,58 +2452,43 @@ c\) objetividade.
 
 d\) imparcialidade.
 
-Saeb: Identificar os recursos de modalização em textos diversos.
+SAEB: Identificar os recursos de modalização em textos diversos.
+BNCC: EF08LP16 -- Explicar os efeitos de sentido do uso, em textos, de estratégias de modalização e argumentatividade (sinais de pontuação, adjetivos, substantivos, expressões de grau, verbos e perífrases verbais, advérbios etc.).
 
-BNCC: EF08LP16
-
-\(A\) Incorreta. A veracidade está presente no texto, por se tratar do
-gênero notícia, mas não se trata de uma característica influenciada
-pelas expressões em questão.
-
+\(A\) Incorreta. A veracidade está presente no texto, mas não se trata de uma característica influenciada pelas expressões em questão.
 \(B\) Correta. A expressão "expansão urbana" é atribuída à ONG MapBiomas
 e revela uma postura menos avaliativa e mais neutra sobre o crescimento
 da cidade de Manaus. Por outro lado, referindo-se ao mesmo fato, a
 expressão "crescimento desordenado", presente em trechos que
 correspondem à voz do veículo de notícias, revela uma apreciação sobre o
 crescimento da cidade de Manaus.
-
 \(C\) Incorreta. Embora a objetividade seja uma característica desejável
-no gênero notícia, a expressão "crescimento desordenado" revela certo
+no texto em questão, a expressão "crescimento desordenado" revela certo
 grau de subjetividade por trazer em si uma postura avaliativa do veículo
 de notícias em relação ao fato.
-
 \(D\) Incorreta. Embora a imparcialidade seja uma característica
-desejável no gênero notícia, apenas uma das expressões, o termo
+desejável no texto em questão, apenas uma das expressões, o termo
 "expansão urbana", traz um efeito semântico mais imparcial.
 
-\num{3}
+\num{3} A transmissão de informações sobre o fato mescla-se, no texto, com a
+emissão de posicionamento do veículo, manifestado
 
-A transmissão de informações sobre o fato mescla-se, na notícia, com a
-emissão de posicionamento do veículo, manifestado no(a)
+a\) na linguagem desinteressada com que o fato é abordado.
 
-a\) linguagem desinteressada com que o fato é abordado.
+b\) no emprego da primeira pessoa para marcar a pessoalidade.
 
-b\) emprego da primeira pessoa para marcar a pessoalidade.
+c\) na citação de um estudo desenvolvido pela ONG MapBiomas.
 
-c\) citação de um estudo desenvolvido pela ONG MapBiomas.
+d\) na visão pessimista sobre o crescimento da cidade de Manaus.
 
-d\) visão pessimista sobre o crescimento da cidade de Manaus.
+SAEB: Analisar os efeitos de sentido produzidos pelo uso de modalizadores em textos diversos.
+BNCC: EF08LP16 -- Explicar os efeitos de sentido do uso, em textos, de estratégias de modalização e argumentatividade (sinais de pontuação, adjetivos, substantivos, expressões de grau, verbos e perífrases verbais, advérbios etc.).
 
-Saeb: Analisar os efeitos de sentido produzidos pelo uso de
-modalizadores em textos diversos.
-
-BNCC: EF08LP16
-
-\(A\) Incorreta. A linguagem é do texto é comprometida com o jornalismo
+\(A\) Incorreta. A linguagem do texto é comprometida com o jornalismo
 e com a postura do veículo de notícias frente ao fato.
-
-\(B\) Incorreta. Tratando-se de uma notícia, a linguagem empregada é
-sempre em terceira pessoa para marcar a impessoalidade, característica
-desejável nesse gênero textual.
-
+\(B\) Incorreta. A linguagem empregada é sempre em terceira pessoa para marcar a impessoalidade, característicadesejável no texto em questão.
 \(C\) Incorreta. A citação do estudo feito pela ONG tem como objetivo
-aumentar a credibilidade da notícia, em não emitir apreciação.
-
+aumentar a credibilidade do texto, e não emitir apreciação.
 \(D\) Correta. O veículo de notícia refere-se ao fato noticiado
 empregando a expressão "crescimento desordenado", citando ainda os
 respectivos prejuízos para Manaus. O título demonstra esse
