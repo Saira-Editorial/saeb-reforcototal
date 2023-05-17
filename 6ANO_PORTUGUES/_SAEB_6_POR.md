@@ -813,7 +813,7 @@ sobre os termos técnicos.
 - Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
 - Inferir a presença de valores sociais, culturais e humanos em textos literários.
 
-Habilidades da BNCC: EF69LP44, EF69LP47, EF67LP27.
+Habilidades da BNCC: EF69LP44, EF69LP47 e EF67LP27.
 
 \conteúdo
 {A intertextualidade é uma técnica que envolve a criação de conexões
@@ -1075,7 +1075,7 @@ Dissimulada: pessoa fingida, falsa.
 
 Fitar: olhar; admirar.
 
-\num{5} Qual é o efeito de sentido que a palavra "obliqua" adquire no
+\num{5} Qual é o efeito de sentido que a palavra "oblíqua" adquire no
 contexto do Texto 1?
 
 \coment{ A palavra adquire um sentido real, já que os olhos do gatinho
@@ -1091,14 +1091,13 @@ era, se nunca os vira", extraído do Texto 2?
 
 \coment{ O pronome se refere aos olhos de Capitu.}
 
-Leia o texto a seguir para responder às questões 8 a 10.
+Observe a imagem e leia o texto que a acompanha, a seguir, para responder às questões 8 a 10.
 
 ![Uma imagem contendo Forma Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image11.png){width="5.905555555555556in"
 height="4.438888888888889in"} ARTE:
 https://br.freepik.com/icones-gratis/mundo\_15424068.htm\#page=3&query=origem%20e%20destino%20vetor&inposition=5&from\_view=search&track=ais
-
-Precisa inserir o texto "De mal\... a pior."
+"De mal\... a pior."
 
 \num{8} A imagem apresenta uma rota cruzando o planeta Terra de um ponto a
 outro, com o texto "De mal\... a pior.". Explique o uso das reticências
@@ -1152,29 +1151,25 @@ d\) "De mal a pior" não aparece em nenhuma cantiga popular.}
 
 **Texto 1**
 
-![Interface gráfica do usuário, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image12.png){width="4.483333333333333in"
-height="5.100084208223972in"}
-
-RUAS, Carlos. Disponível em: \<
-<https://www.iag.usp.br/astronomia/sites/default/files/dnce_2023_02.pdf>\>.
-Acesso em: mar. 2023.
+https://br.freepik.com/vetores-gratis/ilustracao-de-calor-de-verao-plana-com-desenho-na-frente-do-sol_27991362.htm#query=sun%20cartoon&position=6&from_view=search&track=ais
+Tudo bem que você é essencial, mas tem hora que precisamos de uma trégua, seu Hélio.
 
 **Texto 2**
 
-O que acontece se o Sol deixar de brilhar
+O que acontece se o Sol deixar de brilhar?
 
-O Sol é uma estrela cujo diâmetro é igual a 1,4 milhão de quilômetros e
-está localizada no centro do [Sistema
-Solar](https://www.nationalgeographicbrasil.com/espaco/2023/01/quantos-planetas-existem-no-sistema-solar).
-Sem a energia e a luz que essa massa de hidrogênio e hélio produz, a
-existência de vida
-na [Terra](https://www.nationalgeographicbrasil.com/videotvterra-101) seria
-impossível, indica a Nasa.
 
-(Disponível em:
-<https://www.nationalgeographicbrasil.com/espaco/2023/01/o-que-aconteceria-se-o-sol-apagasse>.
-Acesso em: mar. 2023. Adaptado.)
+>Se o sol deixasse de brilhar, teríamos consequências catastróficas na Terra. O sol é a estrela central do nosso sistema solar e é responsável por fornecer a luz e o calor necessários para sustentar a vida em nosso planeta.
+
+>Sem a luz do sol, os dias ficariam completamente escuros. Isso afetaria diretamente a fotossíntese das plantas, que dependem da luz solar para produzir seu próprio alimento. Com a interrupção da fotossíntese, as plantas não conseguiriam sobreviver e, consequentemente, toda a cadeia alimentar seria afetada.
+
+>Além disso, a temperatura na Terra diminuiria drasticamente. O sol é uma fonte de calor vital para manter o equilíbrio térmico do nosso planeta. Sem a sua radiação, a temperatura média da Terra cairia rapidamente, resultando em um resfriamento global. Isso poderia levar a condições extremamente frias, com o congelamento de rios, lagos e oceanos.
+
+>A falta de luz solar também afetaria o clima e os padrões atmosféricos. A energia solar desempenha um papel fundamental na formação de correntes de ar e na circulação atmosférica. Sem o calor do sol, os padrões climáticos seriam alterados, levando a eventos climáticos extremos e imprevisíveis.
+
+>Em resumo, se o sol deixasse de brilhar, enfrentaríamos uma crise global sem precedentes, com a interrupção da fotossíntese, resfriamento global e mudanças climáticas drásticas. Felizmente, essa é uma situação extremamente improvável, já que o sol continuará a brilhar e fornecer energia por bilhões de anos.
+
+Guilherme Pedroso Teixeira
 
 Os textos 1 e 2
 
@@ -1186,15 +1181,17 @@ c\) não têm qualquer relação.
 
 d\) são de cunho informativo.
 
-BNCC: EF67LP27.
+BNCC: EF67LP27 -- Analisar, entre os textos literários e entre estes e outras manifestações artísticas
+(como cinema, teatro, música, artes visuais e midiáticas), referências explícitas ou implícitas a
+outros textos, quanto aos temas, personagens e recursos literários e semióticos.
 
-a\) Incorreta. O texto 1 é um quadrinho e o texto 2 é um texto de
+a\) Incorreta. O texto 1 é um cartum e o texto 2 é um texto de
 divulgação científica.
 
 b\) Os textos apresentam intertextualidade com relação ao tema,
-que são as consequências de haver um apagão do sol.
+que é a influência do Sol na Terra.
 
-c\) Incorreta. Os textos apresentam a mesma temática.
+c\) Incorreta. Os textos apresentam a mesma temática geral.
 
 d\) Incorreta. Apenas o texto 2 é de cunho informativo, pois transmite a
 mensagem de maneira assertiva.
@@ -1222,19 +1219,21 @@ mede a força.
 d\) a partir da composição de elementos verbais e não verbais, como a
 pintura e os quadros de aviso.
 
-BNCC: EF67LP27.
+BNCC: EF67LP27 -- Analisar, entre os textos literários e entre estes e outras manifestações artísticas
+(como cinema, teatro, música, artes visuais e midiáticas), referências explícitas ou implícitas a
+outros textos, quanto aos temas, personagens e recursos literários e semióticos.
 
-a\. Incorreta. Os elementos não verbais da imagem não se dissociam de
+a\) Incorreta. Os elementos não verbais da imagem não se dissociam de
 elementos cotidianos; eles fazem parte deles.
 
-b\. Incorreta. A obra não pretende instruir como acionar o alerta
+b\) Incorreta. A obra não pretende instruir como acionar o alerta
 sonoro.
 
-c\. Correta. A imagem forma uma intertextualidade ao unir o sinal
+c\) Correta. A imagem forma uma intertextualidade ao unir o sinal
 sonoro, na parede, com um hidrante, no chão, e a pintura do garoto
 brincando com um martelo que mede a força.
 
-d\. Incorreta. Os elementos verbais, como os quadros na parece, não
+d\) Incorreta. Os elementos verbais, como os quadros na parece, não
 fazem diferença na composição da imagem.
 
 \num{3} Observe a imagem a seguir.
@@ -1247,46 +1246,28 @@ height="2.9843755468066493in"}
 
 A canção que formaria uma intertextualidade com a imagem é:
 
-a\) Será que a terra\
-Vai seguir nos dando\
-O fruto, a folha\
-O caule e a raiz?
+a\) "Herdeiros do futuro", de Toquinho, cujos versos questionam se a terra continuará a fornecer frutos à humanidade.
 
-(Toquinho)
+b\) "Coração bandido", de Maiara e Maraísa, em que se afirma que o coração do eu é bandido por trair seu amor. 
 
-b\) Coração bandido esse meu\
-Vive traindo você\
-Coração ingênuo é o seu\
-Todo esse tempo sem perceber
+c\) "Coração de ferro", de Zé Henrique e Gabriel, em que se fala de um coração isento de sentir.
 
-(Maiara e Maraísa part. Marília Mendonça)
+d\) "Natureza distraída", de Toquinho, em que se fala de como devemos, como as plantas, de carinho e de crescer.
 
-c\) Coração de ferro\
-Não tem sentimento\
-Caminhos te levam\
-Pelo som vento
+BNCC: EF67LP27 -- Analisar, entre os textos literários e entre estes e outras manifestações artísticas
+(como cinema, teatro, música, artes visuais e midiáticas), referências explícitas ou implícitas a
+outros textos, quanto aos temas, personagens e recursos literários e semióticos.
 
-(Zé Henrique e Gabriel)
-
-d\) Como as plantas, somos seres vivos\
-Como as plantas, temos que crescer\
-Como elas, precisamos de muito carinho\
-De Sol, de amor, de ar pra sobreviver.
-
-(Toquinho)
-
-BNCC: EF67LP27
-
-a\. Incorreta. Embora a letra fale sobre mata, caule e raiz, não se pode
+a\) Incorreta. Embora a letra fale sobre mata, caule e raiz, não se pode
 afirmar que a imagem é de um desmatamento.
 
-b\. Incorreta. A letra é uma canção de amor entre pessoas, e não sobre
+b\) Incorreta. A letra é uma canção de amor entre pessoas, e não sobre
 natureza, portanto, não apresenta intertextualidade com a imagem.
 
-c\. Incorreta. A letra fala apenas de sentimentos humanos, e não
+c\) Incorreta. A letra fala apenas de sentimentos humanos, e não
 apresenta intertextualidade com a imagem.
 
-d\. Correta. A imagem apresenta um caule cortado em formato de coração,
+d\) Correta. A imagem apresenta um caule cortado em formato de coração,
 comparando o sentimento com a mata.
 
 
