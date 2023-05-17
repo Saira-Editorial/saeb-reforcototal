@@ -432,16 +432,26 @@ palavras, a sequência de cores e luzes aciona em nós os comandos de
 um ponto de vista, é preciso utilizar estratégias corretas e voltadas a
 cada tipo de texto.
 
-Confira na tabela a seguir as principais estratégias argumentativas que
+Confira a seguir as principais estratégias argumentativas que
 podemos utilizar em textos expositivos.
 
-  **Tipo de estratégia**                    **Por que utilizar**                                                                                                                                                                                                      **Exemplo**
-  ----------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------
-  Dados estatísticos de fontes confiáveis   Esse tipo de informação, quando extraída de fontes confiáveis, parte de pesquisas desenvolvidas por especialistas em diversas áreas do conhecimento, o que as torna praticamente irrefutáveis, ou seja, incontestáveis.   **De acordo com uma pesquisa do Ministério da Saúde**, as crianças estão mais vulneráveis a sofrer problemas respiratórios no inverno.
-  Exemplificação                            Vivências comuns ao dia a dia das pessoas possibilitam o contato com situações que podem ser usadas para exemplificar seus argumentos.                                                                                    A falta de oportunidades profissionais para pessoas com pouca experiência muitas vezes faz com que jovens se vejam obrigados a trabalhar em profissões que não condizem com sua área de formação, **a exemplo** dos motoristas de aplicativo.
-  Comparação                                Utilizar séries, documentários, novelas, personagens, pessoas de referência e outros repertórios que fazem parte da sua vivência podem embasar um argumento e gerar uma aproximação do leitor com o texto.                **Assim como** a apresentadora Xuxa, é importante que outras celebridades se posicionem a respeito da importância de uma alimentação saudável, pois isso serve de inspiração para que mais pessoas adotem estilos de vida semelhantes.
-  Causa e consequência                      Para buscar a solução de um problema, é preciso identificar sua causa. Quais são as consequências do problema para as pessoas? Como ele surgiu?                                                                           **Desde a colonização, a população indígena foi escravizada e colocada à margem nossa sociedade. Uma das consequências disso** é o desrespeito, até os dias de hoje, às terras demarcadas e garantidas aos povos nativos.
-  Citação                                   Quando se tem uma opinião sólida e declarada, (como em uma entrevista, por exemplo), de um(a) especialista no assunto tratado.                                                                                            **De acordo com o médico** Dráuzio Varella**,** fumar é um hábito prejudicial à saúde de modo geral.}
+
+  **Dados estatísticos de fontes confiáveis**   
+  Esse tipo de informação, quando extraída de fontes confiáveis, parte de pesquisas desenvolvidas por especialistas em diversas áreas do conhecimento, o que as torna praticamente irrefutáveis, ou seja, incontestáveis. 
+  Exemplo: *De acordo com uma pesquisa do Ministério da Saúde*, as crianças estão mais vulneráveis a sofrer problemas respiratórios no inverno.
+  
+  **Exemplificação**                           
+  Vivências comuns ao dia a dia das pessoas possibilitam o contato com situações que podem ser usadas para exemplificar seus argumentos.                                           Exemplo: A falta de oportunidades profissionais para pessoas com pouca experiência muitas vezes faz com que jovens se vejam obrigados a trabalhar em profissões que não condizem com sua área de formação, *a exemplo* dos motoristas de aplicativo.
+  
+  **Comparação**                               
+  Utilizar séries, documentários, novelas, personagens, pessoas de referência e outros repertórios que fazem parte da sua vivência podem embasar um argumento e gerar uma aproximação do leitor com o texto.                
+  Exemplo: *Assim como* a apresentadora Xuxa, é importante que outras celebridades se posicionem a respeito da importância de uma alimentação saudável, pois isso serve de inspiração para que mais pessoas adotem estilos de vida semelhantes.
+  
+  **Causa e consequência**                      
+  Para buscar a solução de um problema, é preciso identificar sua causa. Quais são as consequências do problema para as pessoas? Como ele surgiu?                             Exemplo: *Desde a colonização, a população indígena foi escravizada e colocada à margem nossa sociedade. Uma das consequências disso* é o desrespeito, até os dias de hoje, às terras demarcadas e garantidas aos povos nativos.
+  
+  **Citação**                                   
+  Quando se tem uma opinião sólida e declarada, (como em uma entrevista, por exemplo), de um(a) especialista no assunto tratado.                                                   Exemplo: *De acordo com o médico* Dráuzio Varella, fumar é um hábito prejudicial à saúde de modo geral.}
 
 
 Leia o texto a seguir, publicado no Jornal da USP, e responda às
@@ -450,11 +460,13 @@ questões 1 a 3.
 **Seu cão reconhece suas emoções e toma decisões a partir disso, mostra
 estudo da USP**
 
-*Pesquisa do Instituto de Psicologia mostra que "nossos melhores amigos"
+https://www.freepik.com/free-photo/side-view-woman-working-laptop-with-her-dog-couch_8528285.htm#query=smart%20dog&position=3&from_view=search&track=ais
+
+>*Pesquisa do Instituto de Psicologia mostra que "nossos melhores amigos"
 podem prever o comportamento humano ao olhar para nosso rosto e
 diferenciar emoções neutras, de alegria ou raiva*
 
-Será que seu cachorro sabe o que fazer quando você está bravo ou feliz?
+>Será que seu cachorro sabe o que fazer quando você está bravo ou feliz?
 Com o objetivo de entender se os cães respondem de forma diferente às
 expressões humanas positivas e negativas, pesquisadores do Instituto de
 Psicologia (IP) da USP e da Universidade de Lincoln, no Reino Unido,
@@ -463,13 +475,13 @@ inferir emoções humanas através de expressões faciais, mas também de
 relacionar essa informação com suas possíveis consequências e tomar
 decisões a partir de uma previsão do nosso comportamento.
 
-O artigo intitulado *Dogs can infer implicit information from human
+>O artigo intitulado *Dogs can infer implicit information from human
 emotional expressions*\* foi publicado na revista científica *Animal
 Cognition* e desenvolvido pelos pesquisadores Natalia Albuquerque e
 Briseida Resende, do Instituto de Psicologia da USP, e Daniel Mills, Kun
 Guo e Anna Wilkinson, da Universidade de Lincoln.\[\...\]
 
-"A pesquisa evidencia que os cães levam em conta as expressões das
+>"A pesquisa evidencia que os cães levam em conta as expressões das
 emoções dos humanos para fazer escolhas. As pessoas poderão perceber o
 animal como um ser que presta atenção ao que fazemos e que toma suas
 decisões com base nisso. Desta forma, acho que podemos desenvolver uma
@@ -477,13 +489,12 @@ relação mais saudável e respeitosa", afirma a coautora do trabalho, a
 professora Briseida. Ela destaca que é importante não o tratar como
 humano, e sim respeitá-lo enquanto cão.
 
-\* *Dogs can infer implicit information from human emotional
+>\* *Dogs can infer implicit information from human emotional
 expressions, em português significa "Cães podem inferir informações
 implícitas em expressões humanas relacionadas a emoções.*
 
-(Guilherme Gama. Seu cão reconhece suas emoções e toma decisões a
-partir disso, mostra estudo da USP. Jornal da USP, publicado em 23 de
-nov. de 2021. Disponível em: \<
+(Guilherme Gama. Jornal da USP. Seu cão reconhece suas emoções e toma decisões a
+partir disso, mostra estudo da USP. Disponível em: \<
 <https://jornal.usp.br/ciencias/seu-cao-reconhece-suas-emocoes-e-toma-decisoes-a-partir-disso-mostra-estudo-da-usp/>\>.
 Acesso em: 01 mar. 2023. Adaptado.)
 
@@ -513,33 +524,15 @@ questões 4 a 6.
 
 **Texto I**
 
-![Campanha estimula hábitos saudáveis para as
-crianças](./imgSAEB_6_POR/media/image2.jpeg){width="5.905555555555556in"
-height="3.3069444444444445in"}
+https://www.freepik.com/free-photo/girl-flexing-her-hands-holding-apple-her-biceps_2627763.htm#query=healthy%20kid&position=4&from_view=search&track=ais
 
-\fonte{
-<https://www.canalsaude.fiocruz.br/noticias/noticiaAberta/campanha-estimula-habitos-saudaveis-para-as-criancas13112019>
+Precisamos prevenir a obesidade infantil, para não precisarmos lidar com a doença nos adultos depois.
 
 **Texto II**
 
-Precisa ser criado pela Arte. Vamos simular uma postagem de rede social.
-A primeira imagem deve conter o seguinte texto no topo: HÁBITOS
-SAUDÁVEIS COMEÇAM NA INFÂNCIA. No rodapé, deve haver a hashtag:
+https://www.freepik.com/free-photo/cheerful-little-girl-holding-bell-pepper-background-various-vegetables-healthy-food-concept_12339140.htm#query=healthy%20kid&position=34&from_view=search&track=ais
+HÁBITOS SAUDÁVEIS COMEÇAM NA INFÂNCIA.
 \#obesidadeinfantilnão
-
-A segunda imagem deve vir junto da primeira, posicionada à direita dela
-(simulando um carrossel postado do Instagram). O texto é exatamente o
-mesmo que está no exemplo.
-
-![Vetor grátis fundo do dia da saúde mundial em estilo
-plano](./imgSAEB_6_POR/media/image3.jpeg){width="2.7083333333333335in"
-height="2.7083333333333335in"} ![Branco Design --
-Canva](./imgSAEB_6_POR/media/image4.jpeg){width="2.7083333333333335in"
-height="2.7083333333333335in"}
-
-<https://br.freepik.com/vetores-gratis/fundo-do-dia-da-saude-mundial-em-estilo-plano_1988259.htm#page=2&query=healthy%20children&position=3&from_view=search&track=ais>
-
-<https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fp%2Fbrancodesign%2F&psig=AOvVaw025oTdYXBEXaAsIqgbnjOO&ust=1677811356155000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD-78CcvP0CFQAAAAAdAAAAABAR>
 
 \num{4} O objetivo comum a ambas as campanhas é
 
@@ -550,42 +543,20 @@ b\) incentivar as pessoas a manterem hábitos saudáveis na infância.
 c\) apresentar o que deve ser feito para que crianças não sofram
 obesidade.
 
-c\) conscientizar as pessoas com relação ao problema da obesidade
+d\) conscientizar as pessoas com relação ao problema da obesidade
 infantil.
 
 \coment{Resposta: D. Ambos os textos são campanhas de conscientização com
 relação à obesidade infantil.
 
-a\) Incorreta. O Texto 1 fornece dicas de comportamentos que podem ser
-adotados para a manutenção de hábitos saudáveis pelas crianças, mas não
-é direcionado especificamente a elas. O Texto 2 apresenta apenas um
-slogan de campanha e uma hashtag que informa o objetivo da campanha,
-além de elementos não verbais.
 
-b\) Incorreta. Embora ambos os textos deixem claro a importância de
-hábitos saudáveis na infância, o objetivo das campanhas não é este.
+\num{5} Como a presença da hashtag #obesidadeinfantilnão ajuda no envolvimento do público na campanha?
 
-c\) Incorreta. Os textos são campanhas publicitárias, e não materiais
-informativos. Portanto, o objetivo deles é conscientizar sobre uma
-ideia, no caso o combate à obesidade infantil.}
+\coment{ A hashtag moderniza e atualiza o texto, mostrando às pessoas que a saúde desde a infância é uma responsabilidade de todos.}
 
-\num{5} Qual dos dois textos alcança uma quantidade maior de leitores(as),
-se considerarmos os canais em que é veiculado? Justifique sua resposta.
+\num{6} Onde você imagina que a segunda campanha pode ter circulado? Por quê?
 
-\coment{ O Texto 1 alcança um número maior de pessoas, porque, por ser
-um cartaz publicitário, pode ser divulgado em diversos locais, como
-postos de saúde, escolas, hospitais, redes sociais e páginas de
-internet. Já o Texto 2 é uma postagem de rede social, ficando restrita
-apenas às pessoas que seguem aquela página por interesses em comum com
-determinado perfil.}
-
-\num{6} Qual dos textos promove ao(à) leitor(a) maior credibilidade com
-relação às informações divulgadas? Justifique sua resposta.
-
-\coment{ O Texto 1, pois tem como autor da campanha o Ministério da
-Saúde, um órgão ligado ao Governo Federal. Isso pode ser observado no
-rodapé da campanha. Ao contrário, o Texto 2 não apresenta nenhuma
-informação a não ser o slogan da campanha e uma hashtag.}
+\coment{ A segunda campanha provavelmente circulou em uma rede social, o que é indicado pela presença da hashtag.}
 
 Leia, a seguir, o artigo 4º da Declaração Universal dos Direitos dos
 Animais e responda às questões 7 e 8.
@@ -596,6 +567,8 @@ aquático e tem o direito de se reproduzir.
 
 "2. Toda a privação de liberdade, mesmo que tenha fins educativos, é
 contrária a este direito."
+
+https://www.freepik.com/free-photo/close-up-hand-holding-common-pheasant-chicks_3212299.htm#query=animals%20rights&position=0&from_view=search&track=ais
 
 Disponível em: \<
 http://www.fiocruz.br/biosseguranca/Bis/infantil/direitoanimais.htm\>.
@@ -615,7 +588,7 @@ quer dizer que
 
 a\) prender animais selvagens é crime.
 
-b\) não se pode prender animais selvagens, mas animais domésticos sim.
+b\) não se podem prender animais selvagens, mas animais domésticos, sim.
 
 c\) é um dever dos seres humanos garantir o direito de animais selvagens
 viverem em liberdade.
@@ -638,14 +611,13 @@ d\) Incorreta. O trecho menciona que restringir a liberdade de animais
 selvagens, mesmo que para estudo, fere esse direito, porém não menciona
 que é crime ou que a pessoa será punida por fazer isso.}
 
-\num{9} Observe a imagem a seguir.
+\num{9} Observe a imagem a seguir e leia o texto que a acompanha.
 
-![Símbolo do autismo passa a ser obrigatório em placas de atendimento
-preferencial em Juara --- PODER
-LEGISLATIVO](./imgSAEB_6_POR/media/image5.png){width="3.662917760279965in"
-height="2.0606069553805773in"}
 
-\fonte{Câmara Municipal de Juara (MT).
+https://www.freepik.com/free-vector/jigsaw-puzzle-colourful-different-forms_39454557.htm#query=autism&position=10&from_view=search&track=sph
+Símbolo do autismo passa a ser obrigatório em placas de atendimento
+preferencial
+
 
 Por sua natureza reivindicatória, o objetivo do texto apresentado é
 tornar o convívio entre as pessoas
@@ -672,36 +644,28 @@ com crianças de colo, pessoas com deficiência e autistas. Por seu
 caráter reivindicatório, o objetivo é tornar o convívio entre as pessoas
 mais justo.}
 
-\num{10} Observe uma imagem retirada do Twitter da Prefeitura do município
-do Rio de Janeiro:
+\num{10} Observe o texto presente em uma rede social da prefeitura de uma grande cidade.
 
-![Interface gráfica do usuário, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image6.png){width="4.975430883639545in"
-height="2.5668886701662292in"}
+https://www.freepik.com/free-icon/twitter_14122908.htm#query=twitter&position=5&from_view=search&track=sph
 
-\fonte{
-[[https://twitter.com/Prefeitura\_Rio/status/1633079144815681536]{.underline}](https://twitter.com/Prefeitura_Rio/status/1633079144815681536)
-Arte, por favor, borrar o nome da pessoa que comentou o Tweet da
-prefeitura.
+Esses ônibus que passam aqui na Zona Sul depois das 18h estão impossíveis. A linha 2345T é a pior de todas. É melhor andar a pé do que pegar esses ônibus.
 
 Atualmente, é muito comum as pessoas utilizarem plataformas digitais e
 redes sociais para expor algum problema de impacto social, como esse da
-imagem. A resposta do usuário à postagem da prefeitura do Rio de Janeiro tem o
-mesmo teor que o de um(a)
+imagem. O comentário do usuário, nesse caso, aproxima-se daquele normalmente presente em
 
-a\) artigo de opinião.
+a\) um artigo de opinião.
 
-b\) carta de reclamação.
+b\) uma carta de reclamação.
 
-c\) texto informativo.
+c\) um texto informativo.
 
-d\) campanha publicitária.
+d\) uma campanha publicitária.
 
 \coment{
 a\) Incorreta. O artigo de opinião é um gênero textual jornalístico que
 tem como objetivo comentar e opinar a respeito de um tema.
-b\) Carta de reclamação.
-A carta de reclamação é um gênero textual que expressa uma indignação ou
+b\) Correta. A carta de reclamação é um gênero textual que expressa uma indignação ou
 uma insatisfação de determinado indivíduo diante de alguma relação
 comercial, de serviço ou compra, por exemplo. Na postagem, o consumidor
 reclama de ônibus de determinada linha, afirmando que é impossível
@@ -719,19 +683,11 @@ pessoa a comprar um produto ou adotar um comportamento.}
 **O Brasil precisa do SUS: lançada campanha nacional de defesa do
 Sistema Único de Saúde**
 
-A coordenadora do Campus Virtual Fiocruz, Ana Furniel, consoante com a
-campanha \#OBrasilPrecisadoSUS, aponta que o Sistema Único de Saúde é
-imprescindível para o país. Seu papel na pandemia ressaltou ainda mais a
-sua importância. "É interessante pensar no todo, pois quando falamos do
-SUS ainda se pensa de forma limitada ao atendimento hospitalar. No
-entanto, o SUS é maior, ele é atenção hospitalar, sim, mas é vacina,
-medicamento, atenção primária, vigilância e é, especialmente para nós,
-formação de profissionais de saúde. Essa é a esfera de contribuição do
-CVF".
+https://www.freepik.com/free-photo/happy-black-pediatrician-talking-little-girl-who-came-with-mother-clinic-during-covid19-pandemic_26768520.htm#query=public%20hospital%20in%20brazil&position=11&from_view=search&track=ais
 
-(SCHINCARIOL, Isabela. *O Brasil precisa do SUS: lançada campanha
-nacional de defesa do Sistema Único de Saúde*. Fiocruz, publicado em 15
-de dez. 2020. Disponível em: \<
+A coordenadora do Campus Virtual Fiocruz, Ana Furniel, está alinhada com a campanha #OBrasilPrecisadoSUS, destacando a indispensabilidade do Sistema Único de Saúde para o país. O papel desempenhado pelo SUS durante a pandemia ressaltou ainda mais sua importância. "É importante pensar em sua totalidade, pois ao falarmos do SUS, ainda há uma limitação em pensar apenas no atendimento hospitalar. No entanto, o SUS vai além, abrangendo vacinas, medicamentos, atenção primária, vigilância e, especialmente para nós, a formação de profissionais de saúde. Essa é a área em que o CVF contribui."
+
+(Fonte de pesquisa: Isabela Schincariol. Fiocruz. *O Brasil precisa do SUS: lançada campanha nacional de defesa do Sistema Único de Saúde*. Disponível em: \<
 <https://campusvirtual.fiocruz.br/portal/?q=noticia/59976>\>. Acesso em:
 mar. 2023. Adaptado.)
 
@@ -745,7 +701,12 @@ c\) uma reivindicação para que o SUS seja defendido e não atacado.
 
 d\) uma propaganda para divulgar nas redes sociais os serviços do SUS.
 
-BNCC: EF67LP16.
+BNCC: EF67LP16 -- Explorar e analisar espaços de reclamação de direitos e de envio de solicitações (tais como ouvidorias, SAC, canais ligados a órgãos públicos, plataformas do consumidor,
+plataformas de reclamação), bem como de textos pertencentes a gêneros que circulam nesses
+espaços, reclamação ou carta de reclamação, solicitação ou carta de solicitação, como forma
+de ampliar as possibilidades de produção desses textos em casos que remetam a reivindicações
+que envolvam a escola, a comunidade ou algum de seus membros como forma de se engajar na
+busca de solução de problemas pessoais, dos outros e coletivos..
 
 a\) Correta. A campanha é um incentivo para que as pessoas se
 conscientizem e reivindiquem a manutenção do SUS.
@@ -763,50 +724,38 @@ defender a manutenção do SUS e não divulgar seus serviços.
 \num{2} O piso tátil, instalado em calçadas e estabelecimentos, apresenta
 dois tipos de padrão: em bolinhas ou em faixas paralelas.
 
-Observe as imagens a seguir.
+https://www.freepik.com/free-photo/high-angle-blind-man-using-marks_27644672.htm#query=piso%20t%C3%A1til%20para%20cegos&position=0&from_view=search&track=ais
 
-**Imagem 1**
+Considerando seu uso, pode-se afirmar que o piso tátil
 
-![Uma imagem contendo Carta Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image7.png){width="2.058333333333333in"
-height="2.8858562992125982in"}
+a\) pretende sempre evitar que a pessoa cega acesse um objeto.
 
-**Imagem 2**
+b\) pretende orientar a pessoa com deficiência visual por meio de sinais e significados diversos.
 
-![Hidrante na calçada da rua Descrição gerada automaticamente com
-confiança
-baixa](./imgSAEB_6_POR/media/image8.png){width="4.125357611548557in"
-height="3.2919520997375327in"}
+c\) tem por objetivo direcionar a pessoa com deficiência visual para que acesse determinado objeto; tendo as linhas e as bolinhas o mesmo significado.
 
-\fonte{
-<https://www.petropolis.rj.gov.br/pmp/phocadownload/destaques/2019/agosto/manual_de_calcada_acessivel_petropolis.pdf>
-
-O objetivo do piso ao redor do telefone público é
-
-a\) evitar que a pessoa com deficiência visual acesse o objeto.
-
-b\) orientar a pessoa com deficiência visual de que ali há um objeto.
-
-c\) direcionar a pessoa com deficiência visual para que acesse aquele
-objeto.
-
-d\) proteger o objeto de qualquer avaria em decorrência da aproximação
+d\) deve proteger o chão da calçada de qualquer avaria em decorrência da aproximação
 de pessoas com bengalas, por exemplo.
 
-BNCC: EF69LP20.
+BNCC: EF69LP20 -- Identificar, tendo em vista o contexto de produção, a forma de organização dos textos
+normativos e legais, a lógica de hierarquização de seus itens e subitens e suas partes: parte inicial
+(título – nome e data – e ementa), blocos de artigos (parte, livro, capítulo, seção, subseção), artigos
+(caput e parágrafos e incisos) e parte final (disposições pertinentes à sua implementação) e analisar
+efeitos de sentido causados pelo uso de vocabulário técnico, pelo uso do imperativo, de palavras
+e expressões que indicam circunstâncias, como advérbios e locuções adverbiais, de palavras
+que indicam generalidade, como alguns pronomes indefinidos, de forma a poder compreender o
+caráter imperativo, coercitivo e generalista das leis e de outras formas de regulamentação.
 
 a\) Incorreta. Nenhum piso tátil tem função de evitar que qualquer
 pessoa deixe de acessar um recurso público.
 
 b\) Correta. O piso tátil em bolinha, conforme explica a imagem 1, é um
 alerta para a pessoa com deficiência visual, ou sejam, serve para
-orientá-la de que ali há um objeto.
+orientá-la de que ali há um objeto; o piso com função de direcionamento é aquele com padrão em faixas; cada símbolo tem um significado diferente.
 
-c\) Incorreta. O piso com função de direcionamento é aquele com padrão
-em faixas.
+c\) Incorreta. formas diferentes, significados diferentes.
 
-d\) Incorreta. O objeto está cercado pelo piso para alertar o acesso da
-pessoa com deficiência a partir de qualquer sentido.
+d\) Incorreta. A proteção é à pessoa, não ao ambiente público.
 
 
 \num{3} Leia o texto a seguir.
@@ -831,7 +780,14 @@ c\) explicar em termos técnicos as dimensões apresentadas no trecho.
 d\) fazer uma metáfora bem-humorada das dimensões das coisas no
 universo.
 
-BNCC: EF69LP20.
+BNCC: EF69LP20 -- Identificar, tendo em vista o contexto de produção, a forma de organização dos textos
+normativos e legais, a lógica de hierarquização de seus itens e subitens e suas partes: parte inicial
+(título – nome e data – e ementa), blocos de artigos (parte, livro, capítulo, seção, subseção), artigos
+(caput e parágrafos e incisos) e parte final (disposições pertinentes à sua implementação) e analisar
+efeitos de sentido causados pelo uso de vocabulário técnico, pelo uso do imperativo, de palavras
+e expressões que indicam circunstâncias, como advérbios e locuções adverbiais, de palavras
+que indicam generalidade, como alguns pronomes indefinidos, de forma a poder compreender o
+caráter imperativo, coercitivo e generalista das leis e de outras formas de regulamentação.
 
 a\) Incorreto, O texto não compara termos técnicos.
 
