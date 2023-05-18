@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage{background}
+\usepackage{tikz}
+\usepackage{pdfpages,lipsum}
+
+\newcommand{\watermark}{\includepdf[pages={1}]{teste.pdf}}
+
+\newcommand{\AddWatermark}{
+  \begin{tikzpicture}[remember picture,overlay]
+    \node at (current page.center) {\watermark};
+  \end{tikzpicture}
+}
+
+\backgroundsetup{
+   contents={\ifodd\value{page}\AddWatermark\fi},
+%   scale=1,
+%   angle=0,
+%   opacity=1,
+%   position=current page.center
+}
+
+\begin{document}
+\BgThispage % Aplica a marca d'água à página atual
+
+\lipsum[1-30]
+\end{document}
