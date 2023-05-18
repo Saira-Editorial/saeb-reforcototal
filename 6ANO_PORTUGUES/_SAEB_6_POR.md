@@ -1866,7 +1866,7 @@ Facebook.
   Habilidade do SAEB
   - Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou crítica.
 
-Habilidades da BNCC: EF69LP03 e EF69LP05.
+Habilidades da BNCC: EF69LP03, EF69LP05.
 
 \coment{
 Para cada situação comunicativa existe uma escolha lexical, ou seja, de
@@ -1895,21 +1895,17 @@ que, em um outro contexto diferente do usual, ganha um novo sentido,
 geralmente em uma oposição de sentidos.}
 
 
-Leia o texto abaixo para responder às perguntas 1 a 3.
-
-![Pessoa cozinhando na churrasqueira Descrição gerada automaticamente
-com confiança baixa](./imgSAEB_6_POR/media/image17.png){width="2.875in"
-height="1.9341338582677166in"}
+Leia o texto abaixo para responder às perguntas de 1 a 3.
 
 https://br.freepik.com/fotos-gratis/meninas-bonitas-compra-paes-na-padaria\_5557150.htm\#query=padaria&position=8&from\_view=search&track=sph
 
-Texto da tira: MOÇA, ESTA BAGUETE É DE HOJE? NÃO, É DE PARMESÃO.
+MOÇA, ESTA BAGUETE É DE HOJE? NÃO, É DE PARMESÃO.
 
 \num{1} Na cena, o humor está presente
 
 a\) no fato de a atendente não saber o que é baguete.
 
-b\) na ambiguidade presente na pergunta da cliente.
+b\) na confusão entre a pergunta da cliente e a interpretação da atendente.
 
 c\) no fato de a atendente não ouvir direito a pergunta.
 
@@ -1918,24 +1914,23 @@ d\) na simpatia da atendente ao fazer uma piada.
 \coment{
 a\) Incorreta. Em nenhum momento a tirinha dá a impressão de que a
 atendente não sabe o que é baguete.
-b\) O humor está presente na ambiguidade da pergunta feita pela
-cliente.
+b\) Correta. O humor está presente na confusão de interpretações que se fez.
 c\) Incorreta. A atendente ouve a pergunta, porém entende-a de forma
 ambígua.
 d\) Incorreta. Mesmo que a atendente fizesse uma piada proposital, o
-humor desta residiria no fato de a pergunta ter sido ambígua.}
+humor desta residiria no fato de a pergunta ter sido compreendida de forma equivocada.}
 
-\num{2} Explique a ambiguidade presente no texto.
+\num{2} Explique a ambiguidade que poderia ser vista no texto, gerando a confusão.
 
 \linhas{6}
 
 \coment{A ambiguidade está no modo como objeto indireto "de" é usado.
 Ao perguntar se a baguete é de hoje, a cliente quer saber se o pão foi
 feito naquele dia. Já a atendente entende que ela se referia ao sabor do
-pão, então responde que é de parmesão.}
+pão; então, responde que é de parmesão.}
 
 \num{3} Reescreva o texto, de modo a excluir qualquer possibilidade de
-ambiguidade.
+confusão na interpretação.
 
 \linhas{6}
 
@@ -1949,16 +1944,13 @@ Leia um trecho de uma crônica de Marina Colasanti e responda às
 perguntas de 4 a 6.
 
 "Houve um tempo em que comíamos comida. Hoje queremos gastronomia. Nas
-casas, a bem da verdade, consome-se mais gastronomia na TV, do que à
-mesa (que eu saiba, ainda não foi inventada a pizza gastronômica de
-encomenda). Mas na hora de escolher um restaurante, vamos de
+casas, [...] consome-se mais gastronomia na TV [...]. Mas na hora de escolher um restaurante, vamos de
 gastronômicos até onde o bolso alcança, porque o paladar agradece, e
 porque gastronomia é moda."
 
-(Colasanti, Marina. Bigodões e talheres de ouro. Publicado em 11 jun.
-2015. Disponível em:
+(Marina Colasanti. Bigodões e talheres de ouro. Disponível em:
 <https://www.marinacolasanti.com/2015/06/cronica-de-quinta-bigodoes-e-talheres.html>.
-Acesso em: 10 mar. 2023. Adaptado.)
+Acesso em: 10 mar. 2023.)
 
 \num{4} De acordo com a leitura, qual é a diferença entre comida e
 gastronomia?
@@ -1975,10 +1967,7 @@ e, consequentemente, pagando mais.}
 \linhas{7}
 
 \coment{Pode-se identificar ironia nas seguintes passagens: "Nas
-casas, a bem da verdade, consome-se mais gastronomia na TV, do que à
-mesa"; "que eu saiba, ainda não foi inventada a pizza gastronômica de
-encomenda"; "Mas na hora de escolher um restaurante, vamos de
-gastronômicos até onde o bolso alcança".}
+casas, [...] consome-se mais gastronomia na TV [...]."; "Mas na hora de escolher um restaurante, vamos de gastronômicos até onde o bolso alcança".}
 
 \num{6} Ao dizer que "nas casas consome-se mais gastronomia na TV", o que a
 autora quer dizer?
@@ -1986,26 +1975,21 @@ autora quer dizer?
 \linhas{3}
 
 \coment{A autora quer dizer que somos mais seletivos em casa, com o
-que escolhemos assistir na TV, do que com o que comemos.}
+que escolhemos ver na TV, do que com o que comemos.}
 
-Leia o texto a seguir para responder às questões 7 a 10.
-
-![Cachorro sentado em cima da cama Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image18.png){width="3.875in"
-height="2.5973075240594925in"}
+Leia o post a seguir, composto de imagem e texto escrito, para responder às questões de 7 a 10.
 
 <https://br.freepik.com/fotos-gratis/cao-de-alto-angulo-sentado-no-sofa_31124057.htm#page=2&query=cachorro%20bagun%C3%A7a&position=26&from_view=search&track=ais>
-
-Texto: Márcia do céu, você não acredita! A almofada explodiu, menina!
+Márcia do céu, você não acredita! A almofada explodiu, menina!
 Veio com defeito, com certeza\...
 
-\num{7} A tira é construída com uma só cena e contendo apenas uma
+\num{7} O post é construído com uma cena e contendo apenas uma
 personagem: o cachorro. Porém, em seu discurso ele interage com mais
 alguém. Quem é essa pessoa e o que ela representa?
 
 \linhas{3}
 
-\coment{O cachorro interage com a Márcia, que seria a dona dele.}
+\coment{O cachorro interage com a Márcia, que seria, provavelmente, a dona dele.}
 
 \num{8} Quais elementos demonstram que o cão tem uma relação de proximidade
 com a Márcia?
@@ -2028,22 +2012,19 @@ ela havia explodido porque veio com defeito.}
 
 \num{1} Leia o texto a seguir.
 
-**Afinal, onde fica o beleléu?**
+**Afinal, onde está localizado o beleléu?**
 
-*Décadas vêm e vão e o bendito do beleléu continua um enigma para mim:
-afinal, onde fica o beleléu?*
+*Passam-se décadas e o tal beleléu continua sendo um enigma para mim: afinal, onde está localizado o beleléu?*
 
-No mesmo lugar para onde vai quem parte dessa para uma melhor.
+Ele está no mesmo lugar para onde vão aqueles que partem desta vida.
 
-A palavra é um eufemismo para morte, desaparecimento ou prejuízo.
+Essa palavra é um eufemismo utilizado para se referir a morte, desaparecimento ou perda.
 
-A origem do termo é obscura e a hipótese mais aceita é de que seja uma
-onomatopeia (palavra que se origina do som produzido), já que beleléu
-imita o barulho de algo caindo e se estalando no chão.
+A origem desse termo é obscura, e a hipótese mais aceita é de que seja uma onomatopeia, ou seja, uma palavra que imita o som produzido. Acredita-se que beleléu imite o barulho de algo caindo e se estalando no chão.
 
-(Disponível em:
+(Fonte de pesquisa:
 \<<https://super.abril.com.br/coluna/oraculo/afinal-onde-fica-o-beleleu/>\>.
-Acesso em: mar. 2023.)
+Acesso em: 18 mar. 2023.)
 
 O efeito de humor do texto se encontra no(a)
 
@@ -2055,7 +2036,7 @@ c\) fato de beleléu ser uma palavra que imita um som.
 
 d\) fato de a pessoa ficar pensando na palavra beleléu.
 
-BNCC: EF69LP05.
+BNCC: EF69LP05 -- Inferir e justificar, em textos multissemióticos – tirinhas, charges, memes, gifs etc. –, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc.
 
 a\) Incorreta. A origem do termo é obscura, mas esse é um fato sobre a
 palavra e não o que dá o humor do texto.
@@ -2066,59 +2047,41 @@ b\) Incorreta. O texto explica que é um eufemismo para a morte, mas não
 c\) Incorreta. O fato de ser uma possível onomatopeia não provoca por si
 só o efeito de humor ao texto.
 
-d\) O efeito de humor é apresentado na linha fina do texto,
+d\) Correta. O efeito de humor é apresentado na linha fina do texto,
 quando a pessoa informa que há décadas fica pensando no "bendito do
 beleléu".
 
 
-\num{2} Leia o texto a seguir.
+\num{2} Observe o meme, constituído pela foto e pela frase que a acompanha.
 
-![Interface gráfica do usuário, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image12.png){width="3.4166666666666665in"
-height="3.8866808836395452in"}
+https://www.freepik.com/free-photo/indoor-shot-male-advertiser-manager-covered-with-sticky-adhesive-notes-looks-aside-as-notices-something-interesting-poses-against-yellow-wall-free-space-your-advertising-content_13578427.htm#query=meme&position=17&from_view=search&track=sph
+Já ouvi dizer que elefantes têm boa memória. Mas roupa de post-it faz a gente parecer mais uma galinha.
 
-RUAS, Carlos. Disponível em: \<
-<https://www.iag.usp.br/astronomia/sites/default/files/dnce_2023_02.pdf>\>.
-Acesso em: mar. 2023.
+O efeito de humor do meme emerge
 
-O efeito de humor da tira é dado por meio
+a\) das feições do homem, que são engraçadas.
 
-a\) da fala irônica do Sol, no primeiro quadrinho.
+b\) do texto verbal, que compara elefantes a galinhas.
 
-b\) da fala ambígua do Sol, no segundo quadrinho.
+c\) da relação entre a foto, que já é engraçada, com o texto, que se associa a ela.
 
-c\) da fala irônica do Sol, no segundo quadrinho.
+d\) da relação surpreendente entre papéis e animais.
 
-d\) da mudança na expressão facial dos planetas.
+BNCC: EF69LP05 -- Inferir e justificar, em textos multissemióticos – tirinhas, charges, memes, gifs etc. –, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc.
 
-BNCC: EF69LP05.
+a\) Incorreta. Apesar de as feições do homem serem de fato engraçadas, o humos não emerge disso no meme. 
 
-a\) Incorreta. A fala do sol não é irônica em nenhum dos
-quadrinhos. Percebe-se que ele usa ambiguidade, mas de modo inocente. 
+b\) Incorreta. Os dois animais não aparecem em comparação direta.
 
-b\) Correta. O humor da tirinha acontece quando o Sol fala que vai levar
-os amigos com ele quando ele morrer. Ou seja, significa que ele vai
-"matar" os outros astros também se isso acontecer.
+c\) Correta. A relação entre imagem e texto é o que faz emergir o humor do meme.
 
-c\) Incorreta. A fala do sol não é irônica em nenhum dos
-quadrinhos. Percebe-se que ele usa ambiguidade, mas de modo inocente.
+d\) Incorreta. Essa relação não se estabelece no meme, nem pela imagem, nem pelo texto verbal.
 
-d\) Incorreta. A mudança na expressão dos planetas ocorre como resposta
-à fala do sol que dá o efeito de humor da tira.
+\num{3} Observe a campanha publicitária a seguir, composta pela imagem e pelo texto.
 
-Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
-crítica.
-
-
-\num{3} Observe a campanha publicitária a seguir.
-
-![Nenhuma descrição de foto
-disponível.](./imgSAEB_6_POR/media/image19.jpeg){width="3.4722222222222223in"
-height="3.4722222222222223in"}
-
-\fonte{
-<https://www.facebook.com/jardimdaressurreicao/photos/a.1647643748665564/5432439776852590/>.
-Acesso em: mar. 2023.
+https://www.freepik.com/free-photo/funny-man-wears-fairy-costume-invites-you-holiday-costume-party-indicates-right-blank-space-holds-magic-wand_13666469.htm#page=2&query=meme&position=24&from_view=search&track=sph
+Quando o assunto é delizadeza, não adianta colocar adereço por fora; é de dentro que ela vem. Seja educado. Ofereça lugar no transporte público para aqueles que realmente precisam.
+%se for possível, aplicar a frase sobre a parte de fundo rosa da imagem.
 
 O que explica o efeito de humor da publicidade é
 
@@ -2126,24 +2089,19 @@ a\) a ironia presente no texto.
 
 b\) o uso do verbo no imperativo.
 
-c\) a foto da cova somada ao comando dado no verbo.
+c\) o improvável da imagem, especialmente quando ela se conjuga com o texto verbal.
 
-d\) a ambiguidade presente no uso da palavra "enterre".
+d\) a relação equivocada entre a cor rosa e a educação no trânsito, geralmente ligada à cor amarela.
 
-BNCC: EF69LP05.
+BNCC: EF69LP05 -- Inferir e justificar, em textos multissemióticos – tirinhas, charges, memes, gifs etc. –, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc.
 
-a\) Incorreta. Não há ironia no texto.
+a\) Incorreta. Não há ironia no texto verbal.
 
-b\) Incorreta. O verbo no imperativo é algo comum às campanhas
-publicitárias.
+b\) Incorreta. O verbo no imperativo, pelo contrário, faz uma referência direta ao leitor, pedindo uma atitude realmente útil.
 
-c\) Correta. Por ser uma publicidade veiculada por um cemitério, a foto
-da cova somada ao verbo "enterrar" fornece o efeito de humor da
-campanha.
+c\) Correta. O homem forte vestido de fada e a relação da imagem dele com o texto verbal é o que gera humor.
 
-d\) Incorreta. Há humor na ambiguidade de sentido do verbo enterre,
-porém, o efeito de humor da campanha se dá com a combinação de texto e
-imagem.
+d\) Incorreta. De fato, a cor amarela é ligada à educação no trânsito. Mas não há equívoco proposital no uso da cor rosa nesse caso.
 
 
 
