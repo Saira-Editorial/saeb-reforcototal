@@ -8,9 +8,9 @@
   \else
     \begin{tikzpicture}[remember picture,overlay]
       \ifodd\value{page}
-        \node[anchor=south] at (55mm, -5mm) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkOdd}};
+        \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkOdd}};
       \else
-        \node[anchor=south] at (41mm, -5mm) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkEven}};
+        \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkEven}};
       \fi
     \end{tikzpicture}
   \fi
@@ -24,7 +24,7 @@
 
 \backgroundsetup{
   contents={\AddWatermark},
-  scale=0.9587,
+  scale=1,
   angle=0,
   opacity=1,
   position=current page.center,

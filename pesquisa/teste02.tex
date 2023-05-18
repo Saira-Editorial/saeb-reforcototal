@@ -1,0 +1,51 @@
+\documentclass{article}
+\usepackage{background}
+\usepackage{tikz}
+\usepackage{pdfpages}
+\usepackage{lipsum}
+
+\newcommand{\watermarkOdd}{teste.pdf} % Arquivo para páginas ímpares
+\newcommand{\watermarkEven}{teste2.pdf} % Arquivo para páginas pares
+\newcommand{\adhocWatermark}{teste3.pdf} % Arquivo para marca d'água ad hoc
+
+\newcommand{\AddWatermark}{
+  \ifnum\value{page}=\excludedpage
+    % Não exibir watermark nesta página
+  \else
+    \begin{tikzpicture}[remember picture,overlay]
+      \ifodd\value{page}
+        \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkOdd}};
+      \else
+        \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkEven}};
+      \fi
+    \end{tikzpicture}
+  \fi
+}
+
+\newcommand{\AdhocWatermark}{
+  \begin{tikzpicture}[remember picture,overlay]
+    \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{\adhocWatermark}};
+  \end{tikzpicture}
+}
+
+\backgroundsetup{
+  contents={\AddWatermark},
+  scale=1,
+  angle=0,
+  opacity=1,
+  position=current page.center,
+  pages={odd}
+}
+
+\begin{document}
+\BgThispage % Aplica a marca d'água à página atual
+
+\lipsum[1-5] % Texto antes da marca d'água ad hoc
+
+%\clearpage % Saltar para uma nova página para colocar a marca d'água ad hoc
+
+\AdhocWatermark % Colocar a marca d'água ad hoc
+
+\lipsum[6-10] % Texto após a marca d'água ad hoc
+
+\end{document}
