@@ -175,3 +175,13 @@
 
 % Legenda acima da imagem
 \newcommand{\acima}[1]{\captionsetup{position=top}\captionof{figure}{#1}}
+
+% Redefinindo quote
+\renewenvironment{quote}
+{\begin{mdframed}[linewidth=10pt,linecolor=azul!20,backgroundcolor=azul!20,roundcorner=20pt]\normalsize}
+{\end{mdframed}}
+
+
+\newenvironment{myquote}
+{\begin{mdframed}[linewidth=10pt,linecolor=azul!20,backgroundcolor=azul!20,roundcorner=20pt]\begin{center}\normalsize}
+{\end{center}\end{mdframed}}

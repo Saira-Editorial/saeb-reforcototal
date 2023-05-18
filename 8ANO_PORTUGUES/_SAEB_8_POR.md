@@ -1,83 +1,30 @@
-**LÍNGUA PORTUGUESA**
-
-**8º ANO**
-
-**CRÉDITOS**
-
-**Abraão Augusto Coutinho**
-
-**SUMÁRIO**
-
 # Módulo 1 
 
- ** -- **OS GÊNEROS TEXTUAIS ARGUMENTATIVOS**
+**Gêneros textuais argumentativos**
+
+\colorsec{Habilidades do SAEB}
+- Identificar o uso de recursos persuasivos em textos verbais e não verbais.
+- Identificar teses, opiniões, posicionamentos explícitos e argumentos em textos.
+
+\colorsec{Habilidade da BNCC}
+- EF89LP04.
 
 Argumentar é convencer, persuadir o outro de que os argumentos usados
 têm procedência lógica e podem ser comprovados.
 
 Os gêneros textuais argumentativos têm o objetivo de apresentar e
 defender um ponto de vista sobre um assunto por meio de argumentação e
-recursos persuasivos que buscam a adesão do leitor/interlocutor. Dentre
-esses gêneros, destacam-se o artigo de opinião, a resenha crítica, a
-carta de leitor, o editorial e o anúncio publicitário.
-
-Os argumentos e recursos persuasivos usados pelo autor para fundamentar
-e validar seu ponto de vista perante o leitor podem ser de diferentes
-tipos:
-
--   exemplificação;
-
--   autoridade (citação de especialistas ou pensadores);
-
--   relações causa-efeito;
-
--   provérbios e sabedoria popular;
-
--   alusão histórica;
-
--   comparação;
-
--   saber universal;
-
--   factuais;
-
--   provas concretas com dados estatísticos;
-
--   raciocínio lógico (dedução e indução).
-
-Portanto, duas características fundamentais dos textos argumentativos
+recursos persuasivos que buscam a adesão do interlocutor. Duas características fundamentais dos textos argumentativos
 são a emissão de juízo de valor e o emprego de argumentos e recursos
 persuasivos para justificar o ponto de vista.
 
-Veja um resumo das características de alguns dos gêneros argumentativos.
+Entre esses gêneros, destacam-se o **artigo de opinião**, a **resenha crítica**, a **carta de leitor**, o **editorial** e o **anúncio publicitário**.
 
-  **Gêneros textuais argumentativos**   **Objetivo comunicativo**                                                                                                                                       **Público-alvo**                                                                                      **Linguagem**
-  ------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Artigo de opinião                     Opinar sobre um assunto relevante que esteja em evidência na sociedade.                                                                                         Os leitores de um jornal, revista ou portal de notícias.                                              Em norma-padrão; pode ter tom mais impessoal (em 3ª pessoa) ou pessoal (em 1ª pessoa); o nível de formalidade pode variar conforme o perfil do público-alvo.
-  Resenha crítica                       Apresentar um resumo comentado e opinativo sobre um filme, uma série, um livro ou outra obra, de modo a persuadir o leitor a consumir ou não aquela produção.   Os fãs ou interessados em consumir o filme, a série, o livro ou outra obra.                           Em norma-padrão ou não padrão (coloquial); pode ter tom mais impessoal (em 3ª pessoa) ou pessoal (em 1ª pessoa); o nível de formalidade pode variar conforme o perfil do público-alvo.
-  Carta de leitor                       Expor ponto de vista acerca de um determinado assunto publicado em determinado jornal ou revista.                                                               O editor da revista ou do jornal, ou o autor da matéria jornalística que motivou a carta de leitor.   Em norma-padrão; pode ter tom mais impessoal (1ª pessoa) ou pessoal (em 1ª pessoa).
-  Editorial                             Expor a opinião do jornal ou revista sobre assuntos abordados nas notícias e reportagens publicados naquele veículo de informação.                              Os leitores daquele jornal ou revista.                                                                Em norma-padrão, geralmente com tom impessoal (3ª pessoa), por representar a opinião da equipe jornalística em não de uma pessoa.
-  Anúncio publicitário                  Vender um produto ou divulgar uma ideia.                                                                                                                        O público em geral ou específico, dependendo do produto ou da ideia.                                  A linguagem é variada e pode valer-se de texto verbal e texto não verbal.
-
-Vale lembrar que tipo textual e gênero textual são categorias
-diferentes. O tipo textual diz respeito às características de construção
-do texto, relacionadas a uma função comunicativa (narrar, expor,
-relatar, persuadir, prescrever, descrever etc.) e o gênero textual diz
-respeito à função social do texto, reconhecível pelos falantes quando
-estão diante de determinado texto. Por exemplo, os gêneros textuais que
-vimos neste módulo são o artigo de opinião, a resenha crítica, a carta
-de leitor, o editorial e o anúncio publicitário. Todos eles podem ser
-considerados exemplos do tipo textual argumentativo, embora outros tipos
-textuais possam coexistir com ele num mesmo texto.
-
-Vale lembrar, ainda, que no anúncio publicitário a estrutura típica dos
-demais gêneros textuais do tipo argumentativo não se repete, tal como no
-artigo de opinião, pois os argumentos e recursos persuasivos da
-publicidade podem ser apresentados em forma de texto verbal ou não
-verbal, com certa dinamicidade, visto que seu objetivo é vender produtos
-ou engajar o público em ideias e comportamentos.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+* O artigo de opinião tem o objetivo de opinar sobre um assunto relevante que esteja em evidência na sociedade. Seu público-alvo são os leitores de um jornal, revista ou portal de notícias. A linguagem pode ter tom mais impessoal (em 3ª pessoa) ou pessoal (em 1ª pessoa), e o nível de formalidade pode variar conforme o perfil do público.
+* A resenha crítica tem o objetivo de apresentar um resumo comentado e opinativo sobre um filme, uma série, um livro ou outra obra, de modo a persuadir o leitor a consumir ou não aquela produção. Seu público-alvo são os fãs ou interessados em consumir o filme, a série, o livro ou outra obra. A linguagem pode ser coloquial e pode ter tom mais impessoal (em 3ª pessoa) ou pessoal (em 1ª pessoa); o nível de formalidade pode variar
+* A carta de leitor tem o objetivo de expor ponto de vista acerca de determinado assunto publicado em um jornal ou uma revista. Seu público-alvo é o editor da revista ou do jornal, ou o autor da matéria jornalística que motivou a carta de leitor. A linguagem pode ter tom mais impessoal (1ª pessoa) ou pessoal (em 1ª pessoa).
+* O editorial tem o objetivo de expor a opinião do jornal ou da revista sobre assuntos abordados nas notícias e reportagens publicados naquele veículo de informação. Seu público-alvo são os leitores daquele jornal ou revista. A linguagem, geralmente, tem tom impessoal (3ª pessoa), por representar a opinião da equipe jornalística, e não de uma pessoa.
+* O anúncio publicitário tem o objetivo de vender um produto ou divulgar uma ideia. Seu público-alvo pode ser geral ou específico, dependendo do produto ou da ideia. A linguagem é variada e pode valer-se de texto verbal e texto não verbal.
 
 \colorsec{Atividades}
 
@@ -85,65 +32,17 @@ ou engajar o público em ideias e comportamentos.
 teor dos argumentos que você espera encontrar em cada gênero textual
 argumentativo listado.
 
-  1\. Artigo de opinião      (   ) Qualidade dos personagens, do enredo, da narrativa, do desfecho, da trilha sonora etc.
-  -------------------------- ------------------------------------------------------------------------------------------------------------------------
-  2\. Anúncio publicitário   (   ) Dados e estatísticas, citação de especialista na área, exemplificação de fatos importantes e de repercussão etc.
-  3\. Resenha crítica        (  ) Imagem de personalidade famosa, pergunta provocativa, trocadilhos, apelo ao consumo etc.
-
-Gabarito: 3 / 1 / 2
-
-A cada gênero textual argumentativo correspondem os respectivos
-argumentos que contribuem para o alcance de seu objetivo comunicativo.
-Esse é o teor da questão, ou seja, a identificação do teor do argumento
-que se somará às demais características do gênero, como construção
-composicional, conteúdo temático e estilo, para a consecução do objetivo
-comunicativo. O artigo de opinião visa versa sobre assuntos relevantes
-para a sociedade e, assim, busca adesão do leitor a um ponto de vista
-pessoal, sustentado em dados, estatísticas, citação de especialista na
-área, exemplificação de fatos importante e de repercussão etc. O anúncio
-publicitário busca vender um produto ou divulgar uma ideia; no caso da
-questão, o anúncio busca vender ou divulgar um produto de consumo e,
-para convencer o consumidor, lança mão da imagem de personalidade
-famosa, pergunta provocativa, trocadilhos, apelo ao consumo etc. A
-resenha crítica veicula a avaliação de alguém sobre um produto cultural
-(livro, filme, série etc.), de modo a convencer o leitor a consumi-lo ou
-não; para isso, avalia a qualidade dos personagens, do enredo, da
-narrativa, do desfecho, da trilha sonora etc.
+  I. Artigo de opinião      ( \coment{III} ) Qualidade dos personagens, do enredo, da narrativa, do desfecho, da trilha sonora etc.
+    II. Anúncio publicitário   ( \coment{I} ) Dados e estatísticas, citação de especialista na área, exemplificação de fatos importantes e de repercussão etc.
+  III. Resenha crítica        ( \coment{II} ) Imagem de personalidade famosa, pergunta provocativa, trocadilhos, apelo ao consumo etc.
 
 \num{2} Associe as duas colunas de acordo com o tipo de argumento
 exemplificado em cada parágrafo.
 
-  1\. Alusão histórica   (   ) A internet é uma tecnologia que faz parte do cotidiano das pessoas e que protagoniza a cultura contemporânea. Ela é uma ferramenta que encurta distâncias e confere um caráter de acessibilidade universal à informação e aos mais diversos campos do conhecimento humano, sendo um dos principais agentes da globalização
-  ---------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  2\. Exemplificação     (   ) Em primeiro lugar, deve-se ressaltar a ausência de medidas governamentais para combater a venda de dados pessoais e a manipulação do comportamento nas redes. Segundo o pensador Thomas Hobbes, o Estado é responsável por garantir o bem-estar da população, entretanto, isso não ocorre no Brasil.
-  3\. Autoridade         (   ) A utilização dos meios de comunicação para manipular comportamentos não é recente no Brasil: ainda em 1937, Getúlio Vargas apropriou-se da divulgação de uma falsa ameaça comunista para legitimar a implantação de um governo ditatorial.
-  4\. Factual            (   ) Em consequência disso, os deficientes auditivos encontram inúmeras dificuldades em variados âmbitos de suas vidas. Um exemplo disso é a difícil inserção dos surdos no mercado de trabalho, devido à precária educação recebida por eles e ao preconceito intrínseco à sociedade brasileira.
-
-Disponível em:
-http://portal.mec.gov.br/component/tags/tag/40141-redacao-nota-mil.
-
-Acesso em: 17 fev. 2023 (fragmentos).
-
-Gabarito: 4 / 3 / 1 / 2
-
-Na seleção de argumentos para embasar seu ponto de vista num texto do
-gênero textual argumentativo, o autor tem à disposição alguns tipos de
-argumentos conforme o impacto que queira causar no leitor. Esses tipos
-são, por exemplo: argumento de alusão histórica, argumento por
-exemplificação, argumento de autoridade e argumento factual. O objetivo
-da questão é desenvolver a habilidade de distinguir entre esses
-argumentos e perceber como se dá sua construção no texto. A alusão
-histórica remete o leitor a um acontecimento relevante registrado na
-história, normalmente envolvendo algum evento ou personalidade
-conhecidos, como é o caso de Getúlio Vargas em 1937. O argumento por
-exemplificação cita uma situação ou pessoa que, como o nome já diz,
-exemplificam, na prática, uma situação referida no texto ou o tema
-abordado. O argumento de autoridade recorre à palavra de uma pessoa
-notável na área ou assunto de interesse do texto, como forma de
-comprovar ou reforçar que aquilo é defendido por alguém que entende do
-assunto, corroborando a visão do autor. O argumento factual pinça um
-acontecimento concreto do cotidiano ou algo tido como verdade pela
-unanimidade da sociedade, para assim tornar seu argumento irrefutável.
+  I. Alusão histórica   ( \coment{IV} ) A internet é uma tecnologia que faz parte do cotidiano das pessoas e que protagoniza a cultura contemporânea. Ela é uma ferramenta que encurta distâncias e confere um caráter de acessibilidade universal à informação e aos mais diversos campos do conhecimento humano, sendo um dos principais agentes da globalização
+ II. Exemplificação     ( \coment{III} ) Em primeiro lugar, deve-se ressaltar a ausência de medidas governamentais para combater a venda de dados pessoais e a manipulação do comportamento nas redes. Segundo o pensador Thomas Hobbes, o Estado é responsável por garantir o bem-estar da população, entretanto, isso não ocorre no Brasil.
+  III. Autoridade         ( \coment{I} ) A utilização dos meios de comunicação para manipular comportamentos não é recente no Brasil: ainda em 1937, Getúlio Vargas apropriou-se da divulgação de uma falsa ameaça comunista para legitimar a implantação de um governo ditatorial.
+  IV. Factual            ( \coment{II} ) Em consequência disso, os deficientes auditivos encontram inúmeras dificuldades em variados âmbitos de suas vidas. Um exemplo disso é a difícil inserção dos surdos no mercado de trabalho, devido à precária educação recebida por eles e ao preconceito intrínseco à sociedade brasileira.
 
 \num{3} Você leu uma matéria num jornal e discordou do posicionamento do
 jornalista ao abordar o tema. Você, então, decide interagir com o jornal
@@ -156,16 +55,7 @@ seu objetivo.
 
 ( ) Resenha crítica
 
-( ) Carta de leitor
-
-Gabarito: Carta de leitor
-
-A situação-problema apresentada na questão envolve a leitura de uma
-matéria no jornal que, de alguma forma, causou no leitor um desconforto
-ou discordância, provocando nele, por consequência, a intenção de
-interagir com a equipe de redação para emitir sua opinião à equipe de
-redação e a outros leitores. Sendo assim, o gênero que se destina a essa
-interação entre leitor e jornal é a carta de leitor.
+( \coment{X} ) Carta de leitor
 
 \num{4} Você foi convidado a escrever um texto opinativo sobre uma série
 de televisão de sua preferência para o jornal da escola e fazer a
@@ -175,149 +65,81 @@ escrever para realizar essa tarefa.
 
 ( ) Artigo de opinião
 
-( ) Resenha crítica
+( \coment{X} ) Resenha crítica
 
 ( ) Carta de leitor
 
-A situação-problema apresentada na questão envolve a exposição de
-opinião e avaliação de um produto cultural, com o objetivo de convencer
-as pessoas a conhecerem ou não a obra. O texto pode emitir opinião
-positiva, quando se indica a obra para as pessoas, ou negativa, quando
-não de indica a obra pelo fato de o autor que opina não ter gostado do
-conteúdo. Sendo assim, o gênero que se destina a essa finalidade é a
-resenha crítica.
+\num{5} Escreva um texto opinativo sobre um livro, um filme ou uma série que você conheça para ser publicado no jornal da escola e faça a indicação da obra para os alunos. Procure apresentar argumentos plausíveis para convencê-los de que vale a pena conhecê-la.
 
-\num{5} Agora, mãos à obra! Escreva um texto opinativo sobre um livro, um
-filme ou uma série que você conheça para ser publicado no jornal da
-escola e faça a indicação da obra para os alunos. Procure apresentar
-argumentos plausíveis para convencê-los de que vale a pena conhecê-la.
+\linhas{15}
+\coment{A atividade se destina a colocar em prática a teoria básica estudada sobre o gênero argumentativo resenha crítica. Talvez esse gênero textual já tenha sido estudado mais a fundo e de forma sistematizada; entretanto, mais importante do que atender às exigências da teoria de construção composicional, conteúdo temático e estilo do gênero é o aluno entender que precisa convencer seu leitor com uma avaliação convincente da obra, por meio de argumentos que convençam o leitor a se interessar por conhecê-la.}
 
-(10 linhas)
+Leia o texto para resolver as atividades de 6 a 10.
 
-A atividade se destina a colocar em prática a teoria básica estudada
-sobre o gênero argumentativo resenha crítica. Talvez esse gênero textual
-já tenha sido estudado mais a fundo e de forma sistematizada no curso
-regular do Ensino Fundamental. Entretanto, mais importante do que
-atender às exigências da teoria de construção composicional, conteúdo
-temático e estilo do gênero é o aluno entender que precisa convencer seu
-leitor com uma avaliação convincente da obra, por meio de argumentos que
-convençam o leitor a se interessar por conhecê-la.
+%Paulo, inserir o anúncio disponível em: https://aguaslindasdegoias.go.gov.br/dia-mundial-da-agua/
 
-**Texto para as questões de 6 a 10.**
-
-![Diagrama Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image1.png){width="3.2916666666666665in"
-height="1.9899409448818897in"}
-
-Disponível em:
-http://barradesaofrancisco.es.leg.br/noticia/ler/609/dia-mundial-da-agua.
-
-Acesso em: 12 fev. 2023.
-
-\num{6} Esse cartaz é um texto argumentativo pertencente à publicidade e
-propaganda. Nele, os recursos persuasivos são construídos por meio da
+\num{6} Esse cartaz é um texto argumentativo. Nele, os recursos persuasivos são construídos por meio da
 associação entre texto verbal e texto não verbal. Cite o recurso não
 verbal que foi utilizado para convencer o leitor a adotar o
-comportamento explicitado no texto verbal. (4 linhas)
+comportamento explicitado no texto verbal.
 
-A pergunta da questão refere-se especificamente ao recurso persuasivo
-não verbal que, em interação com o recurso verbal, constrói o sentido
-global do cartaz, isto é, a imagem ou ilustração que corrobora o texto
-verbal. Portanto, a questão não aborda o conteúdo, e sim a forma, a
-materialidade do texto não verbal. É recomendável fazer essa ponderação
-ao aluno. Falando da resposta esperada, especificamente, o recurso
-persuasivo não verbal utilizado para se obter a adesão do leitor é a
-ilustração de uma torneira aberta com água jorrando do planeta, que
-parece estar desaparecendo à medida que essa água escorre para fora
-dele.
+\linhas{6}
+\coment{O recurso persuasivo não verbal utilizado para se obter a adesão do leitor é a imagem de duas mãos que acolhem uma gota de água que cai, num gesto de proteção com esse recurso.}
 
-\num{7} Qual é a ideia representada pela figura da torneira aberta, na
-ilustração presente no cartaz?
+\num{7} Qual é a ideia representada pela ilustração presente no cartaz?
 
-(2 linhas)
+\linhas{2}
+\coment{A figura da torneira aberta representa a ideia de cuidado com a água.}
 
-A figura da torneira aberta representa a ideia de desperdício da água.
+\num{8} De que modo as cores predominantes no cartaz relacionam-se com o tema central dele?
 
-\num{8} Por que a ilustração mostra a Terra apenas parcialmente, com se
-faltasse uma parte do planeta? (4 linhas)
-
-A Terra é mostrada apenas parcialmente na ilustração porque o
-desperdício de água, que representa a vida, faz desaparecer,
-consequentemente, o planeta à medida que esse recurso natural se esvai.
+\linhas{6}
+\coment{O predomínio de azul relaciona-se à água, o bem que está sendo celebrado no cartaz, assim como a outra cor predominante (verde) relaciona-se com o cuidado com o meio ambiente.}
 
 \num{9} Qual é o sentido global que se constrói a partir da associação
-entre o texto verbal e o texto não verbal do cartaz? (4 linhas)
+entre o texto verbal e o texto não verbal do cartaz?
 
-O sentido global que se pergunta na questão diz respeito às ideias que o
-leitor pode reconstruir a partir de sua leitura individual da interação
-entre a mensagem do texto verbal e a do texto não verbal. Sendo assim, a
-resposta é pessoal, mas sempre dentro uma lógica adequada ao cartaz. Uma
-possibilidade de resposta é que o texto não verbal ilustra o
-desperdício, enquanto o texto verbal diz que água é vida; portanto, a
-preservação da água promove a preservação do planeta como um todo, e o
-desperdício promove a morte ou o desaparecimento dele. Essa ideia pode
-ser sintetizada na frase "Sem água não há planeta Terra,
-consequentemente não há vida".
+\linhas{6}
+\coment{No cartaz, está ilustrada uma situação de cuidado e proteção com a água, o que se reflete na ideia de economia de água traduzida no texto verbal.}
 
-\num{0} Justifique importância da publicação desse cartaz para a
-conscientização da população. (4 linhas)
+\num{10} Justifique importância da publicação desse cartaz para a
+conscientização da população.
 
-A questão permite resposta pessoal. Uma possibilidade de resposta é que
+\linhas{6}
+\coment{Uma possibilidade de resposta é que
 a publicação desse cartaz transmite a mensagem da preservação da água de
 forma simples e corriqueira, pelo fato de usar frases pouco complexas e
-ilustrações facilmente reconhecíveis pela população em geral, como a
-frase "água é vida" e a imagem de uma torneira.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+ilustrações facilmente reconhecíveis pela população em geral.}
 
 \colorsec{Treino}
 
-**Texto para as questões 1 e 2.**
+Leia o texto para responder às questões 1 e 2.
 
-**A família Mandible - Lionel Shriver**
+>**A família Mandible - Lionel Shriver**
 
-Quem me acompanha sabe que sou chegada em uma distopia. Não perco a
-oportunidade de ler uma. Então, quando recebi "A família Mandible",
-livro do mês de janeiro do Clube Intrínsecos, nº 028, vi que se tratava
-de uma sátira distópica, e a curiosidade foi tão grande, mas tão grande,
-que eu quis devorar o livro assim que tivesse oportunidade. A
-curiosidade aumentou ainda mais quando soube que, em vez de uma distopia
-futurista sobre uma invasão zumbi ou alienígena, o livro tratava de um
-apocalipse financeiro que simplesmente afundou os Estados Unidos da
-América, uma das maiores potências do mundo. Mas será que, ao final da
-leitura, achei que valeu a pena toda essa curiosidade? Vem que te conto!
-\[\...\]
+>Se você me acompanha, sabe que sou fascinada por distopias. Não perco a oportunidade de ler uma boa história desse gênero. Então, quando recebi o livro "A família Mandible" como a escolha de janeiro do Clube Intrínsecos, número 028, percebi que se tratava de uma sátira distópica. Minha curiosidade ficou imensa e eu mal podia esperar para devorar o livro assim que tivesse a chance. Fiquei ainda mais intrigada quando descobri que, em vez de abordar uma distopia futurista com invasões de zumbis ou alienígenas, o enredo tratava de um apocalipse financeiro que levou os Estados Unidos da América, uma das maiores potências mundiais, ao colapso. No entanto, será que, ao final da leitura, achei que toda essa curiosidade valeu a pena? Venha descobrir!
 
-BUTIGNOLI, Evelyn. A família Mandible - Lionel Shriver. *Viagem
-Literária*, 03 mar. 2021.
+\fonte{Fonte de pesquisa: Evelyn Butgnoli. Viagem literária. A família Mandible - Lionel Shriver. Disponível em: _http://www.viagemliteraria.com.br/2021/03/a-familia-mandible-lionel-shriver.html_. Acesso em: 10 fev. 2023.
 
-Disponível em:
-http://www.viagemliteraria.com.br/2021/03/a-familia-mandible-lionel-shriver.html.
-
-Acesso em: 10 fev. 2023 (fragmento adaptado).
-
-\num{1}
-
-Os gêneros textuais podem ser reconhecidos com base em determinadas
+\num{1} Os gêneros textuais podem ser reconhecidos com base em determinadas
 características que apresentam. Considerando-se as características do
 texto lido, ele corresponde ao gênero
 
-**a)** crônica, porque a resenhista faz uma narração do seu cotidiano
+a) crônica, porque a resenhista faz uma narração do seu cotidiano
 como leitora.
 
-**b)** diário, porque a resenhista conta suas experiências literárias em
+b) diário, porque a resenhista conta suas experiências literárias em
 um dia específico.
 
-**c) resenha** crítica, porque a resenhista apresenta sua avaliação
+c) resenha crítica, porque a resenhista apresenta sua avaliação
 sobre um livro que leu.
 
-**d)** anúncio publicitário, porque a resenhista elogia um livro para
+d) anúncio publicitário, porque a resenhista elogia um livro para
 convencer o leitor a comprá-lo.
 
-Saeb: Identificar teses, opiniões, posicionamentos explícitos e
+SAEB: Identificar teses, opiniões, posicionamentos explícitos e
 argumentos em textos.
-
-BNCC: (EF89LP04) Identificar e avaliar teses/opiniões/posicionamentos
+BNCC: EF89LP04 -- Identificar e avaliar teses/opiniões/posicionamentos
 explícitos e implícitos, argumentos e contra-argumentos em textos
 argumentativos do campo (carta de leitor, comentário, artigo de opinião,
 resenha crítica etc.), posicionando-se frente à questão controversa de
@@ -326,40 +148,32 @@ forma sustentada.
 \(A\) Incorreta. O texto não é do gênero crônica, pois a situação
 explicitada não está situada no tempo, embora o texto de fato expresse
 uma experiência literária da resenhista.
-
 \(B\) Incorreta. O texto não é do gênero diário, pois seu objetivo não é
 falar sobre o cotidiano literário da resenhista nem sobre outro tipo de
 situação cotidiana.
-
 \(C\) Correta. O texto é do gênero resenha crítica porque apresenta a
-avaliação e opinião da resenhista sobre um livro que ela leu, para
-indicar a leitura ao leitor ou não.
-
+avaliação e a opinião da resenhista sobre um livro que ela leu, para
+indicar a leitura ao leitor.
 \(D\) Incorreta. O texto não é do gênero anúncio publicitário, pois a
 avaliação que a resenhista trará sobre o livro não tem o objetivo de
 vendê-lo como mercadoria para o leitor, e sim dizer-lhe se deve
 experimentar lê-lo ou não.
 
-\num{2}
-
-A resenhista ressalta um diferencial do livro. Esse diferencial, segundo
-ela, foi que a convenceu a lê-lo, e também pode interessar ao público. O
+\num{2} A autora ressalta um diferencial do livro. Esse diferencial, segundo
+ela, foi o que a convenceu a lê-lo e também pode interessar ao público. O
 diferencial está descrito em:
 
-a\) "Vem que te conto!"
+a\) "Venha descobrir!"
 
-b\) "Quem me acompanha sabe que sou chegada em uma distopia."
+b\) "Se você me acompanha, sabe que sou fascinada por distopias."
 
-c\) "Mas será que, ao final da leitura, achei que valeu a pena toda essa
-curiosidade?"
+c\) "No entanto, será que, ao final da leitura, achei que toda essa curiosidade valeu a pena?"
 
-d\) "\[\...\] em vez de uma distopia futurista sobre uma invasão zumbi
-ou alienígena, o livro tratava de um apocalipse financeiro \[\...\]"
+d\) "em vez de abordar uma distopia futurista com invasões de zumbis ou alienígenas, o enredo tratava de um apocalipse financeiro".
 
-Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
+SAEB: Identificar o uso de recursos persuasivos em textos verbais e não
 verbais.
-
-BNCC: (EF89LP04) Identificar e avaliar teses/opiniões/posicionamentos
+BNCC: EF89LP04 -- Identificar e avaliar teses/opiniões/posicionamentos
 explícitos e implícitos, argumentos e contra-argumentos em textos
 argumentativos do campo (carta de leitor, comentário, artigo de opinião,
 resenha crítica etc.), posicionando-se frente à questão controversa de
@@ -367,15 +181,12 @@ forma sustentada.
 
 \(A\) Incorreta. O trecho expressa um convite para que o leitor continue
 acompanhando a resenha para saber se a autora gostou ou não do livro.
-
 \(B\) Incorreta. O trecho expressa um gosto da resenhista por um gênero
 literário específico e não se refere ainda ao livro em questão, que
 nesse ponto da resenha não tinha sido citado.
-
 \(C\) Incorreta. O trecho expressa uma hipótese ou dúvida que a
 resenhista deixa em suspense, como forma de incentivar o leitor a
 continuar lendo a resenha para saber a opinião dela sobre o livro.
-
 \(D\) Correta. O trecho expressa o diferencial do livro em questão, pois
 a resenhista diz que ele é diferente dos outros livros do gênero
 distopia futurista por mostrar um apocalipse financeiro nos Estados
@@ -383,72 +194,49 @@ Unidos, em vez do mais comum, que é uma invasão zumbi ou alienígena, e
 isso a deixa ainda mais instigada a lê-lo e pode também incentivar o
 leitor.
 
-\num{3}
+\num{3} Leia o cartaz.
 
-![Jornal com texto preto sobre fundo branco Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image2.jpeg){width="2.5625in"
-height="2.529861111111111in"}
+%Paulo, inserir o cartaz disponível em: https://cosmopolis.sp.gov.br/saude-inicia-a-campanha-nacional-de-vacinacao-contra-a-poliomielite/
 
-Disponível em:
-https://www12.senado.leg.br/noticias/infomaterias/2022/05/vacinacao-infantil-despenca-no-pais-e-epidemias-graves-ameacam-voltar.
-Acesso em: 13 fev. 2023.
+A importância da figura sorridente do personagem Zé Gotinha deve-se ao fato de que
 
-Além de divulgar uma campanha do Ministério da Saúde, esse cartaz busca
-influenciar a adesão do público-alvo por meio de uma estratégia
-argumentativa que ressalta o(a)
+a) o personagem é o exemplo ruim de alguém que se vacina.
+b) a intenção da campanha é motivar as crianças a se vacinarem.
+c) a campanha pretende criar a ideia de que a vacina afasta a felicidade.
+d) as doenças contra as quais se anuncia são leves e não causam grandes problemas.
 
-a)  sintoma da doença, manifestado principalmente como uma paralisia.
-
-b)  data da vacinação, disponibilizada gratuitamente por prazo
-    > determinado.
-
-c)  responsabilidade dos pais, chamados a atentar para a saúde de seus
-    > filhos.
-
-d)  uso de vacina oral, conhecida por ser menos invasiva e mais amigável
-    > às crianças.
-
-Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
+SAEB: Identificar o uso de recursos persuasivos em textos verbais e não
 verbais.
-
-BNCC: (EF89LP04) Identificar e avaliar teses/opiniões/posicionamentos
+BNCC: EF89LP04 -- Identificar e avaliar teses/opiniões/posicionamentos
 explícitos e implícitos, argumentos e contra-argumentos em textos
 argumentativos do campo (carta de leitor, comentário, artigo de opinião,
 resenha crítica etc.), posicionando-se frente à questão controversa de
 forma sustentada.
 
-\(A\) Incorreta. O cartaz especifica o nome da doença (paralisia
-infantil) que será evitada pela vacina, mas não entra em detalhes sobre
-o sintoma apresentado pela criança doente.
-
-\(B\) Incorreta. A data da vacinação, no caso do cartaz, não pode ser
-considerada uma estratégia argumentativa, pois não faz parte da
-persuasão ao público, tendo apenas o papel informativo.
-
-\(C\) Incorreta. A responsabilidade dos pais em relação à vacinação não
-é abordada no cartaz. A única menção a eles é feita por meio do verbo
-imperativo "vacine", que está escrito de forma menos destacada, com
-tamanho menor que o restante, tendo assim menor relevância.
-
-\(D\) Correta. Vacinas, em geral, podem ser aplicadas por via oral ou
-por meio de injeção, o que causa medo nas crianças devido à dor da
-picada. Assim, a ênfase da campanha na aplicação oral (gotinha) se dá
-pelo uso de um conhecido bordão da Xuxa, contribuindo para chamar a
-atenção sobre esse método mais amigável ao público infantil. Assim, o
-cartaz, além de divulgar a vacinação, incentiva os pais a vacinarem seus
-filhos e as crianças a perderem o medo da vacina.
+a) Incorreta. O objetivo do personagem é justamente o de aproximar a vacinação das crianças.
+b) Correta. A felicidade do personagem mostra como se vacinar é algo bom.
+c) Incorreta. A ideia é justamente o contrário, já que a campanha serve para mostrar que a vacinação é algo bom.
+d) Incorreta. As doenças são graves, e a vacinação é importante, mas a felicidade do personagem não diminui esses dados.
 
 # Módulo 2 
 
- ** -- **OS GÊNEROS TEXTUAIS INFORMATIVOS**
+ **Gêneros textuais informativos**
+ 
+ \colorsec{Habilidades do SAEB}
+ - Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+- Identificar formas de organização de textos normativos, legais e/ou reinvindicatórios.
+- Identificar elementos constitutivos de gêneros de divulgação científica.
+- Analisar a relação temática entre diferentes gêneros jornalísticos.
+
+\colorsec{Habilidades da BNCC}
+- EF69LP02, EF69LP20, EF69LP27, EF08LP01.
 
 Os gêneros textuais informativos têm o objetivo de informar sobre
-determinado assunto, objeto ou fato, por isso são centrados na
+determinado assunto, objeto ou fato. Por isso, são centrados na
 informação a ser transmitida, sem juízo de valor por parte do autor,
-prezando assim pela isenção e imparcialidade, diferentemente do que
-ocorre nos gêneros argumentativos, que são opinativos. Dentre os gêneros
-informativos, destacam-se a notícia, a reportagem, o artigo científico e
-o verbete.
+prezando assim pela isenção e pela imparcialidade, diferentemente do que
+ocorre nos gêneros argumentativos, que são opinativos. Entre os gêneros
+informativos, destacam-se a **notícia**, a **reportagem**, o **artigo científico** e o **verbete**.
 
 Por não conterem opinião ou pontos de vista do autor, não pretendem
 também convencer o leitor ou ganhar sua adesão. Sendo assim, não há
@@ -459,244 +247,149 @@ A linguagem nos gêneros textuais informativos é objetiva (impessoal, em
 3ª pessoa), concisa (focada nas informações essenciais), denotativa
 (literal) e clara (precisa), com predominância da norma-padrão.
 
-Assim como acontece nos gêneros textuais argumentativos, há nos gêneros
-textuais informativos o uso de dados, estatísticas e citação para
-reforçar a veracidade da informação e garantir a credibilidade dela, já
-que se trata dos domínios jornalístico e científico, que têm seu rigor e
-compromisso próprios.
-
-Para fins de organização do conteúdo visto até aqui, o esquema a seguir
-classifica alguns dos gêneros textuais do domínio
-jornalístico/midiático, subdividindo-os em argumentativos e
-informativos.
-
-Este esquema é apenas um rascunho. Gentileza montar algo mais
-profissional.
-
-                                                                        Artigo de opinião
-  ------------------------------------ -------------------------------- -----------------------------------------
-                                       **Argumentativos/ opinativos**   Resenha crítica
-                                                                        Carta de leitor
-  **Domínio jornalístico/midiático**                                    Editorial
-                                                                        Anúncio publicitário
-                                                                        
-                                       **Informativos**                 Notícia
-                                                                        Reportagem
-                                                                        Verbete
-                                                                        Artigo científico
-                                                                        Outros gêneros de divulgação científica
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+Pode haver nos gêneros textuais informativos o uso de dados, estatísticas e citação para reforçar a veracidade da informação e garantir a credibilidade dela, já que se trata do domínio jornalístico e do científico, que têm seu rigor e compromisso próprios.
 
 \colorsec{Atividades}
 
-**Texto para as questões de 1 a 4.**
+Para resolver as atividades de 1 a 4, leia uma manchete e o respectivo subtítulo a seguir.
 
-**TEXTO I**
+>**Estudo confirma que o vírus da zika não é transmitido pela saliva**
+>*Baixas quantidades virais, substâncias antimicrobianas naturais e textura viscosa dificultam a infecção do zika por meio de contato com a saliva, de acordo com o artigo.*
 
-![Tela de celular com texto preto sobre fundo branco Descrição gerada
-automaticamente com confiança
-média](./imgSAEB_8_POR/media/image3.png){width="5.353472222222222in"
-height="1.493860454943132in"}
+\fonte{G1. Estudo confirma que o vírus da zika não é transmitido pela saliva. Disponível em: _https://g1.globo.com/bemestar/zika-virus/noticia/estudo-confirma-que-o-virus-da-zika-nao-e-transmitido-pela-saliva.ghtml_. Acesso em: 16 maio 2023.}
 
-Disponível em:
-https://g1.globo.com/bemestar/zika-virus/noticia/estudo-confirma-que-o-virus-da-zika-nao-e-transmitido-pela-saliva.ghtml.
-Acesso em: 15 fev. 2023.
+\num{1} Apenas com base nessas informações, provavelmente você logo reconheceu o gênero
+textual a que o texto pertence e deduziu o objetivo comunicativo dele.
+Cite-os.
 
-\num{1} Ao ver esse texto, provavelmente você logo reconheceu o gênero
-textual a que ele pertence e deduziu o objetivo comunicativo dele.
-Cite-os. (2 linhas)
+\linhas{4}
+\coment{Trata-se de uma notícia, e o objetivo comunicativo é informar sobre uma descoberta científica que envolve o vírus da zika e sua transmissão.}
 
-Cabe chamar a atenção do aluno para as características do texto em
-questão: ele apresenta um título e um subtítulo; a linguagem é impessoal
-e objetiva, pois privilegia a 3ª pessoa e se apoia num estudo para
-confirmar o que diz; além disso, não há sentidos figurados e sim
-literais, e os verbos estão no presente do indicativo, trazendo uma
-sensação de atualidade do conteúdo. Portanto, o gênero é notícia e o
-objetivo comunicativo é informar sobre uma descoberta científica que
-envolve o vírus da zika e sua transmissão.
+\num{2} Aponte e explique uma marca de impessoalidade e objetividade
+presente nesse texto.
 
-\num{2} Aponte e explique uma marca de impessoalidade/objetividade
-presente nesse texto. (5 linhas)
+\linhas{6}
+\coment{No texto, isso é feito por meio do uso da 3ª pessoa e da ausência de adjetivação valorativa.}
 
-A impessoalidade/objetividade diz respeito à ausência de marcas de
-autoria do que se diz no texto e ausência de valoração ou pontos de
-vista. No texto, isso é feito por meio do uso da 3ª pessoa (por exemplo,
-a frase do título) e da ausência de adjetivação valorativa.
+\num{3} Qual recurso é utilizado no texto para afastar a responsabilidade pelo que é dito?
 
-\num{3} Qual recurso é utilizado no texto para afastar a responsabilidade
-pelo que é dito?
-
-(4 linhas)
-
-O recurso é utilizado no texto para afastar a responsabilidade pelo que
-é dito é a citação de um estudo científico prévio que pesquisou e fez
-conclusões sobre o tema, sendo, portanto, o responsável pelos resultados
-informados na notícia em questão.
+\linhas{4}
+\coment{Trata-se da citação de um estudo científico prévio que pesquisou e fez conclusões sobre o tema}
 
 \num{4} Há mais de uma interpretação possível para o conteúdo desse
-texto? Justifique.
+texto? Justifique sua resposta.
 
-(4 linhas)
-
-Não. Há apenas uma interpretação possível porque o texto privilegia o
+\linhas{6}
+\coment{Não. Há apenas uma interpretação possível porque o texto privilegia o
 sentido literal das palavras, dando ao leitor pouca possibilidade de
 interpretação para além do sentido pretendido, já que as palavras são
-empregadas em seu sentido original, dicionarizado.
+empregadas em seu sentido original, dicionarizado.}
 
-**Texto para as questões 5 e 6.**
+Para resolver as atividades 5 e 6, leia o texto a seguir.
 
-**TEXTO II**
+>**Nova espécie de orangotango descoberta em pequena ilha**
 
-**Nova espécie de orangotango descoberta em pequena ilha**
+>Cientistas da universidade suíça de Zurique que estão trabalhando em Sumatra, uma ilha na Indonésia, conseguiram confirmar que uma pequena população de orangotangos é, de fato, uma espécie nova e anteriormente desconhecida.
 
-Pesquisadores da universidade suíça de Zurique alocados em Sumatra, uma
-ilha da Indonésia, conseguiram comprovar que uma pequena população de
-orangotangos era, na verdade, uma nova espécie até então desconhecida.
+>A investigação teve início em 2013, quando os restos mortais de um orangotango macho revelaram que certas características dentárias e cranianas do primata eram distintas e exclusivas, conforme informado pela instituição acadêmica.
 
-A descoberta teve início em 2013, quando os restos mortais de um
-orangotango macho mostraram "que certas características dos dentes e do
-crânio do macaco eram únicas", segundo o material divulgado pela
-faculdade.
+\fonte{Fonte de pesquisa: Vix. Mulher. Nova espécie de orangotango descoberta em pequena ilha: como são os tapanuli?. Disponível em: _https://www.mulher.com.br/atualidades/ciencia/nova-especie-de-orangotango-descoberta-em-pequena-ilha-como-sao-os-tapanuli_. Acesso em: 16 fev. 2023.
 
-Disponível em:
-https://www.mulher.com.br/atualidades/ciencia/nova-especie-de-orangotango-descoberta-em-pequena-ilha-como-sao-os-tapanuli.
+\num{5} Sobre o texto, responda às perguntas básicas de estruturação de uma notícia.
 
-Acesso em: 16 fev. 2023 (fragmento).
+a) O fato. O que aconteceu?
+\linhas{2}
+\coment{Descoberta de uma nova espécie de orangotango}
 
-\num{5} Preencha o quadro com as informações pedidas sobre o texto.
+b) O modo. De que forma aconteceu?
+\linhas{2}
+\coment{Pela análise das características dos dentes e do crânio de um orangotango macho morto.}
 
-  O que aconteceu? (o fato)   
-  --------------------------- --
-  Como? (de que forma)        
-  Onde? (o local)             
-  Quando? (o tempo)           
-  Quem? (Os participantes)    
+c) O local. Onde aconteceu?
+\linhas{2}
+\coment{Na pequena ilha de Sumatra.}
 
-Trata-se de uma teoria básica da estruturação de uma notícia. As
-informações que serão preenchidas no quadro estão presentes em toda
-notícia e são requisitos desse gênero textual.
+d) O tempo. Quando aconteceu?
+\linhas{2}
+\coment{Em 2013.}
 
-  O quê? (o fato)            Descoberta de uma nova espécie de orangotango
-  -------------------------- ---------------------------------------------------------------------------------------
-  Como? (de que forma)       Pela análise das características dos dentes e do crânio de um orangotango macho morto
-  Onde? (o local)            Numa pequena ilha de Sumatra
-  Quando? (o tempo)          Em 2013
-  Quem? (os participantes)   Pesquisadores da universidade suíça de Zurique
+e) Os participantes. Quem são as pessoas envolvidas?
+\linhas{2}
+\coment{Pesquisadores da universidade suíça de Zurique.}
 
 \num{6} Assinale com um X as características que você identifica no
 texto, de acordo com o gênero textual a que ele pertence.
 
-  (   ) Objetividade (3ª pessoa)                   (   ) Impessoalidade
-  ------------------------------------------------ -------------------------------------
-  (    ) Citação de autoridade no assunto          (   ) Parcialidade
-  ( ) Concisão (foco nas informações essenciais)   (    ) Escrita em norma-padrão
-  (   ) Prolixidade                                (   ) Sentido conotativo (figurado)
-  (   ) Escrita em norma não padrão                (   ) Imparcialidade
-  (   ) Sentido denotativo (literal)               (   ) Pessoalidade
-  (   ) Subjetividade (1ª pessoa)                  
+( \coment{X} ) Objetividade (3ª pessoa).
+( \coment{X} ) Impessoalidade.
+( \coment{X} ) Citação de autoridade no assunto.
+(   ) Parcialidade.
+( \coment{X} ) Concisão (foco nas informações essenciais).
+( \coment{X} ) Escrita em norma-padrão.
+(   ) Prolixidade.
+(   ) Sentido conotativo (figurado).
+(   ) Escrita em norma não padrão.
+( \coment{X} ) Imparcialidade.
+( \coment{X} ) Sentido denotativo (literal).
+(   ) Pessoalidade.
+(   ) Subjetividade (1ª pessoa).
 
-O gênero textual notícia pressupõe centralidade na informação,
-pressupondo assim objetividade e distanciando-se, portanto, da
-subjetividade. Dessa forma, as demais características vão sendo daí
-deduzidas, sempre se afastando da subjetividade e da marca de autoria.
-São características presentes no texto em questão.
+Para resolver as atividades de 7 a 10, leia o texto a seguir.
 
-  ( X ) Objetividade (3ª pessoa)                     ( X ) Impessoalidade
-  -------------------------------------------------- -------------------------------------
-  ( X ) Citação de autoridade no assunto             (   ) Parcialidade
-  ( X ) Concisão (foco nas informações essenciais)   ( X ) Escrita em norma-padrão
-  (   ) Prolixidade                                  (   ) Sentido conotativo (figurado)
-  (   ) Escrita em norma não padrão                  ( X ) Imparcialidade
-  ( X ) Sentido denotativo (literal)                 (   ) Pessoalidade
-  (   ) Subjetividade (1ª pessoa)                    
+>**Plantas medicinais: uma abordagem sobre o uso seguro e racional**
 
-**Texto para as questões de 7 a 10.**
+>Diversas espécies vegetais possuem propriedades medicinais e servem como complementos terapêuticos no tratamento de doenças, trazendo benefícios consideráveis para a saúde quando utilizadas de forma racional e apropriada. No entanto, as plantas contêm uma ampla gama de compostos químicos, que podem ser benéficos, mas também acarretar potenciais riscos à saúde. Portanto, é crucial que os usuários, profissionais da área da saúde e prescritores possuam conhecimento sobre as plantas, incluindo sua identificação correta, conservação, métodos de preparo e uso, bem como os possíveis efeitos colaterais.
 
-**TEXTO III**
+>Neste artigo, são abordadas as plantas medicinais, seus riscos e benefícios, levando em consideração as publicações científicas contemporâneas. Destaca-se a importância dos profissionais de saúde como educadores e promotores de saúde nas comunidades, especialmente aquelas que utilizam o Sistema Único de Saúde.
 
-**Plantas medicinais: uma abordagem sobre o uso seguro e racional**
+\fonte{Fonte de pesquisa: SCIELO. Plantas medicinais: uma abordagem sobre o uso seguro e racional. Disponível em:
+_https://www.scielo.br/j/physis/a/kwsS5zBL84b5w9LrMrCjy5d/_. Acesso em: 18 fev. 2023.}
 
-Muitas plantas são utilizadas com finalidades medicinais, constituindo
-alternativas terapêuticas complementares ao tratamento de doenças,
-trazendo inúmeros benefícios à saúde, quando utilizadas racionalmente e
-de maneira adequada. No entanto, as plantas constituem um arsenal grande
-de constituintes químicos, que podem ser benéficos, mas também podem
-representar um risco potencial à saúde. Desse modo, é importante que o
-usuário, os profissionais de saúde e os prescritores tenham
-conhecimentos sobre a planta, a correta identificação, conservação, modo
-de preparo e uso, além dos possíveis efeitos colaterais. Neste artigo,
-as plantas medicinais, seus riscos e benefícios são discutidos à luz das
-publicações científicas contemporâneas, atentando para a contribuição
-dos profissionais de saúde em relação ao seu papel de educadores e
-promotores de saúde atuantes em comunidades, especialmente aquelas
-usuárias do Sistema Único de Saúde.
+\num{7} O texto relaciona-se ao gênero artigo. Marque o subgênero a que ele se relaciona.
 
-Disponível em:
-https://www.scielo.br/j/physis/a/kwsS5zBL84b5w9LrMrCjy5d/.
+( \coment{X} ) Artigo científico.
+(  ) Artigo de opinião.
 
-Acesso em: 18 fev. 2023 (fragmento adaptado).
+\num{8} Qual elemento ou característica do texto determinou sua
+resposta à questão anterior?
 
-\num{7} O texto é do gênero artigo. Marque o subgênero a que ele
-pertence.
-
-( ) Artigo científico ( ) Artigo de opinião
-
-A questão exige que o aluno identifique as características que
-diferenciam o artigo científico do artigo de opinião. A diferença básica
-é a ausência de valoração e juízo de valor no artigo científico e a
-centralidade no objetivo comunicativo de informar.
-
-\num{8} Qual elemento ou característica do texto determinou a sua
-resposta à questão anterior? (3 linhas)
-
-Nesta questão, o aluno vai explicitar o que foi dito na resolução da
-questão anterior sobre as características que diferenciam o artigo
-científico do artigo de opinião, ou algo mais que tenha percebido e que
-seja coerente. Uma possibilidade de resposta é a ausência de valoração e
+\linhas{6}
+\coment{Uma possibilidade de resposta é a ausência de valoração e
 juízo de valor no artigo científico e a centralidade no objetivo
-comunicativo de informar.
+comunicativo de informar.}
 
-\num{9} O que o trecho "à luz das publicações científicas contemporâneas"
-revela quanto ao conteúdo do artigo? (4 linhas)
+\num{9} O que o trecho "levando em consideração as publicações científicas contemporâneas"
+revela sobre o conteúdo do texto? Explique.
 
-O trecho é uma citação de autoridade no assunto em questão. Não há
+\linhas{6}
+\coment{O trecho é uma representação de autoridade no assunto em questão. Não há
 citação explícita, mas fica claro que o conteúdo do artigo se apoiará em
 comprovações científicas prévias que já abordaram o assunto. Ou seja,
-parte do conteúdo do artigo já foi dita ou afirmada por outrem.
+parte do conteúdo do artigo já foi dita ou afirmada por outrem.}
 
-\num{0} Em sua opinião, esse artigo é voltado para leitores comuns ou
-para leitores específicos? Justifique e cite o público-alvo, se for o
-caso. (2 linhas)
+\num{10} Em sua opinião, esse artigo é voltado para leitores comuns ou
+para leitores específicos? Justifique sua resposta e cite o público-alvo.
 
-O texto exige certo conhecimento prévio sobre plantas medicinais e a
-área de saúde. Além disso, o assunto traz um recorte bastante específico
-que, por outro motivo que não o de estudo, não interessaria ao grande
-público, isto é, ao leitor comum. Portanto, podemos dizer que seu
-público-alvo é específico, restringindo-se, por exemplo, aos
-profissionais da saúde e a outros interessados em plantas medicinais.
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+\linhas{6}
+\coment{O texto exige certo conhecimento prévio sobre plantas medicinais e a área de saúde. Além disso, o assunto traz um recorte bastante específico que, por outro motivo que não o de estudo, não interessaria ao grande público, isto é, ao leitor comum. Portanto, podemos dizer que seu público-alvo é específico, restringindo-se, por exemplo, aos
+profissionais da saúde e a outros interessados em plantas medicinais.}
 
 \colorsec{Treino}
 
-\num{1}
+\num{1} Leia o texto.
 
-![Interface gráfica do usuário, Texto, Aplicativo, chat ou mensagem de
-texto, Email Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image4.png){width="5.905555555555556in"
-height="1.7868055555555555in"}
+>**Defesa Civil alerta para chuvas intensas em SP no carnaval**
 
-O carnaval em São Paulo terá chuvas intensas, segundo alerta da Defesa
-Civil Estadual. A previsão meteorológica é que o volume alcance de 80
-milímetros a 250 milímetros até domingo (19). O litoral norte do estado
-deve ser o mais impactado. A Baixada Santista, Serra da Mantiqueira,
-Vale do Ribeira e Itapeva podem ter até 150 milímetros de chuvas. Com o
-solo já encharcado, há risco de deslizamentos em regiões de encosta.
+>O carnaval em São Paulo terá chuvas intensas, segundo alerta da Defesa Civil Estadual. A previsão meteorológica é que o volume alcance de 80 milímetros a 250 milímetros \[...]. O litoral norte do estado deve ser o mais impactado. A Baixada Santista, Serra da Mantiqueira, Vale do Ribeira e Itapeva podem ter até 150 milímetros de chuvas. Com o solo já encharcado, há risco de deslizamentos em regiões de encosta.
 
-Disponível em:
-https://agenciabrasil.ebc.com.br/geral/noticia/2023-02/defesa-civil-alerta-para-chuvas-intensas-no-carnaval-em-sao-paulo.
-Acesso em: 17 fev. 2023 (fragmento).
+>A chegada de uma frente fria \[...] deixa o tempo instável e cria condições para chuvas intensas, com momentos de temporais na faixa leste do estado. A previsão é que também ocorram raios, vento e granizo. A temperatura ficará mais amena \[...].
+
+>Para quem mora em São José dos Campos, Barretos e Franca, o total de chuvas pode alcançar a 100 milímetros. Na capital e região metropolitana, Campinas, Sorocaba, Ribeirão Preto e Araraquara, o volume total de precipitações é de até 80 milímetros.
+
+>\[...]
+
+\fonte{Agência Brasil. Defesa Civil alerta para chuvas intensas em SP no carnaval. Disponível em:
+_https://agenciabrasil.ebc.com.br/geral/noticia/2023-02/defesa-civil-alerta-para-chuvas-intensas-no-carnaval-em-sao-paulo_. Acesso em: 17 fev. 2023.
 
 A finalidade desse texto é
 
@@ -708,42 +401,41 @@ c\) ensinar.
 
 d\) informar.
 
-Saeb: Identificar elementos constitutivos de textos pertencentes ao
+SAEB: Identificar elementos constitutivos de textos pertencentes ao
 domínio jornalístico/midiático.
-
-BNCC: EF08LP01
+BNCC: EF08LP01 -- Identificar e comparar as várias editorias de jornais impressos e digitais e de sites noticiosos, de forma a refletir sobre os tipos de fato que são noticiados e comentados, as escolhas sobre o que noticiar e o que não noticiar e o destaque/enfoque dado e a fidedignidade da informação.
 
 \(A\) Incorreta. O gênero textual é notícia e, assim, não se encontram
 no texto marcas de valoração ou pontos de vista.
-
 \(B\) Incorreta. Embora o texto possa gerar a sensação de alerta na
 população, por antecipar grande volume de chuva, a finalidade
 comunicativa primária de uma notícia não é alertar.
-
 \(C\) Incorreta. O gênero notícia não tem como característica o
-didatismo nem se encontram no texto marcas de instrução ao leitor.
-
+didatismo, nem se encontram no texto marcas de instrução ao leitor.
 \(D\) Correta. O gênero notícia tem a finalidade de informar o leitor
 sobre acontecimentos passados e futuros relevantes para a sociedade.
 
-\num{2}
+\num{2} Leia o texto.
 
+>**Retrospectiva 2022: confira as principais notícias de janeiro**
+
+>\[...]
+>
 A nova variante Ômicron do novo coronavírus fez com que o mundo
 mergulhasse em uma nova onda da doença no começo de 2022. Já nos
 primeiros dias do ano, 4 mil voos foram cancelados no mundo. No dia 19,
 a Organização Pan-Americana de Saúde (Opas) afirmou que o vírus se
 espalhava "como nunca antes" nas Américas. No mesmo dia, a Fundação
 Oswaldo Cruz (Fiocruz) revelou que o aumento do número de casos no
-Brasil era seis vezes acima do observado no início de dezembro de 2021.
+Brasil era seis vezes acima do observado no início de dezembro de 2021. \[...]
 
-Disponível em:
-https://agenciabrasil.ebc.com.br/geral/noticia/2022-09/retrospectiva-2022-confira-principais-noticias-de-janeiro.
-Acesso em: 13 fev. 2023.
+\fonte{Agência Brasil. Retrospectiva 2022: confira as principais notícias de janeiro. Disponível em:
+_https://agenciabrasil.ebc.com.br/geral/noticia/2022-09/retrospectiva-2022-confira-principais-noticias-de-janeiro_. Acesso em: 13 fev. 2023.}
 
 Considerando-se a relevância do assunto e as características do texto,
 as aspas em "como nunca antes" foram usadas para
 
-a\) destacar a frase e assim chamar a atenção do leitor.
+a\) destacar a frase para chamar a atenção do leitor.
 
 b\) citar os dados que comprovam a verdade da notícia.
 
@@ -751,64 +443,45 @@ c\) informar que o vírus se espalha de uma maneira nova.
 
 d\) atribuir a frase a um terceiro com maior credibilidade.
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
+SAEB: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
-
-BNCC: (EF08LP01) Identificar e comparar as várias editorias de jornais
+BNCC: EF08LP01 -- Identificar e comparar as várias editorias de jornais
 impressos e digitais e de *sites* noticiosos, de forma a refletir sobre
 os tipos de fato que são noticiados e comentados, as escolhas sobre o
-que noticiar e o que não noticiar e o destaque/enfoque
-
-dado e a fidedignidade da informação.
+que noticiar e o que não noticiar e o destaque/enfoque dado e a fidedignidade da informação.
 
 \(A\) Incorreta. Outros tipos de destaque poderiam ser usados para
 chamar a atenção do leitor, tais como negrito, itálico, sublinhado, os
 quais não carregariam, entretanto, o mesmo valor do uso das aspas nesse
 texto.
-
-\(B\) Incorreta. O trecho entre aspas não traz dados no sentido estrito,
+\(B\) Incorreta. O trecho entre aspas não traz dados no sentido estrito;
 trata-se apenas de parte de um texto maior da Organização Pan-Americana
 de Saúde, ao qual o leitor não tem acesso na notícia em questão.
-
 \(C\) Incorreta. Do ponto de vista semântico, o trecho entre aspas
 realmente significa que o vírus se espalha de uma maneira nova,
-diferente do modo até então conhecido. Porém, as aspas não foram usadas
+diferentemente do modo até então conhecido. Porém, as aspas não foram usadas
 simplesmente para informar isso. Seu valor é externo ao texto, pois está
 relacionado aos princípios de isenção e objetividade do jornalismo.
-
 \(D\) Correta. O texto jornalístico, em geral, preza pela objetividade e
-isenção. Uma das formas de atender a esses requisitos é citar entre
-aspas as palavras de outrem. No texto em questão, as aspas foram usadas
-evitar assumir a responsabilidade por uma afirmação categórica feita, na
-verdade, por uma instituição que tem legitimidade para tal (a
+pela isenção. Uma das formas de atender a esses requisitos é citar entre
+aspas as palavras de outrem. No texto em questão, as aspas foram usadas para evitar assumir a responsabilidade por uma afirmação categórica feita, na
+realidade, por uma instituição que tem legitimidade para tal (a
 Organização Pan-Americana de Saúde). Isso significa que tal instituição
 tem maior credibilidade, de modo que as aspas servem, ao mesmo tempo,
 para comprovar que a notícia veicula informações reais já confirmadas
 por instituição competente.
 
-\num{3}
+\num{3} Leia o texto.
 
-Se alguém lhe disser: "você dorme como um urso!", saiba que anda
-dormindo demais. Afinal, ursos são capazes de dormir por muito, muito
-tempo. Na verdade, eles hibernam. Passam meses sem acordar para comer,
-beber água, tomar banho... \[\...\]
+>**Uma soneca por todo o inverno**
+>
+>Se alguém comentar: "Você dorme como um urso!", saiba que está dormindo excessivamente. Afinal, os ursos têm a capacidade de dormir por períodos extremamente longos. Na realidade, eles hibernam, ficando meses sem acordar para comer, beber água ou se higienizar. Mas como os ursos e outros animais conseguem fazer isso?
+>
+>A natureza parece encontrar soluções para tudo. No inverno, os recursos naturais diminuem. Basta observar as árvores, por exemplo, e perceber que há menos folhas e menos frutas disponíveis. Nesse contexto, para alguns animais, é mais vantajoso "dormir" durante esse período de escassez alimentar.
+>
+>É claro que dormir por um período tão prolongado requer algum tipo de preparação. Nas estações que antecedem o inverno, os animais que hibernam se preparam comendo em grande quantidade. Dessa forma, eles acumulam reservas de energia na forma de gordura corporal. E, quando o inverno chega, eles estão prontos para passar longos e frios meses em suas tocas, até a chegada da primavera.
 
-### Mas por que dormir taaanto?
-
-\[\...\] O inverno é a época do ano em que os recursos naturais
-diminuem. Só de olharmos para as árvores, por exemplo, vemos que há
-menos folhas, menos frutos... Então, naturalmente, para alguns animais é
-melhor "dormir" neste período em que há menor oferta de alimentos. 
-
-Claro que dormir por um período tão grande requer algum preparo. Então,
-nas estações anteriores ao inverno, os animais que hibernam se preparam
-comendo muito! Assim, acumulam reservas de energia na forma de gordura
-corporal. E quando o inverno chega... estão prontinhos para passar
-longos e frios meses dentro da toca até que venha a primavera.
-
-Disponível em: https://chc.org.br/artigo/uma-soneca-por-todo-o-inverno/.
-
-Acesso em: 13 fev. 2023 (fragmento).
+\fonte{Fonte de pesquisa: Ciência Hoje das Crianças. Uma soneca por todo o inverno. Disponível em: _https://chc.org.br/artigo/uma-soneca-por-todo-o-inverno/_. Acesso em: 13 fev. 2023.}
 
 A linguagem não habitual empregada nesse texto contribui para alcançar o
 objetivo de
@@ -824,20 +497,17 @@ explicando com linguagem cotidiana a hibernação de alguns animais
 selvagens.
 
 d\) divulgar para a população os ditados populares inspirados no
-comportamento dos animais, como, por exemplo, "você dorme como um
-urso!".
+comportamento dos animais, como, por exemplo, o dito popular "você dorme como um urso".
 
-Saeb: Identificar elementos constitutivos de gêneros de divulgação
+SAEB: Identificar elementos constitutivos de gêneros de divulgação
 científica.
 
-BNCC: Sem correspondência exata.
-
-\(A\) Incorreta. O texto não é construído não com linguagem técnica, por
-isso seu público-alvo não são estudiosos nem pessoas com grande
+\(A\) Incorreta. O texto não é construído com linguagem técnica e, por
+isso, seu público-alvo não são estudiosos nem pessoas com grande
 conhecimento científico.
 
-\(B\) Incorreta. O texto não é construído não com linguagem técnica, por
-isso seu público-alvo não são biólogos, que, para aprenderem conteúdos
+\(B\) Incorreta. O texto não é construído com linguagem técnica e, por
+isso, seu público-alvo não são biólogos, que, para aprenderem conteúdos
 de sua área, provavelmente procurarão textos científicos especializados,
 normalmente divulgados em forma de artigos científicos, teses,
 dissertações.
@@ -847,7 +517,7 @@ vocabulário e linguagem simples e cotidianos, sem perder seu caráter
 científico, pois seu objetivo é fazer divulgação científica correta para
 o grande público não especializado.
 
-\(D\) Incorreta. Não é objetivo do texto divulgar o ditado popular, que
+\(D\) Incorreta. Não é o objetivo do texto divulgar o ditado popular, que
 nesse caso serve apenas para ativar um conhecimento prévio e corriqueiro
 do leitor, de modo a estabelecer com ele uma interação e ganhar sua
 atenção. Isso se confirma ainda pelo fato de apenas na introdução o
@@ -855,23 +525,31 @@ texto citar o ditado e não mais abordar o assunto.
 
 # Módulo 3 
 
- ** -- **OS GÊNEROS LITERÁRIOS**
+ **Gêneros literários**
+ 
+ \colorsec{Habilidades do SAEB}
+ - Analisar elementos constitutivos de textos pertencentes ao domínio literário.
+- Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
+- Inferir a presença de valores sociais, culturais e humanos em textos literários.
+
+\colorsec{Habilidades da BNCC}
+- EF69LP44, EF69LP47, EF89LP32.
 
 Os gêneros literários são categorias usadas para classificar os textos
 dos diversos gêneros textuais existentes na literatura de acordo com
 suas características em comum. Essas categorias são: gênero narrativo ou
 épico, gênero lírico e gênero dramático. Dessa forma, qualquer texto
 literário pode ser classificado como narrativo, lírico ou dramático com
-base em suas características. Vamos então conhecer as características de
-cada gênero literário e ver alguns exemplos.
+base em suas características.
 
 +----------------------+----------------------+----------------------+
-| **Gênero literário** | **Características**  | **Exemplos**         |
+| **Gênero literário** | **Características**  | **Exemplos**       |
 +======================+======================+======================+
 | Narrativo ou épico   | Conta uma história   | Conto, novela,       |
 |                      | estruturada com os   | romance, fábula,     |
 |                      | seguintes elementos: | crônica, conto de    |
-|                      |                      | fadas, lenda.        |
+|                      |                      | fadas, lenda, poema  | 
+|                      |                      | narrativo.           |
 |                      | -   Enredo (situação |                      |
 |                      |     > inicial ou     |                      |
 |                      |     > introdução,    |                      |
@@ -886,13 +564,10 @@ cada gênero literário e ver alguns exemplos.
 |                      | -   Tempo;           |                      |
 |                      |                      |                      |
 |                      | -   Espaço.          |                      |
-|                      |                      |                      |
-|                      | É geralmente escrito |                      |
-|                      | em prosa.            |                      |
 +----------------------+----------------------+----------------------+
 | Lírico               | Expressa emoções,    | Poema, letra de      |
 |                      | sentimentos, desejos | música, hino,        |
-|                      | e ideias subjetivos  | soneto, sátira.      |
+|                      | e ideias subjetivas  | soneto, sátira.      |
 |                      | do eu lírico (voz    |                      |
 |                      | que fala no poema).  |                      |
 |                      |                      |                      |
@@ -914,7 +589,7 @@ cada gênero literário e ver alguns exemplos.
 +----------------------+----------------------+----------------------+
 | Dramático            | É escrito para ser   | Peça de teatro,      |
 |                      | encenado por atores  | auto, comédia,       |
-|                      | num palco.           | tragicomédia.        |
+|                      | em um palco.         | tragicomédia.        |
 |                      |                      |                      |
 |                      | O texto tem a        |                      |
 |                      | seguinte estrutura:  |                      |
@@ -931,8 +606,8 @@ cada gênero literário e ver alguns exemplos.
 |                      |     > (instrução de  |                      |
 |                      |     > como a cena ou |                      |
 |                      |     > fala devem ser |                      |
-|                      |     > interpretadas) |                      |
-|                      |     > pelo ator;     |                      |
+|                      |     > interpretadas  |                      |
+|                      |     > pelo ator);    |                      |
 |                      |                      |                      |
 |                      | -   Falas dos        |                      |
 |                      |     > personagens.   |                      |
@@ -940,329 +615,253 @@ cada gênero literário e ver alguns exemplos.
 
 \colorsec{Atividades}
 
-**Texto para as questões de 1 a 3.**
+Para resolver as atividades de 1 a 3, leia o poema a seguir.
 
-**TEXTO I**
+>**Presságio**
 
-**Presságio**
+>O amor, quando se revela,
 
-O amor, quando se revela,
+>Não se sabe revelar.
 
-Não se sabe revelar.
+>Sabe bem olhar p'ra ela,
 
-Sabe bem olhar p'ra ela,
+>Mas não lhe sabe falar.
 
-Mas não lhe sabe falar.
+>Quem quer dizer o que sente
 
-Quem quer dizer o que sente
+>Não sabe o que há de dizer.
 
-Não sabe o que há de dizer.
+>Fala: parece que mente...
 
-Fala: parece que mente...
+>Cala: parece esquecer...
 
-Cala: parece esquecer...
+>Ah, mas se ela adivinhasse,
 
-Ah, mas se ela adivinhasse,
+>Se pudesse ouvir o olhar,
 
-Se pudesse ouvir o olhar,
+>E se um olhar lhe bastasse
 
-E se um olhar lhe bastasse
+>P'ra saber que a estão a amar!
 
-P'ra saber que a estão a amar!
+>Mas quem sente muito, cala;
 
-Mas quem sente muito, cala;
+>Quem quer dizer quanto sente
 
-Quem quer dizer quanto sente
+>Fica sem alma nem fala,
 
-Fica sem alma nem fala,
+>Fica só, inteiramente!
 
-Fica só, inteiramente!
+>Mas se isto puder contar-lhe
 
-Mas se isto puder contar-lhe
+>O que não lhe ouso contar,
 
-O que não lhe ouso contar,
+>Já não terei que falar-lhe
 
-Já não terei que falar-lhe
+>Porque lhe estou a falar...
 
-Porque lhe estou a falar...
-
-PESSOA, Fernando. Disponível em:
-<https://campusvirtual.fiocruz.br/portal/?q=palavra-chave-de-documentos/fernando-pessoa>.
-Acesso em: 12 mar. 2023.
+\fonte{Fernando Pessoa. Disponível em:
+_https://campusvirtual.fiocruz.br/portal/?q=palavra-chave-de-documentos/fernando-pessoa_. Acesso em: 12 mar. 2023.}
 
 \num{1} O poema "Presságio" versa sobre um sentimento humano, o amor.
-Esse amor é vivido na prática pelo eu lírico? Justifique. (4 linhas)
+Esse amor é vivido na prática pelo eu lírico? Explique e justifique.
 
-O poema de Fernando Pessoa retrata um amor platônico. Ao longo do texto,
+\linhas{10}
+\coment{O poema de Fernando Pessoa retrata um amor platônico. Ao longo do texto,
 o eu lírico sofre com esse amor que sente, mas não pela falta de
-reciprocidade, e sim pela falta de coragem de se confessor à pessoa
+reciprocidade, e sim pela falta de coragem de se abrir com a pessoa
 amada. Sendo assim, o amor entre eles nunca chega a acontecer na
 realidade, justamente porque o eu lírico, em certos versos, parece
-preferir o anonimato a correr o risco de não ser correspondido.
+preferir o anonimato a correr o risco de não ser correspondido.}
 
 \num{2} Aponte outros sentimentos secundários que, como consequência do
-amor, parecem acometer o eu lírico em relação à pessoa amada. (3 linhas)
+amor, parecem acometer o eu lírico em relação à pessoa amada.
 
-O amor causa no eu lírico outros sentimentos em relação à pessoa amada,
-como o receio de se de declarar, o medo de não ser correspondido, a
-dúvida entre falar (declarar seu amor à pessoa amada) ou calar-se, o
-lamento por seu amor não ser descoberto de outro modo senão pelas
-palavras, impotência por não conseguir expressar seu sentimento para a
-pessoa amada.
+\linhas{6}
+\coment{O receio de se de declarar, o medo de não ser correspondido, a
+dúvida entre falar ou calar-se, o lamento por seu amor não ser descoberto de outro modo senão pelas palavras e a impotência por não conseguir expressar seu sentimento para a pessoa amada.}
 
 \num{3} Assumindo não saber como expressar seu amor com palavras, qual
 outra forma de expressão o eu lírico gostaria que a pessoa amada
-compreendesse? Comprove sua resposta com um trecho do poema. (4 linhas)
+compreendesse? Comprove sua resposta com um trecho do poema.
 
-O eu lírico, na terceira estrofe, deseja que a pessoa amada pudesse
-compreender seu amor por ela apenas pelo olhar. O trecho que comprova
-isso é "Se pudesse ouvir o olhar, / E se um olhar lhe bastasse / P'ra
-saber que a estão a amar!".
+\linhas{6}
+\coment{O eu lírico, na terceira estrofe, deseja que a pessoa amada pudesse compreender seu amor por ela apenas pelo olhar. O trecho que comprova isso é "Se pudesse ouvir o olhar, / E se um olhar lhe bastasse / P'ra saber que a estão a amar!"}
 
-**Texto para as questões de 4 a 7.**
+Para resolver as atividades de 4 a 7, leia o texto a seguir.
 
-**TEXTO II**
+>**O homem e a cobra**
+>
+Durante um frio inverno e debaixo de forte chuva, andava uma cobra,
+fraca e encolhida. Um homem de piedade a recolheu, agasalhou e alimentou
+enquanto houve frio. Chegado o verão, a cobra começou a estender-se e,
+então, o homem disse-lhe que deveria seguir o caminho dela, mas a cobra,
+relutante, levantou o pescoço para o morder. O homem, por isso, lançou
+mão de um pau e investiu contra a cobra. Após uma longa luta, a cobra
+restou morta e o homem muito mordido.
 
-Durante um frio inverno e debaixo de forte chuva, andava uma Cobra,
-fraca e encolhida. Um Homem de piedade a recolheu, agasalhou e alimentou
-enquanto houve frio. Chegado o verão, a Cobra começou a estender-se e,
-então, o Homem disse-lhe que deveria seguir o caminho dela, mas a Cobra,
-relutante, levantou o pescoço para o morder. O Homem, por isso, lançou
-mão de um pau e investiu contra a Cobra. Após uma longa luta, a Cobra
-restou morta e o Homem muito mordido.
+\fonte{Joseph Shafan. *As fábulas de Esopo*. Disponível em:
+_http://www.dominiopublico.gov.br/download/texto/ea000378.pdf_. Acesso em: 26 fev. 2023.}
 
-Disponível em:
-http://www.dominiopublico.gov.br/download/texto/ea000378.pdf.
+\num{4} A qual dos gêneros literários (narrativo, lírico ou dramático)
+pertence o texto? Justifique sua resposta, mencionando características do texto.
 
-Acesso em: 26 fev. 2023.
-
-\num{4} A qual dos gêneros literários (narrativo, lírico, dramático)
-pertence o texto? Justifique com as características do texto. (4 linhas)
-
-O texto é do gênero literário narrativo e suas características que
-comprovam isso são: é escrito em prosa, conta uma história estruturada
-com elementos da narrativa (narrador, personagens, enredo, tempo).
+\linhas{4}
+\coment{O texto é do gênero literário narrativo, pois conta uma história estruturada com elementos da narrativa (narrador, personagens, enredo, tempo).}
 
 \num{5} Dentro do gênero literário que você indicou na questão anterior,
-a qual gênero textual o texto pertence? Justifique com uma
-característica do texto. (2 linhas)
+a qual gênero textual o texto pertence? Justifique sua resposta com uma
+característica do texto.
 
-O texto, dentro do gênero literário narrativo, é uma fábula, gênero
-textual que apresenta texto curto, animais como personagens humanizados
-e uma lição moral que pode estar explícita ou implícita.
+\linhas{4}
+\coment{Trata-se de um fábula, texto curto que animais como personagens humanizados e uma lição moral, que pode estar explícita ou implícita.}
 
-\num{6} Numere a segunda coluna de acordo com a primeira.
+\num{6} Com base no texto, numere a segunda coluna de acordo com a primeira.
 
-  1\. Situação inicial   (   ) Chegado o Verão, a Cobra começou a estender-se e, então, o Homem disse-lhe que deveria seguir o caminho dela, mas a Cobra, relutante, levantou o pescoço para o morder.
-  ---------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  2\. Conflito           (   )   Após uma longa luta, a Cobra restou morta e o Homem muito mordido.
-  3\. Clímax             (   ) Durante um frio Inverno e debaixo de forte chuva, andava uma Cobra, fraca e encolhida. Um Homem de piedade a recolheu, agasalhou e alimentou enquanto houve frio.
-  4\. Desfecho           (   ) O Homem, por isso, lançou mão de um pau e investiu contra a Cobra.
-
-Gabarito: 2 / 4 / 1 / 3
-
-A questão explora as partes de um dos principais elementos da narrativa,
-o enredo, tradicionalmente formado por situação inicial, conflito,
-clímax e desfecho, nessa ordem. O texto em questão apresenta um enredo
-tradicional. Entretanto, a ordem dessas partes pode ser alterada e
-trabalhada em um texto narrativo, de modo a tornar a narrativa mais
-interessante para o leitor. Uma estratégia muito usada pelos escritores,
-por exemplo, é trazer o desfecho ou o conflito para o início da
-história, invertendo a assim a ordem tradicional e prendendo a atenção
-do leitor.
+  I. Situação inicial.   ( \coment{II} ) Chegado o verão, a cobra começou a estender-se e, então, o homem disse-lhe que deveria seguir o caminho dela, mas a cobra, relutante, levantou o pescoço para o morder.
+  II. Conflito.           ( \coment{IV} )   Após uma longa luta, a cobra restou morta e o homem muito mordido.
+  III. Clímax.             ( \coment{I} ) Durante um frio inverno e debaixo de forte chuva, andava uma cobra, fraca e encolhida. Um homem de piedade a recolheu, agasalhou e alimentou enquanto houve frio.
+  IV. Desfecho.           ( \coment{III} ) O homem, por isso, lançou mão de um pau e investiu contra a cobra.
 
 \num{7} Um elemento característico do gênero textual apresentado na
-questão anterior é a lição moral ou ensinamento ao fim do texto. No
+questão anterior é a moral (ou ensinamento) ao fim do texto. No
 texto lido, ela está implícita. Explicite a lição moral que você
-aprendeu com esse texto. (4 linhas)
+apreendeu desse texto. Explique.
 
-Resposta pessoal. A fábula é um texto literário que exibe valores
-sociais, culturais e humanos. Esses valores aparecem, muitas vezes, em
-forma de uma lição moral, algo bem característico numa fábula. Dessa
-forma, o aluno, ao pensar sobre o ensinamento e elaborá-lo por si, está
-treinando sua habilidade de identificar, nos demais textos literários, a
-presença desses valores. É importante lembrar que o professor avaliará a
-coerência entre a lição moral elaborada pelo aluno e o conteúdo da
-fábula em questão, pois a habilidade de interpretação de texto é,
-obviamente, o objetivo dessa elaboração.
+\linhas{6}
+\coment{Resposta pessoal.
 
 \num{8} Associe as duas colunas conforme o gênero literário ao qual
 pertence o texto.
 
-+----------------------+----------------------------------------------+
-| 1\. Gênero narrativo | (    )                                       |
-|                      |                                              |
-|                      | Está alta no céu a lua e é primavera.        |
-|                      |                                              |
-|                      | Penso em ti e dentro de mim estou completo.  |
-|                      |                                              |
-|                      | Corre pelos vagos campos até mim uma brisa   |
-|                      | ligeira.                                     |
-|                      |                                              |
-|                      | Penso em ti, murmuro o teu nome; não sou eu: |
-|                      | sou feliz.                                   |
-|                      |                                              |
-|                      | Amanhã virás, andarás comigo a colher flores |
-|                      | pelos campos,                                |
-|                      |                                              |
-|                      | E eu andarei contigo pelos campos a ver-te   |
-|                      | colher flores.                               |
-|                      |                                              |
-|                      | PESSOA, Fernando. Disponível em:             |
-|                      | http://dominiopub                            |
-|                      | lico.mec.gov.br/download/texto/vo000006.pdf. |
-|                      |                                              |
-|                      | Acesso em: 12 mar. 2023 (fragmento).         |
-+======================+==============================================+
-| 2\. Gênero dramático | (    )                                       |
-|                      |                                              |
-|                      | Manhã de sol. Miguel e André saíram à rua,   |
-|                      | levando os brinquedos ganhos no dia          |
-|                      | anterior. Miguel, uma bela miniatura de      |
-|                      | transatlântico, com todos os detalhes de um  |
-|                      | navio de verdade: motor, hélices, que o      |
-|                      | faziam viajar na água. André, não menos      |
-|                      | satisfeito, levava sob o braço um            |
-|                      | porta-aviões, também movido e iluminado a    |
-|                      | pilhas. Haviam recebido os presentes de seu  |
-|                      | pai, o capitão-de-mar-e-guerra Ramiro        |
-|                      | Gouveia, que os trouxera do Exterior, na     |
-|                      | última viagem que fizera.                    |
-|                      |                                              |
-|                      | Dentro de casa, Miguel e André não podiam    |
-|                      | brincar com os navios. Assim, naquele dia,   |
-|                      | resolveram descer a rua e levar os           |
-|                      | brinquedos para um rio que corria quinhentos |
-|                      | metros além.                                 |
-|                      |                                              |
-|                      | MONTEIRO, José Maviael. *Os barcos de        |
-|                      | papel*. 16. ed. São Paulo: Ática, 1999       |
-|                      | (fragmento).                                 |
-+----------------------+----------------------------------------------+
-| 3\. Gênero           | (    )                                       |
-|                      |                                              |
-| lírico               | JOÃO GRILO, ajoelhando-se, em tom lamentoso  |
-|                      |                                              |
-|                      | Lembra-te de Nosso Senhor Jesus Cristo.      |
-|                      | Chicó. Chicó, Jesus vai contigo e tu vais    |
-|                      | com Jesus. Lembra-te de Nosso Senhor Jesus   |
-|                      | Cristo, Chicó.                               |
-|                      |                                              |
-|                      | CHICÓ                                        |
-|                      |                                              |
-|                      | Que latomia é essa para o meu lado? Você     |
-|                      | quer me agourar?                             |
-|                      |                                              |
-|                      | JOÃO GRILO, erguendo-se                      |
-|                      |                                              |
-|                      | Ah, e você está vivo?                        |
-|                      |                                              |
-|                      | CHICÓ                                        |
-|                      |                                              |
-|                      | Estou, que é que você está pensando? Não é   |
-|                      | besta não?                                   |
-|                      |                                              |
-|                      | JOÃO GRILO                                   |
-|                      |                                              |
-|                      | Você disse que hora de chamar padre era a    |
-|                      | hora da morte, começou a gritar por Padre    |
-|                      | João, eu só podia pensar que estava          |
-|                      |                                              |
-|                      | lhe dando a agonia.                          |
-|                      |                                              |
-|                      | CHICÓ, depois de estender-lhe o punho        |
-|                      | fechado                                      |
-|                      |                                              |
-|                      | Padre João!                                  |
-|                      |                                              |
-|                      | SUASSUNA, Ariano. *Auto da compadecida.* 35  |
-|                      | ed. Rio de Janeiro: Agir, 2005 (fragmento).  |
-+----------------------+----------------------------------------------+
+I. Gênero épico.
+II. Gênero dramático.
+III. Gênero lírico.
 
-Gabarito: 3 / 1 / 2
+( \coment{III} ) **Vai alta no céu a lua da Primavera** (Fernando Pessoa)
+>
+Vai alta no céu a lua da Primavera
+>
+Penso em ti e dentro de mim estou completo.
 
-A questão explora as características composicionais de cada gênero
-literário, apresentando exemplos textuais para cada um. A explicitação
-dessas características será mais explorada na questão seguinte.
+>
+Corre pelos vagos campos até mim uma brisa ligeira.
+>
+Penso em ti, murmuro o teu nome; e não sou eu: sou feliz.
+
+>
+Amanhã virás, andarás comigo a colher flores pelo campo,
+>
+E eu andarei contigo pelos campos ver-te colher flores.
+>
+Eu já te vejo amanhã a colher flores comigo pelos campos,
+>
+Pois quando vieres amanhã e andares comigo no campo a colher flores,
+>
+Isso será uma alegria e uma verdade para mim.
+
+( \coment{I} ) **A divina comédia** (Dante Alighieri)
+>
+No meio do caminho de nossa vida,
+>
+Encontrei-me em uma selva escura,
+>
+Pois o caminho certo havia se perdido.
+
+>
+Ah, como é difícil dizer o quão selvagem
+>
+E amarga é essa floresta,
+>
+Que renova o medo em minha mente!
+
+>
+Tão amarga que se assemelha à morte,
+>
+Mas para falar sobre o bem que encontrei lá,
+>
+Falarei também sobre outras coisas que observei.
+
+( \coment{II} ) **O auto da Compadecida** (Ariano Suassuna)
+>
+JOÃO GRILO, ajoelhando-se, em tom lamentoso: Lembra-te de Nosso Senhor Jesus Cristo. Chicó. Chicó, Jesus vai contigo e tu vais com Jesus. Lembra-te de Nosso Senhor Jesus Cristo, Chicó.
+CHICÓ: Que latomia é essa para o meu lado? Você quer me agourar?
+JOÃO GRILO, erguendo-se: Ah, e você está vivo?
+CHICÓ: Estou, que é que você está pensando? Não é besta não?
+JOÃO GRILO: Você disse que hora de chamar padre era a hora da morte, começou a gritar por Padre João, eu só podia pensar que estava lhe dando a agonia.
+CHICÓ, depois de estender-lhe o punho fechado: Padre João!
 
 \num{9} Descreva as características composicionais que você identificou
-em cada texto para indicar seu gênero literário. (7 Linhas)
+em cada texto da atividade anterior para indicar seu gênero literário.
 
-Primeiro texto: Expressa emoções subjetivas do eu lírico (voz que fala
-no poema). É escrito em versos e estrofes, com linguagem conotativa
-(figurada) e rimas.
+\linhas{8}
+\coment{O poema de Fernando Pessoa expressa emoções subjetivas do eu lírico. O trecho de *A divina comédia* apresenta sequência narrativa escrita em versos. O texto de Ariano Suassuna apresenta os nomes dos personagens destacados de suas falas, com instruções do movimento que os atores deverão fazer ao encenar.
 
-Segundo texto: Apresenta sequência narrativa escrita em prosa com verbos
-no pretérito. Apresenta personagens e narrador. Apresenta o elemento da
-narrativa denominado situação inicial.
+\num{10} Qual é a voz que fala no texto *A divina comédia*, apresentado na
+atividade 8? Justifique sua resposta.
 
-Terceiro texto: Apresenta os nomes dos personagens destacados de suas
-falas, com instruções do movimento que os atores deverão fazer ao
-encenar.
-
-\num{0} Qual é a voz que fala no texto "Barcos de papel", apresentado na
-questão 8? Justifique. (3 linhas)
-
-A voz que fala no texto é a do narrador, pois ele apresenta o espaço, o
-tempo e os personagens da história para o leitor.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{4}
+\coment{A voz que fala no texto é a do narrador, pois ele apresenta o espaço e o
+tempo da narrativa. Trata-se de um poema épico.}
 
 \colorsec{Treino}
 
-**Texto para as questões 1 e 2.**
+Leia o texto a seguir e responda às questões 1 e 2.
 
-**Caramelo**
-
+>**Caramelo**
+>
 No café
-
+>
 A xícara de expresso esfriava
-
+>
 Nessas raras tardes elegantes
-
+>
 Do Rio de Janeiro
-
+>
 Quando não estamos
-
+>
 Ensopados de suor
-
+>
 Uma brisa fria do mar
 
+>
 Fazia o vapor desvanecer
-
+>
 Minha boca adocicada
-
+>
 Pelo *petit four*
-
+>
 Aguardava com ânsia
-
+>
 Um caramelo
 
+>
 Quando esse caramelo
-
+>
 Adoçou minha boca
-
+>
 Os prazeres do café
-
+>
 E do *petit four*
-
+>
 Foram subestimados
 
+>
 Um caramelo viçoso
-
+>
 Encolhe-se ao vento frio
-
+>
 E pede abrigo
-
+>
 Em minha boca
 
-LIMA, Nelson. Disponível em:
-http://dominiopublico.mec.gov.br/download/texto/ea000321.pdf. Acesso em:
-23 mar. 2023 (fragmento).
 
-\num{1}
+>\[...]
 
-O recurso empregado na descrição da experiência vivida na cena do poema
+\fonte{Nelson Lima. *Poetas devem jogar poemas no lixo*. Disponível em:
+_http://dominiopublico.mec.gov.br/download/texto/ea000321.pdf_. Acesso em:
+23 mar. 2023.}
+
+\num{1} O recurso empregado na descrição da experiência vivida na cena do poema
 é o apelo
 
 a\) moral, refletindo valores.
@@ -1273,25 +872,20 @@ c\) crítico, refletindo uma opinião.
 
 d\) humorístico, refletindo um estado de espírito.
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
-
-BNCC: EF69LP44
+BNCC: EF69LP44 -- Inferir a presença de valores sociais, culturais e humanos e de diferentes visões de mundo, em textos literários, reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre as identidades, sociedades e culturas e considerando a autoria e o contexto social e histórico de sua produção.
 
 \(A\) Incorreta. O apelo moral não está presente no poema.
 
 \(B\) Correta. O apelo sensorial está presente no poema por meio de
-referências à sensação térmica no Rio de Janeiro, à temperatura e
-degustação do café, ao paladar ("boca adocicada"), ao sabor doce do
-caramelo e à própria boca.
+referências à sensação térmica no Rio de Janeiro, à temperatura e à degustação do café, ao paladar ("boca adocicada"), ao sabor doce do caramelo e à própria boca.
 
 \(C\) Incorreta. O apelo crítico não está presente no poema.
 
 \(D\) Incorreta. O apelo humorístico não está presente no poema.
 
-\num{2}
-
-Qual visão de mundo já abordada por diferentes filósofos está implícita
+\num{2} Que visão de mundo já abordada por diferentes filósofos está implícita
 no poema?
 
 a\) A verdadeira felicidade está nas coisas mais simples da vida.
@@ -1304,44 +898,40 @@ sabedoria.
 d\) Felicidade é como uma borboleta: quanto mais se tenta apanhá-la,
 mais ela se afasta de você.
 
-Saeb: Analisar a intertextualidade entre textos literários ou entre
+SAEB: Analisar a intertextualidade entre textos literários ou entre
 estes e outros textos verbais ou não verbais.
-
-BNCC: EF89LP32
+BNCC: EF89LP32 -- Analisar os efeitos de sentido decorrentes do uso de mecanismos de
+intertextualidade (referências, alusões, retomadas) entre os textos literários, entre esses textos literários e outras manifestações artísticas (cinema, teatro, artes visuais e midiáticas, música), quanto aos temas, personagens, estilos, autores etc., e entre o texto original e paródias, paráfrases, pastiches, trailer honesto, vídeos-minuto, vidding, dentre outros.
 
 \(A\) Correta. O eu lírico exalta o momento em que toma café expresso
-com caramelo numa tarde do Rio de Janeiro, a qual ele considera rara e
-que, por isso mesmo, se torna um momento de degustação e deleite. Isso
-comprova que o eu lírico valoriza coisas simples como um simples café
-com caramelo.
+com caramelo em uma tarde do Rio de Janeiro, a qual ele considera rara, que, por isso mesmo, se torna um momento de degustação e deleite. Isso comprova que o eu lírico valoriza coisas simples como um singelo café com caramelo.
 
-\(B\) Incorreta. O poema descreve as sensações de um momento específico
+\(B\) Incorreta. O poema descreve as sensações de um momento específico,
 e não pensamentos.
 
-\(C\) Incorreta. O poema descreve as sensações de um momento específico
+\(C\) Incorreta. O poema descreve as sensações de um momento específico,
 e não a saúde ou a sabedoria.
 
-\(D\) Incorreta. O poema descreve as sensações de um momento específico
+\(D\) Incorreta. O poema descreve as sensações de um momento específico,
 e não a busca da felicidade.
 
-\num{3}
+\num{3} Leia o texto.
 
-**Smita**
+>**Smita**
 
-Smita acorda com uma estranha sensação, uma suave urgência, um inédito
+>Smita acorda com uma estranha sensação, uma suave urgência, um inédito
 frio na barriga. Hoje é um dia que ela irá lembrar para o resto da vida.
 Hoje, sua filha vai entrar para a escola.
 
-Na escola, Smita nunca pôs os pés. Aqui, em Badlapur, gente como ela não
-vai à escola. Smita é uma *dalit.* Uma intocável. Desses que Ghandi
+>Na escola, Smita nunca pôs os pés. Aqui, em Badlapur, gente como ela não
+vai à escola. Smita é uma *dalit*. Uma intocável. Desses que Ghandi
 chamava de filhos de Deus. Fora das castas, fora do sistema, fora de
 tudo. Uma espécie à parte, julgada impura demais para se misturar com as
 outras, uma ralé indigna da qual as pessoas cuidadosamente se afastam,
 como separar o joio do trigo. Como Smita, eles são milhões a viver fora
 das aldeias, da sociedade, na periferia da humanidade.
 
-COLOMBANI, Laetitia. *A trança*. 1.ed. São Paulo: Intrínseca, 2021
-(fragmento).
+\fonte{Laetitia Colombani. *A trança*. São Paulo: Intrínseca, 2021.}
 
 A narrativa retrata uma sociedade que discrimina a personagem devido a
 
@@ -1353,32 +943,38 @@ c\) seu gênero, sendo proibida de frequentar a escola por ser mulher.
 
 d\) sua religião, sendo considerada herege por servir a outros deuses.
 
-Saeb: Inferir a presença de valores sociais, culturais e humanos em
+SAEB: Inferir a presença de valores sociais, culturais e humanos em
 textos literários.
+BNCC: EF69LP44 -- Inferir a presença de valores sociais, culturais e humanos e de diferentes visões de mundo, em textos literários, reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre as identidades, sociedades e culturas e considerando a autoria e o contexto social e histórico de sua produção.
 
-BNCC: EF69LP44
-
-\(A\) Correta. A personagem é discrimina por sua origem social, pois ela
+\(A\) Correta. A personagem é discriminada por sua origem social, pois ela
 é uma *dalit*, um grupo social excluído da sociedade indiana o qual não
 participa sequer do sistema de castas, conforme diz a narrativa.
 
 \(B\) Incorreta. A personagem é discriminada por ser uma *dalit,* um
 grupo social excluído da sociedade na Índia. O fato de ela ter uma filha
 não é mencionado como causa da discriminação sofrida, mesmo porque não é
-possível, no trecho, saber se é mãe solteira.
+possível, no trecho, saber se é mãe solo.
 
 \(C\) Incorreta. O gênero da personagem, inicialmente, parece ter
 relação com a proibição de ir à escola, mas a narrativa logo esclarece
 que todo o grupo social dos *dalits*, do qual ela faz parte, vive à
 margem da sociedade.
 
-\(D\) Incorreta. O texto cita uma fala de Gandhi sobe os *dalits* serem
-filhos de Deus, mas isso não é mencionado com objetivo de situá-los em
+\(D\) Incorreta. O texto cita uma fala de Gandhi sobre os *dalits* serem
+filhos de Deus, mas isso não é mencionado com o objetivo de situá-los em
 alguma religião. O texto não cita a religião desse grupo social.
 
 # Módulo 4 
 
- ** -- **AS DIFERENTES VOZES DE UM TEXTO**
+ **As diferentes vozes de um texto**
+ 
+ \colorsec{Habilidades da BNCC}
+ - Analisar efeitos de sentido produzido pelo uso de formas de apropriação textual (paráfrase, citação etc.).
+- Analisar os efeitos de sentido decorrentes dos mecanismos de construção de textos jornalísticos/midiáticos.
+
+\colorsec{Habilidades da BNCC}
+- EF69LP16, EF69LP43, EF89LP05.
 
 Todo texto traz a voz do autor que o escreveu, mas também as vozes de
 terceiros que o autor mobiliza para confirmar, reforçar, corroborar,
@@ -1386,10 +982,10 @@ refutar as ideias e informações que apresenta em seu texto. Essas outras
 vozes podem revelar visões de mundo, ideologias, concepções, argumentos,
 dizeres, pontos de vista.
 
-As diferentes vozes presentes num texto podem ser marcadas de forma
+As diferentes vozes presentes em um texto podem ser marcadas de forma
 explícita, quando são identificáveis na superfície do texto, ou de forma
 implícita, quando não podem ser imediatamente identificadas. Dois
-procedimentos linguísticos bem comuns de demarcar a presença explícita
+procedimentos linguísticos bem comuns para demarcar a presença explícita
 de diferentes vozes num texto são a citação (discurso direto) e a
 paráfrase (discurso indireto), muito comuns em textos de divulgação
 científica. Outro procedimento menos explícito é o uso, por exemplo, do
@@ -1405,12 +1001,12 @@ veículo de informação por aquele dizer. No jornalismo, esse recurso pode
 também ter o objetivo de manter um dizer no campo hipotético. Por sua
 vez, os artigos de opinião e os textos publicitários podem recorrer a
 frases de efeito que expressem o sentido de consenso para convencer o
-leitor. Imaginemos, por exemplo, a frase "As crianças são o futuro da
-nação" num texto de propaganda política em que o objetivo seja convencer
-o eleitor.
+leitor.
 
-Vejamos, no quadro a seguir, alguns exemplos dos procedimentos
-linguísticos que demarcam as vozes presentes num texto.
+Imaginemos, por exemplo, a frase "As crianças são o futuro da
+nação" em um texto de propaganda política em que o objetivo seja convencer
+o eleitor. Vejamos, no quadro a seguir, alguns exemplos dos procedimentos
+linguísticos que demarcam as vozes presentes em um texto.
 
 +----------------------------------+----------------------------------+
 | **Mecanismo de introdução de     | **Exemplo**                      |
@@ -1418,179 +1014,146 @@ linguísticos que demarcam as vozes presentes num texto.
 +==================================+==================================+
 | Discurso direto                  | Para o presidente, a internet    |
 |                                  | trouxe "resultados               |
-|                                  | extraordinários" para a economia |
-|                                  | global e para as sociedades.     |
-|                                  | (Agência Brasil, 22 fev. 2023)   |
+|                                  | extraordinários para a economia  |
+|                                  | global e para as sociedades".    |
 +----------------------------------+----------------------------------+
-|                                  | Entrevistador: O que você julga  |
-|                                  | ser mais importante na música?   |
-|                                  | Dinheiro ou contatos?            |
-|                                  |                                  |
-|                                  | Entrevistado: Os contatos são    |
-|                                  | muito importantes para quem está |
-|                                  | começando. É a oportunidade que  |
-|                                  | abre caminhos e portas. \[\...\] |
-+----------------------------------+----------------------------------+
-| Discurso indireto (paráfrase)    | Lula afirma que as plataformas   |
+| Discurso indireto (paráfrase)    | O presidente afirma que as plataformas   |
 |                                  | digitais definiram a maneira     |
 |                                  | como as pessoas se comunicam, se |
 |                                  | relacionam e como consomem       |
-|                                  | produtos e serviços. (Agência    |
-|                                  | Brasil, 22 fev. 2023)            |
+|                                  | produtos e serviços.             |
 +----------------------------------+----------------------------------+
-| Discurso indireto livre (junção  | Enlameado até a cintura,         |
-| dos discursos direto e indireto) | Tiãozinho cresce de ódio. Se     |
-|                                  | pudesse matar o carreiro\...     |
-|                                  | Deixa eu crescer!\... Deixa eu   |
-|                                  | ficar grande!\... Hei de dar     |
-|                                  | conta deste danisco\... Se uma   |
-|                                  | cobra picasse seu Soronho\...    |
-|                                  | Tem tanta cascavel nos           |
-|                                  | pastos\... Tanta urutu, perto de |
-|                                  | casa\... se uma onça comesse o   |
-|                                  | carneiro, de noite\... Um onção  |
-|                                  | grande, da pintada\... Que       |
-|                                  | raiva!\... (Guimarães Rosa,      |
-|                                  | *Sagarana*).                     |
-+----------------------------------+----------------------------------+
-| Outros marcadores de discurso    | De acordo com prefeitura, os     |
+| Outros marcadores de discurso    | De acordo com a prefeitura, os   |
 | indireto: "segundo", "de acordo  | turistas gastaram 17 vezes mais  |
 | com", "para"                     | que os residentes da capital     |
 |                                  | paulista durante o Carnaval      |
-|                                  | 2023. (Agência Brasil, 27 fev.   |
-|                                  | 2023)                            |
+|                                  | de 2023.                         |
 +----------------------------------+----------------------------------+
 | Futuro do pretérito              | Ossos encontrados em sítio       |
 |                                  | arqueológico brasileiro seriam   |
 |                                  | de um homem pré-histórico.       |
-|                                  | (Manchete de jornal)             |
 +----------------------------------+----------------------------------+
-| Afirmações de consenso           | Os jovens são o futuro da nação. |
-+----------------------------------+----------------------------------+
-| Linguagem característica de      | "Bora votar este ano, galera!!!  |
-| grupos sociais                   | Bora participar do               |
-|                                  | \#RolêdasEleições -- twittaço    |
-|                                  | promovido pelo \@TSE hoje para   |
-|                                  | conscientizar os jovens sobre a  |
-|                                  | importância do voto."            |
-|                                  | (Propaganda promovida pela       |
-|                                  | Justiça Eleitoral)               |
-+----------------------------------+----------------------------------+
-
-[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]{.underline}
 
 \colorsec{Atividades}
 
-**Texto para as questões de 1 a 7.**
+Leia o texto a seguir para resolver as atividades de 1 a 7.
 
-**TEXTO I**
+>**Bora Votar! Conheça a nova campanha para o eleitorado jovem**
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image5.jpg){width="2.8958333333333335in"
-height="2.8958333333333335in"}
+>Se você faz 16 anos antes das próximas eleições, tire seu título eleitoral na internet e “Bora Votar!”. A nova campanha nacional criada pela Secretaria de Comunicação do Tribunal Superior Eleitoral (TSE) com foco no eleitorado jovem estreia nesta segunda-feira (13) nas emissoras de televisão e rádio de todo o país.
 
-Tribunal Regional Eleitoral de Santa Catarina (TRE-SC), 16 mar. 2022.
-Disponível em:
-https://twitter.com/TRESCjusbr/status/1504085069098536961/photo/1.
+>\[...]
 
-Acesso em: 13 mar. 2023 (adaptado).
+>Com o conceito “Bora Votar. Eu vou porque eu posso”, a campanha incentiva o alistamento eleitoral e o voto consciente dos jovens de 16 e 17 anos, que, mesmo não sendo obrigados a votar, podem participar do processo eleitoral e escolher seus representantes nos Poderes Executivo e Legislativo.
 
-\num{1} Quem é o autor dessa postagem publicada no Twitter? (2 linhas)
+>O objetivo da ação é estimular o interesse dessa faixa etária em participar da vida política e conscientizá-los sobre o potencial que o voto tem de mudar a realidade do país. A campanha transmite a mensagem de que o Brasil pertence a toda a população brasileira e que os jovens podem fazer a diferença por meio do voto.
 
-O autor é o órgão de serviço público TRE (Tribunal Regional Eleitoral),
-a serviço da Justiça Eleitoral.
+>A campanha destaca que votar é um exercício de cidadania que fortalece a democracia. Segundo a iniciativa do TSE, ao votar, a cidadã e o cidadão podem ajudar a mudar o futuro da cidade, do estado, do país. “Portanto, não permita que outras pessoas decidam por você. Por isso, vote porque você pode, vote porque você quer, vote porque você se importa. Não deixe de emitir sua opinião”, alerta a ação.
 
-\num{2} A postagem é destinada a qualquer pessoa ou a um público
-específico? (2 linhas)
+>O vídeo da campanha foi protagonizado por jovens atrizes e atores negros, pardos, indígenas e brancos, retratados em situações cotidianas, indo ao encontro de um dos objetivos da Justiça Eleitoral em suas ações de comunicação: representar a diversidade da população brasileira.
 
-A publicação é destinada a um público específico.
+>\[...]
 
-\num{3} Aponte quem é o provável público-alvo da postagem. (3 linhas)
+\fonte{Tribunal Superior Eleitoral. Bora Votar! Conheça a nova campanha para o eleitorado jovem. Disponível em: _https://www.tse.jus.br/comunicacao/noticias/2021/Setembro/bora-votar-conheca-a-nova-campanha-para-o-eleitorado-jovem_. Acesso em: 17 maio 2023.}
 
-O público-alvo são jovens em geral e jovens cuja idade ainda não obriga
+\num{1} Quem é o autor do texto e por que essa autoria é relevante ao se considerar o teor do texto?
+
+\linhas{4}
+\coment{O texto foi escrito e publicado pelo TSE (Tribubal Superior Eleitoral), o que é relevante porque o assunto do texto é justamente o incentivo a novos eleitores.}
+
+\num{2} A campanha mencionada é destinada a qualquer pessoa ou a um público específico?
+
+\linhas{2}
+\coment{A campanha é destinada a um público específico.}
+
+\num{3} Aponte quem é o provável público-alvo da campanha.
+
+\linhas{4}
+\coment{O público-alvo são jovens em geral e jovens cuja idade ainda não obriga
 ao voto, mas que já podem votar e ainda não fizeram seu título de
-eleitor.
+eleitor.}
 
-\num{4} Aponte a finalidade comunicativa do texto. (5 linhas)
+\num{4} Aponte a finalidade comunicativa da campanha mencionada.
 
-A finalidade comunicativa convidar os jovens para fazerem seu título de
-eleitor por meio de um aplicativo e incentivá-los a exercer seu direito
-de voto.
+\linhas{4}
+\coment{A finalidade comunicativa é convidar os jovens para fazerem seu título de
+eleitor e incentivá-los a exercer seu direito de voto.}
 
-\num{5} A voz predominante no texto da postagem é condizente com o
-público-alvo e a finalidade comunicativa? Justifique. (5 linhas)
+\num{5} A voz evocada pelo conceito da campanha é condizente com o
+público-alvo e a finalidade comunicativa? Justifique sua resposta.
 
-A voz predominante é condizente com ambos, público e finalidade
+\linhas{6}
+\coment{Essa voz é condizente com os dois fatores, público e finalidade
 comunicativa, pois retratam um jovem dialogando com seus pares por meio
-de linguagem típica da idade.
+de linguagem típica da idade.}
 
-\num{6} Duas vozes diferentes podem ser identificadas no texto da
-postagem. Transcreva o único trecho que corresponde à voz específica do
-autor em questão. (2 linhas)
+\num{6} Releia o trecho destacado a seguir.
 
-"Use o Título Net para fazer seu título de eleitor on-line."
+>“Portanto, não permita que outras pessoas decidam por você. Por isso, vote porque você pode, vote porque você quer, vote porque você se importa. Não deixe de emitir sua opinião”, alerta a ação.
 
-\num{7} Se a voz predominante fosse a do autor em questão,
-considerando-se a seriedade que normalmente se espera dele, a postagem
-teria o mesmo efeito sobre o público-alvo? Justifique. (6 linhas)
+Como você caracteriza o tom dessa mensagem em relação à campanha como um todo?
 
-A postagem elaborada com a seriedade que se espera do autor não teria o
+\linhas{6}
+\coment{Ao contrário do conceito da campanha, que é mais informal e mais ligado à fala dos jovens, essa mensagem é mais formal e mais séria, justamente porque o assunto da camapanha merece muita atenção e desperta muita relevância.}
+
+\num{7} Se a voz predominante for a da mensagem analisada na atividade anterior,
+considerando-se a seriedade que normalmente se espera do autor do texto, a campanha
+teria o mesmo efeito sobre o público-alvo? Justifique sua resposta.
+
+\linhas{8}
+\coment{A campanha elaborada com a seriedade que se espera do autor não teria o
 mesmo efeito sobre o público-alvo, pois assim estaria desconsiderando o
 leitor que pretende alcançar, o que resultaria no uso de uma linguagem
 distante do universo dessas pessoas e que não contribuiria para que esse
-público se reconhece ali e aderisse à causa.
+público se reconhecesse ali e aderisse à causa.}
 
-**Texto para as questões de 8 a 10.**
+Leia o texto a seguir para resolver as atividades de 8 a 10.
 
-**TEXTO II**
+>**O menino e a maçã**
 
-Um menino de quatro anos de idade estava comendo uma maçã, sentado no
+>Um menino de quatro anos de idade estava comendo uma maçã, sentado no
 banco de trás do carro, quando perguntou:
 
--- Papai, por que a minha maçã está ficando marrom?
+>--- Papai, por que a minha maçã está ficando marrom?
 
--- Porque -- o pai explicou -- depois de você comer a casca, a polpa do
+>--- Porque --- o pai explicou ---, depois de você comer a casca, a polpa do
 fruto começa a entrar em contato com o ar, o que faz com que oxide,
 alterando assim a estrutura molecular e tornando sua cor diferente.
 
-Houve um longo silêncio. Em seguida, o filho perguntou baixinho:
+>Houve um longo silêncio. Em seguida, o filho perguntou baixinho:
 
--- Papai, você está falando comigo?
+>--- Papai, você está falando comigo?
 
-Disponível em:
-https://download.inep.gov.br/educacao\_basica/enem/provas/2014/2014\_PPL\_PV\_D2\_CD6.pdf.
-
-Acesso em: 23 mar. 2023 (tradução nossa).
+\fonte{Tradução feita para este material. O texto original está disponível em: _http://hayspost.com_. Acesso em: 17 maio 2023.}
 
 \num{8} Além das vozes do menino e do pai, qual é a outra voz que pode
-ser identificada na fala do pai? (2 linhas)
+ser identificada na fala do pai?
 
-A voz que pode ser identificada na fala do pai é a voz da ciência ou do
-discurso científico.
+\linhas{2}
+\coment{A voz que pode ser identificada na fala do pai é uma voz do discurso científico.}
 
 \num{9} Justifique o longo silêncio que houve após a explicação do pai.
-(4 linhas)
 
-O longo silêncio que houve após a explicação do pai ocorreu porque a
-criança não compreendeu a explicação dada por ele.
+\linhas{4}
+\coment{O longo silêncio que houve após a explicação do pai ocorreu porque a
+criança não compreendeu a explicação dada por ele.}
 
-\num{0} Relacione o longo silêncio à voz mobilizada na explicação do
-pai. (4 linhas)
+\num{10} Relacione o longo silêncio à voz mobilizada na explicação do
+pai.
 
-A voz mobilizada pelo pai é desconhecida do menino, por empregar
+\linhas{6}
+\linhas{A voz mobilizada pelo pai é desconhecida para o menino, por empregar
 linguagem e vocabulário técnicos do ramo científico, algo distante da
 realidade de uma criança de quatro anos, o que fez com que ela se
-calasse e até tivesse dúvida se o pai ainda estava no diálogo.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+calasse e até tivesse dúvida se o pai estava de fato se dirigindo a ela.}
 
 \colorsec{Treino}
 
-**Texto para as questões 1 e 2.**
+Leia o texto a seguir para responder às questões 1 e 2.
 
-**Galinha cega**
+>**Galinha cega**
 
-O dono correu atrás de sua branquinha, agarrou-a, lhe examinou os olhos.
+>O dono correu atrás de sua branquinha, agarrou-a, lhe examinou os olhos.
 Estavam direitinhos, graças a Deus, e muito pretos. Soltou-a no terreiro
 e lhe atirou mais milho. A galinha continuou a bicar o chão
 desorientada. Atirou ainda mais, com paciência, até que ela se fartasse.
@@ -1600,18 +1163,17 @@ aquilo, meu Deus do céu? Se fosse efeito de uma pedrada na cabeça e se
 soubesse quem havia mandado a pedra, algum moleque da vizinhança, aí...
 Nem por sombra imaginou que era a cegueira irremediável que principiava.
 
-Também a galinha, coitada, não compreendia nada, absolutamente nada
+>Também a galinha, coitada, não compreendia nada, absolutamente nada
 daquilo. Por que não vinham mais os dias luminosos em que procurava a
 sombra das pitangueiras? Sentia ainda o calor do sol, mas tudo quase
 sempre tão escuro. Quase que já não sabia onde é que estava a luz, onde
 é que estava a sombra.
 
-GUIMARAENS, J. A*. Contos e novelas*. Rio de Janeiro: Imago, 1976
-(fragmento).
+>\[...]
 
-\num{1}
+J. A. Guimaraens. *Contos e novelas*. Rio de Janeiro: Imago, 1976.
 
-No texto, emprega-se uma técnica narrativa de gerenciamento de vozes em
+\num{1} No texto, emprega-se uma técnica narrativa de gerenciamento de vozes em
 que
 
 a\) a voz do narrador silencia as vozes dos personagens.
@@ -1622,28 +1184,22 @@ c\) as vozes dos personagens perdem sua importância expressiva.
 
 d\) as vozes dos personagens são introduzidas por sinais gráficos.
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
+SAEB: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras vozes no texto – citação literal e sua formatação e paráfrase –, as pistas linguísticas responsáveis por introduzir no texto a posição do autor e dos outros autores citados (“Segundo X; De acordo com Y; De minha/nossa parte, penso/amos que”...) e os elementos de normatização (tais como as regras de inclusão e formatação de citações e paráfrases, de organização de referências bibliográficas) em textos científicos, desenvolvendo reflexão sobre o modo como a intertextualidade e a retextualização ocorrem nesses textos.
 
-BNCC: EF69LP43
-
-\(A\) Incorreta. As vozes dos personagens estão presentes no texto,
+\(A\) Incorreta. As vozes dos personagens estão presentes no texto;
 apenas não estão marcadas graficamente, por se tratar de discurso
 indireto livre.
-
 \(B\) Correta. A técnica narrativa empregada é o discurso indireto
 livre, caracterizado por não marcar graficamente as vozes dos
 personagens, inserindo-as dentro da voz do narrador.
-
 \(C\) Incorreta. As vozes das personagens mantêm sua importância
 expressiva, embora estejam inseridas na voz do narrador.
-
 \(D\) Incorreta. Os sinais gráficos de marcação do discurso direto, como
 travessão e aspas, não são usados no discurso indireto livre.
 
-\num{2}
-
-Analisando a técnica narrativa de gerenciamento de vozes empregada no
+\num{2} Analisando-se a técnica narrativa de gerenciamento de vozes empregada no
 texto, infere-se que o narrador
 
 a\) omite as angústias dos personagens.
@@ -1654,10 +1210,9 @@ c\) conhece os pensamentos dos personagens.
 
 d\) manipula e altera as falas dos personagens.
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
+SAEB: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
-
-BNCC: EF89LP05
+BNCC: EF89LP05 -- Analisar o efeito de sentido produzido pelo uso, em textos, de recurso a formas de apropriação textual (paráfrases, citações, discurso direto, indireto ou indireto livre).
 
 \(A\) Incorreta. As angústias do menino e da galinha são claramente
 perceptíveis nos trechos que marcam a presença de suas vozes no texto.
@@ -1679,22 +1234,26 @@ por eles.
 vozes do menino e da galinha tal como são ditas ou pensadas, embora não
 estejam marcadas graficamente como discurso direto.
 
-\num{3}
+\num{3} Leia o texto.
 
-**POPline**: Quando vocês \[Nando Reis e Pitty\] tiveram a ideia de sair
+>**ENTREVISTA: a simbiose afetuosa de Pitty e Nando Reis em nova turnê**
+
+>\[...]
+
+>**POPline**: Quando vocês \[Nando Reis e Pitty\] tiveram a ideia de sair
 em turnê juntos? Foi papo de empresário ou partiu de vocês?
 
-**Nando**: Então, na verdade não foi um papo de empresário coisa
-nenhuma, foi uma ideia nossa. Começou há um ano e meio. Ela publicou um
-vídeo dela cantando "Relicário". Eu fiquei super emocionado. Começamos a
+
+>**Nando**: Então, na verdade não foi um papo de empresário coisa
+nenhuma. Foi uma ideia nossa. Começou há um ano e meio. Ela publicou um
+vídeo dela cantando "Relicário". Eu fiquei superemocionado. Começamos a
 conversar. Eu fiz um convite pra fazer o dueto \["Um tiro no coração"\]
 e imediatamente ela topou, mas falou "eu quero mais". E daí pintou a
 ideia de fazer a turnê em que estamos trabalhando há um ano e tanto.
 
-Disponível em:
-https://portalpopline.com.br/entrevista-simbiose-pitty-nando-reis-nova-turne/.
+>\[...]
 
-Acesso em: 18 mar. 2023 (fragmento adaptado).
+\fonte{Douglas Françoza. POPline. ENTREVISTA: a simbiose afetuosa de Pitty e Nando Reis em nova turnê. Disponível em: _https://portalpopline.com.br/entrevista-simbiose-pitty-nando-reis-nova-turne/_. Acesso em: 18 mar. 2023.}
 
 O gênero entrevista se caracteriza pela alternância das vozes do
 entrevistador e do entrevistado. No texto transcrito, essa
@@ -1712,10 +1271,9 @@ artistas.
 d\) afastar do entrevistador a responsabilidade pelas opiniões do
 entrevistado.
 
-Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
+SAEB: Analisar os efeitos de sentido decorrentes dos mecanismos de
 construção de textos jornalísticos/midiáticos.
-
-BNCC: EF89LP05
+BNCC: EF89LP05 -- Analisar o efeito de sentido produzido pelo uso, em textos, de recurso a formas de apropriação textual (paráfrases, citações, discurso direto, indireto ou indireto livre).
 
 \(A\) Incorreta. A análise da entrevista mostra que o nível de
 formalidade entre os participantes foi baixo, o que se percebe pelo
@@ -1733,266 +1291,194 @@ por pessoas muito próximas a ele, pois estão no universo de sua vida
 privada.
 
 \(D\) Incorreta. A entrevista não traz perguntas que exijam emissão de
-opinião, trata-se de assunto do cotidiano dos artistas.
+opinião; trata-se de assunto do cotidiano dos artistas.
 
 # Módulo 5 
 
- ** -- **FATO E OPINIÃO: OBJETIVIDADE E SUBJETIVIDADE**
+ **Objetividade e subjetividade**
+ 
+\colorsec{Habilidades do SAEB}
+- Inferir informações implícitas em distintos textos.
+- Distinguir fatos de opiniões em textos.
 
 Nem sempre fato e opinião são facilmente diferenciados em textos. Muitas
 vezes, para distinguir entre eles, é necessário reconhecer o gênero
 textual e suas características predominantes. Numa notícia, por exemplo,
 espera-se encontrar mais fatos do que opiniões, pois imparcialidade e
-objetividade são predominantes nesse gênero textual jornalístico. Por
+objetividade devem ser predominantes nesse gênero textual jornalístico. Por
 outro lado, ainda no campo jornalístico, o gênero reportagem, por
-aprofundar-se mais num assunto ou fato, é mais flexível à opinião de
+aprofundar-se mais em um assunto, é mais flexível à opinião de
 quem escreve, permitindo a coexistência de fato e opinião no mesmo
 texto, assim como ocorre em textos dos gêneros textuais argumentativos.
 
-Segundo o dicionário on-line Michaelis, a palavra "fato" tem os
-seguintes significados:
+Segundo dicionário da língua portuguesa, fato é:
 
-\num{1} Evento de cuja ocorrência se tem conhecimento, ou coisa cuja
-existência não se põe em dúvida;
+* evento de cuja ocorrência se tem conhecimento, ou coisa cuja existência não se põe em dúvida;
+* tudo aquilo que acontece por ação do homem ou em decorrência de eventos exteriores ou naturais, que independem da vontade humana; acontecido, acontecimento, ocorrência;
+* Algo cuja existência é inquestionável; realidade, verdade.
 
-\num{2} Tudo aquilo que acontece por ação do homem ou em decorrência de
-eventos exteriores ou naturais, que independem da vontade humana;
-acontecido, acontecimento, ocorrência;
+Por sua vez, os mesmos dicionários trazem que opinião é:
 
-\num{3} Algo cuja existência é inquestionável; realidade, verdade.
-
-Por sua vez, o mesmo dicionário traz os seguintes significados para
-"opinião":
-
-\num{1} Modo de pensar, de julgar, de ver;
-
-\num{2} Ponto de vista ou posição tomada sobre assunto em particular
-(social, político, religioso etc.);
-
-\num{3} Parecer emitido sobre determinado assunto em que muito se refletiu e
-deliberou;
-
-\num{4} Juízo de valor que se faz sobre alguém ou alguma coisa.
+* modo de pensar, de julgar, de ver;
+* ponto de vista ou posição tomada sobre assunto em particular (social, político, religioso etc.);
+* parecer emitido sobre determinado assunto em que muito se refletiu e deliberou;
+* juízo de valor que se faz sobre alguém ou alguma coisa.
 
 Dessa forma, dois conceitos são determinantes para a distinção entre
 fato e opinião: a objetividade e a subjetividade. A opinião se
 caracteriza pela subjetividade, isto é, o ponto vista do sujeito, sua
 visão e impressão pessoal, seus sentimentos sobre um fato. Palavras e
-expressões que sinalizam opinião são, por exemplo, o uso de adjetivos e
-advérbios ou de expressões avaliativas. O fato, por outro lado,
+expressões que sinalizam opinião são, por exemplo, os adjetivos e os advérbios ou expressões avaliativas. O fato, por outro lado,
 caracteriza-se pela objetividade, ou seja, a realidade dos
 acontecimentos concretos inquestionáveis. Uma marca linguística da
 objetividade é a presença do sentido literal das palavras e a ausência
 de adjetivos e advérbios que sinalizem pontos de vista.
 
-Para finalizar, vejamos dois exemplos que ilustram fato e opinião. Neles
-é possível perceber que a opinião pode ser construída por meio da adição
-elementos linguísticos dispensáveis para a compreensão básica da frase,
+Vejamos dois exemplos que ilustram fato e opinião. Com eles,
+é possível perceber que a opinião pode ser construída por meio da adição de elementos linguísticos dispensáveis para a compreensão básica da frase,
 o que facilita, em alguns casos, a diferenciação entre fato e opinião.
 
-Exemplo 1 (fato): UM ACIDENTE OCORREU NA MANHÃ DE ONTEM.
-
-Exemplo 2 (opinião): UM TRÁGICO ACIDENTE QUE OCORREU NA MANHÃ DE ONTEM
-PODERIA TER SIDO EVITADO.
-
-Quando falamos em "elementos linguísticos dispensáveis" nos exemplos
-apresentados, estamos nos referindo ao aspecto sintático das frases.
-Isso significa que a eliminação das marcas linguísticas avaliativas
-presentes no exemplo 2 não gera prejuízo sintático para a frase, que,
-nesse caso, deixa o status de opinião e passa ao status de fato, como no
-exemplo 1. Essas marcas linguísticas são, portanto, acessórias. A
-percepção disso fica mais fácil quando destacamos os termos dispensáveis
-na frase: Um [trágico]{.underline} acidente [que]{.underline} ocorreu na
-manhã de ontem [poderia ter sido evitado]{.underline}.
-
-Fato e opinião podem estar presentes, simultaneamente ou isoladamente,
-em quaisquer gêneros textuais e domínios discursivos, em maior ou menor
-grau. Os dois gêneros jornalísticos mencionados, notícia e reportagem,
-são apenas exemplares de textos do mesmo domínio discursivo que,
-entretanto, se diferenciam pela liberdade do autor na abordagem do
-assunto.
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+Fato: Um acidente ocorreu na manhã de ontem.
+Opinião: Um trágico acidente que ocorreu na manhã de ontem poderia ter sido evitado.
 
 \colorsec{Atividades}
 
-**Texto para as questões de 1 a 4.**
+Leia a manchete a seguir para resolver as atividades de 1 a 4.
 
-**TEXTO I**
+>**O impacto da tragédia das chuvas no turismo do litoral Norte de SP**
+>*Estradas fechadas, praias interditadas e dezenas de mortes. No cenário de caos, consumidores tiveram que cancelar ou remarcar a hospedagem em pousadas da região*
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image6.png){width="5.905555555555556in"
-height="1.1381944444444445in"}
+\fonte{Luciana Atheniense. Estado de Minas. O impacto da tragédia das chuvas no turismo do litoral Norte de SP. Disponível em: _https://www.em.com.br/app/colunistas/luciana-atheniense/2023/02/27/interna\_luciana\_atheniense,1462512/o-impacto-da-tragedia-das-chuvas-no-turismo-do-litoral-norte-de-sp.shtml_. Acesso em: 01 mar. 2023.}
 
-Disponível em:
-https://www.em.com.br/app/colunistas/luciana-atheniense/2023/02/27/interna\_luciana\_atheniense,1462512/o-impacto-da-tragedia-das-chuvas-no-turismo-do-litoral-norte-de-sp.shtml.
-Acesso em: 01 mar. 2023 (fragmento).
+\num{1} Escreva os fatos e as opiniões que você consegue identificar no texto.
 
-\num{1} Escreva, no quadro a seguir, os fatos e as opiniões que você
-consegue identificar no texto.
-
-  **Fatos**   **Opiniões**
-  ----------- --------------
-              
-
-+----------------------------------+----------------------------------+
-| **Fatos**                        | **Opiniões**                     |
-+==================================+==================================+
-| As chuvas no litoral norte de SP | As chuvas no litoral norte de SP |
-| tiveram impacto no turismo.      | são uma tragédia e causaram um   |
-|                                  | cenário de caos.                 |
-| Houve fechamento de estradas,    |                                  |
-| interdição de praias e dezenas   |                                  |
-| de mortes.                       |                                  |
-|                                  |                                  |
-| Consumidores tiveram que         |                                  |
-| cancelar ou remarcar a           |                                  |
-| hospedagem em pousadas da        |                                  |
-| região.                          |                                  |
-+----------------------------------+----------------------------------+
+\linhas{8}
+\coment{Fatos: as chuvas no litoral norte de São Paulo tiveram impacto no turismo; houve fechamento de estradas, interdição de praias e dezenas de mortes; consumidores precisaram cancelar ou remarcar a hospedagem em pousadas da região. Opinião: as chuvas no litoral norte de São Paulo são uma tragédia e causaram um cenário de caos.}
 
 \num{2} Além de objetividade, o texto apresenta marcas de subjetividade,
 que se manifesta por meio de duas expressões avaliativas específicas.
-Reescreva o texto eliminando essas duas expressões. (5 linhas)
+Reescreva o texto eliminando essas duas expressões.
 
-O impacto das chuvas no turismo do litoral Norte de SP.
-
-Estradas fechas, praias interditadas e dezenas de mortes. Consumidores
-tiveram que cancelar ou remarcar a hospedagem em pousadas da região.
+\linhas{6}
+\coment{O impacto das chuvas no turismo do litoral Norte de SP. Estradas fechadas, praias interditadas e dezenas de mortes. Consumidores tiveram que cancelar ou remarcar a hospedagem em pousadas da região.}
 
 \num{3} Após a reescrita, houve prejuízo para o leitor interessado em
-informar-se dos fatos ocorridos? Justifique. (4 linhas)
+informar-se dos fatos ocorridos? Justifique sua resposta.
 
-A reescrita não trouxe prejuízo para o leitor interessado na informação,
+\linhas{6}
+\coment{A reescrita não trouxe prejuízo para o leitor interessado na informação,
 pois as expressões suprimidas não são factuais, e sim opinativas, sendo,
-portanto, dispensáveis sem prejuízo da informação.
+portanto, dispensáveis sem prejuízo da informação.}
 
 \num{4} Após a reescrita, houve prejuízo para o leitor interessado em
-saber a avaliação do autor sobre os fatos ocorridos? Justifique. (4
-linhas)
+saber a avaliação do autor sobre os fatos ocorridos? Justifique sua resposta.
 
-A reescrita trouxe prejuízo para o leitor que buscou a avaliação do
-autor, pois as expressões suprimidas são opinativas.
+\linhas{6}
+\coment{A reescrita trouxe prejuízo para o leitor que buscou a avaliação do
+autor, pois as expressões suprimidas são opinativas.}
 
-**Texto para as questões de 5 a 10.**
+Leia o texto a seguir para resolver as atividades de 5 a 10.
 
-**TEXTO II**
-
-Nosso pai era homem cumpridor, ordeiro, positivo; e sido assim desde
+>**A terceira margem do rio**
+>
+>Nosso pai era homem cumpridor, ordeiro, positivo; e sido assim desde
 mocinho e menino, pelo que testemunharam as diversas sensatas pessoas,
 quando indaguei a informação. Do que eu mesmo me alembro, ele não
 figurava mais estúrdio nem mais triste do que os outros, conhecidos
 nossos. Só quieto. Nossa mãe era quem regia, e que ralhava no diário com
 a gente -- minha irmã, meu irmão e eu.
 
-ROSA, João Guimarães. A terceira margem do rio. In: ROSA, João
-Guimarães. *Ficção*
-
-*completa*: volume II. Rio de Janeiro: Nova Aguilar, 1994. p. 409-413
-(fragmento).
+\fonte{João Guimarães Rosa. A terceira margem do rio. In: *Ficção completa*: volume II. Rio de Janeiro: Nova Aguilar, 1994.}
 
 \num{5} Qual é o fator principal que interfere na perspectiva do narrador
 em relação ao homem de quem ele fala, tornando-a ainda mais subjetiva?
-(3 linhas)
 
-O fator que interfere na perspectiva do narrador e a torna ainda mais
-subjetiva é sua relação afetiva com o homem de quem ele fala, pois
-trata-se de pai e filho.
+\linhas{4}
+\coment{O fator que interfere na perspectiva do narrador e a torna ainda mais
+subjetiva é sua relação afetiva com o homem de quem ele fala, pois se trata de uma relação de pai e filho.}
 
 \num{6} Para confirmar sua impressão pessoal sobre o homem de quem fala,
-qual foi a iniciativa tomada pelo narrador? (2 linhas)
+qual foi a iniciativa tomada pelo narrador?
 
-O narrador recorreu ao testemunho de pessoas que conhecem seu pai desde
-a juventude.
+\linhas{2}
+\coment{O narrador recorreu ao testemunho de pessoas que conhecem seu pai desde
+a juventude.}
 
 \num{7} A qualidade atribuída pelo narrador aos terceiros de quem ele
-colhe testemunhos influencia a credibilidade deles? Justifique. (3
-linhas)
+colhe testemunhos influencia a credibilidade deles? Justifique sua resposta.
 
-Sim, o narrador caracteriza esses terceiros como "sensatas pessoas" e
+\linhas{6}
+\coment{Sim. O narrador caracteriza esses terceiros como "sensatas pessoas", e
 isso o influencia fortemente a dar credibilidade ao testemunho dessas
-pessoas.
+pessoas.}
 
 \num{8} Em se tratando de um fragmento de narrativa, você consegue
 prever, no desenvolvimento dela, o possível motivo pelo qual o narrador
-tece elogios ao homem e busca o testemunho de terceiros sobre ele? (5
-linhas)
+tece elogios ao homem e busca o testemunho de terceiros sobre ele? 
 
-Resposta pessoal. Uma hipótese de resposta plausível é a que o homem
+\linhas{6}
+\coment{Resposta pessoal. Uma hipótese de resposta plausível é que o homem
 tenha desaparecido sem motivo aparente e o narrador esteja tentando
-entender os motivos por meio de uma análise de perfil.
+entender os motivos por meio de uma análise de perfil.}
 
 \num{9} É possível que o narrador, com base na sua relação com o homem e
 no testemunho das "sensatas pessoas", esteja equivocado sobre ele?
-Justifique. (6 linhas)
+Justifique sua resposta.
 
-Resposta pessoal. Uma hipótese de resposta plausível é a de que o
+\linhas{8}
+\coment{Resposta pessoal. Uma hipótese de resposta plausível é que o
 narrador esteja equivocado, pois pode estar sob influência da relação
 afetiva que tem com o homem, o que pode enviesar sua visão; além disso,
 ele parece ter levado em conta apenas testemunhos condizentes com sua
 opinião, excluindo os demais, pois ele próprio qualifica como "sensatas"
-as pessoas de quem colheu tais testemunhos.
+as pessoas de quem colheu tais testemunhos.}
 
-\num{0} Com a breve descrição que faz da mãe, o narrador constrói, para
+\num{10} Com a breve descrição que faz da mãe, o narrador constrói, para
 o leitor, uma imagem dela oposta a determinado comportamento do homem.
-Explique. (5 linhas)
+Explique como isso se dá.
 
-O pai é descrito como uma pessoa quieta, enquanto a mãe era quem "regia"
+\linhas{6}
+\coment{O pai é descrito como uma pessoa quieta, enquanto a mãe era quem "regia"
 e "ralhava no diário com os filhos". Essas expressões, no contexto,
 denotam que a mãe era atuante no dia a dia com os filhos, enquanto o pai
-era mais passivo.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+era mais passivo.}
 
 \colorsec{Treino}
 
-\num{1}
+\num{1} Leia o texto.
 
-As cianobactérias podem, sob certas condições, crescer com rapidez nos
-cursos d\'água, formando colônias visíveis. A maioria dos casos de
-intoxicação por ingestão desses organismos foi observada após aplicação
-de sulfato de cobre em águas com alta densidade de plâncton vegetal.
-Isso podia ser esperado: a aplicação constante de sulfato de cobre faz
-com que as algas morram e sua parede celular se rompa, liberando as
-toxinas na água. Por isso, atualmente o uso dessa substância como
-desinfetante não é recomendado.
+>**As cianobactérias**
 
-CIÊNCIA HOJE, v. 25, n. 145, dez. 98, p. 33 (fragmento adaptado).
+>Sob determinadas circunstâncias, as cianobactérias podem proliferar rapidamente nos corpos d'água, resultando na formação de colônias visíveis. A maioria dos casos de intoxicação por ingestão desses organismos ocorreu após a aplicação de sulfato de cobre em águas com alta densidade de plâncton vegetal. Isso era previsível, uma vez que a aplicação contínua de sulfato de cobre leva à morte das algas e à ruptura de suas paredes celulares, liberando as toxinas na água. Por esse motivo, o uso dessa substância como desinfetante não é recomendado atualmente.
+
+\fonte{Texto escrito para este material.}
 
 Há traço de opinião em
 
-a\) "Isso podia ser esperado: \[\...\]".
+a\) "Isso era previsível".
 
-b\) "\[\...\] a aplicação constante de sulfato de cobre faz com que as
-algas morram \[\...\]".
+b\) "a aplicação contínua de sulfato de cobre leva à morte das algas".
 
-c\) "As cianobactérias podem, sob certas condições, crescer com rapidez
-nos cursos d\'água \[\...\]".
+c\) "Sob determinadas circunstâncias, as cianobactérias podem proliferar rapidamente nos corpos d'água".
 
-d\) "A maioria dos casos de intoxicação por ingestão desses organismos
-foi observada após aplicação de sulfato de cobre \[\...\]".
+d\) "A maioria dos casos de intoxicação por ingestão desses organismos ocorreu após a aplicação de sulfato de cobre".
 
-Saeb: Distinguir fatos de opiniões em textos.
-
-BNCC: não há correspondência.
+SAEB: Distinguir fatos de opiniões em textos.
 
 \(A\) Correta. O texto é do gênero artigo científico e, como tal,
 privilegia a transmissão de informação com objetividade. Porém, há nele
-um traço sutil de opinião. No trecho "Isso podia ser esperado" avalia o
+um traço sutil de opinião. No trecho "Isso era previsível" avalia o
 fato como uma decorrência óbvia, pois ambos estabelecem entre si uma
 relação necessária de causa e consequência.
-
 \(B\) Incorreta. O trecho expressa um fato.
-
 \(C\) Incorreta. O trecho expressa um fato.
-
 \(D\) Incorreta. O trecho expressa um fato.
 
-\num{2}
+\num{2} Leia o texto.
 
-**Conexão**
+>**Conexão**
 
-Regido por esse despretensioso fluxo de ideias, me sinto tentado a fazer
+>Regido por esse despretensioso fluxo de ideias, me sinto tentado a fazer
 uma parada. Até aqui me fiz tantas perguntas\... Mas será que você,
 leitor, é um jovem em busca de referências? Ou será que você é como eu
 quando adolescente, que queria bater um papo sobre as identidades em
@@ -2000,59 +1486,52 @@ formação, mas sem um viés acadêmico? Só um papo que trouxesse conforto e
 em que eu pudesse me espelhar\... Quando, neste livro, eu sou você? Onde
 nos encontramos? Em nossas semelhanças ou em nossas discordâncias?
 
-RAMOS, Lázaro. *Na minha pele*. 1.ed. Rio de Janeiro: Objetiva, 2017
-(fragmento).
+Lázaro Ramos. *Na minha pele*. Rio de Janeiro: Objetiva, 2017.
 
-A ideia presente no título se concretiza ao longo do texto pelo(a)
+A ideia presente no título se concretiza ao longo do texto
 
-a\) descompasso entre as subjetividades do autor e do leitor.
+a\) pelo descompasso entre as subjetividades do narrador e do leitor.
 
-b\) apresentação de ideias centradas na subjetividade do autor.
+b\) pela apresentação de ideias centradas na subjetividade do narrador.
 
-c\) apresentação de ideias centradas na subjetividade do leitor.
+c\) pela apresentação de ideias centradas na subjetividade do leitor.
 
-d\) busca de interação entre as subjetividades do autor e do leitor.
+d\) pela busca de interação entre as subjetividades do narrador e do leitor.
 
-Saeb: Inferir informações implícitas em distintos textos.
+SAEB: Inferir informações implícitas em distintos textos.
 
-BNCC: não há correspondência
-
-\(A\) Incorreta. O autor busca interagir com o leitor para estabelecer
+\(A\) Incorreta. O narrador busca interagir com o leitor para estabelecer
 com ele a correspondência entre suas vivências, de modo que não se sabe
 se tal intenção provoca semelhanças ou descompasso entre as
-subjetividades de autor e leitor.
-
-\(B\) Incorreta. O autor expõe situações de sua vivência para buscar
+subjetividades de narrador e leitor.
+\(B\) Incorreta. O narrador expõe situações de sua vivência para buscar
 interação com as vivências do leitor, de modo que as ideias são voltadas
-para ambas as subjetividades, do autor e do leitor.
-
-\(C\) Incorreta. O autor expõe situações de sua vivência para buscar
+para ambas as subjetividades, do narrador e do leitor.
+\(C\) Incorreta. O narrador expõe situações de sua vivência para buscar
 interação com as vivências do leitor, de modo que as ideias são voltadas
-para ambas as subjetividades, do autor e do leitor.
-
-\(D\) Correta. A conexão expressa no título é buscada quando o autor
+para ambas as subjetividades, do narrador e do leitor.
+\(D\) Correta. A conexão expressa no título é buscada quando o narrador
 expõe sua subjetividade por meio do relato de vivências e experiências
 pessoais, ao mesmo tempo fazendo perguntas retóricas ao leitor para
-buscar uma interação entre ambas as vivências, do autor e do leitor.
+buscar uma interação entre ambas as vivências, do narrador e do leitor.
 
-\num{3}
+\num{3} Leia o texto.
 
-**Direito de ter direitos**
+>**Direito de ter direitos**
 
-Cidadania -- uma palavra usada com frequência, mas que poucos entendem o
-que significa -- quer dizer, em essência, a garantia por lei de viver
+>Cidadania --- uma palavra usada com frequência, mas que poucos entendem o
+que significa --- quer dizer, em essência, a garantia por lei de viver
 dignamente. É o direito de expressar as próprias ideias; de votar em
 quem quiser sem nenhum tipo de constrangimento; de processar um médico
 ou hospital por negligência ou imperícia; de devolver um produto
 estragado e receber o dinheiro de volta; \[\...\]
 
-O direito de ter direitos foi uma conquista árdua da humanidade. No
+>O direito de ter direitos foi uma conquista árdua da humanidade. No
 Brasil, por exemplo, demorou muito tempo para que as pessoas tivessem o
 direito de votar e escolher seus governantes. \[\...\]
 
-DIMENSTEIN, Gilberto. *O cidadão de papel*: a infância, a adolescência e
-os Direitos Humanos no Brasil. 24.ed. São Paulo: Ática, 2012
-(fragmento).
+\fonte{Gilberto Dimenstein. *O cidadão de papel:* a infância, a adolescência e
+os Direitos Humanos no Brasil. São Paulo: Ática, 2012.}
 
 A leitura do texto permite inferir que
 
@@ -2064,32 +1543,33 @@ c\) a cidadania é garantida em todos os países do mundo.
 
 d\) a sociedade é hoje bem informada sobre cidadania.
 
-Saeb: Inferir informações implícitas em distintos textos.
-
-BNCC: não há correspondência
+SAEB: Inferir informações implícitas em distintos textos.
 
 \(A\) Correta. O leitor precisa, antes, compreender que o conceito de
-cidadania é amplo e abrande diferentes direitos, dentre eles o direito
+cidadania é amplo e abrange diferentes direitos, dentre os quais o direito
 ao voto. Assim, ao citar o exemplo do Brasil, fica claro que esse
 direito de cidadania foi conquistado tardiamente no país.
-
 \(B\) Incorreta. Pelo contrário, o texto enfatiza que o conceito de
-cidadania é amplo que abrange os diferentes direito a que se pode ter
+cidadania é amplo e abrange os diferentes direitos a que se pode ter
 acesso. Os direitos específicos listados no texto são apenas
 exemplificações dos tantos outros abrangidos.
-
 \(C\) Incorreta. O texto diz que a cidadania foi uma conquista árdua da
 humanidade, porém não é possível deduzir daí que ela seja garantida em
 todos os países do mundo, pois um conhecimento prévio básico nos diz que
 há países autoritários.
-
 \(D\) Incorreta. O texto nega essa afirmativa ao dizer que o conceito
 correto de cidadania ainda é desconhecido, embora o termo seja muito
 usado no cotidiano.
 
 # Módulo 6 
 
- ** -- **OS EFEITOS DE SENTIDO: HUMOR E IRONIA**
+ **Humor e ironia**
+ 
+ \colorsec{Habilidade do SAEB}
+ - Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou crítica.
+
+\colorsec{Habilidades da BNCC}
+- EF69LP03, EF69LP05.
 
 A leitura de um texto envolve não só a habilidade de reconhecer as
 palavras e seus significados dicionarizados, mas também a habilidade de
@@ -2099,39 +1579,37 @@ interlocutores envolvidos, os papéis sociais que eles desempenham etc.
 
 Como exemplo, podemos pensar na frase "A porta está aberta". Dita por
 alguém que está dentro de casa e acaba de ouvir a campainha tocando,
-essa frase expressa uma autorização para que o visitante entre. Dita num
+essa frase expressa uma autorização para que o visitante entre. Dita em um
 ambiente de trabalho por um chefe a um funcionário insatisfeito com seu
 salário, ela pode ser interpretada como um convite para que o
 funcionário se retire da empresa ou peça demissão.
 
-O que podemos concluir daí? Os efeitos de sentido não estão ditos
+O que podemos concluir disso? Os efeitos de sentido não estão ditos
 explicitamente no texto. Alguém que tem a intenção de provocar humor não
-avisa que está fazendo piada, ele espera que o leitor/ouvinte
+avisa que está fazendo piada, mas espera que o interlocutor
 simplesmente interprete as pistas linguísticas e contextuais e, assim,
 perceba o efeito de humor.
 
 Alguns dos efeitos de sentido mais importantes que encontramos em textos
-são o humor e a ironia, muito comuns em piadas, anedotas, tirinhas e
+são o **humor** e a **ironia**, muito comuns em piadas, anedotas, tirinhas e
 charges. O objetivo desses efeitos de sentido nem sempre é apenas fazer
 piada ou crítica pura e simplesmente, mas sim levar o leitor a refletir
 sobre aquele assunto.
 
-O humor é um efeito de sentido gerador de riso cujo objetivo é e pode
+O humor é um efeito de sentido gerador de riso que pode
 ser provocado por meio de diferentes estratégias. Algumas delas são
 quebra de expectativa, contradição, ambiguidade, trocadilhos, jogos de
-palavras, situações absurdas ou engraçadas etc. Em resumo, o humor é
+palavras, situações absurdas ou engraçadas. Em resumo, o humor é
 provocado quando algo ocorre fora do que é esperado. Vejamos um exemplo
 de texto humorístico baseado em trocadilho: "O que o tijolo falou para o
-outro? Há um ciumento entre nós." (Trocadilho com a palavra "cimento").
+outro? Há um ciumento entre nós." Cria-se, nessa piadinha, um trocadilho entre as palavras "ciumento", que se relaciona à relação entre os dois tijolos, e "cimento", que se relaciona com o contexto de uma obra, em que os tijolos são esperados.
 
 A ironia consiste em dizer algo que, no contexto, expressa o contrário
-do que realmente significa, ou seja, é a palavra ou expressão dita com o
+do que realmente significa, ou seja, é a palavra ou a expressão dita com o
 objetivo de produzir um sentido contrário ao de sua aplicação comum em
 determinada situação comunicativa. Geralmente o objetivo é fazer uma
 crítica. Vejamos um exemplo de ironia: "Puxa, que bom que o elevador
-quebrou! Agora só teremos que subir 12 lances de escada, são bem
-poucos." (Certamente, a pessoa não está feliz por ter que subir 12
-lances de escada.)
+quebrou! Agora só teremos que subir 12 lances de escada..." Certamente, a pessoa não está feliz por ter de subir 12 lances de escada.
 
 \colorsec{Atividades}
 
@@ -2139,204 +1617,164 @@ lances de escada.)
 anedota à estratégia geradora de humor.
 
 +---------------------------+-----------------------------------------+
-| 1\. Trocadilho            | ( )                                     |
+| I. Trocadilho            | ( \coment{IV} )                                     |
 |                           |                                         |
 |                           | Um rapaz chegou num velório e a         |
 |                           | primeira coisa que perguntou foi:       |
 |                           |                                         |
-|                           | -- Qual é a senha do wi-fi?             |
+|                           | --- Qual é a senha do wi-fi?             |
 |                           |                                         |
 |                           | Um parente incomodado disse:            |
 |                           |                                         |
-|                           | -- Respeite o falecido!                 |
+|                           | --- Respeite o falecido!                 |
 |                           |                                         |
 |                           | E ele perguntou:                        |
 |                           |                                         |
-|                           | -- É tudo junto?                        |
+|                           | --- É tudo junto?                        |
 +===========================+=========================================+
-| 2\. Quebra de expectativa | ( )                                     |
+| II. Quebra de expectativa | ( \coment{I} )                                     |
 |                           |                                         |
 |                           | Qual a cidade brasileira que não tem    |
 |                           | táxi?                                   |
 |                           |                                         |
 |                           | Uberlândia.                             |
 +---------------------------+-----------------------------------------+
-| 3\. Ambiguidade           | ( )                                     |
+| III. Ambiguidade           | ( \coment{III} )                                     |
 |                           |                                         |
 |                           | Por que a plantinha não foi atendida no |
 |                           | hospital?                               |
 |                           |                                         |
 |                           | Porque só tinha médico de plantão.      |
 +---------------------------+-----------------------------------------+
-| 4\. Situação absurda      | ( )                                     |
+| IV. Situação absurda      | ( \coment{II} )                                     |
 |                           |                                         |
-|                           | Dois amigos conversando...              |
+|                           | Dois amigos conversando:                |
 |                           |                                         |
-|                           | -- Meu pai quer que eu faça Direito e   |
+|                           | --- Meu pai quer que eu faça Direito e   |
 |                           | seja um bom advogado.                   |
 |                           |                                         |
-|                           | -- Que bom, vai seguir a profissão do   |
+|                           | --- Que bom! Vai seguir a profissão do   |
 |                           | velho?                                  |
 |                           |                                         |
-|                           | -- Não, ele quer que tire ele da        |
+|                           | --- Não! Ele quer que tire ele da        |
 |                           | cadeia.                                 |
 +---------------------------+-----------------------------------------+
 
-Gabarito: 4 / 1 / 3 / 2
 
-A situação absurda consiste no fato de que o rapaz, mesmo sendo
-informação de que se tratava de um velório, não adequou seu
-comportamento a um contexto em que se espera empatia.
+Leia a manchete a seguir para resolver as atividades 2 e 3.
 
-O trocadilho, que pode, em determinados contextos, parecer-se com
-ambiguidade, consiste no fato de que a palavra "Uberlândia" remete ao
-aplicativo de transporte Uber. A ideia que justifica esse trocadilho é a
-de que carros de transporte pelo aplicativo substituíram os táxis nas
-cidades brasileiras.
+>**Crítica a Maju Coutinho não passou deoportunismo naturalizado**
+>*Jornalista trocou nome de escola de samba e logo corrigiu; que grave, não?*
 
-A ambiguidade consiste na dupla significação que a palavra "plantão"
-pode expressar na anedota, já que o contexto situacional é um hospital:
-atendimento médico em horário excepcional e planta grande em oposição a
-plantinha.
-
-A quebra de expectativa consiste em duas situações: ao contrário do que
-se espera, o rapaz entrará para o curso de direito não com o objetivo de
-obter a profissão de advogado, mas sim para atuar na defesa de seu pai
-junto à justiça; ao contrário do que se espera, o pai do rapaz não é
-advogado, mas presidiário.
-
-**Texto para as questões 2 e 3.**
-
-**TEXTO I**
-
-![Tela de celular com texto preto sobre fundo branco Descrição gerada
-automaticamente com confiança
-média](./imgSAEB_8_POR/media/image7.png){width="3.7395833333333335in"
-height="1.8284558180227473in"}
-
-Disponível em:
-https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2023/03/critica-a-maju-coutinho-©-passou-de-oportunismo-naturalizado.shtml&cd=1&hl=pt-BR&ct=clnk&gl=
-
-br. Acesso em: 13 mar. 2023 (fragmento).
+\fonte{Djamila Ribeiro. Folha de S.Paulo. Crítica a Maju Coutinho não passou deoportunismo naturalizado. Disponível em: _https://www1.folha.uol.com.br/colunas/djamila-ribeiro/2023/03/critica-a-maju-coutinho-©-passou-de-oportunismo-naturalizado.shtml&cd=1&hl=pt-BR&ct=clnk&gl=_. Acesso em: 13 mar. 2023.
 
 \num{2} Considerando o erro cometido pela jornalista e a crítica que
 recebeu em razão dele, identifique o efeito de sentido da expressão "que
-grave, não?". Justifique. (5 linhas)
+grave, não?". Explique.
 
-O efeito de sentido da expressão é de ironia, pois a autora pretende que
+\linhas{4}
+\coment{O efeito de sentido da expressão é de ironia, pois a autora pretende que
 o leitor entenda o contrário do que disse, isto é, que o erro não é
-grave.
+grave.}
 
 \num{3} Na opinião da autora, o erro cometido pela jornalista justifica a
 crítica recebida por ela? Justifique. (3 linhas)
 
-A autora do artigo considera que a crítica feita à jornalista Maju
+\linhas{4}
+\coment{A autora do artigo considera que a crítica feita à jornalista Maju
 Coutinho não foi merecida, pois o erro não foi grave e, além disso, logo
-foi corrigido.
+foi corrigido.}
 
-**Texto para as questões de 4 a 7.**
-
-**TEXTO II**
+Leia a tirinha para resolver as atividades de 4 a 7.
 
 ![Desenho de personagem de desenho animado Descrição gerada
 automaticamente com confiança
 média](./imgSAEB_8_POR/media/image8.png){width="5.40625in"
 height="1.7797287839020122in"}
 
-SIMÕES, Cadu. Disponível em:
-https://commons.wikimedia.org/wiki/File:Homem-Grilo\_%286%29.png. Acesso
-em: 14 mar. 2023.
+\num{4} Em que consiste o humor presente na tirinha?
 
-\num{4} Em que consiste o humor presente na tirinha? (5 linhas)
-
-O humor consiste no mal-entendido cometido pelo menino, que confundiu um
+\linhas{4}
+\coment{O humor consiste no mal-entendido cometido pelo menino, que confundiu um
 supér-herói com outro, deixando o homem-grilo aborrecido por não ter
-sido reconhecido como pensou ser o caso.
+sido reconhecido, como tinha pensado ser o caso.}
 
 \num{5} Qual foi a expectativa criada pelo herói ao receber o pedido de
 autógrafo e o que ele acaba descobrindo em relação a ela, no último
-quadrinho? (3 linhas)
+quadrinho?
 
-O personagem tinha a expectativa de que já era um super-herói famoso,
-mas descobriu que ainda não tem fama.
+\linhas{4}
+\coment{O personagem tinha a expectativa de que já era um super-herói famoso,
+mas descobriu que ainda não tem fama.}
 
 \num{6} A estratégia usada pelo autor da tirinha para gerar o humor é a
-quebra de expectativa. Justifique. (5 linhas)
+quebra de expectativa. Justifique essa afirmação.
 
-O personagem pensou ter sido reconhecido pelo menino como super-herói,
+\linhas{6}
+\coment{O personagem pensou ter sido reconhecido pelo menino como super-herói,
 mas, após dar o autógrafo, teve sua expectativa quebrada, pois o menino
-acaba revelando que o havia confundido com outro super-herói.
+acaba revelando que o havia confundido com outro super-herói.}
 
 \num{7} O que o mal-entendido cometido pelo menino revela sobre a
-originalidade da fantasia do herói? (3 linhas)
+originalidade da fantasia do herói?
 
-O mal-entendido revela que o herói veste uma fantasia que o caracteriza
-de forma pouco original e que, provavelmente, se parece com a fantasia
-de outro super-herói.
+\linhas{4}
+\coment{O mal-entendido revela que o herói veste uma fantasia que o caracteriza
+de forma pouco original.}
 
-**Textos para as questões de 8 a 10.**
+Leia as duas manchetes a seguir para resolver as atividades de 8 a 10.
 
-**TEXTO III**
+**TEXTO I**
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image9.png){width="5.197916666666667in"
-height="1.0849365704286964in"}
+>**Governo pretende lançar programa com passagens aéreas a R\$ 200**
+>*Valor tem recorte de renda e categorias, como aposentados e servidores*
 
-Agência Brasil, 14 mar. 2023. Disponível em:
-https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/ervi/2023-03/programa-do-governo-preve-passagens-aereas-por-r-200.
-Acesso em: 14 mar. 2023 (fragmento).
+\fonte{Priscilla Mazenotti. Agência Brasil. Governo pretende lançar programa com passagens aéreas a R\$ 200. Disponível em: _https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/ervi/2023-03/programa-do-governo-preve-passagens-aereas-por-r-200_.
+Acesso em: 14 mar. 2023.}
 
-**TEXTO IV**
+**TEXTO II**
 
-![Interface gráfica do usuário, Texto, Aplicativo, Email Descrição
-gerada
-automaticamente](./imgSAEB_8_POR/media/image10.png){width="3.5208333333333335in"
-height="1.147665135608049in"}
+>**Governo quer lançar passagem aérea a R$ 200 e ricos já cogitam viajar de ônibus**
 
-Sensacionalista, 13 mar. 2023 2023. Disponível em:
-https://oglobo.globo.com/blogs/humor/sensacionalista/post/2023/03/governo-quer-lancar-passagem-aerea-a-r-200-e-ricos-©-cogitam-viajar-de-onibus.ghtml.
-Acesso em: 14 mar. 2023 (fragmento).
+\fonte{Sensacionalista. Governo quer lançar passagem aérea a R$ 200 e ricos já cogitam viajar de ônibus. Disponível em: _https://oglobo.globo.com/blogs/humor/sensacionalista/post/2023/03/governo-quer-lancar-passagem-aerea-a-r-200-e-ricos-©-cogitam-viajar-de-onibus.ghtml_. Acesso em: 14 mar. 2023.}
 
-\num{8} O Texto IV é uma versão humorística e fictícia da manchete de
-notícia apresentada no Texto III. Em que consiste o humor obtido no
-Texto IV. (5 linhas)
+\num{8} O texto II é uma versão humorística e fictícia da manchete de
+notícia apresentada no texto I. Em que consiste o humor obtido no texto II?
 
-O humor consiste no fato de a queda no valor da passagem aérea causar um
+\linhas{6}
+\coment{O humor consiste no fato de a queda no valor da passagem aérea causar um
 efeito contrário nos ricos, que passarão a viajar de ônibus, um
-transporte popular por ser barato e, consequentemente, menos eficiente
-no tempo de viagem.
+transporte popular por ser mais barato e, consequentemente, menos eficiente
+no tempo de viagem.}
 
-\num{9} O humor foi empregado no Texto IV com o objetivo de fazer uma
-crítica social. Qual é essa crítica? (5 linhas)
+\num{9} O humor foi empregado no texto II com o objetivo de fazer uma
+crítica social. Qual é essa crítica?
 
-A crítica social consiste no fato de os ricos não quererem se misturar
-com os pobres que provavelmente viajarão mais de avião. Para evitar se
-misturarem, preferirão viajar de ônibus, pois a queda no preço das
-passagens vai popularizar o transporte aéreo, sabidamente restrito à
-elite.
+\linhas{8}
+\coment{A crítica social consiste no fato de os mais ricos não quererem se juntar aos mais pobres, que provavelmente viajarão mais de avião. Para evitar isso, preferirão viajar de ônibus, pois a queda no preço das passagens vai popularizar o transporte aéreo, sabidamente restrito à elite.}
 
-\num{0} O que a fuga para o transporte rodoviário indica sobre a
+\num{10} O que a fuga para o transporte rodoviário indica sobre a
 satisfação dos ricos em relação à queda no preço da passagem aérea?
-Justifique. (3 linhas)
+Justifique sua resposta.
 
-A fuga de um transporte de elite para um transporte popular indica que
+\linhas{6}
+\coment{A fuga de um transporte de elite para um transporte popular indica que
 os ricos têm uma opinião contrária e estão insatisfeitos com a queda dos
 preços da passagem aérea, pois isso atrairá a população menos abastada
-para esse tipo de transporte historicamente ocupado pela elite.
+para esse tipo de transporte historicamente ocupado pela elite.}
 
 \colorsec{Treino}
 
-\num{1}
+\num{1} Leia o texto.
 
-**Reunião de mães**
+>**Reunião de mães**
 
-Na reunião de pais só havia mães. Eu me sentiria constrangido em meio a
-tanta mulher, por mais simpáticas que me parecessem, e abaria nem
-entrando -- se não pudesse logo distinguir, espalhadas no auditório,
+>Na reunião de pais só havia mães. Eu me sentiria constrangido em meio a
+tanta mulher, por mais simpáticas que me parecessem, e acabaria nem
+entrando --- se não pudesse logo distinguir, espalhadas no auditório,
 duas ou três presenças masculinas \[\...\].
 
-PESSOA, Fernando. Reunião de mães. In: *O homem nu*. 13.ed. Rio de
-Janeiro: Record, 1976 (fragmento).
+\fonte{Fernando Pessoa. Reunião de mães. In: *O homem nu*. Rio de Janeiro: Record, 1976.}
 
 O efeito de humor é obtido no texto a partir da presença de
 
@@ -2348,52 +1786,28 @@ c\) situação absurda.
 
 d\) quebra de expectativa.
 
-Saeb: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
+SAEB: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
 crítica.
-
-BNCC: EF69LP05
+BNCC: EF69LP05 -- Inferir e justificar, em textos multissemióticos --- tirinhas, charges, memes, gifs etc. --–, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc.
 
 \(A\) Incorreta. O texto não apresenta contradição como forma de gerar
 humor.
-
 \(B\) Correta. A situação humorística é criada pela brincadeira com a
 expressão "reunião de pais", com a palavra "pais" ora significando
 progenitor masculino, ora significando ambos os progenitores, pai e mãe.
-
-\(C\) Incorreta. A situação narrada não é absurda e sim corriqueira,
+\(C\) Incorreta. A situação narrada não é absurda, mas corriqueira,
 pois a reunião de pais faz parte do cotidiano de famílias com filhos em
 idade escolar.
-
 \(D\) Incorreta. Não há quebra de expectativa no texto.
 
-\num{2}
+\num{2} Leia a manchete humorística.
 
-**TEXTO I**
+>**Autoridades aprendem com enxurradas e já começam a trabalhar em desculpas para 2024**
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image11.png){width="2.8478543307086612in"
-height="0.59375in"}
-
-BANDNEWS FM, 19 fev. 2023. Disponível em:
-https://www.band.uol.com.br/bandnews-fm/noticias/chuvas-em-sp-causam-enxurradas-e-interditam-rodovias-no-litoral-norte-16583695.
-
-Acesso em: 06 mar. 2023 (fragmento).
-
-**TEXTO II**
-
-![Texto Descrição gerada automaticamente com confiança
-média](./imgSAEB_8_POR/media/image12.png){width="3.34375in"
-height="0.7614479440069991in"}
-
-SENSACIONALISTA, 26 fev. 2023. Disponível em:
-<https://oglobo>.globo.com/blogs/humor/sensacionalista/post/2023/02/autoridades-aprendem-com-enxurradas-e-©-comecam-a-trabalhar-em-desculpas-para-2024.ghtml.
-
-Acesso em: 06 mar. 2023 (fragmento).
+Sensacionalista. Autoridades aprendem com enxurradas e já começam a trabalhar em desculpas para 2024. Disponível em: _https://oglobo>.globo.com/blogs/humor/sensacionalista/post/2023/02/autoridades-aprendem-com-enxurradas-e-©-comecam-a-trabalhar-em-desculpas-para-2024.ghtml_. Acesso em: 06 mar. 2023.
 
 O jornal *Sensacionalista* se destaca pelo humor crítico em suas
-notícias fictícias baseadas em notícias reais, como no caso do Texto II,
-que apresenta uma versão humorística que pode ser associada ao Texto I.
-O principal recurso usado para provocar humor crítico no Texto II é a
+notícias fictícias baseadas em notícias reais. O principal recurso usado para provocar humor crítico nessa manchete é a
 
 a\) ironia.
 
@@ -2403,34 +1817,30 @@ c\) objetividade.
 
 d\) imparcialidade.
 
-Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
+SAEB: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
 crítica.
-
-BNCC: EF69LP05
+BNCC: EF69LP05 -- Inferir e justificar, em textos multissemióticos --- tirinhas, charges, memes, gifs etc. --–, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc.
 
 \(A\) Correta. O texto ironiza a postura de procrastinação da classe
 política, que ano após ano deixa de atuar na resolução dos problemas
 causados pelo grande volume de chuvas que já é conhecido e esperado todo
 ano.
-
 \(B\) Incorreta. A denúncia não se faz presente no texto, pois se trata
 de um texto humorístico que se utiliza de outras estratégias
 argumentativas mais aptas do que a denúncia para gerar o humor, tais
 como a ironia.
-
 \(C\) Incorreta. Por ser um texto voltado para o humor, a objetividade
 não está presente nele, já que ela pode prejudicar a expressividade
 necessária aos efeitos de humor.
-
 \(D\) Incorreta. Por ser um texto voltado para o humor, pressupõe-se o
 posicionamento crítico frente ao fato, isto é, a parcialidade é que se
 faz presente.
 
-\num{3}
+\num{3} Leia o texto.
 
-**Conexão**
+>**Conexão**
 
-Regido por esse despretensioso fluxo de ideias, me sinto tentado a fazer
+>Regido por esse despretensioso fluxo de ideias, me sinto tentado a fazer
 uma parada. Até aqui me fiz tantas perguntas\... Mas será que você,
 leitor, é um jovem em busca de referências? Ou será que você é como eu
 quando adolescente, que queria bater um papo sobre as identidades em
@@ -2438,8 +1848,7 @@ formação, mas sem um viés acadêmico? Só um papo que trouxesse conforto e
 em que eu pudesse me espelhar\... Quando, neste livro, eu sou você? Onde
 nos encontramos? Em nossas semelhanças ou em nossas discordâncias?
 
-RAMOS, Lázaro. *Na minha pele*. 1.ed. Rio de Janeiro: Objetiva, 2017
-(fragmento).
+Lázaro Ramos. *Na minha pele*. Rio de Janeiro: Objetiva, 2017.
 
 Ao relatar sua busca por diálogos sobre as identidades em formação na
 juventude, o autor emprega a expressão "viés acadêmico" para
@@ -2447,7 +1856,7 @@ juventude, o autor emprega a expressão "viés acadêmico" para
 a\) contrapor sua inquietude juvenil à sua passividade na vida adulta.
 
 b\) incentivar o leitor a dedicar-se ao estudo teórico do tema
-identidade.
+tratado.
 
 c\) caracterizar uma forma de abordagem com que ele não se identificava.
 
@@ -2456,44 +1865,40 @@ vividas.
 
 Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
 crítica.
-
-BNCC: EF69LP05
+BNCC: EF69LP05 -- Inferir e justificar, em textos multissemióticos --- tirinhas, charges, memes, gifs etc. ---, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc.
 
 \(A\) Incorreta. O autor não apresenta passividade frente à clara
-inquietude juvenil, pois seu texto apresenta questionamentos que indica
+inquietude juvenil, pois seu texto apresenta questionamentos que indicam
 a permanência da postura inquieta frente ao tema em questão.
-
-\(B\) Incorreta. O autor chama o leitor para um diálogo voltado para
-vida prática, de modo a ter alguém em que se espelhar, tal como o autor
-fazia na juventude.
-
-\(C\) Correta. O autor relata que buscava exemplos práticos para se
-espelhar e fugia de diálogos com viés acadêmicos.
-
+\(B\) Incorreta. O autor chama o leitor para um diálogo voltado para a vida prática, de modo a ter alguém em quem se espelhar, tal como o autor fazia na juventude.
+\(C\) Correta. O autor relata que buscava exemplos práticos para se espelhar e fugia de diálogos com viés acadêmico.
 \(D\) Incorreta. Ao referir-se à abordagem acadêmica, o autor está, na
-verdade, refutando-a, pois prefere exemplos práticos que sirvam de
-espelho.
+realidade, refutando-a, pois prefere exemplos práticos que sirvam de espelho.
 
 # Módulo 7 
 
- ** -- **PARCIALIDADE E IMPARCIALIDADE EM TEXTOS
-JORNALÍSTICOS**
+ **Parcialidade em textos jornalísticos**
+ 
+\colorsec{Habilidades do SAEB}
+- Analisar marcas de parcialidade em textos jornalísticos.
+- Avaliar diferentes graus de parcialidade em textos jornalísticos.
+- Avaliar a fidedignidade de informações sobre um mesmo fato divulgado em diferentes veículos e mídias.
 
-Como visto no módulo 2, os textos jornalísticos fazem parte do grupo dos
-gêneros textuais informativos e, assim, são centrados na informação a
+Muitos textos jornalísticos fazem parte do grupo dos
+gêneros textuais informativos e são centrados na informação a
 ser transmitida. Isso pressupõe certo distanciamento do autor, isto é,
 menor presença de marcas de subjetividade ou valoração, o que no
-jornalismo é chamado de imparcialidade. Porém, nesse campo da
+jornalismo é chamado de **imparcialidade**, porém, nesse campo da
 comunicação, há graus variados de tratamento da informação, isto é, há
 diferentes níveis de imparcialidade, conforme o foco dado pelo jornal
 aos diferentes aspectos do fato abordado. Isso porque, além da função de
 informar, o jornalismo tem também a função de formar opinião.
 
 Sendo assim, nem sempre um texto jornalístico se limita a transmitir
-informação, há gêneros textuais jornalísticos que informam e opinam ao
-mesmo tempo. Imparcialidade e parcialidade, portanto, são
+informação. Há gêneros textuais jornalísticos que informam e opinam ao
+mesmo tempo. Imparcialidade e **parcialidade**, portanto, são
 características presentes no jornalismo, dependendo do gênero textual, e
-referem-se à presença ou ausência de valoração.
+referem-se à presença ou à ausência de valoração.
 
 Notícia e reportagem, típicos do jornalismo, são dois exemplos de
 gêneros em que ocorre variação no tratamento da informação e, assim, no
@@ -2510,220 +1915,132 @@ linguísticas do texto, ou implícita, isto é, quando exige interpretação
 por parte do leitor. Dessa forma, uma habilidade muito importante é a de
 identificar a parcialidade em textos jornalísticos.
 
-Como dito acima, o foco dado pelo jornalista a determinado aspecto de um
-fato pode ser indicativo de parcialidade. Vejamos as seguintes
-manchetes:
-
-Manchete 1
-
-![Uma imagem contendo garrafa, laranja, luz, tráfego Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image13.png){width="2.1041666666666665in"
-height="0.3726935695538058in"}
-
-Disponível em:
-https://www1.folha.uol.com.br/poder/2017/10/1929305-voto-religioso-so-guia-2-entre-10-brasileiros-diz-datafolha.shtml.
-Acesso em: 04 mar. 2023.
-
-Manchete 2
-
-![Foto em preto e branco Descrição gerada automaticamente com confiança
-média](./imgSAEB_8_POR/media/image14.png){width="2.1458333333333335in"
-height="0.469588801399825in"}
-
-Disponível em:
-https://g1.globo.com/politica/noticia/8-em-cada-10-brasileiros-dizem-©-seguir-orientacao-de-religiosos-na-hora-do-voto-aponta-datafolha.ghtml.
-Acesso em: 04 mar. 2023.
-
-Manchete 3
-
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image15.png){width="1.7395833333333333in"
-height="0.6893700787401574in"}
-
-Disponível em:
-https://datafolha.folha.uol.com.br/opiniaopublica/2017/10/1930455-para-votar-19-dos-brasileiros-com-religiao-seguem-indicacao-da-igreja.shtml.
-Acesso em: 04 mar. 2023.
-
-Manchete 4
-
-![](./imgSAEB_8_POR/media/image16.png){width="2.922192694663167in"
-height="0.3350349956255468in"}
-
-Disponível em:
-https://veja.abril.com.br/politica/so-19-seguem-lider-religioso-ao-votar-diz-datafolha/.
-Acesso em: 04 mar. 2023.
-
-Todas essas manchetes, dadas por diferentes jornais, abordam o mesmo
-assunto: o resultado de uma pesquisa do Datafolha sobre a influência da
-religião na orientação do voto. Embora o assunto seja o mesmo, há nessas
-manchetes diferentes tratamentos da informação, ou seja, o foco em
-determinado aspecto da pesquisa é dado conforme a escolha do veículo de
-informação, deixando transparecer diferentes perspectivas sobre o mesmo
-fato. Isso pode ser observado no uso de numerais quantitativos ou de
-dados percentuais como forma de ressaltar ou diminuir a influência da
-religião sobre o voto.
-
-Vale ressaltar que diferentes formas linguísticas presentes nos textos
-jornalísticos podem revelar parcialidade. Exemplos:
-
-*trocar ofensas / xingar;
-
-*revisão de tarifas / atualização de tarifas / aumento de preços;
-
-*pouso não programado da aeronave / pane;
-
-*enriquecimento ilícito / roubo;
-
-*insuficiência orçamentária / falta de dinheiro;
-
-*instituição financeira / banco.
-
 \colorsec{Atividades}
 
-**Texto para as questões de 1 a 4.**
+Leia o texto a seguir para resolver as atividades de 1 a 4.
+
+>**Quem oferecer menos leva a Amazônia**
+>
+O desmatamento na Amazônia está em constante crescimento, o que torna cada vez mais improvável que o país cumpra a meta de redução estabelecida para 2020. De acordo com os compromissos assumidos em 2010, o Governo Federal estabeleceu a meta de limitar a perda anual da cobertura florestal na Amazônia a 3.900 quilômetros quadrados até o próximo ano. No entanto, em 2018, esse índice atingiu 7.900 quilômetros quadrados, a maior taxa da década, e os sistemas de alerta indicam um aumento de 20% no desmatamento entre agosto de 2018 e abril de 2019. Esses números evidenciam que o Brasil continua destruindo um de seus recursos mais valiosos sem melhorar a qualidade de vida na região, que continua apresentando indicadores socioeconômicos abaixo da média nacional.
+>
+Esse processo de devastação ocorre devido à fragilização das políticas públicas de controle do desmatamento, à falta de uma estratégia de desenvolvimento para a região que valorize a preservação florestal e à existência de leis federais e estaduais que incentivam a apropriação ilegal de terras públicas, as quais são desmatadas para posterior privatização. Na verdade, desde 2017, essas regras fundiárias que estimulam o desmatamento vêm passando por preocupantes modificações, muitas vezes despercebidas pela sociedade brasileira. Todas essas alterações são justificadas em nome da modernização da regularização fundiária e da redução da burocracia. No entanto, na prática, as novas leis acabam favorecendo a grilagem de terras.
+>
+Além da modificação da lei federal, os estados da Amazônia também estão promovendo uma série de alterações em suas regras fundiárias, seguindo a mesma direção: legalizar o que era ilegal e incentivar o roubo de terras públicas no futuro. A existência de leis em diferentes níveis de governo ocorre porque a legislação federal se aplica apenas às terras pertencentes à União, enquanto cada estado tem o poder de estabelecer suas próprias regras para as áreas sob sua jurisdição. De acordo com estimativas do Imazon, cerca de 33% da Amazônia Legal não possui destinação fundiária ou não há informações disponíveis publicamente sobre o assunto. A maioria dessas áreas pertence aos estados (75%). Portanto, as regras estaduais têm um impacto ainda maior do que as regras federais na determinação do destino de uma extensa área de florestas públicas não designadas.
+
+\fonte{Fonte de pesquisa: Brenda Brito e Jeferson Almeida. El País. A Amazônia está à venda: quem der menos leva. Disponível em: _https://brasil.elpais.com/brasil/2019/06/19/opinion/1560981343_901218.html_. Acesso em: 17 maio 2023.}
+
+\num{1} Qual é o fato que está sendo abordado no texto?
+
+\linhas{8}
+\coment{O fato abordado são as mudanças que estão sendo feitas nas leis federais
+e estaduais que versam sobre florestas públicas e a Amazônia. O texto é
+claramente opinativo, porém ele se baseia em um fato objetivo (as leis
+federais e estaduais que vêm sofrendo mudanças), sobre o qual os autores passam
+a opinar e fazer avaliações.}
+
+\num{2} O fato é abordado com parcialidade ou imparcialidade? Justifique
+sua resposta com um exemplo extraído do texto.
+
+\linhas{10}
+\coment{O fato (as leis federais e estaduais que vêm sofrendo mudanças) é claramente
+abordado com imparcialidade, pois os autores passam a avaliar essas mudanças
+como prejudiciais à proteção das florestas públicas, sobretudo da
+Amazônia. Os elementos do texto que comprovam a imparcialidade são, por exemplo:
+"estimulam o roubo de florestas públicas", "quem oferecer menos leva a Amazônia".}
+
+\num{3} Conforme sua resposta à questão anterior, esse texto jornalístico
+aproxima-se melhor de uma notícia ou de uma reportagem? Justifique sua resposta.
+
+\linhas{10}
+\coment{O texto aproxima-se melhor de uma reportagem, pois o trecho apresentado
+tem uma estrutura semelhante à de uma notícia, diferenciando-se dela por abordar um fato relevante para a sociedade e emitindo parecer sobre ele, cumprindo a função jornalística de formar opinião.}
+
+\num{4} O título do texto apresenta uma ironia que se constrói por meio
+de uma contradição. Explique essa contradição.
+
+\linhas{4}
+\coment{A contradição está no fato de se colocar à venda algo tão valioso como a
+Amazônia e aceitar o menor valor pela venda dela.}
+
+Leia as manchetes a seguir para resolver as atividades de 5 a 10. As manchetes foram adaptadas de jornais que circulam no estado de Minas Gerais.
 
 **TEXTO I**
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image17.png){width="5.018445975503062in"
-height="0.9937762467191601in"}
+>**Homem tenta serrar fio de alumínio e morre eletrocutado no Betânia, em Belo Horizonte**
 
-Disponível em:
-https://brasil.elpais.com/brasil/2019/06/19/opinion/1560981343\_901218.html.
-
-Acesso em: 04 mar. 2023 (fragmento).
-
-10) Qual é o fato que está sendo abordado no texto? (2 linhas)
-
-O fato abordado são as mudanças que estão sendo feitas nas leis federais
-e estaduais que versam sobre florestas públicas e a Amazônia. O texto é
-claramente opinativo, porém ele se baseia num fato objetivo (as leis
-federais e estaduais vêm sofrendo mudanças), sobre o qual o autor passa
-a opinar e fazer avaliações.
-
-\num{2} O fato é abordado com parcialidade ou imparcialidade? Justifique
-sua resposta com um exemplo extraído do texto. (5 linhas)
-
-O fato (as leis federais e estaduais vêm sofrendo mudanças) é claramente
-abordado com imparcialidade, pois o autor passa a avaliar essas mudanças
-como prejudiciais à proteção das florestas públicas, sobretudo da
-Amazônia. Os elementos do texto que comprovam a imparcialidade são:
-"estimulam o roubo de florestas públicas", "quem der menos leva".
-
-\num{3} Conforme sua resposta à questão anterior, esse texto jornalístico
-é provavelmente uma notícia ou uma reportagem? Justifique. (5 linhas)
-
-O texto provavelmente é do gênero reportagem, pois o trecho apresentado
-tem uma estrutura semelhante à de uma notícia (título e subtítulo),
-diferenciando-se dela por abordar um fato relevante para a sociedade
-emitindo parecer sobre ele, cumprindo a função jornalística de formar de
-opinião.
-
-\num{4} O título do texto apresenta uma ironia que se constrói por meio
-de uma contradição. Explique essa contradição. (4 linhas)
-
-A contradição está no fato de se colocar à venda algo tão valioso como a
-Amazônia e aceitar o menor valor pela venda dela.
-
-**Texto para as questões de 5 a 10.**
 
 **TEXTO II**
 
-![](./imgSAEB_8_POR/media/image18.png){width="3.1702482502187226in"
-height="0.366084864391951in"}
+>**Homem tenta furtar fios de cobre e morre eletrocutado em Belo Horizonte**
 
-O TEMPO, 04 mar. 2023. Disponível em:
-https://www.otempo.com.br/cidades/homem-tenta-serrar-fio-de-aluminio-e-morre-eletrocutado-no-betania-em-bh-1.2823651.
-Acesso em: 05 mar. 2023.
 
 **TEXTO III**
 
-![](./imgSAEB_8_POR/media/image19.png){width="4.515415573053368in"
-height="0.3090277777777778in"}
+>**Homem morre eletrocutado em cima de poste em Belo Horizonte: a suspeita é que ele tentava roubar a fiação**
 
-ESTADO DE MINAS, 04 mar. 2023. Disponível em:
-https://www.msn.com/pt-br/noticias/brasil/homem-tenta-furtar-fios-de-cobre-e-morre-eletrocutado-em-bh/ar-AA18dtwh.
-Acesso em: 04 mar. 2023.
+\num{5} Considerando as três manchetes como um todo, que fato está sendo noticiado?
 
-\num{5} Nos textos II e III, do gênero notícia, qual é o fato que
-certamente aconteceu? (2 linhas)
-
-O fato que certamente aconteceu é a morte de um homem por eletrocussão.
+\linhas{2}
+\coment{O fato que certamente aconteceu é a morte de um homem eletrocutado.}
 
 \num{6} Quais são os termos e expressões que sinalizam que os veículos de
-imprensa apresentaram versões diferentes do mesmo fato? Compare os dois
-textos. (3 linhas)
+imprensa apresentaram versões diferentes do mesmo fato? Compare os textos I e II.
 
-O Texto II diz que o homem tentou serrar os cabos e que esses cabos eram
-de alumínio, enquanto o Texto III diz que ele tentou furtá-los e que
-eles eram de cobre.
+\linhas{6}
+\coment{O texto I diz que o homem tentou serrar os cabos e que esses cabos eram
+de alumínio, enquanto o texto II acrescenta que ele tentou furtá-los e que
+eles eram de cobre.}
 
-\num{7} Em qual dos dois textos está implícito um provável motivo para o
-homem se arriscar a ter contato com um fio eletrizado? Justifique. (3
-linhas)
+\num{7} Entre os textos I e II, em qual está dito um provável motivo para o
+homem se arriscar a ter contato com um fio eletrizado? Justifique sua resposta.
 
-O Texto III traz implícito um provável motivo para o homem se arriscar a
+\linhas{4}
+\coment{O texto II traz um provável motivo para o homem se arriscar a
 ter contato com um fio eletrizado, pois diz que ele tentou furtar os
-fios. Portanto, o furto foi o motivo que o levou a se arriscar.
-
-**Leia outra manchete sobre o mesmo fato.**
-
-**TEXTO IV**
-
-![Foto em preto e branco Descrição gerada automaticamente com confiança
-média](./imgSAEB_8_POR/media/image20.png){width="2.5208333333333335in"
-height="0.5569903762029746in"}
-
-Disponível em:
-https://g1.globo.com/mg/minas-gerais/noticia/2023/03/04/homem-morre-eletrocutado-em-cima-de-poste-em-bh-a-suspeita-e-de-que-ele-tentava-roubar-a-fiacao.ghtml
+fios; portanto o furto foi o motivo que o levou a se arriscar.}
 
 \num{8} Em relação ao tratamento do fato e à motivação do homem, qual é a
-diferença do Texto IV para os textos II e III? (4 linhas)
+diferença do texto III para os textos I e II?
 
-O Texto IV trata a morte como fato e o furto como hipótese como
-hipótese, enquanto os textos II e III não fazem essa distinção.
+\linhas{4}
+\coment{O texto III trata a morte como fato e o furto como hipótese, enquanto os textos I e II não fazem essa distinção.}
 
-\num{9} Qual das três notícias -- textos II, III e IV -- atende melhor
-aos parâmetros do jornalismo? Justifique. (4 linhas)
+\num{9} Qual das três manchetes atende melhor aos parâmetros do jornalismo? Justifique sua resposta.
 
-O Texto IV é o que melhor atende aos parâmetros do jornalismo, pois
+\linhas{8}
+\coment{O texto III é o que melhor atende aos parâmetros do jornalismo, pois
 apresenta o fato com objetividade e imparcialidade, evitando afirmar
-categoricamente que o homem tentava roubar os frios, embora isso possa
-ser óbvio na situação, buscando manter no campo da hipótese para que não
-soe como acusação leviana.
+categoricamente que o homem tentava roubar os fios e buscando manter no campo da hipótese para que não soe como acusação leviana.}
 
-\num{0} Por todas as características abordadas nas questões anteriores,
-na sua opinião, qual das três notícias apresenta maior imparcialidade?
-Justifique.
+\num{10} Por todas as características abordadas nas atividades anteriores,
+na sua opinião, qual das três manchetes apresenta maior imparcialidade? Justifique sua resposta.
 
-(3 linhas)
-
-Resposta pessoal. Uma hipótese plausível de resposta, com base na
-abordagem feita às caraterísticas dos textos, é apontar a notícia
-apresentada no texto IV.
+\linhas{4}
+\coment{Resposta pessoal. Uma hipótese plausível de resposta, com base na
+abordagem feita às caraterísticas dos textos, é apontar o texto III.}
 
 \colorsec{Treino}
 
-\num{1}
+\num{1} Leia o texto.
 
-**Ipea: população em situação de rua no Brasil supera 281 mil**
+> **Ipea: população em situação de rua no Brasil supera 281 mil**
 
-*Em dez anos, esse segmento vulnerável cresceu 211%*
+>*Em dez anos, esse segmento vulnerável cresceu 211%*
 
-O estudo do Ipea alerta que o aumento de pessoas nas ruas é muito maior
+>\[...]
+>
+>O estudo do Ipea alerta que o aumento de pessoas nas ruas é muito maior
 em proporção do que o da população em geral. No período de dez anos, de
 2012 a 2022, o crescimento desse segmento vulnerável foi de 211%.
 Segundo dados do IBGE, o aumento populacional brasileiro foi de 11%
 entre 2011 e 2021.
-
+>
 A Região Sudeste concentra pouco mais da metade da população em situação
 de rua do país: são 151 mil pessoas. Na sequência estão Nordeste, Sul,
 Centro-Oeste e Norte. A pesquisa destaca a Região Norte, onde está a
 menor parcela de população de rua do país \[\...\].
 
-Disponível em:
-https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-02/ipea-populacao-em-situacao-de-rua-no-brasil-supera-281-mil.
-Acesso em: 05 mar. 2023.
+\fonte{Gabriel Brum. Agência Brasil. Ipea: população em situação de rua no Brasil supera 281 mil. Disponível em: _https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-02/ipea-populacao-em-situacao-de-rua-no-brasil-supera-281-mil_. Acesso em: 05 mar. 2023.}
 
 A expressão "população em situação de rua" é uma escolha alternativa
 para referir-se aos indivíduos antes referidos como "moradores de rua"
@@ -2737,48 +2054,35 @@ c\) condição temporária, isto é, "estar na rua" e não "ser da rua".
 
 d\) solidariedade, para aumentar a adesão às campanhas de doação.
 
-Saeb: Analisar marcas de parcialidade em textos jornalísticos.
-
-BNCC: não há correspondência
+SAEB: Analisar marcas de parcialidade em textos jornalísticos.
 
 \(A\) Incorreta. Não se trata de linguagem neutra, pois a escolha entre
-os diferentes termos citados não se refere à abordagem de gênero nem
-está sendo abordada no texto.
-
+os diferentes termos citados não se refere à abordagem de gênero.
 \(B\) Incorreta. O texto não aborda o tema sob o ponto de vista da
 compaixão.
-
 \(C\) Correta. O texto traz o tema sob um ponto de vista do problema
 social que assola o país. A expressão traz um sentido implícito de
-condição temporária que se opõe a "morador de rua" e "mendigo", formas
-linguísticas categóricas que expressam o sentido implícitos de condição
-permanente.
-
+condição temporária que se opõe a "morador de rua" ou "mendigo", formas
+linguísticas categóricas que expressam o sentido de condição permanente.
 \(D\) Incorreta. O texto não aborda a solidariedade nem campanhas de
 doação.
 
-\num{2}
+\num{2} Leia as manchetes a seguir.
 
 **TEXTO I**
 
-![Interface gráfica do usuário, Texto, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image21.png){width="5.051060804899388in"
-height="1.1255599300087489in"}
+>**Greve do Metrô é mantida para a semana do Carnaval**
+>*Metroviários de Belo Horizonte decidiram manter a greve do Metrô após assembleia na noite desta terça-feira (14)*
 
-Disponível em:
-https://www.itatiaia.com.br/editorias/cidades/2023/02/14/greve-do-metro-e-mantida-para-semana-do-carnaval.
-Acesso em: 05 mar. 2023.
+\fonte{Maria Cavalcanti. Itatiaia. Greve do Metrô é mantida para semana do Carnaval. Disponível em: _https://www.itatiaia.com.br/editorias/cidades/2023/02/14/greve-do-metro-e-mantida-para-semana-do-carnaval_. Acesso em: 05 mar. 2023.}
+
 
 **TEXTO II**
 
-![Tela de celular com texto preto sobre fundo branco Descrição gerada
-automaticamente com confiança
-média](./imgSAEB_8_POR/media/image22.png){width="5.364436789151356in"
-height="1.375in"}
+>**Serviço essencial deve ser prestado**
+>*Falta na greve do Metrô, sobretuddo, a empatia: milhares de belo-horizontinos e turistas estão privados, no Carnaval, de um meio de transporte fundamental*
 
-Disponível em:
-https://www.otempo.com.br/erviço/editorial/erviço-essencial-deve-ser-prestado-1.2817688.
-Acesso em: 05 mar. 2023.
+\fonte{O tempo. Serviço essencial deve ser prestado. Disponível em: _https://www.otempo.com.br/opiniao/editorial/servico-essencial-deve-ser-prestado-1.2817688_. Acesso em: 05 mar. 2023.}
 
 Esses textos jornalísticos apresentam diferentes finalidades
 comunicativas em razão de seus gêneros serem distintos. Os textos I e II
@@ -2793,47 +2097,36 @@ transporte.
 
 d\) avaliar a necessidade da greve e solidarizar-se com os prejudicados.
 
-Saeb: Avaliar diferentes graus de parcialidade em textos jornalísticos.
+SAEB: Avaliar diferentes graus de parcialidade em textos jornalísticos.
 
-BNCC: não há correspondência
-
-\(A\) Incorreta. O Texto I foi publicado após a assembleia, não podendo
-ser uma divulgação dela. O Texto II critica a decisão tomada na
+\(A\) Incorreta. O texto I foi publicado após a assembleia, não podendo
+ser uma divulgação dela. O texto II critica a decisão tomada na
 assembleia, e não o evento propriamente dito.
-
-\(B\) Correta. O Texto I, sendo uma notícia, informa os leitores de que
-a greve foi mantida. O Texto II, sendo um texto opinativo, avalia
+\(B\) Correta. O texto I, sendo uma notícia, informa os leitores de que
+a greve foi mantida. O texto II, sendo um texto opinativo, avalia
 negativamente a decisão de manter a greve.
-
-\(C\) Incorreta. O Texto I apenas noticia um fato, e o Texto II de fato
-faz uma reclamação sobre a greve por ser opinativo.
-
-\(D\) Incorreta. O Texto I apenas noticia um fato, e o Texto II de fato
-se solidariza com as pessoas que depende do transporte público,
+\(C\) Incorreta. O texto I apenas noticia um fato, e o texto II de fato
+faz uma reclamação sobre a greve, por ser opinativo.
+\(D\) Incorreta. O texto I apenas noticia um fato, e o texto II de fato
+se solidariza com as pessoas que dependem do transporte público,
 avaliando negativamente a greve.
 
-\num{3}
+\num{3} Leia as manchetes a seguir.
 
 **TEXTO I**
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image23.png){width="5.905555555555556in"
-height="0.8590277777777777in"}
+>**Com Bolsonaro, desmatamento na Amazônia cresce 150%, pior marca já registrada pelo Imazon**
+>*Com devastação recorde em 2022, floresta perdeu o equivalente aos estados de Alagoas e Sergipe nos últimos quatro anos*
 
-Disponível em:
-https://www.brasildefato.com.br/2023/01/20/com-bolsonaro-desmatamento-na-amazonia-cresce-150-pior-marca-©-registrada-pelo-imazon.
+\fonte{Murilo Pajolla. Brasil de fato. Com Bolsonaro, desmatamento na Amazônia cresce 150%, pior marca já registrada pelo Imazon. Disponível em: _https://www.brasildefato.com.br/2023/01/20/com-bolsonaro-desmatamento-na-amazonia-cresce-150-pior-marca-©-registrada-pelo-imazon_. Acesso em: 05 mar. 2023.}
 
-Acesso em: 05 mar. 2023 (fragmento).
 
 **TEXTO II**
 
-![Interface gráfica do usuário, Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image24.png){width="5.415972222222222in"
-height="1.8647659667541556in"}
+>**A mídia mentiu: desmatamento na Amazônia cai mais de 11% em 2022**
+>*O resultado positivo foi consequência do trabalho de diferentes órgãos do Governo Federal na Operação Guardiões*
 
-Disponível em:
-https://jornaldireita.com.br/a-midia-mentiu-desmatamento-na-amazonia-cai-mais-de-11-em-2022/.
-Acesso em: 05 mar. 2023 (fragmento).
+\fonte{Redacción Brasil. Jornal Direita. A mídia mentiu: desmatamento na Amazônia cai mais de 11% em 2022. Disponível em: _https://jornaldireita.com.br/a-midia-mentiu-desmatamento-na-amazonia-cai-mais-de-11-em-2022/_. Acesso em: 05 mar. 2023.}
 
 As manchetes apresentadas nos textos I e II versam sobre o mesmo fato.
 Ao compará-las, o leitor em busca de se informar sobre o assunto terá de
@@ -2847,359 +2140,279 @@ c\) as taxas reais de aumento e queda do desmatamento.
 
 d\) os posicionamentos políticos assumidos pelos veículos.
 
-Saeb: Avaliar a fidedignidade de informações sobre um mesmo fato
+SAEB: Avaliar a fidedignidade de informações sobre um mesmo fato
 divulgado em diferentes veículos e mídias.
-
-BNCC: não há correspondência
 
 \(A\) Incorreta. Os dois textos mencionam o ano de 2022 como o período
 principal de referência das informações.
-
 \(B\) Incorreta. O fato certo presente em ambos os textos,
 independentemente do viés, é a ocorrência do desmatamento.
-
 \(C\) Correta. Os dois textos apresentam dados distintos sobre o
 desmatamento, e o leitor não consegue, à primeira vista, identificar
 qual é mais real, pois provavelmente os critérios por trás do
 levantamento desses dados são completamente diferentes entre os veículos
 de informação e voltados para o interesse do ponto de vista que se quer
 transmitir no texto.
-
 \(D\) Incorreta. Ambos os textos expressam posicionamentos políticos
-claros. O Texto I opõe-se ao governo, apresentando a notícia de modo
-desfavorável a ele, enquanto o Texto II é favorável ao governo, buscando
+claros. O texto I opõe-se ao governo, apresentando a notícia de modo
+desfavorável a ele, enquanto o texto II é favorável ao governo, buscando
 um viés que favoreça a imagem do presidente.
 
 # Módulo 8 
 
- ** -- **MODALIZAÇÃO E ATITUDE DISCURSIVA**
+ **Modalização**
+ 
+ \colorsec{Habilidades do SAEB}
+ - Identificar os recursos de modalização em textos diversos.
+ - Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais com base no gênero textual e na intenção comunicativa.
+- Analisar os efeitos de sentido produzidos pelo uso de modalizadores em textos diversos.
+
+\colorsec{Habilidades da BNCC}
+- EF69LP04, EF69LP28, EF89LP16, EF89LP31, EF08LP16.
 
 Um texto é muito mais que um simples conjunto organizado de palavras e
-frases combinadas. Por trás desse conjunto que chamamos de texto está a
-escolha feita dentre infinitas possibilidades de combinação e seleção de
-palavras e frases. É justamente aí -- nas possibilidades de escolha e
-combinação -- que o autor pode interferir e moldar seu texto segundo
+enunciados combinados. Por trás desse conjunto que chamamos de texto está a
+escolha feita entre infinitas possibilidades de combinação e seleção de
+palavras e frases. É justamente nas possibilidades de escolha e
+combinação que o autor pode interferir, para moldar seu texto segundo
 diferentes objetivos.
 
 Essa intervenção deixa marcas que permitem perceber as atitudes do autor
-em relação àquilo que está dizendo e o direcionamento argumentativo que
-ele pretende dar ao texto. Chamamos essas marcas de modalizadores do
-discurso. Em resumo, modalizadores são as marcas linguísticas que
+em relação àquilo que está dizendo e o direcionamento argumentativo que pretende dar ao texto. Chamamos essas marcas de **modalizadores do
+discurso**. Em resumo, modalizadores são as marcas linguísticas que
 revelam a atitude do autor em relação ao que ele diz, revelando,
 portanto, a subjetividade de quem fala ou escreve. Essas atitudes podem
-ser de crítica, elogio, análise/julgamento, delimitação, sentimento,
+ser, por exemplo, de crítica, elogio, análise/julgamento, delimitação, sentimento,
 intenção, desejo, vontade, necessidade, obrigatoriedade, certeza,
-dúvida, possibilidade, proibição, permissão, crença etc.
-
-A modalização pode ser identificada num texto por meio da observação de
-diferentes elementos linguísticas. Vejamos alguns exemplos.
-
-CERTEZA E INCERTEZA/POSSIBILIDADE OU HIPÓTESE
-
-*É certo que/Certamente*
-
-*Tenho certeza que*
-
-*É claro que/Está claro que*
-
-*É provável que/Provavelmente*
-
-*Talvez*
-
-*Pode ser que*
-
-*É possível que/Possivelmente*
-
-*Parece que*
-
-Verbo no modo indicativo -- Certeza/verdade (A água *ferve* a 100
-graus.)
-
-Verbo no modo subjuntivo -- Dúvida/hipótese (Talvez ele *chegue* mais
-tarde.)
-
-NECESSIDADE E OBRIGAÇÃO
-
-*É preciso*
-
-*É necessário/Faz-se necessário*
-
-*É obrigatório*
-
-*É dever*
-
-*É indispensável*
-
-ANÁLISE/JULGAMENTO
-
-*Felizmente*
-
-*Lamentavelmente*
-
-*Estranhamente*
-
-*Ainda bem que*
-
-*Sinceramente/Francamente*
-
-DELIMITAÇÃO
-
-*Matematicamente/Geograficamente* (do ponto de vista da
-matemática/geografia)
+dúvida, possibilidade, proibição, permissão, crença.
 
 \colorsec{Atividades}
 
-\num{1} Marque o sentido expresso pelas palavras modalizadoras em
+\num{1} Explicite o sentido expresso pelas palavras modalizadoras em
 destaque nas frases.
 
 a\) **Possivelmente**, aqui no Brasil, a melhor solução para os alunos
 das redes públicas de ensino consistirá no uso de conteúdos transmitidos
 por meio dos celulares com internet.
 
-( ) Avaliação ( ) Possibilidade ( ) Delimitação
+Trata-se de avaliação, possibilidade ou delimitação?
 
-Possibilidade. O advérbio "possivelmente" marca uma atitude ponderada do
-enunciador, ao evitar fazer uma afirmação categórica e expressá-la como
-uma possibilidade que pode ou não ser eficiente como solução para o
-problema apontado.
+\linhas{1}
+\coment{Possibilidade.}
 
 b\) O secretário-geral das Nações Unidas, António Guterres, afirmou que
 "**precisamos** alçar a voz contra todas as expressões de racismo e
 casos de comportamento racista".
 
-( ) Avaliação ( ) Obrigação ( ) Necessidade
+Trata-se de avaliação, obrigação ou necessidade?
 
-Necessidade. O locutor traz implícita em sua fala a ideia da necessidade
-de que as pessoas, em conjunto, se posicionem contra expressões de
-racismo e casos de comportamento racista.
+\linhas{1}
+\coment{Necessidade.}
 
-c\) A arte de viver cada vez mais **se faz indispensável** para a
+c\) A arte de viver cada vez mais se faz **indispensável** para a
 emancipação humana.
 
-( ) Necessidade ( ) Obrigação ( ) Certeza
+Trata-se de necessidade, obrigação ou certeza?
 
-Necessidade. A palavra expressa a atitude do locutor frente à relação
-entre a arte de viver cada vez mais e a emancipação humana, significando
-que entre elas há uma relação de dependência.
+\linhas{1}
+\coment{Necessidade.}
 
-d\) Hoje enfrentamos em nosso país árdua discussão sobre o uso do ensino
+d\) Hoje enfrentamos, em nosso país, árdua discussão sobre o uso do ensino
 mediado por tecnologias. **Talvez** esse período nos ensine que ambas as
 modalidades **podem** conviver em harmonia em prol de um projeto
 pedagógico que atenda às necessidades de uma educação voltada para o
-século 21.
+século XXI.
 
-( ) Julgamento ( ) Obrigação ( ) Hipótese
+Trata-se de julgamento, obrigação ou hipótese?
 
-Hipótese. O locutor expressa na frase uma hipótese que ele espera
-acontecer a partir da discussão feita em torno do ensino mediado por
-tecnologias, mas que ao mesmo tempo pode não vir a ocorrer, justamente
-por ser uma hipótese.
+\linhas{1}
+\coment{Hipótese.}
 
 e\) **Estranhamente**, a cada temporada, os eleitores teimam em repetir
 erros grosseiros, votando em candidatos que, lá na frente, voltam a
 atentar contra a cidadania.
 
-( ) Delimitação ( ) Julgamento ( ) Certeza
+Trata-se de delimitação, julgamento ou certeza?
 
-Julgamento. A palavra modalizadora expressa um julgamento subjetivo do
-locutor sobre uma situação de cujos motivos ele parece duvidar, por se
-tratar de algo recorrente.
+\linhas{1}
+\coment{Julgamento.}
 
-\num{2} Numere a segunda coluna de acordo com o posicionamento do falante
+\num{2} Numerando-os, classifique os itens pelo posicionamento do falante
 em relação ao que diz.
 
-  1\. Obrigatoriedade   ( ) É vedado ao assistente social praticar condutas antiéticas.
-  --------------------- -----------------------------------------------------------------
-  2\. Proibição         ( ) Você pode sair hoje à noite com seus amigos.
-  3\. Permissão         ( ) Você deve fazer as tarefas de casa.
+I. Obrigatoriedade.
+II. Proibição.
+III. Permissão.
 
-Gabarito: 2 / 3 / 1
-
-A estrutura "é vedado" é típica dos textos de lei ou de gênero
-semelhante para expressar proibições. O verbo "poder", dentre as nuances
-de sentido que apresenta, como possibilidade, dedução lógica, permissão,
-expressa uma permissão dada por alguém que detém tal prerrogativa, como,
-por exemplo, um pai ou uma mãe falando com o filho. É o mesmo que ocorre
-com o verbo "dever", que dentre as nuances como dedução lógica,
-necessidade e obrigatoriedade, expressa uma obrigatoriedade imposta por
-alguém com tal prerrogativa, como um professor falando com seu aluno.
+( \coment{II} ) É vedado ao assistente social praticar condutas antiéticas.
+( \coment{III} ) Você pode sair hoje à noite com seus amigos.
+( \coment{I} ) Você deve fazer as tarefas de casa.
 
 \num{3} Adicione modalizadores às frases de acordo com o sentido indicado
-nos parênteses.
+entre parênteses.
 
-a\) Ele acredita demais nas próprias verdades. (Hipótese)b) Ele viu o
-gabarito antes da prova. (Incerteza)
+a\) Ele acredita demais nas próprias verdades. (Hipótese)
+
+\linhas{3}
+\coment{Possibilidade de resposta: Talvez ele acredite demais nas próprias verdades.}
+
+b\) Ele viu o gabarito antes da prova. (Incerteza)
+
+\linhas{3}
+\coment{Possibilidade de resposta: Parece que ele viu o gabarito antes da prova.}
 
 c\) Eu vou chegar à escola às 7h. (Necessidade)
 
+\linhas{3}
+\coment{Possibilidade de resposta: Eu preciso chegar à escola às 7h.}
+
 d\) Não tirou boa nota na escola este ano. (Julgamento)
 
-e\) João viajará de avião por temer o perigo das estradas.
-(Probabilidade)
+\linhas{3}
+\coment{Possibilidade de resposta: Infelizmente, não tirou boa nota na escola este ano.}
 
-(1 linha para cada frase)
+e\) João viajará de avião por temer o perigo das estradas. (Probabilidade)
 
-São diversas as possibilidades de palavras de modalização para a
-construção das ideias sugeridas, que devem ser aceitas desde que
-coerentes e coesas do ponto de vista semântico e formal da língua.
-Hipóteses de resposta:
-
-a\) Talvez ele acredite demais nas próprias verdades.
-
-b\) Parece que ele viu o gabarito antes da prova.
-
-c\) Eu preciso chegar à escola às 7h.
-
-d\) Infelizmente não tirou boa nota na escola este ano.
-
-e\) João provavelmente viajará de avião por temer o perigo das estradas.
+\linhas{3}
+\coment{Possibilidade de resposta: João provavelmente viajará de avião por temer o perigo das estradas.}
 
 \num{4} Aponte, em cada texto, a palavra ou expressão que permite
 identificar a atitude de quem fala frente ao que é dito. Em seguida,
-justifique.
+justifique a resposta.
 
 a\) Um banho quente de chuveiro elétrico de 15 minutos consome 135
 litros de água. Um banho de 5 minutos, com o registro fechado para
 ensaboar, consome apenas 45 litros.
 
+\linhas{4}
+\coment{A palavra é "apenas". O locutor avalia uma atitude em relação a outra no
+uso de água, realçando uma delas como a mais adequada para a economia de
+água.}
+
 b\) Ainda é cedo para afirmar quais são os verdadeiros impactos da
 sociedade tecnológica.
+
+\linhas{4}
+\coment{A expressão é "ainda é cedo". O locutor alerta que pode ser leviano
+fazer uma afirmação sobre os impactos da sociedade tecnológica.
 
 c\) O controle de dados dos internautas pode ser utilizado como
 artifício para manipular a opinião desse público.
 
+\linhas{4}
+\coment{A expressão é "pode ser". O locutor evita generalizar que todo controle
+de dados é usado para fins negativos de manipulação, expressando assim
+que o uso para essa finalidade é uma das possibilidades, que podem
+também ser positivas.}
+
 d\) Sim! Foi a Tara Sports, usando a imagem de Ronaldo Fenômeno, que
 salvou o Cruzeiro de um buraco ainda maior em 2022.
 
-(3 linhas para cada frase)
-
-a\) Palavra: apenas. O locutor avalia uma atitude em relação a outra no
-uso de água, realçando uma delas como a mais adequada para a economia de
-água.
-
-b\) Expressão: ainda é cedo para. O locutor alerta que pode ser leviano
-fazer uma afirmação sobre os impactos da sociedade tecnológica.
-
-c\) Expressão: pode ser. O locutor evita generalizar que todo controle
-de dados é usado para fins negativos de manipulação, expressando assim
-que o uso para essa finalidade é uma das possibilidades, que podem
-também ser positivas.
-
-d\) Palavra: "Sim!". Trata-se de uma afirmação categórica que se
+\linhas{4}
+\coment{A palavra é "sim". Trata-se de uma afirmação categórica que se
 antecipa ao teor do que está sendo confirmado pela palavra, demonstrando
 que o locutor acredita piamente no que diz e pretende que seu leitor
-também acredite.
+também acredite.}
 
-\num{5} Escreva sentenças que expressem as atitudes indicadas abaixo.
+\num{5} Escreva sentenças que expressem as atitudes indicadas a seguir.
 
-a\) Certeza
+a\) Certeza.
 
-b\) Incerteza
+\linhas{3}
+\coment{Resposta pessoal.}
 
-c\) Hipótese
+b\) Incerteza.
 
-d\) Necessidade
+\linhas{3}
+\coment{Resposta pessoal.}
 
-e\) Obrigação
+c\) Hipótese.
 
-f\) Análise/julgamento
+\linhas{3}
+\coment{Resposta pessoal.}
 
-(1 linha para cada item)
+d\) Necessidade.
 
-São diversas as possibilidades de palavras de modalização para a
-construção das ideias sugeridas, que devem ser aceitas desde que
-coerentes e coesas do ponto de vista semântico e formal da língua.
+\linhas{3}
+\coment{Resposta pessoal.}
 
-**Texto para as questões de 6 a 8.**
+e\) Obrigação.
 
-**TEXTO I**
+\linhas{3}
+\coment{Resposta pessoal.}
 
-"A informação está cada vez mais ao nosso alcance. Mas a sabedoria, que
+f\) Análise/julgamento.
+
+\linhas{3}
+\coment{Resposta pessoal.}
+
+Leia o texto a seguir para resolver as atividades de 6 a 8.
+
+>A informação está cada vez mais ao nosso alcance. Mas a sabedoria, que
 é o tipo mais precioso de conhecimento, essa só pode ser encontrada nos
-grandes autores da literatura."
+grandes autores da literatura.
 
-CEREJA, W. R; MAGALHÃES, T. C. *Português*: linguagens. São Paulo:
-Atual, 2012. P. 11.
+\fonte{W. R. Cereja e T. C. Magalhães. *Português:* linguagens. São Paulo:
+Atual, 2012.}
 
 \num{6} Qual é o assunto principal do texto?
 
-(2 linhas)
+\linhas{2}
+\coment{O assunto do texto é o valor da informação comparado ao valor da
+sabedoria.}
 
-O assunto do texto é o valor da informação comparado ao valor da
-sabedoria.
+\num{7} A parcialidade é uma característica presente no texto. Qual é a opinião que o texto traz sobre o assunto tratado?
 
-\num{7} A parcialidade é uma característica presente no texto transcrito.
-Qual é a opinião que o texto traz sobre o assunto tratado?
-
-(5 linhas)
-
-A opinião expressa é a de que a sabedoria vale mais que a informação,
-pois está é trivial, por sua presença maciça e facilidade de alcance por
-todos, enquanto a sabedoria está restrita à literatura de grandes
-autores, demandando maior esforço para ser adquirida.
+\linhas{6}
+\coment{A opinião expressa é a de que a sabedoria vale mais que a informação,
+pois esta é trivial, por sua presença maciça e pela facilidade de alcance por
+todos, enquanto aquela está restrita à literatura de grandes autores, demandando maior esforço para ser adquirida.}
 
 \num{8} Qual é o efeito de sentido provocado pelos elementos linguísticos
-"mas" e "só" na construção da opinião presente no texto?
+"mas" e "só" na construção da opinião presente no texto? Explique.
 
-(5 linhas)
-
-O articulador "mas" expressa sentido oposto ao que foi dito na frase
-anterior, e com ela o texto atribui valor especial à sabedoria em
+\linhas{6}
+\coment{O articulador "mas" expressa sentido oposto ao que foi dito na frase
+anterior, e com ele o texto atribui valor especial à sabedoria em
 oposição à trivialidade da informação. O termo "só" reforça que a
 sabedoria é restrita a poucos, enquanto a informação é mais facilmente
-acessível.
+acessível.}
 
-**Texto para as questões 9 e 10.**
+\num{9} Para tentar combater o tabagismo, a Prefeitura de Araçás (um município da Bahia) lançou um anúncio com estes dizeres:
 
-**TEXTO II**
+>Não deixe sua vida virar fumaça!
 
-![Texto, Quadro de comunicações Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image25.jpeg){width="2.575in"
-height="3.21875in"}
+O anúncio de que esse texto fazia parte celebrava o dia 31 de maio como o dia mundial de combate ao fumo.
 
-Disponível em:
-https://www.aracas.ba.gov.br/Site/Noticias/noticia-020620220839064273-E-a-melhor-preven-o-parar-de-fumar-Cuide-de-voc-e-da-sa-de-das-pessoas-ao.
-Acesso em: 19 mar. 2023.
+O texto utiliza-se da estratégia de abordar o leitor de forma menos enfática e mais suave. Qual é a ordem ou recomendação enfática que foi suavizada?
 
-\num{9} O texto utiliza-se da modalização para abordar o leitor de forma
-menos enfática e mais suave. Qual é a ordem ou recomendação enfática que
-foi suavizada? (2 linhas)
+\linhas{2}
+\coment{A ordem é: Pare de fumar!}
 
-"Pare de fumar!"
+\num{10} Ainda sobre o texto presente na atividade anterior, qual é o efeito de sentido obtido no texto com a abordagem menos enfática do leitor?
 
-Trata-se do sentido denotativo correspondente ao sentido conotativo
-empregado como estratégia argumentativa no texto original.
-
-\num{0} Qual é o efeito de sentido obtido no texto com a abordagem menos
-enfática do leitor?
-
-O emprego de sentido conotativo, responsável pela abordagem menos
+\linhas{6}
+\coment{O emprego de sentido conotativo, responsável pela abordagem menos
 enfática ao leitor, gerou um efeito menos impositivo e autoritário no
 texto, e assim pode contribuir para a adesão do leitor, por não ser
-abordado de uma forma que pode lhe causar incômodo.
-
-**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+abordado de uma forma que pode lhe causar incômodo.}
 
 \colorsec{Treino}
 
-**Texto para as questões de 1 a 3.**
+Leia o texto e responda às questões de 1 a 3.
 
-**Manaus sofre com expansão urbana em assentamentos precários**
+>**Manaus sofre com expansão urbana em assentamentos precários**
+>*Crescimento desordenado favorece ocorrência de desastres naturais*
 
-*Crescimento desordenado favorece ocorrência de desastres naturais*
+>Um estudo publicado recentemente pela rede colaborativa de organizações não governamentais (ONGs) MapBiomas mostra que Manaus é a cidade com maior expansão das áreas urbanizadas em assentamentos precários no país. A ocupação desordenada em áreas de risco trouxe problemas ambientais graves, como a ocorrência de desastres naturais e outros processos de degradação ambiental causados pela ação do homem. \[...] um deslizamento de terra na capital amazonense atingiu 11 casas do bairro Jorge Teixeira, na zona leste da cidade, e deixou oito mortos. O prefeito David Almeida decretou estado de calamidade pública.
 
-Um estudo publicado recentemente pela rede colaborativa de organizações
-não governamentais (ONGs) MapBiomas mostra que Manaus é a cidade com
-maior expansão das áreas urbanizadas em assentamentos precários no país.
+>Em razão dessa tragédia, a MapBiomas reuniu dados específicos do bairro onde ocorreram as fatalidades para verificar a evolução de áreas urbanizadas em Manaus. "Especificamente na Rua Pingo D’agua, no Bairro Jorge Teixeira em Manaus, onde ocorreu a morte de oito pessoas devido a um deslizamento de terra, não havia registro de área de risco cadastrada. No entanto, a área encontra-se dentro de um assentamento precário conhecido e delimitado pelo IBGE", aponta o estudo.
 
-Disponível em:
-https://agenciabrasil.ebc.com.br/geral/noticia/2023-03/manaus-sofre-com-expansao-urbana-em-assentamentos-precarios.
-Acesso em: 19 mar. 2023 (fragmento).
+>\[...]
 
-\num{1}
+\fonte{Pedro Lacerda. Agência Brasil. Manaus sofre com expansão urbana em assentamentos precários. Disponível em: _https://agenciabrasil.ebc.com.br/geral/noticia/2023-03/manaus-sofre-com-expansao-urbana-em-assentamentos-precarios_. Acesso em: 19 mar. 2023.}
 
-O texto, sendo do gênero notícia, privilegia na manchete o emprego de
-verbos no tempo presente, produzindo o efeito de
+\num{1} O texto privilegia na manchete o emprego de verbos no tempo presente, produzindo o efeito de
 
 a\) atualidade dos fatos noticiados.
 
@@ -3209,35 +2422,25 @@ c\) imparcialidade na abordagem dos fatos.
 
 d\) apreciação sobre os fatos noticiados.
 
-Saeb: Analisar os efeitos de sentido dos tempos, modos e/ou vozes
+SAEB: Analisar os efeitos de sentido dos tempos, modos e/ou vozes
 verbais com base no gênero textual e na intenção comunicativa.
-
-BNCC: EF08LP16
+BNCC: EF08LP16 -- Explicar os efeitos de sentido do uso, em textos, de estratégias de modalização e argumentatividade (sinais de pontuação, adjetivos, substantivos, expressões de grau, verbos e perífrases verbais, advérbios etc.).
 
 \(A\) Correta. A notícia privilegia o relato de fatos relevantes do
-cotidiano de uma sociedade, e para manter o interesse do leitor ou
+cotidiano de uma sociedade e, para manter o interesse do leitor ou
 ganhar sua atenção, precisa sempre parecer nova e recente, já que os
-fatos novos sempre se sobrepõem aos antigos, o mesmo acontecendo com as
-notícias. Para isso, recorre ao emprego do tempo verbal presente do
-indicativo.
-
+fatos novos sempre se sobrepõem aos antigos. Para isso, recorre ao emprego do tempo verbal presente do indicativo.
 \(B\) Incorreta. A veracidade dos fatos não depende exclusivamente do
 tempo verbal presente, pois há trechos de notícia narrados com o tempo
-verbal passado, nem por isso deixando de ser verdadeiros. Além disso, a
-veracidade pode ser comprovada com o depoimento das pessoas envolvidas
-no fato.
-
+verbal pretérito que não deixam de ser verdadeiros.
 \(C\) Incorreta. A imparcialidade se constrói por meio de outras
-estratégias, como o uso de terceira pessoa, citação de depoimentos etc.
-
+estratégias, como o uso de terceira pessoa.
 \(D\) Incorreta. O gênero notícia busca, geralmente, abordar os fatos
 com objetividade, embora possa apresentar traço de opinião. Entretanto,
 o tempo verbal presente não é um dos elementos linguísticos usados para
 marcar opinião.
 
-\num{2}
-
-Os termos "expansão urbana" e "crescimento desordenado", ao revelarem
+\num{2} Os termos "expansão urbana" e "crescimento desordenado", ao revelarem
 posicionamentos distintos em relação ao mesmo fato, exemplificam o
 fenômeno da
 
@@ -3249,58 +2452,43 @@ c\) objetividade.
 
 d\) imparcialidade.
 
-Saeb: Identificar os recursos de modalização em textos diversos.
+SAEB: Identificar os recursos de modalização em textos diversos.
+BNCC: EF08LP16 -- Explicar os efeitos de sentido do uso, em textos, de estratégias de modalização e argumentatividade (sinais de pontuação, adjetivos, substantivos, expressões de grau, verbos e perífrases verbais, advérbios etc.).
 
-BNCC: EF08LP16
-
-\(A\) Incorreta. A veracidade está presente no texto, por se tratar do
-gênero notícia, mas não se trata de uma característica influenciada
-pelas expressões em questão.
-
+\(A\) Incorreta. A veracidade está presente no texto, mas não se trata de uma característica influenciada pelas expressões em questão.
 \(B\) Correta. A expressão "expansão urbana" é atribuída à ONG MapBiomas
 e revela uma postura menos avaliativa e mais neutra sobre o crescimento
 da cidade de Manaus. Por outro lado, referindo-se ao mesmo fato, a
 expressão "crescimento desordenado", presente em trechos que
 correspondem à voz do veículo de notícias, revela uma apreciação sobre o
 crescimento da cidade de Manaus.
-
 \(C\) Incorreta. Embora a objetividade seja uma característica desejável
-no gênero notícia, a expressão "crescimento desordenado" revela certo
+no texto em questão, a expressão "crescimento desordenado" revela certo
 grau de subjetividade por trazer em si uma postura avaliativa do veículo
 de notícias em relação ao fato.
-
 \(D\) Incorreta. Embora a imparcialidade seja uma característica
-desejável no gênero notícia, apenas uma das expressões, o termo
+desejável no texto em questão, apenas uma das expressões, o termo
 "expansão urbana", traz um efeito semântico mais imparcial.
 
-\num{3}
+\num{3} A transmissão de informações sobre o fato mescla-se, no texto, com a
+emissão de posicionamento do veículo, manifestado
 
-A transmissão de informações sobre o fato mescla-se, na notícia, com a
-emissão de posicionamento do veículo, manifestado no(a)
+a\) na linguagem desinteressada com que o fato é abordado.
 
-a\) linguagem desinteressada com que o fato é abordado.
+b\) no emprego da primeira pessoa para marcar a pessoalidade.
 
-b\) emprego da primeira pessoa para marcar a pessoalidade.
+c\) na citação de um estudo desenvolvido pela ONG MapBiomas.
 
-c\) citação de um estudo desenvolvido pela ONG MapBiomas.
+d\) na visão pessimista sobre o crescimento da cidade de Manaus.
 
-d\) visão pessimista sobre o crescimento da cidade de Manaus.
+SAEB: Analisar os efeitos de sentido produzidos pelo uso de modalizadores em textos diversos.
+BNCC: EF08LP16 -- Explicar os efeitos de sentido do uso, em textos, de estratégias de modalização e argumentatividade (sinais de pontuação, adjetivos, substantivos, expressões de grau, verbos e perífrases verbais, advérbios etc.).
 
-Saeb: Analisar os efeitos de sentido produzidos pelo uso de
-modalizadores em textos diversos.
-
-BNCC: EF08LP16
-
-\(A\) Incorreta. A linguagem é do texto é comprometida com o jornalismo
+\(A\) Incorreta. A linguagem do texto é comprometida com o jornalismo
 e com a postura do veículo de notícias frente ao fato.
-
-\(B\) Incorreta. Tratando-se de uma notícia, a linguagem empregada é
-sempre em terceira pessoa para marcar a impessoalidade, característica
-desejável nesse gênero textual.
-
+\(B\) Incorreta. A linguagem empregada é sempre em terceira pessoa para marcar a impessoalidade, característicadesejável no texto em questão.
 \(C\) Incorreta. A citação do estudo feito pela ONG tem como objetivo
-aumentar a credibilidade da notícia, em não emitir apreciação.
-
+aumentar a credibilidade do texto, e não emitir apreciação.
 \(D\) Correta. O veículo de notícia refere-se ao fato noticiado
 empregando a expressão "crescimento desordenado", citando ainda os
 respectivos prejuízos para Manaus. O título demonstra esse
@@ -3310,23 +2498,29 @@ fato.
 
 # Módulo 9 
 
- ** -- **FIGURAS DE LINGUAGEM E ESTRATÉGIA ARGUMENTATIVA**
+ **Figuras de linguagem**
+ 
+\colorsec{Habilidades do SAEB}
+- Analisar o uso de figuras de linguagem como estratégia argumentativa.
+- Avaliar a eficácia das estratégias argumentativas em textos de diferentes gêneros.
 
-As figuras de linguagem são recursos muito úteis aos textos
+\colorsec{Habilidades da BNCC}
+- EF69LP17, EF89LP06, EF89LP14, EF89LP37.
+
+As figuras de linguagem podem ser recursos muito úteis nos textos
 argumentativos. Elas se caracterizam por expressarem sempre um sentido
-figurado, mas não se restringem somente aos textos literários. Por darem
+figurado, mas não se restringem aos textos literários. Por darem
 dinâmica e maior força à construção de sentidos em um texto,
-consequentemente auxiliam o autor na tarefa de argumentar, persuadir,
+consequentemente podem auxiliar o autor na tarefa de argumentar, persuadir,
 convencer.
 
 Figuras de linguagem são recursos que permitem tornar o texto mais rico
 e interessante, pois provocam um deslocamento do sentido literal para o
 sentido figurado, isto é, trata-se de uma fuga da expressão comum para
-uma expressão inovadora, enriquecendo assim a linguagem e os sentidos
-que dela se constroem.
+uma expressão inovadora, o que enriquece a linguagem.
 
 São várias as figuras de linguagem, mas aqui vamos nos ater às mais
-importantes e cujo caráter argumentativo é mais perceptível e recorrente
+importantes, cujo caráter argumentativo é mais perceptível e recorrente
 em textos argumentativos.
 
 +----------------------+----------------------+----------------------+
@@ -3334,19 +2528,19 @@ em textos argumentativos.
 | linguagem**          |                      |                      |
 +======================+======================+======================+
 | Comparação           | É a relação de       | 1\) O teu olhar é    |
-|                      | semelhança entre     | fulminante como um   |
-|                      | coisas, pessoas      | raio.                |
-|                      | etc., por meio de um |                      |
-|                      | item linguístico que | 2\) Ele fala que nem |
+|                      | semelhança entre     | fulminante **como** um   |
+|                      | elementos,           | raio.                |
+|                      | por meio de um       |                      |
+|                      | item linguístico que | 2\) Ele fala **que nem** |
 |                      | promova uma          | papagaio.            |
 |                      | comparação           |                      |
 |                      | explícita.           |                      |
 +----------------------+----------------------+----------------------+
 | Metáfora             | É o desvio da        | Toda profissão tem   |
-|                      | significação própria | seus espinhos. (isto |
-|                      | de uma palavra por   | é, suas              |
-|                      | meio de uma          | dificuldades, seus   |
-|                      | comparação mental ou | percalços)           |
+|                      | significação própria | seus espinhos.       |
+|                      | de uma palavra por   |                      |
+|                      | meio de uma          |                      |
+|                      | comparação mental ou |                      |
 |                      | característica comum |                      |
 |                      | entre dois seres ou  |                      |
 |                      | fatos.               |                      |
@@ -3360,51 +2554,48 @@ em textos argumentativos.
 +----------------------+----------------------+----------------------+
 | Metonímia            | Consiste em usar uma | Ele não tinha teto   |
 |                      | palavra no lugar de  | onde se abrigasse.   |
-|                      | outra por causa da   | (isto é, não tinha   |
-|                      | afinidade de sentido | casa onde morar)     |
+|                      | outra por causa da   |                      |
+|                      | afinidade de sentido |                      |
 |                      | entre elas, o que    |                      |
 |                      | não significa que    |                      |
 |                      | sejam sinônimas.     |                      |
 +----------------------+----------------------+----------------------+
 | Eufemismo            | Consiste em suavizar | O político faltou    |
-|                      | a expressão de uma   | com a verdade. (isto |
-|                      | ideia triste ou      | é, mentiu)           |
+|                      | a expressão de uma   | com a verdade.       |
+|                      | ideia triste ou      |                      |
 |                      | desagradável,        |                      |
 |                      | substituindo por um  |                      |
 |                      | termo polido menos   |                      |
 |                      | impactante.          |                      |
 +----------------------+----------------------+----------------------+
-| Hipérbole            | Consiste no exagero  | "Eu nasci há 10 mil  |
-|                      | da expressão.        | anos atrás" (Raul    |
-|                      |                      | Seixas)              |
+| Hipérbole            | Consiste no exagero  | Já foi falado mais   |
+|                      | da expressão.        | de mil vezes.        |
+|                      |                      |                      |
 +----------------------+----------------------+----------------------+
-| Antítese             | Consiste na          | As melhores marcas   |
-|                      | colocação de duas    | com o menor preço!   |
-|                      | ideias opostas lado  |                      |
-|                      | a lado, na mesma     |                      |
-|                      | frase.               |                      |
+| Antítese             | Consiste na          | Não sei se gosto     |
+|                      | colocação de duas    | mais do dia, não sei |
+|                      | ideias opostas lado  | se gosto mais da     |
+|                      | a lado, no mesmo     | noite.               |
+|                      | enunciado.           |                      |
 +----------------------+----------------------+----------------------+
-| Gradação             | Consiste numa        | "Nem o sol, nem o    |
-|                      | sequência de ideias  | mar, nem o brilho    |
-|                      | colocadas em ordem   | das estrelas. Tudo   |
-|                      | crescente ou         | isso não tem valor   |
-|                      | decrescente de       | sem você." (Beto     |
-|                      | intensidade.         | Guedes)              |
+| Gradação             | Consiste numa        | Você tira o lixo de  |
+|                      | sequência de ideias  | casa, da rua, do     |
+|                      | colocadas em ordem   | bairro, da cidade    |
+|                      | crescente ou         | e até do país, mas   |
+|                      | decrescente de       | não tira do planeta. |
+|                      | intensidade.         |                      |
 +----------------------+----------------------+----------------------+
 | Prosopopeia          | Consiste na          | "E o canto daquela   |
 |                      | atribuição de        | guitarra estrangeira |
 |                      | características      | era um lamento       |
 |                      | humanas a seres      | choroso e dolorido." |
-|                      | inanimados,          | (Aluísio Azevedo)    |
-|                      | comumente o          |                      |
-|                      | pensamento ou a fala |                      |
-|                      | humanos.             |                      |
+|                      | inanimados.          | (Aluísio Azevedo)    |
 +----------------------+----------------------+----------------------+
 | Catacrese            | Consiste em dar um   | Ele colocou um dente |
 |                      | novo sentido a uma   | de alho no arroz.    |
-|                      | palavra já           | (dente de alho)      |
+|                      | palavra já           |                      |
 |                      | existente, fazendo   |                      |
-|                      | com que ale passe a  |                      |
+|                      | com que ela passe a  |                      |
 |                      | dar nome a outro     |                      |
 |                      | ser, como se fosse   |                      |
 |                      | um empréstimo        |                      |
@@ -3413,95 +2604,97 @@ em textos argumentativos.
 
 \colorsec{Atividades}
 
-Nomeie a figura de linguagem presente em cada texto e justifique a
-presença dela.
+Nas próximas atividades, omeie a figura de linguagem presente em cada texto e justifique a
+presença dela, mostrando como se dá o teor argumentativo em cada caso.
 
 \num{1} Parabéns à Argentina, que bateu o recorde com a maior inflação em
-31 anos. Convenhamos, 102% de inflação em 12 meses não é para qualquer
+31 anos. Convenhamos: 102% de inflação em 12 meses não é para qualquer
 um.
 
+\linhas{4}
+\coment{Ironia. A inflação, algo que é prejudicial à economia de um país, é
+tratada como se fosse algo bom, equiparado a um recorde, mas a intenção
+do autor é dizer justamente o contrário.}
+
 \num{2} O meio ambiente pede socorro!
+
+\linhas{4}
+\coment{Prosopopeia. O meio ambiente ganha expressão humana ao pedir
+socorro, como forma de reforçar o perigo que a natureza está correndo.}
 
 \num{3} Vida ou morte são situações corriqueiras na vida de médicos e
 veterinários.
 
-\num{4} Fui tão feliz naquela época, eu vivia no paraíso e não sabia!
+\linhas{4}
+\coment{Antítese. A figura de linguagem está representada na presença dos
+termos opostos "vida" e "morte", o que pretende, por exemplo, reforçar a importância e, ao mesmo tempo, a dificuldade das profissões mencionadas.}
 
-\num{5} "\[\...\] coube-me a boa fortuna de não comprar o pão com o suor
+\num{4} Fui tão feliz naquela época. Eu vivia no paraíso e não sabia!
+
+\linhas{4}
+\coment{Metáfora. O momento feliz é comparado a uma vida no paraíso, símbolo
+de uma vida livre de problemas e cheia de felicidade, e isso dá muita expressividade ao momento de felicidade.}
+
+\num{5} "coube-me a boa fortuna de não comprar o pão com o suor
 do meu rosto." (Machado de Assis)
+
+\linhas{4}
+\coment{Metonímia. O pão representa o alimento do dia a dia e o suor
+representa o trabalho. Com esses usos, o texto ganha força argumentativa ao mostrar que os dois elementos se opõem.}
 
 \num{6} Eu já te falei um milhão de vezes que eu não gosto disso!
 
-\num{7} Ela berrou, gritou, falou, sussurrou, murmurou... já não havia
-mais nada que pudesse fazer.
+\linhas{4}
+\coment{Hipérbole. O exagero ocorre ao quantificar um número de vezes
+impossível de alguém dizer algo. Nesse caso, o exagero gera uma argumentação mais forte.}
+
+\num{7} Ela murmurou, sussurrou, falou, gritou, berrou... já não havia mais nada que pudesse fazer.
+
+\linhas{4}
+\coment{Gradação. Os termos "gritar", "falar" e "murmurar" são variações de
+uma mesma forma de expressão oral, significando que a personagem tentou
+todas as possibilidades frente a alguma situação não citada na frase. A gradação é responsável por mostrar que as possibilidades de ação se esgotaram.}
 
 \num{8} Os pais normalmente odeiam que as crianças se sentem no braço do
 sofá.
 
-\num{9} Aquela casa parece um hospício!
+\linhas{4}
+\coment{Catacrese. A parte do sofá chamada "braço" exemplifica o emprego
+dessa palavra fora de seu uso original.}
 
-\num{0} O réu faltou com a verdade no julgamento.
+\num{9} Aquela casa parece um campo de batalha!
 
-(3 linhas para cada item)
+\linhas{4}
+\coment{Comparação. A comparação entre a casa e o hospício significa que as
+pessoas que ali moram se comportam de modo hostil. A construção da imagem reforça a ideia.}
 
-\num{1} Ironia. A inflação, algo que é prejudicial à economia de um país, é
-tratado como se fosse algum bom, equiparado a um recorde, mas a intenção
-do autor é dizer justamente o contrário.
+\num{10} O réu faltou com a verdade no julgamento.
 
-\num{2} Prosopopeia. O meio ambiente ganha expressão humana ao pedir
-socorro, como forma de reforçar o perigo que a natureza está correndo.
-
-\num{3} Antítese. A figura de linguagem está representada na presença dos
-termos opostos "vida" e "morte".
-
-\num{4} Metáfora. O momento feliz é comparado a uma vida no paraíso, símbolo
-de uma vida livre de problemas e cheia de felicidade.
-
-\num{5} Metonímia. O pão representa o alimento do dia a dia e o suor
-representa o trabalho.
-
-\num{6} Hipérbole. O exagero ocorre ao quantificar um número de vezes
-impossível de alguém dizer algo.
-
-\num{7} Gradação. Os termos "gritar", "falar" e "murmurar" são variações de
-uma mesma forma de expressão oral, significando que a personagem tentou
-todas as possibilidades frente a alguma situação não citada na frase.
-
-\num{8} Catacrese. A parte do sofá chamada "braço" exemplifica o emprego
-dessa palavra fora de seu uso original.
-
-\num{9} Comparação. A comparação entre a casa e o hospício significa que as
-pessoas que ali moram se comportam de modo fora do comum.
-
-\num{10} Eufemismo. O eufemismo "faltar com a verdade" é uma forma de evitar
-usar uma expressão mais pesada como "mentir".
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{4}
+\coment{Eufemismo. O eufemismo "faltar com a verdade" é uma forma de evitar
+usar uma expressão mais pesada, como "mentir".}
 
 \colorsec{Treino}
 
-\num{1}
+\num{1} Leia o texto.
 
-Enquanto minha mãe era velada na sala de casa, tia Leonor me trocou a
+>**O exercício da incerteza**
+
+>Enquanto minha mãe era velada na sala de casa, tia Leonor me trocou a
 roupa e disse: "A mamãe descansou". Fiquei sem saber o que pensar; tinha
 apenas quatro anos, mas imaginei que descansar devia ser uma coisa ruim,
 porque todos choravam.
 
-Passadas algumas semanas, senti uma tristeza doída no café da manhã
+>Passadas algumas semanas, senti uma tristeza doída no café da manhã
 enquanto vó Aurélia fervia o leite, de costas para mim. "Vó, nunca mais
 vou ver a minha mãe?"
 
-Ela ouviu em silêncio, sem se virar para mim. Tinha lágrimas nos olhos
+>Ela ouviu em silêncio, sem se virar para mim. Tinha lágrimas nos olhos
 quando consegui ver seu rosto.
 
-Nesse dia entendi que morte era a ausência definitiva.
+\fonte{Drauzio Varella. *O exercício da incerteza:* Memórias. São Paulo: Companhia das Letras, 2022.}
 
-VARELLA, Drauzio. *O exercício da incerteza*: Memórias. 1.ed.
-
-São Paulo: Companhia das Letras, 2022 (fragmento).
-
-No contexto apresentado, o uso da expressão "A mamãe descansou" teve
-objetivo de
+No contexto apresentado, o uso da expressão "A mamãe descansou" teve o objetivo de
 
 a\) esconder do menino a notícia da morte da mãe.
 
@@ -3511,56 +2704,51 @@ d\) provocar no menino o sentimento de perda da mãe.
 
 c\) explicar ao menino o sentido real do descanso da mãe.
 
-Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
+SAEB: Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
-
-BNCC: EF67LP38
+BNCC: EF67LP38 -- Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.
 
 \(A\) Incorreta. O menino acompanhou o velório da mãe, que foi realizado
-na casa da família, portanto ele sabia da morte dela.
-
-\(B\) Correta. A expressão se caracteriza como eufemismo, uma figura de
-linguagem, e buscou amenizar a dor do menino, embora ele não tivesse a
-real dimensão do fato. Sendo ele uma criança, a tia preocupou-se em
-confortá-lo pela perda da mãe.
-
+na casa da família; portanto ele sabia da morte dela.
+\(B\) Correta. A expressão se caracteriza como eufemismo, o que busca amenizar a dor do menino, embora ele não tivesse a real dimensão do fato. Sendo ele uma criança, a tia preocupou-se em confortá-lo pela perda da mãe.
 \(C\) Incorreta. Por se tratar de uma criança, de modo algum a tia, que
 lhe tinha afeto, teria a intenção de aumentar no menino a dor da perda
 da mãe.
+\(D\) Incorreta. A expressão não explica o sentido real, mas dá ao menino uma percepção que ele conseguiria apreender.
 
-\(D\) Incorreta. Somente no fim do texto o menino compreende o sentido
-real da expressão usada pela tia. Esse entendimento foi provocado em
-outra situação posterior, vivida com a avó.
+\num{2} Leia o poema.
 
-\num{2}
-
+>**XXI**
+>
 Se eu pudesse trincar a terra toda
-
+>
 E sentir-lhe um paladar,
-
+>
 Seria mais feliz um momento\...
-
+>
 Mas eu nem sempre quero ser feliz.
-
+>
 É preciso ser de vez em quando infeliz
-
+>
 Para se poder ser natural\...
 
+>
 Nem tudo é dias de sol,
-
+>
 E a chuva, quando falta muito, pede-se.
-
+>
 Por isso tomo a infelicidade com a felicidade
-
+>
 Naturalmente, como quem não estranha
-
+>
 Que haja montanhas e planícies
-
+>
 E que haja rochedos e erva\...
 
-PESSOA, Fernando. Disponível em: http://arquivopessoa.net/textos/613.
 
-Acesso em: 19 mar. 2023 (fragmento).
+>\[...]
+
+\fonte{Fernando Pessoa. O guardador de rebanhos. In: *Poemas de Alberto Caeiro*. Disponível em: http://arquivopessoa.net/textos/613. Acesso em: 19 mar. 2023.}
 
 A visão de mundo expressa no poema é construída linguisticamente a
 partir de uma figura de linguagem caracterizada por
@@ -3573,45 +2761,38 @@ c\) exagerar o sentido das expressões.
 
 d\) inverter o sentido das expressões.
 
-Saeb: Analisar o uso de figuras de linguagem como estratégia
-argumentativa.
-
-BNCC: EF89LP37
+SAEB: Analisar o uso de figuras de linguagem como estratégia argumentativa.
+BNCC: EF89LP37 -- Analisar os efeitos de sentido do uso de figuras de linguagem como ironia, eufemismo, antítese, aliteração, assonância, dentre outras.
 
 \(A\) Correta. O emparelhamento de ideias opostas é feito pela figura de
-linguagem chamada antítese, que no texto se identifica pelos versos com
+linguagem chamada antítese, que no texto se identifica pelos versos em
 que se acham as seguintes ideias: feliz/infeliz, sol/chuva,
 felicidade/infelicidade, montanhas/planícies, rochedos/erva.
-
 \(B\) Incorreta. A alternativa se refere ao eufemismo, que não é a
 principal figura de linguagem no poema, pois não há recorrência dela.
-
 \(C\) Incorreta. O exagero é obtido por meio da hipérbole, que não se
 faz presente no poema.
-
 \(D\) Incorreta. Trata-se da ironia, figura de linguagem que significa o
 contrário do que se diz, característica que não se encontra no poema.
 
-\num{3}
+\num{3} Leia o texto.
 
-**Obesidade infantil é tema do programa Salto para o Futuro**
-
+>**Obesidade infantil é tema do programa Salto para o Futuro**
+>
 Um dos problemas de saúde pública mais preocupantes atualmente, a
 obesidade infantil, será o tema da próxima edição do programa *Salto
 para o Futuro*, nesta quarta-feira, 18, às 20h, na TV Escola. A escolha
 da matéria não acontece por acaso, uma vez que a Organização Mundial de
-Saúde (OMS), em seu estudo mais recente de outubro de 2017, apontou um
+Saúde (OMS), em seu estudo mais recente, de outubro de 2017, apontou um
 total de 124 milhões de crianças e adolescentes obesos em todo o mundo.
-
+>
 \[\...\]
-
+>
 As causas da doença e as medidas para evitar que crianças, adolescentes
 e jovens se tornem obesos são o foco desta edição do programa da TV
 Escola.
 
-Disponível em:
-http://portal.mec.gov.br/ultimas-noticias/33491-tv-escola/63021-obesidade-infantil-e-tema-do-programa-salto-para-o-futuro.
-Acesso em: 08 mar. 2023 (fragmento adaptado).
+\fonte{Ministério da Educação. Obesidade infantil é tema do programa Salto para o Futuro. Disponível em: _http://portal.mec.gov.br/ultimas-noticias/33491-tv-escola/63021-obesidade-infantil-e-tema-do-programa-salto-para-o-futuro_. Acesso em: 08 mar. 2023. (Adaptado.)}
 
 Ao divulgar um programa de televisão, o texto menciona a Organização
 Mundial de Saúde para
@@ -3622,24 +2803,21 @@ b\) ressaltar a necessidade do combate à obesidade infantil.
 
 c\) influenciar a opinião do leitor sobre a obesidade infantil.
 
-d\) comprovar a pertinência e importância do tema escolhido.
+d\) comprovar a pertinência e a importância do tema escolhido.
 
-Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
+SAEB: Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
 
-BNCC: EF89LP14
+BNCC: EF89LP14 -- Analisar, em textos argumentativos e propositivos, os movimentos argumentativos de sustentação, refutação e negociação e os tipos de argumentos, avaliando a força/tipo dos argumentos utilizados.
 
 \(A\) Incorreta. O texto não menciona a participação de representante da
 OMS no programa.
-
 \(B\) Incorreta. O argumento de autoridade empregado ao citar a OMS pode
 relacionar-se com a necessidade do combate à obesidade infantil, mas seu
 objetivo no texto é justificar a escolha do tema.
-
 \(C\) Incorreta. O texto não visa influenciar a opinião ou formar a
-opinião do leitor, apenas influenciar sua decisão de acompanhar o
+opinião do leitor, mas influenciar sua decisão de acompanhar o
 programa divulgado.
-
 \(D\) Correta. A menção à OMS, tendo em vista o objetivo do texto de
 convidar o espectador para acompanhar o programa, visa convencer o
 público de que o tema é relevante. O texto chega a dizer que a escolha
@@ -3648,7 +2826,14 @@ sobre a doença.
 
 # Módulo 10 
 
-  -- OS MECANISMOS DE PROGRESSÃO TEXTUAL**
+  **Progressão textual**
+  
+  \colorsec{Habilidade do SAEB}
+  - Analisar os mecanismos que contribuem para a progressão textual.
+- Analisar os processos de referenciação lexical e pronominal.
+
+\colorsec{Habilidades da BNCC}
+- EF08LP13, EF08LP15.
 
 A progressão textual é o desenvolvimento das ideias e do tema de um
 texto. Esse desenvolvimento ocorre com a adição de informações novas às
@@ -4050,8 +3235,14 @@ ambos são prejuízos da tecnologia, segundo o texto.
 
 # Módulo 11 
 
- ** -- **VARIAÇÃO LINGUÍSTICA, NORMA-PADRÃO E PRECONCEITO
-LINGUÍSTICO**
+ ** -- **Variação linguística**
+ 
+ \colorsec{Habilidades do SAEB}
+ - Analisar as variedades linguísticas em textos.
+- Avaliar a adequação das variedades linguísticas em contextos de uso.
+
+\colorsec{Habilidades da BNCC}
+- EF69LP55, EF69LP56.
 
 A língua portuguesa é falada, no Brasil, por mais de 200 milhões de
 pessoas, que podem ser agrupadas de acordo com as diferentes regiões do
@@ -4635,7 +3826,7 @@ letra.
 
 [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]{.underline}
 
-**[SIMULADO 1]{.underline}**
+#Simulado 1
 
 \num{1}
 
@@ -7728,3 +6919,5 @@ Acessado em: 03/07/2018.
 
 SARMENTO, Leila Luar: TUFANO: Douglas. **Literatura, Gramática e
 Produção de Texto**. São Paulo: Moderna, 2001.
+
+

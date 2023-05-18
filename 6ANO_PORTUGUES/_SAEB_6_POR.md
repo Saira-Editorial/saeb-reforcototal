@@ -14,7 +14,7 @@ SAEB -- LÍNGUA PORTUGUESA -- 6º ANO
 
 \conteudo
 
-{Com frequência no dia a dia nos deparamos com informações de diferentes
+{Com frequência, no dia a dia, nos deparamos com informações de diferentes
 tipos, que influenciam nosso modo de pensar ou de agir. Da mesma forma,
 é comum que outras pessoas precisem exercer seu posicionamento a
 respeito de determinados assuntos, a fim de fazer valer aquilo que
@@ -39,7 +39,7 @@ especialistas, em pesquisas e coletas de dados, por exemplo, ela se
 torna forte o suficiente para servir, inclusive, como ponto de
 referência.}
 
-
+https://www.freepik.com/free-photo/top-view-abstract-composition-with-innovation-elements_13295955.htm#query=logic%20argument&position=3&from_view=search&track=ais
 
 \colorsec{Atividades}
 
@@ -48,18 +48,18 @@ Leia o texto a seguir e responda às questões 1 a 4.
 **Estudantes escrevem carta com sugestões para a cidade e entregam ao
 prefeito**
 
-As ideias de pequenos cidadãos parecem simples, mas podem resultar em
+>As ideias de pequenos cidadãos parecem simples, mas podem resultar em
 melhorias para a cidade. Estudantes da turma do 3º ano A, da Escola
 Municipal de Ensino Fundamental (Emef) Octacílio Lomba, em Maruípe,
 entregaram uma carta ao prefeito de Vitória, Lorenzo Pazolini, com
 sugestões para a capital.
 
-Além da escrita, feita a muitos pares de mãos, os estudantes também
+>Além da escrita, feita a muitos pares de mãos, os estudantes também
 fizeram desenhos sobre como está a situação hoje e como eles imaginam
 que possa ser, com melhorias. No encontro com o prefeito, os estudantes
 leram a carta.
 
-\"Percebemos que a rua da nossa escola alaga, às vezes. E isso tem nos
+>\"Percebemos que a rua da nossa escola alaga, às vezes. E isso tem nos
 preocupado devido ao contato com vírus e bactérias que pode haver na
 água do esgoto. Nós aprendemos que esses alagamentos acontecem devido ao
 lixo que as pessoas jogam na rua. Será que o senhor não poderia investir
@@ -67,14 +67,14 @@ mais em trabalhos de conscientização da coleta seletiva? Assim as
 pessoas vão aprender como o lixo deve ser organizado\", diz um dos
 trechos da carta.\[;;;\]
 
-O amor pelos animais também foi um tópico tratado na carta: \"Se não for
+>O amor pelos animais também foi um tópico tratado na carta: \"Se não for
 pedir muito, o senhor poderia providenciar campanhas de conscientização
 para evitar os maus tratos de animais? Pois eles também têm
 sentimentos.\" \[\...\]
 
-(FRANÇA, Brunella. Estudantes escrevem carta com sugestões para a cidade
-e entregam ao prefeito. Publicada em 23 de novembro de 2021. Prefeitura
-de Vitória. Disponível em: \<
+https://www.freepik.com/free-photo/boy-girl-use-digital-laptop-while-walking-street-have-weekend-time_17093791.htm#page=2&query=9%20year%20old%20children%20t%20scool&position=1&from_view=search&track=ais
+
+(Brunella França.Prefeitura de Vitória.  Estudantes escrevem carta com sugestões para a cidade e entregam ao prefeito. Disponível em: \<
 <https://www.vitoria.es.gov.br/noticia/estudantes-escrevem-carta-com-sugestoes-para-a-cidade-e-entregam-ao-prefeito-44202>\>.
 Acesso em: 14 fev. 2023. Adaptado.)
 
@@ -83,7 +83,7 @@ estudantes de uma escola municipal de Maruípe, em Vitória (ES),
 destinada ao prefeito da cidade. Qual é o objetivo da carta?
 
 \coment{O objetivo era demonstrar situações preocupantes no município,
-do ponto de vista dos alunos, e sugestões de melhoria propostas por
+do ponto de vista dos alunos, além de sugestões de melhoria propostas por
 eles.}
 
 \num{2} Qual argumento os(as) estudantes utilizam para justificar sua
@@ -119,35 +119,25 @@ A **resenha crítica** é um tipo de texto que tem por característica
 avaliar obras dos mais diversos tipos: artigos, livros, canções, peças
 teatrais, filmes etc. Leia a seguir um trecho da resenha crítica do filme *Turma da Mônica: Laços* e responda às questões 5, 6 e 7.
 
-*Turma da Mônica: Laços* tem visual super colorido\[\...\]. Essa
-estética fornece os pilares imagéticos a uma trama que transcorre
-pontuando a importância da amizade em detrimento das diferenças.
-\[\...\]
+>A adaptação cinematográfica de *Turma da Mônica: Laços* apresenta uma estética visual incrivelmente colorida, que serve como base para uma história que enfatiza a importância da amizade acima das diferenças.
 
-Existe a preservação da pureza das crianças que adentram corajosamente
-num território interditado em busca do amigo peludo sob a custódia de
-uma figura misteriosa. Todavia, a ingenuidade delas vai até determinado
-ponto, não sendo extrapolada e, portanto, caracterizando a infância sem
-com isso fazer das figuras bobas ou inverossímeis. \[\...\]
+>O filme preserva a inocência das crianças, que corajosamente se aventuram em um lugar proibido em busca de seu amigo peludo, que está sob a custódia de uma figura misteriosa. No entanto, a ingenuidade delas tem seus limites e não é exagerada, o que retrata a infância sem tornar os personagens bobos ou pouco realistas.
 
-Daniel Rezende, que já havia demonstrado grandes qualidades como diretor
-à frente de *Bingo: O Rei das Manhãs* (2017), faz desse seu segundo
-longa-metragem uma preciosa homenagem à imaginação de Maurício de Sousa
-e, ao mesmo tempo, resgata uma infância com sabor nostálgico de passado,
-um período atravessado por questões atemporais, aqui sem a mediação de
-dispositivos eletrônicos ou de algo que os valha.
+>Daniel Rezende, que já demonstrou suas habilidades como diretor em *Bingo: O Rei das Manhãs* (2017), presta uma preciosa homenagem à imaginação de Maurício de Sousa neste seu segundo longa-metragem. Ao mesmo tempo, resgata uma infância com um toque nostálgico do passado, um período marcado por questões atemporais, sem a presença de dispositivos eletrônicos ou qualquer outra distração moderna.
 
-(MÜLLER, Marcelo. Resenha crítica de Turma da Mônica: Laços. Papo de
-Cinema. Disponível em:
+https://www.freepik.com/free-psd/funny-cinema-composition-3d-illustration_22793173.htm#query=movies&position=11&from_view=search&track=sph
+
+(Fonte de pesquisa: Marcelo Müller. Papo de
+Cinema. Resenha crítica de Turma da Mônica: Laços. Disponível em:
 \<<https://www.papodecinema.com.br/filmes/turma-da-monica-lacos/>\>.
-Acesso em: 22 fev. 2023. Fragmento.)
+Acesso em: 22 fev. 2023.)
 
 \num{5} Assinale verdadeiro (V) ou falso (F) para as afirmações a seguir.
 
 ( ) A resenha tenta convencer o(a) leitor(a) a assistir ao filme.
 
 ( ) O visual colorido do filme favorece a imaginação das pessoas que
-assistem ao filme.
+assistem a ele.
 
 ( ) A lição do filme é pontuar os laços de amizade, mesmo que em meio às
 diferenças.
@@ -170,7 +160,7 @@ A resenha apenas traz o ponto de vista do resenhista sobre o filme, sem
 tentar convencer o(a) leitor(a) a assisti-lo.
 
 ( V ) O visual colorido do filme favorece a imaginação das pessoas que
-assistem ao filme.
+assistem a ele.
 
 Na segunda linha da resenha o autor pontua que o visual super colorido
 do filme favorece pilares imagéticos para quem o assiste.
@@ -195,7 +185,9 @@ da Mônica, Maurício de Sousa.
 
 ( V ) O filme apresenta crianças em situações de aventuras atemporais,
 sem precisar de celulares e outros dispositivos eletrônicos para se
-divertir. Conforme explica o último parágrafo, o diretor resgata uma infância com
+divertir. 
+
+Conforme explica o último parágrafo, o diretor resgata uma infância com
 sabor nostálgico de passado, sem a mediação de dispositivos eletrônicos.}
 
 \num{6} De que maneira o(a) leitor(a) do texto percebe que o autor da
@@ -203,7 +195,7 @@ crítica gostou do filme?
 
 \coment{ O autor da resenha utiliza adjetivos positivos sobre a obra,
 ou seja, fala bem das cenas, do visual, do comportamento das personagens
-e até mesmo do diretor do filme.}
+e até mesmo do diretor do longa.}
 
 \num{7} Retire do texto ao menos dois trechos que demonstram o
 posicionamento do autor da resenha em relação ao filme *Turma da Mônica:
@@ -213,82 +205,59 @@ Laços*.
 apresentam adjetivos positivos em relação à obra.
 Sugestões de resposta:
 
-*Turma da Mônica: Laços* tem visual **super colorido**.
+*a ingenuidade delas tem seus limites e não é exagerada, o que retrata a infância sem tornar os personagens bobos ou pouco realistas**.
 
-Existe a preservação da pureza das crianças que adentram
-**corajosamente** num território interditado\...
+*Daniel Rezende, que já demonstrou suas habilidades como diretor em *Bingo: O Rei das Manhãs* (2017)*
 
-\...faz desse seu segundo longa-metragem uma **preciosa** homenagem à
-imaginação de Maurício de Sousa}
+*presta uma preciosa homenagem à imaginação de Maurício de Sousa neste seu segundo longa-metragem.*
 
 A **crônica argumentativa** é um gênero textual que busca apresentar
 reflexões pontos de vista pessoais a respeito de temas ou situações
-cotidianas. Leia um trecho da crônica *Nadar contra é impossível*, de Marina
-Colasanti, e responda às questões 8, 9 e 10.
+cotidianas. Leia a crônica *A prisão Digital*, de Diva Lopes, e responda às questões 8, 9 e 10.
 
-"Então, agora, além da contaminação do ar e da água, além da
-contaminação de oceanos e rios, teremos que nos cuidar da contaminação
-digital do cérebro.
+>Era uma vez uma era digital, onde a tecnologia avançada tomou conta do cotidiano das pessoas. Smartphones, tablets e computadores se tornaram extensões de seus corpos, oferecendo uma miríade de possibilidades. Mas, como tudo na vida, o encanto dessa modernidade tinha um preço oculto.
 
-E, a partir daqui, entramos na escorregadia área dos vícios.\[\...\]
-Adrenalina é um hormônio neurotransmissor derramado no organismo para
-prepará-lo a enfrentamentos. E transmite um prazer intenso, diferente de
-todos os outros.
+>O vício em tecnologia se infiltrou nas vidas das pessoas sorrateiramente, como uma teia virtual que as envolvia. O fascínio inicial pela praticidade e pela conexão instantânea foi gradualmente substituído por uma necessidade insaciável de estar online. A busca frenética por likes, seguidores e notificações se tornou o novo padrão de validação social.
 
-O jovem de 20 anos que olha o celular 190 vezes por dia, não o faz por
-avidez de notícias ou de conhecimentos. O faz porque não pode deixar de
-fazê-lo. É um vício, e uma reafirmação de êxito, tão comum a todos que
-sequer é encarado como vício. E, como tal, combatido.
+>Nas mesas de jantar, as famílias se reuniam, mas os olhares se perdiam nas telas iluminadas. A comunicação cara a cara foi substituída por emojis e mensagens curtas. As ruas antes repletas de risos e conversas agora se tornaram um desfile de cabeças baixas, imersas em um mundo virtual que parecia mais real do que o próprio mundo real.
 
-Que geração estamos fabricando, não sabemos. Qual será o resultado, no
-cérebro dos pequenos postados durante 4 horas por dia diante de telas de
-variados tamanhos, ignoramos. Mas nadar contra a correnteza do próprio
-tempo é impossível."
+>Os sinais de dependência eram claros. O sujeito se sentia ansioso quando separado de seu dispositivo eletrônico, experimentando uma espécie de abstinência tecnológica. Noites em claro eram gastas em redes sociais, jogos online e maratonas intermináveis de séries, deixando de lado o sono reparador e a vida social offline.
 
-(COLASANTI, Marina. Nadar contra é impossível. Publicado em 3 de
-dezembro de 2020. Disponível em:\<
-<https://www.marinacolasanti.com/2020/12/nadar-contra-e-impossivel.html>\>.
-Acesso em: 22 fev. 2023. Fragmento.)
+>A sociedade despertou para a realidade assustadora: a tecnologia que inicialmente prometia facilitar a vida agora se tornara uma prisão invisível. As pessoas eram escravas de suas próprias criações. Mas, como em todas as histórias, havia uma oportunidade de mudança.
 
-\num{8} Segundo a autora, as pessoas não conseguem parar de utilizar o
-celular por que estão viciadas. Qual argumento ela utiliza para
-justificar essa afirmação?
+>A conscientização sobre o vício em tecnologia começou a ganhar força. Campanhas de desconexão foram lançadas, incentivando as pessoas a encontrarem um equilíbrio saudável entre o mundo digital e o mundo real. Pessoas corajosas começaram a se desconectar, a olhar nos olhos uns dos outros e a redescobrir a beleza das conversas profundas e do toque humano.
 
-\coment{ A autora utiliza um dado científico. Ela explica o conceito de
-adrenalina, um hormônio que transmite prazer intenso. Segundo ela,
-quando a pessoa utiliza o celular, ela libera adrenalina.}
+>É verdade que a tecnologia trouxe avanços incríveis e facilitou muitos aspectos de nossas vidas. No entanto, é fundamental reconhecer os limites e controlar seu poder. Devemos lembrar que somos seres humanos, dotados de emoções, relacionamentos e conexões reais. A tecnologia deve ser uma ferramenta, não uma prisão que nos afasta da nossa essência.
 
-\num{9} A autora se mostra indignada com o fato de o vício em celulares não
-ser combatido. Por que, de acordo com o texto, isso acontece?
+>Então, que possamos nos desconectar quando necessário, aproveitar momentos de silêncio e introspecção, olhar para o céu, sentir a brisa e abraçar aqueles que amamos. Que possamos encontrar o equilíbrio entre o mundo digital e o mundo real, e assim viver uma vida plena, livre das correntes invisíveis do vício em tecnologia.
 
-\coment{ Porque esse tipo de vício passa tão batido no dia a dia que
-sequer é considerado um vício.}
+https://www.freepik.com/free-photo/man-hand-holding-virtual-world-with-internet-connection-metaverse-global-business-marketing-banking-financial-pass-thru-application-technology-concept_24458775.htm#query=digital%20world&position=25&from_view=search&track=ais
 
-\num{10} A que conclusão a autora chega, ao final de sua crônica?
+(Diva Lopes. A prisão digital.)
 
-\coment{ A autora conclui que mesmo com todos os problemas causados
-pelo vício em celulares, é impossível ir contra esse tipo de evolução
-tecnológica que acontece com o tempo.}
+\num{8} No primeiro parágrafo, há um jogo de palavras logo no início, em que duas palavras escritas de forma idêntica apresentam significados diferentes. Quais são essas palavras e como os significados delas se diferenciam?
+
+\coment{ Trata-se das duas ocorrências da palavra "era" - a primeira é uma forma verbal e a segunda é o nome de um longo período de tempo.}
+
+\num{9} O que significa a palavra "miríade", utilizada no texto? Se for preciso, faça uma pesquisa sobre ela. Como essa palavra contribui para a construção da argumentação na crônica? 
+
+\coment{A palavra significa "um grande número ou quantidade indefinida de algo". Na crônica, ela mostra a força do universo digital, que, por sua imensa quantidade de possibilidades, não só envolve como também vicia as pessoas.}
+
+\num{10} Qual é a mensagem final que se deixa no texto? Como você a interpreta?
+
+\coment{ A mensagem é que devemos nos reconectar ao mundo real, sabendo estar desconectados para aproveitar aquilo que só existe fora dos aparelhos e dos aplicativos.}
 
 \colorsec{Treino}
 
-**1.**
+\num{1}
 
-O consumismo está relacionado à ideia de devorar, destruir e extinguir.
-Se agora, tragédias naturais, como queimadas, furacões, inundações
-gigantescas, enchentes e períodos prolongados de seca, são muito mais
-comuns e frequentes, é porque a exploração irresponsável do meio
-ambiente prevaleceu ao longo de décadas.
+O consumismo está diretamente ligado à ideia de devorar, destruir e extinguir. Se hoje testemunhamos tragédias naturais como queimadas, furacões, inundações gigantescas e períodos prolongados de seca ocorrendo com maior frequência, é porque a exploração irresponsável do meio ambiente prevaleceu ao longo de décadas.
 
-Concentrar todos os esforços no consumo é contribuir, dia após dia, para
-o desequilíbrio global. O consumismo infantil, portanto, é um problema
-que não está ligado apenas à educação escolar e doméstica. Embora a
-questão seja tratada quase sempre como algo relacionado à esfera
-familiar, crianças que aprendem a consumir de forma inconsequente e
-desenvolvem critérios e valores distorcidos são de fato um problema de
-ordem ética, econômica e social.
+Focar todos os esforços no consumo é contribuir, dia após dia, para o desequilíbrio global. O consumismo infantil, portanto, é um problema que vai além da esfera educacional, seja na escola ou em casa. Embora seja comumente associado à responsabilidade familiar, devemos compreender que crianças que aprendem a consumir de forma inconsequente e desenvolvem critérios e valores distorcidos representam um problema ético, econômico e social.
 
-(Consumismo infantil: um problema de todos. Disponível em: \<
+https://www.freepik.com/free-photo/cute-little-girl-shopping-outdoors_28005005.htm#query=child%20consumism&position=27&from_view=search&track=ais
+
+(Fonte de pesquisa: Consumismo infantil: um problema de todos. Disponível em: \<
 <https://criancaeconsumo.org.br/consumismo-infantil/>\>. Acesso em: 22
 fev. 2022. Fragmento.)
 
@@ -306,40 +275,28 @@ décadas.
 d\) critérios e valores distorcidos são problemas de ordem ética,
 econômica e social.
 
-BNCC: EF67LP05
+BNCC: EF67LP05 -- Identificar e avaliar teses/opiniões/posicionamentos explícitos e argumentos em textos argumentativos (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), manifestando concordância ou discordância.
 
-A. Incorreta. O texto afirma que as crianças aprendem a consumir de
+a\) Incorreta. O texto afirma que as crianças aprendem a consumir de
 forma inconsequente, porém não é essa a principal razão do desequilíbrio
 global.
 
-B. Incorreta. Critérios e valores distorcidos de consumo são passados
+b\) Incorreta. Critérios e valores distorcidos de consumo são passados
 para as pessoas desde a infância, e não critérios e valores distorcidos
 de modo geral, como dá a entender a afirmativa.
 
-C. Correta. O fato de explorarmos de forma irresponsável o meio ambiente
+c\) Correta. O fato de explorarmos de forma irresponsável o meio ambiente
 ao longo de décadas é o principal responsável pelo desequilíbrio global.
 
-D. Incorreta. Critérios e valores distorcidos com relação ao consumo (e
+d\) Incorreta. Critérios e valores distorcidos com relação ao consumo (e
 não de modo geral) são de fato problemas de ordem ética, econômica e
 social, porém não são os responsáveis diretos pelo desequilíbrio global.
 
-Saeb: Identificar teses, opiniões, posicionamentos explícitos e
-argumentos em textos.
 
-\num{2} Observe a imagem a seguir.
+\num{2} Observe a imagem e o texto a seguir.
 
-![Interface gráfica do usuário, Aplicativo, Teams Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image1.png){width="5.905555555555556in"
-height="1.5354166666666667in"}
-
-Sugiro que aqui a arte redesenhe esses emojis. No flaticon achei todos
-eles:
-[[https://br.freepik.com/icones-premium/emojis\_26110665.htm\#query=emoji&position=9&from\_view=search&track=sph]{.underline}](https://br.freepik.com/icones-premium/emojis_26110665.htm#query=emoji&position=9&from_view=search&track=sph)
-
-As cores devem ser mantidas como na imagem original por questões
-pedagógicas.
-
-O texto pode ser reescrito da seguinte forma: Quão satisfeito você está
+https://www.freepik.com/free-photo/arrangement-with-different-feelings_12558427.htm#query=satisfaction%20research%20with%20emojis&position=11&from_view=search&track=ais
+Quão satisfeito você está
 com nossos serviços? Muito insatisfeito, Insatisfeito, Sem opinião
 definida, Satisfeito, Muito satisfeito.
 
@@ -350,7 +307,7 @@ relação aos serviços nessa pesquisa são
 a\) os emojis, por extarem muito presentes no dia a dia das pessoas.
 
 b\) os textos, que variam de "muito insatisfeito" a "muito satisfeito",
-posicionados abaixo das imagens.
+comumente posicionados abaixo das imagens.
 
 c\) as cores das imagens, que variam em uma escala de vermelho para
 "muito insatisfeito" a verde para "muito satisfeito".
@@ -358,7 +315,7 @@ c\) as cores das imagens, que variam em uma escala de vermelho para
 d\) a combinação de emojis com expressões faciais, as cores universais e
 os textos abaixo das imagens, tornando a pesquisa inclusiva.
 
-BNCC: EF67LP07
+BNCC: EF67LP07 -- Identificar o uso de recursos persuasivos em textos argumentativos diversos (como a elaboração do título, escolhas lexicais, construções metafóricas, a explicitação ou a ocultação de fontes de informação) e perceber seus efeitos de sentido.
 
 a\) Incorreta. Os emojis de fato estão presentes no dia a dia das
 pessoas que utilizam ferramentas de comunicação digital, por exemplo,
@@ -378,16 +335,16 @@ d\) Correta. A combinação de expressões faciais, texto de apoio e cores
 torna a pesquisa intuitiva, ou seja, fácil de ser respondida por todos
 os públicos, e inclusiva, isto é, acessível a todas as pessoas.
 
-\num{3} *Nunca subestime uma mulherzinh*a é uma reunião de contos e crônicas
+\num{3} *Nunca subestime uma mulherzinha* é uma reunião de contos e crônicas
 publicados pela autora nos jornais *Correio Braziliense* e *O Estado de
 Minas*, com prefácio de Zélia Duncan.
 
-Nesta publicação o leitor poderá comprovar o talento literário e a
-irreverência de *Fernanda Takai*, uma mulherzinha com pouco mais de um
-metro e meio, de voz suave, que no *Pato Fu* se escondia atrás de uma
-guitarra.\[\...\]
 
-(Disponível em: \<<https://fernandatakai.com.br/livros/>\>. Acesso em:
+Neste texto, os leitores poderão testemunhar o talento literário e a irreverência de Fernanda Takai, uma mulher de estatura pequena, com pouco mais de um metro e meio, e uma voz suave. Em sua trajetória no Pato Fu, ela costumava se esconder atrás de uma guitarra.
+
+https://www.freepik.com/free-vector/flat-women-hands-with-feminism-fists-raised-up_23004466.htm#query=girl%20power&position=33&from_view=search&track=ais
+
+(Fonte de pesquisa: \<<https://fernandatakai.com.br/livros/>\>. Acesso em:
 22 de fev. 2023.)
 
 No título do livro de Fernanda Takai, *Nunca subestime uma mulherzinha*,
@@ -405,7 +362,7 @@ d\) dar um novo sentido à palavra "mulherzinha", que pode ser pejorativo
 em alguns contextos, mas aqui está sendo usado para representar a
 autora, uma mulher baixinha.
 
-BNCC: EF67LP07
+BNCC: EF67LP07 -- Identificar o uso de recursos persuasivos em textos argumentativos diversos (como a elaboração do título, escolhas lexicais, construções metafóricas, a explicitação ou a ocultação de fontes de informação) e perceber seus efeitos de sentido.
 
 a\) Incorreta. A intenção de usar a palavra "mulher" no diminutivo não é
 fazer chacota com a autora do livro: pelo contrário, é ironizar o fato
@@ -475,16 +432,26 @@ palavras, a sequência de cores e luzes aciona em nós os comandos de
 um ponto de vista, é preciso utilizar estratégias corretas e voltadas a
 cada tipo de texto.
 
-Confira na tabela a seguir as principais estratégias argumentativas que
+Confira a seguir as principais estratégias argumentativas que
 podemos utilizar em textos expositivos.
 
-  **Tipo de estratégia**                    **Por que utilizar**                                                                                                                                                                                                      **Exemplo**
-  ----------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------
-  Dados estatísticos de fontes confiáveis   Esse tipo de informação, quando extraída de fontes confiáveis, parte de pesquisas desenvolvidas por especialistas em diversas áreas do conhecimento, o que as torna praticamente irrefutáveis, ou seja, incontestáveis.   **De acordo com uma pesquisa do Ministério da Saúde**, as crianças estão mais vulneráveis a sofrer problemas respiratórios no inverno.
-  Exemplificação                            Vivências comuns ao dia a dia das pessoas possibilitam o contato com situações que podem ser usadas para exemplificar seus argumentos.                                                                                    A falta de oportunidades profissionais para pessoas com pouca experiência muitas vezes faz com que jovens se vejam obrigados a trabalhar em profissões que não condizem com sua área de formação, **a exemplo** dos motoristas de aplicativo.
-  Comparação                                Utilizar séries, documentários, novelas, personagens, pessoas de referência e outros repertórios que fazem parte da sua vivência podem embasar um argumento e gerar uma aproximação do leitor com o texto.                **Assim como** a apresentadora Xuxa, é importante que outras celebridades se posicionem a respeito da importância de uma alimentação saudável, pois isso serve de inspiração para que mais pessoas adotem estilos de vida semelhantes.
-  Causa e consequência                      Para buscar a solução de um problema, é preciso identificar sua causa. Quais são as consequências do problema para as pessoas? Como ele surgiu?                                                                           **Desde a colonização, a população indígena foi escravizada e colocada à margem nossa sociedade. Uma das consequências disso** é o desrespeito, até os dias de hoje, às terras demarcadas e garantidas aos povos nativos.
-  Citação                                   Quando se tem uma opinião sólida e declarada, (como em uma entrevista, por exemplo), de um(a) especialista no assunto tratado.                                                                                            **De acordo com o médico** Dráuzio Varella**,** fumar é um hábito prejudicial à saúde de modo geral.}
+
+  **Dados estatísticos de fontes confiáveis**   
+  Esse tipo de informação, quando extraída de fontes confiáveis, parte de pesquisas desenvolvidas por especialistas em diversas áreas do conhecimento, o que as torna praticamente irrefutáveis, ou seja, incontestáveis. 
+  Exemplo: *De acordo com uma pesquisa do Ministério da Saúde*, as crianças estão mais vulneráveis a sofrer problemas respiratórios no inverno.
+  
+  **Exemplificação**                           
+  Vivências comuns ao dia a dia das pessoas possibilitam o contato com situações que podem ser usadas para exemplificar seus argumentos.                                           Exemplo: A falta de oportunidades profissionais para pessoas com pouca experiência muitas vezes faz com que jovens se vejam obrigados a trabalhar em profissões que não condizem com sua área de formação, *a exemplo* dos motoristas de aplicativo.
+  
+  **Comparação**                               
+  Utilizar séries, documentários, novelas, personagens, pessoas de referência e outros repertórios que fazem parte da sua vivência podem embasar um argumento e gerar uma aproximação do leitor com o texto.                
+  Exemplo: *Assim como* a apresentadora Xuxa, é importante que outras celebridades se posicionem a respeito da importância de uma alimentação saudável, pois isso serve de inspiração para que mais pessoas adotem estilos de vida semelhantes.
+  
+  **Causa e consequência**                      
+  Para buscar a solução de um problema, é preciso identificar sua causa. Quais são as consequências do problema para as pessoas? Como ele surgiu?                             Exemplo: *Desde a colonização, a população indígena foi escravizada e colocada à margem nossa sociedade. Uma das consequências disso* é o desrespeito, até os dias de hoje, às terras demarcadas e garantidas aos povos nativos.
+  
+  **Citação**                                   
+  Quando se tem uma opinião sólida e declarada, (como em uma entrevista, por exemplo), de um(a) especialista no assunto tratado.                                                   Exemplo: *De acordo com o médico* Dráuzio Varella, fumar é um hábito prejudicial à saúde de modo geral.}
 
 
 Leia o texto a seguir, publicado no Jornal da USP, e responda às
@@ -493,11 +460,13 @@ questões 1 a 3.
 **Seu cão reconhece suas emoções e toma decisões a partir disso, mostra
 estudo da USP**
 
-*Pesquisa do Instituto de Psicologia mostra que "nossos melhores amigos"
+https://www.freepik.com/free-photo/side-view-woman-working-laptop-with-her-dog-couch_8528285.htm#query=smart%20dog&position=3&from_view=search&track=ais
+
+>*Pesquisa do Instituto de Psicologia mostra que "nossos melhores amigos"
 podem prever o comportamento humano ao olhar para nosso rosto e
 diferenciar emoções neutras, de alegria ou raiva*
 
-Será que seu cachorro sabe o que fazer quando você está bravo ou feliz?
+>Será que seu cachorro sabe o que fazer quando você está bravo ou feliz?
 Com o objetivo de entender se os cães respondem de forma diferente às
 expressões humanas positivas e negativas, pesquisadores do Instituto de
 Psicologia (IP) da USP e da Universidade de Lincoln, no Reino Unido,
@@ -506,13 +475,13 @@ inferir emoções humanas através de expressões faciais, mas também de
 relacionar essa informação com suas possíveis consequências e tomar
 decisões a partir de uma previsão do nosso comportamento.
 
-O artigo intitulado *Dogs can infer implicit information from human
+>O artigo intitulado *Dogs can infer implicit information from human
 emotional expressions*\* foi publicado na revista científica *Animal
 Cognition* e desenvolvido pelos pesquisadores Natalia Albuquerque e
 Briseida Resende, do Instituto de Psicologia da USP, e Daniel Mills, Kun
 Guo e Anna Wilkinson, da Universidade de Lincoln.\[\...\]
 
-"A pesquisa evidencia que os cães levam em conta as expressões das
+>"A pesquisa evidencia que os cães levam em conta as expressões das
 emoções dos humanos para fazer escolhas. As pessoas poderão perceber o
 animal como um ser que presta atenção ao que fazemos e que toma suas
 decisões com base nisso. Desta forma, acho que podemos desenvolver uma
@@ -520,13 +489,12 @@ relação mais saudável e respeitosa", afirma a coautora do trabalho, a
 professora Briseida. Ela destaca que é importante não o tratar como
 humano, e sim respeitá-lo enquanto cão.
 
-\* *Dogs can infer implicit information from human emotional
+>\* *Dogs can infer implicit information from human emotional
 expressions, em português significa "Cães podem inferir informações
 implícitas em expressões humanas relacionadas a emoções.*
 
-(Guilherme Gama. Seu cão reconhece suas emoções e toma decisões a
-partir disso, mostra estudo da USP. Jornal da USP, publicado em 23 de
-nov. de 2021. Disponível em: \<
+(Guilherme Gama. Jornal da USP. Seu cão reconhece suas emoções e toma decisões a
+partir disso, mostra estudo da USP. Disponível em: \<
 <https://jornal.usp.br/ciencias/seu-cao-reconhece-suas-emocoes-e-toma-decisoes-a-partir-disso-mostra-estudo-da-usp/>\>.
 Acesso em: 01 mar. 2023. Adaptado.)
 
@@ -556,33 +524,15 @@ questões 4 a 6.
 
 **Texto I**
 
-![Campanha estimula hábitos saudáveis para as
-crianças](./imgSAEB_6_POR/media/image2.jpeg){width="5.905555555555556in"
-height="3.3069444444444445in"}
+https://www.freepik.com/free-photo/girl-flexing-her-hands-holding-apple-her-biceps_2627763.htm#query=healthy%20kid&position=4&from_view=search&track=ais
 
-\fonte{
-<https://www.canalsaude.fiocruz.br/noticias/noticiaAberta/campanha-estimula-habitos-saudaveis-para-as-criancas13112019>
+Precisamos prevenir a obesidade infantil, para não precisarmos lidar com a doença nos adultos depois.
 
 **Texto II**
 
-Precisa ser criado pela Arte. Vamos simular uma postagem de rede social.
-A primeira imagem deve conter o seguinte texto no topo: HÁBITOS
-SAUDÁVEIS COMEÇAM NA INFÂNCIA. No rodapé, deve haver a hashtag:
+https://www.freepik.com/free-photo/cheerful-little-girl-holding-bell-pepper-background-various-vegetables-healthy-food-concept_12339140.htm#query=healthy%20kid&position=34&from_view=search&track=ais
+HÁBITOS SAUDÁVEIS COMEÇAM NA INFÂNCIA.
 \#obesidadeinfantilnão
-
-A segunda imagem deve vir junto da primeira, posicionada à direita dela
-(simulando um carrossel postado do Instagram). O texto é exatamente o
-mesmo que está no exemplo.
-
-![Vetor grátis fundo do dia da saúde mundial em estilo
-plano](./imgSAEB_6_POR/media/image3.jpeg){width="2.7083333333333335in"
-height="2.7083333333333335in"} ![Branco Design --
-Canva](./imgSAEB_6_POR/media/image4.jpeg){width="2.7083333333333335in"
-height="2.7083333333333335in"}
-
-<https://br.freepik.com/vetores-gratis/fundo-do-dia-da-saude-mundial-em-estilo-plano_1988259.htm#page=2&query=healthy%20children&position=3&from_view=search&track=ais>
-
-<https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fp%2Fbrancodesign%2F&psig=AOvVaw025oTdYXBEXaAsIqgbnjOO&ust=1677811356155000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD-78CcvP0CFQAAAAAdAAAAABAR>
 
 \num{4} O objetivo comum a ambas as campanhas é
 
@@ -593,42 +543,20 @@ b\) incentivar as pessoas a manterem hábitos saudáveis na infância.
 c\) apresentar o que deve ser feito para que crianças não sofram
 obesidade.
 
-c\) conscientizar as pessoas com relação ao problema da obesidade
+d\) conscientizar as pessoas com relação ao problema da obesidade
 infantil.
 
 \coment{Resposta: D. Ambos os textos são campanhas de conscientização com
 relação à obesidade infantil.
 
-a\) Incorreta. O Texto 1 fornece dicas de comportamentos que podem ser
-adotados para a manutenção de hábitos saudáveis pelas crianças, mas não
-é direcionado especificamente a elas. O Texto 2 apresenta apenas um
-slogan de campanha e uma hashtag que informa o objetivo da campanha,
-além de elementos não verbais.
 
-b\) Incorreta. Embora ambos os textos deixem claro a importância de
-hábitos saudáveis na infância, o objetivo das campanhas não é este.
+\num{5} Como a presença da hashtag #obesidadeinfantilnão ajuda no envolvimento do público na campanha?
 
-c\) Incorreta. Os textos são campanhas publicitárias, e não materiais
-informativos. Portanto, o objetivo deles é conscientizar sobre uma
-ideia, no caso o combate à obesidade infantil.}
+\coment{ A hashtag moderniza e atualiza o texto, mostrando às pessoas que a saúde desde a infância é uma responsabilidade de todos.}
 
-\num{5} Qual dos dois textos alcança uma quantidade maior de leitores(as),
-se considerarmos os canais em que é veiculado? Justifique sua resposta.
+\num{6} Onde você imagina que a segunda campanha pode ter circulado? Por quê?
 
-\coment{ O Texto 1 alcança um número maior de pessoas, porque, por ser
-um cartaz publicitário, pode ser divulgado em diversos locais, como
-postos de saúde, escolas, hospitais, redes sociais e páginas de
-internet. Já o Texto 2 é uma postagem de rede social, ficando restrita
-apenas às pessoas que seguem aquela página por interesses em comum com
-determinado perfil.}
-
-\num{6} Qual dos textos promove ao(à) leitor(a) maior credibilidade com
-relação às informações divulgadas? Justifique sua resposta.
-
-\coment{ O Texto 1, pois tem como autor da campanha o Ministério da
-Saúde, um órgão ligado ao Governo Federal. Isso pode ser observado no
-rodapé da campanha. Ao contrário, o Texto 2 não apresenta nenhuma
-informação a não ser o slogan da campanha e uma hashtag.}
+\coment{ A segunda campanha provavelmente circulou em uma rede social, o que é indicado pela presença da hashtag.}
 
 Leia, a seguir, o artigo 4º da Declaração Universal dos Direitos dos
 Animais e responda às questões 7 e 8.
@@ -637,8 +565,10 @@ Animais e responda às questões 7 e 8.
 viver livre no seu próprio ambiente natural, terrestre, aéreo ou
 aquático e tem o direito de se reproduzir.
 
-\num{2} Toda a privação de liberdade, mesmo que tenha fins educativos, é
+"2. Toda a privação de liberdade, mesmo que tenha fins educativos, é
 contrária a este direito."
+
+https://www.freepik.com/free-photo/close-up-hand-holding-common-pheasant-chicks_3212299.htm#query=animals%20rights&position=0&from_view=search&track=ais
 
 Disponível em: \<
 http://www.fiocruz.br/biosseguranca/Bis/infantil/direitoanimais.htm\>.
@@ -658,7 +588,7 @@ quer dizer que
 
 a\) prender animais selvagens é crime.
 
-b\) não se pode prender animais selvagens, mas animais domésticos sim.
+b\) não se podem prender animais selvagens, mas animais domésticos, sim.
 
 c\) é um dever dos seres humanos garantir o direito de animais selvagens
 viverem em liberdade.
@@ -668,85 +598,78 @@ para este fim estão, na realidade, cometendo um crime.
 
 \coment{ É um dever dos seres humanos garantir o direito de animais
 selvagens viverem em liberdade.
-A Declaração Universal dos Direitos dos Animais é um texto normativo que
+a\) Incorreta. O texto orienta sobre direitos de animais selvagens,
+mas não informa que prendê-los é crime.
+b\) Incorreta. O trecho não menciona nada sobre poder manter animais
+domésticos presos.
+c\) Correta. A Declaração Universal dos Direitos dos Animais é um texto normativo que
 tem como princípio garantir direitos de sobrevivência dos animais de
 modo geral, a fim de orientar a convivência harmoniosa entre eles e os
 seres humanos. Cabe a nós garantir esse direito, uma vez que os animais
 são seres irracionais.
-\(a\) Incorreta. O texto orienta sobre direitos de animais selvagens,
-mas não informa que prendê-los é crime.
-\(b\) Incorreta. O trecho não menciona nada sobre poder manter animais
-domésticos presos.
-\(d\) Incorreta. O trecho menciona que restringir a liberdade de animais
+d\) Incorreta. O trecho menciona que restringir a liberdade de animais
 selvagens, mesmo que para estudo, fere esse direito, porém não menciona
 que é crime ou que a pessoa será punida por fazer isso.}
 
-\num{9} Observe a imagem a seguir.
+\num{9} Observe a imagem a seguir e leia o texto que a acompanha.
 
-![Símbolo do autismo passa a ser obrigatório em placas de atendimento
-preferencial em Juara --- PODER
-LEGISLATIVO](./imgSAEB_6_POR/media/image5.png){width="3.662917760279965in"
-height="2.0606069553805773in"}
 
-\fonte{Câmara Municipal de Juara (MT).
+https://www.freepik.com/free-vector/jigsaw-puzzle-colourful-different-forms_39454557.htm#query=autism&position=10&from_view=search&track=sph
+Símbolo do autismo passa a ser obrigatório em placas de atendimento
+preferencial
+
 
 Por sua natureza reivindicatória, o objetivo do texto apresentado é
 tornar o convívio entre as pessoas
 
-\(a\) mais alegre.
+a\) mais alegre.
 
-\(b\) mais bonito.
+b\) mais bonito.
 
-\(c\) mais seguro.
+c\) mais seguro.
 
-\(d\) mais justo.
+d\) mais justo.
 
-\coment{ D. Mais justo. O texto normativo apresentado trata do direito ao atendimento
-prioritário dos grupos descritos nas imagens: idosos, gestantes, pessoas
-com crianças de colo, pessoas com deficiência e autistas. Por seu
-caráter reivindicatório, o objetivo é tornar o convívio entre as pessoas
-mais justo.
+\coment{
 a\) Incorreta. Não se trata de tornar o convívio mais alegre, e sim
 igualitário e inclusivo.
 b\) Incorreta. O objetivo do texto normativo é regulamentar normas de
 bom convívio, a fim de tornar o dia a dia das pessoas mais justos em
 direitos.
 c\) Incorreta. O direito a atendimento prioritário não faz da vida de
-pessoas pertencentes aos grupos da imagem mais segura.}
+pessoas pertencentes aos grupos da imagem mais segura.
+d\) Mais justo. O texto normativo apresentado trata do direito ao atendimento
+prioritário dos grupos descritos nas imagens: idosos, gestantes, pessoas
+com crianças de colo, pessoas com deficiência e autistas. Por seu
+caráter reivindicatório, o objetivo é tornar o convívio entre as pessoas
+mais justo.}
 
-\num{10} Observe uma imagem retirada do Twitter da Prefeitura do município
-do Rio de Janeiro:
+\num{10} Observe o texto presente em uma rede social da prefeitura de uma grande cidade.
 
-![Interface gráfica do usuário, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image6.png){width="4.975430883639545in"
-height="2.5668886701662292in"}
+https://www.freepik.com/free-icon/twitter_14122908.htm#query=twitter&position=5&from_view=search&track=sph
 
-\fonte{
-[[https://twitter.com/Prefeitura\_Rio/status/1633079144815681536]{.underline}](https://twitter.com/Prefeitura_Rio/status/1633079144815681536)
-Arte, por favor, borrar o nome da pessoa que comentou o Tweet da
-prefeitura.
+Esses ônibus que passam aqui na Zona Sul depois das 18h estão impossíveis. A linha 2345T é a pior de todas. É melhor andar a pé do que pegar esses ônibus.
 
 Atualmente, é muito comum as pessoas utilizarem plataformas digitais e
 redes sociais para expor algum problema de impacto social, como esse da
-imagem. A resposta do usuário à postagem da prefeitura do Rio de Janeiro tem o
-mesmo teor que o de um(a)
+imagem. O comentário do usuário, nesse caso, aproxima-se daquele normalmente presente em
 
-a\) artigo de opinião.
+a\) um artigo de opinião.
 
-b\) carta de reclamação.
+b\) uma carta de reclamação.
 
-c\) texto informativo.
+c\) um texto informativo.
 
-d\) campanha publicitária.
+d\) uma campanha publicitária.
 
-\coment{ b. Carta de reclamação.
-A carta de reclamação é um gênero textual que expressa uma indignação ou
+\coment{
+a\) Incorreta. O artigo de opinião é um gênero textual jornalístico que
+tem como objetivo comentar e opinar a respeito de um tema.
+b\) Correta. A carta de reclamação é um gênero textual que expressa uma indignação ou
 uma insatisfação de determinado indivíduo diante de alguma relação
 comercial, de serviço ou compra, por exemplo. Na postagem, o consumidor
 reclama de ônibus de determinada linha, afirmando que é impossível
 viajar neles.
-a\) Incorreta. O artigo de opinião é um gênero textual jornalístico que
-tem como objetivo comentar e opinar a respeito de um tema.
 c\) Incorreta. O texto informativo tem como objetivo informar o(a)
 leitor(a) sobre determinado assunto, elucidando e esclarecendo-o(a)
 sobre o tema em questão.
@@ -760,19 +683,11 @@ pessoa a comprar um produto ou adotar um comportamento.}
 **O Brasil precisa do SUS: lançada campanha nacional de defesa do
 Sistema Único de Saúde**
 
-A coordenadora do Campus Virtual Fiocruz, Ana Furniel, consoante com a
-campanha \#OBrasilPrecisadoSUS, aponta que o Sistema Único de Saúde é
-imprescindível para o país. Seu papel na pandemia ressaltou ainda mais a
-sua importância. "É interessante pensar no todo, pois quando falamos do
-SUS ainda se pensa de forma limitada ao atendimento hospitalar. No
-entanto, o SUS é maior, ele é atenção hospitalar, sim, mas é vacina,
-medicamento, atenção primária, vigilância e é, especialmente para nós,
-formação de profissionais de saúde. Essa é a esfera de contribuição do
-CVF".
+https://www.freepik.com/free-photo/happy-black-pediatrician-talking-little-girl-who-came-with-mother-clinic-during-covid19-pandemic_26768520.htm#query=public%20hospital%20in%20brazil&position=11&from_view=search&track=ais
 
-(SCHINCARIOL, Isabela. *O Brasil precisa do SUS: lançada campanha
-nacional de defesa do Sistema Único de Saúde*. Fiocruz, publicado em 15
-de dez. 2020. Disponível em: \<
+A coordenadora do Campus Virtual Fiocruz, Ana Furniel, está alinhada com a campanha #OBrasilPrecisadoSUS, destacando a indispensabilidade do Sistema Único de Saúde para o país. O papel desempenhado pelo SUS durante a pandemia ressaltou ainda mais sua importância. "É importante pensar em sua totalidade, pois ao falarmos do SUS, ainda há uma limitação em pensar apenas no atendimento hospitalar. No entanto, o SUS vai além, abrangendo vacinas, medicamentos, atenção primária, vigilância e, especialmente para nós, a formação de profissionais de saúde. Essa é a área em que o CVF contribui."
+
+(Fonte de pesquisa: Isabela Schincariol. Fiocruz. *O Brasil precisa do SUS: lançada campanha nacional de defesa do Sistema Único de Saúde*. Disponível em: \<
 <https://campusvirtual.fiocruz.br/portal/?q=noticia/59976>\>. Acesso em:
 mar. 2023. Adaptado.)
 
@@ -786,7 +701,12 @@ c\) uma reivindicação para que o SUS seja defendido e não atacado.
 
 d\) uma propaganda para divulgar nas redes sociais os serviços do SUS.
 
-BNCC: EF67LP16
+BNCC: EF67LP16 -- Explorar e analisar espaços de reclamação de direitos e de envio de solicitações (tais como ouvidorias, SAC, canais ligados a órgãos públicos, plataformas do consumidor,
+plataformas de reclamação), bem como de textos pertencentes a gêneros que circulam nesses
+espaços, reclamação ou carta de reclamação, solicitação ou carta de solicitação, como forma
+de ampliar as possibilidades de produção desses textos em casos que remetam a reivindicações
+que envolvam a escola, a comunidade ou algum de seus membros como forma de se engajar na
+busca de solução de problemas pessoais, dos outros e coletivos..
 
 a\) Correta. A campanha é um incentivo para que as pessoas se
 conscientizem e reivindiquem a manutenção do SUS.
@@ -804,50 +724,38 @@ defender a manutenção do SUS e não divulgar seus serviços.
 \num{2} O piso tátil, instalado em calçadas e estabelecimentos, apresenta
 dois tipos de padrão: em bolinhas ou em faixas paralelas.
 
-Observe as imagens a seguir.
+https://www.freepik.com/free-photo/high-angle-blind-man-using-marks_27644672.htm#query=piso%20t%C3%A1til%20para%20cegos&position=0&from_view=search&track=ais
 
-**Imagem 1**
+Considerando seu uso, pode-se afirmar que o piso tátil
 
-![Uma imagem contendo Carta Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image7.png){width="2.058333333333333in"
-height="2.8858562992125982in"}
+a\) pretende sempre evitar que a pessoa cega acesse um objeto.
 
-**Imagem 2**
+b\) pretende orientar a pessoa com deficiência visual por meio de sinais e significados diversos.
 
-![Hidrante na calçada da rua Descrição gerada automaticamente com
-confiança
-baixa](./imgSAEB_6_POR/media/image8.png){width="4.125357611548557in"
-height="3.2919520997375327in"}
+c\) tem por objetivo direcionar a pessoa com deficiência visual para que acesse determinado objeto; tendo as linhas e as bolinhas o mesmo significado.
 
-\fonte{
-<https://www.petropolis.rj.gov.br/pmp/phocadownload/destaques/2019/agosto/manual_de_calcada_acessivel_petropolis.pdf>
-
-O objetivo do piso ao redor do telefone público é
-
-a\) evitar que a pessoa com deficiência visual acesse o objeto.
-
-b\) orientar a pessoa com deficiência visual de que ali há um objeto.
-
-c\) direcionar a pessoa com deficiência visual para que acesse aquele
-objeto.
-
-d\) proteger o objeto de qualquer avaria em decorrência da aproximação
+d\) deve proteger o chão da calçada de qualquer avaria em decorrência da aproximação
 de pessoas com bengalas, por exemplo.
 
-BNCC: EF69LP20
+BNCC: EF69LP20 -- Identificar, tendo em vista o contexto de produção, a forma de organização dos textos
+normativos e legais, a lógica de hierarquização de seus itens e subitens e suas partes: parte inicial
+(título – nome e data – e ementa), blocos de artigos (parte, livro, capítulo, seção, subseção), artigos
+(caput e parágrafos e incisos) e parte final (disposições pertinentes à sua implementação) e analisar
+efeitos de sentido causados pelo uso de vocabulário técnico, pelo uso do imperativo, de palavras
+e expressões que indicam circunstâncias, como advérbios e locuções adverbiais, de palavras
+que indicam generalidade, como alguns pronomes indefinidos, de forma a poder compreender o
+caráter imperativo, coercitivo e generalista das leis e de outras formas de regulamentação.
 
 a\) Incorreta. Nenhum piso tátil tem função de evitar que qualquer
 pessoa deixe de acessar um recurso público.
 
 b\) Correta. O piso tátil em bolinha, conforme explica a imagem 1, é um
 alerta para a pessoa com deficiência visual, ou sejam, serve para
-orientá-la de que ali há um objeto.
+orientá-la de que ali há um objeto; o piso com função de direcionamento é aquele com padrão em faixas; cada símbolo tem um significado diferente.
 
-c\) Incorreta. O piso com função de direcionamento é aquele com padrão
-em faixas.
+c\) Incorreta. formas diferentes, significados diferentes.
 
-d\) Incorreta. O objeto está cercado pelo piso para alertar o acesso da
-pessoa com deficiência a partir de qualquer sentido.
+d\) Incorreta. A proteção é à pessoa, não ao ambiente público.
 
 
 \num{3} Leia o texto a seguir.
@@ -872,7 +780,14 @@ c\) explicar em termos técnicos as dimensões apresentadas no trecho.
 d\) fazer uma metáfora bem-humorada das dimensões das coisas no
 universo.
 
-BNCC: EF69LP20
+BNCC: EF69LP20 -- Identificar, tendo em vista o contexto de produção, a forma de organização dos textos
+normativos e legais, a lógica de hierarquização de seus itens e subitens e suas partes: parte inicial
+(título – nome e data – e ementa), blocos de artigos (parte, livro, capítulo, seção, subseção), artigos
+(caput e parágrafos e incisos) e parte final (disposições pertinentes à sua implementação) e analisar
+efeitos de sentido causados pelo uso de vocabulário técnico, pelo uso do imperativo, de palavras
+e expressões que indicam circunstâncias, como advérbios e locuções adverbiais, de palavras
+que indicam generalidade, como alguns pronomes indefinidos, de forma a poder compreender o
+caráter imperativo, coercitivo e generalista das leis e de outras formas de regulamentação.
 
 a\) Incorreto, O texto não compara termos técnicos.
 
@@ -898,7 +813,7 @@ sobre os termos técnicos.
 - Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
 - Inferir a presença de valores sociais, culturais e humanos em textos literários.
 
-Habilidades da BNCC: EF69LP44, EF69LP47, EF67LP27.
+Habilidades da BNCC: EF69LP44, EF69LP47 e EF67LP27.
 
 \conteúdo
 {A intertextualidade é uma técnica que envolve a criação de conexões
@@ -1160,7 +1075,7 @@ Dissimulada: pessoa fingida, falsa.
 
 Fitar: olhar; admirar.
 
-\num{5} Qual é o efeito de sentido que a palavra "obliqua" adquire no
+\num{5} Qual é o efeito de sentido que a palavra "oblíqua" adquire no
 contexto do Texto 1?
 
 \coment{ A palavra adquire um sentido real, já que os olhos do gatinho
@@ -1176,14 +1091,13 @@ era, se nunca os vira", extraído do Texto 2?
 
 \coment{ O pronome se refere aos olhos de Capitu.}
 
-Leia o texto a seguir para responder às questões 8 a 10.
+Observe a imagem e leia o texto que a acompanha, a seguir, para responder às questões 8 a 10.
 
 ![Uma imagem contendo Forma Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image11.png){width="5.905555555555556in"
 height="4.438888888888889in"} ARTE:
 https://br.freepik.com/icones-gratis/mundo\_15424068.htm\#page=3&query=origem%20e%20destino%20vetor&inposition=5&from\_view=search&track=ais
-
-Precisa inserir o texto "De mal\... a pior."
+"De mal\... a pior."
 
 \num{8} A imagem apresenta uma rota cruzando o planeta Terra de um ponto a
 outro, com o texto "De mal\... a pior.". Explique o uso das reticências
@@ -1237,29 +1151,25 @@ d\) "De mal a pior" não aparece em nenhuma cantiga popular.}
 
 **Texto 1**
 
-![Interface gráfica do usuário, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image12.png){width="4.483333333333333in"
-height="5.100084208223972in"}
-
-RUAS, Carlos. Disponível em: \<
-<https://www.iag.usp.br/astronomia/sites/default/files/dnce_2023_02.pdf>\>.
-Acesso em: mar. 2023.
+https://br.freepik.com/vetores-gratis/ilustracao-de-calor-de-verao-plana-com-desenho-na-frente-do-sol_27991362.htm#query=sun%20cartoon&position=6&from_view=search&track=ais
+Tudo bem que você é essencial, mas tem hora que precisamos de uma trégua, seu Hélio.
 
 **Texto 2**
 
-O que acontece se o Sol deixar de brilhar
+O que acontece se o Sol deixar de brilhar?
 
-O Sol é uma estrela cujo diâmetro é igual a 1,4 milhão de quilômetros e
-está localizada no centro do [Sistema
-Solar](https://www.nationalgeographicbrasil.com/espaco/2023/01/quantos-planetas-existem-no-sistema-solar).
-Sem a energia e a luz que essa massa de hidrogênio e hélio produz, a
-existência de vida
-na [Terra](https://www.nationalgeographicbrasil.com/videotvterra-101) seria
-impossível, indica a Nasa.
 
-(Disponível em:
-<https://www.nationalgeographicbrasil.com/espaco/2023/01/o-que-aconteceria-se-o-sol-apagasse>.
-Acesso em: mar. 2023. Adaptado.)
+>Se o sol deixasse de brilhar, teríamos consequências catastróficas na Terra. O sol é a estrela central do nosso sistema solar e é responsável por fornecer a luz e o calor necessários para sustentar a vida em nosso planeta.
+
+>Sem a luz do sol, os dias ficariam completamente escuros. Isso afetaria diretamente a fotossíntese das plantas, que dependem da luz solar para produzir seu próprio alimento. Com a interrupção da fotossíntese, as plantas não conseguiriam sobreviver e, consequentemente, toda a cadeia alimentar seria afetada.
+
+>Além disso, a temperatura na Terra diminuiria drasticamente. O sol é uma fonte de calor vital para manter o equilíbrio térmico do nosso planeta. Sem a sua radiação, a temperatura média da Terra cairia rapidamente, resultando em um resfriamento global. Isso poderia levar a condições extremamente frias, com o congelamento de rios, lagos e oceanos.
+
+>A falta de luz solar também afetaria o clima e os padrões atmosféricos. A energia solar desempenha um papel fundamental na formação de correntes de ar e na circulação atmosférica. Sem o calor do sol, os padrões climáticos seriam alterados, levando a eventos climáticos extremos e imprevisíveis.
+
+>Em resumo, se o sol deixasse de brilhar, enfrentaríamos uma crise global sem precedentes, com a interrupção da fotossíntese, resfriamento global e mudanças climáticas drásticas. Felizmente, essa é uma situação extremamente improvável, já que o sol continuará a brilhar e fornecer energia por bilhões de anos.
+
+Guilherme Pedroso Teixeira
 
 Os textos 1 e 2
 
@@ -1271,15 +1181,17 @@ c\) não têm qualquer relação.
 
 d\) são de cunho informativo.
 
-BNCC: EF67LP27.
+BNCC: EF67LP27 -- Analisar, entre os textos literários e entre estes e outras manifestações artísticas
+(como cinema, teatro, música, artes visuais e midiáticas), referências explícitas ou implícitas a
+outros textos, quanto aos temas, personagens e recursos literários e semióticos.
 
-a\) Incorreta. O texto 1 é um quadrinho e o texto 2 é um texto de
+a\) Incorreta. O texto 1 é um cartum e o texto 2 é um texto de
 divulgação científica.
 
 b\) Os textos apresentam intertextualidade com relação ao tema,
-que são as consequências de haver um apagão do sol.
+que é a influência do Sol na Terra.
 
-c\) Incorreta. Os textos apresentam a mesma temática.
+c\) Incorreta. Os textos apresentam a mesma temática geral.
 
 d\) Incorreta. Apenas o texto 2 é de cunho informativo, pois transmite a
 mensagem de maneira assertiva.
@@ -1307,19 +1219,21 @@ mede a força.
 d\) a partir da composição de elementos verbais e não verbais, como a
 pintura e os quadros de aviso.
 
-BNCC: EF67LP27.
+BNCC: EF67LP27 -- Analisar, entre os textos literários e entre estes e outras manifestações artísticas
+(como cinema, teatro, música, artes visuais e midiáticas), referências explícitas ou implícitas a
+outros textos, quanto aos temas, personagens e recursos literários e semióticos.
 
-a\. Incorreta. Os elementos não verbais da imagem não se dissociam de
+a\) Incorreta. Os elementos não verbais da imagem não se dissociam de
 elementos cotidianos; eles fazem parte deles.
 
-b\. Incorreta. A obra não pretende instruir como acionar o alerta
+b\) Incorreta. A obra não pretende instruir como acionar o alerta
 sonoro.
 
-c\. Correta. A imagem forma uma intertextualidade ao unir o sinal
+c\) Correta. A imagem forma uma intertextualidade ao unir o sinal
 sonoro, na parede, com um hidrante, no chão, e a pintura do garoto
 brincando com um martelo que mede a força.
 
-d\. Incorreta. Os elementos verbais, como os quadros na parece, não
+d\) Incorreta. Os elementos verbais, como os quadros na parece, não
 fazem diferença na composição da imagem.
 
 \num{3} Observe a imagem a seguir.
@@ -1332,46 +1246,28 @@ height="2.9843755468066493in"}
 
 A canção que formaria uma intertextualidade com a imagem é:
 
-a\) Será que a terra\
-Vai seguir nos dando\
-O fruto, a folha\
-O caule e a raiz?
+a\) "Herdeiros do futuro", de Toquinho, cujos versos questionam se a terra continuará a fornecer frutos à humanidade.
 
-(Toquinho)
+b\) "Coração bandido", de Maiara e Maraísa, em que se afirma que o coração do eu é bandido por trair seu amor. 
 
-b\) Coração bandido esse meu\
-Vive traindo você\
-Coração ingênuo é o seu\
-Todo esse tempo sem perceber
+c\) "Coração de ferro", de Zé Henrique e Gabriel, em que se fala de um coração isento de sentir.
 
-(Maiara e Maraísa part. Marília Mendonça)
+d\) "Natureza distraída", de Toquinho, em que se fala de como devemos, como as plantas, de carinho e de crescer.
 
-c\) Coração de ferro\
-Não tem sentimento\
-Caminhos te levam\
-Pelo som vento
+BNCC: EF67LP27 -- Analisar, entre os textos literários e entre estes e outras manifestações artísticas
+(como cinema, teatro, música, artes visuais e midiáticas), referências explícitas ou implícitas a
+outros textos, quanto aos temas, personagens e recursos literários e semióticos.
 
-(Zé Henrique e Gabriel)
-
-d\) Como as plantas, somos seres vivos\
-Como as plantas, temos que crescer\
-Como elas, precisamos de muito carinho\
-De Sol, de amor, de ar pra sobreviver.
-
-(Toquinho)
-
-BNCC: EF67LP27
-
-a\. Incorreta. Embora a letra fale sobre mata, caule e raiz, não se pode
+a\) Incorreta. Embora a letra fale sobre mata, caule e raiz, não se pode
 afirmar que a imagem é de um desmatamento.
 
-b\. Incorreta. A letra é uma canção de amor entre pessoas, e não sobre
+b\) Incorreta. A letra é uma canção de amor entre pessoas, e não sobre
 natureza, portanto, não apresenta intertextualidade com a imagem.
 
-c\. Incorreta. A letra fala apenas de sentimentos humanos, e não
+c\) Incorreta. A letra fala apenas de sentimentos humanos, e não
 apresenta intertextualidade com a imagem.
 
-d\. Correta. A imagem apresenta um caule cortado em formato de coração,
+d\) Correta. A imagem apresenta um caule cortado em formato de coração,
 comparando o sentimento com a mata.
 
 
@@ -1422,29 +1318,15 @@ Utilize o texto a seguir para responder às questões 1 a 7.
 
 **Como os gatos veem o mundo**
 
-Diante de tanto investimento financeiro e emocional, muitos veem em seus
-bichanos características humanas. Pois se enganam. Diferente dos
-cachorros, que querem ser gente, os gatos não querem ser outra coisa. E
-acham que a gente é que é gato: aos olhos felinos, seus donos são
-gigantes amáveis da mesma espécie, responsáveis por sustentá-los e
-protegê-los.
+Frente a investimentos financeiros e emocionais significativos, muitas pessoas atribuem características humanas aos seus gatos. No entanto, estão equivocadas. Ao contrário dos cães, que desejam ser como os humanos, os gatos não aspiram a ser outra coisa senão gatos. Na perspectiva felina, somos nós, seus donos, os gigantes amigáveis da mesma espécie, encarregados de sustentá-los e protegê-los.
 
-Protegê-los do quê? Para o gato, cada sala é uma selva -- que ele só é
-capaz de enxergar em dois tons: amarelo e azul. Por trás de cada cortina
-e por baixo de cada almofada pode haver uma ameaça. Nascem, morrem e
-geram predadores. "Ele descende de um felino territorial e solitário que
-aceitou a coexistência com outros gatos e ainda está se adaptando à vida
-de animal de estimação", diz John Bradshaw, autor de *Catsense -- The
-Feline Enigma Revealed* ("*Sentido de gato, o enigma felino revelado*"),
-*best-seller* de 2013 sem edição brasileira.
+Protegê-los de quê? Para o gato, cada cômodo é uma selva, que ele percebe apenas em tons de amarelo e azul. Há uma ameaça escondida atrás de cada cortina e sob cada almofada. Eles nascem, morrem e dão origem a predadores. Segundo John Bradshaw, autor do livro "Sentido de gato, o enigma felino revelado" (best-seller de 2013 sem edição brasileira), "eles descendem de felinos territoriais e solitários que aceitaram a coexistência com outros gatos e ainda estão se adaptando à vida como animais de estimação".
 
-Ou seja, o que ratos sabiam e pufes suspeitavam, a ciência agora
-confirma: o gato doméstico ainda é selvagem.
+Em outras palavras, aquilo que os ratos sabiam e os pufes suspeitavam, a ciência agora confirma: o gato doméstico ainda preserva sua natureza selvagem.
 
-(RODRIGUES, Alexandre. Como os gatos veem o mundo. Superinteressante,
-publicado em 23 nov. 2014 e atualizado em 19 jul. 2019. Disponível em:
+(Fonte de pesquisa: Alexandre Rodrigues. Superinteressante. Como os gatos veem o mundo. Disponível em:
 \<<https://super.abril.com.br/ciencia/como-os-gatos-veem-o-mundo/>\>.
-Acesso em 9 mar. 2023. Adaptado.)
+Acesso em 9 mar. 2023.)
 
 \num{1} O título de tem a função de apresentar ao leitor o tema que será
 trabalhado no texto. No caso desse artigo, se considerarmos que o verbo
@@ -1472,19 +1354,15 @@ essa informação.
 \linhas{6}
 
 \coment{A tese é de que os gatos domésticos ainda são animais
-selvagens. O trecho que confirma essa informação é o último parágrafo:
-"Ou seja, o que ratos sabiam e pufes suspeitavam, a ciência agora
-confirma: o gato doméstico ainda é selvagem."}
+selvagens. O trecho que confirma essa informação é:
+"Ao contrário dos cães, que desejam ser como os humanos, os gatos não aspiram a ser outra coisa senão gatos."}
 
 
 \num{4} Que tipos de argumentos o autor utiliza para defender essa tese?
 
 \linhas{6}
 
-\coment{O autor utiliza comparações, como em "diferente dos cachorros,
-que querem ser gente, os gatos não querem ser outra coisa." e "para o
-gato, cada sala é uma selva", e o trecho que apresenta a citação de um
-autor especialista, John Bradshaw.}
+\coment{O autor utiliza comparações e referências da convivência cotidiana com os gatos, como em "Há uma ameaça escondida atrás de cada cortina e sob cada almofada.", além do trecho que apresenta a citação de um autor especialista, John Bradshaw.}
 
 
 \num{5} Por que o autor do artigo reproduz a fala de um especialista no
@@ -1495,9 +1373,7 @@ desenvolvimento do texto?
 \coment{Porque a fala do especialista dá credibilidade ao texto.}
 
 
-\num{6} As aspas utilizadas em "Ele descende de um felino territorial e
-solitário que aceitou a coexistência com outros gatos e ainda está se
-adaptando à vida de animal de estimação"
+\num{6} As aspas utilizadas em "eles descendem de felinos territoriais e solitários que aceitaram a coexistência com outros gatos e ainda estão se adaptando à vida como animais de estimação"
 
 a\) reproduzem a fala do especialista na forma de discurso indireto.
 
@@ -1522,20 +1398,15 @@ reconheça a frase do especialista como uma citação?
 
 \linhas{3}
 
-\coment{O verbo dizer, após o trecho entre aspas: "diz John Bradshaw,
-autor de *Catsense\...".*}
+\coment{O conector *segundo*, que precede trecho entre aspas.}
 
 Leia o texto a seguir para responder às questões 8 a 10.
 
-**"**Todo mundo conhece a música Ciranda-Cirandinha. A Adriana, uma
+>[...] Todo mundo conhece a música Ciranda-Cirandinha. A Adriana, uma
 amiga, me confessou que durante anos e anos, entendia um verso
 completamente diferente. Quando a letra fala o amor que tu me tinhas era
 pouco e se acabou, ela achava que era o amor de Tumitinha era pouco e se
-acabou. Tumitinha era um menino, coitado. Ficava com dó do Tumitinha
-toda vez que cantava a música, porque o amor dele tinha se acabado. E
-mais, achava que o Tumitinha era um japonesinho. Devia se chamar, na
-verdade, Tumita. Quando ela descobriu que o Tumitinha não existia,
-sofreu muito. Faz análise até hoje."
+acabou. Tumitinha era um menino, coitado. [...]
 
 (PRATA, Mário. O amor de Tumitinha. Disponível em: \<
 <https://marioprata.net/cronicas/o-amor-de-tumitinha/>\>. Acesso em: 3
@@ -1546,7 +1417,7 @@ compreendido?
 
 \linhas{3}
 
-\coment{A sonoridade parecida entre as palavras "tu me tinhas" e
+\coment{A sonoridade parecida entre as palavras "tu me tinhas" e o nome imaginado por ela
 "Tumitinha".}
 
 
@@ -1555,7 +1426,7 @@ a história que ele reconta é, na verdade, inventada pela sua amiga?
 
 \linhas{3}
 
-\coment{O autor menciona, no começo do texto que sua amiga Adriana
+\coment{O autor menciona, no começo do texto, que sua amiga Adriana
 confessou que entendia a letra de Ciranda-cirandinha de outro jeito.}
 
 
@@ -1571,28 +1442,33 @@ falar. Por isso ele informa que ela "confessou" que cantava errado.}
 
 \colorsec{Treino}
 
-\num{1} Observe o infográfico a seguir.
+\num{1} Observe a imagem e leia o texto que, juntos, compõem um informe visual.
 
-![Gráfico, Diagrama, Gráfico de bolhas Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image15.jpeg){width="3.433333333333333in"
-height="3.3768110236220474in"}
+https://www.freepik.com/free-vector/human-brain-two-different-colored-symbolic-left-right-cerebral-hemispheres-model-image-icon-abst_4188723.htm#page=2&query=brain%20vector&position=40&from_view=search&track=ais
+%colocar a imagem de "cabeça para baixo", de forma que o cérebro pareça um coração.
+Para manter sua saúde mental em dia, você precisa:
+1) Praticar exercícios;
+2) Manter uma alimentação saudável;
+3) Aproveitar passeios e caminhadas ao ar livre;
+4) Dormir 8 horas por dia;
+5) Conversar sobre o que sente com pessoas de confiança;
+6) Procurar ajuda profissional se for preciso;
+7) Manter uma alimentação saudável e diversificada.
 
-\fonte{
-<https://aetrancoso.pt/2019/10/10/10-de-outubro-de-2019-dia-mundial-da-saude-mental/>
 
-Qual é a tese apresentada no infográfico?
+Qual é a tese apresentada no informe?
 
 a\) Saúde mental e saúde física caminham juntas.
 
-b\) Para ter saúde mental basta seguir as dicas.
+b\) Para ter saúde mental, basta seguir as dicas relacionadas à atividade física.
 
-c\) Não é possível ter saúde mental se as dicas não forem seguidas.
+c\) Não é possível ter saúde mental se todas as dicas não forem seguidas.
 
 d\) A saúde mental só depende da pessoa.
 
-BNCC: EF69LP43.
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras vozes no texto – citação literal e sua formatação e paráfrase –, as pistas linguísticas responsáveis por introduzir no texto a posição do autor e dos outros autores citados (“Segundo X; De acordo com Y; De minha/nossa parte, penso/amos que”...) e os elementos de normatização (tais como as regras de inclusão e formatação de citações e paráfrases, de organização de referências bibliográficas) em textos científicos, desenvolvendo reflexão sobre o modo como a intertextualidade e a retextualização ocorrem nesses textos.
 
-a\) Correta. O infográfico apresenta dicas de saúde mental que englobam
+a\) Correta. O informe apresenta dicas de saúde mental que englobam
 comportamentos que auxiliam na manutenção do físico e do psicológico.
 
 b\) Incorreta. As informações do infográfico são dicas, sugestões, e não
@@ -1609,23 +1485,13 @@ infográfico apresenta apenas algumas dicas.
 
 **Como cuidar da saúde mental das crianças?**
 
-Os primeiros anos de vida funcionam como base para as aquisições que o
-cérebro fará nos anos seguintes. Dessa forma, promover a saúde mental
-infantil é uma forma de cuidar de nossos futuros jovens, adultos e
-idosos. E, assim, é uma maneira de zelar também pelas nossas
-comunidades.
+Os primeiros anos de vida desempenham um papel fundamental na formação das habilidades cognitivas que o cérebro desenvolverá ao longo dos anos subsequentes. Portanto, investir na promoção da saúde mental infantil é uma maneira de cuidar do bem-estar das futuras gerações, abrangendo desde jovens até idosos, e também de preservar o bem-estar de nossas comunidades.
 
-Ainda, é durante a infância que costumam surgir os primeiros sintomas de
-transtornos mentais, que podem se agravar de forma considerável na vida
-adulta. De acordo com a Organização Mundial da Saúde (OMS), metade das
-doenças mentais começam aos 14 anos. Nesse sentido, discutir o tema e
-estar bem-informado sobre os sintomas contribui para o reconhecimento
-precoce dos problemas de saúde mental.
+Além disso, é durante a infância que os primeiros sinais de transtornos mentais costumam se manifestar, podendo agravar-se significativamente na vida adulta. De acordo com a Organização Mundial da Saúde (OMS), metade dos distúrbios mentais têm início por volta dos 14 anos de idade. Portanto, discutir o assunto e estar bem informado sobre os sintomas contribui para a detecção precoce dos problemas de saúde mental.
 
-(MONTANARI, Elen. **Como cuidar da saúde mental das crianças?**
-Disponível em: \<
+(Fonte de pesquisa: Elen Montanari. Blog Leiturinha. Como cuidar da saúde mental das crianças? Disponível em: \<
 <https://leiturinha.com.br/blog/como-cuidar-da-saude-mental-das-criancas/>\>.
-Acesso em: mar. 2023. Adaptado.)
+Acesso em: 14 mar. 2023.)
 
 O recurso argumentativo utilizado que apoia a tese apresentada no texto
 é
@@ -1638,7 +1504,7 @@ b\) uma citação indireta.
 
 d\) uma citação de citação.
 
-BNCC: EF69LP43.
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras vozes no texto – citação literal e sua formatação e paráfrase –, as pistas linguísticas responsáveis por introduzir no texto a posição do autor e dos outros autores citados (“Segundo X; De acordo com Y; De minha/nossa parte, penso/amos que”...) e os elementos de normatização (tais como as regras de inclusão e formatação de citações e paráfrases, de organização de referências bibliográficas) em textos científicos, desenvolvendo reflexão sobre o modo como a intertextualidade e a retextualização ocorrem nesses textos.
 
 a\) Incorreta. A citação usada como argumento é indireta.
 
@@ -1693,7 +1559,7 @@ público leitor.
 d\) Na entrevista, a escritora diz que é preciso conversar com as
 crianças pois elas entendem mais do que se imagina.
 
-BNCC: EF69LP43
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras vozes no texto – citação literal e sua formatação e paráfrase –, as pistas linguísticas responsáveis por introduzir no texto a posição do autor e dos outros autores citados (“Segundo X; De acordo com Y; De minha/nossa parte, penso/amos que”...) e os elementos de normatização (tais como as regras de inclusão e formatação de citações e paráfrases, de organização de referências bibliográficas) em textos científicos, desenvolvendo reflexão sobre o modo como a intertextualidade e a retextualização ocorrem nesses textos.
 
 a\) Incorreta. O primeiro parágrafo é apenas uma introdução da matéria.
 
@@ -1716,7 +1582,7 @@ entrevistada; neste caso, o verbo "dizer" faz essa função.
 
 Habilidade da BNCC: EF67LP04.
 
-\coment{}
+\coment{
 Opinião é uma avaliação subjetiva ou julgamento que uma pessoa faz sobre
 algo, com base em sua experiência, conhecimento, crenças, valores e
 emoções. É uma expressão pessoal e subjetiva de um ponto de vista, que
@@ -4880,18 +4746,15 @@ height="3.9569444444444444in"}
 
 A proposta da campanha é incentivar as pessoas a
 
-a\) ficarem em casa.
+a\) ficar em casa.
 
 b\) sair apenas se necessário.
 
-c\) respeitar as leis de trânsito.
+c\) .
 
-d\) respeitar as leis de trânsito só quando saírem.
+d\) .
 
-Resposta: c. A campanha é uma iniciativa da Polícia Rodoviária Federal e
-visa incentivar as pessoas a respeitarem as leis de trânsito.
-
-Justificativas:
+BNCC: EF67LP07
 
 a\) Incorreto. Como a campanha foi produzida em época de pandemia, a
 hashtag \#fiqueemcasa incentivava as pessoas a não saírem, porém, este
@@ -4904,12 +4767,9 @@ c\) Incorreta. A campanha incentiva as pessoas a respeitarem as leis de
 trânsito. Como foi veiculada em época de pandemia, o texto menciona sair
 de casa apenas se necessário.
 
-Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
-verbais.
+d\) Correta. A campanha é uma iniciativa da Polícia Rodoviária Federal e
+visa incentivar as pessoas a respeitarem as leis de trânsito.
 
-BNCC: EF67LP07
-
-Nível: fácil
 
 \num{2}
 
@@ -4948,26 +4808,20 @@ c\) do vereador, sobre pedindo operações tapa-buraco no município.
 
 d\) dos representantes do Executivo, sobre a manutenção do asfalto.
 
-Resposta: b. A notícia trata da reclamação da população sobre manutenção
-do asfalto de várias ruas e avenidas de Sorriso. Damiani, o vereador,
-apenas é o porta-voz entrevistado.
-
-Justificativas:
+BNCC: EF67LP17.
 
 a\) Incorreta. É parte do trabalho do Legislativo buscar a solução para
 as demandas.
+
+b\) A notícia trata da reclamação da população sobre manutenção
+do asfalto de várias ruas e avenidas de Sorriso. Damiani, o vereador,
+apenas é o porta-voz entrevistado.
 
 c\) Incorreta. O vereador é o porta-voz dos pedidos da população.
 
 d\) Incorreta. O vereador ficou encarregado de apresentar as demandas
 para o Executivo.
 
-Saeb: Identificar formas de organização de textos normativos, legais
-e/ou reinvindicatórios.
-
-BNCC: EF67LP17
-
-Nível: médio.
 
 \num{3}
 
@@ -4988,24 +4842,18 @@ c\) o fato de o presente caro ser um botijão de gás.
 
 d\) o filho presentear a mãe com um presente incomum.
 
-Resposta: c. O humor da tira é o fato de o presente ser um botijão de
-gás que, de tão caro, emocionou a mãe.
-
-Justificativas:
+BNCC: EF69LP03.
 
 a\) Incorreta. A mãe se emociona com o presente do filho.
 
 b\) Incorreta. A mãe se emociona com o tipo de presente caro.
 
+c\) O humor da tira é o fato de o presente ser um botijão de
+gás que, de tão caro, emocionou a mãe.
+
 d\) Incorreta. O presente é incomum, mas aqui especificamente o humor
 está no fato de ser um botijão de gás, que custa muito caro.
 
-Saeb: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
-crítica.
-
-BNCC: EF69LP03
-
-Nível: fácil.
 
 \num{4} Leia um trecho da obra "O diário da princesa", de Meg Cabot.
 
@@ -5046,11 +4894,11 @@ c\) aos personagens secundários da história.
 
 d\) ao lugar em que acontece a história.
 
-Resposta: a. O trecho contextualiza o leitor com relação à personalidade
+BNCC: EF69LP47.
+
+a\) O trecho contextualiza o leitor com relação à personalidade
 de Mia: o que ela pensa, como ela pensa e os dilemas pelos quais ela
 está passando.
-
-Justificativas:
 
 b\) Incorreta. O trecho não deixa claro o tempo cronológico, embora o
 diário seja datado. Essa informação só é percebida no decorrer da obra.
@@ -5063,9 +4911,6 @@ d\) Incorreta. O trecho não apresenta o local onde acontece a história.
 Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
 
-BNCC: EF69LP47
-
-Nível: difícil.
 
 \num{5} Leia o texto a seguir.
 
@@ -5086,13 +4931,13 @@ c\) preparar-se fisicamente para a festa de São João.
 
 d\) fazer um check up de saúde antes de ir para a festa de São João.
 
-Resposta: b. A expressão "prepare seu coração" está relacionada à
-sensação de palpitação causada pela ansiedade.
-
-Justificativas:
+BNCC: EF06LP12.
 
 a\) Incorreta. Embora o coração quase sempre esteja ligado à paixão,
 neste contexto ele está relacionado à ansiedade.
+
+b\) A expressão "prepare seu coração" está relacionada à
+sensação de palpitação causada pela ansiedade.
 
 c\) Incorreta. Como o próprio enunciado explica, a expressão é usada em
 sentido conotativo, ou seja, não literal.
@@ -5100,11 +4945,6 @@ sentido conotativo, ou seja, não literal.
 d\) Incorreta. Como o próprio enunciado explica, a expressão é usada em
 sentido conotativo, ou seja, não literal.
 
-SAEB: Analisar os mecanismos que contribuem para a progressão textual.
-
-BNCC: EF06LP12
-
-Nível: fácil
 
 \num{6}
 
@@ -5116,54 +4956,34 @@ height="5.500767716535433in"}
 
 Qual das alternativas melhor descreve o tom da linguagem usada no texto?
 
+a\) nervoso e combativo
+b\) humorístico e leve
+c\) sério e informativo
+d\) triste e melancólico
 
-a) nervoso e combativo
-----------------------
+BNCC: EF69LP05.
 
-b) humorístico e leve
----------------------
+a\) Incorreta. Embora os macacos aparentemente estivessem discutindo no primeiro quadrinho, a linguagem é humorística e leve.
 
-c) sério e informativo
-----------------------
+b\) Correta. O texto adota uma linguagem leve e humorística.
 
-d) triste e melancólico
------------------------
+c\) Incorreta. O terceiro quadrinho propõe uma fala mais informativa da personagem, mas a tira é de humor.
 
-Resposta: b. O texto adota uma linguagem leve e humorística.
-
-
-Justificativas:
----------------
-
-a) Incorreta. Embora os macacos aparentemente estivessem discutindo no primeiro quadrinho, a linguagem é humorística e leve.
+d\) Incorreta. Em nenhum momento o texto aparenta qualquer indício de tristeza ou melancolia.
 
 
-c) Incorreta. O terceiro quadrinho propõe uma fala mais informativa da personagem, mas a tira é de humor.
-
-
-d) Incorreta. Em nenhum momento o texto aparenta qualquer indício de tristeza ou melancolia.
-
-
-Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou crítica.
-
-
-BNCC: EF69LP05
---------------
-
-Nível: fácil
-------------
 
 7. 
 --
 
 "Quarta-feira, 18 de janeiro 
-----------------------------
+
 
 Estamos na Boa Vista e fomos hoje à casa de uns amigos que eram tão bons para nós, todas as vezes que aqui vínhamos. Obsequiavam sempre a mamãe com frutas, ovos, frangos e verduras. 
------------------------------------------
+
 
 Esta amizade ficou forte com a parecença de Luisinha, minha irmã, com a sobrinha deles que estava fora. A mulher, Dona Mariquinha, dizia sempre que nos via: "Que saudades da Quitinha! Vendo a sua menina, parece que estou vendo a outra, Dona Carolina. É cara duma, cara doutra, sem tirar nem pôr. Ainda hei de juntar as duas para a senhora ver". Mamãe dizia: "É pena mesmo a sua não estar aqui". Ela dizia: "O dia chegará, Dona Carolina".
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 (MORLEY, Helena. *Minha vida de menina*. 1a ed. São Paulo: Companhia de Bolso, 2016.)
 
@@ -5171,41 +4991,20 @@ Esta amizade ficou forte com a parecença de Luisinha, minha irmã, com a sobrin
 O trecho "Obsequiavam sempre a mamãe com frutas, ovos, frangos e verduras." apresenta qual tipo de variação linguística?
 
 
-a) Econômica
-------------
+a\) Econômica
+b\) Histórica
+c\) Social
+d\) Geográfica
 
-b) Histórica
-------------
+BNCC: EF69LP44.
 
-c) Social
----------
+a\) Incorreta. O trecho e a forma de se expressar não tem relação com a classe econômica dos personagens envolvidos, mas sim com o período histórico em que o texto foi criado
 
-d) Geográfica
--------------
+b\) Correta. O texto original foi criado em meados de 1940, e por isso, retrata a variação linguística histórica, com palavras mais rebuscadas. Por exemplo: Obsequiava, que no contexto quer dizer presentear.
 
-Resposta: B. O texto original foi criado em meados de 1940, e por isso, retrata a variação linguística histórica, com palavras mais rebuscadas. Por exemplo: Obsequiava, que no contexto quer dizer presentear.
---------------------------------------------------------------------------------------------------------------------------------------------
+c\) Incorreta. O trecho e a forma de se expressar não tem relação com a contexto social dos personagens envolvidos, mas sim com o período histórico em que o texto foi criado
 
-Justificativas: 
----------------
-
-A- Incorreta. O trecho e a forma de se expressar não tem relação com a classe econômica dos personagens envolvidos, mas sim com o período histórico em que o texto foi criado
----------------------------------
-
-C- Incorreta. O trecho e a forma de se expressar não tem relação com a contexto social dos personagens envolvidos, mas sim com o período histórico em que o texto foi criado
---------------------------------
-
-D- Incorreta. O trecho e a forma de se expressar não tem relação com a origem geográfica dos personagens envolvidos, mas sim com o período histórico em que o texto foi criado
-----------------------------------
-
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio literário.
-
-
-BNCC: EF69LP44
---------------
-
-Nível: médio
-------------
+d\) Incorreta. O trecho e a forma de se expressar não tem relação com a origem geográfica dos personagens envolvidos, mas sim com o período histórico em que o texto foi criado
 
 8. 
 --
@@ -5230,203 +5029,128 @@ sob orientação do professor Carlos Augusto Pasqualucci.
 
 Qual é a ideia central do texto?
 
-a) Contar a história de D. Pedro e da família Real brasileira.
+a\) Contar a história de D. Pedro e da família Real brasileira.
 
-b) Divulgar o trabalho de pesquisa de uma arqueóloga brasileira.
+b\) Divulgar o trabalho de pesquisa de uma arqueóloga brasileira.
 
-c) Explicar um fenômeno científico e artístico.
+c\) Explicar um fenômeno científico e artístico.
 
-d) Fazer uma resenha de uma pesquisa científica.
+d\) Fazer uma resenha de uma pesquisa científica.
 
+BNCC: EF69LP20.
 
-Resposta: b. O trecho é um texto de divulgação científica cujo objetivo é apresentar um trabalho de pesquisa e seus resultados.
+a\) Incorreta. A pesquisa é da arqueóloga que é sobre a família Real brasileira.
 
+b\) O trecho é um texto de divulgação científica cujo objetivo é apresentar um trabalho de pesquisa e seus resultados.
 
-Justificativas:
----------------
+c\) Incorreta. O texto tem a intenção de divulgar um trabalho de pesquisa e seus resultados.
 
-a) Incorreta. A pesquisa é da arqueóloga que é sobre a família Real brasileira.
-
-
-c) Incorreta. O texto tem a intenção de divulgar um trabalho de pesquisa e seus resultados.
+d\) Incorreta. O texto de divulgação científica é informativo, e não opinativo.
 
 
-d) Incorreta. O texto de divulgação científica é informativo, e não opinativo.
+9. Leia os textos a seguir.
 
 
-**Saeb:** Identificar elementos constitutivos de gêneros de divulgação
-científica.
-
-BNCC: **EF69LP20**
-------------------
-
-**Nível: médio**
-----------------
-
-**9. Leia os textos a seguir.**
--------------------------------
-
-**Texto 1**
------------
-
-**"-- Adeus -- disse a raposa. -- Eis o meu segredo. É muito simples: só se vê bem com o coração. O essencial é invisível para os olhos."**
+Texto 1
 
 
-**(*O pequeno príncipe*)**
---------------------------
+"-- Adeus -- disse a raposa. -- Eis o meu segredo. É muito simples: só se vê bem com o coração. O essencial é invisível para os olhos."**
+
+
+(*O pequeno príncipe*)
+
 
 **Texto 2**
------------
-
-**\"A grandeza não está em ser forte, mas no uso correto da força. Grande é aquela cuja força conquista mais corações.\"**
 
 
-**(*Extraordinário*)**
-----------------------
-
-**A mensagem que caracteriza a intertextualidade entre as duas obras é**
+\"A grandeza não está em ser forte, mas no uso correto da força. Grande é aquela cuja força conquista mais corações.\"
 
 
-**a) Sempre siga seus sonhos.**
--------------------------------
-
-**B) Seja gentil com as pessoas.**
-----------------------------------
-
-**C) Não deixe de ter esperança.**
-----------------------------------
-
-**D) Aprenda com seus erros.**
-------------------------------
-
-**Resposta: b. Tanto no trecho de "O pequeno príncipe" quando no trecho de "Extraordinário" a mensagem que se passa é de uma relação gentil com as pessoas, a fim de conquistá-las.**
------------------------------------------
-
-**Justificativas:**
--------------------
-
-**a) Incorreta. Os trechos não incentivam o leitor a buscar seus sonhos.**
+(*Extraordinário*)
 
 
-**c) Incorreta. Os trechos falam de relações de afeto, e não de esperança.**
+A mensagem que caracteriza a intertextualidade entre as duas obras é
 
+a\) Sempre siga seus sonhos.
+b\) Seja gentil com as pessoas.
+c\) Não deixe de ter esperança.
+d\) Aprenda com seus erros.
 
-**d) Incorreta. Os trechos não dão lição de moral relacionada a aprendizado com os erros.**
+BNCC: EF67LP27.
 
+a\) Incorreta. Os trechos não incentivam o leitor a buscar seus sonhos.
 
-**Saeb:** Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
+b\) Correta. Tanto no trecho de "O pequeno príncipe" quando no trecho de "Extraordinário" a mensagem que se passa é de uma relação gentil com as pessoas, a fim de conquistá-las.
 
+c\) Incorreta. Os trechos falam de relações de afeto, e não de esperança.
 
-BNCC: EF67LP27
---------------
+d\) Incorreta. Os trechos não dão lição de moral relacionada a aprendizado com os erros.
 
-Nível: difícil
---------------
 
 10. Leia o texto a seguir.
---------------------------
+
 
 "Estudantes que ingressaram no ensino médio em 2022 frequentam as aulas em um novo sistema, chamado de "novo ensino médio": esse novo formato adotado pelas escolas levantou muitas opiniões divergentes, principalmente por parte de estudantes, já que em algumas escolas o ensino em tempo integral foi aplicado, os alunos tendem a se desenvolver mais no tempo integral, com as 9 aulas diárias.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Em meu ponto de vista como estudante, o novo ensino médio assustou bastante no começo, mas a coordenação da minha escola fez com que tudo ficasse mais leve. Foi possível que nós nos adaptássemos ao longo dos meses -- no começo foi bastante difícil e confuso, eram 27 disciplinas e, mesmo que nem todas tenham aulas massivas e sim aulas práticas, ainda assim era tudo muito novo para nós que ficamos bastante tempo sem frequentar a escola."
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 (DANTAS, Grazi. O novo Ensino Médio na visão de uma estudante. Agência Jovem de Notícias, publicado em out. 2022. Disponível em: \< <https://agenciajovem.org/opiniao-o-novo-ensino-medio-na-visao-de-uma-estudante/>\>. Acesso em: mar. 2023. Adaptado.)
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Qual é o ponto de vista da autora sobre o novo Ensino Médio?
 
 
 a) Positiva, pois a escola tornou tudo mais leve.
 
-
 b) Confusa, pois eram 27 disciplinas e tudo muito novo.
-
 
 c) Negativa, pois o novo formato assustou bastante.
 
-
 d) Positiva em alguns pontos e negativa em outros.
 
+BNCC: EF69LP16.
 
-Resposta: a. Como a própria estudante informa, "o novo ensino médio assustou bastante no começo, mas a coordenação da minha escola fez com que tudo ficasse mais leve".
----------------------------
-
-Justificativas:
----------------
+a) Como a própria estudante informa, "o novo ensino médio assustou bastante no começo, mas a coordenação da minha escola fez com que tudo ficasse mais leve".
 
 b) Incorreta. Embora fossem muitas disciplinas, a escola auxiliou os estudantes e tudo ficou mais leve.
 
-
 c) Incorreta. A estudante achou confuso de início, mas gostou da proposta.
-
 
 d) Incorreta. A estudante menciona dificuldades no início, mas acabou gostando da proposta.
 
 
-Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de construção de textos jornalísticos/midiáticos.
-
-
-BNCC: EF69LP16
---------------
-
-Nível: médio.
--------------
-
 11. Leia o texto a seguir.
---------------------------
+
 
 A popularização dos drones comerciais, das inteligências artificiais e dos softwares de modelagem 3D permitiram o desenvolvimento de um novo método para controlar áreas de reflorestamento. Durante seu doutorado no Instituto de Energia e Ambiente (IEE) da USP, o engenheiro florestal e pesquisador Rafael Walter de Albuquerque criou um procedimento mais rápido e capaz de enriquecer os tradicionais.\[\...\]
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 "Toda restauração demanda um monitoramento. Assim como nós temos que monitorar o nosso organismo, que é complexo,--- temos que fazer exames periodicamente, principalmente quando a idade avança, para garantir que está tudo em ordem ---, quando nós estamos recuperando a floresta, precisamos visitá-la periodicamente para ver se os dados dela estão bons e se será preciso tomar uma atitude ou não", conta Rafael Albuquerque ao Jornal da USP.\[\...\]
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 (CONTERNO, Ivan. Drones e modelagem 3D auxiliarão a recuperação de florestas. Jornal da USP, publicado em mar. 2023. Disponível em: \< <https://jornal.usp.br/ciencias/drones-e-modelagem-3d-auxiliarao-a-recuperacao-de-florestas/>\>. Acesso em: mar. 2023. Adaptado.)
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Qual é o objetivo do pesquisador ao dizer que a floresta é como nosso organismo, complexo?
 
 
-a) Promover uma evidência para apoiar um argumento.
+a\) Promover uma evidência para apoiar um argumento.
 
+b\) Facilitar a compreensão do leitor por meio de uma metáfora.
 
-b) Facilitar a compreensão do leitor por meio de uma metáfora.
+c\) Criar uma imagem vívida de uma floresta na mente do leitor.
 
+d\) Tornar o texto mais interessante para o leitor.
 
-c) Criar uma imagem vívida de uma floresta na mente do leitor.
-
-
-d) Tornar o texto mais interessante para o leitor.
-
-
-Resposta: b. Para facilitar o entendimento do leitor quanto à importância do drone para o reflorestamento, o pesquisador usa uma metáfora, comparando a floresta ao nosso organismo.
-----------------------------------------
-
-Justificativas:
----------------
+BNCC: EF69LP43.
 
 a) Incorreta. Embora no trecho o objetivo seja apresentar um argumento para a tese de que é necessário o uso do drone, o pesquisador o compara a floresta ao organismo humano a fim de facilitar a compreensão do leitor.
---------------------------------------------------------------------------------------------------------------------------------------------
+
+b) Correta. Para facilitar o entendimento do leitor quanto à importância do drone para o reflorestamento, o pesquisador usa uma metáfora, comparando a floresta ao nosso organismo.
 
 c) Incorreta. O intuito é facilitar a compreensão do leitor, e não apenas gerar uma imagem da floresta na mente dele.
 
-
 d) Incorreta. O texto, por ser uma artigo de divulgação científica, naturalmente é interessante para quem o lê pois o público-alvo com frequência são pessoas que têm afinidade com o assunto.
---------------------------------------------------------------------------------------------------------------------------------------------
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de apropriação textual (paráfrase, citação etc.).
-
-
-BNCC: EF69LP43
---------------
-
-Nível: médio
-------------
 
 12.
----
 
 ![Uma imagem contendo Desenho técnico Descrição gerada automaticamente](./imgSAEB_6_POR/media/image42.png){width="5.905555555555556in" height="4.960416666666666in"}
 ------------------------
@@ -5439,41 +5163,26 @@ Em qual momento da história é apresentado o efeito de humor?
 
 a) No primeiro quadrinho, que já apresenta um cliente bem incomum.
 
-
 b) No segundo quadrinho, em que o atendente usa uma linguagem formal.
-
 
 c) No terceiro quadrinho, em que o cliente responde incorretamente à pergunta do atendente.
 
-
 d) No quarto quadrinho, em que o atendente responde à pergunta do cliente de forma literal.
 
+BNCC: EF69LP03.
 
-Resposta: d. O humor da tirinha se dá na resposta do atendente, que não compreende a pergunta do cliente, no quadrinho anterior, e responde de forma literal.
------------------
-
-Justificativas:
----------------
-
-a) Incorreta. O fato de o cliente ser incomum é subjetivo e não é responsável pelo efeito de humor.
+a\) Incorreta. O fato de o cliente ser incomum é subjetivo e não é responsável pelo efeito de humor.
 
 
-b) Incorreta. O atendente utiliza uma linguagem adequada ao contexto.
+b\) Incorreta. O atendente utiliza uma linguagem adequada ao contexto.
 
 
-c) Incorreta. O cliente compreende a pergunta e responde de forma a adianta-se quanto as opções de bebidas. O atendente que não compreendeu.
+c\) Incorreta. O cliente compreende a pergunta e responde de forma a adianta-se quanto as opções de bebidas. O atendente que não compreendeu.
 
+d\) Correta. O humor da tirinha se dá na resposta do atendente, que não compreende a pergunta do cliente, no quadrinho anterior, e responde de forma literal.
 
-Saeb: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou crítica.
-
-
-BNCC**:** EF69LP03
-
-Nível: fácil
-------------
 
 13. 
----
 
 ![Viva de Perto --- Ministério do Turismo](./imgSAEB_6_POR/media/image43.jpeg){width="5.905555555555556in" height="3.9340277777777777in"}
 
@@ -5484,43 +5193,28 @@ Nível: fácil
 Qual é o intuito do uso do verbo "fazer" no gerúndio, na propaganda?
 
 
-a) Dar a ideia de que em Natal é isso o que as pessoas ficam fazendo.
+a\) Dar a ideia de que em Natal é isso o que as pessoas ficam fazendo.
+
+b\) Gerar uma ambiguidade entre imagem e a orientação para o turista.
+
+c\) Fazer uma descrição da imagem para pessoas que não fazer leitura visual.
+
+d\) Persuadir o leitor a visitar Natal a partir de um texto bem-humorado.
+
+BNCC: EF67LP05.
+
+a\) Incorreta. A campanha não informa que em Natal é isso que as pessoas ficam fazendo. Ela usa um momento turístico para persuadir as pessoas as visitarem a cidade.
 
 
-b) Gerar uma ambiguidade entre imagem e a orientação para o turista.
+b\) O verbo no gerúndio dá a ideia de um presente que está acontecendo. Na campanha, as pessoas no carro estão fazendo ola, o que gera uma ambiguidade quando se lê a linha fina abaixo, "Continue vivendo experiências", ou seja, orientando ao turista que continue viajando e "fazendo ola" por aí.
+
+c\) Incorreta. "Fazendo ola" não é uma frase com o intuito de se fazer uma descrição visual da imagem.
 
 
-c) Fazer uma descrição da imagem para pessoas que não fazer leitura visual.
+d\) Incorreta. A campanha tem o objetivo, como um todo, de convidar o turista a visitar Natal por meio de um texto leve, e um dos recursos é a escolha léxical.
 
 
-d) Persuadir o leitor a visitar Natal a partir de um texto bem-humorado.
-
-
-Resposta: b. O verbo no gerúndio dá a ideia de um presente que está acontecendo. Na campanha, as pessoas no carro estão fazendo ola, o que gera uma ambiguidade quando se lê a linha fina abaixo, "Continue vivendo experiências", ou seja, orientando ao turista que continue viajando e "fazendo ola" por aí.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Justificativas:
----------------
-
-a) Incorreta. A campanha não informa que em Natal é isso que as pessoas ficam fazendo. Ela usa um momento turístico para persuadir as pessoas as visitarem a cidade.
-------------------------
-
-c) Incorreta. "Fazendo ola" não é uma frase com o intuito de se fazer uma descrição visual da imagem.
-
-
-d) Incorreta. A campanha tem o objetivo, como um todo, de convidar o turista a visitar Natal por meio de um texto leve, e um dos recursos é a escolha léxical.
-------------------
-
-Saeb: Identificar o uso de recursos persuasivos em textos verbais e não verbais.
-
-
-BNCC: EF67LP05
---------------
-
-Nível: médio
-------------
-
-**14.**
+14.
 
 Damiani pede manutenção asfáltica em ruas esburacadas de Sorriso
 
@@ -5558,12 +5252,12 @@ c\) postagem em rede social.
 
 d\) artigo de opinião.
 
-Resposta: a. A carta de reclamação é um gênero textual que expressa uma
+BNCC: EF67LP17.
+
+a\) Correta. A carta de reclamação é um gênero textual que expressa uma
 indignação ou uma insatisfação de determinado indivíduo. É o caminho
 formal para que representantes de bairro, por exemplo, entrem em contato
 e informem as demandas da região.
-
-Justificativas:
 
 b\) Incorreta. Vídeos na internet podem alcançar muitas pessoas, porém,
 não é certeza que os poderes responsáveis por resolver as demandas irão
@@ -5577,12 +5271,6 @@ d\) Incorreta. O artigo de opinião é um texto veiculado em meios de
 comunicação de grande circulação que exprime o ponto de vista do
 jornalista a respeito de determinado assunto.
 
-Saeb: Identificar formas de organização de textos normativos, legais
-e/ou reinvindicatórios.
-
-BNCC: EF67LP17
-
-Nível: fácil.
 
 15. Leia um trecho da obra *Diário da princesa*, de Meg Cabot.
 
@@ -5618,16 +5306,16 @@ c\) uma fala do narrador.
 
 d\) uma fala de outra pessoa.
 
-Resposta: b. O texto é o diário da personagem. Enquanto escreve sobre o
-fato de a mãe estar saindo com seu professor de álgebra, a menina pede a
-Deus, em pensamento, que ninguém da escola descubra.
-
-Justificativas:
+BNCC: EF69LP47.
 
 a\) Incorreta. O itálico é uma marca gráfica usada para pontuar um
 pensamento da personagem. Observa-se que trechos em destaque no diário
 são escritos em caixas altas, como em "E, entre DOIS MILHÕES de caras,
 ela foi namorar logo o Sr. Gianini".
+
+b\) Correta. O texto é o diário da personagem. Enquanto escreve sobre o
+fato de a mãe estar saindo com seu professor de álgebra, a menina pede a
+Deus, em pensamento, que ninguém da escola descubra.
 
 c\) Incorreta. O texto é escrito em primeira pessoa, ou seja, a
 narradora é a própria personagem.
@@ -5635,15 +5323,9 @@ narradora é a própria personagem.
 d\) Incorreta. O trecho não apresenta a personagem conversando com outra
 pessoa.
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
-literário.
 
-BNCC: EF69LP47
+#SIMULADO 3
 
-Nível: médio.
-
-SIMULADO 3
-----------
 
 \num{1}
 
@@ -5664,14 +5346,14 @@ c\) criticar filhos que não presenteiam as mães.
 
 d\) incentivar filhos a presentearem as mães.
 
-Resposta: b. A charge é uma ilustração que tem como premissa fazer uma
-crítica social. Aqui, a crítica social é feita ao alto preço do botijão
-de gás, que para a mãe é tão valioso quanto uma joia, por exemplo.
-
-Justificativas:
+BNCC: EF69LP03.
 
 a\) Incorreta. O filho não homenageia a mãe, ele a presenteia com um
 botijão de gás.
+
+b\) Correta. A charge é uma ilustração que tem como premissa fazer uma
+crítica social. Aqui, a crítica social é feita ao alto preço do botijão
+de gás, que para a mãe é tão valioso quanto uma joia, por exemplo.
 
 c\) Incorreta. A charge não critica filhos que não homenageiam as mães,
 ele mostra uma mãe sendo presenteada.
@@ -5679,95 +5361,67 @@ ele mostra uma mãe sendo presenteada.
 d\) Incorreta. A charge é um gênero voltado à crítica social. Em nenhum
 momento ela incentiva filhos a presentearem as mães.
 
-Saeb: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou
-crítica.
-
-BNCC: EF69LP03
-
-Nível: fácil.
 
 Leia o texto a seguir para responder às questões 2 e 3.
 
 "A popularização dos drones comerciais, das inteligências artificiais e dos softwares de modelagem 3D permitiram o desenvolvimento de um novo método para controlar áreas de reflorestamento. Durante seu doutorado no Instituto de Energia e Ambiente (IEE) da USP, o engenheiro florestal e pesquisador Rafael Walter de Albuquerque criou um procedimento mais rápido e capaz de enriquecer os tradicionais.\[\...\]
-
-
 O aplicativo e o método desenvolvidos na pesquisa poderão ser utilizados gratuitamente por profissionais com pouco treinamento, bastando que sigam o guia que será lançado em livro até o final do primeiro semestre de 2023 pelo Pacto pela Restauração da Mata Atlântica em parceria com a Aliança pela Restauração na Amazônia. "Nós acreditamos que esse trabalho vai ajudar o País, porque muitos profissionais, universidades e empresas precisam consultar como se faz o uso de drones e de imagens de satélite para monitorar a restauração florestal na Amazônia e na Mata Atlântica, e esse conhecimento estava muito pulverizado", justifica o engenheiro, que coordenou o grupo de especialistas responsável."
 
 
 (CONTERNO, Ivan. Drones e modelagem 3D auxiliarão a recuperação de florestas. Jornal da USP, publicado em mar. 2023. Disponível em: \< <https://jornal.usp.br/ciencias/drones-e-modelagem-3d-auxiliarao-a-recuperacao-de-florestas/>\>. Acesso em: mar. 2023. Adaptado.)
 
-2. Qual é o tema central do texto?
+\num{2} Qual é o tema central do texto?
 
-a) O uso de drones em aplicações comerciais.
+a\) O uso de drones em aplicações comerciais.
 
-b) O desenvolvimento de novos métodos de reflorestamento.
+b\) O desenvolvimento de novos métodos de reflorestamento.
 
-c) Os benefícios da inteligência artificial na ciência ambiental.
+c\) Os benefícios da inteligência artificial na ciência ambiental.
 
-d) Os desafios da implementação do reflorestamento na Amazônia.
+d\) Os desafios da implementação do reflorestamento na Amazônia.
 
-Resposta: C. O texto apresenta uma pesquisa sobre inteligência artificial e seus benefícios para o reflorestamento.
+BNCC: EF67LP07.
 
-Justificativas:
+a\) Incorreta. Os drones do artigo são usados em um trabalho de reflorestamento.
 
-a) Incorreta. Os drones do artigo são usados em um trabalho de reflorestamento.
+b\) Incorreta. O artigo traz informações de uma pesquisa que utiliza drones e inteligência artificial para o reflorestamento.
 
-b) Incorreta. O artigo traz informações de uma pesquisa que utiliza drones e inteligência artificial para o reflorestamento.
+c\) O texto apresenta uma pesquisa sobre inteligência artificial e seus benefícios para o reflorestamento.
 
-d) Incorreta. O artigo mostra os benefícios do uso da IA para vencer os desafios do reflorestamento.
-
-Saeb: Identificar teses, opiniões, posicionamentos explícitos e argumentos em textos.
-
-BNCC: **EF67LP07**
-------------------
-
-Nível: difícil.
----------------
-
-3. Qual é a importância do método desenvolvido na pesquisa?
+d\) Incorreta. O artigo mostra os benefícios do uso da IA para vencer os desafios do reflorestamento.
 
 
-a) É mais barato e complexo que métodos tradicionais.
+\num{3} Qual é a importância do método desenvolvido na pesquisa?
 
 
-b) Requer treinamento árduo e muitos especialistas para funcionar.
+a\) É mais barato e complexo que métodos tradicionais.
 
+b\) Requer treinamento árduo e muitos especialistas para funcionar.
 
-c) É mais barato e mais acessível para profissionais com pouco treinamento.
+c\) É mais barato e mais acessível para profissionais com pouco treinamento.
 
+d\) É útil para o monitoramento do reflorestamento em regiões específicas.
 
-d) É útil para o monitoramento do reflorestamento em regiões específicas.
+BNCC: EF67LP05.
 
+a\) Incorreta. O aplicativo é barato e mais simples que os métodos tradicionais.
 
-Resposta: c. O método é mais barato e de fácil utilização por profissionais com pouco treinamento, conforme explica o trecho: "O aplicativo e o método desenvolvidos na pesquisa poderão ser utilizados gratuitamente por profissionais com pouco treinamento, bastando que sigam o guia que será lançado em livro até o final do primeiro semestre de 2023 pelo Pacto pela Restauração da Mata Atlântica em parceria com a Aliança pela Restauração na Amazônia."
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+b\) Incorreta. O método facilita o trabalho para profissionais com pouco treinamento.
 
-Justificativas:
----------------
-
-a) Incorreta. O aplicativo é barato e mais simples que os métodos tradicionais.
-
-
-b) Incorreta. O método facilita o trabalho para profissionais com pouco treinamento.
-
+c\) Correta. O método é mais barato e de fácil utilização por profissionais com pouco treinamento, conforme explica o trecho: "O aplicativo e o método desenvolvidos na pesquisa poderão ser utilizados gratuitamente por profissionais com pouco treinamento, bastando que sigam o guia que será lançado em livro até o final do primeiro semestre de 2023 pelo Pacto pela Restauração da Mata Atlântica em parceria com a Aliança pela Restauração na Amazônia."
 
 d) Incorreta. O pesquisador acredita que o método auxiliará o país como um todo.
 
 
-Saeb: Identificar teses, opiniões, posicionamentos explícitos e argumentos em textos.
-
-
-BNCC: **EF67LP05**
-------------------
 
 Nível: médio.
--------------
+
 
 4. 
 --
 
 ![Desenho de personagem Descrição gerada automaticamente com confiança baixa](./imgSAEB_6_POR/media/image44.png){width="3.7818766404199473in" height="4.541666666666667in"}
--------------------------------
+
 
 <https://dragoesdegaragem.com/cientirinhas/cientirinhas-177/>
 
@@ -5782,12 +5436,7 @@ c\) a personificação dos interlocutores
 
 d\) a discussão entre as moreias.
 
-Resposta: C. O texto da tirinha começa com informações científicas sobre
-duas espécies de peixes que vivem em cooperação. NO terceiro quadrinho
-da tira ocorre a personificação dos personagens, em que o peixe que vive
-de restos se torna o dentista do peixe maior, que se torna o paciente.
-
-Justificativas:
+BNCC: EF69LP03.
 
 a\) Incorreta. Essa alternativa apresenta dados científicos sobre as
 duas espécies.
@@ -5795,32 +5444,30 @@ duas espécies.
 b\) Incorreta. Essa alternativa apresenta dados científicos sobre as
 duas espécies.
 
+c\) Correta. O texto da tirinha começa com informações científicas sobre
+duas espécies de peixes que vivem em cooperação. NO terceiro quadrinho
+da tira ocorre a personificação dos personagens, em que o peixe que vive
+de restos se torna o dentista do peixe maior, que se torna o paciente.
+
 d\) Incorreta. Embora contenha teor cômico, o fato que gera o teor de
 humor na tirinha é a personificação do Bodião-limpador como dentista e
 da Moreia como paciente.
 
-Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
-crítica.
-
-BNCC: EF69LP03
-
-Nível: médio.
--------------
 
 Leia o texto a seguir para responder às questões 5 a 8.
 
 
 Artigo 1°
----------
+
 
 Todos os seres humanos nascem livres e iguais em dignidade e em direitos. Dotados de razão e de consciência, devem agir uns para com os outros em espírito de fraternidade.
--------------------------------
+
 
 Artigo 2°
----------
+
 
 Todos os seres humanos podem invocar os direitos e as liberdades proclamados na presente Declaração, sem distinção alguma, nomeadamente de raça, de cor, de sexo, de língua, de religião, de opinião política ou outra, de origem nacional ou social, de fortuna, de nascimento ou de qualquer outra situação. Além disso, não será feita nenhuma distinção fundada no estatuto político, jurídico ou internacional do país ou do território da naturalidade da pessoa, seja esse país ou território independente, sob tutela, autônomo ou sujeito a alguma limitação de soberania.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Artigo 3°
 ---------
@@ -5829,175 +5476,112 @@ Todo indivíduo tem direito à vida, à liberdade e à segurança pessoal.
 
 
 Artigo 4°
----------
+
 
 Ninguém será mantido em escravatura ou em servidão; a escravatura e o trato dos escravos, sob todas as formas, são proibidos.
 
 
 (Declaração Universal dos Direitos Humanos. Disponível em: \< <https://www.ohchr.org/en/human-rights/universal-declaration/translations/portuguese?LangID=por>\>. Acesso em: mar. 2023. Fragmento)
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 5. Qual das alternativas a seguir melhor descreve o objetivo do texto? 
 
 
 a) informar
------------
 
 b) persuadir
-------------
 
 c) entreter
------------
 
 d) questionar
--------------
 
-Resposta: a. O texto tem como objetivo informar leis e regras a serem seguidas.
+BNCC: EF69LP20.
 
-
-Justificativas:
----------------
+a\) Correta. O texto tem como objetivo informar leis e regras a serem seguidas.
 
 b) Incorreta. O texto informative não tem a intenção de persuadir o leitor a adotar comportamentos.
 
-
 c) Incorreta. O texto informativo não tem a intenção de divertir o leitor.
-
 
 d) Incorreta. O texto informativo não tem a intenção de questionar fatos.
 
 
-**Saeb:** Identificar formas de organização de textos normativos, legais
-e/ou reinvindicatórios.
 
-BNCC: **EF69LP20**
-------------------
-
-**Nível: fácil.**
------------------
-
-**6. A mensagem apresentada no texto é**
-----------------------------------------
-
-**a) assertiva.**
------------------
-
-**b) contestável.**
--------------------
-
-**c) específica.**
-------------------
-
-**d) incerta.**
----------------
-
-**Resposta: a. A mensagem em textos normativos é assertiva pois tem caráter informativo.**
+\num{6} A mensagem apresentada no texto é
 
 
-**Justificativas:**
--------------------
+a) assertiva.
 
-**b) Incorreta. A mensagem é assertiva e o documento é incontestável.** 
+b) contestável.
 
+c) específica.
 
-**c) Incorreta. A mensagem não é específica, é assertiva.**
+d) incerta.
 
+BNCC: EF69LP20.
 
-**d) Incorreta. A mensagem é assertiva, portando, bem direcionada e correta.**
+a\) Correta. A mensagem em textos normativos é assertiva pois tem caráter informativo.
 
+b\) Incorreta. A mensagem é assertiva e o documento é incontestável.
 
-**Saeb:** Identificar formas de organização de textos normativos, legais
-e/ou reinvindicatórios.
+c\) Incorreta. A mensagem não é específica, é assertiva.
 
-BNCC: **EF69LP20**
-------------------
-
-**Nível: médio.**
------------------
-
-**7. O texto é direcionado a**
-------------------------------
-
-**a) especialistas em direito.**
---------------------------------
-
-**b) público em geral.**
-------------------------
-
-**c) acadêmicos.**
-------------------
-
-**d) políticos.**
------------------
-
-**Resposta: b. A Declaração Universal dos Direitos Humanos é para todas as pessoas.**
+d\) Incorreta. A mensagem é assertiva, portando, bem direcionada e correta.
 
 
-**Justificativas:**
--------------------
-
-**a) Incorreta. O texto direciona-se a todas as pessoas.**
+7. O texto é direcionado a
 
 
-**c) Incorreta. O texto não se direciona a acadêmicos apenas, mas sim ao público em geral.**
+a\) especialistas em direito.
+
+b\) público em geral.
+
+c\) acadêmicos.
+
+d\) políticos.
+
+BNCC: EF69LP20.
+
+a) Incorreta. O texto direciona-se a todas as pessoas.
+
+b\) Correta. A Declaração Universal dos Direitos Humanos é para todas as pessoas.
+
+c) Incorreta. O texto não se direciona a acadêmicos apenas, mas sim ao público em geral.
+
+d) Incorreta. O texto não se direciona apenas a políticos, mas ao público em geral.
 
 
-**d) Incorreta. O texto não se direciona apenas a políticos, mas ao público em geral.**
+\num{8} Qual é a linguagem utilizada no texto e como ela contribui para a compreensão geral da mensagem?
 
 
-**Saeb:** Identificar formas de organização de textos normativos, legais
-e/ou reinvindicatórios.
+a\) A linguagem é formal e respeita a norma padrão da língua, para que alcance com clareza todas as pessoas.
 
-BNCC: **EF69LP20**
-------------------
+b\) A linguagem é informal e adequada à norma coloquial da língua, para que alcance diversos grupos de pessoas.
 
-**Nível: fácil.**
------------------
+c\) A linguagem é técnica e respeita a norma padrão da língua, para que alcance com clareza todas as pessoas.
 
-**8. Qual é a linguagem utilizada no texto e como ela contribui para a compreensão geral da mensagem?**
+d\) A linguagem é poética e respeita a norma padrão da língua, para que alcance com clareza todas as pessoas.
 
+BNCC: EF69LP20.
 
-**a) A linguagem é formal e respeita a norma padrão da língua, para que alcance com clareza todas as pessoas.**
+a\) Correta. O texto normativo apresenta uma linguagem formal, respeitando a norma padrão da língua, para que alcance de forma assertiva todas as pessoas.
 
+b\) Incorreta. A linguagem é formal e respeita a norma padrão da língua.
 
-**b) A linguagem é informal e adequada à norma coloquial da língua, para que alcance diversos grupos de pessoas.**
+c\) Incorreta. A linguagem é formal, mas não técnica. Por linguagem técnica entende-se a variação linguística típica de alguns grupos, especialmente relacionados a profissões, como exemplo, em manuais técnicos.
 
-
-**c) A linguagem é técnica e respeita a norma padrão da língua, para que alcance com clareza todas as pessoas.**
+d\) Incorreta. A linguagem poética é encontrada em textos literários e geralmente segue a estrutura em estrofes e versos.
 
 
-**d) A linguagem é poética e respeita a norma padrão da língua, para que alcance com clareza todas as pessoas.**
 
 
-**Resposta: a. O texto normativo apresenta uma linguagem formal, respeitando a norma padrão da língua, para que alcance de forma assertiva todas as pessoas.**
-------------------
-
-**Justificativas:**
--------------------
-
-**b) Incorreta. A linguagem é formal e respeita a norma padrão da língua.**
 
 
-**c) Incorreta. A linguagem é formal, mas não técnica. Por linguagem técnica entende-se a variação linguística típica de alguns grupos, especialmente relacionados a profissões, como exemplo, em manuais técnicos.**
---------------------------------------------------------------------------------------------------------------------------------------------
+\num{9} 
 
-**d) Incorreta. A linguagem poética é encontrada em textos literários e geralmente segue a estrutura em estrofes e versos.**
-
-
-**Saeb:** Identificar formas de organização de textos normativos, legais
-e/ou reinvindicatórios.
-
-BNCC: **EF69LP20**
-------------------
-
-**Nível: médio.**
------------------
-
-9. 
---
 
 ![O pai do Armandinho, o menino de cabelo azul que reflete sobre arte, a política e direitos humanos - Trip](./imgSAEB_6_POR/media/image45.jpeg){width="5.905555555555556in" height="3.3222222222222224in"}
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 \fonte{<https://revistatrip.uol.com.br/upload/2019/02/5c6c0cf368385/906x264x960x540x-26x-137/nov20181.jpg>)
 
@@ -6005,225 +5589,149 @@ BNCC: **EF69LP20**
 O efeito de humor da tirinha é dado a partir de uma ironia, que pode ser identificada
 
 
-a) na fala do menino no primeiro quadrinho.
--------------------------------------------
+a\) na fala do menino no primeiro quadrinho.
 
-b) na fala do menino no segundo quadrinho, apenas.
+b\) na fala do menino no segundo quadrinho, apenas.
 
+c\) na fala da menina no segundo quadrinho, apenas.
 
-c) na fala da menina no segundo quadrinho, apenas.
+d\) tanto na fala do menino quanto na da menina no segundo quadrinho. 
 
+BNCC: EF69LP05.
 
-d) tanto na fala do menino quanto na da menina no segundo quadrinho. 
+a\) e b\) Incorretas. O menino não é irônico no texto.
 
+c\) Correta. A fala da menina é irônica, pois quando ela afirma que é isso que a preocupa, ela está justamente contrariando a orientação do menino.
 
-Resposta: c. A fala da menina é irônica, pois quando ela afirma que é isso que a preocupa, ela está justamente contrariando a orientação do menino.
--------
+d\) Incorreta. O menino não é irônico no texto. 
 
-Justificativas:
----------------
-
-a) e b) Incorretaa. O menino não é irônico no texto.
-
-
-d) Incorreta. O menino não é irônico no texto. 
-----------------------------------------------
-
-Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou crítica.
-
-
-BNCC: EF69LP05
---------------
-
-Nível: médio
-------------
 
 Leia a notícia a seguir para responder às questões 11 a 13.
 
 
-**Câmara aprova projeto que obriga pet shops e clínicas veterinárias a divulgar adoção de animais**
-===================================================================================================
+Câmara aprova projeto que obriga pet shops e clínicas veterinárias a divulgar adoção de animais
+
 
 *Estabelecimentos deverão fixar cartazes com o contato de instituições
 que abrigam animais abandonados*
 
 O Plenário da Câmara dos Deputados aprovou nesta quinta-feira (16) o Projeto de Lei 50/19, do deputado Fred Costa (Patriota-MG), que obriga pet shops, clínicas veterinárias e estabelecimentos semelhantes a fixarem em suas instalações cartazes que facilitem e incentivem a adoção de animais domésticos. O texto será enviado para análise do Senado.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 O objetivo da proposta, segundo Costa, é reduzir o número de animais abandonados nas ruas, sujeitos à violência humana, à incidência de zoonoses e acidentes de trânsito. "Devemos sempre lembrar que, antes de serem 'coisas' de propriedade humana, os animais são seres vivos", justificou o autor do projeto.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 De acordo com o texto aprovado, o cartaz deverá conter o nome da instituição responsável pela oferta (ONG ou entidade defensora dos animais), telefone e e-mail para contato e informações sobre a importância da adoção responsável de animais e os seus benefícios. Os animais deverão ser entregues para adoção vacinados e vermifugados, cabendo os custos aos adotantes ou as instituições responsáveis pela adoção.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 \fonte{Agência Câmara de Notícias. Disponível em: \< <https://www.camara.leg.br/noticias/945937-camara-aprova-projeto-que-obriga-pet-shops-e-clinicas-veterinarias-a-divulgar-adocao-de-animais>\>. Acesso em: mar. 2023. Adaptado.)
 
-11. O principal objetivo da notícia é
--------------------------------------
+\num{11} O principal objetivo da notícia é
+
 
 a) informar as pessoas sobre uma nova lei.
-------------------------------------------
 
 b) incentivar as pessoas a adotarem animais.
---------------------------------------------
 
 c) criticar uma nova diretriz do governo.
------------------------------------------
 
 d) fornecer informações sobre pet shops e clínicas veterinárias.
 
+BNCC: EF06LP01.
 
-Resposta: a. O objetivo da notícia é informar as pessoas sobre a aprovação de um projeto de lei.
 
-
-Justificativas:
----------------
+a) Correta. O objetivo da notícia é informar as pessoas sobre a aprovação de um projeto de lei.
 
 b) Incorreta. O projeto de lei é sobre o incentivo à adoção de animais, e não a notícia incentiva a prática.
 
-
 c) Incorreta. A notícia não critica o novo projeto de lei.
-
 
 d) Incorreta. A notícia não informa sobre pet shops e clínicas veterinárias.
 
 
-SAEB: Avaliar a fidedignidade de informações sobre um mesmo fato divulgado em diferentes veículos e mídias.
 
-
-BNCC: EF06LP01
---------------
-
-Nível: fácil.
--------------
-
-12. O trecho "Devemos sempre lembrar que, antes de serem 'coisas' de propriedade humana, os animais são seres vivos" demonstra
+\num{12} O trecho "Devemos sempre lembrar que, antes de serem 'coisas' de propriedade humana, os animais são seres vivos" demonstra
 
 
 a) um argumento científico que justifica o projeto de lei.
 
-
 b) uma opinião do autor do projeto de lei sobre os animais.
-
 
 c) um posicionamento do governo com relação ao projeto de lei.
 
-
 d) um posicionamento da população que justifica o projeto de lei.
 
+BNCC: EF06LP01.
 
-Resposta: a. Embora tenha sido pronunciada pelo autor do projeto de lei, essa informação é embasada cientificamente, pois os animais de fato são seres vivos antes mesmo de terem um dono, por isso é usada como justificativa plausível para um projeto de lei.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Justificativas:
----------------
+a\) Embora tenha sido pronunciada pelo autor do projeto de lei, essa informação é embasada cientificamente, pois os animais de fato são seres vivos antes mesmo de terem um dono, por isso é usada como justificativa plausível para um projeto de lei.
 
 b) Incorreta. O autor do projeto tem um ponto de vista que também se embasa no mesmo argumento usado na justificativa para o projeto.
 
-
 c) Incorreta. O governo de modo geral não se manifestou sobre o projeto.
-
 
 d) Incorreta. Nem toda a população pode estar de acordo com a justificativa do projeto.
 
 
-SAEB: Avaliar a fidedignidade de informações sobre um mesmo fato divulgado em diferentes veículos e mídias.
+
+\num{13} Qual das alternativas representa o adjetivo que melhor descreve o posicionamento do autor do projeto com relação à causa de animais abandonados? 
 
 
-BNCC: EF06LP01
---------------
+a) apoiador.
 
-Nível: difícil.
----------------
+b) crítico.
 
-13. Qual das alternativas representa o adjetivo que melhor descreve o posicionamento do autor do projeto com relação à causa de animais abandonados? 
---------
+c) neutron.
 
-a) apoiador
------------
+d) indiferente.
 
-b) crítico
-----------
+BNCC: EF06LP01.
 
-c) neutron
-----------
+a\) Correta. O criador do projeto de lei mostra-se apoiador da causa de animais abandonados.
 
-d) indiferente
---------------
+b\) Incorreta. O autor do projeto não critica a causa de animais abandonados, ele apoia a causa.
 
-Resposta: a. O criador do projeto de lei mostra-se apoiador da causa de animais abandonados.
+c\) Incorreta. O argumento para o projeto de lei demonstra também a opinião do autor do projeto com relação à causa.
+
+d\) Incorreta. O autor do projeto deixa clara sua opinião sobre a causa.
 
 
-Justificativas:
----------------
-
-b) Incorreta. O autor do projeto não critica a causa de animais abandonados, ele apoia a causa.
-
-
-c) Incorreta. O argumento para o projeto de lei demonstra também a opinião do autor do projeto com relação à causa.
-
-
-d) Incorreta. O autor do projeto deixa clara sua opinião sobre a causa.
-
-
-SAEB: Avaliar a fidedignidade de informações sobre um mesmo fato divulgado em diferentes veículos e mídias.
-
-
-BNCC: EF06LP01
---------------
-
-Nível: médio.
--------------
 
 Leia o infográfico a seguir para responder às questões 14 e 15.
 
 
 ![Interface gráfica do usuário, Texto, Linha do tempo Descrição gerada automaticamente](./imgSAEB_6_POR/media/image46.png){width="5.905555555555556in" height="2.88125in"}
-------------------------------
+
 
 \fonte{\< <https://www.medicina.ufmg.br/contato-precoce-com-tecnologia-digital-pode-provocar-danos-a-saude-dos-bebes%EF%BB%BF/>\>.
 
 
-14. Sobre a mensagem apresentada no infográfico, é correto afirmar que
+\num{14} Sobre a mensagem apresentada no infográfico, é correto afirmar que
 
 
-a) traz informações básicas e direcionadas para qualquer pessoa.
+a\) traz informações básicas e direcionadas para qualquer pessoa.
 
 
-b) tem caráter apelativo e é direcionada a pais e responsáveis.
+b\) tem caráter apelativo e é direcionada a pais e responsáveis.
 
 
-c) são informações técnicas voltadas a profissionais da saúde.
+c\) são informações técnicas voltadas a profissionais da saúde.
 
 
-d) são informações científicas direcionadas a todas as pessoas.
+d\) são informações científicas direcionadas a todas as pessoas.
+
+BNCC: EF69LP02.
+
+a\) Incorreta. O infográfico não traz informações básicas de modo geral, são informações específicas do ponto de vista científico.
+
+b\) Incorreta. O infográfico tem caráter informativo. A linguagem apelativa é típica de propagandas, por exemplo. O texto também pode ser direcionado e compreendido para qualquer leitor.
+
+c\) Incorreta. O infográfico não apresenta informações técnicas, e sim científicas, e é direcionado a qualquer pessoa.
+
+d\) O infográfico é produzido pela Faculdade de Medicina da Universidade Federal de Minas Gerais e apresenta informações científicas com um texto leve que pode ser compreendido por qualquer leitor.
 
 
-Resposta: d. O infográfico é produzido pela Faculdade de Medicina da Universidade Federal de Minas Gerais e apresenta informações científicas com um texto leve que pode ser compreendido por qualquer leitor.
---------------------------------------------------------------------------------------------------------------------------------------------
 
-Justificativas:
----------------
-
-a) Incorreta. O infográfico não traz informações básicas de modo geral, são informações específicas do ponto de vista científico.
-
-
-b) Incorreta. O infográfico tem caráter informativo. A linguagem apelativa é típica de propagandas, por exemplo. O texto também pode ser direcionado e compreendido para qualquer leitor.
----------------------------------------------
-
-c) Incorreta. O infográfico não apresenta informações técnicas, e sim científicas, e é direcionado a qualquer pessoa.
-
-
-Saeb: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
-
-
-BNCC: **EF69LP02**
-------------------
-
-**Nível: médio.**
------------------
-
-**15.** O infográfico é uma ferramenta que serve para transmitir
+\num{15} O infográfico é uma ferramenta que serve para transmitir
 informações através do uso de imagens, desenhos e demais elementos
 visuais gráficos. Normalmente o infográfico acompanha um texto que fala
 sobre um assunto correlato. A manchete jornalística à qual o infográfico
@@ -6238,30 +5746,25 @@ c\) "Uso excessivo de telas provoca danos, alertam médicos"
 
 d\) "Uso de telas na primeira infância acarreta danos ao cérebro"
 
-Resposta: b. O infográfico traz informações relacionadas à primeira
-infância e pré-adolescência e fala sobre as consequências do uso precoce
-e excessivo das telas. A opção que apresenta menção a esses três itens
-abordados é a b.
-
-Justificativas:
+BNCC: EF69LP02.
 
 a\) Incorreta. O infográfico é produzido pela UFMG, mas não se pode
 afirmar que em uma matéria médicos afirmariam alguma coisa.
+
+b\) Correta. O infográfico traz informações relacionadas à primeira
+infância e pré-adolescência e fala sobre as consequências do uso precoce
+e excessivo das telas. A opção que apresenta menção a esses três itens
+abordados é a b.
 
 c\) Incorreta. O infográfico fala especificamente sobre crianças.
 
 d\) Incorreta. O infográfico não menciona apenas a primeira infância;
 ele traz informações sobre crianças com menos de 2 anos até 12 anos.
 
-Saeb: Analisar a relação temática entre diferentes gêneros jornalísticos.
 
 
-**BNCC:** EF69LP02
+#SIMULADO 4
 
-**Nível: fácil**
-
-SIMULADO 4
-----------
 
 Leia o texto a seguir para responder às questões 1 a 4.
 
@@ -6270,169 +5773,129 @@ Contato com tecnologia digital pode provocar danos aos bebês﻿
 
 
 Antes mesmo de aprender a falar, muitos baixinhos já tateiam as telas de smartphones e tablets feito gente grande. A cena, apesar de cada vez mais comum na era digital, não deveria ser vista com tanta naturalidade. Muito menos incentivada. O alerta dos especialistas é para os danos que o uso desses aparelhos por crianças com menos de 2 anos pode trazer para a saúde. Essa longa lista de prejuízos desbanca qualquer possibilidade de ver vantagem em expor os pequenos precocemente às novas tecnologias. Isso incluiu assistir à vídeos, filmes, jogar videogames em tablet, celular ou qualquer outro aparelho com tela.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 O contato deve ser zero. E o alerta não vem de hoje. A Organização Mundial da Saúde já recomenda que crianças com menos de 2 anos não devem ser expostas às telas digitais, principalmente durante as refeições ou de 1 a 2 horas antes de dormir. A Sociedade Brasileira de Pediatria apresenta o mesmo posicionamento. No Canadá e nos Estados Unidos, especialistas também dizem que os bebês não devem ter contato com as telas.\[\...\]
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 "A luz azul desses dispositivos diminui a produção do hormônio melatonina, essencial para o sono. E nessa fase da vida, o sono é essencial para o desenvolvimento da criança", explica a professora do Departamento de Pediatria da Faculdade de Medicina da UFMG, Liubiana Arantes de Araújo.\[\...\]
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 (UFMG. Contato com tecnologia digital pode provocar danos aos bebês﻿. Publicado em 26 abr. 2019. Disponível em: \< <https://www.medicina.ufmg.br/contato-precoce-com-tecnologia-digital-pode-provocar-danos-a-saude-dos-bebes%EF%BB%BF/>\>. Acesso em: mar. 2023. Adaptado.)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-1. Qual das opções abaixo melhor descreve o argumento principal apresentado no artigo? 
 
 
-a) A tecnologia digital pode causar problemas de desenvolvimento em bebês. 
+\num{1} Qual das opções abaixo melhor descreve o argumento principal apresentado no artigo? 
 
 
-b) A tecnologia digital é perigosa para bebês e inofensiva crianças. 
+a\) A tecnologia digital pode causar problemas de desenvolvimento em bebês. 
+
+b\) A tecnologia digital é perigosa para bebês e inofensiva crianças. 
+
+c\) Crianças devem ser expostas à tecnologia digital após os dois anos.
+
+d\) Os bebês não devem ser expostos a tecnologias digitais.
+
+BNCC: EF67LP17.
+
+a\) Correta. Segundo o artigo, o contato dos bebês com tecnologia digital deve ser zero, pois os efeitos da luz azul da tela podem implicar redução de melatonina, que é essencial para o sono, que por sua vez é importante para o desenvolvimento de crianças com idade inferior a 2 anos.
+
+b\) Incorreta. O texto deixa claro o dano a bebês, mas não menciona que uso da tecnologia digital é inofensiva a crianças.
+
+c\) Incorreta. O texto orienta que a exposição após os dois anos deve ser feita com cautela, e não que ela deve ser feita.
+
+d\) Incorreta. Esta é a tese e não o argumento do artigo.
 
 
-c) Crianças devem ser expostas à tecnologia digital após os dois anos.
+
+\num{2} Qual é a fonte de evidência apresentada no artigo? 
 
 
-d) Os bebês não devem ser expostos a tecnologias digitais.
+a) Um único estudo.
 
+b) Estudos múltiplos. 
 
-Resposta: a. Segundo o artigo, o contato dos bebês com tecnologia digital deve ser zero, pois os efeitos da luz azul da tela podem implicar redução de melatonina, que é essencial para o sono, que por sua vez é importante para o desenvolvimento de crianças com idade inferior a 2 anos.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+c) Opinião pessoal. 
 
-Justificativas:
----------------
-
-b) Incorreta. O texto deixa claro o dano a bebês, mas não menciona que uso da tecnologia digital é inofensiva a crianças.
-
-
-c) Incorreta. O texto orienta que a exposição após os dois anos deve ser feita com cautela, e não que ela deve ser feita.
-
-
-d) Incorreta. Esta é a tese e não o argumento do artigo.
-
-
-Saeb: Identificar elementos constitutivos de gêneros de divulgação científica.
-
-
-BNCC: **EF67LP17**
-------------------
-
-**Nível: difícil.**
--------------------
-
-2. Qual é a fonte de evidência apresentada no artigo? 
-
-
-a) Um único estudo, 
--------------------
-
-b) Estudos múltiplos, 
----------------------
-
-c) Opinião pessoal, 
--------------------
-
-d) Opiniões de especialistas,
------------------------------
-
-Resposta: b. Estudos realizados pela OMS, SBP, governos dos Estados Unidos e Canadá embasam as recomendações dos especialistas.
-
-
-Justificativas:
----------------
-
-a) Incorreto: Estudos realizados pela OMS, SBP, governos dos Estados Unidos e Canadá, e não apenas um desses estudos, embasam as recomendações dos especialistas.
----------------------
-
-c) Incorreto: Estudos realizados pela OMS, SBP, governos dos Estados Unidos e Canadá embasam as recomendações dos especialistas.
-
-
-d) Incorreto: As opiniões dos especialistas se embasam em estudos realizados pela OMS, SBP, governos dos Estados Unidos e Canadá 
-
+d) Opiniões de especialistas.
 
 BNCC:
------
 
-3. Qual é o tema do artigo? 
----------------------------
+a) Incorreta. Estudos realizados pela OMS, SBP, governos dos Estados Unidos e Canadá, e não apenas um desses estudos, embasam as recomendações dos especialistas.
 
-a) A tecnologia digital é prejudicial aos bebês, 
+b\) Correta. Estudos realizados pela OMS, SBP, governos dos Estados Unidos e Canadá embasam as recomendações dos especialistas.
 
+c) Incorreta. Estudos realizados pela OMS, SBP, governos dos Estados Unidos e Canadá embasam as recomendações dos especialistas.
 
-b) Os pais devem ser cautelosos ao expor seus bebês à tecnologia digital, 
-
-
-c) A tecnologia digital não tem impacto sobre os bebês, 
+d) Incorreta. As opiniões dos especialistas se embasam em estudos realizados pela OMS, SBP, governos dos Estados Unidos e Canadá. 
 
 
-d) Os efeitos da tecnologia digital em bebes não são claros.
+\num{3} Qual é o tema do artigo? 
 
 
-Resposta: a. O artigo é claro em informar que a tecnologia digital é prejudicial, especialmente em bebês (crianças com idade inferior a 2 anos).
-----
-
-Justificativas: 
----------------
-
-b) Incorreta: A mensagem principal não é que os pais sejam cautelosos, mas sim que permitam zero contato até os 2 anos.
+a\) A tecnologia digital é prejudicial aos bebês, 
 
 
-c) Incorreta: a mensagem do artigo é exatamente o contrário,
+b\) Os pais devem ser cautelosos ao expor seus bebês à tecnologia digital, 
 
 
-d) Incorreta: o Artigo deixa claro os efeitos prejudiciais no desenvolvimento das crianças.
+c\) A tecnologia digital não tem impacto sobre os bebês, 
 
 
-BNCC
-----
-
-4. Qual das alternativas melhor descreve a linguagem utilizada no artigo?
-
-
-a) Tecnica e científica, 
-------------------------
-
-b) Emocional e persuasiva, 
---------------------------
-
-c) Simples e direta, 
---------------------
-
-d) Ambígua e vaga,
-------------------
-
-Resposta: c -- embora o texto fale sobre pesquisas científicas e e assuntos relacionados a saúde, o do artigo passa uma mensagem simples e direta aos leitores.
--------------------
-
-Justificativas:
----------------
-
-a) O artigo não utiliza linguagem técnica para expor seu argumento.
-
-
-b) O artigo não utiliza não expõe opiniões próprias ou sentimentos para expor seu argumento.
-
-
-d) O artigo expor seu argumento de forma clara, sem possibilidade de interpretação.
-
+d\) Os efeitos da tecnologia digital em bebes não são claros.
 
 BNCC:
------
+
+
+a\) O artigo é claro em informar que a tecnologia digital é prejudicial, especialmente em bebês (crianças com idade inferior a 2 anos).
+
+b\) Incorreta: A mensagem principal não é que os pais sejam cautelosos, mas sim que permitam zero contato até os 2 anos.
+
+
+c\) Incorreta. A mensagem do artigo é exatamente o contrário.
+
+
+d\) Incorreta. O Artigo deixa claro os efeitos prejudiciais no desenvolvimento das crianças.
+
+
+
+\num{4} Qual das alternativas melhor descreve a linguagem utilizada no artigo?
+
+
+a\) Técnica e científica. 
+
+b\) Emocional e persuasiva. 
+
+c\) Simples e direta. 
+
+d\) Ambígua e vaga.
+
+BNCC:
+
+
+a\) O artigo não utiliza linguagem técnica para expor seu argumento.
+
+b\) O artigo não utiliza não expõe opiniões próprias ou sentimentos para expor seu argumento.
+
+c\) Correta. embora o texto fale sobre pesquisas científicas e e assuntos relacionados a saúde, o do artigo passa uma mensagem simples e direta aos leitores.
+
+d\) O artigo expor seu argumento de forma clara, sem possibilidade de interpretação.
+
+
 
 Leia os textos 1 e 2, a seguir, para responder às questões 5 e 6.
 
 
 Texto 1
--------
+
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Email Descrição gerada automaticamente](./imgSAEB_6_POR/media/image47.png){width="4.808333333333334in" height="4.393312554680665in"}
--------------------------------------------
+
 
 \fonte{<https://memoria.ebc.com.br/noticias/brasil/2014/05/manifestantes-protestam-contra-copa-no-centro-de-brasilia>. Acesso em: mar. 2023.
 
 
 Texto 2
--------
+
 
 ![Linha do tempo Descrição gerada automaticamente com confiança média](./imgSAEB_6_POR/media/image48.jpeg){width="4.125in" height="4.086679790026246in"}
 ------------
@@ -6441,82 +5904,50 @@ Texto 2
 
 
 5. Qual é a relação entre a notícia e o meme? 
----------------------------------------------
+
 
 a) A notícia serve como inspiração para o meme. 
------------------------------------------------
 
 b) O meme serve como inspiração para a notícia. 
------------------------------------------------
 
 c) A notícia e o meme não possuem relação entre si. 
 
-
 d) A notícia e o meme são formas de comunicação que não se relacionam.
 
+BNCC: EF69LP44.
 
-Resposta: a. O conceito de meme é ressignificar uma mensagem, geralmente, em tom jocoso. No exemplo, temos um texto que se referia à construção de estádios e infraestrutura para a copa do mundo em 2014, em que as pessoas que não apoiavam o evento se utilizavam do jargão "não vai ter copa!", e esse jargão foi utilizado como piada em um "anúncio" de imóvel que não possui o cômodo "copa".
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+a\) Correta. O conceito de meme é ressignificar uma mensagem, geralmente, em tom jocoso. No exemplo, temos um texto que se referia à construção de estádios e infraestrutura para a copa do mundo em 2014, em que as pessoas que não apoiavam o evento se utilizavam do jargão "não vai ter copa!", e esse jargão foi utilizado como piada em um "anúncio" de imóvel que não possui o cômodo "copa".
 
-Justificativas:
----------------
+b\) Incorreta. Nos textos de referência, a notícia serve de inspiração para o meme.
 
-b) Incorreta. Nos textos de referência, a notícia serve de inspiração para o meme.
+c\) Incorreta. Nos textos de referência, a notícia o meme estão relacionados.
 
-
-c) Incorreta. Nos textos de referência, a notícia o meme estão relacionados.
+d\) Incorreta. Nos textos de referência, a notícia o meme estão relacionados.
 
 
-d) Incorreta. Nos textos de referência, a notícia o meme estão relacionados.
 
-
-Saeb: Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
-
-
-BNCC: EF69LP44
---------------
-
-Nível: médio.
--------------
-
-6. O propósito da intertextualidade entre a notícia e o meme é 
+\num{6} O propósito da intertextualidade entre a notícia e o meme é 
 
 
 a) fornecer contexto adicional para a notícia. 
-----------------------------------------------
 
 b) aumentar o engajamento da narrativa da notícia. 
 
-
 c) criticar ou parodiar a notícia. 
-----------------------------------
 
 d) complementar o assunto abordado pela notícia.
 
-
-Resposta: c. Geralmente o meme surge como uma paródia ou crítica à uma notícia ou fato do momento. O meme do Texto 2 se relaciona à notícia fazendo uma paródia entre "copa do mundo" e o cômodo "copa".
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Justificativas:
----------------
-
-a) Incorreta. O meme não gera um contexto adicional, mas sim pega uma parte da notícia e a utiliza em outro contexto, com outra mensagem.
+BNCC: EF69LP44.
 
 
-b) Incorreta. O meme em si é feito para viralizar, porém o engajamento ocorre em torno da piada, e não no texto original.
+a\) Incorreta. O meme não gera um contexto adicional, mas sim pega uma parte da notícia e a utiliza em outro contexto, com outra mensagem.
 
 
-d) Incorreta. O meme da coletânea não serve como complemento para a notícia.
+b\) Incorreta. O meme em si é feito para viralizar, porém o engajamento ocorre em torno da piada, e não no texto original.
 
+c\) Correta. Geralmente o meme surge como uma paródia ou crítica à uma notícia ou fato do momento. O meme do Texto 2 se relaciona à notícia fazendo uma paródia entre "copa do mundo" e o cômodo "copa".
 
-Saeb: Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
-
-
-BNCC: EF69LP44
---------------
-
-Nível: difícil
---------------
+d\) Incorreta. O meme da coletânea não serve como complemento para a notícia.
 
  
 
@@ -6532,143 +5963,87 @@ Disponível em: <http://www.ablc.com.br/e-tudo-vem-a-ser-nada/>.
 7. Em determinado verso, o autor do poema refere-se a si mesmo por meio do pronome
 
 
-a) ele. 
--------
+a\) ele. 
 
-b) ela. 
--------
+b\) ela. 
 
-c) eles. 
---------
+c\) eles. 
 
-d) nós.
--------
+d\) nós.
 
-Resposta: d. O autor se inclui em uma ação comum a todas as pessoas e acaba referindo a si mesmo na primeira pessoa do plural: nós, em "Vemos um rico pomposo".
--------------------
+BNCC: EF06LP12.
 
-Justificativas:
----------------
+a\) Incorreta. O autor utiliza a terceira pessoa do singular para referir-se ao "rico pomposo". Mesmo assim, o pronome é oculto.
 
-a) Incorreta. O autor utiliza a terceira pessoa do singular para referir-se ao "rico pomposo". Mesmo assim, o pronome é oculto.
+b\) Incorreta. O autor utiliza a terceira pessoa do singular no feminino, porém o pronome é oculto.
 
+c\) Incorreta. O autor não utiliza terceira pessoa do plural.
 
-b) Incorreta. O autor utiliza a terceira pessoa do singular no feminino, porém o pronome é oculto.
+d\) Correta. O autor se inclui em uma ação comum a todas as pessoas e acaba referindo a si mesmo na primeira pessoa do plural: nós, em "Vemos um rico pomposo".
 
-
-c) Incorreta. O autor não utiliza terceira pessoa do plural.
-
-
-Saeb: Analisar os processos de referenciação lexical e pronominal.
-
-
-BNCC: EF06LP12
---------------
-
-Nível: difícil
---------------
 
 8. Qual é a função do "Se", na frase \"Se julgando poderosa"?
 
 
 a) Pronome reflexivo. 
----------------------
 
 b) Pronome demonstrativo. 
--------------------------
 
 c) Pronome indefinido. 
-----------------------
 
 d) Pronome interrogativo.
--------------------------
 
-Resposta: a. O "se" é um pronome reflexivo. Nessa construção, o sujeito é "tanta gente orgulhosa" e comete a ação sobre si mesmo.
+BNCC: EF06LP12.
 
+a\) Correta. O "se" é um pronome reflexivo. Nessa construção, o sujeito é "tanta gente orgulhosa" e comete a ação sobre si mesmo.
 
-Justificativas: 
----------------
+b\) Incorreta. Os pronomes demonstrativos são usados para apontar a relação de distância (de lugar ou de tempo) entre o nome ao qual se referem e as pessoas do discurso.
 
-b) Incorreta. Os pronomes demonstrativos são usados para apontar a relação de distância (de lugar ou de tempo) entre o nome ao qual se referem e as pessoas do discurso.
-----------------------------
+c\) Incorreta. Os pronomes indefinidos são aqueles que se referem à terceira pessoa do discurso de forma vaga, imprecisa e genérica.
 
-c) Incorreta. Os pronomes indefinidos são aqueles que se referem à terceira pessoa do discurso de forma vaga, imprecisa e genérica.
+d\) Incorreta. Os pronomes interrogativos são aqueles que utilizamos nas construções de perguntas diretas ou indiretas: que, quem, qual, quanto.
 
 
-d) Incorreta. Os pronomes interrogativos são aqueles que utilizamos nas construções de perguntas diretas ou indiretas: que, quem, qual, quanto.
----
-
-Saeb: Analisar os processos de referenciação lexical e pronominal.
-
-
-BNCC: EF06LP12
---------------
-
-Nível: difícil
---------------
-
-9. O que o autor quis dizer com a frase \"tudo vem a ser nada\", no título do cordel? 
+\num{9} O que o autor quis dizer com a frase \"tudo vem a ser nada\", no título do cordel? 
 
 
 a) Nada tem sentido. 
---------------------
 
 b) Tudo tem um propósito. 
--------------------------
 
 c) Tudo é temporário.
----------------------
 
 d) Tudo é eterno.
------------------
 
-Resposta: c. O cordel fala sobre a temporalidade das coisas, que de repente se tem tudo o que é material, mas quando a pessoa morre, por exemplo, tudo pode virar nada.
----------------------------
+BNCC: EF69LP47.
 
-Justificativas:
----------------
+a\) Incorreta. O cordel dá sentido às coisas e diz que de repente elas podem perder o sentido.
 
-a) Incorreta. O cordel dá sentido às coisas e diz que de repente elas podem perder o sentido.
+b\) Incorreta. O autor não fala do propósito das coisas no texto, ele menciona quando é que as coisas perdem o propósito.
 
+c\) Correta. O cordel fala sobre a temporalidade das coisas, que de repente se tem tudo o que é material, mas quando a pessoa morre, por exemplo, tudo pode virar nada.
 
-b) Incorreta. O autor não fala do propósito das coisas no texto, ele menciona quando é que as coisas perdem o propósito.
+d\) Incorreta. O cordel fala justamente sobre a temporalidade das coisas.
 
 
-d) Incorreta. O cordel fala justamente sobre a temporalidade das coisas.
+
+\num{10} Que figura de linguagem é utilizada quando o autor escreve: \"O tempo se alonga como se fosse infinito e a gente se sente dono dele\"? 
 
 
-Saeb: Inferir a presença de valores sociais, culturais e humanos em textos literários.
+a\) Metáfora, 
 
+b\) Comparação, 
 
-BNCC: EF69LP47
---------------
+c\) Personificação, 
 
-Nível: difícil
---------------
-
-10. Que figura de linguagem é utilizada quando o autor escreve: \"O tempo se alonga como se fosse infinito e a gente se sente dono dele\"? 
-
-
-(A) Metáfora, 
--------------
-
-(B) Comparação, 
----------------
-
-(C) Personificação, 
--------------------
-
-(D) Hipérbole.
---------------
-
-Resposta:
----------
-
-Justificativas
---------------
+d\) Hipérbole.
 
 BNCC:
------
+
+a\)
+b\)
+c\)
+d\)
 
 11. 
 ---
@@ -6689,150 +6064,101 @@ c\) A consequência caso o personagem erre a flechada.
 
 d\) O personagem dormir durante a contagem de cordeiros.
 
-Resposta: D. O fato que causa o efeito de humor é justamente o momento
+Habilidade: EF69LP03.
+
+a\) Incorreta. O excesso de flechas para acertar apenas 1 alvo, embora
+possa ter um teor cômico, não é o fator principal de humor nessa tirinha.
+
+b\) Incorreta. O disfarce do alvo, embora possa ter um teor cômico, não
+é o fator principal de humor nessa tirinha.
+
+c\) Incorreta. A consequência do erro, na forma como é exposta pelo
+segundo personagem, possui teor cômico, mas não é o fator principal de
+humor nessa tirinha.
+
+d\) Correta. O fato que causa o efeito de humor é justamente o momento
 que o personagem dorme durante a contagem de cordeiros. Essa "técnica" é
 muito utilizada para induzir as crianças ao sono, e na tirinha temos um
 personagem com status de herói, que adormece como uma criança.
 
-Justificativas:
 
-a\) Incorreta. O excesso de flechas para acertar apenas 1 alvo, embora
-possa ter um teor cômico, não é o fator principal de humor nessa tirinha
-
-b\) Incorreta. O disfarce do alvo, embora possa ter um teor cômico, não
-é o fator principal de humor nessa tirinha
-
-c\) Incorreta. A consequência do erro, na forma como é exposta pelo
-segundo personagem, possui teor cômico, mas não é o fator principal de
-humor nessa tirinha
-
-Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
-crítica.
-
-Habilidade: EF69LP03
-
-Nível: médio.
--------------
 
 Leia um trecho da peça "Auto da compadecida", de Ariano Suassuna, e responda às questões 12 a 15.
 
 
 CHICÓ
------
-
 Isso não vai dar certo. Você já começa com suas coisas, João. E havia necessidade de inventar que era empregado de Antônio Morais?
 
 
 JOÃO GRILO
-----------
-
 Meu filho, empregado do major e empregado de um amigo do major é quase a mesma coisa. O padeiro vive dizendo que é amigo do homem, de modo que a diferença é muito pouca. Além disso, eu podia perfeitamente ter sido mandado pelo major, porque o filho dele está doente e pode até precisar do padre.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 CHICÓ
------
-
 João, deixe de agouro com o menino, que isso pode se virar por cima de você.
 
 
 JOÃO GRILO
-----------
-
 E você deixe de conversa. Nunca vi homem mais mole do que você, Chicó. O padeiro mandou você arranjar o padre para benzer o cachorro e eu arranjei sem ter sido mandado. Que é que você quer mais?
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 CHICÓ
------
-
 Ih, olha como isso está pegado com o patrão! Faz gosto um empregado dessa qualidade.
 
 
 JOÃO GRILO
-----------
-
 Muito pelo contrário, ainda hei de me vingar do que ele e a mulher me fizeram quando estive doente. Três dias passei em cima de uma cama para morrer e nem um copo dágua me mandaram. Mas fiz esse trabalho somente porque se trata de enganar o padre. Não vou com aquela cara.
---------------------------------------------------------------------------------------------------------------------------------------------
+
 
 (SUASSUNA, Ariano. Auto da Compadecida. 34 ed./3ª imp. Rio de Janeiro: Agir, 1999. Fragmento.)
 
 
-12. Qual variação está presente na seguinte frase de 'Auto da Compadecida': \"João, deixe de agouro com o menino, que isso pode se virar por cima de você.\"? 
------------------
-
-a) Histórica
-------------
-
-b) Social
----------
-
-c) Estilística
---------------
-
-d) Geográfica
--------------
-
-Resposta: d. No trecho, a variação linguística está relacionada à localização geográfica em que a história se passa, ou seja, no Nordeste do Brasil. A expressão "deixe de agouro com o menino" também pode significar "não deseje mal para o menino", em outras regiões do Brasil.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Justificativas
---------------
-
-a) Incorreta. A variação histórica ocorre quando a sentença apresenta termos que já caíram em desuso.
+\num{12} Qual variação está presente na seguinte frase de 'Auto da Compadecida': \"João, deixe de agouro com o menino, que isso pode se virar por cima de você.\"? 
 
 
-b) Incorreta. A variação social é o tipo de linguagem utilizada por determinado grupo social, que por preferências, atividades e ou nível socioeconômico adota um linguajar próprio.
-----------------------------------------
+a) Histórica.
 
-c) Incorreta. A variação estilística ocorre quando o falante altera seu estilo de linguagem a fim de se adequar a contextos distintos. 
+b) Social.
 
+c) Estilística.
 
-Saeb: Analisar as variedades linguísticas em textos.
+d) Geográfica.
 
+BNCC: EF69LP55.
 
-BNCC: EF69LP55
---------------
+a\) Incorreta. A variação histórica ocorre quando a sentença apresenta termos que já caíram em desuso.
 
-Nível: médio
-------------
+b\) Incorreta. A variação social é o tipo de linguagem utilizada por determinado grupo social, que por preferências, atividades e ou nível socioeconômico adota um linguajar próprio.
 
-13. A frase \"pegado com o patrão\", no contexto apresentado, significa que o empregado 
+c\) Incorreta. A variação estilística ocorre quando o falante altera seu estilo de linguagem a fim de se adequar a contextos distintos. 
 
-
-a) tem uma boa relação com o patrão. 
-------------------------------------
-
-b) está agindo de forma inapropriada com o patrão.
+d\) Correta. No trecho, a variação linguística está relacionada à localização geográfica em que a história se passa, ou seja, no Nordeste do Brasil. A expressão "deixe de agouro com o menino" também pode significar "não deseje mal para o menino", em outras regiões do Brasil.
 
 
-c) está trabalhando arduamente para o patrão. 
----------------------------------------------
-
-d) não está fazendo seu trabalho corretamente.
-----------------------------------------------
-
-Resposta: c. Perceba que no trecho anterior João Grilo diz a Chicó que arranjou um padre para o padeiro sem nem ter sido mandando. Ou seja, ele trabalhou arduamente para o patrão.
----------------------------------------
-
-Justificativas:
----------------
-
-a) Incorreta. João Grilo não tem uma boa relação com o patrão, o que se confirma no trecho seguinte, em "Muito pelo contrário, ainda hei de me vingar do que ele e a mulher me fizeram quando estive doente."
---------------------------------------------------------------------------------------------------------------------------------------------
-
-b) Incorreta. Estar "pegado" significa próximo, trabalhando duro, e não agindo de forma inapropriada.
+\num{13} A frase \"pegado com o patrão\", no contexto apresentado, significa que o empregado 
 
 
-d) Incorreta. João Grilo deixa claro o quanto trabalha duro, por isso estava tão chateado com o patrão, por não ter reconhecimento nem quando estava doente.
-----------------
+a\) tem uma boa relação com o patrão. 
 
-Saeb: Analisar as variedades linguísticas em textos.
+b\) está agindo de forma inapropriada com o patrão.
+
+c\) está trabalhando arduamente para o patrão. 
+
+d\) não está fazendo seu trabalho corretamente.
 
 
-BNCC: EF69LP55
---------------
+BNCC: EF69LP55.
 
-Nível: médio
-------------
+
+a\) Incorreta. João Grilo não tem uma boa relação com o patrão, o que se confirma no trecho seguinte, em "Muito pelo contrário, ainda hei de me vingar do que ele e a mulher me fizeram quando estive doente."
+
+b\) Incorreta. Estar "pegado" significa próximo, trabalhando duro, e não agindo de forma inapropriada.
+
+c\) Correta. Perceba que no trecho anterior João Grilo diz a Chicó que arranjou um padre para o padeiro sem nem ter sido mandando. Ou seja, ele trabalhou arduamente para o patrão.
+
+d\) Incorreta. João Grilo deixa claro o quanto trabalha duro, por isso estava tão chateado com o patrão, por não ter reconhecimento nem quando estava doente.
+
+
 
 Leia o texto a seguir para responder às questões 14 e 15.
 
@@ -6843,77 +6169,48 @@ Leia o texto a seguir para responder às questões 14 e 15.
 \fonte{\< <https://tubarao.sc.gov.br/uploads/sites/265/2022/01/3172563.png>\>.
 
 
-14. Qual é o objetivo do texto contido na imagem? 
+\num{14} Qual é o objetivo do texto contido na imagem? 
 
 
 a) Anunciar um evento.
-----------------------
 
 b) Promover um produto. 
------------------------
 
 c) Informar sobre um serviço.
------------------------------
 
 d) Exibir um manual de instrução.
----------------------------------
 
-Resposta: c. O texto é um anúncio de uma campanha de vacinação para crianças e jovens a partir de 12 anos de idade.
-
-
-Justificativas:
----------------
+BNCC: EF69LP02.
 
 a) Incorreta. Embora o texto informe sobre um evento fictício, o objetivo da campanha é chamar os jovens, especialmente os que conhecem o anime, para a campanha de vacinação.
-----------------------------------
 
-b) Incorreta. O texto promove a campanha de vacinação, e não a vacina em si.
+b\) Incorreta. O texto promove a campanha de vacinação, e não a vacina em si.
+
+c\) Correta. O texto é um anúncio de uma campanha de vacinação para crianças e jovens a partir de 12 anos de idade.
+
+d\) Incorreta. O texto não é um manual de instrução e sim uma campanha publicitária.
 
 
-d) Incorreta: O texto não é um manual de instrução e sim uma campanha publicitária.
-
-
-Saeb: Identificar elementos constitutivos de textos pertencentes ao
-domínio jornalístico/midiático.
-
-BNCC: EF69LP02
-
-Nível: fácil
-
-15. Qual o objetivo do evento mencionado no texto?
+\num{15} Qual o objetivo do evento mencionado no texto?
 
 
 a) Promover saúde e bem-estar.
-------------------------------
 
 b) Divulgar games e inovação. 
------------------------------
 
 c) Falar de meio-ambiente e sustentabilidade. 
----------------------------------------------
 
 d) Promover cultura e entretenimento.
--------------------------------------
 
-Resposta: a. O evento divulgado é uma campanha de vacinação para crianças e jovens com idade a partir de 12 anos.
+BNCC: EF69LP02.
 
+a\) Correta. O evento divulgado é uma campanha de vacinação para crianças e jovens com idade a partir de 12 anos.
 
-Justificativas:
----------------
+b\) Incorreta. O evento trata de uma campanha de vacinação, direcionada à saúde e bem-estar do público-alvo.
 
-b) Incorreta: O evento trata de uma campanha de vacinação, direcionada à saúde e bem-estar do público-alvo.
+c\) Incorreta. O anime utilizado para promover o evento pode estar relacionado a games e inovação, mas o objetivo do evento é promover saúde e bem-estar.
 
-
-c) Incorreta: O anime utilizado para promover o evento pode estar relacionado a games e inovação, mas o objetivo do evento é promover saúde e bem-estar.
-------------
-
-d) Incorreta: A campanha utiliza uma imagem familiar aos jovens para promover a vacinação direcionada à saúde e bem-estar do público-alvo.
+d\) Incorreta. A campanha utiliza uma imagem familiar aos jovens para promover a vacinação direcionada à saúde e bem-estar do público-alvo.
 
 
-Saeb: Identificar elementos constitutivos de textos pertencentes ao
-domínio jornalístico/midiático.
-
-BNCC: EF69LP02
-
-Nível: médio
 

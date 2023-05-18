@@ -7,7 +7,6 @@
 * Fabia: Importante é entregar
 * Felipe: Comentei as partes que podem ser cortadas no MATE01 MATE02.
 
-
 > 16mai
 * Gantt & Panorama Geral
 * Vídeos
