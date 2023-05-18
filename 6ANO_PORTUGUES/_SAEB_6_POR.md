@@ -9,7 +9,7 @@ SAEB -- LÍNGUA PORTUGUESA -- 6º ANO
   - Identificar o uso de recursos persuasivos em textos verbais e não verbais.
   - Identificar teses, opiniões, posicionamentos explícitos e argumentos em textos.
   
-  Habilidades da BNCC: EF67LP05 e EF67LP07.
+  Habilidades da BNCC: EF67LP05, EF67LP07.
 
 
 \conteudo
@@ -43,7 +43,7 @@ https://www.freepik.com/free-photo/top-view-abstract-composition-with-innovation
 
 \colorsec{Atividades}
 
-Leia o texto a seguir e responda às questões 1 a 4.
+Leia o texto a seguir e responda às questões de 1 a 4.
 
 **Estudantes escrevem carta com sugestões para a cidade e entregam ao
 prefeito**
@@ -395,7 +395,7 @@ realmente pequena.
 - Identificar elementos constitutivos de gêneros de divulgação científica.
 - Analisar a relação temática entre diferentes gêneros jornalísticos.
 
-Habilidades da BNCC: EF69LP02, EF69LP20, EF69LP27, EF67LP16 e EF67LP17.
+Habilidades da BNCC: EF69LP02, EF69LP20, EF69LP27, EF67LP16, EF67LP17.
 
 \conteudo
 {Os **textos expositivos** são aqueles que têm como objetivo expor
@@ -455,7 +455,7 @@ podemos utilizar em textos expositivos.
 
 
 Leia o texto a seguir, publicado no Jornal da USP, e responda às
-questões 1 a 3.
+questões de 1 a 3.
 
 **Seu cão reconhece suas emoções e toma decisões a partir disso, mostra
 estudo da USP**
@@ -813,7 +813,7 @@ sobre os termos técnicos.
 - Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
 - Inferir a presença de valores sociais, culturais e humanos em textos literários.
 
-Habilidades da BNCC: EF69LP44, EF69LP47 e EF67LP27.
+Habilidades da BNCC: EF69LP44, EF69LP47, EF67LP27.
 
 \conteúdo
 {A intertextualidade é uma técnica que envolve a criação de conexões
@@ -1045,7 +1045,7 @@ O Texto 1 deixa menciona apenas a madrasta e uma filha, e não duas
 meia-irmãs, como na história da Cinderela.}
 
 
-Leia os textos seguir e responda às perguntas 5 a 7.
+Leia os textos seguir e resolva as questões de 5 a 7.
 
 **Texto 1**
 
@@ -1091,7 +1091,7 @@ era, se nunca os vira", extraído do Texto 2?
 
 \coment{ O pronome se refere aos olhos de Capitu.}
 
-Observe a imagem e leia o texto que a acompanha, a seguir, para responder às questões 8 a 10.
+Observe a imagem e leia o texto que a acompanha, a seguir, para responder às questões de 8 a 10.
 
 ![Uma imagem contendo Forma Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image11.png){width="5.905555555555556in"
@@ -1280,7 +1280,7 @@ comparando o sentimento com a mata.
   - Analisar efeitos de sentido produzido pelo uso de formas de apropriação textual (paráfrase, citação etc.).
 - Analisar os efeitos de sentido decorrentes dos mecanismos de construção de textos jornalísticos/midiáticos.
 
-Habilidades da BNCC: EF69LP16 e EF69LP43.
+Habilidades da BNCC: EF69LP16, EF69LP43.
 
 
 \conteudo{
@@ -1314,15 +1314,15 @@ Independentemente do tipo de citação escolhido, é importante sempre
 indicar a fonte utilizada na lista de referências ou bibliografia do seu
 trabalho.}
 
-Utilize o texto a seguir para responder às questões 1 a 7.
+Utilize o texto a seguir para responder às questões de 1 a 7.
 
 **Como os gatos veem o mundo**
 
-Frente a investimentos financeiros e emocionais significativos, muitas pessoas atribuem características humanas aos seus gatos. No entanto, estão equivocadas. Ao contrário dos cães, que desejam ser como os humanos, os gatos não aspiram a ser outra coisa senão gatos. Na perspectiva felina, somos nós, seus donos, os gigantes amigáveis da mesma espécie, encarregados de sustentá-los e protegê-los.
+>Frente a investimentos financeiros e emocionais significativos, muitas pessoas atribuem características humanas aos seus gatos. No entanto, estão equivocadas. Ao contrário dos cães, que desejam ser como os humanos, os gatos não aspiram a ser outra coisa senão gatos. Na perspectiva felina, somos nós, seus donos, os gigantes amigáveis da mesma espécie, encarregados de sustentá-los e protegê-los.
 
-Protegê-los de quê? Para o gato, cada cômodo é uma selva, que ele percebe apenas em tons de amarelo e azul. Há uma ameaça escondida atrás de cada cortina e sob cada almofada. Eles nascem, morrem e dão origem a predadores. Segundo John Bradshaw, autor do livro "Sentido de gato, o enigma felino revelado" (best-seller de 2013 sem edição brasileira), "eles descendem de felinos territoriais e solitários que aceitaram a coexistência com outros gatos e ainda estão se adaptando à vida como animais de estimação".
+>Protegê-los de quê? Para o gato, cada cômodo é uma selva, que ele percebe apenas em tons de amarelo e azul. Há uma ameaça escondida atrás de cada cortina e sob cada almofada. Eles nascem, morrem e dão origem a predadores. Segundo John Bradshaw, autor do livro "Sentido de gato, o enigma felino revelado" (best-seller de 2013 sem edição brasileira), "eles descendem de felinos territoriais e solitários que aceitaram a coexistência com outros gatos e ainda estão se adaptando à vida como animais de estimação".
 
-Em outras palavras, aquilo que os ratos sabiam e os pufes suspeitavam, a ciência agora confirma: o gato doméstico ainda preserva sua natureza selvagem.
+>Em outras palavras, aquilo que os ratos sabiam e os pufes suspeitavam, a ciência agora confirma: o gato doméstico ainda preserva sua natureza selvagem.
 
 (Fonte de pesquisa: Alexandre Rodrigues. Superinteressante. Como os gatos veem o mundo. Disponível em:
 \<<https://super.abril.com.br/ciencia/como-os-gatos-veem-o-mundo/>\>.
@@ -1400,7 +1400,7 @@ reconheça a frase do especialista como uma citação?
 
 \coment{O conector *segundo*, que precede trecho entre aspas.}
 
-Leia o texto a seguir para responder às questões 8 a 10.
+Leia o texto a seguir para responder às questões de 8 a 10.
 
 >[...] Todo mundo conhece a música Ciranda-Cirandinha. A Adriana, uma
 amiga, me confessou que durante anos e anos, entendia um verso
@@ -1485,9 +1485,9 @@ infográfico apresenta apenas algumas dicas.
 
 **Como cuidar da saúde mental das crianças?**
 
-Os primeiros anos de vida desempenham um papel fundamental na formação das habilidades cognitivas que o cérebro desenvolverá ao longo dos anos subsequentes. Portanto, investir na promoção da saúde mental infantil é uma maneira de cuidar do bem-estar das futuras gerações, abrangendo desde jovens até idosos, e também de preservar o bem-estar de nossas comunidades.
+>Os primeiros anos de vida desempenham um papel fundamental na formação das habilidades cognitivas que o cérebro desenvolverá ao longo dos anos subsequentes. Portanto, investir na promoção da saúde mental infantil é uma maneira de cuidar do bem-estar das futuras gerações, abrangendo desde jovens até idosos, e também de preservar o bem-estar de nossas comunidades.
 
-Além disso, é durante a infância que os primeiros sinais de transtornos mentais costumam se manifestar, podendo agravar-se significativamente na vida adulta. De acordo com a Organização Mundial da Saúde (OMS), metade dos distúrbios mentais têm início por volta dos 14 anos de idade. Portanto, discutir o assunto e estar bem informado sobre os sintomas contribui para a detecção precoce dos problemas de saúde mental.
+>Além disso, é durante a infância que os primeiros sinais de transtornos mentais costumam se manifestar, podendo agravar-se significativamente na vida adulta. De acordo com a Organização Mundial da Saúde (OMS), metade dos distúrbios mentais têm início por volta dos 14 anos de idade. Portanto, discutir o assunto e estar bem informado sobre os sintomas contribui para a detecção precoce dos problemas de saúde mental.
 
 (Fonte de pesquisa: Elen Montanari. Blog Leiturinha. Como cuidar da saúde mental das crianças? Disponível em: \<
 <https://leiturinha.com.br/blog/como-cuidar-da-saude-mental-das-criancas/>\>.
@@ -1601,17 +1601,14 @@ considerar diferentes perspectivas antes de formar uma opinião própria
 sobre um determinado assunto.}
 
 
-Leia o texto a seguir para responder às questões 1 a 5.
+Observe a imagem e leia o texto que a acompanha para responder às questões de 1 a 5.
 
-![Interface gráfica do usuário, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image16.png){width="3.8617497812773403in"
-height="2.595237314085739in"}
 
-Arte: reproduzir a imagem e o texto, desse jeito que eu montei, por
-favor.
 <https://pixabay.com/pt/photos/lua-lua-crescente-universo-cratera-7362632/>
 
-Não há bem que para sempre dure, e não há mal que dure para sempre.
+Não há bem que para sempre dure, e não há mal que dure para sempre. (Clarice Lispector)
+%se for possível sobrepor a frase na imagem, melhor, para parecer realmente uma postagem de redes sociais.
+
 
 \num{1} A quem é atribuída a frase da imagem?
 
@@ -1650,71 +1647,40 @@ ser apresentada, para que o leitor não tenha dúvida quanto à autoria?
 \coment{A frase deveria estar entre aspas e o nome da autora deveria
 estar acompanhado da referência bibliográfica.}
 
-Leia o texto a seguir para responder às questões 6 a 10.
+Leia o texto a seguir para responder às questões de 6 a 10.
 
 **Um mito chamado Frida Kahlo**
 
-Com a experiência quase morte que a deixou imóvel durante um bom tempo,
-segundo o relato que muitos historiadores descrevem, Frida precisou
-reinventar-se. E, "pintar as coisas que via com seus próprios olhos"
-começou fazer sentido. O espelho que havia no teto de sua cama pode ser
-uma contundente explicação para os, aproximadamente, 40 autorretratos
-pintados por ela ao longo de sua vida.\[\...\]
+Após a experiência quase fatal que a deixou imobilizada por um longo período, de acordo com relatos descritos por muitos historiadores, Frida Kahlo teve que se reinventar. Foi então que "pintar as coisas que via com seus próprios olhos" começou a fazer sentido. O espelho que estava no teto de sua cama pode ser uma explicação contundente para os aproximadamente 40 autorretratos que ela pintou ao longo de sua vida.
 
-Para muita gente, o fascínio começa neste ponto, pois sem nenhuma
-formação acadêmica, ela pintou o que viu. No entanto, vale ressaltar
-que, embora tivesse voltado a ter uma vida praticamente normal, houve
-uma mudança radical após o acidente. Ela precisou usar espartilhos de
-gesso e de couro, muletas e pernas postiças. Algo que não é a coisa mais
-bonita de se olhar. Algo que no dia a dia não é confortável. E, no
-entanto, a construção da imagem por meio da vestimenta, mostrou ser uma
-obra de arte à parte, algo que nenhum outro artista havia feito até
-então, partindo de uma necessidade interna de reafirmar sua
-feminilidade.\[\...\]
+Esse ponto é o início do fascínio para muitas pessoas, pois ela pintou o que viu sem nenhuma formação acadêmica. No entanto, é importante destacar que, embora ela tenha retomado uma vida praticamente normal, houve uma mudança radical após o acidente. Ela precisou utilizar espartilhos de gesso e couro, muletas e pernas postiças. Esses elementos não são visualmente agradáveis e não oferecem conforto no dia a dia. No entanto, a construção de sua imagem por meio do vestuário mostrou-se uma obra de arte por si só, algo que nenhum outro artista havia realizado até então. Essa expressão partiu de uma necessidade interna de reafirmar sua feminilidade.
 
-(ALVES, Tatiane. Um mito chamado Frida Kahlo. Roda Cult, publicado em 20
-de julho de 2020. Disponível em:
+(Fonte de pesquisa: Tatiane Alves. Roda Cult. Um mito chamado Frida Kahlo. Disponível em:
 <https://rotacult.com.br/2020/07/opiniao-um-mito-chamado-frida-kahlo/?amp>.
-Acesso em: 10 mar. 2023. Adaptado.)
+Acesso em: 10 mar. 2023.)
 
 \num{6} Escreva, ao lado das frases, se elas se referem a um fato ou a uma
 opinião sobre Frida Kahlo.
 
-a\) "Frida precisou reinventar-se." \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+a\) "Frida Kahlo teve que se reinventar." \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-b\) "Para muita gente, o fascínio começa neste
-ponto."\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+b\) "Esse ponto é o início do fascínio para muitas pessoas"\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-c\) "embora tivesse voltado a ter uma vida praticamente normal, houve
-uma mudança radical após o acidente."\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+c\) "No entanto, é importante destacar que, embora ela tenha retomado uma vida praticamente normal, houve uma mudança radical após o acidente."\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-d\) "Ela precisou usar espartilhos de gesso e de couro, muletas e pernas
-postiças."\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+d\) "Ela precisou utilizar espartilhos de gesso e couro, muletas e pernas postiças."\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-e\) Algo que não é a coisa mais bonita de se
-olhar.\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-f\) "Algo que no dia a dia não é
-confortável."\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-g\) "a construção da imagem por meio da vestimenta, mostrou ser uma obra
-de arte à parte"\_\_\_\_\_\_\_\_\_\_\_\_
 
 \coment{
-a\) "Frida precisou reinventar-se." fato.
-b\) "Para muita gente, o fascínio começa neste ponto." opinião.
-c\) "houve uma mudança radical após o acidente." fato.
-d\) "Ela precisou usar espartilhos de gesso e de couro, muletas e pernas
-postiças." fato.
-e\) "Algo que não é a coisa mais bonita de se olhar." opinião.
-f\) "Algo que no dia a dia não é confortável." opinião.
-g\) "a construção da imagem por meio da vestimenta mostrou ser uma obra
-de arte à parte." opinião.}
+a\) fato.
+b\) opinião.
+c\)  fato.
+d\)  fato.
 
 \num{7} No primeiro parágrafo, o trecho "pintar as coisas que via com seus
 próprios olhos" está entre aspas porque
 
-a\) é uma frase dita por um(a) especialista em Frida Kahlo.
+a\) é uma frase dita por especialista em Frida Kahlo.
 
 b\) é uma paráfrase em que a autora recria o relato que muitos
 historiadores descrevem.
@@ -1737,7 +1703,7 @@ d\) Incorreto. A frase é um fato sobre Frida. Embora esteja escrito em
 sentido figurado, é fato que a partir do acidente Frida passou a pintar
 aquilo que sentia.}
 
-\num{8} Leia a definição da palavra mito, segundo o dicionário Michaelis:
+\num{8} Leia a definição da palavra *mito*, segundo o dicionário Michaelis:
 
 "Uma pessoa ou um fato cuja existência, presente na imaginação das
 pessoas, não pode ser comprovada; ficção."
@@ -1750,10 +1716,7 @@ uma pessoa real, de mito?
 \coment{O intuito é comparar a história de vida da autora com uma
 história de ficção, quase inacreditável.}
 
-\num{9} Releia o trecho: "E, no entanto, a construção da imagem por meio da
-vestimenta mostrou ser uma obra de arte à parte, algo que nenhum outro
-artista havia feito até então, partindo de uma necessidade interna de
-reafirmar sua feminilidade."
+\num{9} Releia o trecho: "No entanto, a construção de sua imagem por meio do vestuário mostrou-se uma obra de arte por si só, algo que nenhum outro artista havia realizado até então. Essa expressão partiu de uma necessidade interna de reafirmar sua feminilidade."
 
 Explique, especificamente nesse trecho, o que é fato e o que é opinião.
 
@@ -1764,13 +1727,13 @@ vestimenta, partindo de uma necessidade interna de reafirmar sua
 feminilidade. É uma opinião da autora que esse processo foi uma obra de
 arte à parte.}
 
-\num{10} Explique o uso da expressão "uma obra de arte à parte", no último
+\num{10} Explique o uso da expressão "uma obra de arte por si só", no último
 parágrafo.
 
 \linhas{4}
 
 \coment{A autora faz um trocadilho com a fato de Frida ser uma
-artista. A expressão "uma obra à parte" significa que determinado fato
+artista. A expressão "uma obra de arte por si só" significa que determinado fato
 foi incrível, maravilhoso.}
 
 \colorsec{Treino}
@@ -1782,23 +1745,22 @@ Jovem":
 curtinho e eu queria mais! É satisfatório ver que a personalidade dos
 personagens se mantém, mas com certo amadurecimento constante."
 
-(LIMA, Michele. Turma da Mônica Jovem: Mudando o Jogo \[Resenha
-Literária\]. Na nossa estante, publicado em 12 de abril de 2022.
+(Michele Lima. Na nossa estante. Turma da Mônica Jovem: Mudando o Jogo \[Resenha
+Literária\].
 Disponível em: \<
-<https://nanossaestante.com.br/2022/04/turma-da-monica-jovem-mudando-o-jogo-resenha-literaria/>.
-Acesso em: mar. 2023. Adaptado.)
+<https://nanossaestante.com.br/2022/04/turma-da-monica-jovem-mudando-o-jogo-resenha-literaria/>. Acesso em: mar. 2023. )
 
 A alternativa que NÃO remete a uma opinião da autora é:
 
-a\) tem um enredo simples
+a\) "tem um enredo simples".
 
-b\) e eu queria mais
+b\) "e eu queria mais".
 
-c\) é satisfatório ver
+c\) "é satisfatório ver".
 
-d\) mas com certo amadurecimento
+d\) "mas com certo amadurecimento".
 
-BNCC: EF67LP04
+BNCC: EF67LP04 --Distinguir, em segmentos descontínuos de textos, fato da opinião enunciada em relação a esse mesmo fato.
 
 a\) Incorreta. A resenhista considera o enredo simples, mas pode não ser
 simples para outras pessoas.
@@ -1817,21 +1779,12 @@ não é uma opinião da resenhista, e sim uma constatação.
 **O Brasil precisa do SUS: lançada campanha nacional de defesa do
 Sistema Único de Saúde**
 
-A coordenadora do Campus Virtual Fiocruz, Ana Furniel, consoante com a
-campanha \#OBrasilPrecisadoSUS, aponta que o Sistema Único de Saúde é
-imprescindível para o país. Seu papel na pandemia ressaltou ainda mais a
-sua importância. "É interessante pensar no todo, pois quando falamos do
-SUS ainda se pensa de forma limitada ao atendimento hospitalar. No
-entanto, o SUS é maior, ele é atenção hospitalar, sim, mas é vacina,
-medicamento, atenção primária, vigilância e é, especialmente para nós,
-formação de profissionais de saúde. Essa é a esfera de contribuição do
-CVF".
+De acordo com Ana Furniel, coordenadora do Campus Virtual Fiocruz e em consonância com a campanha #OBrasilPrecisadoSUS, o Sistema Único de Saúde é imprescindível para o país. Sua importância foi ainda mais destacada durante a pandemia. "É fundamental considerar o todo, pois quando falamos do SUS, muitas vezes limitamos nossa visão apenas ao atendimento hospitalar. No entanto, o SUS vai além disso, abrangendo a vacinação, medicamentos, atenção primária, vigilância e, especialmente para nós, a formação de profissionais de saúde. Essa é a esfera de contribuição do CVF".
 
-(SCHINCARIOL, Isabela. *O Brasil precisa do SUS: lançada campanha
-nacional de defesa do Sistema Único de Saúde*. Fiocruz, publicado em 15
-de dez. 2020. Disponível em: \<
+(Fonte de pesauisa: Isabela Schincariol. Fiocruz. O Brasil precisa do SUS: lançada campanha
+nacional de defesa do Sistema Único de Saúde. Disponível em: \<
 <https://campusvirtual.fiocruz.br/portal/?q=noticia/59976>\>. Acesso em:
-mar. 2023. Adaptado.)
+23 mar. 2023.)
 
 A palavra **imprescindível**, no primeiro parágrafo, é
 
@@ -1843,7 +1796,7 @@ c\) um fato sobre o SUS, justificado pela especialista.
 
 d\) um fato sobre o SUS, checado pela jornalista.
 
-BNCC: EF67LP04.
+BNCC: EF67LP04 --Distinguir, em segmentos descontínuos de textos, fato da opinião enunciada em relação a esse mesmo fato.
 
 a\) Correta. A entrevistada considera o SUS imprescindível para o país.
 
@@ -1878,18 +1831,18 @@ diretor de educação da SaferNet.
 <https://new.safernet.org.br/content/conheca-campanha-acabar-com-o-bullying-edaminhaconta>\>.
 Acesso em: mar. 2023. Adaptado.)
 
-De acordo com o texto, é um fato sobre a campanha:
+De acordo com o texto, é um fato sobre a campanha
 
 a\) que o bullying é responsabilidade de todos.
 
-b\) adolescentes e jovens são os responsáveis pelo bullying.
+b\) que adolescentes e jovens são os responsáveis pelo bullying.
 
-c\) educar as novas gerações para um uso positivo das redes é urgente.
+c\) que educar as novas gerações para um uso positivo das redes é urgente.
 
-d\) acabar com o bullying \#édaminhaconta foi desenvolvida em parceria
+d\) que acabar com o bullying \#édaminhaconta foi desenvolvida em parceria
 com Facebook e Instagram.
 
-BNCC: EF67LP04.
+BNCC: EF67LP04 --Distinguir, em segmentos descontínuos de textos, fato da opinião enunciada em relação a esse mesmo fato.
 
 a\) Incorreta. É objetivo da campanha conscientizar as novas gerações
 sobre o bullying.
