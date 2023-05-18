@@ -45,7 +45,7 @@
 			]{edlab-footnotes}
 
 
-\usepackage[printwatermark]{xwatermark}
+%\usepackage[printwatermark]{xwatermark}
 \usepackage{pdfpages}
 \usepackage{wrapfig}
 \usepackage{tikzpagenodes}
@@ -64,12 +64,12 @@
 
 
 \newcommand\reduline{
-	\medskip\noindent\bgroup
-	\color{rosa}
-  	\footnotesize
-  	\cambria
-	\markoverwith{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}\lower0.4cm\hbox{\mbox{}}}
-	\ULon
+  \medskip\noindent\bgroup
+  \color{rosa}
+    \footnotesize
+    \cambria
+  \markoverwith{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}\lower0.4cm\hbox{\mbox{}}}
+  \ULon
 }
 
 %\newcommand\preencher{
@@ -120,7 +120,7 @@
 
 % Fontes
 \newfontfamily\gotham{Gotham-Black}
-\newfontfamily\cambria{cambria}
+\newfontfamily\cambria{Cambria}
 %\newfontfamily\brabo{FS Brabo Pro Regular}
 \setmainfont[Ligatures=TeX,Numbers=OldStyle]{Minion Pro}
 
@@ -167,7 +167,6 @@
 
 %\input{MUSSUMIPSUM}  		% Teste da classe
 \include{INPUTS}
-
 
 \checkandfixthelayout
 \end{document}
