@@ -33,6 +33,8 @@
 
 \usepackage{edlab-penalties}
 \usepackage{edlab-git}
+\usepackage{edlab-watermarks}
+
 \usepackage{edlab-toc}					% define sumário
 \usepackage{edlab-extra}				% define epígrafe, quote
 \usepackage[21x28]{edlab-margins}
@@ -163,6 +165,13 @@
 
 
 \begin{document}
+\newcommand{\watermarkOdd}{../watermarks/bg5anoimpar.pdf} % Arquivo para páginas ímpares
+\newcommand{\watermarkEven}{../watermarks/bg5anopar.pdf} % Arquivo para páginas pares
+\newcommand{\excludedpage}{0x
+} % Número da página em que você não deseja que o watermark seja exibido
+
+%\newcommand{\adhocWatermark}{img2.pdf}
+%\renewcommand{\adhocWatermark}{img4.pdf}\AdhocWatermark
 
 
 %\input{MUSSUMIPSUM}  		% Teste da classe
