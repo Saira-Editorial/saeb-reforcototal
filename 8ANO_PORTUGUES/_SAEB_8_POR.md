@@ -2839,290 +2839,192 @@ A progressão textual é o desenvolvimento das ideias e do tema de um
 texto. Esse desenvolvimento ocorre com a adição de informações novas às
 informações já dadas, que precisam estar conectadas de modo que o texto
 avance sem que o leitor perca a linha de raciocínio proposta pelo autor.
+
 A coesão é a principal responsável pela adequada progressão temática,
-pois estabelece relações entre diferentes partes e ideias do texto meio
-da coesão referencial e da coesão sequencial, retomando sem
+pois estabelece relações entre diferentes partes e ideias do texto por meio
+da **coesão referencial** e da **coesão sequencial**, retomando sem
 necessariamente repetir palavras e expressões do texto.
 
-C**oesão referencial:** ocorre quando um termo ou expressão refere-se a
-outro termo ou expressão dentro do texto, colaborando tanto para a
-manutenção quanto para a progressão do assunto. Alguns desses termos ou
-expressões são: pronomes, advérbios, numerais, artigos, sinônimos,
-antônimos, palavras genéricas etc. Vejamos alguns exemplos.
+* A coesão referencial ocorre quando um termo ou uma expressão refere-se a outro termo ou expressão dentro do texto, colaborando tanto para a manutenção quanto para a progressão do assunto. Alguns desses termos ou expressões são: pronomes, advérbios, numerais, artigos, sinônimos, antônimos, palavras genéricas, por exemplo.
 
-\num{1} Substituição: **Os alunos** foram advertidos pelo **mau
-comportamento**. Caso **isso** \[mau comportamento\] volte a acontecer,
-**eles** \[os alunos\] serão suspensos.
-
-\num{2} Reiteração/Repetição: "Smita acorda com uma estranha sensação, uma
-suave urgência, um inédito frio na barriga. **Hoje** é um dia que ela
-irá lembrar para o resto da vida. **Hoje**, sua filha vai entrar para a
-escola" (Laetitia Colombani).
-
-A repetição, nesse caso, tem efeito enfático.
-
-\num{3} Associação: "À medida que o **rio** se afunila entre os paredões
-cada vez mais verticais, a **correnteza** vai ganhando velocidade e
-companhia de uma **espuma branca**, originada pelo choque violento das
-**águas** contra as pedras. O bote responde de imediato ao
-**turbilhão**, chacoalhando sem intervalos. O corpo esquenta, o coração
-bate mais forte. Uns 3 metros acima de nossas cabeças, onde termina o
-cânion, a selva toma conta. \[...\]" (Thiago Medaglia).
-
-Obs.: Todos os termos destacados retomam o assunto principal: o rio.
-
-**Coesão sequencial:** elementos linguísticos que estabelecem relações
-lógicas e semânticas entre as partes do texto. Esses elementos,
-responsáveis pela coesão sequencial, chamados de conectivos e promovem a
-articulação entre ideias, informações e argumentos no texto. Vejamos
-alguns exemplos.
-
-  **TIPO DE CONEXÃO / FUNÇÃO DA CONEXÃO**          **EXEMPLOS DE ELEMENTOS DE COESÃO (CONEXÃO)**
-  ------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Adição**                                       e, além disso, além do mais, e ainda, e até, também, igualmente, do mesmo modo, não só\... como também, não só\... como ainda, bem como, assim como, por um lado\... por outro, nem\... nem, de novo, incluindo etc.
-  **Certeza**                                      com certeza, decerto, naturalmente, é evidente que, certamente, sem dúvida que etc.
-  **Oposição / contraste**                         mas, porém, todavia, contudo, no entanto, entretanto, de outro modo, ao contrário, pelo contrário, contrariamente, não obstante, por outro lado etc.
-  **Concessão**                                    apesar de, ainda que, embora, mesmo que, por mais que, se bem que, ainda assim, mesmo assim, a despeito de etc.
-  **Conclusão / síntese / resumo**                 pois, portanto, por conseguinte, assim, logo, enfim, concluindo, em conclusão, em síntese, consequentemente, em consequência, por outras palavras, ou seja, em resumo, em suma, ou melhor etc.
-  **Confirmação**                                  com efeito, efetivamente, na verdade, de fato, sem dúvida, decerto, deste modo, na verdade, ora, aliás, sendo assim, veja-se, assim etc.
-  **Explicitação / particularização / destaque**   quer isto dizer, isto (não) significa que, por outras palavras, isto é, por exemplo, ou seja, é o caso de, nomeadamente, em particular, a saber, entre outros, especificamente, ou melhor, assim, ressalte-se, saliente-se, importa salientar, é importante frisar etc.
-  **Dúvida**                                       talvez, provavelmente, é provável que, possivelmente, é possível, porventura etc.
-  **Alternativa**                                  fosse\... fosse, ou, ou então, ou\... ou, ora\... ora, quer\... quer, seja\... seja, alternativamente, em alternativa, senão etc.
-  **Comparação**                                   como, conforme, também, tanto\... quanto, tal como, assim como, tão como, pela mesma razão, do mesmo modo, de forma idêntica, igualmente etc.
-  **Consequência**                                 por tudo isso, de modo que, de tal forma que, de sorte que, daí que, tanto\... que, é por isso que etc.
-  **Causa**                                        pois, pois que, visto que, já que, porque, dado que, uma vez que, por causa de, posto que, em virtude de, devido a, graças a etc.
-  **Finalidade / intenção**                        com o intuito de, para (que), para tanto, a fim de, com o fim de, com o objetivo de, de forma a etc.
-  **Hipótese / condição**                          se, caso, a menos que, salvo se, exceto se, a não ser que, desde que, supondo que, admitindo que etc.
-  **Sequência temporal**                           em primeiro lugar, num primeiro momento, antes de, em segundo lugar, em seguida, seguidamente, então, durante, ao mesmo tempo, quando, simultaneamente, depois de, após, até que, enquanto, logo que, no fim de, por fim, finalmente. .
+* A coesão sequencial ocorre com elementos linguísticos que estabelecem relações lógicas e semânticas entre as partes do texto. Esses elementos são chamados de conectivos e promovem a articulação entre ideias, informações e argumentos no texto.
 
 \colorsec{Atividades}
 
-\num{1} Numere a segunda coluna de acordo com a primeira, conforme o
-valor semântico dos conectivos presente nas orações.
+\num{1} Numere os enunciados de acordo com o valor semântico do termo destacado.
 
-  1\. Conclusão     ( ) Conseguiu reaver o relógio, **contudo** o aparelho estava quebrado.
-  ----------------- -----------------------------------------------------------------------------------------------------------------------------------------------------
-  2\. Contraste     (    ) **Dentre** os profissionais de saúde que trabalharam na pandemia, vale ressaltar a coragem dos enfermeiros que estiveram na linha de frente.
-  3\. Explicação    ( ) Um carro, uma casa, uma família linda, **tudo** parecia perfeito.
-  4\. Confirmação   ( ) Queria comprar um vestido novo **porque** iria a uma festa naquele dia.
-  5\. Síntese       ( ) De fato o Brasil é o país do futebol
-  6\. Destaque      ( ) Choveu bastante, portanto a colheita está garantida.
+I. Conclusão.
+II. Contraste.
+III. Explicação.
+IV. Confirmação.
+V. Síntese.
+VI. Destaque.
 
-Gabarito: 2 / 6 / 5 / 3 /4 / 1
+( \coment{II} ) Conseguiu reaver o relógio, **contudo** o aparelho estava quebrado.
+( \coment{VI} ) **Entre** os profissionais de saúde que trabalharam na pandemia, vale ressaltar a coragem dos enfermeiros que estiveram na linha de frente.
+( \coment{V} ) Um carro, uma casa, uma família linda, **tudo** parecia perfeito.
+( \coment{III} ) Queria comprar um vestido novo **porque** iria a uma festa naquele dia.
+( \coment{IV} ) De fato o Brasil é o país do futebol
+( \coment{I} ) Choveu bastante, portanto a colheita está garantida.
 
-O trabalho com os conectivos em orações descontextualizadas pode ser
-útil para a fixação do valor semântico primeiro que carregam. Ao serem
-contextualizados, esses conectivos adquirem valores semânticos mais
-complexos no contexto, ainda relacionados ao valor semântico original,
-daí a importância de se saber seu valor essencial.
-
-\num{2} Reescreva as orações abaixo ligando-as por meio de conectivos que
+\num{2} Reescreva os enunciados ligando as orações por meio de conectivos que
 expressem as ideias indicadas entre parênteses. Faça as alterações
 necessárias.
 
-a\) Esforçou-se muito. Não teve sucesso. (oposição)
+a\) Esforçou-se muito. Não teve sucesso. (Oposição)
 
-b\) Esforçou-se muito. Não teve sucesso. (concessão)
+\linhas{4}
+\coment{Possibilidade de resposta: Esforçou-se muito, porém não teve sucesso.}
 
-c\) Está chovendo. A roupa do varal ficou molhada. (conclusão)
+b\) Esforçou-se muito. Não teve sucesso. (Concessão)
 
-c\) Gostamos de ler. Gostamos de ouvir música. (adição)
+\linhas{4}
+\coment{Possibilidade de resposta: Embora tenha se esforçado muito, não teve sucesso.}
 
-d\) Precisamos de um médico. Um cliente está passando mal. (explicação)
+c\) Está chovendo. A roupa do varal ficou molhada. (Conclusão)
 
-(1 linha para cada item)
+\linhas{4}
+\coment{Possibilidade de resposta: Está chovendo; portanto a roupa do varal ficou molhada.}
 
-Há inúmeras possibilidades de expressão dos valores semânticos
-indicados, porém é importante verificar se, do ponto de vista
-estrutural, a frase está bem elaborada. Hipóteses de resposta:
+c\) Gostamos de ler. Adoramos ouvir música. (Adição)
 
-a\) Esforçou-se muito, mas / porém / contudo não teve sucesso.
+\linhas{4}
+\coment{Possibilidade de resposta: Gostamos de ler e adoramos ouvir música.}
 
-b\) Embora tenha se esforçado muito, não teve sucesso.
+d\) Precisamos de um médico. Um cliente está passando mal. (Explicação)
 
-c\) Está chovendo, portanto a roupa do varal ficou molhada.
-
-d\) Precisamos de um médico, pois / porque um cliente está passando mal.
+\linhas{4}
+\coment{Possibilidade de resposta: Precisamos de um médico, pois um cliente está passando mal.}
 
 \num{3} Complete a lacuna em cada frase com o conetivo adequado à ideia
 indicada nos parênteses.
 
-a\) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ pertencêssemos a partidos rivais,
-nossos ideais coincidiam em muitos pontos. (concessão)
+a\) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\coment{Embora} pertencêssemos a partidos rivais,
+nossos ideais coincidiam em muitos pontos. (Concessão)
 
-b\) Ele disse que gostou muito do meu CD, \_\_\_\_\_\_\_\_\_\_\_\_ com
-algumas ressalvas. (contraste)
+b\) Ele disse que gostou muito do meu CD, \_\_\_\_\_\_\_\_\_\_\_\_\coment{mas} com
+algumas ressalvas. (Contraste)
 
-c\) Irei contigo, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ minha família não se
-oponha. (condição)
+c\) Irei contigo, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\coment{caso} minha família não se
+oponha. (Condição)
 
-d\) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ o futebol é o melhor esporte que
-existe! (certeza)
+Leia o texto a seguir para resolver as atividades de 4 a 9.
 
-A seleção do conectivo adequado dependerá da estrutura da frase, como,
-por exemplo, o modo verbal empregado e demais aspectos sintáticos.
+>No Brasil, há quase três décadas, os direitos civis, políticos e sociais foram estabelecidos como garantidos. No entanto, para muitos cidadãos brasileiros, essa garantia é mais evidente em teoria do que na prática. Além disso, existe uma falta de alinhamento entre o que está previsto na legislação e o que realmente acontece na sociedade brasileira.
 
-a\) A lacuna se relaciona com o modo subjuntivo, exigindo assim o
-conectivo "embora" para expressar concessão.
+\fonte{Texto escrito para este material.}
 
-b\) A lacuna admite os conectivos de contraste que tipicamente se
-posicionam após uma vírgula, tais como "mas" e "porém".
+\num{4} O texto se abre com um fato e, na frase seguinte, é introduzida uma problematização relativa a esse fato. Aponte essa problematização.
 
-c\) A lacuna se relaciona ao modo verbal subjuntivo, que expressa dúvida
-e, na frase em questão, passa a expressar condição quando empregado o
-conectivo "caso".
-
-d\) A lacuna admite diferentes conectivos de certeza, pois eles não
-interferem na sintaxe da frase, apenas enfatizam a certeza sobre o que
-está sendo dito.
-
-**Texto para as questões de 4 a 10.**
-
-No Brasil, há quase 30 anos têm-se direitos civis, políticos e sociais
-garantidos. No entanto, para muitos brasileiros, isso se deu mais no
-campo teórico do que no campo prático. Há, ainda, uma falta de sincronia
-entre o que está previsto na lei e o que de fato ocorre na sociedade
-brasileira \[\...\].
-
-LINHARES, Bianca de Freitas.; CABRERA, Valéria Cabreira. Proteção de
-direitos humanos e democracia: uma análise longitudinal da percepção do
-cidadão brasileiro de 2007 a 2015. *Agenda Política*, São Carlos, v. 7,
-n. 1, p. 141-167, 2019 (fragmento adaptado).
-
-\num{4} As autoras abrem o texto apresentando um fato e, na frase
-seguinte, introduzem uma problematização relativa a esse fato. Aponte
-essa problematização.
-
-(3 linhas)
-
-A problematização é a falta da garantia dos direitos civis, políticos e
-sociais a muitos brasileiros.
+\linhas{4}
+\coment{A problematização é a falta da garantia dos direitos civis, políticos e
+sociais para muitos brasileiros.}
 
 \num{5} Indique o conectivo responsável por introduzir a problematização
-apontada na questão anterior e cite seu valor semântico.
+apontada na atividade anterior e cite seu valor semântico.
 
-O conectivo responsável por introduzir a problematização é "no entanto",
-cujo valor semântico é de oposição/contraste.
+\linhas{1}
+\coment{O conectivo é "no entanto".}
 
 \num{6} Relacione o sentido expresso pelo conectivo à problematização
 expressa na frase que ele introduz.
 
-(5 linhas)
+\linhas{6}
+\linhas{O conectivo "no entanto" expressa oposição/contraste, e é exatamente
+essa a ideia da frase que ele introduz, pois muitos
+brasileiros, em quase trinta anos de garantia dos direitos civis, políticos e
+sociais, ainda não têm esses direitos garantidos na prática, o que indica um
+contraste entre a teoria e a realidade}
 
-O conectivo "no entanto" expressa oposição/contraste, e é exatamente
-essa a ideia da frase que ele introduz, pois, segundo ela, muitos
-brasileiros, em 30 anos de garantia dos direitos civis, políticos e
-sociais, ainda não têm esses direitos garantidos, o que indica um
-contraste entre a teoria de a realidade, expresso sobretudo nas frases
-seguintes do texto.
+\num{7} Releia um trecho.
 
-\num{7} Releia:
+>Além disso, existe uma falta de alinhamento entre o que está previsto na legislação e o que realmente acontece na sociedade brasileira.
 
-"Há, ainda, uma falta de sincronia entre o que está previsto na lei e o
-que de fato ocorre na sociedade brasileira \[\...\]".
+Que valor o conectivo "Além disso" tem nesse contexto? Explique.
 
-O advérbio "ainda" se relaciona diretamente com a circunstância de tempo
-"há quase 30 anos". De acordo com o contexto, qual é a ideia expressa
-por "ainda" nessa relação?
+\linhas{4}
+\coment{O conectivo "Além disso" acrescenta uma ideia ao que vinha sendo desenvolvido no texto; tem, portanto, valor aditivo.}
 
-(5 linhas)
+\num{8} Indique os dois segmentos do texto que retomam, por meio de paráfrase, as ideias dos termos "teoria" e "prática".
 
-O advérbio "ainda" enfatiza a permanência da falta da garantia de
-direitos durante os quase 30 anos em que já são garantidos por lei,
-tempo suficiente para serem colocados em prática.
-
-\num{8} Indique os dois segmentos do texto que retomam, por meio de
-paráfrase, as ideias das expressões "campo teórico" e "campo prático".
-
-(3 linhas)
-
-As ideias das expressões "campo teórico" e "campo prático" são retomadas
-pelos termos "o que está previsto na lei" e "o que de fato ocorre".
+\linhas{4}
+\coment{As ideias das expressões "teoria" e "prática" são retomadas, respectivamente, pelos trechos "o que está previsto na legislação" "o que realmente acontece na sociedade brasileira".}
 
 \num{9} O pronome demonstrativo "isso" promove uma economia linguística
 no texto ao retomar, com apenas uma palavra, uma expressão longa. Qual
 expressão o pronome está substituindo?
 
-(3 linhas)
+\linhas{4}
+\coment{O pronome "isso" retoma "essa garantia é mais evidente em teoria do que na prática".}
 
-O pronome "isso" retoma, na frase anterior, o termo "têm-se direitos
-civis, políticos e sociais garantidos", que também poderia ser dito como
-"a garantia dos direitos civis, políticos e sociais".
+\num{10} Leia o texto a seguir.
 
-\num{0} As palavras e expressões abordadas nas questões anteriores foram
-suprimidas do texto. Preencha as lacunas com outras palavras e
-expressões que mantenham os sentidos originais do texto.
+>**Desmatamento na Amazônia cai 36% no primeiro quadrimestre**
 
-No Brasil, há quase 30 anos têm-se direitos civis, políticos e sociais
-garantidos. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, para
-muitos brasileiros, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-se deu mais no campo teórico do que no campo prático. Há, ainda, uma
-falta de sincronia entre
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-e
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-.
+>O tamanho da área desmatada na Amazônia durante os quatro primeiros meses deste ano foi 36% menor que no mesmo período de 2022, segundo monitoramento do Instituto do Homem e Meio Ambiente da Amazônia (Imazon), organização que desde 1990 reúne pesquisadores que se dedicam a estudar aspectos relativos ao uso e conservação dos recursos naturais da região.
 
-A questão tem o objetivo de trabalhar a variedade de possibilidades
-linguísticas para expressar os mesmos sentidos. Hipótese de resposta:
+>\[...]
 
-No Brasil, há quase 30 anos têm-se direitos civis, políticos e sociais
-garantidos. [Entretanto / Porém / Contudo / Apesar disso]{.underline},
-para muitos brasileiros, [a garantia desses direitos / essa garantia / o
-alcance desses direitos]{.underline} se deu mais no campo teórico do que
-no campo prático. Há, ainda, uma falta de sincronia entre [a
-lei]{.underline} e [a realidade]{.underline}.
+>“A redução observada em abril é positiva, porém, a área desmatada no mês ainda foi a quarta maior desde 2008 para o mês”, destaca a pesquisadora Larissa Amorim, referindo-se aos resultados para o mesmo mês registrados nos três anos anteriores: 1.197 km² (2022), 778 km² (2021) e 529 km² (2020).
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+>“**Isso** indica que precisamos implantar ações emergenciais de fiscalização, identificação e punição aos desmatadores ilegais nos territórios mais pressionados, focando nas florestas públicas que ainda não possuem uso definido e nas áreas protegidas, principalmente com a chegada do verão amazônico, onde historicamente o desmatamento tende a aumentar”, acrescenta Larissa, em nota divulgada pelo instituto.
+
+>\[...]
+
+\fonte{Alex Rodrigues. Agência Brasil. Desmatamento na Amazônia cai 36% no primeiro quadrimestre. Disponível em: _https://agenciabrasil.ebc.com.br/geral/noticia/2023-05/desmatamento-na-amazonia-cai-36-no-primeiro-quadrimestre_. Acesso em: 18 maio 2023.}
+
+O que o pronome "isso" destacado no texto retoma?
+
+\linhas{4}
+\coment{O pronome retoma a ideia de que, apesar de a redução observada em abril ser positiva, a área desmatada no mês ainda foi a quarta maior desde 2008.}
 
 \colorsec{Treino}
 
-\num{1}
+\num{1} Leia o texto.
 
-\[\...\]
-
+>\[\...\]
+>
 Disse a mamãe, um dia, à loura Georgeana:
-
+>
 --- Se até anoitecer, eu não te ouvir chorar,
-
+>
 nem dar gritos, prometo, amor, ir-te comprar
-
+>
 uma nenê gentil, d'olhos de porcelana.
-
+>
 Apenas isto ouviu, a bela pequenita
-
+>
 dança e salta a cantar, com tal sofreguidão,
-
+>
 que entontecendo, cai, ao comprido, no chão.
-
+>
 Esqueceu-lhe a promessa. Ei-la que chora e grita.
-
+>
 --- Prantos? Adeus boneca. Ouvindo esta ameaça,
-
-ergue-se Georgeana e diz muito **ligeira**,
-
+>
+ergue-se Georgeana e diz muito ligeira,
+>
 mudando o choro em riso, e com imensa graça.
-
+>
 --- Chorei\... por brincadeira\...
 
-RATISBONNE, Louis. Tradução de Adelina Amélia Lopes Vieira. Disponível
-em: http://www.dominiopublico.gov.br/download/texto/wk000073.pdf. Acesso
-em: 11 fev.2023.
+\fonte{Louis Ratisbonne. Tradução de Adelina Amélia Lopes Vieira. Disponível
+em: _http://www.dominiopublico.gov.br/download/texto/wk000073.pdf_. Acesso
+em: 11 fev.2023.}
 
 No texto, a palavra que substitui o nome Georgeana e, ao mesmo tempo,
 atribui uma característica à personagem é
 
-a\) nenê.
+a\) "nenê".
 
-b\) ligeira.
+b\) "ligeira".
 
-c\) boneca.
+c\) "boneca".
 
-d\) pequenita.
+d\) "pequenita".
 
-Saeb: Analisar os processos de referenciação lexical e pronominal.
-
-BNCC: EF07LP13
+SAEB: Analisar os processos de referenciação lexical e pronominal.
+BNCC: EF08LP15 -- Estabelecer relações entre partes do texto, identificando o antecedente de um pronome relativo ou o referente comum de uma cadeia de substituições lexicais.
 
 \(A\) Incorreta. O termo "nenê" se refere à boneca.
 
@@ -3135,22 +3037,17 @@ dito.
 \(D\) Correta. O termo "pequenita" retoma o nome Georgeana e, ao mesmo
 tempo, qualifica a menina, indicando que era uma criança.
 
-\num{2}
+\num{2} Leia o texto.
 
-Se alguém lhe disser: "você dorme como um urso!", saiba que anda
-dormindo demais. Afinal, ursos são capazes de dormir por muito, muito
-tempo. Na verdade, eles hibernam. Passam meses sem acordar para comer,
-beber água, tomar banho... \[\...\]
+>**Uma soneca por todo o inverno**
+>
+>Se alguém comentar: "Você dorme como um urso!", saiba que está dormindo excessivamente. Afinal, os ursos têm a capacidade de dormir por períodos extremamente longos. Na realidade, eles hibernam, ficando meses sem acordar para comer, beber água ou se higienizar. Mas como os ursos e outros animais conseguem fazer isso?
+>
+>A natureza parece encontrar soluções para tudo. No inverno, os recursos naturais diminuem. Basta observar as árvores, por exemplo, e perceber que há menos folhas e menos frutas disponíveis. Nesse contexto, para alguns animais, é mais vantajoso "dormir" durante esse período de escassez alimentar.
+>
+>É claro que dormir por um período tão prolongado requer algum tipo de preparação. Nas estações que antecedem o inverno, os animais que hibernam se preparam comendo em grande quantidade. Dessa forma, eles acumulam reservas de energia na forma de gordura corporal. E, quando o inverno chega, eles estão prontos para passar longos e frios meses em suas tocas, até a chegada da primavera.
 
-### Mas por que dormir taaanto?
-
-\[\...\] O inverno é a época do ano em que os recursos naturais
-diminuem. Só de olharmos para as árvores, por exemplo, vemos que há
-menos folhas, menos frutos... Então, naturalmente, para alguns animais é
-melhor "dormir" neste período em que há menor oferta de alimentos. 
-
-Disponível em: https://chc.org.br/artigo/uma-soneca-por-todo-o-inverno/.
-Acesso em: 16 fev. 2023.
+\fonte{Fonte de pesquisa: Ciência Hoje das Crianças. Uma soneca por todo o inverno. Disponível em: _https://chc.org.br/artigo/uma-soneca-por-todo-o-inverno/_. Acesso em: 13 fev. 2023.}
 
 A associação semântica entre os termos "recursos naturais", "folhas" e
 "frutos" permite identificar que, do primeiro para o segundo e o
@@ -3164,9 +3061,8 @@ c\) explicação.
 
 d\) particularização.
 
-Saeb: Analisar os mecanismos que contribuem para a progressão textual.
-
-BNCC: EF08LP15
+SAEB: Analisar os mecanismos que contribuem para a progressão textual.
+BNCC: EF08LP15 -- Estabelecer relações entre partes do texto, identificando o antecedente de um pronome relativo ou o referente comum de uma cadeia de substituições lexicais.
 
 \(A\) Incorreta. Os termos não apresentam sentidos opostos no texto, e
 sim se complementam semanticamente.
@@ -3182,9 +3078,9 @@ progressão textual, na medida em que o segundo e o terceiro retomam a
 ideia do primeiro, porém especificando-o, numa relação semântica de todo
 (recursos naturais) e parte (folhas e frutos).
 
-\num{3}
+\num{3} Leia o texto.
 
-As primeiras duas décadas do século XXI, no Brasil e no mundo
+>As primeiras duas décadas do século XXI, no Brasil e no mundo
 globalizado, foram marcadas por consideráveis avanços científicos,
 dentre os quais destacam-se as tecnologias de informação e comunicação
 (TICs). Nesse sentido, tal panorama promoveu a ampliação do acesso ao
@@ -3195,12 +3091,11 @@ comportamental via dados digitais. Desse modo, torna-se premente
 analisar os principais impactos dessa problemática: a perda da autonomia
 de pensamento e a sabotagem dos processos políticos democráticos.
 
-Disponível em:
-http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink6.pdf.
+>\[...]
 
-Acesso em: 21 fev. 2023 (fragmento).
+Pedro Assaad Salloum Moreira da Rocha. Disponível em: _http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink6.pdf_. Acesso em: 21 fev. 2023.
 
-A "problemática" a que se refere o autor pode ser compreendida, no
+A problemática a que se refere o autor pode ser compreendida, no
 texto, pela oposição entre
 
 a\) Brasil e mundo globalizado.
@@ -3212,24 +3107,20 @@ c\) acesso ao conhecimento e manipulação comportamental.
 d\) perda da autonomia de pensamento e sabotagem dos processos políticos
 democráticos.
 
-Saeb: Analisar os mecanismos que contribuem para a progressão textual.
-
-BNCC: EF07LP13
+SAEB: Analisar os mecanismos que contribuem para a progressão textual.
+BNCC: EF08LP14 -- Utilizar, ao produzir texto, recursos de coesão sequencial (articuladores) e referencial (léxica e pronominal), construções passivas e impessoais, discurso direto e indireto e outros recursos expressivos adequados ao gênero textual.
 
 \(A\) Incorreta. Brasil e mundo globalizado não são localidades opostas,
 pois ambos são impactados positiva e negativamente, de forma igual, pela
 tecnologia, segundo o texto.
-
 \(B\) Incorreta. Redes sociais e mídias virtuais são citados como
 exemplos de tecnologias que promoveram benefícios para a humanidade e
-não se opõem, pelo contrário, se complementam ao ampliarem o acesso ao
+não se opõem; pelo contrário, complementam-se ao ampliarem o acesso ao
 conhecimento.
-
 \(C\) Correta. Os avanços tecnológicos são trabalhados no texto sob a
 ótica da oposição entre seus benefícios e seus prejuízos. A ampliação do
 acesso ao conhecimento é um benefício e a manipulação comportamental é
 um prejuízo, e estão em lados opostos.
-
 \(D\) Incorreta. A alternativa apresenta exemplos não opostos, pois
 ambos são prejuízos da tecnologia, segundo o texto.
 
