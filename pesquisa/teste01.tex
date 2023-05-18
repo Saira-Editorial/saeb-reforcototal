@@ -4,34 +4,45 @@
 \usepackage{pdfpages}
 \usepackage{lipsum}
 
-\newcommand{\watermark}{teste.pdf}
+
+
+% \newcommand{\watermark}{teste.pdf}
+\newcommand{\watermarkOdd}{teste.pdf} % Arquivo para páginas ímpares
+\newcommand{\watermarkEven}{teste2.pdf} % Arquivo para páginas pares
+\newcommand{\excludedpage}{1} % Número da página em que você não deseja que o watermark seja exibido
 
 \newcommand{\AddWatermark}{
-  \begin{tikzpicture}[remember picture,overlay]
-    \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermark}};
-  \end{tikzpicture}
+  \ifnum\value{page}=\excludedpage
+    % Não exibir watermark nesta página
+  \else
+    \begin{tikzpicture}[remember picture,overlay]
+      \ifodd\value{page}
+        \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkOdd}};
+      \else
+        \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkEven}};
+      \fi
+    \end{tikzpicture}
+  \fi
 }
 
 \backgroundsetup{
-  contents={\ifodd\value{page}\AddWatermark\fi},
+  contents={\AddWatermark},
   scale=1,
   angle=0,
   opacity=1,
-  position=current page.center
+  position=current page.center,
+  pages={odd}
 }
 
 \begin{document}
-\BgThispage % Aplica a marca d'água à página atual
+%\BgThispage % Aplica a marca d'água à página atual
 
-\lipsum[1-3]
+\lipsum[1-30]
 % Seu conteúdo do documento aqui
 
-\newpage\lipsum[1-3]
 
-\newpage\lipsum[1-3]
-\newpage\lipsum[1-3]
-\newpage\lipsum[1-3]
-\newpage\lipsum[1-3]
+
+
 
 
 \end{document}
