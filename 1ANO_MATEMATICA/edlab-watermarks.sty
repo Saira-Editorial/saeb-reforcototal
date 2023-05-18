@@ -1,0 +1,32 @@
+\RequirePackage{background}
+\RequirePackage{tikz}
+\RequirePackage{pdfpages}
+
+\newcommand{\AddWatermark}{
+  \ifnum\value{page}=\excludedpage
+    % Não exibir watermark nesta página
+  \else
+    \begin{tikzpicture}[remember picture,overlay]
+      \ifodd\value{page}
+        \node[anchor=south] at (4cm, -5mm) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkOdd}};
+      \else
+        \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkEven}};
+      \fi
+    \end{tikzpicture}
+  \fi
+}
+
+\newcommand{\AdhocWatermark}{
+  \begin{tikzpicture}[remember picture,overlay]
+    \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{\adhocWatermark}};
+  \end{tikzpicture}
+}
+
+\backgroundsetup{
+  contents={\AddWatermark},
+  scale=1,
+  angle=0,
+  opacity=1,
+  position=current page.center,
+  pages={odd}
+}
