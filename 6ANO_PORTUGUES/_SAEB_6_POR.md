@@ -2080,7 +2080,7 @@ d\) Incorreta. Essa relação não se estabelece no meme, nem pela imagem, nem p
 \num{3} Observe a campanha publicitária a seguir, composta pela imagem e pelo texto.
 
 https://www.freepik.com/free-photo/funny-man-wears-fairy-costume-invites-you-holiday-costume-party-indicates-right-blank-space-holds-magic-wand_13666469.htm#page=2&query=meme&position=24&from_view=search&track=sph
-Quando o assunto é delizadeza, não adianta colocar adereço por fora; é de dentro que ela vem. Seja educado. Ofereça lugar no transporte público para aqueles que realmente precisam.
+Quando o assunto é delicadeza, não adianta colocar adereço por fora; é de dentro que ela vem. Seja educado. Ofereça lugar no transporte público para aqueles que realmente precisam.
 %se for possível, aplicar a frase sobre a parte de fundo rosa da imagem.
 
 O que explica o efeito de humor da publicidade é
@@ -2118,7 +2118,7 @@ Habilidades da BNCC: EF06LP01, EF67LP03, EF67LP04.
 
 \conteudo{
 Uma notícia é um relato factual de um evento, acontecimento ou situação
-que é considerado de interesse público. A notícia é geralmente divulgada
+que se considera de interesse público. A notícia é geralmente divulgada
 pelos meios de comunicação, como jornais, revistas, *sites* de notícias,
 rádio e televisão, com o objetivo de informar o público sobre os
 acontecimentos relevantes que afetam a sociedade.
@@ -2147,9 +2147,7 @@ atenção do leitor ou ouvinte.
 **Conexão:** deve estabelecer uma conexão com o público,
 identificando-se com seus interesses e necessidades.
 
-**Existem diversos gêneros textuais jornalísticos que são utilizados na
-produção de notícias e reportagens. Abaixo estão alguns dos
-principais:**
+**Existem diversos gêneros textuais jornalísticos, além das notícias e reportagens. Abaixo estão alguns dos principais.**
 
 **Notícia:** é o gênero mais comum do jornalismo e se refere a um relato
 breve e objetivo sobre um fato atual, importante e de interesse público.
@@ -2186,7 +2184,7 @@ regularmente em uma determinada seção do veículo de comunicação.
 outros elementos visuais para apresentar informações de forma clara e
 concisa.
 
-A parcialidade e imparcialidade são duas abordagens diferentes que os
+A parcialidade e a imparcialidade são duas abordagens diferentes que os
 jornalistas podem adotar na produção de textos jornalísticos.
 
 A **imparcialidade** busca apresentar as informações de forma objetiva e
@@ -2225,7 +2223,7 @@ informada.
 Há vários fatores que podem ajudar a determinar a veracidade de um
 texto, como:
 
-\fonte{ uma fonte confiável é aquela que tem uma reputação
+Fonte: uma fonte confiável é aquela que tem uma reputação
 sólida por fornecer informações precisas e imparciais. Verifique se o
 autor do texto é uma fonte confiável ou se está baseando suas
 informações em fontes confiáveis.
@@ -2249,27 +2247,25 @@ enganar ou manipular o leitor. Por exemplo, se o autor é um político que
 está tentando obter votos, ele pode distorcer a verdade para atingir
 seus objetivos.}
 
-Leia os textos a seguir para responder às questões.
+Leia as três manchetes a seguir, inspiradas em outras encontradas na internet, para responder às questões que seguem.
 
-**Texto 1**
+**TEXTO I**
 
-![Tela de celular com texto preto sobre fundo branco Descrição gerada
-automaticamente com confiança
-média](./imgSAEB_6_POR/media/image20.png){width="4.21825678040245in"
-height="1.2440485564304462in"}
+>**Netflix quer acabar com farra de compartilhamento de senhas; será em 2023**
+*A Netflix lançou um ultimato para quem divide sua senha do serviço com amigos e parentes. A "farra" deve terminar no próximo ano.*
+19 out. de 2022
 
-**Texto 2**
+**TEXTO II**
 
-![Tela de celular com texto preto sobre fundo branco Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image21.png){width="4.412752624671916in"
-height="1.422619203849519in"}
+>**Plataforma Netflix anuncia regras atualizadas sobre o compartilhamento de senhas**
+*Compartilhamento é prática irregular, proibida nos contratos dos serviços de streaming. Em 2021, realizou-se um teste...*
+1 mês atrás
 
-**Texto 3**
+**TEXTO III**
 
-![Tela de celular com texto preto sobre fundo branco Descrição gerada
-automaticamente com confiança
-média](./imgSAEB_6_POR/media/image22.png){width="5.045626640419948in"
-height="1.4761898512685914in"}
+>**Sim, Netflix cobrará mais de quem divide senha; veja regras**
+*A Netflix lançou um ultimato para quem divide sua senha do serviço com amigos e parentes. A "farra" deve terminar em 2023.*
+19 DE OUT. 2022
 
 \num{1} Qual é a temática comum entre as manchetes?
 
@@ -2292,9 +2288,7 @@ recente? Justifique sua resposta.
 \coment{Não é possível saber, pois o Texto 2 apresenta a data de "um
 mês atrás", e não se sabe a qual mês ele se refere.}
 
-\num{4} O Texto 1 e o Texto 3 foram divulgados pelo mesmo veículo, mas
-apresentam algumas diferenças. Qual das duas manchetes fornece dados
-mais confiáveis ao leitor? Por quê?
+\num{4} O Texto 1 e o Texto 3, divulgados na mesma página, apresentam semelhanças e diferenças. Qual das duas manchetes fornece dados mais confiáveis ao leitor? Por quê?
 
 \linhas{5}
 
@@ -2323,8 +2317,7 @@ trecho é possível identificar essa informação?
 \coment{No texto 2. O subtítulo da manchete apresenta a informação de
 que a prática é irregular e vedada em contrato.}
 
-\num{7} No Texto 3, a manchete apresenta inicia-se com um aposto
-explicativo: "**Sim**, Netflix vai cobrar mais de quem divide senha em
+\num{7} No Texto 3, a manchete apresentada inicia-se com : "**Sim**, Netflix vai cobrar mais de quem divide senha em
 2023". Que efeito de sentido essa escolha lexical provoca no leitor?
 
 \linhas{5}
@@ -2363,7 +2356,7 @@ a fim de saber se as informações foram checadas antes de ser publicadas?
 
 \coment{A linguagem utilizada na notícia, sem viés de opinião; a data
 de publicação da notícia; se o veículo que a publicou é de
-credibilidade; e se o texto apresenta uma referência bibliográfica para
+credibilidade; se o texto apresenta uma referência bibliográfica para
 a fonte das informações.}
 
 
