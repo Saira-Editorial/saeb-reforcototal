@@ -2498,30 +2498,29 @@ fato.
 
 # Módulo 9 
 
- ** -- **Figuras de linguagem**
+ **Figuras de linguagem**
  
- \colorsec{Habilidade do SAEB}
- - Analisar o uso de figuras de linguagem como estratégia argumentativa.
+\colorsec{Habilidades do SAEB}
+- Analisar o uso de figuras de linguagem como estratégia argumentativa.
 - Avaliar a eficácia das estratégias argumentativas em textos de diferentes gêneros.
 
 \colorsec{Habilidades da BNCC}
 - EF69LP17, EF89LP06, EF89LP14, EF89LP37.
 
-As figuras de linguagem são recursos muito úteis aos textos
+As figuras de linguagem podem ser recursos muito úteis nos textos
 argumentativos. Elas se caracterizam por expressarem sempre um sentido
-figurado, mas não se restringem somente aos textos literários. Por darem
+figurado, mas não se restringem aos textos literários. Por darem
 dinâmica e maior força à construção de sentidos em um texto,
-consequentemente auxiliam o autor na tarefa de argumentar, persuadir,
+consequentemente podem auxiliar o autor na tarefa de argumentar, persuadir,
 convencer.
 
 Figuras de linguagem são recursos que permitem tornar o texto mais rico
 e interessante, pois provocam um deslocamento do sentido literal para o
 sentido figurado, isto é, trata-se de uma fuga da expressão comum para
-uma expressão inovadora, enriquecendo assim a linguagem e os sentidos
-que dela se constroem.
+uma expressão inovadora, o que enriquece a linguagem.
 
 São várias as figuras de linguagem, mas aqui vamos nos ater às mais
-importantes e cujo caráter argumentativo é mais perceptível e recorrente
+importantes, cujo caráter argumentativo é mais perceptível e recorrente
 em textos argumentativos.
 
 +----------------------+----------------------+----------------------+
@@ -2529,19 +2528,19 @@ em textos argumentativos.
 | linguagem**          |                      |                      |
 +======================+======================+======================+
 | Comparação           | É a relação de       | 1\) O teu olhar é    |
-|                      | semelhança entre     | fulminante como um   |
-|                      | coisas, pessoas      | raio.                |
-|                      | etc., por meio de um |                      |
-|                      | item linguístico que | 2\) Ele fala que nem |
+|                      | semelhança entre     | fulminante **como** um   |
+|                      | elementos,           | raio.                |
+|                      | por meio de um       |                      |
+|                      | item linguístico que | 2\) Ele fala **que nem** |
 |                      | promova uma          | papagaio.            |
 |                      | comparação           |                      |
 |                      | explícita.           |                      |
 +----------------------+----------------------+----------------------+
 | Metáfora             | É o desvio da        | Toda profissão tem   |
-|                      | significação própria | seus espinhos. (isto |
-|                      | de uma palavra por   | é, suas              |
-|                      | meio de uma          | dificuldades, seus   |
-|                      | comparação mental ou | percalços)           |
+|                      | significação própria | seus espinhos.       |
+|                      | de uma palavra por   |                      |
+|                      | meio de uma          |                      |
+|                      | comparação mental ou |                      |
 |                      | característica comum |                      |
 |                      | entre dois seres ou  |                      |
 |                      | fatos.               |                      |
@@ -2555,51 +2554,48 @@ em textos argumentativos.
 +----------------------+----------------------+----------------------+
 | Metonímia            | Consiste em usar uma | Ele não tinha teto   |
 |                      | palavra no lugar de  | onde se abrigasse.   |
-|                      | outra por causa da   | (isto é, não tinha   |
-|                      | afinidade de sentido | casa onde morar)     |
+|                      | outra por causa da   |                      |
+|                      | afinidade de sentido |                      |
 |                      | entre elas, o que    |                      |
 |                      | não significa que    |                      |
 |                      | sejam sinônimas.     |                      |
 +----------------------+----------------------+----------------------+
 | Eufemismo            | Consiste em suavizar | O político faltou    |
-|                      | a expressão de uma   | com a verdade. (isto |
-|                      | ideia triste ou      | é, mentiu)           |
+|                      | a expressão de uma   | com a verdade.       |
+|                      | ideia triste ou      |                      |
 |                      | desagradável,        |                      |
 |                      | substituindo por um  |                      |
 |                      | termo polido menos   |                      |
 |                      | impactante.          |                      |
 +----------------------+----------------------+----------------------+
-| Hipérbole            | Consiste no exagero  | "Eu nasci há 10 mil  |
-|                      | da expressão.        | anos atrás" (Raul    |
-|                      |                      | Seixas)              |
+| Hipérbole            | Consiste no exagero  | Já foi falado mais   |
+|                      | da expressão.        | de mil vezes.        |
+|                      |                      |                      |
 +----------------------+----------------------+----------------------+
-| Antítese             | Consiste na          | As melhores marcas   |
-|                      | colocação de duas    | com o menor preço!   |
-|                      | ideias opostas lado  |                      |
-|                      | a lado, na mesma     |                      |
-|                      | frase.               |                      |
+| Antítese             | Consiste na          | Não sei se gosto     |
+|                      | colocação de duas    | mais do dia, não sei |
+|                      | ideias opostas lado  | se gosto mais da     |
+|                      | a lado, no mesmo     | noite.               |
+|                      | enunciado.           |                      |
 +----------------------+----------------------+----------------------+
-| Gradação             | Consiste numa        | "Nem o sol, nem o    |
-|                      | sequência de ideias  | mar, nem o brilho    |
-|                      | colocadas em ordem   | das estrelas. Tudo   |
-|                      | crescente ou         | isso não tem valor   |
-|                      | decrescente de       | sem você." (Beto     |
-|                      | intensidade.         | Guedes)              |
+| Gradação             | Consiste numa        | Você tira o lixo de  |
+|                      | sequência de ideias  | casa, da rua, do     |
+|                      | colocadas em ordem   | bairro, da cidade    |
+|                      | crescente ou         | e até do país, mas   |
+|                      | decrescente de       | não tira do planeta. |
+|                      | intensidade.         |                      |
 +----------------------+----------------------+----------------------+
 | Prosopopeia          | Consiste na          | "E o canto daquela   |
 |                      | atribuição de        | guitarra estrangeira |
 |                      | características      | era um lamento       |
 |                      | humanas a seres      | choroso e dolorido." |
-|                      | inanimados,          | (Aluísio Azevedo)    |
-|                      | comumente o          |                      |
-|                      | pensamento ou a fala |                      |
-|                      | humanos.             |                      |
+|                      | inanimados.          | (Aluísio Azevedo)    |
 +----------------------+----------------------+----------------------+
 | Catacrese            | Consiste em dar um   | Ele colocou um dente |
 |                      | novo sentido a uma   | de alho no arroz.    |
-|                      | palavra já           | (dente de alho)      |
+|                      | palavra já           |                      |
 |                      | existente, fazendo   |                      |
-|                      | com que ale passe a  |                      |
+|                      | com que ela passe a  |                      |
 |                      | dar nome a outro     |                      |
 |                      | ser, como se fosse   |                      |
 |                      | um empréstimo        |                      |
@@ -2608,95 +2604,97 @@ em textos argumentativos.
 
 \colorsec{Atividades}
 
-Nomeie a figura de linguagem presente em cada texto e justifique a
-presença dela.
+Nas próximas atividades, omeie a figura de linguagem presente em cada texto e justifique a
+presença dela, mostrando como se dá o teor argumentativo em cada caso.
 
 \num{1} Parabéns à Argentina, que bateu o recorde com a maior inflação em
-31 anos. Convenhamos, 102% de inflação em 12 meses não é para qualquer
+31 anos. Convenhamos: 102% de inflação em 12 meses não é para qualquer
 um.
 
+\linhas{4}
+\coment{Ironia. A inflação, algo que é prejudicial à economia de um país, é
+tratada como se fosse algo bom, equiparado a um recorde, mas a intenção
+do autor é dizer justamente o contrário.}
+
 \num{2} O meio ambiente pede socorro!
+
+\linhas{4}
+\coment{Prosopopeia. O meio ambiente ganha expressão humana ao pedir
+socorro, como forma de reforçar o perigo que a natureza está correndo.}
 
 \num{3} Vida ou morte são situações corriqueiras na vida de médicos e
 veterinários.
 
-\num{4} Fui tão feliz naquela época, eu vivia no paraíso e não sabia!
+\linhas{4}
+\coment{Antítese. A figura de linguagem está representada na presença dos
+termos opostos "vida" e "morte", o que pretende, por exemplo, reforçar a importância e, ao mesmo tempo, a dificuldade das profissões mencionadas.}
 
-\num{5} "\[\...\] coube-me a boa fortuna de não comprar o pão com o suor
+\num{4} Fui tão feliz naquela época. Eu vivia no paraíso e não sabia!
+
+\linhas{4}
+\coment{Metáfora. O momento feliz é comparado a uma vida no paraíso, símbolo
+de uma vida livre de problemas e cheia de felicidade, e isso dá muita expressividade ao momento de felicidade.}
+
+\num{5} "coube-me a boa fortuna de não comprar o pão com o suor
 do meu rosto." (Machado de Assis)
+
+\linhas{4}
+\coment{Metonímia. O pão representa o alimento do dia a dia e o suor
+representa o trabalho. Com esses usos, o texto ganha força argumentativa ao mostrar que os dois elementos se opõem.}
 
 \num{6} Eu já te falei um milhão de vezes que eu não gosto disso!
 
-\num{7} Ela berrou, gritou, falou, sussurrou, murmurou... já não havia
-mais nada que pudesse fazer.
+\linhas{4}
+\coment{Hipérbole. O exagero ocorre ao quantificar um número de vezes
+impossível de alguém dizer algo. Nesse caso, o exagero gera uma argumentação mais forte.}
+
+\num{7} Ela murmurou, sussurrou, falou, gritou, berrou... já não havia mais nada que pudesse fazer.
+
+\linhas{4}
+\coment{Gradação. Os termos "gritar", "falar" e "murmurar" são variações de
+uma mesma forma de expressão oral, significando que a personagem tentou
+todas as possibilidades frente a alguma situação não citada na frase. A gradação é responsável por mostrar que as possibilidades de ação se esgotaram.}
 
 \num{8} Os pais normalmente odeiam que as crianças se sentem no braço do
 sofá.
 
-\num{9} Aquela casa parece um hospício!
+\linhas{4}
+\coment{Catacrese. A parte do sofá chamada "braço" exemplifica o emprego
+dessa palavra fora de seu uso original.}
 
-\num{0} O réu faltou com a verdade no julgamento.
+\num{9} Aquela casa parece um campo de batalha!
 
-(3 linhas para cada item)
+\linhas{4}
+\coment{Comparação. A comparação entre a casa e o hospício significa que as
+pessoas que ali moram se comportam de modo hostil. A construção da imagem reforça a ideia.}
 
-\num{1} Ironia. A inflação, algo que é prejudicial à economia de um país, é
-tratado como se fosse algum bom, equiparado a um recorde, mas a intenção
-do autor é dizer justamente o contrário.
+\num{10} O réu faltou com a verdade no julgamento.
 
-\num{2} Prosopopeia. O meio ambiente ganha expressão humana ao pedir
-socorro, como forma de reforçar o perigo que a natureza está correndo.
-
-\num{3} Antítese. A figura de linguagem está representada na presença dos
-termos opostos "vida" e "morte".
-
-\num{4} Metáfora. O momento feliz é comparado a uma vida no paraíso, símbolo
-de uma vida livre de problemas e cheia de felicidade.
-
-\num{5} Metonímia. O pão representa o alimento do dia a dia e o suor
-representa o trabalho.
-
-\num{6} Hipérbole. O exagero ocorre ao quantificar um número de vezes
-impossível de alguém dizer algo.
-
-\num{7} Gradação. Os termos "gritar", "falar" e "murmurar" são variações de
-uma mesma forma de expressão oral, significando que a personagem tentou
-todas as possibilidades frente a alguma situação não citada na frase.
-
-\num{8} Catacrese. A parte do sofá chamada "braço" exemplifica o emprego
-dessa palavra fora de seu uso original.
-
-\num{9} Comparação. A comparação entre a casa e o hospício significa que as
-pessoas que ali moram se comportam de modo fora do comum.
-
-\num{10} Eufemismo. O eufemismo "faltar com a verdade" é uma forma de evitar
-usar uma expressão mais pesada como "mentir".
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{4}
+\coment{Eufemismo. O eufemismo "faltar com a verdade" é uma forma de evitar
+usar uma expressão mais pesada, como "mentir".}
 
 \colorsec{Treino}
 
-\num{1}
+\num{1} Leia o texto.
 
-Enquanto minha mãe era velada na sala de casa, tia Leonor me trocou a
+>**O exercício da incerteza**
+
+>Enquanto minha mãe era velada na sala de casa, tia Leonor me trocou a
 roupa e disse: "A mamãe descansou". Fiquei sem saber o que pensar; tinha
 apenas quatro anos, mas imaginei que descansar devia ser uma coisa ruim,
 porque todos choravam.
 
-Passadas algumas semanas, senti uma tristeza doída no café da manhã
+>Passadas algumas semanas, senti uma tristeza doída no café da manhã
 enquanto vó Aurélia fervia o leite, de costas para mim. "Vó, nunca mais
 vou ver a minha mãe?"
 
-Ela ouviu em silêncio, sem se virar para mim. Tinha lágrimas nos olhos
+>Ela ouviu em silêncio, sem se virar para mim. Tinha lágrimas nos olhos
 quando consegui ver seu rosto.
 
-Nesse dia entendi que morte era a ausência definitiva.
+\fonte{Drauzio Varella. *O exercício da incerteza:* Memórias. São Paulo: Companhia das Letras, 2022.}
 
-VARELLA, Drauzio. *O exercício da incerteza*: Memórias. 1.ed.
-
-São Paulo: Companhia das Letras, 2022 (fragmento).
-
-No contexto apresentado, o uso da expressão "A mamãe descansou" teve
-objetivo de
+No contexto apresentado, o uso da expressão "A mamãe descansou" teve o objetivo de
 
 a\) esconder do menino a notícia da morte da mãe.
 
@@ -2706,56 +2704,51 @@ d\) provocar no menino o sentimento de perda da mãe.
 
 c\) explicar ao menino o sentido real do descanso da mãe.
 
-Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
+SAEB: Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
-
-BNCC: EF67LP38
+BNCC: EF67LP38 -- Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.
 
 \(A\) Incorreta. O menino acompanhou o velório da mãe, que foi realizado
-na casa da família, portanto ele sabia da morte dela.
-
-\(B\) Correta. A expressão se caracteriza como eufemismo, uma figura de
-linguagem, e buscou amenizar a dor do menino, embora ele não tivesse a
-real dimensão do fato. Sendo ele uma criança, a tia preocupou-se em
-confortá-lo pela perda da mãe.
-
+na casa da família; portanto ele sabia da morte dela.
+\(B\) Correta. A expressão se caracteriza como eufemismo, o que busca amenizar a dor do menino, embora ele não tivesse a real dimensão do fato. Sendo ele uma criança, a tia preocupou-se em confortá-lo pela perda da mãe.
 \(C\) Incorreta. Por se tratar de uma criança, de modo algum a tia, que
 lhe tinha afeto, teria a intenção de aumentar no menino a dor da perda
 da mãe.
+\(D\) Incorreta. A expressão não explica o sentido real, mas dá ao menino uma percepção que ele conseguiria apreender.
 
-\(D\) Incorreta. Somente no fim do texto o menino compreende o sentido
-real da expressão usada pela tia. Esse entendimento foi provocado em
-outra situação posterior, vivida com a avó.
+\num{2} Leia o poema.
 
-\num{2}
-
+>**XXI**
+>
 Se eu pudesse trincar a terra toda
-
+>
 E sentir-lhe um paladar,
-
+>
 Seria mais feliz um momento\...
-
+>
 Mas eu nem sempre quero ser feliz.
-
+>
 É preciso ser de vez em quando infeliz
-
+>
 Para se poder ser natural\...
 
+>
 Nem tudo é dias de sol,
-
+>
 E a chuva, quando falta muito, pede-se.
-
+>
 Por isso tomo a infelicidade com a felicidade
-
+>
 Naturalmente, como quem não estranha
-
+>
 Que haja montanhas e planícies
-
+>
 E que haja rochedos e erva\...
 
-PESSOA, Fernando. Disponível em: http://arquivopessoa.net/textos/613.
 
-Acesso em: 19 mar. 2023 (fragmento).
+>\[...]
+
+\fonte{Fernando Pessoa. O guardador de rebanhos. In: *Poemas de Alberto Caeiro*. Disponível em: http://arquivopessoa.net/textos/613. Acesso em: 19 mar. 2023.}
 
 A visão de mundo expressa no poema é construída linguisticamente a
 partir de uma figura de linguagem caracterizada por
@@ -2768,45 +2761,38 @@ c\) exagerar o sentido das expressões.
 
 d\) inverter o sentido das expressões.
 
-Saeb: Analisar o uso de figuras de linguagem como estratégia
-argumentativa.
-
-BNCC: EF89LP37
+SAEB: Analisar o uso de figuras de linguagem como estratégia argumentativa.
+BNCC: EF89LP37 -- Analisar os efeitos de sentido do uso de figuras de linguagem como ironia, eufemismo, antítese, aliteração, assonância, dentre outras.
 
 \(A\) Correta. O emparelhamento de ideias opostas é feito pela figura de
-linguagem chamada antítese, que no texto se identifica pelos versos com
+linguagem chamada antítese, que no texto se identifica pelos versos em
 que se acham as seguintes ideias: feliz/infeliz, sol/chuva,
 felicidade/infelicidade, montanhas/planícies, rochedos/erva.
-
 \(B\) Incorreta. A alternativa se refere ao eufemismo, que não é a
 principal figura de linguagem no poema, pois não há recorrência dela.
-
 \(C\) Incorreta. O exagero é obtido por meio da hipérbole, que não se
 faz presente no poema.
-
 \(D\) Incorreta. Trata-se da ironia, figura de linguagem que significa o
 contrário do que se diz, característica que não se encontra no poema.
 
-\num{3}
+\num{3} Leia o texto.
 
-**Obesidade infantil é tema do programa Salto para o Futuro**
-
+>**Obesidade infantil é tema do programa Salto para o Futuro**
+>
 Um dos problemas de saúde pública mais preocupantes atualmente, a
 obesidade infantil, será o tema da próxima edição do programa *Salto
 para o Futuro*, nesta quarta-feira, 18, às 20h, na TV Escola. A escolha
 da matéria não acontece por acaso, uma vez que a Organização Mundial de
-Saúde (OMS), em seu estudo mais recente de outubro de 2017, apontou um
+Saúde (OMS), em seu estudo mais recente, de outubro de 2017, apontou um
 total de 124 milhões de crianças e adolescentes obesos em todo o mundo.
-
+>
 \[\...\]
-
+>
 As causas da doença e as medidas para evitar que crianças, adolescentes
 e jovens se tornem obesos são o foco desta edição do programa da TV
 Escola.
 
-Disponível em:
-http://portal.mec.gov.br/ultimas-noticias/33491-tv-escola/63021-obesidade-infantil-e-tema-do-programa-salto-para-o-futuro.
-Acesso em: 08 mar. 2023 (fragmento adaptado).
+\fonte{Ministério da Educação. Obesidade infantil é tema do programa Salto para o Futuro. Disponível em: _http://portal.mec.gov.br/ultimas-noticias/33491-tv-escola/63021-obesidade-infantil-e-tema-do-programa-salto-para-o-futuro_. Acesso em: 08 mar. 2023. (Adaptado.)}
 
 Ao divulgar um programa de televisão, o texto menciona a Organização
 Mundial de Saúde para
@@ -2817,24 +2803,21 @@ b\) ressaltar a necessidade do combate à obesidade infantil.
 
 c\) influenciar a opinião do leitor sobre a obesidade infantil.
 
-d\) comprovar a pertinência e importância do tema escolhido.
+d\) comprovar a pertinência e a importância do tema escolhido.
 
-Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
+SAEB: Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
 
-BNCC: EF89LP14
+BNCC: EF89LP14 -- Analisar, em textos argumentativos e propositivos, os movimentos argumentativos de sustentação, refutação e negociação e os tipos de argumentos, avaliando a força/tipo dos argumentos utilizados.
 
 \(A\) Incorreta. O texto não menciona a participação de representante da
 OMS no programa.
-
 \(B\) Incorreta. O argumento de autoridade empregado ao citar a OMS pode
 relacionar-se com a necessidade do combate à obesidade infantil, mas seu
 objetivo no texto é justificar a escolha do tema.
-
 \(C\) Incorreta. O texto não visa influenciar a opinião ou formar a
-opinião do leitor, apenas influenciar sua decisão de acompanhar o
+opinião do leitor, mas influenciar sua decisão de acompanhar o
 programa divulgado.
-
 \(D\) Correta. A menção à OMS, tendo em vista o objetivo do texto de
 convidar o espectador para acompanhar o programa, visa convencer o
 público de que o tema é relevante. O texto chega a dizer que a escolha
