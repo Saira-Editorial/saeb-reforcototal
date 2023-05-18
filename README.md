@@ -1,6 +1,56 @@
 	Notas (README.md)
 	=====
 
+>18mai
+
+* Avaliação: este processo é nosso **batismo de fogo**
+ 
+* Leitura da pauta de ontem
+
+* Debate: versões com paginação estourada. 
+	- Fechamento dos cadernos estourados para entrega no pregão e ajustar depois
+
+* Jorge pergunta: o que as diagramadoras estão fazendo?
+	- Elas estão trabalhando no SME, enquanto não chegam os PDFs
+
+* Checagem das entregas do Paulo no GANT
+ 	- Combinado entre Jorge e Paulo: dar um jeito de rodar o material em 4 máquinas
+ 	- Lição para futuro (I): qual o conflito da versão do LaTeX?
+ 	- Lição para futuro (II): trazer os autores para dentro do processo (Github + LaTeX)
+
+* Rogério: conclusão de MAT9 hoje + PORT7 amanhã
+
+* Passagem de arquivos para as diagramadoras
+ 	- Pedir a elas que trabalhem as imagens 
+
+* Análise de PDFs (PORT01) 
+	- "Desprometemos" o número de atividades na Introdução 
+	- Troca de sumário (diagramadoras)
+	- Grafismos ficam para o último momento (Jorge sugere: colocar grafismos no estilo)
+	- Paulo aponta: necessidade de revisão em imagens (por exemplo: cruzadinha)
+	- Questões de paginação: permanece a fonte do gabarito, somar-se-ão páginas de anotação se for necessário 
+ 
+* Análise de PDFs (MAT01)
+ 	- Os brancos as diagramadoras resolverão
+ 	- Jorge pretende trabalhar perto do Paulo 
+
+* Ritual de passagem
+ 	- Paulo joga na pasta para as diagramadoras trabalharem
+ 	- Se não houver PDF para diagramadoras trabalharem, Jorge sugere duplicar a pasta "Midia" para "Midia 2", 
+ 	de modo que a pasta Midia original esteja disponível para uso, caso seja necessário 
+ 	
+* Vídeos
+ 	- Felipe Augusto tem um comentário fundamental: evitar o branco e preto
+ 	- Avaliação geral: positiva
+ 	- Melhorar o som
+
+* Jogos
+ 	- João quer contrato 
+ 	- Felipe Augusto pontua que é preciso começar agora
+ 	- R$ 1.500,00 pelos 9 jogos (1 por ano)
+ 	- Dar acesso ao Github para João 
+
+
 >17mai
 * Jorge: Perdemos o controle do Gantt. Há muitas tarefas em Armário
 * Fabia: A questão do formato
