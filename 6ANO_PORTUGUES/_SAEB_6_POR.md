@@ -1318,29 +1318,15 @@ Utilize o texto a seguir para responder às questões 1 a 7.
 
 **Como os gatos veem o mundo**
 
-Diante de tanto investimento financeiro e emocional, muitos veem em seus
-bichanos características humanas. Pois se enganam. Diferente dos
-cachorros, que querem ser gente, os gatos não querem ser outra coisa. E
-acham que a gente é que é gato: aos olhos felinos, seus donos são
-gigantes amáveis da mesma espécie, responsáveis por sustentá-los e
-protegê-los.
+Frente a investimentos financeiros e emocionais significativos, muitas pessoas atribuem características humanas aos seus gatos. No entanto, estão equivocadas. Ao contrário dos cães, que desejam ser como os humanos, os gatos não aspiram a ser outra coisa senão gatos. Na perspectiva felina, somos nós, seus donos, os gigantes amigáveis da mesma espécie, encarregados de sustentá-los e protegê-los.
 
-Protegê-los do quê? Para o gato, cada sala é uma selva -- que ele só é
-capaz de enxergar em dois tons: amarelo e azul. Por trás de cada cortina
-e por baixo de cada almofada pode haver uma ameaça. Nascem, morrem e
-geram predadores. "Ele descende de um felino territorial e solitário que
-aceitou a coexistência com outros gatos e ainda está se adaptando à vida
-de animal de estimação", diz John Bradshaw, autor de *Catsense -- The
-Feline Enigma Revealed* ("*Sentido de gato, o enigma felino revelado*"),
-*best-seller* de 2013 sem edição brasileira.
+Protegê-los de quê? Para o gato, cada cômodo é uma selva, que ele percebe apenas em tons de amarelo e azul. Há uma ameaça escondida atrás de cada cortina e sob cada almofada. Eles nascem, morrem e dão origem a predadores. Segundo John Bradshaw, autor do livro "Sentido de gato, o enigma felino revelado" (best-seller de 2013 sem edição brasileira), "eles descendem de felinos territoriais e solitários que aceitaram a coexistência com outros gatos e ainda estão se adaptando à vida como animais de estimação".
 
-Ou seja, o que ratos sabiam e pufes suspeitavam, a ciência agora
-confirma: o gato doméstico ainda é selvagem.
+Em outras palavras, aquilo que os ratos sabiam e os pufes suspeitavam, a ciência agora confirma: o gato doméstico ainda preserva sua natureza selvagem.
 
-(RODRIGUES, Alexandre. Como os gatos veem o mundo. Superinteressante,
-publicado em 23 nov. 2014 e atualizado em 19 jul. 2019. Disponível em:
+(Fonte de pesquisa: Alexandre Rodrigues. Superinteressante. Como os gatos veem o mundo. Disponível em:
 \<<https://super.abril.com.br/ciencia/como-os-gatos-veem-o-mundo/>\>.
-Acesso em 9 mar. 2023. Adaptado.)
+Acesso em 9 mar. 2023.)
 
 \num{1} O título de tem a função de apresentar ao leitor o tema que será
 trabalhado no texto. No caso desse artigo, se considerarmos que o verbo
@@ -1368,19 +1354,15 @@ essa informação.
 \linhas{6}
 
 \coment{A tese é de que os gatos domésticos ainda são animais
-selvagens. O trecho que confirma essa informação é o último parágrafo:
-"Ou seja, o que ratos sabiam e pufes suspeitavam, a ciência agora
-confirma: o gato doméstico ainda é selvagem."}
+selvagens. O trecho que confirma essa informação é:
+"Ao contrário dos cães, que desejam ser como os humanos, os gatos não aspiram a ser outra coisa senão gatos."}
 
 
 \num{4} Que tipos de argumentos o autor utiliza para defender essa tese?
 
 \linhas{6}
 
-\coment{O autor utiliza comparações, como em "diferente dos cachorros,
-que querem ser gente, os gatos não querem ser outra coisa." e "para o
-gato, cada sala é uma selva", e o trecho que apresenta a citação de um
-autor especialista, John Bradshaw.}
+\coment{O autor utiliza comparações e referências da convivência cotidiana com os gatos, como em "Há uma ameaça escondida atrás de cada cortina e sob cada almofada.", além do trecho que apresenta a citação de um autor especialista, John Bradshaw.}
 
 
 \num{5} Por que o autor do artigo reproduz a fala de um especialista no
@@ -1391,9 +1373,7 @@ desenvolvimento do texto?
 \coment{Porque a fala do especialista dá credibilidade ao texto.}
 
 
-\num{6} As aspas utilizadas em "Ele descende de um felino territorial e
-solitário que aceitou a coexistência com outros gatos e ainda está se
-adaptando à vida de animal de estimação"
+\num{6} As aspas utilizadas em "eles descendem de felinos territoriais e solitários que aceitaram a coexistência com outros gatos e ainda estão se adaptando à vida como animais de estimação"
 
 a\) reproduzem a fala do especialista na forma de discurso indireto.
 
@@ -1418,20 +1398,15 @@ reconheça a frase do especialista como uma citação?
 
 \linhas{3}
 
-\coment{O verbo dizer, após o trecho entre aspas: "diz John Bradshaw,
-autor de *Catsense\...".*}
+\coment{O conector *segundo*, que precede trecho entre aspas.}
 
 Leia o texto a seguir para responder às questões 8 a 10.
 
-**"**Todo mundo conhece a música Ciranda-Cirandinha. A Adriana, uma
+>[...] Todo mundo conhece a música Ciranda-Cirandinha. A Adriana, uma
 amiga, me confessou que durante anos e anos, entendia um verso
 completamente diferente. Quando a letra fala o amor que tu me tinhas era
 pouco e se acabou, ela achava que era o amor de Tumitinha era pouco e se
-acabou. Tumitinha era um menino, coitado. Ficava com dó do Tumitinha
-toda vez que cantava a música, porque o amor dele tinha se acabado. E
-mais, achava que o Tumitinha era um japonesinho. Devia se chamar, na
-verdade, Tumita. Quando ela descobriu que o Tumitinha não existia,
-sofreu muito. Faz análise até hoje."
+acabou. Tumitinha era um menino, coitado. [...]
 
 (PRATA, Mário. O amor de Tumitinha. Disponível em: \<
 <https://marioprata.net/cronicas/o-amor-de-tumitinha/>\>. Acesso em: 3
@@ -1442,7 +1417,7 @@ compreendido?
 
 \linhas{3}
 
-\coment{A sonoridade parecida entre as palavras "tu me tinhas" e
+\coment{A sonoridade parecida entre as palavras "tu me tinhas" e o nome imaginado por ela
 "Tumitinha".}
 
 
@@ -1451,7 +1426,7 @@ a história que ele reconta é, na verdade, inventada pela sua amiga?
 
 \linhas{3}
 
-\coment{O autor menciona, no começo do texto que sua amiga Adriana
+\coment{O autor menciona, no começo do texto, que sua amiga Adriana
 confessou que entendia a letra de Ciranda-cirandinha de outro jeito.}
 
 
@@ -1467,28 +1442,33 @@ falar. Por isso ele informa que ela "confessou" que cantava errado.}
 
 \colorsec{Treino}
 
-\num{1} Observe o infográfico a seguir.
+\num{1} Observe a imagem e leia o texto que, juntos, compõem um informe visual.
 
-![Gráfico, Diagrama, Gráfico de bolhas Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image15.jpeg){width="3.433333333333333in"
-height="3.3768110236220474in"}
+https://www.freepik.com/free-vector/human-brain-two-different-colored-symbolic-left-right-cerebral-hemispheres-model-image-icon-abst_4188723.htm#page=2&query=brain%20vector&position=40&from_view=search&track=ais
+%colocar a imagem de "cabeça para baixo", de forma que o cérebro pareça um coração.
+Para manter sua saúde mental em dia, você precisa:
+1) Praticar exercícios;
+2) Manter uma alimentação saudável;
+3) Aproveitar passeios e caminhadas ao ar livre;
+4) Dormir 8 horas por dia;
+5) Conversar sobre o que sente com pessoas de confiança;
+6) Procurar ajuda profissional se for preciso;
+7) Manter uma alimentação saudável e diversificada.
 
-\fonte{
-<https://aetrancoso.pt/2019/10/10/10-de-outubro-de-2019-dia-mundial-da-saude-mental/>
 
-Qual é a tese apresentada no infográfico?
+Qual é a tese apresentada no informe?
 
 a\) Saúde mental e saúde física caminham juntas.
 
-b\) Para ter saúde mental basta seguir as dicas.
+b\) Para ter saúde mental, basta seguir as dicas relacionadas à atividade física.
 
-c\) Não é possível ter saúde mental se as dicas não forem seguidas.
+c\) Não é possível ter saúde mental se todas as dicas não forem seguidas.
 
 d\) A saúde mental só depende da pessoa.
 
-BNCC: EF69LP43.
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras vozes no texto – citação literal e sua formatação e paráfrase –, as pistas linguísticas responsáveis por introduzir no texto a posição do autor e dos outros autores citados (“Segundo X; De acordo com Y; De minha/nossa parte, penso/amos que”...) e os elementos de normatização (tais como as regras de inclusão e formatação de citações e paráfrases, de organização de referências bibliográficas) em textos científicos, desenvolvendo reflexão sobre o modo como a intertextualidade e a retextualização ocorrem nesses textos.
 
-a\) Correta. O infográfico apresenta dicas de saúde mental que englobam
+a\) Correta. O informe apresenta dicas de saúde mental que englobam
 comportamentos que auxiliam na manutenção do físico e do psicológico.
 
 b\) Incorreta. As informações do infográfico são dicas, sugestões, e não
@@ -1505,23 +1485,13 @@ infográfico apresenta apenas algumas dicas.
 
 **Como cuidar da saúde mental das crianças?**
 
-Os primeiros anos de vida funcionam como base para as aquisições que o
-cérebro fará nos anos seguintes. Dessa forma, promover a saúde mental
-infantil é uma forma de cuidar de nossos futuros jovens, adultos e
-idosos. E, assim, é uma maneira de zelar também pelas nossas
-comunidades.
+Os primeiros anos de vida desempenham um papel fundamental na formação das habilidades cognitivas que o cérebro desenvolverá ao longo dos anos subsequentes. Portanto, investir na promoção da saúde mental infantil é uma maneira de cuidar do bem-estar das futuras gerações, abrangendo desde jovens até idosos, e também de preservar o bem-estar de nossas comunidades.
 
-Ainda, é durante a infância que costumam surgir os primeiros sintomas de
-transtornos mentais, que podem se agravar de forma considerável na vida
-adulta. De acordo com a Organização Mundial da Saúde (OMS), metade das
-doenças mentais começam aos 14 anos. Nesse sentido, discutir o tema e
-estar bem-informado sobre os sintomas contribui para o reconhecimento
-precoce dos problemas de saúde mental.
+Além disso, é durante a infância que os primeiros sinais de transtornos mentais costumam se manifestar, podendo agravar-se significativamente na vida adulta. De acordo com a Organização Mundial da Saúde (OMS), metade dos distúrbios mentais têm início por volta dos 14 anos de idade. Portanto, discutir o assunto e estar bem informado sobre os sintomas contribui para a detecção precoce dos problemas de saúde mental.
 
-(MONTANARI, Elen. **Como cuidar da saúde mental das crianças?**
-Disponível em: \<
+(Fonte de pesquisa: Elen Montanari. Blog Leiturinha. Como cuidar da saúde mental das crianças? Disponível em: \<
 <https://leiturinha.com.br/blog/como-cuidar-da-saude-mental-das-criancas/>\>.
-Acesso em: mar. 2023. Adaptado.)
+Acesso em: 14 mar. 2023.)
 
 O recurso argumentativo utilizado que apoia a tese apresentada no texto
 é
@@ -1534,7 +1504,7 @@ b\) uma citação indireta.
 
 d\) uma citação de citação.
 
-BNCC: EF69LP43.
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras vozes no texto – citação literal e sua formatação e paráfrase –, as pistas linguísticas responsáveis por introduzir no texto a posição do autor e dos outros autores citados (“Segundo X; De acordo com Y; De minha/nossa parte, penso/amos que”...) e os elementos de normatização (tais como as regras de inclusão e formatação de citações e paráfrases, de organização de referências bibliográficas) em textos científicos, desenvolvendo reflexão sobre o modo como a intertextualidade e a retextualização ocorrem nesses textos.
 
 a\) Incorreta. A citação usada como argumento é indireta.
 
@@ -1589,7 +1559,7 @@ público leitor.
 d\) Na entrevista, a escritora diz que é preciso conversar com as
 crianças pois elas entendem mais do que se imagina.
 
-BNCC: EF69LP43
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras vozes no texto – citação literal e sua formatação e paráfrase –, as pistas linguísticas responsáveis por introduzir no texto a posição do autor e dos outros autores citados (“Segundo X; De acordo com Y; De minha/nossa parte, penso/amos que”...) e os elementos de normatização (tais como as regras de inclusão e formatação de citações e paráfrases, de organização de referências bibliográficas) em textos científicos, desenvolvendo reflexão sobre o modo como a intertextualidade e a retextualização ocorrem nesses textos.
 
 a\) Incorreta. O primeiro parágrafo é apenas uma introdução da matéria.
 
@@ -1612,7 +1582,7 @@ entrevistada; neste caso, o verbo "dizer" faz essa função.
 
 Habilidade da BNCC: EF67LP04.
 
-\coment{}
+\coment{
 Opinião é uma avaliação subjetiva ou julgamento que uma pessoa faz sobre
 algo, com base em sua experiência, conhecimento, crenças, valores e
 emoções. É uma expressão pessoal e subjetiva de um ponto de vista, que
