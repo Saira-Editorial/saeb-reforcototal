@@ -1,5 +1,8 @@
-	Notas (README.md)
-	=====
+Notas (README.md)
+=====
+
+>AdHoc
+>Paulo: Termina 01-04, 05 já está pronto, 06,08 Jorge faz, 07 aguardando Rogério, em seguida Paulo pega 09
 
 >18mai
 
