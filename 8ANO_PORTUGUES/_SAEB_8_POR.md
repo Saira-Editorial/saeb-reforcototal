@@ -3546,23 +3546,23 @@ letra.
 
 #Simulado 1
 
-\num{1}
+\num{1} Leia o texto.
 
-**Direito de ter direitos**
+>**Direito de ter direitos**
 
-Cidadania -- uma palavra usada com frequência, mas que poucos entendem o
-que significa -- quer dizer, em essência, a garantia por lei de viver
+>Cidadania --- uma palavra usada com frequência, mas que poucos entendem o
+que significa --- quer dizer, em essência, a garantia por lei de viver
 dignamente. É o direito de expressar as próprias ideias; de votar em
 quem quiser sem nenhum tipo de constrangimento; de processar um médico
 ou hospital por negligência ou imperícia; de devolver um produto
 estragado e receber o dinheiro de volta; \[\...\]
 
-O direito de ter direitos foi uma conquista árdua da humanidade. No
+>O direito de ter direitos foi uma conquista árdua da humanidade. No
 Brasil, por exemplo, demorou muito tempo para que as pessoas tivessem o
 direito de votar e escolher seus governantes. \[\...\]
 
-DIMENSTEIN, Gilberto. *O cidadão de papel*: a infância, a adolescência e
-os Direitos Humanos no Brasil. 24.ed. São Paulo: Ática, 2012.
+\fonte{Gilberto Dimenstein. *O cidadão de papel:* a infância, a adolescência e
+os Direitos Humanos no Brasil. São Paulo: Ática, 2012.}
 
 No texto, o trecho isolado por travessões pode ser interpretado como
 
@@ -3574,33 +3574,24 @@ d\) uma dedução.
 
 c\) uma suposição.
 
-Saeb: Distinguir fatos de opiniões em textos.
+SAEB: Distinguir fatos de opiniões em textos.
 
-BNCC: sem correspondência
-
-\(A\) Correta. O critica as pessoas que usam com frequência a palavra
+\(A\) Correta. Com o trecho, criticam-se as pessoas que usam com frequência a palavra
 "cidadania" sem realmente saber seu significado.
-
-\(B\) Incorreta. Não há marcas linguísticas de conselho no trecho.
-
+\(B\) Incorreta. Não há marcas de conselho no trecho.
 \(C\) Incorreta. O que a autor faz no trecho não é deduzir, pois isso
 envolve chegar a uma conclusão com base em dados ou fatos. Ele pode até
 ter se baseado em uma vivência pessoal, mas o texto não traz esse
 conteúdo como condição para se compreender o trecho.
-
-\(D\) Incorreta. O autor não supõe (sugere) e sim afirma (assevera) que
-o uso da palavra "cidadania" é frequente, mas seu significado é pouco
+\(D\) Incorreta. O autor não supõe (sugere), e sim afirma (assevera) que
+o uso da palavra "cidadania" é frequente, apesar de seu significado ser pouco
 conhecido.
 
-\num{2}
+\num{2} Analise este anúncio.
 
 ![Uma imagem contendo Código QR Descrição gerada
 automaticamente](./imgSAEB_8_POR/media/image28.png){width="4.03125in"
 height="2.852308617672791in"}
-
-Disponível em:
-https://lucasdorioverde.mt.gov.br/site/noticias/campanha-de-vacinacao-antirrabica-sera-realizada-neste-sabado-07-5018\#gallery.
-Acesso em: 10 fev. 2023.
 
 A relação entre a imagem e a linguagem verbal é evidenciada, no texto da
 campanha, pela presença de
@@ -3613,105 +3604,88 @@ c\) nomes de animais.
 
 d\) gírias de interação.
 
-Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
+SAEB: Identificar o uso de recursos persuasivos em textos verbais e não
 verbais.
 
-BNCC: sem correspondência.
-
-\(A\) Incorreta. O texto não verbal, isto é, as imagens de cachorros e
-demais imagens não têm relação com a extensão das frases no cartaz. A
-presença de frases curtas obedece a outros critérios, como espaço
-disponível.
-
-\(B\) Incorreta. O texto não verbal, isto é, as imagens de cachorros e
-demais imagens não têm relação com a estrutura sintática das frases no
-cartaz. A frase nominal é aquela que não tem verbo em sua estrutura
+\(A\) Incorreta. O texto não verbal não tem relação com a extensão das frases no cartaz. A
+presença de frases curtas obedece a outros critérios, como espaço disponível.
+\(B\) Incorreta. O texto não verbal não tem relação com a estrutura sintática das frases no cartaz. A frase nominal é aquela que não tem verbo em sua estrutura
 sintática. A presença desse tipo de frase obedece a outros critérios,
 como estilo do autor.
-
-\(C\) Incorreta. O texto não verbal. tem uma relação meramente
+\(C\) Incorreta. O texto não verbal tem uma relação meramente
 ilustrativa com os nomes de animais (gato e cachorro) que aparecem no
 cartaz.
-
 \(D\) Correta. O texto não verbal mostra cachorros e gatos vestidos com
 determinado tipo de traje e adornos típicos de um grupo social que usa
 as gírias de interação "bicho" e "se liga", presentes no texto verbal.
 
-\num{3}
+\num{3} Leia o texto.
 
+>**Causos de Minas**
+>
 Pescadores e caçadores são sempre os heróis de suas histórias \[\...\].
 Quem quiser acreditar neste causo, aqui relatado, que acredite! Não sou
 pescador, não sou caçador, sou apenas ouvinte. Ao ouvir este causo,
 achei-o interessante e o escrevi, conforme segue nas linhas abaixo\...
-
+>
 O causo se deu no Norte de Minas Gerais, numa cidadezinha rancheira,
 onde o povo completava a sua alimentação com a pesca e com a caça.
-
+>
 Dizem que nessa cidadezinha existia um grande caçador, qual habilidade
 queria passar ao filho primogênito de 15 anos. Ele procurava um modo de
 parafrasear a famosa premissa popular: "filho de peixe, peixinho é",
 tomando-a para ele como "filho de caçador, caçadorzinho é". \[\...\]
 
-RODRIGUES JÚNIOR, Francisco. *Causos de Minas* -- Literatura: memória,
-identidade e cultura mineira. Selo editorial: Independently published,
-2014 (fragmento).
+\fonte{Francisco Rodrigues Júnior. *Causos de Minas:* Literatura: memória,
+identidade e cultura mineira. 2014.}
 
-Em qual trecho texto o narrador se exime do compromisso com a veracidade
+Em qual trecho do texto o narrador se exime do compromisso com a veracidade
 do causo que ele conta?
 
 a\) "Não sou pescador, não sou caçador, sou apenas ouvinte."
 
 b\) "Quem quiser acreditar neste causo, aqui relatado, que acredite!"
 
-c\) "Ele procurava um modo de parafrasear a famosa premissa popular:"
+c\) "Ele procurava um modo de parafrasear a famosa premissa popular".
 
-d\) "O causo se deu no Norte de Minas Gerais, numa cidadezinha rancheira
-\[\...\]."
+d\) "O causo se deu no Norte de Minas Gerais, numa cidadezinha rancheira".
 
-Saeb: Identificar os recursos de modalização em textos diversos.
+SAEB: Identificar os recursos de modalização em textos diversos.
+BNCC: EF08LP16 -- Explicar os efeitos de sentido do uso, em textos, de estratégias de modalização e argumentatividade (sinais de pontuação, adjetivos, substantivos, expressões de grau, verbos e perífrases verbais, advérbios etc.).
 
-BNCC: EF08LP16
-
-\(A\) Incorreta. O narrador apenas diz que não é o autor da história que
-vai contar, apenas a ouviu de alguém e achou interessante.
-
-\(B\) Correta. O narrador, com essa ressalva, se exime de garantir a
-veracidade da história e deixa para o ouvinte/leitor a responsabilidade
-de acreditar ou não, conforme queira.
-
+\(A\) Correta. O narrador, com essa ressalva, se exime de garantir a
+veracidade da história, já que ele não assume a autoria da história.
+\(B\) Incorreta. Nesse trecho, o narrador não se exime da autoria, mas deixa para o ouvinte/leitor a responsabilidade de acreditar ou não, conforme queira.
 \(C\) Incorreta. O narrador, nesse trecho, já está contando a história
 para o ouvinte/leitor. Não se trata, portanto, de um comentário seu
-sobre a veracidade dela.
-
+sobre a veracidade da narrativa.
 \(D\) Incorreta. O narrador apenas situa a história no espaço para
 contextualizar o ouvinte/leitor.
 
-**Texto para as questões 4 e 5.**
+Leia o texto para responder às questões 4 e 5.
 
+>**Biscoito ou bolacha?**
+>
 Fernando foi passar as férias na casa de Pedro, um amigo que mora há
-muito tempo em outro
+muito tempo em outro estado. Enquanto aproveitam a praia, eles conversam:
+>
+--- Nossa, que fome! Me dá uma bolacha aí!
+>
+--- Não tenho bolacha.
+>
+--- Então o que é isso que você tá comendo?
+>
+--- Biscoito.
+>
+--- Ah, tanto faz, o importante é matar a fome!
+>
+--- Tá bem, eu dou, mas você quer biscoito ou bolacha?
+>
+--- Não importa... Tô com fome!
 
-estado. Enquanto aproveitam a praia, eles conversam:
+\fonte{Texto escrito para este material.}
 
--- Nossa, que fome! Me dá uma bolacha aí!
-
--- Não tenho bolacha.
-
--- Então o que é isso que você tá comendo?
-
--- Biscoito.
-
--- Ah, tanto faz, o importante é matar a fome!
-
--- Tá bem, eu dou, mas você quer biscoito ou bolacha?
-
--- Não importa, tô com fome!
-
-Elaborado pelo autor.
-
-\num{4}
-
-No diálogo, o fato de os amigos viverem em regiões diferentes faz com
+\num{4} No diálogo, o fato de os amigos viverem em regiões diferentes faz com
 que eles
 
 a\) tenham opiniões diferentes sobre o sabor do alimento.
@@ -3722,77 +3696,73 @@ c\) usem palavras diferentes para nomear o mesmo alimento.
 
 d\) discutam sobre a diferença de sabor entre o biscoito e a bolacha.
 
-Saeb: Analisar as variedades linguísticas em textos.
-
-BNCC: EF69LP56
+SAEB: Analisar as variedades linguísticas em textos.
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 \(A\) Incorreta. O sabor do biscoito não é discutido entre os amigos no
 texto.
-
 \(B\) Incorreta. A preferência dos amigos entre um ou outro alimento não
 é discutida no texto.
-
 \(C\) Correta. A região é fator determinante do registro linguístico de
-cada um dos personagens, condicionando o emprego de "bolacha" e
-"biscoito" para nomear o mesmo alimento.
+cada um dos personagens, condicionando o emprego de "bolacha" ou "biscoito" para nomear o mesmo alimento.
+\(D\) Incorreta. As formas "biscoito" e "bolacha" são variações do nome dado ao mesmo
+alimento com base no critério de região, e não de sabor.
 
-\(D\) Incorreta. Biscoito e bolacha são variações do nome dado ao mesmo
-alimento com base no critério de região e não de sabor.
-
-\num{5}
-
-O traço de humor do texto reside
+\num{5} O traço de humor do texto reside
 
 a\) na indiferença de um dos amigos ao aceitar qualquer um dos lanches.
 
-b\) no pedido de um dos amigos ao querer comida num ambiente de praia.
+b\) no pedido de um dos amigos ao querer comida em um ambiente de praia.
 
-c\) no uso de abreviações de palavras numa situação que exigia
+c\) no uso de abreviações de palavras em uma situação que exigia
 formalidade.
 
 d\) na atitude de um dos amigos ao fingir não conhecer a palavra usada
 pelo colega.
 
-Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
+SAEB: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
 crítica.
-
-BNCC: EF69LP05
+BNCC: EF69LP05 -- Inferir e justificar, em textos multissemióticos –--- tirinhas, charges, memes, gifs etc. –---, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc.
 
 \(A\) Incorreta. A indiferença de um dos amigos em relação a qual lanche
 vai comer (se bolacha ou biscoito) não é o trecho de humor do texto.
-
 \(B\) Incorreta. O ambiente físico do diálogo é pouco relevante para a
 construção dos sentidos do texto.
-
 \(C\) Incorreta. O diálogo é entre dois amigos, situação em que a
 linguagem é usada de forma pouco monitorada e mais informal, geralmente
-com mais desvios à norma-padrão.
-
+com mais desvios em relação à norma-padrão.
 \(D\) Correta. Um dos amigos claramente zomba do outro por usar uma
 palavra diferente para nomear o alimento. Isso fica claro quando ele
 finge não saber o que é "bolacha", pois em sua variedade linguística o
 termo mais aceito é "biscoito".
 
-\num{6}
+\num{6} Leia os textos.
 
-+----------------------------------+----------------------------------+
-| ![Texto Descrição gerada         | > ![Uma imagem contendo texto,   |
-| automaticamente com confiança    | > placar, grama, placa Descrição |
-| média]                           | > gerada                         |
-| (./imgSAEB_8_POR/media/image29.p | > automaticamente]               |
-| ng){width="2.2083333333333335in" | (./imgSAEB_8_POR/media/image30.p |
-| height="2.2083333333333335in"}   | ng){width="2.7083333333333335in" |
-|                                  | > height="2.2029101049868767in"} |
-| Disponível em:                   |                                  |
-| https://www.ibiting              | Disponível em:                   |
-| a.sp.gov.br/noticias/saude/vacin | https://www.parac                |
-| a-contra-gripe-comeca-segunda-fe | uru.ce.gov.br/informa.php?id=64. |
-| ira-em-idosos-acima-de-80-anos-. |                                  |
-|                                  | Acesso em: 10 fev. 2023.         |
-| Acesso em: 10 fev. 2023.         |                                  |
-+----------------------------------+----------------------------------+
+**TEXTO I**
 
-Os dois textos têm em comum o fato de abordarem o mesmo assunto, mas sua
+>**Vacinação de idosos: Prefeitura convida população acima de 60 anos para atualizar cartão de vacina**
+
+>Existem vacinas direcionadas a todas as faixas etárias, desde o nascimento até a fase longeva. No caso de pessoas com 60 anos ou mais, atualmente, são disponibilizadas seis vacinas pelo Sistema Único de Saúde (SUS) que compõem o calendário nacional de vacinação. Por isso, a Prefeitura de Fortaleza convida idosos a procurarem os postos de saúde não somente nos períodos de campanha de vacinação, mas durante todo o ano para manutenção da caderneta vacinal.
+
+>As vacinas aplicadas em idosos do Município, de acordo com o Calendário Nacional de Imunização, são: Influenza (gripe), Hepatite B, dT (dupla adulto) contra Difteria e Tétano, Pneumocócica 23 Valente (contra pneumonias, meningites, otites, sinusites, artrites e outras), Covid-19, aplicada em duas doses do esquema vacinal e duas doses de reforços, além da vacina contra Febre Amarela, que deve ser aplicada de acordo com avaliação médica.
+
+>\[...]
+
+\fonte{Fortaleza Prefeitura. Vacinação de idosos: Prefeitura convida população acima de 60 anos para atualizar cartão de vacina. Disponível em: _https://www.fortaleza.ce.gov.br/noticias/vacinacao-de-idosos-prefeitura-convida-populacao-acima-de-60-anos-para-atualizar-cartao-de-vacina_. Acesso em: 19 maio 2023.}
+
+
+**TEXTO II**
+>**Saúde reforça importância da vacinação e acompanhamento da saúde da criança**
+
+>A Secretaria de Estado da Saúde (Sesa) reforça a importância da vacinação e da atualização da caderneta das crianças. É necessário esse cuidado para a puericultura, ou seja, o acompanhamento periódico desse público (0 a 19 anos), visando à promoção e à proteção da saúde para garantir o melhor crescimento e desenvolvimento.
+
+>De acordo com o Ministério da Saúde (MS), a criança deve fazer no mínimo sete consultas de puericultura no primeiro ano de vida, e a partir dos dois anos de idade as consultas de rotina podem ser anuais, próximas ao mês de aniversário. Sendo assim, é possível aproveitar o momento de férias para agendar e atualizar o calendário vacinal, caso esteja com vacinas em atraso.
+
+>\[...]
+
+\fonte{Agência estadual de notícias. Paraná. Saúde reforça importância da vacinação e acompanhamento da saúde da criança. Disponível em: _https://www.aen.pr.gov.br/Noticia/Saude-reforca-importancia-da-vacinacao-e-acompanhamento-da-saude-da-crianca#:~:text=%E2%80%9CA%20imuniza%C3%A7%C3%A3o%20de%20crian%C3%A7as%20e,chances%20de%20doen%C3%A7as%20e%20complica%C3%A7%C3%B5es_. Acesso em: 19 maio 2023.}
+
+Os dois textos têm em comum o fato de abordarem o mesmo tema, mas sua
 estratégia argumentativa se diferencia condicionada pelo
 
 a\) assunto.
@@ -3803,35 +3773,25 @@ c\) meio de circulação.
 
 d\) objetivo comunicativo.
 
-Saeb: Avaliar a eficácia das estratégias argumentativas em textos de
+SAEB: Avaliar a eficácia das estratégias argumentativas em textos de
 diferentes gêneros.
+BNCC: EF89LP14 -- Analisar, em textos argumentativos e propositivos, os movimentos argumentativos de sustentação, refutação e negociação e os tipos de argumentos, avaliando a força/tipo dos argumentos utilizados.
 
-BNCC: EF89LP14
-
-\(A\) Incorreta. O assunto é o mesmo nos textos, pois ambos abordam o
-tema vacinação.
-
-\(B\) Correta. O público-alvo de cada texto condiciona a construção de
-sua linguagem verbal e não verbal. No primeiro texto, o público é a
-população idosa e o cartaz é mais neutro, e, no segundo, a população é
-infantil e o texto é mais lúdico.
-
+\(A\) Incorreta. O assunto é o mesmo nos dois textos, a vacinação.
+\(B\) Correta. O texto I é voltado a tratar da vacinação em idosos, enquanto o texto II é voltado a tratar da vacinação em crianças.
 \(C\) Incorreta. O meio de circulação de ambos os textos pode ser o
-mesmo, por exemplo, o quadro de avisos de um posto de saúde, de uma
-repartição pública, de um estabelecimento, ou um site governamental, em
-razão de ser um tema de interesse público.
-
+mesmo.
 \(D\) Incorreta. O objetivo comunicativo é o mesmo nos dois textos, pois
-ambos visam divulgar uma campanha de vacinação.
+ambos visam divulgar informações importante sobre vacinação.
 
-**Texto para as questões 7 e 8.**
+Leia o texto para responder às questões 7 e 8.
 
-Bom, inicialmente gostaria de agradecer a presença de todos. Para mim é
+>Bom, inicialmente gostaria de agradecer a presença de todos. Para mim é
 uma oportunidade importante, única e emotiva também, de mostrar o meu
 trabalho. Enfim, é a função da minha vida. E gostaria de agradecer o
 convite feito pelos professores e artistas. Vou fazer um depoimento
 sobre a minha obra, sobre o meu trabalho. É a primeira vez que apresento
-a grande maioria desses eslaides. Preparei uma seleção de imagens
+a grande maioria desses \[*slides*]. Preparei uma seleção de imagens
 focando a apresentação na produção de desenho, que é tema deste
 seminário. Na verdade, meu surgimento como artista deu-se como
 desenhista, e é bom que eu diga de início para, desde já, dar uma
@@ -3839,14 +3799,9 @@ resposta para essa questão do desenho como ponte: o desenho me colocou
 no mundo, me colocou em contato com a minha comunidade, com as pessoas,
 com o mundo em geral. \[\...\]
 
-Disponível em:
-https://seer.ufrgs.br/RevistaValise/article/download/41375/26239.
+\fonte{Transcrição da fala de Mário Röhnelt. Revista-Valise. Porto Alegre, v. 3, n. 5, ano 3, julho de 2013. Disponível em: _https://seer.ufrgs.br/RevistaValise/article/download/41375/26239_. Acesso em: 16 fev. 2023.}
 
-Acesso em: 16 fev. 2023 (fragmento adaptado).
-
-\num{7}
-
-O trecho é a transcrição de uma apresentação oral feita em um seminário
+\num{7} O trecho é a transcrição de uma apresentação oral feita em um seminário
 universitário. Nesse contexto, o autor do texto privilegia o uso da
 linguagem
 
@@ -3858,31 +3813,25 @@ c)  formal, promovendo a adequação à situação comunicativa.
 
 d)  regional, empregando o vocabulário da região dos ouvintes.
 
-Saeb: Avaliar a adequação das variedades linguísticas em contextos de
+SAEB: Avaliar a adequação das variedades linguísticas em contextos de
 uso.
-
-BNCC: EF69LP55
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 \(A\) Incorreta. No ambiente acadêmico (seminário universitário) e para
 o público-alvo (professores e estudantes) em questão, não é adequado ao
 palestrante usar uma linguagem coloquial, pois não é o que se espera
 nessa situação comunicativa.
-
 \(B\) Incorreta. O texto não contém termos técnicos ou jargão
-profissional. A vocabulário é compreensível a qualquer ouvinte.
-
+profissional. A vocabulário é compreensível para qualquer ouvinte.
 \(C\) Correta. Sendo o meio de circulação do texto um seminário
 universitário, espera-se que a linguagem utilizada pelo palestrante seja
 mais próxima da norma-padrão, por se tratar de um ambiente acadêmico em
 que o público-alvo são estudantes e professores, indicando alto nível de
 formalidade.
-
 \(D\) Incorreta. O texto não contém marcas de variação linguística
 regional.
 
-\num{8}
-
-O trecho "Preparei uma seleção de imagens focando a apresentação na
+\num{8} O trecho "Preparei uma seleção de imagens focando a apresentação na
 produção de desenho, que é tema deste seminário" contém o elemento
 linguístico "deste seminário", que aponta para
 
@@ -3894,96 +3843,78 @@ c\) um elemento a ser citado no texto.
 
 d\) um elemento que pertence ao autor.
 
-Saeb: Avaliar a adequação das variedades linguísticas em contextos de
-uso.
-
-BNCC: EF69LP55
+SAEB: Analisar os processos de referenciação lexical e pronominal.
+BNCC: Estabelecer relações entre partes do texto, identificando o antecedente de um
+pronome relativo ou o referente comum de uma cadeia de substituições lexicais.
 
 \(A\) Correta. O termo remete ao seminário, isto é, o contexto
-comunicativo imediato em que o falante está inserido no momento que
+comunicativo imediato em que o falante está inserido no momento em que
 profere seu texto.
-
 \(B\) Incorreta. O termo não retoma elemento anterior a ele citado no
-texto, não é anafórico.
+texto; não é anafórico.
+\(C\) Incorreta. O termo não faz parte de um processo endofórico.
+\(D\) Incorreta. O termo não contém pronome possessivo.
 
-\(C\) Incorreta. O termo não retoma elemento anda a ser citado no texto,
-embora seja catafórico.
+\num{9} Leia o texto.
 
-\(D\) Incorreta. O termo, embora seja formado por pronome que indica
-posse, não remete ao sujeito.
+>**Passagem das horas**
 
-\num{9}
+>Trago dentro do meu coração,
 
-Trago dentro do meu coração,
+>Como num cofre que se não pode fechar de cheio,
 
-Como num cofre que se não pode fechar de cheio,
+>Todos os lugares onde estive,
 
-Todos os lugares onde estive,
+>Todos os portos a que cheguei,
 
-Todos os portos a que cheguei,
+>Todas as paisagens que vi através de janelas ou vigias,
 
-Todas as paisagens que vi através de janelas ou vigias,
+>\[\...\]
 
-\[\...\]
+>A entrada de Singapura, manhã subindo, cor verde,
 
-A entrada de Singapura, manhã subindo, cor verde,
+>O coral das Maldivas em passagem cálida,
 
-O coral das Maldivas em passagem cálida,
+>\[\...\]
 
-\[\...\]
+>E o Cabo da Boa Esperança nítido ao sol da madrugada\...
 
-E o Cabo da Boa Esperança nítido ao sol da madrugada\...
+>E a Cidade do Cabo com a Montanha da Mesa ao fundo\...
 
-E a Cidade do Cabo com a Montanha da Mesa ao fundo\...
+Fernando Pessoa. *Poemas de Álvaro de Campos*. Disponível em: _http://www.dominiopublico.gov.br/download/texto/pe000010.pdf_. Acesso em: 11 fev. 2023.
 
-PESSOA, F. Disponível em:
-http://www.dominiopublico.gov.br/download/texto/pe000010.pdf.
+Como tema central, o eu lírico expressa no poema
 
-Acesso em: 11 fev. 2023 (fragmento).
+a\) a saudade de sua terra natal.
 
-O eu lírico expressa no poema, como tema central,
-
-a\) a saudade da sua terra natal.
-
-b\) as lembranças das suas viagens.
+b\) as lembranças de suas viagens.
 
 c\) a vontade de conhecer o mundo.
 
 d\) o gosto pelas belezas da natureza.
 
-Saeb: Inferir a presença de valores sociais, culturais e humanos em
+SAEB: Inferir a presença de valores sociais, culturais e humanos em
 textos literários.
-
-BNCC: EF69LP44
+BNCC: EF69LP44 -- Inferir a presença de valores sociais, culturais e humanos e de diferentes visões de mundo, em textos literários, reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre as identidades, sociedades e culturas e considerando a autoria e o contexto social e histórico de sua produção.
 
 \(A\) Incorreta. O eu lírico demonstra um sentimento cosmopolita,
-voltado para o mundo exterior e não para suas raízes ou para seu
+voltado para o mundo exterior, e não para suas raízes ou para seu
 sentimento de pertencimento, representados pela terra natal.
-
 \(B\) Correta. O eu lírico, em tom saudosista, diz guardar no seu
 coração vários lugares onde já esteve e paisagens que já viu mundo
-afora. Coração, no primeiro verso, e cofre, no segundo, são metáforas de
-sua memória. Portanto, o tema central do poema são as lembranças das
+afora. São metáforas de sua memória "coração", no primeiro verso, e "cofre", no segundo, são metáforas de sua memória. Portanto, o tema central do poema são as lembranças das
 viagens do eu lírico pelo mundo.
-
 \(C\) Incorreta. O eu lírico é alguém que já viajou pelo mundo e que
 criou muitas memórias de suas viagens, isto é, ele não expressa uma
 vontade de viajar pelo mundo, pois demonstra que já o conhece bastante.
-
 \(D\) Incorreta. O eu lírico cita paisagens naturais que viu pelo mundo
-e, de fato, as admira, porém ele se refere a elas por representarem
+e as admira, porém ele se refere a elas por representarem
 características particulares dos locais, não necessariamente por gostar
 da natureza.
 
-\num{10}
+\num{10} Analise o anúncio.
 
-![Texto Descrição gerada automaticamente com confiança
-média](./imgSAEB_8_POR/media/image31.png){width="4.211025809273841in"
-height="2.8645833333333335in"}
-
-Disponível em:
-https://www.novaguarita.mt.gov.br/Noticias/Campanha-julho-amarelo\--mes-de-prevencao-e-conscientizacao-contra-hepatites-virais\--796.
-Acesso em: 16 fev. 2023.
+%Paulo, inserir o anúncio disponível em: https://www.portal.ap.gov.br/noticia/1407/julho-amarelo-prevencao-diagnostico-precoce-e-tratamento-sao-essenciais-nos-casos-de-hepatite
 
 A estratégia de persuasão empregada no texto enfatiza
 
@@ -3995,24 +3926,15 @@ c)  a ausência de sintomas da doença.
 
 d)  os fatores de risco para o contágio.
 
-Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
+SAEB: Identificar o uso de recursos persuasivos em textos verbais e não
 verbais.
+BNCC: EF89LP04 -- Identificar e avaliar teses/opiniões/posicionamentos explícitos e implícitos, argumentos e contra-argumentos em textos argumentativos do campo (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), posicionando-se frente à questão controversa de forma sustentada.
 
-BNCC: EF89LP04
-
-\(A\) Incorreta. A forma de contágio da doença (viral) está colocada num
-texto escrito em fonte pequena e com pouco destaque.
-
-\(B\) Incorreta. O texto é voltado para o público em geral (você,
-qualquer pessoa que esteja lendo) e não específico.
-
+\(A\) Incorreta. Não se menciona a forma de contágio da doença.
+\(B\) Incorreta. O texto é voltado para o público em geral, e não para um específico.
 \(C\) Correta. O texto sugere que os sintomas são silenciosos, pois o
-portador pode não saber que tem a doença, daí o objetivo da campanha,
-convencer as pessoas a procurar o diagnóstico antes que seja tarde.
-
-\(D\) Incorreta. O texto não cita fatores de risco, diz apenas que o
-contágio é viral. Um fator de risco, por exemplo, para uma doença viral
-é frequentar locais com grande público.
+portador pode não saber que tem a doença.
+\(D\) Incorreta. Não se mencionam fatores de risco.
 
 \num{11}
 
@@ -4021,12 +3943,10 @@ contágio é viral. Um fator de risco, por exemplo, para uma doença viral
 **Estudo alerta para vacinação infantil abaixo da meta no estado do
 Rio**
 
-*Prefeituras têm até 2024 para fornecer dados ao Ministério da Saúde*
-
 As metas de cobertura vacinal de crianças menores de cinco anos não
 foram atingidas no estado do Rio de Janeiro para nenhuma das vacinas do
 calendário infantil de 2022, alerta levantamento preliminar divulgado
-nesta terça-feira (27) pela Fundação Oswaldo Cruz (Fiocruz).
+\[...] pela Fundação Oswaldo Cruz (Fiocruz).
 
 Apesar de ser o segundo estado mais rico do país, o Rio de Janeiro
 também está abaixo da cobertura média nacional de todas as vacinas, não
@@ -4039,83 +3959,59 @@ vacinas com a atualização dos dados, a coordenadora do Observa Infância,
 Patricia Boccolini, avaliou que o cenário geral do estado continuará
 sendo de baixas coberturas. \[\...\]
 
-Disponível em:
-https://agenciabrasil.ebc.com.br/saude/noticia/2022-12/estudo-alerta-para-vacinacao-infantil-abaixo-da-meta-no-estado-do-rio.
-Acesso em: 13 fev. 2023 (fragmento).
+\fonte{Vinícius Lisboa. Agência Brasil. Estudo alerta para vacinação infantil abaixo da meta no estado do Rio. Disponível em: _https://agenciabrasil.ebc.com.br/saude/noticia/2022-12/estudo-alerta-para-vacinacao-infantil-abaixo-da-meta-no-estado-do-rio_. Acesso em: 13 fev. 2023.}
 
 **TEXTO II**
 
-![http://2.bp.blogspot.com/-cla\_CLQDT4U/TfZ28yGeWWI/AAAAAAAAAJA/Vjwyrj1fc1A/s1600/campanha-poliomielite-2011.jpg](./imgSAEB_8_POR/media/image32.png){width="3.15625in"
-height="2.484178696412948in"}
+>**Zé Gotinha volta para incentivar vacinação e combater fake news, diz ministra da Saúde**
 
-Disponível em:
-https://saude.es.gov.br/dia-d-da-campanha-de-vacinacao-contra-a-polio.
+>Após atingir até 90% de imunização contra a poliomielite na população infantil em anos anteriores, o Brasil chegou a registrar cobertura vacinal de apenas 40%, em 2022. A queda dessa e de outras vacinas, segundo a ministra da Saúde, Nísia Trindade, está entre os principais desafios da nova gestão da pasta. Em entrevista concedida \[...] à CNN Brasil, a gestora afirmou que o Zé Gotinha, ícone histórico da vacinação no país, volta ao primeiro plano e será um aliado importante num processo de educação e combate às notícias falsas.
 
-Acesso em: 13 fev. 2023.
+>“Ele volta com força total para o combate às fake news e \[para] otimizar a vacinação. A vacina será uma pauta não só do Ministério, mas de toda \[a] sociedade. A pólio é uma grande ameaça. No caso da covid-19, a população que não completou o esquema vacinal, precisa tomar as duas doses, mais o reforço. No caso das crianças, o número de não vacinados é preocupante, até porque, infelizmente, temos casos de óbito. E tendo uma forma de prevenir, não há motivo para não se vacinar”, destacou a ministra.
 
-Comparando-se os dois textos, conclui-se que o texto II cumpre, em
-relação à situação noticiada no texto I, a função de
+>\[...]
 
-a\) apresentar o personagem Zé Gotinha e seus amigos ao público
-infantil.
+\fonte{Ministério da Saúde. Zé Gotinha volta para incentivar vacinação e combater fake news, diz ministra da Saúde. Disponível em: _https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ze-gotinha-volta-para-incentivar-vacinacao-e-combater-fake-news-diz-ministra-da-saude_. Acesso em: 19 maio 2023.}
 
-b\) convidar as crianças a seguirem as redes sociais do personagem Zé
-Gotinha.
+Comparando-se os dois textos, conclui-se que a relação entre os dois está centrada
 
-c\) divulgar as campanhas de vacinação infantil do governo e atrair a
-população.
+a\) no personagem Zé Gotinha.
 
-d\) entreter o público infantil com ilustrações sobre vacinação
-adequadas à faixa etária.
+b\) na cobertura vacinal do Rio de Janeiro.
 
-Saeb: Analisar a relação temática entre diferentes gêneros
+c\) na preocupação com a cobertura vacinal no Brasil.
+
+d\) nos desafios que o Ministério da Saúde precisa enfrentar.
+
+SAEB: Analisar a relação temática entre diferentes gêneros
 jornalísticos.
+BNCC: EF69LP03 -- Identificar, em notícias, o fato central, suas principais circunstâncias e eventuais decorrências; em reportagens e fotorreportagens o fato ou a temática retratada e a perspectiva de abordagem, em entrevistas os principais temas/subtemas abordados, explicações dadas ou teses defendidas em relação a esses subtemas; em tirinhas, memes, charge, a crítica, ironia ou humor presente.
 
-BNCC: EF69LP02
+\(A\) Incorreta. O personagem Zé Gotinha é mencionado apenas no texto II.
+\(B\) Incorreta. A cobertura vacinal do Rio de Janeiro é mencionada apenas no texto I.
+\(C\) Correta. A preocupação com a cobertura vacinal no Brasil é um tema em comum entre os dois textos.
+\(D\) Incorreta. Os desafios do Ministério da Saúde são mencionados apenas no texto II.
 
-\(A\) Incorreta. Zé Gotinha é um personagem muito conhecido do público
-infantil, de modo que dispensa apresentações. O texto, inclusive,
-pressupõe essa popularidade do personagem.
-
-\(B\) Incorreta. O texto não usa o verbo "seguir" no sentido de
-acompanhar redes sociais de alguma personalidade, e sim no sentido de
-tomar o personagem como exemplo na proteção da saúde das crianças.
-
-\(C\) Correta. O texto I aborda a baixa cobertura vacinal entre o
-público infantil, e um dos motivos, não citados no texto, pode ser uma
-divulgação deficitária e a falta de informação, o que pode ser combatido
-com campanhas de divulgação e atração da população, como é feito no
-texto II, um cartaz de divulgação.
-
-\(D\) Incorreta. O texto II tem sua construção pautada no seu
-público-alvo, as crianças, sobretudo por meio de ilustrações. Porém,
-somente entretê-las não se relaciona com a notícia do texto I; a baixa
-cobertura vacinal citada no texto I se relaciona com a necessidade de
-atrair a população para vacinar suas crianças.
-
-\num{12}
+\num{12} Leia as manchetes.
 
 **TEXTO I**
 
-![Interface gráfica do usuário, Texto, Aplicativo, Email Descrição
-gerada
-automaticamente](./imgSAEB_8_POR/media/image33.png){width="5.343055555555556in"
-height="1.377859798775153in"}Disponível em:
-https://www.cnnbrasil.com.br/esporte/cbf-define-punicao-por-racismo-em-competicoes-nacionais-clubes-poderao-perder-pontos/.
-Acesso em: 17 fev. 2023 (fragmento).
+>**CBF define punição por racismo em competições nacionais; clubes poderão perder pontos**
+
+>*Medida já foi incluída no Regulamento Geral de Competições (RGC) de 2023 e passará a valer na Copa do Brasil, que começa semana que vem*
+
+\fonte{Carolina Figueiredo e Léo Lopes. CNN. CBF define punição por racismo em competições nacionais; clubes poderão perder pontos. Disponível em: _https://www.cnnbrasil.com.br/esportes/cbf-define-punicao-por-racismo-em-competicoes-nacionais-clubes-poderao-perder-pontos/#:~:text=A%20Confedera%C3%A7%C3%A3o%20Brasileira%20de%20Futebol,atos%20cometidos%20por%20seus%20torcedores._. Acesso em: 19 maio 2023.}
 
 **TEXTO II**
 
-![Interface gráfica do usuário, Texto, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image34.png){width="5.478472222222222in"
-height="1.3734831583552056in"}
+>**CBF acerta ao determinar punição a racismo em estádios no Brasil**
 
-Disponível em:
-https://www.em.com.br/app/colunistas/kelen-cristina/2023/02/16/interna\_kelen\_cristina,1458525/cbf-acerta-ao-determinar-punicao-a-racismo-em-estadios-no-brasil.shtml.
-Acesso em: 17 fev. 2023 (fragmento).
+>*A decisão da CBF, inédita, chega até tarde, mas ainda assim precisa ser comemorada; clubes terão de pagar multa e podem até perder pontos em caso de racismo*
 
-Ao se deparar com os fragmentos de texto I e II, sobre o mesmo assunto,
-o leitor pode prever que a finalidade deles é, respectivamente,
+\fonte{Kelen Cristina. Estado de Minas. CBF acerta ao determinar punição a racismo em estádios no Brasil. Disponível em: _https://www.em.com.br/app/colunistas/kelen-cristina/2023/02/16/interna_kelen_cristina,1458525/cbf-acerta-ao-determinar-punicao-a-racismo-em-estadios-no-brasil.shtml_. Acesso em: 19 maio 2023.}
+
+Ao se deparar com os textos I e II, sobre o mesmo tema,
+o leitor pode prever que a finalidade de cada um é, respectivamente,
 
 a\) informar e opinar.
 
@@ -4125,17 +4021,16 @@ c\) opinar e denunciar.
 
 d\) reivindicar e conscientizar.
 
-Saeb: Avaliar diferentes graus de parcialidade em textos jornalísticos.
-
-BNCC: EF07LP02
+SAEB: Avaliar diferentes graus de parcialidade em textos jornalísticos.
+BNCC: EF69LP17 -- Perceber e analisar os recursos estilísticos e semióticos dos gêneros jornalísticos e publicitários, os aspectos relativos ao tratamento da informação em notícias, como a ordenação dos eventos, as escolhas lexicais, o efeito de imparcialidade do relato, a morfologia do verbo, em textos noticiosos e argumentativos, reconhecendo marcas de pessoa, número, tempo, modo, a distribuição dos verbos nos gêneros textuais (por exemplo, as formas de pretérito em relatos; as formas de presente e futuro em gêneros argumentativos; as formas de imperativo em gêneros publicitários), o uso de recursos persuasivos em textos argumentativos diversos (como a elaboração do título, escolhas lexicais, construções metafóricas, a explicitação ou a ocultação de fontes de informação) e as estratégias de persuasão e apelo ao consumo com os recursos linguístico-discursivos utilizados (tempo verbal, jogos de palavras, metáforas, imagens).
 
 \(A\) Correta. O texto I, uma notícia, visa apenas divulgar a informação
 nova que veicula, isto é, a decisão da CBF de punir atitudes racistas. O
 texto II, um artigo de opinião, faz uma avaliação positiva dessa
 decisão.
 
-\(B\) Incorreta. O texto I não faz juízo de valor, apenas informa o
-fato. O texto II não apenas informa o fato, ele o avalia e pressupõe que
+\(B\) Incorreta. O texto I não faz juízo de valor; apenas informa o
+fato. O texto II não apenas informa o fato, mas o avalia e pressupõe que
 o leitor já tem conhecimento da decisão da CBF.
 
 \(C\) Incorreta. O texto I, uma notícia, visa apenas divulgar a
@@ -4144,15 +4039,12 @@ sua intenção não é fazer denúncia.
 
 \(D\) Incorreta. O texto I, uma notícia, visa apenas divulgar a
 informação nova que veicula. O texto II não visa conscientizar, embora o
-tema seja oportuno para tal empreitada.
+tema seja oportuno para tal.
 
-\num{13}
+\num{13} Leia o texto.
 
-![Interface gráfica do usuário, Texto, Aplicativo, chat ou mensagem de
-texto, Email Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image4.png){width="5.905555555555556in"
-height="1.7868055555555555in"}
-
+>**Defesa Civil alerta para chuvas intensas em SP no carnaval**
+>
 O carnaval em São Paulo terá chuvas intensas, segundo alerta da Defesa
 Civil Estadual. A previsão meteorológica é que o volume alcance de 80
 milímetros a 250 milímetros até domingo (19). O litoral norte do estado
@@ -4160,9 +4052,9 @@ deve ser o mais impactado. A Baixada Santista, Serra da Mantiqueira,
 Vale do Ribeira e Itapeva podem ter até 150 milímetros de chuvas. Com o
 solo já encharcado, há risco de deslizamentos em regiões de encosta.
 
-Disponível em:
-https://agenciabrasil.ebc.com.br/geral/noticia/2023-02/defesa-civil-alerta-para-chuvas-intensas-no-carnaval-em-sao-paulo.
-Acesso em: 17 fev. 2023 (fragmento).
+>\[...]
+
+\fonte{Agência Brasil. Defesa Civil alerta para chuvas intensas em SP no carnaval. Disponível em: _https://agenciabrasil.ebc.com.br/geral/noticia/2023-02/defesa-civil-alerta-para-chuvas-intensas-no-carnaval-em-sao-paulo_. Acesso em: 17 fev. 2023.}
 
 A finalidade do texto é informar a previsão do tempo. As formas verbais
 "alcance", "deve ser" e "podem ter" estão empregadas nos tempos e modos
@@ -4180,15 +4072,13 @@ Civil Estadual.
 d\) exprimir a ideia de possibilidade e hipótese do que pode acontecer
 com o clima.
 
-Saeb: Analisar os efeitos de sentido dos tempos, modos e/ou vozes
+SAEB: Analisar os efeitos de sentido dos tempos, modos e/ou vozes
 verbais com base no gênero textual e na intenção comunicativa.
 
-BNCC: Sem correspondência
-
 \(A\) Incorreta. Embora uma informação quantitativa do volume de chuvas
-esteja acompanhada de dois dos verbos citados (alcançar e podem ter),
+esteja acompanhada de dois dos verbos citados,
 ela poderia ser dada com uso de tantas outras formas da língua, sem
-depender dos tempos e modos verbais.
+depender dos tempos e dos modos verbais.
 
 \(B\) Incorreta. O texto é uma notícia e, como tal, visa apenas
 transmitir uma informação e não interage com o leitor. Os modos e tempos
@@ -4197,34 +4087,30 @@ verbais em questão não proporcionam interação com o leitor.
 \(C\) Incorreta. Os verbos não conferem nenhuma ênfase ou destaque nem
 têm uma relação direta com a ideia de alertar a população.
 
-\(D\) Correta. Os tempos e modos verbais dos verbos são o indicativo
-(deve ser/podem ter -- verbos que indicam possibilidade, embora no
-indicativo) e o subjuntivo (alcance), que expressa naturalmente a ideia
-de hipótese/possibilidade. Por se tratar de um texto que fala de
+\(D\) Correta. Os modos verbais dos verbos são o indicativo e o subjuntivo, e, no contexto, todos os verbos expressam possibilidade. Por se tratar de um texto que fala de
 previsão do tempo, sua construção linguística colabora para expressar
-hipóteses e não certezas.
+hipóteses, e não certezas.
 
-**Texto para as questões 14 e 15.**
+Leia o texto para responder às questões 14 e 15.
 
--- Gosto muito de ouvir você, Olívia. Sei que vou me esquecer\... Espero
+>**A natureza da mordida**
+>
+--- Gosto muito de ouvir você, Olívia. Sei que vou me esquecer\... Espero
 que você não se importe de repetir sua história outras vezes. Você se
 importa?
-
--- Não.
-
--- Ouvirei sempre como se fosse a primeira vez. Isso é o que posso
+>
+--- Não.
+>
+--- Ouvirei sempre como se fosse a primeira vez. Isso é o que posso
 prometer. E não é pouco, viu? A primeira vez tem sempre os melhores
 ouvidos. Quando ouvi "Erbarme dich", de Bach, pela primeira vez\... Você
 conhece essa música?
+>
+--- Acho que não\... talvez.
 
--- Acho que não\... talvez.
+\fonte{Carla Madeira. *A natureza da mordida*. Rio de Janeiro: Record, 2022.}
 
-MADEIRA, Carla. *A natureza da mordida.* 1.ed. Rio de Janeiro: Record,
-2022 (fragmento).
-
-\num{14}
-
-No diálogo, a personagem é interpelada duas vezes. Em relação à segunda
+\num{14} No diálogo, a personagem é interpelada duas vezes. Em relação à segunda
 pergunta que lhe é feita, sua resposta expressa
 
 a\) hesitação.
@@ -4235,10 +4121,12 @@ c\) constrangimento.
 
 d\) desconhecimento.
 
-Saeb: Analisar os efeitos de sentido produzidos pelo uso de
+SAEB: Analisar os efeitos de sentido produzidos pelo uso de
 modalizadores em textos diversos.
-
-BNCC: EF89LP31
+BNCC: EF89LP31 -- Analisar e utilizar modalização epistêmica, isto é, modos de indicar uma
+avaliação sobre o valor de verdade e as condições de verdade de uma proposição, tais como
+os asseverativos – quando se concorda com (“realmente, evidentemente, naturalmente,
+efetivamente, claro, certo, lógico, sem dúvida” etc.) ou discorda de (“de jeito nenhum, de forma alguma”) uma ideia; e os quase-asseverativos, que indicam que se considera o conteúdo como quase certo (“talvez, assim, possivelmente, provavelmente, eventualmente”).
 
 \(A\) Correta. A personagem usa as expressões "acho que não" e "talvez"
 por não estar certa da resposta. Isso se comprova pela reformulação da
@@ -4256,9 +4144,7 @@ perguntas espontaneamente, sem demonstrar que se sente constrangida.
 de desconhecimento não é coerente porque a personagem não responde nem
 que sim, nem que não, ou seja, ela tem dúvida.
 
-\num{15}
-
-A figura de linguagem empregada em "A primeira vez tem sempre os
+\num{15} A figura de linguagem empregada em "A primeira vez tem sempre os
 melhores ouvidos" introduz a intenção de
 
 a\) expressar a opinião da locutora em relação à melodia de Bach.
@@ -4269,31 +4155,28 @@ c\) valorizar o esforço da personagem Olívia de recontar sua história.
 
 d\) desculpar-se pelo esquecimento da história de vida contada antes.
 
-Saeb: Analisar o uso de figuras de linguagem como estratégia
+SAEB: Analisar o uso de figuras de linguagem como estratégia
 argumentativa.
+BNCC: EF89LP37 -- Analisar os efeitos de sentido do uso de figuras de linguagem como ironia, eufemismo, antítese, aliteração, assonância, dentre outras.
 
-BNCC: EF89LP37
-
-\(A\) Incorreta. A locutora não chega a emitir opinião sobre a melodia,
+\(A\) Incorreta. A interlocutora não chega a emitir opinião sobre a melodia,
 embora ela implicitamente associe o ato de ouvir a melodia ao ato de
-ouvir a história de Olívia. Porém, a figura de linguagem não expressa
+ouvir a história de Olívia, porém a figura de linguagem não expressa
 opinião sobre a melodia.
 
-\(B\) Incorreta. A locutora não recomenda, e sim pergunta se Olívia
+\(B\) Incorreta. A interlocutora não a recomenda, e sim pergunta se Olívia
 conhece a melodia.
 
-\(C\) Correta. Após se desculpar pelo esquecimento, a locutora pede que
+\(C\) Correta. Após se desculpar pelo esquecimento, a interlocutora pede que
 Olívia repita sua história outras vezes. A figura de linguagem visa
 demonstrar para Olívia que esse esforço vai ser recompensado por uma
 escuta atenta, tal como se compreende a frase em questão.
 
-\(D\) Incorreta. A locutora já havia se desculpado antes, agora ela quer
+\(D\) Incorreta. A interlocutora já havia se desculpado antes; agora ela quer
 convencer Olívia a recontar sua história, recebendo em troca uma escuta
 atenta.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**SIMULADO 2**
+#SIMULADO 2
 
 \num{1}
 
