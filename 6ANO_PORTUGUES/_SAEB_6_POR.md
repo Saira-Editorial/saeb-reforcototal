@@ -3455,129 +3455,89 @@ falar a fim de se fazer entender.
 Essas diferenças de linguagem são chamadas de variações linguísticas,
 que se classificam da seguinte forma:
 
-Sociais: variedades linguísticas que dependem dos **grupos sociais em
+Sociais:  dependem dos **grupos sociais em
 que a pessoa se insere**, ou seja, das pessoas com quem ela convive.
 
-Regionais: que sofrem forte influência do **espaço geográfico** ocupado
+Regionais: sofrem forte influência do **espaço geográfico** ocupado
 pelo falante.
 
-Históricas: variedades linguísticas comumente usadas no passado, mas que
-caíram em desuso.
+Históricas: dependem da época de uso da língua, já que esse uso varia com o passar dos anos, das décadas, dos séculos.
 
 Estilísticas: surgem da adequação que o falante faz de seu nível de
 linguagem ao estilo exigido pelo texto ou pela situação comunicativa.
-Por exemplo, quando escrevemos uma redação para o vestibular, utilizamos
-uma linguagem formal; quando escrevemos uma postagem em rede social que
-será vista apenas por nossos amigos, escolhemos uma linguagem mais
-coloquial, às vezes usando recursos de imagem como emojis.
 
 É importante ressaltar que não existe jeito certo ou errado de falar.
 Existe a maneira mais adequada para cada contexto.
 
-"Segundo o professor, linguista e filólogo Marcos Bagno, o maior
+Segundo o professor, linguista e filólogo Marcos Bagno, o maior
 pesquisador deste campo no país, o preconceito linguístico pode ser
 classificado como todo juízo de valor negativo às variedades
 linguísticas de menor prestígio social.
 
 Isso significa que agir com preconceito linguístico é acreditar que quem
-não segue a normal culta escrita e falada está "usando o português
+não segue a norma padrão escrita e falada está "usando o português
 errado".
 
 Esse pré-julgamento costuma agir nas variantes mais informais da língua
 que acabam estando ligadas a classes sociais menos favorecidas, mas
-também a regionalidades e sotaques.
+também a regionalidades e sotaques.}
 
-Ainda segundo Bagno, a maior referência literária nacional sobre o
-assunto, o preconceito linguístico é reforçado por construções sociais
-ideológicas." (Fonte:
-<https://ead.uri.br/blog/preconceito-linguistico>.)}
+Leia o diálogo para responder às questões de 1 a 3.
 
-Leia a tirinha a seguir.
+https://www.freepik.com/free-vector/dinosaurs-walking-nature_22746948.htm#query=two%20dinossaurs%20talking&position=8&from_view=search&track=ais
+-- Mano, já ouviu falar num tal de meteoro? Não tem medo de chegar um aqui?
+-- Já, cara, mas eles se desmancham antes de chegar aqui, então não tem perigo pra gente.
+-- E se for muuuuuito grandão?
+-- Isso é muito raro. Imagina! Se acontecesse, a gente morreria.
+-- Daora que você entende de ciência, fico mais tranquilo.
 
-![Uma imagem contendo Texto Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image32.jpeg){width="3.45in"
-height="4.261788057742782in"}
-
-Disponível em: \<
-<https://dragoesdegaragem.com/cientirinhas/cientirinhas-162/>\>. Acesso
-em: mar. 2023.
-
-\num{1} Qual é a linguagem utilizada na tirinha?
+\num{1} Qual é a linguagem utilizada no diálogo?
 
 \linhas {2}
 
-\coment{A tirinha está escrita em linguagem informal ou coloquial.}
+\coment{O diálogo apresenta-se em linguagem informal ou coloquial.}
 
-\num{2} Que tipo de variação linguística ocorre na fala da lua, no terceiro
-quadrinho? Reescreva a fala, substituindo o termo "daora" por um
-sinônimo.
+\num{2} Que tipo de linguagem está representado pelo termo "daora"? Reescreva a fala, substituindo o termo por um sinônimo.
 
 \linhas{6}
 
 \coment{O termo "daora" é uma gíria. Ele poderia ser substituído por
-"legal", "demais", "muito bom", entre outros. Professor, aqui, atente-se
-às variações regionais dos alunos, pois esse termo pode sofrer
-influência de regionalismo.}
+"legal", "demais", "muito bom", entre outros. Legal que você entende de ciência, fico mais tranquilo.}
 
 \num{3} Qual é o efeito de humor da tira?
 
 \linhas{4}
 
-\coment{O fato de a Terra dizer que é raro um meteoro não se desfazer
-e, no último quadrinho, acontecer o momento em que os dinossauros são
-extintos.}
+\coment{O fato de os dinossauros não se preocuparem com meteoros quando, na verdade, seriam extintos por um deles.}
 
 Leia um trecho da reportagem do jornal *O Povo*, a seguir, e responda
 aos exercícios 4 e 5.
 
-Suricate Seboso celebra 10 anos de humor e cearensidade nas redes
-sociais
 
-No último mês do ano de 2012, precisamente no dia 12 de dezembro, a
-internet ganhou o que seria uma nova febre. Entre o sucesso de memes com
-palavras estrangeiras e fórmulas repetitivas, surgia a página Suricate
-Seboso, que se tornou símbolo digital do \"cearencês\". Desenvolvido por
-Diego Jovino e pelos cocriadores Leo Suricate e Dudu Suricate, este
-animal reconhecido pela linguagem própria acabou, também, conquistando
-uma rede de comunicação única dentro das telas.
+Suricate Seboso celebra uma década de humor e cearensidade
 
-Com este olhar atento, eles começaram a reproduzir os \"armaria, nam!\",
-\"vixe!\" e \"orra, diacho!\" -- apenas parte de um longo vocabulário
-local -- e foram sendo multiplicados no meio de crianças, adultos e
-idosos.
+Em 12 de dezembro de 2012, a internet foi agraciada com uma nova sensação. Em meio ao sucesso de memes com influências estrangeiras e fórmulas repetitivas, surgiu a página Suricate Seboso, que se tornou o símbolo digital do "cearencês". Criado por Diego Jovino em parceria com Leo Suricate e Dudu Suricate, esse personagem peculiar, conhecido por sua linguagem única, conquistou uma rede de seguidores fiéis através das telas.
 
-(MONTEZUMA, Lara. Suricate Seboso celebra 10 anos de humor e
-cearensidade nas redes sociais. Publicado em 12 de dezembro de 2022.
-Disponível em: \<
+Com um olhar atento, eles começaram a reproduzir expressões características da região, como "armaria, nam!", "vixe!" e "orra, diacho!", apenas para citar algumas do vasto vocabulário local. Essas expressões se multiplicaram, alcançando pessoas de todas as idades, desde crianças até idosos.
+
+(Fonte de pesquisa: Lara Montezuma. Suricate Seboso celebra 10 anos de humor e
+cearensidade nas redes sociais.  Disponível em: \<
 <https://www.opovo.com.br/vidaearte/2022/12/12/suricate-seboso-celebra-10-anos-de-humor-e-cearensidade-nas-redes-sociais.html>\>.
-Acesso em: mar. 2023. Adaptado)
+Acesso em: 14 mar. 2023.)
 
-\num{4} O termo "cearensidade", empregado no título da matéria, um
-neologismo que a qual tipo de variação linguística tratada no texto?
+\num{4} O termo "cearensidade", empregado no título da matéria, é um
+neologismo. O que a palavra significa, considerando o contexto em que se insere?
 
 \linhas{2}
 
-\coment{O termo refere-se ao regionalismo.}
+\coment{O termo refere-se à representação da cultura cearense (nesse caso, nas redes sociais).}
 
-\num{5} O termo "cearencês", usado no primeiro parágrafo é um(a)
+\num{5} Como essa "cearensidade" é exemplificada no texto?
 
-a\) gíria.
-
-b\) jargão.
-
-c\) coloquialismo.
-
-d\) regionalismo.
+\linhas {5}
 
 \coment{
-a\) Correta. Gíria.
-b\) Incorreta. Jargão é uma frase, expressão ou palavra que define algo
-específico de um grupo profissional, social ou cultural.
-c\) Incorreta. Coloquialismo é o tipo de linguagem informal, do dia a
-dia, que não necessariamente obedece à norma padrão da língua.
-d\) Incorreta. Regionalismo é o tipo de variação linguística
-caracterizada pelo uso de termos e expressões de determinada região
-geográfica.}
+Os exemplos aparecem mais especificamente no último parágrafo, por meio da citação de termos típicos do estado do Ceará.}
 
 Leia um trecho do conto "Gaetaninho", de Alcântara Machado, e responda
 às questões 6 e 7.
@@ -3604,10 +3564,10 @@ Eta salame de mestre!
 
 \[\...\]
 
-(MACHADO, Antônio De Alcântara. Gaetaninho. In. Brás, Bexiga e Barra
+(Antônio De Alcântara Machado. Gaetaninho. In. Brás, Bexiga e Barra
 Funda. Disponível em: \<
 <https://fundar.org.br/wp-content/uploads/2021/06/bras-bexiga-barra-funda.pdf>\>.
-Acesso em: mar. 2023.)
+Acesso em: 11 mar. 2023.)
 
 \num{6} Gaetaninho, personagem que dá nome ao conto, é uma criança
 descendente de italianos. Quais elementos, neste trecho, permitem
@@ -3641,15 +3601,14 @@ no parágrafo anterior.
 d\) Incorreta. O fato de driblar a mãe com perfeição não significa que
 Gaetaninho sabia jogar como um profissional.}
 
-Observe a imagem a seguir e responda às questões 8, 9 e 10.
+Observe o diálogo a seguir, trocado em um aplicativo de mensagens instantâneas, e responda às questões 8, 9 e 10.
 
-![Interface gráfica do usuário, Texto, Aplicativo, chat ou mensagem de
-texto Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image33.png){width="4.525392607174103in"
-height="4.975430883639545in"}
+[10:30] Amigo, tá chovendo, vem correndo. pfv!
 
-ARTE: CRIEI ISTO AQUI NO PPT. Favor recriar uma conversa como se fosse
-whatsapp usando este diálogo.
+[...]
+
+[10:40] Miga, se eu for correndo, quem dirige o carro?
+
 
 \num{8} Considerando-se o nível de linguagem do diálogo, que tipo de
 proximidade têm as pessoas que participam dessa conversa?
@@ -3666,14 +3625,11 @@ o amigo fosse correndo?
 
 \coment{A pessoa quis dizer para o amigo ir logo.}
 
-\num{10} Ainda no primeiro bloco de texto, aparece o termo "pfv". Que
-elemento auxilia o amigo a compreender o significado que essa expressão
-quis dizer?
+\num{10} Ainda no primeiro bloco de texto, aparece o termo "pfv". O que esse termo significa?
 
 \linhas{3}
 
-\coment{O emoji das mãos juntas, em oração, que reforça o pedido de
-"por favor".}
+\coment{O termo significa "por favor".}
 
 \colorsec{Treino}
 
