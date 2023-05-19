@@ -5,10 +5,9 @@
 
 % \newcommand{\watermark}{teste.pdf}
 \newcommand{\watermarkOdd}{img1.pdf} % Arquivo para páginas ímpares
-\newcommand{\watermarkEven}{img3.pdf} % Arquivo para páginas pares
-\newcommand{\adhocWatermark}{img2.pdf}
-\newcommand{\excludedpage}{3} % Número da página em que você não deseja que o watermark seja exibido
-
+\newcommand{\watermarkEven}{img2.pdf} % Arquivo para páginas pares
+\newcommand{\adhocWatermark}{blank.pdf}
+\newcommand{\excludedpage}{0} % Número da página em que você não deseja que o watermark seja exibido
 
 \begin{document}
 \BgThispage % Aplica a marca d'água à página atual
@@ -17,14 +16,13 @@
 \lipsum[1-4]\AdhocWatermark
 \lipsum[1-4]
 \lipsum[1-4]
+\lipsum[1-4]\AdhocWatermark
 \lipsum[1-4]
 \lipsum[1-4]
-\renewcommand{\adhocWatermark}{img4.pdf}\AdhocWatermark
+\lipsum[1-4]
+\lipsum[1-4]
+\lipsum[1-4]
 
-\lipsum[1-4]
-\lipsum[1-4]
-\lipsum[1-4]
-\lipsum[1-4]
 
 
 \end{document}
