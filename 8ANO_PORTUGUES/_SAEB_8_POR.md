@@ -3126,10 +3126,10 @@ ambos são prejuízos da tecnologia, segundo o texto.
 
 # Módulo 11 
 
- ** -- **Variação linguística**
+ **Variação linguística**
  
- \colorsec{Habilidades do SAEB}
- - Analisar as variedades linguísticas em textos.
+\colorsec{Habilidades do SAEB}
+- Analisar as variedades linguísticas em textos.
 - Avaliar a adequação das variedades linguísticas em contextos de uso.
 
 \colorsec{Habilidades da BNCC}
@@ -3138,21 +3138,18 @@ ambos são prejuízos da tecnologia, segundo o texto.
 A língua portuguesa é falada, no Brasil, por mais de 200 milhões de
 pessoas, que podem ser agrupadas de acordo com as diferentes regiões do
 país, os diferentes grupos sociais, as diferentes profissões, as
-diferentes faixas de idade, os diferentes níveis de escolaridade, as
-diferentes classes sociais, enfim, qualquer outro critério que possamos
+diferentes faixas de idade, os diferentes níveis de escolaridade, os
+diferentes estratos sociais ou, enfim, qualquer outro critério que possamos
 determinar.
 
-Mas será que, com tanta diversidade de grupos sociais, todas as pessoas
+Será que, com tanta diversidade de grupos sociais, todas as pessoas
 usam a língua da mesma forma? Será que você consegue identificar o grupo
-a que uma pessoa pertence pelo modo como ela usa a língua? Claro que
-sim! A língua pode variar de época para época, de região para região, de
-classe social para classe social etc., e essas variações são um fenômeno
-natural na língua. A variação, portanto, é parte integrante da língua.
+a que uma pessoa pertence pelo modo como ela usa a língua? A língua pode variar de época para época, de região para região, de estrato social para estrato social etc., e essas variações são um fenômeno natural na língua. A variação, portanto, é parte integrante da língua.
 
 Então será que existe um modo melhor ou mais correto de usar a língua?
-Claro que não! A melhor variedade da língua será aquela mais adequada à
-situação comunicativa. Portanto, todas as variedades de uso da língua
-têm o mesmo valor, desde que sejam usadas na situação comunicativa
+A resposta é que não. A melhor variedade da língua será aquela mais adequada à
+situação comunicativa. Todas as variedades de uso da língua
+têm, portanto, o mesmo valor, desde que sejam usadas na situação comunicativa
 adequada.
 
 As duas variedades de uso da língua mais comuns são a culta e a popular.
@@ -3160,9 +3157,8 @@ A variedade culta é usada por falantes escolarizados e está mais próxima
 da norma-padrão ensinada nos livros de gramática usados na escola, pois
 seu uso está baseado em regras gramaticais explícitas. A variedade
 popular, por sua vez, é usada por falantes menos escolarizados e está
-mais distante da norma-padrão ensinada nos livros, ignorando diversas
-regras impostas nesses livros, por isso tende a sofrer preconceito
-linguístico.
+mais distante da norma-padrão ensinada nos livros, sem a imposição de diversas
+regras desses livros. É essa variedade que tende a sofrer preconceito linguístico.
 
 Essa situação é resultado de má interpretação e desconhecimento, pois as
 pessoas pensam que a norma popular não tem regras e que somente a
@@ -3175,15 +3171,15 @@ regras conhecidas, isto é, explícitas. Caso não houvesse regras
 gramaticais na norma popular, você não conseguiria compreender um
 falante dessa variedade, e isso não é o que acontece na realidade.
 
-Mas isso significa que pessoas escolarizadas só usem a variedade culta e
-pessoas menos escolarizadas só usem a variedade popular, e que uma
-variedade é melhor ou mais correta que a outra? Não! Todos nós usamos,
+Mas isso significa que pessoas escolarizadas só usam a variedade culta e
+pessoas menos escolarizadas só usam a variedade popular e que uma
+variedade é melhor ou mais correta que a outra? Não. Todos nós usamos,
 por exemplo, a variedade popular em algum momento, até mesmo com o
 objetivo de nos adequarmos a uma situação comunicativa em que ela seja
 necessária, provando assim que ela é uma variedade tão útil quanto a
 variedade culta. Tanto as pessoas escolarizadas quanto as não
 escolarizadas poderão usar ambas as variedades da língua conforme sintam
-a necessidade de adequar sua linguagem ao contexto. A única diferença é
+a necessidade de adequar sua linguagem a um contexto específico. A única diferença é
 que as pessoas menos escolarizadas terão mais dificuldades em usar a
 variedade culta, porque saber usá-la depende de ensino formal,
 justamente por ser mais próxima da norma-padrão ensinada nos livros de
@@ -3194,384 +3190,231 @@ norma popular e norma-padrão: a norma culta é tipicamente falada por
 pessoas escolarizadas; a norma popular é tipicamente falada por pessoas
 não escolarizadas ou menos escolarizadas; e a norma-padrão é o conjunto
 de regras de uso da língua ensinadas nos livros de gramática usados na
-escola.
-
-A variação linguística pode ser percebida por meio de marcas
-linguísticas deixadas pelo falante. Vejamos agora alguns tipos de
-variação linguística.
-
-+----------------------------------+----------------------------------+
-| **Variação linguística**         | Usos de uma língua que se        |
-|                                  | diferenciam da norma-padrão      |
-|                                  | influenciados por convenções     |
-|                                  | sociais, momento histórico,      |
-|                                  | contexto ou região em que o      |
-|                                  | falante se encontra.             |
-+==================================+==================================+
-| **Variação histórica**           | Influenciada pelo momento        |
-|                                  | histórico da língua.             |
-|                                  | Apresenta-se como arcaísmo, isto |
-|                                  | é, uso de formas linguísticas    |
-|                                  | que estão em desuso na           |
-|                                  | atualidade.                      |
-|                                  |                                  |
-|                                  | Exemplo: O português falado hoje |
-|                                  | no Brasil não é o mesmo falado   |
-|                                  | no Brasil Colônia.               |
-+----------------------------------+----------------------------------+
-| **Variação geográfica            | Influenciada pela localidade ou  |
-| (regional)**                     | região de origem do falante.     |
-|                                  | Apresenta-se como sotaque e      |
-|                                  | regionalismo.                    |
-|                                  |                                  |
-|                                  | Exemplo: O vocabulário regional  |
-|                                  | gaúcho é diferente do            |
-|                                  | vocabulário regional mineiro, e  |
-|                                  | vice-versa.                      |
-+----------------------------------+----------------------------------+
-| **Variação social**              | Influenciada pelo grupo social a |
-|                                  | que pertence o falante. Alguns   |
-|                                  | exemplos são profissão, classe   |
-|                                  | social, nível de escolaridade,   |
-|                                  | tribos urbanas, idade, gênero.   |
-|                                  | Apresenta-se como gíria e        |
-|                                  | jargão.                          |
-|                                  |                                  |
-|                                  | Exemplo: As diferenças no modo   |
-|                                  | de usar a língua entre pessoas   |
-|                                  | de idades diferentes, profissões |
-|                                  | diferentes, classes sociais      |
-|                                  | diferentes etc.                  |
-+----------------------------------+----------------------------------+
-| **Variação situacional**         | Influenciada pela adequação da   |
-|                                  | linguagem a determinada situação |
-|                                  | ou contexto comunicativo.        |
-|                                  | Exemplo: Os diferentes modos de  |
-|                                  | falar que uma mesma pessoa adota |
-|                                  | com os amigos e numa entrevista  |
-|                                  | de emprego.                      |
-+----------------------------------+----------------------------------+
-
-O professor poderá explorar mais o assunto com debates em sala de aula,
-baseando-se em filmes que mostrem variação linguística, música e outros
-recursos que considerar convenientes, sempre trazendo à tona a questão
-do preconceito linguístico e da valorização social diferente que é dada
-às variedades da língua com base em critérios não linguísticos, mas
-históricos, ideológicos, políticos e econômicos.
+escola e preconizadas pela escrita.
 
 \colorsec{Atividades}
 
-\num{1} Conceitue norma-padrão, norma culta e norma popular.
+\num{1} Com suas próprias palavras, conceitue norma-padrão, norma culta e norma popular.
 
-  Norma-padrão   Norma culta   Norma popular
-  -------------- ------------- ---------------
-                               
+\linhas{8}
+\coment{A norma-padrão compreende o conjunto de regras de uso da língua escritas nos livros que se conhecem como gramáticas. A norma culta é a modalidade da língua falada por pessoas residentes em centros urbanos e com maior nível de escolaridade. A norma popular é a modalidade da língua falada pela população menos escolarizada.}
 
-  Norma-padrão                                                                           Norma culta                                                                                                   Norma popular
-  -------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------
-  Conjunto de regras de uso da língua escritas no livro que se conhece como gramática.   Modalidade da língua falada por pessoas residentes em centros urbanos e com nível de escolaridade superior.   Modalidade da língua falada pela população menos escolarizada, sobretudo no meio rural.
+\num{2} Conceitue variação linguística e cada tipo de variação linguística: histórica, social, geográfica, social ou situacional.
 
-\num{2} Conceitue variação linguística e cada tipo de variação
-linguística: variação histórica, social, geográfica, social,
-situacional.
+a) Variação linguística.
 
-  Variação linguística   
-  ---------------------- --
-  Variação histórica     
-  Variação social        
-  Variação geográfica    
-  Variação situacional   
+\linhas{4}
+\coment{Usos de uma língua que se diferenciam da norma-padrão influenciados por convenções sociais, momento histórico contexto ou região em que o falante se encontra.}
 
-+----------------------------------+----------------------------------+
-| **Variação linguística**         | Usos de uma língua que se        |
-|                                  | diferenciam da norma-padrão      |
-|                                  | influenciados por convenções     |
-|                                  | sociais, momento histórico,      |
-|                                  | contexto ou região em que o      |
-|                                  | falante se encontra.             |
-+==================================+==================================+
-| **Variação histórica**           | Influenciada pelo momento        |
-|                                  | histórico da língua.             |
-|                                  | Apresenta-se como arcaísmo, isto |
-|                                  | é, uso de formas linguísticas    |
-|                                  | que estão em desuso na           |
-|                                  | atualidade.                      |
-|                                  |                                  |
-|                                  | Exemplo: O português falado hoje |
-|                                  | no Brasil não é o mesmo falado   |
-|                                  | no Brasil Colônia.               |
-+----------------------------------+----------------------------------+
-| **Variação geográfica            | Influenciada pela localidade ou  |
-| (regional)**                     | região de origem do falante.     |
-|                                  | Apresenta-se como sotaque e      |
-|                                  | regionalismo.                    |
-|                                  |                                  |
-|                                  | Exemplo: O vocabulário regional  |
-|                                  | gaúcho é diferente do            |
-|                                  | vocabulário regional mineiro, e  |
-|                                  | vice-versa.                      |
-+----------------------------------+----------------------------------+
-| **Variação social**              | Influenciada pelo grupo social a |
-|                                  | que pertence o falante. Alguns   |
-|                                  | exemplos são profissão, classe   |
-|                                  | social, nível de escolaridade,   |
-|                                  | tribos urbanas, idade, gênero.   |
-|                                  | Apresenta-se como gíria e        |
-|                                  | jargão.                          |
-|                                  |                                  |
-|                                  | Exemplo: As diferenças no modo   |
-|                                  | de usar a língua entre pessoas   |
-|                                  | de idades diferentes, profissões |
-|                                  | diferentes, classes sociais      |
-|                                  | diferentes etc.                  |
-+----------------------------------+----------------------------------+
-| **Variação situacional**         | Influenciada pela adequação da   |
-|                                  | linguagem a determinada situação |
-|                                  | ou contexto comunicativo.        |
-|                                  | Exemplo: Os diferentes modos de  |
-|                                  | falar que uma mesma pessoa adota |
-|                                  | com os amigos e numa entrevista  |
-|                                  | de emprego.                      |
-+----------------------------------+----------------------------------+
+b) Variação histórica.
 
-\num{3} Pense sobre os seguintes exemplos de preconceito linguístico e
-responda.
+\linhas{4}
+\coment{Trata-se da variação linguística influenciada pelo momento histórico da língua. Apresenta-se com arcaísmo, isto é, uso de formas linguísticas que estão em desuso na atualidade. Por exemplo, o português falado hoje no Brasil não é o mesmo falado no Brasil Colônia.}
 
--   rir de alguém por causa do sotaque;
+c) Variação geográfica.
 
--   achar que o português falado em Portugal é mais correto que o falado
-    > no Brasil;
+\linhas{4}
+\coment{Trata-se da variação linguística influenciada pela localidade de origem do falante. Apresenta-se como sotaque e regionalismo. Por exemplo, o vocabulário regional gaúcho é diferente do vocabulário regional mineiro.}
 
--   debochar de quem usa gírias antigas;
+d) Variação social.
 
--   corrigir a pronúncia "errada" de alguém;
+\linhas{4}
+\coment{Trataa-se da variação linguística influenciada pelo grupo social a que pertence o falante. Alguns exemplos são profissão, estrato social, nível de escolaridade, tribos urbanas, idade, gênero. Apresenta-se como gíria e jargão. Por exemplo, as diferenças no modo de usar a língua entre pessoas de idades diferentes.}
 
--   acreditar que a linguagem usada antigamente era mais correta;
+d) Variação situacional.
 
--   discriminar a linguagem simplificada usada na internet.
+\linhas{4}
+\coment{Trata-se da variação linguística influenciada pela adequação da linguagem a determinada situação ou a determinado contexto comunicativo. Por exemplo, os diferentes modos de falar que uma mesma pessoa adota com os amigos ou em uma entrevista de emprego.}
 
-O preconceito linguístico realmente se justifica nessas situações, ou
+\num{3} Pense sobre os seguintes exemplos de preconceito linguístico.
+
+* Rir de alguém por causa do sotaque;
+* Achar que o português falado em Portugal é mais correto que o falado no Brasil;
+* Debochar de quem usa gírias antigas;
+* Corrigir a pronúncia "errada" de alguém;
+* Acreditar que a linguagem usada antigamente era mais correta;
+* Discriminar a linguagem simplificada usada na internet.
+
+O preconceito linguístico realmente se justifica nessas situações ou
 esses usos devem ser entendidos como um fenômeno natural de variação da
-língua? Justifique. (6 linhas)
+língua? Justifique sua resposta.
 
-Esses usos devem ser entendidos como variação linguística, pois são
+\linhas{8}
+\coment{Esses usos devem ser entendidos como variação linguística, pois são
 variedades que respeitam regras internas da língua portuguesa, assim
 como outros usos mais valorizados socialmente, como, por exemplo, aquele
 prescrito pela norma-padrão. Caso não respeitassem regra alguma, seriam
-incompreensíveis a um falante da língua portuguesa.
+incompreensíveis para um falante da língua portuguesa.}
 
-\num{4} Escreva o tipo de variação linguística representado em cada
-situação de uso da língua e indique o fator que influencia a variação.
+\num{4} Escreva o tipo de variação linguística representado em cada situação de uso da língua e indique o fator que influencia a variação.
 
-  **Uso da língua**                                                            **Tipo de variação linguística**
-  ---------------------------------------------------------------------------- ----------------------------------
-  Falar com sotaque para marcar sua origem natal                               
-  Usar jargão médico para conversar com um colega enfermeiro                   
-  Conversar com o avô e estranhar os termos que ele usa de determinada época   
-  Usar linguagem formal para participar de uma entrevista de emprego           
+a) Falar com sotaque para marcar sua origem natal.
 
-  **Uso da língua**                                                        **Tipo de variação linguística**
-  ------------------------------------------------------------------------ --------------------------------------------------------------------
-  Falar com sotaque para marcar sua origem natal                           Variação geográfica (influenciada pela região)
-  Usar jargão médico para conversar com um colega enfermeiro               Variação social (influenciada pela profissão)
-  Conversar com o avô e estranhar os termos que ele usa de época passada   Variação histórica (influenciada pelo momento histórico da língua)
-  Usar linguagem formal para participar de uma entrevista de emprego       Variação situacional (influenciada pela adequação ao contexto)
+\linhas{2}
+\coment{Variação geográfica, influenciada pela região de origem.}
+
+b) Usar jargão médico para conversar com um colega enfermeiro.
+
+\linhas{2}
+\coment{Variação social, influenciada pela profissão.}
+
+c) Conversar com o avô e estranhar os termos que ele usa de determinada época.
+
+\linhas{2}
+\coment{Variação história, influenciada pela diferença de idade.}
+
+d) Usar linguagem formal para participar de uma entrevista de emprego.
+
+\linhas{2}
+\coment{Variação situacional, influenciada pela adequação ao contexto.}
 
 \num{5} Leia o texto a seguir.
 
-MULHER, entrando, assombrada.
+>**Auto da compadecida**
+>
+*MULHER, entrando, assombrada.* Valha-me Deus! Ai, meu marido de minha alma, vai morrer todo mundo agora. Socorro, Senhor Bispo.
+>
+*BISPO* Que há? Que é isso? Que barulho!
+>
+*MULHER* É Severino do Aracaju, que entrou na cidade com um cabra e vem para cá roubar a igreja.
+>
+*PADRE* Ave-Maria! Valha-me Nossa Senhora!
+>
+*BISPO* Quem é Severino do Aracaju?
+>
+*SACRISTÃO* Um cangaceiro, um homem horrível.
+>
+*BISPO, à mulher.* Chame a polícia.
 
-Valha-me Deus! Ai, meu marido de minha alma, vai morrer todo mundo
-agora. Socorro,
-
-Senhor Bispo.
-
-BISPO
-
-Que há? Que é isso? Que barulho!
-
-MULHER
-
-É Severino do Aracaju, que entrou na cidade com um cabra e vem para cá
-roubar a igreja.
-
-PADRE
-
-Ave-Maria! Valha-me Nossa Senhora!
-
-BISPO
-
-Quem é Severino do Aracaju?
-
-SACRISTÃO
-
-Um cangaceiro, um homem horrível.
-
-BISPO, à mulher.
-
-Chame a polícia.
-
-SUASSUNA, Ariano. *Auto da compadecida.* 35 ed. Rio de Janeiro: Agir,
-2005 (fragmento).
+Ariano Suassuna. *Auto da compadecida*. Rio de Janeiro: Agir, 2005.
 
 Transcreva do texto um segmento que exemplifique a variação linguística
 geográfica.
 
-(2 linhas)
+\linhas{2}
+\coment{O trecho é este: "entrou na cidade com um cabra". A palavra "cabra" faz parte do vocabulário nordestino e é uma forma de designar um sujeito.}
 
-Resposta: "entrou na cidade com um cabra"
-
-A palavra "cabra" faz parte do vocabulário nordestino e é uma forma de
-designar um sujeito.
-
-**Nas questões de 6 a 9, classifique o tipo de variação linguística
+Nas questões de 6 a 9, classifique o tipo de variação linguística
 exemplificado ou abordado em cada texto e aponte o fator que influencia
-a variação.**
+a variação.
 
-\num{6} Tipo de variação linguística:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\num{6} Leia o diálogo.
 
-Fator de influência:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+>--- E aí, mano, tudo certo?
 
--- E aí, mano.
+>--- Tudo tranquilo, cabuloso! Aquele mar hoje tá casca grossa, hein?
 
---E aí, cabuloso
+>--- É verdade, mano! O swell tá gigante, perfeito para uma session radical. Vamos encarar?
 
--- Hoje eu conheci um surfista casca grossa em uma competição na praia.
+>--- Com certeza, mano! Mas olha lá, tem uns caras marrentos no pico, não dá mole pra eles.
 
--- Sério? Quem é ele?
+>--- Nem trip, mano! A gente tá na nossa praia, não vamos deixar nenhum caô estragar nossa vibe.
 
--- Um tal de Sérgio.
+>--- É isso aí! Vamos pegar umas ondas iradas, mostrar nosso estilo e deixar os outros na trip deles.
 
--- Ah, conheço o sujeito, só não é mais marrento porque é só um!
+>--- Combinado, mano! Vamos arrasar nesse mar, manter a humildade e curtir cada momento. Bora!
 
--- Não, mano! Ele é gente boa, sem kaô. Marcamos até um trip e eu tava
-pensando em te levar junto.
+\fonte{Texto escrito para este material.}
 
--- Eu toparia se pudesse levar o Marquinhos, o cara é big rider.
+a) Tipo de variação linguística.
 
--- Conheço o sujeito. Mas, aliás, você sabe onde é o point que vamos com
-o Sérgio?
+\linhas{1}
+\coment{Variação social.}
 
--- Não, mas qualquer coisa eu vou junto com você.
+b) Fator de influência.
 
---Valeu, mano. Você vai ver como o Sérgio é gente boa. Ah, e tenho uma
-história zoada pra te contar.
+\linhas{2}
+\coment{Pertencimento a uma tribo urbana (surfistas).}
 
--- O quê?
+\num{7} Leia o texto.
 
--- Eu fui com a minha mina na praia, até que eu decido impressionar ela,
-pego minha prancha e vou pegar uma onda. Mas na hora do drop, eu levei
-uma vaca, passei o dia inteiro com vergonha, e o lugar tava crowd.
-
-Disponível em: https://brainly.com.br/tarefa/12113762. Acesso em: 18
-mar. 2023 (adaptado).
-
-Tipo de variação linguística: social
-
-Fator de influência: pertencimento a uma tribo urbana (surfista)
-
-\num{7} Tipo de variação linguística:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Fator de influência:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Dali avistamos homens que andavam pela praia, obra de sete ou oito. Eram
+>Dali avistamos homens que andavam pela praia, obra de sete ou oito. Eram
 pardos, todos nus. Nas mãos traziam arcos com suas setas. Não fazem o
 menor caso de encobrir ou mostrar suas vergonhas; nisso têm tanta
 inocência como em mostrar o rosto. Ambos traziam os beiços de baixo
 furados e metidos neles seus ossos brancos e verdadeiros. Os cabelos
-seus são corredios."
+seus são corredios.
 
-CAMINHA, P.V. Carta. In: RIBEIRO, et al. *Viagem pela história do
-Brasil*: documentos. São Paulo: Companhia das Letras, 1997 (fragmento).
+\fonte{ Pero Vaz de Caminha.}
 
-Tipo de variação linguística: histórica
+a) Tipo de variação linguística.
 
-Fator de influência: momento histórico da língua
+\linhas{1}
+\coment{Variação histórica.}
 
-\num{8} Tipo de variação linguística:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+b) Fator de influência.
 
-Fator de influência:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{2}
+\coment{Distância do texto no tempo.}
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image26.png){width="2.6145833333333335in"
-height="2.8645833333333335in"}
+\num{8} Leia o texto.
 
-CARQUEIJÓ, Joaquim. *Arte da cozinha*, São Paulo, n. 03.
+>**Uma raiz popular**
 
-Tipo de variação linguística: geográfica
+>A mandioca, uma das raízes mais populares no Brasil, possui diversos nomes que variam de acordo com a região do país. Em grande parte do Brasil, é conhecida como mandioca, mas em algumas áreas, como no Sudeste e Nordeste, é chamada de aipim. Já na região Norte do país, o nome mais comum é macaxeira. Essas diferentes denominações refletem a diversidade cultural e linguística do Brasil. Independentemente do nome, a mandioca é um alimento amplamente consumido e apreciado em todas as regiões, seja na forma de farinha, cozida, frita ou como ingrediente principal de pratos típicos, como a famosa tapioca. É incrível como um único alimento pode ser chamado de maneiras tão diferentes, mas o sabor e a versatilidade da mandioca são apreciados por todos, não importa o nome que se use.
 
-Fator de influência: região do falante
+\fonte{Texto escrito para este material.}
 
-\num{9} Tipo de variação linguística:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+a) Tipo de variação linguística.
 
-Fator de influência:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\linhas{1}
+\coment{Variação geográfica.}
 
-A entrevista é o momento de comunicar quem você é, o que sabe fazer,
-suas experiências anteriores e planos para o futuro. É nessa hora que
-muita gente pisa na bola.
+b) Fator de influência.
 
-Para não chegar despreparado ao que pode ser o seu primeiro passo rumo a
-uma carreira de sucesso, o segredo é estudar um bocado e seguir algumas
-regras para mandar bem na entrevista. Descubra a seguir!
+\linhas{2}
+\coment{Região de origem do falante.}
 
-1\. \[\...\]
+\num{9} Leia o texto.
 
-\num{2} Cuidado com a linguagem
+>**Entrevista de emprego**
 
-Ter um vocabulário adequado é importante para passar uma boa impressão
-ao entrevistador. Por isso, evite a todo custo falar gírias, palavrões e
-expressões chulas. Não que você precise ser excessivamente formal, ou
-tenha que usar palavras difíceis. Basta ser simples e direto.
+>A entrevista é o momento de apresentar sua identidade, suas habilidades, suas experiências passadas e seus planos futuros. Nessa ocasião, muitas pessoas cometem erros. Para se preparar adequadamente para o que pode ser o primeiro passo em direção a uma carreira de sucesso, a chave é estudar bastante e seguir algumas orientações para se sair bem na entrevista. Por exemplo, ter um vocabulário apropriado é fundamental para causar uma boa impressão no entrevistador. Portanto, evite a todo custo utilizar gírias, palavras ofensivas ou expressões vulgares. Isso não significa que você precisa ser excessivamente formal ou utilizar termos complexos. Basta ser claro e objetivo.
 
-GUIA DA CARREIRA. Disponível em:
-https://www.guiadacarreira.com.br/blog/cuidados-entrevista. Acesso em:
-18 mar. 2023 (fragmento).
+\fonte{Texto escrito para este material.}
 
-Tipo de variação linguística: situacional
+a) Tipo de variação linguística.
 
-Fator de influência: contexto comunicativo
+\linhas{1}
+\coment{Variação situacional.}
 
-\num{0} Leia esta postagem do Tribunal Regional Eleitoral.
+b) Fator de influência.
 
-![Interface gráfica do usuário, Texto, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image27.png){width="5.260416666666667in"
-height="1.4716054243219598in"}
+\linhas{2}
+\coment{Contexto em que se dá a interação comunicativa.}
 
-Avalie a adequação da linguagem ao público-alvo da publicação. (5
-linhas)
+\num{10} Em 2022, o Tribunal Regional Eleitoral de Santa Catarina (TRE-SC) publicou, no Twitter, o texto reproduzido a seguir.
 
-O público-alvo da publicação são os jovens, conhecidos por sua linguagem
-característica permeada por gírias e expressões informais que
-transgridem a norma-padrão, o que se identifica no texto da publicação.
-Portanto, na tentativa de dialogar com esse público, a linguagem está
-adequada.
+>Bora votar este ano, galera!!! Bora participar do #RolêdasEleições --- twittaço promovido pelo @TSE hoje para conscientizar os jovens sobre a importância do voto. Quem tá dentro? Faça o seu título!
+
+Avalie a adequação da linguagem ao público-alvo da publicação.
+
+\linhas{8}
+\coment{O público-alvo da publicação são os jovens, conhecidos por sua linguagem
+característica permeada por gírias e expressões informais que não são pautadas pela norma-padrão, o que se identifica no texto da publicação. Na tentativa de dialogar com esse público, a linguagem está adequada.}
 
 \colorsec{Treino}
 
-\num{1}
+\num{1} Leia o texto.
 
-**POPline**: Quando vocês \[Nando Reis e Pitty\] tiveram a ideia de sair
+>**ENTREVISTA: a simbiose afetuosa de Pitty e Nando Reis em nova turnê**
+
+>\[...]
+
+>**POPline**: Quando vocês \[Nando Reis e Pitty\] tiveram a ideia de sair
 em turnê juntos? Foi papo de empresário ou partiu de vocês?
 
-**Nando**: Então, na verdade não foi um papo de empresário coisa
-nenhuma, foi uma ideia nossa. Começou há um ano e meio. Ela publicou um
-vídeo dela cantando "Relicário". Eu fiquei super emocionado. Começamos a
+
+>**Nando**: Então, na verdade não foi um papo de empresário coisa
+nenhuma. Foi uma ideia nossa. Começou há um ano e meio. Ela publicou um
+vídeo dela cantando "Relicário". Eu fiquei superemocionado. Começamos a
 conversar. Eu fiz um convite pra fazer o dueto \["Um tiro no coração"\]
 e imediatamente ela topou, mas falou "eu quero mais". E daí pintou a
 ideia de fazer a turnê em que estamos trabalhando há um ano e tanto.
 
-Disponível em:
-<https://portalpopline>.com.br/entrevista-simbiose-pitty-nando-reis-nova-turne/.
+>\[...]
 
-Acesso em: 18 mar. 2023 (fragmento adaptado).
+\fonte{Douglas Françoza. POPline. ENTREVISTA: a simbiose afetuosa de Pitty e Nando Reis em nova turnê. Disponível em: _https://portalpopline.com.br/entrevista-simbiose-pitty-nando-reis-nova-turne/_. Acesso em: 18 mar. 2023.}
 
 Dois registros de variação linguística que influenciam o nível da
 formalidade da entrevista são demonstrados em
@@ -3584,29 +3427,25 @@ c\) "Ela publicou um vídeo" e "foi uma ideia nossa".
 
 d\) "Um tiro no coração" e "Começou há um ano e meio".
 
-Saeb: Analisar as variedades linguísticas em textos.
-
-BNCC: EF69LP55
+SAEB: Analisar as variedades linguísticas em textos.
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 \(A\) Correta. As duas expressões promovem uma interação informal entre
 os participantes da entrevista, pois estão presentes em ambas as falas,
 do entrevistado e do entrevistador, de modo a aumentar o engajamento de
 ambos no diálogo.
-
-\(B\) Incorreta. Os termos não exemplificam nenhum tipo de variação
+\(B\) Incorreta. Os termos destacados não exemplificam nenhum tipo de variação
+linguística.
+\(C\) Incorreta. Os termos destacados não exemplificam nenhum tipo de variação
+linguística.
+\(D\) Incorreta. Os termos destacados não exemplificam nenhum tipo de variação
 linguística.
 
-\(C\) Incorreta. Os termos não exemplificam nenhum tipo de variação
-linguística.
+\num{2} Leia o texto.
 
-\(D\) Incorreta. Os termos não exemplificam nenhum tipo de variação
-linguística.
+>**Conexão**
 
-\num{2}
-
-**Conexão**
-
-Regido por esse despretensioso fluxo de ideias, me sinto tentado a fazer
+>Regido por esse despretensioso fluxo de ideias, me sinto tentado a fazer
 uma parada. Até aqui me fiz tantas perguntas\... Mas será que você,
 leitor, é um jovem em busca de referências? Ou será que você é como eu
 quando adolescente, que queria bater um papo sobre as identidades em
@@ -3614,8 +3453,7 @@ formação, mas sem um viés acadêmico? Só um papo que trouxesse conforto e
 em que eu pudesse me espelhar\... Quando, neste livro, eu sou você? Onde
 nos encontramos? Em nossas semelhanças ou em nossas discordâncias?
 
-RAMOS, Lázaro. *Na minha pele*. 1.ed. Rio de Janeiro: Objetiva, 2017
-(fragmento).
+Lázaro Ramos. *Na minha pele*. Rio de Janeiro: Objetiva, 2017.
 
 A composição do texto privilegia o emprego de linguagem
 
@@ -3627,59 +3465,53 @@ c\) formal, visando adequar-se ao público intelectual.
 
 d\) coloquial, visando atingir o leitor menos escolarizado.
 
-Saeb: Avaliar a adequação das variedades linguísticas em contextos de
+SAEB: Avaliar a adequação das variedades linguísticas em contextos de
 uso.
-
-BNCC: EF69LP55
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 \(A\) Correta. O texto tem a finalidade de interagir com o leitor, o que
-se percebe pelas perguntas pessoais que faz para buscar aproximar-se
+se percebe pelas perguntas pessoais que são feitas para buscar aproximar-se
 dele. Para isso, emprega linguagem informal, que se percebe na colocação
-pronominal diferente do que prescreve a norma-padrão -- "me sinto" -- e
+pronominal diferente do que prescreve a norma-padrão --- "me sinto" --- e
 no emprego de expressões do dia a dia, como "bater um papo".
-
 \(B\) Incorreta. A linguagem do texto pode ser considerada como um uso
 culto da língua, pois o autor é alguém que reside em centro urbano e
 teve acesso à escolaridade, o que se percebe por sua boa articulação em
 língua escrita. Entretanto, o erro está em dizer que o autor visa exibir
 seu domínio da língua para o leitor.
-
 \(C\) Incorreta. O texto não visa a um público intelectual, e sim aos
-diferentes tipos de leitores que podem ter acesso ao texto. Isso fica
-claro na crítica feita ao viés acadêmico com que se aborda o tema. A
+diferentes tipos de leitor que podem ter acesso ao texto. Isso fica
+claro na crítica feita ao viés acadêmico com que se pode abordar o tema. A
 linguagem empregada no texto busca atingir o maior número de tipos de
-leitores possível, daí seu caráter mais acessível.
-
+leitor possível; daí seu caráter mais acessível.
 \(D\) Incorreta. O texto visa a um público leitor diversificado. Além
 disso, a linguagem coloquial não pressupõe que o leitor deva ser menos
 escolarizado.
 
-\num{3}
+\num{3} Leia o texto.
 
-**Mudança**
-
+>**Mudança**
+>
 Levantei as 6 hóras preparando as roupas, fazendo trouxas para zarpar da
 favela. Fiz o café e fui comprar pão, pedi ao Chico para atender-me logo
 porque eu ia mudar.
+>
+--- Para onde?
 
--- Para onde?
+>--- Vou ressidir em Osasco.
 
--- Vou ressidir em Osasco.
+>Ele serviu logo, paguei e sai correndo.
 
-Ele serviu logo, paguei e sai correndo.
-
-Estava preparando os trastes quando chegou o senhor Paulino de Moura
+>Estava preparando os trastes quando chegou o senhor Paulino de Moura,
 dono da livraria Boulevard. Vêio convidar-me para eu ir na sua livraria
 autografar os meus livros.
 
-Eu disse-lhe que irei depois que agêitar a vida dos meus filhos porque,
-quando eu os deixo na favela os favelados maltrata-os. \[\...\]
+>Eu disse-lhe que irei depois que agêitar a vida dos meus filhos porque,
+quando eu os deixo na favela, os favelados maltrata-os. \[\...\]
 
-JESUS, Carolina Maria de. *Casa de alvenaria, volume 1*: Osasco. 1.ed.
+\fonte{Carolina Maria de Jesus. *Casa de alvenaria:* Osasco. São Paulo: Companhia das Letras, 2021.}
 
-São Paulo: Companhia das Letras, 2021 (fragmento).
-
-O texto é um trecho do diário de Maria Carolina de Jesus publicado num
+O texto é um trecho do diário de Maria Carolina de Jesus publicado em um
 livro. Os acentos gráficos em "hóras", "vêio" e "agêitar" revelam que
 sua escrita é fortemente influenciada pela
 
@@ -3691,31 +3523,26 @@ c\) regionalidade.
 
 d\) informalidade.
 
-Saeb: Analisar as variedades linguísticas em textos.
-
-BNCC: EF69LP55
+SAEB: Analisar as variedades linguísticas em textos.
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 \(A\) Incorreta. O desvio ortográfico presente no texto não é
 proveniente da idade da autora, pois não é marca de distinção de uma
 geração específica.
-
 \(B\) Correta. O desvio ortográfico presente no texto provém do nível de
 escolaridade da autora, cuja escrita se mostra influenciada pela
 oralidade diante de certas relações entre som e letra que são aprendidas
 somente com ensino formal. O contexto também permite essa constatação,
 pois a autora é moradora da periferia, onde normalmente está a maior
-parte da população pouco escolarizada.
-
+parte da população menos escolarizada.
 \(C\) Incorreta. O desvio de escrita em questão não é distintivo de
 regionalidade.
-
 \(D\) Incorreta. No texto, predomina a colocação pronominal enclítica
 (atender-me/disse-lhe/maltrata-os), uma marca característica da
 linguagem formal. Além disso, os desvios ortográficos em questão são
 provenientes do baixo domínio das relações representativas entre som e
 letra.
 
-[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]{.underline}
 
 #Simulado 1
 
