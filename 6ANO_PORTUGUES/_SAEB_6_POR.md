@@ -3106,35 +3106,28 @@ construído por Santos Dummont. Não ocorre metonímia.
 Habilidade da BNCC: EF06LP12.
  
  \coment{
-Na língua portuguesa, sempre que vamos nos referir a um substantivo
+Na língua portuguesa, quando vamos nos referir a um substantivo,
 empregamos algumas classes de palavras capazes de dar a ele limites de
 significação. É o caso de artigos, adjetivos, numerais e pronomes.
 
 Os pronomes são os responsáveis por relacionar o substantivo a uma das
 três pessoas do discurso (quem fala, com quem se fala e de quem se
 fala), podendo, ainda, indicar a posse de um objeto ou sua localização.
-Quando substituem o substantivo, denominam-se pronome substantivo;
-quando o acompanham, pronome adjetivo.
+Quando substituem o nome, denominam-se pronomes substantivos;
+quando o acompanham, pronomes adjetivos.
 
 Os pronomes classificam-se em: pessoais, possessivos, demonstrativos,
 interrogativos, indefinidos e relativos.
 
-Ainda no campo semântico da língua, ou seja, que estuda as classes de
+Ainda no campo semântico da língua, ou seja, aquele em que se estudam as classes de
 palavras, vamos ressaltar neste módulo o estudo dos **sinônimos** (em
 que palavras diferentes apresentem semelhante ou igual campo de
-significação), **antônimos** (referem-se a termos que apresentam,
-simultaneamente, grafias e sentidos diferentes, esses, muitas vezes
-opostos entre si) e **homônimos** (palavras que trazem sentido distinto,
-embora apresentem pronúncia idêntica).}
+significação), **antônimos** (palavras referem-se a termos que apresentam sentidos
+opostos entre si) e **homônimos** (palavras que coincidem na fala, na escrita ou em ambas.).}
 
 
-Observe a imagem a seguir e responda aos exercícios.
+Observe a imagem a seguir, leia o texto que a acompanha e responda às questões de 1 a 4.
 
-![Texto sobre foto de cachorro Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image30.png){width="3.145736001749781in"
-height="3.1416666666666666in"}
-
-\fonte{
 <https://br.freepik.com/fotos-gratis/colecao-de-retratos-de-cachorrinhos-adoraveis_19008908.htm#query=pets&position=21&from_view=search&track=sph>
 
 Textos: TODO GRUPINHO DA ESCOLA TEM
@@ -3166,19 +3159,18 @@ sentido provocado pelo pronome em destaque?
 \linhas{4}
 
 \coment{"Todo" é um pronome indefinido, que traz ao texto a ideia de
-generalização: todo grupo tem um aluno com aquelas características,
-porém sem nomear um grupo específico.}
+generalização, porém sem nomear um grupo específico: qualquer grupo tem um aluno com aquelas características.}
 
 \num{3} Substitua os termos destacados a seguir por um sinônimo e um
-antônimo.
+antônimo, considerando o contexto.
 
-a\) o que faz **cara de dó**
+a\) o que faz cara de **dó**
 
 Sinônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Antônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-b\) o que **só ri**
+b\) o que só **ri**
 
 Sinônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3190,7 +3182,7 @@ Sinônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Antônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-d\) o que só **tira nota alta**
+d\) o que só tira nota **alta**
 
 Sinônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3199,14 +3191,14 @@ Antônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \coment{Algumas alternativas apresentam mais de uma
 possibilidade de resposta. Sugere-se, se possível, aproveitar a
 atividade para orientar o uso de um dicionário para consulta.
-a\) Sinônimo: cara de piedade
-Antônimo: cada de sapeca
-b\) Sinônimo: cara de piedade
-Antônimo: cada de sapeca
+a\) Sinônimo: piedade
+Antônimo: desprezo
+b\) Sinônimo: gargalha
+Antônimo: chora
 c\) Sinônimo: cortês, gentil, solidário
 Antônimo: malvado
-d\) Sinônimo: inteligente
-Antônimo: tira nota baixa}
+d\) Sinônimo: boa
+Antônimo: baixa}
 
 \num{4} Um dos cachorrinhos representa um tipo de aluno considerado
 "desligado". Escreva uma frase que contenha um efeito de sentido
@@ -3237,91 +3229,45 @@ d\) Nada pode fazer para \_\_\_\_\_\_\_\_\_ ficar, infelizmente.
 
 e\) Entre \_\_\_\_\_\_ e você há um abismo de ressentimentos.
 
-f\) Entre tu e \_\_\_\_\_\_\_\_ há muitos assuntos para serem tratados.
+f\) Pode fazer aquela comida gostosa para \_\_\_\_\_\_\_\_?
 
-g\) Pode fazer aquela comida gostosa para \_\_\_\_\_\_\_\_?
-
-\coment{a\) eu; b) mim; c) eu; d) eu; e) eu; f) eu; g) mim}
+\coment{a\) eu; b) mim; c) eu; d) eu; e) mim; f) mim}
 
 Leia um excerto da crônica "O lápis", de Mário Prata, e responda aos
-exercícios 6 a 9.
+exercícios de 6 a 9.
 
-"Aí, não tendo mais o que inventar para brincar, resolvi escrever um
-texto com letra de forma (por que se chama de forma?), escanear e ver se
-o computador reconhecia o meu texto. Não. Não por culpa dele, mas pela
-minha letra mesmo que, nestas últimas décadas, dado ao desuso, e não
-apenas o computador não entende. Afinal, hoje em dia, além de preencher
-cheques, para que serve escrever à mão? Como para que serve saber somar
-ou subtrair se as maquininhas estão aí? Para que serve o curso primário?
-
-É aqui que eu queria chegar. Não adianta o governo testar alunos e
+"É aqui que eu queria chegar. Não adianta o governo testar alunos e
 professores e universidades. Vai dar sempre zebra. O buraco é bem mais
-embaixo senhor Ministro da Educação. Vamos voltar ao lápis e ao dois
+embaixo, senhor Ministro da Educação. Vamos voltar ao lápis e ao dois
 mais dois. Vamos começar pela base. Vamos escrever a lápis. Mesmo
 porque, se não der certo, a gente apaga e começa de novo."
 
-(PRATA, Mario. O lápis. Disponível em:
-<https://marioprata.net/cronicas/o-lapis/>. Acesso em: mar. 2023.
+(Mario Prata. O lápis. Disponível em:
+<https://marioprata.net/cronicas/o-lapis/>. Acesso em: 15 mar. 2023.
 Adaptado.)
 
-\num{6} Substitua o termo em destaque nas frases por um pronome pessoal
-adequado.
+\num{6} Substitua os termos em destaque na frase pelos pronomes pessoais
+adequados.
 
-a\) Resolvi escrever um texto com letra de forma, escanear e ver se o
-computador reconhecia **o meu texto**.
-
-\linhas{2}
-
-\coment{Resolvi escrever um texto com letra de forma, escanear e ver
-se o computador **o** reconhecia.}
-
-b\) Para que serve saber somar ou subtrair se **as maquininhas** estão
-aí?
+Não adianta **o governo** testar **alunos e professores e universidades**.
 
 \linhas{2}
 
-\coment{Para que serve saber somar ou subtrair se **elas** estão aí?}
+\coment{Não adianta ele os testar.}
 
-c\) Para que serve o curso primário?
 
-\linhas{2}
+\num{7} Em "É aqui que eu queria chegar" o enunciador se refere, de fato, a um lugar geográfico? Explique.
 
-\coment{Para que serve **ele**?}
-
-d\) Não adianta o governo testar **alunos** **e professores e
-universidades.**
-
-\linhas{2}
-
-\coment{Não adianta o governo testá-los.}
-
-e\) Se não der certo, **a gente** apaga e começa de novo.
-
-\linhas{2}
-
-\coment{Se não der certo, **nós apagamos** **e começamos** de novo.}
-
-\num{7} Transforme o trecho que está em discurso direto, a seguir, para
-discurso indireto.
-
-Aí, não tendo mais o que inventar para brincar, resolvi escrever um
-texto com letra de forma (por que se chama de forma?), escanear e ver se
-o computador reconhecia o meu texto.
 
 \linhas{6}
 
-\coment{Aí, não tendo mais o que inventar para brincar, resolveu escrever um
-texto com letra de forma. Perguntou a si mesmo por que se chamava letra
-de forma. Escaneou e viu se o computador reconhecia seu texto.}
+\coment{Não se trata de uma referência a um lugar físico, mas sim, da referência a um ponto da argumentação a que o enunciador queria chegar em seu texto.}
 
-\num{8} No trecho "É aqui que eu queria chegar.", a que se refere o pronome
-demonstrativo "aqui"?
+\num{8} O que significa a palavra "zebra" no contexto em que aparece? Que sinônimo poderia substituir essa palavra no texto?
 
 \linhas{5}
 
-\coment{Aqui não se refere a um lugar específico, e sim a um problema
-que o autor começará a relatar logo em seguida: de que não adianta o
-governo testar alunos e professores e universidades.}
+\coment{Nesse contexto, a palavra significa "problema" ou "resultado ruim". Um bom sinônimo seria a própria palavra "problema".}
 
 \num{9} Reescreva o trecho a seguir, a fim de eliminar as repetições.
 
@@ -3335,26 +3281,17 @@ começa de novo."
 escrever a lápis, porque, se não der certo, nós apagamos e começamos de
 novo.}
 
-\num{10} Observe a propaganda sobre o desperdício de alimentos:
+\num{10} Observe a campanha, composta por imagem e slogan.
 
-![Diagrama Descrição gerada automaticamente com confiança
-baixa](./imgSAEB_6_POR/media/image31.jpeg){width="4.175in"
-height="5.910983158355205in"}
+https://www.freepik.com/free-photo/top-view-food-crisis-concept-with-plate_40477114.htm#query=loosing%20food&position=17&from_view=search&track=ais
+Quanta comida se desperdiça no mundo?
+E quanta gente passa fome?
 
-\fonte{
-<https://mercado.etc.br/estudantes-no-parana-desenvolvem-campanha-sobre-desperdicio-de-alimentos/>.
-Acesso em: mar. 2023.
-
-Reescreva a frase a seguir, substituindo o pronome indefinido "quanta"
-por outro que provoque mesmo efeito de sentido.
-
-**Quanta comida é desperdiçada no mundo?**
+Reescreva o slogan, composto por duas frases interrogativas, transformando-as em frases afirmativas e fazendo os ajustes necessários. 
 
 \linhas{2}
 
-\coment{Sugestões de resposta: Muita comida é desperdiçada no mundo.
-Tantos alimentos são desperdiçados no mundo.
-Tanta comida é desperdiçada no mundo.}
+\coment{Desperdiça-se muita comida no mundo. Muita gente passa fome.}
 
 \colorsec{Treino}
 
@@ -3363,46 +3300,36 @@ Tanta comida é desperdiçada no mundo.}
 **O Brasil precisa do SUS: lançada campanha nacional de defesa do
 Sistema Único de Saúde**
 
-A coordenadora do Campus Virtual Fiocruz, Ana Furniel, consoante com a
-campanha \#OBrasilPrecisadoSUS, aponta que o Sistema Único de Saúde é
-imprescindível para o país. Seu papel na pandemia ressaltou ainda mais a
-sua importância. "É interessante pensar no todo, pois quando falamos do
-SUS ainda se pensa de forma limitada ao atendimento hospitalar. No
-entanto, o SUS é maior, ele é atenção hospitalar, sim, mas é vacina,
-medicamento, atenção primária, vigilância e é, especialmente para nós,
-formação de profissionais de saúde. Essa é a esfera de contribuição do
-CVF".
+A coordenadora do Campus Virtual Fiocruz, Ana Furniel [...] aponta que o Sistema Único de Saúde é imprescindível para o país. Seu papel na pandemia ressaltou ainda mais a
+sua importância. [...]
 
-(SCHINCARIOL, Isabela. *O Brasil precisa do SUS: lançada campanha
-nacional de defesa do Sistema Único de Saúde*. Fiocruz, publicado em 15
-de dez. 2020. Disponível em: \<
+(Isabela Schincariol. Fiocruz. *O Brasil precisa do SUS: lançada campanha
+nacional de defesa do Sistema Único de Saúde*. Disponível em: \<
 <https://campusvirtual.fiocruz.br/portal/?q=noticia/59976>\>. Acesso em:
-mar. 2023. Adaptado.)
+12 mar. 2023.)
 
 Em "Seu papel na pandemia ressaltou ainda mais a sua importância.", os
-pronomes possessivos seu e sua referem-se
+pronomes possessivos *seu* e *sua* referem-se
 
 a\) ao SUS e à coordenadora do Campus Virtual Fiocruz.
 
-b\) ao SUS apenas.
+b\) ao SUS, ambos.
 
-c\) à coordenadora do Campus Virtual Fiocruz apenas.
+c\) à coordenadora do Campus Virtual Fiocruz, apenas.
 
 d\) à campanha \#OBrasilPrecisadoSUS.
 
-BNCC: EF06LP12.
+BNCC: EF06LP12 -- Utilizar, ao produzir texto, recursos de coesão referencial (nome e
+pronomes), recursos semânticos de sinonímia, antonímia e homonímia e mecanismos de representação de diferentes vozes (discurso direto e indireto).
 
-a\) Incorreta. Caso a frase fizesse referência ao SUS e à profissional,
-deveria estar escrita da seguinte forma: O papel do SUS na pandemia
-ressaltou ainda mais a importância da especialista.
+a\) Incorreta. Não há referência à profissional, apenas ao sistema.
 
-b\) Correta. Os pronomes seu e sua referem-se ambos ao SUS. Contudo, há
-uma incoerência gramatical na frase.
+b\) Correta. Os pronomes referem-se ambos ao SUS. 
 
 c\) Incorreta. Os pronomes fazem referência à importância do SUS.
 
 d\) Incorreta. Os pronomes fazem referência ao último substantivo do
-qual se fala, no caso, o SUS.
+qual se fala, no caso, o SUS; e concordam, inclusive, com ele.
 
 
 \num{2} Leia o texto a seguir.
@@ -3425,7 +3352,7 @@ diversos prêmios como o Jabuti.
 
 (Disponível em: \<
 <https://tvbrasil.ebc.com.br/entrevista-com-ruth-rocha-e-destaques-no-dia-das-criancas>\>.
-Acesso em: mar. 2023. Adaptado)
+Acesso em: 23 mar. 2023. Adaptado)
 
 Na fala de Ruth Rocha, o pronome "todos" refere-se a(aos)
 
@@ -3437,7 +3364,8 @@ c\) aos professores.
 
 d\) a alunos e professores.
 
-BNCC: EF06LP12
+BNCC: EF06LP12 -- Utilizar, ao produzir texto, recursos de coesão referencial (nome e
+pronomes), recursos semânticos de sinonímia, antonímia e homonímia e mecanismos de representação de diferentes vozes (discurso direto e indireto).
 
 a\) Incorreta. O pronome refere-se a alunos e professores.
 
@@ -3447,8 +3375,8 @@ plural. O pronome acompanha o substantivo em número.
 c\) Incorreta. O pronome refere-se a alunos e professores, todos têm que
 gostar do livro.
 
-d\) Correta. O pronome referencia-se a alunos e professores, o que é
-reforçado pelo verbo ter na 3ª pessoa do plural.
+d\) Correta. O pronome faz referência a alunos e professores, o que é
+reforçado pelo fato de o verbo estar na 3ª pessoa do plural.
 
 
 \num{3} Leia o texto a seguir.
@@ -3466,33 +3394,30 @@ Brasil em 2015, para se casar com uma brasileira que conheceu quando era
 guia turístico na Venezuela. Ele sempre prepara o *sancocho* em sua casa
 no bairro do Butantã, em São Paulo.
 
-(MARIUZZO, Patrícia. Sabores sem fronteiras. Publicado em 7 fev. 2022.
-Disponível em:
+(Patrícia Mariuzzo. Sabores sem fronteiras.  Disponível em:
 <https://www.unicamp.br/unicamp/ju/noticias/2022/02/07/sabores-sem-fronteiras>.
-Acesso em: mar. 2023. Adaptado.)
+Acesso em: 7 mar. 2023. Adaptado.)
 
-A escolha do pronome **esta** por Ricardo, ao se referir ao *sancocho*,
-está correta pois
+A escolha do pronome **esta**, ao se referir ao *sancocho*, está correta pois o enunciador
 
-a\) ele está próximo ao prato.
+a\) está geograficamente próximo ao prato.
 
-b\) ele patenteou a receita.
+b\) patenteou a receita.
 
-c\) ele está falando de sua receita no livro.
+c\) menciona a receita depois de aparecer o pronome.
 
-d\) ele quer que o leitor se sinta próximo à receita.
+d\) quer que o leitor se sinta próximo à receita.
 
-BNCC: EF06LP12.
+BNCC: EF06LP12 -- Utilizar, ao produzir texto, recursos de coesão referencial (nome e
+pronomes), recursos semânticos de sinonímia, antonímia e homonímia e mecanismos de representação de diferentes vozes (discurso direto e indireto).
 
 a\) Incorreta. Não se pode afirmar que no momento da entrevista havia um
-prato feito próximo a Ricardo.
+prato feito próximo a ele.
 
 b\) Incorreta. O texto não informa que a receita foi patenteada por
-Ricardo ou pelo livro, pelo contrário, a ideia do livro é divulga-la.
+Ricardo ou pelo livro, pelo contrário, a ideia do livro é divulgá-la.
 
-c\) A reportagem é sobre o livro de receitas e o texto leva a
-crer que Ricardo é um dos personagens, que, na entrevista, está falando
-sobre sua receita presente no livro.
+c\) Correta. Trata-se da construção de um processo de coesão referencial catafórica.
 
 d\) Incorreta. Caso o intuito de Ricardo fosse fazer com que o leitor se
 sentisse próximo à receita, o pronome mais adequado seria "essa".
@@ -3507,7 +3432,7 @@ sentisse próximo à receita, o pronome mais adequado seria "essa".
   - Analisar as variedades linguísticas em textos.
 - Avaliar a adequação das variedades linguísticas em contextos de uso.
 
-Habilidades da BNCC: EF69LP55 e EF69LP56.
+Habilidades da BNCC: EF69LP55, EF69LP56.
 
 
 \conteudo{Desde que começados a estudar Língua Portuguesa na escola, sabemos que
