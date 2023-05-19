@@ -2364,29 +2364,16 @@ a fonte das informações.}
 
 \num{1} Leia o texto a seguir.
 
-\"Pai de pet\": faz mal à saúde mental tratar animal de estimação como
-filho?
+Tratar animal de estimação como filho, ser "pai de pet" faz mal à saúde mental?
 
-Quem ama e cuida bem de animais de estimação procura garantir o melhor
-para eles, que são para muita gente parte da própria família.
-Entretanto, não é saudável e indicado tratar um cão ou gato como se
-fossem humanos ou esperar que se comportem como crianças pequenas, pois
-além de prejudicá-los ---afinal são seres pertencentes a outras espécies
-e possuem instintos e comportamentos próprios ---, isso pode fazer mal
-aos tutores. \[\...\]
 
-Sentimentos bons agregam à saúde do ser humano, mas é importante que se
-olhe em volta e direcione essa mesma dedicação também às demais fontes
-que fazem parte de nossa vida e que merecem cuidados. Quando isso não
-ocorre e o foco só é o animal, pode ser que a pessoa inconscientemente
-queira satisfazer um forte desejo, como o de ter filhos, ou se
-relacionar e abrir emoções, mas não pode ou tem muita dificuldade para
-interagir e aceitar críticas. \[\...\]
+Aqueles que amam e cuidam adequadamente de animais de estimação buscam proporcionar o melhor para eles, pois esses animais são considerados parte da família por muitas pessoas. No entanto, não é saudável nem recomendado tratar um cão ou gato como se fossem seres humanos, nem esperar que se comportem como crianças pequenas. Isso ocorre porque, além de prejudicá-los - afinal, eles pertencem a diferentes espécies e possuem seus próprios instintos e comportamentos - essa abordagem também pode ser prejudicial para os tutores.
 
-(TESTONI, Marcelo. \"Pai de pet\": faz mal à saúde mental tratar animal
-de estimação como filho?. UOL, publicado em 10 mar. 2021. Disponível em:
-<https://www.uol.com.br/vivabem/noticias/redacao/2021/03/10/animal-de-estimacao-como-filho.htm>.
-Acesso em: mar. 2023. Adaptado.)
+É verdade que sentimentos positivos contribuem para a saúde humana, mas é importante que prestemos atenção ao nosso entorno e direcionemos essa dedicação também para outras áreas de nossas vidas que merecem cuidado. Quando isso não acontece e o foco se concentra exclusivamente nos animais, pode ser que a pessoa inconscientemente esteja tentando satisfazer um forte desejo, como o de ter filhos, ou procurando relacionamentos e emoções, mas não é capaz ou enfrenta dificuldades para interagir e aceitar críticas.
+
+(Marcelo Testoni. UOL. \"Pai de pet\": faz mal à saúde mental tratar animal
+de estimação como filho? Disponível em:
+<https://www.uol.com.br/vivabem/noticias/redacao/2021/03/10/animal-de-estimacao-como-filho.htm>. Acesso em: mar. 2023. Adaptado.)
 
 Assinale a alternativa correta sobre a escolha do título do texto.
 
@@ -2402,7 +2389,7 @@ aspas.
 d\) Traz uma pergunta de senso comum, já que muitas pessoas tratam
 animais como filhos.
 
-BNCC: EF67LP04.
+BNCC: EF67LP04 -- Distinguir, em segmentos descontínuos de textos, fato da opinião enunciada em relação a esse mesmo fato.
 
 a\) Incorreta. A resposta, dada no primeiro parágrafo, não é a opinião
 do autor, e sim uma explicação técnica.
@@ -2417,26 +2404,21 @@ d\) Correta. O título é uma pergunta pertinente e de senso comum, pois
 muitas pessoas consideram pets como filhos.
 
 
-\num{2} Observe os dois títulos a seguir.
+\num{2} Observe os dois títulos a seguir, inspirados em manchetes da internet.
 
 **Título 1**
 
-![Interface gráfica do usuário, Texto, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image23.png){width="2.201411854768154in"
-height="2.0075765529308836in"}
+Ser "pai de pet" faz mal à saúde mental?
 
-(Disponível em:
-<https://www.uol.com.br/vivabem/noticias/redacao/2021/03/10/animal-de-estimacao-como-filho.htm>.
-Acesso em: mar. 2023.)
+(Fonte de pesquisa:
+<https://www.uol.com.br/vivabem/noticias/redacao/2021/03/10/animal-de-estimacao-como-filho.htm>. Acesso em: mar. 2023.)
 
 **Título 2**
 
-![](./imgSAEB_6_POR/media/image24.png){width="5.905555555555556in"
-height="0.7076388888888889in"}
+Como é a vida e como é a rotina de um pai de pet: especialmente no dia dos pais.
 
-(Disponível em:
-<https://www.patasdacasa.com.br/noticia/dia-dos-pais-como-e-a-vida-e-rotina-de-um-pai-de-pet_a1893/1>.
-Acesso em mar. 2023.)
+(Fonte de pesquisa:
+<https://www.patasdacasa.com.br/noticia/dia-dos-pais-como-e-a-vida-e-rotina-de-um-pai-de-pet_a1893/1>. Acesso em mar. 2023.)
 
 a\) Ambos os títulos apresentam o ponto de vista do veículo.
 
@@ -2446,7 +2428,7 @@ c\) Somente o Título 1 apresenta o ponto de vista do veículo.
 
 d\) Nenhum dos títulos apresenta o ponto de vista do veículo.
 
-BNCC: EF67LP03.
+BNCC: EF67LP03 -- Comparar informações sobre um mesmo fato divulgadas em diferentes veículos e mídias, analisando e avaliando a confiabilidade.
 
 a\) Incorreta. Apenas o Título 2 apresenta o ponto de vista do veículo.
 
@@ -2455,7 +2437,7 @@ confirmar que pessoas são pais de pet, admitindo que há uma rotina para
 essas pessoas.
 
 c\) Incorreta. O Título 1 apresenta o tema da matéria por meio de uma
-pergunta reflexiva, sem se posicionar a respeito dela.
+pergunta, sem se posicionar a respeito dela.
 
 d\) Incorreta. O Título 2 apresenta sim um ponto de vista a respeito do
 tema da matéria.
@@ -2463,44 +2445,31 @@ tema da matéria.
 
 \num{2} Leia o texto a seguir.
 
-**Nova Iorque/Genebra, Brasília, 10 de junho de 2021 --** O número de
-crianças e adolescentes em situação de trabalho infantil chegou a 160
-milhões em todo o mundo -- um aumento de 8,4 milhões de meninas e
-meninos nos últimos quatro anos, de 2016 a 2020. Além deles, outros 8,9
-milhões correm o risco de ingressar nessa situação até 2022 devido aos
-impactos da Covid-19, de acordo com um novo relatório da Organização
-Internacional do Trabalho (OIT) e do Fundo das Nações Unidas para a
-Infância (UNICEF). \[\...\]
+Nova Iorque/Genebra, Brasília, 10 de junho de 2021 -- O número de crianças e adolescentes envolvidos em trabalho infantil atingiu a marca de 160 milhões em todo o mundo. Esse número representa um aumento de 8,4 milhões de meninos e meninas nos últimos quatro anos, de 2016 a 2020. Além disso, há outros 8,9 milhões de crianças em risco de entrar nessa situação até 2022, devido aos impactos da pandemia da Covid-19. Esses dados são apresentados em um novo relatório divulgado pela Organização Internacional do Trabalho (OIT) e pelo Fundo das Nações Unidas para a Infância (UNICEF).
 
-"As novas estimativas são um alerta. Não podemos ficar parados enquanto
-uma nova geração de crianças é colocada em risco", disse o diretor-geral
-da OIT, Guy Ryder. \[\...\]
+O diretor-geral da OIT, Guy Ryder, destacou a importância dessas estimativas, ressaltando que não podemos ficar inertes enquanto uma nova geração de crianças é exposta a esses riscos.
 
-(Disponível em: \<
-<https://www.unicef.org/brazil/comunicados-de-imprensa/trabalho-infantil-aumenta-pela-primeira-vez-em-duas-decadas-e-atinge-um-total-de-160-milhoes-de-criancas-e-adolescentes-no-mundo>\>.
-Acesso em: mar. 2023. Adaptado.)
+(Fonte de pesquisa: UNICEF. Trabalho infantil aumenta pela primeira vez em duas décadas e atinge um total de 160 milhões de crianças e adolescentes no mundo. Disponível em: \<
+<https://www.unicef.org/brazil/comunicados-de-imprensa/trabalho-infantil-aumenta-pela-primeira-vez-em-duas-decadas-e-atinge-um-total-de-160-milhoes-de-criancas-e-adolescentes-no-mundo>\>. Acesso em: mar. 2023. Adaptado.)
 
 O trecho que reapresenta um ponto de vista é
 
-a\) "outros 8,9 milhões correm o risco de ingressar nessa situação até
-2022".
+a\) "há outros 8,9 milhões de crianças em risco de entrar nessa situação até 2022".
 
-b\) "uma nova geração de crianças é colocada em risco".
+b\) "Esses dados são apresentados em um novo relatório divulgado pela Organização Internacional do Trabalho".
 
-c\) "As novas estimativas são um alerta.".
+c\) "O diretor-geral da OIT, Guy Ryder, destacou a importância dessas estimativas".
 
-d\) "Não podemos ficar parados".
+d\) "não podemos ficar inertes".
 
-BNCC: EF67LP03.
+BNCC: EF67LP03 -- Comparar informações sobre um mesmo fato divulgadas em diferentes veículos e mídias, analisando e avaliando a confiabilidade.
 
 a\) Incorreta. O trecho apresenta uma possibilidade real de acontecer,
 mediante um fato apresentado.
 
 b\) Incorreta. O trecho apresenta um fato constatado após um a pesquisa.
 
-c\) Incorreta. As estimativas são um alerta. O especialista apenas
-menciona que os dados são um alerta, mas sem colocar seu julgamento de
-valor.
+c\) Incorreta. Trata-se de um fato que Guy Ryder é diretor-geral da OIT e que ele destacou esse ponto sobre os dados.
 
 d\) Correta. É um posicionamento do diretor-geral da OIT que não podemos
 ficar parados diante dos dados apresentados sobre o trabalho infantil.
