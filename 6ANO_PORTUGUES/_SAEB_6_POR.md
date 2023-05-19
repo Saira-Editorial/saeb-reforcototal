@@ -2366,6 +2366,7 @@ a fonte das informações.}
 
 Tratar animal de estimação como filho, ser "pai de pet" faz mal à saúde mental?
 
+https://www.freepik.com/free-photo/cute-pet-collage-isolated_35587034.htm#query=pet%20cute&position=0&from_view=search&track=ais
 
 Aqueles que amam e cuidam adequadamente de animais de estimação buscam proporcionar o melhor para eles, pois esses animais são considerados parte da família por muitas pessoas. No entanto, não é saudável nem recomendado tratar um cão ou gato como se fossem seres humanos, nem esperar que se comportem como crianças pequenas. Isso ocorre porque, além de prejudicá-los - afinal, eles pertencem a diferentes espécies e possuem seus próprios instintos e comportamentos - essa abordagem também pode ser prejudicial para os tutores.
 
@@ -2406,6 +2407,8 @@ muitas pessoas consideram pets como filhos.
 
 \num{2} Observe os dois títulos a seguir, inspirados em manchetes da internet.
 
+https://www.freepik.com/free-photo/dark-haired-man-blond-woman-lovingly-hug-their-labrador-portrait-close-up-couple-playing-with-dog_12432022.htm#query=loving%20pet&position=1&from_view=search&track=ais
+
 **Título 1**
 
 Ser "pai de pet" faz mal à saúde mental?
@@ -2444,6 +2447,8 @@ tema da matéria.
 
 
 \num{2} Leia o texto a seguir.
+
+https://www.freepik.com/free-photo/hugging-their-knees-looking-sky-dry-soil-there-are-fishing-boats-global-warming_5469361.htm#query=poor%20working%20child&position=1&from_view=search&track=ais
 
 Nova Iorque/Genebra, Brasília, 10 de junho de 2021 -- O número de crianças e adolescentes envolvidos em trabalho infantil atingiu a marca de 160 milhões em todo o mundo. Esse número representa um aumento de 8,4 milhões de meninos e meninas nos últimos quatro anos, de 2016 a 2020. Além disso, há outros 8,9 milhões de crianças em risco de entrar nessa situação até 2022, devido aos impactos da pandemia da Covid-19. Esses dados são apresentados em um novo relatório divulgado pela Organização Internacional do Trabalho (OIT) e pelo Fundo das Nações Unidas para a Infância (UNICEF).
 
@@ -2485,11 +2490,11 @@ ficar parados diante dos dados apresentados sobre o trabalho infantil.
   - Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais com base no gênero textual e na intenção comunicativa.
 - Analisar os efeitos de sentido produzidos pelo uso de modalizadores em textos diversos.
 
-Habilidades da BNCC: EF69LP04 e EF69LP28.
+Habilidades da BNCC: EF69LP04, EF69LP28.
   
 
 \conteudo{
-O modalizador é uma palavra ou expressão por meio do qual o enunciador
+O modalizador é uma palavra ou expressão por meio de que o enunciador
 revela seu posicionamento em uma situação comunicativa. De forma
 implícita ou explícita, em textos de impacto social é frequente que os
 posicionamentos das pessoas fiquem subentendidos, influenciando o leitor
@@ -2512,11 +2517,9 @@ c\. Talvez eu vá ao jogo sexta-feira.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 d\. Compre em até 10x sem juros.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-e\. Não tenho certeza se vou à festa
-amanhã.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+e\. Não tenho certeza se vou à festa amanhã.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-f\. Se eu conseguir chegar a tempo, vou à sua casa ainda
-hoje.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+f\. Se eu conseguir chegar a tempo, vou à sua casa ainda hoje.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 g\. É proibido fumar neste lugar.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2538,7 +2541,7 @@ h\. Não é permitido entrar com animais neste estabelecimento. certeza}
 
 
 Leia a resenha crítica do filme "Yesterday" para responder às questões
-2 a 8.
+de 2 a 7.
 
 E se em um universo alternativo os Beatles nunca tivessem existido? Se
 John, Paul, George e Ringo nunca tivessem criado a maior banda de todos
@@ -2567,10 +2570,10 @@ fato, existido? A resposta vem de uma frase dita quase no final do
 filme: "Um mundo sem os Beatles seria um mundo muito pior". Não
 precisamos disso.
 
-(ROLLEMBER, Marcello. Para tempos sombrios, a solução é a fantasia.
-Jornal da USP, publicado em 9 de set. 2019. Disponível em: \<
+(Marcello Rollember. Jornal da UPS. Para tempos sombrios, a solução é a fantasia.
+Disponível em: \<
 <https://jornal.usp.br/cultura/para-tempos-sombrios-a-solucao-e-a-fantasia/>\>.
-Acesso em: mar. 2023. Adaptado.)
+Acesso em: mar. 2023.)
 
 \num{2} No primeiro parágrafo do texto, o autor utiliza como modalizador do
 discurso uma mesma conjunção, porém em algumas ocorrências distintas.
@@ -2593,7 +2596,7 @@ utiliza para deixar explícito esse julgamento de valor é o adjetivo
 "simplista".}
 
 \num{4} Ainda no segundo parágrafo, no trecho "clichê, mas aceitável", ele
-demostra outro julgamento de valor. A quem ele se refere?
+demostra outro julgamento de valor. A que ele se refere?
 
 \linhas{3}
 
@@ -2621,15 +2624,9 @@ pós-crédito."
 Identifique, neste trecho, o que são fatos apresentados no filme e o que
 é opinião do autor.
 
-  FATOS DO FILME   OPINIÃO DO AUTOR
-  ---------------- ------------------
-                   
-
 \coment{
-
-  FATOS DO FILME                                                                                                                                                                                 OPINIÃO DO AUTOR
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------
-  Apresenta canções conhecidas, desencontros e encontros improváveis, filme que caminha na forma clássica das comédias românticas, filme que embala, diverte e rende conversas no pós-crédito.   Canções assobiáveis há décadas, encontros e desencontros improváveis, mas tocantes; vontade de dar spoiler quase incontornável; o filme rende conversas animadas no pós-crédito.}
+  FATOS DO FILME: Apresenta canções conhecidas, desencontros e encontros improváveis, filme que caminha na forma clássica das comédias românticas, filme que embala, diverte e rende conversas no pós-crédito. 
+  OPINIÃO DO AUTOR: Canções assobiáveis há décadas, encontros e desencontros improváveis, mas tocantes; vontade de dar spoiler quase incontornável; o filme rende conversas animadas no pós-crédito.}
 
 \num{7} Analise as frases extraídas do texto. Depois, analise o modalizador
 em destaque e classifique-o quanto a ser uma condição ou uma certeza.
@@ -2655,13 +2652,12 @@ d\) **[Não precisamos]{.underline}** disso.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \coment{
-a\) se = condição; de fato = certeza
-b\) exato = certeza
-c\) quase = condição; incontornável = certeza
+a\) se = condição; de fato = certeza.
+b\) exato = certeza.
+c\) quase = condição; incontornável = certeza.
 d\) Não precisamos = certeza.}
 
-Leia a campanha de incentivo à leitura, a seguir, para responder às
-questões 8 a 10.
+Veja a campanha de incentivo à leitura, a seguir, composta de imagem e de texto verbal, para responder às questões de 8 a 10.
 
 ![Diagrama Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image25.jpeg){width="2.1484219160104985in"
@@ -2678,7 +2674,7 @@ Qual é a intenção comunicativa do texto?
 \coment{A intenção é convencer o leitor a adotar a ideia da campanha,
 que é esquecer um livro em lugares públicos.}
 
-\num{9} O verbo "realizada" qualifica um termo que o precede. Que termo é
+\num{9} A palavra "realizada" qualifica um termo que a precede. Que termo é
 esse?
 
 \linhas{2}
@@ -2696,26 +2692,30 @@ Qual é o objetivo do uso desse modalizador nesta frase?
 \coment{O objetivo é reforçar, afirmar, que pessoas do Brasil inteiro
 estão aderindo à campanha.}
 
+
 \colorsec{Treino}
 
-\num{1} Leia o cartaz a seguir.
+\num{1} Observe a imagem de uma campanha contra o bullying e leia o texto que a acompanha.
 
-![Texto, Quadro de comunicações Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image26.jpeg){width="5.905555555555556in"
-height="3.2263888888888888in"}
+https://www.freepik.com/free-vector/flat-design-bullying-concept-with-characters_10749903.htm#query=bullying%20vector&position=4&from_view=search&track=ais
+Não humilhe as pessoas, solidarize-se com elas;
+Ofereça ajuda a quem sofre bullying ou se sente excluído;
+Não seja você o causador do si=ofrimento do outro. 
+
+Lembre-se: bullying não tem graça
 
 Em "Bullying não tem graça", o advérbio "não" demonstra que o
-**posicionamento do enunciador**, ou seja, quem divulga a campanha, é de
+**posicionamento do enunciador**, ou seja, de quem divulga a campanha, é de
 
-a\) negação.
+a\) negação em relação ao fato de o bullying ser um problema.
 
-b\) certeza.
+b\) certeza de que não tem diversão em se fazer bullying.
 
-c\) condição.
+c\) condição, pois só se saberá se será engraçada a ação depois de ela concretizada.
 
-d\) possibilidade.
+d\) possibilidade de que o bullying seja engraçado.
 
-BNCC: EF69LP04.
+BNCC: EF69LP04 -- Identificar e analisar os efeitos de sentido que fortalecem a persuasão nos textos publicitários, relacionando as estratégias de persuasão e apelo ao consumo com os recursos linguístico-discursivos utilizados, como imagens, tempo verbal, jogos de palavras, figuras de linguagem etc., com vistas a fomentar práticas de consumo conscientes.
 
 a\) Incorreta. O advérbio de negação, aqui, não nega o posicionamento do
 enunciador da campanha, pelo contrário, ele o afirma.
@@ -2742,8 +2742,7 @@ predeterminado e o limite de jogo por no máximo três horas semanais. A
 medida foi tomada com o objetivo de prevenir o vício e combater o que
 tem sido chamado de "ópio do espírito" pela mídia chinesa.
 
-Entretanto, na avaliação de [Valdemar
-Setzer](https://www.ime.usp.br/~vwsetzer/), professor titular sênior do
+Entretanto, na avaliação de Valdemar Setzer, professor titular sênior do
 Departamento de Ciência da Computação do Instituto de Matemática e
 Estatística (IME) da USP, a proibição não é a melhor estratégia. "Em
 princípio, eu sou contra proibições, pois elas vão contra a liberdade
@@ -2753,11 +2752,9 @@ eles próprios adotarem as atitudes corretas", acrescenta o professor, ao
 comentar que os limites deveriam ser impostos por pais, mães e
 responsáveis pelas crianças.
 
-(TAMMAKO, Rodrigo; FUENTES, Patrick. Jogos eletrônicos podem desenvolver
-dependência e prejudicar desenvolvimento infantil. Jornal da USP,
-publicado em 30/09/2021. Disponível em: \<
-<https://jornal.usp.br/atualidades/jogos-eletronicos-podem-desenvolver-dependencia-e-prejudicar-desenvolvimento-infantil/>\>.
-Acesso em: mar. 2023. Adaptado.)
+(Rodrigo Tammako e Patrick Fuentes. Jornal da USP. Jogos eletrônicos podem desenvolver
+dependência e prejudicar desenvolvimento infantil. Disponível em: \<
+<https://jornal.usp.br/atualidades/jogos-eletronicos-podem-desenvolver-dependencia-e-prejudicar-desenvolvimento-infantil/>\>. Acesso em: 21 mar. 2023. Adaptado.)
 
 O termo "Em princípio" é usado pelo especialista a fim de
 
@@ -2773,7 +2770,7 @@ dali adiante.
 d\) apresentar em primeiro lugar o que ele pensa sobre um outro assunto,
 antes de voltar ao tema do texto.
 
-BNCC: EF69LP04.
+BNCC: EF69LP04 -- Identificar e analisar os efeitos de sentido que fortalecem a persuasão nos textos publicitários, relacionando as estratégias de persuasão e apelo ao consumo com os recursos linguístico-discursivos utilizados, como imagens, tempo verbal, jogos de palavras, figuras de linguagem etc., com vistas a fomentar práticas de consumo conscientes.
 
 a\) Incorreta. O especialista coloca apenas um posicionamento: ele é a
 favor da proibição em alguns casos.
@@ -2781,8 +2778,7 @@ favor da proibição em alguns casos.
 b\) Incorreta. O especialista não se contradiz. Ele é contraditório à
 proibição dos jogos.
 
-c\) demonstrar ao leitor que irá começar a apresentar seu
-posicionamento dali adiante.
+c\) Correta. O objetivo do especialista é demarcar para o leitor que irá começar a apresentar seu posicionamento dali adiante.
 
 d\) Incorreta. O especialista fala apenas sobre um assunto: ele é contra
 a proibição, e justifica seu posicionamento.
@@ -2797,11 +2793,11 @@ a\) condição.
 
 b\) obrigação.
 
-c\) permissão.
+c\) contradição.
 
-d\) dúvida.
+d\) necessidade.
 
-BNCC: EF69LP04.
+BNCC: EF69LP04 -- Identificar e analisar os efeitos de sentido que fortalecem a persuasão nos textos publicitários, relacionando as estratégias de persuasão e apelo ao consumo com os recursos linguístico-discursivos utilizados, como imagens, tempo verbal, jogos de palavras, figuras de linguagem etc., com vistas a fomentar práticas de consumo conscientes.
 
 a\) Correta. Ao trocar o verbo "deveria", que exprime uma
 obrigatoriedade, por "poderia", a frase toma o sentido de condição, ou
@@ -2811,12 +2807,9 @@ circunstância.
 b\) Incorreta. O verbo "poderia" exprime possibilidade mediante
 condição. O verbo "dever" já está representando obrigatoriedade.
 
-c\) Incorreta. O verbo "poderia" não é usado para representar permissão,
-exceto se no caso de pergunta. Por exemplo: "Eu poderia conscientizar as
-pessoas?"
+c\) Incorreta. O verbo "poderia" não geraria contradição, haveria apenas modificação de sentido.
 
-d\) Incorreta. O verbo "poderia" não exprime dúvida, exceto se no caso
-de pergunta. Por exemplo: "Eu poderia conscientizar as pessoas?"
+d\) Incorreta. O verbo "poderia" não exprime necessidade ou obrigação, se inserido nesse contexto.
 
 
 
