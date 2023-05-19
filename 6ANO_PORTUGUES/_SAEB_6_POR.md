@@ -3657,7 +3657,7 @@ c\) à época em que a música foi escrita.
 
 d\) à região geográfica do candidato à presidência.
 
-BNCC: EF69LP55.
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 a\) Incorreta. A canção não faz menção à condição social do eleitor, até
 mesmo porque uma campanha política sempre visa alcançar a todos.
@@ -3691,9 +3691,9 @@ Pensou dois segundos e me desarmou completamente:
 
 -- Filho de anta é... é... Antonio!
 
-(PRATA, Mario. Criança diz cada uma\... Disponível em: \<
-<https://marioprata.net/cronicas/crianca-diz-cada-uma/>\>. Acesso em:
-mar. 2023. Adaptado.)
+(Mario Prata. Criança diz cada uma\... Disponível em: \<
+<https://marioprata.net/cronicas/crianca-diz-cada-uma/>\>. Acesso em: 11
+mar. 2023.)
 
 O recurso responsável pelo efeito de humor no diálogo entre pai e filho
 está relacionado a uma variação linguística
@@ -3706,7 +3706,7 @@ c\) social.
 
 d\) estilística.
 
-BNCC: EF69LP55.
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 a\) Incorreta. As variações culturais ocorrem de acordo com a cultura
 dos falantes, e muitas vezes estão relacionadas a aspectos geográficos.
@@ -3731,22 +3731,14 @@ informalmente apenas.
 *Livro com receitas de refugiados é um convite para conhecer trajetórias
 de vida e sabores*
 
-Ricardo nasceu em Caracas, o segundo de quatro irmãos. "Meu gosto pela
-cozinha vem desde muito jovem. Lembro com emoção de minha avó ensinando
-as receitas de família para os filhos e filhas, e depois netos e netas.
-Esta receita traz boas lembranças dessa época". Ricardo veio para o
-Brasil em 2015, para se casar com uma brasileira que conheceu quando era
-guia turístico na Venezuela. Ele sempre prepara o *sancocho* em sua casa
-no bairro do Butantã, em São Paulo. "Sempre cozinhei este prato quando
-Venezuela, na praia, em reuniões com meus irmãos, primos, com música e
+Ricardo nasceu em Caracas, o segundo de quatro irmãos. [...] Ele sempre prepara o *sancocho* em sua casa no bairro do Butantã, em São Paulo. "Sempre cozinhei este prato quando Venezuela, na praia, em reuniões com meus irmãos, primos, com música e
 cerveja. Fazer *sancocho* é como fazer uma festa", contou. "Fazer o
 prato aqui no Brasil é importante porque assim posso compartilhar algo
 da minha cultura", disse.
 
-(MARIUZZO, Patrícia. Sabores sem fronteiras. Publicado em 7 fev. 2022.
-Disponível em:
+(Patrícia Mariuzzo. Unicamp. Sabores sem fronteiras. Disponível em:
 <https://www.unicamp.br/unicamp/ju/noticias/2022/02/07/sabores-sem-fronteiras>.
-Acesso em: mar. 2023. Adaptado.)
+Acesso em: 17 mar. 2023.)
 
 Na entrevista, o deslize quanto ao uso da normal padrão da língua
 portuguesa, apresentado em "Sempre cozinhei este prato quando Venezuela,
@@ -3761,9 +3753,9 @@ c\) da idade do entrevistado.
 
 d\) a classe econômica do entrevistado.
 
-BNCC: EF69LP55
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
-a\) O entrevistado é venezuelano, portanto, é esperado e
+a\) Correta. O entrevistado é venezuelano; portanto, é esperado e
 aceitável que não utilize a norma padrão da língua portuguesa. No
 trecho, ele esquece de conjugar o verbo "morava" em "Sempre cozinhei
 este prato quando Venezuela\...".
