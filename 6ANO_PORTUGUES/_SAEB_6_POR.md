@@ -2819,14 +2819,14 @@ d\) Incorreta. O verbo "poderia" não exprime necessidade ou obrigação, se ins
   - Analisar o uso de figuras de linguagem como estratégia argumentativa.
 - Avaliar a eficácia das estratégias argumentativas em textos de diferentes gêneros.
 
-Habilidades da BNCC: EF69LP17 e EF67LP38.
+Habilidades da BNCC: EF69LP17, EF67LP38.
   
 
 \conteudo{Figuras de linguagem são recursos utilizados para expressar ideias e
 emoções de forma mais intensa, criativa e poética. São usadas para
 enriquecer o discurso, tornando-o mais expressivo e marcante.
 
-As principais figuras de linguagem mais comuns são:
+Algumas das figuras de linguagem mais comuns são:
 
 **Metáfora:** comparação implícita entre duas coisas que têm
 características em comum;
@@ -2843,10 +2843,7 @@ humor;
 **Personificação:** atribuição de características humanas a seres
 inanimados ou animais;
 
-**Catacrese:** quando uma palavra é usada de forma incorreta ou
-inapropriada, por falta de um termo mais adequado. Exemplo: Passe-me
-aquele negócio ali (negócio = objeto desconhecido ou sem nome
-específico);
+**Catacrese:** quando uma palavra é usada de forma aproximada ou adaptada, por falta de um termo mais adequado, como "asa da xícara" ou "pé da cama";
 
 **Sinestesia:** ocorre quando uma expressão mistura duas sensações
 diferentes entre aquelas percebidas pelos órgãos sensoriais;
@@ -2858,13 +2855,12 @@ agressiva ou desagradável;
 
 **Onomatopeia:** representação gráfica dos sons;
 
-**Aliteração:** repetição de fonemas idênticos ou semelhantes para
+**Aliteração:** repetição de sosns consonantais idênticos ou semelhantes para
 sugerir acusticamente algum elemento, ato, fenômeno;
 
-**Pleonasmo:** é uma figura de linguagem que expressa a redundância.
+**Pleonasmo:** construção em que se expressam as ideias de forma redundante, para enfatizá-las.
 
-As figuras de
-linguagem são usadas para:
+As figuras de linguagem são usadas para:
 
 **Tornar a mensagem mais expressiva**: podem tornar a mensagem mais
 marcante, expressiva e poética, tornando-a mais impactante para quem
@@ -2889,11 +2885,11 @@ de forma mais vívida e intensa.
 identificação entre a mensagem e o contexto em que ela está sendo
 utilizada, tornando-a mais pessoal e próxima do leitor ou ouvinte.}
 
-Leia o texto a seguir para responder às questões 1 a 4.
+Observe a campanha de conscientização a seguir, composta de imagem e de texto, para responder às questões de 1 a 4.
 
-![Diagrama Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image27.jpeg){width="4.0787893700787405in"
-height="5.689394138232721in"}
+https://www.freepik.com/free-vector/hand-holding-blood-bag-type-donation_28880878.htm#query=blood%20donation&position=21&from_view=search&track=ais
+Dê vida de presente: doe sangue e faça alguém viver mais e melhor.
+%Se possível, escrever o slogan sobre a imagem.
 
 \num{1} Qual é o objetivo da campanha?
 
@@ -2911,9 +2907,7 @@ height="5.689394138232721in"}
 
 \linhas{4}
 
-\coment{A imagem é um cartãozinho de "de -- para" na forma de uma gota
-de sangue. Ela complementa o texto no que diz respeito ao apelo visual
-da campanha.}
+\coment{A imagem associa o doador de sangue, por meio da imagem da bolsa, ao coração do receptor, por meio do ícone do órgão. O coração, nesse caso, representa a vida.}
 
 \num{4} Que figura de linguagem predomina na propaganda?
 
@@ -2922,49 +2916,45 @@ da campanha.}
 \coment{A metáfora é a figura predominante na campanha.}
 
 
-Leia a tirinha a seguir e responda às questões 5 a 8.
+Leia o diálogo a seguir e responda às questões de 5 a 8.
 
-![Interface gráfica do usuário, Aplicativo, Teams Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image28.png){width="4.608732502187227in"
-height="5.833838582677165in"}
+https://www.freepik.com/free-photo/two-kids-boy-girl-with-backpacks-books-going-school_18133798.htm#query=friends%20talking%20at%20school&position=18&from_view=search&track=ais
+-- Aninha, você acha que a gente ganha o interclasses neste semestre?
+-- Lógico, Gael, eu até já sinto o cheiro do brilho do troféu!
+-- Que cheiro ele tem?
+-- Agora tá parecendo cheiro de lanche da cantina. Que horas são?
 
-WESLEY. As crônicas de Wesley. Disponível em:
-<https://www.instagram.com/p/CpTRhacyAL8/>. Acesso em: mar. 2023.
 
-\num{5} Em "Acha que vamos vencer o interclasse este ano?", qual é a figura
-de linguagem presente? O que a fala da personagem significa?
+\num{5} Em "Aninha, você acha que a gente ganha o interclasses neste semestre?", qual é a figura de linguagem presente? O que a fala da personagem significa?
 
 \linhas{5}
 
 \coment{A figura de linguagem presente é a metonímia, ou seja, quando
 há substituição da parte pelo todo. O menino substitui a palavra
-"campeonato" pelo nome, "interclasse".}
+"campeonato" pelo nome desse campeonato em questão, "interclasse".}
 
-\num{6} Em "Já sinto o cheiro da vitória!", qual é a figura de linguagem
+\num{6} Em "já sinto o cheiro do brilho do troféu", qual é a figura de linguagem
 presente? O que a fala da personagem significa?
 
 \linhas{4}
 
 \coment{A figura de linguagem presente é a sinestesia. A personagem
-quis dizer que ele pressentia que iriam vencer o campeonato.}
+quis dizer que ela pressentia que iriam vencer o campeonato.}
 
 \num{7} Em qual momento da história é possível identificar o efeito de humor
-da tirinha? Quais recursos são usados para que isso aconteça?
+da tirinha? Como esse humor se constrói?
 
 \linhas{5}
 
-\coment{No terceiro quadrinho, quando a personagem, cheira a própria
-axila. Os recursos usados são a imagem dela com o braço erguido,
-cheirando a si mesma, e a onomatopeia "snif, snif".}
+\coment{Quando o cheiro "figurado" da vitória é substituído pelo cheiro "real" do lanche da cantina, acontece uma quebra de expectativa que gera humor.}
 
-\num{8} O que provoca o efeito de humor na tira?
+\num{8} Como se pode interpretar a relação entre a pergunta "Que horas são?" e o restante do diálogo?
 
 \linhas{3}
 
-\coment{O fato de a menina se chamar Vitória, e ter entendido que o
-garoto sentia o cheiro dela.}
+\coment{O fato de Aninha sentir cheiro do lanche provavelmente mostra que ela está com fome ou com vontade de comer - assim, a pergunta sobre o horário pode ser para ela saber se eles estão próximos do momento do intervalo, já que é nesse horário que geralmente os alunos comem lanche na cantina.}
 
-\num{9} Assinale a alternativa que contém uma metáfora.
+\num{9} Assinale a alternativa que contém uma catacrese.
 
 a\) Meu avô é sábio, grande, fantástico!
 
@@ -2989,30 +2979,26 @@ aperta mais. Se não está com fome, bebe mingau e a fome abre. Há tanta
 coisa boa para se fazer com fubá: cuscuz, broas, sonhos, bolos, e
 ninguém quer sair do mingau de fubá."
 
-(MORLEY, Helena. *Minha vida de menina*. São Paulo: Companhia de Bolso,
+(Helena Morley. *Minha vida de menina*. São Paulo: Companhia de Bolso,
 2016.)
 
-Identifique os dois trechos em que aparecem figuras de linguagem e
-classifique-as.
+Explique como a figura da personificação aparece no trecho.
 
 \linhas{6}
 
-\coment{o trecho, aparecem duas figuras de linguagem: personificação,
-quando o texto diz que "a fome aperta" e "a forme abre", e gradação,
-quando se listam o que pode ser feito com o fubá: "cuscuz, broas,
-sonhos, bolos".}
+\coment{No trecho, aparece personificação quando se diz que "a fome aperta" e "a forme abre".}
 
 \colorsec{Treino}
 
 \num{1}
 
-E Chapeuzinho Amarelo, de tanto pensar no LOBO, de tanto sonhar com
-LOBO, de tanto esperar o LOBO, um dia topou com ele que era assim: carão
-de LOBO, olhão de LOBO, jeitão de LOBO e principalmente um bocão tão
-grande que era capaz de comer duas avós, um caçador, rei, princesa, sete
-panelas de arroz e um chapéu de sobremesa.
+https://www.freepik.com/free-vector/hand-drawn-little-red-riding-hood-illustration_14669920.htm#query=chapeuzinho%20vermelho&position=24&from_view=search&track=ais
 
-(BUARQUE, Chico. Chapeuzinho Amarelo. Ilustrações de Ziraldo. Belo
+[...] de tanto pensar no LOBO, de tanto sonhar com
+LOBO, de tanto esperar o LOBO, um dia topou com ele que era assim: carão
+de LOBO, olhão de LOBO, jeitão de LOBO [...].
+
+(Chico Buarque. Chapeuzinho Amarelo. Ilustrações de Ziraldo. Belo
 Horizonte: Autêntica, 2017.)
 
 A figura de linguagem representada no trecho pela repetição do fonema
@@ -3026,11 +3012,11 @@ c\) pleonasmo.
 
 d\) metáfora.
 
-BNCC: EF67LP38.
+BNCC: EF67LP38 -- Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.
 
 a\) Incorreta. Onomatopeia é a representação gráfica dos sons.
 
-b\) Correta. Aliteração é a repetição de fonemas idênticos ou
+b\) Correta. Aliteração é a repetição de sons consonantais idênticos ou
 semelhantes para sugerir acusticamente algum elemento, ato, fenômeno.
 
 c\) Incorreta. Pleonasmo é uma figura de linguagem que expressa a
@@ -3040,11 +3026,10 @@ d\) Incorreta. Metáfora é uma comparação implícita entre duas coisas que
 têm características em comum.
 
 
-\num{2} Observe a publicidade do Greenpeace, a seguir.
+\num{2} Observe a imagem a seguir, que apresenta apenas texto não verbal para promover a necessidade de cuidarmos do Meio Ambiente.
 
-![Vista aérea de um campo Descrição gerada automaticamente com confiança
-média](./imgSAEB_6_POR/media/image29.jpeg){width="5.905555555555556in"
-height="3.9722222222222223in"}
+https://www.freepik.com/free-photo/concept-plant-glass-bulb_2367789.htm#query=protect%20the%20enviroment&position=1&from_view=search&track=ais
+
 
 O argumento utilizado na campanha que incentiva o combate ao
 desmatamento é
@@ -3057,10 +3042,9 @@ c\) uma hipérbole.
 
 d\) uma personificação.
 
-BNCC: EF67LP38.
+BNCC: EF67LP38 -- Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.
 
-a\) A campanha argumenta comparando a mata a um tabuleiro de
-xadrez, ou seja, uma metáfora.
+a\) Correta. A campanha argumenta comparando a proteção ao Meio Ambiente a uma ideia, representada visualmente pela lâmpada.
 
 b\) Incorreta. O eufemismo utiliza-se de expressões para atenuar uma
 ideia tida como agressiva ou desagradável.
@@ -3074,14 +3058,16 @@ humanas a seres e objetos inanimados.
 
 \num{3} Leia um trecho de um artigo de opinião, a seguir.
 
+https://www.freepik.com/free-photo/airplane-flying-cloudy-sky_5869139.htm#query=plane&position=5&from_view=search&track=sph
+
 "Mas o pai da aviação continua sendo Santos Dumont, não Boeing, Airbus,
 Lockheed --- que cuidaram, investiram e fizeram **aquela saltitante
 criaturinha de bambu e seda** se transformar nesses galalaus de
 alumínio --- com péssimo serviço de bordo, diga-se de passagem."
 
-(AFFONSO, Eduardo. Disponível em: \<
+(Eduardo Affonso. IG Opinião. Disponível em: \<
 <https://lulacerda.ig.com.br/opiniao-por-eduardo-affonso-pai-e-quem-cuida/>\>.
-Acesso em: mar. 2023. Adaptado)
+Acesso em: 26 mar. 2023.)
 
 O efeito de humor apresentado no trecho em destaque, "aquela saltitante
 criaturinha de bambu e seda", é dado por meio de
@@ -3094,18 +3080,18 @@ c\) catacrese.
 
 d\) metonímia.
 
-BNCC: EF67LP38.
+BNCC: EF67LP38 -- Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.
 
-a\) Incorreta. Metáfora é uma comparação.
+a\) Correta. Metáfora é uma comparação sem uso de conector, como acontece na passagem.
 
 b\) Incorreta. A personificação consiste em atribuir características
 humanas a seres e objetos inanimados.
 
 c\) Incorreta. A catacrese ocorre quando uma palavra é usada de forma
-incorreta ou inapropriada, por falta de um termo mais adequado.
+aproximada, quando não se tem um termo mais específico.
 
-d\) A criatura a que o texto se refere é o 14Bis, avião
-construído por Santos Dummont. A figura de linguagem é a metonímia.
+d\) Incorreta. A criatura a que o texto se refere é o 14Bis, avião
+construído por Santos Dummont. Não ocorre metonímia.
 
 
 
