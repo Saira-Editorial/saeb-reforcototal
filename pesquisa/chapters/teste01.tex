@@ -1,0 +1,23 @@
+\documentclass{memoir}
+\usepackage{lipsum}
+\usepackage{xcolor}
+\usepackage{tikz}
+
+
+
+\begin{document}
+    \begin{tikzpicture}
+        \node[anchor=south] at (55mm, -5mm) {\includegraphics[width=\paperwidth,height=\paperheight]{chap.pdf}};
+        \node[above=2cm, font=\LARGE\bfseries, text=black] {With node};
+    \end{tikzpicture}
+
+
+  % \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{chap.pdf}}
+   % \node[anchor=south] at (55mm, -5mm) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkOdd}};
+  % \begin{tikzpicture}[remember picture,overlay]
+  %   \node at (current page.center) {\includepdf[pages=-]{seu_arquivo.pdf}};
+  %   \node at (current page.north) [above=2cm, font=\Large\bfseries\textcolor{blue}] {Sua frase em cima};
+  % \end{tikzpicture}
+
+\end{document}
+
