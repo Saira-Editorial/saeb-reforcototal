@@ -1,13 +1,16 @@
 \documentclass{memoir}
 \usepackage{xcolor}
 \usepackage{tikz}
+\usepackage{anyfontsize}
+\usepackage{fontspec}
 
+\newfontfamily\gotham{Gotham-Black}
 
 \begin{document}
 
   \begin{tikzpicture}[remember picture,overlay]
    \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{chap.pdf}};
-   \node[above=2cm, font=\HUGE, text=black, anchor=south] at (-2,0) {14};
+   \node[above=1cm, font=\fontsize{70}{80}\gotham\selectfont, text=black, anchor=south] at (-2,0) {14};
   \end{tikzpicture}
 
 \end{document}
