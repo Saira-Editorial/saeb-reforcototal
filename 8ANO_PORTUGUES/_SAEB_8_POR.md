@@ -3093,7 +3093,7 @@ de pensamento e a sabotagem dos processos políticos democráticos.
 
 >\[...]
 
-Pedro Assaad Salloum Moreira da Rocha. Disponível em: _http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink6.pdf_. Acesso em: 21 fev. 2023.
+\fonte{Pedro Assaad Salloum Moreira da Rocha. Disponível em: _http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink6.pdf_. Acesso em: 21 fev. 2023.}
 
 A problemática a que se refere o autor pode ser compreendida, no
 texto, pela oposição entre
@@ -4176,32 +4176,30 @@ escuta atenta, tal como se compreende a frase em questão.
 convencer Olívia a recontar sua história, recebendo em troca uma escuta
 atenta.
 
-#SIMULADO 2
+#Simulado 2
 
-\num{1}
+\num{1} Leia o texto.
 
-**Mudança**
-
+>**Mudança**
+>
 Levantei as 6 hóras preparando as roupas, fazendo trouxas para zarpar da
 favela. Fiz o café e fui comprar pão, pedi ao Chico para atender-me logo
 porque eu ia mudar.
-
--- Para onde?
-
--- Vou ressidir em Osasco.
-
+>
+--- Para onde?
+>
+--- Vou ressidir em Osasco.
+>
 Ele serviu logo, paguei e sai correndo.
-
+>
 Estava preparando os trastes quando chegou o senhor Paulino de Moura
 dono da livraria Boulevard. Vêio convidar-me para eu ir na sua livraria
 autografar os meus livros.
-
+>
 Eu disse-lhe que irei depois que agêitar a vida dos meus filhos porque,
 quando eu os deixo na favela os favelados maltrata-os. \[\...\]
 
-JESUS, Carolina Maria de. *Casa de alvenaria, volume 1*: Osasco. 1.ed.
-
-São Paulo: Companhia das Letras, 2021 (fragmento).
+\fonte{Carolina Maria de Jeus. *Casa de alvenaria:* Osasco. São Paulo: Companhia das Letras, 2021.}
 
 O texto deve ser considerado um exemplo de
 
@@ -4217,13 +4215,12 @@ que leria seu livro.
 d\) uso incorreto da língua, pois o desrespeito à norma-padrão
 comprometeu a coerência.
 
-Saeb: Avaliar a adequação das variedades linguísticas em contextos de
+SAEB: Avaliar a adequação das variedades linguísticas em contextos de
 uso.
-
-BNCC: EF69LP55
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 \(A\) Correta. Os desvios ortográficos presentes na escrita da autora em
-nada afetam o sentido do texto, por isso sua escrita é um exemplo de
+nada afetam o sentido do texto; por isso sua escrita é um exemplo de
 variação linguística possível dentro da língua e demonstra que, embora
 desviante da norma-padrão, a autora se utilizou de outros conhecimentos
 empíricos e outras experiências para enriquecer o conteúdo de seu texto.
@@ -4239,22 +4236,17 @@ entanto, não diminui a qualidade literária de seu texto.
 \(D\) Incorreta. A alternativa reproduz a noção de erro, geradora de
 preconceito linguístico, segundo a qual a norma-padrão é suficiente para
 dar conta de todos os aspectos envolvidos na produção textual, como a
-coerência, o que é incorreto, pois trata-se de uma habilidade de
+coerência, o que é incorreto, pois é uma habilidade de
 articulação que mobiliza outros conhecimentos para além das regras da
 norma-padrão.
 
-\num{2}
+\num{2} Analise o anúncio.
 
 ![Livro aberto com texto preto sobre fundo branco Descrição gerada
 automaticamente](./imgSAEB_8_POR/media/image35.png){width="1.8147419072615922in"
 height="2.664290244969379in"}
 
-Disponível em:
-https://commons.wikimedia.org/wiki/File:Col%C3%ADrio\_Moura\_Brasil\_1944\_propaganda.png.
-Acesso em: 19 fev. 2023.
-
-Em relação à vantagem de se comprar o produto anunciado, o texto verbal
-e não verbal da propaganda enfatiza
+Em relação à vantagem de se comprar o produto anunciado, os textos, verbal e não verbal, o anúncio enfatiza
 
 a\) seu preço acessível.
 
@@ -4264,26 +4256,23 @@ c\) sua eficiência no tratamento.
 
 d\) sua disponibilidade no mercado.
 
-Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
+SAEB: Identificar o uso de recursos persuasivos em textos verbais e não
 verbais.
-
-BNCC: EF89LP04
+BNCC: EF89LP04 -- Identificar e avaliar teses/opiniões/posicionamentos explícitos e implícitos, argumentos e contra-argumentos em textos argumentativos do campo (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), posicionando-se frente à questão controversa de forma sustentada.
 
 \(A\) Incorreta. Não há menção ao preço do produto no texto.
 
 \(B\) Incorreta. Embora a marca de fato apareça com destaque, esse não é
-o ponto enfatizado no texto, nem mesmo se diz que a marca é de renome.
+o ponto enfatizado no texto; nem mesmo se diz que a marca é de renome.
 
 \(C\) Correta. A expressão "pronto socorro" enfatiza que o tratamento
-proporcionado pelo produto é imediato (pronto = imediato), daí o
-destaque à sua eficiência como recurso persuasivo.
+proporcionado pelo produto é imediato; por isso, o destaque à sua eficiência como recurso persuasivo.
 
-\(D\) Incorreta. O texto não menciona os locais ou estabelecimentos onde
-se pode comprar o produto.
+\(D\) Incorreta. O texto não menciona os estabelecimentos onde se pode comprar o produto.
 
-\num{3}
+\num{3} Leia o texto.
 
-No filme "Matrix", clássico do gênero ficção científica, o protagonista
+>No filme "Matrix", clássico do gênero ficção científica, o protagonista
 Neo é confrontado pela descoberta de que o mundo em que vive é, na
 realidade, uma ilusão construída a fim de manipular o comportamento dos
 seres humanos, que, imersos em máquinas que mantêm seus corpos sob
@@ -4295,10 +4284,9 @@ alienação dos cidadãos, sujeitando-os aos filtros de informações
 impostos pela mídia, o que influencia negativamente seus padrões de
 consumo e sua autonomia intelectual.
 
-Disponível em:
-http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink7.pdf.
+>\[...]
 
-Acesso em: 19 fev. 2023 (fragmento).
+\fonte{Fernanda Carolina Santos Terra de Deus. Disponível em: _http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink7.pdf_. Acesso em: 19 fev. 2023.}
 
 O texto constrói sua argumentação a partir
 
@@ -4310,56 +4298,53 @@ c\) do convite para assistir ao filme "Matrix".
 
 d\) da comparação entre a ficção e a realidade.
 
-Saeb: Identificar teses, opiniões, posicionamentos explícitos e
+SAEB: Identificar teses, opiniões, posicionamentos explícitos e
 argumentos em textos.
-
-BNCC: EF89LP04
+BNCC: EF89LP04 -- Identificar e avaliar teses/opiniões/posicionamentos explícitos e implícitos, argumentos e contra-argumentos em textos argumentativos do campo (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), posicionando-se frente à questão controversa de forma sustentada.
 
 \(A\) Incorreta. Pelo contrário, o cerne do texto é a influência da
 tecnologia na sociedade.
 
 \(B\) Incorreta. O personagem Neo é citado por ser o protagonista do
-filme, mas seu perfil não é analisado. A citação a ele é curta e poderia
+filme, mas seu perfil não é analisado. A citação dele é curta e poderia
 ser dispensada, sem prejuízo para a compreensão do enredo do filme.
 
 \(C\) Incorreta. O texto não tem o objetivo de fazer avaliação do filme
-para indicá-lo ao leitor, pois se trata de um artigo de opinião sobre
+para indicá-lo ao leitor, pois é um artigo de opinião sobre
 assunto diverso. A menção ao filme é apenas uma estratégia de introdução
 do assunto, de modo a ativar um conhecimento prévio do leitor.
 
-\(D\) Correta. O filme mencionado tem um enredo que, para o autor, se
-assemelha à nossa realidade atual, no que diz respeito à influência da
-tecnologia na sociedade. Essa estratégia de argumentação é de
+\(D\) Correta. O filme mencionado tem um enredo que, para o autor, assemelha-se à nossa realidade atual, no que diz respeito à influência da tecnologia na sociedade. Essa estratégia de argumentação é de
 comparação. No caso, compara-se a ficção do filme com a realidade da
 sociedade tecnológica atual.
 
-**Texto para as questões 4 e 5.**
+Leia o texto para responder às questões 4 e 5.
 
+>**Budapeste**
+>
 Devia ser proibido debochar de quem se aventura em língua estrangeira.
 Certa manhã, ao deixar o metrô por engano numa estação azul igual à
 dela, com um nome semelhante à estação da casa dela, telefonei da rua e
 disse: aí estou chegando quase. Desconfiei na mesma hora que tinha
 falado besteira, porque a professora me pediu para repetir a sentença.
 Aí estou chegando quase\... havia provavelmente algum problema com a
-palavra quase. Só que, em vez de apontar o erro, ela me fez repeti-lo,
+palavra *quase*. Só que, em vez de apontar o erro, ela me fez repeti-lo,
 repeti-lo, repeti-lo, depois caiu numa gargalhada que me levou a bater o
 fone. Ao me ver à sua porta teve novo acesso, e quanto mais prendia o
 riso na boca, mais se sacudia de rir com o corpo inteiro. Disse enfim
 ter entendido que eu chegaria pouco a pouco, primeiro o nariz, depois
 uma orelha, depois um joelho, e a piada nem tinha essa graça toda.
 
-BUARQUE, Chico Buarque. *Budapeste.* São Paulo: Companhia das Letras,
-2003 (fragmento).
+Chico Buarque de Holanda. *Budapeste*. São Paulo: Companhia das Letras,
+2003.
 
-\num{4}
-
-A expressão "devia ser proibido" revela, da parte do
-narrador-personagem,
+\num{4} A expressão "devia ser proibido", da parte do
+narrador-personagem, revela
 
 a\) uma postura autoritária em relação a uma brincadeira feita pela
 professora com o erro cometido.
 
-b\) uma indignação com a atitude da professora, de quem esperava um
+b\) uma indignação com a atitude da professora, de quem se esperava um
 comportamento diferente.
 
 c\) um arrependimento por ter se arriscado a falar uma língua
@@ -4368,10 +4353,9 @@ estrangeira que ainda não dominava.
 d\) uma decepção perante o erro que cometeu e que realçou seu fraco
 domínio da língua estrangeira.
 
-Saeb: Analisar os efeitos de sentido produzidos pelo uso de
+SAEB: Analisar os efeitos de sentido produzidos pelo uso de
 modalizadores em textos diversos.
-
-BNCC: EF08LP16
+BNCC: EF08LP16 -- Explicar os efeitos de sentido do uso, em textos, de estratégias de modalização e argumentatividade (sinais de pontuação, adjetivos, substantivos, expressões de grau, verbos e perífrases verbais, advérbios etc.).
 
 \(A\) Incorreta. O desejo de proibição da atitude em questão não torna o
 narrador uma pessoa autoritária, pois, de acordo com o contexto, ele é
@@ -4379,10 +4363,9 @@ vítima de uma brincadeira de mau gosto.
 
 \(B\) Correta. O narrador diz ter cometido um erro gramatical ao falar
 uma língua que não domina. O problema é que seu erro não só foi
-ridicularizado, como isso foi feito por sua professora da língua em
+ridicularizado, mas isso foi feito por sua professora da língua em
 questão, de quem ele esperava um tratamento diferente, como apontar o
-erro em vez de fazê-lo repetir e ficar ainda mais constrangido, daí sua
-indignação.
+erro em vez de fazê-lo repetir e ficar ainda mais constrangido, do que vem sua indignação.
 
 \(C\) Incorreta. O narrador não demonstra ter se arrependido de ter se
 arriscado na língua em que ainda era aprendiz. Pelo contrário, ele
@@ -4392,45 +4375,41 @@ sido apontado pela professora.
 \(D\) Incorreta. O narrador se mostra decepcionado não com o erro, mas
 com a postura da professora ao caçoar dele duas vezes por ter errado.
 
-\num{5}
-
-As duas ocorrências do pronome possessivo "dela" dependem de outro termo
+\num{5} As duas ocorrências da forma "dela" dependem de outro termo
 presente no texto para terem seu sentido completo. Esse termo é
 
-a\) rua.
+a\) "rua".
 
-b\) estação.
+b\) "estação".
 
-c\) professora.
+c\) "professora".
 
-d\) língua estrangeira.
+d\) "língua estrangeira".
 
-Saeb: Analisar os processos de referenciação lexical e pronominal.
+SAEB: Analisar os processos de referenciação lexical e pronominal.
+BNCC: EF08LP15 -- Estabelecer relações entre partes do texto, identificando o antecedente de um pronome relativo ou o referente comum de uma cadeia de substituições lexicais.
 
-BNCC: EF08LP15
+\(A\) Incorreta. A forma "dela" não se refere a "rua".
 
-\(A\) Incorreta. O pronome "dela" não se refere a "rua".
+\(B\) Incorreta. A forma "dela" não se refere a "estação".
 
-\(B\) Incorreta. O pronome "dela" não se refere a "estação".
-
-\(C\) Correta. O pronome "dela" tem no texto função catafórica, isto é,
+\(C\) Correta. A forma "dela" tem no texto função catafórica, isto é,
 ele aponta para um termo posterior na cadeia textual. Portanto, em
 "estação azul igual à dela" e "nome semelhante à estação da casa dela",
 "dela" se refere a "professora".
 
-\(D\) Incorreta. O pronome "dela" não se refere a "língua estrangeira".
+\(D\) Incorreta. A forma "dela" não se refere a "língua estrangeira".
 
-\num{6}
+\num{6} Leia o texto.
 
-Num passado não muito distante\...
+>Num passado não muito distante\...
 
-A neblina cobria parte dos limites da cidade, enquanto ele caminhava
+>A neblina cobria parte dos limites da cidade, enquanto ele caminhava
 rumo ao seio urbano. Seus passos firmes amassavam a grama amarelada que
 crescia à beira da rodovia. Usava uma capa negra com capuz e sapatos de
 couro, ligeiramente sujos de barro avermelhado. \[\...\]
 
-VENÂNCIO, Gabrielle. *Angellore*, a divina conspiração: essência, volume
-II. Ribeirão Preto: Selo Jovem, 2016 (fragmento).
+\fonte{Gabrielle Venâncio. *Angellore, a divina conspiração:* essência. Volume II. Ribeirão Preto: Selo Jovem, 2016.}
 
 A apresentação do cenário e do personagem contribui para dar a essa
 narrativa uma feição
@@ -4443,23 +4422,18 @@ c\) fantástica.
 
 d\) enigmática.
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
+BNCC: EF69LP47 -- Analisar, em textos narrativos ficcionais, as diferentes formas de composição próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados, identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero, da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de recursos linguístico-gramaticais próprios a cada gênero narrativo.
 
-BNCC: EF69LP47
-
-\(A\) Incorreta. Um texto lúdico, por outro lado, tem uma linguagem
-leve, divertida, figurada, privilegiando a imaginação. A narrativa em
-questão, por outro lado, traz um texto bastante literal e sóbrio, sem
-linguagem figurada.
+\(A\) Incorreta. Um texto lúdico tem uma linguagem leve, divertida, figurada, privilegiando a imaginação. A narrativa emquestão, por outro lado, traz um texto bastante literal e sóbrio, sem linguagem figurada.
 
 \(B\) Incorreta. A narrativa seria realista se a situação narrada fosse
 corriqueira, cotidiana, comum de acontecer no dia a dia, o que não é o
 caso.
 
 \(C\) Incorreta. Apesar de narrar uma situação pouco comum de acontecer
-no dia a dia, não se trata também de algo fantástico, isto é,
-sobrenatural, pelo menos não nesse trecho do texto.
+no dia a dia, não se trata também de algo fantástico, pelo menos não nesse trecho do texto.
 
 \(D\) Correta. A narrativa se refere ao personagem de forma genérica,
 sem nomeá-lo, e sua descrição, no caso da vestimenta, indica que ele
@@ -4467,11 +4441,11 @@ pretende não ser reconhecido e está sozinho caminhando no escuro de uma
 rodovia. Além disso, na descrição do cenário, percebe-se que é noite e
 que há neblina, o que dificulta a visibilidade.
 
-\num{7}
+\num{7} Leia o texto.
 
-**Torto arado**
+>**Torto arado**
 
-Quando retirei a faca da mala de roupas, embrulhada em um pedaço de
+>Quando retirei a faca da mala de roupas, embrulhada em um pedaço de
 tecido antigo e encardido, com nódoas escuras e um nó no meio, tinha
 pouco mais de sete anos. Minha irmã, Belonísia, que estava comigo, era
 mais nova um ano. Pouco antes daquele evento estávamos no terreiro da
@@ -4490,8 +4464,7 @@ Minha vó, em particular, só precisava nos olhar com firmeza para
 sentirmos a pele arrepiar e arder, como se tivéssemos nos aproximado de
 uma fogueira. \[\...\]
 
-VIEIRA JUNIOR, Itamar. *Torto arado*. 1.ed. São Paulo: Todavia, 2019
-(fragmento).
+\fonte{Itamar Vieira Júnior. *Torto arado*. São Paulo: Todavia, 2019.}
 
 O modo de sequenciação dos acontecimentos pode tornar uma narrativa
 bastante interessante para o leitor. No decorrer da leitura desse trecho
@@ -4509,10 +4482,9 @@ ações seguintes.
 d\) antecipa uma ação que, à frente, será compreendida como conflito por
 narrar uma travessura da protagonista.
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
-
-BNCC: EF69LP47
+BNCC: EF69LP47 -- Analisar, em textos narrativos ficcionais, as diferentes formas de composição próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados, identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero, da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de recursos linguístico-gramaticais próprios a cada gênero narrativo.
 
 \(A\) Incorreta. A frase inicial apresenta ao leitor uma cena posterior
 à situação inicial da narrativa. Isso fica claro no trecho seguinte à
@@ -4534,9 +4506,9 @@ qualquer. No decorrer da leitura, essa cena ganha importância
 diferenciada na narrativa, porque o leitor descobre que a ação da
 personagem, narrada no início, é algo proibido.
 
-**Texto para as questões 8 e 9.**
+Leia o texto para responder às questões 8 e 9.
 
-As primeiras duas décadas do século XXI, no Brasil e no mundo
+>As primeiras duas décadas do século XXI, no Brasil e no mundo
 globalizado, foram marcadas por consideráveis avanços científicos,
 dentre os quais destacam-se as tecnologias de informação e comunicação
 (TICs). Nesse sentido, tal panorama promoveu a ampliação do acesso ao
@@ -4547,14 +4519,11 @@ comportamental via dados digitais. Desse modo, torna-se premente
 analisar os principais impactos dessa problemática: a perda da autonomia
 de pensamento e a sabotagem dos processos políticos democráticos.
 
-Disponível em:
-http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink6.pdf.
+>\[...]
 
-Acesso em: 21 fev. 2023 (fragmento).
+\fonte{Pedro Assaad Salloum Moreira da Rocha. Disponível em: _http://portal.mec.gov.br/images/stories/noticias/2019/outubro/24.10.2019redacaolink6.pdf_. Acesso em: 21 fev. 2023.}
 
-\num{8}
-
-A ideia que o autor pretende sustentar no texto é a de que
+\num{8} A ideia que o autor pretende sustentar no texto é a de que
 
 a\) a ciência ajudou a construir uma sociedade livre de problemas e
 desafios.
@@ -4568,14 +4537,13 @@ benefícios.
 d\) o acesso ao conhecimento facilitado pela tecnologia foi prejudicial
 para a sociedade.
 
-Saeb: Identificar teses, opiniões, posicionamentos explícitos e
+SAEB: Identificar teses, opiniões, posicionamentos explícitos e
 argumentos em textos.
-
-BNCC: EF67LP05
+BNCC: EF89LP04 -- Identificar e avaliar teses/opiniões/posicionamentos explícitos e implícitos, argumentos e contra-argumentos em textos argumentativos do campo (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), posicionando-se frente à questão controversa de forma sustentada.
 
 \(A\) Incorreta. O autor não acredita nisso; pelo contrário, aceita o
 fato de que a tecnologia tem também seu lado negativo sobre a
-humanidade, não só benéfico.
+humanidade, e não só benéfico.
 
 \(B\) Correta. O autor remete aos avanços científicos do século XXI e
 cita benefícios e prejuízos da tecnologia para humanidade, comprovando
@@ -4586,12 +4554,10 @@ caráter positivo e o caráter negativo dos avanços tecnológicos.
 comparados aos prejuízos da tecnologia, embora os coloque em lados
 opostos.
 
-\(D\) Incorreta. O autor cita o acesso ao conhecimento com um de exemplo
+\(D\) Incorreta. O autor cita o acesso ao conhecimento como um exemplo
 de benefício da tecnologia.
 
-\num{9}
-
-O articulador "em contrapartida" introduz no texto uma
+\num{9} O articulador "Em contrapartida" introduz no texto uma
 
 a\) mudança de assunto, avançando no tema.
 
@@ -4601,9 +4567,8 @@ c\) concordância conclusiva, para encerrar o assunto.
 
 d\) avaliação pessimista, oposta ao que foi dito antes.
 
-Saeb: Analisar os mecanismos que contribuem para a progressão textual.
-
-BNCC: EF08LP13
+SAEB: Analisar os mecanismos que contribuem para a progressão textual.
+BNCC: EF08LP13 -- Inferir efeitos de sentido decorrentes do uso de recursos de coesão sequencial: conjunções e articuladores textuais.
 
 \(A\) Incorreta. O trecho introduzido pelo articulador não traz novo
 assunto, pois, embora sejam adicionadas novas informações, o assunto
@@ -4613,16 +4578,16 @@ principal não se altera.
 tais como "ou seja" e "isto é". Além disso, não há retificação de
 informação no trecho introduzido pelo articulador em questão.
 
-\(C\) Incorreta. Pelo contrário, o articulador introduz uma ideia
-oposta, e não uma concordância. Além disso, ele não expressa sentido
-conclusivo.
+\(C\) Incorreta. O articulador introduz uma ideia oposta, e não uma concordância. Além disso, ele não expressa sentido conclusivo.
 
 \(D\) Correta. No trecho anterior, o autor apresenta vantagens da
 tecnologia. O articulador introduz desvantagens, isto é, apresenta
-ideias opostas às anteriores e que avaliam negativamente a tecnologia.
+ideias opostas às anteriores, que avaliam negativamente a tecnologia.
 
-\num{10}
+\num{10} Leia o texto.
 
+>**O som de um coração vazio**
+>
 Estava exausto, cansado, mas não conseguia dormir. A adrenalina do show
 percorria todo o meu corpo dolorido, ainda sentia as batidas da banda
 atrás de mim, o calor do público e o grito das meninas. Observava as
@@ -4633,8 +4598,7 @@ e cantando, memorizar o nome do lugar em que me apresentei era algo
 confuso. Após um tempo respirando profundamente, eu me lembrei que
 estava em Curitiba e, no dia seguinte, iria para Porto Alegre. \[\...\]
 
-MAYRINK, Graciela. *O som de um coração vazio*. 1.ed. Rio de Janeiro:
-Bambolê, 2018 (fragmento).
+Graciela Mayrink. *O som de um coração vazio*. Rio de Janeiro: Bambolê, 2018.
 
 A narrativa traz, já na introdução, um fato que causa desequilíbrio na
 situação inicial apresentada, manifestado
@@ -4651,12 +4615,11 @@ apresentações musicais.
 d\) nos lapsos de memória após o personagem experimentar momentos de
 euforia nos shows.
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
+BNCC: EF69LP47 -- Analisar, em textos narrativos ficcionais, as diferentes formas de composição próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados, identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero, da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de recursos linguístico-gramaticais próprios a cada gênero narrativo.
 
-BNCC: EF69LP47
-
-\(A\) Incorreta. A pressão psicológica de ser um artista de sucesso
+\(A\) Incorreta. A pressão psicológica para ser um artista de sucesso
 poderia ser a origem do problema que acomete o personagem, mas isso não
 se comprova no texto.
 
@@ -4668,25 +4631,16 @@ adrenalina de uma apresentação musical recente.
 meninas, o que sugere a boa recepção que teve.
 
 \(D\) Correta. Tudo está perfeito para o personagem: o show foi um
-sucesso, o público foi receptivo e a banda tocou bem. Entretanto, ele se
-depara novamente com um problema que o incomoda pela frequência com que
-acontece: a dificuldade de memorizar os nomes dos lugares onde se
-apresenta.
+sucesso, o público foi receptivo e a banda tocou bem. Ele se
+depara, no entanto, novamente com um problema que o incomoda pela frequência com que acontece: a dificuldade de memorizar os nomes dos lugares onde se apresenta.
 
-\num{11}
+\num{11} Uma campanha de doação de sangue trazia o enunciado reproduzido a seguir.
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image36.png){width="3.03125in"
-height="2.635207786526684in"}
+>Não é só o sangue de Cristo que tem poder.
 
-Disponível em:
-http://www.diaadiaeducacao.pr.gov.br/portals/cadernospde/pdebusca/producoes\_pde/2016/2016\_pdp\_port\_uel\_eldamariadeoliveiraesilva.pdf.
-Acesso em: 21 fev. 2023.
+A campanha remete ao texto bíblico com o objetivo de
 
-A campanha de doação de sangue remete ao texto bíblico com o objetivo de
-
-a\) sensibilizar as pessoas com a lembrança da morte e ressurreição de
-Cristo.
+a\) sensibilizar as pessoas com a lembrança da morte e da ressurreição de Cristo.
 
 b\) expressar religiosidade e divulgar a mensagem de Cristo para a
 sociedade.
@@ -4694,27 +4648,26 @@ sociedade.
 c\) valorizar o doador, que com seu sangue pode salvar a vida de outra
 pessoa.
 
-d\) restringir o público doador, que para doar precisa ser membro de uma
-igreja.
+d\) restringir o público doador, que, para doar, precisa ser membro de uma igreja.
 
-Saeb: Identificar o uso de recursos persuasivos em textos verbais e não
+SAEB: Identificar o uso de recursos persuasivos em textos verbais e não
 verbais.
 
-BNCC: sem correspondência
+\(A\) Incorreta. O anúncio não tem caráter religioso.
 
-\(A\) Incorreta. O cartaz não tem caráter religioso.
-
-\(B\) Incorreta. O cartaz não tem caráter religioso.
+\(B\) Incorreta. O anúncio não tem caráter religioso.
 
 \(C\) Correta. O sangue do possível doador é comparado ao de Cristo, que
 para os cristãos é o salvador do mundo. Dessa forma, o sangue do doador
 é valorizado como salvador da vida das pessoas que precisam de doação.
 
-\(D\) Incorreta. O cartaz se destina ao público em geral, sem distinção
+\(D\) Incorreta. O anúncio se destina ao público em geral, sem distinção
 de crença, dada a importância dessa ação para quem precisa.
 
-\num{12}
+\num{12} Leia o texto.
 
+>**Biomas brasileiros**
+>
 Biosfera. O conjunto de todos os ecossistemas terrestres é chamado de
 biosfera, que significa a camada de vida que envolve a Terra. É a área
 do nosso planeta em que é possível a sobrevivência dos organismos vivos,
@@ -4725,37 +4678,32 @@ quilômetros, sendo 7 quilômetros para cima da superfície, na atmosfera,
 e 11 quilômetros para baixo, até as profundezas marinhas. A biosfera
 pode ser considerada o maior dos ecossistemas conhecidos.
 
-RIOS, E.P.; THOMPSON, Miguel. *Biomas brasileiros*. São Paulo:
-Melhoramentos, 2013 (fragmento).
+\fonte{E. P. Rios e M. Thompson. *Biomas brasileiros*. São Paulo: Melhoramentos, 2013.}
 
 Em razão das características do gênero, emprega-se no texto uma
-linguagem que preza pelo(a)
+linguagem que preza
 
-a\) criatividade e autenticidade, com o objetivo de demarcar a autoria.
+a\) pela criatividade e pela autenticidade, com o objetivo de demarcar a autoria.
 
-b\) sentido literal das palavras, de modo a restringir a interpretação
-das informações.
+b\) pelo sentido literal das palavras, de modo a restringir a interpretação das informações.
 
-c\) alternância da objetividade e da subjetividade, quando a opinião do
-autor aparece.
+c\) pela alternância da objetividade e da subjetividade, quando a opinião do autor aparece.
 
-d\) sequenciação dos fatos no tempo e no espaço, a qual leva a um
+d\) pela sequenciação dos fatos no tempo e no espaço, a qual leva a um
 desfecho inevitável.
 
-Saeb: Identificar elementos constitutivos de gêneros de divulgação
+SAEB: Identificar elementos constitutivos de gêneros de divulgação
 científica.
 
-BNCC: sem correspondência
-
 \(A\) Incorreta. O gênero textual verbete tem como característica a
-ausência de pontos de vista e, por caráter informativo/expositivo,
-privilegia o uso da 3ª pessoa.
+ausência de pontos de vista e, por ter caráter informativo/expositivo,
+privilegia o uso da terceira pessoa.
 
 \(B\) Correta. O gênero textual verbete tem como característica a
 linguagem denotativa, isto é, literal, pois visa preservar ao máximo o
 sentido dicionarizado das palavras e, consequentemente, evitar mais de
 uma possibilidade de interpretação do conteúdo, dado o seu caráter
-informativo/expositivo e a objetividade exigida num texto conceitual.
+informativo/expositivo e a objetividade exigida em um texto conceitual.
 
 \(C\) Incorreta. O gênero em questão não apresenta opinião e, por
 consequência, está ausente dele a subjetividade.
@@ -4763,29 +4711,19 @@ consequência, está ausente dele a subjetividade.
 \(D\) Incorreta. A alternativa apresenta características de uma
 narrativa, e não de um texto informativo/expositivo.
 
-**Texto para as questões 13 e 14.**
+Leia o texto para responder às questões 13 e 14.
 
-Merecer é um verbo que vem sendo muito utilizado ultimamente. Todo mundo
-acha que merece uma porção de coisas. Tem gente que compra roupa nova
-toda semana. Tem aqueles que adquirem relógios, computadores e outros
-bens de consumo disponíveis no mercado.
+>**A busca constante pelo merecimento e os pequenos prazeres do cotidiano**
+>
+O verbo "merecer" está em alta recentemente. Todo mundo acredita que tem direito a várias coisas. Algumas pessoas compram roupas novas toda semana. Outras adquirem relógios, computadores e outros produtos disponíveis no mercado.
+>
+Conheço mães que presenteiam seus filhos pequenos com brinquedos novos em curtos intervalos de tempo, sem critérios. Vejo homens que trocam de carro anualmente, e assim por diante.
+>
+Essas compras são justificadas pela frase "eu mereço". Cada pessoa tem suas razões para justificar esse merecimento. No entanto, muitas vezes o tempo passa e as pessoas continuam encantadas com seus pequenos prazeres diários, sem perceber que estão satisfeitas com muito pouco.
 
-Conheço mães que presenteiam seus filhos pequenos com brinquedos novos
-num curto espaço de tempo, sem qualquer critério. Vejo homens que
-costumam trocar de carro todos os anos e assim por diante.
+\fonte{Fonte de pesquisa: Reinaldo Domingos. *Como reduzir o impulso de comprar*. São Paulo: DSOP Educação Financeira, 2013.}
 
-Essas aquisições são feitas sob a desculpa do "eu mereço". E cada um tem
-seus motivos para justificar esse merecimento. No entanto, muitas vezes
-o tempo passa e as pessoas continuam extasiadas com seus pequenos
-prazeres cotidianos, sem perceber que se contentam, na verdade, com
-muito pouco.
-
-DOMINGOS, Reinaldo. *Como reduzir o impulso de comprar*. São Paulo: DSOP
-Educação Financeira, 2013 (fragmento).
-
-\num{13}
-
-Em seu texto, o autor desenvolve uma crítica ao comportamento
+\num{13} No texto, desenvolve-se uma crítica ao comportamento
 
 a\) egoísta, representado na fala "eu mereço".
 
@@ -4795,10 +4733,9 @@ c\) materialista, percebido no apego aos bens de consumo.
 
 d\) conformista, manifestado no contentamento com o pouco.
 
-Saeb: Identificar teses, opiniões, posicionamentos explícitos e
+SAEB: Identificar teses, opiniões, posicionamentos explícitos e
 argumentos em textos.
-
-BNCC: EF89LP04
+BNCC: EF89LP04 -- Identificar e avaliar teses/opiniões/posicionamentos explícitos e implícitos, argumentos e contra-argumentos em textos argumentativos do campo (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), posicionando-se frente à questão controversa de forma sustentada.
 
 \(A\) Incorreta. A fala "eu mereço" apenas ilustra o pensamento que está
 por trás do consumismo.
@@ -4811,15 +4748,13 @@ compensando a si mesmas com produtos desnecessários.
 \(C\) Incorreta. O materialismo está implícito no comportamento
 consumista, mas não é o foco da crítica do autor. O apego, nesse caso, é
 relativo, pois as pessoas compram novos produtos justamente por desapego
-dos que já adquiriu.
+dos que já adquiriram.
 
 \(D\) Incorreta. O conformismo é uma ideia que, de certa forma, está
 presente no texto, mas não com destaque. O conformismo é mencionado
 apenas no fim do texto como um tipo de sintoma do consumismo.
 
-\num{14}
-
-A finalidade comunicativa do texto indica que foi organizado em forma de
+\num{14} A finalidade comunicativa do texto indica que foi organizado em forma de
 
 a\) relato pessoal.
 
@@ -4829,10 +4764,9 @@ c\) artigo de opinião.
 
 d\) carta de reclamação.
 
-Saeb: Identificar elementos constitutivos de textos pertencentes ao
+SAEB: Identificar elementos constitutivos de textos pertencentes ao
 domínio jornalístico/midiático.
-
-BNCC: EF08LP01
+BNCC: EF08LP01 -- Identificar e comparar as várias editorias de jornais impressos e digitais e de sites noticiosos, de forma a refletir sobre os tipos de fato que são noticiados e comentados, as escolhas sobre o que noticiar e o que não noticiar e o destaque/enfoque dado e a fidedignidade da informação.
 
 \(A\) Incorreta. O relato pessoal é um gênero narrativo, diferente do
 texto em questão, que é argumentativo.
@@ -4847,35 +4781,24 @@ da sociedade apresentando argumentos que fundamentem a tese.
 \(D\) Incorreta. A carta de reclamação tem destinatário certo, o que não
 ocorre no texto em questão.
 
-\num{15}
+\num{15} Leia os textos.
 
 **TEXTO I**
 
-**Com redução de crimes e outras ocorrências, Governo de Minas promove o
-Carnaval mais seguro do Brasil**
-
-*Atuação conjunta das secretarias e planejamento estratégico das forças
+>**Com redução de crimes e outras ocorrências, Governo de Minas promove o Carnaval mais seguro do Brasil**
+>*Atuação conjunta das secretarias e planejamento estratégico das forças
 de segurança garantiram sucesso da folia no estado*
 
-AGÊNCIA MINAS, 23 fev. 2023. Disponível em:
-https://www.agenciaminas.mg.gov.br/noticia/com-reducao-de-crimes-e-outras-ocorrencias-governo-de-minas-promove-o-carnaval-mais-seguro-do-brasil.
-Acesso em: 04 mar. 2023 (fragmento).
+\fonte{Agência Minas. Com redução de crimes e outras ocorrências, Governo de Minas promove o Carnaval mais seguro do Brasil. Disponível em: _https://www.agenciaminas.mg.gov.br/noticia/com-reducao-de-crimes-e-outras-ocorrencias-governo-de-minas-promove-o-carnaval-mais-seguro-do-brasil_. Acesso em: 04 mar. 2023.}
 
 **TEXTO II**
 
-**Carnaval de Minas Gerais registra queda expressiva de criminalidade;**
+>**Carnaval de Minas Gerais registra queda expressiva de criminalidade; veja números**
+>*Os dados são em comparação ao último Carnaval, em 2020, e mostram queda de assaltos, furtos e importunação sexual*
 
-**veja números**
+\fonte{Mariana Cavalcanti. Itatiaia. Disponível em: _https://www.itatiaia.com.br/editorias/cidades/2023/02/23/carnaval-de-minas-gerais-registra-queda-expressiva-de-criminalidade-veja-numeros_. Acesso em: 04 mar. 2023.}
 
-*Os dados são em comparação ao último Carnaval, em 2020, e mostram queda
-de assaltos, furtos e importunação sexual*
-
-CAVALCANTI, M. *Rádio Itatiaia,* 23 fev. 2023. Disponível em:
-https://www.itatiaia.com.br/editorias/cidades/2023/02/23/carnaval-de-minas-gerais-registra-queda-expressiva-de-criminalidade-veja-numeros.
-Acesso em: 04 mar. 2023 (fragmento).
-
-Considerando-se as características do gênero textual, a diferença entre
-os textos I e II se verifica
+Considerando-se as características do gênero textual a que cada manchete pertence, a diferença entre os textos I e II se verifica
 
 a\) na apresentação das informações fundamentais, tais como "o quê",
 "quando", "quem" e "onde".
@@ -4889,9 +4812,7 @@ queda na criminalidade.
 d\) na veracidade das informações divulgadas, o que levanta dúvidas
 sobre a credibilidade de um dos veículos.
 
-Saeb: Analisar marcas de parcialidade em textos jornalísticos.
-
-BNCC: sem correspondência.
+SAEB: Analisar marcas de parcialidade em textos jornalísticos.
 
 \(A\) Incorreta. A apresentação das informações fundamentais "o quê",
 "quando", "quem" e "onde" é uma característica do gênero notícia, e
@@ -4899,27 +4820,25 @@ essas informações estão presentes nos dois textos noticiosos
 transcritos.
 
 \(B\) Incorreta. O texto II especifica os crimes, enquanto o texto I
-apenas se refere a eles de modo genérico, mas se trata de uma diferente
+apenas se refere a eles de modo genérico, mas se trata de uma diferença
 pouco relevante sob o ponto de vista das características do gênero
 textual notícia.
 
 \(C\) Correta. Os textos I e II são do gênero notícia, o que pressupõe
-certas características comuns entre eles. Dentre essas características,
-a que os diferencia é a imparcialidade presente no Texto I, ao
+certas características comuns entre eles. Entre essas características,
+a que os diferencia é a parcialidade presente no texto I, ao
 considerar que a queda na criminalidade foi tão grande que o carnaval de
 Minas Gerais foi um sucesso e o mais seguro do Brasil. Por outro lado, o
-Texto I tem marcas de maior imparcialidade, ao caracterizar os mesmos
+texto II tem marcas de maior imparcialidade, ao caracterizar os mesmos
 dados simplesmente como uma queda expressiva se comparados ao evento
 anterior.
 
-\(D\) Incorreta. No gênero textual notícia está pressuposto que as
+\(D\) Incorreta. No gênero textual notícia, está pressuposto que as
 informações são verdadeiras. Nos textos em questão, a veracidade é
 comprovada pela fonte da notícia, que indica veículos com credibilidade
 no meio jornalístico.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**[SIMULADO 3]{.underline}**
+#Simulado 3
 
 \num{1}
 
@@ -6520,5 +6439,6 @@ Acessado em: 03/07/2018.
 
 SARMENTO, Leila Luar: TUFANO: Douglas. **Literatura, Gramática e
 Produção de Texto**. São Paulo: Moderna, 2001.
+
 
 
