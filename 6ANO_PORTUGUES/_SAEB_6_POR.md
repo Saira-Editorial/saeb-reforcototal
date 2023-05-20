@@ -3773,16 +3773,14 @@ e isso não importa para o tipo de deslize ocorrido na frase.
 
 # Simulado 1
 
-\num{1} Leia o texto a seguir.
+\num{1} Leia o diálogo a seguir.
 
-![Forma Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image34.jpeg){width="1.9807688101487315in"
-height="1.9807688101487315in"}
+https://www.freepik.com/free-photo/pretty-smiling-casual-blond-girl-with-book-coffee-joyfully-talking-with-friend-courtyard-city-cafe_24288412.htm#query=two%20people%20talking&position=2&from_view=search&track=ais
 
-\fonte{https://ciencianarua.net/tirinha-de-silva-joao-20-05-2020/
+-- Decidi que vou estudar Artes cênicas, e você?
+-- Ah, estou pensando... quero viajar primeiro e se der conhecer o mundo.
 
-No primeiro quadrinho da tira, o modalizador enunciativo promove a
-intenção de
+Na primeira fala, a intenção enunciativa é de
 
 a\) certeza.
 
@@ -3792,18 +3790,18 @@ c\) condição.
 
 d\) negação.
 
-BNCC: EF69LP28.
+SAEB: Identificar os recursos de modalização em textos diversos.
+BNCC: EF69LP28 -- Observar os mecanismos de modalização adequados aos textos jurídicos, as
+modalidades deônticas, que se referem ao eixo da conduta (obrigatoriedade/permissibilidade) como, por exemplo: Proibição: “Não se deve fumar em recintos fechados.”; Obrigatoriedade: “A vida tem que valer a pena.”; Possibilidade: “É permitido a entrada de menores acompanhados de adultos responsáveis”, e os mecanismos de modalização adequados aos textos políticos e propositivos, as modalidades apreciativas, em que o locutor exprime um juízo de valor (positivo ou negativo) acerca do que enuncia. Por exemplo: “Que belo discurso!”, “Discordo das escolhas de Antônio.” “Felizmente, o buraco ainda não causou acidentes mais graves.”
 
-a\) A intenção é a de certeza.
+a\) Correta. A intenção é a de certeza.
 
-b\) O modalizador em questão é o verbo decidi, que promove a intenção de
+b\) Incorreta. O modalizador em questão é o verbo *decidi*, que promove a intenção de
 certeza do enunciador.
 
-c\) A intenção de condição aprece no segundo quadrinho, por meio do
-modalizador "só", quando o enunciador afirma que "é só todo mundo ficar
-em casa que isso passa logo".
+c\) Incorreta. A intenção de condição aprece em "se", em "se der".
 
-d\) Em nenhum dos quadrinho há qualquer intenção de negação por parte do
+d\) Incorreta. Em nenhuma parte do diálogo há qualquer intenção de negação por parte do
 enunciador.
 
 
@@ -3826,10 +3824,9 @@ cerveja. Fazer *sancocho* é como fazer uma festa", contou. "Fazer o
 prato aqui no Brasil é importante porque assim posso compartilhar algo
 da minha cultura", disse.
 
-(MARIUZZO, Patrícia. Sabores sem fronteiras. Publicado em 7 fev. 2022.
-Disponível em:
+(Patrícia Mariuzzo. Unicamp. Sabores sem fronteiras. Disponível em:
 <https://www.unicamp.br/unicamp/ju/noticias/2022/02/07/sabores-sem-fronteiras>.
-Acesso em: mar. 2023. Adaptado.)
+Acesso em: 7 mar. 2023.)
 
 Ao dizer que "fazer *sancocho* é como fazer uma festa", Ricardo, o
 entrevistado, quer dizer que
@@ -3844,7 +3841,8 @@ familiares.
 d\) o prato traz boas memórias das reuniões familiares que ele tinha na
 Venezuela.
 
-BNCC: EF69LP43.
+SAEB: Analisar os mecanismos que contribuem para a progressão textual.
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras vozes no texto – citação literal e sua formatação e paráfrase –, as pistas linguísticas responsáveis por introduzir no texto a posição do autor e dos outros autores citados (“Segundo X; De acordo com Y; De minha/nossa parte, penso/amos que”...) e os elementos de normatização (tais como as regras de inclusão e formatação de citações e paráfrases, de organização de referências bibliográficas) em textos científicos, desenvolvendo reflexão sobre o modo como a intertextualidade e a retextualização ocorrem nesses textos..
 
 a\) Incorreta. O prato não é feito somente em celebrações. No texto
 mesmo é informado que Ricardo faz o prato no Brasil.
@@ -3856,7 +3854,7 @@ c\) Incorreta. Ricardo costumava fazer o prato em reuniões com seus
 familiares e amigos, mas o texto não informa que é tipicamente feito
 somente nessas ocasiões.
 
-d\) Para Ricardo, o prato remete às boas memórias que tinha das
+d\) Correta. Para Ricardo, o prato remete às boas memórias que tinha das
 reuniões com amigos e familiares na Venezuela, com música e cerveja.
 
 
@@ -3879,10 +3877,9 @@ cerveja. Fazer *sancocho* é como fazer uma festa", contou. "Fazer o
 prato aqui no Brasil é importante porque assim posso compartilhar algo
 da minha cultura", disse.
 
-(MARIUZZO, Patrícia. Sabores sem fronteiras. Publicado em 7 fev. 2022.
-Disponível em:
+(Patrícia Mariuzzo. Unicamp. Sabores sem fronteiras. Disponível em:
 <https://www.unicamp.br/unicamp/ju/noticias/2022/02/07/sabores-sem-fronteiras>.
-Acesso em: mar. 2023. Adaptado.)
+Acesso em: 7 mar. 2023.)
 
 Quando à escolha do título da matéria, "Sabores sem fronteiras",
 
@@ -3894,7 +3891,8 @@ c\) refere-se ao nome do livro mencionado no texto.
 
 d\) refere-se ao fato de tratar de alimentos do mundo todo.
 
-BNCC: EF67LP07.
+SAEB: Analisar os mecanismos que contribuem para a progressão textual.
+BNCC: EF67LP07 -- Identificar o uso de recursos persuasivos em textos argumentativos diversos (como a elaboração do título, escolhas lexicais, construções metafóricas, a explicitação ou a ocultação de fontes de informação) e perceber seus efeitos de sentido..
 
 a\) Incorreta. O título não trata especificamente da história de
 Ricardo. Ele é apenas um exemplo.
@@ -3904,22 +3902,14 @@ outro, mas sim dos pratos de cada lugar que aparecem no livro.
 
 c\) Incorreta. Não se pode afirmar que esse é o nome do livro.
 
-d\) O título da matéria, "Sabores sem fronteiras", refere-se ao
+d\) Correta. O título da matéria, "Sabores sem fronteiras", refere-se ao
 fato de o livro trazer receitas do mundo todo.
 
 
-\num{4} Observe uma imagem retirada do Twitter da Prefeitura do município do
-Rio de Janeiro:
+\num{4} Observe um comentário feito por um cidadão numa rede social da prefeitura de uma metrópole brasileira.
 
-![Interface gráfica do usuário, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image6.png){width="4.975430883639545in"
-height="2.5668886701662292in"}
-
-\fonte{
-[[https://twitter.com/Prefeitura\_Rio/status/1633079144815681536]{.underline}](https://twitter.com/Prefeitura_Rio/status/1633079144815681536)
-
-Arte, por favor, borrar o nome da pessoa que comentou o Tweet da
-prefeitura.
+"Não consigo mais. É insuportável viajar nos ônibus desta cidade, que parecem mais latas de sardinha e nem ar parece ter lá dentro."
+Gabriel Silveira
 
 Ao dizer que "é insuportável viajar", a pessoa que reclama sobre o
 transporte utiliza uma figura de linguagem para representar seu
@@ -3933,7 +3923,8 @@ c\) catacrese.
 
 d\) personificação.
 
-BNCC: EF67LP38.
+SAEB: Analisar o uso de figuras de linguagem como estratégia argumentativa.
+BNCC: EF67LP38 -- Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.
 
 a\) Correta. A pessoa utiliza uma hipérbole ao dizer que é insuportável
 viajar nos ônibus daquela linha, pois são pequenos e sem ar.
@@ -3955,19 +3946,12 @@ Sistema Único de Saúde**
 
 A coordenadora do Campus Virtual Fiocruz, Ana Furniel, consoante com a
 campanha \#OBrasilPrecisadoSUS, aponta que o Sistema Único de Saúde é
-imprescindível para o país. Seu papel na pandemia ressaltou ainda mais a
-sua importância. "É interessante pensar no todo, pois quando falamos do
-SUS ainda se pensa de forma limitada ao atendimento hospitalar. No
-entanto, o SUS é maior, ele é atenção hospitalar, sim, mas é vacina,
-medicamento, atenção primária, vigilância e é, especialmente para nós,
-formação de profissionais de saúde. Essa é a esfera de contribuição do
-CVF".
+imprescindível para o país. [...]
 
-(SCHINCARIOL, Isabela. *O Brasil precisa do SUS: lançada campanha
-nacional de defesa do Sistema Único de Saúde*. Fiocruz, publicado em 15
-de dez. 2020. Disponível em: \<
+(Isabela Schincariol. Fiocruz. O Brasil precisa do SUS: lançada campanha
+nacional de defesa do Sistema Único de Saúde. Disponível em: \<
 <https://campusvirtual.fiocruz.br/portal/?q=noticia/59976>\>. Acesso em:
-mar. 2023. Adaptado.)
+15 mar. 2023. Adaptado.)
 
 A palavra **imprescindível**, usada pela especialista para defender o
 SUS, poderia ser substituída, neste contexto, por
@@ -3980,9 +3964,10 @@ c\) incontestável.
 
 d\) insustentável.
 
-BNCC: EF67LP04.
+SAEB: Analisar os efeitos de sentido decorrentes dos mecanismos de construção de textos jornalísticos/midiáticos.
+BNCC: EF67LP04 -- Distinguir, em segmentos descontínuos de textos, fato da opinião enunciada em relação a esse mesmo fato.
 
-a\) Imprescindível quer dizer que o SUS é absolutamente
+a\) Correta. Imprescindível quer dizer que o SUS é absolutamente
 necessário, ou seja, indispensável.
 
 b\) Incorreta. Irrecusável é a característica do que não se pode
@@ -3996,7 +3981,7 @@ sustentaria, o que não é o caso do contexto.
 
 
 \num{6} Leia o *jingle* da campanha de Júlio Prestes, um homem que foi
-candidato à presidência do Brasil em 1920:
+candidato à presidência do Brasil em 1920.
 
 Ó Seu Toninho
 
@@ -4018,7 +4003,8 @@ c\) convidar seu Toninho a votar em Júlio Prestes.
 
 d\) incentivar os paulistas a votarem em Júlio Prestes.
 
-BNCC: EF67LP04.
+SAEB: Identificar o uso de recursos persuasivos em textos verbais e não verbais.
+BNCC: EF67LP04 -- Distinguir, em segmentos descontínuos de textos, fato da opinião enunciada em relação a esse mesmo fato.
 
 a\) Incorreta. A canção não tem como objetivo incentivar as pessoas a
 votarem, mas sim de divulgar um candidato.
@@ -4032,17 +4018,11 @@ geral.
 d\) Incorreta. Apenas o candidato é paulista e não os eleitores de modo
 geral.
 
-![Interface gráfica do usuário, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image12.png){width="4.758333333333334in"
-height="5.41291447944007in"}
 
-RUAS, Carlos. Disponível em: \<
-<https://www.iag.usp.br/astronomia/sites/default/files/dnce_2023_02.pdf>\>.
-Acesso em: mar. 2023.
+Veja a imagem e leia o texto que, juntos, constituem um meme.
 
-O texto em quadrinhos foi usado para apresentar, em uma linguagem menos
-técnica e mais acessível, um texto de divulgação científica que
-explicaria
+https://www.freepik.com/free-vector/cartoon-summer-illustration_13658478.htm#page=2&query=sun%20cartoon&position=27&from_view=search&track=ais
+Eu que vim para a praia, mas vocês na Terra nem imaginam o que vai acontecer com o Sistema Solar todo se eu demorar aqui no bronze! O texto não é de divulgação científica, mas é possível imaginar um conteúdo de divulgação científica, na mesma linha de assunto, que explicaria
 
 a\) o que poderia apagar o Sol.
 
@@ -4052,30 +4032,26 @@ c\) o que aconteceria aos planetas se o Sol se apagasse.
 
 d\) de que forma a vida na Terra seria extinta se o Sol morresse.
 
-BNCC: EF69LP20.
+SAEB: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou crítica.
+BNCC: EF69LP20 -- Identificar, tendo em vista o contexto de produção, a forma de organização dos textos normativos e legais, a lógica de hierarquização de seus itens e subitens e suas partes: parte inicial (título – nome e data – e ementa), blocos de artigos (parte, livro, capítulo, seção, subseção), artigos (caput e parágrafos e incisos) e parte final (disposições pertinentes à sua implementação) e analisar efeitos de sentido causados pelo uso de vocabulário técnico, pelo uso do imperativo, de palavras e expressões que indicam circunstâncias, como advérbios e locuções adverbiais, de palavras que indicam generalidade, como alguns pronomes indefinidos, de forma a poder compreender o caráter imperativo, coercitivo e generalista das leis e de outras formas de regulamentação.
 
-a\) Incorreta. O quadrinho não menciona o que poderia apagar o sol, e
+a\) Incorreta. O meme não menciona o que poderia apagar o sol, e
 sim o que aconteceria aos outros astros se ele se apagasse.
 
 b\) Incorreta. Embora o fim do Sol seja uma hipótese de extinção da vida
-na Terra, a temática do quadrinho são as consequências do apagão do Sol.
+na Terra, a temática do meme são as consequências do apagão do Sol.
 
-c\) Correta. O quadrinho explica, de forma lúdica, que sem o Sol nenhum
-planeta se manteria vivo, pois estão todos os três girando em torno do
-Sol.
+c\) Correta. O meme explica, de forma lúdica e indireta, que o Sol é essencial aos demais planetas.
 
 d\) Incorreta. A extinção da vida na Terra poderia ser causada pelo
 apagão do sol, mas não é a única hipótese.
 
 
-\num{7} Observe o infográfico a seguir.
+\num{7} Observe a campanha a seguir.
 
-![Gráfico, Diagrama, Gráfico de bolhas Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image15.jpeg){width="3.433333333333333in"
-height="3.3768110236220474in"}
-
-\fonte{
-<https://aetrancoso.pt/2019/10/10/10-de-outubro-de-2019-dia-mundial-da-saude-mental/>
+https://www.freepik.com/free-vector/brain-characters-cartoon-mascot-with-funny-face_8631175.htm#query=brain%20cartoon&position=2&from_view=search&track=ais
+Fique esperto!
+Cuide do seu cérebro, estude e brinque! Assim sua mente estará sempre ligada!
 
 Analisando-se os recursos verbais e não verbais, pode-se afirmar que o
 público-alvo do infográfico é
@@ -4088,16 +4064,16 @@ c\) alunos de escolas públicas.
 
 d\) adultos e idosos.
 
-BNCC: EF69LP16.
+SAEB: Identificar o uso de recursos persuasivos em textos verbais e não verbais.
+BNCC: EF69LP16 -- Analisar e utilizar as formas de composição dos gêneros jornalísticos da ordem do relatar, tais como notícias (pirâmide invertida no impresso X blocos noticiosos hipertextuais e hipermidiáticos no digital, que também pode contar com imagens de vários tipos, vídeos, gravações de áudio etc.), da ordem do argumentar, tais como artigos de opinião e editorial (contextualização, defesa de tese/opinião e uso de argumentos) e das entrevistas: apresentação e contextualização do entrevistado e do tema, estrutura pergunta e resposta etc.
 
 a\) Incorreta. O texto pode ser consumido por adultos, mas não é o
 público-alvo.
 
-b\) O infográfico apresenta imagens com traços leves e lúdicos,
-bem como uma fonte semelhante à letra cursiva. Esse tipo de imagem é
-mais comum em meios infanto-juvenis. Além disso, os textos são claros e
-dão pistas de que são destinados à pessoas mais vulneráveis, que
-precisam do apoio de um adulto, por exemplo.
+b\) Correta. O texto apresenta imagens com traços leves e lúdicos,
+bem como cores fortes. Esse tipo de imagem é
+mais comum em meios infantojuvenis. Além disso, os textos são claros e
+dão pistas de que são destinados a pessoas mais jovens.
 
 c\) Incorreta. Qualquer jovem ou criança é o público do texto, não
 especificamente alunos de escolas públicas.
@@ -4110,18 +4086,9 @@ exemplo.
 \num{8} Leia o texto a seguir.
 
 Apesar de nunca ter visto o lobo, Chapeuzinho Amarelo morria de medo
-dele.
+dele. [...]
 
-Um belo dia a menina encontrou o tal lobo que tanto temia, e para a
-surpresa de todos, foi perdendo o medo e, o mais importante, o medo de
-ter medo.
-
-O lobo ficou ofendido de estar diante de uma menina que não tinha medo
-dele: Ficou mesmo envergonhado, triste, murcho e branco-azedo, porque um
-lobo, tirando o medo, é um arremedo de lobo. É feito um lobo sem pelo.
-Lobo pelado.
-
-(BUARQUE, Chico. Chapeuzinho Amarelo. Ilustrações de Ziraldo. Belo
+(Chico Buarque. Chapeuzinho Amarelo. Ilustrações de Ziraldo. Belo
 Horizonte: Autêntica, 2017.)
 
 A obra "Chapeuzinho Amarelo" apresenta intertextualidade com outra
@@ -4135,7 +4102,9 @@ c\) paráfrase.
 
 d\) citação de citação.
 
-BNCC: EF69LP43.
+SAEB: Analisar efeitos de sentido produzido pelo uso de formas de
+apropriação textual (paráfrase, citação etc.).
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras vozes no texto – citação literal e sua formatação e paráfrase –, as pistas linguísticas responsáveis por introduzir no texto a posição do autor e dos outros autores citados (“Segundo X; De acordo com Y; De minha/nossa parte, penso/amos que”...) e os elementos de normatização (tais como as regras de inclusão e formatação de citações e paráfrases, de organização de referências bibliográficas) em textos científicos, desenvolvendo reflexão sobre o modo como a intertextualidade e a retextualização ocorrem nesses textos.
 
 a\) Incorreta. O autor não apresenta em sua obra trechos da obra
 original Chapeuzinho Vermelho.
@@ -4144,14 +4113,11 @@ b\) Incorreta. O autor não faz menção à obra original conhecida,
 Chapeuzinho Vermelho.
 
 c\) Correta. Chapeuzinho Amarelo é a história de Chapeuzinho Vermelho
-recontada sob a perspectiva de Chico Buarque, portanto, pode-se dizer
+recontada sob a perspectiva de Chico Buarque; portanto, pode-se dizer
 que é uma paráfrase.
 
 d\) Incorreta. A história Chapeuzinho Amarelo não cita de nenhuma forma
 a obra original conhecida, Chapeuzinho Vermelho.
-
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
-apropriação textual (paráfrase, citação etc.).
 
 
 \num{9} Leia o texto a seguir.
@@ -4174,7 +4140,7 @@ diversos prêmios como o Jabuti.
 
 (Disponível em: \<
 <https://tvbrasil.ebc.com.br/entrevista-com-ruth-rocha-e-destaques-no-dia-das-criancas>\>.
-Acesso em: mar. 2023. Adaptado)
+Acesso em: 20 mar. 2023. Adaptado)
 
 O trecho que representa uma opinião da entrevistada é
 
@@ -4187,7 +4153,8 @@ c\) \... a veterana que adora ler e continua lendo de tudo.
 
 d\) \... a autora foi reconhecida com diversos prêmios como o Jabuti.
 
-BNCC: EF67LP04.
+SAEB: Distinguir fatos de opiniões em textos.
+BNCC: EF67LP04 -- Distinguir, em segmentos descontínuos de textos, fato da opinião enunciada em relação a esse mesmo fato.
 
 a\) Incorreta. O trecho representa uma verdade, segundo a especialista.
 
@@ -4203,30 +4170,28 @@ d\) Incorreta. O trecho apresenta um fato sobre a autora.
 
 E Chapeuzinho Amarelo, de tanto pensar no LOBO, de tanto sonhar com
 LOBO, de tanto esperar o LOBO, um dia topou com ele que era assim: carão
-de LOBO, olhão de LOBO, jeitão de LOBO e principalmente um bocão tão
-grande que era capaz de comer duas avós, um caçador, rei, princesa, sete
-panelas de arroz e um chapéu de sobremesa.
+de LOBO, olhão de LOBO, jeitão de LOBO [...].
 
-(BUARQUE, Chico. Chapeuzinho Amarelo. Ilustrações de Ziraldo. Belo
+(Chico Buarque. Chapeuzinho Amarelo. Ilustrações de Ziraldo. Belo
 Horizonte: Autêntica, 2017.)
 
-A repetição da palavra lobo, no trecho de Chapeuzinho Amarelo, tem o
+A repetição da palavra **lobo**, no trecho de Chapeuzinho Amarelo, tem o
 objetivo de
 
 a\) remeter ao lobo da famosa história da Chapeuzinho Vermelho, que já
 está na cabeça das pessoas.
 
-b\) reforçar que tipo de animal a menina tinha estava pensando.
+b\) reforçar em que tipo de animal a menina estava pensando.
 
-c\) provocar humor no modo como se pronuncia muitas vezes a palavra
-lobo.
+c\) provocar humor no modo como se pronuncia muitas vezes a palavra.
 
 d\) fazer com que o leitor pense tanto no lobo quando a Chapeuzinho
 Amarelo.
 
-BNCC: EF67LP27.
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio literário.
+BNCC: EF67LP27 -- Analisar, entre os textos literários e entre estes e outras manifestações artísticas (como cinema, teatro, música, artes visuais e midiáticas), referências explícitas ou implícitas a outros textos, quanto aos temas, personagens e recursos literários e semióticos.
 
-a\) Correta. O lobo que aparece neste trecho o um lobo presente na
+a\) Correta. O lobo que aparece neste trecho é um lobo presente na
 memória coletiva, consagrado pela história da Chapeuzinho Vermelho, o
 que se justifica pela descrição do animal.
 
@@ -4242,11 +4207,9 @@ estava pensando, ou seja, o da Chapeuzinho Vermelho.
 
 \num{11} Observe a propaganda a seguir.
 
-![Nenhuma descrição de foto
-disponível.](./imgSAEB_6_POR/media/image35.jpeg){width="4.658333333333333in"
-height="4.658333333333333in"}
+https://www.freepik.com/free-photo/view-gravestone-with-flowers_27506586.htm#query=RIP&position=7&from_view=search&track=sph
+Se for para enterrar algo, que seja seu ódio.
 
-\fonte{https://www.facebook.com/jardimdaressurreicao/
 
 O argumento utilizado na campanha para incentivar o combate ao discurso
 de ódio é formado por
@@ -4259,13 +4222,14 @@ c\) uma hipérbole.
 
 d\) uma personificação.
 
-BNCC: EF67LP38.
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF67LP38 -- Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.
 
 a\) Incorreta. A metáfora é uma comparação implícita entre duas coisas
 que têm características em comum.
 
 b\) Correta. A campanha utiliza-se de um eufemismo, por meio da junção
-do recurso visual da cova (sentido literal) com o verbo enterrar
+do recurso visual da cova (sentido literal) com o verbo *enterrar*
 (sentido conotativo), para dar o sentido de humor e argumentar contra o
 discurso de ódio.
 
@@ -4275,46 +4239,31 @@ ideia ou emoção.
 d\) Incorreta. A personificação é a atribuição de características
 humanas a seres inanimados ou animais.
 
-\num{12} Leia um trecho da crônica "A bola!", de Mário Prata.
+\num{12} Leia um texto sobre a cidade de Aracaju.
 
-Mas tente, agora, entender o mundo sem a bola. E o esporte. Acho que
-fora o automobilismo, as lutas, a esgrima e o boxe, tudo gira em torno
-da bola. Mesmo que seja uma bola na trave.
+Aracaju, formosa urbe banhada pelas águas do mar, ergue-se majestosa sob o brilho do sol escaldante. Suas vielas estreitas, calçadas por pedras dispostas com arte, testemunham o passar dos anos e acolhem, em seu seio, uma população laboriosa e virtuosa. As casas, de arquitetura singela e janelas adornadas, exalam uma aura de tradição e história. Nas praças, cercadas por árvores frondosas e bancos de madeira talhados à mão, os cidadãos se congregam para compartilhar saberes e sentir a doce brisa que sopra do mar. Aracaju, cenário de poesia e encanto, é um tesouro que a Natureza e o Tempo uniram, e que se perpetua na memória dos seus filhos com júbilo e afeto.
 
-Desde a de pingue-pongue até a de basquete (que me parece ser a maior),
-a bola é a bola e ninguém tasca. A bola com as mãos, com os pés, com a
-cabeça e até com umas raquetes dando porradas nela. Sempre a bola.
-
-Outra coisa interessante é que a bola não evolui. Nasceu bola e é bola
-até hoje, ao contrário das rodas que hoje tem até com freio ABS. Tem até
-roda gigante. Tem até programa de televisão com nome dela: Roda Viva.
-Como se existisse uma roda morta.
-
-(PRATA, Mario. A bola!. Disponível em: \<
-<https://marioprata.net/cronicas/a-bola/>\>. Acesso em: mar. 2023.
-Adaptado)
 
 No trecho, notam-se claramente aspectos relacionados a variação
 linguística
 
 a\) cultural.
 
-b\) histórico.
+b\) histórica.
 
 c\) social.
 
-d\) estilístico.
+d\) estilística.
 
-BNCC: EF69LP55.
+SAEB: Analisar as variedades linguísticas em textos.
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 a\) Incorreta. As variações culturais ocorrem de acordo com a cultura
 dos falantes, e muitas vezes estão relacionadas a aspectos geográficos.
 
 b\) Correta. As variações históricas tratam das mudanças ocorridas na
 língua com o decorrer do tempo. O texto nitidamente foi escrito décadas
-atrás, o que se pode notar pelo uso de palavras já ultrapassadas, como
-tasca, e a menção ao programa Roda Viva no presente, como se ainda
-existisse.
+atrás, o que se pode notar pelo uso de palavras já ultrapassadas.
 
 c\) Incorreta. As variações sociais são as diferenças de acordo com o
 grupo social do falante, como profissão, faixa etária, entre outros.
@@ -4324,15 +4273,13 @@ adaptação da fala ou ao estilo dela.
 
 \num{13} Leia o texto a seguir.
 
-![Texto Descrição gerada automaticamente com confiança
-média](./imgSAEB_6_POR/media/image36.png){width="4.233775153105862in"
-height="4.3141021434820646in"}
+https://www.freepik.com/free-photo/adorable-girl-hugging-her-dad-while-sitting-his-lap_9988307.htm#query=dad%20and%20daughter&position=31&from_view=search&track=ais
+A saúde dos seus filhos não pode esperar. Por isso, você não deve esperar.
+%Se possível, escrever o texto verbal sobre a imagem.
 
-\fonte{
-<https://www.crmpr.org.br/Pais-precisam-manter-atualizado-o-calendario-de-vacinacao-dos-filhos-mesmo-na-pandemia-11-54287.shtml>
 
-Considerando o pronome "seu" no título da campanha, qual é o público
-alvo da campanha?
+Considerando o pronome "seus" no título da campanha, qual é o público-
+alvo dela?
 
 a\) Pediatras.
 
@@ -4342,20 +4289,20 @@ c\) Crianças em idade de Vacinação.
 
 d\) Pais e responsáveis de crianças em idade de vacinação.
 
-Habilidade: EF06LP12.
+SAEB: Identificar o uso de recursos persuasivos em textos verbais e não verbais.
+BNCC: EF06LP12 -- Utilizar, ao produzir texto, recursos de coesão referencial (nome e
+pronomes), recursos semânticos de sinonímia, antonímia e homonímia e mecanismos de representação de diferentes vozes (discurso direto e indireto).
 
 a\) Incorreta. Embora as crianças sejam os pacientes de pediatras, a
 campanha deixa claro que não se referem a "seus pacientes", mas sim
-"seus filhos"
+"seus filhos".
 
 b\) Incorreta. O público de modo geral não necessariamente possui
 filhos.
 
-c\) Incorreta. Embora a vacina se destine às crianças, a campanha se
-dirige aos seus pais.
+c\) Incorreta. A campanha se dirige aos pais, inclusive com um deles retratado na imagem.
 
-d\) "Seu" é um pronome possessivo que se refere aos filhos das
-pessoas às quais a campanha é dirigida
+d\) "Seus" é um pronome possessivo que se refere aos filhos das pessoas às quais a campanha é dirigida.
 
 
 \num{14}
@@ -4400,7 +4347,8 @@ primeiros imperadores do Brasil.
 d\) é importante saber que as pessoas da família Real tinham vida como
 nós temos hoje em dia.
 
-BNCC: EF67LP05.
+SAEB: Identificar teses, opiniões, posicionamentos explícitos e argumentos em textos.
+BNCC: EF67LP05 -- Identificar e avaliar teses/opiniões/posicionamentos explícitos e argumentos em textos argumentativos (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), manifestando concordância ou discordância.
 
 a\) Incorreta. O texto não deixa claro o conhecimento das pessoas em
 geral sobre a aparência da família Real, porém, não é isso que a
@@ -4441,7 +4389,8 @@ c\) riscos ao planeta.
 
 d\) dicas de ecologia.
 
-BNCC: EF69LP02.
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF69LP02 -- Analisar e comparar peças publicitárias variadas (cartazes, folhetos, outdoor, anúncios e propagandas em diferentes mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação entre elas em campanhas, as especificidades das várias semioses e mídias, a adequação dessas peças ao público-alvo, aos objetivos do anunciante e/ou da campanha e à construção composicional e estilo dos gêneros em questão, como forma de ampliar suas possibilidades de compreensão (e produção) de textos pertencentes a esses gêneros.
 
 a\) Correta. O infográfico traz dicas de consumo consciente de modo
 geral, que impactam no bem-estar de todos no planeta.
@@ -5936,6 +5885,7 @@ b\) Incorreta. O evento trata de uma campanha de vacinação, direcionada à sa�
 c\) Incorreta. O anime utilizado para promover o evento pode estar relacionado a games e inovação, mas o objetivo do evento é promover saúde e bem-estar.
 
 d\) Incorreta. A campanha utiliza uma imagem familiar aos jovens para promover a vacinação direcionada à saúde e bem-estar do público-alvo.
+
 
 
 
