@@ -4409,14 +4409,11 @@ consumo consciente.
 
 # Simulado 2
 
-\num{1} Leia o texto a seguir.
+\num{1} Leia a campanha a seguir, divulgada durante a pandemia de COVID-19.
 
-![Mapa Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image38.png){width="5.905555555555556in"
-height="3.9569444444444444in"}
-
-\fonte{
-<http://www.unifap.br/conscientizacao-no-transito-e-o-objetivo-da-campanha-maio-amarelo-2/>
+https://www.freepik.com/free-vector/set-traffic-lights-isolated_10602714.htm#query=transit%20signal&position=2&from_view=search&track=ais
+Fique em casa. Saia somente se precisar de verdade.
+E, se sair, respeite as leis do trânsito.
 
 A proposta da campanha é incentivar as pessoas a
 
@@ -4424,15 +4421,16 @@ a\) ficar em casa.
 
 b\) sair apenas se necessário.
 
-c\) .
+c\) higienizar as mãos.
 
-d\) .
+d\) respeitar as leis de trânsito.
 
-BNCC: EF67LP07
+SAEB: Identificar o uso de recursos persuasivos em textos verbais e não verbais.
+BNCC: EF67LP07 -- Identificar o uso de recursos persuasivos em textos argumentativos diversos (como a elaboração do título, escolhas lexicais, construções metafóricas, a explicitação ou a ocultação de fontes de informação) e perceber seus efeitos de sentido.
 
-a\) Incorreto. Como a campanha foi produzida em época de pandemia, a
-hashtag \#fiqueemcasa incentivava as pessoas a não saírem, porém, este
-não é o objetivo da campanha.
+a\) Incorreta. Como a campanha foi produzida em época de pandemia, a
+campanha incentivava as pessoas a não saírem; porém, este
+não é o objetivo principal.
 
 b\) Incorreta. A campanha orienta as pessoas as saírem apenas se
 necessário, mas o objetivo é respeitar as leis de trânsito.
@@ -4441,8 +4439,7 @@ c\) Incorreta. A campanha incentiva as pessoas a respeitarem as leis de
 trânsito. Como foi veiculada em época de pandemia, o texto menciona sair
 de casa apenas se necessário.
 
-d\) Correta. A campanha é uma iniciativa da Polícia Rodoviária Federal e
-visa incentivar as pessoas a respeitarem as leis de trânsito.
+d\) Correta. A campanha é uma iniciativa que visa a incentivar as pessoas a respeitarem as leis de trânsito.
 
 
 \num{2}
@@ -4466,15 +4463,15 @@ De acordo com Damiani, uma indicação pedindo operações tapa-buraco no
 município serão apresentadas por ele na próxima sessão e adianta que irá
 se reunir com representantes do Executivo para debater o assunto.
 
-\fonte{Câmara Municipal de Sorriso, publicado em nov. 2022. Disponível
+\fonte{Câmara Municipal de Sorriso. Disponível
 em: \<
 <https://sorriso.mt.leg.br/noticia/damiani-pede-manutencao-asfaltica-em-ruas-esburacadas-de-sorriso-637e35ae893b7>\>.
-Acesso em: mar. 2023.
+Acesso em: 12 mar. 2023.
 
 A notícia apresenta uma reclamação
 
 a\) do Poder Legislativo, referentes a buracos e acúmulo de água nas
-vias pública.
+vias públicas.
 
 b\) da população, sobre manutenção do asfalto de várias ruas e avenidas.
 
@@ -4482,12 +4479,13 @@ c\) do vereador, sobre pedindo operações tapa-buraco no município.
 
 d\) dos representantes do Executivo, sobre a manutenção do asfalto.
 
-BNCC: EF67LP17.
+SAEB: Identificar formas de organização de textos normativos, legais e/ou reinvindicatórios.
+BNCC: EF67LP17 -- Analisar, a partir do contexto de produção, a forma de organização das cartas de solicitação e de reclamação (datação, forma de início, apresentação contextualizada do pedido ou da reclamação, em geral, acompanhada de explicações, argumentos e/ou relatos do problema, fórmula de finalização mais ou menos cordata, dependendo do tipo de carta e subscrição) e algumas das marcas linguísticas relacionadas à argumentação, explicação ou relato de fatos, como forma de possibilitar a escrita fundamentada de cartas como essas ou de postagens em canais próprios de reclamações e solicitações em situações que envolvam questões relativas à escola, à comunidade ou a algum dos seus membros..
 
 a\) Incorreta. É parte do trabalho do Legislativo buscar a solução para
 as demandas.
 
-b\) A notícia trata da reclamação da população sobre manutenção
+b\) Correta. A notícia trata da reclamação da população sobre manutenção
 do asfalto de várias ruas e avenidas de Sorriso. Damiani, o vereador,
 apenas é o porta-voz entrevistado.
 
@@ -4499,42 +4497,37 @@ para o Executivo.
 
 \num{3}
 
-![Desenho de personagem de desenho animado Descrição gerada
-automaticamente com confiança
-baixa](./imgSAEB_6_POR/media/image39.png){width="4.860979877515311in"
-height="3.283333333333333in"}
+https://www.freepik.com/premium-photo/meat-from-butcher-s-shop-wrapped-paper-piece-beef-wood-with-different-spices-rustic-style_7295265.htm#query=expensive%20meat%20for%20present&position=33&from_view=search&track=ais
+Nunca ganhei um presente tão caro de Natal quanto este que meu filho me deu!
 
-Charge: Brum
+O que provoca o efeito de humor do meme é
 
-O que provoca o efeito de humor da charge é
+a\) o fato de alguém se emocionar com um presente.
 
-a\) o fato de a mãe se emocionar com o filho.
+b\) alguém se sensibilizar com o valor de um.
 
-b\) a mãe estar sensibilizada com o presente caro.
-
-c\) o fato de o presente caro ser um botijão de gás.
+c\) o fato de o presente caro ser carne.
 
 d\) o filho presentear a mãe com um presente incomum.
 
-BNCC: EF69LP03.
+SAEB: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou crítica.
+BNCC: EF69LP03 -- Identificar, em notícias, o fato central, suas principais circunstâncias e eventuais decorrências; em reportagens e fotorreportagens o fato ou a temática retratada e a perspectiva de abordagem, em entrevistas os principais temas/subtemas abordados, explicações dadas ou teses defendidas em relação a esses subtemas; em tirinhas, memes, charge, a crítica, ironia ou humor presente.
 
 a\) Incorreta. A mãe se emociona com o presente do filho.
 
 b\) Incorreta. A mãe se emociona com o tipo de presente caro.
 
-c\) O humor da tira é o fato de o presente ser um botijão de
-gás que, de tão caro, emocionou a mãe.
+c\) Correta. O humor da está no fato de o presente ser carne, que, de tão cara, emocionou a mãe.
 
 d\) Incorreta. O presente é incomum, mas aqui especificamente o humor
-está no fato de ser um botijão de gás, que custa muito caro.
+está no fato de ser carne, que custa muito caro.
 
 
 \num{4} Leia um trecho da obra "O diário da princesa", de Meg Cabot.
 
 **Terça-feira, 23 de setembro**
 
-Às vezes, parece que tudo que faço é mentir.
-
+[...]
 Mamãe acha que estou reprimindo meus sentimentos sobre isso.
 
 Eu digo a ela: "Não, mamãe, não estou. Acho que é realmente bacana.
@@ -4552,8 +4545,9 @@ Ela quer que eu escreva sobre meus sentimentos?
 Tudo bem, vou dizer, por escrito, quais são meus sentimentos.
 
 EU NÃO POSSO ACREDITAR QUE ELA ESTEJA FAZENDO ISSO COMIGO!
+[...]
 
-(CABOT, Meg. O diário da princesa. Rio de Janeiro: Record, 2005.
+(Meg Cabot. O diário da princesa. Rio de Janeiro: Record, 2005.
 Fragmento.)
 
 A personagem principal da obra é Mia, uma adolescente comum que descobre
@@ -4568,9 +4562,10 @@ c\) aos personagens secundários da história.
 
 d\) ao lugar em que acontece a história.
 
-BNCC: EF69LP47.
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio literário.
+BNCC: EF69LP47 -- Analisar, em textos narrativos ficcionais, as diferentes formas de composição próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados, identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero, da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de recursos linguístico-gramaticais próprios a cada gênero narrativo.
 
-a\) O trecho contextualiza o leitor com relação à personalidade
+a\) Correta. O trecho contextualiza o leitor com relação à personalidade
 de Mia: o que ela pensa, como ela pensa e os dilemas pelos quais ela
 está passando.
 
@@ -4582,17 +4577,11 @@ Mia falando sobre a mãe.
 
 d\) Incorreta. O trecho não apresenta o local onde acontece a história.
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
-literário.
-
 
 \num{5} Leia o texto a seguir.
 
-![Mulher com vestido colorido Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image40.jpeg){width="4.263918416447944in"
-height="4.233333333333333in"}
-
-<https://turismoemfoco.com.br/v1/2019/05/03/elba-ramalho-vira-garota-propaganda-do-maior-sao-joao-do-mundo/>
+https://www.freepik.com/free-vector/festa-junina-party-banner-template_13795331.htm#query=quadrilha%20no%20brasil%20festa%20de%20s%C3%A3o%20jo%C3%A3o&position=26&from_view=search&track=ais
+Prepare o seu coração: tá chegando São João. A maior festa desse Brasilzão!
 
 Na propaganda, a expressão "prepare seu coração" é uma maneira
 conotativa de orientar a pessoa a
@@ -4605,12 +4594,15 @@ c\) preparar-se fisicamente para a festa de São João.
 
 d\) fazer um check up de saúde antes de ir para a festa de São João.
 
-BNCC: EF06LP12.
+SAEB: Analisar os mecanismos que contribuem para a progressão textual.
+BNCC: EF06LP12 -- Utilizar, ao produzir texto, recursos de coesão referencial (nome e
+pronomes), recursos semânticos de sinonímia, antonímia e homonímia e mecanismos de
+representação de diferentes vozes (discurso direto e indireto).
 
 a\) Incorreta. Embora o coração quase sempre esteja ligado à paixão,
 neste contexto ele está relacionado à ansiedade.
 
-b\) A expressão "prepare seu coração" está relacionada à
+b\) Correta. A expressão "prepare seu coração" está relacionada à
 sensação de palpitação causada pela ansiedade.
 
 c\) Incorreta. Como o próprio enunciado explica, a expressão é usada em
@@ -4620,35 +4612,37 @@ d\) Incorreta. Como o próprio enunciado explica, a expressão é usada em
 sentido conotativo, ou seja, não literal.
 
 
-\num{6}
+\num{6} Leia o texto.
 
-![Diagrama Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image41.png){width="5.198641732283464in"
-height="5.500767716535433in"}
+https://www.freepik.com/free-ai-image/majestic-lion-rests-africa-wilderness-area-generated-by-ai_41293192.htm#query=lion&position=3&from_view=search&track=sph
 
-\fonte{<https://dragoesdegaragem.com/cientirinhas/cientirinhas-18/>
+--- Por que o leão nunca ganhava no concurso de imitação de rugidos?
+
+--- Porque ele sempre acabava sendo desclassificado por fazer barulho demais e assustar os jurados!
+
 
 Qual das alternativas melhor descreve o tom da linguagem usada no texto?
 
-a\) nervoso e combativo
-b\) humorístico e leve
-c\) sério e informativo
-d\) triste e melancólico
+a\) nervoso e combativo.
+b\) humorístico e leve.
+c\) sério e informativo.
+d\) triste e melancólico.
 
-BNCC: EF69LP05.
+SAEB: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou crítica.
+BNCC: EF69LP05 -- Inferir e justificar, em textos multissemióticos – tirinhas, charges, memes, gifs etc. –, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc..
 
-a\) Incorreta. Embora os macacos aparentemente estivessem discutindo no primeiro quadrinho, a linguagem é humorística e leve.
+a\) Incorreta. Embora o assunto seja o agressivo ruído do leão, a linguagem é humorística e leve.
 
 b\) Correta. O texto adota uma linguagem leve e humorística.
 
-c\) Incorreta. O terceiro quadrinho propõe uma fala mais informativa da personagem, mas a tira é de humor.
+c\) Incorreta. Fala-se sobre animais, mas de forma humorística.
 
 d\) Incorreta. Em nenhum momento o texto aparenta qualquer indício de tristeza ou melancolia.
 
 
 
-7. 
---
+\num{7}
+
 
 "Quarta-feira, 18 de janeiro 
 
@@ -4659,18 +4653,22 @@ Estamos na Boa Vista e fomos hoje à casa de uns amigos que eram tão bons para 
 Esta amizade ficou forte com a parecença de Luisinha, minha irmã, com a sobrinha deles que estava fora. A mulher, Dona Mariquinha, dizia sempre que nos via: "Que saudades da Quitinha! Vendo a sua menina, parece que estou vendo a outra, Dona Carolina. É cara duma, cara doutra, sem tirar nem pôr. Ainda hei de juntar as duas para a senhora ver". Mamãe dizia: "É pena mesmo a sua não estar aqui". Ela dizia: "O dia chegará, Dona Carolina".
 
 
-(MORLEY, Helena. *Minha vida de menina*. 1a ed. São Paulo: Companhia de Bolso, 2016.)
+(Helena Morley. *Minha vida de menina*. 1a ed. São Paulo: Companhia de Bolso, 2016.)
 
 
 O trecho "Obsequiavam sempre a mamãe com frutas, ovos, frangos e verduras." apresenta qual tipo de variação linguística?
 
 
-a\) Econômica
-b\) Histórica
-c\) Social
-d\) Geográfica
+a\) Econômica.
+b\) Histórica.
+c\) Social.
+d\) Geográfica.
 
-BNCC: EF69LP44.
+SAEB: Inferir a presença de valores sociais, culturais e humanos em textos literários.
+BNCC: EF69LP44 -- Inferir a presença de valores sociais, culturais e humanos e de diferentes visões
+de mundo, em textos literários, reconhecendo nesses textos formas de estabelecer múltiplos
+olhares sobre as identidades, sociedades e culturas e considerando a autoria e o contexto social
+e histórico de sua produção.
 
 a\) Incorreta. O trecho e a forma de se expressar não tem relação com a classe econômica dos personagens envolvidos, mas sim com o período histórico em que o texto foi criado
 
@@ -4680,8 +4678,8 @@ c\) Incorreta. O trecho e a forma de se expressar não tem relação com a conte
 
 d\) Incorreta. O trecho e a forma de se expressar não tem relação com a origem geográfica dos personagens envolvidos, mas sim com o período histórico em que o texto foi criado
 
-8. 
---
+\num{8}
+
 
 Dez anos atrás, o trabalho de uma arqueóloga da USP fez história ao
 examinar, pela primeira vez, os restos mortais dos primeiros imperadores
@@ -4699,7 +4697,7 @@ responsável pelo projeto. O trabalho foi realizado para a sua tese de
 doutorado no Departamento de Patologia da Faculdade de Medicina da USP,
 sob orientação do professor Carlos Augusto Pasqualucci.
 
-(Escobar, Herton. Cara a cara com a família imperial: pesquisa simula rostos de D. Pedro I e suas esposas. Jornal da USP, publicado em 07/03/2023. Atualizado em 10/03/2023. Disponível em <https://jornal.usp.br/ciencias/cara-a-cara-com-a-familia-imperial-pesquisa-simula-rostos-de-d-pedro-i-e-suas-esposas/>. Acesso em 14/03/2023. Adaptado.)
+(Herton Escobar. Jornal da USP. Cara a cara com a família imperial: pesquisa simula rostos de D. Pedro I e suas esposas. Disponível em <https://jornal.usp.br/ciencias/cara-a-cara-com-a-familia-imperial-pesquisa-simula-rostos-de-d-pedro-i-e-suas-esposas/>. Acesso em 14 mar. 2023. Adaptado.)
 
 Qual é a ideia central do texto?
 
@@ -4711,27 +4709,30 @@ c\) Explicar um fenômeno científico e artístico.
 
 d\) Fazer uma resenha de uma pesquisa científica.
 
-BNCC: EF69LP20.
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF69LP20 -- Identificar, tendo em vista o contexto de produção, a forma de organização dos textos normativos e legais, a lógica de hierarquização de seus itens e subitens e suas partes: parte inicial (título – nome e data – e ementa), blocos de artigos (parte, livro, capítulo, seção, subseção), artigos (caput e parágrafos e incisos) e parte final (disposições pertinentes à sua implementação) e analisar efeitos de sentido causados pelo uso de vocabulário técnico, pelo uso do imperativo, de palavras e expressões que indicam circunstâncias, como advérbios e locuções adverbiais, de palavras
+que indicam generalidade, como alguns pronomes indefinidos, de forma a poder compreender o
+caráter imperativo, coercitivo e generalista das leis e de outras formas de regulamentação.
 
 a\) Incorreta. A pesquisa é da arqueóloga que é sobre a família Real brasileira.
 
-b\) O trecho é um texto de divulgação científica cujo objetivo é apresentar um trabalho de pesquisa e seus resultados.
+b\) Correta. O trecho é um texto de divulgação científica cujo objetivo é apresentar um trabalho de pesquisa e seus resultados.
 
 c\) Incorreta. O texto tem a intenção de divulgar um trabalho de pesquisa e seus resultados.
 
 d\) Incorreta. O texto de divulgação científica é informativo, e não opinativo.
 
 
-9. Leia os textos a seguir.
+\num{9}. Leia os textos a seguir.
 
 
-Texto 1
+**Texto 1**
 
 
-"-- Adeus -- disse a raposa. -- Eis o meu segredo. É muito simples: só se vê bem com o coração. O essencial é invisível para os olhos."**
+"-- Adeus -- disse a raposa. -- Eis o meu segredo. É muito simples: só se vê bem com o coração. O essencial é invisível para os olhos."
 
 
-(*O pequeno príncipe*)
+\fonte{Antoine de Saint-Exupéry.}
 
 
 **Texto 2**
@@ -4740,7 +4741,7 @@ Texto 1
 \"A grandeza não está em ser forte, mas no uso correto da força. Grande é aquela cuja força conquista mais corações.\"
 
 
-(*Extraordinário*)
+\fonte{R. J. Palacio.}
 
 
 A mensagem que caracteriza a intertextualidade entre as duas obras é
@@ -4750,7 +4751,8 @@ b\) Seja gentil com as pessoas.
 c\) Não deixe de ter esperança.
 d\) Aprenda com seus erros.
 
-BNCC: EF67LP27.
+SAEB: Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
+BNCC: EF67LP27 -- Analisar, entre os textos literários e entre estes e outras manifestações artísticas (como cinema, teatro, música, artes visuais e midiáticas), referências explícitas ou implícitas a outros textos, quanto aos temas, personagens e recursos literários e semióticos.
 
 a\) Incorreta. Os trechos não incentivam o leitor a buscar seus sonhos.
 
@@ -4761,13 +4763,11 @@ c\) Incorreta. Os trechos falam de relações de afeto, e não de esperança.
 d\) Incorreta. Os trechos não dão lição de moral relacionada a aprendizado com os erros.
 
 
-10. Leia o texto a seguir.
+\num{10} Leia o texto a seguir, escrito por uma estudante do Ensino Médio.
 
+"Os estudantes que ingressaram no ensino médio em 2022 se encontram agora imersos em um sistema inovador, conhecido como "novo ensino médio". Esse modelo escolar tem suscitado opiniões divergentes, especialmente entre os alunos, uma vez que algumas escolas adotaram a modalidade de ensino em tempo integral, com nove aulas diárias. A transição para o novo sistema causou certo receio no início, mas a coordenação da minha escola conseguiu amenizar as preocupações. Ao longo dos meses, fomos capazes de nos adaptar. Embora as 27 disciplinas tenham sido desafiadoras no início, muitas delas consistiam em aulas práticas, o que facilitou a nossa assimilação, mesmo após um longo período de afastamento das salas de aula."
 
-"Estudantes que ingressaram no ensino médio em 2022 frequentam as aulas em um novo sistema, chamado de "novo ensino médio": esse novo formato adotado pelas escolas levantou muitas opiniões divergentes, principalmente por parte de estudantes, já que em algumas escolas o ensino em tempo integral foi aplicado, os alunos tendem a se desenvolver mais no tempo integral, com as 9 aulas diárias.
-Em meu ponto de vista como estudante, o novo ensino médio assustou bastante no começo, mas a coordenação da minha escola fez com que tudo ficasse mais leve. Foi possível que nós nos adaptássemos ao longo dos meses -- no começo foi bastante difícil e confuso, eram 27 disciplinas e, mesmo que nem todas tenham aulas massivas e sim aulas práticas, ainda assim era tudo muito novo para nós que ficamos bastante tempo sem frequentar a escola."
-
-(DANTAS, Grazi. O novo Ensino Médio na visão de uma estudante. Agência Jovem de Notícias, publicado em out. 2022. Disponível em: \< <https://agenciajovem.org/opiniao-o-novo-ensino-medio-na-visao-de-uma-estudante/>\>. Acesso em: mar. 2023. Adaptado.)
+(Fonte de pesquisa: Grazi Dantas. Agência Jovem de Notícias.O novo Ensino Médio na visão de uma estudante. Disponível em: \< <https://agenciajovem.org/opiniao-o-novo-ensino-medio-na-visao-de-uma-estudante/>\>. Acesso em: 11 mar. 2023.)
 
 
 Qual é o ponto de vista da autora sobre o novo Ensino Médio?
@@ -4781,9 +4781,10 @@ c) Negativa, pois o novo formato assustou bastante.
 
 d) Positiva em alguns pontos e negativa em outros.
 
-BNCC: EF69LP16.
+SAEB: Analisar efeitos de sentido produzido pelo uso de formas de apropriação textual (paráfrase, citação etc.).
+BNCC: EF69LP16 -- Analisar e utilizar as formas de composição dos gêneros jornalísticos da ordem do relatar, tais como notícias (pirâmide invertida no impresso X blocos noticiosos hipertextuais e hipermidiáticos no digital, que também pode contar com imagens de vários tipos, vídeos, gravações de áudio etc.), da ordem do argumentar, tais como artigos de opinião e editorial (contextualização, defesa de tese/opinião e uso de argumentos) e das entrevistas: apresentação e contextualização do entrevistado e do tema, estrutura pergunta e resposta etc.
 
-a) Como a própria estudante informa, "o novo ensino médio assustou bastante no começo, mas a coordenação da minha escola fez com que tudo ficasse mais leve".
+a) Correta. Como a própria estudante informa, o novo ensino médio assustou bastante no começo, mas a coordenação da minha escola fez com que tudo ficasse mais leve.
 
 b) Incorreta. Embora fossem muitas disciplinas, a escola auxiliou os estudantes e tudo ficou mais leve.
 
@@ -4792,14 +4793,14 @@ c) Incorreta. A estudante achou confuso de início, mas gostou da proposta.
 d) Incorreta. A estudante menciona dificuldades no início, mas acabou gostando da proposta.
 
 
-11. Leia o texto a seguir.
+\num{11} Leia o texto a seguir.
 
-
+[...]
 A popularização dos drones comerciais, das inteligências artificiais e dos softwares de modelagem 3D permitiram o desenvolvimento de um novo método para controlar áreas de reflorestamento. Durante seu doutorado no Instituto de Energia e Ambiente (IEE) da USP, o engenheiro florestal e pesquisador Rafael Walter de Albuquerque criou um procedimento mais rápido e capaz de enriquecer os tradicionais.\[\...\]
 "Toda restauração demanda um monitoramento. Assim como nós temos que monitorar o nosso organismo, que é complexo,--- temos que fazer exames periodicamente, principalmente quando a idade avança, para garantir que está tudo em ordem ---, quando nós estamos recuperando a floresta, precisamos visitá-la periodicamente para ver se os dados dela estão bons e se será preciso tomar uma atitude ou não", conta Rafael Albuquerque ao Jornal da USP.\[\...\]
 
 
-(CONTERNO, Ivan. Drones e modelagem 3D auxiliarão a recuperação de florestas. Jornal da USP, publicado em mar. 2023. Disponível em: \< <https://jornal.usp.br/ciencias/drones-e-modelagem-3d-auxiliarao-a-recuperacao-de-florestas/>\>. Acesso em: mar. 2023. Adaptado.)
+(Fonte de pesquisa: Ivan Conterno. Jornal da USP. Drones e modelagem 3D auxiliarão a recuperação de florestas. Disponível em: \< <https://jornal.usp.br/ciencias/drones-e-modelagem-3d-auxiliarao-a-recuperacao-de-florestas/>\>. Acesso em: 11 mar. 2023.)
 
 
 Qual é o objetivo do pesquisador ao dizer que a floresta é como nosso organismo, complexo?
@@ -4813,7 +4814,8 @@ c\) Criar uma imagem vívida de uma floresta na mente do leitor.
 
 d\) Tornar o texto mais interessante para o leitor.
 
-BNCC: EF69LP43.
+SAEB: Analisar os efeitos de sentido decorrentes dos mecanismos de construção de textos jornalísticos/midiáticos.
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras vozes no texto – citação literal e sua formatação e paráfrase –, as pistas linguísticas responsáveis por introduzir no texto a posição do autor e dos outros autores citados (“Segundo X; De acordo com Y; De minha/nossa parte, penso/amos que”...) e os elementos de normatização (tais como as regras de inclusão e formatação de citações e paráfrases, de organização de referências bibliográficas) em textos científicos, desenvolvendo reflexão sobre o modo como a intertextualidade e a retextualização ocorrem nesses textos.
 
 a) Incorreta. Embora no trecho o objetivo seja apresentar um argumento para a tese de que é necessário o uso do drone, o pesquisador o compara a floresta ao organismo humano a fim de facilitar a compreensão do leitor.
 
@@ -4824,39 +4826,39 @@ c) Incorreta. O intuito é facilitar a compreensão do leitor, e não apenas ger
 d) Incorreta. O texto, por ser uma artigo de divulgação científica, naturalmente é interessante para quem o lê pois o público-alvo com frequência são pessoas que têm afinidade com o assunto.
 
 
-12.
+\num{12} Leia o diálogo.
 
-![Uma imagem contendo Desenho técnico Descrição gerada automaticamente](./imgSAEB_6_POR/media/image42.png){width="5.905555555555556in" height="4.960416666666666in"}
-------------------------
+https://www.freepik.com/free-photo/medium-shot-smiley-woman-working_13130738.htm#query=atendente%20do%20mc%20donalds&position=16&from_view=search&track=ais
+--- Olá, senhor, gostaria de um lanche rápido hoje?
+--- Quais são as opções?
+--- Por enquanto, elas são "sim" ou "não".
 
-\fonte{<https://www.instagram.com/p/CPG8z6dsj5u/?hl=pt>
-
-
-Em qual momento da história é apresentado o efeito de humor?
-
-
-a) No primeiro quadrinho, que já apresenta um cliente bem incomum.
-
-b) No segundo quadrinho, em que o atendente usa uma linguagem formal.
-
-c) No terceiro quadrinho, em que o cliente responde incorretamente à pergunta do atendente.
-
-d) No quarto quadrinho, em que o atendente responde à pergunta do cliente de forma literal.
-
-BNCC: EF69LP03.
-
-a\) Incorreta. O fato de o cliente ser incomum é subjetivo e não é responsável pelo efeito de humor.
+Em qual momento do diálogo é apresentado o efeito de humor?
 
 
-b\) Incorreta. O atendente utiliza uma linguagem adequada ao contexto.
+a) Na imagem, que já que apresenta uma atendente bem incomum.
+
+b) Na segunda fala, já que a pergunta era inútil.
+
+c) Na relação incoerente entre imagem e diálogo.
+
+d) Na terceira fala, em que há uma confusão no entendimento da pergunta do cliente.
+
+SAEB: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou crítica.
+BNCC: EF69LP03 -- Identificar, em notícias, o fato central, suas principais circunstâncias e eventuais decorrências; em reportagens e fotorreportagens o fato ou a temática retratada e a perspectiva de abordagem, em entrevistas os principais temas/subtemas abordados, explicações dadas ou teses defendidas em relação a esses subtemas; em tirinhas, memes, charge, a crítica, ironia ou humor presente.
+
+a\) Incorreta. Não há nada de incomum na imagem.
 
 
-c\) Incorreta. O cliente compreende a pergunta e responde de forma a adianta-se quanto as opções de bebidas. O atendente que não compreendeu.
-
-d\) Correta. O humor da tirinha se dá na resposta do atendente, que não compreende a pergunta do cliente, no quadrinho anterior, e responde de forma literal.
+b\) Incorreta. A pergunta era muito útil para o cliente.
 
 
-13. 
+c\) Incorreta. Imagem e diálogo se relacionam adequadamente.
+
+d\) Correta. O humor aparece porque, obviamente, a pergunta era sobre as opções de lanche, não de resposta.
+
+
+\num{13} 
 
 ![Viva de Perto --- Ministério do Turismo](./imgSAEB_6_POR/media/image43.jpeg){width="5.905555555555556in" height="3.9340277777777777in"}
 
@@ -4875,12 +4877,12 @@ c\) Fazer uma descrição da imagem para pessoas que não fazer leitura visual.
 
 d\) Persuadir o leitor a visitar Natal a partir de um texto bem-humorado.
 
-BNCC: EF67LP05.
+SAEB: Identificar o uso de recursos persuasivos em textos verbais e não verbais.
+BNCC: EF67LP05 -- Identificar e avaliar teses/opiniões/posicionamentos explícitos e argumentos em textos argumentativos (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), manifestando concordância ou discordância..
 
 a\) Incorreta. A campanha não informa que em Natal é isso que as pessoas ficam fazendo. Ela usa um momento turístico para persuadir as pessoas as visitarem a cidade.
 
-
-b\) O verbo no gerúndio dá a ideia de um presente que está acontecendo. Na campanha, as pessoas no carro estão fazendo ola, o que gera uma ambiguidade quando se lê a linha fina abaixo, "Continue vivendo experiências", ou seja, orientando ao turista que continue viajando e "fazendo ola" por aí.
+b\) Correta. O verbo no gerúndio dá a ideia de um presente que está acontecendo. Na campanha, as pessoas no carro estão fazendo ola, o que gera uma ambiguidade quando se lê a linha fina abaixo, "Continue vivendo experiências", ou seja, orientando ao turista que continue viajando e "fazendo ola" por aí.
 
 c\) Incorreta. "Fazendo ola" não é uma frase com o intuito de se fazer uma descrição visual da imagem.
 
@@ -4888,7 +4890,7 @@ c\) Incorreta. "Fazendo ola" não é uma frase com o intuito de se fazer uma des
 d\) Incorreta. A campanha tem o objetivo, como um todo, de convidar o turista a visitar Natal por meio de um texto leve, e um dos recursos é a escolha léxical.
 
 
-14.
+\num{14}
 
 Damiani pede manutenção asfáltica em ruas esburacadas de Sorriso
 
@@ -4926,7 +4928,8 @@ c\) postagem em rede social.
 
 d\) artigo de opinião.
 
-BNCC: EF67LP17.
+SAEB: Identificar formas de organização de textos normativos, legais e/ou reinvindicatórios.
+BNCC: EF67LP17 -- Analisar, a partir do contexto de produção, a forma de organização das cartas de solicitação e de reclamação (datação, forma de início, apresentação contextualizada do pedido ou da reclamação, em geral, acompanhada de explicações, argumentos e/ou relatos do problema, fórmula de finalização mais ou menos cordata, dependendo do tipo de carta e subscrição) e algumas das marcas linguísticas relacionadas à argumentação, explicação ou relato de fatos, como forma de possibilitar a escrita fundamentada de cartas como essas ou de postagens em canais próprios de reclamações e solicitações em situações que envolvam questões relativas à escola, à comunidade ou a algum dos seus membros.
 
 a\) Correta. A carta de reclamação é um gênero textual que expressa uma
 indignação ou uma insatisfação de determinado indivíduo. É o caminho
@@ -4946,7 +4949,7 @@ comunicação de grande circulação que exprime o ponto de vista do
 jornalista a respeito de determinado assunto.
 
 
-15. Leia um trecho da obra *Diário da princesa*, de Meg Cabot.
+\num{15} Leia um trecho da obra *Diário da princesa*, de Meg Cabot.
 
 
 "Como se todo mundo já não acreditasse que eu sou uma aberração. Sou
@@ -4966,10 +4969,10 @@ conheço. Ou com um que tenha conhecido no D‟Agostinos ou em qualquer
 outro lugar. Oh, não. Ela tem que namorar meu professor de álgebra.
 Obrigada, mamãe. Muitíssimo obrigada."
 
-(CABOT, Meg. O diário da princesa. Rio de Janeiro: Record, 2005.
+(Meg cabot. O diário da princesa. Rio de Janeiro: Record, 2005.
 Fragmento.)
 
-O texto em itálico -- *Oh, Deus, se você realmente existe, não deixe que
+O texto em destaque -- *Oh, Deus, se você realmente existe, não deixe que
 eles descubram isso. --* representa
 
 a\) um trecho que a garota destacou no diário.
@@ -4980,22 +4983,17 @@ c\) uma fala do narrador.
 
 d\) uma fala de outra pessoa.
 
-BNCC: EF69LP47.
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio literário.
+BNCC: EF69LP47 -- Analisar, em textos narrativos ficcionais, as diferentes formas de composição próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados, identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero, da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de recursos linguístico-gramaticais próprios a cada gênero narrativo.
 
-a\) Incorreta. O itálico é uma marca gráfica usada para pontuar um
-pensamento da personagem. Observa-se que trechos em destaque no diário
-são escritos em caixas altas, como em "E, entre DOIS MILHÕES de caras,
-ela foi namorar logo o Sr. Gianini".
+a\) Incorreta. O itálico é uma marca gráfica usada para pontuar um pensamento da personagem. Observa-se que trechos em destaque no diário são escritos em caixas altas, como em "E, entre DOIS MILHÕES de caras, ela foi namorar logo o Sr. Gianini".
 
-b\) Correta. O texto é o diário da personagem. Enquanto escreve sobre o
-fato de a mãe estar saindo com seu professor de álgebra, a menina pede a
-Deus, em pensamento, que ninguém da escola descubra.
+b\) Correta. O texto é o diário da personagem. Enquanto escreve sobre o fato de a mãe estar saindo com seu professor de álgebra, a menina pede a Deus, em pensamento, que ninguém da escola descubra.
 
-c\) Incorreta. O texto é escrito em primeira pessoa, ou seja, a
-narradora é a própria personagem.
+c\) Incorreta. O texto é escrito em primeira pessoa, ou seja, a narradora é a própria personagem.
 
-d\) Incorreta. O trecho não apresenta a personagem conversando com outra
-pessoa.
+d\) Incorreta. O trecho não apresenta a personagem conversando com outra pessoa.
+
 
 
 #SIMULADO 3
