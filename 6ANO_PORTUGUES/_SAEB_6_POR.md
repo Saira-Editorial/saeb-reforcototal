@@ -5456,7 +5456,7 @@ d\) Incorreta. O infográfico não menciona relação com a força física.
 Leia o texto a seguir para responder às questões 1 a 4.
 
 
-Contato com tecnologia digital pode provocar danos aos bebês﻿
+Contato com tecnologia digital pode provocar danos aos bebês
 
 
 Antes mesmo de aprender a falar, muitos baixinhos já tateiam as telas de smartphones e tablets feito gente grande. A cena, apesar de cada vez mais comum na era digital, não deveria ser vista com tanta naturalidade. Muito menos incentivada. O alerta dos especialistas é para os danos que o uso desses aparelhos por crianças com menos de 2 anos pode trazer para a saúde. Essa longa lista de prejuízos desbanca qualquer possibilidade de ver vantagem em expor os pequenos precocemente às novas tecnologias. Isso incluiu assistir à vídeos, filmes, jogar videogames em tablet, celular ou qualquer outro aparelho com tela.
@@ -5482,7 +5482,8 @@ c\) Crianças devem ser expostas à tecnologia digital após os dois anos.
 
 d\) Os bebês não devem ser expostos a tecnologias digitais.
 
-BNCC: EF67LP17.
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF67LP17 -- Analisar, a partir do contexto de produção, a forma de organização das cartas de solicitação e de reclamação (datação, forma de início, apresentação contextualizada do pedido ou da reclamação, em geral, acompanhada de explicações, argumentos e/ou relatos do problema, fórmula de finalização mais ou menos cordata, dependendo do tipo de carta e subscrição) e algumas das marcas linguísticas relacionadas à argumentação, explicação ou relato de fatos, como forma de possibilitar a escrita fundamentada de cartas como essas ou de postagens em canais próprios de reclamações e solicitações em situações que envolvam questões relativas à escola, à comunidade ou a algum dos seus membros.
 
 a\) Correta. Segundo o artigo, o contato dos bebês com tecnologia digital deve ser zero, pois os efeitos da luz azul da tela podem implicar redução de melatonina, que é essencial para o sono, que por sua vez é importante para o desenvolvimento de crianças com idade inferior a 2 anos.
 
@@ -5505,7 +5506,8 @@ c) Opinião pessoal.
 
 d) Opiniões de especialistas.
 
-BNCC:
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF67LP17 -- Analisar, a partir do contexto de produção, a forma de organização das cartas de solicitação e de reclamação (datação, forma de início, apresentação contextualizada do pedido ou da reclamação, em geral, acompanhada de explicações, argumentos e/ou relatos do problema, fórmula de finalização mais ou menos cordata, dependendo do tipo de carta e subscrição) e algumas das marcas linguísticas relacionadas à argumentação, explicação ou relato de fatos, como forma de possibilitar a escrita fundamentada de cartas como essas ou de postagens em canais próprios de reclamações e solicitações em situações que envolvam questões relativas à escola, à comunidade ou a algum dos seus membros.
 
 a) Incorreta. Estudos realizados pela OMS, SBP, governos dos Estados Unidos e Canadá, e não apenas um desses estudos, embasam as recomendações dos especialistas.
 
@@ -5530,7 +5532,8 @@ c\) A tecnologia digital não tem impacto sobre os bebês,
 
 d\) Os efeitos da tecnologia digital em bebes não são claros.
 
-BNCC:
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF67LP17 -- Analisar, a partir do contexto de produção, a forma de organização das cartas de solicitação e de reclamação (datação, forma de início, apresentação contextualizada do pedido ou da reclamação, em geral, acompanhada de explicações, argumentos e/ou relatos do problema, fórmula de finalização mais ou menos cordata, dependendo do tipo de carta e subscrição) e algumas das marcas linguísticas relacionadas à argumentação, explicação ou relato de fatos, como forma de possibilitar a escrita fundamentada de cartas como essas ou de postagens em canais próprios de reclamações e solicitações em situações que envolvam questões relativas à escola, à comunidade ou a algum dos seus membros.
 
 
 a\) O artigo é claro em informar que a tecnologia digital é prejudicial, especialmente em bebês (crianças com idade inferior a 2 anos).
@@ -5556,7 +5559,8 @@ c\) Simples e direta.
 
 d\) Ambígua e vaga.
 
-BNCC:
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF67LP17 -- Analisar, a partir do contexto de produção, a forma de organização das cartas de solicitação e de reclamação (datação, forma de início, apresentação contextualizada do pedido ou da reclamação, em geral, acompanhada de explicações, argumentos e/ou relatos do problema, fórmula de finalização mais ou menos cordata, dependendo do tipo de carta e subscrição) e algumas das marcas linguísticas relacionadas à argumentação, explicação ou relato de fatos, como forma de possibilitar a escrita fundamentada de cartas como essas ou de postagens em canais próprios de reclamações e solicitações em situações que envolvam questões relativas à escola, à comunidade ou a algum dos seus membros.
 
 
 a\) O artigo não utiliza linguagem técnica para expor seu argumento.
@@ -5574,23 +5578,19 @@ Leia os textos 1 e 2, a seguir, para responder às questões 5 e 6.
 
 Texto 1
 
-
-![Interface gráfica do usuário, Texto, Aplicativo, Email Descrição gerada automaticamente](./imgSAEB_6_POR/media/image47.png){width="4.808333333333334in" height="4.393312554680665in"}
-
-
-\fonte{<https://memoria.ebc.com.br/noticias/brasil/2014/05/manifestantes-protestam-contra-copa-no-centro-de-brasilia>. Acesso em: mar. 2023.
+###Manifestantes protestam contra Copa no centro de Brasília
 
 
 Texto 2
 
+https://www.freepik.com/free-vector/architectural-flat-plan-top-view_4015462.htm#query=planta%20de%20apartamento&position=4&from_view=search&track=ais
 
-![Linha do tempo Descrição gerada automaticamente com confiança média](./imgSAEB_6_POR/media/image48.jpeg){width="4.125in" height="4.086679790026246in"}
-------------
-
-\fonte{<https://museudememes.com.br/collection/naovaitercopa/nao-vai-ter-copa>
+Não vai ter Copa!
+Mas pode comprar, porque os outros cômodos são muito bem divididos
 
 
-5. Qual é a relação entre a notícia e o meme? 
+
+\num{5} Qual é a relação entre a notícia e o meme? 
 
 
 a) A notícia serve como inspiração para o meme. 
@@ -5601,7 +5601,8 @@ c) A notícia e o meme não possuem relação entre si.
 
 d) A notícia e o meme são formas de comunicação que não se relacionam.
 
-BNCC: EF69LP44.
+SAEB: Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
+BNCC: EF69LP44 -- Inferir a presença de valores sociais, culturais e humanos e de diferentes visões de mundo, em textos literários, reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre as identidades, sociedades e culturas e considerando a autoria e o contexto social e histórico de sua produção.
 
 a\) Correta. O conceito de meme é ressignificar uma mensagem, geralmente, em tom jocoso. No exemplo, temos um texto que se referia à construção de estádios e infraestrutura para a copa do mundo em 2014, em que as pessoas que não apoiavam o evento se utilizavam do jargão "não vai ter copa!", e esse jargão foi utilizado como piada em um "anúncio" de imóvel que não possui o cômodo "copa".
 
@@ -5624,7 +5625,8 @@ c) criticar ou parodiar a notícia.
 
 d) complementar o assunto abordado pela notícia.
 
-BNCC: EF69LP44.
+SAEB: Analisar a intertextualidade entre textos literários ou entre estes e outros textos verbais ou não verbais.
+BNCC: EF69LP44 -- Inferir a presença de valores sociais, culturais e humanos e de diferentes visões de mundo, em textos literários, reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre as identidades, sociedades e culturas e considerando a autoria e o contexto social e histórico de sua produção.
 
 
 a\) Incorreta. O meme não gera um contexto adicional, mas sim pega uma parte da notícia e a utiliza em outro contexto, com outra mensagem.
@@ -5638,16 +5640,59 @@ d\) Incorreta. O meme da coletânea não serve como complemento para a notícia.
 
  
 
-Leia o cordel a seguir para responder às questões 7 a 10.
+Leia o cordel a seguir para responder às questões de 7 a 11.
+
+Cordel de nós para eles
+
+No sertão do Brasil, vou contar uma história,
+De injustiças sociais, triste e notória.
+Nas terras tupiniquins, ricas e tão vastas,
+O povo sofre as agruras de uma vida casta.
+
+No cordel eu denuncio, com voz sincera,
+A desigualdade que aqui impera.
+Enquanto uns têm muito, outros têm tão pouco,
+É a sina que o destino traça e provoca.
+
+No campo, o lavrador, cansado e suado,
+Trabalha a terra sentindo-se cansado.
+Plantando o alimento, que é a vida a brotar,
+Mas seu ganho é minguado, mal dá pra sustentar.
+
+Nas cidades, os operários na labuta,
+Em fábricas escuras, a luta é absoluta.
+Horas intermináveis, salários tão baixos,
+Enquanto os patrões lucram, fartos e satisfeitos.
+
+O menino na rua, pobre e descalço,
+Sonha com o futuro, mas teme o fracasso.
+A educação negada, o acesso negado,
+Seu potencial desperdiçado, sufocado.
+
+As mulheres, guerreiras, enfrentam desafios,
+Lutam por direitos, por voz e por juízo.
+Enfrentam a violência, o machismo arraigado,
+Na busca de igualdade, por um mundo mais humanizado.
+
+E assim, no Brasil, essa terra rica e vasta,
+Persistem as injustiças, a desigualdade arrasta.
+Mas no coração do povo, a esperança se acende,
+De que um dia, enfim, justiça e igualdade se estendem.
+
+Que cada um tenha seu lugar ao sol,
+Que o respeito e a dignidade sejam farol.
+Que o cordel seja voz, denunciando os desmandos,
+E que o Brasil se erga, unido e transformando.
+
+Que as injustiças sociais sejam superadas,
+E que um futuro justo e igualitário seja alcançado.
+Com esforço e união, de repente se muda o rumo,
+E escrever uma história de justiça e de prumo.
+
+\fonte{Gabriel Peixoto Teixeira}
 
 
-![Texto Descrição gerada automaticamente](./imgSAEB_6_POR/media/image49.png){width="2.7752405949256342in" height="5.66715769903762in"}
-
-
-Disponível em: <http://www.ablc.com.br/e-tudo-vem-a-ser-nada/>.
-
-
-7. Em determinado verso, o autor do poema refere-se a si mesmo por meio do pronome
+\num{7} O eu que emerge dos versos refere-se a ele e a quem está ao seu lado, além de "eu", por meio do pronome
 
 
 a\) ele. 
@@ -5658,18 +5703,21 @@ c\) eles.
 
 d\) nós.
 
-BNCC: EF06LP12.
+SAEB: Inferir a presença de valores sociais, culturais e humanos em textos literários.
+BNCC: EF06LP12 -- Utilizar, ao produzir texto, recursos de coesão referencial (nome e
+pronomes), recursos semânticos de sinonímia, antonímia e homonímia e mecanismos de
+representação de diferentes vozes (discurso direto e indireto).
 
-a\) Incorreta. O autor utiliza a terceira pessoa do singular para referir-se ao "rico pomposo". Mesmo assim, o pronome é oculto.
+a\) Incorreta. O autor utiliza a terceira pessoa do singular para referir-se às pessoas do outro grupo, dos abastados. 
 
 b\) Incorreta. O autor utiliza a terceira pessoa do singular no feminino, porém o pronome é oculto.
 
 c\) Incorreta. O autor não utiliza terceira pessoa do plural.
 
-d\) Correta. O autor se inclui em uma ação comum a todas as pessoas e acaba referindo a si mesmo na primeira pessoa do plural: nós, em "Vemos um rico pomposo".
+d\) Correta. O autor se inclui em uma ação comum a todas as pessoas e acaba referindo a si mesmo na primeira pessoa do plural: nós, no título.
 
 
-8. Qual é a função do "Se", na frase \"Se julgando poderosa"?
+\num{8} Qual é a função do "Se", na frase \"sentindo-se cansado"?
 
 
 a) Pronome reflexivo. 
@@ -5680,9 +5728,12 @@ c) Pronome indefinido.
 
 d) Pronome interrogativo.
 
-BNCC: EF06LP12.
+SAEB: Inferir a presença de valores sociais, culturais e humanos em textos literários.
+BNCC: EF06LP12 -- Utilizar, ao produzir texto, recursos de coesão referencial (nome e
+pronomes), recursos semânticos de sinonímia, antonímia e homonímia e mecanismos de
+representação de diferentes vozes (discurso direto e indireto).
 
-a\) Correta. O "se" é um pronome reflexivo. Nessa construção, o sujeito é "tanta gente orgulhosa" e comete a ação sobre si mesmo.
+a\) Correta. O "se" é um pronome reflexivo. Nessa construção, o sujeito deixa recair a ação sobre si mesmo.
 
 b\) Incorreta. Os pronomes demonstrativos são usados para apontar a relação de distância (de lugar ou de tempo) entre o nome ao qual se referem e as pessoas do discurso.
 
@@ -5691,7 +5742,7 @@ c\) Incorreta. Os pronomes indefinidos são aqueles que se referem à terceira p
 d\) Incorreta. Os pronomes interrogativos são aqueles que utilizamos nas construções de perguntas diretas ou indiretas: que, quem, qual, quanto.
 
 
-\num{9} O que o autor quis dizer com a frase \"tudo vem a ser nada\", no título do cordel? 
+\num{9} O que o autor quis dizer com o verso \"de repente se muda o rumo,\"? 
 
 
 a) Nada tem sentido. 
@@ -5702,7 +5753,8 @@ c) Tudo é temporário.
 
 d) Tudo é eterno.
 
-BNCC: EF69LP47.
+SAEB: Inferir a presença de valores sociais, culturais e humanos em textos literários.
+BNCC: EF69LP47 -- Analisar, em textos narrativos ficcionais, as diferentes formas de composição próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados, identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero, da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de recursos linguístico-gramaticais próprios a cada gênero narrativo.
 
 a\) Incorreta. O cordel dá sentido às coisas e diz que de repente elas podem perder o sentido.
 
@@ -5714,63 +5766,50 @@ d\) Incorreta. O cordel fala justamente sobre a temporalidade das coisas.
 
 
 
-\num{10} Que figura de linguagem é utilizada quando o autor escreve: \"O tempo se alonga como se fosse infinito e a gente se sente dono dele\"? 
+\num{10} Que figura de linguagem é utilizada quando o autor escreve: Horas intermináveis, salários tão baixos,\ Enquanto os patrões lucram, fartos e satisfeitos.? 
 
 
-a\) Metáfora, 
+a\) Metáfora. 
 
-b\) Comparação, 
+b\) Metonímia. 
 
-c\) Personificação, 
+c\) Eufemismo. 
 
-d\) Hipérbole.
+d\) Antítese.
 
-BNCC:
+SAEB: Inferir a presença de valores sociais, culturais e humanos em textos literários.
+BNCC:EF67LP38 -- Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.
 
-a\)
-b\)
-c\)
-d\)
+a\) Incorreta. A metáfora é uma figura de linguagem que consiste na utilização de uma palavra ou expressão em um sentido figurado, diferente de seu significado literal, para criar uma comparação implícita entre dois elementos distintos. Ela permite transmitir uma ideia de forma mais vívida e impactante, ao estabelecer uma associação entre termos que possuem características semelhantes, mas que pertencem a domínios diferentes. Ao utilizar uma metáfora, busca-se criar uma imagem ou uma relação de semelhança entre os elementos envolvidos, ampliando o significado e proporcionando uma compreensão mais profunda ou poética. Por exemplo, a expressão "mar de rosas" utiliza a imagem do mar para representar uma situação tranquila ou prazerosa, criando uma associação figurada entre os dois elementos.
+b\) Incorreta. A metonímia é uma figura de linguagem que consiste na substituição de uma palavra ou expressão por outra que tenha uma relação de proximidade, associação ou continuidade semântica com o termo original. Diferente da metáfora, que estabelece uma relação de semelhança, a metonímia estabelece uma relação de contiguidade ou interdependência entre os elementos.
+c\) Incorreta. O eufemismo é uma figura de linguagem que consiste no uso de palavras ou expressões suaves, mais agradáveis ou indiretas, em substituição a termos que possam ser considerados rudes, ofensivos, desagradáveis ou socialmente inadequados. É uma forma de amenizar ou suavizar a expressão de algo que possa ser considerado indelicado, tabu, constrangedor ou politicamente incorreto.
+d\) Correta. Faz-se a oposição significativa entre o excesso para alguns e a falta para outros.
 
-11. 
----
-
-![Diagrama, Aplicativo Descrição gerada automaticamente](./imgSAEB_6_POR/media/image50.png){width="4.777587489063867in" height="5.95in"}
+\num{11} O cordel se resume, ao final, em um tom de
 
 
-\fonte{<https://www.instagram.com/p/CkJ4ETwg5Kv/?hl=pt>
+a\) realismo.
 
+b\) otimismo.
 
-O que provoca o efeito de humor da tirinha?
+c\) pessimismo.
 
-a\) A personagem ter mais flechas do que alvos a acertar.
+d\) descrença.
 
-b\) O alvo estar disfarçado de cordeiro.
+SAEB: Inferir a presença de valores sociais, culturais e humanos em textos literários.
+BNCC:EF67LP38 -- Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.
 
-c\) A consequência caso o personagem erre a flechada.
+a\) Incorreta. Vê-se a esperaça e sente-se o otimismo ao final do cordel.
 
-d\) O personagem dormir durante a contagem de cordeiros.
+b\) Correta. Os últimos versos mostram que se acredita em um futuro muito melhor e mais justo.
 
-Habilidade: EF69LP03.
+c\) Incorreta. Pelo contrário, não se vê uma voz pessimista emergir dos versos.
 
-a\) Incorreta. O excesso de flechas para acertar apenas 1 alvo, embora
-possa ter um teor cômico, não é o fator principal de humor nessa tirinha.
-
-b\) Incorreta. O disfarce do alvo, embora possa ter um teor cômico, não
-é o fator principal de humor nessa tirinha.
-
-c\) Incorreta. A consequência do erro, na forma como é exposta pelo
-segundo personagem, possui teor cômico, mas não é o fator principal de
-humor nessa tirinha.
-
-d\) Correta. O fato que causa o efeito de humor é justamente o momento
-que o personagem dorme durante a contagem de cordeiros. Essa "técnica" é
-muito utilizada para induzir as crianças ao sono, e na tirinha temos um
-personagem com status de herói, que adormece como uma criança.
+d\) Incorreta. Não se lê um tom descrente nos versos.
 
 
 
-Leia um trecho da peça "Auto da compadecida", de Ariano Suassuna, e responda às questões 12 a 15.
+Leia um trecho da peça "Auto da compadecida", de Ariano Suassuna, e responda à questão 12.
 
 
 CHICÓ
@@ -5811,7 +5850,8 @@ c) Estilística.
 
 d) Geográfica.
 
-BNCC: EF69LP55.
+SAEB: Analisar as variedades linguísticas em textos.
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 a\) Incorreta. A variação histórica ocorre quando a sentença apresenta termos que já caíram em desuso.
 
@@ -5833,8 +5873,8 @@ c\) está trabalhando arduamente para o patrão.
 
 d\) não está fazendo seu trabalho corretamente.
 
-
-BNCC: EF69LP55.
+SAEB: Avaliar a adequação das variedades linguísticas em contextos de uso.
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 
 a\) Incorreta. João Grilo não tem uma boa relação com o patrão, o que se confirma no trecho seguinte, em "Muito pelo contrário, ainda hei de me vingar do que ele e a mulher me fizeram quando estive doente."
@@ -5867,7 +5907,8 @@ c) Informar sobre um serviço.
 
 d) Exibir um manual de instrução.
 
-BNCC: EF69LP02.
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF69LP02 -- Analisar e comparar peças publicitárias variadas (cartazes, folhetos, outdoor, anúncios e propagandas em diferentes mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação entre elas em campanhas, as especificidades das várias semioses e mídias, a adequação dessas peças ao público-alvo, aos objetivos do anunciante e/ou da campanha e à construção composicional e estilo dos gêneros em questão, como forma de ampliar suas possibilidades de compreensão (e produção) de textos pertencentes a esses gêneros.
 
 a) Incorreta. Embora o texto informe sobre um evento fictício, o objetivo da campanha é chamar os jovens, especialmente os que conhecem o anime, para a campanha de vacinação.
 
@@ -5889,7 +5930,8 @@ c) Falar de meio-ambiente e sustentabilidade.
 
 d) Promover cultura e entretenimento.
 
-BNCC: EF69LP02.
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF69LP02 -- Analisar e comparar peças publicitárias variadas (cartazes, folhetos, outdoor, anúncios e propagandas em diferentes mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação entre elas em campanhas, as especificidades das várias semioses e mídias, a adequação dessas peças ao público-alvo, aos objetivos do anunciante e/ou da campanha e à construção composicional e estilo dos gêneros em questão, como forma de ampliar suas possibilidades de compreensão (e produção) de textos pertencentes a esses gêneros.
 
 a\) Correta. O evento divulgado é uma campanha de vacinação para crianças e jovens com idade a partir de 12 anos.
 
