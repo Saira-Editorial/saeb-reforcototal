@@ -4840,38 +4840,20 @@ no meio jornalístico.
 
 #Simulado 3
 
-\num{1}
+\num{1} A seguir, o texto I é a reprodução de um cartaz afixado em um prédio, enquanto o texto II é uma reescrita atualizada do primeiro. Leia-os.
+
 
 **TEXTO I**
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image37.jpeg){width="2.21875in"
-height="1.6659055118110235in"}
+É prohibido collocar cartaz e annuncios em todo o edificio d'esta ordem.
 
-Disponível em:
-https://commons.wikimedia.org/wiki/File:Placa\_pre-1911\_(Porto).jpg.
-
-Acesso em: 27 fev. 2023.
 
 **TEXTO II**
 
-+---------------------+
-| É PROIBIDO          |
-|                     |
-| COLOCAR             |
-|                     |
-| CARTAZES E ANÚNCIOS |
-|                     |
-| EM TODO             |
-|                     |
-| O EDIFÍCIO.         |
-+---------------------+
+É proibido colocar cartaz e anúncios em todo o edifício.
 
-Elaborado pelo autor.
 
-O Texto II é uma reescrita do Texto I e ambos representam estágios
-diferentes da língua portuguesa. Nesse sentido, exemplificam a variação
-linguística
+Os dois textos representam estágios diferentes da língua portuguesa, o que exemplifica uma variação
 
 a)  social.
 
@@ -4881,9 +4863,8 @@ c)  histórica.
 
 d)  situacional.
 
-Saeb: Analisar as variedades linguísticas em textos.
-
-BNCC: EF69LP56
+SAEB: Analisar as variedades linguísticas em textos.
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 \(A\) Incorreta. A variação social ocorre devido a diferenças entre
 indivíduos, como idade, profissão, sexo, escolaridade.
@@ -4893,34 +4874,24 @@ lugares ou regiões, como, por exemplo, a diferença entre o dialeto
 mineiro e o carioca.
 
 \(C\) Correta. A variação histórica ocorre devido a diferenças entre
-estágios da língua em diferentes momentos históricos dela. A diferença
-entre a ortografia do Texto I e do Texto II refere-se aos anos de 1911 e
-2023.
+estágios da língua em diferentes momentos históricos dela.
 
 \(D\) Incorreta. A variação situacional ocorre em razão da tentativa do
-falante em adequar-se ao contexto sociocomunicativo, tal como num
+falante de adequar-se ao contexto sociocomunicativo, tal como num
 tribunal, em que se exige um padrão de linguagem predominantemente
 jurídica.
 
-\num{2}
+\num{2} Leia o texto.
 
-**A Raposa e as Uvas**
+**A raposa e as uvas**
 
-Uma Raposa, aproximando-se de uma parreira, viu que ela estava carregada
-de uvas maduras e apetitosas. Com água na boca, desejou-as comer e, para
-tanto, começou a fazer esforços para subir até elas. Porém, como
-estivessem as uvas muito altas e fosse muito difícil a subida, a Raposa
-tentou, mas não conseguiu alcançá-las. Disse então:
+>Uma raposa se aproximou de uma parreira e viu que estava cheia de uvas maduras e deliciosas. Com desejo de comê-las, começou a fazer esforços para alcançá-las. No entanto, as uvas estavam muito altas e a subida era difícil. A raposa tentou, mas não conseguiu alcançá-las. Então ela disse:
 
--- Estas uvas estão muito azedas e podem desbotar os meus dentes; não
-quero colhê-las agora porque não gosto de uvas que não estão maduras.
+>--- Essas uvas estão muito azedas e podem estragar meus dentes. Não quero colhê-las agora porque não gosto de uvas que não estão maduras.
 
-E, dito isso, se foi.
+>Após dizer isso, a raposa foi embora.
 
-Disponível em:
-<http://www>.dominiopublico.gov.br/download/texto/ea000378.pdf.
-
-Acesso em: 26 fev. 2023.
+\fonte{Texto escrito para este material.}
 
 No gênero narrativo fábula normalmente se pode reconhecer um ditado
 popular que expressa um ensinamento. Essa fábula se relaciona com qual
@@ -4934,22 +4905,21 @@ c\) Quem desdenha quer comprar.
 
 d\) Há males que vêm para o bem.
 
-Saeb: Analisar a intertextualidade entre textos literários ou entre
+SAEB: Analisar a intertextualidade entre textos literários ou entre
 estes e outros textos verbais ou não verbais.
-
-BNCC: EF69LP44
+BNCC: EF69LP44 -- Inferir a presença de valores sociais, culturais e humanos e de diferentes visões de mundo, em textos literários, reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre as identidades, sociedades e culturas e considerando a autoria e o contexto social e histórico de sua produção.
 
 \(A\) Incorreta. Embora a raposa tenha desejado comer as uvas, não é
 possível deduzir que estivesse faminta ou fraca pela fala de
-alimentação, uma vez que nada é mencionado a respeito.
+alimentação, uma vez que nada é mencionado a respeito disso.
 
 \(B\) Incorreta. A raposa demonstra ser paciente e oportunista, ou seja,
-não é precipitada, age quando as situações que lhe são favoráveis, pois,
+não é precipitada. Age quando as situações lhe são favoráveis, pois,
 percebendo a dificuldade de alcançar as uvas, logo desistiu de comê-las.
 
 \(C\) Correta. O narrador caracteriza as uvas como maduras e apetitosas,
 e, estando a parreira carregada delas, provavelmente isso chamou a
-atenção da raposa. Porém, a raposa colocou defeitos nas uvas após
+atenção da raposa, porém a raposa colocou defeitos nas uvas após
 perceber que não conseguiria alcançá-las, não admitindo assim sua
 limitação.
 
@@ -4958,15 +4928,15 @@ uvas os quais provavelmente lhe trariam algum mal se fossem verdadeiros,
 porém são inventados por ela para evitar admitir sua limitação em
 alcançar as uvas.
 
-\num{3}
+\num{3} No Rio Grande do Sul, foi divulgado um anúncio com o texto reproduzido a seguir.
 
-![Diagrama Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image38.png){width="3.6555555555555554in"
-height="3.6555555555555554in"}
+>**Doar sangue dói? Um pouquinho!
 
-GOVERNO DO RIO GRANDE DO SUL. Disponível em:
-https://www.facebook.com/GovernoDoRS/?locale=pt\_BR. Acesso em: 01 mar.
-2023.
+>*Mas tem tanta coisa no dia a dia que dói mais e não salva vidas*
+
+>Depoilação, treino pesado na academia, o visualizado e não respondido do *crush*, tatuar, segurar essa barra que é gostar de você...
+
+>**Deixe o medo de lado e seja solidário**
 
 O recurso persuasivo utilizado na campanha é o efeito de humor,
 alcançado, sobretudo, por meio
@@ -4979,17 +4949,16 @@ c\) da referência ao cotidiano.
 
 d\) da oposição medo-solidariedade.
 
-Saeb: Analisar efeitos de sentido produzido pelo uso de formas de
+SAEB: Analisar efeitos de sentido produzido pelo uso de formas de
 apropriação textual (paráfrase, citação etc.).
-
-BNCC: EF89LP05
+BNCC: EF89LP05 -- Analisar o efeito de sentido produzido pelo uso, em textos, de recurso a formas de apropriação textual (paráfrases, citações, discurso direto, indireto ou indireto livre).
 
 \(A\) Incorreta. A relativização da dor serve ao propósito de levar o
-leitor a concluir que a dor de doar sangue, compara à dor de situações
+leitor a concluir que a dor de doar sangue, comparada à dor de situações
 cotidianas, é suportável e não deve ser o motivo da não doação.
 
 \(B\) Correta. O verso musical citado exemplifica uma das situações
-cotidianas que causam mais dor do que dar sangue. O humor é gerado
+cotidianas que causam mais dor do que doar sangue. O humor é gerado
 porque se trata de um verso muito conhecido que fala de amor não
 correspondido de forma bastante peculiar.
 
@@ -5002,40 +4971,62 @@ cotidiano.
 da campanha, apenas chama o leitor à ação, após o texto "provar" a ideia
 de que a dor de doar sangue é menor que muitas outras na vida.
 
-\num{4}
+\num{4} Leia o poema.
 
-A criança que fui chora na estrada.
+>**I**
 
-Deixei-a ali quando vim ser quem sou.
+>A criança que fui chora na estrada.
 
-Mas hoje, vendo que o que sou é nada,
+>Deixei-a ali quando vim ser quem sou;
 
-Quero ir buscar quem fui onde ficou.
+>Mas hoje, vendo que o que sou é nada,
 
-Fernando Pessoa.
+>Quero ir buscar quem fui onde ficou.
+
+
+>Ah, como hei-de encontrá-lo? Quem errou
+
+>A vinda tem a regressão errada.
+
+>Já não sei de onde vim nem onde estou.
+
+>De o não saber, minha alma está parada.
+
+
+>Se ao menos atingir neste lugar
+
+>Um alto monte, de onde possa enfim
+
+>O que esqueci, olhando-o, relembrar,
+
+
+>Na ausência, ao menos, saberei de mim,
+
+>E, ao ver-me tal qual fui ao longe, achar
+
+>Em mim um pouco de quando era assim.
+
+\fonte{Fernando Pessoa. *Novas poesias inéditas*. Disponível em: _http://arquivopessoa.net/textos/2455_. Acesso em: 20 maio 2023.}
 
 Em razão do gênero literário a que pertence, o texto caracteriza-se por
 colocar em foco
 
 a\) os sentimentos subjetivos do eu lírico.
 
-b\) a clareza e objetividade da mensagem.
+b\) a clareza e a objetividade da mensagem.
 
 c\) a interpretação dramática de uma cena.
 
 d\) os elementos da sequência da narrativa.
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
+BNCC: EF69LP44 -- Inferir a presença de valores sociais, culturais e humanos e de diferentes visões de mundo, em textos literários, reconhecendo nesses textos formas de estabelecer múltiplos olhares sobre as identidades, sociedades e culturas e considerando a autoria e o contexto social e histórico de sua produção.
 
-BNCC: EF69LP44
+\(A\) Correta. O texto é um poema lírico, que pressupõe subjetividade como característica principal, isto é, o texto volta-se para o interior do eu.
 
-\(A\) Correta. O texto é um poema e, assim, pertence ao gênero lírico,
-que pressupõe subjetividade como característica principal, isto é, o
-texto volta-se para o interior do eu.
-
-\(B\) Incorreta. Sendo o texto um poema e pertencendo ao gênero lírico,
-a clareza e objetividade são características dispensáveis, pois a poesia
+\(B\) Incorreta. Sendo o texto um poema pertencente ao gênero lírico,
+a clareza e a objetividade são características dispensáveis, pois a poesia
 trabalha justamente com a instabilidade dos sentidos, isto é, a
 conotação.
 
@@ -5043,31 +5034,10 @@ conotação.
 atores, o que é uma característica do gênero dramático, que se manifesta
 em textos teatrais, por exemplo.
 
-\(D\) Incorreta. Por se tratar de um poema, o texto pertence ao gênero
-lírico e não ao gênero narrativo.
+\(D\) Incorreta. O texto pertence ao gênero lírico, e não ao gênero narrativo.
 
-\num{5}
+\num{5} Bula de Remédio é o documento que acompanha um medicamento para orientar o usuário quanto à ingestão. A bula contém indicações, contraindicações, efeitos secundários, apresentação, fórmula ou composição, nome do laboratório, posologia (dose adequada).
 
-Bula de Remédio: documento que acompanha um medicamento para orientar o
-usuário quanto à ingestão.
-
-A bula contém:
-
--   Indicações;
-
--   Contraindicações;
-
--   Efeitos secundários;
-
--   Apresentação;
-
--   Fórmula ou composição;
-
--   Nome do laboratório;
-
--   Posologia (dose adequada).
-
-Elaborado pelo autor.
 
 O conteúdo da bula de remédio e sua finalidade comunicativa justificam,
 na escrita desse gênero, o emprego de linguagem
@@ -5080,14 +5050,11 @@ c\) narrativa, para relatar as etapas de produção do medicamento.
 
 d\) figurada, para facilitar a compreensão dos dados do medicamento.
 
-Saeb: Analisar os efeitos de sentido dos tempos, modos e/ou vozes
-verbais com base no gênero textual e na intenção comunicativa.
-
-BNCC: sem correspondência
+SAEB: Identificar elementos constitutivos de gêneros de divulgação científica.
 
 \(A\) Correta. As informações que constam na bula de remédio são
 importantes para o correto uso do medicamento. Além disso, sua
-finalidade comunicativa é orientar o usuário nesse uso correto, daí a
+finalidade comunicativa é orientar o usuário nesse uso correto; por isso, a
 necessidade de uma linguagem objetiva na exposição das informações do
 medicamento e das orientações de uso, para que a saúde não seja posta em
 risco pelo mau uso.
@@ -5095,7 +5062,7 @@ risco pelo mau uso.
 \(B\) Incorreta. A bula de remédio é um texto predominantemente
 informativo e expositivo, pois a intenção é que o usuário faça um uso
 seguro e correto. Assim, não há intenção de fazer juízo de valor sobre o
-uso ou não uso do medicamento, nem sobre suas qualidades ou defeitos.
+uso do medicamento, nem sobre suas qualidades ou seus defeitos.
 
 \(C\) Incorreta. Não há menção a tempo, espaço, personagens etc. no
 texto da bula de remédio, nem relato de acontecimentos, e sim exposição
@@ -5105,8 +5072,10 @@ de informações.
 mais interpretativos, o que não é útil na compreensão dos dados de um
 medicamento.
 
-**Texto para as questões de 6 a 8.**
+Leia o texto para responder às questões de 6 a 8.
 
+>**Futebol ao sol e à sombra**
+>
 A história do futebol é uma triste viagem do prazer ao dever. \[\...\] O
 jogo se transformou em espetáculo, com poucos protagonistas e muitos
 espectadores, futebol para olhar, e o espetáculo se transformou num dos
@@ -5118,12 +5087,9 @@ nos campos \[\...\] algum atrevido que sai do roteiro e comete o
 disparate de driblar o time adversário inteirinho, além do juiz e do
 público das arquibancadas \[\...\].
 
-GALEANO, E. *Futebol ao sol e à sombra*. Porto Alegre: L&PM, 1995
-(fragmento).
+\fonte{E. Galeano. *Futebol ao sol e à sombra*. Porto Alegre: L&PM, 1995.}
 
-\num{6}
-
-Nas relações de sentido construídas no texto, o termo "dever" se
+\num{6} Nas relações de sentido construídas no texto, o termo "dever" se
 relaciona, no contexto do futebol, com a ideia de roteiro, assim como
 "prazer" se relaciona com a ideia de
 
@@ -5135,20 +5101,18 @@ c\) velocidade.
 
 d\) tecnocracia.
 
-Saeb: Analisar os mecanismos que contribuem para a progressão textual.
-
-BNCC: EF08LP15
+SAEB: Analisar os mecanismos que contribuem para a progressão textual.
 
 \(A\) Correta. O termo "dever" sugere que o futebol "renuncia à alegria,
 atrofia a fantasia e proíbe a ousadia", como se seguisse um roteiro
 predeterminado e pouco dinâmico, enquanto, na ideia de prazer, "algum
 atrevido sai do roteiro e comete o disparate de driblar o time
 adversário inteirinho, além do juiz e do público das arquibancadas",
-dando a ideia de improviso e criatividade.
+o que dá a ideia de improviso e criatividade.
 
 \(B\) Incorreta. O futebol como espetáculo, no texto, foi uma criação do
 mundo dos negócios e sugere uma prática profissional. Como tal, está
-associado ao dever do trabalho, e não do prazer.
+associado ao dever do trabalho, e não ao prazer.
 
 \(C\) Incorreta. Velocidade, embora seja uma característica positiva no
 futebol, é tida como pejorativa no texto, pois, juntamente com a força,
@@ -5158,9 +5122,7 @@ opõe-se ao futebol alegre, ousado e criativo.
 responsáveis pelo futebol roteirizado, que se relaciona com o dever e,
 consequentemente, opõe-se ao prazer.
 
-\num{7}
-
-Do ponto de vista do jogador, o futebol do dever e o futebol do prazer
+\num{7} Do ponto de vista do jogador, o futebol do dever e o futebol do prazer
 caracterizam-se, respectivamente, por
 
 a\) arte e criatividade.
@@ -5171,15 +5133,13 @@ c\) monotonia e divertimento.
 
 d\) profissionalismo e várzea.
 
-Saeb: Inferir informações implícitas em distintos textos.
-
-BNCC: Não há correspondência
+SAEB: Inferir informações implícitas em distintos textos.
 
 \(A\) Incorreta. Arte e criatividade são características apenas do
 futebol do prazer, conforme se depreende do texto.
 
 \(B\) Incorreta. Velocidade e força são características apenas do
-futebol do deve, conforme explicitado no texto.
+futebol do dever, conforme explicitado no texto.
 
 \(C\) Correta. Monotonia relaciona-se aos trechos "não é organizado para
 ser jogado, mas para impedir que se jogue" e "renuncia à alegria,
@@ -5194,9 +5154,7 @@ criatividade não é associada pelo autor ao futebol de várzea. Ele diz
 que, por sorte, ainda se encontra um representante do futebol do prazer
 nos campos profissionais.
 
-\num{8}
-
-Para realçar as qualidades do futebol do prazer sobre as do futebol do
+\num{8} Para realçar as qualidades do futebol do prazer sobre as do futebol do
 dever, o autor emprega exagero em
 
 a\) "o espetáculo se transformou num dos negócios mais lucrativos do
@@ -5211,10 +5169,9 @@ muitos espectadores."
 d\) "comete o disparate de driblar o time adversário inteirinho, além do
 juiz e do público das arquibancadas."
 
-Saeb: Analisar o uso de figuras de linguagem como estratégia
+SAEB: Analisar o uso de figuras de linguagem como estratégia
 argumentativa.
-
-BNCC: EF89LP37
+BNCC: EF89LP37 -- Analisar os efeitos de sentido do uso de figuras de linguagem como ironia, eufemismo, antítese, aliteração, assonância, dentre outras.
 
 \(A\) Incorreta. No trecho, o autor faz uma afirmação objetiva que pode
 ser comprovada por números, embora não sejam citados no texto.
@@ -5230,22 +5187,28 @@ habilidade do jogador atrevido, por meio de uma linguagem conotativa,
 como forma de mostrar quanta criatividade está presente no futebol não
 roteirizado que privilegia o prazer e não o dever.
 
-\num{9}
+\num{9} Leia o texto.
 
+>**Polícia Militar do Piauí quer formação antirracista dos agentes**
+>*m 2021, em todo país, 65% das vítimas dos policiais eram negras*
+
+>\[...]
+>
 No Distrito Federal, uma reportagem revelou orientações ilegais contidas
 em material utilizado no curso de formação de praças da PM. A Promotoria
 Militar do Ministério Público do Distrito Federal e Territórios pediu
 que a Corregedoria da Polícia Militar do DF abra investigação sobre a
 denúncia, feita pelo colunista do UOL, Chico Alves.
-
+>
 Numa apresentação de PowerPoint sobre disciplina, ética, chefia e
 liderança, conceitos teriam sido distorcidos para afirmar que, ao forjar
 um flagrante ou praticar pequena tortura, o policial estaria agindo
 corretamente.
 
-Disponível em:
-https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-03/policia-militar-do-piaui-quer-formacao-antirracista-dos-agentes.
-Acesso em: 03 mar. 2023.
+>\[...]
+
+\fonte{Gabriel Corrêa. Agência Brasil. Polícia Militar do Piauí quer formação antirracista dos agentes. Disponível em: _https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2023-03/policia-militar-do-piaui-quer-formacao-antirracista-dos-agentes_.
+Acesso em: 03 mar. 2023.}
 
 Em se tratando do gênero notícia, a forma verbal "teriam sido
 distorcidos" demonstra a intenção de
@@ -5262,10 +5225,14 @@ outro jornal.
 d\) amenizar a gravidade do fato, pois a distorção respeitou os limites
 da lei.
 
-Saeb: Analisar os efeitos de sentido decorrentes dos mecanismos de
+SAEB: Analisar os efeitos de sentido decorrentes dos mecanismos de
 construção de textos jornalísticos/midiáticos.
-
-BNCC: EF69LP43
+BNCC: EF69LP43 -- Identificar e utilizar os modos de introdução de outras vozes no texto – citação literal e sua formatação e paráfrase –, as pistas linguísticas responsáveis por introduzir no texto a
+posição do autor e dos outros autores citados (“Segundo X; De acordo com Y; De minha/nossa
+parte, penso/amos que”...) e os elementos de normatização (tais como as regras de inclusão e
+formatação de citações e paráfrases, de organização de referências bibliográficas) em textos
+científicos, desenvolvendo reflexão sobre o modo como a intertextualidade e a retextualização
+ocorrem nesses textos.
 
 \(A\) Incorreta. A forma verbal está conjugada no futuro do pretérito,
 que expressa dúvida e hipótese, o que, portanto, opõe-se à ideia de que
@@ -5289,25 +5256,24 @@ dos conceitos como algo ilegal, por deturpar as orientações dadas a
 policiais num curso de formação, e a notícia manteve o tom de gravidade
 da prática.
 
-\num{10}
+\num{10} Leia o texto.
 
-VERA -- (sentando-se pensativa) Algo de ruim aconteceu a ele. Pode até
+>VERA -- (sentando-se pensativa) Algo de ruim aconteceu a ele. Pode até
 estar morto! Oh, Michael, estou tão angustiada com Dmitri.
 
-MICHAEL -- Nunca vai amar outra pessoa além dele?
+>MICHAEL -- Nunca vai amar outra pessoa além dele?
 
-VERA -- (sorrindo) Não sei. Há muitas outras coisas para fazer no mundo
+>VERA -- (sorrindo) Não sei. Há muitas outras coisas para fazer no mundo
 além de amar.
 
-MICHAEL -- Nada mais vale a pena, Vera.
+>MICHAEL -- Nada mais vale a pena, Vera.
 
-PETER -- Que barulho é este, Vera? (ouve-se um ruído metálico)
+>PETER -- Que barulho é este, Vera? (ouve-se um ruído metálico)
 
-VERA -- (levantando-se e indo até a porta) Não sei, pai. Não se parece
+>VERA -- (levantando-se e indo até a porta) Não sei, pai. Não se parece
 com sinos de gado, senão poderia ser Nicholas retornando da feira.
 
-WILDE, Oscar. *Teatro completo*. Tradução de Doris Goettems. São Paulo:
-Editora Landmark, 2011 (fragmento).
+\fonte{Oscar Wilde. *Teatro completo*. São Paulo: Landmark, 2011.}
 
 O que caracteriza o texto como peça teatral é a presença de
 
@@ -5315,21 +5281,19 @@ a\) rubricas com instruções de interpretação da cena.
 
 b\) emoções subjetivas dos personagens, como a angústia.
 
-c\) indicações do tempo e espaço em que se passa a história.
+c\) indicações do tempo e do espaço em que se passa a história.
 
 d\) discurso indireto em que as falas são reproduzidas pelo narrador.
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
-
-BNCC: EF69LP47
 
 \(A\) Correta. As instruções de interpretação são características da
 estrutura do texto teatral e servem para orientar os atores sobre o que
-fazer na hora da encenação. Essas rubricas são colocadas entre
+fazer no momento da encenação. Essas rubricas são colocadas entre
 parênteses, isoladas das falas dos personagens.
 
-\(B\) Incorreta. A peça teatral, por ser do gênero dramático, conta com
+\(B\) Incorreta. A peça teatral conta com
 apelo às emoções, mas isso não é característica estrutural do texto.
 
 \(C\) Incorreta. O trecho transcrito não faz referência a tempo e
@@ -5339,16 +5303,11 @@ espaço.
 personagens, isto é, em discurso direto. O narrador pode aparecer
 eventualmente, mas não reproduz falas de personagens.
 
-\num{11}
+\num{11} Leia o texto
 
-Mito 04: "Português é muito difícil": os estudantes, principalmente,
-utilizam essa afirmação (falsa!) para se referirem às** **regras da
-modalidade linguística aprendida na escola**,** e não ao uso real que
-fazem do português. Afinal, eles se comunicam usando essa língua, não é
-mesmo?
+>Segundo Marcos Bagno, os estudantes afirmam falsamente que o português é muito difícil, mas estão se referindo apenas às regras da modalidade linguística aprendida na escola. Esquecem-se do uso real que eles mesmos fazem da língua no dia a dia.
 
-BAGNO, Marcos. *Preconceito Linguístico*: o que é, como se faz. Editora
-Parábola, 1999 (fragmento).
+\fonte{Texto escrito para este material.}
 
 O autor considera ser falsa a afirmação de que o português é uma língua
 difícil. Para ele, o mito do português como língua difícil surgiu porque
@@ -5365,14 +5324,14 @@ ensinada na escola.
 d\) as pessoas pensam que a língua se limita às regras gramaticais
 ensinadas na escola.
 
-Saeb: Avaliar a adequação das variedades linguísticas em contextos de
+SAEB: Avaliar a adequação das variedades linguísticas em contextos de
 uso.
-
-BNCC: EF69LP55
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de
+preconceito linguístico.
 
 \(A\) Incorreta. O autor não faz juízo de valor sobre o ensino de
 gramática na escola. Ele apenas afirma que a escola ensina a modalidade
-padrão, e que as pessoas é que erram ao pensar que essa modalidade é a
+padrão e que as pessoas é que erram ao pensar que essa modalidade é a
 única possibilidade na língua.
 
 \(B\) Incorreta. A suposta dificuldade dos estudantes em português não
@@ -5391,36 +5350,35 @@ não fazem essa distinção e acabam afirmando levianamente que o português
 é difícil, porque reduzem a língua, em todos os seus usos, àquela
 modalidade ensinada na escola.
 
-\num{12}
+\num{12} Leia o texto.
 
+>**Eu sei, mas não devia**
+>
 A gente se acostuma a morar em apartamentos de fundos e a não ter outra
 vista que não as janelas ao redor. E, porque não tem vista, logo se
 acostuma a não olhar para fora. E, porque não olha para fora, logo se
 acostuma a não abrir de todo as cortinas. E, porque não abre as
 cortinas, logo se acostuma a acender mais cedo a luz. \[\...\]
 
-COLASANTI, Marina. *Eu sei, mas não devia*. Rio de Janeiro: Rocco, 1996
-(fragmento).
+\fonte{Marina Colasanti. *Eu sei, mas não devia*. Rio de Janeiro: Rocco, 1996.}
 
 A repetição de certas palavras no texto contribui para a progressão
 textual ao
 
-a\) narrar a rotina da autora, do começo ao fim do dia.
+a\) narrar a rotina da narradora, do começo ao fim do dia.
 
-b\) justificar a preferência da autora por morar numa casa.
+b\) justificar a preferência da narradora por morar numa casa.
 
 c\) descrever ações realizadas, na ordem em que ocorreram.
 
 d\) enumerar situações que são consequências umas das outras.
 
-Saeb: Analisar os mecanismos que contribuem para a progressão textual.
-
-BNCC: EF08LP15
+SAEB: Analisar os mecanismos que contribuem para a progressão textual.
 
 \(A\) Incorreta. As situações retratadas no texto não são de caráter
 temporal.
 
-\(B\) Incorreta. A autora não expressa preferência, apenas se conforma
+\(B\) Incorreta. A narradora não expressa preferência, mas se conforma
 com as situações que acontecem a quem mora em apartamento.
 
 \(C\) Incorreta. O texto não narra ações ordenadas no tempo, pois não há
@@ -5428,43 +5386,42 @@ marcadores temporais.
 
 \(D\) Correta. Cada ação citada causa a situação seguinte, o que é
 marcado pela conjunção "porque", e todas as ações são consequência da
-ação principal que é morar em apartamento.
+ação principal, que é morar em apartamento.
 
-\num{13}
+\num{13} Leia o texto.
 
-TÍTULO I
+>**Constituição da República Federativa do Brasil de 1988**
 
-Dos Princípios Fundamentais
+>TÍTULO I
 
-Art. 1º A República Federativa do Brasil, formada pela união
+>Dos princípios fundamentais
+
+>Art. 1º A República Federativa do Brasil, formada pela união
 indissolúvel dos Estados e Municípios e do Distrito Federal,
 constitui-se em Estado Democrático de Direito e tem como fundamentos:
 
-I - a soberania;
+>I -- a soberania;
 
-II - a cidadania;
+>II -- a cidadania;
 
-\[\...\]
+>\[\...\]
 
-Art. 2º São Poderes da União, independentes e harmônicos entre si, o
+>Art. 2º São Poderes da União, independentes e harmônicos entre si, o
 Legislativo, o Executivo e o Judiciário.
 
-Art. 3º Constituem objetivos fundamentais da República Federativa do
+>Art. 3º Constituem objetivos fundamentais da República Federativa do
 Brasil:
 
-I - construir uma sociedade livre, justa e solidária;
+>I -- construir uma sociedade livre, justa e solidária;
 
-II - garantir o desenvolvimento nacional;
+>II -- garantir o desenvolvimento nacional;
 
-\[\...\]
+>\[\...\]
 
-Disponível em:
-https://www.planalto.gov.br/ccivil\_03/constituicao/constituicaocompilado.htm.
+\fonte{Presidência da República. Planalto. Constituição da República Federativa do Brasil de 1988. Disponível em: _https://www.planalto.gov.br/ccivil\_03/constituicao/constituicaocompilado.htm_. Acesso em: 03 mar. 2023.}
 
-Acesso em: 03 mar. 2023.
-
-O texto de lei apresenta uma organização textual própria. O trecho
-transcrito da Constituição é exemplar do gênero lei, pois
+O texto de lei apresenta uma organização textual própria. Nesse sentido, o trecho
+transcrito da Constituição é exemplar do gênero, pois
 
 a\) determina as obrigações a serem cumpridas pelos cidadãos.
 
@@ -5474,10 +5431,16 @@ c\) estrutura os assuntos em artigos, elemento básico do gênero.
 
 d\) narra a evolução do país até se tornar uma república federativa.
 
-Saeb: Identificar formas de organização de textos normativos, legais
+SAEB: Identificar formas de organização de textos normativos, legais
 e/ou reinvindicatórios.
-
-BNCC: EF69LP20
+BNCC: EF69LP20 -- Identificar, tendo em vista o contexto de produção, a forma de organização dos textos
+normativos e legais, a lógica de hierarquização de seus itens e subitens e suas partes: parte inicial
+(título – nome e data – e ementa), blocos de artigos (parte, livro, capítulo, seção, subseção), artigos
+(caput e parágrafos e incisos) e parte final (disposições pertinentes à sua implementação) e analisar
+efeitos de sentido causados pelo uso de vocabulário técnico, pelo uso do imperativo, de palavras
+e expressões que indicam circunstâncias, como advérbios e locuções adverbiais, de palavras
+que indicam generalidade, como alguns pronomes indefinidos, de forma a poder compreender o
+caráter imperativo, coercitivo e generalista das leis e de outras formas de regulamentação.
 
 \(A\) Incorreta. As leis costumam impor obrigações, mas isso não é fator
 preponderante na organização textual do gênero.
@@ -5487,15 +5450,16 @@ não é fator preponderante da organização do texto de lei. O texto da
 Constituição transcrito não apresenta jargão jurídico que limite a
 compreensão.
 
-\(C\) Incorreta. A estrutura do texto de lei tem como elemento básico o
+\(C\) Correta. A estrutura do texto de lei tem como elemento básico o
 artigo, que organiza a divisão dos assuntos a serem tratados. O texto de
 lei é identificável facilmente por essa característica estrutural.
 
-\(D\) Incorreta. O texto de lei não é narrativo, ou seja, não conta uma
-história.
+\(D\) Incorreta. O texto de lei não é narrativo.
 
-**Texto para as questões 14 e 15.**
+Leia o texto para responder às questões 14 e 15.
 
+>**Vidas secas**
+>
 Vivia longe dos homens, só se dava bem com animais. Os seus pés duros
 quebravam espinhos e não sentiam a quentura da terra. Montado,
 confundia-se com o cavalo, grudava-se a ele. E falava uma linguagem
@@ -5507,13 +5471,9 @@ falava pouco. Admirava as palavras compridas e difíceis da gente da
 cidade, tentava reproduzir algumas em vão, mas sabia que elas eram
 inúteis e talvez perigosas.
 
-*RAMOS, Graciliano. Vidas secas. Rio de Janeiro: Record, 2013
-(fragmento).*
+\fonte{Graciliano Ramos. Vidas secas. Rio de Janeiro: Record, 2013.}
 
-\num{14}
-
-A descrição física e psicológica do personagem contribui caracterizá-lo
-como alguém
+\num{14} A descrição física e psicológica do personagem contribui para caracterizá-lo como alguém
 
 a\) tolo.
 
@@ -5523,10 +5483,19 @@ c\) analfabeto.
 
 d\) mal-humorado.
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
-
-BNCC: EF69LP47
+BNCC: EF69LP47 -- Analisar, em textos narrativos ficcionais, as diferentes formas de composição
+próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam
+suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos
+verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados,
+identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero,
+da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das
+diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso
+de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de
+recursos linguístico-gramaticais próprios a cada gênero narrativo.
 
 \(A\) Incorreta. A descrição do personagem demonstra que ele não é tolo,
 pois consegue distinguir sua linguagem simples da linguagem mais
@@ -5546,9 +5515,7 @@ a falta de conhecimento das letras o fio condutor do texto.
 língua com que se dirige aos brutos, isso não é sinônimo de mau humor, e
 sim de uma forma austera de tratamento.
 
-\num{15}
-
-Em "Na verdade falava pouco", o narrador introduz uma
+\num{15} Em "Na verdade falava pouco", o narrador introduz uma
 
 a\) conclusão.
 
@@ -5558,9 +5525,8 @@ c\) exemplificação.
 
 d\) particularização.
 
-Saeb: Identificar os recursos de modalização em textos diversos.
-
-BNCC: EF08LP16
+SAEB: Identificar os recursos de modalização em textos diversos.
+BNCC: EF08LP16 -- Explicar os efeitos de sentido do uso, em textos, de estratégias de modalização e argumentatividade (sinais de pontuação, adjetivos, substantivos, expressões de grau, verbos e perífrases verbais, advérbios etc.).
 
 \(A\) Incorreta. Não há sentido de conclusão no trecho em questão.
 
@@ -5571,9 +5537,7 @@ leitor uma visão mais apurada do perfil do personagem descrito.
 
 \(D\) Incorreta. Não há particularização no trecho.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**[SIMULADO 4]{.underline}**
+#Simulado 4
 
 \num{1}
 
