@@ -5539,22 +5539,21 @@ leitor uma visão mais apurada do perfil do personagem descrito.
 
 #Simulado 4
 
-\num{1}
+\num{1} Leia o texto.
 
-**Campus Party: reciclagem de lixo eletrônico dá origem a projetos
+>**Campus Party: reciclagem de lixo eletrônico dá origem a projetos
 sociais**
-
+>
 A cada dia surgem novos modelos de computadores, smartphones, câmeras
 digitais e outros diversos produtos eletrônicos. A velocidade dos
 lançamentos e atualizações faz com que esses equipamentos se tornem
 obsoletos rapidamente, e assim cresce a demanda por uma destinação
 correta para o lixo eletrônico. Projetos que atuam na reutilização
-desses objetos estão sendo apresentados na Campus Party Brasília, que é
-realizada até este sábado (17).
+desses objetos estão sendo apresentados na Campus Party Brasília \[...].
 
-Disponível em:
-https://agenciabrasil.ebc.com.br/pesquisa-e-inovacao/noticia/2017-06/campus-party-reciclagem-de-lixo-eletronico-da-origem-projetos.
-Acesso em: 08 mar. 2023 (fragmento).
+\fonte{Ana Elisa Santana. Agência Brasil. Campus Party: reciclagem de lixo eletrônico dá origem a projetos sociais. Disponível em:
+_https://agenciabrasil.ebc.com.br/pesquisa-e-inovacao/noticia/2017-06/campus-party-reciclagem-de-lixo-eletronico-da-origem-projetos_.
+Acesso em: 08 mar. 2023.}
 
 Da leitura do texto, depreende-se que a grande quantidade gerada de lixo
 eletrônico tem como causa
@@ -5565,21 +5564,19 @@ tecnológicas.
 b\) o descarte dos equipamentos eletrônicos de forma incorreta no meio
 ambiente.
 
-c\) a qualidade baixa dos equipamentos eletrônicos que leva a uma curta
+c\) a qualidade baixa dos equipamentos eletrônicos, que leva a uma curta
 vida útil.
 
 d\) a falta de projetos sociais que possam dar uma destinação adequada
 aos eletrônicos.
 
-Saeb: Inferir informações implícitas em distintos textos.
-
-BNCC: não há correspondência
+SAEB: Inferir informações implícitas em distintos textos.
 
 \(A\) Correta. Os eletrônicos se tornam obsoletos devido aos lançamentos
 cada vez mais frequentes de produtos mais atualizados com inovações
-tecnológicas mais avançadas, levando as pessoas a comprarem novos
+tecnológicas, levando as pessoas a comprarem novos
 equipamentos sem necessidade, simplesmente para se manterem atualizadas
-com essas inovações, inutilizando o equipamento "antigo".
+com essas inovações, inutilizando o equipamento anterior.
 
 \(B\) Incorreta. A alternativa descreve não uma causa, mas uma possível
 consequência da grande quantidade de lixo eletrônico, que não conta com
@@ -5593,26 +5590,24 @@ com o lançamento de inovações tecnológicas.
 \(D\) Incorreta. A geração de lixo eletrônico independe da existência de
 projetos sociais de destinação adequada e reutilização dos eletrônicos.
 
-\num{2}
+\num{2} Leia o texto.
 
-**Obesidade infantil é tema do programa Salto para o Futuro**
-
+>**Obesidade infantil é tema do programa Salto para o Futuro**
+>
 Um dos problemas de saúde pública mais preocupantes atualmente, a
 obesidade infantil, será o tema da próxima edição do programa *Salto
 para o Futuro*, nesta quarta-feira, 18, às 20h, na TV Escola. A escolha
 da matéria não acontece por acaso, uma vez que a Organização Mundial de
-Saúde (OMS), em seu estudo mais recente de outubro de 2017, apontou um
+Saúde (OMS), em seu estudo mais recente, de outubro de 2017, apontou um
 total de 124 milhões de crianças e adolescentes obesos em todo o mundo.
-
+>
 \[\...\]
-
+>
 As causas da doença e as medidas para evitar que crianças, adolescentes
 e jovens se tornem obesos são o foco desta edição do programa da TV
 Escola.
 
-Disponível em:
-http://portal.mec.gov.br/ultimas-noticias/33491-tv-escola/63021-obesidade-infantil-e-tema-do-programa-salto-para-o-futuro.
-Acesso em: 08 mar. 2023 (fragmento adaptado).
+\fonte{Ministério da Educação. Obesidade infantil é tema do programa Salto para o Futuro. Disponível em: _http://portal.mec.gov.br/ultimas-noticias/33491-tv-escola/63021-obesidade-infantil-e-tema-do-programa-salto-para-o-futuro_. Acesso em: 08 mar. 2023. (Adaptado.)}
 
 No último parágrafo, o termo "doença", além de retomar "obesidade
 infantil", adiciona-lhe um valor semântico. Nesse sentido, o termo
@@ -5628,9 +5623,8 @@ c\) relaciona-a aos dados estatísticos da Organização Mundial de Saúde.
 
 d\) chama o espectador a acompanhar a edição do programa divulgado.
 
-Saeb: Analisar os processos de referenciação lexical e pronominal.
-
-BNCC: EF08LP15
+SAEB: Analisar os processos de referenciação lexical e pronominal.
+BNCC: EF08LP15 -- Estabelecer relações entre partes do texto, identificando o antecedente de um pronome relativo ou o referente comum de uma cadeia de substituições lexicais.
 
 \(A\) Correta. O termo "doença" recategoriza a obesidade infantil como
 uma condição de saúde, trazendo-a para o horizonte de preocupação da
@@ -5640,45 +5634,42 @@ medicina.
 infantil uma informação de que, sendo doença, sua gravidade é relevante.
 
 \(C\) Incorreta. A referenciação promovida na relação entre os termos em
-questão não remete aos dados da OMS, citado no texto.
+questão não remete aos dados da OMS, citada no texto.
 
 \(D\) Incorreta. A referenciação promovida na relação entre os termos em
 questão não se relaciona diretamente com o convite feito ao espectador.
 
-\num{3}
+\num{3} Leia os textos.
 
 **TEXTO I**
 
-**Organização e segurança são destaques no carnaval de rua de São
+>**Organização e segurança são destaques no carnaval de rua de São
 Paulo**
 
-*Prévia de pesquisa entre os foliões de ruas aponta que a organização
+>*Prévia de pesquisa entre os foliões de ruas aponta que a organização
 teve aprovação de 96,3% com nota de 8,8, em escala de zero a dez. Já
 para o público que esteve no sambódromo, a nota final foi 9 (mais de 50%
 deram 10)*
 
-SECRETARIA ESPECIAL DE COMUNICAÇÃO, 23 fev. 2023. Disponível em:
-capital.sp.gov.br/noticia/organizacao-e-seguranca-sao-destaques-no-carnaval-de-rua-de-sao-paulo.
-Acesso em: 04 mar. 2023.
+\fonte{Secretaria Especial de Comunicação. Organização e segurança são destaques no carnaval de rua de São
+Paulo. Disponível em: _capital.sp.gov.br/noticia/organizacao-e-seguranca-sao-destaques-no-carnaval-de-rua-de-sao-paulo_. Acesso em: 04 mar. 2023.}
 
 **TEXTO II**
 
-**Mais de 3 mil celulares foram furtados durante o carnaval em SP**
+>**Mais de 3 mil celulares foram furtados durante o carnaval em SP**
 
-*Número é quase 40% inferior aos registrados de 2020*
+>*Número é quase 40% inferior aos registrados de 2020*
 
-Durante o período de carnaval foram registrados 3.486 roubos e furtos de
-celulares no estado de São Paulo, segundo balanço divulgado hoje (22)
+>Durante o período de carnaval foram registrados 3.486 roubos e furtos de
+celulares no estado de São Paulo, segundo balanço divulgado \[...]
 pela Secretaria de Segurança Pública de São Paulo.
 
-O número é quase 40% inferior à quantidade de registros de roubos e
+>O número é quase 40% inferior à quantidade de registros de roubos e
 furtos ocorridos no carnaval de 2020, quando foram feitos 5.450 boletins
 de ocorrência. O número também é inferior ao que foi registrado no
-carnaval de 2019, quando foram lavrados 5.471 boletins.
+carnaval de 2019, quando foram lavrados 5.471 boletins. \[...]
 
-AGÊNCIA BRASIL, 22 fev. 2023. Disponível em:
-https://agenciabrasil.ebc.com.br/geral/noticia/2023-02/mais-de-3-mil-celulares-foram-furtados-durante-o-carnaval-em-sp.
-Acesso em: 04 mar. 2023.
+\fonte{Patricia Cruz. Agência Brasil. Mais de 3 mil celulares foram furtados durante o carnaval em SP. Disponível em: _https://agenciabrasil.ebc.com.br/geral/noticia/2023-02/mais-de-3-mil-celulares-foram-furtados-durante-o-carnaval-em-sp_. Acesso em: 04 mar. 2023.}
 
 A aparente divergência entre as informações apresentadas nessas notícias
 é afastada
@@ -5691,14 +5682,12 @@ c\) pela credibilidade dos veículos.
 
 d\) pelo meio de circulação.
 
-Saeb: Avaliar a fidedignidade de informações sobre um mesmo fato
+SAEB: Avaliar a fidedignidade de informações sobre um mesmo fato
 divulgado em diferentes veículos e mídias.
-
-BNCC: não há correspondência
 
 \(A\) Incorreta. O gênero notícia não conta com conhecimento prévio do
 leitor sobre o fato relatado, pois sua finalidade é justamente trazer a
-informação e o leitor busca a notícia para se informar dos fatos.
+informação, e o leitor busca a notícia para se informar dos fatos.
 
 \(B\) Correta. As duas notícias abordam o mesmo fato sob enfoques
 diferentes: uma apresenta uma pesquisa de opinião sobre a segurança no
@@ -5714,20 +5703,16 @@ sobre as informações, pois estas são de caráter quantitativo.
 foram publicadas na internet, mas não se trata de um fator que ajude a
 esclarecer possíveis dúvidas sobre as informações.
 
-**Texto para as questões 4 e 5.**
+Leia o texto, parte de um anúncio da campanha de vacinação contra a poliomielite do Ministério da Saúde, para responder às questões 4 e 5.
 
-![Texto Descrição gerada
-automaticamente](./imgSAEB_8_POR/media/image39.jpeg){width="2.1287871828521436in"
-height="2.8333333333333335in"}
+>**Mostre a língua para a paralisia infantil**
 
-Disponível em: https://bvsms.saude.gov.br/bvs/folder/10006001944.pdf.
+>15 de agosto -- Dia da vacinação
 
-Acesso em: 09 mar. 2023 (adaptado).
+>Vacine seu filho menor de 5 anos, mesmo que ele já tenha sido vacinado.
 
-\num{4}
 
-A campanha, na linguagem verbal e não verbal, busca ganhar a adesão do
-público por meio da ênfase
+\num{4} A campanha busca ganhar a adesão do público por meio da ênfase
 
 a\) na data da vacinação.
 
@@ -5737,47 +5722,49 @@ d\) no método de vacinação.
 
 c\) no público da vacinação.
 
-Saeb: Identificar elementos constitutivos de textos pertencentes ao
+SAEB: Identificar elementos constitutivos de textos pertencentes ao
 domínio jornalístico/midiático.
+BNCC: EF69LP02 -- Analisar e comparar peças publicitárias variadas (cartazes, folhetos, outdoor, anúncios e
+propagandas em diferentes mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação entre
+elas em campanhas, as especificidades das várias semioses e mídias, a adequação dessas peças ao
+público-alvo, aos objetivos do anunciante e/ou da campanha e à construção composicional e estilo
+dos gêneros em questão, como forma de ampliar suas possibilidades de compreensão (e produção)
+de textos pertencentes a esses gêneros.
 
-BNCC: EF69LP02
-
-\(A\) Incorreta. A data é uma informação secundária, pois está
-posicionada num local de pouco destaque e com fonte pequena, menor que a
-dor texto principal, além de não estar relacionada com a linguagem não
-verbal.
+\(A\) Incorreta. A data é uma informação secundária.
 
 \(B\) Incorreta. O motivo da vacinação é a proteção contra a paralisia
-infantil, mas seu caráter é meramente informativo, não estabelecendo
-relação com a linguagem não verbal.
+infantil, mas seu caráter é meramente informativo.
 
-\(C\) Correta. O texto se relaciona com a fotografia para enfatizar o
-método de aplicação que ocorre por via oral, uma vez que o público é o
+\(C\) Correta. O texto serve para enfatizar o
+método de aplicação, que ocorre por via oral, uma vez que o público é o
 infantil, que teme a aplicação de injeção.
 
-\(D\) Incorreta. A referência ao público no texto e na fotografia cumpre
+\(D\) Incorreta. A referência ao público cumpre
 apenas um caráter informativo.
 
-\num{5}
-
-Textos publicitários utilizam diferentes recursos na construção da
+\num{5} Textos publicitários utilizam diferentes recursos na construção da
 mensagem. Na campanha apresentada, o recurso utilizado é
 
 a\) a imparcialidade, para evitar influenciar a adesão do público.
 
-b\) o efeito humorístico, gerado pela pose da criança na fotografia.
+b\) o efeito humorístico, gerado pelo trocadilho do texto principal.
 
 c\) a duplicidade de sentidos, como na expressão "mostre a língua".
 
 d\) a linguagem literal, privilegiando o sentido denotativo das
 palavras.
 
-Saeb: Identificar elementos constitutivos de textos pertencentes ao
+SAEB: Identificar elementos constitutivos de textos pertencentes ao
 domínio jornalístico/midiático.
+BNCC: EF69LP02 -- Analisar e comparar peças publicitárias variadas (cartazes, folhetos, outdoor, anúncios e
+propagandas em diferentes mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação entre
+elas em campanhas, as especificidades das várias semioses e mídias, a adequação dessas peças ao
+público-alvo, aos objetivos do anunciante e/ou da campanha e à construção composicional e estilo
+dos gêneros em questão, como forma de ampliar suas possibilidades de compreensão (e produção)
+de textos pertencentes a esses gêneros.
 
-BNCC: EF69LP02
-
-\(A\) Incorreta. Pelo contrário, a intenção é influenciar o público a
+\(A\) Incorreta. A intenção é influenciar o público a
 tomar a vacina.
 
 \(B\) Incorreta. Não há efeito humorístico no texto.
@@ -5789,9 +5776,11 @@ sentido figurado de desdenhar da doença.
 \(D\) Incorreta. O texto da campanha apresenta um jogo entre os sentidos
 figurado e literal, como na expressão "mostre a língua".
 
-\num{6}
+\num{6} Leia o texto.
 
-Passava das 11 horas da noite quando Bento deixou a fazendo do compadre
+>**O enigma das estrelas**
+>
+Passava das 11 horas da noite quando Bento deixou a fazenda do compadre
 Chico em sua velha caminhonete vermelha. Estava a pouco menos de vinte
 quilômetros de sua casa. Conhecia o caminho como a palma da mão. Os
 primeiros cinco quilômetros eram asfaltados. O resto parecia uma
@@ -5800,8 +5789,7 @@ montanha-russa de terra batida, repleta de pedregulhos. Ao passar pela
 dormir ao volante. Perdera o melhor amigo em um acidente naquele mesmo
 trajeto.
 
-FARAH, F.T. *O enigma das estrelas.* São Paulo: Geração Editorial, 2013
-(fragmento).
+\fonte{F. T. Farah. *O enigma das estrelas*. São Paulo: Geração Editorial, 2013.}
 
 Há sentido figurado em
 
@@ -5813,16 +5801,25 @@ c\) "Estava a pouco menos de vinte quilômetros de sua casa".
 
 d\) "Perdera o melhor amigo em um acidente naquele mesmo trajeto".
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
-
-BNCC: EF69LP47
+BNCC: EF69LP47 -- Analisar, em textos narrativos ficcionais, as diferentes formas de composição
+próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam
+suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos
+verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados,
+identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero,
+da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das
+diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso
+de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de
+recursos linguístico-gramaticais próprios a cada gênero narrativo.
 
 \(A\) Incorreta. Trata-se de uma caracterização física da via em que
 transitava o rapaz.
 
 \(B\) Correta. A alusão à montanha-russa, um brinquedo que se move por
-trilhos irregulares de subida e descidas, no parque de diversões, remete
+trilhos irregulares de subida e descida, no parque de diversões, remete
 à péssima condição da estrada, possivelmente esburacada e muito
 irregular.
 
@@ -5832,13 +5829,13 @@ distância.
 \(D\) Incorreta. Trata-se de uma referência à morte do amigo que
 percorria aquele trajeto.
 
-\num{7}
+\num{7} Leia o texto.
 
-Era uma O ônibus Greyhound fez sua parada regular em Meade, Ohio, uma
+>**O mal nosso de cada dia**
+>
+\[...] O ônibus Greyhound fez sua parada regular em Meade, Ohio, uma
 insignificante cidade produtora de papel a uma hora ao sul de Columbus
-que cheirava a ovo podre. Forasteiros
-
-reclamavam do fedor, mas os moradores gostavam de se vangloriar de que
+que cheirava a ovo podre. Forasteiros reclamavam do fedor, mas os moradores gostavam de se vangloriar de que
 aquele era o doce aroma do dinheiro. O motorista, um homem simplório e
 atarracado que usava sapatos com salto e uma gravata borboleta frouxa,
 parou no beco ao lado da estação e anunciou uma parada de quarenta
@@ -5849,14 +5846,11 @@ de longe a estrutura mais alta naquela parte do estado, arrotava mais
 uma nuvem marrom e suja. Era possível vê-la por quilômetros, soprando
 como um vulcão prestes a estourar seu topo estreito.
 
-\[\...\]
+>\[\...\]
 
-POLLOCK, Donald Ray. *O mal nosso de cada dia*. Tradução de Paulo
-Raviere. Rio de janeiro:
+Donald Ray Pollock. *O mal nosso de cada dia*. Rio de janeiro: DarkSide Books, 2020.
 
-DarkSide Books, 2020.
-
-Pelo conteúdo do texto, e sabendo que se trata de uma narrativa, pode-se
+Pelo conteúdo do texto, que é trecho de uma narrativa, pode-se
 reconhecer que esse parágrafo apresenta
 
 a\) o desfecho, que introduz a resolução do problema surgido na
@@ -5868,13 +5862,21 @@ história.
 c\) a situação inicial, que introduz o tempo, o espaço e os personagens
 da história.
 
-d\) o clímax, que introduz as tensões entre os personagens e
-reviravoltas na história.
+d\) o clímax, que introduz as tensões entre os personagens e as reviravoltas na história.
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
-
-BNCC: EF69LP47
+BNCC: EF69LP47 -- Analisar, em textos narrativos ficcionais, as diferentes formas de composição
+próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam
+suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos
+verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados,
+identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero,
+da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das
+diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso
+de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de
+recursos linguístico-gramaticais próprios a cada gênero narrativo.
 
 \(A\) Incorreta. Não se trata de desfecho, pois o leitor é apresentado à
 situação inicial da história.
@@ -5882,16 +5884,15 @@ situação inicial da história.
 \(B\) Incorreta. Não se trata de desfecho, pois o leitor é apresentado à
 situação inicial da história.
 
-\(C\) Correta. O leitor é apresentado às personagens -- como o motorista
-e o narrador --, ao espaço -- uma cidade "produtora de papel a uma hora
-ao sul de Columbus que cheirava a ovo podre" -- e ao tempo -- "tarde de
-quarta-feira do outono de 1945, não muito depois do fim da guerra".
+\(C\) Correta. O leitor é apresentado às personagens, ao espaço e ao tempo.
 
 \(D\) Incorreta. Não se trata de desfecho, pois o leitor é apresentado à
 situação inicial da história.
 
-**Texto para as questões 8 e 9.**
+Leia o texto para responder às questões 8 e 9.
 
+>**Dom Casmurro**
+>
 Uma noite destas, vindo da cidade para o Engenho Novo, encontrei no trem
 da Central um rapaz aqui do bairro, que eu conheço de vista e de chapéu.
 Cumprimentou-me, sentou-se ao pé de mim, falou da Lua e dos ministros, e
@@ -5900,13 +5901,13 @@ não fossem inteiramente maus. Sucedeu, porém, que, como eu estava
 cansado, fechei os olhos três ou quatro vezes; tanto bastou para que ele
 interrompesse a leitura e metesse os versos no bolso.
 
---- Continue, disse eu acordando.
+>--- Continue, disse eu acordando.
 
---- Já acabei, murmurou ele.
+>--- Já acabei, murmurou ele.
 
---- São muito bonitos.
+>--- São muito bonitos.
 
-Vi-lhe fazer um gesto para tirá-los outra vez do bolso, mas não passou
+>Vi-lhe fazer um gesto para tirá-los outra vez do bolso, mas não passou
 do gesto; estava amuado. No dia seguinte entrou a dizer de mim nomes
 feios, e acabou alcunhando-me Dom Casmurro. Os vizinhos, que não gostam
 dos meus hábitos reclusos e calados, deram curso à alcunha, que afinal
@@ -5914,12 +5915,9 @@ pegou. Nem por isso me zanguei. Contei a anedota aos amigos da cidade, e
 eles, por graça, chamam-me assim, alguns em bilhetes: "Dom Casmurro,
 domingo vou jantar com você". \[\...\]
 
-ASSIS, Machado de. *Dom Casmurro*. Rio de Janeiro: Nova Aguilar, 1994
-(fragmento).
+\fonte{Machado de Assis. *Dom Casmurro*. Rio de Janeiro: Nova Aguilar, 1994.}
 
-\num{8}
-
-O narrador considera ser uma anedota a situação que vivenciou com um
+\num{8} O narrador considera ser uma anedota a situação que vivenciou com um
 rapaz no trem. A situação pode ser considerada engraçada porque
 
 a\) a conversa entre o narrador e o rapaz abordou diferentes assuntos.
@@ -5932,12 +5930,21 @@ vista.
 d\) o cansaço do narrador foi confundido com falta de interesse no
 poema.
 
-Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
+SAEB: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
 crítica.
+BNCC: EF69LP47 -- Analisar, em textos narrativos ficcionais, as diferentes formas de composição
+próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam
+suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos
+verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados,
+identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero,
+da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das
+diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso
+de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de
+recursos linguístico-gramaticais próprios a cada gênero narrativo.
 
-BNCC: EF69LP05
-
-\(A\) Incorreta. Não se trata de situação gerador de humor na história.
+\(A\) Incorreta. Não se trata de situação geradora de humor na história.
 
 \(B\) Incorreta. O rapaz interrompeu a leitura e guardou os versos como
 forma de protestar contra o narrador, que não lhe deu a atenção
@@ -5947,12 +5954,10 @@ desejada.
 pelo cansaço.
 
 \(D\) Correta. O narrador cochilou durante a conversa, o que deixou o
-rapaz indignado. Entretanto, ele não percebeu que se tratou de cansaço e
+rapaz indignado. Entretanto, ele não percebeu que se tratou de cansaço, e
 não de indiferença.
 
-\num{9}
-
-De acordo com o contexto, o uso da expressão "fechei os olhos três ou
+\num{9} De acordo com o contexto, o uso da expressão "fechei os olhos três ou
 quatro vezes" teve o objetivo de
 
 a\) diminuir a importância do motivo causador da indignação do rapaz.
@@ -5964,10 +5969,14 @@ c\) indicar a quantidade de vezes que dormiu ao longo da conversa.
 
 d\) justificar sua indiferença em relação ao poema lido pelo rapaz.
 
-Saeb: Analisar os efeitos de sentido produzidos pelo uso de
+SAEB: Analisar os efeitos de sentido produzidos pelo uso de
 modalizadores em textos diversos.
 
-BNCC: EF08LP16
+BNCC: EF08LP16 -- Explicar os efeitos de sentido do
+uso, em textos, de estratégias de modalização
+e argumentatividade (sinais de pontuação,
+adjetivos, substantivos, expressões de grau,
+verbos e perífrases verbais, advérbios etc.).
 
 \(A\) Correta. O narrador nega que dormiu durante a conversa e considera
 que o rapaz exagerou em sua indignação. Para isso, ele se refere ao ato
@@ -5978,7 +5987,7 @@ que nem foi motivo suficiente para tamanha indignação do rapaz.
 motivo suficiente para a desistência do rapaz. Inclusive, o narrador
 nega ter cochilado.
 
-\(C\) Incorreta. A fala "fechei os olhos três ou quatro vezes" é carrega
+\(C\) Incorreta. A fala "fechei os olhos três ou quatro vezes" é carregada
 de força de expressão, isto é, não expressa exatamente a quantidade de
 vezes que o narrador dormiu.
 
@@ -5986,16 +5995,16 @@ vezes que o narrador dormiu.
 atenção no rapaz foi o cansaço, pois ele nega que tenha sido indiferente
 ao poema do rapaz.
 
-\num{10}
+\num{10} Leia o texto.
 
-**O goleiro**
+>**O goleiro**
 
-Também chamado de porteiro, guarda-metas, arqueiro, guardião, golquíper
+>Também chamado de porteiro, guarda-metas, arqueiro, guardião, golquíper
 ou guarda-valas, mas poderia muito bem ser chamado de mártir, vítima,
 saco de pancadas, eterno penitente ou favorito das bofetadas. Dizem que
 onde ele pisa, nunca mais cresce a grama. \[\...\]
 
-Os outros jogadores podem errar feio uma vez, muitas vezes, mas se
+>Os outros jogadores podem errar feio uma vez, muitas vezes, mas se
 redimem com um drible espetacular, um passe magistral, um tiro certeiro.
 Ele, não. A multidão não perdoa o goleiro. Saiu em falso? Catando
 borboleta? Deixou a bola escapar? Os dedos de aço se fizeram de seda?
@@ -6004,9 +6013,7 @@ e então o público esquece subitamente todas as suas façanhas e o condena
 à desgraça eterna. Até o fim de seus dias, será perseguido pela
 maldição.
 
-GALEANO, Eduardo. *Futebol ao sol e à sombra*. Tradução de Eric
-Nepomuceno e Maria do Carmo Brito. Porto Alegre: L&PM Pocket, 2014
-(fragmento).
+\fonte{E. Galeano. *Futebol ao sol e à sombra*. Porto Alegre: L&PM, 1995.}
 
 O texto aborda a profissão de goleiro com tom humorístico. O efeito de
 humor se manifesta por meio de
@@ -6019,12 +6026,22 @@ c\) desqualificação das habilidades do goleiro.
 
 d\) exaltação dos jogadores de linha.
 
-Saeb: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
+SAEB: Inferir, em textos multissemióticos, efeitos de humor, ironia e/ou
 crítica.
 
-BNCC: EF69LP05
+BNCC: EF69LP47 -- Analisar, em textos narrativos ficcionais, as diferentes formas de composição
+próprias de cada gênero, os recursos coesivos que constroem a passagem do tempo e articulam
+suas partes, a escolha lexical típica de cada gênero para a caracterização dos cenários e dos
+personagens e os efeitos de sentido decorrentes dos tempos verbais, dos tipos de discurso, dos
+verbos de enunciação e das variedades linguísticas (no discurso direto, se houver) empregados,
+identificando o enredo e o foco narrativo e percebendo como se estrutura a narrativa nos
+diferentes gêneros e os efeitos de sentido decorrentes do foco narrativo típico de cada gênero,
+da caracterização dos espaços físico e psicológico e dos tempos cronológico e psicológico, das
+diferentes vozes no texto (do narrador, de personagens em discurso direto e indireto), do uso
+de pontuação expressiva, palavras e expressões conotativas e processos figurativos e do uso de
+recursos linguístico-gramaticais próprios a cada gênero narrativo.
 
-\(A\) Correta. O goleiro é caracterizado de forme pejorativa, por
+\(A\) Correta. O goleiro é caracterizado de forme pejorativa. Por
 exemplo: vítima, saco de pancadas, eterno penitente ou favorito das
 bofetadas. Além disso, o exagero é expresso em "onde ele pisa, nunca
 mais cresce a grama" e "o condena à desgraça eterna. Até o fim de seus
@@ -6035,37 +6052,26 @@ discriminatórios no sentido de ofensa, embora pejorativos. O humor
 presente no texto é leve.
 
 \(C\) Incorreta. O goleiro é tido como um jogador confiável, como se
-percebe nos termos porteiro, guarda-metas, arqueiro, guardião, até que
-cometa um erro, pois segundo o autor ele pode perder a confiabilidade
-num único lance. Não se trata do efeito de humor do texto.
+percebe nos termos "porteiro", "guarda-metas", "arqueiro", "guardião", até que
+cometa um erro, pois, segundo o autor, ele pode perder a confiabilidade
+em um único lance. Não se trata do efeito de humor do texto.
 
-\(D\) Incorreta. Os jogadores de linha não são exaltados, eles são
+\(D\) Incorreta. Os jogadores de linha não são exaltados, mas são
 citados para fins de comparação do quanto um goleiro precisa fazer para
 ser reconhecido ou para recuperar esse reconhecimento perante a torcida.
 
-\num{11}
+\num{11} Os textos a seguir acompanham um produto eletrônico. Leia-os.
 
-**Manutenção**
+>**Cuidados com a manutenção**
 
-Aumente a vida útil do aparelho, limpe-o regularmente!
+>Estenda a vida útil do dispositivo realizando limpezas regulares!
 
-NOTA: Antes de iniciar a limpeza do equipamento desligue-o da tomada.
+>AVISO: Antes de começar a limpar o aparelho, certifique-se de desligá-lo da tomada.
 
-**Limpando a tela**
-
-\num{1} Molhe um pano macio em uma mistura de água morna com um pouco de
-detergente. Esprema bem o pano até que ele fique quase seco e então
-utilize-o em sua tela.
-
-\num{2} Para garantir que não exista resíduos líquidos na tela, deixe-a
-secar por alguns minutos e só depois ligue o aparelho na tomada.
-
-Disponível em:
-https://www.lg.com/br/products/documents/MFL59166617\_BBTV\_SERIES\_REV00.pdf.
-Acesso em: 10 mar. 2023 (fragmento).
+>Para a limpeza da tela, umedeça um pano macio em uma solução de água morna com um pouco de detergente. Certifique-se de remover o excesso de água do pano, deixando-o quase seco, e então passe-o suavemente na tela. Para garantir que não haja nenhum resíduo líquido na tela, deixe-a secar por alguns minutos antes de ligar o dispositivo novamente na tomada.
 
 Devido ao gênero a que pertence, o texto apresenta, em sua composição,
-verbos no imperativo que expressam o sentido de
+verbos no imperativo, que expressam o sentido de
 
 a\) comando, para que o usuário se sinta obrigado a limpar o
 equipamento.
@@ -6079,12 +6085,16 @@ equipamento.
 d\) convite, para que o leitor seja convencido a realizar a limpeza do
 equipamento.
 
-Saeb: Analisar os efeitos de sentido dos tempos, modos e/ou vozes
+SAEB: Analisar os efeitos de sentido dos tempos, modos e/ou vozes
 verbais com base no gênero textual e na intenção comunicativa.
 
-BNCC: EF08LP16
+BNCC: EF08LP16 -- Explicar os efeitos de sentido do
+uso, em textos, de estratégias de modalização
+e argumentatividade (sinais de pontuação,
+adjetivos, substantivos, expressões de grau,
+verbos e perífrases verbais, advérbios etc.).
 
-\(A\) Incorreta. Sendo o texto do gênero manual de instruções, o efeito
+\(A\) Incorreta. Sendo o texto um manual de instruções, o efeito
 de sentido do imperativo não é comando, pois é uma escolha do usuário
 cuidar do equipamento como queira, seguindo ou não o manual.
 
@@ -6098,76 +6108,78 @@ o caso de um apelo, pois privilegia a objetividade.
 \(D\) Incorreta. Sendo o texto do gênero manual de instruções, não se
 trata de convite.
 
-\num{12}
+\num{12} Leia os poemas.
 
 **TEXTO I**
 
-**Isto**
+>**Isto**
 
-Dizem que finjo ou minto
+>Dizem que finjo ou minto
 
-Tudo que escrevo. Não.
+>Tudo que escrevo. Não.
 
-Eu simplesmente sinto
+>Eu simplesmente sinto
 
-Com a imaginação.
+>Com a imaginação.
 
-Não uso o coração.
+>Não uso o coração.
 
-Tudo o que sonho ou passo,
 
-O que me falha ou finda,
+>Tudo o que sonho ou passo,
 
-É como que um terraço
+>O que me falha ou finda,
 
-Sobre outra coisa ainda.
+>É como que um terraço
 
-Essa coisa é que é linda.
+>Sobre outra coisa ainda.
 
-Por isso escrevo em meio
+>Essa coisa é que é linda.
 
-Do que não está ao pé,
 
-Livre do meu enleio,
+>Por isso escrevo em meio
 
-Sério do que não é.
+>Do que não está ao pé,
 
-Sentir? Sinta quem lê!
+>Livre do meu enleio,
 
-PESSOA, Fernando. Disponível em:
-http://arquivopessoa.net/typographia/textos/arquivopessoa-4250.pdf.
-Acesso em: 10 mar. 2023.
+>Sério do que não é.
+
+>Sentir? Sinta quem lê!
+
+\fonte{Fernando Pessoa. *Poesias*. Disponível em: _http://arquivopessoa.net/typographia/textos/arquivopessoa-4250.pdf_.
+Acesso em: 10 mar. 2023.}
 
 **TEXTO II**
 
-**Autopsicografia**
+>**Autopsicografia**
 
-O poeta é um fingidor
+>O poeta é um fingidor
 
-Finge tão completamente
+>Finge tão completamente
 
-Que chega a fingir que é dor
+>Que chega a fingir que é dor
 
-A dor que deveras sente.
+>A dor que deveras sente.
+>
 
-E os que leem o que escreve,
+>E os que leem o que escreve,
 
-Na dor lida sentem bem,
+>Na dor lida sentem bem,
 
-Não as duas que ele teve,
+>Não as duas que ele teve,
 
-Mas só a que eles não têm.
+>Mas só a que eles não têm.
+>
 
-E assim nas calhas de roda
+>E assim nas calhas de roda
 
-Gira, a entreter a razão,
+>Gira, a entreter a razão,
 
-Esse comboio de corda
+>Esse comboio de corda
 
-Que se chama coração.
+>Que se chama coração.
 
-PESSOA, Fernando. Disponível em: <http://arquivopessoa.net/textos/4234>.
-Acesso em: 10 mar. 2023.
+\fonte{Fernando Pessoa. *Poesias*. Disponível em: _http://arquivopessoa.net/textos/4234_. Acesso em: 10 mar. 2023.}
 
 Os dois poemas se relacionam intertextualmente por
 
@@ -6179,10 +6191,14 @@ c\) abordarem o mesmo tema: o fazer poético.
 
 d\) apresentarem a mesma estrutura de estrofes.
 
-Saeb: Analisar a intertextualidade entre textos literários ou entre
+SAEB: Analisar a intertextualidade entre textos literários ou entre
 estes e outros textos verbais ou não verbais.
 
-BNCC: F89LP32
+BNCC: F89LP32 -- Analisar os efeitos de sentido decorrentes do uso de mecanismos de
+intertextualidade (referências, alusões, retomadas) entre os textos literários, entre esses textos
+literários e outras manifestações artísticas (cinema, teatro, artes visuais e midiáticas, música),
+quanto aos temas, personagens, estilos, autores etc., e entre o texto original e paródias,
+paráfrases, pastiches, trailer honesto, vídeos-minuto, vidding, dentre outros.
 
 \(A\) Incorreta. Fernando Pessoa é autor de ambos os poemas, mas esse
 não é o ponto de intertextualidade, pois assim todos os poemas do autor
@@ -6197,38 +6213,40 @@ imaginação, enquanto o outro se inspira no sentimento.
 influenciam o poeta em seu fazer poético.
 
 \(D\) Incorreta. A intertextualidade é um fenômeno identificável no
-conteúdo e não na forma de textos.
+conteúdo, e não na forma de textos.
 
 \num{13}
 
-**Como nuvens pelo céu**
+>**Como nuvens pelo céu**
 
-Como nuvens pelo céu
+>Como nuvens pelo céu
 
-Passam os sonhos por mim.
+>Passam os sonhos por mim.
 
-Nenhum dos sonhos é meu
+>Nenhum dos sonhos é meu
 
-Embora eu os sonhe assim.
+>Embora eu os sonhe assim.
 
-São coisas no alto que são
 
-Enquanto a vista as conhece,
+>São coisas no alto que são
 
-Depois são sombras que vão
+>Enquanto a vista as conhece,
 
-Pelo campo que arrefece.
+>Depois são sombras que vão
 
-Símbolos? Sonhos? Quem torna
+>Pelo campo que arrefece.
 
-Meu coração ao que foi?
 
-Que dor de mim me transtorna?
+>Símbolos? Sonhos? Quem torna
 
-Que coisa inútil me dói?
+>Meu coração ao que foi?
 
-PESSOA, Fernando. Disponível em: http://arquivopessoa.net/textos/1063.
-Acesso em: 13 mar. 2023.
+>Que dor de mim me transtorna?
+
+>Que coisa inútil me dói?
+
+\fonte{Fernando Pessoa. *Poesias inéditas (1930-1935)*. Disponível em: _http://arquivopessoa.net/textos/1063_.
+Acesso em: 13 mar. 2023.}
 
 O eu lírico utiliza, em sua reflexão, uma comparação com as nuvens por
 sua característica de serem
@@ -6241,10 +6259,13 @@ c\) transitórias.
 
 d\) reconhecíveis.
 
-Saeb: Analisar elementos constitutivos de textos pertencentes ao domínio
+SAEB: Analisar elementos constitutivos de textos pertencentes ao domínio
 literário.
 
-BNCC: não há correspondência.
+BNCC: EF69LP44 -- Inferir a presença de valores sociais, culturais e humanos e de diferentes visões
+de mundo, em textos literários, reconhecendo nesses textos formas de estabelecer múltiplos
+olhares sobre as identidades, sociedades e culturas e considerando a autoria e o contexto social
+e histórico de sua produção.
 
 \(A\) Incorreta. As nuvens podem ser lúdicas, por apresentarem formas
 reconhecidas no mundo real, porém o caráter lúdico não é o que motivou
@@ -6259,20 +6280,19 @@ segundo ele, estes são passageiros, assim como as nuvens são
 transitórias.
 
 \(D\) Incorreta. As nuvens podem ser reconhecíveis, mas isso não é algo
-referido no poema. O eu lírico, ao contrário, não reconhece seus sonhos
+referido no poema. O eu lírico, ao contrário, não reconhece seus sonhos,
 porque são passageiros.
 
-\num{14}
+\num{14} Leia o texto.
 
-Assim como acontece em várias famílias brasileiras, na minha há uma
+>Assim como acontece em várias famílias brasileiras, na minha há uma
 prática comum: quem ascende socialmente numa capital (no caso, Salvador)
 acaba "puxando" os parentes do interior. No meu lado paterno, quem
 cumpriu esse papel foi Dindinha, tia-avó de meu pai. Ela, aliás, levou
 esse costume ao extremo: recebemos nada menos que dezenove sobrinhos na
 sua casa, no bairro da Federação.
 
-RAMOS, Lázaro. *Na minha pele*. 1.ed. Rio de Janeiro: Objetiva, 2017
-(fragmento).
+\fonte{Lázaro Ramos. *Na minha pele*. Rio de Janeiro: Objetiva, 2017.}
 
 Os termos "esse papel" e "esse costume" contribuem para a progressão
 textual ao evitarem repetição de palavras e
@@ -6285,9 +6305,12 @@ c\) anteciparem o que ainda vai ser dito.
 
 d\) retomarem o mesmo trecho antecedente.
 
-Saeb: Analisar os processos de referenciação lexical e pronominal.
+SAEB: Analisar os processos de referenciação lexical e pronominal.
 
-BNCC: EF08LP15
+BNCC: EF08LP15 -- Estabelecer relações entre partes
+do texto, identificando o antecedente de um
+pronome relativo ou o referente comum de
+uma cadeia de substituições lexicais.
 
 \(A\) Incorreta. Pelo contrário, os elementos citados promovem a
 manutenção do tema enquanto são adicionadas novas informações ao texto.
@@ -6295,58 +6318,62 @@ manutenção do tema enquanto são adicionadas novas informações ao texto.
 \(B\) Incorreta. A referenciação promovida pelos elementos citados é
 intratextual.
 
-\(C\) Incorreta. Os elementos citados são anafóricos, isto e´,
+\(C\) Incorreta. Os elementos citados são anafóricos, isto é,
 referem-se a termos anteriores a eles.
 
 \(D\) Correta. Os dois elementos citados evitam a repetição porque
 retomam um único trecho mesmo sendo formas linguísticas diferentes entre
 si. Eles retomam o seguinte trecho: "quem ascende socialmente numa
-capital acaba "puxando" os parentes do interior".
+capital acaba 'puxando' os parentes do interior".
 
-\num{15}
+\num{15} Leia o poema.
 
-Se eu pudesse trincar a terra toda
+>**XXI**
 
-E sentir-lhe um paladar,
+>Se eu pudesse trincar a terra toda
 
-Seria mais feliz um momento\...
+>E sentir-lhe um paladar,
 
-Mas eu nem sempre quero ser feliz.
+>Seria mais feliz um momento\...
 
-É preciso ser de vez em quando infeliz
+>Mas eu nem sempre quero ser feliz.
 
-Para se poder ser natural\...
+>É preciso ser de vez em quando infeliz
 
-Nem tudo é dias de sol,
+>Para se poder ser natural\...
 
-E a chuva, quando falta muito, pede-se.
 
-Por isso tomo a infelicidade com a felicidade
+>Nem tudo é dias de sol,
 
-Naturalmente, como quem não estranha
+>E a chuva, quando falta muito, pede-se.
 
-Que haja montanhas e planícies
+>Por isso tomo a infelicidade com a felicidade
 
-E que haja rochedos e erva\...
+>Naturalmente, como quem não estranha
 
-O que é preciso é ser-se natural e calmo
+>Que haja montanhas e planícies
 
-Na felicidade ou na infelicidade,
+>E que haja rochedos e erva\...
 
-Sentir como quem olha,
 
-Pensar como quem anda,
+>O que é preciso é ser-se natural e calmo
 
-E quando se vai morrer, lembrar-se de que o dia morre,
+>Na felicidade ou na infelicidade,
 
-E que o poente é belo e é bela a noite que fica\...
+>Sentir como quem olha,
 
-Assim é e assim seja\...
+>Pensar como quem anda,
 
-PESSOA, Fernando. Disponível em: http://arquivopessoa.net/textos/613.
-Acesso em: 19 mar. 2023.
+>E quando se vai morrer, lembrar-se de que o dia morre,
 
-O verso final do poema, "Assim é e assim seja\...", confirma a visão de
+>E que o poente é belo e é bela a noite que fica\...
+
+>Assim é e assim seja\...
+
+\fonte{Fernando Pessoa. *Poemas de Alberto Caeiro*. Disponível em: _http://arquivopessoa.net/textos/613_.
+Acesso em: 19 mar. 2023.}
+
+O verso final do poema confirma a visão de
 mundo exposta ao longo do texto. O eu poético, nesse verso, assume, em
 relação aos infortúnios da vida, uma postura de
 
@@ -6358,10 +6385,13 @@ c\) pessimismo.
 
 d\) indignação.
 
-Saeb: Inferir a presença de valores sociais, culturais e humanos em
+SAEB: Inferir a presença de valores sociais, culturais e humanos em
 textos literários.
 
-BNCC: EF69LP44
+EF69LP44 -- Inferir a presença de valores sociais, culturais e humanos e de diferentes visões
+de mundo, em textos literários, reconhecendo nesses textos formas de estabelecer múltiplos
+olhares sobre as identidades, sociedades e culturas e considerando a autoria e o contexto social
+e histórico de sua produção.
 
 \(A\) Correta. O eu poético lida com as vicissitudes da vida com
 naturalidade, defendendo a importância de momentos infelizes para a
@@ -6376,33 +6406,3 @@ sua importância.
 
 \(D\) Incorreta. O eu poético não se indigna com as dificuldades da
 vida, e sim reconhece sua importância.
-
-**REFERÊNCIAS**
-
-ALMEIDA, L. de. **Análise semântica de operadores argumentativos em
-textos publicitários**. 2001. 187 f. Dissertação (Mestrado em Estudos
-Linguísticos). Programa de PósGraduação em Estudos Linguísticos,
-Instituto de Letras e Linguística, Universidade Federal de Uberlândia,
-2001.
-
-CEGALLA, Domingos Paschoal. **Novíssima gramática da língua
-portuguesa**. 48. ed. São Paulo: IBEP, 2009.
-
-CHALHUB, Samira. **Funções da linguagem**. 11 ed. São Paulo: Ática,
-2000.
-
-MARCUSCHI, Luiz Antônio. Gêneros textuais: definição e funcionalidade.
-In: DIONISIO, Angela Paiva; MACHADO, Anna Rachel; BEZERRA, Maria
-Auxiliadora (Org.). **Gêneros textuais & ensino**. São Paulo: Parábola,
-2010. p. 23.
-
-PORSCHE, Sandra Cristina. et al. **O gênero verbete no ensino**.
-Simpósio Internacional de Gêneros Textuais. Disponível em:
-\<<https://www.ucs.br/ucs/extensao/agenda/eventos/vsiget/portugues/anais/arquivos/o_genero_verbete_no_ensino.pdf>\>.
-Acessado em: 03/07/2018.
-
-SARMENTO, Leila Luar: TUFANO: Douglas. **Literatura, Gramática e
-Produção de Texto**. São Paulo: Moderna, 2001.
-
-
-
