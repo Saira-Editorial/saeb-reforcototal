@@ -4999,48 +4999,39 @@ d\) Incorreta. O trecho não apresenta a personagem conversando com outra pessoa
 #SIMULADO 3
 
 
-\num{1}
+Leia o texto a seguir para responder às questões 1, 2 e 3.
 
-![Desenho de personagem de desenho animado Descrição gerada
-automaticamente com confiança
-baixa](./imgSAEB_6_POR/media/image39.png){width="4.860979877515311in"
-height="3.283333333333333in"}
-
-Charge: Brum
-
-O objetivo da charge é
-
-a\) homenagear as mães.
-
-b\) criticar o alto preço do gás.
-
-c\) criticar filhos que não presenteiam as mães.
-
-d\) incentivar filhos a presentearem as mães.
-
-BNCC: EF69LP03.
-
-a\) Incorreta. O filho não homenageia a mãe, ele a presenteia com um
-botijão de gás.
-
-b\) Correta. A charge é uma ilustração que tem como premissa fazer uma
-crítica social. Aqui, a crítica social é feita ao alto preço do botijão
-de gás, que para a mãe é tão valioso quanto uma joia, por exemplo.
-
-c\) Incorreta. A charge não critica filhos que não homenageiam as mães,
-ele mostra uma mãe sendo presenteada.
-
-d\) Incorreta. A charge é um gênero voltado à crítica social. Em nenhum
-momento ela incentiva filhos a presentearem as mães.
-
-
-Leia o texto a seguir para responder às questões 2 e 3.
+https://www.freepik.com/free-photo/drone-spraying-fertilizer-vegetable-green-plants-agriculture-technology-farm-automation_21544380.htm#query=reforrestation%20drone&position=13&from_view=search&track=ais
 
 "A popularização dos drones comerciais, das inteligências artificiais e dos softwares de modelagem 3D permitiram o desenvolvimento de um novo método para controlar áreas de reflorestamento. Durante seu doutorado no Instituto de Energia e Ambiente (IEE) da USP, o engenheiro florestal e pesquisador Rafael Walter de Albuquerque criou um procedimento mais rápido e capaz de enriquecer os tradicionais.\[\...\]
 O aplicativo e o método desenvolvidos na pesquisa poderão ser utilizados gratuitamente por profissionais com pouco treinamento, bastando que sigam o guia que será lançado em livro até o final do primeiro semestre de 2023 pelo Pacto pela Restauração da Mata Atlântica em parceria com a Aliança pela Restauração na Amazônia. "Nós acreditamos que esse trabalho vai ajudar o País, porque muitos profissionais, universidades e empresas precisam consultar como se faz o uso de drones e de imagens de satélite para monitorar a restauração florestal na Amazônia e na Mata Atlântica, e esse conhecimento estava muito pulverizado", justifica o engenheiro, que coordenou o grupo de especialistas responsável."
 
 
-(CONTERNO, Ivan. Drones e modelagem 3D auxiliarão a recuperação de florestas. Jornal da USP, publicado em mar. 2023. Disponível em: \< <https://jornal.usp.br/ciencias/drones-e-modelagem-3d-auxiliarao-a-recuperacao-de-florestas/>\>. Acesso em: mar. 2023. Adaptado.)
+(Ivan Conterno. Jornal da USP. Drones e modelagem 3D auxiliarão a recuperação de florestas. Disponível em: \< <https://jornal.usp.br/ciencias/drones-e-modelagem-3d-auxiliarao-a-recuperacao-de-florestas/>\>. Acesso em: 3 mar. 2023.)
+
+\num{1}
+
+A relação entre a imagem e o texto é
+
+a\) contraditória.
+
+b\) ilustrativa.
+
+c\) inútil.
+
+d\) crítica.
+
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF69LP03 -- Identificar, em notícias, o fato central, suas principais circunstâncias e eventuais decorrências; em reportagens e fotorreportagens o fato ou a temática retratada e a perspectiva de abordagem, em entrevistas os principais temas/subtemas abordados, explicações dadas ou teses defendidas em relação a esses subtemas; em tirinhas, memes, charge, a crítica, ironia ou humor presente.
+
+a\) Incorreta. Não há contradição entre imagem e texto.
+
+b\) Correta. Trata-se de um drone trabalhando por reflorestamento; justamente aquilo de que trata o texto.
+
+c\) Incorreta. A imagem é útil, por exemplo, para um leitor que não sabe como é um drone.
+
+d\) Incorreta. Não há crítica na imagem, ela apenas mostra o que o texto traz com conteúdo.
+
 
 \num{2} Qual é o tema central do texto?
 
@@ -5052,15 +5043,16 @@ c\) Os benefícios da inteligência artificial na ciência ambiental.
 
 d\) Os desafios da implementação do reflorestamento na Amazônia.
 
-BNCC: EF67LP07.
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF67LP07 -- Identificar o uso de recursos persuasivos em textos argumentativos diversos (como a elaboração do título, escolhas lexicais, construções metafóricas, a explicitação ou a ocultação de fontes de informação) e perceber seus efeitos de sentido.
 
 a\) Incorreta. Os drones do artigo são usados em um trabalho de reflorestamento.
 
 b\) Incorreta. O artigo traz informações de uma pesquisa que utiliza drones e inteligência artificial para o reflorestamento.
 
-c\) O texto apresenta uma pesquisa sobre inteligência artificial e seus benefícios para o reflorestamento.
+c\) Correta. O texto apresenta uma pesquisa sobre inteligência artificial e seus benefícios para o reflorestamento.
 
-d\) Incorreta. O artigo mostra os benefícios do uso da IA para vencer os desafios do reflorestamento.
+d\) Incorreta. O artigo mostra os benefícios do uso da Inteligência Artificial para vencer os desafios do reflorestamento.
 
 
 \num{3} Qual é a importância do método desenvolvido na pesquisa?
@@ -5074,7 +5066,8 @@ c\) É mais barato e mais acessível para profissionais com pouco treinamento.
 
 d\) É útil para o monitoramento do reflorestamento em regiões específicas.
 
-BNCC: EF67LP05.
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF67LP05 -- Identificar e avaliar teses/opiniões/posicionamentos explícitos e argumentos em textos argumentativos (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), manifestando concordância ou discordância.
 
 a\) Incorreta. O aplicativo é barato e mais simples que os métodos tradicionais.
 
@@ -5085,70 +5078,72 @@ c\) Correta. O método é mais barato e de fácil utilização por profissionais
 d) Incorreta. O pesquisador acredita que o método auxiliará o país como um todo.
 
 
+\num{4} Leia o texto.
 
-Nível: médio.
+Era uma vez, em um recife de coral exuberante, uma moreia chamada Maurício e um pequeno budião-limpador chamado Benjamim. Maurício era conhecido por seu temperamento explosivo e mau humor constante, enquanto Benjamim era o oposto, sempre alegre e sorridente.
 
+Essa improvável dupla acabou compartilhando o mesmo recife e logo suas personalidades começaram a se chocar. Maurício tinha um jeito ranzinza de lidar com todos os peixes ao seu redor, afastando-os com seu olhar intimidante e suas mandíbulas afiadas.
 
-4. 
---
+Um dia, Benjamim decidiu que era hora de quebrar o gelo e se aproximar de Maurício. Com um sorriso estampado em seu rosto, ele se aproximou da moreia e disse: "Oi, Maurício! Que tal uma sessão de limpeza? Posso deixar você impecável!"
 
-![Desenho de personagem Descrição gerada automaticamente com confiança baixa](./imgSAEB_6_POR/media/image44.png){width="3.7818766404199473in" height="4.541666666666667in"}
+Maurício, com seu olhar desconfiado, resmungou: "O que você quer, peixinho colorido? Estou ocupado aqui."
 
+Sem se deixar abalar, Benjamim respondeu com entusiasmo: "Sabe, Maurício, acredito que nossas personalidades opostas podem ser uma combinação perfeita! Eu sou um especialista em limpeza, e você, com esse ar de mau humor, é um excelente segurança. Juntos, poderíamos criar um negócio de limpeza e segurança no recife!"
 
-<https://dragoesdegaragem.com/cientirinhas/cientirinhas-177/>
+Maurício ergueu uma sobrancelha e disse: "Um negócio? Nunca pensei nisso... Bem, eu até gosto da ideia de ser um segurança. Podemos chamar de 'Segurança Marinha Ltda'!"
 
+E assim nasceu a improvável parceria entre a moreia Maurício e o budião-limpador Benjamim. Enquanto Maurício mantinha todos os peixes afastados com seu jeito carrancudo, Benjamim limpava as escamas e removia parasitas de todos os clientes. Eles se tornaram uma equipe imbatível, deixando o recife de coral impecável e seguro.
+
+À medida que o tempo passava, Maurício percebeu que o sorriso contagiante de Benjamim e sua positividade eram um antídoto eficaz para o seu mau humor crônico. Ele começou a sorrir ocasionalmente, surpreendendo a todos os peixes que conheciam seu temperamento explosivo.
+
+E, assim, Maurício e Benjamim mostraram ao mundo aquilo que muitos não esperavam: uma moreia rabugenta e um budião-limpador sorridente podem, na verdade, ser a combinação perfeita para o sucesso. Eles provaram que, mesmo nas profundezas do oceano, o humor pode unir criaturas tão diferentes e criar algo extraordinário.
+
+\fonte{Gabriel Pedroso teixeira}
 
 Com base no desfecho da tirinha, o que gera o efeito de humor?
 
 a\) a cooperação entre as espécies.
 
-b\) um peixe se alimentar de restos na boca de outro peixe
+b\) um peixe se alimentar de restos na boca de outro peixe.
 
-c\) a personificação dos interlocutores
+c\) a personificação dos interlocutores, que gera um inesperado tom de leveza.
 
-d\) a discussão entre as moreias.
+d\) a discussão entre as criaturas.
 
-BNCC: EF69LP03.
+SAEB: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou crítica.
+BNCC: EF69LP03 -- Identificar, em notícias, o fato central, suas principais circunstâncias e eventuais decorrências; em reportagens e fotorreportagens o fato ou a temática retratada e a perspectiva de abordagem, em entrevistas os principais temas/subtemas abordados, explicações dadas ou teses defendidas em relação a esses subtemas; em tirinhas, memes, charge, a crítica, ironia ou humor presente.
 
-a\) Incorreta. Essa alternativa apresenta dados científicos sobre as
-duas espécies.
+a\) Incorreta. Essa alternativa apresenta dados científicos sobre as duas espécies.
 
-b\) Incorreta. Essa alternativa apresenta dados científicos sobre as
-duas espécies.
+b\) Incorreta. Essa alternativa apresenta dados científicos sobre as duas espécies.
 
-c\) Correta. O texto da tirinha começa com informações científicas sobre
-duas espécies de peixes que vivem em cooperação. NO terceiro quadrinho
-da tira ocorre a personificação dos personagens, em que o peixe que vive
-de restos se torna o dentista do peixe maior, que se torna o paciente.
+c\) Correta. O texto da começa com informações científicas sobre duas espécies de peixes que vivem em cooperação. Mas a forma como as criaturas interagem é inesperado e gera humor.
 
 d\) Incorreta. Embora contenha teor cômico, o fato que gera o teor de
-humor na tirinha é a personificação do Bodião-limpador como dentista e
-da Moreia como paciente.
+humor na tirinha é a personificação do Bodião-limpador e da Moreia.
 
 
 Leia o texto a seguir para responder às questões 5 a 8.
 
 
-Artigo 1°
+https://www.freepik.com/free-photo/closeup-diverse-people-joining-their-hands_12193015.htm#query=human%20rights&position=1&from_view=search&track=ais
 
+Artigo 1°
 
 Todos os seres humanos nascem livres e iguais em dignidade e em direitos. Dotados de razão e de consciência, devem agir uns para com os outros em espírito de fraternidade.
 
 
 Artigo 2°
 
-
 Todos os seres humanos podem invocar os direitos e as liberdades proclamados na presente Declaração, sem distinção alguma, nomeadamente de raça, de cor, de sexo, de língua, de religião, de opinião política ou outra, de origem nacional ou social, de fortuna, de nascimento ou de qualquer outra situação. Além disso, não será feita nenhuma distinção fundada no estatuto político, jurídico ou internacional do país ou do território da naturalidade da pessoa, seja esse país ou território independente, sob tutela, autônomo ou sujeito a alguma limitação de soberania.
 
 
 Artigo 3°
----------
 
 Todo indivíduo tem direito à vida, à liberdade e à segurança pessoal.
 
 
 Artigo 4°
-
 
 Ninguém será mantido em escravatura ou em servidão; a escravatura e o trato dos escravos, sob todas as formas, são proibidos.
 
@@ -5156,22 +5151,25 @@ Ninguém será mantido em escravatura ou em servidão; a escravatura e o trato d
 (Declaração Universal dos Direitos Humanos. Disponível em: \< <https://www.ohchr.org/en/human-rights/universal-declaration/translations/portuguese?LangID=por>\>. Acesso em: mar. 2023. Fragmento)
 
 
-5. Qual das alternativas a seguir melhor descreve o objetivo do texto? 
+\num{5} Qual das alternativas a seguir melhor descreve o objetivo do texto? 
 
 
-a) informar
+a) informar.
 
-b) persuadir
+b) persuadir.
 
-c) entreter
+c) entreter.
 
-d) questionar
+d) questionar.
 
-BNCC: EF69LP20.
+SAEB: Identificar formas de organização de textos normativos, legais e/ou reinvindicatórios.
+BNCC: EF69LP20 -- Identificar, tendo em vista o contexto de produção, a forma de organização dos textos normativos e legais, a lógica de hierarquização de seus itens e subitens e suas partes: parte inicial (título – nome e data – e ementa), blocos de artigos (parte, livro, capítulo, seção, subseção), artigos (caput e parágrafos e incisos) e parte final (disposições pertinentes à sua implementação) e analisar efeitos de sentido causados pelo uso de vocabulário técnico, pelo uso do imperativo, de palavras e expressões que indicam circunstâncias, como advérbios e locuções adverbiais, de palavras
+que indicam generalidade, como alguns pronomes indefinidos, de forma a poder compreender o
+caráter imperativo, coercitivo e generalista das leis e de outras formas de regulamentação.
 
 a\) Correta. O texto tem como objetivo informar leis e regras a serem seguidas.
 
-b) Incorreta. O texto informative não tem a intenção de persuadir o leitor a adotar comportamentos.
+b) Incorreta. O texto informativo não tem a intenção de persuadir o leitor a adotar comportamentos.
 
 c) Incorreta. O texto informativo não tem a intenção de divertir o leitor.
 
@@ -5186,22 +5184,26 @@ a) assertiva.
 
 b) contestável.
 
-c) específica.
+c) inespecífica.
 
 d) incerta.
 
-BNCC: EF69LP20.
 
-a\) Correta. A mensagem em textos normativos é assertiva pois tem caráter informativo.
+SAEB: Identificar formas de organização de textos normativos, legais e/ou reinvindicatórios.
+BNCC: EF69LP20 -- Identificar, tendo em vista o contexto de produção, a forma de organização dos textos normativos e legais, a lógica de hierarquização de seus itens e subitens e suas partes: parte inicial (título – nome e data – e ementa), blocos de artigos (parte, livro, capítulo, seção, subseção), artigos (caput e parágrafos e incisos) e parte final (disposições pertinentes à sua implementação) e analisar efeitos de sentido causados pelo uso de vocabulário técnico, pelo uso do imperativo, de palavras e expressões que indicam circunstâncias, como advérbios e locuções adverbiais, de palavras
+que indicam generalidade, como alguns pronomes indefinidos, de forma a poder compreender o
+caráter imperativo, coercitivo e generalista das leis e de outras formas de regulamentação.
+
+a\) Correta. A mensagem em textos normativos é assertiva e tem caráter informativo.
 
 b\) Incorreta. A mensagem é assertiva e o documento é incontestável.
 
-c\) Incorreta. A mensagem não é específica, é assertiva.
+c\) Incorreta. A mensagem é específica e clara.
 
-d\) Incorreta. A mensagem é assertiva, portando, bem direcionada e correta.
+d\) Incorreta. A mensagem é assertiva; portando, bem direcionada e correta.
 
 
-7. O texto é direcionado a
+\num{7} O texto é direcionado a
 
 
 a\) especialistas em direito.
@@ -5212,7 +5214,10 @@ c\) acadêmicos.
 
 d\) políticos.
 
-BNCC: EF69LP20.
+SAEB: Identificar formas de organização de textos normativos, legais e/ou reinvindicatórios.
+BNCC: EF69LP20 -- Identificar, tendo em vista o contexto de produção, a forma de organização dos textos normativos e legais, a lógica de hierarquização de seus itens e subitens e suas partes: parte inicial (título – nome e data – e ementa), blocos de artigos (parte, livro, capítulo, seção, subseção), artigos (caput e parágrafos e incisos) e parte final (disposições pertinentes à sua implementação) e analisar efeitos de sentido causados pelo uso de vocabulário técnico, pelo uso do imperativo, de palavras e expressões que indicam circunstâncias, como advérbios e locuções adverbiais, de palavras
+que indicam generalidade, como alguns pronomes indefinidos, de forma a poder compreender o
+caráter imperativo, coercitivo e generalista das leis e de outras formas de regulamentação.
 
 a) Incorreta. O texto direciona-se a todas as pessoas.
 
@@ -5234,7 +5239,10 @@ c\) A linguagem é técnica e respeita a norma padrão da língua, para que alca
 
 d\) A linguagem é poética e respeita a norma padrão da língua, para que alcance com clareza todas as pessoas.
 
-BNCC: EF69LP20.
+SAEB: Identificar formas de organização de textos normativos, legais e/ou reinvindicatórios.
+BNCC: EF69LP20 -- Identificar, tendo em vista o contexto de produção, a forma de organização dos textos normativos e legais, a lógica de hierarquização de seus itens e subitens e suas partes: parte inicial (título – nome e data – e ementa), blocos de artigos (parte, livro, capítulo, seção, subseção), artigos (caput e parágrafos e incisos) e parte final (disposições pertinentes à sua implementação) e analisar efeitos de sentido causados pelo uso de vocabulário técnico, pelo uso do imperativo, de palavras e expressões que indicam circunstâncias, como advérbios e locuções adverbiais, de palavras
+que indicam generalidade, como alguns pronomes indefinidos, de forma a poder compreender o
+caráter imperativo, coercitivo e generalista das leis e de outras formas de regulamentação.
 
 a\) Correta. O texto normativo apresenta uma linguagem formal, respeitando a norma padrão da língua, para que alcance de forma assertiva todas as pessoas.
 
@@ -5251,38 +5259,38 @@ d\) Incorreta. A linguagem poética é encontrada em textos literários e geralm
 
 \num{9} 
 
-
-![O pai do Armandinho, o menino de cabelo azul que reflete sobre arte, a política e direitos humanos - Trip](./imgSAEB_6_POR/media/image45.jpeg){width="5.905555555555556in" height="3.3222222222222224in"}
-
-
-\fonte{<https://revistatrip.uol.com.br/upload/2019/02/5c6c0cf368385/906x264x960x540x-26x-137/nov20181.jpg>)
+https://www.freepik.com/free-photo/fashionable-african-american-woman-wear-hand-made-face-mask-posing-outdoor-new-normal-life_26218465.htm#query=covid-19&position=10&from_view=search&track=sph
+-- Ei, moça da foto, não se preocupe. Aqui no Brasil a pandemia vai ser combatida logo. Nossos governantes e autoridades já mostraram quanto se preocupam conosco.
+-- Justamente! Você não imagina como essa demonstralçao de preocupação me preocupa!
 
 
-O efeito de humor da tirinha é dado a partir de uma ironia, que pode ser identificada
+O efeito de humor do meme pode ser identificado
 
 
-a\) na fala do menino no primeiro quadrinho.
+a\) na fala "não se preocupe".
 
-b\) na fala do menino no segundo quadrinho, apenas.
+b\) na expressão "aqui no Brasil".
 
-c\) na fala da menina no segundo quadrinho, apenas.
+c\) na preocupação sobre a preocupação.
 
-d\) tanto na fala do menino quanto na da menina no segundo quadrinho. 
+d\) na menção em palavras diretamente à imagem. 
 
-BNCC: EF69LP05.
+SAEB: Inferir, em textos multissemiótico, efeitos de humor, ironia e/ou crítica.
+BNCC: EF69LP05 -- Inferir e justificar, em textos multissemióticos – tirinhas, charges, memes, gifs etc. –, o efeito de humor, ironia e/ou crítica pelo uso ambíguo de palavras, expressões ou imagens ambíguas, de clichês, de recursos iconográficos, de pontuação etc.
 
-a\) e b\) Incorretas. O menino não é irônico no texto.
+a\) Incorreta. A fala diz exatamente o que o enunciador pretende dizer, sem ironia.
 
-c\) Correta. A fala da menina é irônica, pois quando ela afirma que é isso que a preocupa, ela está justamente contrariando a orientação do menino.
+b\) Incorretas. Trata-se simplesmete de uma referência geográfica.
 
-d\) Incorreta. O menino não é irônico no texto. 
+c\) Correta. A personagem do meme, como brasileira, se preocupa de saber que as autoridades já mostraram sua preocupação - que ela, provavelmente, acha pouca.
+
+d\) Incorreta. Essa referência faz parte da construção do meme. 
 
 
 Leia a notícia a seguir para responder às questões 11 a 13.
 
 
 Câmara aprova projeto que obriga pet shops e clínicas veterinárias a divulgar adoção de animais
-
 
 *Estabelecimentos deverão fixar cartazes com o contato de instituições
 que abrigam animais abandonados*
@@ -5309,7 +5317,8 @@ c) criticar uma nova diretriz do governo.
 
 d) fornecer informações sobre pet shops e clínicas veterinárias.
 
-BNCC: EF06LP01.
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF06LP01 -- Reconhecer a impossibilidade de uma neutralidade absoluta no relato de fatos e identificar diferentes graus de parcialidade/ imparcialidade dados pelo recorte feito e pelos efeitos de sentido advindos de escolhas feitas pelo autor, de forma a poder desenvolver uma atitude crítica frente aos textos jornalísticos e tornar-se consciente das escolhas feitas enquanto produtor de textos.
 
 
 a) Correta. O objetivo da notícia é informar as pessoas sobre a aprovação de um projeto de lei.
@@ -5333,7 +5342,8 @@ c) um posicionamento do governo com relação ao projeto de lei.
 
 d) um posicionamento da população que justifica o projeto de lei.
 
-BNCC: EF06LP01.
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF06LP01 -- Reconhecer a impossibilidade de uma neutralidade absoluta no relato de fatos e identificar diferentes graus de parcialidade/ imparcialidade dados pelo recorte feito e pelos efeitos de sentido advindos de escolhas feitas pelo autor, de forma a poder desenvolver uma atitude crítica frente aos textos jornalísticos e tornar-se consciente das escolhas feitas enquanto produtor de textos.
 
 a\) Embora tenha sido pronunciada pelo autor do projeto de lei, essa informação é embasada cientificamente, pois os animais de fato são seres vivos antes mesmo de terem um dono, por isso é usada como justificativa plausível para um projeto de lei.
 
@@ -5356,7 +5366,8 @@ c) neutron.
 
 d) indiferente.
 
-BNCC: EF06LP01.
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF06LP01 -- Reconhecer a impossibilidade de uma neutralidade absoluta no relato de fatos e identificar diferentes graus de parcialidade/ imparcialidade dados pelo recorte feito e pelos efeitos de sentido advindos de escolhas feitas pelo autor, de forma a poder desenvolver uma atitude crítica frente aos textos jornalísticos e tornar-se consciente das escolhas feitas enquanto produtor de textos.
 
 a\) Correta. O criador do projeto de lei mostra-se apoiador da causa de animais abandonados.
 
@@ -5371,10 +5382,14 @@ d\) Incorreta. O autor do projeto deixa clara sua opinião sobre a causa.
 Leia o infográfico a seguir para responder às questões 14 e 15.
 
 
-![Interface gráfica do usuário, Texto, Linha do tempo Descrição gerada automaticamente](./imgSAEB_6_POR/media/image46.png){width="5.905555555555556in" height="2.88125in"}
+####Crianças conectadas: qual a idade certa?
 
+https://www.freepik.com/free-vector/cartoon-stages-baby-girl_14581344.htm#query=growing%20kid&position=5&from_view=search&track=ais
 
-\fonte{\< <https://www.medicina.ufmg.br/contato-precoce-com-tecnologia-digital-pode-provocar-danos-a-saude-dos-bebes%EF%BB%BF/>\>.
+Menos de dois anos: zero contato com dispositivos móveis.
+De 3 a 5 anos: máximo de uma hora por dia.
+De 5 a 12 anos: máximo de uma hora e meia por dia.
+Mais de 12 anos: conexão sempre com regulação de um adulto.
 
 
 \num{14} Sobre a mensagem apresentada no infográfico, é correto afirmar que
@@ -5391,7 +5406,9 @@ c\) são informações técnicas voltadas a profissionais da saúde.
 
 d\) são informações científicas direcionadas a todas as pessoas.
 
-BNCC: EF69LP02.
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF69LP02 -- Analisar e comparar peças publicitárias variadas (cartazes, folhetos, outdoor, anúncios e propagandas em diferentes mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação entre elas em campanhas, as especificidades das várias semioses e mídias, a adequação dessas peças ao público-alvo, aos objetivos do anunciante e/ou da campanha e à construção composicional e estilo dos gêneros em questão, como forma de ampliar suas possibilidades de compreensão (e produção) de textos pertencentes a esses gêneros.
+
 
 a\) Incorreta. O infográfico não traz informações básicas de modo geral, são informações específicas do ponto de vista científico.
 
@@ -5399,7 +5416,7 @@ b\) Incorreta. O infográfico tem caráter informativo. A linguagem apelativa é
 
 c\) Incorreta. O infográfico não apresenta informações técnicas, e sim científicas, e é direcionado a qualquer pessoa.
 
-d\) O infográfico é produzido pela Faculdade de Medicina da Universidade Federal de Minas Gerais e apresenta informações científicas com um texto leve que pode ser compreendido por qualquer leitor.
+d\) Correta. O infográfico apresenta informações científicas com um texto leve que pode ser compreendido por qualquer leitor.
 
 
 
@@ -5409,29 +5426,27 @@ visuais gráficos. Normalmente o infográfico acompanha um texto que fala
 sobre um assunto correlato. A manchete jornalística à qual o infográfico
 apresentado mais se adequaria é:
 
-a\) "Médicos alertam para os riscos do uso excessivo das telas"
+a\) "Psicólogos alertam para os riscos do uso excessivo das telas"
 
 b\) "Contato precoce e excessivo com telas pode provocar danos ao
-cérebro﻿"
+cérebro"
 
 c\) "Uso excessivo de telas provoca danos, alertam médicos"
 
-d\) "Uso de telas na primeira infância acarreta danos ao cérebro"
+d\) "Uso de telas na primeira infância acarreta danos à força física das pessoas"
 
-BNCC: EF69LP02.
+SAEB: Identificar elementos constitutivos de textos pertencentes ao domínio jornalístico/midiático.
+BNCC: EF69LP02 -- Analisar e comparar peças publicitárias variadas (cartazes, folhetos, outdoor, anúncios e propagandas em diferentes mídias, spots, jingle, vídeos etc.), de forma a perceber a articulação entre elas em campanhas, as especificidades das várias semioses e mídias, a adequação dessas peças ao público-alvo, aos objetivos do anunciante e/ou da campanha e à construção composicional e estilo dos gêneros em questão, como forma de ampliar suas possibilidades de compreensão (e produção) de textos pertencentes a esses gêneros.
 
-a\) Incorreta. O infográfico é produzido pela UFMG, mas não se pode
-afirmar que em uma matéria médicos afirmariam alguma coisa.
+a\) Incorreta. Não se pode inferir que o alerta venha de psicólogos.
 
 b\) Correta. O infográfico traz informações relacionadas à primeira
 infância e pré-adolescência e fala sobre as consequências do uso precoce
-e excessivo das telas. A opção que apresenta menção a esses três itens
-abordados é a b.
+e excessivo das telas. 
 
-c\) Incorreta. O infográfico fala especificamente sobre crianças.
+c\) Incorreta. Não se pode inferir que o alerta venha de médicos.
 
-d\) Incorreta. O infográfico não menciona apenas a primeira infância;
-ele traz informações sobre crianças com menos de 2 anos até 12 anos.
+d\) Incorreta. O infográfico não menciona relação com a força física.
 
 
 
