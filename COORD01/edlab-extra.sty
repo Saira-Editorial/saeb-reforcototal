@@ -1,0 +1,181 @@
+% edlab-extra.sty
+
+\newcommand{\blankpage}{\newpage\hbox{~}\thispagestyle{empty}\newpage}
+
+
+% url.sty
+% You can switch the style of printing using “\urlstyle{xx}”, where “xx” can be
+% any defined style. The pre-defined styles are “tt”, “rm”, “sf” and “same” which all
+% allow the same linebreaks but use different fonts — the first three select a specific
+% font and the “same” style uses the current text font. You can define your own
+% styles with different fonts and/or line-breaking by following the explanations
+
+\urlstyle{tt} % {same} mesma fonte; {sf} sem serifa 
+
+% Epigraph (memoir)
+\epigraphfontsize{\footnotesize}			% tamanho da fonte
+\setlength{\epigraphrule}{0pt}				% tira a linha
+% \setlength{\epigraphwidth}{.6\textwidth}	% aumenta o tamanho da epígra
+% \epigraphtextposition{flushright}			
+% \epigraphtextposition{flushleft}
+% \epigraphsourceposition{flushright} 
+
+% Enumerate (enumitem.sty)
+    % • Vertical spacing:
+    %     – topsep
+    %     – partopsep
+    %     – parsep
+    %     – itemsep
+    % • Horizontal spacing:
+    %     – leftmargin
+    %     – rightmargin
+    %     – listparindent
+    %     – labelwidth
+    %     – labelsep
+    %     – itemindent
+
+\setlist[itemize,1]{label={$\triangleright$},leftmargin=5pt,itemsep=0pt,parsep=0pt}
+
+% Quote (latex.ldt)
+\renewenvironment{quote}{%
+  \begin{list}{}{%
+    \setlength{\listparindent}{3ex}%
+    \setlength{\labelsep}{0mm}%
+    \setlength{\leftmargin}{0mm}%
+    \setlength{\rightmargin}{0mm}%
+    \setlength{\topsep}{1ex}
+    \setlength{\partopsep}{0mm}
+    \setlength{\parskip}{0mm}
+    \setlength{\lineskip}{0mm}
+    \setlength{\parsep}{0ex}%
+    }%
+    \small%
+    \item%
+}{%
+  \end{list}%
+}
+
+
+% Comando para fazer subtítulo
+\newcommand{\subtitulo}[1]{\NoCaseChange{\textnormal{\break\Large\itshape#1}}}
+\newcommand{\chapterspecial}[2]{%
+ \chapter[#1]%
+     {#1\ifx#2\relax\else\subtitulo{#2}\fi}%
+\markright{#1}}
+
+% Definindo as cores CMYK
+\definecolor{rosa}{cmyk}{0,1,0,0}
+\newcommand{\rosa}[1]{\footnotesize\textcolor{rosa}{#1}}
+
+\definecolor{azul}{cmyk}{1,0.85,0.27,0.1}
+\newcommand{\azul}[1]{\textcolor{azul}{#1}}
+
+\definecolor{salmao}{cmyk}{0,0.6,0.45,0}
+\newcommand{\salmao}[1]{\textcolor{salmao}{#1}}
+
+\newcommand{\white}[1]{\textcolor{white}{#1}}
+
+% Comentário do professor
+\newcommand{\coment}[1]{%
+  \noindent\parbox{\linewidth}{\flushleft{\color{rosa}\footnotesize\cambria #1}}
+}
+
+
+% Section na cor especificada
+\newcommand{\colorsec}[1]{%
+    \section{\textcolor{azul}{#1}}%
+}
+
+
+% Lista com caixas de seleção
+\newlist{boxlist}{itemize}{1}
+\setlist[boxlist]{label=\textcolor{salmao}{[}\mbox{ }\mbox{ }\textcolor{salmao}{]},font=\bfseries}
+
+% Alternativas V ou F para o professor
+%\newcommand{\alternativa}{\hfill\textcolor{rosa}}
+
+% Lista de múltipla escolha
+\newlist{escolha}{enumerate}{1}
+\setlist[escolha]{label=\textcolor{azul}{\bfseries\Alph*.}}
+
+% Parágrafo lateral
+\newcommand{\sidetext}[1]{
+\begin{minipage}{.5\textwidth}
+\raggedleft
+\footnotesize
+\color{rosa} #1
+\end{minipage}
+}
+
+
+
+% Linhas de respostas
+\newcommand{\linhas}[1]{%
+\par\vspace{0.3cm}%
+\ifnum #1>0%
+\noindent\textcolor{salmao}{\rule{\textwidth}{1pt}}%
+\linhas{\numexpr#1-1\relax}%
+\fi
+}
+
+\newcommand{\matlinhas}[1]{%
+\par\vspace{0.3cm}%
+\ifnum #1>0%
+\noindent\textcolor{white}{\rule{\textwidth}{1pt}}%
+\linhas{\numexpr#1-1\relax}%
+\fi
+}
+
+%%%%
+\newcommand{\boxitem}[1]{
+\item[\salmao{{[}{\rosa{#1}}{]}}]
+}
+
+% Linha para preencher a palavra correta
+%\newcommand{\preencher}{\textcolor{salmao}{\line(1,0){70}}\mbox{ }} 
+\newcommand\preencher{
+\noindent\bgroup
+  \color{rosa}
+    \footnotesize
+    \cambria
+  \markoverwith{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}\lower0.1cm\hbox{\mbox{}}}
+  \ULon
+}
+
+% Numeração dos exercícios
+\newcommand{\num}[1]{\begin{adjustbox}{valign=B}\begin{hangparas}{0in}{1}\hspace*{-0.5cm}\Large\textcolor{azul}{#1}\normalsize\hspace{0.2em}\end{hangparas}\end{adjustbox}}
+
+
+
+% Balões com opções
+\usepackage{multicol}
+
+\newcommand{\blue}[1]{%
+  \begin{tikzpicture}[baseline=(box.base)]
+    \node[rectangle, draw=blue, rounded corners, inner sep=2pt, minimum width=1cm, minimum height=1cm, line width=1pt, opacity=0.5] (box) {#1};
+  \end{tikzpicture}%
+}
+
+\newcommand{\red}[1]{%
+  \begin{tikzpicture}[baseline=(box.base)]
+    \node[rectangle, draw=red, rounded corners, inner sep=2pt, minimum width=1cm, minimum height=1cm, line width=1pt, opacity=0.5] (box) {#1};
+  \end{tikzpicture}%
+}
+
+% Cria box de conteúdos
+\newcommand{\conteudo}[1]{
+\begin{mdframed}[linewidth=10pt,linecolor=salmao!20,backgroundcolor=salmao!20,roundcorner=20pt]
+#1
+\end{mdframed}
+}
+
+% Para diferenciar a citação da fonte do conteúdo dos textos em quote
+\newcommand{\fonte}[1]{\vspace*{-.3cm}\begin{flushright}{\color{darkgray}\tiny #1}\end{flushright}}
+
+
+% Legenda acima da imagem
+\newcommand{\acima}[1]{\captionsetup{position=top}\captionof{figure}{#1}}
+
+\newenvironment{myquote}
+{\begin{mdframed}[linewidth=10pt,linecolor=azul!20,backgroundcolor=azul!20,roundcorner=20pt]\normalsize}
+{\end{mdframed}}

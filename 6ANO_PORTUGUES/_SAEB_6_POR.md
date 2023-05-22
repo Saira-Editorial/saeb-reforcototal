@@ -2364,29 +2364,17 @@ a fonte das informações.}
 
 \num{1} Leia o texto a seguir.
 
-\"Pai de pet\": faz mal à saúde mental tratar animal de estimação como
-filho?
+Tratar animal de estimação como filho, ser "pai de pet" faz mal à saúde mental?
 
-Quem ama e cuida bem de animais de estimação procura garantir o melhor
-para eles, que são para muita gente parte da própria família.
-Entretanto, não é saudável e indicado tratar um cão ou gato como se
-fossem humanos ou esperar que se comportem como crianças pequenas, pois
-além de prejudicá-los ---afinal são seres pertencentes a outras espécies
-e possuem instintos e comportamentos próprios ---, isso pode fazer mal
-aos tutores. \[\...\]
+https://www.freepik.com/free-photo/cute-pet-collage-isolated_35587034.htm#query=pet%20cute&position=0&from_view=search&track=ais
 
-Sentimentos bons agregam à saúde do ser humano, mas é importante que se
-olhe em volta e direcione essa mesma dedicação também às demais fontes
-que fazem parte de nossa vida e que merecem cuidados. Quando isso não
-ocorre e o foco só é o animal, pode ser que a pessoa inconscientemente
-queira satisfazer um forte desejo, como o de ter filhos, ou se
-relacionar e abrir emoções, mas não pode ou tem muita dificuldade para
-interagir e aceitar críticas. \[\...\]
+Aqueles que amam e cuidam adequadamente de animais de estimação buscam proporcionar o melhor para eles, pois esses animais são considerados parte da família por muitas pessoas. No entanto, não é saudável nem recomendado tratar um cão ou gato como se fossem seres humanos, nem esperar que se comportem como crianças pequenas. Isso ocorre porque, além de prejudicá-los - afinal, eles pertencem a diferentes espécies e possuem seus próprios instintos e comportamentos - essa abordagem também pode ser prejudicial para os tutores.
 
-(TESTONI, Marcelo. \"Pai de pet\": faz mal à saúde mental tratar animal
-de estimação como filho?. UOL, publicado em 10 mar. 2021. Disponível em:
-<https://www.uol.com.br/vivabem/noticias/redacao/2021/03/10/animal-de-estimacao-como-filho.htm>.
-Acesso em: mar. 2023. Adaptado.)
+É verdade que sentimentos positivos contribuem para a saúde humana, mas é importante que prestemos atenção ao nosso entorno e direcionemos essa dedicação também para outras áreas de nossas vidas que merecem cuidado. Quando isso não acontece e o foco se concentra exclusivamente nos animais, pode ser que a pessoa inconscientemente esteja tentando satisfazer um forte desejo, como o de ter filhos, ou procurando relacionamentos e emoções, mas não é capaz ou enfrenta dificuldades para interagir e aceitar críticas.
+
+(Marcelo Testoni. UOL. \"Pai de pet\": faz mal à saúde mental tratar animal
+de estimação como filho? Disponível em:
+<https://www.uol.com.br/vivabem/noticias/redacao/2021/03/10/animal-de-estimacao-como-filho.htm>. Acesso em: mar. 2023. Adaptado.)
 
 Assinale a alternativa correta sobre a escolha do título do texto.
 
@@ -2402,7 +2390,7 @@ aspas.
 d\) Traz uma pergunta de senso comum, já que muitas pessoas tratam
 animais como filhos.
 
-BNCC: EF67LP04.
+BNCC: EF67LP04 -- Distinguir, em segmentos descontínuos de textos, fato da opinião enunciada em relação a esse mesmo fato.
 
 a\) Incorreta. A resposta, dada no primeiro parágrafo, não é a opinião
 do autor, e sim uma explicação técnica.
@@ -2417,26 +2405,23 @@ d\) Correta. O título é uma pergunta pertinente e de senso comum, pois
 muitas pessoas consideram pets como filhos.
 
 
-\num{2} Observe os dois títulos a seguir.
+\num{2} Observe os dois títulos a seguir, inspirados em manchetes da internet.
+
+https://www.freepik.com/free-photo/dark-haired-man-blond-woman-lovingly-hug-their-labrador-portrait-close-up-couple-playing-with-dog_12432022.htm#query=loving%20pet&position=1&from_view=search&track=ais
 
 **Título 1**
 
-![Interface gráfica do usuário, Texto, Aplicativo Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image23.png){width="2.201411854768154in"
-height="2.0075765529308836in"}
+Ser "pai de pet" faz mal à saúde mental?
 
-(Disponível em:
-<https://www.uol.com.br/vivabem/noticias/redacao/2021/03/10/animal-de-estimacao-como-filho.htm>.
-Acesso em: mar. 2023.)
+(Fonte de pesquisa:
+<https://www.uol.com.br/vivabem/noticias/redacao/2021/03/10/animal-de-estimacao-como-filho.htm>. Acesso em: mar. 2023.)
 
 **Título 2**
 
-![](./imgSAEB_6_POR/media/image24.png){width="5.905555555555556in"
-height="0.7076388888888889in"}
+Como é a vida e como é a rotina de um pai de pet: especialmente no dia dos pais.
 
-(Disponível em:
-<https://www.patasdacasa.com.br/noticia/dia-dos-pais-como-e-a-vida-e-rotina-de-um-pai-de-pet_a1893/1>.
-Acesso em mar. 2023.)
+(Fonte de pesquisa:
+<https://www.patasdacasa.com.br/noticia/dia-dos-pais-como-e-a-vida-e-rotina-de-um-pai-de-pet_a1893/1>. Acesso em mar. 2023.)
 
 a\) Ambos os títulos apresentam o ponto de vista do veículo.
 
@@ -2446,7 +2431,7 @@ c\) Somente o Título 1 apresenta o ponto de vista do veículo.
 
 d\) Nenhum dos títulos apresenta o ponto de vista do veículo.
 
-BNCC: EF67LP03.
+BNCC: EF67LP03 -- Comparar informações sobre um mesmo fato divulgadas em diferentes veículos e mídias, analisando e avaliando a confiabilidade.
 
 a\) Incorreta. Apenas o Título 2 apresenta o ponto de vista do veículo.
 
@@ -2455,7 +2440,7 @@ confirmar que pessoas são pais de pet, admitindo que há uma rotina para
 essas pessoas.
 
 c\) Incorreta. O Título 1 apresenta o tema da matéria por meio de uma
-pergunta reflexiva, sem se posicionar a respeito dela.
+pergunta, sem se posicionar a respeito dela.
 
 d\) Incorreta. O Título 2 apresenta sim um ponto de vista a respeito do
 tema da matéria.
@@ -2463,44 +2448,33 @@ tema da matéria.
 
 \num{2} Leia o texto a seguir.
 
-**Nova Iorque/Genebra, Brasília, 10 de junho de 2021 --** O número de
-crianças e adolescentes em situação de trabalho infantil chegou a 160
-milhões em todo o mundo -- um aumento de 8,4 milhões de meninas e
-meninos nos últimos quatro anos, de 2016 a 2020. Além deles, outros 8,9
-milhões correm o risco de ingressar nessa situação até 2022 devido aos
-impactos da Covid-19, de acordo com um novo relatório da Organização
-Internacional do Trabalho (OIT) e do Fundo das Nações Unidas para a
-Infância (UNICEF). \[\...\]
+https://www.freepik.com/free-photo/hugging-their-knees-looking-sky-dry-soil-there-are-fishing-boats-global-warming_5469361.htm#query=poor%20working%20child&position=1&from_view=search&track=ais
 
-"As novas estimativas são um alerta. Não podemos ficar parados enquanto
-uma nova geração de crianças é colocada em risco", disse o diretor-geral
-da OIT, Guy Ryder. \[\...\]
+Nova Iorque/Genebra, Brasília, 10 de junho de 2021 -- O número de crianças e adolescentes envolvidos em trabalho infantil atingiu a marca de 160 milhões em todo o mundo. Esse número representa um aumento de 8,4 milhões de meninos e meninas nos últimos quatro anos, de 2016 a 2020. Além disso, há outros 8,9 milhões de crianças em risco de entrar nessa situação até 2022, devido aos impactos da pandemia da Covid-19. Esses dados são apresentados em um novo relatório divulgado pela Organização Internacional do Trabalho (OIT) e pelo Fundo das Nações Unidas para a Infância (UNICEF).
 
-(Disponível em: \<
-<https://www.unicef.org/brazil/comunicados-de-imprensa/trabalho-infantil-aumenta-pela-primeira-vez-em-duas-decadas-e-atinge-um-total-de-160-milhoes-de-criancas-e-adolescentes-no-mundo>\>.
-Acesso em: mar. 2023. Adaptado.)
+O diretor-geral da OIT, Guy Ryder, destacou a importância dessas estimativas, ressaltando que não podemos ficar inertes enquanto uma nova geração de crianças é exposta a esses riscos.
+
+(Fonte de pesquisa: UNICEF. Trabalho infantil aumenta pela primeira vez em duas décadas e atinge um total de 160 milhões de crianças e adolescentes no mundo. Disponível em: \<
+<https://www.unicef.org/brazil/comunicados-de-imprensa/trabalho-infantil-aumenta-pela-primeira-vez-em-duas-decadas-e-atinge-um-total-de-160-milhoes-de-criancas-e-adolescentes-no-mundo>\>. Acesso em: mar. 2023. Adaptado.)
 
 O trecho que reapresenta um ponto de vista é
 
-a\) "outros 8,9 milhões correm o risco de ingressar nessa situação até
-2022".
+a\) "há outros 8,9 milhões de crianças em risco de entrar nessa situação até 2022".
 
-b\) "uma nova geração de crianças é colocada em risco".
+b\) "Esses dados são apresentados em um novo relatório divulgado pela Organização Internacional do Trabalho".
 
-c\) "As novas estimativas são um alerta.".
+c\) "O diretor-geral da OIT, Guy Ryder, destacou a importância dessas estimativas".
 
-d\) "Não podemos ficar parados".
+d\) "não podemos ficar inertes".
 
-BNCC: EF67LP03.
+BNCC: EF67LP03 -- Comparar informações sobre um mesmo fato divulgadas em diferentes veículos e mídias, analisando e avaliando a confiabilidade.
 
 a\) Incorreta. O trecho apresenta uma possibilidade real de acontecer,
 mediante um fato apresentado.
 
 b\) Incorreta. O trecho apresenta um fato constatado após um a pesquisa.
 
-c\) Incorreta. As estimativas são um alerta. O especialista apenas
-menciona que os dados são um alerta, mas sem colocar seu julgamento de
-valor.
+c\) Incorreta. Trata-se de um fato que Guy Ryder é diretor-geral da OIT e que ele destacou esse ponto sobre os dados.
 
 d\) Correta. É um posicionamento do diretor-geral da OIT que não podemos
 ficar parados diante dos dados apresentados sobre o trabalho infantil.
@@ -2516,11 +2490,11 @@ ficar parados diante dos dados apresentados sobre o trabalho infantil.
   - Analisar os efeitos de sentido dos tempos, modos e/ou vozes verbais com base no gênero textual e na intenção comunicativa.
 - Analisar os efeitos de sentido produzidos pelo uso de modalizadores em textos diversos.
 
-Habilidades da BNCC: EF69LP04 e EF69LP28.
+Habilidades da BNCC: EF69LP04, EF69LP28.
   
 
 \conteudo{
-O modalizador é uma palavra ou expressão por meio do qual o enunciador
+O modalizador é uma palavra ou expressão por meio de que o enunciador
 revela seu posicionamento em uma situação comunicativa. De forma
 implícita ou explícita, em textos de impacto social é frequente que os
 posicionamentos das pessoas fiquem subentendidos, influenciando o leitor
@@ -2543,11 +2517,9 @@ c\. Talvez eu vá ao jogo sexta-feira.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 d\. Compre em até 10x sem juros.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-e\. Não tenho certeza se vou à festa
-amanhã.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+e\. Não tenho certeza se vou à festa amanhã.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-f\. Se eu conseguir chegar a tempo, vou à sua casa ainda
-hoje.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+f\. Se eu conseguir chegar a tempo, vou à sua casa ainda hoje.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 g\. É proibido fumar neste lugar.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2569,7 +2541,7 @@ h\. Não é permitido entrar com animais neste estabelecimento. certeza}
 
 
 Leia a resenha crítica do filme "Yesterday" para responder às questões
-2 a 8.
+de 2 a 7.
 
 E se em um universo alternativo os Beatles nunca tivessem existido? Se
 John, Paul, George e Ringo nunca tivessem criado a maior banda de todos
@@ -2598,10 +2570,10 @@ fato, existido? A resposta vem de uma frase dita quase no final do
 filme: "Um mundo sem os Beatles seria um mundo muito pior". Não
 precisamos disso.
 
-(ROLLEMBER, Marcello. Para tempos sombrios, a solução é a fantasia.
-Jornal da USP, publicado em 9 de set. 2019. Disponível em: \<
+(Marcello Rollember. Jornal da UPS. Para tempos sombrios, a solução é a fantasia.
+Disponível em: \<
 <https://jornal.usp.br/cultura/para-tempos-sombrios-a-solucao-e-a-fantasia/>\>.
-Acesso em: mar. 2023. Adaptado.)
+Acesso em: mar. 2023.)
 
 \num{2} No primeiro parágrafo do texto, o autor utiliza como modalizador do
 discurso uma mesma conjunção, porém em algumas ocorrências distintas.
@@ -2624,7 +2596,7 @@ utiliza para deixar explícito esse julgamento de valor é o adjetivo
 "simplista".}
 
 \num{4} Ainda no segundo parágrafo, no trecho "clichê, mas aceitável", ele
-demostra outro julgamento de valor. A quem ele se refere?
+demostra outro julgamento de valor. A que ele se refere?
 
 \linhas{3}
 
@@ -2652,15 +2624,9 @@ pós-crédito."
 Identifique, neste trecho, o que são fatos apresentados no filme e o que
 é opinião do autor.
 
-  FATOS DO FILME   OPINIÃO DO AUTOR
-  ---------------- ------------------
-                   
-
 \coment{
-
-  FATOS DO FILME                                                                                                                                                                                 OPINIÃO DO AUTOR
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------
-  Apresenta canções conhecidas, desencontros e encontros improváveis, filme que caminha na forma clássica das comédias românticas, filme que embala, diverte e rende conversas no pós-crédito.   Canções assobiáveis há décadas, encontros e desencontros improváveis, mas tocantes; vontade de dar spoiler quase incontornável; o filme rende conversas animadas no pós-crédito.}
+  FATOS DO FILME: Apresenta canções conhecidas, desencontros e encontros improváveis, filme que caminha na forma clássica das comédias românticas, filme que embala, diverte e rende conversas no pós-crédito. 
+  OPINIÃO DO AUTOR: Canções assobiáveis há décadas, encontros e desencontros improváveis, mas tocantes; vontade de dar spoiler quase incontornável; o filme rende conversas animadas no pós-crédito.}
 
 \num{7} Analise as frases extraídas do texto. Depois, analise o modalizador
 em destaque e classifique-o quanto a ser uma condição ou uma certeza.
@@ -2686,13 +2652,12 @@ d\) **[Não precisamos]{.underline}** disso.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \coment{
-a\) se = condição; de fato = certeza
-b\) exato = certeza
-c\) quase = condição; incontornável = certeza
+a\) se = condição; de fato = certeza.
+b\) exato = certeza.
+c\) quase = condição; incontornável = certeza.
 d\) Não precisamos = certeza.}
 
-Leia a campanha de incentivo à leitura, a seguir, para responder às
-questões 8 a 10.
+Veja a campanha de incentivo à leitura, a seguir, composta de imagem e de texto verbal, para responder às questões de 8 a 10.
 
 ![Diagrama Descrição gerada
 automaticamente](./imgSAEB_6_POR/media/image25.jpeg){width="2.1484219160104985in"
@@ -2709,7 +2674,7 @@ Qual é a intenção comunicativa do texto?
 \coment{A intenção é convencer o leitor a adotar a ideia da campanha,
 que é esquecer um livro em lugares públicos.}
 
-\num{9} O verbo "realizada" qualifica um termo que o precede. Que termo é
+\num{9} A palavra "realizada" qualifica um termo que a precede. Que termo é
 esse?
 
 \linhas{2}
@@ -2727,26 +2692,30 @@ Qual é o objetivo do uso desse modalizador nesta frase?
 \coment{O objetivo é reforçar, afirmar, que pessoas do Brasil inteiro
 estão aderindo à campanha.}
 
+
 \colorsec{Treino}
 
-\num{1} Leia o cartaz a seguir.
+\num{1} Observe a imagem de uma campanha contra o bullying e leia o texto que a acompanha.
 
-![Texto, Quadro de comunicações Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image26.jpeg){width="5.905555555555556in"
-height="3.2263888888888888in"}
+https://www.freepik.com/free-vector/flat-design-bullying-concept-with-characters_10749903.htm#query=bullying%20vector&position=4&from_view=search&track=ais
+Não humilhe as pessoas, solidarize-se com elas;
+Ofereça ajuda a quem sofre bullying ou se sente excluído;
+Não seja você o causador do si=ofrimento do outro. 
+
+Lembre-se: bullying não tem graça
 
 Em "Bullying não tem graça", o advérbio "não" demonstra que o
-**posicionamento do enunciador**, ou seja, quem divulga a campanha, é de
+**posicionamento do enunciador**, ou seja, de quem divulga a campanha, é de
 
-a\) negação.
+a\) negação em relação ao fato de o bullying ser um problema.
 
-b\) certeza.
+b\) certeza de que não tem diversão em se fazer bullying.
 
-c\) condição.
+c\) condição, pois só se saberá se será engraçada a ação depois de ela concretizada.
 
-d\) possibilidade.
+d\) possibilidade de que o bullying seja engraçado.
 
-BNCC: EF69LP04.
+BNCC: EF69LP04 -- Identificar e analisar os efeitos de sentido que fortalecem a persuasão nos textos publicitários, relacionando as estratégias de persuasão e apelo ao consumo com os recursos linguístico-discursivos utilizados, como imagens, tempo verbal, jogos de palavras, figuras de linguagem etc., com vistas a fomentar práticas de consumo conscientes.
 
 a\) Incorreta. O advérbio de negação, aqui, não nega o posicionamento do
 enunciador da campanha, pelo contrário, ele o afirma.
@@ -2773,8 +2742,7 @@ predeterminado e o limite de jogo por no máximo três horas semanais. A
 medida foi tomada com o objetivo de prevenir o vício e combater o que
 tem sido chamado de "ópio do espírito" pela mídia chinesa.
 
-Entretanto, na avaliação de [Valdemar
-Setzer](https://www.ime.usp.br/~vwsetzer/), professor titular sênior do
+Entretanto, na avaliação de Valdemar Setzer, professor titular sênior do
 Departamento de Ciência da Computação do Instituto de Matemática e
 Estatística (IME) da USP, a proibição não é a melhor estratégia. "Em
 princípio, eu sou contra proibições, pois elas vão contra a liberdade
@@ -2784,11 +2752,9 @@ eles próprios adotarem as atitudes corretas", acrescenta o professor, ao
 comentar que os limites deveriam ser impostos por pais, mães e
 responsáveis pelas crianças.
 
-(TAMMAKO, Rodrigo; FUENTES, Patrick. Jogos eletrônicos podem desenvolver
-dependência e prejudicar desenvolvimento infantil. Jornal da USP,
-publicado em 30/09/2021. Disponível em: \<
-<https://jornal.usp.br/atualidades/jogos-eletronicos-podem-desenvolver-dependencia-e-prejudicar-desenvolvimento-infantil/>\>.
-Acesso em: mar. 2023. Adaptado.)
+(Rodrigo Tammako e Patrick Fuentes. Jornal da USP. Jogos eletrônicos podem desenvolver
+dependência e prejudicar desenvolvimento infantil. Disponível em: \<
+<https://jornal.usp.br/atualidades/jogos-eletronicos-podem-desenvolver-dependencia-e-prejudicar-desenvolvimento-infantil/>\>. Acesso em: 21 mar. 2023. Adaptado.)
 
 O termo "Em princípio" é usado pelo especialista a fim de
 
@@ -2804,7 +2770,7 @@ dali adiante.
 d\) apresentar em primeiro lugar o que ele pensa sobre um outro assunto,
 antes de voltar ao tema do texto.
 
-BNCC: EF69LP04.
+BNCC: EF69LP04 -- Identificar e analisar os efeitos de sentido que fortalecem a persuasão nos textos publicitários, relacionando as estratégias de persuasão e apelo ao consumo com os recursos linguístico-discursivos utilizados, como imagens, tempo verbal, jogos de palavras, figuras de linguagem etc., com vistas a fomentar práticas de consumo conscientes.
 
 a\) Incorreta. O especialista coloca apenas um posicionamento: ele é a
 favor da proibição em alguns casos.
@@ -2812,8 +2778,7 @@ favor da proibição em alguns casos.
 b\) Incorreta. O especialista não se contradiz. Ele é contraditório à
 proibição dos jogos.
 
-c\) demonstrar ao leitor que irá começar a apresentar seu
-posicionamento dali adiante.
+c\) Correta. O objetivo do especialista é demarcar para o leitor que irá começar a apresentar seu posicionamento dali adiante.
 
 d\) Incorreta. O especialista fala apenas sobre um assunto: ele é contra
 a proibição, e justifica seu posicionamento.
@@ -2828,11 +2793,11 @@ a\) condição.
 
 b\) obrigação.
 
-c\) permissão.
+c\) contradição.
 
-d\) dúvida.
+d\) necessidade.
 
-BNCC: EF69LP04.
+BNCC: EF69LP04 -- Identificar e analisar os efeitos de sentido que fortalecem a persuasão nos textos publicitários, relacionando as estratégias de persuasão e apelo ao consumo com os recursos linguístico-discursivos utilizados, como imagens, tempo verbal, jogos de palavras, figuras de linguagem etc., com vistas a fomentar práticas de consumo conscientes.
 
 a\) Correta. Ao trocar o verbo "deveria", que exprime uma
 obrigatoriedade, por "poderia", a frase toma o sentido de condição, ou
@@ -2842,12 +2807,9 @@ circunstância.
 b\) Incorreta. O verbo "poderia" exprime possibilidade mediante
 condição. O verbo "dever" já está representando obrigatoriedade.
 
-c\) Incorreta. O verbo "poderia" não é usado para representar permissão,
-exceto se no caso de pergunta. Por exemplo: "Eu poderia conscientizar as
-pessoas?"
+c\) Incorreta. O verbo "poderia" não geraria contradição, haveria apenas modificação de sentido.
 
-d\) Incorreta. O verbo "poderia" não exprime dúvida, exceto se no caso
-de pergunta. Por exemplo: "Eu poderia conscientizar as pessoas?"
+d\) Incorreta. O verbo "poderia" não exprime necessidade ou obrigação, se inserido nesse contexto.
 
 
 
@@ -2857,14 +2819,14 @@ de pergunta. Por exemplo: "Eu poderia conscientizar as pessoas?"
   - Analisar o uso de figuras de linguagem como estratégia argumentativa.
 - Avaliar a eficácia das estratégias argumentativas em textos de diferentes gêneros.
 
-Habilidades da BNCC: EF69LP17 e EF67LP38.
+Habilidades da BNCC: EF69LP17, EF67LP38.
   
 
 \conteudo{Figuras de linguagem são recursos utilizados para expressar ideias e
 emoções de forma mais intensa, criativa e poética. São usadas para
 enriquecer o discurso, tornando-o mais expressivo e marcante.
 
-As principais figuras de linguagem mais comuns são:
+Algumas das figuras de linguagem mais comuns são:
 
 **Metáfora:** comparação implícita entre duas coisas que têm
 características em comum;
@@ -2881,10 +2843,7 @@ humor;
 **Personificação:** atribuição de características humanas a seres
 inanimados ou animais;
 
-**Catacrese:** quando uma palavra é usada de forma incorreta ou
-inapropriada, por falta de um termo mais adequado. Exemplo: Passe-me
-aquele negócio ali (negócio = objeto desconhecido ou sem nome
-específico);
+**Catacrese:** quando uma palavra é usada de forma aproximada ou adaptada, por falta de um termo mais adequado, como "asa da xícara" ou "pé da cama";
 
 **Sinestesia:** ocorre quando uma expressão mistura duas sensações
 diferentes entre aquelas percebidas pelos órgãos sensoriais;
@@ -2896,13 +2855,12 @@ agressiva ou desagradável;
 
 **Onomatopeia:** representação gráfica dos sons;
 
-**Aliteração:** repetição de fonemas idênticos ou semelhantes para
+**Aliteração:** repetição de sosns consonantais idênticos ou semelhantes para
 sugerir acusticamente algum elemento, ato, fenômeno;
 
-**Pleonasmo:** é uma figura de linguagem que expressa a redundância.
+**Pleonasmo:** construção em que se expressam as ideias de forma redundante, para enfatizá-las.
 
-As figuras de
-linguagem são usadas para:
+As figuras de linguagem são usadas para:
 
 **Tornar a mensagem mais expressiva**: podem tornar a mensagem mais
 marcante, expressiva e poética, tornando-a mais impactante para quem
@@ -2927,11 +2885,11 @@ de forma mais vívida e intensa.
 identificação entre a mensagem e o contexto em que ela está sendo
 utilizada, tornando-a mais pessoal e próxima do leitor ou ouvinte.}
 
-Leia o texto a seguir para responder às questões 1 a 4.
+Observe a campanha de conscientização a seguir, composta de imagem e de texto, para responder às questões de 1 a 4.
 
-![Diagrama Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image27.jpeg){width="4.0787893700787405in"
-height="5.689394138232721in"}
+https://www.freepik.com/free-vector/hand-holding-blood-bag-type-donation_28880878.htm#query=blood%20donation&position=21&from_view=search&track=ais
+Dê vida de presente: doe sangue e faça alguém viver mais e melhor.
+%Se possível, escrever o slogan sobre a imagem.
 
 \num{1} Qual é o objetivo da campanha?
 
@@ -2949,9 +2907,7 @@ height="5.689394138232721in"}
 
 \linhas{4}
 
-\coment{A imagem é um cartãozinho de "de -- para" na forma de uma gota
-de sangue. Ela complementa o texto no que diz respeito ao apelo visual
-da campanha.}
+\coment{A imagem associa o doador de sangue, por meio da imagem da bolsa, ao coração do receptor, por meio do ícone do órgão. O coração, nesse caso, representa a vida.}
 
 \num{4} Que figura de linguagem predomina na propaganda?
 
@@ -2960,49 +2916,45 @@ da campanha.}
 \coment{A metáfora é a figura predominante na campanha.}
 
 
-Leia a tirinha a seguir e responda às questões 5 a 8.
+Leia o diálogo a seguir e responda às questões de 5 a 8.
 
-![Interface gráfica do usuário, Aplicativo, Teams Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image28.png){width="4.608732502187227in"
-height="5.833838582677165in"}
+https://www.freepik.com/free-photo/two-kids-boy-girl-with-backpacks-books-going-school_18133798.htm#query=friends%20talking%20at%20school&position=18&from_view=search&track=ais
+-- Aninha, você acha que a gente ganha o interclasses neste semestre?
+-- Lógico, Gael, eu até já sinto o cheiro do brilho do troféu!
+-- Que cheiro ele tem?
+-- Agora tá parecendo cheiro de lanche da cantina. Que horas são?
 
-WESLEY. As crônicas de Wesley. Disponível em:
-<https://www.instagram.com/p/CpTRhacyAL8/>. Acesso em: mar. 2023.
 
-\num{5} Em "Acha que vamos vencer o interclasse este ano?", qual é a figura
-de linguagem presente? O que a fala da personagem significa?
+\num{5} Em "Aninha, você acha que a gente ganha o interclasses neste semestre?", qual é a figura de linguagem presente? O que a fala da personagem significa?
 
 \linhas{5}
 
 \coment{A figura de linguagem presente é a metonímia, ou seja, quando
 há substituição da parte pelo todo. O menino substitui a palavra
-"campeonato" pelo nome, "interclasse".}
+"campeonato" pelo nome desse campeonato em questão, "interclasse".}
 
-\num{6} Em "Já sinto o cheiro da vitória!", qual é a figura de linguagem
+\num{6} Em "já sinto o cheiro do brilho do troféu", qual é a figura de linguagem
 presente? O que a fala da personagem significa?
 
 \linhas{4}
 
 \coment{A figura de linguagem presente é a sinestesia. A personagem
-quis dizer que ele pressentia que iriam vencer o campeonato.}
+quis dizer que ela pressentia que iriam vencer o campeonato.}
 
 \num{7} Em qual momento da história é possível identificar o efeito de humor
-da tirinha? Quais recursos são usados para que isso aconteça?
+da tirinha? Como esse humor se constrói?
 
 \linhas{5}
 
-\coment{No terceiro quadrinho, quando a personagem, cheira a própria
-axila. Os recursos usados são a imagem dela com o braço erguido,
-cheirando a si mesma, e a onomatopeia "snif, snif".}
+\coment{Quando o cheiro "figurado" da vitória é substituído pelo cheiro "real" do lanche da cantina, acontece uma quebra de expectativa que gera humor.}
 
-\num{8} O que provoca o efeito de humor na tira?
+\num{8} Como se pode interpretar a relação entre a pergunta "Que horas são?" e o restante do diálogo?
 
 \linhas{3}
 
-\coment{O fato de a menina se chamar Vitória, e ter entendido que o
-garoto sentia o cheiro dela.}
+\coment{O fato de Aninha sentir cheiro do lanche provavelmente mostra que ela está com fome ou com vontade de comer - assim, a pergunta sobre o horário pode ser para ela saber se eles estão próximos do momento do intervalo, já que é nesse horário que geralmente os alunos comem lanche na cantina.}
 
-\num{9} Assinale a alternativa que contém uma metáfora.
+\num{9} Assinale a alternativa que contém uma catacrese.
 
 a\) Meu avô é sábio, grande, fantástico!
 
@@ -3027,30 +2979,26 @@ aperta mais. Se não está com fome, bebe mingau e a fome abre. Há tanta
 coisa boa para se fazer com fubá: cuscuz, broas, sonhos, bolos, e
 ninguém quer sair do mingau de fubá."
 
-(MORLEY, Helena. *Minha vida de menina*. São Paulo: Companhia de Bolso,
+(Helena Morley. *Minha vida de menina*. São Paulo: Companhia de Bolso,
 2016.)
 
-Identifique os dois trechos em que aparecem figuras de linguagem e
-classifique-as.
+Explique como a figura da personificação aparece no trecho.
 
 \linhas{6}
 
-\coment{o trecho, aparecem duas figuras de linguagem: personificação,
-quando o texto diz que "a fome aperta" e "a forme abre", e gradação,
-quando se listam o que pode ser feito com o fubá: "cuscuz, broas,
-sonhos, bolos".}
+\coment{No trecho, aparece personificação quando se diz que "a fome aperta" e "a forme abre".}
 
 \colorsec{Treino}
 
 \num{1}
 
-E Chapeuzinho Amarelo, de tanto pensar no LOBO, de tanto sonhar com
-LOBO, de tanto esperar o LOBO, um dia topou com ele que era assim: carão
-de LOBO, olhão de LOBO, jeitão de LOBO e principalmente um bocão tão
-grande que era capaz de comer duas avós, um caçador, rei, princesa, sete
-panelas de arroz e um chapéu de sobremesa.
+https://www.freepik.com/free-vector/hand-drawn-little-red-riding-hood-illustration_14669920.htm#query=chapeuzinho%20vermelho&position=24&from_view=search&track=ais
 
-(BUARQUE, Chico. Chapeuzinho Amarelo. Ilustrações de Ziraldo. Belo
+[...] de tanto pensar no LOBO, de tanto sonhar com
+LOBO, de tanto esperar o LOBO, um dia topou com ele que era assim: carão
+de LOBO, olhão de LOBO, jeitão de LOBO [...].
+
+(Chico Buarque. Chapeuzinho Amarelo. Ilustrações de Ziraldo. Belo
 Horizonte: Autêntica, 2017.)
 
 A figura de linguagem representada no trecho pela repetição do fonema
@@ -3064,11 +3012,11 @@ c\) pleonasmo.
 
 d\) metáfora.
 
-BNCC: EF67LP38.
+BNCC: EF67LP38 -- Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.
 
 a\) Incorreta. Onomatopeia é a representação gráfica dos sons.
 
-b\) Correta. Aliteração é a repetição de fonemas idênticos ou
+b\) Correta. Aliteração é a repetição de sons consonantais idênticos ou
 semelhantes para sugerir acusticamente algum elemento, ato, fenômeno.
 
 c\) Incorreta. Pleonasmo é uma figura de linguagem que expressa a
@@ -3078,11 +3026,10 @@ d\) Incorreta. Metáfora é uma comparação implícita entre duas coisas que
 têm características em comum.
 
 
-\num{2} Observe a publicidade do Greenpeace, a seguir.
+\num{2} Observe a imagem a seguir, que apresenta apenas texto não verbal para promover a necessidade de cuidarmos do Meio Ambiente.
 
-![Vista aérea de um campo Descrição gerada automaticamente com confiança
-média](./imgSAEB_6_POR/media/image29.jpeg){width="5.905555555555556in"
-height="3.9722222222222223in"}
+https://www.freepik.com/free-photo/concept-plant-glass-bulb_2367789.htm#query=protect%20the%20enviroment&position=1&from_view=search&track=ais
+
 
 O argumento utilizado na campanha que incentiva o combate ao
 desmatamento é
@@ -3095,10 +3042,9 @@ c\) uma hipérbole.
 
 d\) uma personificação.
 
-BNCC: EF67LP38.
+BNCC: EF67LP38 -- Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.
 
-a\) A campanha argumenta comparando a mata a um tabuleiro de
-xadrez, ou seja, uma metáfora.
+a\) Correta. A campanha argumenta comparando a proteção ao Meio Ambiente a uma ideia, representada visualmente pela lâmpada.
 
 b\) Incorreta. O eufemismo utiliza-se de expressões para atenuar uma
 ideia tida como agressiva ou desagradável.
@@ -3112,14 +3058,16 @@ humanas a seres e objetos inanimados.
 
 \num{3} Leia um trecho de um artigo de opinião, a seguir.
 
+https://www.freepik.com/free-photo/airplane-flying-cloudy-sky_5869139.htm#query=plane&position=5&from_view=search&track=sph
+
 "Mas o pai da aviação continua sendo Santos Dumont, não Boeing, Airbus,
 Lockheed --- que cuidaram, investiram e fizeram **aquela saltitante
 criaturinha de bambu e seda** se transformar nesses galalaus de
 alumínio --- com péssimo serviço de bordo, diga-se de passagem."
 
-(AFFONSO, Eduardo. Disponível em: \<
+(Eduardo Affonso. IG Opinião. Disponível em: \<
 <https://lulacerda.ig.com.br/opiniao-por-eduardo-affonso-pai-e-quem-cuida/>\>.
-Acesso em: mar. 2023. Adaptado)
+Acesso em: 26 mar. 2023.)
 
 O efeito de humor apresentado no trecho em destaque, "aquela saltitante
 criaturinha de bambu e seda", é dado por meio de
@@ -3132,18 +3080,18 @@ c\) catacrese.
 
 d\) metonímia.
 
-BNCC: EF67LP38.
+BNCC: EF67LP38 -- Analisar os efeitos de sentido do uso de figuras de linguagem, como comparação, metáfora, metonímia, personificação, hipérbole, dentre outras.
 
-a\) Incorreta. Metáfora é uma comparação.
+a\) Correta. Metáfora é uma comparação sem uso de conector, como acontece na passagem.
 
 b\) Incorreta. A personificação consiste em atribuir características
 humanas a seres e objetos inanimados.
 
 c\) Incorreta. A catacrese ocorre quando uma palavra é usada de forma
-incorreta ou inapropriada, por falta de um termo mais adequado.
+aproximada, quando não se tem um termo mais específico.
 
-d\) A criatura a que o texto se refere é o 14Bis, avião
-construído por Santos Dummont. A figura de linguagem é a metonímia.
+d\) Incorreta. A criatura a que o texto se refere é o 14Bis, avião
+construído por Santos Dummont. Não ocorre metonímia.
 
 
 
@@ -3158,35 +3106,28 @@ construído por Santos Dummont. A figura de linguagem é a metonímia.
 Habilidade da BNCC: EF06LP12.
  
  \coment{
-Na língua portuguesa, sempre que vamos nos referir a um substantivo
+Na língua portuguesa, quando vamos nos referir a um substantivo,
 empregamos algumas classes de palavras capazes de dar a ele limites de
 significação. É o caso de artigos, adjetivos, numerais e pronomes.
 
 Os pronomes são os responsáveis por relacionar o substantivo a uma das
 três pessoas do discurso (quem fala, com quem se fala e de quem se
 fala), podendo, ainda, indicar a posse de um objeto ou sua localização.
-Quando substituem o substantivo, denominam-se pronome substantivo;
-quando o acompanham, pronome adjetivo.
+Quando substituem o nome, denominam-se pronomes substantivos;
+quando o acompanham, pronomes adjetivos.
 
 Os pronomes classificam-se em: pessoais, possessivos, demonstrativos,
 interrogativos, indefinidos e relativos.
 
-Ainda no campo semântico da língua, ou seja, que estuda as classes de
+Ainda no campo semântico da língua, ou seja, aquele em que se estudam as classes de
 palavras, vamos ressaltar neste módulo o estudo dos **sinônimos** (em
 que palavras diferentes apresentem semelhante ou igual campo de
-significação), **antônimos** (referem-se a termos que apresentam,
-simultaneamente, grafias e sentidos diferentes, esses, muitas vezes
-opostos entre si) e **homônimos** (palavras que trazem sentido distinto,
-embora apresentem pronúncia idêntica).}
+significação), **antônimos** (palavras referem-se a termos que apresentam sentidos
+opostos entre si) e **homônimos** (palavras que coincidem na fala, na escrita ou em ambas.).}
 
 
-Observe a imagem a seguir e responda aos exercícios.
+Observe a imagem a seguir, leia o texto que a acompanha e responda às questões de 1 a 4.
 
-![Texto sobre foto de cachorro Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image30.png){width="3.145736001749781in"
-height="3.1416666666666666in"}
-
-\fonte{
 <https://br.freepik.com/fotos-gratis/colecao-de-retratos-de-cachorrinhos-adoraveis_19008908.htm#query=pets&position=21&from_view=search&track=sph>
 
 Textos: TODO GRUPINHO DA ESCOLA TEM
@@ -3218,19 +3159,18 @@ sentido provocado pelo pronome em destaque?
 \linhas{4}
 
 \coment{"Todo" é um pronome indefinido, que traz ao texto a ideia de
-generalização: todo grupo tem um aluno com aquelas características,
-porém sem nomear um grupo específico.}
+generalização, porém sem nomear um grupo específico: qualquer grupo tem um aluno com aquelas características.}
 
 \num{3} Substitua os termos destacados a seguir por um sinônimo e um
-antônimo.
+antônimo, considerando o contexto.
 
-a\) o que faz **cara de dó**
+a\) o que faz cara de **dó**
 
 Sinônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Antônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-b\) o que **só ri**
+b\) o que só **ri**
 
 Sinônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3242,7 +3182,7 @@ Sinônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Antônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-d\) o que só **tira nota alta**
+d\) o que só tira nota **alta**
 
 Sinônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3251,14 +3191,14 @@ Antônimo:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \coment{Algumas alternativas apresentam mais de uma
 possibilidade de resposta. Sugere-se, se possível, aproveitar a
 atividade para orientar o uso de um dicionário para consulta.
-a\) Sinônimo: cara de piedade
-Antônimo: cada de sapeca
-b\) Sinônimo: cara de piedade
-Antônimo: cada de sapeca
+a\) Sinônimo: piedade
+Antônimo: desprezo
+b\) Sinônimo: gargalha
+Antônimo: chora
 c\) Sinônimo: cortês, gentil, solidário
 Antônimo: malvado
-d\) Sinônimo: inteligente
-Antônimo: tira nota baixa}
+d\) Sinônimo: boa
+Antônimo: baixa}
 
 \num{4} Um dos cachorrinhos representa um tipo de aluno considerado
 "desligado". Escreva uma frase que contenha um efeito de sentido
@@ -3289,91 +3229,45 @@ d\) Nada pode fazer para \_\_\_\_\_\_\_\_\_ ficar, infelizmente.
 
 e\) Entre \_\_\_\_\_\_ e você há um abismo de ressentimentos.
 
-f\) Entre tu e \_\_\_\_\_\_\_\_ há muitos assuntos para serem tratados.
+f\) Pode fazer aquela comida gostosa para \_\_\_\_\_\_\_\_?
 
-g\) Pode fazer aquela comida gostosa para \_\_\_\_\_\_\_\_?
-
-\coment{a\) eu; b) mim; c) eu; d) eu; e) eu; f) eu; g) mim}
+\coment{a\) eu; b) mim; c) eu; d) eu; e) mim; f) mim}
 
 Leia um excerto da crônica "O lápis", de Mário Prata, e responda aos
-exercícios 6 a 9.
+exercícios de 6 a 9.
 
-"Aí, não tendo mais o que inventar para brincar, resolvi escrever um
-texto com letra de forma (por que se chama de forma?), escanear e ver se
-o computador reconhecia o meu texto. Não. Não por culpa dele, mas pela
-minha letra mesmo que, nestas últimas décadas, dado ao desuso, e não
-apenas o computador não entende. Afinal, hoje em dia, além de preencher
-cheques, para que serve escrever à mão? Como para que serve saber somar
-ou subtrair se as maquininhas estão aí? Para que serve o curso primário?
-
-É aqui que eu queria chegar. Não adianta o governo testar alunos e
+"É aqui que eu queria chegar. Não adianta o governo testar alunos e
 professores e universidades. Vai dar sempre zebra. O buraco é bem mais
-embaixo senhor Ministro da Educação. Vamos voltar ao lápis e ao dois
+embaixo, senhor Ministro da Educação. Vamos voltar ao lápis e ao dois
 mais dois. Vamos começar pela base. Vamos escrever a lápis. Mesmo
 porque, se não der certo, a gente apaga e começa de novo."
 
-(PRATA, Mario. O lápis. Disponível em:
-<https://marioprata.net/cronicas/o-lapis/>. Acesso em: mar. 2023.
+(Mario Prata. O lápis. Disponível em:
+<https://marioprata.net/cronicas/o-lapis/>. Acesso em: 15 mar. 2023.
 Adaptado.)
 
-\num{6} Substitua o termo em destaque nas frases por um pronome pessoal
-adequado.
+\num{6} Substitua os termos em destaque na frase pelos pronomes pessoais
+adequados.
 
-a\) Resolvi escrever um texto com letra de forma, escanear e ver se o
-computador reconhecia **o meu texto**.
-
-\linhas{2}
-
-\coment{Resolvi escrever um texto com letra de forma, escanear e ver
-se o computador **o** reconhecia.}
-
-b\) Para que serve saber somar ou subtrair se **as maquininhas** estão
-aí?
+Não adianta **o governo** testar **alunos e professores e universidades**.
 
 \linhas{2}
 
-\coment{Para que serve saber somar ou subtrair se **elas** estão aí?}
+\coment{Não adianta ele os testar.}
 
-c\) Para que serve o curso primário?
 
-\linhas{2}
+\num{7} Em "É aqui que eu queria chegar" o enunciador se refere, de fato, a um lugar geográfico? Explique.
 
-\coment{Para que serve **ele**?}
-
-d\) Não adianta o governo testar **alunos** **e professores e
-universidades.**
-
-\linhas{2}
-
-\coment{Não adianta o governo testá-los.}
-
-e\) Se não der certo, **a gente** apaga e começa de novo.
-
-\linhas{2}
-
-\coment{Se não der certo, **nós apagamos** **e começamos** de novo.}
-
-\num{7} Transforme o trecho que está em discurso direto, a seguir, para
-discurso indireto.
-
-Aí, não tendo mais o que inventar para brincar, resolvi escrever um
-texto com letra de forma (por que se chama de forma?), escanear e ver se
-o computador reconhecia o meu texto.
 
 \linhas{6}
 
-\coment{Aí, não tendo mais o que inventar para brincar, resolveu escrever um
-texto com letra de forma. Perguntou a si mesmo por que se chamava letra
-de forma. Escaneou e viu se o computador reconhecia seu texto.}
+\coment{Não se trata de uma referência a um lugar físico, mas sim, da referência a um ponto da argumentação a que o enunciador queria chegar em seu texto.}
 
-\num{8} No trecho "É aqui que eu queria chegar.", a que se refere o pronome
-demonstrativo "aqui"?
+\num{8} O que significa a palavra "zebra" no contexto em que aparece? Que sinônimo poderia substituir essa palavra no texto?
 
 \linhas{5}
 
-\coment{Aqui não se refere a um lugar específico, e sim a um problema
-que o autor começará a relatar logo em seguida: de que não adianta o
-governo testar alunos e professores e universidades.}
+\coment{Nesse contexto, a palavra significa "problema" ou "resultado ruim". Um bom sinônimo seria a própria palavra "problema".}
 
 \num{9} Reescreva o trecho a seguir, a fim de eliminar as repetições.
 
@@ -3387,26 +3281,17 @@ começa de novo."
 escrever a lápis, porque, se não der certo, nós apagamos e começamos de
 novo.}
 
-\num{10} Observe a propaganda sobre o desperdício de alimentos:
+\num{10} Observe a campanha, composta por imagem e slogan.
 
-![Diagrama Descrição gerada automaticamente com confiança
-baixa](./imgSAEB_6_POR/media/image31.jpeg){width="4.175in"
-height="5.910983158355205in"}
+https://www.freepik.com/free-photo/top-view-food-crisis-concept-with-plate_40477114.htm#query=loosing%20food&position=17&from_view=search&track=ais
+Quanta comida se desperdiça no mundo?
+E quanta gente passa fome?
 
-\fonte{
-<https://mercado.etc.br/estudantes-no-parana-desenvolvem-campanha-sobre-desperdicio-de-alimentos/>.
-Acesso em: mar. 2023.
-
-Reescreva a frase a seguir, substituindo o pronome indefinido "quanta"
-por outro que provoque mesmo efeito de sentido.
-
-**Quanta comida é desperdiçada no mundo?**
+Reescreva o slogan, composto por duas frases interrogativas, transformando-as em frases afirmativas e fazendo os ajustes necessários. 
 
 \linhas{2}
 
-\coment{Sugestões de resposta: Muita comida é desperdiçada no mundo.
-Tantos alimentos são desperdiçados no mundo.
-Tanta comida é desperdiçada no mundo.}
+\coment{Desperdiça-se muita comida no mundo. Muita gente passa fome.}
 
 \colorsec{Treino}
 
@@ -3415,46 +3300,36 @@ Tanta comida é desperdiçada no mundo.}
 **O Brasil precisa do SUS: lançada campanha nacional de defesa do
 Sistema Único de Saúde**
 
-A coordenadora do Campus Virtual Fiocruz, Ana Furniel, consoante com a
-campanha \#OBrasilPrecisadoSUS, aponta que o Sistema Único de Saúde é
-imprescindível para o país. Seu papel na pandemia ressaltou ainda mais a
-sua importância. "É interessante pensar no todo, pois quando falamos do
-SUS ainda se pensa de forma limitada ao atendimento hospitalar. No
-entanto, o SUS é maior, ele é atenção hospitalar, sim, mas é vacina,
-medicamento, atenção primária, vigilância e é, especialmente para nós,
-formação de profissionais de saúde. Essa é a esfera de contribuição do
-CVF".
+A coordenadora do Campus Virtual Fiocruz, Ana Furniel [...] aponta que o Sistema Único de Saúde é imprescindível para o país. Seu papel na pandemia ressaltou ainda mais a
+sua importância. [...]
 
-(SCHINCARIOL, Isabela. *O Brasil precisa do SUS: lançada campanha
-nacional de defesa do Sistema Único de Saúde*. Fiocruz, publicado em 15
-de dez. 2020. Disponível em: \<
+(Isabela Schincariol. Fiocruz. *O Brasil precisa do SUS: lançada campanha
+nacional de defesa do Sistema Único de Saúde*. Disponível em: \<
 <https://campusvirtual.fiocruz.br/portal/?q=noticia/59976>\>. Acesso em:
-mar. 2023. Adaptado.)
+12 mar. 2023.)
 
 Em "Seu papel na pandemia ressaltou ainda mais a sua importância.", os
-pronomes possessivos seu e sua referem-se
+pronomes possessivos *seu* e *sua* referem-se
 
 a\) ao SUS e à coordenadora do Campus Virtual Fiocruz.
 
-b\) ao SUS apenas.
+b\) ao SUS, ambos.
 
-c\) à coordenadora do Campus Virtual Fiocruz apenas.
+c\) à coordenadora do Campus Virtual Fiocruz, apenas.
 
 d\) à campanha \#OBrasilPrecisadoSUS.
 
-BNCC: EF06LP12.
+BNCC: EF06LP12 -- Utilizar, ao produzir texto, recursos de coesão referencial (nome e
+pronomes), recursos semânticos de sinonímia, antonímia e homonímia e mecanismos de representação de diferentes vozes (discurso direto e indireto).
 
-a\) Incorreta. Caso a frase fizesse referência ao SUS e à profissional,
-deveria estar escrita da seguinte forma: O papel do SUS na pandemia
-ressaltou ainda mais a importância da especialista.
+a\) Incorreta. Não há referência à profissional, apenas ao sistema.
 
-b\) Correta. Os pronomes seu e sua referem-se ambos ao SUS. Contudo, há
-uma incoerência gramatical na frase.
+b\) Correta. Os pronomes referem-se ambos ao SUS. 
 
 c\) Incorreta. Os pronomes fazem referência à importância do SUS.
 
 d\) Incorreta. Os pronomes fazem referência ao último substantivo do
-qual se fala, no caso, o SUS.
+qual se fala, no caso, o SUS; e concordam, inclusive, com ele.
 
 
 \num{2} Leia o texto a seguir.
@@ -3477,7 +3352,7 @@ diversos prêmios como o Jabuti.
 
 (Disponível em: \<
 <https://tvbrasil.ebc.com.br/entrevista-com-ruth-rocha-e-destaques-no-dia-das-criancas>\>.
-Acesso em: mar. 2023. Adaptado)
+Acesso em: 23 mar. 2023. Adaptado)
 
 Na fala de Ruth Rocha, o pronome "todos" refere-se a(aos)
 
@@ -3489,7 +3364,8 @@ c\) aos professores.
 
 d\) a alunos e professores.
 
-BNCC: EF06LP12
+BNCC: EF06LP12 -- Utilizar, ao produzir texto, recursos de coesão referencial (nome e
+pronomes), recursos semânticos de sinonímia, antonímia e homonímia e mecanismos de representação de diferentes vozes (discurso direto e indireto).
 
 a\) Incorreta. O pronome refere-se a alunos e professores.
 
@@ -3499,8 +3375,8 @@ plural. O pronome acompanha o substantivo em número.
 c\) Incorreta. O pronome refere-se a alunos e professores, todos têm que
 gostar do livro.
 
-d\) Correta. O pronome referencia-se a alunos e professores, o que é
-reforçado pelo verbo ter na 3ª pessoa do plural.
+d\) Correta. O pronome faz referência a alunos e professores, o que é
+reforçado pelo fato de o verbo estar na 3ª pessoa do plural.
 
 
 \num{3} Leia o texto a seguir.
@@ -3518,33 +3394,30 @@ Brasil em 2015, para se casar com uma brasileira que conheceu quando era
 guia turístico na Venezuela. Ele sempre prepara o *sancocho* em sua casa
 no bairro do Butantã, em São Paulo.
 
-(MARIUZZO, Patrícia. Sabores sem fronteiras. Publicado em 7 fev. 2022.
-Disponível em:
+(Patrícia Mariuzzo. Sabores sem fronteiras.  Disponível em:
 <https://www.unicamp.br/unicamp/ju/noticias/2022/02/07/sabores-sem-fronteiras>.
-Acesso em: mar. 2023. Adaptado.)
+Acesso em: 7 mar. 2023. Adaptado.)
 
-A escolha do pronome **esta** por Ricardo, ao se referir ao *sancocho*,
-está correta pois
+A escolha do pronome **esta**, ao se referir ao *sancocho*, está correta pois o enunciador
 
-a\) ele está próximo ao prato.
+a\) está geograficamente próximo ao prato.
 
-b\) ele patenteou a receita.
+b\) patenteou a receita.
 
-c\) ele está falando de sua receita no livro.
+c\) menciona a receita depois de aparecer o pronome.
 
-d\) ele quer que o leitor se sinta próximo à receita.
+d\) quer que o leitor se sinta próximo à receita.
 
-BNCC: EF06LP12.
+BNCC: EF06LP12 -- Utilizar, ao produzir texto, recursos de coesão referencial (nome e
+pronomes), recursos semânticos de sinonímia, antonímia e homonímia e mecanismos de representação de diferentes vozes (discurso direto e indireto).
 
 a\) Incorreta. Não se pode afirmar que no momento da entrevista havia um
-prato feito próximo a Ricardo.
+prato feito próximo a ele.
 
 b\) Incorreta. O texto não informa que a receita foi patenteada por
-Ricardo ou pelo livro, pelo contrário, a ideia do livro é divulga-la.
+Ricardo ou pelo livro, pelo contrário, a ideia do livro é divulgá-la.
 
-c\) A reportagem é sobre o livro de receitas e o texto leva a
-crer que Ricardo é um dos personagens, que, na entrevista, está falando
-sobre sua receita presente no livro.
+c\) Correta. Trata-se da construção de um processo de coesão referencial catafórica.
 
 d\) Incorreta. Caso o intuito de Ricardo fosse fazer com que o leitor se
 sentisse próximo à receita, o pronome mais adequado seria "essa".
@@ -3559,7 +3432,7 @@ sentisse próximo à receita, o pronome mais adequado seria "essa".
   - Analisar as variedades linguísticas em textos.
 - Avaliar a adequação das variedades linguísticas em contextos de uso.
 
-Habilidades da BNCC: EF69LP55 e EF69LP56.
+Habilidades da BNCC: EF69LP55, EF69LP56.
 
 
 \conteudo{Desde que começados a estudar Língua Portuguesa na escola, sabemos que
@@ -3582,129 +3455,89 @@ falar a fim de se fazer entender.
 Essas diferenças de linguagem são chamadas de variações linguísticas,
 que se classificam da seguinte forma:
 
-Sociais: variedades linguísticas que dependem dos **grupos sociais em
+Sociais:  dependem dos **grupos sociais em
 que a pessoa se insere**, ou seja, das pessoas com quem ela convive.
 
-Regionais: que sofrem forte influência do **espaço geográfico** ocupado
+Regionais: sofrem forte influência do **espaço geográfico** ocupado
 pelo falante.
 
-Históricas: variedades linguísticas comumente usadas no passado, mas que
-caíram em desuso.
+Históricas: dependem da época de uso da língua, já que esse uso varia com o passar dos anos, das décadas, dos séculos.
 
 Estilísticas: surgem da adequação que o falante faz de seu nível de
 linguagem ao estilo exigido pelo texto ou pela situação comunicativa.
-Por exemplo, quando escrevemos uma redação para o vestibular, utilizamos
-uma linguagem formal; quando escrevemos uma postagem em rede social que
-será vista apenas por nossos amigos, escolhemos uma linguagem mais
-coloquial, às vezes usando recursos de imagem como emojis.
 
 É importante ressaltar que não existe jeito certo ou errado de falar.
 Existe a maneira mais adequada para cada contexto.
 
-"Segundo o professor, linguista e filólogo Marcos Bagno, o maior
+Segundo o professor, linguista e filólogo Marcos Bagno, o maior
 pesquisador deste campo no país, o preconceito linguístico pode ser
 classificado como todo juízo de valor negativo às variedades
 linguísticas de menor prestígio social.
 
 Isso significa que agir com preconceito linguístico é acreditar que quem
-não segue a normal culta escrita e falada está "usando o português
+não segue a norma padrão escrita e falada está "usando o português
 errado".
 
 Esse pré-julgamento costuma agir nas variantes mais informais da língua
 que acabam estando ligadas a classes sociais menos favorecidas, mas
-também a regionalidades e sotaques.
+também a regionalidades e sotaques.}
 
-Ainda segundo Bagno, a maior referência literária nacional sobre o
-assunto, o preconceito linguístico é reforçado por construções sociais
-ideológicas." (Fonte:
-<https://ead.uri.br/blog/preconceito-linguistico>.)}
+Leia o diálogo para responder às questões de 1 a 3.
 
-Leia a tirinha a seguir.
+https://www.freepik.com/free-vector/dinosaurs-walking-nature_22746948.htm#query=two%20dinossaurs%20talking&position=8&from_view=search&track=ais
+-- Mano, já ouviu falar num tal de meteoro? Não tem medo de chegar um aqui?
+-- Já, cara, mas eles se desmancham antes de chegar aqui, então não tem perigo pra gente.
+-- E se for muuuuuito grandão?
+-- Isso é muito raro. Imagina! Se acontecesse, a gente morreria.
+-- Daora que você entende de ciência, fico mais tranquilo.
 
-![Uma imagem contendo Texto Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image32.jpeg){width="3.45in"
-height="4.261788057742782in"}
-
-Disponível em: \<
-<https://dragoesdegaragem.com/cientirinhas/cientirinhas-162/>\>. Acesso
-em: mar. 2023.
-
-\num{1} Qual é a linguagem utilizada na tirinha?
+\num{1} Qual é a linguagem utilizada no diálogo?
 
 \linhas {2}
 
-\coment{A tirinha está escrita em linguagem informal ou coloquial.}
+\coment{O diálogo apresenta-se em linguagem informal ou coloquial.}
 
-\num{2} Que tipo de variação linguística ocorre na fala da lua, no terceiro
-quadrinho? Reescreva a fala, substituindo o termo "daora" por um
-sinônimo.
+\num{2} Que tipo de linguagem está representado pelo termo "daora"? Reescreva a fala, substituindo o termo por um sinônimo.
 
 \linhas{6}
 
 \coment{O termo "daora" é uma gíria. Ele poderia ser substituído por
-"legal", "demais", "muito bom", entre outros. Professor, aqui, atente-se
-às variações regionais dos alunos, pois esse termo pode sofrer
-influência de regionalismo.}
+"legal", "demais", "muito bom", entre outros. Legal que você entende de ciência, fico mais tranquilo.}
 
 \num{3} Qual é o efeito de humor da tira?
 
 \linhas{4}
 
-\coment{O fato de a Terra dizer que é raro um meteoro não se desfazer
-e, no último quadrinho, acontecer o momento em que os dinossauros são
-extintos.}
+\coment{O fato de os dinossauros não se preocuparem com meteoros quando, na verdade, seriam extintos por um deles.}
 
 Leia um trecho da reportagem do jornal *O Povo*, a seguir, e responda
 aos exercícios 4 e 5.
 
-Suricate Seboso celebra 10 anos de humor e cearensidade nas redes
-sociais
 
-No último mês do ano de 2012, precisamente no dia 12 de dezembro, a
-internet ganhou o que seria uma nova febre. Entre o sucesso de memes com
-palavras estrangeiras e fórmulas repetitivas, surgia a página Suricate
-Seboso, que se tornou símbolo digital do \"cearencês\". Desenvolvido por
-Diego Jovino e pelos cocriadores Leo Suricate e Dudu Suricate, este
-animal reconhecido pela linguagem própria acabou, também, conquistando
-uma rede de comunicação única dentro das telas.
+Suricate Seboso celebra uma década de humor e cearensidade
 
-Com este olhar atento, eles começaram a reproduzir os \"armaria, nam!\",
-\"vixe!\" e \"orra, diacho!\" -- apenas parte de um longo vocabulário
-local -- e foram sendo multiplicados no meio de crianças, adultos e
-idosos.
+Em 12 de dezembro de 2012, a internet foi agraciada com uma nova sensação. Em meio ao sucesso de memes com influências estrangeiras e fórmulas repetitivas, surgiu a página Suricate Seboso, que se tornou o símbolo digital do "cearencês". Criado por Diego Jovino em parceria com Leo Suricate e Dudu Suricate, esse personagem peculiar, conhecido por sua linguagem única, conquistou uma rede de seguidores fiéis através das telas.
 
-(MONTEZUMA, Lara. Suricate Seboso celebra 10 anos de humor e
-cearensidade nas redes sociais. Publicado em 12 de dezembro de 2022.
-Disponível em: \<
+Com um olhar atento, eles começaram a reproduzir expressões características da região, como "armaria, nam!", "vixe!" e "orra, diacho!", apenas para citar algumas do vasto vocabulário local. Essas expressões se multiplicaram, alcançando pessoas de todas as idades, desde crianças até idosos.
+
+(Fonte de pesquisa: Lara Montezuma. Suricate Seboso celebra 10 anos de humor e
+cearensidade nas redes sociais.  Disponível em: \<
 <https://www.opovo.com.br/vidaearte/2022/12/12/suricate-seboso-celebra-10-anos-de-humor-e-cearensidade-nas-redes-sociais.html>\>.
-Acesso em: mar. 2023. Adaptado)
+Acesso em: 14 mar. 2023.)
 
-\num{4} O termo "cearensidade", empregado no título da matéria, um
-neologismo que a qual tipo de variação linguística tratada no texto?
+\num{4} O termo "cearensidade", empregado no título da matéria, é um
+neologismo. O que a palavra significa, considerando o contexto em que se insere?
 
 \linhas{2}
 
-\coment{O termo refere-se ao regionalismo.}
+\coment{O termo refere-se à representação da cultura cearense (nesse caso, nas redes sociais).}
 
-\num{5} O termo "cearencês", usado no primeiro parágrafo é um(a)
+\num{5} Como essa "cearensidade" é exemplificada no texto?
 
-a\) gíria.
-
-b\) jargão.
-
-c\) coloquialismo.
-
-d\) regionalismo.
+\linhas {5}
 
 \coment{
-a\) Correta. Gíria.
-b\) Incorreta. Jargão é uma frase, expressão ou palavra que define algo
-específico de um grupo profissional, social ou cultural.
-c\) Incorreta. Coloquialismo é o tipo de linguagem informal, do dia a
-dia, que não necessariamente obedece à norma padrão da língua.
-d\) Incorreta. Regionalismo é o tipo de variação linguística
-caracterizada pelo uso de termos e expressões de determinada região
-geográfica.}
+Os exemplos aparecem mais especificamente no último parágrafo, por meio da citação de termos típicos do estado do Ceará.}
 
 Leia um trecho do conto "Gaetaninho", de Alcântara Machado, e responda
 às questões 6 e 7.
@@ -3731,10 +3564,10 @@ Eta salame de mestre!
 
 \[\...\]
 
-(MACHADO, Antônio De Alcântara. Gaetaninho. In. Brás, Bexiga e Barra
+(Antônio De Alcântara Machado. Gaetaninho. In. Brás, Bexiga e Barra
 Funda. Disponível em: \<
 <https://fundar.org.br/wp-content/uploads/2021/06/bras-bexiga-barra-funda.pdf>\>.
-Acesso em: mar. 2023.)
+Acesso em: 11 mar. 2023.)
 
 \num{6} Gaetaninho, personagem que dá nome ao conto, é uma criança
 descendente de italianos. Quais elementos, neste trecho, permitem
@@ -3768,15 +3601,14 @@ no parágrafo anterior.
 d\) Incorreta. O fato de driblar a mãe com perfeição não significa que
 Gaetaninho sabia jogar como um profissional.}
 
-Observe a imagem a seguir e responda às questões 8, 9 e 10.
+Observe o diálogo a seguir, trocado em um aplicativo de mensagens instantâneas, e responda às questões 8, 9 e 10.
 
-![Interface gráfica do usuário, Texto, Aplicativo, chat ou mensagem de
-texto Descrição gerada
-automaticamente](./imgSAEB_6_POR/media/image33.png){width="4.525392607174103in"
-height="4.975430883639545in"}
+[10:30] Amigo, tá chovendo, vem correndo. pfv!
 
-ARTE: CRIEI ISTO AQUI NO PPT. Favor recriar uma conversa como se fosse
-whatsapp usando este diálogo.
+[...]
+
+[10:40] Miga, se eu for correndo, quem dirige o carro?
+
 
 \num{8} Considerando-se o nível de linguagem do diálogo, que tipo de
 proximidade têm as pessoas que participam dessa conversa?
@@ -3793,14 +3625,11 @@ o amigo fosse correndo?
 
 \coment{A pessoa quis dizer para o amigo ir logo.}
 
-\num{10} Ainda no primeiro bloco de texto, aparece o termo "pfv". Que
-elemento auxilia o amigo a compreender o significado que essa expressão
-quis dizer?
+\num{10} Ainda no primeiro bloco de texto, aparece o termo "pfv". O que esse termo significa?
 
 \linhas{3}
 
-\coment{O emoji das mãos juntas, em oração, que reforça o pedido de
-"por favor".}
+\coment{O termo significa "por favor".}
 
 \colorsec{Treino}
 
@@ -3828,7 +3657,7 @@ c\) à época em que a música foi escrita.
 
 d\) à região geográfica do candidato à presidência.
 
-BNCC: EF69LP55.
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 a\) Incorreta. A canção não faz menção à condição social do eleitor, até
 mesmo porque uma campanha política sempre visa alcançar a todos.
@@ -3862,9 +3691,9 @@ Pensou dois segundos e me desarmou completamente:
 
 -- Filho de anta é... é... Antonio!
 
-(PRATA, Mario. Criança diz cada uma\... Disponível em: \<
-<https://marioprata.net/cronicas/crianca-diz-cada-uma/>\>. Acesso em:
-mar. 2023. Adaptado.)
+(Mario Prata. Criança diz cada uma\... Disponível em: \<
+<https://marioprata.net/cronicas/crianca-diz-cada-uma/>\>. Acesso em: 11
+mar. 2023.)
 
 O recurso responsável pelo efeito de humor no diálogo entre pai e filho
 está relacionado a uma variação linguística
@@ -3877,7 +3706,7 @@ c\) social.
 
 d\) estilística.
 
-BNCC: EF69LP55.
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
 a\) Incorreta. As variações culturais ocorrem de acordo com a cultura
 dos falantes, e muitas vezes estão relacionadas a aspectos geográficos.
@@ -3902,22 +3731,14 @@ informalmente apenas.
 *Livro com receitas de refugiados é um convite para conhecer trajetórias
 de vida e sabores*
 
-Ricardo nasceu em Caracas, o segundo de quatro irmãos. "Meu gosto pela
-cozinha vem desde muito jovem. Lembro com emoção de minha avó ensinando
-as receitas de família para os filhos e filhas, e depois netos e netas.
-Esta receita traz boas lembranças dessa época". Ricardo veio para o
-Brasil em 2015, para se casar com uma brasileira que conheceu quando era
-guia turístico na Venezuela. Ele sempre prepara o *sancocho* em sua casa
-no bairro do Butantã, em São Paulo. "Sempre cozinhei este prato quando
-Venezuela, na praia, em reuniões com meus irmãos, primos, com música e
+Ricardo nasceu em Caracas, o segundo de quatro irmãos. [...] Ele sempre prepara o *sancocho* em sua casa no bairro do Butantã, em São Paulo. "Sempre cozinhei este prato quando Venezuela, na praia, em reuniões com meus irmãos, primos, com música e
 cerveja. Fazer *sancocho* é como fazer uma festa", contou. "Fazer o
 prato aqui no Brasil é importante porque assim posso compartilhar algo
 da minha cultura", disse.
 
-(MARIUZZO, Patrícia. Sabores sem fronteiras. Publicado em 7 fev. 2022.
-Disponível em:
+(Patrícia Mariuzzo. Unicamp. Sabores sem fronteiras. Disponível em:
 <https://www.unicamp.br/unicamp/ju/noticias/2022/02/07/sabores-sem-fronteiras>.
-Acesso em: mar. 2023. Adaptado.)
+Acesso em: 17 mar. 2023.)
 
 Na entrevista, o deslize quanto ao uso da normal padrão da língua
 portuguesa, apresentado em "Sempre cozinhei este prato quando Venezuela,
@@ -3932,9 +3753,9 @@ c\) da idade do entrevistado.
 
 d\) a classe econômica do entrevistado.
 
-BNCC: EF69LP55
+BNCC: EF69LP55 -- Reconhecer as variedades da língua falada, o conceito de norma-padrão e o de preconceito linguístico.
 
-a\) O entrevistado é venezuelano, portanto, é esperado e
+a\) Correta. O entrevistado é venezuelano; portanto, é esperado e
 aceitável que não utilize a norma padrão da língua portuguesa. No
 trecho, ele esquece de conjugar o verbo "morava" em "Sempre cozinhei
 este prato quando Venezuela\...".
