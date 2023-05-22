@@ -1,6 +1,13 @@
 Notas (README.md)
 =====
 
+>22mai
+
+	- O que está liberado: 
+		* 6 e 9 completos
+		* MAT 7
+		* PORT 8
+
 >AdHoc
 >Paulo: Termina 01-04, 05 já está pronto, 06,08 Jorge faz, 07 aguardando Rogério, em seguida Paulo pega 09
 
