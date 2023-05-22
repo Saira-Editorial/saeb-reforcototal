@@ -1,6 +1,19 @@
 	Notas (README.md)
 	=====
 
+# Urgências
+
+- [ ] Jorge: Preparação do 06 PORT
+- [ ] Jorge: Preparação do 06 PORT
+- [ ] Jorge: Preparação do 07 PORT
+- [ ] Jorge: Preparação do 08 MATE
+- [ ] Jorge: Preparação do 07 MATE
+- [ ] Jorge: Preparação do 08 MATE
+
+
+# Atas
+
+
 >18mai
 
 * Avaliação: este processo é nosso **batismo de fogo**
