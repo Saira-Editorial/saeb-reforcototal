@@ -33,8 +33,6 @@
 
 \usepackage{edlab-penalties}
 \usepackage{edlab-git}
-\usepackage{edlab-watermarks}
-
 \usepackage{edlab-toc}					% define sumário
 \usepackage{edlab-extra}				% define epígrafe, quote
 \usepackage[21x28]{edlab-margins}
@@ -47,7 +45,6 @@
 			]{edlab-footnotes}
 
 
-%\usepackage[printwatermark]{xwatermark}
 \usepackage{pdfpages}
 \usepackage{wrapfig}
 \usepackage{tikzpagenodes}
@@ -66,12 +63,12 @@
 
 
 \newcommand\reduline{
-  \medskip\noindent\bgroup
-  \color{rosa}
-    \footnotesize
-    \cambria
-  \markoverwith{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}\lower0.4cm\hbox{\mbox{}}}
-  \ULon
+	\medskip\noindent\bgroup
+	\color{rosa}
+  	\footnotesize
+  	\cambria
+	\markoverwith{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}\lower0.4cm\hbox{\mbox{}}}
+	\ULon
 }
 
 %\newcommand\preencher{
@@ -116,27 +113,13 @@
 %\let\oldmarginnote\marginnote
 %\renewcommand{\marginnote}[1]{\oldmarginnote{\raggedleft #1}}
 
-\newcommand{\chaptersaira}{
-  \ifodd\value{page}
-      \begin{tikzpicture}[remember picture,overlay]
-       \node[anchor=north] at (75mm, 20mm) {\includegraphics[width=\paperwidth,height=\paperheight]{chap.pdf}};
-       \node[above=-1.5cm, font=\fontsize{70}{80}\gotham\selectfont, text=black, anchor=south] at (-.5,0) {\the\value{chapter}};
-      \end{tikzpicture}
-  \else
-      \begin{tikzpicture}[remember picture,overlay]
-       \node[anchor=north] at (75mm, 20mm) {\includegraphics[width=\paperwidth,height=\paperheight]{chap.pdf}};
-       \node[above=-1.5cm, font=\fontsize{70}{80}\gotham\selectfont, text=black, anchor=south] at (-.5,0) {\the\value{chapter}};
-      \end{tikzpicture} 
-  \fi
-  }
-
 
 \linespread{1.06}
 
 
 % Fontes
 \newfontfamily\gotham{Gotham-Black}
-\newfontfamily\cambria{Cambria}
+\newfontfamily\cambria{cambria}
 %\newfontfamily\brabo{FS Brabo Pro Regular}
 \setmainfont[Ligatures=TeX,Numbers=OldStyle]{Minion Pro}
 
@@ -179,16 +162,11 @@
 
 
 \begin{document}
-\newcommand{\watermarkOdd}{../watermarks/bg5anoimpar.pdf} % Arquivo para páginas ímpares
-\newcommand{\watermarkEven}{../watermarks/bg5anopar.pdf} % Arquivo para páginas pares
-\newcommand{\excludedpage}{0} % Número da página em que você não deseja que o watermark seja exibido
-
-%\newcommand{\adhocWatermark}{img2.pdf}
-%\renewcommand{\adhocWatermark}{img4.pdf}\AdhocWatermark
 
 
 %\input{MUSSUMIPSUM}  		% Teste da classe
 \include{INPUTS}
+
 
 \checkandfixthelayout
 \end{document}
