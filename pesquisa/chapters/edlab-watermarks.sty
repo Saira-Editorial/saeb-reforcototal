@@ -8,9 +8,9 @@
   \else
     \begin{tikzpicture}[remember picture,overlay]
       \ifodd\value{page}
-        \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkOdd}};
+        \node[anchor=south] at (55mm, -5mm) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkOdd}};
       \else
-        \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkEven}};
+        \node[anchor=south] at (41mm, -5mm) {\includegraphics[width=\paperwidth,height=\paperheight]{\watermarkEven}};
       \fi
     \end{tikzpicture}
   \fi
@@ -19,13 +19,12 @@
 \newcommand{\AdhocWatermark}{
   \begin{tikzpicture}[remember picture,overlay]
     \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{\adhocWatermark}};
-    \node at (current page.north) [above=2cm, font=\Large\bfseries, text=black] {Sua frase em cima};
   \end{tikzpicture}
 }
 
 \backgroundsetup{
   contents={\AddWatermark},
-  scale=1,
+  scale=0.9587,
   angle=0,
   opacity=1,
   position=current page.center,
