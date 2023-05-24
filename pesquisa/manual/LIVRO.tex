@@ -119,21 +119,6 @@
 %\let\oldmarginnote\marginnote
 %\renewcommand{\marginnote}[1]{\oldmarginnote{\raggedleft #1}}
 
-\newcommand{\chaptersaira}{
-  \ifodd\value{page}
-      \begin{tikzpicture}[remember picture,overlay]
-       \node[anchor=north] at (75mm, 20mm) {\includegraphics[width=\paperwidth,height=\paperheight]{chap.pdf}};
-       \node[above=-1.5cm, font=\fontsize{70}{80}\gotham\selectfont, text=black, anchor=south] at (-.5,0) {\the\value{chapter}};
-      \end{tikzpicture}
-  \else
-      \begin{tikzpicture}[remember picture,overlay]
-       \node[anchor=north] at (75mm, 20mm) {\includegraphics[width=\paperwidth,height=\paperheight]{chap.pdf}};
-       \node[above=-1.5cm, font=\fontsize{70}{80}\gotham\selectfont, text=black, anchor=south] at (-.5,0) {\the\value{chapter}};
-      \end{tikzpicture} 
-  \fi
-  }
-
-
 \linespread{1.06}
 
 
