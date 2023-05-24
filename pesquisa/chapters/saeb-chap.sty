@@ -6,8 +6,8 @@
 \newcommand{\chaptersaira}{
   \ifodd\value{page}
       \begin{tikzpicture}[remember picture,overlay]
-       \node at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight]{chap.pdf}};
-       \node[above=1cm, font=\fontsize{70}{80}\gotham\selectfont, text=black, anchor=south] at (-2,-2.5) {\the\value{chapter}};
+       \node [anchor=north] at (8,2) {\includegraphics[width=\paperwidth,height=\paperheight]{chap.pdf}};
+       \node[above=1cm, font=\fontsize{70}{80}\gotham\selectfont, text=black, anchor=south] at (-0.5,-2.5) {\the\value{chapter}};
       \end{tikzpicture}
   \else
       \begin{tikzpicture}[remember picture,overlay]
