@@ -1,9 +1,6 @@
-8°Ano
+# 1. Representações numéricas
 
-# Módulo 1
-
-Habilidades Saeb
-
+Habilidades do SAEB
 *  Escrever números racionais (representação fracionária ou decimal
 finita) em sua representação por algarismos ou em língua materna ou
 associar o registro numérico ao registro em língua materna.
@@ -27,6 +24,23 @@ em fatores primos ou relacionar as propriedades aritméticas (primo,
 composto, "múltiplo/fator de" ou "divisor de") de um número natural à
 sua decomposição em fatores primos.
 
+Números romanos
+
+Os números romanos são um sistema de numeração utilizado na Roma Antiga. Eles são compostos por sete símbolos principais: I, V, X, L, C, D e M, que representam respectivamente os valores 1, 5, 10, 50, 100, 500 e 1000. Através da combinação desses símbolos, é possível representar diferentes valores. É importante destacar que os números romanos não possuem o conceito de zero.
+
+Aqui está uma tabela que mostra os símbolos e seus respectivos valores numéricos:
+
+%Paulo: criar uma tabela com os valores a seguir.
+
+Símbolo	Valor
+I	    1
+V	    5
+X	    10
+L	    50
+C	    100
+D	    500
+M	    1.000
+
 Números irracionais
 
 Número irracional é todo número cuja representação decimal é sempre
@@ -34,60 +48,39 @@ infinita e não periódica.
 
 São exemplos de números irracionais:
 
-$\sqrt{2}$=1,414213562373\...
+$$\sqrt{2}$$=1,414213562373\...
 
-$\sqrt{3}$ = 1,732050808\...
+$$\sqrt{3}$$ = 1,732050808\...
 
-$\pi$ = 3,1415926535\...
+$$\pi$$ = 3,1415926535\...
 
 Quadrado perfeito
 
-Para identificar um quadrado perfeito, primeiro devemos fatorar na forma
-completa um número. Se todos os fatores tiverem expoente par, o número
+Para identificar um quadrado perfeito, primeiro devemos fatorar um número na forma
+completa. Se todos os fatores tiverem expoente par, o número
 será um quadrado perfeito. Caso um dos fatores não apresente expoente
 par, o número não será um quadrado perfeito.
 
 \colorsec{Atividades}
 
-1\) Calculando-se $\sqrt{27}$ , obtém-se 5,196152423\..., número que tem
+1\) Calculando-se $$\sqrt{27}$$ , obtém-se 5,196152423\..., número que tem
 representação decimal infinita, mas não é dízima periódica.
 
-Conclui-se então que $\sqrt{27}$ é um número:
+Conclui-se então que $$\sqrt{27}$$ é um número:
 
-a\) natural
+R: Irracional.
 
-b\) inteiro
+2\) O número romano XLV corresponde, em algarismos arábicos, a
 
-c\) racional
-
-d\) irracional
-
-Resposta: Alternativa d irracional
-
-Deixar o espaço de 1 linha para resposta
-
-2\) Um exemplo de número irracional é:
-
-a\) 0,9999999999\....
-
-b\) 3,012012012012\....
-
-c\) 3,290291292293\...
-
-d\) 3,501501501510\...
-
-Resposta: Alternativa C
-
-Deixar o espaço de 1 linha para resposta
+R: 45
 
 3\) Observe os números a seguir:
 
 ![](./imgSAEB_8_MAT/media/image1.png){width="2.7916666666666665in"
 height="0.6354166666666666in"}
-
 Inserir uma imagem similar a essa, contendo os mesmos valores
 
-Quais deles pertencem ao conjunto:
+Quais deles pertencem ao conjunto
 
 a\) N
 
@@ -97,7 +90,7 @@ c\) Z, mas não pertencem a N?
 
 d\) Q, mas não pertencem a Z?
 
-Respostas:
+R:
 
 a\) 0 ; 1
 
@@ -105,15 +98,15 @@ b\) -- 4 , 0 , 1
 
 c\) -4
 
-d\) -2,3 e - $\frac{1}{4}$
+d\) -2,3 e - $$\frac{1}{4}$$
 
-Em cada item acima deixar o espaço de 1 linha para resposta.
 
-4\) observe os números abaixo:
+4\) Observe os números abaixo:
 
-6 $\sqrt{6}$ 6,6 -6
-
-Inserir uma imagem similar a essa, contendo os mesmos valores.
+6
+$$\sqrt{6}$$
+6,6
+-6
 
 Identifique quais deles são:
 
@@ -125,7 +118,7 @@ c\) reais e racionais.
 
 d\) reais e irracionais.
 
-Resposta:
+R:
 
 a\) 6
 
@@ -133,9 +126,7 @@ b\) 6 ; -6
 
 c\) 6; -6; 6,6
 
-d\) $\sqrt{6}$
-
-Em cada item acima deixar o espaço de 1 linha para resposta.
+d\) $$\sqrt{6}$$
 
 5\) Complete os espaços abaixo com pertence ou não pertence:
 
@@ -143,19 +134,18 @@ a\) 100 R\*
 
 b\) 100 R~+~
 
-c)100 R~-~
+c) 100 R~-~
 
-d\) $\sqrt{9}$ R
+d\) $$\sqrt{9}$$ R
 
-e\) - $\sqrt{9}$ R
+e\) - $$\sqrt{9}$$ R
 
-f\) $\sqrt{- 9}$ R
+f\) $$\sqrt{- 9}$$ R
 
 g\) 2,6 R~+~
 
-Em cada item acima deixar o espaço de 1 linha para resposta.
 
-Respostas:
+R:
 
 a\) Pertence
 
@@ -175,117 +165,42 @@ g\) Pertence
 periódica ou, ainda, infinita e não periódica. Escreva qual é o caso de
 cada um dos números a seguir
 
-a)$\frac{15}{6}$
+a)$$\frac{15}{6}$$
 
-b)$\frac{1}{3}$
+b)$$\frac{1}{3}$$
 
-c\) $\sqrt{3}$
+c\) $$\sqrt{3}$$
 
-d\) $\sqrt{2}$
+d\) $$\sqrt{2}$$
 
-Em cada item acima deixar o espaço de 1 linha para resposta.
-
-Respostas:
+R:
 
 a\) Finita
 
-b\) infinita e periódica
+b\) Infinita e periódica
 
-c\) infinita e não periódica
+c\) Infinita e não periódica
 
-d\) infinita e não periódica
+d\) Infinita e não periódica
 
-7\) O número $\pi$ é classificado como:
+7\) O número $$\pi$$ é classificado como:
 
-a\) um número natural.
+R: uma dízima não periódica.
 
-b\) uma dízima periódica.
+8\) O números 121 é considerado um quadrado perfeito? Por quê?
 
-c\) um número racional.
-
-d\) uma dízima não periódica.
-
-Deixar o espaço de 1 linha para resposta.
-
-Resposta: Alternativa D dizima não periódica.
-
-8\) Dos números a seguir, qual deles é quadrado perfeito?
-
-a\) 170
-
-b\) 129
-
-c)121
-
-d\) 105
-
-Em cada item acima deixar o espaço de 2 linhas para resposta.
-
-Resposta:
-
-c 121, pois 11 x 11 = 121
+Sim, pois 121 = 11 x 11.
 
 9\) O produto ou o quociente de dois números irracionais pode ser um
 número racional?
 
-Resposta: Sim, como exemplos pode ser citado $\sqrt{2}$ x $\sqrt{2}$ =
-($\sqrt{2}$) ² = 2 e também $\frac{\sqrt{2}}{\sqrt{2}}$ = 1
-
-deixar o espaço de 3 linhas para resposta.
+R: Sim, como exemplos podem ser citados $$\sqrt{2}$$ x $$\sqrt{2}$$ =
+($$\sqrt{2}$$) ² = 2 e também $$\frac{\sqrt{2}}{\sqrt{2}}$$ = 1
 
 10\) Qual é o menor número natural que devemos multiplicar pelo número
 125 para que o produto seja um número quadrado perfeito?
 
-a\) 2
-
-b)3
-
-c)4
-
-d)5
-
-Em cada item acima deixar o espaço de 2 linhas para resposta.
-
-Resposta, alternativa D, pois 5 x 125 = 625 e $\sqrt{625}$ = 25 logo um
-quadrado perfeito.
-
-11\) Escreva na forma de fração:
-
-a\) 0,57
-
-b\) 1,29
-
-c\) 3,124
-
-d\) -- 32,40
-
-e\) 0,9
-
-f\) 0,650
-
-g\) 1,342
-
-h\) 5,09409
-
-Em cada item acima deixar o espaço de 2 linhas para resposta.
-
-Respostas:
-
-a\) 0,57 = $\frac{57}{100}$
-
-b\) 1,29 = $\frac{129}{100}$
-
-c\) 3,124 = $\frac{3124}{1000}$
-
-d\) -- 32,40= - $\frac{324}{10}$
-
-e\) 0,9 = $\frac{9}{10}$
-
-f\) 0,650 = $\frac{65}{100}$
-
-g\) 1,342 = $\frac{1342}{1000}$
-
-h\) 5,09409 = $\frac{509\ 409}{100\ 000}$
+R: 5, pois 5 x 125 = 625 e $$\sqrt{625}$$ = 25.
 
 \colorsec{Treino}
 
@@ -299,27 +214,22 @@ c\) 2³ x 5³
 
 d\) 2³x5²
 
-Resposta: C
-
-Habilidades Saeb
-
-*  Compor ou decompor números racionais positivos (representação decimal
+SAEB: Compor ou decompor números racionais positivos (representação decimal
 finita) na forma aditiva, ou em suas ordens, ou em adições e
 multiplicações.
 
-A: incorreta ao não computar 1 elemento 2 e um elemento 5 na
-fatoração chegará a esse resultado erroneamente.
+A: Incorreta, pois, o aluno não computou um elemento 2 e um elemento 5 na
+fatoração..
 
-B: incorreta ao computar 1 elemento 2 a mais e um elemento 5
-a menos na fatoração chegará a esse resultado erroneamente.
+B: Incorreta, pois o aluno computou um elemento a mais e um elemento 5
+a menos na fatoração.
 
-C: correta, Ao decompor o número 1 000 em fatores primos
-obtemos 2³ x 5³
+C: Correta, pois, ao decompor o número 1.000 em fatores primos,
+obtemos 2³ x 5³.
 
-D: incorreta ao não computar 1 elemento 5 na fatoração
-chegará a esse resultado erroneamente.
+D: Incorreta, pois o aluno não computou um elemento 5 na fatoração.
 
-2\) Sobre o número 123 456 789, podemos afirmar que:
+2\) Sobre o número 123.456.789, podemos afirmar que:
 
 a\) é múltiplo de 5
 
@@ -329,35 +239,28 @@ c\) é múltiplo de 3
 
 d\) é múltiplo de 10
 
-Resposta: C
-
-Habilidades Saeb
-
-*  Identificar um número natural como primo, composto, "múltiplo/fator
+SAEB: Identificar um número natural como primo, composto, "múltiplo/fator
 de" ou "divisor de" ou identificar a decomposição de um número natural
 em fatores primos ou relacionar as propriedades aritméticas (primo,
 composto, "múltiplo/fator de" ou "divisor de") de um número natural à
 sua decomposição em fatores primos.
 
-A: incorreta, o aluno pode realizar a divisão incorretamente
-do valor 123 456 789 e chegar a essa conclusão ao errar nos cálculos
-básicos.
+A: Incorreta, pois o aluno pode realizar a divisão incorretamente
+do valor 123.456.789 e chegar a essa conclusão.
 
-B: incorreta, o aluno pode realizar a divisão incorretamente
-do valor 123 456 789 e chegar a essa conclusão ao errar nos cálculos
-básicos.
+B: Incorreta, pois o aluno pode realizar a divisão incorretamente
+do valor 123.456.789 e chegar a essa conclusão.
 
-C: Correta, Realizando a soma de 1+2+3+4+5+6+7+8+9= 45 logo
+C: Correta, pois 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = 45. Logo,
 45 é múltiplo de 3, então
 
-123 456 789 também será.
+123.456.789 também será.
 
-D: incorreta, o aluno pode realizar a divisão incorretamente
-do valor 123 456 789 e chegar a essa conclusão ao errar nos cálculos
-básicos.
+D: Incorreta, pois o aluno pode realizar a divisão incorretamente
+do valor 123.456.789 e chegar a essa conclusão.
 
-3\) Manoel ganhou um prêmio na loteria no valor de R\$ 12 500 345 769,
-00 reais, Qual algarismo está situado na casa da centena de milhar?
+3\) Manoel ganhou um prêmio na loteria no valor de R$ 12.500.345.769,00. 
+Qual algarismo está situado na casa da centena de milhar?
 
 a)4
 
@@ -367,96 +270,89 @@ c)0
 
 d)3
 
-Resposta: D
-
-Habilidades Saeb
-
-*  Compor ou decompor números racionais positivos (representação decimal
+SAEB: Compor ou decompor números racionais positivos (representação decimal
 finita) na forma aditiva, ou em suas ordens, ou em adições e
 multiplicações.
 
-A: incorreta: ao contar as casas erroneamente e considerar o
-número uma casa a direita o aluno pode considerar esse resultado
-erroneamente.
+A: Incorreta, pois, ao contar as casas erroneamente e considerar o
+número uma casa à direita o aluno pode considerar esse.
 
-Alternativa: B incorreta ao contar as casas erroneamente e considerar o
-número duas casas a direita o aluno pode considerar esse resultado
-erroneamente.
+B: Incorreta, pois, ao contar as casas erroneamente e considerar o
+número duas casas à direita, o aluno pode considerar esse resultado.
 
-C: incorreta, ao contar as casas erroneamente e considerar o
-número uma casa a esquerda o aluno pode considerar esse resultado
-erroneamente.
+C: Incorreta, pois, ao contar as casas erroneamente e considerar o
+número uma casa à esquerda, o aluno pode considerar esse resultado.
 
-D, Correta o número 3 está situado na casa das centenas de
+D, Correta, pois o número 3 está situado na casa das centenas de
 milhar.
 
-# Módulo 2
+# 2. Operações aritméticas
 
-BNCC: EF08MA01 EF08MA02 EF08MA03
-
-Habilidades Saeb:
-
-Calcular o resultado de adições, subtrações, multiplicações ou divisões
+Habilidades do SAEB
+* Calcular o resultado de adições, subtrações, multiplicações ou divisões
 envolvendo número reais.
 
-Calcular o resultado de potenciação ou radiciação envolvendo números
+* Calcular o resultado de potenciação ou radiciação envolvendo números
 reais.
 
-Resolver problemas de adição, subtração, multiplicação, divisão,
+* Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
 científica
 
-Resolver problemas de contagem cuja resolução envolva a aplicação do
+* Resolver problemas de contagem cuja resolução envolva a aplicação do
 princípio multiplicativo.
 
-Resolver problemas que envolvam as ideias de múltiplo, divisor, máximo
+* Resolver problemas que envolvam as ideias de múltiplo, divisor, máximo
 divisor comum ou mínimo múltiplo comum.
+
+Habilidades da BNCC
+EF08MA01, EF08MA02, EF08MA03.
 
 Potência de um número racional
 
-Dado um número racional a e um número natural n, a expressão a^n^
+Dado um número racional a e um número natural n, a expressão $$ a^n $$
 chama-se potência e representa uma multiplicação de n fatores iguais ao
 número a.
 
-A^n^ =
-$\frac{a\ x\ a\ x\ a\ x\ a\ x\ a\ x\ldots x\ a}{n\ \text{fatores}}$
+$$A^n$$ =
+$$\frac{a\ x\ a\ x\ a\ x\ a\ x\ a\ x\ldots x\ a}{n\ \text{fatores}}$$
 
 Essa operação é chamada potenciação.
 
 Assim, pela definição: temos que
 
-10³ = 10 x 10 x 10 = 1 000
+10³ = 10 x 10 x 10 = 1.000
 
 Propriedades da Potenciação:
 
-1a propriedade: Produto de potências de mesma base.
+1ª. propriedade: Produto de potências de mesma base.
 
 Um produto de potências de mesma base pode ser escrito na forma de uma
 única potência: conservamos a base e adicionamos os expoentes.
 
-A^m^ x a^n^ = a^m+n^
+$$a^m$$ x $$a^n$$ = $$a^{m+n}$$
 
-2ª Propriedade: Quociente de potências de mesma base
+2ª. Propriedade: Quociente de potências de mesma base
 
 Um quociente de potências de mesma base, em que o expoente do dividendo
 é maior ou igual ao expoente do divisor, pode ser escrito na forma de
 uma única potência: conservamos a base e subtraímos os expoentes
 
-A^m^ : a^n^ = a ^m-n^ , com a diferente de zero e m maior ou igual a n
+$$a^m$$ : $$a^n$$ = $$a^{m-n}$$ , com a diferente de zero e m maior ou igual a n
 
 3ª propriedade: Potência de uma potência.
 
 Um produto de potências de mesma base pode ser escrito na forma de uma
 única potência: conservamos a base e multiplicamos os expoentes.
 
-(a^m^)^n^ = a ^m\ x\ n^
+$$(a^m)^n$$ = $$a^{m\ x\ n}$$
 
-4ª propriedade potência de um produto
+4ª. propriedade potência de um produto
 
 Para elevar um produto de dois ou mais números racionais a um expoente,
 elevamos cada fator a esse expoente.
 
-(a x b)^n^= a^n^ x b^n^
+$$(a \times b)^n$$= $$a^n x b^n$$
 
 Potências de base dez
 
@@ -464,242 +360,224 @@ A potência de base 10, com expoente natural, é uma maneira de se
 escrever o número que, no Sistema de Numeração Decimal, é representado
 por 1 seguido de n zeros.
 
-10^5^ = 100 000 = 1 + 5 zeros
+$$10^5 = 100.000 = 1 + 5 \;zeros$$
 
-10³ = 1 000 = 1+ 3 zeros
+$$10³ = 1.000 = 1+ 3 \;zeros$$
 
-10 ^6^ = 1 000 000 = 1+ 6 zeros
+$$10 ^6= 1.000.000 = 1+ 6 \;zeros$$
 
 Raiz quadrada exata de um número racional não negativo
 
 Se um número representa um produto de dois fatores iguais não negativos,
 então cada fator é a raiz quadrada desse número. Por exemplo:
 
-A raiz quadrada de 25 é 5, pois 5 x 5 = 52 = 25 Logo $\sqrt{25}$ = 5
+A raiz quadrada de 25 é 5, pois 5 x 5 = 52 = 25 Logo $$\sqrt{25}$$ = 5
 
-A raiz quadrada de 49 é 7, pois 7 x 7 = 72 = 49. Logo $\sqrt{49}$ = 7
+A raiz quadrada de 49 é 7, pois 7 x 7 = 72 = 49. Logo $$\sqrt{49}$$ = 7
 
 \colorsec{Atividades}
 
-$$\ $$
+1\) Calcule o valor das potências abaixo.
 
-1\) Calcule o valor das potencias abaixo.
+a\) $$- \frac{3}{5}^2$$
 
-a\) ($- \frac{3}{5}$)^2^
+b\) $$ + \frac{1}{2}^5$$
 
-^b)^ $( + \frac{1}{2})$^5^
+c\) $$( - 1\frac{1}{2})^3$$
 
-^c)^$( - 1\frac{1}{2})$^3^
+d\) $$ -3,5^2$$
 
-^d)^$\ $^(-3,5)²^
+e\) $$( + \frac{1}{3})^0$$
 
-^e)^$( + \frac{1}{3})$^0^
-
-^f)^$\ $(-1,5)¹
+f\) $$(-1,5)^1$$
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
-Resposta:
+R:
 
-a\) $\frac{9}{25}$
+a\) $$\frac{9}{25}$$
 
-b)$\ \frac{1}{32}$
+b) $$\ \frac{1}{32}$$
 
-c)$- \frac{3}{8}$
+c) $$- \frac{3}{8}$$
 
 d\) +12,25
 
 e\) 1
 
-f\) -1,5$\ $
+f\) -1,5
 
-2\) Calcule as operações abaixo
+2\) Calcule as operações abaixo.
 
-^a)\ -^ $( - \frac{1}{2})$^²^ + (-1) ^4^
+a\) $$( - \frac{1}{2})^2 \; + \; (-1)^4$$
 
-^b)^ -- (2) ³ ^.^ (-2) ³
+b\) -(2)³ . (-2)³
 
-^c)^ $( - 1\frac{1}{2})$ . (-1)^5^
+c\) $$( - 1\frac{1}{2})$$ . $$(-1)^5$$
 
-^d)^
-$\left( - \frac{1}{2} \right).\left( + \frac{3}{2} \right) - \left( \frac{2}{3} \right)^{3}:( - \frac{1}{27})\ $
+d\)$$\left( - \frac{1}{2} \right).\left( + \frac{3}{2} \right) - \left( \frac{2}{3} \right)^{3}:( - \frac{1}{27})\ $$
 
 e\) (0,1) ² : (-2) + (1,5) ^.^ (-0,1) ²
 
-Em cada item acima deixar o espaço de 2 linhas para resposta.
+R:
 
-Respostas:
-
-a\) $+ 1\frac{1}{4}$
+a\) $$+ 1\frac{1}{4}$$
 
 b\) +64
 
-c\) $+ 1\frac{1}{2}$
+c\) $$+ 1\frac{1}{2}$$
 
-d\) 8$\frac{3}{8}$
+d\) 8$$\frac{3}{8}$$
 
 e\) 0,01
 
 3\) Use a propriedade e, no caderno, escreva cada quociente como uma
-única potência e calcule o valor dela
+única potência e calcule seu valor.
 
-a\) 3^7^:3^5^
+a\) $$3^7:3^5$$
 
-b)(-1)^8^:(-1)^6^
+b) $$(-1)^8:(-1)^6$$
 
-c)$\left( \frac{2}{3} \right):\left( \frac{2}{3} \right)$
+c)$$\left( \frac{2}{3} \right):\left( \frac{2}{3} \right)$$
 
-d\) Metade de 2^10^
+d\) Metade de $$2^10$$
 
-e\) (-2,5)^5^ : (-2,5)²
+e\) $$(-2,5)^5$$ : (-2,5)²
 
-f\) a^9^: a^8^ , com a racional não nulo
+f\) $$a^9 : a^8$$ , com a racional não nulo
 
-g\) 1^8^:1²
+g\) $$1^8:1^2$$
 
-h\) terça parte de 3^8^
+h\) terça parte de $$3^8$$
 
-Em cada item acima deixar o espaço de 2 linhas para resposta.
+R:
 
-Respostas
+a\) $$3^{7 - 5} = 3² = 3.3 = 9$$
 
-a\) 3^7-5^=3² = 3.3= 9
+b\) $$(-1)^{8 - 6} = (-1)²= (-1).(-1)= +1$$
 
-b\) (-1)^8-6^= (-1)²= (-1).(-1)= +1
+c\) $$(\frac{2}{3})^{4-1}$$ = $$(\frac{2}{3}$$)³=$$\ (\frac{2}{3}$$).$$\ (\frac{2}{3}$$).$$\ (\frac{2}{3}$$) = $$\frac{8}{27}$$
 
-c\)
-$(\frac{2}{3}$)^4-1^=$(\frac{2}{3}$)³=$\ (\frac{2}{3}$).$\ (\frac{2}{3}$).$\ (\frac{2}{3}$)=
-$\frac{8}{27}$
+d\) $$2^{10} : 2¹ = 2^9 = 2.2.2.2.2.2.2.2.2 = 572$$
 
-d\) 2^10^: 2¹= 2^9^= 2.2.2.2.2.2.2.2.2= 572
+e\) $$(-2,5)^{5-2} = (-2,5)³= (-2,5). (-2,5). (-2,5) = -15,625$$
 
-e\) (-2,5) ^5-2^ = (-2,5)³= (-2,5). (-2,5). (-2,5)= -15,625
+f\) $$a^{9-8} = a¹ = a$$
 
-f\) a^9-8^= a¹ =a
+g\) $$1^{8-2} = 1^6= 1.1.1.1.1.1 = 1$$
 
-g\) 1^8-2^=1^6^= 1.1.1.1.1.1=1
+h\) $$3^8-1$$= $$3^7$$ = 3.3.3.3.3.3.3 = 2187
 
-h\) 3^8-1^= 3^7^ = 3.3.3.3.3.3.3=2187
-
-4\) Jamile fez uma viagem turística ao topo de uma montanha, ao chegar
-em certo local observou uma pedra antiga com o seguinte enunciado, esta
-pedra tem o peso de \[(-5)³\]² kg, quanto pesa a pedra que Jandira
+4\) Jamile fez uma viagem turística ao topo de uma montanha. Ao chegar
+em certo local, observou uma pedra antiga com o seguinte enunciado: esta
+pedra tem o peso de \[(-5)³\]² kg. Quanto pesa a pedra que Jandira
 observou?
 
-deixar o espaço de 3 linhas para resposta.
-
-Resposta:
+R:
 
 Utilizando a propriedade de multiplicação de expoentes temos que:
 
-(-5)^3.2^= (-5)^6^= (-5)^.^ (-5)^.^ (-5)^.^ (-5)^.^ (-5)^.^ (-5)= 15 625
-kg
+$$(-5)^{3.2}= (-5)^6= (-5) . (-5) . (-5) . (-5) . (-5) . (-5)= 15.625 kg$$
 
 5\) Uma sala de jantar quadrada terá o piso coberto com ladrilhos com
 medida de comprimento dos lados de 60 cm.
 
 a\) Qual é a medida de comprimento dos lados da sala sabendo que a
-medida de área dela é de 81m²?
+medida de área dela é de 81 m²?
 
 b\) Quantos ladrilhos serão necessários para cobrir o piso?
 
-Em cada item acima deixar o espaço de 2 linhas para resposta.
+R:
 
-Respostas:
+a\) Considerando que a sala é quadrada e que a fórmula da área de um
+quadrado é l², para descobrirmos o real valor de cada lado, basta
+fazermos a operação inversa:
 
-a\) Considerando que a sala é quadra e que a formula da área de um
-quadrado é l ² para descobrirmos o real valor de cada lado, basta
-fazermos a operação inversa, no caso a radiciação logo temos que:
+l² = 81
 
-l²= 81
+l= $$\sqrt{81}$$
 
-l= $\sqrt{81}$
-
-l=9
+l= 9
 
 b\) Se cada lado da sala possui 9 metros e cada lado do ladrilho possui
 0,60 cm temos que:
 
-9:0,6=15
+9:0,6 = 15
 
-15^.^15= 225 ladrilhos
+$$15 . 15 = 225 \;ladrilhos$$
 
-6\) Utilizando os conhecimentos de redução de potencias, reduza as
+6\) Utilizando os conhecimentos de redução de potências, reduza as
 potencias abaixo.
 
 a\) 10² . 2²
 
 b\) 11² . 3²
 
-c\) (-6)³ ^.^ (-8)³
+c\) (-6)³ . (-8)³
 
-d\) (3,1)^5\ .^ (0,7)^5.^2^5^
+d\) $$(3,1)^5 . (0,7)^5 . 2^5$$
 
-Em cada item acima deixar o espaço de 2 linhas para resposta.
+R:
 
 Utilizando o método de redução de potencias temos que
 
-a\) (10 . 2) ² = 20 ²
+a\) (10 . 2)² = 20²
 
-b\) (11 . 3) ² = 33²
+b\) (11 . 3)² = 33²
 
-c\) ((-6) . (-8)) ³= 48³
+c\) ((-6) . (-8)) ³ = 48³
 
-d\) (3,1 . 0,7 . 2) ^5^= 4,34^5^
+d\) $$(3,1 . 0,7 . 2)^5= 4,34^5$$
 
 7\) Calcule o valor de cada potência com exponente negativo
 
-a\) 8^-2^
+a\) $$8^{-2}$$
 
-b\) 5^-1^
+b\) $$5^{-1}$$
 
-c)(-2)^-4^
+c\) $$(-2)^{-4}$$
 
-d)($\frac{1}{2})$^-3^
+d\) ($$\frac{1}{2})^{-3}$$
 
-e)(-3)^-3^
+e\) $$(-3)^{-3}$$
 
-f\) $\left( \frac{1}{2} \right)$^-5^
+f\) $$\frac{1}{2}^{-5}$$
 
-Em cada item acima deixar o espaço de 2 linhas para resposta.
-
-Resposta Utilizando a propriedade de expoente negativo da potenciação
+R: Utilizando a propriedade de expoente negativo da potenciação,
 temos que:
 
-a\) 8^-2^= $\frac{1}{8²}$ = $\frac{1}{64}$
+a\) $$8^{-2} = \frac{1}{8²}$$ = $$\frac{1}{64}$$
 
-b)5^-1^= $\frac{1}{5¹}$ = $\frac{1}{5}$
+b\) 5^-1^= $$\frac{1}{5¹}$$ = $$\frac{1}{5}$$
 
-c\) (-2)^-4^ = $\ \frac{1}{2}$~4~ =$\ \frac{1}{16}$
+c\) $$(-2)^{-4} = \frac{1}{2.4} = \frac{1}{16}$$
 
-d)$\ (\frac{1}{2}$)^-3^= $\frac{2}{1³}$ = $\frac{2}{1}$ = 2
+d\) $$(\frac{1}{2})^{-3}$$ = $$\frac{2}{1³}$$ = $$\frac{2}{1}$$ = 2
 
-e\) (-3)^-3^= $- \frac{1}{3³}$ = $\frac{1}{27}$
+e\) $$(-3)^{-3}$$= $$\frac{1}{3³}$$ = $$\frac{1}{27}$$
 
-f)$\ \frac{1}{2}$^-5^ = $\frac{2}{1}$~5~ = $\frac{2}{1}$ = 2
+f) $$\ \frac{1}{2}^{-5}$$ = $$\frac{2}{1}^5$$ = 32
 
-8\) Calcule as seguintes potencias de base 10 e coloque as em forma
-decimal
+8\) Calcule as seguintes potências de base 10 e coloque-as em forma
+decimal.
 
-a\) 10^6^
+a\) $$10^6$$
 
-b\) 10^-6^
+b\) $$10^-6$$
 
-c\) 10^-4^
+c\) $$10^-4$$
 
-d)10^4^
+d\) $$10^4$$
 
-e\) 10^-2^
+e\) $$10^-2$$
 
-f\) 10 ^-5^
+f\) $$10 ^-5$$
 
-g\) 10^10^
+g\) $$10^10$$
 
-h\) 10^-8^
+h\) $$10^-8$$
 
-Em cada item acima deixar o espaço de 2 linhas para resposta.
-
-Respostas:
+R:
 
 a\) 1 000 000
 
@@ -717,129 +595,111 @@ g\) 10 000 000 000
 
 h\) 0,00000001
 
-9\) Reinaldo é professor, e durante uma de suas de estatística resolveu
-demonstrar a população da terra em formato decimal, porem ao tentar
-fazer a demonstração acabou que o espaço de sua lousa não foi
-suficiente, Sabendo que a população da terra em 2022 chegou em 8
-bilhões, como poderia ser representado este mesmo número para que caiba
-na lousa?
+9\) Reinaldo é professor e, durante uma de suas aulas de estatística, resolveu
+demonstrar a população da Terra em formato decimal. Porém, ao tentar
+fazer a demonstração, o espaço de sua lousa não foi suficiente. Sabendo 
+que a população da Terra em 2022 chegou a 8 bilhões, como poderíamos 
+representar este número para que caiba na lousa?
 
-Deixar o espaço de 3 linhas para resposta.
+R:
 
-Resposta:
+Reinaldo poderia representar por meio de Notação científica (potência de
+base 10).
 
-Reinaldo poderia representar por meio de Notação cientifica (potência de
-base 10)
-
-Considerando a população da terra como 8 000 000 000 outra forma de
+Considerando a população da terra como 8.000.000.000, outra forma de
 reescrever seria
 
-8 ^.^ 10^9^ sendo assim ocupando um menor espaço.
+$$8 . 10^9$$.
 
 10\) Felipe é artista e uma de suas obras é conhecida como quadrado
-infinito ao observar o quadro um matemático fez as seguintes descobertas
+infinito. Ao observar o quadro, um matemático fez as seguintes descobertas:
 
 ![](./imgSAEB_8_MAT/media/image2.png){width="2.3125in"
 height="2.0791666666666666in"}
 
-O quadrado Vermelho possui uma área de 256 cm²
+O quadrado Vermelho possui uma área de 256 cm².
 
-O quadrado Verde possui uma área de 225 cm²
+O quadrado Verde possui uma área de 225 cm².
 
-O quadrado Laranja possui uma área de 144 cm²
+O quadrado Laranja possui uma área de 144 cm².
 
-O quadrado Azul possui uma área de 64 cm²
+O quadrado Azul possui uma área de 64 cm².
 
-O quadrado Cinza possui uma área de 36 cm²
+O quadrado Cinza possui uma área de 36 cm².
 
-O quadrado Rosa possui uma área de 16 cm²
+O quadrado Rosa possui uma área de 16 cm².
 
-Com as informações obtidas pelo matemático podemos afirmar que os
-perímetros das respectivas figuras são:
+Com as informações obtidas pelo matemático, responda às perguntas:
 
-a\) Perímetro do quadrado vermelho
+a\) Perímetro do quadrado vermelho.
 
-b\) Perímetro do quadrado verde
+b\) Perímetro do quadrado verde.
 
-c\) Perímetro do quadrado laranja
+c\) Perímetro do quadrado laranja.
 
-d\) Perímetro do quadrado azul
+d\) Perímetro do quadrado azul.
 
-e\) Perímetro do quadrado cinza
+e\) Perímetro do quadrado cinza.
 
-f\) Perímetro do quadrado rosa
+f\) Perímetro do quadrado rosa.
 
-Em cada item acima deixar o espaço de 3 linhas para resposta.
-
-Respostas:
+R:
 
 Para descobrir o perímetro de cada quadrado a solução se mostra a mesma
 se temos que a formula da área de um quadrado é l ² para descobrirmos o
 real valor de cada lado, basta fazermos a operação inversa, no caso a
 radiciação.
 
-a)$\ \sqrt{256}$= 16, 16 ^.^ 4 = perímetro= 64
+a) $$\ \sqrt{256}$$ = 16, 16 . 4 = perímetro = 64
 
-b)$\ \sqrt{225}$ = 15, 15^.^4 = perímetro = 60
+b) $$\ \sqrt{225}$$ = 15, 15 . 4 = perímetro = 60
 
-c)$\ \sqrt{144}$ = 12, 12^.^4= perímetro= 48
+c) $$\ \sqrt{144}$$ = 12, 12 . 4 = perímetro= 48
 
-d)$\ \sqrt{64}$= 8, 8^.^4= perímetro 32
+d) $$\ \sqrt{64}$$ = 8, 8 . 4 = perímetro = 32
 
-e)$\ \sqrt{36}$= 6, 6^.^4=perímetro= 24
+e) $$\ \sqrt{36}$$ = 6, 6 . 4 = perímetro = 24
 
-f)$\sqrt{16}$= 4, 4^.^4=perímetro =16
+f) $$\sqrt{16}$$ = 4, 4 . 4 = perímetro = 16
 
 \colorsec{Treino}
 
-1\) Raul estava passeando pela rua e ao passar por uma loja de discos
-antigos viu um álbum musical com o seguinte título: "Eu Nasci Há Dez Mil
-Anos Atrás", se a capa desse álbum fosse representada em forma de
-potência de base 10 qual o novo nome do álbum?
+1\) Raul estava passeando pela rua e, ao passar por uma loja de discos
+antigos, viu um álbum com o seguinte título: "Eu Nasci Há Dez Mil
+Anos Atrás". Se a capa desse álbum fosse representada em forma de
+potência de base 10, qual o novo nome do álbum?
 
 a\) Eu Nasci Há 10² anos Atrás
 
 b\) Eu Nasci Há 10³ anos atrás
 
-c\) Eu Nasci Há 10^4^ anos atrás
+c\) Eu Nasci Há $$10^4$$ anos atrás
 
-d\) Eu Nasci Há 10^5^ Anos Atrás
+d\) Eu Nasci Há $$10^5$$ Anos Atrás
 
-Resposta: C
-
-BNCC: EF09MA01
-
-Habilidade Saeb:
-
-Resolver problemas de adição, subtração, multiplicação, divisão,
+SAEB: Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
 científica
 
-A, incorreta, ao considerar o número de "zeros"
-incorretamente ao invés de 4 zeros consideráveis para 2, ocorreria esse
-erro.
+BNCC: EF08MA02 -- Resolver e elaborar problemas usando a relação entre potenciação e radiciação, para representar uma raiz como potência de expoente fracionário.
 
-B, incorreta, ao considerar o número de "zeros"
-incorretamente ao invés de 4 zeros consideráveis para 3, ocorreria esse
-erro.
+A: Incorreta, pois o número de zeros estava errado.
 
-C, Correta pois:
+B: Incorreta, pois o número de zeros estava errado.
 
-10000 = 10^.^10^.^10^.^10 ou seja 10^4^
+C: Correta, pois:
 
-D, incorreta, ao considerar o número de "zeros"
-incorretamente ao invés de 4 zeros consideráveis para 5, ocorreria esse
-erro.
+10000 = 10 . 10 . 10 . 10 ou seja $$10^4$$
 
-2\) Thiago é um professor de matemática e ao comemorar seu aniversário
-com seus alunos resolveu lançar um enigma, sua idade seria o expoente do
+D: Incorreta, pois o número de zeros estava errado.
+
+2\) Thiago é um professor de matemática e, ao comemorar seu aniversário
+com seus alunos, resolveu lançar um enigma. Sua idade seria o expoente do
 resultado da seguinte expressão:
 
-2^25.^2^35.^2^30^
+$$\frac {2^{25}. 2^{35}. 2^{30}} {2^2.2^1}$$
 
-2^2.^2^1^
-
-Qual a Idade de Thiago?
+Qual é a Idade de Thiago?
 
 a\) 2
 
@@ -849,82 +709,67 @@ c\) 45
 
 d\) 30
 
-Resposta: D
-
-BNCC: EF09MA01
-
-Habilidade Saeb:
-
-Resolver problemas de adição, subtração, multiplicação, divisão,
+SAEB: Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
 científica
 
-A: incorreta, ao confundir expoente com base chegaria a esse
-resultado erroneamente.
+A: Incorreta, pois, ao confundir expoente com base, o aluno chegaria a esse
+resultado.
 
-B: incorreta: o aluno chegaria a esse conclusão se somasse
+B: Incorreta, pois o aluno chegaria a esse conclusão se somasse
 todos os expoentes incorretamente.
 
-C: incorreta, pois ao dividir o expoente do numerado por 2
+C: Incorreta, pois, ao dividir o expoente do numerador por 2
 ao invés de 3, o aluno chegaria a esse resultado.
 
 D: Correta pois, utilizando a propriedade de multiplicação e
-divisão de potencias de mesma base temos que
+divisão de potências de mesma base, temos que
 
-No numerador 2^25+35+30^=2^90^
+No numerador $$2^{25+35+30}=2^{90}$$
 
-No denominador 2^2+1^=2³
+No denominador $$2^{2+1}$$ = 2³
 
-Realizando a divisão temos que 2^90:3^=2^30^
+Realizando a divisão, temos que $$2^{90}:3$$ = $$2^{30}$$
 
-Considerando que a idade de Thiago é apenas o expoente temos que Thiago
+Considerando que a idade de Thiago é apenas o expoente, sabemos que Thiago
 tem 30 anos.
 
 3\) Um pen drive possui diferentes capacidades de memória, mas a medida
-normalmente utilizada é o GB, sabendo que 1 GB = 2^10^ megabytes, ao
-comprar um pen drive de 32 GB quantos megabytes disponíveis de
-armazenamento estará disponível?
+normalmente utilizada é o GB. Sabendo que 1 GB = $$2^{10}$$ megabytes, ao
+comprar um pen drive de 32 GB, quantos megabytes de
+armazenamento estarão disponíveis?
 
-a\) 32 768 megabytes
+a\) 32.768 megabytes
 
-b\) 32 000 megabytes
+b\) 32.000 megabytes
 
-c\) 16 384 megabytes
+c\) 16.384 megabytes
 
 d\) 64 megabytes
 
-Resposta: A
-
-BNCC: EF09MA01
-
-Habilidade Saeb:
-
-Resolver problemas de adição, subtração, multiplicação, divisão,
+SAEB: Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
 científica.
 
-A:Correta pois:
+BNCC: EF08MA01 -- Efetuar cálculos com potências de expoentes inteiros e aplicar esse conhecimento na representação de números em notação científica.
 
-2^10^ = 1024
+A: Correta, pois:
 
-1024 ^.^32= 32768 megabytes.
+$$2^10$$ = 1024
 
-B: incorreta, o aluno chegaria a esse resultado erroneamente
-ao considerar que 2^10^ seja 1 000 ao invés de 1 024.
+1024 . 32 = 32.768 megabytes.
 
-C: incorreta, ao considerar um "dois" a menos na expressão,
-chegaria a esse resultado incorreto.
+B: Incorreta, o aluno chegaria a esse resultado ao considerar que $$2^{10}$$ seja 1.000 ao invés de 1.024.
 
-D: incorreta, ao realizar apenas a multiplicação ao invés de
-realizar o cálculo da potência o aluno chegaria a esse resultado
-erroneamente.
+C: Incorreta, pois, ao considerar um 2 a menos na expressão, o aluno
+chegaria a esse resultado.
 
-# Módulo 3
+D: Incorreta, pois, ao realizar apenas a multiplicação ao invés de
+realizar o cálculo da potência, o aluno chegaria a esse resultado.
 
-BNCC: EF08MA051
+# 3. Frações
 
-Habilidades Saeb:
-
+Habilidades do SAEB
 *  Representar frações menores ou maiores que a unidade por meio de
 representações pictóricas ou associar frações a representações
 pictóricas.
@@ -933,68 +778,65 @@ pictóricas.
 
 *  Determinar uma fração geratriz para uma dízima periódica.
 
+Habilidade da BNCC
+EF08MA051.
+
 Comparação de números racionais
 
-Comparar dois números racionais significa dizer se um é maior que o
-outro, ou se é menor ou, ainda, se é igual.
+Comparar dois números racionais significa estabelecer se entre eles existe uma relação de superioridade, inferioridade ou igualdade.
 
 Todo número racional negativo é menor que todo número racional positivo
 
-*  $\frac{1}{5}$ \< $\frac{3}{4}$
+$$\frac{1}{5}$$ < $$\frac{3}{4}$$
 
 Todo número racional negativo é menor que zero
 
--5 \< 0 -12,5 \< 0 -$\frac{3}{2}$ \< 0
+-5 < 0 
+-12,5 < 0 
+-$$\frac{3}{2}$$ < 0
 
 Operações com números racionais
 
 Adição e subtração
 
-Na forma fracionária Temos que estudar dois casos distintos: o primeiro
+Na forma fracionária, temos que estudar dois casos distintos: o primeiro
 deles refere-se às frações com denominadores iguais.
 
 O segundo, às frações com denominadores diferentes.
 
-1° caso: Frações de mesmo denominador. Para somarmos (ou subtrairmos)
-frações de mesmo denominador, mantemos o denominador e somamos (ou
-subtraímos) os numeradores. Veja um exemplo:
+1º. caso: Frações de mesmo denominador.
 
-$\frac{3}{5}$ + $\frac{6}{5}$ = $\frac{9}{5}$
+Para somarmos (ou subtrairmos) frações de mesmo denominador, mantemos o denominador e somamos (ou subtraímos) os numeradores. Veja um exemplo:
 
-2° caso: Frações com denominadores diferentes. Para somarmos (ou
-subtrairmos) frações com denominadores diferentes, devemos obter frações
-equivalentes às frações dadas, de mesmo denominador. Em seguida,
-mantemos o denominador comum e somamos (ou subtraímos) os numeradores.
+$$\frac{3}{5}$$ + $$\frac{6}{5}$$ = $$\frac{9}{5}$$
 
-$\frac{2}{4}$ + $\frac{3}{7}$ = $\frac{14 + 12}{28}$ = $\frac{26}{28}$
+2° caso: Frações com denominadores diferentes.
+
+Para somarmos (ou subtrairmos) frações com denominadores diferentes, devemos obter frações
+equivalentes às frações dadas, de mesmo denominador. Em seguida, mantemos o denominador comum e somamos (ou subtraímos) os numeradores.
+
+$$\frac{2}{4}$$ + $$\frac{3}{7}$$ = $$\frac{14 + 12}{28}$$ = $$\frac{26}{28}$$
 
 Multiplicação de números racionais
 
-Na forma fracionária Para multiplicarmos dois números racionais na forma
-fracionária, multiplicamos os numeradores entre si e, em seguida, os
-denominadores. Caso seja necessário, simplificamos o resultado até obter
-a fração irredutível. Exemplo:
+Para multiplicarmos dois números racionais na forma fracionária, multiplicamos os numeradores entre si e, em seguida, os denominadores. Caso seja necessário, simplificamos o resultado até obter a fração irredutível. Exemplo:
 
-$\frac{3}{4}$ x $\frac{2}{5}$ = $\frac{6}{20}$= $\frac{3}{10}$
+$$\frac{3}{4}$$ x $$\frac{2}{5}$$ = $$\frac{6}{20}$$= $$\frac{3}{10}$$
 
 Divisão de números racionais
 
-Na forma fracionária Para dividirmos dois números racionais na forma
-fracionária, mantemos a primeira fração e multiplicamos pelo inverso da
-segunda.
+Para dividirmos dois números racionais na forma fracionária, mantemos a primeira fração e multiplicamos pelo inverso da segunda.
 
-$\frac{1}{2}$ : $\frac{3}{5}$= $\frac{1}{2}$ x $\frac{5}{3}$ =
-$\frac{5}{6}$
+$$\frac{1}{2}$$ : $$\frac{3}{5}$$= $$\frac{1}{2}$$ x $$\frac{5}{3}$$ = $$\frac{5}{6}$$
 
 Dízimas periódicas
 
 Em Matemática, muitas vezes, é útil representar números racionais,
 expressos por meio de frações, na forma decimal. Para isso, basta
 dividir o numerador pelo denominador. Em alguns casos, essa
-representação decimal é finita em outros casos essa representação
-decimal é infinita. Exemplo:
+representação decimal é finita. Já em outros casos, ela é infinita. Exemplo:
 
-$\frac{1}{3}$ = 0,3333333\...\...
+$$\frac{1}{3}$$ = 0,3333333\...\...
 
 Fração geratriz de dízimas periódicas simples
 
@@ -1004,16 +846,15 @@ forma decimal, gera essa dízima.
 
 Para isso, montamos uma equação:
 
-0,333333333\...\-\-\-\-\-\-\-\-\-\-\-\-\--x
+0,333333333\... - x
 
-3,33333333\...\-\-\-\-\-\-\-\-\-\-\-\-\-- 10x
+3,33333333\... - 10x
 
-3,3333333333\... -- 0,333333333\... = 3
+3,3333333333\... - 0,333333333\... = 3
 
-10 x -- x = 9x
+10x - x = 9x
 
-Logo temos que $\frac{3}{9}$ simplificando $\frac{1}{3}$ é a nossa
-fração geratriz.
+Logo temos que $$\frac{3}{9}$$ simplificando $$\frac{1}{3}$$ é a nossa fração geratriz.
 
 \colorsec{Atividades}
 
@@ -1022,80 +863,68 @@ seguir:
 
 ( ) 4,9 = 4,09
 
-( ) -15,3 \< 15,3
+( ) -15,3 < 15,3
 
-( ) $\frac{19}{3}$ \> $\frac{23}{3}$
+( ) $$\frac{19}{3}$$ > $$\frac{23}{3}$$
 
-( )- $\frac{89}{7}$ \< $- \frac{63}{4}$
+( ) $$-\frac{89}{7}$$ < $$- \frac{63}{4}$$
 
-( )$- \frac{7}{5}$ \> -1,4
+( ) $$- \frac{7}{5}$$ > -1,4
 
-( ) 23,98 \> 23,89
+( ) 23,98 > 23,89
 
-Em cada item acima deixar o espaço de 1 linha para resposta.
-
-Respostas:
+R:
 
 ( F ) 4,9 = 4,09
 
-( V ) -15,3 \< 15,3
+( V ) -15,3 < 15,3
 
-( F ) $\frac{19}{3}$ \> $\frac{23}{3}$
+( F ) $$\frac{19}{3}$$ > $$\frac{23}{3}$$
 
-( V )- $\frac{89}{7}$ \< $- \frac{63}{4}$
+( V ) $$-\frac{89}{7}$$ < $$- \frac{63}{4}$$
 
-( F )$- \frac{7}{5}$ \> -1,4
+( F ) $$- \frac{7}{5}$$ > -1,4
 
-( V) 23,98 \> 23,89
+( V) 23,98 > 23,89
 
 2\) Efetue as operações a seguir:
 
-a)$- \frac{8}{5}$ + 2,5 =
+a) $$- \frac{8}{5}$$ + 2,5 =
 
-b\) $\frac{14}{3}$ + $\frac{19}{5}$
+b\) $$\frac{14}{3}$$ + $$\frac{19}{5}$$
 
-c\) -$\frac{8}{13}$ - $\frac{3}{5}$
+c\) -$$\frac{8}{13}$$ - $$\frac{3}{5}$$
 
-d\) 79,02 -- $\frac{12}{5}$
+d\) 79,02 - $$\frac{12}{5}$$
 
-e\) 125 - $\frac{35}{4}$
+e\) 125 - $$\frac{35}{4}$$
 
-f\) $\frac{49}{7}$ + $\frac{2}{3}$
+f\) $$\frac{49}{7}$$ + $$\frac{2}{3}$$
 
-g\) 50 - $\frac{1}{2}$
+g\) 50 - $$\frac{1}{2}$$
 
-h\) 100 - $\frac{1}{3}$
+h\) 100 - $$\frac{1}{3}$$
 
-Em cada item acima deixar o espaço de 2 linhas para resposta.
+R:
 
-Respostas:
+a)$$- \frac{8}{5}$$ + 2,5 = -$$\ \frac{8}{5}$$ + $$\frac{25}{10}$$ = $$\frac{- 16}{10}$$+$$\frac{25}{10}$$ = $$\frac{9}{10}$$
 
-a)$- \frac{8}{5}$ + 2,5 = -$\ \frac{8}{5}$ + $\frac{25}{10}$ =
-$\frac{- 16}{10}$+$\frac{25}{10}$ = $\frac{9}{10}$
+b\) $$\frac{14}{3}$$ + $$\frac{19}{5}$$= $$\frac{70}{15}$$ + $$\frac{57}{15}$$ = $$\frac{127}{15}$$
 
-b\) $\frac{14}{3}$ + $\frac{19}{5}$= $\frac{70}{15}$ + $\frac{57}{15}$ =
-$\frac{127}{15}$
+c) $$-\frac{8}{13}$$ - $$\frac{3}{5}$$ = $$ -\frac{40}{65}$$ - $$\frac{39}{65}$$ =  $$-\frac{79}{65}$$
 
-c)- $\frac{8}{13}$ - $\frac{3}{5}$ = $- \frac{40}{65}$ - $\frac{39}{65}$
-= - $\frac{79}{65}$
+d\) 79,02 - $$\frac{12}{5}$$ = $$\frac{7.902}{100}$$ - $$\frac{12}{5}$$ = $$\frac{7.902}{100}$$ - $$\frac{240}{100}$$ = $$\frac{7.662}{100}$$
 
-d\) 79,02 -- $\frac{12}{5}$ = $\frac{7\ 902}{100}$ - $\frac{12}{5}$ =
-$\frac{7\ 902}{100}$ - $\frac{240}{100}$ = $\frac{7\ 662}{100}$
+e\) 125 - $$\frac{35}{4}$$ = $$\frac{125}{1}$$ - $$\frac{35}{4}$$ = $$\frac{500}{4}$$ - $$\frac{35}{4}$$ = $$\frac{465}{4}$$
 
-e\) 125 - $\frac{35}{4}$ = $\frac{125}{1}$ - $\frac{35}{4}$ =
-$\frac{500}{4}$ - $\frac{35}{4}$ = $\frac{465}{4}$
+f\) $$\frac{49}{7}$$ + $$\frac{2}{3}$$ = $$\frac{147}{21}$$ + $$\frac{14}{21}$$ = $$\frac{161}{21}$$
 
-f\) $\frac{49}{7}$ + $\frac{2}{3}$ = $\frac{147}{21}$ + $\frac{14}{21}$
-= $\frac{161}{21}$
+g\) 50 - $$\frac{1}{2}$$ = $$\frac{50}{1}$$ - $$\frac{1}{2}$$ = $$\frac{100}{2}$$ - $$\frac{1}{2}$$ = $$\frac{99}{2}$$
 
-g\) 50 - $\frac{1}{2}$ = $\frac{50}{1}$ - $\frac{1}{2}$ =
-$\frac{100}{2}$ - $\frac{1}{2}$ = $\frac{99}{2}$
+h\) 100 - $$\frac{1}{3}$$ = $$\frac{100}{1}$$ - $$\frac{1}{3}$$ = $$\frac{300}{3}$$ - $$\frac{1}{3}$$ = $$\frac{299}{3}$$
 
-h\) 100 - $\frac{1}{3}$ = $\frac{100}{1}$ - $\frac{1}{3}$ =
-$\frac{300}{3}$ - $\frac{1}{3}$ = $\frac{299}{3}$
-
-3\) Resolva as multiplicações abaixo, mas antes de calcular transforme
-os decimais em fracionários
+3\) Resolva as multiplicações abaixo, mas antes de calculá-las, transforme
+os decimais em números fracionários.
 
 a\) 0,5 . 12,7
 
@@ -1113,32 +942,26 @@ g\) 0,456 . 0,345
 
 h\) 0,01 . 0,001
 
-Em cada item acima deixar o espaço de 2 linhas para resposta.
+R:
 
-Respostas:
+a\) 0,5 . 12,7 = $$\frac{5}{10}$$ . $$\frac{127}{10}$$ = $$\frac{635}{100}$$
 
-a\) 0,5 . 12,7 = $\frac{5}{10}$ . $\frac{127}{10}$ = $\frac{635}{100}$
+b\) 3,6 . 6,7 = $$\frac{35}{10}$$ . $$\frac{67}{10}$$
 
-b\) 3,6 . 6,7 = $\frac{35}{10}$ . $\frac{67}{10}$
+c\) 9,3 . 13,25 = $$\frac{93}{10}$$ . $$\frac{1325}{100}$$ = $$\frac{123\ 225}{1\ 000}$$
 
-c\) 9,3 . 13,25 = $\frac{93}{10}$ . $\frac{1325}{100}$ =
-$\frac{123\ 225}{1\ 000}$
+d\) 2,9 . 3,8 = $$\frac{29}{10}$$ . $$\frac{38}{10}$$ = $$\frac{1102}{100}$$
 
-d\) 2,9 . 3,8 = $\frac{29}{10}$ . $\frac{38}{10}$ = $\frac{1102}{100}$
+e\) 11,2 . 4,2= $$\frac{112}{10}$$ . $$\frac{42}{10}$$ = $$\frac{4\ 704}{100}$$
 
-e\) 11,2 . 4,2= $\frac{112}{10}$ . $\frac{42}{10}$ =
-$\frac{4\ 704}{100}$
+f\) 7,5 . 6,6 = $$\frac{75}{10}$$ . $$\frac{66}{10}$$ = $$\frac{4950}{100}$$
 
-f\) 7,5 . 6,6 = $\frac{75}{10}$ . $\frac{66}{10}$ = $\frac{4950}{100}$
+g\) 0,456 . 0,345 = $$\frac{456}{1\ 000}$$ . $$\frac{345}{1\ 000}$$ = $$\frac{157\ 320}{1\ 000\ 000}$$
 
-g\) 0,456 . 0,345 = $\frac{456}{1\ 000}$ . $\frac{345}{1\ 000}$ =
-$\frac{157\ 320}{1\ 000\ 000}$
+h\) 0,01 . 0,001= $$\frac{1}{100}$$ . $$\frac{1}{1\ 000}$$ = $$\frac{1}{100\ 000}$$
 
-h\) 0,01 . 0,001= $\frac{1}{100}$ . $\frac{1}{1\ 000}$ =
-$\frac{1}{100\ 000}$
-
-4\) Resolva as Divisões abaixo, mas antes transforme os decimais em
-fracionários
+4\) Resolva as ivisões abaixo, mas antes transforme os decimais em números
+fracionários.
 
 a\) 0,5 : 3,4
 
@@ -1156,35 +979,25 @@ g\) 4,2 : 0,1
 
 h\) 3,1: 1,5
 
-Em cada item acima deixar o espaço de 2 linhas para resposta.
+R:
 
-Respostas:
+a\) 0,5 : 3,4 = $$\frac{5}{10}$$ : $$\frac{34}{10}$$ = $$\frac{5}{10}$$ . $$\frac{10}{34}$$ = $$\frac{50}{340}$$
 
-a\) 0,5 : 3,4 = $\frac{5}{10}$ : $\frac{34}{10}$ = $\frac{5}{10}$ .
-$\frac{10}{34}$ = $\frac{50}{340}$
+b\) 9,4 : 3,1 = $$\frac{94}{10}$$ : $$\frac{31}{10}$$ = $$\frac{94}{10}$$ . $$\frac{10}{31}$$ = $$\frac{940}{310}$$
 
-b\) 9,4 : 3,1 = $\frac{94}{10}$ : $\frac{31}{10}$ = $\frac{94}{10}$ .
-$\frac{10}{31}$ = $\frac{940}{310}$
+c\) 5,1 : 0,2 = $$\frac{51}{10}$$ : $$\frac{2}{10}$$ = $$\frac{51}{10}$$ . $$\frac{10}{2}$$ = $$\frac{510}{20}$$
 
-c\) 5,1 : 0,2 = $\frac{51}{10}$ : $\frac{2}{10}$ = $\frac{51}{10}$ .
-$\frac{10}{2}$ = $\frac{510}{20}$
+d\) 0,2 : 0,1 = $$\frac{2}{10}$$ : $$\frac{1}{10}$$ = $$\frac{2}{10}$$ . $$\frac{10}{1}$$ = $$\frac{20}{10}$$ = 2
 
-d\) 0,2 : 0,1 = $\frac{2}{10}$ : $\frac{1}{10}$ = $\frac{2}{10}$ .
-$\frac{10}{1}$ = $\frac{20}{10}$ = 2
+e\) 0,01 : 0,001= $$\frac{1}{100}$$ : $$\frac{1}{1\ 000}$$ = $$\frac{1}{100}$$ . $$\frac{1\ 000}{1}$$ = $$\frac{1\ 000}{100}$$ = 10
 
-e\) 0,01 : 0,001= $\frac{1}{100}$ : $\frac{1}{1\ 000}$ = $\frac{1}{100}$
-. $\frac{1\ 000}{1}$ = $\frac{1\ 000}{100}$ = 10
+f\) 2,1 : 0,5 = $$\frac{21}{10}$$ : $$\frac{5}{10}$$ = $$\frac{21}{10}$$ . $$\frac{10}{5}$$ = $$\frac{210}{50}$$
 
-f\) 2,1 : 0,5 = $\frac{21}{10}$ : $\frac{5}{10}$ = $\frac{21}{10}$ .
-$\frac{10}{5}$ = $\frac{210}{50}$
+g\) 4,2 : 0,1 = $$\frac{42}{10}$$ : $$\frac{1}{10}$$ = $$\frac{42}{10}$$ . $$\frac{10}{1}$$ = $$\frac{420}{10}$$ = 42
 
-g\) 4,2 : 0,1= $\frac{42}{10}$ : $\frac{1}{10}$ = $\frac{42}{10}$ .
-$\frac{10}{1}$= $\frac{420}{10}$ = 42
+h\) 3,1: 1,5 = $$\frac{31}{10}$$ : $$\frac{15}{10}$$ = $$\frac{31}{10}$$ . $$\frac{10}{15}$$ = $$\frac{310}{150}$$
 
-h\) 3,1: 1,5 = $\frac{31}{10}$ : $\frac{15}{10}$ = $\frac{31}{10}$ .
-$\frac{10}{15}$ = $\frac{310}{150}$
-
-5\) Transforme as dizimas periódicas abaixo em frações geratrizes:
+5\) Transforme as dízimas periódicas abaixo em frações geratrizes:
 
 a\) 2,333333\...
 
@@ -1196,290 +1009,177 @@ d\) 4,166666\...
 
 e\) 1,2222\...
 
-Em cada item acima deixar o espaço de 4 linhas para resposta.
+R:
 
-Respostas:
+a\) $$\frac{21}{9}$$ = $$\frac{7}{3}$$
 
-a\) 2,333333\...
+b\) $$\frac{315}{99}$$$
 
-23,333333\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-10x
+c\) $$\frac{13}{90}$$
 
-2,3333333\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
+d\) $$\frac{375}{90}$$ = $$\frac{25}{6}$$
 
-23,33333\... - 2,3333333\... = 21
-
-10x -- x = 9x
-
-Logo $\frac{21}{9}$ = $\frac{7}{3}$
-
-b\) 3,181818\...
-
-318,1818\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100x
-
-3,181818\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--x
-
-318,1818\... -- 3,181818\... = 315
-
-100 x -- x = 99x
-
-Logo= $\frac{315}{99}$
-
-c\) 0,144444\...
-
-1,444444\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 10x
-
-14,444444\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 100x
-
-14,4444444 -- 1,44444444 = 13
-
-100x -10x = 90x
-
-Logo $\frac{13}{90}$
-
-d\) 4,166666\...
-
-41, 666666\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 10x
-
-416,66666\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 100x
-
-416,666666 -- 41,6666666 = 375
-
-100 x -- 10 x = 90x
-
-Logo = $\frac{375}{90}$ = $\frac{25}{6}$
-
-e\) 1,2222\...
-
-1,222222 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
-
-12,22222 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 10x
-
-12,222222 -- 1,2222222 = 11
-
-10x -- x = 9
-
-Logo: $\frac{11}{9}$
+e\) $$\frac{11}{9}$$
 
 6\) Prove que 0,99999999999999 = 1
 
-Deixar o espaço de 4 linhas para resposta.
+R:
 
-Resposta:
-
-0,99999999 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
-
-9,99999999 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 10x
+$$\frac {0,99999999}{9,99999999} = \frac {x}{10x}$$
 
 9,999999999 -- 0,999999999 = 9
 
-10 x -- x = 9
+10 x - x = 9
 
-Logo $\frac{9}{9}$ = 1
+Logo $$\frac{9}{9}$$ = 1
 
 7\) Complete com X as lacunas corresponde aos valores corretos
 
+%Paulo: criar uma tabela com os valores abaixo:
 ![](./imgSAEB_8_MAT/media/image3.png){width="2.373779527559055in"
 height="4.291666666666667in"}
 
-Inserir uma tabela similar a essa, contendo os mesmos valores, as cores
-podem ser modificadas.
 
+R:
+%Paulo: criar uma tabela com os valores abaixo:
 ![](./imgSAEB_8_MAT/media/image4.png){width="2.147222222222222in"
 height="3.775in"}
 
-Respostas:
-
-8\) Juliana está realizando suas atividades extracurriculares, ao
-realizar 2 operações na calculadora obteve os seguintes resultados:
+8\) Ao realizar duas operações na calculadora, Juliana obteve os seguintes resultados:
 3,33333333\... e 0,8888888\...
 
 Quais operações Juliana pode ter realizado?
 
-Deixar o espaço de 4 linhas para resposta.
+R:
 
-Respostas:
+1°. caso
 
-1° caso
+$$\frac {3,333333333}{33,33333333} = \frac {x}{10x}$$
 
-3,333333333 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
+33,33333333\... - 3,33333333\... = 30
 
-33,33333333 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 10 x
+10 x - x = 9
 
-33,33333333\... -- 3,33333333\... = 30
+Logo, temos que Juliana chegou à fração $$\frac{30}{9}$$, ou equivalentes.
 
-10 x -- x = 9
+Analogamente, temos que
 
-Logo temos que Juliana Realizou a operação $\frac{30}{9}$ ou frações
-equivalentes a essa como operação
-
-Analogamente temos que
-
-0,888888888\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
-
-8,888888888 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 10 x
+$$\frac {0,888888888}{8,888888888} = \frac {x}{10x}$$
 
 8,8888888\... -- 0,88888888 = 8
 
-10x-x = 9
+10x - x = 9
 
-Logo temos que Juliana Realizou a operação $\frac{8}{9}$ ou frações
-equivalentes a essa como operação.
+Logo, temos que Juliana chegou à fração $$\frac{8}{9}$$, ou equivalentes.
 
 9\) Um professor de matemática aposentado resolveu inovar em sua festa
-de aniversário, na parede do salão de festas colocou um cartaz com os
+de aniversário. Na parede do salão de festas, colocou um cartaz com os
 seguintes dizeres "ao descobrirem a fração geratriz do número
 5,454545\..., saberão que o numerador desta fração é a idade que estou
-completando hoje" Quantos anos o professor está completando?
+completando hoje". Quantos anos o professor está completando?
 
-a\) 50 anos
-
-b\) 52 anos
-
-c\) 56 anos
-
-d\) 60 anos
-
-Deixar o espaço de 4 linhas para resposta.
-
-Resposta:
+R:
 
 5,45454545\...\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
 
 545,454545\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 100 x
 
-5,45454545\... -- 545,454545 = 540
+$$\frac {5,45454545}{545,454545} = \frac {x}{100x}$$
 
-100 -- x = 99
+5,45454545\... - 545,454545 = 540
 
-Logo temos que $\frac{540}{99}$ = $\frac{60}{11}$ logo 60 anos
+100 - x = 99
 
-10\) Marly e Marla são irmãs gêmeas e ao divirem tarefas domésticas
-decidiram que cada uma ia limpar uma parte da casa, desde que ambas
-limpassem ao final a mesma fração que a outra, Sabendo que Marly limpou
-$\frac{3}{9}$ da casa, Qual fração da casa Marla deverá limpar da casa ?
+Logo temos que $$\frac{540}{99}$$ = $$\frac{60}{11}$$, logo, 60 anos.
 
-a)$\frac{6}{18}$
+10\) Marly e João são irmãos gêmeos. Ao divirem tarefas domésticas,
+decidiram que cada um ia limpar uma parte da casa, desde que ambos
+limpassem ao final a mesma fração que o outro. Sabendo que Marly limpou
+$$\frac{3}{9}$$ da casa, qual fração João deverá limpar?
 
-b\) $\frac{2}{3}$
+R: 
+O aluno pode responder qualquer fração equivalente, tal como $$\frac{6}{18}$$.
 
-c\) $\frac{5}{9}$
 
-d\) $\frac{1}{4}$
-
-Deixar o espaço de 3 linhas para resposta.
 
 \colorsec{Treino}
 
 1\) Assinale a alternativa correta:
 
-a\) O valor do número $\pi$ que é aproximadamente
-3,14159265358979323846... é considerado uma dizima periódica simples
-pois seus 3 últimos números da sequência são pares
+a\) O valor do número $$\pi$$ é aproximadamente
+3,14159265358979323846..., e ele é considerado uma dízima periódica simples,
+pois seus 3 últimos números são pares.
 
-b\) o número de ouro representado pelo número 1.61803399\... é
-considerado uma dizima periódica simples
+b\) O número de ouro representado pelo número 1.61803399\... é
+considerado uma dízima periódica simples.
 
-c\) Ao calcularmos uma dizima periódica simples, sempre encontramos uma
-fração geratriz
+c\) Ao calcularmos uma dízima periódica simples, sempre encontramos uma
+fração geratriz.
 
-d\) O Conjunto dos números irracionais são compostos por dizimas
+d\) O conjunto dos números irracionais é composto por dízimas
 periódicas simples.
 
-Resposta: C
+SAEB: Determinar uma fração geratriz para uma dízima periódica.
 
-BNCC: EF08MA05
+BNCC: EF08MA05 -- Reconhecer e utilizar procedimentos para a obtenção de uma fração geratriz para uma dízima periódica.
 
-Habilidade Saeb:
+A: Incorreta, pois o aluno pode considerar que o número $$\pi$$ seja de fato uma 
+dízima periódica simples pelo fato de ter números pares na sua composição.
 
-Determinar uma fração geratriz para uma dízima periódica.
+B: Incorreta, pois o aluno pode não conhecer a diferença entre uma dízima periódica
+simples e uma irracional.
 
-A: incorreta, o aluno pode ter uma confusão conceitual
-passando a acreditar que o número $\pi$ seja de fato uma dizima
-periódica simples pelo fato de ter números pares na sua composição.
+C: Correta, pois o conceito foi descrito corretamente.
 
-B: incorreta, o aluno pode ter uma confusão conceitual ao
-não conseguir identificar uma a diferença entre uma dizima periódica
-simples e um irracional.
+D: Incorreta, pois o aluno pode não ser capaz de identificar a diferença entre uma dizima periódica simples e uma irracional.
 
-C, Correta. Questão conceitual.
+2\) Ao realizar uma palestra, um renomado médico descobriu que apenas
+$$\frac{2}{3}$$ dos convidados se consultava regularmente. Tendo em vista que compareceram
+300 pessoas ao evento, quantos participantes não costumam se consultar?
 
-D, incorreta, o aluno pode ter uma confusão conceitual ao
-não conseguir identificar uma a diferença entre uma dizima periódica
-simples e um irracional.
+a\) 200
 
-2\) Ao realizar uma palestra um renomado medico descobriu que apenas
-$\frac{2}{3}$ considerou boa a palestra e do restante $\frac{1}{6}$
-considerou a palestra péssima, qual foi a fração corresponde aos que
-acharam a palestra péssima?
+b\) 150
 
-a)$\frac{5}{6}$
+c\) 600
 
-b)$\ \frac{2}{18}$
+d\) 100
 
-c\) $\frac{12}{3}$
-
-d)$\ \frac{1}{18}$
-
-BNCC: EF08MA05
-
-Habilidade Saeb: Representar frações menores ou maiores que a unidade
+SAEB: Representar frações menores ou maiores que a unidade
 por meio de representações pictóricas ou associar frações a
 representações pictóricas.
 
-A: incorreta, o aluno chegaria a esse resultado caso
-realizasse a soma de ambos os termos do enunciado.
+BNCC: EF08MA05 -- Reconhecer e utilizar procedimentos para a obtenção de uma fração geratriz para uma dízima periódica.
 
-B: incorreta, o aluno chegaria a esse valor caso
-multiplicasse os valores do enunciado.
+A: Incorreta, pois esse valor corresponde a $$\frac {2}{3}$$ dos participantes.
 
-C:incorreta, o aluno chegaria a esse valor caso dividisse os
-valores do enunciado.
+B: Incorreta, pois esse valor corresponde à metade dos participantes.
 
-D:Correta, pois
+C: Incorreta, pois esse valor corresponde ao dobro dos partcipantes.
 
-Considerando que $\frac{1}{3}$ não gostou ou 0,333333333\... Retirando
-$\frac{1}{6}$ obtemos 0,0555555\....
+D: Correta, pois $$\frac {1}{3}$$ de 300 é igual a 100.
 
-Logo
-
-55,55555555\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-- 1000 x
-
-5,555555555\.... \-\-\-\-\-\-\-\-\-\-\-\-\-\-- 100x
-
-55,555555\..... -- 5,5555555\.... = 50
-
-1000x -- 100x = 900
-
-Logo temos $\frac{50}{900}$ dividindo numerador e denominador por 50
-temos $\frac{1}{18}$
-
-3\) Ao Fazer um bolo de aniversário, Cecilia utiliza 400 g de farinha de
-trigo, ao dividir este bolo em 22 pedaços, Qual fração geratriz
+3\) Ao fazer um bolo de aniversário, Cecilia utiliza 400 g de farinha de
+trigo. Ao dividir este bolo em 22 pedaços, qual fração geratriz
 representara a quantidade de farinha em cada pedaço de bolo?
 
-a)$\ \frac{200}{1}$
+a) $$\ \frac{200}{1}$$
 
-b\) $\frac{1\ 000}{99}$
+b\) $$\frac{1\ 000}{99}$$
 
-c)$\ \frac{200}{9}$
+c) $$\ \frac{200}{9}$$
 
-d\) $\frac{1\ 800}{101}$
+d\) $$\frac{1\ 800}{101}$$
 
-Resposta: C
+SAEB: Determinar uma fração geratriz para uma dízima periódica.
 
-BNCC: EF08MA05
+BNCC: EF08MA05 -- Reconhecer e utilizar procedimentos para a obtenção de uma fração geratriz para uma dízima periódica.
 
-Habilidade Saeb: Determinar uma fração geratriz para uma dízima
-periódica.
+A: Incorreta, pois o aluno pode chegar a esse valor ao calcular
+erroneamente a expressão.
 
-A: incorreta, o aluno pode chegar a esse valor ao calcular
-erroneamente a expressão e ao invés de calcular 1 800 : 99 , calcular 1
-800 : 9
-
-B: incorreta, o aluno pode chegar a esse valor ao calcular
-erroneamente a expressão e ao invés de calcular 1 800 : 99 , calcular 1
-000 : 9
+B: Incorreta, pois o aluno pode chegar a esse valor ao calcular
+erroneamente a expressão.
 
 C: Correta, pois: 400 g : 22 pedaços = 18,1818181818\....
 
@@ -1487,26 +1187,26 @@ C: Correta, pois: 400 g : 22 pedaços = 18,1818181818\....
 
 1818,18181818\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100x
 
-1818,181818\.... -- 18,18181818\... = 1800
+$$\frac {18,181818181818}{1818,18181818} = \frac {x}{100x}$$
 
-100x -- x = 99x
+1818,181818\.... - 18,18181818\... = 1800
 
-Logo temos $\frac{1\ 800}{99}$ dividindo ambos por 9 temos que
-$\frac{200}{9}$
+100x - x = 99x
 
-D : incorreta, o aluno pode chegar a esse valor ao calcular
-erroneamente a expressão e ao invés de calcular 1 800 : 99 , calcular 1
-800 : 101
+Logo, temos $$\frac{1\ 800}{99}$$. Dividindo ambos por 9, temos que $$\frac{200}{9}$$.
 
-# Módulo 4
+D : Incorreta, pois o aluno pode chegar a esse valor ao calcular
+erroneamente a expressão.
 
-BNCC: EF08MA04
+# 4. Porcentagens
 
-Habilidade Saeb:
-
+Habilidade do SAEB
 *  Resolver problemas que envolvam porcentagens, incluindo os que lidam
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
+
+Habilidades da BNCC 
+EF08MA04
 
 Porcentagem
 
@@ -1520,7 +1220,7 @@ Exemplo:
 
 25 % de água de um balde
 
-Para calcular, existem duas formas, ou pelo método da regra de 3
+Existem duas formas para realizarmos esse cálculo: pelo método da regra de 3
 simples, ou pelo método multiplicativo de seu corresponde decimal.
 
 Exemplo:
@@ -1529,9 +1229,7 @@ Exemplo:
 
 Pelo método da regra de três simples temos:
 
-100% \-\-\-\-\-\-\-\-\-\-\-- 300
-
-25% \-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
+$$\frac {100%}{25%} \times \frac{300}{x}$$
 
 100 x = 25 . 300
 
@@ -1541,49 +1239,42 @@ X = 75
 
 Pelo método multiplicativo de seu correspondente decimal temos:
 
-300 . $\frac{25}{100}$ = 75
+300 . $$\frac{25}{100}$$ = 75
 
 \colorsec{Atividades}
 
-1\) Em uma gincana realizada por uma escola haverá várias modalidades
-para que os alunos se inscrevam para participar. Ao final das inscrições
-30 alunos escolheram jogar futsal, 18 alunos escolheram jogar Vôlei, 45
-alunos escolheram jogar basquete e 32 alunos escolheram não participar
-de nenhuma modalidade.
+1\) Em uma gincana realizada por uma escola, haverá várias modalidades
+para os alunos. Ao final das inscrições, 30 alunos escolheram jogar futsal, 18 alunos escolheram jogar Vôlei, 45 alunos escolheram jogar basquete e 32 alunos escolheram não participar de nenhuma modalidade.
 
 Calcule então:
 
-a\) % dos alunos que escolheram jogar futsal
+a\) % dos alunos que escolheram jogar futsal.
 
-b\) % dos alunos que escolheram jogar vôlei
+b\) % dos alunos que escolheram jogar vôlei.
 
-c\) % dos alunos que escolheram jogar basquete
+c\) % dos alunos que escolheram jogar basquete.
 
-d\) % dos alunos que escolheram não participar de nenhuma modalidade
+d\) % dos alunos que escolheram não participar de nenhuma modalidade.
 
 Em cada item acima deixar o espaço de 3 linhas para resposta.
 
-Respostas:
+R:
 
-Sabendo que o total de alunos é 125 temos que
+Sabendo que o total de alunos é 125, temos que
 
-a\) futsal
+a\) Futsal:
 
-125\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-30 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
+$$\frac {125}{30} = \frac {100}{x}$$
 
 125 . x = 30 . 100
 
-125x= 3000
+125x = 3000
 
-X= 24 %
+X = 24 %
 
 b\) Vôlei
 
-125\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-18\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
+$$\frac {125}{18} = \frac {100}{x}$$
 
 125 . x = 100 . 18
 
@@ -1591,21 +1282,17 @@ b\) Vôlei
 
 X = 14,4%
 
-c\) basquete
+c\) Basquete:
 
-125\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-45\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
+$$\frac {125}{45} = \frac {100}{x}$$
 
 125 x = 4500
 
 X = 36%
 
-d\) nenhuma das modalidades.
+d\) Nenhuma das modalidades:
 
-125\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-32\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
+$$\frac {125}{32} = \frac {100}{x}$$
 
 125 . x = 32 . 100
 
@@ -1613,33 +1300,31 @@ d\) nenhuma das modalidades.
 
 X = 25,6
 
-2\) Marcos é corretor de imóveis, em janeiro após ter um grande sucesso
-em suas vendas recebeu um aumento de 10% no salário que passou a ser de
-R\$ 2 178,00. O valor do salário de Marcos antes do aumento era:
+2\) Marcos é corretor de imóveis. Em janeiro, após ter um grande sucesso
+em suas vendas, ele recebeu um aumento de 10% no salário, que passou a ser de
+R$2.178,00. O valor do salário de Marcos antes do aumento era:
 
-a\) 1980
+a\) R$1.980,00
 
-b\) 1990
+b\) R$1.990,00
 
-c\) 2000
+c\) R$2.000,00
 
-d\) 2100
+d\) R$2.100,00
 
 Deixar o espaço de 3 linhas para resposta.
 
-Resposta:
+R:
 
-Utilizando a regra de 3 simples temos que:
+Utilizando a regra de 3 simples, temos que:
 
-X\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
+$$\frac {x}{2178} = \frac {100}{110}$$
 
-2178\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--110
-
-Logo x. 110 = 2178 . 100
+Logo, x . 110 = 2178 . 100
 
 110x = 217 800
 
-X= 1980
+X = 1980
 
 3\) Após uma apresentação de teatro, 250 espectadores foram
 entrevistados e opinaram sobre o show. Veja o resultado dessa pesquisa:
@@ -1650,19 +1335,15 @@ entrevistados e opinaram sobre o show. Veja o resultado dessa pesquisa:
 
 -   Regular = 30
 
--   Ruim =15
+-   Ruim = 15
 
 Calcule a % de cada opinião:
 
-Em cada item acima deixar o espaço de 3 linhas para resposta.
-
-Respostas:
+R:
 
 Ótimo
 
-250\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-105\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
+$$\frac {250}{105} = \frac {100}{x}$$
 
 250 . x = 100 . 105
 
@@ -1672,9 +1353,7 @@ X = 42%
 
 Bom
 
-250\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-100\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
+$$\frac {250}{100} = \frac {100}{x}$$
 
 250 . x = 100 . 100
 
@@ -1684,9 +1363,7 @@ X= 40 %
 
 Regular
 
-250\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-30\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
+$$\frac {250}{30} = \frac {100}{x}$$
 
 250.x=100 .30
 
@@ -1694,9 +1371,7 @@ Regular
 
 X = 12 %
 
-250\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-15\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
+$$\frac {250}{15} = \frac {100}{x}$$
 
 250x = 100 . 15
 
@@ -1704,189 +1379,139 @@ X = 12 %
 
 X = 6 %
 
-4\) Valdemar é mecânico e adquiriu um carro quebrado pelo valor de R\$
-10 000,00, depois que arrumou o carro resolveu vendê-lo. Ele anunciou o
-carro pelo valor de R\$ 16 000,00. Qual é o fator multiplicativo que ele
+4\) Valdemar é mecânico e adquiriu um carro quebrado pelo valor de 
+R$10.000,00. Depois que o consertou, resolveu vendê-lo. Ele anunciou o
+carro pelo valor de R$16.000,00. Qual é o fator multiplicativo que ele
 utilizou?
 
-a\) 0,2
-
-b\) 0,4
-
-c\) 0,5
-
-d\) 0,6
-
-Deixar o espaço de 3 linhas para resposta.
-
-Resposta:
+R:
 
 Utilizando a regra de 3 simples temos que:
 
-10 000 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
+$$\frac {10.000}{16.000} = \frac {100}{x}$$
 
-16 000 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--x
+Logo 10.000 . x = 16.000 . 1.000
 
-Logo 10 000 . x = 16 000 . 1000
-
-10 000 x = 1 600 000
+10.000x = 1.600.000
 
 X = 160
 
-Logo houve um acréscimo de 60% então 60 : 100= 0,6
+Logo houve um acréscimo de 60%, então 60 : 100 = 0,6.
 
-O fator multiplicativo foi de 0,6
+O fator multiplicativo foi de 0,6.
 
-5\) Amanda trabalha em uma loja de calçados, certo dia seu gerente
-ofereceu uma % fixa de comissão para cada funcionário, se na venda de um
-tênis de 150 reais, Amanda obteve uma comissão de 12 reais. Qual % fixa
+5\) Amanda trabalha em uma loja de calçados. Certo dia, seu gerente
+ofereceu uma % fixa de comissão para cada funcionário.para as vendas de um
+tênis de 150 reais Amanda obteve uma comissão de 12 reais. Qual % fixa
 Amanda ganhará sobre cada produto?
-
-a\) 6%
-
-b\) 8%
-
-c\) 10%
-
-d\) 12%
 
 Deixar o espaço de 3 linhas para resposta.
 
-Resposta:
+R:
 
-Utilizando a regra de 3 simples temos que:
+Utilizando a regra de 3 simples, temos que:
 
-150 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-12 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--x
+$$\frac {150}{12} = \frac {100}{x}$$
 
 Logo 150 . x = 12 . 100
 
-150 x = 1200
+150 x = 1.200
 
 X = 8 %
 
-6\) Em uma pesquisa realizada em um colégio obteve se que nesse colégio
-estudam 3 200 alunos, dos quais 1440 são meninos. O número de meninas
-representa quantos por cento do total de alunos que estudam nesse
+6\) Em um colégio, estudam 3.200 alunos, dos quais 1.440 são meninos. 
+O número de meninas representa quantos % do total de alunos que estudam nesse
 colégio?
 
-Deixar o espaço de 3linhas para resposta.
-
-Resposta:
+R:
 
 Utilizando a regra de 3 simples temos que:
 
-3200\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
+$$\frac {3.200}{1.440} = \frac {100}{x}$$
 
-1440 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--x
+Logo, 3.200 . x = 1.440 . 100
 
-Logo, 3200 . x = 1440 . 100
-
-3200x = 144 000
+3.200x = 144.000
 
 X = 45% de meninos
 
-Logo 55% são meninas
+Logo, 55% são meninas.
 
-7\) . Magda está tendo aulas na auto escola de sua cidade, ao terminar o
-curso Magda realizou uma prova escrita contendo leis de transito, Magda
-acertou 38 das 50 questões da prova, sabendo que para passar na prova
-escrita Magda precisava acertar pelo menos 80% da prova, ela foi
-aprovada ou reprovada?
+7\) Ao terminar o curso na auto escola, Magda realizou uma prova escrita contendo leis de trânsito. Ela acertou 38 das 50 questões apresentadas. Sabendo que, para passar na prova
+escrita, Magda precisava acertar pelo menos 80% da prova, ela foi aprovada ou reprovada?
 
-Deixar o espaço de 3linhas para resposta.
+R:
 
-Resposta:
+Utilizando a regra de 3 simples, temos que:
 
-Utilizando a regra de 3 simples temos que:
-
-50\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-38 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--x
+$$\frac {50}{38} = \frac {100}{x}$$
 
 Logo 50 . x = 38 . 100
 
-50 x = 3800
+50x = 3.800
 
-X= 76% logo Magda foi reprovada
+x = 76%, logo, Magda foi reprovada.
 
-8\) Alfredo é professor de educação física em uma escola, na última aula
-5 dos 40 alunos de uma classe faltaram na aula de Educação Física. Ao
-registrar as faltas no diário de classe quantos % Alfredo reportou de
-faltas naquela aula?
+8\) Alfredo é professor de educação física em uma escola. Na última aula,
+5 dos 40 alunos de uma classe faltaram. Ao registrar as faltas no diário 
+de classe, quantos % de faltas Alfredo reportou naquela aula?
 
-Deixar o espaço de 3linhas para resposta.
+R:
 
-Resposta:
+Utilizando a regra de 3 simples, temos que:
 
-Utilizando a regra de 3 simples temos que:
+$$\frac {40}{5} = \frac {100}{x}$$
 
-40\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-5 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--x
-
-Logo 40 . x = 5 .100
+Logo 40 . x = 5 . 100
 
 40x = 500
 
-X= 12,5% de faltas
+X = 12,5% de faltas.
 
 9\) A primeira edição da Copa do Mundo de Futebol Masculino foi
-realizada em 1930. Desse ano até 2023, já foram realizados 22 torneios,
-e o Brasil ganhou 5 deles. O número de conquistas brasileiras representa
-quantos por cento do número de torneios realizados?
+realizada em 1930. Desse ano até 2023, já foram realizados 22 torneios, sendo
+que o Brasil ganhou 5 deles. O número de conquistas brasileiras representa
+quantos % dos torneios realizados?
 
-Deixar o espaço de 3linhas para resposta.
+R:
 
-Resposta:
+Utilizando a regra de 3 simples, temos que:
 
-Utilizando a regra de 3 simples temos que:
+$$\frac {22}{5} = \frac {100}{x}$$
 
-22\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
+Logo, 22x = 100 . 5
 
-5\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--x
+22x = 500
 
-Logo 22x = 100 . 5
+X = 22,72 %
 
-22x= 500
+10\) Quanto cada situação abaixo renderá de juros?
 
-X= 22,72 %
+a\) A quantia de R$1.800, aplicada durante 5 meses, a uma taxa de
+2,3% ao mês.
 
-10 ) Quanto renderá de juros cada situação abaixo:
+R: Utilizando juros simples temos que
 
-a\) a quantia de 1 800 reais, aplicada durante 5 meses, a uma taxa de
-2,3% ao mês?
+J = C × i × t
 
-Deixar o espaço de 3linhas para resposta.
+J= 1800 . 0,023 . 5
 
-Resposta: Utilizando juros simples temos que
+J= 207
 
-**J = C × i × t**
-
-**J= 1800 . 0,023 . 5**
-
-**J= 207**
-
-b\) a quantia de 2 450 reais, aplicada durante 2 meses, a uma taxa de
+b\) A quantia de R$2.450, aplicada durante 2 meses, a uma taxa de
 1,96% ao mês?
 
-Deixar o espaço de 3linhas para resposta.
+R:
 
-Resposta:
+J = C × i × t
 
-**J = C × i × t**
+J = 2450 . 0,0196 . 2
 
-**J = 2450 . 0,0196 . 2**
-
-**J= 96,04**
+J= 96,04
 
 \colorsec{Treino}
 
-1\) Beatriz é Cozinheira em uma escola, após o almoço nessa escola
-sempre é servido um suco, onde para se preparar é ideal usar a proporção
-120 mililitros de água para cada 80 mililitros de suco de fruta
-concentrado. Qual é a taxa percentual de água para preparação do suco?
+1\) A preparação ideal para um suco é 120 mililitros de água para cada 80 mililitros de suco de fruta concentrado. Qual é a taxa percentual de água para a preparação do suco?
 
 a\) 60%
 
@@ -1896,45 +1521,34 @@ c\) 0,6%
 
 d\) 0,06%
 
-Resposta: A
-
-BNCC: EF08MA04
-
-Habilidade Saeb:
-
-*  Resolver problemas que envolvam porcentagens, incluindo os que lidam
+SAEB: Resolver problemas que envolvam porcentagens, incluindo os que lidam
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
 
-A: Correta pois
+BNCC: EF08MA04 -- Resolver e elaborar problemas, envolvendo cálculo de porcentagens, incluindo o uso de tecnologias digitais.
 
-Somando os dois líquidos temos que 120+80 = 200
+A: Correta, pois, somando os dois líquidos, temos que 120 + 80 = 200.
 
 Utilizando a regra de 3 simples temos que:
 
-200\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-120\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--x
+$$\frac {200}{120} = \frac {100}{x}$$
 
 Logo 200 . x = 100 . 120
 
 200 x = 12 000
 
-X= 60 %
+X= 60%.
 
-B: incorreta pois o aluno chegaria a esse resultado caso
-inserisse um "zero" a menos na expressão chegando a esse resultado
-erroneamente.
+B: Incorreta, pois o aluno chegaria a esse resultado caso
+inserisse um zero a menos na expressão.
 
-C: incorreta pois o aluno chegaria a esse resultado caso
-inserisse dois "zeros" a menos na expressão chegando a esse resultado
-erroneamente.
+C: Incorreta, pois o aluno chegaria a esse resultado caso
+inserisse dois zeros a menos na expressão.
 
 D: incorreta pois o aluno chegaria a esse resultado caso
-inserisse três "zeros" a menos na expressão chegando a esse resultado
-erroneamente.
+inserisse três zeros a menos na expressão.
 
-2\) Em uma empresa foi realizada uma eleição para escolher o seu
+2\) Em uma empresa, foi realizada uma eleição para escolher o seu
 representante. O candidato vencedor obteve 22 votos, o equivalente a 55%
 do total. Quantas pessoas votaram nessa eleição?
 
@@ -1946,25 +1560,19 @@ c\) 22 pessoas
 
 d\) 55 pessoas
 
-Resposta: B
-
-BNCC: EF08MA04
-
-Habilidade Saeb:
-
-*  Resolver problemas que envolvam porcentagens, incluindo os que lidam
+SAEB: Resolver problemas que envolvam porcentagens, incluindo os que lidam
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
 
-A: incorreta, o aluno chegaria a essa conclusão realizando a
+BNCC: EF08MA04 -- Resolver e elaborar problemas, envolvendo cálculo de porcentagens, incluindo o uso de tecnologias digitais.
+
+A: Incorreta, pois o aluno chegaria a essa conclusão realizando a
 multiplicação reta na regra de três ao invés de realizar a multiplicação
 cruzada.
 
-B: correta, pois
+B: Correta, pois
 
-x\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-22\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--55
+$$\frac {x}{22} = \frac {100}{55}$$
 
 55 . x = 22 . 100
 
@@ -1972,17 +1580,16 @@ x\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
 
 X = 44 pessoas votaram nessa eleição
 
-C: incorreta, o aluno poderia chegar a essa conclusão
+C: Incorreta, pois o aluno poderia chegar a essa conclusão
 confundindo o valor de votos ao total real de pessoas que votaram.
 
-D: incorreta, o aluno poderia chegar a essa conclusão
+D: Incorreta, pois o aluno poderia chegar a essa conclusão
 confundindo o valor da porcentagem com o valor total de pessoas na
 votação.
 
-3\) Marcos fez um empréstimo de R\$ 120 000,00 que deverá ser pago com
-juros de 1% ao mês sobre o valor emprestado a cada mês. Sabendo que
-pagou R\$ 6 000,00 de juros, quantos meses levou para pagar o
-empréstimo?
+3\) Marcos fez um empréstimo de R$ 120.000,00, que deverá ser pago com
+juros de 1% ao mês sobre o valor. Sabendo que pagou R$ 6.000,00 
+de juros, quantos meses ele levou para pagar o empréstimo?
 
 a\) 5 meses
 
@@ -1992,45 +1599,34 @@ c\) 1 200 meses
 
 d\) 6 000 meses
 
-Resposta: A
-
-BNCC: EF08MA04
-
-Habilidade Saeb:
-
-*  Resolver problemas que envolvam porcentagens, incluindo os que lidam
+SAEB: Resolver problemas que envolvam porcentagens, incluindo os que lidam
 com acréscimos e decréscimos simples, aplicação de percentuais
 sucessivos e determinação de taxas percentuais.
 
-A: Correta, pois:
+BNCC: EF08MA04 -- Resolver e elaborar problemas, envolvendo cálculo de porcentagens, incluindo o uso de tecnologias digitais.
 
-Aplicando juros simples temos que
+A: Correta, pois, aplicando juros simples, temos que
 
-**J = C × i × t**
+J = C × i × t
 
 6 000 = 120 000 . 0,01 . x
 
 6 000 = 1200 x
 
-X= 5 meses
+X = 5 meses
 
-B: incorreta, o aluno chegaria a essa conclusão caso não
-realizar a operação de 1% : 100, onde chegaria a esse valor
-erroneamente.
+B: Incorreta, pois o aluno chegaria a essa conclusão caso não
+realizasse a operação de 1% : 100.
 
-C: incorreta, o aluno chegaria a essa conclusão caso
-multiplicasse 120 000 por 0,01 onde chegaria a esse valor equivocado.
+C: Incorreta, pois o aluno chegaria a essa conclusão caso
+multiplicasse 120.000 por 0,01.
 
-D: incorreta, o aluno chegaria a essa conclusão caso
-considerasse que o valor dos juros a 1% ao mês logo dividindo 6 000 por
-1 chegando a essa conclusão precipitada.
+D: Incorreta, pois o aluno chegaria a essa conclusão caso
+considerasse que o valor dos juros a 1% ao mês.
 
-# Módulo 5
+# 5. Equações polinomiais de 1º. grau
 
-BNCC: EF08MA07 EF08MA08
-
-Habilidades Saeb:
-
+Habilidades do SAEB
 *  Resolver uma equação polinomial de 1º grau.
 
 *  Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
@@ -2040,79 +1636,80 @@ equações de 1º grau com duas incógnitas que modela um problema.
 reta no plano cartesiano.
 
 *  Resolver problemas que possam ser representados por sistema de
-equações de 1º grau com duas incógnitas
+equações de 1º grau com duas incógnitas.
 
-Sistemas de equações do 1° grau com duas incógnitas
+Habilidades da BNCC
+EF08MA07, EF08MA08.
 
-Denominamos equação do 1° grau com duas incógnitas (x e y) aquela que
+Sistemas de equações do 1º. grau com duas incógnitas
+
+Denominamos equação do 1º. grau com duas incógnitas (x e y) aquela que
 pode ser reduzida a uma equação do tipo ax + by = c, em que a, b e c são
 números reais, chamados coeficientes, com a diferente de 0 e b diferente
 de 0.
 
 Exemplo:
 
-Mariana comprou uma caneta e dois lápis por R\$ 10,00.
+Mariana comprou uma caneta e dois lápis por R$ 10,00.
 
 Indicando por x o preço de uma caneta e por y o preço de um lápis,
 podemos escrever:
 
-X + 2y =10
+X + 2y = 10
 
-Temos, então, um exemplo de equação do 1° grau com duas incógnitas.
+Temos, então, um exemplo de equação do 1º. grau com duas incógnitas.
 
-Sistema de duas equações do 1° grau com duas incógnitas
+Sistema de duas equações do 1º. grau com duas incógnitas
 
-Um sistema geralmente é formado por uma situação problema que envolve 2
-incógnitas, por exemplo:
+Um sistema geralmente é formado por uma situação-problema que envolve 2
+incógnitas. Por exemplo:
 
 Um grupo de amigos foi a uma sorveteria e comprou sorvetes com uma ou
-duas bolas ao preço de R\$ 3,00 e R\$ 5,00, respectivamente. Foram
-comprados 12 sorvetes, que custaram ao todo R\$ 44,00. Quantos sorvetes
-com uma bola foram comprados? E com duas bolas? indicando por x a
-quantidade de sorvetes com uma bola e por y a quantidade de sorvetes com
-duas bolas.
+duas bolas ao preço de R$ 3,00 e R$ 5,00, respectivamente. Foram
+comprados 12 sorvetes, que custaram ao todo R$ 44,00. Quantos sorvetes
+com uma bola foram comprados? E com duas bolas? Sendo que x = a quantidade de sorvetes com uma bola e y = a quantidade de sorvetes com duas bolas.
 
 Assim, podemos representar essa situação em linguagem algébrica da
 seguinte forma:
 
 X + y = 12
 
-3x+5y=44
+3x + 5y = 44
 
-Temos, portanto, duas equações do 1° grau com as mesmas duas incógnitas,
-que formam um sistema de equações do 1° grau com duas incógnitas
+Temos, portanto, duas equações do 1º. grau com as mesmas duas incógnitas,
+que formam um sistema.
 
-Resolução de Sistemas de Equações
+Resolução de Sistemas de equações
 
 Método da substituição
 
 Considere o sistema
 
-x-y = -5
+x - y = -5
 
-2x+3y=10
+2x + 3y = 10
 
-Enumerando com I a primeira equação e II a segunda equação, isolaremos 1
-incógnita da primeira equação, temos que:
+Enumeramos com I a primeira equação e II a segunda equação. Primeiramente, isolaremos 1
+incógnita da primeira equação. Temos que:
 
-X -- y = - 5
+x - y = - 5
 
-X= y -- 5
+x = y - 5
 
-Agora substituiremos o valor de x na segunda equação:
+Agora, substituiremos o valor de x na segunda equação:
 
-2x+3y=10
+2x + 3y = 10
 
-2 ( y -- 5) + 3y=10
+2 ( y -- 5) + 3y = 10
 
-2y -- 10 + 3y = 10
+2y - 10 + 3y = 10
 
 5y = 20
 
-Y = 4
+y = 4
 
 Como sabemos o valor de y, agora basta substituir o valor de y em
-qualquer uma das duas equações que obtemos que x= -1.
+qualquer uma das duas equações para obtermos x = -1.
 
 Resolução pelo método da adição
 
@@ -2120,44 +1717,46 @@ Considere o sistema
 
 X + y = 16
 
-X -- y = 2
+X - y = 2
 
-Realizando a soma das equações membro a membro obtemos
+Realizando a soma das equações membro a membro, obtemos
 
-X + y = 16
+x + y = 16
 
-X -- y = 2
+x - y = 2
 
 2x + 0y = 18
 
-Temos então que 2x =18 logo x=9
+Temos então que 2x = 18, logo x = 9
 
-Substituindo o valor de x em qualquer uma das equações obtemos que y= 7
+Substituindo o valor de x em qualquer uma das equações, obtemos que y = 7.
 
 \colorsec{Atividades}
 
 1\) Classifique cada um destes sistemas de equações em determinado,
-indeterminado ou impossível, para x e y números racionais
+indeterminado ou impossível, sendo x e y números racionais.
 
-a\) x-2y = 3
+a\) 
+x - 2y = 3
 
-3x-6y=9
+3x - 6y = 9
 
-b\) 3x -- 2y= 1
+b\) 
+3x - 2y = 1
 
-6x -- 4y = 3
+6x - 4y = 3
 
-c\) x-2y =3
+c\) 
+x - 2y = 3
 
-x+2y=7
+x + 2y = 7
 
-d\) 2x -- y =5
+d\) 
+2x - y = 5
 
--2x+ y = -5
+-2x + y = -5
 
-Em cada item acima deixar o espaço de 3linhas para resposta.
-
-Respostas:
+R:
 
 a\) Indeterminado
 
@@ -2165,24 +1764,14 @@ b\) Impossível
 
 c\) Determinado: solução {5,1}
 
-d\) indeterminado
+d\) Indeterminado
 
 2\) Há 5 anos, Thais tinha a metade da idade que terá daqui a 8 anos.
 Qual é a idade de Thais?
 
-a\) 16
+R: extraindo as informações do enunciado, temos que:
 
-b\) 18
-
-c\) 20
-
-d\) 22
-
-Deixar o espaço de 4 linhas para resposta.
-
-Resposta: extraindo as informações do enunciado temos que:
-
-x- 5 = $\frac{x + 8}{2}$
+x- 5 = $$\frac{x + 8}{2}$$
 
 2( x-5) = x+8
 
@@ -2190,144 +1779,136 @@ x- 5 = $\frac{x + 8}{2}$
 
 2x -- x= +10 + 8
 
-X= 18
+X = 18
 
 3\) Um campo de golfe tem medida de perímetro de 300 metros. A medida de
 comprimento da largura desse campo é o dobro da medida de comprimento da
 profundidade. Quais são as medidas das dimensões desse campo?
 
-Deixar o espaço de 4 linhas para resposta.
+R:
 
-Calculo do perímetro
+Cálculo do perímetro
 
-300= 2x+2x+x+x
+300= 2x + 2x + x + x
 
 300 = 6x
 
-X= 50
+X = 50
 
-Logo as dimensões do campo são, 50m de profundidade e 100m de largura.
+Logo, as dimensões do campo são 50 m de profundidade e 100 m de largura.
 
-4\) Um tanque de leite tem medida de capacidade de 1 000 litros. Com ele
+4\) Um tanque de leite tem medida de capacidade de 1.000 litros. Com ele
 inicialmente cheio, foram retirados 10 baldes de leite de mesma medida
-de capacidade e restaram 850 litros no tanque. Qual é a medida de
+da capacidade, restando 850 litros no tanque. Qual é a medida de
 capacidade de cada balde?
 
-Deixar o espaço de 4 linhas para resposta.
+R:
 
-Resposta:
-
-1000 -- 10 x = 850
+1000 - 10 x = 850
 
 -10x = -150
 
 x = 15
 
-5\) Determine x e y para que cada uma das igualdades seja verdadeira
+5\) Determine x e y para que cada uma das igualdades seja verdadeira.
 
 a\) (x , y ) = ( 8, -3)
 
-b\) (7,y + 6) = ( x , 9)
+b\) (7, y + 6) = (x, 9)
 
-c\) (x-2) = (6,y)
+c\) (x, -2) = (6, y)
 
-d\) ( x+1 , y+1) = (6,4)
+d\) (x + 1 , y + 1) = (6, 4)
 
-e\) (x,y + 2 ) = (5,4)
+e\) (x, y + 2) = (5, 4)
 
-f\) (4,y+7) = (x+1, 6)
+f\) (4, y + 7) = (x + 1, 6)
 
 Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 Respostas
 
-a\) x= 8 e y= - 3
+a\) x = 8 e y = - 3
 
-b\) x= 7 e y= 3
+b\) x = 7 e y = 3
 
-c\) x= 6 e y= -2
+c\) x = 6 e y = -2
 
-d\) x= 5 e y= 3
+d\) x = 5 e y = 3
 
-e\) x= 5 e y= 2
+e\) x = 5 e y = 2
 
-f\) x= 3 e y= -1
+f\) x = 3 e y = -1
 
 6\) Hoje, Reinaldo tem o dobro menos quatro anos da idade de Luan. Há
 dez anos, a idade de Reinaldo era o triplo da idade de Luan. Quantos
 anos eles têm hoje?
 
-Deixar o espaço de 4 linhas para resposta.
+R: Definindo como x a idade de Reinaldo e y a idade de Luan, temos que:
 
-Resposta: Ao ler o enunciado temos o seguinte sistema de equações
-definindo como x a idade de Reinaldo e y a idade de Luan temos que:
-
-x = 2y -- 4
+x = 2y - 4
 
 x - 10 = 3(y - 10)
 
-Realizando a troca na equação 2 temos que
+Realizando a troca na equação 2, temos que
 
-2y -- 4 - 10 = 3(y - 10)
+2y - 4 - 10 = 3(y - 10)
 
-2y -14 = 3y -30
+2y - 14 = 3y -30
 
 -y = -16
 
-Y=16
+y = 16
 
 Luan tem 16 anos
 
-Substituindo y por 16 encontramos que
+Substituindo y por 16, encontramos que
 
-x = 2y -- 4
+x = 2y - 4
 
-x= 2 . 16 -- 4
+x= 2 . 16 - 4
 
 x = 28
 
-Logo a idade de Reinaldo é 28
+Logo, a idade de Reinaldo é 28 anos.
 
-7\) Em um Estádio havia dois valores de ingresso: um para os torcedores
+7\) Um estádio de futebol oferece dois valores de ingresso: um para os torcedores
 do time mandante e outro para os torcedores da equipe visitante. Um
-grupo de seis torcedores da equipe mandante e um da torcida visitante
-pagou R\$ 71,00 pelos ingressos. Outro grupo, de sete torcedores da
-equipe mandante e quatro da torcida visitante, pagou R\$ 131,00. Qual
+grupo composto por seis torcedores da equipe mandante e um da torcida visitante
+pagou R$71,00 pelos ingressos. Outro grupo, de sete torcedores da
+equipe mandante e quatro da torcida visitante, pagou R$ 131,00. Qual
 era o preço de cada ingresso?
 
-Deixar o espaço de 4 linhas para resposta.
-
-Resposta:
+R:
 
 Definindo x para torcida da equipe mandante e y para torcida da equipe
-visitante temos que:
+visitante, temos que:
 
-6x+ y = 71
+6x + y = 71
 
-7x+4y = 131
+7x + 4y = 131
 
-Utilizando a equação 1 isolamos o termo y
+Utilizando a equação 1, isolamos o termo y
 
-6x+ y = 71
+6x + y = 71
 
-Y= 71 -- 6x
+y = 71 - 6x
 
-Utilizando a expressão na equação 2 temos que
+Utilizando a expressão na equação 2, temos que
 
-7x+4y = 131
+7x + 4y = 131
 
 7x + 4 ( 71 -- 6x) = 131
 
-7x +284 -- 24x = 131
+7x + 284 - 24x = 131
 
 -17x = - 153
 
 X = 9
 
-Logo o valor do ingresso pago pela torcida da equipe mandante foi de 9
-reais
+Logo, o valor do ingresso pago pela torcida da equipe mandante foi de R$9,00.
 
-Para encontrarmos o valor do ingresso da torcida visitante temos que:
+Para encontrarmos o valor do ingresso da torcida visitante:
 
 6x+ y = 71
 
@@ -2335,32 +1916,33 @@ Para encontrarmos o valor do ingresso da torcida visitante temos que:
 
 54 + y = 71
 
-Y = 17
+y = 17
 
-Logo o valor do ingresso pago pela torcida da equipe visitante foi de 17
-reais.
+Logo, o valor do ingresso pago pela torcida da equipe visitante foi de R$17,00.
 
-8\) Resolva os sistemas de equações utilizando o método da substituição
+8\) Resolva os sistemas de equações utilizando o método da substituição.
 
-a\) 2x+ y = 0
+a\) 
+2x + y = 0
 
-2x -- y = 4
+2x - y = 4
 
-b\) x -- y = 5
+b\) 
+x - y = 5
 
-x+ y = 7
+x + y = 7
 
-c\) x+ y = 0
+c\) 
+x + y = 0
 
-2x+ y = 14
+2x + y = 14
 
-d\) 4x -- y = 6
+d\) 
+4x - y = 6
 
 4y = 8
 
-Em cada item cima deixar o espaço de 4 linhas para resposta.
-
-Respostas:
+R:
 
 a\) ( 1, -2)
 
@@ -2370,73 +1952,69 @@ c\) (14, - 14)
 
 d\) ( 2, 2)
 
-9\) Em um pátio, há carros e motos, no total de 32 veículos e 88 pneus.
+9\) Em um pátio, há carros e motos, totalizando 32 veículos e 88 pneus.
 Determine o número de veículos de cada tipo.
 
-Deixar o espaço de 6 linhas para resposta.
+R:
 
-Resposta:
-
-Determinando x para motos e y para carros temos que :
+Determinando x para motos e y para carros, temos que :
 
 2x + 4y = 88
 
-X+ y = 32
+x + y = 32
 
-Isolando um termo na segunda equação temos que:
+Isolando um termo na segunda equação, temos que:
 
-X=32 --y
+X = 32 - y
 
-Inserindo a equação dentro da equação 1 temos:
+Inserindo a equação 2 dentro da equação 1, temos:
 
-2(32 --y) + 4y = 88
+2(32 - y) + 4y = 88
 
-64 -- 2y+ 4y = 88
+64 - 2y + 4y = 88
 
-2y= 24
+2y = 24
 
-Y=12
+y = 12
 
-Logo temos que no pátio há 12 carros
+Portanto, há 12 carros no pátio.
 
-Se o número de veículos no pátio é 32, e que há 12 carros, analogamente
-temos que no pátio há 20 motos.
+Se o número de veículos no pátio é 32 e já sabemos que há 12 carros, analogamente,
+concluímos há 20 motos.
 
-10\) Tenho Vacas e galinhas, em um total de 35 cabeças e 110 pés.
+10\) Tenho vacas e galinhas, totalizando 35 cabeças e 110 pés.
 Calcule o número de vacas e galinhas.
 
-Deixar o espaço de 4 linhas para resposta.
+R: 
 
-Resposta, definindo com x = vacas e y= galinhas temos o seguinte sistema
+definindo com x = vacas e y = galinhas, temos o seguinte sistema:
 
-4x+ 2y =110
+4x + 2y = 110
 
-X+y= 35
+X + y = 35
 
-Isolando x na segunda equação
+Isolando x na segunda equação,
 
-X= 35 -- y
+x = 35 - y
 
-Substituindo a segunda equação na primeira
+Substituindo a segunda equação na primeira,
 
-4(35 -- y) + 2y = 110
+4(35 - y) + 2y = 110
 
-140 -- 4y + 2y =110
+140 - 4y + 2y = 110
 
 -2y = - 30
 
-Y = 15
+y = 15
 
-Se o número de galinhas é igual a 15 e temos 35 cabeças, logo 35- 15 =
+Se o número de galinhas é igual a 15 e temos 35 cabeças, logo, 35 - 15 =
 20
-
-Então o número de vacas na fazenda é de 20.
 
 \colorsec{Treino}
 
-1\) Dois tambores contêm juntos 900 litros de petróleo Se passarmos 100
+1\) Dois tambores contêm juntos 900 litros de petróleo. Se passarmos 100
 litros do primeiro tanque para o segundo, este ficará com o dobro do
-número de litros do primeiro. Quantos litros contém o segundo tanque?
+de litros do primeiro. Quantos litros contém o segundo tanque?
 
 a\) 400
 
@@ -2444,206 +2022,180 @@ b\) 500
 
 c\) 200
 
-d\) 1 000
+d\) 1.000
 
-Resposta: B
-
-BNCC: EF08MA08
-
-Habilidade Saeb:
-
-*  Resolver problemas que possam ser representados por sistema de
+SAEB: Resolver problemas que possam ser representados por sistema de
 equações de 1º grau com duas incógnitas.
 
-A: incorreta, esse seria o resultado em litros do primeiro
-tanque ao invés do segundo, podendo levar o aluno assinalar essa
-alternativa, sem interpretar corretamente o problema.
+BNCC: EF08MA08 -- Resolver e elaborar problemas relacionados ao seu contexto próximo, que possam ser representados por sistemas de equações de 1º grau com duas incógnitas e interpretá-los, utilizando, inclusive, o plano cartesiano como recurso.
 
-B: Correta, pois
+A: Incorreta, epis sse seria o resultado em litros do primeiro
+tanque.
 
-Definindo como x e y os tanques temos que
+B: Correta, pois, definindo como x e y os tanques, temos que:
 
-x + y = 900\
-x - 100 = y + 100\
+x + y = 900
+x - 100 = y + 100
 y + 100 = 2. (x - 100)
 
-Isolando o termo y temos que:\
-y + 100 = 2x- 200\
-y = 2x - 200 - 100 = 2x - 300\
-Substituindo y na primeira equação\
-x + y = 900\
-x + 2x - 300 = 900\
-3x = 900 + 300 = 1200\
-x = 1200 : 3\
+Isolando o termo y temos que:
+y + 100 = 2x- 200
+y = 2x - 200 - 100 = 2x - 300
+
+Substituindo y na primeira equação
+x + y = 900
+x + 2x - 300 = 900
+3x = 900 + 300 = 1.200
+x = 1.200 : 3
 x = 400
 
-Analogamente temos que\
-x + y = 900\
-400 + y = 900\
-y = 900 - 400\
+Analogamente, temos que
+x + y = 900
+400 + y = 900
+y = 900 - 400
 y = 500 L
 
-B.
+C: Incorreta, pois o aluno chegará a essa conclusão ao errar o
+jogo de sinal na equação final.
 
-C: incorreta, o aluno chegará a essa conclusão ao errar o
-jogo de sinal na equação final logo 900+ 300 = 1 200 viraria 900 -- 300
-= 600 logo o dividir a expressão por 3 o aluno chegaria a esse erro.
+D: Incorreta, pois o aluno chegaria a essa conclusão ao somar os valores do
+enunciado sem ao mesmo tentar realizar as operações.
 
-D: o aluno chegaria a essa conclusão ao somar os valores do
-enunciado sem a o mesmo tentar realizar as operações, buscando assim uma
-possível resposta mais rápida.
-
-2\) Luzia pensou em um número racional. Somou $\frac{1}{3}$ a ele e
+2\) Luzia pensou em um número racional. Somou $$\frac{1}{3}$$ a ele e
 obteve 11. Em qual número Luzia pensou?
 
-a\) $\frac{11}{3}$
+a\) $$\frac{11}{3}$$
 
-b)$\frac{3}{11}$
+b) $$\frac{3}{11}$$
 
-c\) $\frac{32}{3}$
+c\) $$\frac{32}{3}$$
 
-d)$\frac{1}{33}$
+d) $$\frac{1}{33}$$
 
-Resposta: C
-
-BNCC: EF08MA08
-
-Habilidade Saeb:
-
-*  Resolver problemas que possam ser representados por sistema de
+SAEB: Resolver problemas que possam ser representados por sistema de
 equações de 1º grau com duas incógnitas.
 
-A:incorreta, o aluno pode confundir as operações e realizar
-a operação de multiplicação ao invés da soma e chegar a essa resposta.
+BNCC: EF08MA08 -- Resolver e elaborar problemas relacionados ao seu contexto próximo, que possam ser representados por sistemas de equações de 1º grau com duas incógnitas e interpretá-los, utilizando, inclusive, o plano cartesiano como recurso.
 
-B: incorreta, o aluno pode esquecer de realizar o m.m.c. e
-chegar a essa conclusão erroneamente.
+A:Incorreta, pois o aluno pode confundir as operações e realizar
+a operação de multiplicação .
 
-C: correta pois,
+B: Incorreta, pois o aluno pode esquecer de realizar o m.m.c. e
+chegar a essa conclusão.
 
-Resposta: extraindo as informações do enunciado temos que:
+C: Correta, pois, extraindo as informações do enunciado, temos que:
 
-X+ $\frac{1}{3}$ = 11
+X + $$\frac{1}{3}$$ = 11
 
-X= 11 - $\frac{1}{3}$
+X = 11 - $$\frac{1}{3}$$
 
-X= $\frac{32}{3}$ alternativa c
+X = $$\frac{32}{3}$$
 
-D: incorreta, o aluno pode confundir as operações e realizar
-a operação de divisão ao invés da soma e chegar a essa resposta.
+D: Incorreta, pois o aluno pode confundir as operações e realizar
+a operação de divisão .
 
-3\) Qual é o valor de x que torna verdadeira a igualdade 2x-7 = -2,5x+2?
+3\) Qual é o valor de x que torna verdadeira a igualdade 2x - 7 = -2,5x + 2?
 
-a\) x=18
+a\) x = 18
 
-b\) x= 2
+b\) x = 2
 
-c\) x=1,1111111\.....
+c\) x = 1,1111111\.....
 
 d\) x = 40,5
 
-Resposta: B
+SAEB: Resolver uma equação polinomial de 1º grau.
 
-BNCC: EF08MA07
+BNCC: EF08MA07 -- Associar uma equação linear de 1º grau com duas incógnitas a uma reta no plano cartesiano.
 
-Habilidade Saeb
+A: Incorreta, pois, durante a resolução da equação, caso o aluno
+erre o sinal de 2,5 e passe o negativo, o valor final será esse.
 
-*  Resolver uma equação polinomial de 1º grau.
+B: Correta, pois, realizando as operações algébricas, temos que:
 
-A: incorreta, durante a resolução da equação caso o aluno
-erre o sinal do valor 2,5 e passe o negativo o valor final será esse. X=
-18
-
-B: correta pois:
-
-Realizando as operações algébricas temos que:
-
-2x -- 7 = -2,5x + 2
+2x - 7 = -2,5x + 2
 
 4,5x = 9
 
-X= 2 alternativa b
+X = 2
 
-C: incorreta, durante a resolução da equação caso o aluno
-erre o sinal do valor -7 e passe o negativo o valor final será esse. X=
-1,111111111\....
+C: Incorreta, pois, durante a resolução da equação, caso o aluno
+erre o sinal de -7 e passe o negativo, o valor final será esse.
 
-D: incorreta, caso o aluno no final da expressão passe o
-valor 4,5 multiplicando ao invés de dividir o aluno chegara a esse
-resultado erroneamente.
+D: Incorreta, pois, caso o aluno, no final da expressão, passe o
+valor 4,5 multiplicando ao invés de dividir, chegará a esse
+resultado.
 
-# Módulo 6
+# 6. Representações algébricas
 
-BNCC:
-
-Habilidades Saeb:
-
+Habilidades do SAEB
 *  Identificar uma representação algébrica para o padrão ou a
 regularidade de uma sequência de números racionais ou representar
 algebricamente o padrão ou a regularidade de uma sequência de números
 racionais.
 
-*  Identificar representações algébricas equivalentes. - Resolver
-problemas que envolvam cálculo do valor numérico de expressões
+*  Identificar representações algébricas equivalentes. 
+ 
+*  Resolver problemas que envolvam cálculo do valor numérico de expressões
 algébricas.
+
+Habilidades da BNCC
+EF08MA10, EF08MA11.
 
 Expressões Algébricas
 
-Expressões algébricas são aquelas que indicam operações matemáticas que
-contêm números e letras ou somente letras.
+Expressões algébricas são aquelas que indicam operações matemáticas com
+números e letras ou somente letras.
 
 É possível usar letras para representar números reais desconhecidos, que
 chamamos de incógnitas.
 
 Monômios
 
-Um monômio pode ser um número ou uma expressão algébrica formada pela
-multiplicação de número e variável ou número e variáveis, de expoente
-natural.
+Um monômio é uma expressão matemática que consiste em um único termo. Cada monômio é composto por um coeficiente multiplicado por uma ou mais variáveis elevadas a expoentes não negativos.
 
 Em um monômio, distinguimos: o coeficiente, que corresponde à parte
 numérica (que é um número real); a parte literal, que corresponde a uma
 variável ou um produto de variáveis, com expoente natural.
 
-Exemplos:
+Exemplo:
 
-2x -13 x²y² -a³b²
+2x 
 
-2 = coeficiente coeficiente = -13 coeficiente -1
-
-x = parte literal parte literal x²y² parte literal a³b²
+2 = coeficiente 
+x = parte literal
 
 Adição e subtração de monômios
 
 Uma expressão algébrica em que todos os monômios são semelhantes pode
-ser simplificada adicionando ou subtraindo os coeficientes
+ser simplificada adicionando ou subtraindo os coeficientes.
 
 Se uma expressão tem monômios semelhantes e monômios não semelhantes,
 efetuamos a adição ou a subtração dos semelhantes e conservamos os
-demais dizemos então que foi efetuada uma redução de termos semelhantes.
+demais. Dizemos, então, que foi efetuada uma redução de termos semelhantes.
 
 Exemplos
 
-2x + 5x =
+2x + 5x = ?
 
-Como são semelhantes podemos somar os coeficientes e manter a parte
+Como são semelhantes, podemos somar os coeficientes e manter a parte
 literal, logo temos:
 
-2x+5x= 7x
+2x + 5x = 7x
 
 Exemplo 2
 
-3x + 5x + 6y=
+3x + 5x + 6y = ?
 
-Como nem todos os membros são semelhantes, juntaremos apenas o
+Como nem todos os membros são semelhantes, juntaremos apenas os
 semelhantes e conservamos os monômios não semelhantes:
 
-3x+5x+6y= 8x + 6y
+3x + 5x + 6y = 8x + 6y
 
 Polinômios
 
 Expressões algébricas formadas por um monômio ou pela adição e/ou
-subtração de monômios denominam-se polinômios.
+subtração de monômios são chamadas de polinômios.
 
 Exemplos de polinômios:
 
@@ -2657,156 +2209,141 @@ A² + 5a²b + 3ab² + b³
 
 1\) Dalva tem 44 anos. Escreva uma expressão algébrica que representa a
 idade que ela teve há x anos e a idade que ele terá daqui a y anos,
-sendo x e y números naturais
+sendo x e y números naturais.
 
-Deixar o espaço de 3 linhas para resposta.
+R:
 
-Considerando a forma algébrica de solução temos que:
+Considerando a forma algébrica de solução, temos que:
 
-Idade que Dalva já teve 44 - x
+Idade que Dalva já teve: 44 - x
 
-Idade que Dalva ainda vai ter 44 + y
+Idade que Dalva ainda vai ter: 44 + y
 
-2\) Celso comprou 1 calça de R\$ 150,00 e 2 camisas.
+2\) Celso comprou 1 calça de R$ 150,00 e 2 camisas.
 
-a\) Escreva uma expressão algébrica que represente o valor a pagar nessa
-situação. Usando a letra x
+a\) Usando a letra x, escreva uma expressão algébrica que represente o valor a ser pago nessa situação. 
 
 b\) O que representa a letra x neste caso?
 
-c\) Se o preço de 1 camisa é de R\$ 80,00, então quanto ele gastou?
+c\) Se o preço de 1 camisa é de R$ 80,00, quanto ele gastou?
 
-Em cada item acima Deixar o espaço de 2 linhas para resposta.
+R:
 
-Respostas:
+a\) Utilizando a forma algébrica, temos que
 
-a\) Utilizando a forma algébrica temos que
+150 + 2x.
 
-150 + 2x
+b\) A letra x representa o preço de cada camisa.
 
-b\) A letra x representa o preço de cada camisa
+c\) Se o preço de cada camisa é R$80,00, temos que:
 
-c\) Se o preço de Cada camisa é R\$80,00 temos que:
+150 + 2 . 80 = 150 + 160 = 310
 
-150 + 2^.^ 80=
+Celso gastou R$310,00
 
-150+ 160=
-
-310
-
-Celso gastou R\$ 310,00
-
-3\) Em um retângulo, o comprimento de um lado mede 4 cm a mais do que
+3\) Em um retângulo, o comprimento de um lado mede 4 cm a mais do que o
 outro. Representando por x a medida de comprimento, em centímetros, do
 menor lado, escreva as expressões algébricas que representam:
 
-a\) a medida de comprimento, em centímetros, do maior lado
+a\) a medida de comprimento, em centímetros, do maior lado.
 
-b\) a medida de perímetro, em centímetros, do retângulo
+b\) a medida de perímetro, em centímetros, do retângulo.
 
 c\) medida de área, em centímetros quadrados, da região retangular
-correspondente
+correspondente.
 
-Em cada item acima deixar o espaço de 3 linhas para resposta.
+R:
 
-Respostas:
+a\) Utilizando a forma algébrica, temos que:
 
-a\) Utilizando a forma algébrica temos que:
-
-como não sabemos as medida de cada lado do retângulo denominamos seu
-lado de x
-
-como o enunciado nos diz que um dos lado é 4cm maior que o outro temos
+Como não sabemos as medida de cada lado do retângulo, denominamos seu
+lado de x. Como o enunciado nos diz que um dos lados é 4 cm maior que o outro, temos
 que o lado maior é
 
-x+4
+x + 4
 
-b\) Considerando os valores do enunciado temos que
+b\) Considerando os valores do enunciado, temos que
 
-lado maior x+4
+lado maior x + 4
 
 lado menor = x
 
-perímetro= x+4 + x+4 + x + x =
+perímetro= x + 4 + x + 4 + x + x =
 
-Perimetro = 4x+8
+Perímetro = 4x + 8
 
-c\) considerando que a área do retângulo é l ^.^ l e que o lado maior =
-x+4
+c\) considerando que a área do retângulo é l . l, que o lado maior =
+x + 4 e o lado menor = x:
 
-e o lado menor = x
+x + 4 . x =
 
-x+4 ^.^ x =
-
-(x+4)^.^ X
+(x+4) . x
 
 X² + 4x
 
-4\) Escreva o coeficiente e a parte literal de cada monômio
+4\) Escreva o coeficiente e a parte literal de cada monômio.
 
 a\) xy
 
-b\) $- \frac{2}{3}t²$
+b\) $$- \frac{2}{3}t²$$
 
-c\) --c² d ³
+c\) -c² d ³
 
-d)$\frac{a²}{5}$
+d\) $$\frac{a²}{5}$$
 
-e)-10 a^4^
+e\)-10 a^4^
 
-f\) $\frac{2}{3}\text{\ xy}$
+f\) $$\frac{2}{3}.{xy}$$
 
 g\) x³
 
-h\) -- 20ab
+h\) - 20ab
 
 i\) 1,5xy²
 
 j\) a²b²
 
-Em cada item acima deixar o espaço de 1 linhas para resposta.
-
-Respostas
+R:
 
 a\)
 
-Cociente: 1
+Coeficiente: 1
 
 Parte literal: xy
 
-b\) Cociente: $\frac{- 2}{3}$
+b\) Coeficiente: $$\frac{- 2}{3}$$
 
 Parte literal: t²
 
-c\) Cociente: -1
+c\) Coeficiente: -1
 
 Parte literal: c²d³
 
-d\) Cociente: $\frac{1}{5}$
+d\) Coeficiente: $$\frac{1}{5}$$
 
 Parte literal:a²
 
-e\) Cociente:-10
+e\) Coeficiente: -10
 
-Parte literal:a^4^
+Parte literal:$$a^4$$
 
-f\) Cociente: $\frac{2}{3}$
+f\) Coeficiente: $$\frac{2}{3}$$
 
 Parte literal: xy
 
-g\) Cociente: 1
+g\) Coeficiente: 1
 
 Parte literal: x³
 
-h\) Cociente:-20
+h\) Coeficiente:-20
 
 Parte literal: ab
 
-i\) Cociente: 1,5
+i\) Coeficiente: 1,5
 
 Parte literal: xy²
 
-j\) Cociente: 1
+j\) Coeficiente: 1
 
 Parte literal: a²b²
 
@@ -2816,25 +2353,24 @@ a\) 6x² - 4x +9
 
 b\) 7x² + 5 x
 
-c\) 4x^4^
+c\) $$4x^4$$
 
-d\) -3r + $\frac{1}{2}$ s
+d\) -3r + $$\frac{1}{2}$$ 
 
 e\) -2abc
 
 f\) x³ + x² - x + 1
 
-g\) -$\frac{2}{5}$ a²b
+g\) -$$\frac{2}{5}$$ a²b
 
-h)a + b - 5
+h) a + b - 5
 
 i\) 3x - y
 
 j\) 7x + 8x
 
-Em cada item acima deixar o espaço de 2 linhas para resposta.
 
-Resposta:
+R:
 
 a\) trinômio
 
@@ -2856,51 +2392,47 @@ i\) binômio
 
 j\) monômio
 
-6\) Escreva cada polinômio na forma reduzida
+6\) Escreva cada polinômio na forma reduzida.
 
-a\) 2x² - 5x + 3 -- 3x² - 3 + 7x
+a\) 2x² - 5x + 3 - 3x² - 3 + 7x
 
-b\) 3y³ + 2y² + y -- 1 -- 3y³ - y² - 5y +3
+b\) 3y³ + 2y² + y - 1 - 3y³ - y² - 5y +3
 
-c\) -5xy + 2y² +xy -3y²+ 2 + 3xy - 1
+c\) - 5xy + 2y² + xy - 3y² + 2 + 3xy - 1
 
-d\) 4x³ - 5y -- 6x³ + 7y + 3x³ - 2y
+d\) 4x³ - 5y - 6x³ + 7y + 3x³ - 2y
 
-Em cada item acima deixar o espaço de 2 linhas para resposta.
+R: 
 
-Repostas utilizando a forma de soma dos termos iguais temos que:
+Utilizando a forma de soma dos termos iguais, temos que:
 
-a\) 2x² - 3x² -5x +7x +3 -- 3
+a\) 2x² - 3x² -5x +7x +3 - 3
 
 -x² +2x
 
-b\) 3x³ - 3³ + 2y² -y² -5y+y -1 +3
+b\) 3x³ - 3³ + 2y² -y² - 5y + y - 1 + 3
 
-y² - 4y+ 2
+y² - 4y + 2
 
-c\) 2y² -- 3y² + xy -5xy + 3xy -1+2
+c\) 2y² - 3y² + xy - 5xy + 3xy - 1 + 2
 
--y² - xy² + 1
+- y² - xy² + 1
 
-d\) 4x³ -- 6x³ + 3x³ - 5y + 7y - 2Y
+d\) 4x³ - 6x³ + 3x³ - 5y + 7y - 2Y
 
-x³
+7\) Reescreva as expressões abaixo colocando-as em evidência.
 
-7\) Reescreva as expressões abaixo colocando as expressões em evidencia
+a) ax + ay
 
-a)ax + ay
+b\) 16x² + 20y²
 
-b\) 16x²+ 20y²
+c\) 5x + 15y - 10z
 
-c\) 5x + 15y -- 10z
+d\) 4x - 16
 
-d\) 4x -16
+e) -5x³y + 20x²y²
 
-e)-5x³y + 20x²y²
-
-Em cada item acima deixar o espaço de 2 linhas para resposta.
-
-Respostas: Colocando as expressões em evidencia obtemos que:
+R: Colocando as expressões em evidência, obtemos:
 
 a\) a(x+y)
 
@@ -2912,13 +2444,13 @@ d\) 4(x-4)
 
 e\) 5x²y(-x+4y)
 
-8\) Durante uma aula de matemática um professor resolveu demonstrar
-outra forma de calcular a operação (41x 39) e escreveu seus cálculos na
-lousa da seguinte forma:
+8\) Durante uma aula de matemática, um professor resolveu demonstrar
+outra forma de calcular a operação (41 x 39) e escreveu seus cálculos na
+lousa assim:
 
-41 . 39 = (40+1) (40-1) = 40² - 1² = 1599
+41 . 39 = (40 + 1) (40 - 1) = 40² - 1² = 1.599
 
-Seguindo a mesma forma de cálculo do professor, calcule os seguintes
+Seguindo a mesma forma exposta pelo professor, calcule os seguintes
 produtos:
 
 a\) 57 . 63
@@ -2927,119 +2459,113 @@ b\) 52. 48
 
 c\) 42 . 34
 
-Em cada item acima deixar o espaço de 2 linhas para resposta.
+R:
 
-Respostas:
+a\) 57 . 63 = (60 - 3). (60 + 3) = 60² - 3² = 3.591
 
-a\) 57 . 63 = (60-3). (60+3) = 60² - 3² = 3591
+b\) 52 . 48 = (50 + 2) . (50 - 2) = 50² - 2² = 2.496
 
-b\) 52 . 48= ( 50 +2 ) . (50-2) = 50² - 2² = 2496
+c\) 42 . 34 = (38 + 4) . (38 - 4) = 38² - 4² = 1.428
 
-c\) 42 . 34= (38 + 4) . (38 -- 4) = 38² - 4² =1428
-
-9\) Uma construtora resolveu compra dois terrenos de formato retangular
-para construir 2 condomínios, qual a equação que representa a área total
+9\) Uma construtora resolveu comprar dois terrenos de formato retangular
+para construir 2 condomínios. Qual é a equação que representa a área total
 dos dois terrenos somados?
 
 ![](./imgSAEB_8_MAT/media/image5.png){width="2.0416666666666665in"
 height="1.8873042432195974in"}
 
-Deixar o espaço de 4 linhas para resposta.
+R:
 
-Resposta:
-
-Considerando a formula da área de um retângulo é l^.^ l temos que
+Considerando que a fórmula da área de um retângulo é l . l, temos que
 
 Terreno vermelho:
 
-(6x+6) . (3x+6)=
+(6x + 6) . (3x + 6)=
 
-18x²+18x+18x+36=
+18x² + 18x + 18x + 36=
 
-18x²+36x +36
+18x² + 36x + 36
 
 Terreno azul:
 
-(4x+6) . (x+6)=
+(4x + 6) . (x + 6) =
 
-4x²+24x+6x+36=
+4x² + 24x + 6x + 36 =
 
-4x²+30x+36=
+4x² + 30x + 36 =
 
-Somando os dois terrenos temos que
+Somando os dois terrenos, temos que
 
-18x²+36x +36+4x²+30x+36=
+18x² + 36x + 36 + 4x² + 30x + 36 =
 
-Área total dos dois terrenos 22x²+66x+72
+Área total dos dois terrenos = 22x² + 66x + 72
 
 10\) Efetue os monômios descritos abaixo:
 
-a\) 6x^4^+ 12x^6^
+a\) $$6x^4+ 12x^6$$
 
-b)10xy-xy
+b) 10xy-xy
 
 c)(6x³) . (2x²)
 
-d\) (14x^10)^: (2x²)
+d\) ($$14x^{10}$$): (2x²)
 
 e\) (2x³)³
 
 f\) (-4xy²) ³
 
-g\) $\frac{30x}{6x}$ para x diferente de 0
+g\) $$\frac{30x}{6x}$$, para x diferente de 0
 
 h\) 6x² - 8x²
 
-i)$(\frac{4}{5}x$)^-1^
+i)$$(\frac{4}{5}x)^{-1}$$
 
-j)9x² + 6x²
+j) 9x² + 6x²
 
 k\) 7x² + 4x
 
 l\) (8r) . (6s)
 
-m)(16x²) :4
+m) (16x²) :4
 
 n\) 8x + 6x + 4x
 
 o\) (-4xy²)³
 
-Em cada item acima deixar o espaço de 2 linhas para resposta.
+R:
 
-Respostas:
-
-Utilizando as propriedades algébricas e as propriedades de potenciação
+Utilizando as propriedades algébricas e as propriedades de potenciação,
 temos que:
 
-a\) 6x^4^+ 12x^6^=18x^10^
+a\) $$6x^4 + 12x^6 = 18x^{10}$$
 
-b)10xy-xy= 9xy
+b\) 10xy - xy = 9xy
 
-c)(6x³) . (2x²)=12x^5^
+c) (6x³) . (2x²) = $$12x^5$$
 
-d\) (14x^10)^: (2x²)=7x^8^
+d\) $$(14x^10) : (2x²)=7x^8$$
 
-e\) (2x³)³= 2x^9^
+e\) (2x³)³= $$2x^9$$
 
-f\) (-4xy²) ³= -4xy^6^
+f\) (-4xy²)³= $$-4xy^6$$
 
-g\) $\frac{30x}{6x}$ para x diferente de 0 = 5x
+g\) $$\frac{30x}{6x}$$, para x diferente de 0 = 5x
 
 h\) 6x² - 8x² = -2x²
 
-i)$(\frac{4}{5}x$)^-1^=+ $\frac{5}{4}$
+i)$$(\frac{4}{5}x)^{-1}$$ = $$\frac{5}{4}$$
 
-j)9x² + 6x²=15x²
+j) 9x² + 6x² = 15x²
 
-k\) 7x² + 4x²=11x²
+k\) 7x² + 4x² = 11x²
 
-l\) (8r) . (6s)= 48rs
+l\) (8r) . (6s) = 48rs
 
-m)(16x²) :4= 4x²
+m)(16x²) : 4 = 4x²
 
-n\) 8x + 6x + 4x= 18x
+n\) 8x + 6x + 4x = 18x
 
-o\) (-2xy²)^4^= 16x^4^y^8^
+o\) $$(-2xy²)^4$$= $$16x^4 y^8$$
 
 \colorsec{Treino}
 
@@ -3048,9 +2574,9 @@ o\) (-2xy²)^4^= 16x^4^y^8^
 ![](./imgSAEB_8_MAT/media/image6.png){width="2.9625in"
 height="1.6701388888888888in"}
 
-Qual a equação que representa a medida da área em m² dessa piscina?
+Qual é a equação que representa a medida da área em m² dessa piscina?
 
-a\) 3x² +8x +4
+a\) 3x² + 8x + 4
 
 b\) 8x + 8
 
@@ -3058,197 +2584,172 @@ c\) 4x + 4
 
 d\) 3x + 1
 
-Resposta: A
+SAEB: Resolver problemas que envolvam cálculo do valor numérico de expressões algébricas.
 
-BNCC: EF08MA10
+BNCC: EF08MA10 -- Identificar a regularidade de uma sequência numérica ou figural não recursiva e construir um algoritmo por meio de um fluxograma que permita indicar os números ou as figuras seguintes.
 
-Habilidade Saeb:
+A: Correta, pois, considerando a medida dos lados, temos que:
 
-*  Resolver problemas que envolvam cálculo do valor numérico de
-expressões algébricas.
+3x + 2 . x + 2=
 
-A:Correta pois
+(3x + 2) . (x + 2)=
 
-Considerando a medida dos lados temos que:
+Utilizando a distributiva:
 
-3x+2 ^.^ x+2=
+3x² + 6x + 2x + 4
 
-(3x+2) ^.^ (x+2)=
+3x² + 8x + 4
 
-Utilizando distributiva
+B: Incorreta, pois o aluno poderia confundir o enunciado e
+colocar o resultado do perímetro.
 
-3x² +6x +2x + 4
+C: Incorreta, pois o aluno poderia realizar uma soma ao invés de
+uma multiplicação.
 
-3x² +8x +4
-
-B: incorreta, o aluno poderia confundir o enunciado e
-colocar o resultado do perímetro ao invés da área chegando a este valor.
-
-C: incorreta, o aluno poderia realizar uma soma ao invés de
-uma multiplicação chegando a esse valor.
-
-D: incorreta, o aluno poderia chegar a esse valor realizando
+D: Incorreta, pois o aluno poderia chegar a esse valor realizando
 uma divisão ao invés de uma multiplicação.
 
-2\) Considerando que a²+ b² = 34 e ab= 15, qual o valor de
-$\frac{(a + b)²}{8}$ ?
+2\) Considerando que a²+ b² = 34 e ab= 15, qual é o valor de
+$$\frac{(a + b)²}{8}$$ ?
 
-a)2,266666666
+a\) 2,266666666
 
-b)19
+b\) 19
 
-c)8
+c\) 8
 
-d)9,25
+d\) 9,25
 
-Resposta: C
+SAEB: Resolver problemas que envolvam cálculo do valor numérico de expressões algébricas.
 
-BNCC: EF08MA10
+BNCC: EF08MA10 -- Identificar a regularidade de uma sequência numérica ou figural não recursiva e construir um algoritmo por meio de um fluxograma que permita indicar os números ou as figuras seguintes.
 
-Habilidade Saeb
-
-*  Resolver problemas que envolvam cálculo do valor numérico de
-expressões algébricas.
-
-A: incorreta o aluno chegaria a essa conclusão apenas
+A: Incorreta, pois o aluno chegaria a essa conclusão apenas
 dividindo um termo pelo outro.
 
-B: incorreta o aluno chegaria a essa conclusão realizando
+B: Incorreta, pois o aluno chegaria a essa conclusão realizando
 apenas a subtração de um termo pelo outro.
 
-C: Correta pois
+C: Correta, pois
 
-$\frac{(a + b)²}{8}\ $= $\frac{a^{2} + 2ab + b²}{8}$
+$$\frac{(a + b)²}{8}\ $$ = $$\frac{a^{2} + 2ab + b²}{8}$$
 
-Fazendo a substituição de a²+ b² = 34 e ab= 15 temos que:
+Fazendo a substituição de a² + b² = 34 e ab = 15, temos que:
 
-$\frac{34 + (2.15)}{8} =$ $\frac{34 + 30}{8}$ = $\frac{64}{8}$ = 8
+$$\frac{34 + (2.15)}{8} =$$ $$\frac{34 + 30}{8}$$ = $$\frac{64}{8}$$ = 8
 
-D: incorreta pois ao realizar a soma ao invés da
-multiplicação no ultimo termo
+D: incorreta, pois foi realizada a soma ao invés da multiplicação no último termo.
 
-3\) Ao comprar uma bola de futebol, Joaquim resolver fazer experimentos
-com um disco de vinil, onde descobriu que o diâmetro do disco é igual a
-(x² - 3), descobrindo o diâmetro Joaquim percebeu que era possível saber
-o perímetro e a área do disco, ao realizar os cálculos quais valores
-Joaquim descobriu?
+3\) O diâmetro de um disco de vinil é igual a (x² - 3). A partir desse valor,
+quanto valem o perímetro e a área do disco?
 
-Considere $\pi$ = 3
+Considere $$\pi$$ = 3
 
-a\) Área = 3x^4^ - 18x² - 27 Perímetro= 6x² - 18
+a\) $$Área = 3x^4 - 18x² - 27 \;Perímetro= 6x² - 18$$
 
-b\) Área = 3x^4^ - 18x² + 27 Perímetro= 6x² + 18
+b\) $$Área = 3x^4 - 18x² + 27 \;Perímetro= 6x² + 18$$
 
-c\) Área = 3x^4^ + 18x² + 27 Perímetro= 6x² - 18
+c\) $$Área = 3x^4 + 18x² + 27 \;Perímetro= 6x² - 18$$
 
-d\) Área = 3x^4^ - 18x² + 27 Perímetro= 6x² - 18
+d\) $$Área = 3x^4 - 18x² + 27 \;Perímetro= 6x² - 18$$
 
-Resposta: D
+SAEB: Resolver problemas que envolvam cálculo do valor numérico de expressões algébricas.
 
-BNCC: EF08MA10
+BNCC: EF08MA10 -- Identificar a regularidade de uma sequência numérica ou figural não recursiva e construir um algoritmo por meio de um fluxograma que permita indicar os números ou as figuras seguintes.
 
-Habilidade Saeb:
+A: Incorreta, pois o aluno, ao errar o jogo de sinal no cálculo da
+área, encontrará esse valor.
 
-*  Resolver problemas que envolvam cálculo do valor numérico de
-expressões algébricas.
+B: Incorreta, pois o aluno, ao errar o jogo de sinal no cálculo do
+perímetro, encontrará esse valor.
 
-A: incorreta, o aluno ao errar o jogo de sinal no cálculo da
-área o valor ficará desta forma.
+C: Incorreta, pois o aluno, ao errar o jogo de sinal no cálculo da
+área, encontrará esse valor.
 
-B: incorreta, o aluno ao errar o jogo de sinal no cálculo do
-perímetro o valor ficará desta forma.
+D: Correta, pois, para o cálculo da área, temos:
 
-C: incorreta, o aluno ao errar o jogo de sinal no cálculo da
-área o valor ficará desta forma.
+$$A = \pi r^{2}$$.
 
-D: correta pois:
+Logo,
 
-Para o cálculo da área
+A = 3 . (x²-3) ²
 
-$$A = \pi r^{2}$$
+A = 3 . ($$x^4$$ - 6x² + 9)
 
-Logo
-
-A= 3 . (x²-3) ²
-
-A= 3 . (x^4^ -- 6x² + 9)
-
-A= 3x^4^- 18x² + 27
+A = $$3x^4$$ - 18x² + 27
 
 Perímetro
 
-P= 2$\text{\ π\ .\ r}$
+P= 2$$\text{\ π\ .\ r}$$
 
-P= 2 . 3.(x²-3)
+P = 2 . 3. (x²-3)
 
-P= 2. (3x² - 9)
+P = 2 . (3x² - 9)
 
-P= 6x² - 18
+P = 6x² - 18
 
-Logo resposta correta alternativa d.
+# 7. Equações polinomiais de 2º. grau
 
-# Módulo 7
+Habilidades do SAEB
+*  Inferir uma equação polinomial de 2º. grau que modela um problema.
 
-BNCC: EF08MA09
-
-Habilidades Saeb:
-
-*  Inferir uma equação polinomial de 2º grau que modela um problema.
-
-*  Resolver uma equação polinomial de 2º grau.
+*  Resolver uma equação polinomial de 2º. grau.
 
 *  Resolver problemas que possam ser representados por equações
 polinomiais de 2º grau.
 
-Equação polinomial de 2º grau
+Habilidade da BNCC 
+EF08MA09.
 
-É considerada equação de polinomial de 2° grau, equações na forma ax² +
+Equação polinomial de 2º. grau
+
+São consideradas equações polinomiais de 2º. grau aquelas encontradas na forma ax² +
 b = 0
 
 Por exemplo:
 
-Qual é a solução da equação x² - 9 = 0, no conjunto R
+Qual é a solução da equação x² - 9 = 0, no conjunto R?
 
 Temos que:
 
 X² - 9 = 0
 
-X²= 9
+X² = 9
 
-X = $\sqrt{9}$
+X = $$\sqrt{9}$$
 
 X = ± 3
 
-Conjunto solução é {- 3, 3}
+O conjunto solução é {- 3, 3}
 
 Resolução da equação 16x² - 1 = 0
 
 16x² = 1
 
-X = $\  \pm \sqrt{\frac{1}{16}}$
+X = $$\  \pm \sqrt{\frac{1}{16}}$$
 
-X = $\  \pm \frac{1}{4}$
+X = $$\  \pm \frac{1}{4}$$
 
-Logo o conjunto solução é $+ \frac{1}{4}$ e $- \ \frac{1}{4}$
+Logo, o conjunto solução é $$+ \frac{1}{4}$$ e $$- \ \frac{1}{4}$$
 
 \colorsec{Atividades}
 
-1\) Determine a solução da equação x² + 4 = 0 no conjunto R
+1\) Determine a solução da equação x² + 4 = 0 no conjunto R.
 
-Deixar o espaço de 2 linhas para resposta.
+R: 
 
-Resposta: x² + 4 = 0
+x² + 4 = 0
 
 X² = - 4
 
-X= $\sqrt{- 4}$
+X= $$\sqrt{- 4}$$
 
-Como $\sqrt{- 4}$ não existe no conjunto R não temos valores reais para
-x. Logo, a equação não tem raízes reais. Assim, S = ~~0~~
+Como $$\sqrt{- 4}$$ não existe no conjunto R, não temos valores reais para
+x. Logo, a equação não tem raízes reais. Assim, S = 0.
 
-2\) Resolva, no conjunto R, a equação (2y + 1) ² = 8 + 2(2y + 1).
+2\) Resolva, no conjunto R, a equação (2y + 1)² = 8 + 2(2y + 1).
 
-Deixar o espaço de 6 linhas para resposta.
+R:
 
 (2y + 1)(2y + 1) = 8 + 2(2y + 1)
 
@@ -3260,15 +2761,15 @@ Deixar o espaço de 6 linhas para resposta.
 
 4y² - 9 = 0
 
-Y= ± $\sqrt{\frac{9}{4}}$
+Y= ± $$\sqrt{\frac{9}{4}}$$
 
-Y= ± $\frac{3}{2}$
+Y= ± $$\frac{3}{2}$$
 
-Logo os números + $\frac{3}{2}$ e $\frac{3}{2}$ são as raízes da
+Logo os números + $$\frac{3}{2}$$ e $$\frac{3}{2}$$ são as raízes da
 equação.
 
 3\) Determine o conjunto solução de cada uma das seguintes equações do
-2° grau, no conjunto R
+2°. grau, no conjunto R.
 
 a\) x² - 1 = 0
 
@@ -3278,9 +2779,7 @@ c\) x² - 64 = 0
 
 d\) 9x² = 25
 
-Em cada item acima deixar o espaço de 4 linhas para resposta.
-
-Respostas:
+R:
 
 a\) { -1,1}
 
@@ -3288,29 +2787,29 @@ b\) { -4 , 4}
 
 c\) {-8, 8}
 
-d\) {$- \frac{5}{3}$ ,$\frac{5}{3}$ }
+d\) {$$- \frac{5}{3}$$ ,$$\frac{5}{3}$$ }
 
 4\) Identifique a, b e c nas funções quadráticas abaixo:
 
-a\) x² -- 5x + 6 = 0
+a\) x² - 5x + 6 = 0
 
-b\) -2x² + 8x -- 8 = 0
+b\) -2x² + 8x - 8 = 0
 
 c\) x² = 4
 
 d\) x² - x = - (x + 15)
 
-Deixar o espaço de 4 linhas para resposta.
+Deixar o espaço de 4 linhas para a resposta.
 
-Respostas:
+R:
 
 a\)
 
-A= 1
+A = 1
 
-B= -5
+B = -5
 
-C= 6
+C = 6
 
 b\)
 
@@ -3330,44 +2829,44 @@ C = 4
 
 d\)
 
-A=1
+A = 1
 
-B= 0
+B = 0
 
-C= 15
+C = 15
 
-5\) Joana é mãe de 3 crianças, a idade de seu filho mais novo é
-representado pela equação x² -- 100 = 0, qual a idade do filho mais novo
-de Joana? Deixar o espaço de 4 linhas para resposta.
+5\) A idade do filho mais novo de Joana é representado pela equação 
+x² - 100 = 0. Qual é a idade do filho mais novo de Joana?
 
-Resposta: Realizando a equação temos que:
+R: 
+
+Realizando a equação temos que:
 
 X² - 100 = 0
 
 X² = 100
 
-X = $\sqrt{100}$
+X = $$\sqrt{100}$$
 
-X= ±10
+X = ±10
 
-Como a idade não pode ser representada com números negativos temos que a
-idade do filho mais novo de Joana é 10 Anos.
+Como a idade não pode ser representada, com números negativos, temos que a
+idade do filho mais novo de Joana é 10 anos.
 
 6\) Marcos é dono de uma madeireira que vende blocos de madeira de 2
-tamanhos diferentes, os tamanhos são definidos em metros, pelas raízes
-da equação x² -- 5x + 4 = 0, quais são os tamanhos de madeira
-disponíveis na madeireira de marcos? Deixar o espaço de 4 linhas para
-resposta.
+tamanhos diferentes. Os tamanhos são definidos, em metros, pelas raízes
+da equação x² - 5x + 4 = 0. Quais são os tamanhos de madeira
+disponíveis na madeireira de marcos?
 
-Resposta:
+R:
 
-Temos que: x² -- 5x + 4 = 0
+Temos que: x² - 5x + 4 = 0
 
-A= 1
+A = 1
 
-B= - 5
+B = - 5
 
-C= 4
+C = 4
 
 $$\frac{- ( - 5) \pm \sqrt{{- 5}^{2} - 4.\ 1.4}}{2.1}$$
 
@@ -3377,48 +2876,47 @@ $$\frac{5 \pm \sqrt{9}}{2}$$
 
 $$\frac{5 \pm 3}{2}$$
 
-X~1~ = $\frac{5 + 3}{2}$= $\frac{8}{2}$ = 4
+$$X~1~$$ = $$\frac{5 + 3}{2}$$= $$\frac{8}{2}$$ = 4
 
-X~2~ = $\frac{5 - 3}{2}$= $\frac{2}{2}$=1
+$$X~2~$$ = $$\frac{5 - 3}{2}$$= $$\frac{2}{2}$$=1
 
-Logo os tamanhos disponíveis de madeira são 1 metro e 4 metros.
+Logo, os tamanhos disponíveis de madeira são 1 metro e 4 metros.
 
-7\) Evandro é corredor, certo dia resolveu correr uma maratona com seu
-amigo José, como Evandro é mais experiente que José largou na frente e
-abriu certa vantagem, a distância de Evandro e José em km é definida
-pela equação X² -- 4x + 4 = 0, sendo assim quantos km Evandro está na
-frente de José? Deixar o espaço de 4 linhas para resposta.
+7\) Evandro é corredor. Certo dia, resolveu participar de uma maratona com seu
+amigo José. Como Evandro é mais experiente, largou na frente e
+abriu certa vantagem. A distância de Evandro e José em km é definida
+pela equação X² - 4x + 4 = 0. Sendo assim, quantos km Evandro está na
+frente de José? 
 
-Resposta:
+R:
 
-x² -- 4x + 4 = 0
+x² - 4x + 4 = 0
 
-A=1
+A = 1
 
-B= -4
+B = -4
 
-C= 4
+C = 4
 
 $$\frac{- ( - 4) \pm \sqrt{{( - 4)}^{2} - 4\ .\ 1.\ 4}}{2\ .\ 1}$$
 
 $$\frac{4 \pm \sqrt{16 - 16}}{2}$$
 
-$\frac{4}{2}$=2 km
+$$\frac{4}{2}$$ = 2 km
 
-8\) Raiane vai para o trabalho todos os dias a pé, a distância de sua
+8\) Raiane vai para o trabalho todos os dias a pé. A distância de sua
 casa para o seu tralho em km é a soma das raízes da equação 2𝑥² − 6𝑥 − 8
-= 0, quantos km Raiane anda por dia para ir ao trabalho? Deixar o espaço
-de 4 linhas para resposta.
+= 0. Quantos km Raiane anda por dia para ir ao trabalho?
 
-Resposta:
+R:
 
 2𝑥² − 6𝑥 − 8 = 0
 
-A=2
+A = 2
 
-B= -6
+B = -6
 
-C= -8
+C = -8
 
 $$\frac{- ( - 6) \pm \sqrt{{( - 6)}^{2} - 4.2.( - 8)}}{2.2}$$
 
@@ -3428,18 +2926,18 @@ $$\frac{6 \pm \sqrt{100}}{4}$$
 
 $$\frac{6 \pm 10}{4}$$
 
-X1= $\frac{6 + 10}{4}$ = $\frac{16}{4}$ = 4
+X1= $$\frac{6 + 10}{4}$$ = $$\frac{16}{4}$$ = 4
 
-X2= $\frac{6 - 10}{4}$ = $\frac{- 4}{4}$ = -1
+X2= $$\frac{6 - 10}{4}$$ = $$\frac{- 4}{4}$$ = -1
 
-Somando ambas as raízes temos que Raiane anda 3km por dia para ir ao
+Somando ambas as raízes, temos que Raiane anda 3km por dia para ir ao
 trabalho.
 
-9\) Divina tem 2 filhas com idades diferentes, as idades das filhas de
-divina são as raízes da equação x² - 20x + 36 = 0, qual a idade das
-filhas de divina? Deixar o espaço de 4 linhas para resposta.
+9\) Divina tem 2 filhas com idades diferentes, representadas pelas 
+raízes da equação x² - 20x + 36 = 0. Quais são as idades das
+filhas de Divina?
 
-Resposta:
+R:
 
 x² - 20x + 36 = 0
 
@@ -3459,26 +2957,27 @@ $$\frac{20 \pm \sqrt{256}}{2}$$
 
 $$\frac{20 \pm 16}{2}$$
 
-X1 = $\frac{20 + 16}{2}$= $\frac{36}{2} =$ 18
+X1 = $$\frac{20 + 16}{2}$$= $$\frac{36}{2} =$$ 18
 
-X2 = $\frac{20 - 16}{2}$ = $\frac{4}{2}$ = 2
+X2 = $$\frac{20 - 16}{2}$$ = $$\frac{4}{2}$$ = 2
 
-Logo as filhas de Divina tem 18 anos e 2 anos.
+Logo, as filhas de Divina têm 18 anos e 2 anos.
 
-10\) Mateus está procurando pagar uma dívida com o banco, ele sabe que o
-valor que deve é a soma da raízes da equação X²+4x+3 = 0 multiplicado
-por 1 000, sendo assim quantos reais Mateus deve ao banco? Deixar o
-espaço de 4 linhas para resposta.
+10\) Mateus pretende pagar uma dívida com o banco. Ele sabe que o
+valor que deve é a soma das raízes da equação X² + 4x + 3 = 0 multiplicada
+por 1.000. Sendo assim, quantos reais Mateus deve ao banco?
 
-Resposta: Utilizando Bhaskhara temos:
+R: 
 
-X²+4x+3 = 0
+Utilizando Bhaskhara, temos:
 
-A= 1
+X² + 4x + 3 = 0
 
-B= 4
+A = 1
 
-C= 3
+B = 4
+
+C = 3
 
 $$\frac{- 4 \pm \sqrt{4^{2} - 4.1.3}}{2.1}$$
 
@@ -3486,19 +2985,19 @@ $$\frac{- 4 \pm \sqrt{16 - 4.1.3}}{2.1}$$
 
 $$\frac{- 4 \pm \sqrt{4}}{2}$$
 
-X1= $\frac{- 4 + 4}{2}$ = 0
+X1= $$\frac{- 4 + 4}{2}$$ = 0
 
-X2 = $\frac{- 4 - 4}{2}$ = -4
+X2 = $$\frac{- 4 - 4}{2}$$ = -4
 
-Multiplicando por 1 000, temos que -4 . 1000 = - 4000
+Multiplicando por 1.000, temos que -4 . 1000 = - 4000
 
-Logo Mateus deve 4 000,00 R\$ ao banco.
+Logo, Mateus deve R$4.000,00 ao banco.
 
 \colorsec{Treino}
 
-1\) Clebinho é atacante de um famoso time de futebol, durante uma
-partida o número de finalizações de Clebinho no gol foi a soma das
-raízes da equação x²- 7x=0, quantas vezes Clebinho chutou no gol durante
+1\) Clebinho é atacante de um famoso time de futebol. Durante uma
+partida, o número de suas finalizações ao gol foi a soma das
+raízes da equação x²- 7x = 0. Quantas vezes Clebinho chutou no gol durante
 a partida?
 
 a\) 0
@@ -3509,31 +3008,23 @@ c\) 49
 
 d\) 14
 
-Resposta: B
-
-BNCC: EF09MA09
-
-Habilidade Saeb:
-
-*  Resolver problemas que possam ser representados por equações
+SAEB: Resolver problemas que possam ser representados por equações
 polinomiais de 2º grau.
 
-a incorreta: o aluno pode chegar a essa conclusão
-considerando que o enunciado pede apenas 1 valor das raízes da equação
-descrita e não a soma das raízes, chegando a essa conclusão
-erroneamente.
+BNCC: EF08MA09 -- Resolver e elaborar, com e sem uso de tecnologias, problemas que possam ser representados por equações polinomiais de 2º grau do tipo ax2 = b.
 
-B: Correta, pois:
+A: Incorreta, pois o aluno pode chegar a essa conclusão
+considerando que o enunciado pede apenas 1 valor das raízes da equação.
 
-Utilizando Bhaskhara temos:
+B: Correta, pois, utilizando Bhaskhara, temos:
 
-x² - 7x=0
+x² - 7x = 0
 
-A= 1
+A = 1
 
-B= - 7
+B = - 7
 
-C= 0
+C = 0
 
 $$\frac{- ( - 7) \pm \sqrt{{( - 7)}^{2} - 4.1.0}}{2.1}$$
 
@@ -3541,28 +3032,26 @@ $$\frac{7 \pm \sqrt{49}}{2}$$
 
 $$\frac{7 \pm 7}{2}$$
 
-X1 = $\frac{7 + 7}{2}$ = $\frac{14}{2}$ = 7
+X1 = $$\frac{7 + 7}{2}$$$ = $$\frac{14}{2}$$ = 7
 
-X2 = $\frac{7 - 7}{2}$ = 0
+X2 = $$\frac{7 - 7}{2}$$ = 0
 
-Logo realizando a soma de 7+0 = 7 obtemos que Clebinho chutou 7 vezes ao
+Logo, realizando a soma de 7 + 0 = 7, obtemos que Clebinho chutou 7 vezes ao
 gol.
 
-C: incorreta: o aluno pode chegar a essa conclusão
-considerando que o enunciado pede apenas o valor antes de se extrair das
-raízes da equação descrita e não a soma das raízes, chegando a essa
-conclusão erroneamente.
+C: Incorreta, pois o aluno pode chegar a essa conclusão
+considerando que o enunciado pede apenas o valor antes de extrairmos as
+raízes da equação.
 
-D: incorreta: o aluno pode chegar a essa conclusão
-esquecendo de dividir o valor de uma das raízes por 2, assim chegaria a
-esse valor erroneamente.
+D: Incorreta, pois o aluno pode chegar a essa conclusão
+esquecendo de dividir o valor de uma das raízes por 2.
 
-2\) Daniel é piloto de corridas de alta velocidade, em uma certa corrida
-Daniel ficou em 2° lugar, a distância em segundos do primeiro colocado
-para Daniel, é a soma das raízes da equação 4x² + 9x=0, quanto tempo
+2\) Daniel é piloto de corridas de alta velocidade. Em uma certa prova,
+ele ficou em 2° lugar. A distância em segundos do primeiro colocado
+para Daniel é a soma das raízes da equação 4x² + 9x = 0. Quanto tempo
 depois do primeiro colocado Daniel Chegou?
 
-a)0
+a) 0
 
 b\) 81
 
@@ -3570,40 +3059,31 @@ c\) 9
 
 d\) 2,25
 
-Resposta: D
-
-BNCC: EF09MA09
-
-Habilidade Saeb:
-
-*  Resolver problemas que possam ser representados por equações
+SAEB: Resolver problemas que possam ser representados por equações
 polinomiais de 2º grau.
 
-A: incorreta: o aluno pode chegar a essa conclusão
+BNCC: EF08MA09 -- Resolver e elaborar, com e sem uso de tecnologias, problemas que possam ser representados por equações polinomiais de 2º grau do tipo ax2 = b.
+
+A: Incorreta, pois o aluno pode chegar a essa conclusão
 considerando que o enunciado pede apenas 1 valor das raízes da equação
-descrita e não a soma das raízes, chegando a essa conclusão
-erroneamente.
+descrita.
 
-B :incorreta: o aluno pode chegar a essa conclusão
-considerando que o enunciado pede apenas o valor antes de se extrair das
-raízes da equação descrita e não a soma das raízes, chegando a essa
-conclusão erroneamente.
+B: Incorreta, pois o aluno pode chegar a essa conclusão
+considerando que o enunciado pede apenas o valor antes de extrairmos as
+raízes da equação descrita.
 
-C: incorreta: o aluno pode chegar a essa conclusão
-esquecendo de dividir o valor de uma das raízes por 4, assim chegaria a
-esse valor erroneamente.
+C: Incorreta, pois o aluno pode chegar a essa conclusão
+esquecendo de dividir o valor de uma das raízes por 4.
 
-D: correta pois:
+D: Correta, pois, utilizando Bhaskhara, temos:
 
-Utilizando Bhaskhara temos:
+4x² + 9x = 0
 
-4x² + 9x=0
+A = 4
 
-A= 4
+B = 9
 
-B= 9
-
-C= 0
+C = 0
 
 $$\frac{- 9 \pm \sqrt{9^{2} - 4.4.0}}{2.4}$$
 
@@ -3611,53 +3091,43 @@ $$\frac{- 9 \pm \sqrt{81}}{8}$$
 
 $$\frac{- 9 \pm 9}{8}$$
 
-X1 = $\frac{- 9 + 9}{8}$ = 0
+X1 = $$\frac{- 9 + 9}{8}$$ = 0
 
-X2= $\frac{- 9 - 9}{8}$ = $\frac{- 18}{8}$ = - $\frac{9}{4}$ = -2,25
-segundos
+X2= $$\frac{- 9 - 9}{8}$$ = $$\frac{- 18}{8}$$ = - $$\frac{9}{4}$$ = -2,25 segundos
 
-3\) Antônio foi ao posto de gasolina abastecer seu carro, ao final do
-abastecimento descobriu que a quantidade do tanque que foi preenchida
-por gasolina é igual a soma das raízes da equação 6x² - 5x = 0, qual foi
-esta parte preenchida
+3\) Antônio foi ao posto de gasolina abastecer seu carro. Ele descobriu que 
+a quantidade do tanque que foi preenchida por gasolina é igual à soma das raízes 
+da equação 6x² - 5x = 0. Qual foi esta parte preenchida?
 
 a\) 25
 
 b\) 0
 
-c\) $\frac{5}{6}$
+c\) $$\frac{5}{6}$$
 
 d\) 11
 
-Resposta: C
-
-BNCC: EF09MA09
-
-Habilidade Saeb
-
-*  Resolver problemas que possam ser representados por equações
+SAEB: Resolver problemas que possam ser representados por equações
 polinomiais de 2º grau.
 
-A: incorreta o aluno pode chegar a esse valor ao não
-realizar a radiciação necessária e não completar a equação como é
-determinante para chegar ao resultado.
+BNCC: EF08MA09 -- Resolver e elaborar, com e sem uso de tecnologias, problemas que possam ser representados por equações polinomiais de 2º grau do tipo ax2 = b.
 
-B: incorreta: o aluno pode chegar a essa conclusão
+A: Incorreta, pois o aluno pode chegar a esse valor ao não
+realizar a radiciação necessária.
+
+B: Incorreta, pois o aluno pode chegar a essa conclusão
 considerando que o enunciado pede apenas 1 valor das raízes da equação
-descrita e não a soma das raízes, chegando a essa conclusão
-erroneamente.
+descrita.
 
-C: Correta pois:
-
-Utilizando Bhaskhara temos:
+C: Correta, pois, utilizando Bhaskhara, temos:
 
 6x² - 5x = 0
 
-A=6
+A = 6
 
-B= -5
+B = -5
 
-C= 0
+C = 0
 
 $$\frac{- ( - 5) \pm \sqrt{{( - 5)}^{2} - 4.6.0}}{2( - 5)}$$
 
@@ -3665,34 +3135,31 @@ $$\frac{5 \pm \sqrt{25}}{12}$$
 
 $$\frac{5 \pm 5}{12}$$
 
-X1 = $\frac{5 + 5}{12}$ = $\frac{10}{12}$ = $\frac{5}{6}$
+X1 = $$\frac{5 + 5}{12}$$ = $$\frac{10}{12}$$ = $$\frac{5}{6}$$
 
-X2= $\frac{5 - 5}{12}$ = 0
+X2 = $$\frac{5 - 5}{12}$$ = 0
 
-Logo temos que a parte preenchida do tanque foi de $\frac{5}{6}$.
+Logo, temos que a parte preenchida do tanque foi de $$\frac{5}{6}$$.
 
-D: incorreta, o aluno chegaria a esse valor apenas somando
+D: Incorreta, pois o aluno chegaria a esse valor apenas somando
 os termos da equação e não realizando a operação por completo.
 
-# Módulo 8
+# 8. Proporções
 
-BNCC: EF08MA12 EF08MA13
-
-Habilidade Saeb:
-
+Habilidade SAEB
 *  Resolver problemas que envolvam variação de proporcionalidade direta
 ou inversa entre duas ou mais grandezas, inclusive escalas, divisões
 proporcionais e taxa de variação.
 
+Habilidades da BNCC
+EF08MA12, EF08MA13.
+
 Razão e proporção
 
 Sendo a e b dois números racionais, com b ≠ 0, denomina-se razão entre a
-e b ou razão de a para b o quociente $\frac{a}{b}$ ou a:b A razão
-$\frac{a}{b}\ $ou a : b pode ser lida de uma das seguintes maneiras:
-razão de a para b ou a está para b ou a para b
+e b ou razão de a para b o quociente $$\frac{a}{b}$$ ou a:b . A razão $$\frac{a}{b}\ $$ ou a : b pode ser lida de uma das seguintes maneiras: razão de a para b ou a está para b ou a para b.
 
-Em razão e proporção podemos trabalhar com Grandezas proporcionais ou
-Grandezas não proporcionais
+É possível trabalharmos com grandezas proporcionais ou grandezas não proporcionais.
 
 Escala
 
@@ -3702,26 +3169,25 @@ escala.
 
 Denomina-se escala de um desenho a razão entre o comprimento considerado
 nele e o correspondente comprimento real, medidos com a mesma unidade.
-Em geral, utilizamos as medidas em centímetro para determinar uma
+Em geral, utilizamos as medidas em centímetros para determinar uma
 escala.
 
-Escala =
-$\frac{\text{comprimento\ de\ um\ desenho}}{\text{comprimento\ real}}$
+Escala = $$\frac{\text{comprimento\ de\ um\ desenho}}{\text{comprimento\ real}}$$
 
 Densidade de um corpo
 
-Para calcular a densidade de um corpo, também se aplica a ideia de razão
+Para calcular a densidade de um corpo, também aplicamos a ideia de razão
 entre duas grandezas. Assim, a densidade de um corpo é dada pela razão
 entre a massa e o volume desse corpo.
 
 $$densidade = \ \frac{\text{massa\ do\ corpo}}{\text{volume\ do\ corpo}}$$
 
-Questões
+\colorsec{Atividades}
 
-1\) . Um prêmio de loteria, no valor de R\$ 2 700 000, 00 será dividido
+1\) Um prêmio de loteria, no valor de R$ 2.700.000,00 será dividido
 igualmente pelo total de acertadores.
 
-a\) Quanto cada acertador receberá, se o prêmio for dividido entre 3
+a\) Quanto cada acertador receberá, caso o prêmio seja dividido entre 3
 ganhadores?
 
 b\) E se fossem 8 ganhadores?
@@ -3729,107 +3195,93 @@ b\) E se fossem 8 ganhadores?
 c\) Conforme o número de acertadores aumenta, o que acontece com o valor
 do prêmio?
 
-Em cada item acima Deixar o espaço de 2 linhas para resposta.
+R:
 
-Respostas:
+a\) Ao dividirmos o valor do prêmio proporcionalmente, entre 3 ganhadores
+temos que 2.700.000 : 3 = 900.000 para cada um.
 
-a\) ao dividir o valor do prêmio proporcionalmente entre 3 ganhadores
-temos que
+b\) Ao dividirmos o valor do prêmio proporcionalmente entre 8 ganhadores
+temos que 2.700.000 : 8 = 337.500 para cada um.
 
-2 700 000 : 3 = 900 000 para cada um.
+c\) Quando o número de acertadores aumenta, o valor do prêmio diminui.
 
-b\) ao dividir o valor do prêmio proporcionalmente entre 8 ganhadores
-temos que
-
-2 700 000 : 8 = 337 500 para cada um.
-
-c\) Quando o número de acertadores aumenta o valor do prêmio diminui.
-
-2\) A distância entre a Terra e o Sol é de, aproximadamente, 150 000 000
+2\) A distância entre a Terra e o Sol é de, aproximadamente, 150.000.000
 km; A luz do Sol, para atingir a Terra, leva em torno de 500 segundos.
 
-Responda:
 
 a\) Qual é a velocidade da luz no vácuo?
 
 b\) Quantos minutos a luz do Sol leva para chegar à Terra?
 
-Deixar o espaço de 4 linhas para resposta.
+a\) Utilizando a razão $$\frac{distância}{\text{tempo}}$$, temos que
+$$\frac{150\ 000\ 000}{500}$$ = 300 000 km/s
 
-a\) Utilizando a razão $\frac{distância}{\text{tempo}}$ temos que
-$\frac{150\ 000\ 000}{500}$ = 300 000 km/s
-
-b\) se 60 segundos = 1 minuto temos que 500 : 60 = 8 minutos e 20
+b\) se 60 segundos = 1 minuto, temos que 500 : 60 = 8 minutos e 20
 segundos.
 
-3\) Um novo condomínio de casas está sendo construído e sua planta foi
+3\) Um novo condomínio de casas está sendo construído, e sua planta foi
 representada, em uma folha de papel, com 5,5 cm de comprimento por 3,125
 cm de largura. Sabendo que a escala utilizada foi 1 : 16 000, determine
 as dimensões reais deste condomínio.
 
-Deixar o espaço de 4 linhas para resposta.
+R:
 
-Como a escala é de 1: 16 000 temos que:
+Como a escala é de 1 : 16.000, temos que:
 
-Comprimento 5,5 . 16 0000= 88 000 cm
+Comprimento 5,5 . 16.000 = 88.000 cm
 
-Largura 3,125 . 16 000 = 50 000 cm
+Largura 3,125 . 16.000 = 50.000 cm
 
-Transformando em metros temos que
+Transformando em metros, temos que
 
-Comprimento= 880 m
+Comprimento = 880 m
 
-Largura= 500 m
+Largura = 500 m
 
-4\) . Um bloco maciço de madeira tem 54 kg de massa e ocupa um volume de
-3 m³. Qual a densidade desse bloco?
+4\) Um bloco maciço de madeira tem 54 kg de massa e ocupa um volume de
+3 m³. Qual é a densidade desse bloco?
 
-Deixar o espaço de 4 linhas para resposta.
+R:
 
-Utilizando a razão da densidade que é $d = \frac{m}{v}$ temos que
+Utilizando a razão da densidade, que é $$d = \frac{m}{v}$$, temos que
 
-$d = \frac{54}{3}$
+$$d = \frac{54}{3}$$
 
-d= 18 kg/m³
+d = 18 kg/m³
 
-5\) . Um fio de cobre utilizado na fiação de uma casa comum ocupa um
+5\) Um fio de cobre utilizado na fiação de uma casa comum ocupa um
 volume de 0,2 cm³. Sabendo que a massa do fio é de 4,3 g, determine a
 densidade desse metal.
 
-Deixar o espaço de 4 linhas para resposta.
+R:
 
-Utilizando a razão da densidade que é $d = \frac{m}{v}$ temos que:
+Utilizando a razão da densidade, que é $$d = \frac{m}{v}$$, temos que:
 
-$d = \frac{4,3}{0,2}$
+$$d = \frac{4,3}{0,2}$$
 
-D= 21,5g/cm³
+D = 21,5g/cm³
 
-6\) Um país situado no continente europeu, tem cerca de 135 000 km² de
-área e uma população de 12 200 000 habitantes. Qual é a densidade
+6\) Um país situado no continente europeu tem cerca de 135.000 km² de
+área e uma população de 12.200.000 habitantes. Qual é a densidade
 demográfica aproximada desse país?
 
-Deixar o espaço de 4 linhas para resposta.
+R:
 
-Utilizando a razão da densidade demográfica que é
+Utilizando a razão da densidade demográfica, que é $$densidade\ demográfica = \frac{número\ de\ pessoas\ }{dimensão\ do\ espaço\ em\ km²}$$, temos que:
 
-$densidade\ demografica = \frac{número\ de\ pessoas\ }{dimensão\ do\ espaço\ em\ km²}$
-Temos que:
+$$densidade\ demográfica = \frac{12\ 200\ 000}{135\ 000}$$
 
-$densidade\ demografica = \frac{12\ 200\ 000}{135\ 000}$
-
-$densidade\ demografica =$ 90,37 Habitantes/ km²
+$$densidade\ demográfica =$$ 90,37 Habitantes/ km²
 
 7\) Cinco homens levam 20 dias para recapear um trecho de estrada. Esse
 mesmo serviço seria realizado em quantos dias, se fossem 8 homens no
 total?
 
-Deixar o espaço de 4 linhas para resposta.
+R:
 
-Utilizando a Regra de 3 simples temos que:
+Utilizando a Regra de 3 simples. temos que:
 
-5 homens \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--20 dias
-
-8 homens \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x
+$$\frac {5}{8} = \frac{20}{x}$$
 
 5 . 20 = 8 . x
 
@@ -3837,40 +3289,34 @@ Utilizando a Regra de 3 simples temos que:
 
 X= 12,5
 
-8\) Uma Padaria produz 260 pães franceses a cada 50 min. Em uma jornada
+8\) Uma padaria produz 260 pães franceses a cada 50 min. Em uma jornada
 de 12 h, quantos pães são produzidos?
 
-Deixar o espaço de 4 linhas para resposta.
+R:
 
-Utilizando a Regra de 3 simples temos que:
+Utilizando a Regra de 3 simples, temos que:
 
-260 pães \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--50 minutos
-
-X \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-720 minutos
+$$\frac {260}{x} = \frac{50}{720}$$
 
 187 200 = x . 50
 
-X= 3744 pães são produzidos
+X = 3744 pães são produzidos
 
 9\) Um livro tem 180 páginas, e cada página tem 46 linhas. Um editor
 resolveu colocar apenas 30 linhas em cada página. Qual será a nova
 quantidade de páginas do livro?
 
-Deixar o espaço de 4 linhas para resposta.
+R:
 
-Utilizando a Regra de 3 simples temos que:
+Utilizando a regra de 3 simples, temos que:
 
-180 páginas \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--46 linhas
-
-X \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-30 linhas
+$$\frac {180}{x} = \frac{46}{30}$$
 
 180 . 46 = 30 . x
 
 8280 = 30x
 
-X= 276
+X = 276
 
 10\) Converta as velocidades dadas em m/s para km/h:
 
@@ -3882,7 +3328,7 @@ c\) 55 m/s
 
 d\) 67 m/s
 
-e\) 90 m /s
+e\) 90 m/s
 
 f\) 25 m/s
 
@@ -3890,36 +3336,34 @@ g\) 30 m/s
 
 h\) 40 m/s
 
-em cada item acima deixar o espaço de 2 linhas para resposta.
+R:
 
-Respostas:
+Para realizar a conversão de m/s para km/h, devemos fazer a multiplicação
+por 3,6.
 
-Para realizar a conversão de m/s para km/h devemos fazer a multiplicação
-por 3,6
+a\) 20 m/s . 3,6 = 72 km/h
 
-a\) 20 m/s . 3,6= 72 km/h
+b\) 100 m/s . 3,6 = 360km/h
 
-b\) 100 m/s . 3,6= 360km/h
+c\) 55 m/s . 3,6 = 198 km/h
 
-c\) 55 m/s . 3,6= 198 km/h
+d\) 67 m/s . 3,6 = 241,2 km/h
 
-d\) 67 m/s . 3,6= 241,2 km/h
+e\) 90 m /s . 3,6 = 324 km/h
 
-e\) 90 m /s . 3,6= 324 km/h
+f\) 25 m/s . 3,6 = 90 km/h
 
-f\) 25 m/s . 3,6= 90 km/h
+g\) 30 m/s .3,6 = 108 km/h
 
-g\) 30 m/s .3,6= 108 km/h
-
-h\) 40 m/s . 3,6= 144km/h
+h\) 40 m/s . 3,6 = 144km/h
 
 \colorsec{Treino}
 
-1\) Dona Estela está preparando a Ceia de Natal para sua família e
-comprou um peru de 4,2 kg para servir, ao pesquisar sobre o tempo de
-cozimento de um peru descobriu que o tempo depende de sua massa em
-quilogramas. Ao ler que um peru de 3,5 kg leva 2h15min para assar,
-quanto tempo o peru que Dona estela comprou deve ficar no forno?
+1\) Dona Estela está preparando a ceia de Natal para sua família e
+comprou um peru de 4,2 kg para servir. Ao pesquisar sobre o tempo de
+cozimento de um peru, descobriu que o tempo depende de sua massa em
+quilogramas. Sabendo que um peru de 3,5 kg leva 2h15min para assar,
+quanto tempo o prato que Dona estela comprou deve ficar no forno?
 
 a\) 2 horas e 42 minutos
 
@@ -3929,40 +3373,31 @@ c\) 2 horas e 58 minutos
 
 d\) 567 minutos
 
-Resposta: A
-
-BNCC: EF08MA12 EF08MA13
-
-Habilidade Saeb:
-
-*  Resolver problemas que envolvam variação de proporcionalidade direta
+SAEB: Resolver problemas que envolvam variação de proporcionalidade direta
 ou inversa entre duas ou mais grandezas, inclusive escalas, divisões
 proporcionais e taxa de variação.
 
-A: correta, pois:
+BNCC: EF08MA13 -- Resolver e elaborar problemas que envolvam grandezas diretamente ou inversamente proporcionais, por meio de estratégias variadas.
 
-Utilizando a Regra de 3 simples temos que:
+A: Correta, pois, utilizando a regra de 3 simples, temos que:
 
-3,5 kg \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 135 minutos
-
-4,2 kg\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--x minutos
+$$\frac {3,5}{4,2} = \frac{135}{x}$$
 
 3,5 . x = 567
 
-X= 162 minutos ou 2 horas e 42 minutos
+x = 162 minutos ou 2 horas e 42 minutos.
 
-B: incorreta, o aluno poderia chegar a esse valor realizando
+B: Incorreta, o aluno poderia chegar a esse valor realizando
 a multiplicação reta na regra de 3 e não a multiplicação cruzada.
 
-C: incorreta, esse seria o valor caso o aluno não
-convertesse horas em minutos como forma de solução, chegando a um valor
-equivocado.
+C: Incorreta, pois esse seria o valor caso o aluno não
+convertesse horas em minutos como forma de solução.
 
-D: incorreta, o aluno chegaria a esse resultado caso não
+D: Incorreta, pois o aluno chegaria a esse resultado caso não
 realizasse a última operação necessária, que é a divisão.
 
 2\) 5 rosquinhas de coco possuem 64 calorias. Dirce consome diariamente
-3 rosquinhas em seu café da manhã. Quantas calorias procedentes das
+3 unidades desse doce em seu café da manhã. Quantas calorias procedentes das
 rosquinhas Dirce consome por dia?
 
 a\) 106,6 calorias
@@ -3973,39 +3408,30 @@ c\) 960 calorias
 
 d\) 192 calorias
 
-Resposta: B
-
-BNCC: EF08MA12 EF08MA13
-
-Habilidade Saeb:
-
-*  Resolver problemas que envolvam variação de proporcionalidade direta
+SAEB: Resolver problemas que envolvam variação de proporcionalidade direta
 ou inversa entre duas ou mais grandezas, inclusive escalas, divisões
 proporcionais e taxa de variação.
 
-A: incorreta, o aluno chegaria nesse resultado multiplicando
+BNCC: EF08MA13 -- Resolver e elaborar problemas que envolvam grandezas diretamente ou inversamente proporcionais, por meio de estratégias variadas.
+
+A: Incorreta, pois o aluno chegaria nesse resultado multiplicando
 reto a regra de três ao invés de multiplicar cruzado.
 
-B: correta pois:
+B: Correta, pois, utilizando a Regra de 3 simples, temos que:
 
-Utilizando a Regra de 3 simples temos que:
-
-5 rosquinhas \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--64 calorias
-
-3 rosquinhas \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- x calorias
+$$\frac {5}{3} = \frac{64}{x}$$
 
 5x = 64 . 3
 
 5x = 192
 
-X= 38,4
+X = 38,4
 
-C: incorreta, o aluno chegaria a esse valor caso no final da
-expressão ao invés de realizar uma divisão, realizar uma multiplicação.
+C: Incorreta, pois o aluno chegaria a esse valor caso, no final da
+expressão, ao invés de realizar uma divisão, realizasse uma multiplicação.
 
-D: incorreta, o auno chegaria a essa conclusão considerando
-que cada rosquinha possuísse 64 calorias, interpretando errado o
-enunciado.
+D: Incorreta, pois o aluno chegaria a essa conclusão considerando
+cada rosquinha com 64 calorias.
 
 3\) Leandro tem um cachorro da raça fila brasileiro que pesa 27 kg. Para
 tratar uma infecção nas vias urinárias, o veterinário receitou um
@@ -4014,55 +3440,41 @@ Quantos ml de antibiótico Leandro dará a seu cachorro?
 
 a\) 3,3333\..... ml
 
-b\) 24,3ml
+b\) 24,3 ml
 
 c\) 2430 ml
 
 d\) 2,43 ml
 
-Resposta: B
-
-# Módulo 9
-
-BNCC: EF08MA12 EF08MA13
-
-Habilidade Saeb:
-
-*  Resolver problemas que envolvam variação de proporcionalidade direta
+SAEB: Resolver problemas que envolvam variação de proporcionalidade direta
 ou inversa entre duas ou mais grandezas, inclusive escalas, divisões
 proporcionais e taxa de variação.
 
-A: incorreta, o aluno chegaria a esse resultado realizando
-uma multiplicação reta ao invés de uma multiplicação cruzada, na regra
-de 3 simples.
+BNCC: EF08MA13 -- Resolver e elaborar problemas que envolvam grandezas diretamente ou inversamente proporcionais, por meio de estratégias variadas.
 
-B: Correta: pois
+A: Incorreta, pois o aluno chegaria a esse resultado realizando
+uma multiplicação reta ao invés de uma multiplicação cruzada.
 
-Utilizando a Regra de 3 simples temos que:
+B: Correta, pois, utilizando a regra de 3 simples, temos que:
 
-10 kg \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--9ml
+$$\frac {10}{27} = \frac{9}{x}$$
 
-27 kg\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--x ml
+10.x = 9 . 27
 
-10.x= 9 . 27
+10x = 243
 
-10x= 243
+X = 24,3 ml
 
-X= 24,3 ml
+C: Incorreta, pois o aluno chegaria a essa conclusão se, ao final da
+expressão, realizasse uma multiplicação.
 
-C: incorreta, o aluno chegaria a essa conclusão ao final da
-expressão ao invés de realizar uma divisão realizar uma multiplicação.
-
-D: incorreta, o aluno chegaria a essa conclusão deslocando a
+D: Incorreta, pois o aluno chegaria a essa conclusão deslocando a
 virgula uma casa para esquerda durante o cálculo final.
 
-# Módulo 10
+# 9. Polígonos
 
-BNCC: EF08MA18
-
-Habilidades Saeb:
-
-Identificar, no plano cartesiano, figuras obtidas por uma ou mais
+Habilidades do SAEB
+* Identificar, no plano cartesiano, figuras obtidas por uma ou mais
 transformações geométricas (reflexão, translação, rotação).
 
 *  Relacionar o número de vértices, faces ou arestas de prismas ou
@@ -4081,23 +3493,29 @@ inscrito).
 *  Construir/desenhar figuras geométricas planas ou espaciais que
 satisfaçam condições dadas.
 
-Polígono é uma figura plana formada por uma linha fechada simples,
-composta apenas de segmentos de reta, reunida com a sua região interna.
+Habilidade da BNCC
+EF08MA18.
 
-Podemos Classificar os polígonos em convexos e não convexos
+Polígono
+
+Um polígono é uma figura geométrica plana formada por segmentos de reta que se conectam, chamados de lados. Esses lados não se cruzam, exceto em seus pontos finais. Cada ponto de encontro entre dois lados é chamado de vértice.
+
+Podemos Classificar os polígonos em convexos e não convexos.
 
 Podemos destacar os seguintes elementos de um polígono: vértices, lados,
-ângulos internos e externos e diagonais
+ângulos internos e externos e diagonais.
 
-Utilizando a Fórmula $d = \ \frac{n(n - 3)}{2}$ podemos determinar o
+Utilizando a Fórmula $$d = \ \frac{n(n - 3)}{2}$$ podemos determinar o
 número de diagonais de um polígono
 
-Utilizando a fórmula S~i~ = (n-2) . 180° , podemos calcular a soma dos
-ângulos internos de um polígono.
+Utilizando a fórmula $$S = (n - 2) \times 180°$$, podemos calcular a soma dos ângulos 
+internos de um polígono.
 
 \colorsec{Atividades}
 
 1\) Complete a Tabela com o nome dos polígonos segundo o número de lados
+
+%Paulo, inserir uma tabela com as informações abaixo:
 
   Número de lados   Nome do Polígono
   ----------------- ------------------
@@ -4114,10 +3532,7 @@ Utilizando a fórmula S~i~ = (n-2) . 180° , podemos calcular a soma dos
   15                 
   20                 
 
-Inserir uma tabela similar a essa, contendo os mesmo valores, podendo
-ser modificada o estilo e as cores .
-
-Resposta:
+R:
 
   Número de lados   Nome do Polígono
   ----------------- ------------------
@@ -4134,23 +3549,19 @@ Resposta:
   15                Pentadecágono
   20                Icoságono
 
-2\) Determine quais das figuras abaixo são polígonos
+2\) Determine quais das figuras abaixo são polígonos.
 
 ![](./imgSAEB_8_MAT/media/image7.png){width="1.7in"
 height="1.2676301399825023in"}
 
-Inserir figuras similares a estas contendo o mesmo formato
+R: Somente as alternativas A e E.
 
-Resposta: As figuras que são polígonos são somente alternativa A e E
-
-3\) Classifique os polígonos abaixo em convexos e não convexos
+3\) Classifique os polígonos abaixo em convexos e não convexos.
 
 ![](./imgSAEB_8_MAT/media/image8.png){width="1.1623632983377077in"
 height="2.3666666666666667in"}
 
-Inserir figuras similares a estas contendo o mesmo formato.
-
-Respostas:
+R:
 
 a\) convexo
 
@@ -4160,9 +3571,8 @@ c\) não convexo
 
 d\) não convexo
 
-4\) Utilizando a Fórmula $d = \ \frac{n(n - 3)}{2}$ para determinar o
-número de diagonais de um polígonos calcule o número de diagonais de um
-polígono de
+4\) Utilizando a Fórmula $$d = \ \frac{n(n - 3)}{2}$$, calcule o número de 
+diagonais de um polígono de
 
 a\) 5 lados
 
@@ -4174,29 +3584,22 @@ d\) 15 lados
 
 e\) 20 lados
 
-em cada item cima deixar o espaço de 4 linhas para resposta.
+R:
 
-Repostas:
-
-Utilizando $d = \ \frac{n(n - 3)}{2}\text{\ \ }$temos que
-
-a\) $d = \ \frac{5(5 - 3)}{2}$ = $\frac{25 - 15}{2}$ = $\frac{10}{2}$ =
+a\) $$d = \ \frac{5(5 - 3)}{2}$$ = $$\frac{25 - 15}{2}$$ = $$\frac{10}{2}$$ =
 5 diagonais
 
-b\) $d = \ \frac{9(9 - 3)}{2}$ = $\frac{81 - 27}{2} = \frac{54}{2}$= 27
+b\) $$d = \ \frac{9(9 - 3)}{2}$$ = $$\frac{81 - 27}{2} = \frac{54}{2}$$ = 27
 diagonais
 
-c\) $d = \ \frac{10(10 - 3)}{2}$ = $\frac{100 - 30}{2} = \frac{70}{2} =$
-35 diagonais
+c\) $$d = \ \frac{10(10 - 3)}{2}$$ = $$\frac{100 - 30}{2} = \frac{70}{2} =$$ 35 diagonais
 
-d\) $d = \ \frac{15(15 - 3)}{2}$ = $\frac{225 - 45}{2}$=
-$\frac{180}{2}$= 90 diagonais
+d\) $$d = \ \frac{15(15 - 3)}{2}$$ = $$\frac{225 - 45}{2}$$ = $$\frac{180}{2}$$ = 90 diagonais
 
-e\) $d = \ \frac{20(20 - 3)}{2}$= $\frac{400 - 60}{2} = \frac{340}{2}$=
-170 diagonais
+e\) $$d = \ \frac{20(20 - 3)}{2}$$ = $$\frac{400 - 60}{2} = \frac{340}{2}$$ = 170 diagonais
 
-5\) Utilizando a fórmula S~i~ = (n-2) . 180°, calcule a soma dos ângulos
-internos dos polígonos abaixo
+5\) Utilizando a fórmula Si = (n-2) . 180°, calcule a soma dos ângulos
+internos dos polígonos abaixo.
 
 a\) Quadrilátero
 
@@ -4208,54 +3611,52 @@ d\) Icoságono
 
 e\) Dodecagono
 
-em cada item acima deixar o espaço de 4 linhas para resposta.
+R:
 
-Respostas:
-
-Utilizando a fórmula S~i~ = (n-2) . 180° temos que
+Utilizando a fórmula Si = (n-2) . 180°, temos que
 
 a\) Quadrilátero
 
-S~i~ = (4-2) . 180°
+Si~ = (4-2) . 180°
 
-S~i=~ 2 . 180 °
+Si = 2 . 180°
 
-S~i~= 360°
+Si = 360°
 
 b\) Pentágono
 
-S~i~ = (5-2) . 180°
+Si = (5-2) . 180°
 
-S~i~= 3 . 180
+Si = 3 . 180
 
-S~i~= 540
+Si = 540
 
 c\) Eneágono
 
-S~i~ = (9-2) . 180°
+Si = (9-2) . 180°
 
-S~i~ = 7 . 180°
+Si = 7 . 180°
 
-S~i~ = 1260°
+Si = 1260°
 
 d\) Icoságono
 
-S~i~ = (20-2) . 180°
+Si = (20-2) . 180°
 
-S~i~ = 18 . 180°
+Si = 18 . 180°
 
-S~i~ = 3240°
+Si = 3240°
 
 e\) Dodecagono
 
-S~i~ = (12-2) . 180°
+Si = (12-2) . 180°
 
-S~i~ = 10 . 180
+Si = 10 . 180
 
-S~i~ = 1800°
+Si = 1800°
 
-6\) Utilizando a fórmula S~i~ = (n-2) . 180°, calcule o número de lados
-dos polígonos cuja soma dos ângulos internos são:
+6\) Utilizando a fórmula Si = (n-2) . 180°, calcule o número de lados
+dos polígonos cuja soma dos ângulos internos é:
 
 a\) 1080°
 
@@ -4265,17 +3666,15 @@ c\) 2340°
 
 d\) 1800°
 
-em cada item acima deixar o espaço de 4 linhas para resposta.
-
-Respostas:
+R:
 
 a\) 1080°
 
 1080 = (n-2) . 180°
 
-$\frac{1080}{180}$= n- 2
+$$\frac{1080}{180}$$= n - 2
 
-6 = n-2
+6 = n - 2
 
 N = 8
 
@@ -4283,31 +3682,31 @@ b\) 1980°
 
 1980 = (n-2) . 180°
 
-$\frac{1980}{180}$ = n -- 2
+$$\frac{1980}{180}$$ = n - 2
 
-11 = n -2
+11 = n - 2
 
-N= 13
+N = 13
 
 c\) 2340°
 
-2340= (n-2) . 180°
+2340 = (n-2) . 180°
 
-$\frac{2340}{180}$ = n -- 2
+$$\frac{2340}{180}$$ = n - 2
 
-13= n -- 2
+13 = n - 2
 
-N= 15
+N = 15
 
 d\) 1800°
 
 1800 = (n-2) . 180°
 
-$\frac{1800}{180}$= n -- 2
+$$\frac{1800}{180}$$ = n - 2
 
-10 = n- 2
+10 = n - 2
 
-N= 12
+N = 12
 
 7\) Considere o paralelogramo a seguir. Nele, estão expressas as medidas
 de dois ângulos opostos. Quais são as medidas dos quatro ângulos desse
@@ -4316,81 +3715,60 @@ paralelogramo?
 ![](./imgSAEB_8_MAT/media/image9.png){width="1.8229166666666667in"
 height="0.9583333333333334in"}
 
-Inserir uma imagem similar a essa porém contendo o mesmo conteúdo
-numérico
+R:
 
-Deixar o espaço de 4 linhas para resposta.
+Temos que:
 
-Resposta:
-
-Temos que
-
-4x+1 = 6x -21
+4x + 1 = 6x - 21
 
 -2x = -22
 
-X=11
+X = 11
 
-Substituindo x = 11 nas duas equações temos que:
+Substituindo x = 11 nas duas equações, temos que:
 
-4.11+ 1 =45°
+4 . 11 + 1 = 45°
 
-6.11-21= 45°
+6 . 11 - 21 = 45°
 
-Como a soma dos ângulos internos de um paralelogramo é 360°
+Como a soma dos ângulos internos de um paralelogramo é 360°,
 
 45° + 45° - 360° = 270°
 
-270° : 2= 135°
+270° : 2 = 135°
 
 Temos então que o paralelogramo possui 2 ângulos de 45° e 2 ângulos de
-135°
+135°.
 
 8\) Calcule o valor de x e y na figura indicada.
 
 ![](./imgSAEB_8_MAT/media/image10.png){width="1.03125in"
 height="1.03125in"}
 
-Inserir uma imagem similar a essa porém contendo o mesmo conteúdo
-numérico
+R:
 
-Deixar o espaço de 4 linhas para resposta.
-
-Resposta:
-
-Relembrando que a soma dos ângulos internos de um triangulo é = 180 °
-
-E que a soma dos ângulos internos de um paralelogramo é igual a 360°
-
-Temos que y=45° e x = 90°
+Relembrando que a soma dos ângulos internos de um triangulo é = 180° e que a soma dos ângulos internos de um paralelogramo é igual a 360°, temos que y=45° e x = 90°.
 
 9\) Determine a medida x no paralelogramo da figura a seguir:
 
 ![](./imgSAEB_8_MAT/media/image11.png){width="2.0520833333333335in"
 height="1.09375in"}
 
-Inserir uma imagem similar a essa porém contendo o mesmo conteúdo
-numérico
+R:
 
-Deixar o espaço de 4 linhas para resposta.
+Por método de observação, temos que o ângulo no ponto B é:
 
-Resposta:
+82°+ 35° - 180° = 63°
 
-Por método de observação temos que Ângulo no ponto B é:
+Formando um triangulo BCD, temos que
 
-82°+ 35° -- 180° =63°
-
-Formando um triangulo BCD temos que
-
-70° + 63° -- 180° = 47°
+70° + 63° - 180° = 47°
 
 10\) Analise a circunferência de centro A representada a seguir e
 classifique em raio, diâmetro ou corda o segmento de reta:
 
 ![](./imgSAEB_8_MAT/media/image12.png){width="2.9868055555555557in"
 height="2.5729166666666665in"}
-
-Inserir uma imagem similar a essa porém contendo o mesmo conteúdo.
 
 a\) GA
 
@@ -4410,9 +3788,7 @@ h\) AC
 
 i\) AH
 
-Em cada item acima deixar o espaço de 1 linha para resposta.
-
-Respostas:
+R:
 
 a\) raio
 
@@ -4435,9 +3811,7 @@ i\) raio
 \colorsec{Treino}
 
 1\) Alfredo desenhou, em uma madeira, um eneágono regular cujo perímetro
-era de 117 cm
-
-Qual é a medida de cada lado dessa figura?
+era de 117 cm. Qual é a medida de cada lado dessa figura?
 
 a\) 13 cm
 
@@ -4447,32 +3821,27 @@ c\) 16,71 cm
 
 d\) 23,4 cm
 
-Resposta: A
-
-BNCC: EF08MA18
-
-Habilidade Saeb- Construir/desenhar figuras geométricas planas ou
+SAEB: Construir/desenhar figuras geométricas planas ou
 espaciais que satisfaçam condições dadas.
 
-A: Correta, pois
+BNCC: EF08MA18 -- Reconhecer e construir figuras obtidas por composições de transformações geométricas (translação, reflexão e rotação), com o uso de instrumentos de desenho ou de softwares de geometria dinâmica.
 
-117 : 9 = 13 cm de lado tem essa figura.
+A: Correta, pois 117 : 9 = 13 cm de lado tem essa figura.
 
-B: incorreta, o aluno poderia chegar a essa conclusão caso
+B: Incorreta, pois o aluno poderia chegar a essa conclusão caso
 considerasse que o eneágono regular possui 10 lados e não 9.
 
-c: incorreta, o aluno poderia chegar a essa conclusão caso
+c: Incorreta, pois o aluno poderia chegar a essa conclusão caso
 considerasse que o eneágono regular possui 7 lados e não 9.
 
-D: incorreta, o aluno poderia chegar a essa conclusão caso
+D: Incorreta, pois o aluno poderia chegar a essa conclusão caso
 considerasse que o eneágono regular possui 5 lados e não 9.
 
-2\) O centro do campo de futebol é marcado com um ponto no centro da
-linha de meio de campo (marca central), ao redor se traça um círculo com
-raio de 9,15 metros, com essas informações qual a área do círculo
-central de um campo de futebol aproximadamente?
+2\) O centro do campo de futebol é marcado com um ponto. Ao redor, 
+traçamos um círculo com raio de 9,15 metros. Com essas informações em mente, 
+qual é a área do círculo central de um campo de futebol, aproximadamente?
 
-Considere $\pi = 3$
+Considere $$\pi = 3$$
 
 a\) 54,1 m²
 
@@ -4482,25 +3851,18 @@ c\) 251 m²
 
 d\) 27,66 m²
 
-Resposta: C
+SAEB: Construir/desenhar figuras geométricas planas ou
+espaciais que satisfaçam condições dadas.
 
-BNCC: EF08MA18
+BNCC: EF08MA18 -- Reconhecer e construir figuras obtidas por composições de transformações geométricas (translação, reflexão e rotação), com o uso de instrumentos de desenho ou de softwares de geometria dinâmica.
 
-Habilidade Saeb
+A: Incorreta, poiso aluno chegaria a esse valor caso confundisse
+a fórmula da área do círculo com a fórmula do perímetro do círculo.
 
-*  Reconhecer circunferência/círculo como lugares geométricos, seus
-elementos (centro, raio, diâmetro, corda, arco, ângulo central, ângulo
-inscrito).
-
-A: incorreta, o aluno chegaria a esse valor caso confundisse
-a formula da área do círculo com a formula do perímetro do círculo.
-
-B: incorreta o aluno chegaria a essa conclusão, caso
+B: Incorreta, pois o aluno chegaria a essa conclusão caso se
 esquecesse do termo quadrático da expressão.
 
-C: Correta
-
-pois:
+C: Correta, pois
 
 $$A = \pi r^{2}$$
 
@@ -4510,13 +3872,13 @@ A= 3. 83,7225
 
 A= 251 m²
 
-D: incorreta, o aluno chegaria a esse resultado caso
-dividisse a expressão no final da formula ao invés de multiplicar.
+D: Incorreta, pois o aluno chegaria a esse resultado caso
+dividisse a expressão no final da fórmula ao invés de multiplicar.
 
-3\) Iolanda faz peças com tecidos. Uma das peças mais vendidas por ela é
-um porta joias com formato de um hexágono regular de 5 cm de lado, em
-que toda borda é revestida com uma fita. Quantos centímetros de fita, no
-mínimo, Iolanda precisa para confeccionar 20 porta joias desses?
+3\) Iolanda faz peças com tecidos. Uma das peças mais vendidas é
+um porta joias com formato de um hexágono regular de 5 cm de lado com
+a borda revestida com uma fita. Quantos centímetros de fita, no
+mínimo, Iolanda precisa para confeccionar 20 porta joias?
 
 a\) 6 metros
 
@@ -4526,38 +3888,31 @@ c\) 5 metros
 
 d\) 4 metros
 
-Resposta: A
+SAEB: Construir/desenhar figuras geométricas planas ou
+espaciais que satisfaçam condições dadas.
 
-BNCC: EF08MA18
+BNCC: EF08MA18 -- Reconhecer e construir figuras obtidas por composições de transformações geométricas (translação, reflexão e rotação), com o uso de instrumentos de desenho ou de softwares de geometria dinâmica.
 
-Habilidade Saeb:
-
-*  Relacionar o número de vértices, faces ou arestas de prismas ou
-pirâmides, em função do seu polígono da base.
-
-A: Correta
+A: Correta, pois:
 
 Hexágono regular = 6 lados
 
-\num{6} 5 = 30 cm por porta joias
+30 cm por porta joias
 
 20 . 30 cm = 600 cm de fita ou 6 metros de fita
 
-B: incorreta, o aluno pode chegar a esse valor confundindo
+B: Incorreta, pois o aluno pode chegar a esse valor confundindo
 cm com metros.
 
-C: incorreta, o aluno pode chegar a esse valor considerando
-que um hexágono regular contenha 5 lados
+C: Incorreta, pois o aluno pode chegar a esse valor considerando
+que um hexágono regular contenha 5 lados.
 
-D: incorreta, o aluno pode chegar a esse valor considerando
+D: Incorreta, pois o aluno pode chegar a esse valor considerando
 que um hexágono regular contenha 4 lados.
 
-# Módulo 11
+# 10. Triângulos
 
-BNCC: EF08MA14
-
-Habilidades Saeb:
-
+Habilidades do SAEB
 *  Identificar propriedades e relações existentes entre os elementos de
 um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
@@ -4588,6 +3943,9 @@ proporcionalidade abrangendo retas paralelas cortadas por transversais.
 *  Determinar o ponto médio de um segmento de reta ou a distância entre
 dois pontos quaisquer, dadas as coordenadas desses pontos no plano
 cartesiano.
+
+Habilidade da BNCC
+EF08MA14.
 
 Triângulos
 
@@ -4626,32 +3984,26 @@ Em relação às medidas dos ângulos, um triângulo é classificado como:
 
 Bissetriz de um triângulo
 
-Bissetriz de um triângulo é o segmento de reta que une um vértice do
-triângulo ao seu respectivo lado oposto, dividindo o ângulo desse
-vértice em dois ângulos de mesma medida.
+A bissetriz de um triângulo é o segmento de reta que une um de seus vértices ao seu respectivo lado oposto, dividindo o ângulo desse vértice em dois ângulos de mesma medida.
 
 Mediatriz
 
-Mediatriz de um lado de um triângulo é a reta perpendicular a esse lado
-que passa pelo seu ponto médio
+A mediatriz de um dos lados de um triângulo é a reta perpendicular a esse lado
+que passa pelo seu ponto médio.
 
-Todo triângulo possui três mediatrizes, que se encontram em um único
+Todo triângulo possui três mediatrizes que se encontram em um único
 ponto denominado circuncentro.
 
 Triângulos congruentes
 
-Dois triângulos são congruentes quando têm os lados e os ângulos
-correspondentes congruentes.
+Triângulos congruentes são triângulos que possuem os mesmos comprimentos de lados e os mesmos valores de ângulos
 
-Questões:
+\colorsec{Atividades}
 
-1\) Observe a figura abaixo
+1\) Observe a figura abaixo e indique o que se pede em cada alternativa.
 
 ![](./imgSAEB_8_MAT/media/image13.png){width="1.8833333333333333in"
 height="1.7504844706911635in"}
-
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
 
 a\) os vértices do triângulo;
 
@@ -4663,46 +4015,39 @@ d\) os ângulos externos do triângulo;
 
 e\) o lado oposto ao ângulo F
 
-Deixar o espaço de 3 linhas para resposta em cada item acima
-
-Respostas:
+R:
 
 a\) F, G e H
 
-b\) FH, FG E HG
+b\) FH, FG e HG
 
-c\) F, G E H
+c\) F, G e H
 
 d\) x, y e z
 
 e\) HG
 
-2\) No triângulo representado a seguir, AD é bissetriz em relação a BÂC.
-Determine o valor de x, em graus
+2\) No triângulo representado a seguir, AD é a bissetriz em relação a BÂC.
+Determine o valor de x, em graus.
 
 ![](./imgSAEB_8_MAT/media/image14.png){width="2.2083333333333335in"
 height="1.1875in"}
 
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+R:
 
-Deixar o espaço de 3 linhas para resposta.
+Considerando a soma dos ângulos internos, temos que:
 
-Resposta:
+52 + 48 = 100
 
-Considerando a soma dos ângulos internos temos que:
+Logo, o ângulo BÂC = 80,° e o valor de sua bissetriz é 40°.
 
-52+48 =100
+Assim, o ângulo x possui:
 
-Logo o ângulo BÂC= 80° e o valo de sua bissetriz 40°
+40 + 48 = 88
 
-Logo o ângulo x possui:
+180 - 88 = 92°.
 
-40+48=88
-
-180-88= 92°
-
-3\) Em cada caso, analise se é possível construir um triângulo com lado
+3\) Em cada caso descrito, analise se é possível construir um triângulo com lado
 BC de 5 cm e com as medidas dos ângulos indicadas.
 
 a\) medida do ângulo (B)= 110° e medida do ângulo (C) = 50°
@@ -4711,12 +4056,10 @@ b\) medida do ângulo (B) = 110° e medida do ângulo (C)= 70°
 
 c\) medida do ângulo (B) = 110° e medida do ângulo (C) = 90°
 
-Deixar o espaço de 3 linhas para resposta em cada item acima.
+R:
 
-Respostas:
-
-Considerando que a soma dos ângulos internos do triangulo deve ser 180°
-logo obtemos somando os ângulos das expressões que
+Considerando que a soma dos ângulos internos do triângulo deve ser 180, chegamos à
+conclusão de que
 
 a\) é possível
 
@@ -4728,28 +4071,23 @@ c\) não é possível
 retas, identifique se o ponto O é circuncentro, incentro, baricentro ou
 ortocentro.
 
+a\)
 ![](./imgSAEB_8_MAT/media/image15.png){width="1.1458333333333333in"
-height="1.0104166666666667in"}a)
+height="1.0104166666666667in"}
 
+b\)
 ![](./imgSAEB_8_MAT/media/image16.png){width="1.7291666666666667in"
-height="0.71875in"}b)
+height="0.71875in"}
 
+c\)
 ![](./imgSAEB_8_MAT/media/image17.png){width="1.84375in"
 height="1.125in"}
 
-c\)
-
+d\)
 ![](./imgSAEB_8_MAT/media/image18.png){width="1.9375in"
 height="1.0416666666666667in"}
 
-d\)
-
-Inserir imagens similares a essas, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
-
-Deixar o espaço de 3 linhas para resposta.
-
-Respostas:
+R:
 
 A\) Ortocentro
 
@@ -4761,29 +4099,29 @@ d\) Baricentro
 
 5\) Em cada item, verifique se os triângulos são congruentes:
 
+a\)
 ![](./imgSAEB_8_MAT/media/image19.png){width="3.5104166666666665in"
-height="1.4895833333333333in"}a)
+height="1.4895833333333333in"}
 
+b\)
 ![](./imgSAEB_8_MAT/media/image20.png){width="3.1666666666666665in"
-height="2.0395833333333333in"}b)
+height="2.0395833333333333in"}
 
+c\)
 ![](./imgSAEB_8_MAT/media/image21.png){width="2.3854166666666665in"
-height="1.4791666666666667in"}c)
+height="1.4791666666666667in"}
 
+d\)
 ![](./imgSAEB_8_MAT/media/image22.png){width="2.3541666666666665in"
-height="2.2395833333333335in"}d)
+height="2.2395833333333335in"}
 
+e\)
 ![](./imgSAEB_8_MAT/media/image23.png){width="2.7395833333333335in"
 height="1.5416666666666667in"}
 
-e\)
 
-Inserir imagens similares a essas, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
 
-Deixar o espaço de 5 linhas para resposta.
-
-Respostas:
+R:
 
 a\) São congruentes
 
@@ -4791,98 +4129,88 @@ b\) São congruentes
 
 c\) Não são congruentes
 
-d\) são congruentes
+d\) São congruentes
 
-e\) são congruentes
+e\) São congruentes
 
-6\) Calcule, em grau, as medidas dos ângulos dos triângulos abaixo:
+6\) Calcule, em graus, as medidas dos ângulos dos triângulos abaixo:
 
+a\)
 ![](./imgSAEB_8_MAT/media/image24.png){width="1.8645833333333333in"
-height="0.8958333333333334in"}a)
+height="0.8958333333333334in"}
 
+b\)
 ![](./imgSAEB_8_MAT/media/image25.png){width="1.40625in"
 height="1.4791666666666667in"}
 
-b\)
-
+c\)
 ![](./imgSAEB_8_MAT/media/image26.png){width="1.3020833333333333in"
 height="1.5625in"}
 
-c\)
-
+d\)
 ![](./imgSAEB_8_MAT/media/image27.png){width="2.3333333333333335in"
 height="0.9583333333333334in"}
 
-d\)
-
+e\)
 ![](./imgSAEB_8_MAT/media/image28.png){width="1.8333333333333333in"
 height="1.1875in"}
 
-e\)
-
+f\)
 ![](./imgSAEB_8_MAT/media/image29.png){width="2.0in"
 height="1.3020833333333333in"}
 
-f\)
 
-Inserir imagens similares a essas, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
-
-Em cada item acima deixar o espaço de 3 linhas para resposta.
-
-Respostas: Considerando que a soma de todos os ângulos internos de um
-triangulo deve ser 180° temos que
+R: 
+Considerando que a soma de todos os ângulos internos de um
+triangulo deve ser 180°, temos que
 
 a\)
 
-3x+2x+x = 180
+3x + 2x + x = 180
 
-6x =180
+6x = 180
 
-X=30
+X = 30
 
-Logos os respectivos ângulos são 30°,60° e 90°
+Logo, os respectivos ângulos são 30°,60° e 90°.
 
-b\) x+ x+30 + 60 = 180
+b\) 
 
-2x+90 =180
+x + x + 30 + 60 = 180
 
-2x=90
+2x + 90 = 180
 
-X=45
+2x = 90
 
-Logo os ângulos são respectivamente 45°, 75° e 60 °
+X = 45
+
+Logo, os ângulos são 45°, 75° e 60°.
 
 c\)
 
-x+x+20+2x =180
+x + x + 20 + 2x = 180
 
-4x+20 =180
+4x + 20 = 180
 
-4x=160
+4x = 160
 
-X=40
+X = 40
 
-Logo os ângulos são respectivamente 40°, 60° e 80°
+Logo, os ângulos são respectivamente 40°, 60° e 80°
 
-d\) a= 40°
+d\) a = 40°
 
-e\) a= 55°
+e\) a = 55°
 
-f\) a=108°
+f\) a = 108°
 
-7\) determine as medidas dos ângulos complementar e suplementar de cada
-ângulo a seguir:
+7\) determine as medidas do ângulo complementar e do ângulo suplementar de cada
+ilustração a seguir:
 
 ![](./imgSAEB_8_MAT/media/image30.png){width="4.816666666666666in"
 height="2.4837325021872267in"}
 
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
-
-Em cada item acima Deixar o espaço de 2 linhas para resposta.
-
-Respostas:
+R:
 
 a\) 48° e 138°
 
@@ -4896,45 +4224,35 @@ e\) 61° e 151°
 
 F\) 11° e 101°
 
-8\) Enzo ao folear um livro de engenharia de seu pai se deparou a
+8\) Ao folear um livro de engenharia de seu pai, Marcos se deparou com a
 seguinte imagem:
 
 ![](./imgSAEB_8_MAT/media/image31.png){width="1.4713353018372703in"
 height="1.4270833333333333in"}
 
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+Para encontrar o valor de x, quais os passos Enzo deve tomar?
 
-Para encontrar o valor de x quais os passos que Enzo deve tomar?
-
-Deixar o espaço de 3 linhas para resposta.
-
-Resposta:
+R:
 
 1° Observar que o ângulo destacado é igual a 90°
 
-2° montar a equação da seguinte forma
+2° montar a equação da seguinte forma:
 
-8x-4+5x+3=90
+8x - 4 + 5x + 3 = 90
 
-13x -- 1 = 90
+13x - 1 = 90
 
-13x= 91
+13x = 91
 
-X= 7
+X = 7
 
 9\) Calcule as medidas do ângulos destacados abaixo, considerando que as
-linhas em verde traçam a bissetriz de cada angulo
+linhas em verde traçam a bissetriz de cada ângulo.
 
 ![](./imgSAEB_8_MAT/media/image32.png){width="4.666666666666667in"
 height="3.0in"}
 
-Inserir imagens similares a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
-
-Deixar o espaço de 3 linhas para resposta.
-
-Respostas
+R:
 
 a\) 44°
 
@@ -4944,41 +4262,33 @@ c\) 62°
 
 d\) 70°
 
-10\) Calcule o valor de x nas figuras abaixo
+10\) Calcule o valor de x nas figuras abaixo.
 
+a\)
 ![](./imgSAEB_8_MAT/media/image33.png){width="1.9166666666666667in"
 height="1.6875in"}
 
-a\)
-
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
-
+b\)
 ![](./imgSAEB_8_MAT/media/image34.png){width="1.8020833333333333in"
-height="2.029166666666667in"}b)
+height="2.029166666666667in"}
 
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
-
-Deixar o espaço de 3 linhas para resposta em cada item acima
-
-Respostas:
+R:
 
 a\)
 
-5x+2 = 6x -4
+5x + 2 = 6x - 4
 
--x=-6
+-x = -6
 
-X=6
+X = 6
 
 b\)
 
-11x-16=8x+5
+11x - 16 = 8x + 5
 
-3x= 21
+3x = 21
 
-X=7
+X = 7
 
 \colorsec{Treino}
 
@@ -4992,36 +4302,20 @@ c\) às medianas do triângulo;
 
 d\) às bissetrizes do triângulo.
 
-Resposta: D
-
-BNCC: EF08MA14
-
-Habilidade Saeb:
-
-*  Resolver problemas que envolvam relações entre ângulos formados por
+SAEB: Resolver problemas que envolvam relações entre ângulos formados por
 retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
 
-A: incorreta, as relações no triangulo são ligeiramente
-semelhantes, logo por definição o aluno deverá ter o conhecimento
-aflorado para conseguir identificar o conceito de incentro, ao não
-compreender o conceito completo logo esta alternativa pode ser uma
-resposta viável.
+BNCC: EF08MA14 -- Demonstrar propriedades de quadriláteros por meio da identificação da congruência de triângulos.
 
-B: incorreta, as relações no triangulo são ligeiramente
-semelhantes, logo por definição o aluno deverá ter o conhecimento
-aflorado para conseguir identificar o conceito de incentro, ao não
-compreender o conceito completo logo esta alternativa pode ser uma
-resposta viável.
+A: Incorreta, pois essa definição de incentro está errada.
 
-C: incorreta, as relações no triangulo são ligeiramente
-semelhantes, logo por definição o aluno deverá ter o conhecimento
-aflorado para conseguir identificar o conceito de incentro, ao não
-compreender o conceito completo logo esta alternativa pode ser uma
-resposta viável.
+B: Incorreta, pois essa definição de incentro está errada.
 
-Resposta: Alternativa D as bissetrizes do triângulo.
+C: Incorreta, pois essa definição de incentro está errada.
+
+D: Correta, pois as bissetrizes do triângulo correspondem ao incentro.
 
 2\) O triângulo ABC é um triângulo retângulo em A e isósceles. O ponto O
 é o seu circuncentro, ou seja, é o centro da circunferência circunscrita
@@ -5031,44 +4325,33 @@ medida da hipotenusa?
 ![](./imgSAEB_8_MAT/media/image35.png){width="2.5625in"
 height="2.0208333333333335in"}
 
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
-
 a\) 9,3
 
-b)18,2
+b) 18,2
 
 c\) 18,6
 
 d\) 18,8
 
-Resposta: C
-
-BNCC: EF08MA14
-
-Habilidade Saeb
-
-*  Resolver problemas que envolvam relações entre ângulos formados por
+SAEB: Resolver problemas que envolvam relações entre ângulos formados por
 retas paralelas cortadas por uma transversal, ângulos internos ou
 externos de polígonos ou cevianas (altura, bissetriz, mediana,
 mediatriz) de polígonos.
 
-A: Incorreta, este seria o valor relativo e não a medida
-final.
+BNCC: EF08MA14 -- Demonstrar propriedades de quadriláteros por meio da identificação da congruência de triângulos.
 
-B: incorreta, ao errar o cálculo da multiplicação o valor
-chegará a esse.
+A: Incorreta, pois esse seria o valor relativo, e não a medida final.
 
-C: Correta pois:
+B: Incorreta, pois houve um erro na multiplicação.
 
-Se a altura relativa à hipotenusa BC mede 9,3 cm, a medida da hipotenusa
-será 18,6
+C: Correta, pois, se a altura relativa à hipotenusa BC mede 9,3 cm, a medida da hipotenusa
+será 18,6.
 
-D: Incorreta, o aluno chegara a esse conclusão ao errar o
+D: Incorreta, pois o aluno chegará a essa conclusão ao errar o
 cálculo de multiplicação dos termos destacados no enunciado.
 
-3\) Qual o perímetro de um triângulo com lados cujas medidas são 6 cm, 7
-cm e 8 cm
+3\) Qual é o perímetro de um triângulo com lados cujas medidas são 6 cm, 7
+cm e 8 cm?
 
 a\) 19 cm
 
@@ -5076,38 +4359,31 @@ b\) 20 cm
 
 c\) 21 cm
 
-d)22cm
+d\) 22cm
 
-Resposta: C
+R: C
 
-BNCC: EF08MA14
-
-Habilidade Saeb
-
-*  Identificar propriedades e relações existentes entre os elementos de
+SAEB: Identificar propriedades e relações existentes entre os elementos de
 um triângulo (condição de existência, relações de ordem entre as medidas
 dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
 determinação da medida de um ângulo interno ou externo)
 
-A: incorreta, o aluno chegara a essa conclusão se durante o
-cálculo da soma dos lados do triangulo o aluno equivocadamente chegar ao
-resultado com 2 números a menos.
+BNCC: EF08MA14 -- Demonstrar propriedades de quadriláteros por meio da identificação da congruência de triângulos.
 
-B: incorreta, o aluno chegara a essa conclusão se durante o
-cálculo da soma dos lados do triangulo o aluno equivocadamente chegar ao
-resultado com 1 número a menos.
+A: Incorreta, pois o aluno chegará a essa conclusão se, durante o
+cálculo da soma dos lados do triangulo, encontrar 2 números a menos.
 
-Alternativa: C Correta.
+B: Incorreta, pois o aluno chegará a essa conclusão se, durante o
+cálculo da soma dos lados do triangulo, encontrar 1 número a menos.
 
-Perímetro= soma dos lados
+C: Correta, pois:
 
-Logo 6 + 7 + 8 = 21cm
+Perímetro = soma dos lados, logo 6 + 7 + 8 = 21 cm
 
-D: incorreta, o aluno chegara a essa conclusão se durante o
-cálculo da soma dos lados do triangulo o aluno equivocadamente chegar ao
-resultado com 1 número a mais.
+D: Incorreta, pois o aluno chegará a essa conclusão se, durante o
+cálculo da soma dos lados do triangulo, encontrar 1 número a mais.
 
-# Módulo 12
+# 11. Representações espaciais
 
 *  Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
 representações bidimensionais (mapas, croquis etc.), plantas de
@@ -5115,198 +4391,164 @@ ambientes ou vistas, de acordo com condições dadas.
 
 Mapas
 
-Mapa é uma **representação gráfica de um espaço real, em uma superfície
-plana, como um papel, cartolina, madeira, pintura realiza em diferentes
-materiais, um mapa pode representar espaços reais contendo informações
-precisas e detalhadas sobre espaços do cotidiano.**
+Um mapa é uma representação gráfica ou diagrama de uma área geográfica específica, seja ela uma região, um país, um continente ou até mesmo o mundo inteiro. Ele é projetado para mostrar a localização relativa de diferentes elementos geográficos, como cidades, estradas, rios, montanhas e outros recursos naturais e artificiais.
 
-**Croquis**
+Os mapas podem ser apresentados em diferentes projeções, que são métodos de representação tridimensional da Terra em uma superfície bidimensional. As projeções ajudam a minimizar distorções e deformações causadas pela transferência de uma esfera para um plano.
 
-**São representações feitas a mão de um espaço que pode ser real ou não,
-como um vilarejo ilusório ou até mesmo uma descrição de um espaço que só
-o autor do croqui reconhece.**
+Croquis
 
-**Deslocamento**
+Um croqui é um tipo de representação gráfica ou esboço rápido e informal que visa capturar a essência visual ou a forma básica de algo, como um objeto, um local ou uma ideia. É geralmente um desenho simples, esquemático e sem muitos detalhes, que serve como um registro visual rápido e simplificado.
 
-**O deslocamento pode ser considero a distância percorrida por um objeto
-ou alguém durante um período: que pode ser representado pela formula:**
+Os croquis são frequentemente usados em diversas áreas, como arquitetura, design de interiores, design de moda, planejamento urbano, desenho industrial, arte e até mesmo em anotações pessoais. Eles são uma maneira rápida e eficiente de visualizar e comunicar ideias preliminares, conceitos ou esboços iniciais.
 
-Distancia = Velocidade média X tempo
+Deslocamento
 
-Questões
+O deslocamento pode ser considerado a distância percorrida por um objeto
+ou alguém durante um período de tempo. 
+Essa distância pode ser representada pela fórmula:
+
+Distância = Velocidade média X tempo
+
+\colorsec{Atividades}
 
 1\) Paulo está pretendendo fazer uma longa viagem para visitar seus
-pais, nos quais ele não os vê a muitos anos
+pais.
 
 ![](./imgSAEB_8_MAT/media/image36.png){width="2.7395209973753283in"
 height="2.725in"}
 
-<https://pixabay.com/pt/vectors/brasil-mapa-am%c3%a9rica-do-sul-estados-23553/>
-
-Inserir um mapa similar a esse, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+Disponível em: <https://pixabay.com/pt/vectors/brasil-mapa-am%c3%a9rica-do-sul-estados-23553/>. Acesso em: 23 maio 2023.
 
 Considerando que a casa de Paulo está demarcada com a esfera vermelha e
-a casa de seus pais com a esfera amarela, quantos estados no mínimo
-Paulo vai ter que atravessar para ver seus pais?
+a casa de seus pais com a esfera amarela, qual é o número mínimo de estados 
+que Paulo vai ter que atravessar para ver seus pais?
 
-Deixar o espaço de 2 linhas para resposta.
+R: Paulo atravessará, no mínimo, 4 estados até chegar à casa de seus pais.
 
-Resposta: Paulo no mínimo atravessará 4 estados até chegar na casa de
-seus pais.
-
-2\) A circunferência da terra possui 40 075 km de extensão, suponhamos
-que Júlio queria dar uma volta ao mundo em 80 dias com o seu barco, qual
-deslocamento diário aproximado que Júlio deverá percorrer para cumprir
+2\) A circunferência da terra possui 40.075 km de extensão. Suponhamos
+que Júlio queira dar uma volta ao mundo em 80 dias com o seu barco. Qual
+deslocamento diário aproximado que deverá percorrer para cumprir
 seu objetivo?
 
-Considerando que a terra possui 40 075 km de extensão e a viagem deverá
-durar no máximo 80 dias, logo:
+R:
 
-40 075km : 80 dias =aproximadamente 501 km por dia Júlio deverá navegar.
+Considerando que a terra possui 40.075 km de extensão e a viagem deverá
+durar, no máximo, 80 dias:
 
-3\) Francisco estava em casa, e resolveu convidar sua namorada para
-jantar fora em um famoso restaurante de sua cidade, para ficar mais
-fácil de sua namorada encontrar o restaurante Francisco mandou um mapa
-da trajetória da sua casa até o restaurante.
+40.075 km : 80 dias = aproximadamente 501 km por dia.
+
+3\) Francisco estava em casa e resolveu convidar sua namorada para
+jantar fora. Para facilitar o deslocamento, ele encaminhou um mapa da trajetória.
 
 ![](./imgSAEB_8_MAT/media/image37.png){width="3.55in"
 height="3.4059962817147857in"}
 
-<https://br.freepik.com/vetores-gratis/mapa-cidade-apartamento-desenho_1107608.htm#query=mapas&position=6&from_view=search&track=sph>
-adaptado.
+Disponível em: <https://br.freepik.com/vetores-gratis/mapa-cidade-apartamento-desenho_1107608.htm#query=mapas&position=6&from_view=search&track=sph>. Acesso em: 23 maio 2023. Adaptado.
 
-Inserir um mapa similar a esse, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+Caso ela não consiga abrir a imagem, como ele poderia descrever o caminho?
 
-Porem a namorada de Francisco não consegue abrir imagens em seu
-telefone, qual outra forma Francisco poderia descrever a trajetória de
-sua casa representada por uma estrela vermelha no mapa até o
-restaurante?
+R: 
+Ao sair da Residência de Francisco, pegue a primeira rua à
+direita, depois vire à esquerda, depois entre na rotatória e saia na
+primeira saída e siga em frente, depois vire à direita na avenida e
+finalmente vire à direita.
 
-Deixar o espaço de 3 linhas para resposta.
-
-Reposta: Ao sair da Residência de Francisco, pegue a primeira rua a
-direita, depois vire a esquerda, depois entre na rotatória e saia na
-primeira saída e siga em frente, depois vire a direita na avenida e
-finalmente vire a direita.
-
-4\) Em uma tarde de domingo João estava entediado em casa e resolveu dar
-um passeio da roda gigante de sua cidade.
+4\) Em uma tarde de domingo, João estava entediado e resolveu dar
+um passeio na roda gigante de sua cidade.
 
 ![](./imgSAEB_8_MAT/media/image38.png){width="2.2in" height="2.2in"}
 
-<https://br.freepik.com/vetores-gratis/mao-desenhado-cidade-mapa-ferris-roda_1106040.htm#query=mapa%20feito%20a%20m%C3%A3o&position=6&from_view=search&track=ais>
+Disponível em: <https://br.freepik.com/vetores-gratis/mao-desenhado-cidade-mapa-ferris-roda_1106040.htm#query=mapa%20feito%20a%20m%C3%A3o&position=6&from_view=search&track=ais>. Acesso em 23 maio 2023.
 
-Inserir um mapa similar a esse, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+Considerando que João mora na casa marcada com a seta no mapa,
+qual trajeto até a roda gigante pode ser traçado?
 
-Considerando que João mora na casa em que a seta está apontada no mapa
-qual trajeto da casa de João até a roda gigante podem ser traçados?
+R:
 
-Deixar o espaço de 4 linhas para resposta.
-
-Resposta:
-
-João pode Chegar até a roda gigante por dois caminhos, o primeiro
-pegando a estrada a direita da sua casa, seguindo nela até virar à
+João pode chegar até a roda gigante por dois caminhos. O primeiro,
+pegando a estrada à direita da sua casa e seguindo nela até virar à
 esquerda na estrada da roda gigante.
 
-O segundo caminho é passando pela ponte, no qual João terá que pegar a
-estrada a direita de sua casa, atravessar pela ponte e seguir na
-estrada, virar à direita após a travessia pela ponte e finalmente virar
+O segundo, passando pela ponte à direita de sua casa, atravessando pela ponte 
+e seguindo na estrada, virando à direita após atravessar a ponte e finalmente virar
 à esquerda.
 
-5\) Iuri Gagarin, foi o primeiro homem a pisar na lua, considerando que
-a distância entre a terra e a lua é de 384 400 km, qual foi o
-deslocamento total de Iuri nessa viagem?
+5\) Considerando que a distância entre a terra e a lua é de 384.400 km, qual é o
+deslocamento total percorrido por um astronauta que pisa no satélite natural e retorna ao planeta?
 
-Deixar o espaço de 3 linhas para resposta.
+R: 384.400 na ida + 384.400 na volta = deslocamento total = 768.400 km.
 
-Resposta: 384 400 na ida + 384 400 na volta = deslocamento total =768
-400 km
-
-6\) Lia está fazendo um test drive com um carro de uma concessionária,
-ao sair recebeu as seguintes dicas do GPS:
+6\) Lia está fazendo um test drive com um carro de uma concessionária.
+Ao sair, recebeu as seguintes dicas do GPS:
 
 Siga em frente 100m
 
-Vire a esquerda 200m
+Vire à esquerda 200m
 
-Vire a esquerda 200 m
+Vire à esquerda 200 m
 
-Vire a esquerda 200 m
+Vire à esquerda 200 m
 
-Vire a esquerda 100 m
+Vire à esquerda 100 m
 
-Ao receber estas informações pode se afirmar que Lia:
+Ao receber essas informações, pode-se afirmar que Lia:
 
-Deixar o espaço de 1 linha para resposta.
+R:
 
-Voltou a concessionaria.
+Voltou à concessionária.
 
-7\) Marcelo e amigos estavam indo para praia, no meio do caminho
-perceberam que esqueceram a bagagem em suas casas, assim resolveram
-voltar para pega -- las e enfim seguir viagem.
+7\) Marcelo e amigos estavam indo para praia. No meio do caminho,
+perceberam que esqueceram a bagagem em casa. Assim, resolveram
+voltar para pegá-la e, enfim, seguir viagem.
 
-Considerando que a distância de suas casas e a praia seja de 300 km,
-qual o deslocamento total de Marcelo e seus amigos até chegarem a praia?
+Considerando que a distância entre a casa e a praia seja de 300 km,
+qual é o deslocamento total de Marcelo e seus amigos até chegarem à praia?
 
-Deixar o espaço de 3 linhas para resposta.
+R:
 
-Considerando que já estavam na metade do caminho, percorreram 150 km,
-somando mais a viagem completa de 300km, temos que 150 km + 300 km = 450
-km
+Considerando que já estavam na metade do caminho, percorreram 150 km + a viagem completa de 300km, ou seja, temos que 150 km + 300 km = 450 km.
 
-8\) Cléber é motorista de uma linha de ônibus de uma metrópole
-brasileira, a sua linha anda por 3 bairros diferentes em um percurso
-total de 32 km, sabendo que Cléber trabalha das 6 horas da manhã até as
-16 horas, e realiza esse percurso 4 vezes, qual o descolamento de Cléber
-no trabalho diariamente?
+8\) Cléber é motorista de ônibus de uma metrópole brasileira. 
+Sua linha anda por 3 bairros diferentes em um percurso
+total de 32 km. Sabendo que Cléber trabalha das 6 horas da manhã até as
+16 horas e realiza esse percurso 4 vezes, qual é o descolamento diário de Cléber
+no trabalho?
 
-Deixar o espaço de 3 linhas para resposta.
-
-Resposta: 32 km cada percurso, 4 vezes Cléber realiza o percurso por
-dia, temos que
+R: 32 km cada percurso, Cléber realiza o percurso 4 vezes por
+dia; logo, temos que
 
 4 x 32 km = 128 km por dia.
 
-9\) Marina vai ao trabalho de carro, sua jornada de trabalho é de
-segunda-feira á sexta-feira, a distância da casa de marina até seu
-trabalho é de 12 km, sabendo que seu carro gasta 0, 50 centavos de
-gasolina a cada 1 km, qual o valor total que marina gasta com
-combustível durante a semana?
+9\) Marina vai ao trabalho de carro de segunda a sexta. A distância da casa 
+de marina até seu trabalho é de 12 km. Sabendo que seu carro gasta 0,50 centavos de
+gasolina a cada 1 km, qual é o valor total que Marina gasta com combustível durante a semana?
 
-Deixar o espaço de 3 linhas para resposta.
+R: 12 km para ir e 12 km para voltar = 24 km diários
 
-Resposta: 12 km para ir e 12 km para voltar = 24 km diários
+Logo, se a cada 1 km Marina gasta 0,50 centavos, temos que, em 24 km, ela gasta
+R$ 12,00.
 
-Logo se a cada 1 km marina gasta 0, 50 centavos temos que em 24 km gasta
-12 reais
+Contando 5 dias trabalhados na semana, 12 x 5 = R$60,00 por semana.
 
-Contando 5 dias trabalhados na semana 12 x 5 = 60 reais por semana
-marina gasta com combustível
-
-10 ) Em um livro infantil um menino sai vagando pelo espaço, de planeta
-em planeta caçando novas aventuras , considerando que durante a história
-do livro ele tenha visitado 8 planetas e que a distância de entre cada
-planeta seja de 10^5^ km qual o deslocamento que o menino da história
+10\) Em um livro infantil, um menino sai vagando pelo espaço, de planeta
+em planeta, caçando novas aventuras. Considerando que, durante a história
+do livro, ele tenha visitado 8 planetas, e que a distância entre cada
+planeta seja de $$10^5$$ km, qual foi o deslocamento que o menino da história
 realizou?
 
-Deixar o espaço de 3 linhas para resposta.
+R:
 
-Resposta Considerando 8 planetas temos que:
+Considerando 8 planetas, temos que:
 
-8 x 10^5^
+8 x $$10^5$$
 
-8 x 100 000 = 800 000 km foi o deslocamento.
+8 x 100.000 = 800.000 km
 
 \colorsec{Treino}
 
-1\) Um jogador de Futebol em cada partida corre em média 8 km,
-considerando que um campeonato tenha 38 rodadas, e que esse jogador
-jogue todas as partidas, qual deslocamento total desse jogador, durante
-o campeonato:
+1\) Um jogador de Futebol corre em média 8 km por partida.
+Considerando que um campeonato tenha 38 rodadas e que esse jogador
+jogue todas as partidas, qual é deslocamento total durante o campeonato?
 
 a\) 8 km por campeonato
 
@@ -5316,74 +4558,63 @@ c\) 30,4 km por campeonato
 
 d\) 304 km por campeonato
 
-Resposta: D
-
-Habilidade Saeb:
-
-*  Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
+Habilidade SAEB: Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
 representações bidimensionais (mapas, croquis etc.), plantas de
 ambientes ou vistas, de acordo com condições dadas.
 
-A: incorreta, ao considerar que o enunciado pede o valor de
-km por partida o aluno pode chegar a essa conclusão.
+A: Incorreta, pois, ao considerar que o enunciado pede o valor de
+km por partida, o aluno pode chegar a essa conclusão.
 
-B: incorreta, o aluno ao considerar a quantidade de rodadas
-ao invés da quantidade de km percorridos, pode chegar a esse valor
+B: Incorreta, pois ao considerar a quantidade de rodadas
+ao invés da quantidade de km percorridos, o aluno pode chegar a esse valor.
 
-C: incorreta, ao deslocar erroneamente uma virgula para
-esquerda o aluno pode chegar a esse resultado erroneamente.
+C: Incorreta, pois, ao deslocar erroneamente uma vírgula para a
+esquerda, o aluno pode chegar a esse resultado.
 
-D: Correta pois
+D: Correta, pois
 
-Resposta: 8km x 38 partidas = 304 km por campeonato
+8 km x 38 partidas = 304 km por campeonato.
 
-2\) A velocidade de uma baleia azul pode chegar a 50 km/h, considerando
+2\) A velocidade de uma baleia azul pode chegar a 50 km/h. Considerando
 que uma baleia esteja a navegar pelo mar em sua velocidade máxima, e que
-nade por 8 horas ininterruptas, qual o deslocamento total dessa baleia?
+nade por 8 horas ininterruptas, qual é seu deslocamento total?
 
 a\) 40 km
 
-b\) 4 000 km
+b\) 4.000 km
 
 c\) 400 km
 
-d\) 40 000 km
+d\) 40.000 km
 
-Resposta: C
-
-Habilidade Saeb:
-
-*  Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
+SAEB: Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
 representações bidimensionais (mapas, croquis etc.), plantas de
 ambientes ou vistas, de acordo com condições dadas.
 
-A: incorreta, pois esse seria o valor caso o aluno
-realizasse incorretamente a multiplicação esquecendo um "zero" da
-expressão.
+A: Incorreta, pois esse seria o valor caso o aluno
+realizasse incorretamente a multiplicação.
 
-B: incorreta, pois esse seria o valor caso o aluno
-realizasse incorretamente a multiplicação adicionando um "zero" na
+B: Incorreta, pois esse seria o valor caso o aluno
+realizasse incorretamente a multiplicação, adicionando um "zero" na
 expressão.
 
 C: Correta pois:
 
-50 km \-\-\-\-\-\-\-\-\-\-\-\-- 1 hora
-
-X \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 8 horas
+$$\frac {50}{x} = \frac {1}{8}$$
 
 50 . 8 = x
 
-400 km essa baleia irá percorrer.
+400 km.
 
-D: incorreta, pois esse seria o valor caso o aluno
-realizasse incorretamente a multiplicação adicionando dois "zeros" na
+D: Incorreta, pois esse seria o valor caso o aluno
+realizasse incorretamente a multiplicação, adicionando dois "zeros" na
 expressão.
 
-3\) Charles é um botânico de renome, e ao sair para realizar pesquisas
-em uma floresta acabou se perdendo no meio da mata, Charles também
+3\) Charles é um botânico de renome e, ao sair para realizar pesquisas
+em uma floresta, acabou se perdendo no meio da mata. Ele também
 esqueceu seus equipamentos de navegação em seu laboratório, e a única
-coisa que se lembra e que a cidade mais próxima fica ao rumo do pôr sol,
-para chegar a cidade mais próxima, para qual sentido Charles deve andar?
+coisa de que se lembra é que a cidade mais próxima fica ao rumo do pôr sol.
+Para chegar à cidade mais próxima, para qual sentido Charles deve andar?
 
 a\) Norte
 
@@ -5393,82 +4624,70 @@ c\) Leste
 
 d\) Oeste
 
-Resposta: D
-
-Habilidade Saeb:
-
-*  Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
+SAEB: Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
 representações bidimensionais (mapas, croquis etc.), plantas de
 ambientes ou vistas, de acordo com condições dadas.
 
-A: Incorreta, como a questão ela requer que o aluno tenha um
-conhecimento básico sobre pontos cardeais o aluno pode considerar
-correta esta alternativa caso compreenda que o pôr do sol fique ao Norte
-e não ao Oeste.
+A: Incorreta, pois o aluno pode se confundir em relação aos pontos cardeais.
 
-B: Incorreta, como a questão ela requer que o aluno tenha um
-conhecimento básico sobre pontos cardeais o aluno pode considerar
-correta esta alternativa caso compreenda que o pôr do sol fique ao sul e
-não ao Oeste.
+B: Incorreta, pois o aluno pode se confundir em relação aos pontos cardeais.
 
-C: Incorreta, como a questão ela requer que o aluno tenha um
-conhecimento básico sobre pontos cardeais o aluno pode considerar
-correta esta alternativa caso compreenda que o pôr do sol fique ao Leste
-e não ao Oeste.
+C: Incorreta, pois o aluno pode se confundir em relação aos pontos cardeais.
 
-D: Correta
+D: Correta, pois Charles deve seguir rumo ao Oeste.
 
-Charles deve seguir rumo ao Oeste.
+# 12. Introdução à Estatística
 
-# Módulo 13
-
-BNCC: EF08MA25.
-
-Habilidades Saeb:
-
+Habilidades do SAEB
 *  Identificar os indivíduos (universo ou população-alvo da pesquisa),
 as variáveis e os tipos de variáveis (quantitativas ou categóricas) em
-um conjunto de dados. - Representar ou associar os dados de uma pesquisa
+um conjunto de dados.
+
+* Representar ou associar os dados de uma pesquisa
 estatística ou de um levantamento em listas, tabelas (simples ou de
 dupla entrada) ou gráficos (barras simples ou agrupadas, colunas simples
-ou agrupadas, pictóricos, de linhas, de setores, ou em histograma). -
-Inferir a finalidade da realização de uma pesquisa estatística ou de um
+ou agrupadas, pictóricos, de linhas, de setores, ou em histograma).
+
+* Inferir a finalidade da realização de uma pesquisa estatística ou de um
 levantamento, dada uma tabela (simples ou de dupla entrada) ou gráfico
 (barras simples ou agrupadas, colunas simples ou agrupadas, pictóricos,
-de linhas, de setores ou em histograma) com os dados dessa pesquisa. -
-Interpretar o significado das medidas de tendência central (média
-aritmética simples, moda e mediana) ou da amplitude. - Calcular os
-valores de medidas de tendência central de uma pesquisa estatística
-(média aritmética simples, moda ou mediana). - Resolver problemas que
-envolvam dados estatísticos apresentados em tabelas (simples ou de dupla
-entrada) ou gráficos (barras simples ou agrupadas, colunas simples ou
-agrupadas, pictóricos, de linhas, de setores ou em histograma). -
-Argumentar ou analisar argumentações/conclusões com base nos dados
+de linhas, de setores ou em histograma) com os dados dessa pesquisa. 
+* Interpretar o significado das medidas de tendência central (média
+aritmética simples, moda e mediana) ou da amplitude.
+
+* Calcular os valores de medidas de tendência central de uma pesquisa estatística
+(média aritmética simples, moda ou mediana). 
+
+* Resolver problemas que envolvam dados estatísticos apresentados em tabelas (simples ou 
+de dupla entrada) ou gráficos (barras simples ou agrupadas, colunas simples ou agrupadas, pictóricos, de linhas, de setores ou em histograma).
+
+* Argumentar ou analisar argumentações/conclusões com base nos dados
 apresentados em tabelas (simples ou de dupla entrada) ou gráficos
 (barras simples ou agrupadas, colunas simples ou agrupadas, pictóricos,
-de linhas, de setores ou em histograma). - Explicar/descrever os passos
-para a realização de uma pesquisa estatística ou de um levantamento.
+de linhas, de setores ou em histograma).
+
+* Explicar/descrever os passos para a realização de uma pesquisa estatística ou de um levantamento.
+
+Habilidade da BNCC 
+EF08MA25
 
 Conceitos básicos da Estatística
 
-A Estatística é uma parte da Matemática em que são estudados métodos
-para coleta, organização e análise de dados de diferentes áreas, visando
-a tomada de decisões. Realizamos uma pesquisa estatística quando
-pretendemos estudar alguma característica de determinado conjunto de
-elementos, que pode ser de pessoas, resultados, objetos etc. O conjunto
-de todos os elementos que têm a característica do interesse da pesquisa
-é chamado população. Quando temos muitos elementos na população que
-queremos estudar, podemos realizar a pesquisa por meio de uma amostra
-que represente essa população.
+A Estatística é uma área da Matemática voltada ao estudo de métodos
+para coleta, organização e análise de dados, visando à tomada de decisões. 
+Realizamos uma pesquisa estatística quando pretendemos estudar alguma 
+característica de determinado conjunto de elementos. O conjunto de todos os 
+elementos analisados na pesquisa é denominado população. 
+Quando temos muitos elementos na população que queremos estudar, podemos
+selecionar uma amostra representativa.
 
-População é o conjunto de elementos que queremos pesquisar e apresenta
+População é o conjunto de elementos que queremos pesquisar e que apresentam
 alguma característica comum.
 
-Amostra é um subconjunto, uma parte da população, que apresenta as
-mesmas características da população.
+Amostra é um subconjunto da população.
 
-Algumas pesquisas necessitam que toda a população seja investigada. Esse
-tipo de pesquisa é chamada censitária.
+Algumas pesquisas exigem a investigação de toda uma população. Esse
+tipo de pesquisa é denominada censitária.
 
 Amostra casual simples
 
@@ -5479,7 +4698,7 @@ entre uma quantidade estabelecida previamente.
 Amostra sistemática
 
 No caso da amostra sistemática, os elementos da população a ser estudada
-já se encontram ordenados. São exemplos: produtos de uma linha de
+já se encontram ordenados. Por exemplo: produtos de uma linha de
 produção, prontuários médicos, prédios de uma rua etc. Para a seleção
 dos elementos que farão parte da amostra, é elaborado um sistema pelo
 pesquisador.
@@ -5487,27 +4706,24 @@ pesquisador.
 Amostra proporcional estratificada
 
 Na amostra estratificada, a população é dividida em subpopulações
-chamadas estratos. Esse tipo de amostra é realizado quando outras
+denominadas estratos. Esse tipo de amostra é realizado quando outras
 características da população devem ser levadas em conta. Por exemplo,
 nas pesquisas de intenção de voto para presidente do Brasil, a população
-são os eleitores brasileiros, mas a região do país onde reside, o sexo,
-a faixa etária e a faixa de renda do eleitor são importantes para essa
-pesquisa. Assim, o pesquisador deve selecionar uma amostra aleatória de
-cada estrato.
+são os eleitores brasileiros, mas a região do país onde eles residem, seu 
+sexo, sua faixa etária e sua faixa de renda são dados importantes. Assim, 
+o pesquisador deve selecionar uma amostra aleatória de cada estrato.
 
 Variáveis
 
-As variáveis são as características que estão sendo analisadas em uma
-amostra ou população. Podem assumir valores numéricos e não numéricos.
-São classificadas em qualitativas e quantitativas.
+As variáveis são as características que analisadas em uma
+amostra ou população. Elas podem assumir valores numéricos e não numéricos,
+sendo classificadas em qualitativas e quantitativas.
 
 Organização dos dados
 
 Para organizar os dados obtidos por meio de uma pesquisa, podemos
 construir tabelas e gráficos. O tipo de tabela e de gráfico que vamos
-utilizar depende da variável que está sendo analisada
-
-MEDIDAS EM ESTATÍSTICA
+utilizar é condicionado pela variável analisada.
 
 Média aritmética
 
@@ -5522,37 +4738,28 @@ maior frequência.
 Mediana
 
 A mediana é a medida estatística que divide o conjunto de dados em duas
-partes com a mesma quantidade de termos, na qual a primeira parte
-apresenta valores menores ou iguais a ela e, na segunda parte, valores
-maiores ou iguais a ela.
+partes com a mesma quantidade de termos. Enquanto a primeira parte apresenta 
+valores menores ou iguais a ela, a segunda parte é formada por valores maiores.
 
-Questões:
+\colorsec{Atividades}
 
-1\) Camila uma empresária do ramo de brinquedos estava analisando o
-gráfico de vendas do primeiro quadrimestre de 2022,
+1\) Leia o gráfico a seguir e responda.
 
 ![](./imgSAEB_8_MAT/media/image39.png){width="5.90625in"
 height="3.8645833333333335in"}
 
-Inserir um gráfico similar a esse, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+a\) O mês em que houve a maior quantidade de brinquedos produzidos foi:
 
-Ao Analisar o gráfico Camila verificou que:
-
-a\) O mês que houve a maior quantidade de brinquedos produzidos foi:
-
-b\) O mês que houve a menor quantidade de produção:
+b\) O mês em que houve a menor quantidade de produção:
 
 c\) O brinquedo mais produzido foi:
 
-d\) O brinquedo que menos foi produzido foi:
+d\) O brinquedo menos foi produzido foi:
 
 e\) Quantos brinquedos ao total a empresa de Camila produziu no primeiro
 quadrimestre de 2022?
 
-Deixar o espaço de 1 linha para resposta em cada item acima.
-
-Respostas:
+R:
 
 a\) Abril
 
@@ -5562,184 +4769,128 @@ c\) Os brinquedos mais produzidos foram as Bonecas
 
 d\) Os brinquedos menos reproduzidos foram as bolas
 
-e\) Realizando a soma dos dados do gráfico obtemos que a empresa de
-Camila fabricou ao total de 38 400 brinquedos
+e\) Realizando a soma dos dados do gráfico, obtemos que a empresa de
+Camila fabricou um total de 38.400 brinquedos.
 
 2\) Ronaldo resolveu colocar em um gráfico todos os custos mensais de
-sua casa
+sua casa.
 
 ![](./imgSAEB_8_MAT/media/image40.png){width="5.308333333333334in"
 height="3.4138396762904635in"}
 
-Inserir um gráfico similar a esse, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+Ao analisar o gráfico, responda.
 
-Ao analisar o gráfico responda
-
-a\) Ronaldo comprou um ar condicionado que consome muita energia, qual
+a\) Ronaldo comprou um ar-condicionado que consome muita energia. Qual
 foi o mês da compra?
 
-b\) A filha de Ronaldo Contratou um plano adicional de internet, qual
+b\) A filha de Ronaldo contratou um plano adicional de internet. Qual
 foi o mês da aquisição?
 
-c\) Qual a conta que nunca teve uma grande alta de valor?
+c\) Qual conta nunca apresentou uma grande alta de valor?
 
 d\) Em que mês Ronaldo pagou o menor valor de contas na sua casa?
 
-Deixar o espaço de 1 linha para resposta em cada item acima
+R:
 
-Respostas:
+a\) Entre o mês de janeiro e fevereiro.
 
-a\) Entre o mês de janeiro e fevereiro
+b\) No mês de maio.
 
-b\) No mês de maio
+c\) A conta de Água.
 
-c\) A conta de Água
+d\) Janeiro.
 
-d\) Janeiro
-
-3\) Poliana está passando por uma reeducação financeira, onde começou a
-dividir seus gastos de forma que ainda sobre um dinheiro livre para
-aproveitar
+3\) Poliana está passando por uma reeducação financeira e começou a
+dividir seus gastos de forma que ainda sobre um dinheiro para
+aproveitar.
 
 ![](./imgSAEB_8_MAT/media/image41.png){width="3.65in"
 height="2.9817913385826773in"}
 
-Inserir um gráfico similar a esse, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+Considerando que o salário mensal de Poliana é R$3.000,00, responda:
 
-Considerando que o Salário mensal de Poliana é 3 000 reais responda:
+a\) O valor destinado mensalmente para as contas da casa.
 
-a\) O valor destinado mensalmente para as contas da casa
+b\) O valor destinado mensalmente para despesas no mercado.
 
-b\) O valor destinado mensalmente para despesas no mercado
+c\) O valor destinado mensalmente para investimentos.
 
-c\) O valor destinado mensalmente para investimentos
+d\) Poliana quer comprar um carro novo no valor de R$30.000,00.
+Se Poliana utilizar a parte de investimentos do seu salário, quantos
+meses demorará até comprar o carro?.
 
-d\) Poliana quer comprar um carro novo no valor de R\$30 000,00 reais,
-se Poliana utilizar da parte de investimentos do seu salário, quantos
-meses demorará para Poliana comprar o carro?
+R:
 
-Deixar o espaço de 1 linha para resposta em cada item acima
+a\) 3.000 . 0,53 = R$ 1.590,00
 
-Respostas:
+b\) 3.000 . 0,25 = R$ 750,00
 
-a\) 3 000 . 0,53 = R\$ 1 590,00
+c\) 3.000 . 0,12 = R$ 360,00
 
-b\) 3 000 . 0,25 = R\$ 750,00
+d\) 30.000 : 360 = 84 meses
 
-c\) 3 000 . 0,12 = R\$ 360,00
+4\) Um professor realizou uma pesquisa com sua turma de matemática para identificar a altura dos estudantes. Os dados coletados foram os seguintes (em centímetros):
 
-d\) 30 000 : 360 = 84 meses
+150, 165, 160, 155, 170, 160, 160, 165, 155, 165
 
-4\) O gráfico abaixo demonstra os títulos relevantes de toda a história
-de 4 times de futebol.
+Calcule a média aritmética simples, a moda e a mediana das alturas dos estudantes.
 
-[\[CHART\]]{.chart}
+R:
 
-Inserir um gráfico similar a esse, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+Para calcular a média aritmética simples, somamos todos os valores e dividimos pela quantidade de dados. No caso:
 
-Sobre o gráfico podemos afirmar que:
+Média aritmética simples = (150 + 165 + 160 + 155 + 170 + 160 + 160 + 165 + 155 + 165) / 10 = 159,5 cm
 
-a\) O time que mais ganhou campeonatos estaduais foi:
+A média aritmética simples das alturas dos estudantes é 159,5 cm.
 
-b\) Os times que mais ganharam torneios a nível nacional foram:
+Para encontrar a moda, identificamos o valor que mais se repete. Nesse caso, temos duas alturas que se repetem mais vezes, que são 160 cm e 165 cm, ambas aparecendo três vezes. Portanto, a moda das alturas dos estudantes é 160 cm e 165 cm.
 
-c\) O time que menos ganhou títulos a nível continental foi:
+Para encontrar a mediana, ordenamos os valores em ordem crescente. Assim, temos:
 
-d\) Qual o único time que ainda não ganhou nenhum campeonato a nível
-mundial:
+150, 155, 155, 160, 160, 160, 165, 165, 165, 170
 
-Deixar o espaço de 1 linha para resposta em cada item acima
+Como temos um número ímpar de dados (10), a mediana será o valor central. Nesse caso, a mediana das alturas dos estudantes é 160 cm.
 
-Respostas:
+Portanto, os valores de medidas de tendência central para as alturas dos estudantes são:
 
-a\) Time B
+Média aritmética simples: 159,5 cm
+Moda: 160 cm e 165 cm
+Mediana: 160 cm
 
-b\) Times A e C
+5\) Um professor deseja calcular a média aritmética das notas finais de seus alunos em uma disciplina. Ele possui os seguintes dados das notas dos alunos: 7, 8, 6, 9, 5, 8, 7, 6.
 
-c\) Time B
+Calcule a média aritmética simples das notas dos alunos e explique a resposta.
 
-d\) Time C
+Resolução:
 
-5\) Uma empresa de fornecimento de água contem um controle rigoroso
-quanto a quantidade de agua captada pelos seu reservatórios, nos últimos
-anos a empresa captou as seguintes informações sobre um dos seu maiores
-reservatórios
+Para calcular a média aritmética simples das notas dos alunos, devemos somar todas as notas e dividir pelo número total de alunos.
 
-[\[CHART\]]{.chart}
+Passo 1: Somar as notas
+7 + 8 + 6 + 9 + 5 + 8 + 7 + 6 = 56
 
-Inserir um gráfico similar a esse, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+Passo 2: Dividir pelo número total de alunos
+56 / 8 = 7
 
-Todo primeiro dia do Ano está empresa faz um relatório no nível deste
-reservatório, observando o gráfico, quais foram os Anos que houve a
-maior falta de chuvas?
+A média aritmética simples das notas dos alunos é igual a 7.
 
-Deixar o espaço de 1 linha para resposta em cada item acima
+6\) Uma empresa está realizando uma pesquisa sobre o nível de satisfação
+de seus funcionários. Para isso, foi feito um levantamento com 35 colaboradores
+dos 300 registrados na empresa. Com base nas informações anteriores, responda:
 
-Resposta:
+a\) Qual é a população dessa pesquisa?
 
-Os anos que menos houveram chuvas segundo o gráfico foram em 2014 e
-2015.
+b\) Qual é a sua amostra?
 
-6\) Três amigos resolveram fazer um teste em um clube de futebol, ao
-final do teste um analista de desempenho que estava observando os 3
-amigos fez um gráfico com algumas características de cada um
+R:
 
-[\[CHART\]]{.chart}
+a\) Os 300 funcionários registrados.
 
-Inserir um gráfico similar a esse, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+b\) 35 funcionários.
 
-Com o relatório do analista em mãos o clube pode tomar algumas
-decisões\...
+7\) O quadro mostra algumas notas de matemática de alguns alunos do 8°. ano.
 
-a\) Caso o clube queira contratar o Jogador mais veloz, qual deve
-escolher?
-
-b\) Caso o clube queira contratar o Jogador com melhor passe, qual deve
-escolher?
-
-c\) Caso o clube queira contratar o Jogador mais forte, qual deve
-escolher?
-
-d\) Considerando que a temporada para o clube seja longa e que o clube
-precise contratar o jogar que tenha a maior resistência, qual deve ser a
-escolha?
-
-Deixar o espaço de 1 linha para resposta em cada item acima
-
-Respostas:
-
-a\) O Clube deve escolher Joãozinho
-
-b\) O Clube deve escolher Pedrinho
-
-c\) O Clube deve escolher Clebinho
-
-d\) O Clube deve escolher Clebinho
-
-7\) Uma empresa está realizando uma pesquisa sobre o nível de satisfação
-de seus funcionários, para isso, pesquisaram 35 funcionários dos 300
-registrados na empresa, com base nas informações anteriores responda:
-
-a\) Qual a população dessa pesquisa?
-
-b\) Qual a sua amostra?
-
-Deixar o espaço de 1 linha para resposta em cada item acima
-
-Resposta:
-
-a\) os 300 funcionários registrados
-
-b\) 35 funcionários
-
-8\) O quadro mostra algumas notas de matemática de alguns alunos do 8°
-ano de uma escola
-
+  %Paulo, criar uma tabela com as informações abaixo:
+  
   Notas da disciplina Matemática                                             
   -------------------------------- ------------- ------------- ------------- -------------
   Alunos                           1° bimestre   2° bimestre   3° bimestre   4° bimestre
@@ -5749,72 +4900,71 @@ ano de uma escola
   José                             10            8             8             8
   Renata                           5             4             5             3
 
-Inserir uma tabela similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+Sobre as notas, responda:
 
-Sobre as notas responda:
-
-a\) Qual a média aritmética das notas que Adriana obteve nos 4
+a\) Qual é a média aritmética das notas que Adriana obteve nos 4
 bimestres?
 
-b\) Qual a média aritmética das notas que Bruno obteve nos 4 bimestres?
+b\) Qual é a média aritmética das notas que Bruno obteve nos 4 bimestres?
 
-c\) Qual a média aritmética das notas que Carla obteve nos 4 bimestres?
+c\) Qual é a média aritmética das notas que Carla obteve nos 4 bimestres?
 
-d\) Qual a média aritmética das notas que José obteve nos 4 bimestres?
+d\) Qual é a média aritmética das notas que José obteve nos 4 bimestres?
 
-e\) Qual a média aritmética das notas que Renata obteve nos 4 bimestres?
+e\) Qual é a média aritmética das notas que Renata obteve nos 4 bimestres?
 
-f\) Sabendo que para ser aprovado na disciplina a média das notas dos 4
-bimestres devem ser maior que 6, quais alunos foram aprovados? E Quais
+f\) Sabendo que, para ser aprovado na disciplina, a média das notas dos 4
+bimestres devem ser maior que 6, quais alunos foram aprovados? Quais foram
 reprovados?
 
-Deixar o espaço de 2 linhas para resposta em cada item acima
-
-Respostas:
+R:
 
 a\)
 
-7+6,5+9+8 =30,5
+7 + 6,5 + 9 + 8 = 30,5
 
-30,5 : 4= 7,625
+30,5 : 4 = 7,625
 
-b\) 3+ 5+6+5= 19
+b\) 
 
-19:4=4,75
+3 + 5 + 6 + 5 = 19
 
-c\) 9+9+8+9= 35
+19:4 = 4,75
 
-35:4= 8,75
+c\) 
+9 + 9 + 8 + 9 = 35
 
-d)10+8+8+8=34
+35:4 = 8,75
 
-34:4= 8,5
+d\)
 
-e\) 5+4+5+3 =17
+10 + 8 + 8 + 8 = 34
 
-17:4=4,25
+34 : 4 = 8,5
+
+e\) 
+
+5 + 4 + 5 + 3 = 17
+
+17 : 4 = 4,25
 
 f\) Bruno e Renata foram reprovados.
 
-9\) Dona Catarina de 82 anos tem 5 irmãs, Genoveva de 79 Anos, Clotilde
-de 75, Amélia de 70, Irene de 67 e Tereza de 64, Qual a média de idade
+8\) Dona Catarina, de 82 anos, tem 5 irmãs: Genoveva, de 79 Anos, Clotilde,
+de 75, Amélia, de 70, Irene, de 67, e Tereza, de 64. Qual é a média de idade
 de todas as irmãs?
 
-Deixar o espaço de 2 linhas para resposta
+R:
 
-Resposta:
-
-82+79+75+70+67+64= 437
+82 + 79 + 75 + 70 + 67 + 64 = 437
 
 437 : 6 = 72,83
 
-10\) Uma professora resolveu fazer uma dinâmica com seus alunos e fez
-uma pesquisa com cada um, a pesquisa consistia em apenas 1 pergunta:
-Qual o número do seu calçado?
+9\) Uma professora resolveu fazer uma pesquisa com seus alunos que consistia em apenas 1 pergunta: Qual é o número do seu calçado?
 
-Ao realizar a pesquisa a professora obteve os seguintes dados:
+Ela obteve os seguintes dados:
 
+%Paulo: inserir uma tabela com os dados abaixo.
   Pesquisa do Número do Calçado de cada Aluno do 8° A                       
   ----------------------------------------------------- ---- ---- ---- ---- ----
   35                                                    38   40   42   38   40
@@ -5824,16 +4974,11 @@ Ao realizar a pesquisa a professora obteve os seguintes dados:
   35                                                    38   38   38   44   38
   39                                                    38   38   37   40   37
 
-Inserir uma tabela similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+Ao observar esses dados, qual é a moda dos números dos calçados dos alunos?
 
-Ao observar esses dados Qual a Moda dos números dos calçados dos alunos?
+R:
 
-Deixar o espaço de 4 linhas para resposta
-
-Resposta:
-
-Ao observar o quadro temos que
+Ao observar o quadro, temos que
 
 3 Alunos calçam 35
 
@@ -5847,12 +4992,26 @@ Ao observar o quadro temos que
 
 3 alunos calcam 44
 
-Logo por método de observação temos que a Moda é os calçados número 38.
+Logo, por método de observação, temos que a Moda consiste em calçados número 38.
 
-Testes:
+10\) Um supermercado está realizando uma pesquisa sobre o tempo de espera dos clientes nas filas dos caixas. Foram registrados os seguintes tempos de espera em minutos: 3, 5, 2, 4, 6, 3, 5, 4, 2, 3.
+
+Calcule a média aritmética simples do tempo de espera dos clientes e explique a resposta.
+
+R:
+
+Para calcular a média aritmética simples do tempo de espera dos clientes, devemos somar todos os tempos de espera e dividir pelo número total de observações.
+
+Passo 1: Somar os tempos de espera
+3 + 5 + 2 + 4 + 6 + 3 + 5 + 4 + 2 + 3 = 37
+
+Passo 2: Dividir pelo número total de observações
+37 / 10 = 3,7 minutos.
+
+\colorsec{Treino}
 
 1\) Em um jogo de basquete, os 5 atletas de um time que iniciaram o jogo
-tinham respectivamente 2,01m, 1,99m, 2,00m ,2,02 e 1,98m de altura, qual
+tinham respectivamente 2,01 m, 1,99 m, 2,00 m, 2,02 m e 1,98 m de altura. Qual é
 a estatura média dessa equipe titular?
 
 a\) 2,02 m
@@ -5863,24 +5022,16 @@ c\) 2 m
 
 d\) 10 m
 
-Resposta: C
-
-BNCC: EF08MA25
-
-Habilidade Saeb:
-
-*  Calcular os valores de medidas de tendência central de uma pesquisa
+SAEB: Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
-A: incorreta, o aluno chegaria a esse resultado,
-considerando que o enunciado requer a maior altura da equipe, e não a
-média aritmética, chegando a uma conclusão equivocada.
+BNCC: EF08MA25 -- Obter os valores de medidas de tendência central de uma pesquisa estatística (média, moda e mediana) com a compreensão de seus significados e relacioná-los com a dispersão de dados, indicada pela amplitude.
 
-B: incorreta, o aluno chegaria a esse resultado,
-considerando que o enunciado requer a menor altura da equipe, e não a
-média aritmética, chegando a uma conclusão equivocada.
+A: Incorreta, pois o aluno chegaria a esse resultado a partir da maior altura da equipe.
 
-C: Correta Pois:
+B: Incorreta, pois o aluno chegaria a esse resultado a partir da menor altura da equipe.
+
+C: Correta, pois:
 
 Somando a altura dos atletas temos:
 
@@ -5890,17 +5041,15 @@ Como são 5 atletas
 
 10 : 5 = 2 metros de altura é a média
 
-D: incorreta, o aluno chegaria a esse resultado,
-considerando que o enunciado requer a soma das alturas da equipe, e não
-a média aritmética, chegando a uma conclusão equivocada.
+D: Incorreta, pois o aluno chegaria a esse resultado a partir da soma das alturas da equipe.
 
-2\) Um grupo de amigas que frequentam uma academia decidiram
-compartilhar o valor de sua última pesagem uma com as outras e chegaram
-ao seguintes números:
+2\) Um grupo de amigos que frequentam uma academia decidiu
+compartilhar o valor de sua última pesagem e chegaram
+aos seguintes números:
 
 46kg, 44kg, 49kg, 45kg, 44kg, 48kg, 50kg, 42kg
 
-Qual a mediana do valor do peso em kg dessas amigas?
+Qual é a mediana do peso em kg desses amigos?
 
 a\) 44kg
 
@@ -5910,36 +5059,29 @@ c\) 46 kg
 
 d\) 45kg
 
-Resposta: B
-
-BNCC: EF08MA25
-
-Habilidade Saeb
-
-*  Calcular os valores de medidas de tendência central de uma pesquisa
+SAEB: Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
-A: incorreta, o aluno chegaria a esse resultado,
-considerando que o enunciado requer a moda, e não a média aritmética,
-chegando a uma conclusão equivocada.
+BNCC: EF08MA25 -- Obter os valores de medidas de tendência central de uma pesquisa estatística (média, moda e mediana) com a compreensão de seus significados e relacioná-los com a dispersão de dados, indicada pela amplitude.
+
+A: Incorreta, pois o aluno chegaria a esse resultado calculando a moda, chegando a uma conclusão equivocada.
 
 B: Correta, pois:
 
-Considerando os dois pesos centrais são 46 e 45 kgs Logo 46 + 45 = 91
+Considerando que os dois pesos centrais são 46 e 45 kg,
 
-91 : 2 = 45,5 Alternativa B
+46 + 45 = 91
 
-C: incorreta, o aluno chegaria a esse resultado,
-considerando que o enunciado requer a média aritmética, e não a média
-aritmética, chegando a uma conclusão equivocada.
+91 : 2 = 45,5
 
-D: o a aluno chegara a esse resultado esquecendo que em
-casos de conteúdos pares a mediana deve ser a média entre os dois
-valores centrais, no caso ao pegar apenas um valor o aluno chegaria a
-esse resultado.
+C: Incorreta, pois o aluno chegaria a esse resultado calculando a média aritmética, e não a mediana.
 
-3\) Maria caminha todos os dias até seu trabalho, durante uma semana
-resolveu cronometrar o tempo que levou de sua casa até seu trabalho:
+D: Incorreta, pois o aluno chegará a esse resultado não levando em consideração que, em
+casos de conteúdos pares, a mediana deve ser a média entre os dois
+valores centrais.
+
+3\) Maria caminha todos os dias até seu trabalho. Durante uma semana,
+resolveu cronometrar o tempo que leva no trajeto:
 
 Segunda-feira: 35 minutos
 
@@ -5951,7 +5093,7 @@ Quinta-feira: 34 minutos
 
 Sexta-feira: 36 minutos
 
-Qual o tempo médio que Maria gasta até chegar no trabalho?
+Qual é o tempo médio que Maria gasta até chegar no trabalho?
 
 a\) 32 minutos
 
@@ -5961,39 +5103,27 @@ c\) 34 minutos
 
 d\) 170 minutos
 
-BNCC: EF08MA25
-
-Habilidade Saeb:
-
-*  Calcular os valores de medidas de tendência central de uma pesquisa
+SAEB: Calcular os valores de medidas de tendência central de uma pesquisa
 estatística (média aritmética simples, moda ou mediana).
 
-A: incorreta, o aluno chegaria a esse resultado,
-considerando que o enunciado requer o menor tempo gasto, e não a média
-aritmética, chegando a uma conclusão equivocada.
+BNCC: EF08MA25 -- Obter os valores de medidas de tendência central de uma pesquisa estatística (média, moda e mediana) com a compreensão de seus significados e relacioná-los com a dispersão de dados, indicada pela amplitude.
 
-B: incorreta, o aluno chegaria a esse resultado,
-considerando que o enunciado requer o maior tempo gasto, e não a média
-aritmética, chegando a uma conclusão equivocada.
+A: Incorreta, pois o aluno chegaria a esse resultado considerando somente o menor tempo gasto.
 
-C: correta Pois:
+B: Incorreta, pois o aluno chegaria a esse resultado considerando somente o maior tempo gasto.
 
-Somando o tempo que Maria gastou na semana temos que:
+C: Correta, pois:
 
-170 minutos / 5 = média de 34 minutos por dia Maria gasta para chegar ao
-trabalho.
+Somando o tempo que Maria gastou na semana, temos que:
 
-D: incorreta, o aluno chegaria a esse resultado,
-considerando que o enunciado requer a soma dos tempos que Maria Gasta
-para ir ao trabalho, e não a média aritmética, chegando a uma conclusão
-equivocada.
+170 minutos / 5 = média de 34 minutos por dia.
 
-# Módulo 14
+D: Incorreta, pois o aluno chegaria a esse resultado considerando somente 
+a soma dos tempos.
 
-BNCC: EF08MA19 EF08MA20 EF08MA21
+# 13. Perímetro, área e volume
 
-Habilidade Saeb:
-
+Habilidades do SAEB
 *  Resolver problemas que envolvam medidas de grandezas (comprimento,
 massa, tempo, temperatura, capacidade ou volume) em que haja conversões
 entre unidades mais usuais.
@@ -6005,36 +5135,38 @@ entre unidades mais usuais.
 *  Resolver problemas que envolvam volume de prismas retos ou cilindros
 retos.
 
+Habilidades da BNCC
+EF08MA19, EF08MA20, EF08MA21.
+
 Área e perímetro de figuras planas
 
-Para calcularmos o perímetro de uma figura plana basta realizar a soma
+Para calcularmos o perímetro de uma figura plana, basta realizarmos a soma
 de todos os lados da figura.
 
-Para o cálculo da área das figuras planas, cada uma tem uma formula
-particular:
+Já para o cálculo da área de figuras planas, temos de saber fórmulas específicas para
+cada tipo de forma:
 
-Veja alguns exemplos de formulas de figuras planas:
+Veja alguns exemplos dessas fórmulas:
 
-Área do quadrado A= l²
+Área do quadrado: A = l²
 
-Área do triangulo retângulo A= $\frac{b.h}{2}$
+Área do triângulo retângulo: A = $$\frac{b.h}{2}$$
 
-Área do losango temos que: A=$\frac{\text{D\ .\ d}}{2}$=
+Área do losango: A = $$\frac{\text{D . d}}{2}$$
 
-Área do circulo = $A = \pi r^{2}$
+Área do circulo: $$A = \pi r^{2}$$
 
-Área de um retângulo= A = l . l
+Área de um retângulo: $$A = l1 \times l2$$
 
 Volume de poliedros
 
-Para o cálculo do volume, cada poliedro também tem sua formula
-específica para calcular seus respectivos volumes, veja alguns exemplos:
+Cada poliedro também tem uma fórmula específica para o cálculo de seu volume. Veja alguns exemplos:
 
-Volume de um cubo V= l . l . l ou l³
+Volume de um cubo: V = l . l . l ou l³
 
-Volume de um cilindro V= $\Pi$. R² .h
+Volume de um cilindro V = $$\Pi$$ . R² . h
 
-Volume de um paralelepípedo temos que V= l.l.l
+Volume de um paralelepípedo: $$V = l1 \times l2 \times l3$$
 
 \colorsec{Atividades}
 
@@ -6042,9 +5174,6 @@ Volume de um paralelepípedo temos que V= l.l.l
 
 ![](./imgSAEB_8_MAT/media/image42.png){width="1.8958333333333333in"
 height="1.2708333333333333in"}
-
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
 
 a\) Qual é a medida de perímetro de uma das faces desse cubo?
 
@@ -6054,20 +5183,20 @@ c\) Qual é a medida de volume do cubo?
 
 Deixar o espaço de 2 linhas para resposta em cada item acima.
 
-Respostas:
+R:
 
-a\) 4 . 3 = 12cm
+a\) 4 . 3 = 12 cm
 
-b\) 3 . 3 = 9cm²
+b\) 3 . 3 = 9 cm²
 
-c\) 3 . 3 . 3 = 27cm³
+c\) 3 . 3 . 3 = 27 cm³
 
-2\) Determine a medida de área de uma região quadrada sabendo que a
+2\) Determine a área de uma região quadrada, sabendo que a
 medida de comprimento do lado é de:
 
-a\) 8cm
+a\) 8 cm
 
-b\) 12cm
+b\) 12 cm
 
 c\) 16 m
 
@@ -6081,307 +5210,271 @@ g\) 10 mm
 
 h\) 25 mm
 
-Deixar o espaço de 2 linhas para resposta em cada item acima.
+R:
 
-Respostas:
+a\) 8 . 8 = 64 cm²
 
-Considerando a área do quadrado l . l = A
-
-Temos que:
-
-a\) 8 . 8 = 64cm²
-
-b\) 12 . 12 = 144cm²
+b\) 12 . 12 = 144 cm²
 
 c)16 . 16= 256 m²
 
 d)20 . 20 = 400 m²
 
-e)34 . 34= 1156m²
+e)34 . 34= 1156 m²
 
-f\) 8 . 8 = 64mm²
+f\) 8 . 8 = 64 mm²
 
-g\) 10 . 10 = 100mm²
+g\) 10 . 10 = 100 mm²
 
 h\) 25 . 25 = 625 mm²
 
-3\) Calcule no caderno a medida de comprimento do lado de uma região
-quadrada cuja medida de área é de:
+3\) Calcule a medida do comprimento do lado de uma região
+quadrada cuja área é de:
 
 a\) 121 cm²
 
 b\) 169 cm²
 
-c\) 225 cm ²
+c\) 225 cm²
 
-d\) 36m²
+d\) 36 m²
 
 e\) 324 m²
 
 f\) 529 m²
 
-g\) 81mm²
+g\) 81 mm²
 
-h\) 729mm²
+h\) 729 mm²
 
-Deixar o espaço de 2 linhas para resposta em cada item acima.
+R:
 
-Respostas
+a\) $$\sqrt{121}$$ = 11cm
 
-Considerando a área do quadrado l . l = A
+b) $$\ \sqrt{169}$$ = 13cm
 
-Obtemos que l²=A
+c) $$\ \sqrt{225}$$ = 15 cm
 
-Logo l = $\sqrt{A}$
+d) $$\ \sqrt{36}$$ = 6 m
 
-Aplicando temos que:
+e) $$\ \sqrt{324}$$ = 18 m
 
-a\) $\sqrt{121}$ = 11cm
+f) $$\ \sqrt{529}$$ = 23 m
 
-b)$\ \sqrt{169}$= 13cm
+g) $$\ \sqrt{81}$$ = 9 mm
 
-c)$\ \sqrt{225}$= 15 cm
+h) $$\ \sqrt{729}$$ = 27 mm
 
-d)$\ \sqrt{36}$= 6 m
+4\) Determine a área de cada figura abaixo.
 
-e)$\ \sqrt{324}$= 18 m
-
-f)$\ \sqrt{529}$ = 23 m
-
-g)$\ \sqrt{81}$ = 9 mm
-
-h)$\ \sqrt{729}$ = 27 mm
-
-4\) Determine a área de cada figura abaixo
-
+a\)
 ![](./imgSAEB_8_MAT/media/image43.png){width="1.65in"
-height="0.9645833333333333in"}a)
+height="0.9645833333333333in"}
 
+b\)
 ![](./imgSAEB_8_MAT/media/image44.png){width="1.5083333333333333in"
-height="1.2868055555555555in"}b)
+height="1.2868055555555555in"}
 
-Inserir imagens similares a essas, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
-
-Deixar o espaço de 2 linhas para resposta em cada item acima.
-
-Respostas:
+R:
 
 a\)
 
-4 . 4 + 2 . 2= A
+4 . 4 + 2 . 2 = A
 
-16+4 =A
+16 + 4 = A
 
-A= 20 cm²
+A = 20 cm²
 
 b\)
 
-\num{6} 3 + 3 . 3 = A
+3 + 3 . 3 = A
 
-18+9 = A
+18 + 9 = A
 
-A= 27cm²
+A = 27cm²
 
 5\) Para construir uma caixa com a forma de um bloco retangular sem
 tampa, Rosangela recortou uma região poligonal de papelão, como esta
-figura, dobrou e colou com fita-crepe. Quantos cm² de papelão ela usou?
+figura, e dobrou e colou com fita-crepe. Quantos cm² de papelão ela usou?
 
 ![](./imgSAEB_8_MAT/media/image45.png){width="1.9833333333333334in"
 height="1.3325524934383202in"}
 
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+R:
 
-Deixar o espaço de 2 linhas para resposta
+Somando todas as áreas das figuras tracejadas, temos que:
 
-Resposta:
-
-Somando todas as áreas das figuras tracejadas temos que:
-
-10 . 15 + 10 . 15 +10 . 30 + 10 . 30 + 15 . 30= A
+10 . 15 + 10 . 15 + 10 . 30 + 10 . 30 + 15 . 30 = A
 
 150 + 150 + 300 + 300 + 450 = A
 
-A= 1350cm²
+A= 1.350 cm²
 
 6\) Determine a área das figuras abaixo
 
 a\)
-
 ![](./imgSAEB_8_MAT/media/image46.png){width="1.2604166666666667in"
 height="1.0625in"}
 
+b\)
 ![](./imgSAEB_8_MAT/media/image47.png){width="1.3958333333333333in"
-height="1.7291666666666667in"}b)
+height="1.7291666666666667in"}
 
+c\)
 ![](./imgSAEB_8_MAT/media/image48.png){width="1.375in"
-height="1.4270833333333333in"}c)
+height="1.4270833333333333in"}
 
+d\)
 ![](./imgSAEB_8_MAT/media/image49.png){width="1.59375in"
-height="1.46875in"}d)
+height="1.46875in"}
 
-Inserir imagens similares a essas, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
-
-Deixar o espaço de 3 linhas para resposta em cada item acima.
-
-Respostas:
+R:
 
 Considerando que a Área do triangulo retângulo é definida por A=
-$\frac{b.h}{2}$ temos que
+$$\frac{b.h}{2}$$, temos que
 
 a\)
 
-A= $\frac{4.8}{2}$
+A = $$\frac{4.8}{2}$$
 
-A= $\frac{32}{2}$
+A = $$\frac{32}{2}$$
 
-A= 16m²
+A = 16m²
 
 b\)
 
-A=$\ \frac{\ 2,5.4}{2}$
+A = $$\ \frac{\ 2,5.4}{2}$$
 
-A= $\frac{10}{2}$
+A = $$\frac{10}{2}$$
 
-A= 5 + 5
+A = 5 + 5
 
-A =10cm²
+A = 10cm²
 
 c\)
 
-A= $\frac{12}{2}$
+A = $$\frac{12}{2}$$
 
-A= 6
+A = 6
 
 6 + 9 = 15 cm²
 
 d\)
 
-A= $\frac{4.2}{2}$
+A = $$\frac{4.2}{2}$$
 
-A= $\frac{8}{2}$
+A = $$\frac{8}{2}$$
 
-A= 4
+A = 4
 
-4+4 + 8.5 =48cm²
+4 + 4 + 8.5 = 48cm²
 
-7\) Ao ler a bula de uma medicação Andreia leu o seguinte dizer: "Cada
-comprimido possui \#\# mm³ dentro de sua capsula" como não conseguiu ler
+7\) Ao ler a bula de uma medicação, Andreia encontrou a seguinte informação: "Cada
+comprimido possui x mm³ dentro de sua capsula". Como não conseguiu ler,
 pois a escrita estava rasurada, Andreia decidiu fazer suas próprias
-medida e obteve:
+medidas e obteve:
 
 ![](./imgSAEB_8_MAT/media/image50.png){width="1.8854166666666667in"
 height="1.3125in"}
 
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
-
-a)Para saber o volume de medicação dentro da capsula qual formula
+a) Para saber o volume de medicação dentro da cápsula, qual fórmula
 Andreia deve utilizar?
 
-b\) Considerando $\Pi$=3 qual o volume da capsula?
+b\) Considerando $$\Pi$$=3 qual é o volume da cápsula?
 
-Deixar o espaço de 2 linhas para resposta em cada item acima.
+R:
 
-Respostas:
+a\) V = $$\Pi$$ . R² . h
 
-a\) V= $\Pi$. R² .h
+b\) Sendo V= $$\Pi$$ . R² . h
 
-b\) Sendo V= $\Pi$. R² .h
+V = 3 . 14 . 11
 
-temos:
+V = 462 mm³ de medicação.
 
-V= 3 . 14 . 11
+8\) Calcule o volume das figuras abaixo.
 
-V= 462 mm³ de medicação
-
-8\) Calcule o volume das figuras abaixo
-
+a\)
 ![](./imgSAEB_8_MAT/media/image51.png){width="1.9479166666666667in"
-height="0.9895833333333334in"}a)
+height="0.9895833333333334in"}
 
+b\)
 ![](./imgSAEB_8_MAT/media/image52.png){width="2.0833333333333335in"
-height="1.0in"}b)
+height="1.0in"}
 
+c\)
 ![](./imgSAEB_8_MAT/media/image53.png){width="1.9270833333333333in"
-height="1.5625in"}c)
+height="1.5625in"}
 
-Inserir imagens similares a essas, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
-
-Deixar o espaço de 3 linhas para resposta em cada item acima.
-
-Resposta:
+R:
 
 a\)
 
-V= l . l . l
+V = l . l . l
 
-V= 8 . 4 . 3
+V = 8 . 4 . 3
 
-V= 96cm³
+V = 96cm³
 
 b\)
 
-V= l . l . l
+V = l . l . l
 
-V= 4 . 12 . 3
+V = 4 . 12 . 3
 
-V= 144cm³
+V = 144cm³
 
-144/2
+144:2
 
-V=72cm³
+V = 72cm³
 
 c\)
 
-V= l . l . l
+V = l . l . l
 
-V= 20 . 10 . 15
+V = 20 . 10 . 15
 
-V = 3000cm³
+V = 3.000 cm³
 
-V= l . l . l
+V = l . l . l
 
 V = 15. 10 .10
 
-V= 1500
+V = 1.500
 
-1500 + 3000= 4500cm³
+1.500 + 3.000 = 4.500cm³
 
 9\) Marina Resolveu colocar em sua casa uma piscina de 8 metros de
-largura, 5 metros de comprimento e 1,5 metros de profundidade, sabendo
-que a companhia de agua cobra 0,05 centavos por litro de agua consumido,
+largura, 5 metros de comprimento e 1,5 metros de profundidade. Sabendo
+que a companhia de água cobra 0,05 centavos por litro consumido,
 quantos reais marina vai gastar para encher completamente essa piscina?
 
-Calculando o volume temos que
+R:
 
-V= 8 . 5 . 1,5
+Calculando o volume, temos que
 
-V= 60 m³
+V = 8 . 5 . 1,5
 
-1m³ = 1000 litros
+V = 60 m³
 
-Deixar o espaço de 2 linhas para resposta
+1m³ = 1.000 litros
 
 60 m³ = 60 000 litros
 
-1litro custa 0,20 centavos
+1 litro custa 0,20 centavos
 
-60 000 . 0,20
+60.000 . 0,20
 
-= 12000 centavos ou 120 Reais
+= 12.000 centavos ou R$120,00
 
 10\) O reservatório de tinta de uma caneta comum tem a forma de um
 cilindro. O diâmetro dele tem medida de comprimento de 3 mm e tem 14 cm
 de medida de comprimento. Quantos mililitros de tinta essa caneta pode
-acomodar? Considere $\Pi$=3,14
+acomodar? Considere $$\Pi$$ = 3,14
 
-Deixar o espaço de 3 linhas para resposta
+R:
 
-V= $\Pi$. R² .h
+V= $$\Pi$$ . R² .h
 
 V= 3,14 . 1,5² . 140
 
@@ -6389,118 +5482,103 @@ V= 3,14 . 2,25 . 140
 
 V= 989,1 mm³
 
-Testes
+\colorsec{Treino}
 
-1\) Um cano cilíndrico de plástico, tem 70 cm de medida de comprimento e
-raio de 6 cm. Qual é a medida de volume de que esse cano comporta?
-Considere $\Pi$=3
+1\) Um cano cilíndrico de plástico tem 70 cm de medida de comprimento e
+raio de 6 cm. Qual é a medida de volume que esse cano comporta?
+Considere $$\Pi$$=3.
 
-a\) 7 560 cm³
+a\) 7.560 cm³
 
 b\) 108 cm³
 
 c\) 36 cm³
 
-d\) 1 260 cm³
+d\) 1.260 cm³
 
-Resposta: A
-
-BNCC: EF08MA20
-
-Habilidade Saeb:
-
-*  Resolver problemas que envolvam volume de prismas retos ou cilindros
+SAEB: Resolver problemas que envolvam volume de prismas retos ou cilindros
 retos.
 
-A: Correta Pois:
+BNCC: EF08MA20 -- Reconhecer a relação entre um litro e um decímetro cúbico e a relação entre litro e metro cúbico, para resolver problemas de cálculo de capacidade de recipientes.
 
-V= $\Pi$. R² .h
+A: Correta, pois:
 
-V= 3 . 6² . 70
+V = $$\Pi$$ . R² .h
 
-V= 3 . 36 . 70
+V = 3 . 6² . 70
 
-V= 7560 cm³
+V = 3 . 36 . 70
 
-B: Incorreta, o aluno chegaria a esse valor utilizando a
-formula da área e não a formula do volume como o enunciado pede.
+V = 7.560 cm³
 
-C: incorreta o aluno chegaria a esse valor calculando o
-perímetro da circunferência do cano e não o volume como pede o
+B: Incorreta, pois o aluno chegaria a esse valor utilizando a
+formula da área, e não a formula do volume como o enunciado pede.
+
+C: Incorreta, pois o aluno chegaria a esse valor calculando o
+perímetro da circunferência do cano, e não o volume como pede o
 enunciado.
 
-D: incorreta, o aluno chegaria a esse valor ao esquecer o
-termo quadrático, que a formula necessita para obter um valor correto.
+D: Incorreta, pois o aluno chegaria a esse valor ao esquecer o
+termo quadrático.
 
 2\) Vanessa estava pintando um quadro em uma tela retangular de 1 m por
-70 cm e começou sua pintura desenhando e colorindo com tinta amarela um
-losango de Diagonais 70 cm e 50 cm, no restante do quadro Vanessa
-pretende colorir de tinta verde, Qual a área do quadro que falta ser
+70 cm. Começou desenhando e colorindo com tinta amarela um
+losango de diagonais 70 cm e 50 cm. No restante do quadro, Vanessa
+pretende colorir de tinta verde. Qual é a área do quadro que falta ser
 pintada?
 
 ![](./imgSAEB_8_MAT/media/image54.png){width="2.9583333333333335in"
 height="1.565255905511811in"}
 
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+a\) 5.250 cm²
 
-a\) 5 250 cm²
+b\) 7.000 cm²
 
-b\) 7 000 cm²
+c\) 1.750 cm²
 
-c\) 1 750 cm²
+d\) 1.680 cm²
 
-d\) 1 680 cm²
+SAEB: Resolver problemas que envolvam volume de prismas retos ou cilindros
+retos.
 
-Resposta: A
+BNCC: EF08MA19 -- Resolver e elaborar problemas que envolvam medidas de área de figuras geométricas, utilizando expressões de cálculo de área (quadriláteros, triângulos e círculos), em situações como determinar medida de terrenos.
 
-BNCC: EF08MA19
+A: Correta, pois:
 
-Habilidade Saeb
+Utilizando a fórmula da área do losango, temos que:
 
-*  Resolver problemas que envolvam área de figuras planas.
+A = $$\frac{\text{D\ .\ d}}{2}$$=
 
-A: Correta Pois:
+A = $$\frac{70\ .\ 50}{2}$$=
 
-Utilizando a formula da área do losango temos que:
+A = $$\frac{3500}{2}$$
 
-A=$\frac{\text{D\ .\ d}}{2}$=
+A = 1.750 cm²
 
-A=$\frac{70\ .\ 50}{2}$=
-
-A= $\frac{3500}{2}$
-
-A= 1750 cm²
-
-Área do retângulo b.h temos que
+Calculando a área do retângulo, temos que:
 
 A = 100 . 70
 
-A = 7000 cm²
+A = 7.000 cm²
 
 Subtraindo
 
-7000 -- 1750 =5250 cm²
+7.000 - 1.750 = 5.250 cm²
 
-Logo a alternativa correta letra A
+B: Incorreta, pois este valor é referente apenas ao valor da área
+do retângulo do quadro.
 
-B: incorreta, este valor é referente apenas ao valor da área
-do retângulo do quadro e não é referente ao valor a ser pintado. Como o
-enunciado pede.
+C: Incorreta, pois este valor é referente apenas à área que já foi
+pintada.
 
-C: incorreta, este valor é referente apenas área que já foi
-pintada e não a área a ser pintada, como o enunciado pede.
+D: Incorreta, pois o aluno chegaria nesse valor ao não converter
+o valor em metros para centímetros.
 
-D: incorreta, o aluno chegaria nesse valor, ao não converter
-o valor em metros para centímetros, encontrando esse valor erroneamente.
+3\) Um condomínio resolveu trocar sua caixa d'água e colocar uma
+nova de formato cilíndrico com diâmetro de base de comprimento
+8 m e altura de comprimento de 5 m.
 
-3\) Um condomínio resolveu trocar sua caixa e d agua e colocaram uma
-nova de formato cilíndrico com diâmetro de base de medida de comprimento
-de 8 m e altura de medida de comprimento de 5 m.
-
-Qual o volume dessa nova caixa d agua? Considere $\text{\ Π}$= 3,1
-EF08MA20 - Resolver problemas que envolvam volume de prismas retos ou
-cilindros retos.
+Qual é o volume dessa nova caixa d agua? Considere $$\text{Π}$$ = 3,1
 
 a\) 49,6 m³
 
@@ -6510,26 +5588,21 @@ c\) 62 m³
 
 d\) 248 m³
 
-Resposta: D
-
-BNCC: EF08MA20
-
-Habilidade Saeb:
-
-*  Resolver problemas que envolvam volume de prismas retos ou cilindros
+SAEB: Resolver problemas que envolvam volume de prismas retos ou cilindros
 retos.
 
-A: incorreta, o aluno poderia chegar a esse valor utilizando
-erroneamente a formula da área da base, e não a área do volume.
+BNCC: EF08MA20 -- Reconhecer a relação entre um litro e um decímetro cúbico e a relação entre litro e metro cúbico, para resolver problemas de cálculo de capacidade de recipientes.
 
-B: incorreta, o aluno poderia chegar a esse valor calculando
-o perímetro da base e não o volume total da caixa como o enunciado pede.
+A: Incorreta, pois o aluno poderia chegar a esse valor utilizando
+erroneamente a formula da área da base.
 
-C: incorreta, o aluno poderia chegar a essa conclusão ao não
-observar o termo quadrático da formula e obter esse resultado
-erroneamente.
+B: Incorreta, pois o aluno poderia chegar a esse valor calculando
+o perímetro da base.
 
-Resposta
+C: Incorreta, pois o aluno poderia chegar a essa conclusão ao não
+observar o termo quadrático da fórmula.
+
+D: Correta, pois
 
 V= $\Pi$. R² .h
 
@@ -6537,17 +5610,15 @@ V= 3,1 . 4² . 5
 
 V= 248 m³
 
-Logo alternativa d
+# 14. Probabilidade
 
-# Módulo 15
-
-BNCC: EF08MA22
-
-Habilidade Saeb:
-
+Habilidade SAEB
 *  Resolver problemas que envolvam a probabilidade de ocorrência de um
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes.
+
+Habilidades da BNCC 
+EF08MA22.
 
 A probabilidade (P) de um evento (E) acontecer, a partir de um
 experimento aleatório, é dada pela razão entre o número de elementos do
@@ -6559,192 +5630,167 @@ Experimento aleatório
 
 No estudo da probabilidade, um experimento é considerado aleatório se,
 mesmo ao repeti-lo um número considerável de vezes, da mesma maneira, o
-resultado obtido é sempre imprevisível. O lançamento de um dado e o de
+resultado obtido é imprevisível. O lançamento de um dado e o de
 uma moeda são exemplos de experimentos aleatórios, pois em cada
 repetição do experimento o resultado obtido não pode ser previsto.
 
 Espaço amostral
 
-Para cada experimento aleatório existe um conjunto de possibilidades de
+Para cada experimento aleatório há um conjunto de possibilidades de
 resultados.
 
 Eventos
 
-Subconjuntos do espaço amostral e são denominadas eventos.
-
+Os subconjuntos do espaço amostral são denominados eventos.
 Se o conjunto formado pelos elementos de um evento é vazio, dizemos que
 esse evento é impossível.
-
 Quando o número de elementos do evento coincide com o número de
 elementos do espaço amostral, o evento é chamado evento certo.
 
-Questões:
+\colorsec{Atividades}
 
-1\) Em um jogo de tabuleiro Natali precisa de tirar 4 no dado para
-conseguir uma bonificação qual é a probabilidade de sair a face com o
+1\) Em um jogo de tabuleiro, Natali precisa tirar 4 no dado para
+conseguir uma bonificação. Qual é a probabilidade de sair a face com o
 número 4 em apenas um lançamento?
 
-Deixar o espaço de 3 linhas para resposta
-
-Resposta:
+R:
 
 Para calcular a probabilidade de esse evento ocorrer, determinamos o
 número de elementos do espaço amostral e o número de elementos do
 evento. Temos:
 
-$P(E)\frac{n(1)}{n(6)}$ Logo a chance de Natali tirar o número 4 no dado
-e conseguir a bonificação é $\frac{1}{6}$
+$$P(E)\frac{n(1)}{n(6)}$$. Logo, a chance de Natali tirar o número 4 no dado
+e conseguir a bonificação é $$\frac{1}{6}$$
 
-2\) Marina está jogando bingo com suas amigas, os números a serem
-sorteados nesse bingo vão de 1 a 60 qual a probabilidade de o primeiro
+2\) Marina está jogando bingo com suas amigas. Os números a serem
+sorteados vão de 1 a 60. Qual é a probabilidade de o primeiro
 número a ser sorteado ser:
 
 a\) Par
 
-b\) impar
+b\) Ímpar
 
 c\) Primo
 
-d\) ser múltiplo de 3
+d\) Múltiplo de 3
 
-e\) ser múltiplo de 5
+e\) Múltiplo de 5
 
-f\) ser maior que 50
+f\) Maior que 50
 
-g\) ser menor que 50
+g\) Menor que 50
 
-Deixar o espaço de 3 linhas para resposta em cada item acima.
-
-Respostas:
+R:
 
 a\)
 
-$P(E)\frac{n(30)}{n(60)}$= $\frac{1}{2}$ ou 50%
+$$P(E)\frac{n(30)}{n(60)}$$ = $$\frac{1}{2}$$ ou 50%.
 
 b\)
 
-$P(E)\frac{n(30)}{n(60)}$= $\frac{1}{2}$ ou 50%
+$$P(E)\frac{n(30)}{n(60)}$$ = $$\frac{1}{2}$$ ou 50%.
 
 c\)
 
-$P(E)\frac{n(17)}{n(60)}$ =$\frac{17}{60}$ ou 28% aproximadamente
+$$P(E)\frac{n(17)}{n(60)}$$ = $$\frac{17}{60}$$ ou 28%, aproximadamente
 
 d\)
 
-$P(E)\frac{n(20)}{n(60)}$ = $\frac{1}{3}$ ou 33% aproximadamente
+$$P(E)\frac{n(20)}{n(60)}$$ = $$\frac{1}{3}$$ ou 33%, aproximadamente
 
 e\)
 
-$P(E)\frac{n(12)}{n(60)}$= $\frac{1}{5}$ ou 20%
+$$P(E)\frac{n(12)}{n(60)}$$ = $$\frac{1}{5}$$ ou 20%.
 
 f\)
 
-$P(E)\frac{n(10)}{n(60)}$= $\frac{1}{6}$ 0u 16% aproximadamente
+$$P(E)\frac{n(10)}{n(60)}$$ = $$\frac{1}{6}$$ ou 16%, aproximadamente.
 
 g\)
 
-$P(E)\frac{n(49)}{n(60)}$= $\frac{49}{60}$ ou 81% aproximadamente
+$$P(E)\frac{n(49)}{n(60)}$$ = $$\frac{49}{60}$$ ou 81%, aproximadamente.
 
-3\) Sidnei está jogando um jogo de cartas com seus amigos, nesse jogo
-existem 4 cartas que são consideradas as mais fortes do jogo, ao pegar
-uma carta do baralho qual a chance de Sidnei ter escolhido uma destas
-cartas? Considere que o baralho tenha 52 cartas.
+3\) Sidnei está jogando um jogo de cartas com seus amigos. 4 cartas são 
+consideradas as mais fortes. Ao pegar uma carta do baralho, qual é a chance 
+de Sidnei tirar uma delas? Considere que o baralho tenha 52 cartas.
 
-Deixar o espaço de 3 linhas para resposta
+R:
 
-Resposta:
-
-$P(E)\frac{n(4)}{n(52)}$=$\frac{1}{13}$ ou 7%
+$$P(E)\frac{n(4)}{n(52)}$$ = $$\frac{1}{13}$$ ou 7%.
 
 4\)
 
-Gabriela, Carolina, Graziela, Leonardo e Claudio são irmãos, quantas são
-as possibilidades de duplas formadas por esses irmãos?
+Gabriela, Carolina, Graziela, Leonardo e Cláudio são irmãos. Quantas são
+as possibilidades de duplas formadas por eles?
 
-Deixar o espaço de 3 linhas para resposta
+R:
 
-Resposta:
+$$\frac{5!}{3!.2!}$$ = $$\frac{120}{6\ .\ 2}$$ = $$\frac{120}{12}$$ = 10 duplas podem ser formadas.
 
-$\frac{5!}{3!.2!}$=$\frac{120}{6\ .\ 2}$ = $\frac{120}{12}$ = 10 duplas
-podem ser formadas
+5\) João e Maria estão jogando um jogo que consiste em lançar 2
+moedas para cima e observar seu resultado. Para João ganhar,
+ele precisa que pelo menos uma delas tenha uma
+coroa como resultado. Qual é a probabilidade de João vencer o jogo?
 
-5\) João e Maria estão jogando um jogo, no qual consiste em lançar 2
-moedas para cima e observar seu resultado após pararem. Para João ganhar
-ele precisa que ao lançar as duas moedas, pelo menos uma delas tenha uma
-coroa como resultado qual a probabilidade de João vencer o jogo?
+R:
 
-Deixar o espaço de 3 linhas para resposta
-
-Resposta:
-
-$P(E)\frac{n(3)}{n(4)}$= $\frac{3}{4}$ ou 75%
+$$P(E)\frac{n(3)}{n(4)}$$ = $$\frac{3}{4}$$ ou 75%.
 
 6\) Um parque de diversões resolveu lançar uma promoção para seus
-clientes, colocou uma urna contendo 1 200 bolinhas enumeradas de 1 a 1
-200, quem encontrasse uma bolinha com o número menor que 10 ganhava um
-prêmio, qual a probabilidade de alguém em 1 chance ganhar o prêmio?
+clientes e colocou uma urna contendo 1.200 bolinhas enumeradas de 1 a 1.200. 
+Aquele que encontrasse uma bolinha com o número menor que 10 ganhava um
+prêmio. Qual é a probabilidade de alguém ganhar o prêmio em uma chance?
 
-Deixar o espaço de 3 linhas para resposta
+R:
 
-Resposta:
+$$P(E)\frac{n(9)}{n(1\ 200)}$$=$$\frac{3}{400}$$ ou 0,75%
 
-$P(E)\frac{n(9)}{n(1\ 200)}$=$\frac{3}{400}$ ou 0,75%
-
-7\) Regiane está indo para uma festa de casamento onde irá usar, um
-vestido, um sapato e um colar, Se ela dispõe de 8 vestidos e 12 sapatos
-e 3 colares para escolher, de quantos modos diferentes Regiane pode se
+7\) Regiane está indo para uma festa de casamento onde irá usar um
+vestido, um sapato e um colar. Se ela dispõe de 8 vestidos, 12 sapatos
+e 3 colares para escolher, de quantos modos diferentes pode se
 vestir?
 
-Deixar o espaço de 3 linhas para resposta
+R:
 
-Respostas:
-
-12 .8 . 3= 288 maneiras diferentes
+12 . 8 . 3= 288 maneiras diferentes
 
 8\) Uma professor está montando um provão final para testar o
-conhecimento de seus alunos, a prova contem 40 testes, cada um com
-quatro alternativas, das quais apenas uma é correta. De quantos maneiras
+conhecimento de seus alunos. Ele contém 40 testes, cada um com
+quatro alternativas, das quais apenas uma é correta. De quantas maneiras
 o gabarito da prova pode ser montado?
 
-Deixar o espaço de 3 linhas para resposta
-
-Respostas:
+R:
 
 4 alternativas
 
 40 Questões
 
-Temos que 4^40^
+Temos que $$4^{40}$$
 
-9\) Rita é professora de uma sala de aula do 8° ano com 40 anos, e ao
-fazer uma pesquisa na sua sala descobriu que 6 alunos são canhotos.
-Certo dia Rita decidiu sortear um livro entre seus alunos, qual a
+9\) Rita é professora de uma sala de aula do 8°. ano com 40 alunos. Ao
+fazer uma pesquisa, descobriu que 6 deles são canhotos.
+Certo dia, ela decidiu sortear um livro para a classe. Qual é a
 probabilidade de um aluno canhoto ganhar?
 
-Deixar o espaço de 3 linhas para resposta
+R:
 
-Resposta:
+$$P(E)\frac{n(6)}{n(40)}$$ = $$\frac{3}{20}$$ = 15%
 
-$P(E)\frac{n(6)}{n(40)}$=$\frac{3}{20}$= 15%
+10\) Hilária é funcionária de uma empresa de telemarketing. Na última
+semana do ano, haverá um sorteio para saber quem trabalhará em cada dia. 
+Sabendo disso, qual é a probabilidade de Hilária trabalhar no
+final de semana? Conside o final de semana incluindo apenas sábado e domingo.
 
-10\) Hilária é funcionária de uma empresa de telemarketing, na última
-semana do ano haverá um sorteio para saber quem trabalhará em cada dia
-da semana, Sabendo se disso qual a probabilidade de Hilária trabalhar no
-final de semana? Considerando final de semana sábado e domingo.
+R:
 
-Deixar o espaço de 3 linhas para resposta
-
-Resposta:
-
-$P(E)\frac{n(2)}{n(7)}$= 28% aproximadamente
+$$P(E)\frac{n(2)}{n(7)}$$ = 28%, aproximadamente.
 
 \colorsec{Treino}
 
-1\) Em uma fábrica de sapatos houve um defeito com umas das maquinas da
-linha de produção, onde após uma pesquisa realizada foi constatado que,
-a cada 100 pares produzidos, 4 pares apresentavam algum tipo de defeito,
-um inspetor ao selecionar 1 par de sapatos aleatoriamente qual a chance
-desse par estar com defeito?
+1\) Em uma fábrica de sapatos, houve um defeito com umas das máquinas da
+linha de produção. Após uma pesquisa realizada, foi constatado que,
+a cada 100 pares produzidos, 4 pares apresentavam algum tipo de defeito.
+Qual é a chance de encontrarmos um par defeituoso ao selecioná-lo aleatoriamente?
 
 a\) 40%
 
@@ -6754,36 +5800,29 @@ c\) 4%
 
 d\) 25%
 
-Resposta: C
-
-BNCC: EF08MA22
-
-Habilidade Saeb:
-
-*  Resolver problemas que envolvam a probabilidade de ocorrência de um
+SAEB: Resolver problemas que envolvam a probabilidade de ocorrência de um
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes
 
-A: incorreta, ao converter errado o valor em porcentagem o
-aluno chegaria a esse valor deslocando erroneamente a virgula.
+BNCC: EF08MA22 -- Calcular a probabilidade de eventos, com base na construção do espaço amostral, utilizando o princípio multiplicativo, e reconhecer que a soma das probabilidades de todos os elementos do espaço amostral é igual a 1.
 
-B: incorreta, este valor seria o número de calcados a ser
-pego e não a porcentagem final provável, logo alternativa incorreta.
+A: Incorreta, pois, ao converter o valor em porcentagem erroneamente, o
+aluno chegaria a esse valor.
 
-C: Correta pois:
+B: Incorreta, pois esse valor seria o número de calçados a serem
+selecionados, e não a porcentagem final.
 
-$P(E)\frac{n(4)}{n(100)}$= 0,04 ou 4%
+C: Correta, pois:
 
-D: incorreta, o aluno poderia chegar a essa conclusão ao
-apenas dividir o número de calcados totais pelo número de pares de
-calcados chegando ao valor descrito na alternativa o que não é o que o
-enunciado pede.
+$$P(E)\frac{n(4)}{n(100)}$$ = 0,04 ou 4%
 
-2\) Em um restaurante de comida típica mineira há diversas
-possibilidades de cardápio, nele você pode escolher 3 tipos diferentes
+D: Incorreta, pois o aluno poderia chegar a essa conclusão ao
+apenas dividir o número de calçados totais pelo número de pares.
+
+2\) Em um restaurante de comida típica mineira, há diversas
+possibilidades de cardápio. Você pode escolher 3 tipos diferentes
 de guarnições, 4 tipos de carnes, 6 tipos de saladas e 5 tipos de
-massas. Quantas possibilidades diferentes de montar o prato um cliente
-pode ter?
+massas. Há quantas possibilidades diferentes de pratos?
 
 a\) 18 possibilidades
 
@@ -6793,38 +5832,31 @@ c\) 60 possibilidades
 
 d\) 300 possibilidades
 
-Resposta: D
-
-BNCC: EF08MA22
-
-Habilidade Saeb:
-
-*  Resolver problemas que envolvam a probabilidade de ocorrência de um
+SAEB: Resolver problemas que envolvam a probabilidade de ocorrência de um
 resultado em eventos aleatórios equiprováveis independentes ou
 dependentes
 
-A: incorreta, o aluno pode realizar uma soma ao invés de uma
-multiplicação, chegando a esse resultado erroneamente.
+BNCC: EF08MA22 -- Calcular a probabilidade de eventos, com base na construção do espaço amostral, utilizando o princípio multiplicativo, e reconhecer que a soma das probabilidades de todos os elementos do espaço amostral é igual a 1.
 
-b: incorreta, o aluno chegara a esse valor caso esquecer do
-elemento "massas", assim multiplicando os outros fatores chegaria a essa
-conclusão.
+A: Incorreta, pois o aluno pode realizar uma soma ao invés de uma
+multiplicação.
 
-c: incorreta, o aluno chegara a esse valor caso esquecer do
-elemento "saladas", assim multiplicando os outros fatores chegaria a
-essa conclusão.
+b: Incorreta, pois o aluno chegará a esse valor caso esqueça do
+elemento "massas".
 
-D: Correta Pois:
+c: Incorreta, pois o aluno chegará a esse valor caso esqueça do
+elemento "saladas".
 
-Relendo o enunciado temos que:
+D: Correta, pois:
 
-\num{3} 4 . 6 . 5 = 300
+Relendo o enunciado, temos que:
 
-3\) Um casal decidiu inovar na escolha do nome de seu novo filho,
-resolveram colocar todas as letras do alfabeto em um saquinho, a letra
-que fosse sorteada seria a letra inicial do nome.
+4 . 6 . 5 = 300
 
-Em um sorteio em condições justas qual a chance aproximadamente do filho
+3\) Um casal decidiu inovar na escolha do nome de seu novo filho. 
+Todas as letras do alfabeto foram colocadas em um saquinho, sendo que a letra
+que fosse sorteada seria a letra inicial do nome do bebê.
+Em um sorteio em condições justas, qual é a chance, aproximadamente, do filho
 do casal ter a letra L como inicial do seu nome?
 
 a\) 3%
@@ -6835,44 +5867,39 @@ c\) 1%
 
 d\) 0,3%
 
-Resposta: A
+R: A
 
-BNCC: EF08MA22
-
-Habilidade Saeb
-
-*  Resolver problemas que envolvam a probabilidade de ocorrência de um
+SAEB: Resolver problemas que envolvam a probabilidade de ocorrência de um
 resultado em eventos aleatórios equiprováveis independentes ou
-dependentes.
+dependentes
 
-A: Correta Pois:
+BNCC: EF08MA22 -- Calcular a probabilidade de eventos, com base na construção do espaço amostral, utilizando o princípio multiplicativo, e reconhecer que a soma das probabilidades de todos os elementos do espaço amostral é igual a 1.
 
-$P(E)\frac{n(1)}{n(26)}$= 0,03 ou aproximadamente 3%
+A: Correta, pois:
 
-B: incorreta o aluno chegaria a essa conclusão ao confundir
+$$P(E)\frac{n(1)}{n(26)}$$ = 0,03 ou aproximadamente 3%
+
+B: Incorreta, pois o aluno chegaria a essa conclusão ao confundir
 a quantidade de letras do alfabeto com a probabilidade do fato
-acontecer, o que não é correto.
+acontecer.
 
-C: incorreta o aluno chegaria a essa conclusão ao confundir
-a quantidade de iniciais, com a probabilidade do fato acontecer, o que
-não é correto.
+C: Incorreta, pois o aluno chegaria a essa conclusão ao confundir
+a quantidade de iniciais com a probabilidade do fato acontecer.
 
-D: incorreta, ao deslocar a virgula uma casa para direita o
-aluno chegaria a assinalar essa alternativa de forma equivocada.
+D: Incorreta, pois, ao deslocar a virgula uma casa para a direita, o
+aluno chegaria a essa resposta.
 
 # Simulado 1
 
-1\) O número de ouro é um número\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
-misterioso e enigmático, presente em uma infinidade de elementos da
-natureza na forma de uma razão que é considerada por muitos como a
-divina proporção ou razão divina.
+1\) O número de ouro é um número misterioso e enigmático presente 
+em uma infinidade de elementos da natureza na forma de uma razão 
+que é considerada por muitos como a divina proporção ou razão divina.
 
-Essa razão é o número de ouro, e seu valor é:
+Seu valor é:
 
-$\frac{1 + \ \sqrt{5}}{2}$ = 1,6180339887\...
+$$\frac{1 + \ \sqrt{5}}{2}$$ = 1,6180339887\...
 
-Ao observar o enunciado percebe se que falta uma palavra, qual é essa
-palavra?
+Como podemos definir esse número?
 
 a\) Irracional
 
@@ -6882,97 +5909,79 @@ c\) Inteiro
 
 d\) Natural
 
-A: correta pois: está faltando a palavra Irracional no
-texto.
+SAEB: Identificar números racionais ou irracionais.
+BNCC: F09MA02 -- Reconhecer um número irracional como um número real cuja representação decimal é infinita e não periódica, e estimar a localização de alguns deles na reta numérica.
 
-B: incorreta, o aluno pode considerar por semelhança que o
-número seja um racional.
+A: Correta, pois se trata de um número irracional.
 
-C: incorreta, o aluno pode considerar por falta de
-conhecimento que o número seja um inteiro.
+B: Incorreta, pois não se trata de um número racional.
 
-D: incorreta, o aluno pode considerar por falta de
-conhecimento prévio que o número seja de alguma forma natural, devido a
-todas as respostas serem conjuntos.
+C: Incorreta, pois não se trata de um número inteiro.
 
-2\) Um físico durante seus estudos descobriu que a massa de um elétron
-pesa aproximadamente 0,000000000000000000000000000911 g, ao descobrir
-tal fato decidiu mandar uma carta para sua mãe demonstrando tal
-descoberta, para ocupar o menor espaço possível na carta qual outra
-forma que esse número poderia ser reescrito? EF09MA01 Resolver problemas
-de adição, subtração, multiplicação, divisão, potenciação ou radiciação
-envolvendo número reais, inclusive notação científica
+D: Incorreta, pois não se trata de um número natural.
 
-a\) 9,11 ^.^ 10^-29^
+2\) Durante seus estudos, um físico descobriu que a massa de um elétron
+pesa aproximadamente 0,000000000000000000000000000911 g. Outra forma válida de representarmos esse número é 
 
-b\) 9,11 ^.^ 10^-28^
+a\) $$9,11 . 10^{-29}$$
 
-c\) 9,11 ^.^ 10 ^-27^
+b\) $$9,11 . 10^{-28}$$
 
-d\) 9,11 ^.^ 10 ^-26^
+c\) $$ 9,11 . 10^{-27}$$
 
-A: incorreta, o aluno ao contar um "zero" a mais o aluno
-chegaria a esse resultado erroneamente.
+d\) $$9,11 . 10^{-26}$$
 
-B: Correta pois:
+SAEB: Resolver problemas de adição, subtração, multiplicação, divisão, potenciação ou radiciação envolvendo número reais, inclusive notação científica.
 
-Utilizando a notação cientifica temos que:
+BNCC: EF08MA01 -- Efetuar cálculos com potências de expoentes inteiros e aplicar esse conhecimento na representação de números em notação científica.
 
-0,000000000000000000000000000911
+A: Incorreta, pois, ao contar um "zero" a mais, o aluno
+chegaria a esse resultado.
 
-30 casas após a virgula, logo é necessário o descolamento do primeiro
-número após o 0
+B: Correta, pois, utilizando a notação científica, temos que:
 
-Calculando o deslocamento obtém se que o mesmo possui 28 casas logo
-temos que
+0,000000000000000000000000000911,
 
-0,000000000000000000000000000911 = 9,11 ^.^ 10^-28^
+30 casas após a vírgula; logo, é necessário o deslocamento do primeiro
+número após o 0:
 
-Logo Alternativa B
+$$0,000000000000000000000000000911 = 9,11 . 10^{-28}$$
 
-AlternativaC: incorreta, o aluno ao contar um "zero" a menos o aluno
-chegaria a esse resultado erroneamente.
+C: Incorreta, pois, ao contar um "zero" a menos, o aluno
+chegaria a esse resultado.
 
-D: incorreta, o aluno ao contar dois "zeros" a menos o aluno
-chegaria a esse resultado erroneamente.
+D: Incorreta, pois, ao contar dois "zeros" a menos, o aluno
+chegaria a esse resultado.
 
-3\) Em um festival de Música a capacidade total de público era de 50 000
-pessoas, sabendo que compareceram $\frac{99}{100}$ do publico total,
-Qual foi a capacidade atingida nesse festival? EF08MA05 Representar
-frações menores ou maiores que a unidade por meio de representações
+3\) Em um festival de música, a capacidade total de público era de 50.000
+pessoas. Sabendo que $$\frac{99}{100}$$ do público total compareceu, qual foi a capacidade atingida nesse festival?
+
+a\) 49.999
+
+b\) 49.500
+
+c\) 49.001
+
+d\) 4.950
+
+SAEB: Representar frações menores ou maiores que a unidade por meio de representações
 pictóricas ou associar frações a representações pictóricas.
 
-a\) 49 999
+A: Incorreta, pois o aluno pode chegar à conclusão de que 100 - 99 =
+1.
 
-b\) 49 500
+B: Correta, pois, realizando o Cálculo, temos que $$ \frac {50.000} {100} = 500$$
 
-c\) 49 001
+500 . 99 = 49.500.
 
-d\) 4 950
+C: Incorreta, pois o aluno pode considerar retirar 99 do valor de
+50.000 e chegar ao resultado da alternativa descrita.
 
-incorreta, o aluno pode chegar à conclusão que de 100-99 =
-1, logo ao tirar também o valor 1 de 50 000, encontraria o resultado
-correto, o que não é verídico.
-
-Alternativa: B, Correta pois: Realizando o Cálculo temos que 50 000: 100
-= 500
-
-500 . 99 = 49 500 foi o público total.
-
-C: incorreta, o aluno pode considerar retirar 99 do valor de
-50 000 e chegar ao resultado da alternativa descrita, o que significa
-que o aluno realizou um calculo incorreto.
-
-D: incorreta, o aluno pode chegar a esse resultado ao invés
-de multiplicar o valor de 50 000 por 0,99 , realizar a multiplicação por
+D: Incorreta, pois o aluno pode chegar a esse resultado realizando a multiplicação por
 0,099.
 
-4\) Munir paga R\$ 4,25 por uma passagem do ônibus que usa para ir ao
-emprego de enfermeiro Ele ficou sabendo que o preço da passagem terá um
-aumento de 12%. Quanto Munir passará a pagar pela passagem? EF08MA04 -
-Resolver problemas que envolvam porcentagens, incluindo os que lidam com
-acréscimos e decréscimos simples, aplicação de percentuais sucessivos e
-determinação de taxas percentuais.
+4\) João paga R$4,25 por uma passagem de ônibus. Ele ficou sabendo que esse preço terá um aumento de 12%. Quanto João passará a pagar pela passagem?
+
 
 a\) 0,51
 
@@ -6982,32 +5991,33 @@ c\) 4,37
 
 d\) 4,76
 
-A: incorreta, esse seria o acréscimo do valor da passagem,
+SAEB: Resolver problemas que envolvam porcentagens, incluindo os que lidam com
+acréscimos e decréscimos simples, aplicação de percentuais sucessivos e
+determinação de taxas percentuais.
+
+BNCC: EF08MA04 -- Resolver e elaborar problemas, envolvendo cálculo de porcentagens, incluindo o uso de tecnologias digitais.
+
+A: Incorreta, pois esse seria o acréscimo do valor da passagem, e
 não o valor final.
 
-B: incorreta, esse seria o valor da passagem caso houvesse
-12% de desconto e não de acréscimo como o enunciado manda.
+B: Incorreta, pois esse seria o valor da passagem caso ocorresse
+12% de desconto.
 
-C:incorreta, o aluno pode ao invés de calcular a
-porcentagem, realizar um soma chegando a essa conclusão.
+C:Incorreta, pois o aluno pchegaria a esse valor caso somasse os dois números.
 
 D: Correta, pois
 
-4,25\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-x\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--112
+$$\frac {4,25}{x} \times \frac {100}{112}$$
 
 4,25 . 112 = x . 100
 
 476= 100x
 
-X= 4,76
+X = 4,76
 
-5\) Frances tem em seu carro R\$ 15,60 em moedas de R\$ 0,10 e de R\$
-0,25. Dado que o número de moedas de 25 centavos é o dobro do número de
-moedas de 10 centavos, o total de moedas no seu carro é? EF08MA08 -
-Resolver problemas que possam ser representados por sistema de equações
-de 1º grau com duas incógnitas.
+5\) Maria tem em seu carro R$15,60 em moedas de R$ 0,10 e de R$
+0,25. Tento em vista que o número de moedas de 25 centavos é o dobro do número de
+moedas de 10 centavos, o total de moedas é? 
 
 a\) 52
 
@@ -7017,41 +6027,38 @@ c\) 1 352
 
 d\) 78
 
-A: incorreta, o aluno pode considerar que essa seja o valor
-final do número de moedas, mas se trata de apenas o valor de um dos
-termos.
+SAEB: Resolver problemas que possam ser representados por sistema de equações
+de 1º grau com duas incógnitas.
 
-B: incorreta, o aluno pode considerar que essa seja o valor
-final do número de moedas, mas se trata de apenas o valor de um dos
-termos.
+A: Incorreta, pois o aluno pode considerar o valor parcial como o valor
+final do número de moedas.
 
-C: incorreta, o aluno pode considerar no final do sistemas
-realizar a operação de multiplicação ao invés da soma, chegando a essa
-valor erroneamente.
+B: pois o aluno pode considerar o valor parcial como o valor
+final do número de moedas.
 
-D: Correta pois: lendo o enunciado obtemos o seguinte
+C: Incorreta, pois o aluno pode realizar a multipicação ao invés da soma.
+
+D: Correta, pois, lendo o enunciado, obtemos o seguinte
 sistema de equações:
 
 0,25x + 10y = 15,60
 
-X=2y
+X = 2y
 
-Logo já conseguimos substituir a 2ª equação na primeira
+Logo, já conseguimos substituir a 2ª. equação na primeira
 
-0,25 .2y + 0,10y =15,60
+0,25 . 2y + 0,10y = 15,60
 
-0,5y + 0,10 y = 15,60
+0,50y + 0,10y = 15,60
 
 0,60y = 15,60
 
-Y= 26
+Y = 26
 
-Como x é o dobro de y, vamos ter que: x=2y = 2. 26 = 52
+Como x é o dobro de y, temos: x = 2y = 2 . 26 = 52
 
-Logo 52+26= 78 moedas Frances tinha em seu carro, logo alternativa D
-
-6\) Arlindo Resolveu presentear sua filha com 2 caixas de tamanhos
-diferentes, ambas Arlindo pretende encher com joias, qual a equação que
+6\) Arlindo resolveu presentear sua filha com 2 caixas de tamanhos
+diferentes. Arlindo pretende enchê-las com joias. Qual é a equação que
 representa o volume máximo de joias que a filha de Arlindo vai receber
 somando o volume das duas caixas? EF08MA10 - Resolver problemas que
 envolvam cálculo do valor numérico de expressões algébricas.
@@ -7059,15 +6066,17 @@ envolvam cálculo do valor numérico de expressões algébricas.
 ![](./imgSAEB_8_MAT/media/image55.png){width="2.6333333333333333in"
 height="1.5654494750656167in"}
 
-Inserir uma imagem similar a essa contendo os mesmos valores algébricos.
-
-a\) X³ + 6x² + 12x +8
+a\) X³ + 6x² + 12x + 8
 
 b\) 21x³ + 62x² + 44x + 8
 
-c\) 22x³+ 68x²+56x+
+c\) 22x³ + 68x²+ 56x
 
-d\) 22x³+ 68x²+56x+16
+d\) 22x³ + 68x² + 56x + 16
+
+SAEB: Resolver problemas que envolvam volume de prismas retos ou cilindros retos.
+
+BNCC: EF08MA21 -- Resolver e elaborar problemas que envolvam o cálculo do volume de recipiente cujo formato é o de um bloco retangular.
 
 A: incorreta o aluno poderia chegar a essa conclusão
 chegando apenas ao valor do volume apenas da primeira caixa.
@@ -7079,47 +6088,43 @@ C: o aluno chegaria a esse valor calculando incorretamente o
 ultimo termo da equação esquecendo de realizar a última parte valor
 numérico
 
-D: Correta Pois:
+D: Correta, pois, considerando a fórmula do cálculo do volume, temos que:
 
-Considerando a formula do volume é l^.^ l^.^ l = volume temos que:
+1ª. caixa
 
-1ª caixa
+(x+2) . (x+2) . (x+2) =
 
-(x+2) ^.^ (x+2) ^.^ (x+2)=
+(X² + 2x + 2x + 4) . (x + 2) =
 
-(X²+2x+2x+4)^.^ (x+2)=
+(x² + 4x + 4) . (x + 2) =
 
-(x² + 4x +4) ^.^ (x+2)=
+X³ + 2x² + 4x² + 8x + 4x + 8 =
 
-X³ + 2x² +4x² +8x+4x+8=
+X³ + 6x² + 12x + 8
 
-X³ + 6x² + 12x +8
+2ª. caixa
 
-2ª caixa
+(x + 2) . (3x + 2) . (7x + 2)=
 
-(x+2) ^.(^3x+2) ^.(^7x+2)=
+(3x² +2x + 6x + 4) . (7x + 2)=
 
-(3x² +2x+6x +4) ^.^(7x+2)=
+(3x² + 8x + 4 ) . (7x + 2)=
 
-(3x²+8x +4 ) ^.^(7x+2)=
-
-21x³+ 6x² +56x² +16x +28x +8=
+21x³ + 6x² + 56x² + 16x + 28x + 8=
 
 21x³ + 62x² + 44x + 8
 
-Somando o valor das 2 caixas temos que
+Somando o valor das 2 caixas, temos que
 
-X³ + 6x² + 12x +8 + 21x³ + 62x² + 44x + 8=
+X³ + 6x² + 12x +8 + 21x³ + 62x² + 44x + 8 =
 
-22x³+ 68x²+56x+16
+22x³ + 68x² + 56x + 16
 
-7\) Josué é estudante de cálculo em uma faculdade de sua cidade, em um
-dia que estava em casa Josué resolveu calcular quantos segundos demora
-caminhando de um lado para o outro pela casa, e chegou à conclusão que o
-tempo em segundos é determinado pela formula t² - 36 = 0 sendo assim
-quanto tempo Josué demora para atravessar de um lado para o outro na
-casa? EF09MA09 - Resolver problemas que possam ser representados por
-equações polinomiais de 2º grau.
+7\) Josué é estudante de cálculo em uma faculdade de sua cidade. Certo dia, 
+ele resolveu calcular quantos segundos demora caminhando de um lado para o 
+outro em sua casa, e chegou à conclusão de que o tempo em segundos é 
+determinado pela formula t² - 36 = 0. Sendo assim, quanto tempo Josué 
+demora para atravessar de um lado para o outro na casa? 
 
 a\) 36
 
@@ -7129,32 +6134,31 @@ c\) 37
 
 d\) 2
 
-a: incorreta, este valor representa apenas um dos termos da
-equação e não o valor final o aluno pode chegar a assinalar esta
-resposta por apenas observar a equação e procurar uma resposta rápida.
+SAEB: Resolver problemas que possam ser representados por
+equações polinomiais de 2º grau.
 
-b: Correta: pois:
+BNCC: EF08MA09 -- Resolver e elaborar, com e sem uso de tecnologias, problemas que possam ser representados por equações polinomiais de 2º grau do tipo ax2 = b.
 
-Realizando a operação obtemos:
+a: Incorreta, pois esse valor representa apenas um dos termos da
+equação.
+
+b: Correta, pois, realizando a operação, obtemos:
 
 t² - 36 = 0
 
-t²= $\sqrt{36}$
+t² = $$\sqrt{36}$$
 
-t= ±6
+t = ± 6
 
-C: incorreta, o aluno pode chegar a esse valor somando todos
-os termos da equação o que não é o que o enunciado pede.
+C: Incorreta, pois o aluno pode chegar a esse valor somando todos
+os termos da equação.
 
-D: incorreta, o aluno pode apenas retirar o termo quadrático
+D: Incorreta, pois o aluno pode apenas retirar o termo quadrático
 e cogitar que essa possa ser a alternativa correta.
 
 8\) Helena resolveu visitar seus pais que moram a 455 km de distância de
-sua cidade, Helena chegou 7 horas depois que saiu de casa. Qual foi a
-velocidade média que helena obteve nesse percurso? EF08MA12 - Resolver
-problemas que envolvam variação de proporcionalidade direta ou inversa
-entre duas ou mais grandezas, inclusive escalas, divisões proporcionais
-e taxa de variação.
+sua cidade. Helena chegou 7 horas após sair de sua casa. Qual foi a
+velocidade média que Helena obteve nesse percurso?
 
 a\) 65 km/h
 
@@ -7164,31 +6168,29 @@ c\) 1,08 km/h
 
 d\) 18,05 km/h
 
-A: Correta pois:
+SAEB: Resolver problemas que envolvam variação de proporcionalidade direta ou inversa entre duas ou mais grandezas, inclusive escalas, divisões proporcionais
+e taxa de variação.
 
-Utilizando a razão $\frac{distância}{\text{tempo}}$ temos que
-$\frac{455}{7}$ = 65km/h
+BNCC: EF08MA12 -- Identificar a natureza da variação de duas grandezas, diretamente, inversamente proporcionais ou não proporcionais, expressando a relação existente por meio de sentença algébrica e representá-la no plano cartesiano.
 
-A velocidade média desse carro foi de 65 km/h
+A: Correta, pois, utilizando a razão $$\frac{distância}{\text{tempo}}$$, temos que
+$$\frac{455}{7}$$ = 65km/h
 
-B: Incorreta: o aluno pode chegar a essa conclusão caso
-dividir a distância pelo valor de 60 minutos ao invés de 7 horas.
+A velocidade média desse carro foi de 65 km/h.
 
-C: incorreta, o aluno chegara a essa conclusão confundindo
-km/h por km/m
+B: Incorreta, pois o aluno pode chegar a essa conclusão caso
+divida a distância pelo valor de 60 minutos ao invés de 7 horas.
 
-D: incorreta o aluno chegara a essa conclusão confundindo
+C: Incorreta, pois o aluno chegará a essa conclusão confundindo
+km/h por km/m.
+
+D: Incorreta, pois o aluno chegará a essa conclusão confundindo
 km/h por m/s.
 
-9\) Considerando a figura, em que ABC é a representação de um triângulo
-equilátero, calcule a medida do ângulo x? EF08MA18- Relacionar o número
-de vértices, faces ou arestas de prismas ou pirâmides, em função do seu
-polígono da base.
-
+9\) Considerando a figura abaixo, em que ABC é a representação de um triângulo
+equilátero, calcule a medida do ângulo x. 
 ![](./imgSAEB_8_MAT/media/image56.png){width="0.9895833333333334in"
 height="1.2604166666666667in"}
-
-Inserir uma imagem similar a essa.
 
 a\) 135°
 
@@ -7198,45 +6200,36 @@ c\) 60°
 
 d\) 300°
 
-A:incorreta, o aluno chegaria a essa conclusão realizando
-apenas a primeira parte do cálculo esquecendo da figura triangular
-inserida abaixo do octógono.
+SAEB: Relacionar o número de vértices, faces ou arestas de prismas ou pirâmides, em função do seu polígono da base.
 
-B: Correta pois: Utilizando a Fórmula para obter o valor da
-figura temos que:
+BNCC: EF08MA18 -- Reconhecer e construir figuras obtidas por composições de transformações geométricas (translação, reflexão e rotação), com o uso de instrumentos de desenho ou de softwares de geometria dinâmica.
 
-Por método observativo a figura é um octógono = 8 lados
+A: Incorreta, pois o aluno chegaria a essa conclusão realizando
+apenas a primeira parte do cálculo.
 
-Utilizando a formula temos que:
+B: Correta, pois, utilizando a fórmula para obter o valor da
+figura, temos que:
 
-$\frac{Ai = \left( 8 - 2 \right)\ \ .\ \ 180}{8}$ =
+$$\frac{Ai = \left( 8 - 2 \right)\ \ .\ \ 180}{8}$$ =
 
-$\frac{Ai = \ 6\ \ .\ \ 180}{8\ }$ =
+$$\frac{Ai = \ 6\ \ .\ \ 180}{8\ }$$ =
 
-$\frac{Ai = 1080}{8}$ = 135°
+$$\frac{Ai = 1080}{8}$$ = 135°
 
-Agora calculando os ângulos do triangulo
+Calculando os ângulos do triângulo:
 
-$\frac{Ai = \left( 3 - 2 \right)\ \ .\ \ 180}{3}$ =
+$$\frac{Ai = \left( 3 - 2 \right)\ \ .\ \ 180}{3}$$ =
 
-$\frac{Ai = \ \ \ 180}{3}$ = 60°
+$$\frac{Ai = \ \ \ 180}{3}$$ = 60°
 
-Por definição temos que 135° + 60 ° - 360° = 165° logo alternativa B
-
-Logo x= 165°
-
-C: resposta incorreta, o aluno pode considera o valor do
+C: Incorreta, pois o aluno pode considerar o valor do
 ângulo interno do triângulo como resposta, o que é incorreto.
 
-D: o aluno chegaria a esse valor caso não subtraísse também
-o valor do ângulo do triângulo chegando a esse valor erroneamente.
+D: Incorreta, pois o aluno chegaria a esse valor caso não subtraísse também
+o valor do ângulo do triângulo.
 
-10\) As medidas dos ângulos de um triângulo são expressas, em grau, por:
-3x, 4x +15° e 6x-30° Qual é a medida do maior dos ângulos? EF08MA14 -
-Resolver problemas que envolvam relações entre ângulos formados por
-retas paralelas cortadas por uma transversal, ângulos internos ou
-externos de polígonos ou cevianas (altura, bissetriz, mediana,
-mediatriz) de polígonos.
+10\) As medidas dos ângulos de um triângulo são expressas, em graus, por:
+3x, 4x + 15° e 6x - 30°. Qual é a medida do ângulo maior?
 
 a\) 45°
 
@@ -7244,121 +6237,107 @@ b\) 60°
 
 c\) 75°
 
-d)180°
+d\) 180°
 
-A: incorreta, este valor é referente ao menor ângulo do
-triangulo e não do maior como o enunciado pede.
+SAEB: Resolver problemas que envolvam relações entre ângulos formados por
+retas paralelas cortadas por uma transversal, ângulos internos ou
+externos de polígonos ou cevianas (altura, bissetriz, mediana,
+mediatriz) de polígonos.
 
-B: incorreta, este valor é referente ao segundo maior ângulo
-do triangulo e não do maior como o enunciado pede.
+BNCC: EF08MA14 -- Demonstrar propriedades de quadriláteros por meio da identificação da congruência de triângulos.
 
-C: correta, pois
+A: Incorreta, pois esse valor é referente ao menor ângulo do
+triângulo.
 
-3x+4x+15+6x-30=180
+B: Incorreta, pois esse valor é referente ao segundo maior ângulo
+do triângulo.
 
-13x -15=180
+C: Correta, pois
+
+3x + 4x + 15 + 6x - 30 = 180
+
+13x - 15 = 180
 
 13x = 195
 
-X=15
+X = 15
 
-Fazendo a substituição temos que os ângulos são
+Fazendo a substituição, temos que os ângulos são
+45º, 75º e 60º.
 
-% Jorge: Procurar exercício 
-3\. 15 = 45
 
-4\. 15 + 15 = 75
+D: Incorreta, pois esse valor é referente ao total da soma dos
+ângulos do triângulo. 
 
-6\. 15 -- 30 = 60
+11\) Um circuito automobilístico possui 3,337 km de perímetro. Uma
+corrida neste circuito consiste em 78 voltas. Considerando que um piloto
+termine a prova, qual é seu deslocamento total?
 
-Logo o ângulo maior é o de valor 75° alternativa c
+a\) 260,286 km
 
-D: incorreta, este valor é referente ao total da soma dos
-ângulos do triangulo e não do maior ângulo como o enunciado pede.
+b\) 3,415 km
 
-11\) Um circuito automobilístico possui 3,337km de perímetro, uma
-corrida neste circuito possui 78 voltas, considerando que um piloto
-termine a prova, qual o deslocamento total que ele fará ao todo?
-Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
-representações bidimensionais (mapas, croquis etc.), plantas de
-ambientes ou vistas, de acordo com condições dadas.
-
-a\) 260, 286 km
-
-b\) 3 415 km
-
-c\) 3 259 km
+c\) 3,259 km
 
 d\) 42,78km
 
-A: correta
+SAEB: Descrever ou esboçar deslocamento de pessoas e/ou de objetos em
+representações bidimensionais (mapas, croquis etc.), plantas de
+ambientes ou vistas, de acordo com condições dadas.
+
+A: Correta, pois
 
 3,337 x 78 voltas = 260,286 km
 
-B: incorreta, o aluno ao invés de uma multiplicação pode
-realizar uma soma em busca da resposta correta, o que não é o que o
-enunciado pede.
+B: Incorreta, pois o aluno realizou a soma dos valores ao invés de multiplicá-los.
 
-C: incorreta, o aluno ao invés de uma multiplicação pode
-realizar uma subtração em busca da resposta correta, o que não é o que o
-enunciado pede.
+C: Incorreta, pois o aluno realizou a subtração dos valores ao invés de multiplicá-los.
 
-D: incorreta, o aluno ao invés de uma multiplicação pode
-realizar uma divisão em busca da resposta correta, o que não é o que o
-enunciado pede.
+D: Incorreta, pois pois o aluno realizou a divisão dos valores ao invés de multiplicá-los.
 
-12\) Geraldo trabalha como digitador em um fórum de sua cidade, um certo
-dia descobriu que digitou 125 000 palavras naquele dia, e assim resolveu
-marcar a quantidade de palavras digitadas no resto da semana e obteve os
+12\) Geraldo trabalha como digitador em um fórum de sua cidade. Certo
+dia, descobriu que digitou 125.000 palavras. Resolveu, então, marcar 
+a quantidade de palavras digitadas no resto da semana, obtendo os
 seguintes números:
 
-1° dia 125 000
+1º: dia 125.000
 
-2° dia 112 000
+2º: dia 112.000
 
-3° dia 175 000
+3º: dia 175.000
 
-4° dia 140 000
+4º: dia 140.000
 
-5/ dia 101.000
+5º: dia 101.000
 
-Quantas palavras por dia em média Geraldo digita? EF08MA25 - Calcular os
+Quantas palavras por dia em média Geraldo digita? 
+
+a\) 125.000
+
+b\) 130.600
+
+c\) 112.000
+
+d\) 175.000
+
+SAEB: Calcular os
 valores de medidas de tendência central de uma pesquisa estatística
 (média aritmética simples, moda ou mediana).
 
-a\) 125 000
+A: Incorreta, pois esse valor é referente apenas ao 1° dia de
+Geraldo.
 
-b\) 130 600
+B: Correta, pois, somando as palavras digitadas durante os dias, temos:
 
-c\) 112 000
+125.000 + 112.000 + 175.000 + 140.000 + 101.000 =
 
-d\) 175 000
+653.000 : 6 = 130.600 palavras em média são digitadas por dia.
 
-A: incorreta, este valor é referente apenas ao 1° dia de
-Geraldo, o enunciado requer uma média aritmética o que pode levar o
-aluno a chegar a assinalar essa alternativa devido a ter este fator na
-semana de Geraldo podendo gerar uma confusão entre outras medidas
-estatísticas.
+C: Incorreta, pois esse valor é referente apenas ao 2° dia de
+Geraldo.
 
-B: Correta pois:
-
-Somando as palavras digitadas durante os dias temos:
-
-125 000 + 112 000 + 175 000 + 140 000 + 101 000=
-
-653 000 : 6 = 130 600 palavras em média são digitadas por dia.
-
-C: incorreta, este valor é referente apenas ao 2° dia de
-Geraldo, o enunciado requer uma média aritmética o que pode levar o
-aluno a chegar a assinalar essa alternativa devido a ter este fator na
-semana de Geraldo podendo gerar uma confusão entre outras medidas
-estatísticas.
-
-D: incorreta, este valor é referente apenas ao 3° dia de
-Geraldo, o enunciado requer uma média aritmética o que pode levar o
-aluno a chegar a assinalar essa alternativa devido a ter este fator na
-semana de Geraldo podendo gerar uma confusão entre outras medidas
-estatísticas.
+D: Incorreta, pois esse valor é referente apenas ao 3° dia de
+Geraldo.
 
 13\) Uma torneira despeja 20 litros de água por minuto. Quanto tempo ela
 gasta para encher uma caixa-d'água com a forma de bloco retangular de
@@ -7373,47 +6352,44 @@ c\) 3 horas e 20 minutos
 
 d\) 20 minutos
 
-A: incorreta, este valor seria correspondente ao valor do
-volume e não a quantidade de tempo, assim o aluno chegaria erroneamente
-a essa alternativa.
+SAEB: Resolver problemas que envolvam medidas de grandezas (comprimento, massa, tempo, temperatura, capacidade ou volume) em que haja conversões entre unidades mais usuais.
 
-B: incorreta, ao converter erroneamente o valor de minutos
+BNCC: EF08MA19 -- Resolver e elaborar problemas que envolvam medidas de área de figuras geométricas, utilizando expressões de cálculo de área (quadriláteros, triângulos e círculos), em situações como determinar medida de terrenos.
+
+A: Incorreta, pois esse valor seria correspondente ao valor do
+volume e não à quantidade de tempo.
+
+B: Incorreta, pois, ao converter erroneamente o valor de minutos
 para horas, o aluno chegaria a essa conclusão.
 
-C: Correta pois:
+C: Correta, pois, para calcular o volume de um bloco retangular, temos que V = l.l.l
 
-Para calcular o volume de um bloco retangular temos que V= l.l.l
-
-Logo substituindo temos que:
+Logo, substituindo :
 
 V= 2.2.1
 
 V=4 m³
 
-4m³ = 4000 litros
+4m³ = 4.000 litros
 
 20 litros \-\-\-\-\-\-\-\-\-\-\-\-- 1 minuto
 
 4000 litros \-\-\-\-\-\-\-\-\-\-\-\-- x minutos
 
+$$\frac {20 \; litros}{4000 \;} = \frac {1 \; minuto}{x \; minutos}$$
+
 20 . x = 4000
 
 X = 200 minutos
 
-200 minutos= 3horas e 20 minutos logo alternativa c
+200 minutos = 3 horas e 20 minutos.
 
-D: incorreta, o aluno chegaria a essa conclusão caso
-inserisse um "zero" a menos na expressão chegando a essa conclusão
-erroneamente.
+D: Incorreta, pois o aluno chegaria a essa conclusão caso
+inserisse um "zero" a menos na expressão.
 
 14\) Para brincar de amigo secreto, uma empresa composta por 40
-funcionários cortou pedaços idênticos de papel e entregou a cada
-funcionário para que escrevesse o próprio nome. Depois, colocaram todos
-os pedaços de papel em uma caixa, Paulo será o primeiro a escolher um
-papel, qual a chance de Paulo tirar o próprio nome na caixa? EF08MA22 -
-Resolver problemas que envolvam a probabilidade de ocorrência de um
-resultado em eventos aleatórios equiprováveis independentes ou
-dependentes
+funcionários cortou pedaços idênticos de papel. Paulo será o primeiro a retirar
+um nome. Qual é a chance de Paulo tirar o próprio nome na caixa?
 
 a\) 2,5 %
 
@@ -7423,19 +6399,81 @@ c\) 0,25%
 
 d\) 40%
 
+SAEB: Resolver problemas que envolvam a probabilidade de ocorrência de um
+resultado em eventos aleatórios equiprováveis independentes ou
+dependentes.
+
+BNCC: EF08MA22 -- Calcular a probabilidade de eventos, com base na construção do espaço amostral, utilizando o princípio multiplicativo, e reconhecer que a soma das probabilidades de todos os elementos do espaço amostral é igual a 1.
+
 A: Correta, pois:
 
-$P(E)\frac{n(1)}{n(40)}$= 2,5%
+$$P(E)\frac{n(1)}{n(40)}$$= 2,5%
 
-B: incorreta, pois o aluno poderia considerar o número de
+B: Incorreta, pois o aluno poderia considerar o número de
 tentativas ao invés da probabilidade.
 
-C: incorreta, o aluno chegaria a esse valor deslocando
-incorretamente a virgula 1 casa para esquerda.
+C: Incorreta, pois o aluno chegaria a esse valor deslocando
+incorretamente a virgula para a esquerda.
 
-D: incorreta, o aluno chegaria a essa conclusão ao
-considerar que o número de funcionários seja a quantidade de
-probabilidades o que é incorreto.
+D: Incorreta, pois o aluno chegaria a essa conclusão ao
+considerar o número de funcionários como a quantidade de
+probabilidades.
+
+15\) Dada a equação polinomial de 2º grau: x² - 4x + 3 = 0, determine as soluções reais. Assinale a alternativa correta.
+
+a) x = 1 e x = 3
+
+b) x = 1 e x = -3
+
+c) x = 3 e x = -1
+
+d) x = 2 e x = -3
+
+SAEB: Resolver uma equação polinomial de 2º grau.
+
+BNCC: EF08MA09 -- Resolver e elaborar, com e sem uso de tecnologias, problemas que possam ser representados por equações polinomiais de 2º grau do tipo ax2 = b.
+
+A: Correta, pois, para resolver uma equação polinomial de 2º grau, podemos utilizar a fórmula quadrática, que é dada por $$x = \frac {(-b ± √(b² - 4ac)} {(2a)}$$, onde a, b e c são os coeficientes da equação ax² + bx + c = 0.
+
+No caso da equação x² - 4x + 3 = 0, temos a = 1, b = -4 e c = 3.
+
+B: Incorreta, pois essas soluções não estão de acordo com os cálculos realizados.
+
+C: Correta, pois essas soluções não estão de acordo com os cálculos realizados.
+
+D: Incorreta, pois essas soluções não estão de acordo com os cálculos realizados.
+
+16\) Samuel trabalha como vendedor em uma loja de roupas. Seu salário é
+composto por uma parte fixa mais uma porcentagem em cima do total que
+vende no mês. Em janeiro, houve uma alteração em seu salário, que
+passou a ser um fixo de R$2.500,00 mais 3% em cima de suas vendas.
+Assim, considerando $$x$$ como o total de vendas do mês, a expressão
+algébrica que descreve o salário de Samuel é:
+
+a\) $$2.500 + 3x$$
+
+b\) $$\frac{2.500 + 3x}{100}$$
+
+c\) $$2.500 \times 0,03x$$
+
+d\) $$2.500 + 0,03x$$
+
+SAEB: Identificar uma representação algébrica para o padrão
+ou a regularidade de uma sequência de números racionais ou representar
+algebricamente o padrão ou a regularidade de uma sequência de números
+racionais.
+
+A: Incorreta, pois usou a porcentagem na forma percentual.
+
+B: Incorreta, pois apesar de transformar 3% para $$\frac{3}{100}$$, colocou
+o 100 como denominador da parte fixa do salário, transformando ela para
+25 ao invés de 2500.
+
+C: Incorreta, pois multiplicou a comissão pelo fixo ao invés de somar.
+
+D: Correta, pois
+
+$$\text{Fixo}\ = \ 2.500 \; {Vari}á\text{vel}\  = \ 3\%\ \text{de}\ x \; {Sal}á\text{rio} = 2.500 + 0,03x$$.
 
 # Simulado 2
 
@@ -7444,122 +6482,101 @@ probabilidades o que é incorreto.
 
 a\) 2
 
-b)3
+b\) 3
 
-c)4
+c\) 4
 
-d)5
+d\) 5
 
-A incorreta, o aluno pode considerar que a palavra quadrado
-remeta ao número dois, por semelhança.
+SAEB: Resolver problemas de contagem cuja resolução envolva a aplicação do princípio multiplicativo.
 
-B: incorreta, o aluno pode chegar à conclusão que 5³
-equivalha a 125 onde se tornaria um quadrado perfeito o que está
-incorreto.
+BNCC: EF08MA03 -- Resolver e elaborar problemas de contagem cuja resolução envolva a aplicação do princípio multiplicativo.
 
-C: incorreta por considerar que um quadrado possua 4 lados o
-aluno pode considerar que tenha algo a ver com o número 4, o que está
-incorreto.
+A: Incorreta, pois o aluno pode considerar que a palavra quadrado
+remete ao número dois, por semelhança.
 
-D,Correta: pois 5 x 125 = 625 e $\sqrt{625}$ = 25 logo um
+B: Incorreta, pois o aluno pode chegar à conclusão de que 5³
+equivale a 125, formando um quadrado perfeito.
+
+C: Incorreta, pois o aluno pode se confundir a partir do número de lados do quadrado.
+
+D: Correta, pois 5 x 125 = 625 e $$\sqrt{625}$$ = 25, logo um
 quadrado perfeito.
 
 2\) Um empresa de nanotecnologia resolveu inovar e criar o menor chip do
-mundo em formato de um quadrado de lados de 2,0 ^.^ 10 ^-5^ cm de
+mundo em formato de um quadrado de lados de $$2,0 . 10 ^{-5 cm}$$ de
 comprimento.
+Sabendo dessa informação qual é a área desse chip em cm²?
 
-Sabendo dessa informação qual a área desse chip em cm²? EF09MA01
-Resolver problemas de adição, subtração, multiplicação, divisão,
+a\) $$4,0 . 10^{-10}$$
+
+b\) $$2,0 . 10^{-5}$$
+
+c\) $$4,0 . 10^{-5}$$
+
+d\) $$2,0.10^{-10}$$
+
+SAEB: Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
-científica
+científica.
 
-a\) 4,0 ^.^10^-10^
+BNCC: EF08MA01 -- Efetuar cálculos com potências de expoentes inteiros e aplicar esse conhecimento na representação de números em notação científica.
 
-b\) 2,0^.^ 10^-5^
+A: Correta, pois, considerando a notação científica, temos que
 
-c\) 4,0 ^.^ 10^-5^
-
-d\) 2,0^.^10 ^-10^
-
-A: correta pois
-
-Considerando a notação cientifica temos que
-
-2,0 ^.^ 10 ^-5^ ^.^ 2,0 ^.^ 10 ^-5^ =
+$$2,0 . 10^{-5} . 2,0 . 10^{-5} =$$
 
 Separando os termos
 
-2,0 ^.^ 2,0 =4,0
+2,0 . 2,0 = 4,0
 
-10^-5\ .^ 10^-5^ = 10^-10^
+$$10^{-5} . 10^{-5} = 10^{-10}$$
 
-Logo temos que a área do Nano chip em cm² é 4,0 ^.^ 10^-10^
+Logo temos que a área do Nano chip em cm² é $$4,0 . 10^{-10}$$
 
-B: incorreta, ao errar o jogo de sinal na expressão e não
+B: Incorreta, pois, ao errar o jogo de sinal na expressão e não
 realizar a multiplicação de 2,0 por 2,0, o aluno chegaria a esse
-resultado, erroneamente.
+resultado.
 
-C: incorreta, ao errar o jogo de sinal na expressão o aluno
-chegaria a esse resultado, erroneamente.
+C: Incorreta, pois, ao errar o jogo de sinal na expressão, o aluno
+chegaria a esse resultado.
 
-D: Alternativa B: incorreta, ao não realizar a multiplicação
-de 2,0 por 2,0, o aluno chegaria a esse resultado, erroneamente.
+D: Incorreta, pois, ao errar o jogo de sinal na expressão, o aluno
+chegaria a esse resultado.
 
-3\) Larissa e Leila são irmãs com apenas 1 ano de diferença, ao dividir
-a idade de Larissa pela idade de Leila obtemos o valor de
-0,933333333\... qual a idade das irmãs? EF08MA05 Determinar uma fração
-geratriz para uma dízima periódica.
+3\) Larissa e Leila são irmãs com apenas 1 ano de diferença. Ao dividir
+a idade de Larissa pela idade de Leila, obtemos o valor de
+0,933333333... Qual é a idade de cada irmã?
 
-a\) Larissa tem 13 e Leila 12 anos
+a\) Larissa tem 13 e Leila, 12 anos.
 
-b\) Larissa tem 14 e Leila 15 anos
+b\) Larissa tem 14 e Leila, 15 anos.
 
-c\) Larissa tem 15 anos e Leila 16 anos
+c\) Larissa tem 15 e Leila, 16 anos.
 
-d\) Larissa tem 16 anos e Leila 17 anos
+d\) Larissa tem 16 e Leila, 17 anos.
 
-A: incorreta, este problema tem 2 soluções possíveis, 1ª
-realizando um divisão entre os dois termos, ou encontrando a fração
-geratriz do problema, o aluno pode considerar a alternativa correta
-simplesmente pelo fato da diferença entre as idades serem apenas de ano,
-sem realizar os possíveis cálculos indicados pelo enunciado.
+SAEB: Determinar uma fração geratriz para uma dízima periódica.
 
-B: Correta, pois:
+A: Incorreta, pois este problema tem 2 soluções possíveis. A primeira.
+realizando um divisão entre os dois termos, e a segunda encontrando a fração
+geratriz do problema.
 
-9,3333333\... \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--10 x
+B: Correta, pois temos $$\frac{84}{90}$$. Simplificando por 6, temos que $$\frac{14}{15}$$.
+A idade de Larissa e Leila são respectivamente 14 e 15 anos.
 
-93,333333\...\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100x
+C: Incorreta, pois este problema tem 2 soluções possíveis. A primeira.
+realizando um divisão entre os dois termos, e a segunda encontrando a fração
+geratriz do problema.
 
-93,3333333\... -- 9,333333333333\... = 84
+D: Incorreta, pois este problema tem 2 soluções possíveis. A primeira.
+realizando um divisão entre os dois termos, e a segunda encontrando a fração
+geratriz do problema.
 
-100 x -- 10 x = 90
-
-Logo temos $\frac{84}{90}$ simplificando por 6 temos que $\frac{14}{15}$
-a idade de Larissa e Leila são respectivamente 14 e 15 anos.
-
-C: incorreta, este problema tem 2 soluções possíveis, 1ª
-realizando um divisão entre os dois termos, ou encontrando a fração
-geratriz do problema, o aluno pode considerar a alternativa correta
-simplesmente pelo fato da diferença entre as idades serem apenas de ano,
-sem realizar os possíveis cálculos indicados pelo enunciado.
-
-D: incorreta, este problema tem 2 soluções possíveis, 1ª
-realizando um divisão entre os dois termos, ou encontrando a fração
-geratriz do problema, o aluno pode considerar a alternativa correta
-simplesmente pelo fato da diferença entre as idades serem apenas de ano,
-sem realizar os possíveis cálculos indicados pelo enunciado.
-
-4\) Manoela está a fim de comprar um vestido para sua festa de formatura
-então foi a uma loja e observou que o vestido que queria estava na
-promoção com um desconto de 10%, mas como estava com pressa Manoela
-decidiu voltar outro dia;
-
-Ao retornar a loja em outro dia foi informada que o vestido sofreu um
-aumento de 10% em relação ao valor com desconto, pode se dizer que o
-valor do vestido em relação ao preço original: EF08MA04 - Resolver
-problemas que envolvam porcentagens, incluindo os que lidam com
-acréscimos e decréscimos simples, aplicação de percentuais sucessivos e
-determinação de taxas percentuais.
+4\) Manoela deseja comprar um vestido para sua festa de formatura.
+Encontrou uma peça sendo vendida com um desconto de 10%. Pouco tempo 
+depois, ela sofreu um aumento de 10% sobre o valor com 
+desconto. Em relação ao valor original, o preço do vestido  
 
 a\) Não se alterou.
 
@@ -7569,78 +6586,29 @@ c\) Aumentou 1%.
 
 d\) Aumentou 79,20%.
 
-A: incorreta, o aluno chegará a essa conclusão caso não
-realize os cálculos necessários, onde achara que por dar 10% de desconto
-e depois adicionar 10% logo o valor ficaria nulo, o que é incorreto.
+SAEB: Resolver problemas que envolvam porcentagens, incluindo os que lidam com
+acréscimos e decréscimos simples, aplicação de percentuais sucessivos e
+determinação de taxas percentuais.
 
-B: Correta Pois:
+BNCC: EF08MA04 -- Resolver e elaborar problemas, envolvendo cálculo de porcentagens, incluindo o uso de tecnologias digitais.
 
-Este problema possui duas formas de solução:
+A: Incorreta, pois o aluno chegará a essa conclusão caso não
+realize os cálculos necessários.
 
-1ª forma:
+B: Correta, pois
 
-Valor inicial = x, ao darmos o primeiro desconto temos que x .
-$\frac{1}{10}$ = $\frac{x}{10}$
+Valor inicial = x. Ao darmos o primeiro desconto temos que x . $$\frac{1}{10}$$ = $$\frac{x}{10}$$
 
-Ao acrescermos 10% ao valor dado temos que $\frac{x}{10\ }$ .
-$\frac{9}{10}$ = $\frac{9x}{100}$ ou 0,09 ou 9%, logo o valor final
-diminuiu 1%
+Ao acrescermos 10% ao valor dado, temos que $$\frac{x}{10\ }$$ . $$\frac{9}{10}$$ = $$\frac{9x}{100}$$ ou 0,09 ou 9%, logo, o valor final diminuiu 1%.
 
-2ª forma pelo método da indução, suponhamos que o vestido custe 80 reais
-temos que
+C: Incorreta, pois o aluno pode chegar a essa conclusão devido a
+semelhança entre os termos da resposta correta.
 
-1° desconto
+D: Incorreta, pois o aluno chegaria a essa conclusão caso
+confundisse o valor final do produto com a porcentagem correspondente.
 
-Utilizando a regra de 3 simples temos que:
-
-80\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-x\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--90
-
-80 . 90 = 100x
-
-7200 = 100x
-
-X = 72
-
-Com o acréscimo de 10% temos que
-
-72\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-x\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--110
-
-72 . 110 = 100x
-
-7920 = 100 x
-
-X = 79,20
-
-Retirando o valor 1da primeira situação do valor da segunda temos que
-
-80 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
-
-79,20 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--x
-
-79,20 . 100 = 80 x
-
-7920 = 80 x
-
-X= 99
-
-Logo o valor do vestido diminuiu 1 % alternativa letra B
-
-C: incorreta, o aluno pode chegar a essa conclusão devido a
-semelhança entre os termos da resposta correta e a resposta incorreta,
-uma falta de atenção poderia levar a esse erro.
-
-D: incorreta, o aluno chegaria a essa conclusão caso
-confundisse o valor final do produto com a porcentagem correspondente do
-produto.
-
-5\) Comprei 10 Bolas e 15 Bonecas por R\$ 800,00. Determine o preço de
-cada boneca, sabendo que uma bola e uma boneca custam juntos R\$ 60,00.
-EF08MA08 - Resolver problemas que possam ser representados por sistema
-de equações de 1º grau com duas incógnitas.
+5\) Comprei 10 Bolas e 15 Bonecas por R$ 800,00. Determine o preço de
+cada boneca, sabendo que uma bola e uma boneca custam juntos R$ 60,00.
 
 a\) 20 reais
 
@@ -7650,54 +6618,49 @@ c\) 40 reais
 
 d\) 60 reais
 
-A: correta Pois:
+SAEB: Resolver uma equação polinomial de 1º grau.
 
-Determinando com x = bola e y = boneca temos que
+A: Correta, pois
+
+Determinando com x = bola e y = boneca, temos que
 
 10x + 15y = 800
 
-X+y= 60
+X + y = 60
 
-Isolando o x na segunda equação temos que:
+Isolando o x na segunda equação, temos que:
 
-X= 60 -- y
+X = 60 - y
 
-Substituindo a segunda equação na primeira temos:
+Substituindo a segunda equação na primeira, temos:
 
-10(60 -- y) + 15y = 800
+10(60 - y) + 15y = 800
 
-600 -- 10y + 15y = 800
+600 - 10y + 15y = 800
 
-5y= 200
+5y = 200
 
-Y= 40
+y = 40
 
-Logo se o preço de uma boneca é igual a 40 reais e o preço de uma boneca
-e uma bola custam juntos 60 reais
+Logo, se o preço de uma boneca é igual a 40 reais e o preço de uma boneca
+e uma bola custam juntos 60 reais, 60 - 40 = 20. O preço da bola é 20 reais.
 
-60-40 = 20 o preço da bola é 20 reais logo alternativa A
-
-B: incorreta, o aluno chegaria a essa conclusão caso errasse
+B: Incorreta, pois o aluno chegaria a essa conclusão caso errasse
 a troca de sinal da equação resultante do sistema.
 
-C: incorreta, o aluno pode confundir os resultados entre o
-preço da bola e da boneca, assim assinalaria essa alternativa
-erroneamente.
+C: Incorreta, pois o aluno pode confundir os resultados entre o
+preço da bola e o da boneca.
 
-D: Incorreta: o aluno pode não conseguir deduzir o preço de
-um brinquedo do outro chegando a essa conclusão precipitada.
+D: Incorreta, pois o aluno pode não conseguir deduzir o preço de
+um brinquedo por meio do valor do outro, chegando a essa conclusão precipitada.
 
-6\) Ao jogar um famoso jogo eletrônico, Davi resolveu observar mais cada
-peça do jogo, e descobriu que todas as peças do jogo possui pequenos
-quadrados de lado (x+6) mm considere que a próxima peça que apareceu na
-tela de Davi fosse essa descrita abaixo, qual o valor da área dessa peça
-segundo a observação de Davi? EF08MA10 - Resolver problemas que envolvam
-cálculo do valor numérico de expressões algébricas.
+6\) Ao se divertir com um famoso jogo eletrônico, Davi resolveu analisar cada
+peça apresentada na tela. Ele descobriu que todas elas possuem pequenos
+quadrados de lado (x+6) mm. Sabendo disso, calcule o valor da área da peça representada
+abaixo.  
 
 ![](./imgSAEB_8_MAT/media/image57.png){width="2.058333333333333in"
 height="2.165725065616798in"}
-
-Inserir uma imagem similar a essa
 
 a\) 16x + 96
 
@@ -7707,38 +6670,30 @@ c\) 4x² + 48x+144
 
 d\) x² + 12x + 36
 
-A: incorreta, o aluno poderia ao invés de realizar o cálculo
-da área realizar o cálculo do perímetro, chegando a esse resultado
-incorreto.
+SAEB: Identificar representações algébricas equivalentes.
 
-B: incorreta, o aluno ao errar a multiplicação no termo "x"
-considerará essa resposta como alternativa correta.
+A: Incorreta, pois o aluno poderia, ao invés de realizar o cálculo
+da área, realizar o cálculo do perímetro.
 
-C: Correta pois considerando que cada lado dos quadrados é
-(x+6) e que a área do quadrado é l.l temos que:
+B: Incorreta, pois o aluno errou a multiplicação no termo "x".
 
-(x+6) (x+6)=
+C: Correta, pois, considerando que cada lado dos quadrados tem
+(x+6), e que a área do quadrado é calculada pela fórmula l², temos que:
 
-X² +12x+36
+(x+6) . (x+6) =
+
+X² + 12x + 36
 
 Como temos 4 quadrados na figura:
 
-4 . (X² +12x+36)=
+4 . (X² + 12x+ 36) =
 
-4x² + 48x+144
+4x² + 48x + 144.
 
-Logo alternativa correta letra c
+D: Incorreta, pois, caso o aluno considere calcular apenas 1
+quadrado ao invés da figura toda, chegará a esse resultado erroneamente.
 
-D: incorreta, caso o aluno considere calcular apenas 1
-quadrado ao invés da figurar toda chegará a esse resultado erroneamente.
-
-7\) Pedro é um professor de matemática em um renomado colégio da cidade,
-para representar a sua idade para uma de suas salas de aula Pedro
-utilizou a equação
-
-X² - 2 809 = 0, sendo assim qual a idade real de Pedro? EF09MA09 -
-Resolver problemas que possam ser representados por equações polinomiais
-de 2º grau.
+7\) Para representar a sua idade, Pedro utilizou a equação X² - 2 809 = 0. Sendo assim, qual é a idade real de Pedro? Resolver problemas que possam ser representados por equações polinomiais de 2º grau.
 
 a\) 28 anos
 
@@ -7748,74 +6703,68 @@ c\) 53 anos
 
 d\) 20 anos
 
-A: incorreta, o aluno chegaria a essa conclusão ao pegar
-apenas uma parte da equação correspondente e não o resultado final,
-chegando a uma resposta equivocada.
+SAEB: Resolver uma equação polinomial de 2º grau.
 
-B: incorreta, o aluno chegaria a essa conclusão ao somar uma
-parte da equação correspondente e não o resultado final, chegando a uma
-resposta equivocada.
+A: Incorreta, pois o aluno chegaria a essa conclusão ao considerar
+apenas uma parte da equação correspondente.
 
-C: Correta pois:
+B: Incorreta, pois o aluno chegaria a essa conclusão ao somar uma
+parte da equação correspondente, e não o resultado final.
 
-Realizando as operações obtemos:
+C: Correta, pois:
 
-X² - 2 809=0
+Realizando as operações, obtemos:
+
+X² - 2 809 = 0
 
 X² = 2 809
 
-X= $\sqrt{2\ 809}$
+X= $$\sqrt{2\ 809}$$
 
-X= 53
+X = 53
 
-Logo Pedro tem 53 anos.
+D: Incorreta, pois o aluno chegaria a essa conclusão ao somar os
+elementos da equação correspondente, e não o resultado final.
 
-D: incorreta, o aluno chegaria a essa conclusão ao somar os
-elementos da equação correspondente e não o resultado final, chegando a
-uma resposta equivocada.
+8\) A China é um dos países mais populosos do mundo. Uma de suas
+regiões tem uma população de 7.264 200. habitantes e ocupa uma área de 35.000 km². 
+Qual é a densidade demográfica dessa região? 
 
-8\) A China é um dos países mais populosos do mundo, e uma de suas
-regiões tem uma população de 7 264 200 habitantes e ocupa uma área de 35
-000 km². Qual é a densidade demográfica dessa região? EF08MA12 -
-Resolver problemas que envolvam variação de proporcionalidade direta ou
-inversa entre duas ou mais grandezas, inclusive escalas, divisões
-proporcionais e taxa de variação.
-
-a\) 207, 5 Habitantes/km²
+a\) 207,5 Habitantes/km²
 
 b\) 4,81 Habitantes/km²
 
-c\) 2 075 Habitantes/km²
+c\) 2.075 Habitantes/km²
 
 d\) 20 Habitantes/km²
 
-A: correta pois:
+SAEB: Calcular o resultado de adições, subtrações, multiplicações ou divisões envolvendo número reais.
 
-Utilizando a razão da densidade demográfica que é
+BNCC: EF08MA03 -- Resolver e elaborar problemas de contagem cuja resolução envolva a aplicação do princípio multiplicativo.
 
-$densidade\ demografica = \frac{número\ de\ pessoas\ }{dimensão\ do\ espaço\ em\ km²}$
-Temos que:
+A: Correta, pois, utilizando a razão da densidade demográfica - 
 
-$densidade\ demografica = \frac{7\ 264\ 200}{35\ 000}$
+$$densidade\ demografica = \frac{número\ de\ pessoas\ }{dimensão\ do\ espaço\ em\ km²}$$ -,
+temos que:
 
-$densidade\ demografica = 207,5\ habitantes$/km²
+$$densidade\ demográfica = \frac{7\ 264\ 200}{35\ 000}$$
 
-B: incorreta, o aluno ao invés de realizar a divisão entre
-número de pessoas e dimensão do espaço em km² realizar a divisão da
+$$densidade\ demográfica = 207,5\ habitantes$$/km²
+
+B: Incorreta, pois o aluno, ao invés de realizar a divisão entre
+número de pessoas e dimensão do espaço em km², realizou a divisão da
 dimensão pelo número de pessoas.
 
-C: incorreta, o aluno pode chegar a esse resultado cortando
-um "zero" a mais da expressão chegando nesse resultado erroneamente.
+C: Incorreta, pois o aluno pode chegar a esse resultado cortando
+um "zero" a mais da expressão .
 
-D: incorreta, o aluno pode chegar a esse resultado cortando
-um "zero" a menos da expressão chegando nesse resultado erroneamente.
+D: Incorreta, pois o aluno pode chegar a esse resultado cortando
+um "zero" a menos da expressão.
 
-9\) Um tijolo maciço comum, possui aproximadamente 11 centímetros de
+9\) Um tijolo maciço comum possui aproximadamente 11 centímetros de
 altura e 24 centímetros de comprimento. Para construir uma parede de sua
 casa com o tamanho de 7 metros de largura e 4 de altura, Manoel comprou
-1500 tijolos, essa quantidade foi suficiente? EF08MA18 -
-Construir/desenhar figuras geométricas planas ou espaciais que
-satisfaçam condições dadas.
+1.500 tijolos. Essa quantidade foi suficiente? 
 
 a\) Foi suficiente e sobrou 440 Tijolos
 
@@ -7825,38 +6774,34 @@ c\) Não foi suficiente e Faltou 440 Tijolos
 
 d\) Manoel comprou tijolos necessários porem não houve sobra.
 
-A: Correta pois:
+SAEB: Construir/desenhar figuras geométricas planas ou espaciais que satisfaçam condições dadas.
 
-Calculando a parede da casa obtemos que a mesma possuirá 28m²
+BNCC: EF08MA18 -- Reconhecer e construir figuras obtidas por composições de transformações geométricas (translação, reflexão e rotação), com o uso de instrumentos de desenho ou de softwares de geometria dinâmica.
 
-Cada tijolo possui 0,11 . 0,24 = 0,0264m² de área
+A: Correta, pois
 
-Dividindo 28 : 0,0264 = 1 060 Tijolos
+Calculando a parede da casa obtemos que a mesma possuirá 28m².
 
-Logo 1500 -- 1060 = 440 tijolos sobraram.
+Cada tijolo possui 0,11 . 0,24 = 0,0264m² de área.
 
-B: incorreta, o aluno chegaria a esse valor caso confundisse
-área com perímetro, onde chegaria a esse valor.
+Dividindo $$28 \div 0,0264 = 1.060\; tijolos$$.
 
-C: incorreta, o aluno por meio de indução e não observar o
-conteúdo da alternativa pode ser levado a assinala-la, devido aos
-valores serem iguais mas o enunciado diferente.
+Logo, 1500 - 1060 = 440 tijolos sobraram.
 
-D: incorreta, enunciado inserido para caso o aluno não tenha
-conhecimento prévio, procurara a alternativa mais plausível para o
+B: Incorreta, pois o aluno chegaria a esse valor caso confundisse
+área com perímetro.
+
+C: Incorreta, pois o aluno, por meio de indução, pode ser levado 
+a assinalá-la.
+
+D: Incorreta, pois o aluno pode assinalar a alternativa que pareça mais plausível para o
 enunciado.
 
-10\) Na figura, se AH é a altura e a bissetriz, relativa ao lado BC, do
-triângulo ABC. Qual a medida do ângulo x? EF08MA14 - Resolver problemas
-que envolvam relações entre ângulos formados por retas paralelas
-cortadas por uma transversal, ângulos internos ou externos de polígonos
-ou cevianas (altura, bissetriz, mediana, mediatriz) de polígonos.
+10\) Na figura, AH é a altura e a bissetriz, relativa ao lado BC, do
+triângulo ABC. Qual éa medida do ângulo x?
 
 ![](./imgSAEB_8_MAT/media/image58.png){width="1.4583333333333333in"
 height="2.0in"}
-
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
 
 a\) 136°
 
@@ -7866,39 +6811,33 @@ c\) 44°
 
 d\) 68°
 
-A: correta pois:
+SAEB: Resolver problemas que envolvam relações entre ângulos formados por retas paralelas
+cortadas por uma transversal, ângulos internos ou externos de polígonos ou cevianas (altura, bissetriz, mediana, mediatriz) de polígonos.
 
-Utilizando as informações da imagem temos que
+A: Correta, pois, utilizando as informações da imagem, temos que
 
-68+90 + ângulo BHA = 180
+68 + 90 + ângulo BHA = 180
 
-158 + ângulo BHA =180
+158 + ângulo BHA = 180
 
-Ângulo BHA= 22
+Ângulo BHA = 22.
 
-Logo como há uma bissetriz temos que 22+22= 44°
+Logo, como há uma bissetriz, temos que 22 + 22= 44°
 
-180°-44°= 136°
+180°- 44°= 136°.
 
-Logo alternativa correta letra A
-
-B: incorreta, o aluno chegaria a essa conclusão calculando
+B: Incorreta, pois o aluno chegaria a essa conclusão calculando
 apenas o valor do ângulo BHA.
 
-C: incorreta, o aluno chegaria a esse valor calculando
+C: Incorreta, pois o aluno chegaria a esse valor calculando
 apenas o valor da bissetriz do ângulo.
 
-D: incorreta, o aluno chegaria a essa conclusão considerando
+D: Incorreta, pois o aluno chegaria a essa conclusão considerando
 o valor de outro ângulo diferente ao enunciado.
 
-11\) Iracema quer realizar uma viagem ao exterior, porem decidiu que o
-pais que quer conhecer deve ser um pais que faça divisa com o Brasil,
-pois quer fazer essa viagem de carro, sabendo que a distância da sua
-cidade a esse pais vizinho é de 1 235 km, e que pretende fazer a viagem
-em 30 dias, qual deslocamento diário mínimo Iracema deve fazer para
-completar a viagem no prazo. - Descrever ou esboçar deslocamento de
-pessoas e/ou de objetos em representações bidimensionais (mapas, croquis
-etc.), plantas de ambientes ou vistas, de acordo com condições dadas.
+11\) Sabendo que a distância entre nossa cidade e outra localidade é de 
+1.235 km, e que pretendemos realizar uma viagem para esse destino
+em 30 dias, qual deslocamento diário mínimo devemos fazer?
 
 a\) 37 km por dia
 
@@ -7908,83 +6847,64 @@ c\) 41 km por dia
 
 d\) 42 km por dia
 
-A: o aluno ao invés de realizar uma divisão dos termos, pode
-realizar uma porcentagem chegando a esse resultado erroneamente.
+SAEB: Descrever ou esboçar deslocamento de pessoas e/ou de objetos em representações bidimensionais (mapas, croquis etc.), plantas de ambientes ou vistas, de acordo com condições dadas.
 
-B: incorreta, o aluno pode chegar a essa conclusão
-confundindo o número de dias com a quantidade km a ser percorrido.
+A: pois, o aluno, ao invés de realizar uma divisão dos termos, pode
+realizar uma porcentagem, chegando a esse resultado erroneamente.
 
-C: incorreta, o aluno chegaria a essa conclusão
-desconsiderando as casas decimais, importante para a solução do
-problema.
+B: Incorreta, pois o aluno pode chegar a essa conclusão
+confundindo o número de dias com a quantidade de kms a serem percorridos.
 
-D: Correta pois:
+C: Incorreta, pois o aluno chegaria a essa conclusão
+desconsiderando as casas decimais.
 
-1 235km : 30 dias = 41,16 km diários logo deverá andar com seu carro no
-mínimo 42 km por dia.
+D: Correta, pois
 
-12\) Vicente Resolveu plantar girassóis em sua fazenda, ao pesquisar os
-últimos preços da sementes de girassóis obteve os seguintes resultados:
-EF08MA25 - Calcular os valores de medidas de tendência central de uma
+1.235km : 30 dias = 41,16 km diários; logo, deveremos completar, no
+mínimo, 42 km por dia.
+
+12\) Vicente Resolveu plantar girassóis em sua fazenda. Ao pesquisar os
+últimos preços das sementes de girassóis, obteve os seguintes resultados:
+
+Janeiro: R$12,25 kg
+Fevereiro: R$13,40 kg
+Março: R$12,95 kg
+Abril: R$11,25 kg
+Maio: R$11,20kg
+Junho: R$12,00 kg
+
+Pode se dizer, então, que o preço médio das sementes de girassol nos últimos 6 meses foi?
+
+a\) R$12,17
+
+b\) R$11,20
+
+c\) R$13,40
+
+d\) R$12,12
+
+SAEB: Calcular os valores de medidas de tendência central de uma
 pesquisa estatística (média aritmética simples, moda ou mediana).
 
-Janeiro: R\$12,25 kg
+BNCC: EF08MA25 -- Obter os valores de medidas de tendência central de uma pesquisa estatística (média, moda e mediana) com a compreensão de seus significados e relacioná-los com a dispersão de dados, indicada pela amplitude.
 
-Fevereiro: R\$13,40 kg
+A: Correta, pois
 
-Março: R\$12,95 kg
+Somando os meses, obtemos: 73,05
 
-Abril: R\$11,25 kg
+73,05 : 6 = 12,175.
 
-Maio: R\$11,20kg
+B: Incorreta, pois o aluno chegaria a esse resultado selecionando menor preço.
 
-Junho: R\$12,00 kg
+C: Incorreta, pois o aluno chegaria a esse resultado selecionando o maior valor.
 
-Pode se dizer então que o preço médio nos últimos 6 meses das sementes
-de girassol foi? EF09MA22
+D: Incorreta, pois o aluno chegaria a esse resultado calculando a mediana dos preços.
 
-a\) R\$12,17
-
-b\) R\$11,20
-
-c\) R\$13,40
-
-d\) R\$12,12
-
-A: Correta pois:
-
-Somando os meses obtemos: 73,05
-
-73,05 : 6 = 12, 175 logo alternativa correta letra A
-
-B: incorreta, o aluno chegaria a esse resultado,
-considerando que o enunciado requer o menor preço, e não a média
-aritmética, chegando a uma conclusão equivocada.
-
-C: incorreta, o aluno chegaria a esse resultado,
-considerando que o enunciado requer o maior valor, e não a média
-aritmética, chegando a uma conclusão equivocada.
-
-D: incorreta, o aluno chegaria a esse resultado,
-considerando que o enunciado requer a mediana dos preços, e não a média
-aritmética, chegando a uma conclusão equivocada.
-
-13\) Mateus Resolveu participar de um famoso campeonato de pipa em sua
-cidade, onde a maior pipa vence. Fez então um desenho com as
-determinadas metragens.
-
-Para concluir o seu projeto qual a quantidade em m² de folha de seda que
-Mateus devera comprar para construir a gigantesca pipa? EF08MA19 -
-Resolver problemas que envolvam área de figuras planas.
+13\) Para concluir o projeto de sua pipa, qual é a quantidade em m² de folha de seda que
+Mateus devera comprar? 
 
 ![](./imgSAEB_8_MAT/media/image59.png){width="1.4583333333333333in"
 height="1.6333333333333333in"}
-
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
-
-Para concluir o seu projeto qual a quantidade em m² de folha de seda que
-Mateus devera comprar para construir a gigantesca pipa?
 
 a\) 31,68 m²
 
@@ -7994,1251 +6914,898 @@ c\) 11,6m²
 
 d\) 1,63 m²
 
-A: incorreta, o aluno chegará nesse valor caso considere
-multiplicar as duas diagonais em busca do valor da área, sem utilizar a
-formula necessária.
+SAEB: Resolver problemas que envolvam medidas de grandezas (comprimento, massa, tempo, temperatura, capacidade ou volume) em que haja conversões entre unidades mais usuais.
 
-B: Correta, pois
+BNCC: EF08MA19 -- Resolver e elaborar problemas que envolvam medidas de área de figuras geométricas, utilizando expressões de cálculo de área (quadriláteros, triângulos e círculos), em situações como determinar medida de terrenos.
 
-Utilizando a formula da área do losango temos que:
+A: Incorreta, pois o aluno chegará a esse valor caso considere
+multiplicar as duas diagonais em busca do valor da área.
 
-A=$\frac{\text{D\ .\ d}}{2}$=
+B: Correta, pois, utilizando a formula da área do losango, temos que:
 
-A= $\frac{7,2\ .\ 4,4}{2}$
+A=$$\frac{\text{D\ .\ d}}{2}$$=
+
+A= $$\frac{7,2\ .\ 4,4}{2}$$
 
 A= 15,84 m²
 
-Logo deverá comprar 15,84 m² de folha de seda.
+C: Incorreta, pois o aluno, ao invés de utilizar a fórmula do
+losango para definir a área, pode somar os valores.
 
-C: Incorreta, o aluno ao invés de utilizar a fórmula do
-losango para definir a área, pode somar os valores, e chegar a esse
-valor erroneamente.
+D: Incorreta, pois o aluno, ao invés de utilizar a fórmula do
+losango para definir a área, pode dividir os valores.
 
-D: Incorreta, o aluno ao invés de utilizar a fórmula do
-losango para definir a área, pode dividir os valores, e chegar a esse
-valor erroneamente.
+14\) Joana está tentando se cadastrar em um site de notícias. Ela deve compor 
+uma senha de acesso de 6 caracteres, dos quais os dois primeiros devem ser vogais 
+e os quatro últimos, algarismos de 0 a 9. Quantas possibilidades de senha diferentes 
+Joana pode criar?
+EF08MA22 - 
 
-14\) Joana está tentando se cadastrar em um site de notícias, Para se
-cadastrar ela deve compor uma senha de acesso de 6 caracteres, dos quais
-os dois primeiros devem ser vogais e os quatro últimos, algarismos de 0
-a 9. Quantas possibilidades de senha diferentes Joana pode criar?
-EF08MA22 - Resolver problemas que envolvam a probabilidade de ocorrência
-de um resultado em eventos aleatórios equiprováveis independentes ou
-dependentes
+a\) 250.000 possibilidades
 
-a\) 250 000 possibilidades
+b\) 25.000 possibilidades
 
-b\) 25 000 possibilidades
-
-c\) 2 500 possibilidades
+c\) 2.500 possibilidades
 
 d\) 250 possibilidades
 
-A: Correta pois:
+SAEB: Resolver problemas que envolvam a probabilidade de ocorrência
+de um resultado em eventos aleatórios equiprováveis independentes ou
+dependentes.
 
-Temos que o número de vogais do nosso alfabeto é 5, logo:
+A: Correta, pois, temos que o número de vogais do nosso alfabeto é 5, logo:
 
-5 . 5 . 10 . 10 . 10 . 10 = 250 000 possibilidades de senhas diferentes.
+5 . 5 . 10 . 10 . 10 . 10 = 250.000 possibilidades de senhas diferentes.
 
-B: incorreta, ao não considerar "um elemento multiplicativo
-10" o aluno chegaria a essa conclusão erroneamente.
+B: Incorreta, pois, ao não considerar "um elemento multiplicativo
+10", o aluno chegaria a essa conclusão erroneamente.
 
-C: incorreta, ao não considerar "dois elementos
-multiplicativos 10" o aluno chegaria a essa conclusão erroneamente.
+C: Incorreta, pois, ao não considerar "dois elementos
+multiplicativos 10", o aluno chegaria a essa conclusão erroneamente.
 
-D: incorreta, ao não considerar "três elementos
-multiplicativos 10" o aluno chegaria a essa conclusão erroneamente.
+D: Incorreta, pois, ao não considerar "três elementos
+multiplicativos 10", o aluno chegaria a essa conclusão erroneamente.
+
+15\) No plano cartesiano, considere o triângulo ABC com vértices A(2, 4), B(5, 6) e C(7, 2). A figura obtida após aplicar uma transformação de reflexão em relação ao eixo x nesse triângulo será:
+
+a\) Triângulo A'B'C' com vértices A'(-2, 4), B'(5, -6) e C'(7, -2).
+
+b\) Triângulo A'B'C' com vértices A'(-2, -4), B'(5, -6) e C'(7, -2).
+
+c\) Triângulo A'B'C' com vértices A'(-2, -4), B'(5, 6) e C'(7, 2).
+
+d\) Triângulo A'B'C' com vértices A'(2, -4), B'(-5, -6) e C'(-7, -2).
+
+SAEB: Identificar, no plano cartesiano, figuras obtidas por
+uma ou mais transformações geométricas (reflexão, translação, rotação).
+
+BNCC: EF08MA18 -- Reconhecer e construir figuras obtidas por composições de transformações geométricas (translação, reflexão e rotação), com o uso de instrumentos de desenho ou de softwares de geometria dinâmica.
+
+A: Incorreta, pois os valores dos vértices não condizem com o processo de reflexão.
+
+B: Correta, pois, ao realizar uma reflexão em relação ao eixo x, os pontos mantêm a mesma coordenada x, mas têm sua coordenada y negativa. No triângulo ABC original, o ponto A(2, 4) terá a mesma coordenada x, mas sua coordenada y será negativa, resultando em A'(-2, -4). Da mesma forma, os pontos B(5, 6) e C(7, 2) terão suas coordenadas y negativas após a reflexão, resultando em B'(5, -6) e C'(7, -2), respectivamente.
+
+C: Incorreta, pois os valores dos vértices não condizem com o processo de reflexão.
+
+D: Incorreta, pois os valores dos vértices não condizem com o processo de reflexão.
+
+16\) Considere a tabela abaixo, que apresenta o número de livros vendidos por três livrarias em um determinado mês:
+
+%Paulo: criar uma tabela com as informações abaixo:
+
+Livraria	Número de Livros Vendidos
+Livraria A	120
+Livraria B	80
+Livraria C	150
+
+Com base nesses dados, assinale a alternativa correta:
+
+a\) A Livraria C vendeu mais livros do que a Livraria A e a Livraria B juntas.
+
+b\) A Livraria A vendeu menos livros do que a Livraria B.
+
+c\) A Livraria C vendeu 70 livros a mais do que a Livraria A.
+
+d\) A Livraria B vendeu o dobro de livros em comparação com a Livraria C.
+
+SAEB: Resolver problemas que envolvam dados estatísticos apresentados em tabelas (simples ou de dupla entrada) ou gráficos (barras simples ou agrupadas, colunas simples ou agrupadas, pictóricos, de linhas, de setores ou em histograma).
+
+BNCC: EF08MA25 -- Obter os valores de medidas de tendência central de uma pesquisa estatística (média, moda e mediana) com a compreensão de seus significados e relacioná-los com a dispersão de dados, indicada pela amplitude.
+
+A: Incorreta, pois a Livraria C vendeu 150 livros, enquanto a Livraria A e a Livraria B juntas venderam 120 + 80 = 200 livros. Portanto, as livrarias A e B venderam mais livros do que a Livraria C.
+
+B: Incorreta, pois a Livraria A vendeu 120 livros, enquanto a Livraria B vendeu 80 livros. Portanto, a Livraria B vendeu menos livros do que a Livraria A.
+
+C: Incorreta, pois a diferença entre o número de livros vendidos pela Livraria C (150) e a Livraria A (120) é de 30 livros, e não 70 livros.
+
+D: Correta, pois a Livraria B vendeu 80 livros, enquanto a Livraria C vendeu 150 livros, e 150 é o dobro de 80.
 
 # Simulado 3
 
-1\) Na sequência de Fibonacci os dois primeiros números são 1 e 1. A
-partir daí, cada número é igual à soma dos dois anteriores: 1, 1, 2, 3,
-5, 8, 13, 21, \... Qual é o primeiro número dessa sequência que se
-escreve com três algarismos? EF09MA04
+1\) Em uma corrida, o primeiro lugar ganhou com diferença de 0,035 de
+tempo para o segundo lugar. A diferença de tempo por extenso é:
 
-a\) 144
+a) 35 segundos
 
-b\) 233
+b\) 35 milésimos de segundos
 
-c\) 377
+c\) 35 centésimos de segundos 
 
-d\) 610
+d\) 35 minutos
 
-Continuando a calcular a sequência de Fibonacci temos: 13+21 = 34,
-34+21= 55, 55+34=89, 89+55 = 144
+SAEB: Escrever números racionais (representação fracionária
+ou decimal finita) em sua representação por algarismos ou em língua
+materna ou associar o registro numérico ao registro em língua materna.
 
-Logo alternativa A: Correta
+A: Incorreta, pois 35 segundos não é representado por números decimais.
 
-B incorreta: pois este valor se refere na realidade ao 2°
-número acima de 3 dígitos da sequência de Fibonacci logo não é o que o
-enunciado pede.
+B: Correta, pois, quando há três casas decimais, temos milésimos de segundos.
 
-C incorreta: pois este valor se refere na realidade ao 3°
-número acima de 3 dígitos da sequência de Fibonacci logo não é o que o
-enunciado pede.
+C: Incorreta, pois 35 centésimos de segundos apareceria com duas casas decimais após
+a vírgula.
 
-D incorreta: pois este valor se refere na realidade ao 4°
-número acima de 3 dígitos da sequência de Fibonacci logo não é o que o
-enunciado pede.
+D: Incorreta, pois 3 minutos é uma quantidade representada por um número inteiro
 
-2\) Em um livro de contos infantis Jonas é um viajante do espaço e está
-no planeta Alfa 3301, na história Jonas tem uma canhão de luz em sua
-mochila e resolve usa-la para mandar um sinal para a terra, sabendo que
-esse planeta se encontra a 6,0 ^.^ 10^8^ km da terra e que a velocidade
-da luz é 3,0 ^.^ 10^5^ km/s depois de quanto tempo a luz poderia ser
-observada por alguém na terra? EF09MA01 Resolver problemas de adição,
-subtração, multiplicação, divisão, potenciação ou radiciação envolvendo
-número reais, inclusive notação científica
+2\) Marque a alternativa que classifica as seguintes variáveis, respectivamente:
+Profissão, Batimentos cardíacos, Pressão, Altura.
 
-a\) 20 segundos
+a\) Qualitativa, Quantitativa, Quantitativa, Quantitativa
 
-b\) 200 segundos
+b\) Qualitativa, Qualitativa, Quantitativa, Quantitativa
 
-c\) 20 000 segundos
+c\) Quantitativa, Qualitativa, Quantitativa, Quantitativa
 
-d\) 2 000 segundos
+d\) Quantitativa, Quantitativa, Quantitativa, Quantitativa
 
-A: ao considerar dois "zeros" a menos em qualquer uma das
-notações o aluno chegara a esse resultado erroneamente.
+SAEB: Identificar os indivíduos (universo ou população-alvo
+da pesquisa), as variáveis e os tipos de variáveis (quantitativas ou
+categóricas) em um conjunto de dados.
 
-B: ao considerar um "zero" a menos em qualquer uma das
-notações o aluno chegara a esse resultado erroneamente.
+BNCC: EF08MA25 -- Obter os valores de medidas de tendência central de uma pesquisa estatística (média, moda e mediana) com a compreensão de seus significados e relacioná-los com a dispersão de dados, indicada pela amplitude.
 
-C: ao considerar um "zero" a mais em qualquer uma das
-notações o aluno chegara a esse resultado erroneamente.
+A: Correta, pois somente profissão não pode ser quantificada.
 
-D, correta pois:
+B: Incorreta, pois batimentos cardíacos constituem uma variável quantitativa.
 
-Considerando as notações cientificas temos que:
+C: Incorreta, pois profissão não é uma variável quantitativa e batimentos cardíacos
+não são qualitativos.
 
-6,0^.^10^8^ = separando os termos temos que 6,0 : 3,0 = 2
+D: Incorreta, pois profissão não é uma variável quantitativa.
 
-3,0^.^ 10^5^ e 10^8^:10^5^= 10^3^ = 1000
+3\) Em uma pesquisa qualitativa nominal, foram apresentados dados da cor dos
+olhos da amostra escolhida. O gráfico era todo colorido dentro de um
+círculo dividido em fatias. Qual tipo de gráfico é esse?
 
-Realizando a operação 2 ^.^ 1000= 2000
+a.  Histograma
 
-Logo resposta correta d, 2000 segundos.
+b.  Gráfico de barras
 
-3\) Mario e sua esposa Inês foram viajar para praia ao saírem de sua
-cidade encheram o tanque de gasolina mas ao chegarem na metade do
-caminho observaram que o tanque de gasolina estava apenas com
-$\frac{1}{3}$ de gasolina restando, Sabendo que o Tanque de gasolina
-comporta 60 litros de gasolina, qual o mínimo de abastecimento que o
-casal deve fazer para completar a viagem em segurança? EF08MA05
-Representar frações menores ou maiores que a unidade por meio de
-representações pictóricas ou associar frações a representações
-pictóricas.
+c.  Gráfico de colunas
 
-a\) 20 litros
+d.  Gráfico de linhas 
 
-b\) 40 Litros
+SAEB: Representar ou associar os dados de uma pesquisa
+estatística ou de um levantamento em listas, tabelas (simples ou de
+dupla entrada) ou gráficos (barras simples ou agrupadas, colunas simples
+ou agrupadas, pictóricos, de linhas, de setores, ou em histograma).
 
-c\) 30 litros
+BNCC: EF08MA25 -- Obter os valores de medidas de tendência central de uma pesquisa estatística (média, moda e mediana) com a compreensão de seus significados e relacioná-los com a dispersão de dados, indicada pela amplitude.
 
-d\) 60 litros
+A: Incorreta, pois o histograma é feito por linhas e barras.
 
-A: correta
+B: Incorreta, pois o gráfico de barras é formado por barras retangulares e com base maior
+na horizontal.
 
-Se na metade do caminho o tanque estava apenas com $\frac{1}{3}$ da
-capacidade, temos que em metade da viagem foi consumido $\frac{2}{3}$ do
-tanque, que calculando temos que
+C: Correta, pois esse tipo de gráico apresenta setores de uma figura geométrica,
+geralmente, um círculo.
 
-60 . $\frac{2}{3}$ = $\frac{120}{3}$ = 40 litros foram consumidos Logo
-sobraram 20 litros
+D: Incorreta, pois o gráfico de linhas é representado por pontos unidos por
+linhas.
 
-Se em metade do caminho foram consumidos 40 litros, na outra metade
-analogamente também serão consumidos 40 litros, e como o tanque já
-possui 20 litros que restaram, basta abastecerem apenas mais 20 litros
-de gasolina.
+4\) Em um triângulo retângulo ABC, onde o ângulo B é reto, determine a relação correta entre as medidas dos lados:
 
-B: incorreta, o aluno poderia chegar a essa conclusão ao não
-compreender corretamente o enunciado e considerar a quantidade máxima ao
-invés da quantidade mínima a ser coloca no tanque de combustível.
+a\) a² + b² = c² (Teorema de Pitágoras)
 
-C: incorreta, o aluno poderia chegar a essa conclusão ao não
-compreender corretamente o enunciado e considerar que a quantidade a ser
-abastecida, seria a metade do tanque, devido o enunciado descrever que a
-conferencia de abastecimento foi realizada na metade do percurso.
+b\) a + b = c (Propriedade da soma dos lados)
 
-D: incorreta, o aluno pode chegar a essa conclusão caso
-considere que a família tenha que abastecer completamente o tanque para
-concluir a viagem.
+c\) a = b (Lados congruentes em um triângulo retângulo)
 
-4\) Paloma está iniciando uma nova dieta e sabe que 5,6 g de proteína
-correspondem a 10% da sua necessidade diária desse nutriente. Se ela
-ingerir 14 g de proteína em uma refeição, que porcentagem da sua
-necessidade diária ela estará ingerindo? EF08MA04 - Resolver problemas
-que envolvam porcentagens, incluindo os que lidam com acréscimos e
-decréscimos simples, aplicação de percentuais sucessivos e determinação
-de taxas percentuais.
+d\) a > b > c (Relação entre as medidas dos lados)
 
-a\) 400%
+SAEB: Resolver problemas que envolvam relações métricas do triângulo retângulo, incluindo o teorema de Pitágoras.
 
-b\) 14%
+A: Correta, pois a² + b² = c² representa corretamente o Teorema de Pitágoras, que estabelece que, em um triângulo retângulo, o quadrado da hipotenusa (c) é igual à soma dos quadrados dos catetos (a e b).
 
-c\) 25%
+B: Incorreta, pois, na verdade, a soma dos quadrados dos catetos a e b é igual ao quadrado da hipotenusa c, como afirma o Teorema de Pitágoras.
 
-d\) 7,84%
+C: Incorreta, pois, em um triângulo retângulo, os lados a e b são os catetos, e eles podem ter medidas diferentes.
 
-A: incorreta, o aluno poderia encontrar esse valor
-multiplicando a regra de 3 reta ao invés de fazer a multiplicação
-cruzada.
+D: Incorreta, pois não há uma relação específica entre as medidas dos lados a, b e c de um triângulo retângulo. As medidas podem variar dependendo do triângulo em questão.
 
-B: incorreta, 14 na verdade é quantidade de gramas que foi
-ingerida, o aluno pode confundir os termos e chegar nessa conclusão
-erroneamente.
+5\) Julgue as afirmações e marque a resposta correta.
 
-C: correta pois:
+ I - Todos os números inteiros são racionais.
 
-x\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
+II - Todo número decimal finito pode ser representado por fração.
 
-5,6\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-- 10
+III - O número 21 é primo.
 
-Temos que:
+IV - O número 2 é o único número que é par e primo.
 
-10x = 5,6 . 100
+a)  As questões II e IV são falsas.
 
-10x= 560
+b)  I, II, e IV são verdadeiras.
 
-X= 56 g
+c)  Apenas IV é falsa.
 
-Se 56g é o total de proteínas que Paloma necessita no dia, temos que 14g
+d)  São todas verdadeiras
 
-56\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
+SAEB:
+Converter uma representação de um número racional positivo para outra
+representação.
 
-14\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--x
+A: Incorreta, pois todo número decimal finito pode ser representado por
+fração e o número 2 é o único par que é primo.
 
-56x = 100 . 14
+B: Correta, pois essas são as afirmações certas.
 
-56x=1400
+C: Incorreta, pois o número 2 é o único número par que é primo, então é
+uma verdade
 
-X=25 %
+D: Incorreta, pois a afirmação III é falsa. O número 21 não é primo, ele possui 4
+divisores: 1, 3,7 e 21.
 
-D: incorreta, esse valor seria obtido ao calcular
-incorretamente a regra de três simples, realizando a multiplicação ao
-invés da divisão ao fazer a transição de valores na equação final.
+6\) Ao analisar uma tabela de dupla entrada que apresenta a relação entre o nível de escolaridade e a renda média mensal dos indivíduos, é possível inferir a finalidade da pesquisa estatística realizada. Qual das opções abaixo representa corretamente a finalidade dessa pesquisa?
 
-5\) Uma pilha de 40 madeiras tem 1,7 m de altura e é formada por
-madeiras de 2 cm e de 5 cm de espessura. Quantas são as madeiras
-de 2 cm? EF08MA08 - Resolver problemas que possam ser representados por
-sistema de equações de 1º grau com duas incógnitas.
+a\) Investigar a relação entre a idade e a renda dos indivíduos.
 
-a\) 85
+b\) Comparar a escolaridade entre diferentes faixas etárias.
+
+c\) Identificar os fatores determinantes do nível de escolaridade.
+
+d\) Avaliar a influência da escolaridade na renda dos indivíduos.
+
+SAEB: Inferir a finalidade da realização de uma pesquisa estatística 
+ou de um levantamento, dada uma tabela (simples ou de dupla entrada) 
+ou gráfico, (barras simples ou agrupadas, colunas simples ou
+agrupadas, pictóricos, de linhas, de setores ou em histograma) com os
+dados dessa pesquisa.
+
+A: Incorreta, pois o gráfico não faz essa relação.
+
+B: Correta, pois o gráfica não apresenta faixas etárias.
+
+C: Incorreta, pois o gráfico não apresenta tais fatores.
+
+D: Correta, pois a tabela de dupla entrada apresenta a relação entre duas variáveis: o nível de escolaridade e a renda média mensal. A finalidade dessa pesquisa é analisar e inferir como o nível de escolaridade influencia a renda dos indivíduos. Ao cruzar os dados da tabela, é possível observar se há uma relação entre a escolaridade e a renda e, assim, avaliar a influência dessa variável na determinação da renda média mensal.
+
+7\) Analise as afirmações e marque a correta.
+
+I - A média é o valor que mais se repete.
+
+II - Uma variável quantitativa pode ser expressa por números.
+
+III - O primeiro passo para realizar uma pesquisa estatística é
+delimitar o problema.
+
+a\) Apenas I está correta.
+
+b\) Todas estão erradas.
+
+c\) As afirmações II e III estão corretas.
+
+d\) As afirmações I e II estão corretas.
+
+SAEB: Interpretar o significado das medidas de tendência central (média,
+aritmética simples, moda e mediana) ou da amplitude.
+
+A: Incorreta, pois a I não está correta. mMédia, é a soma dos valores do
+conjunto de dados,dividido pela quantidade dos dados.
+
+B: Incorreta, pois somente a I está incorreta.
+
+C: Correta, pois a I é falsa. Moda é o valor que mais se repete.
+
+D: Incorreta, pois, a definição de moda está incorreta na I.
+
+8\) Um prisma retangular possui 6 faces retangulares. Quantas arestas esse prisma possui?
+
+a\) 8
 
 b\) 10
 
-c\) 34
+c\) 12
 
-d\) 10
+d\) 14
 
-A: incorreta, o aluno chegaria a esse valor caso considerar
-que só há na pilha madeira de 2cm
+SAEB: Relacionar o número de vértices, faces ou arestas de prismas ou pirâmides, em função do seu polígono da base.
 
-B: Correta, pois:
+BNCC: EF08MA18 -- Reconhecer e construir figuras obtidas por composições de transformações geométricas (translação, reflexão e rotação), com o uso de instrumentos de desenho ou de softwares de geometria dinâmica.
 
-X= quantidade de madeira de 2cm\
-Y= quantidade de madeira de 5cm\
-1,7m=170cm\
-X+Y=40\
-2X+5Y=170\
-Multiplicando a primeira equação por (-2) e somando com a segunda,
-fica:\
--2X-2Y=-80\
-2X+5Y=170\
-Somando: 3Y=90
+A: Incorreta, pois, se um prisma retangular tivesse 8 arestas, teria apenas duas arestas por face, o que não seria suficiente para formar as arestas laterais.
 
-Y=90/3=30 madeiras de 5cm.\
-X=40-30=10 madeiras de 2cm.
+B: Incorreta, pois, se um prisma retangular tivesse 10 arestas, teria três arestas por face, o que também não seria suficiente para formar as arestas laterais.
 
-Logo alternativa B.
+C: Incorreta, pois, se um prisma retangular tivesse 12 arestas, teria quatro arestas por face, o que ainda não seria suficiente para formar as arestas laterais.
 
-C: incorreta, o aluno pode considerar essa alternativa
-correta, caso entenda que a pilha só possua madeiras de 5cm
+D: Correta, pois um prisma retangular possui 12 arestas na base (4 arestas do retângulo superior + 4 arestas do retângulo inferior + 4 arestas verticais que conectam as bases). Além disso, existem duas arestas laterais que se estendem verticalmente e conectam os vértices das bases, totalizando 14 arestas.
 
-D: incorreta, o aluno considerará correta essa questão caso
-considere que as madeiras estejam colocadas intercaladas somando 5cm +
-2cm, obtendo 7 cm e dividindo pelo total, logo cálculos equivocados.
+9\) Qual das seguintes opções identifica corretamente a corda de uma circunferência?
 
-6\) Ao simplificar a expressão algébrica (x+1)² + (x-1)² + 2(x+1)(x-1)
-qual valor obtemos ? EF08MA10 - Resolver problemas que envolvam cálculo
-do valor numérico de expressões algébricas.
+a\) Um segmento de reta que liga dois pontos da circunferência.
 
-a\) 4x² + 4
+b\) Um segmento de reta que liga o centro da circunferência a um ponto qualquer da circunferência.
 
-b\) 4x²
+c\) Um arco da circunferência que possui a mesma medida que um ângulo central.
 
-c\) 5x²
+d\) Um segmento de reta que liga o centro da circunferência a um ponto médio de um arco da circunferência.
 
-d\) 4x² + 4x
+SAEB: Reconhecer circunferência/círculo como lugares geométricos, seus elementos (centro, raio, diâmetro, corda, arco, ângulo central, ângulo inscrito).
 
-A: incorreta, o aluno errando o sinal de negativo para
-positivo no termo 2 da expressão final, chegaria a esse resultado
-erroneamente.
+BNCC: EF08MA18 -- Reconhecer e construir figuras obtidas por composições de transformações geométricas (translação, reflexão e rotação), com o uso de instrumentos de desenho ou de softwares de geometria dinâmica.
 
-B: Correta pois:
+A: Incorreta, pois uma corda não é apenas um segmento de reta que liga dois pontos da circunferência, já que não necessariamente passa pelo centro da circunferência.
 
-Ao realizarmos as operações lembrando da fatoração por meio da soma de
-dois quadrados e da diferença de dois quadrados obtemos que:
+B:  Incorreta, pois essa opção descreve o raio da circunferência, não a corda. O raio liga o centro da circunferência a um ponto específico na circunferência, enquanto a corda liga dois pontos quaisquer da circunferência.
 
-(x+1)² + (x-1)² + 2(x+1)(x-1)=
+C: Incorreta, pois um arco da circunferência não pode ser considerado uma corda. A corda é um segmento de reta, enquanto o arco é uma parte da circunferência.
 
-x² + 2x+ 1 + x² -2x +1+ 2(x²-1)=
+D: Correta, pois a definição correta de uma corda é um segmento de reta que liga o centro da circunferência a um ponto médio de um arco da circunferência. Isso significa que a corda passa pelo centro da circunferência e divide o arco em duas partes iguais.
 
-2x² +2 + 2x² - 2=
+10\) Qual é o ponto médio do segmento de reta que tem as extremidades nos pontos A(1, 2) e B(5, 6)?
 
-4x²
+a\) (2, 4)
 
-Logo alternativa correta letra b
+b\) (3, 4)
 
-C: incorreta, ao errar um dos sinais dos termos "x²" o aluno
-chegaria a esse valor equivocadamente.
+c\) (4, 5)
 
-D: incorreta, o aluno errando o sinal de negativo para
-positivo no termo 2x da expressão final, chegaria a esse resultado
-erroneamente.
+d\) (5, 6)
 
-7\) Alfredo é funcionário de uma empresa de cosméticos, ao pegar seu
-holerite percebeu que o seu tempo de serviço em anos é calculado pelo
-valor da soma das raízes da equação:
+SAEB: Determinar o ponto médio de um segmento de reta ou a distância entre dois pontos quaisquer, dadas as coordenadas desses pontos no plano cartesiano.
 
-X² - x -- 42 = 0, sendo assim há quantos anos Alfredo já está na
-empresa? EF09MA09 - Resolver problemas que possam ser representados por
-equações polinomiais de 2º grau.
+BNCC: EF08MA14 -- Demonstrar propriedades de quadriláteros por meio da identificação da congruência de triângulos.
 
-a\) 7 anos
+A: Incorreta, pois os valores obtidos após as operações não correspondem à alternativa.
 
-b\) 6 anos
+B: Correta, pois o ponto médio de um segmento de reta AB, cujas coordenadas dos pontos extremos são A(x1, y1) e B(x2, y2), é dado pelas coordenadas do ponto M(xm, ym), em que xm = (x1 + x2)/2 e ym = (y1 + y2)/2. Substituindo os valores dados na questão, temos: xm = (1 + 5)/2 = 3 e ym = (2 + 6)/2 = 4. Portanto, o ponto médio do segmento de reta AB é M(3, 4). As demais alternativas não correspondem às coordenadas do ponto médio.
 
-c\) 42 anos
+C: Incorreta, pois os valores obtidos após as operações não correspondem à alternativa.
 
-d\) 1 ano
+D: Incorreta, pois os valores obtidos após as operações não correspondem à alternativa.
 
-a incorreta: o aluno pode chegar a essa conclusão
-considerando que o enunciado pede apenas 1 valor das raízes da equação
-descrita e não a soma das raízes, chegando a essa conclusão
-erroneamente.
+11\) Qual das seguintes opções corretamente identifica as relações entre as retas e segmentos de reta no plano cartesiano?
 
-b incorreta: o aluno pode chegar a essa conclusão
-considerando que o enunciado pede apenas 1 valor das raízes da equação
-descrita e não a soma das raízes, chegando a essa conclusão
-erroneamente.
+a\) Duas retas são paralelas se possuem a mesma inclinação e intercepto y diferente. Duas retas são perpendiculares se suas inclinações são negativas inversas uma da outra.
 
-c incorreta: o aluno pode chegar a essa conclusão
-considerando que o enunciado pede o produto das raízes da equação
-descrita e não a soma das raízes, chegando a essa conclusão
-erroneamente.
+b\) Duas retas são concorrentes se possuem a mesma inclinação e intercepto y diferente. Duas retas são paralelas se suas inclinações são negativas inversas uma da outra.
 
-d: Correta, pois:
+c\) Duas retas são perpendiculares se possuem inclinações iguais a zero e interceptos y diferentes. Duas retas são paralelas se possuem inclinações iguais e interceptos y diferentes.
 
-Utilizando Bhaskhara temos:
+d\) Duas retas são paralelas se possuem inclinações iguais e interceptos y diferentes. Duas retas são perpendiculares se suas inclinações são negativas inversas uma da outra.
 
-X² - x -- 42 = 0
+SAEB: Identificar retas ou segmentos de retas concorrentes, paralelos ou perpendiculares.
 
-A=1
+BNCC: EF08MA14 -- Demonstrar propriedades de quadriláteros por meio da identificação da congruência de triângulos.
 
-B= -1
+A: Incorreta, pois duas retas são paralelas se possuem a mesma inclinação e intercepto y iguais.
 
-C= -42
+B: Incorreta, pois duas retas são concorrentes se possuem inclinações diferentes, e duas retas são paralelas se possuem a mesma inclinação.
 
-$$\frac{- ( - 1) \pm \sqrt{{( - 1)}^{2} - 4.1.\ ( - 42)}}{2\ .\ 1}$$
+C: Incorreta, pois duas retas podem ser paralelas sem ter inclinação igual a zero.
 
-$$\frac{1 \pm \sqrt{1 + 168}}{2}$$
+D: Correta, duas retas são perpendiculares se a inclinação de uma é a negativa inversa da outra (isto é, seus coeficientes angulares multiplicados resultam em -1).
 
-$$\frac{1 \pm \sqrt{169}}{2}$$
+12\) Qual das alternativas abaixo representa a condição de existência de um triângulo?
 
-$$\frac{1 \pm 13}{2}$$
+a\) A soma dos ângulos internos é maior que 360 graus.
 
-X1=$\frac{1 + 13}{2}$ = $\frac{14}{2}$ = 7
+b\) A medida de um dos ângulos internos é igual a 90 graus.
 
-X2= $\frac{1 - 13}{2}$= $\frac{- 12}{2}$ = -6
+c\) A medida do maior lado é igual a soma das medidas dos outros dois lados.
 
-8\) A Esmeralda é uma das pedras preciosas mais admiradas em todo o
-mundo. Suponha que uma esmeralda tenha 12,2 g de massa e ocupe um volume
-de 4 cm³. Qual é a densidade dessa pedra? EF08MA12 - Resolver problemas
-que envolvam variação de proporcionalidade direta ou inversa entre duas
-ou mais grandezas, inclusive escalas, divisões proporcionais e taxa de
-variação.
+d\) A medida do menor lado é igual a metade da medida da hipotenusa.
 
-a\) 0,32 g/cm³
+SAEB: Identificar propriedades e relações existentes entre os elementos de um triângulo (condição de existência, relações de ordem entre as medidas dos lados e as medidas dos ângulos internos, soma dos ângulos internos, determinação da medida de um ângulo interno ou externo).
 
-b\) 16, 2 g/cm³
+BNCC: EF08MA14 -- Demonstrar propriedades de quadriláteros por meio da identificação da congruência de triângulos.
 
-c\) 3,05 g/cm³
+A: Incorreta, pois a soma dos ângulos internos de um triângulo é igual a 180 graus.
 
-d\) 8,2 g/cm³
+B: Incorreta, pois, embora seja possível ter triângulos com um ângulo interno igual a 90 graus (triângulo retângulo), essa não é uma condição necessária para a existência de um triângulo.
 
-A: incorreta, o aluno pode chegar a esse valor realizando ao
-invés da divisão de massa por volume, realizar a divisão volume por
-massa.
+C: Correta, pois essa é uma regra aplicada aos triângulos.
 
-B: incorreta, incorreta, o aluno pode chegar a esse valor
-realizando ao invés da divisão de massa por volume, realizar a soma de
-volume e massa.
+D: Incorreta, pois essa alternativa apresenta uma informação contraditória, pois a hipotenusa é o maior lado em um triângulo retângulo, portanto não pode ser menor que um dos outros lados. Além disso, não há relação definida entre a medida do menor lado e a da hipotenusa.
 
-C: correta pois:
+13\) Qual das alternativas abaixo classifica corretamente um triângulo em relação aos seus lados?
 
-Utilizando a razão da densidade que é $d = \frac{m}{v}$ temos que:
+a\) Escaleno: possui todos os lados congruentes.
 
-$d = \frac{12,2}{4}$
+b\) Isósceles: possui exatamente um par de lados congruentes.
 
-d= 3,05 g/cm³
+c\) Equilátero: possui exatamente dois lados congruentes.
 
-D: incorreta, incorreta, o aluno pode chegar a esse valor
-realizando ao invés da divisão de massa por volume, realizar a subtração
-de massa por volume.
+d\) Retângulo: não possui um ângulo interno reto.
 
-9\) Juliano Resolveu cercar os animais de sua fazenda para ter o maior
-controle sobre eles, então começou a construir uma cerca em formato de
-um eneágono regular, para que a construção fique perfeita, qual o valor
-correto que cada ângulo interno da cerca deve possuir? EF08MA18-
-Relacionar o número de vértices, faces ou arestas de prismas ou
-pirâmides, em função do seu polígono da base.
+SAEB: Classificar triângulos ou quadriláteros em relação aos lados ou aos ângulos internos.
 
-![](./imgSAEB_8_MAT/media/image60.png){width="1.575in"
-height="1.3338517060367454in"}
+BNCC: EF08MA14 -- Demonstrar propriedades de quadriláteros por meio da identificação da congruência de triângulos.
 
-Inserir uma imagem similar a essa.
+A: Incorreta, pois um triângulo escaleno não possui lados congruentes.
 
-a\) 180°
+B: Correta, pois essa é a definição de um triângulo isósceles.
 
-b\) 135°
+C: Incorreta, pois um triângulo equilátero possui todos os lados congruentes.
 
-c\) 140°
+D: Incorreta, pois triângulo retângulo possui um ângulo interno reto.
 
-d\) 144°
+14\) Em um triângulo, se um ângulo mede 90 graus, quanto mede a soma dos outros dois ângulos?
 
-A: incorreta, o aluno poderia chegar a esse valor esquecendo
-que a formula contém uma subtração por 2 no numerador chegando assim a
-esse valor erroneamente.
+a\) 60 graus
 
-B: incorreta, o aluno chegaria a esse valor, contando 1 lado
-a menos do polígono
+b\) 90 graus
 
-C: Correta, Pois: Considerando que a formula para calcular
-cada ângulo interno de um polígono regular é
-$\frac{Ai = \left( n - 2 \right)\ \ .\ \ 180}{n}$ temos que:
+c\) 100 graus
 
-Polígono que deve ser feito: Eneágono = 9 lados
+d\) 180 graus
 
-$\frac{Ai = \left( 9 - 2 \right)\ \ .\ \ 180}{9}$ =
+SAEB: Identificar relações entre ângulos formados por retas
+paralelas cortadas por uma transversal.
 
-$\frac{Ai = 7\ \ \ .\ \ 180}{9}$ =
+BNCC: EF08MA14 -- Demonstrar propriedades de quadriláteros por meio da identificação da congruência de triângulos.
 
-$\frac{Ai = 1260}{9}$ = 140° logo alternativa C
+A: Incorreta, pois o aluno errou na soma dos ângulos.
 
-D: o aluno chegaria a essa conclusão caso contasse 1 lado a
-mais na figura do polígono regular chegando assim a esse resultado
-erroneamente.
+B: Incorreta, pois o aluno não soube aplicar a soma dos ângulos internos.
 
-10\) Em um triângulo, dois ângulos externos medem 110° e 120°. Os
-ângulos internos desse triângulo medirão, em grau: EF08MA14 - Resolver
-problemas que envolvam relações entre ângulos formados por retas
-paralelas cortadas por uma transversal, ângulos internos ou externos de
-polígonos ou cevianas (altura, bissetriz, mediana, mediatriz) de
-polígonos.
+C: Incorreta, pois o aluno não somou 80º para encontrar o resultado correto.
 
-a\) 50°, 60° e 70°
+D: Correta, pois a soma dos ângulos internos de um triângulo é sempre igual a 180 graus. Se um dos ângulos mede 90 graus, a soma dos outros dois ângulos deve ser igual a 180 - 90 = 90 graus.
 
-b\) 80°, 60° e 70°
+15\) Um terreno tem formato retangular e sua largura mede 20m. Um outro terreno, que é uma ampliação do primeiro, tem formato retangular também e sua largura mede 30m. Se o comprimento do primeiro terreno é de 40m, qual é o comprimento do segundo terreno?
 
-c\) 50°, 80° e 70°
+a\) 60 m
 
-d\) 50°, 60° e 80°
+b\) 80 m
 
-A: Correta, Pois:
+c\) 120 m
 
-Se o 1° ângulo externo mede 110° temos que:
+d\) 150 m
 
-110+ 180=290
+SAEB: Resolver problemas que envolvam polígonos semelhantes.
 
-360-290= 70°
+BNCC: EF08MA14 -- Demonstrar propriedades de quadriláteros por meio da identificação da congruência de triângulos.
 
-Já o 2° ângulo mede 120°, logo
+A: Incorreta, pois essa é a metade do comprimento do primeiro terreno, o que não condiz com a proporção estabelecida entre os terrenos.
 
-120+180= 300
+B: Incorreta, pois essa é uma opção que poderia ser confundida com a resposta correta, já que é um múltiplo do comprimento do primeiro terreno. No entanto, não corresponde à proporção estabelecida entre os terrenos.
 
-360-300= 60°
+C: correta, pois sabemos que os terrenos são semelhantes, logo, os lados correspondentes são proporcionais. Como a largura do segundo terreno é 1,5 vezes maior do que a largura do primeiro (30 m/20 m), podemos afirmar que o comprimento do segundo terreno é 1,5 vezes maior do que o comprimento do primeiro terreno.
 
-Logo 60+70 = 130
+D: Incorreta, pois essa é uma opção que poderia ser confundida com a resposta correta, já que é um múltiplo da largura do segundo terreno. No entanto, não corresponde à proporção estabelecida entre os terrenos.
 
-130-180= 50
+16\) Um objeto é lançado verticalmente para cima a partir do solo, com uma velocidade inicial de 30 metros por segundo. O objeto é afetado pela força da gravidade, que causa uma aceleração constante de -9,8 metros por segundo ao quadrado. Qual das seguintes equações polinomiais de 2º grau modela corretamente a altura h (em metros) do objeto em relação ao tempo t (em segundos)?
 
-Logo os ângulos internos do triangulo são 50°,60°e 70°
+a\) h(t) = -9,8t² + 30t
 
-B: incorreta, o aluno chegará a esse resultado casso errar a
-subtração no cálculo do 1° ângulo citado no enunciado.
+b\) h(t) = -9,8t² - 30t
 
-C: incorreta, o aluno chegará a esse resultado casso errar a
-subtração no cálculo do 2° ângulo citado no enunciado.
+c\) h(t) = 9,8t² - 30t
 
-D: incorreta, o aluno chegará a esse resultado casso errar a
-subtração no cálculo do 3° ângulo citado no enunciado.
+d\) h(t) = 9,8t² + 30t
 
-11\) Ao entrar em um velho porão abandonado, Bruno descobriu um mapa com
-um x marcado, e resolveu ir em busca de um suposto tesouro perdido
+SAEB: Inferir uma equação polinomial de 2º grau que modela um problema.
 
-![](./imgSAEB_8_MAT/media/image61.png){width="2.270987532808399in"
-height="1.95in"}
+BNCC: EF08MA09 -- Resolver e elaborar, com e sem uso de tecnologias, problemas que possam ser representados por equações polinomiais de 2º grau do tipo ax² = b.
 
-<https://pixabay.com/pt/vectors/mapa-ilha-mapa-do-tesouro-caminho-7367482/>
+A: Correta, pois a combinação dos termos -9,8t² e 30t representa corretamente a queda da altura do objeto devido à gravidade e o aumento inicial da altura com a velocidade inicial de lançamento.
 
-Inserir um mapa similar a esse, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+B: Incorreta, pois o sinal negativo em ambos os termos não representa corretamente o comportamento do objeto em relação à altura.
 
-Considerando que cada tracinho destacado no mapa represente 1 000
-metros, Quantos km Bruno andou até chegar na marca do X? - Descrever ou
-esboçar deslocamento de pessoas e/ou de objetos em representações
-bidimensionais (mapas, croquis etc.), plantas de ambientes ou vistas, de
-acordo com condições dadas.
+C: Incorreta, pois o sinal positivo em ambos os termos não representa corretamente o comportamento do objeto em relação à altura.
 
-a\) 33 km
-
-b\) 32km
-
-c\) 34km
-
-d\) 35km
-
-A: Correta pois
-
-No total são 33 traços, logo 33 x 1 000 = 33 000 ou 33km
-
-B: incorreta, o aluno ao contar 1 traço a menos chegaria a
-esse valor erroneamente.
-
-C: incorreta, o aluno ao contar 1 traço a mais chegaria a
-esse valor erroneamente.
-
-D: incorreta, o aluno ao contar 2 traços a mais chegaria a
-esse valor erroneamente.
-
-12\) Rodrigo está realizando uma dieta, reduzindo os carboidratos de sua
-comida, Veja o consumo de carboidratos diários de rodrigo durante uma
-semana:
-
-Segunda-feira: 35g
-
-Terça-feira: 32g
-
-Quarta-feira:37g
-
-Quinta-feira: 28 g
-
-Sexta-feira: 22 g
-
-Sábado: 40g
-
-Domingo: 33g
-
-Qual a quantidade média aproximadamente em g que rodrigo consumiu nessa
-semana? EF08MA25 - Calcular os valores de medidas de tendência central
-de uma pesquisa estatística (média aritmética simples, moda ou mediana).
-
-a\) 35 g
-
-b\) 32 g
-
-c\) 37g
-
-d\) 32 g
-
-A: incorreta, este valor é apenas referente ao dia de
-segunda na dieta de Rodrigo o que pode levar o aluno a assinalar essa
-alternativa erroneamente.
-
-B: incorreta, este valor é apenas referente ao dia de terça
-na dieta de Rodrigo o que pode levar o aluno a assinalar essa
-alternativa erroneamente.
-
-C: incorreta, este valor é apenas referente ao dia de Quarta
-na dieta de Rodrigo o que pode levar o aluno a assinalar essa
-alternativa erroneamente.
-
-D: Correta pois:
-
-Somando a quantidade de gramas consumida durante a semana obtemos:
-
-35+32+37+28+22+40+33 = 227
-
-227 : 7 = 32, 42 logo alternativa D 32 gramas.
-
-13\) A água do mar é salgada e em média, em cada 1 L de água marinha há
-cerca de 35 g de sal, ao pegar um copo com o formato cilíndrico de 6 cm
-de diâmetro de base e 12 cm de altura com agua do mar, quantas g de sal
-esse copo terá? Considere $\Pi$=3 EF08MA20 - Resolver problemas que
-envolvam volume de prismas retos ou cilindros retos.
-
-a\) 0,324 g
-
-b\) 1,134 g
-
-c)11,34g
-
-d\) 35 g
-
-A: incorreta, o aluno pode chegar a essa conclusão ao
-confundir o valor do volume com o valor da quantidade de gramas de sal
-no copo, como o enunciado pede.
-
-B: incorreta, ao inserir um zero a mais na equação o aluno
-chegaria a esse valor incorretamente.
-
-C: Correta pois:
-
-V= $\Pi$. R² .h
-
-V= 3 . 3² . 12
-
-V= 3 . 9 . 12
-
-V = 324 cm³
-
-1 Litro = 1000 cm³
-
-X = 324 cm³
-
-1000x = 324 . 1
-
-X = $\frac{324}{1000}$
-
-X= 0,324 litro
-
-Agora se 1litro de agua marinha contem 35 g de sal temos que
-
-1 \-\-\-\-\-\-\-\-- 35
-
-0,324 \-\-- -x
-
-x.1 = 35 . 0,324
-
-x= 11,34 g de sal
-
-Logo alternativa C
-
-D: incorreta, o aluno poderia chegar a essa conclusão ao
-compreender que o enunciado pede o valor de gramas referente a um litro
-de agua sem ao menos realizar os cálculos, chagando a esse valor
-erroneamente.
-
-14\) Na entrada de um festival de música foram distribuídas pulseiras de
-cores diferentes para cada área do palco, Quem comprou ingressos para
-Área VIP, obteve uma pulseira Vermelha, Quem comprou ingressos para
-Arquibancada ganhou uma pulseira Azul e quem comprou ingressos para a
-pista ganhou uma pulseira verde, Sabendo que foram vendidos 7 000
-ingressos para o setor da pista, 3 000 para o setor de arquibancada e 1
-000 ingressos para a área VIP, qual a probabilidade aproximadamente de
-selecionar alguém aleatoriamente e essa pessoa estar com a pulseira
-vermelha? EF08MA22 - Resolver problemas que envolvam a probabilidade de
-ocorrência de um resultado em eventos aleatórios equiprováveis
-independentes ou dependentes
-
-a\) 63%
-
-b\) 9%
-
-c\) 27%
-
-d\) 91%
-
-A: incorreta, este seria o valor da probabilidade de
-encontrar alguém com a pulseira verde e não a pulseira vermelha como
-enunciado pede.
-
-B: correta Pois
-
-Somando o público do evento temos que:
-
-7 000 + 3 000 + 1 000= 11 000
-
-Utilizando a fórmula temos que:
-
-$P(E)\frac{n(1\ 000)}{n(11\ 000)}$ = $\frac{1}{11}$ ou 9%
-
-C: incorreta, este seria o valor da probabilidade de
-encontrar alguém com a pulseira azul e não a pulseira vermelha como
-enunciado pede.
-
-D: incorreta, esse valor seria a probabilidade de não
-encontrar alguém com uma pulseira vermelha, o aluno poderia chegar a
-essa conclusão interpretando errado o enunciado.
+D: Incorreta, pois o sinal positivo em ambos os termos não representa corretamente o comportamento do objeto em relação à altura.
 
 # Simulado 4
 
-1\) Ao calcularmos $\sqrt{3^{3} + 3²}$ obtemos como resposta:
+1\) Uma cerca retangular tem 10 metros de comprimento e 6 metros de largura. Qual é o perímetro da cerca?
 
-A\) um número natural 243
+a\) 16 m
 
-b\) um número natural 6
+b\) 22 m
 
-c\) um número irracional menor que 20
+c\) 32 m
 
-d\) A potência 3^5^
+d\) 60 m
 
-A: incorreta ao não extrair o valor da raiz o aluno pode
-chegar a essa conclusão
+SAEB: Resolver problemas que envolvam perímetro de figuras planas.
 
-B: Correta. Ao Calcularmos a operação obtemos o valor 6 que
-é um número natural.
+A: Incorreta, pois, ao aplicar a fórmula do perímetro, chegamos a um resultado diferente.
 
-C: incorreta, ao calcular as potencias utilizando uma
-propriedade errada de potencias, o valor seria um irracional menor que
-20, o que estaria incorreto.
+B: Incorreta, pois, ao aplicar a fórmula do perímetro, chegamos a um resultado diferente.
 
-D: incorreta: ao calcular erroneamente a expressão abaixo da
-raiz chegaria a esse valor equivocadamente.
+C: Correta, pois, no caso da cerca retangular descrita na questão, temos que "a" = 10 metros e "b" = 6 metros. Então, podemos calcular o perímetro da seguinte maneira:
 
-2\) A medida média da distância entre a Terra e o Sol é de
-aproximadamente 1,5^.^10^8^ , considerando que fosse possível chegar ao
-sol dentro de um foguete, e que esse foguete estivesse a uma velocidade
-constante de 2,5^.^ 10^4^ km/h, quantas horas demoraria para se chegar
-até o sol? EF09MA01 Resolver problemas de adição, subtração,
-multiplicação, divisão, potenciação ou radiciação envolvendo número
-reais, inclusive notação científica
+P = 2a + 2b
+P = 2(10) + 2(6)
+P = 20 + 12
+P = 32
 
-a\) 10 000 horas
+D: Incorreta, pois, ao aplicar a fórmula do perímetro, chegamos a um resultado diferente.
 
-b\) 0,6 horas
+2\) Quais são os passos para a realização de uma pesquisa estatística?
 
-c\) 6 000 horas
+a\) Definição do problema, seleção da amostra, coleta de dados, análise dos dados, conclusões e recomendações.
 
-d\) 60 000 horas
+b\) Seleção da amostra, definição do problema, coleta de dados, análise dos dados, conclusões e recomendações.
 
-A: incorreta, o aluno pode chegar a essa conclusão caso
-considerar apenas a base 10, esquecendo o restante do calculo
+c\) Coleta de dados, definição do problema, análise dos dados, seleção da amostra, conclusões e recomendações.
 
-B: incorreta Ao realizar o cálculo excluindo a parte de base
-10 o aluno chegaria a esse resultado.
+d\) Análise dos dados, coleta de dados, definição do problema, seleção da amostra, conclusões e recomendações.
 
-C: correta pois
+SAEB: Explicar/descrever os passos para a realização de uma pesquisa estatística ou de um levantamento.
 
-Considerando as notações cientificas temos que:
+BNCC: EF08MA25 -- Obter os valores de medidas de tendência central de uma pesquisa estatística (média, moda e mediana) com a compreensão de seus significados e relacioná-los com a dispersão de dados, indicada pela amplitude.
 
-1,5^.^10^8^ = separando os termos temos que 1,5 : 2,5 = 0,6
+A: Correta, pois essa é a ordem correta de uma pesquisa estatística.
 
-2,5^.^ 10^4^ e 10^8^:10^4^= 10^4^ = 10000
+B: Incorreta, pois o primeiro passo está na posição 2.
 
-Realizando a operação 0,6 ^.^ 10000= 6000
+C: Incorreta, pois o primeiro passo está na posição 2.
 
-Logo resposta correta C, 6000 horas.
+D: Incorreta, pois o primeiro passo está na posição 3.
 
-D: ao considerar um "zero" a mais em qualquer uma das
-notações o aluno chegara a esse resultado erroneamente.
 
-3\) Dois maratonistas estavam correndo uma maratona de 30 km , após 40
-minutos de prova o maratonista A correu $\frac{5}{16}$ do percurso ,
-enquanto o corredor B correu $\frac{9}{20}$ do percurso , qual a
-distancia entre os dois após 40 minutos de prova? EF08MA05 Representar
-frações menores ou maiores que a unidade por meio de representações
-pictóricas ou associar frações a representações pictóricas.
+3\) As notas de Geografia de 20 alunos foram colocadas na tabela abaixo:
 
-a\) 9,375 km
+%Paulo: Criar uma tabela com as informações a seguir:
 
-b\) 4,125 km
+  7,0   5,0   9,0   5,0   8,0   5,0   8,0   9,0   10,0   8,0
+  ----- ----- ----- ----- ----- ----- ----- ----- ------ -----
+  6,0   6,0   7,0   7,0   7,0   5,0   5,0   5,0   6,0    6,0
 
-c\) 13,5 km
+Quantos alunos obtiveram nota maior ou igual a 7,0?
 
-d\) 22,875km
+a\) 8
 
-A: incorreta, esse resultado seria obtido caso o aluno
-apenas calculasse a quilometragem do primeiro atleta do enunciado
+b\) 10
 
-B: correta, pois Calculando o corredor A temos que:
+c\) 9
 
-30 : 16= 1,875 . 5 = 9,375
+d\) 11
 
-Calculando o Corredor B temos que:
+SAEB: Argumentar ou analisar argumentações/conclusões com base nos dados apresentados em tabelas (simples ou de dupla entrada) ou gráficos (barras simples ou agrupadas, colunas simples ou agrupadas, pictóricos, de linhas, de setores ou em histograma).
 
-30: 20= 1,5 . 9 = 13,5
+BNCC: EF08MA25 -- Obter os valores de medidas de tendência central de uma pesquisa estatística (média, moda e mediana) com a compreensão de seus significados e relacioná-los com a dispersão de dados, indicada pela amplitude.
 
-Logo
+A: Incorreta, pois, ao visualizar 2 valores a menos do que
+realmente está na tabela, o aluno chegará a essa conclusão erroneamente.
 
-13,5 -- 9,375 = 4,125
+B: Correta, pois entre as notas fornecidas, temos 10 notas maiores 
+ou iguais a 7,0.
 
-C: incorreta, esse resultado seria obtido caso o aluno
-apenas calculasse a quilometragem do segundo atleta do enunciado.
+C: Incorreta, pois, ao visualizar 1 valor a menos do que realmente
+está na tabela, o aluno chegará a essa conclusão erroneamente.
 
-D: incorreta, esse resultado seria obtido caso o aluno ao
-invés de realizar a diferença entre dois atletas, realizasse a adição.
+D: Incorreta, pois, ao visualizar 1 valor a mais do que realmente
+está na tabela, o aluno chegará a essa conclusão erroneamente.
 
-4\) Natalia iniciou uma dieta rigorosa, cortou todos os carboidratos,
-frituras e guloseimas de sua alimentação, em 1 mês Natalia reduziu sua
-massa corpórea em 5%, chegando a 57 kg. Quantos quilogramas ela reduziu
-de sua massa corpórea no período do regime? EF08MA04 - Resolver
-problemas que envolvam porcentagens, incluindo os que lidam com
-acréscimos e decréscimos simples, aplicação de percentuais sucessivos e
-determinação de taxas percentuais.
+4\) Deseja-se pregar uma fita decorativa ao redor da tampa de um pote
+redondo. Se o diâmetro da tampa mede 12 cm, qual é o comprimento mínimo
+que a fita deve ter para dar a volta completa nela?
 
-a\) 5 kg
+Considere π = 3
 
-b\) 2,85kg
+a\) 72 cm
 
-c\) 3 kg
+b\) 108 cm
 
-d\) 60 kg
+c\) 35 cm
 
-A: incorreta, o aluno pode reduzir o imc do enunciado o
-valor "5" ao invés de 5% chegando nesse valor erroneamente.
+d\) 11 cm
 
-B: incorreta, o aluno chegaria a esse valor caso
-multiplicasse 57 x 0,05 chegando a esse valor.
+SAEB: Resolver problemas que envolvam relações entre os elementos de uma circunferência/círculo (raio, diâmetro, corda, arco, ângulo central, 
+ângulo inscrito).
 
-C: correta, pois
+BNCC: EF08MA18 -- Reconhecer e construir figuras obtidas por composições de transformações geométricas (translação, reflexão e rotação), com o uso de instrumentos de desenho ou de softwares de geometria dinâmica.
 
-Utilizando a regra de 3 simples temos que:
+A: Incorreta, pois o aluno pode esquecer que o valor do raio
+é a metade do diâmetro, chegando nesse valor.
 
-X\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--100
+B: Incorreta, pois ao confundir a fórmula do perímetro da
+circunferência com a fórmula da área da circunferência chegará a esse
+valor.
 
-57\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--95
+C: Incorreta, pois, ao realizar uma soma ao invés de uma
+multiplicação na fórmula, obterá esse valor.
 
-Logo 95 . x = 5700
+D: Correta, pois ao considerar pi = 3, temos que 2.3.6 = 36 cm
 
-X= 60
+5\) Qual das seguintes afirmações é verdadeira sobre polígonos semelhantes?
 
-60 kg -- 57gk = 3kg foi a redução obtida por Natalia.
+a\) Dois polígonos são semelhantes se têm o mesmo número de lados.
 
-D: incorreta, esse valor é correspondente ao peso anterior
-de Natalia, e não a redução de peso obtida.
+b\) Dois polígonos são semelhantes se têm ângulos correspondentes congruentes e lados correspondentes proporcionais.
 
-5\) Duas caixas contêm, conjuntamente, 84 pêssegos. Se fossem tirados
-quatro pêssegos de uma das caixas e colocados na outra, ambas ficariam
-com o mesmo número de pêssegos. Quantos pêssegos contém cada uma das
-caixas? EF08MA08 - Resolver problemas que possam ser representados por
-sistema de equações de 1º grau com duas incógnitas.
+c\) Dois polígonos são semelhantes se têm a mesma medida de área.
 
-a\) 30 pêssegos em uma caixa e 54 na outra
+d\) Dois polígonos são semelhantes se têm os mesmos comprimentos de lado.
 
-b\) 34 pêssegos em uma caixa e 50 na outra
+SAEB: Reconhecer polígonos semelhantes ou as relações existentes entre ângulos e lados correspondentes nesses tipos de polígonos.
 
-c\) 38 pêssegos em uma caixa e 46 na outra
+BNCC: EF08MA18 -- Reconhecer e construir figuras obtidas por composições de transformações geométricas (translação, reflexão e rotação), com o uso de instrumentos de desenho ou de softwares de geometria dinâmica.
 
-d\) 44 pêssegos em uma caixa e 40 na outra
+A: Incorreta, pois o número de lados não é suficiente para determinar se dois polígonos são semelhantes.
 
-A: incorreta, o aluno pode considerar a alternativa correta
-por que satisfaz a condição de conjuntamente terem 84 pêssegos porem não
-satisfaz o segundo passo do enunciado, logo a questão necessita que
-ambos os termos estejam de acordo, estando apenas um termo correto não é
-suficiente que a alternativa esteja correta.
+B: Correta, pois dois polígonos são semelhantes se, ao sobrepor um sobre o outro, as medidas de seus lados correspondentes são multiplicadas por uma mesma constante de proporcionalidade.
 
-B: incorreta, o aluno pode considerar a alternativa correta
-por que satisfaz a condição de conjuntamente terem 84 pêssegos porem não
-satisfaz o segundo passo do enunciado, logo a questão necessita que
-ambos os termos estejam de acordo, estando apenas um termo correto não é
-suficiente que a alternativa esteja correta.
+C: Incorreta, pois mesmo que dois polígonos tenham áreas iguais, eles não necessariamente são semelhantes.
 
-C: correta pois
+D: Incorreta, pois dois polígonos podem ter os mesmos comprimentos de lado, mas não serem semelhantes.
 
-Renomeando as caixas por x e y temos o seguinte sistema:
+6\) Considere um polígono com 7 lados. É correto afirmar que:
 
-X+ y = 84
+a\) É um polígono regular.
 
-x-4 = y+4
+b\) É um polígono não regular.
 
-Isolando o x na 1ª equação temos que
+c\) É um polígono regular ou não regular, dependendo da medida dos seus lados.
 
-x= 84-y
+d\) É um polígono regular ou não regular, dependendo da medida de seus ângulos internos
 
-Inserindo a 1ª equação na segunda temos
+SAEB: Classificar polígonos em regulares e não regulares.
 
-84 -- y -- 4 = y+4
+BNCC: EF08MA18 -- Reconhecer e construir figuras obtidas por composições de transformações geométricas (translação, reflexão e rotação), com o uso de instrumentos de desenho ou de softwares de geometria dinâmica.
 
-76 = 2y
+A: é Incorreta, pois o polígono não possui lados e ângulos congruentes.
 
-Y= 38
+B: Correta, pois essa é uma das características do polígono.
 
-Logo se em uma das caixas tem 38 pêssegos, analogamente na outra caixa
-tem 46 pêssegos. Resposta correta alternativa c
+C: é Incorreta, pois a medida dos lados não influencia na classificação do polígono como regular ou não regular.
 
-D: incorreta, o aluno pode considerar a alternativa correta
-por que satisfaz a condição de conjuntamente terem 84 pêssegos porem não
-satisfaz o segundo passo do enunciado, logo a questão necessita que
-ambos os termos estejam de acordo, estando apenas um termo correto não é
-suficiente que a alternativa esteja correta.
+D: é Incorreta, pois mesmo que os ângulos internos do polígono sejam congruentes, ainda assim é impossível que seus lados sejam congruentes.
 
-6\) Ao chegar em casa Leonardo se deparou com um bilhete em cima de seu
-celular:
+7\) Qual das alternativas abaixo associa corretamente uma equação polinomial de 1º grau com duas variáveis a uma reta no plano cartesiano?
 
-"A senha do wi fi foi trocada, a nova senha é equação resultante destes
-termos:
+a\) y = 2x - 3 corresponde a uma reta com inclinação 2 e intercepto no eixo y de -3.
 
-(a² + 2ab + b²) . 3a²"
+b\) y = -3x + 2 corresponde a uma reta com inclinação -3 e intercepto no eixo x de 2.
 
-Qual a nova senha do wifi da casa de Leonardo? EF08MA10 - Resolver
-problemas que envolvam cálculo do valor numérico de expressões
-algébricas.
+c\) y = 4x + 1 corresponde a uma reta com inclinação 1/4 e intercepto no eixo y de 1.
 
-a\) 3a^4^+ 6a³b+ 3a²b²
+d\) y = -x - 5 corresponde a uma reta com inclinação -1 e intercepto no eixo y de -5.
 
-b\) 6a²b+ 9 ab^4^
+SAEB: Associar uma equação polinomial de 1º grau com duas variáveis a uma reta no plano cartesiano.
 
-c\) 5ab^6^
+BNCC: EF08MA07 -- Associar uma equação linear de 1º grau com duas incógnitas a uma reta no plano cartesiano.
 
-d\) 3a^4^+ 6a³+ 3a²b²
+A: Correta, pois uma equação polinomial de 1º grau com duas variáveis, na forma y = ax + b, representa uma reta no plano cartesiano. O coeficiente a é a inclinação da reta e o coeficiente b é o intercepto no eixo y. Assim, podemos associar a equação y = 2x - 3 com a reta que passa pelo ponto (0, -3) e tem inclinação 2. A inclinação positiva indica que a reta sobe da esquerda para a direita no plano cartesiano. O intercepto no eixo y indica que a reta cruza o eixo y no ponto (0, -3
 
-A: correta, pois
+B: Incorreta, pois alternativa apresenta uma equação com inclinação negativa.
 
-Realizando as operações algébricas temos que:
+C: Incorreta, pois a alternativa apresenta uma equação com inclinação diferente de 1.
 
-(a² + 2ab + b²) . 3a² =
+D: Incorreta, pois a alternativa apresenta uma equação com inclinação diferente de 1.
 
-3a^4^+ 6a³b+ 3a²b²
+8\) Para cobrir 840 m² de um telhado, 14 operários, que apresentam a
+mesma produtividade, gastam 7 horas. Para cobrir outros 3.360 m² do
+telhado, foram contratados outros 14 operários, que também possuem a
+mesma produtividade individual dos operários anteriores. A previsão de
+tempo que esses 12 operários gastariam para realizar esse trabalho É de
 
-Logo alternativa correta letra a
+a\) 3 horas e 30 minutos.
 
-B: Incorreta, o aluno poderia chegar a essa conclusão
-somando dois termos não semelhante na expressão.
+b\) 7 horas.
 
-C: incorreta, o aluno chegaria a essa conclusão apenas
-somando os termos da expressão e não realizando os devidos cálculos
-necessários.
+c\) 14 horas.
 
-D: incorreta, o aluno poderia esquecer de adicionar uma
-letra "b" na expressão devido a quantidade de partes literais que o
-problema exige, chegando a essa conclusão.
+d\) 18 horas e 10 minutos.
 
-7\) Ao Calcularmos o produto das raízes da equação x² - 2x -- 35= 0
-obtemos o deslocamento em metros de um veículo em uma rua deserta, sendo
-assim pode se dizer que o motorista: EF09MA09 - Resolver problemas que
-possam ser representados por equações polinomiais de 2º grau.
+SAEB: Inferir uma equação, inequação polinomial de 1º grau ou um sistema de equações de 1º grau com duas incógnitas que modela um problema.
 
-a\) Movimentou se para frente 7 metros
+BNCC: EF08MA07 -- Associar uma equação linear de 1º grau com duas incógnitas a uma reta no plano cartesiano.
 
-b\) Movimentou se para trás 35 metros
+Alternativa A: Incorreta, pois ,ao realizar incorretamente a montagem da regra
+de 3, o aluno chegará a esse valor incorreto.
 
-c\) Movimentou se para trás 5 metros
+Alternativa B: Incorreta, pois, ao realizar incorretamente a multiplicação do
+resultado final por 2, o aluno chegará a esse resultado equivocadamente.
 
-d\) Movimentou se para frente 2 metros
+Alternativa C: Correta, pois, ao realizarmos a regra de três $$\frac {14}{7} . \frac {28}{x}$$, levando em conta os outros 3.360 m², chegamos a 14 horas.
 
-A: incorreta, este valor é apenas o resultado de uma das
-raízes da equação e não o valor final, o que poderia a levar o aluno
-assinalar a essa alternativa erroneamente.
+Alternativa D: Incorreta, pois, ao realizar incorretamente a montagem da regra
+de 3, o aluno chegará a esse valor incorreto.
 
-B: Correta pois:
+9\) Em uma padaria, há uma torta que pode ser dividida em 8 pedaços iguais. João comeu 3 desses pedaços, e Maria comeu 2/4 da torta. Quem comeu mais torta?
 
-Utilizando Bhaskara temos:
+a\) João
 
-x² - 2x -- 35= 0
+b\) Maria
 
-A= 1
+c\) João e Maria comeram a mesma quantidade de torta
 
-B= -2
+d\) Não é possível determinar a resposta, pois as frações são diferentes.
 
-C= -35
+SAEB: Representar frações menores ou maiores que a unidade
+por meio de representações pictóricas ou associar frações a
+representações pictóricas.
 
-$$\frac{- ( - 2) \pm \sqrt{{( - 2)}^{2} - 4.1.( - 35)}}{2\ .\ 1}$$
+BNCC: EF08MA05 -- Reconhecer e utilizar procedimentos para a obtenção de uma fração geratriz para uma dízima periódica.
 
-$$\frac{2 \pm \sqrt{4 + 140}}{2}$$
+A: Incorreta, pois o aluno provavelmente efetuou a operação de maneira incorreta.
 
-$$\frac{2 \pm \sqrt{144}}{2}$$
+B: Correta, pois $$\frac {2}{4} = \frac {(2 . 2)} {(4 . 2)} = \frac {4}{8} > \frac {3}{8}$$ logo, Maria comeu mais torta.
 
-$$\frac{2 \pm 12}{2}$$
+C: Incorreta, pois a operação demonstra que Maria e João comeram porções diferentes.
 
-X1= $\frac{2 + 12}{2}$ = $\frac{14}{2}$ = 7
+D: Incorreta, pois o aluno deve saber comparar frações diferentes.
 
-X2 = $\frac{2 - 12}{2}$ = $\frac{- 10}{2}$ = -5
+10\) Dois corredores saem da linha de partida ao mesmo tempo. Sabendo que um deles percorre toda a pista em 15 minutos e o outro, em 25 minutos, dentro de quanto tempo eles se encontram novamente na linha de partida?
 
-Multiplicando as raízes obtemos -- 35, logo como o número é negativo
-obtemos que o motorista andou para traz 35 metros
+a\) 5 minutos
+b\) 40 minutos.
+c\) 1 hora e 5 minutos
+d\) 1 hora e 15 minutos
 
-C: incorreta, este valor é apenas o resultado de uma das
-raízes da equação e não o valor final, o que poderia a levar o aluno
-assinalar a essa alternativa erroneamente.
+SAEB: Resolver problemas que envolvam as ideias de múltiplo, divisor, 
+máximo divisor comum ou mínimo múltiplo comum.
 
-D: incorreta, este valor é apenas o resultado da soma das
-raízes da equação e não o valor do produto, o que poderia a levar o
-aluno assinalar a essa alternativa erroneamente.
+BNCC: EF08MA02 -- Resolver e elaborar problemas usando a relação entre potenciação e radiciação, para representar uma raiz como potência de expoente fracionário.
 
-8\) Uma construtora resolveu inovar e lançar o maior arranha céu do
-Brasil que será construído em uma metrópole. A maquete desse novo
-arranha céu foi construída na escala de 1: 390. Sabendo que esse
-edifício terá 102 andares e que, em média, cada andar tem 3 m de altura,
-determine a medida da altura desse edifício na maquete.
+A: Incorreta, pois considerou que o tempo de encontro seria pelo M.D.C ao
+invés do M.M.C. .
 
-EF08MA12 - Resolver problemas que envolvam variação de proporcionalidade
-direta ou inversa entre duas ou mais grandezas, inclusive escalas,
-divisões proporcionais e taxa de variação.
+B: Incorreta, pois apenas foi feita a soma do tempo de cada corredor.
 
-a\) 411 cm
+C: Incorreta, pois foi associado um número errado de minutos.
 
-b\) 30 990 cm
+D: Correta, pois devemos usar a ideia de mínimo múltiplo comum. Assim, calculando o M.M.C dos tempos, temos:
 
-c\) 0,26 cm
+11\) As notas de Geografia de 20 alunos foram colocadas na tabela abaixo:
 
-d\) 78,46 cm
+%Paulo: Criar uma tabela com as informações a seguir:
 
-A: incorreta, o aluno chegará nesse valor caso ao invés de
-realizar uma divisão, realizar uma soma dos termos do enunciado.
+  7,0   5,0   9,0   5,0   8,0   5,0   8,0   9,0   10,0   8,0
+  ----- ----- ----- ----- ----- ----- ----- ----- ------ -----
+  6,0   6,0   7,0   7,0   7,0   5,0   5,0   5,0   6,0    6,0
 
-B: incorreta, o aluno chegará nesse valor caso ao invés de
-realizar uma divisão, realizar uma soma no final da expressão.
+Quantos alunos obtiveram nota maior ou igual a 7,0?
 
-C: incorreta, o aluno chegará nesse valor caso desconsiderar
-o valor de 3 metros de altura por andar, realizando apenas a divisão.
+a\) 8
 
-D: Correta, pois:
+b\) 10
 
-Considerando que o novo prédio terá 96 andares e que cada um possui 3
-metros, logo o prédio terá 306 metros de altura.
+c\) 9
 
-Utilizando a escala 1: 390 temos que
+d\) 11
 
-306 m = 30 600 cm
 
-30 600 / 390 = 78,46 cm.
+SAEB: Argumentar ou analisar argumentações/conclusões com base nos dados apresentados em tabelas (simples ou de dupla entrada) ou gráficos (barras simples ou agrupadas, colunas simples ou agrupadas, pictóricos, de linhas, de setores ou em histograma).
 
-9\) A soma das medidas dos ângulos internos de um polígono regular é
-igual a 1 260°. Qual a medida do ângulo externo? EF08MA18- Relacionar o
-número de vértices, faces ou arestas de prismas ou pirâmides, em função
-do seu polígono da base.
+BNCC: EF08MA25 -- Obter os valores de medidas de tendência central de uma pesquisa estatística (média, moda e mediana) com a compreensão de seus significados e relacioná-los com a dispersão de dados, indicada pela amplitude.
 
-a\) 320°
+A: Incorreta, pois, ao visualizar 2 valores a menos do que
+realmente está na tabela, o aluno chegará a essa conclusão erroneamente.
 
-b\) 9 °
+B: Correta, pois entre as notas fornecidas, temos 10 notas maiores 
+ou iguais a 7,0.
 
-c\) 140°
+C: Incorreta, pois, ao visualizar 1 valor a menos do que realmente
+está na tabela, o aluno chegará a essa conclusão erroneamente.
 
-d\) 40°
+D: Incorreta, pois, ao visualizar 1 valor a mais do que realmente
+está na tabela, o aluno chegará a essa conclusão erroneamente.
 
-A: incorreta, o aluno poderia considerar como correta a
-alternativa ao somar o valor dos ângulos ao invés de subtrair no final
-da expressão.
+12\) Calcule o valor da expressão: 3² + raiz quadrada de 16.
 
-B: incorreta, o aluno poderia considerar esse valor como
-correto ao considerar que o número de lados do polígono seja igual ao
-grau de cada ângulo.
+a\) 13
 
- Alternativa C: incorreta, o aluno chegaria a esse valor caso invertesse
-os valores de ângulos internos e externos chegando a esse resultado
-erroneamente.
+b\) 11
 
-D: Correta pois:
+c\) 7
 
-Si = 180(n -2)
+d\) 10
 
-1260 = 180(n - 2)
+SAEB: Calcular o resultado de potenciação ou radiciação envolvendo números reais.
 
- 1260 : 180 = n - 2
+BNCC: EF08MA02 -- Resolver e elaborar problemas usando a relação entre potenciação e radiciação, para representar uma raiz como potência de expoente fracionário.
 
- n = 7 + 2 = 9
+Alternativa A: Incorreta, pois a resolução da expressão não corresponde a esse resultado.
 
- O polígono tem 9 lados.
+Alternativa B: Incorreta, pois a resolução da expressão não corresponde a esse resultado.
 
- O angulo interno:
+Alternativa C: Incorreta, pois a resolução da expressão não corresponde a esse resultado.
 
-1260: 9 = 140°
+Alternativa D: correta pois 3² significa 3 elevado ao quadrado, ou seja, 3 x 3 = 9.
+$$ \sqrt 16$$ é 4. Assim, a expressão pode ser reescrita como 9 + 4 = 13.
 
- A soma dos ângulos externos em todo polígono regular é 360°
+13\) O maior cometa já descoberto é o Holmes, que possui 2.251 km de
+diâmetro. Quantas classes possui o número que representa o diâmetro do cometa?
 
-O angulo interno com o corresponde angulo externo são suplementares
-(somam 180°)
+a\) 3
 
-Então:
+b\) 2
 
- 180 = 140 + Ae
+c\) 2.251
 
- Ae = 40
+d\) 4
 
- O angulo externo mede 40°
+SAEB: Compor ou decompor números racionais positivos (representação decimal finita) na forma aditiva, ou em suas ordens, ou em adições e multiplicações.
 
-10\) Na figura, o ângulo ADC é reto. A medida do ângulo CBD é: EF08MA14
-- Identificar propriedades e relações existentes entre os elementos de
-um triângulo (condição de existência, relações de ordem entre as medidas
-dos lados e as medidas dos ângulos internos, soma dos ângulos internos,
-determinação da medida de um ângulo interno ou externo)
+A: Incorreta, pois, caso o aluno resolva transformar km em m, esse
+seria o valor, mas não é isso que o enunciado pede.
 
-![](./imgSAEB_8_MAT/media/image62.png){width="1.6833333333333333in"
-height="1.4946183289588801in"}
+B: Correta, pois O número 2.251 possui 2 classes e 4 ordens.
 
-Inserir uma imagem similar a essa, podendo ser alterada as cores e o
-estilo, mas que o conteúdo continue o mesmo.
+C: Incorreta, pois o aluno pode considerar que o numeral
+signifique o valor da classe, o que está incorreto.
 
-a\) 80°
+D: Incorreta, pois o aluno pode confundir classes com ordens.
 
-b\) 40°
+14\) Qual a forma correta de escrever o número 49 em numeração romana?
 
-c\) 30°
+a\) XLVIX
 
-d\) 100°
+b\) LIXV
 
-A: incorreta, o aluno chegaria a essa conclusão caso
-considerasse apenas o primeiro cálculo e não o cálculo completo da
-expressão.
+c\) XLIX
 
-B: o aluno chegaria a esse valor caso não compreendesse
-corretamente o que o enunciado pede, e assim escolhendo uma alternativa
-que o valor contenha na figura descrita acima.
+d\) XLIVIX
 
-C: o aluno chegaria a esse valor caso não compreendesse
-corretamente o que o enunciado pede, e assim escolhendo uma alternativa
-que o valor contenha na figura descrita acima.
+SAEB: Comparar ou ordenar números reais, com ou sem suporte da reta numérica, ou aproximar número reais para múltiplos de potência de 10 mais próxima.
 
-D: Correta. Pois:
+A: Incorreta, pois o aluno pode chegar a essa conclusão
+esquecendo que que no sistema romano são apenas em casos específicos de
+impossibilidade de colocar mais de 3 símbolos iguais para representar o
+mesmo número para inserir um número antes de outro representando uma
+subtração momentânea.
 
-No triangulo ABD temos que
+B: Incorreta, pois o aluno pode chegar a essa conclusão esquecendo
+que que no sistema romano são apenas em casos específicos de
+impossibilidade de colocar mais de 3 símbolos iguais para representar o
+mesmo número para inserir um número antes de outro representando uma
+subtração momentânea.
 
-40+ x + (90-30) = 180
+C: Correta, pois
 
-40 + x + 60 =180
+40 = XL
 
-100 + x = 180
+9 = IX
 
-X = 80
+XLIX = 40 + 9 = 49
 
-Se o ângulo B = 80 logo:
+D: Incorreta, pois o aluno pode chegar a essa conclusão
+esquecendo que que no sistema romano são apenas em casos específicos de
+impossibilidade de colocar mais de 3 símbolos iguais para representar o
+mesmo número para inserir um número antes de outro representando uma
+subtração momentânea.
 
-180 + 80- x =360
+15\) Amanda abastece seu veículo a cada 5 dias, Carlos a cada 2 dias.
+Paulo vai abastecer seu veículo sempre aos sábados e em nenhum outro
+dia. Se no dia 28 de outubro os três abasteceram seus veículos, daqui a
+quantos dias eles abastecerão, novamente, no mesmo dia?
 
-X= 100
+a\) 31 dias
 
-O ângulo que procuramos tem 100° logo alternativa D
+b\) 25 dias
 
-11\) A velocidade de um Guepardo pode alcançar 130 km/h, considerando
-que um Guepardo em sua velocidade máxima correu atrás de sua presa por
-20 minutos, qual foi o deslocamento total em km que esse Guepardo
-percorreu? Descrever ou esboçar deslocamento de pessoas e/ou de objetos
-em representações bidimensionais (mapas, croquis etc.), plantas de
-ambientes ou vistas, de acordo com condições dadas.
+c\) 70 dias
 
-Considere 130 km = 36 m/s
+d\) esse evento nunca mais acontecerá.
 
-a\) 2 600 km
+SAEB: Identificar um número natural como primo, composto, “múltiplo/fator de” ou “divisor de” ou identificar a decomposição de um número natural em fatores primos ou relacionar as propriedades aritméticas (primo, composto, “múltiplo/fator de” ou “divisor de”) de um número natural à sua decomposição em fatores primos.
 
-b\) 43 200 km
+A: Incorreta, pois, por questão de semelhança, o aluno pode
+considerar que as 3 pessoas citadas no enunciado abastecerão sempre no 
+mesmo dia 28 de todo mês.
 
-c\) 43, 2 km
+B: Incorreta, pois o aluno pode realizar uma soma dos dias ao
+invés de realizar o m.m.c.
 
-d\) 432 km
+C: Correta, pois
 
-A: incorreta, ao não realizar a conversão de km/h para m/s o
-aluno chegara a esse valor.
+MMC(5;7,2) = 70
 
-B: incorreta, ao não transformar metros em km o aluno
-chegaria a esse resultado.
+D: Incorreta, pois o aluno pode confundir m.m.c. por m.d.c.
 
-C: Correta pois
-
-Considerando que a velocidade máxima do guepardo foi de 36 m/s e que
-
-20 min = 1 200 segundos
-
-1 200 x 36 = 43 200 metros ou 43,2 km
-
-D: incorreta, ao deslocar a vírgula uma casa a mais o aluno
-chegaria a esse resultado erroneamente.
-
-12\) Em uma corrida automobilística um piloto obteve as seguintes
-velocidades ao passar em diferentes setores da pista:
-
-Ao passar no setor 1 estava em uma velocidade de 280km/h
-
-Ao passar no setor 2 estava em uma velocidade de 290 km/h
-
-Ao passar no setor 3 estava em uma velocidade de 305 km/h
-
-Ao passar pelo setor 4 estava em uma velocidade de 201 km/h
-
-Qual a velocidade média que esse piloto obteve durante essa volta?
-EF08MA25 - Calcular os valores de medidas de tendência central de uma
-pesquisa estatística (média aritmética simples, moda ou mediana).
-
-a\) 280 km/
-
-b\) 290km/h
-
-c\) 305 km/h
-
-d\) 269 km/h
-
-A: incorreta, este valor é referente apenas a velocidade ao
-passar no primeiro setor.
-
-B: incorreta, este valor é referente apenas a velocidade ao
-passar no segundo setor.
-
-C: incorreta, este valor é referente apenas a velocidade ao
-passar no terceiro setor.
-
-D: Correta Pois:
-
-Somando as velocidades nos setores temos: 1076
-
-Dividindo por 4 setores: 269 km/ h foi a velocidade média desse piloto.
-
-13\) Para armazenar a gasolina que produz, uma usina possui alguns
-reservatórios cilíndricos, entre eles um com medida de capacidade de 600
-000 Litros e altura interna medindo aproximadamente 8 m. Qual é a medida
-do comprimento do diâmetro interno da base desse reservatório? Considere
-$\Pi$=3 EF08MA20 - Resolver problemas que envolvam volume de prismas
-retos ou cilindros retos.
-
-a\) 5 m
-
-b\) 25 m
-
-c\) 10 m
-
-d\) 316 m
-
-A: Incorreta, o aluno chegaria a essa conclusão colocando
-como resposta o valor do raio da base do reservatório e não o diâmetro
-como o enunciado pede.
-
-B: incorreta, o aluno chegaria a essa conclusão ao não
-terminar o cálculo que a expressão pede, e não realizar a radiciação no
-final da expressão.
-
-C: Correta pois:
-
-Iniciamos fazendo a conversão
-
-600 000 litros = 600 m³
-
-V= $\Pi$. R² .h
-
-600 = 3 . R² . 8
-
-$\frac{600\ }{8}$= 3 . R²
-
-75 = 3 . R²
-
-$\frac{75\ }{3}$ = R²
-
-25= R²
-
-$\sqrt{25\ }$ =R
-
-R = 5
-
-Logo o diâmetro é 10 m
-
-D: incorreta, o aluno chegaria a essa conclusão ao não
-realizar a conversão de litros para m³, onde chegaria a esse valor
-erroneamente.
-
-14\) Um grande supermercado lançou uma promoção, que sortearia uma data
-aleatória do ano, Quem fizer aniversário exatamente naquela data
-sorteada ganharia para o resto da vida 10% de desconto em compras
-naquele supermercado, qual a chance aproximadamente de uma pessoa ganhar
-a promoção. Considere o ano comum com 365 dias. EF08MA22 - Resolver
-problemas que envolvam a probabilidade de ocorrência de um resultado em
-eventos aleatórios equiprováveis independentes ou dependentes
-
-a\) 1%
-
-b\) 27%
-
-c\) 2,7%
-
-d\) 0,27%
-
-A: incorreta, o aluno poderia considerar este valor como
-correto ao confundir o número de chances ao percentual correto.
-
-B: incorreta, ao deslocar a virgula uma casa para esquerda o
-aluno chegaria a assinalar essa alternativa de forma equivocada.
-
-C: incorreta, ao deslocar a virgula duas casas para esquerda
-o aluno chegaria a assinalar essa alternativa de forma equivocada.
-
-D: Correta pois:
-
-$P(E)\frac{n(1)}{n(365)}$ = 0,0027 ou 0,27%
