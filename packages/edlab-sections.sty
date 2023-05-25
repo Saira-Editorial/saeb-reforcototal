@@ -23,16 +23,6 @@
 \renewcommand*{\chapnumfont}{}%        % Número
 %\renewcommand*{\chaptitlefont}{\newfontfamily\minion{Minion Pro}\Huge\centering}%  % Texto
 \renewcommand*{\chaptitlefont}{\flushright\gotham\bfseries\Large}%  % Texto %\color{white}
-% section
-\setbeforesecskip{1.2\onelineskip}%
-\setaftersecskip{.35\onelineskip}%
-\setsecheadstyle{\large\baselineskip=.7\baselineskip\flushleft\bfseries}%
-% subsection
-\setsubsecheadstyle{\MakeTextLowercase{}\centering\small\scshape\MakeTextLowercase}%
-% subsubsection
-\setbeforesubsubsecskip{1\onelineskip}%
-\setaftersubsubsecskip{.2\onelineskip}%
-\setsubsubsecheadstyle{\centering\itshape}%
 % paragraph
 % \setbeforeparaskip{1\onelineskip}%
 % \setafterparaskip{.08\onelineskip}%
@@ -89,12 +79,24 @@
 
 
 % section
+
+\AtBeginDocument{
 \definecolor{colorsection}{cmyk}{1,0.85,0.27,0.1}
+\definecolor{colorsectiondois}{cmyk}{1,0.85,0.27,0.1}
+
 \setbeforesecskip{1.2\onelineskip}%
 \setaftersecskip{.35\onelineskip}%
-\setsecheadstyle{\large\baselineskip=.7\baselineskip\flushleft\bfseries}%
+\setsecheadstyle{\large\baselineskip=.7\baselineskip\flushleft\bfseries\color{colorsectiondois}}%
 \counterwithout{section}{chapter}
 \renewcommand{\thesection}{\color{colorsection}Lição \arabic{section}} % Define the label format
+
+% subsection
+\setsubsecheadstyle{\color{colorsectiondois}\MakeTextLowercase{}\scshape\MakeTextLowercase}%
+% subsubsection
+\setbeforesubsubsecskip{1\onelineskip}%
+\setaftersubsubsecskip{.2\onelineskip}%
+\setsubsubsecheadstyle{\centering\itshape}%
+}
 
 % Medidas (ver: memoir p.11 fig.2.3)
 \parindent=3ex       % Tamanho da indentação
