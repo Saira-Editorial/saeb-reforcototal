@@ -13,10 +13,10 @@
 \urlstyle{tt} % {same} mesma fonte; {sf} sem serifa 
 
 % Epigraph (memoir)
-\epigraphfontsize{\footnotesize}			% tamanho da fonte
-\setlength{\epigraphrule}{0pt}				% tira a linha
-% \setlength{\epigraphwidth}{.6\textwidth}	% aumenta o tamanho da epígra
-% \epigraphtextposition{flushright}			
+\epigraphfontsize{\footnotesize}      % tamanho da fonte
+\setlength{\epigraphrule}{0pt}        % tira a linha
+% \setlength{\epigraphwidth}{.6\textwidth}  % aumenta o tamanho da epígra
+% \epigraphtextposition{flushright}     
 % \epigraphtextposition{flushleft}
 % \epigraphsourceposition{flushright} 
 
@@ -96,7 +96,7 @@
 
 % Lista de múltipla escolha
 \newlist{escolha}{enumerate}{1}
-\setlist[escolha]{label=\textcolor{azul}{\bfseries\Alph*.}}
+\setlist[escolha]{label=\textcolor{azul}{\bfseries\alph*.}}
 
 % Parágrafo lateral
 \newcommand{\sidetext}[1]{
@@ -164,7 +164,7 @@
 
 % Cria box de conteúdos
 \newcommand{\conteudo}[1]{
-\begin{mdframed}[linewidth=10pt,linecolor=salmao!20,backgroundcolor=salmao!20,roundcorner=20pt]
+\begin{mdframed}[splittopskip=1cm,linewidth=10pt,linecolor=salmao!20,backgroundcolor=salmao!20,roundcorner=20pt]
 #1
 \end{mdframed}
 }
@@ -176,6 +176,40 @@
 % Legenda acima da imagem
 \newcommand{\acima}[1]{\captionsetup{position=top}\captionof{figure}{#1}}
 
+
+% bibliohedra 
+\RequirePackage{ifthen}
+\newcommand{\tit}[1]{\item[\MakeTextLowercase{\textsc{#1}}]}
+\newcommand{\titidem}{\item[\line(1,0){25}]}
+
+\newenvironment{bibliohedra}[1][bibliografia]{%
+    \frenchspacing\footnotesize
+  \ifthenelse{\equal{#1}{}}%
+        {\relax}{\section*{\MakeTextLowercase{#1}}\vspace{2ex}}
+    \begin{list}{}{
+        \setlength\leftmargin{4mm}  % identação do texto principal em
+                % relação à margem da 'página'
+        \setlength\rightmargin{0mm}
+        \setlength\labelwidth{4mm}  % tamanho "esperado" da caixa de rótulo
+                % define também o recuo usado
+    %
+    %   \setlength\listparindent{3mm} % tamanho da identação dos parágrafos
+                % dentro do ítem
+    %
+        \setlength\labelsep{0mm}  % espaço entre rótulo e descrição
+        \setlength\parsep{0mm}    % espaço entre parágrafos de um item
+        \setlength\itemsep{1mm}   % espaço entre items
+        \setlength\lineskip{0mm}  % espaçamento entre linhas
+    }
+
+  }%
+  {\end{list}}
+
+
 \newenvironment{myquote}
-{\begin{mdframed}[linewidth=10pt,linecolor=azul!20,backgroundcolor=azul!20,roundcorner=20pt]\normalsize}
+{\begin{mdframed}[linewidth=10pt,linecolor=azul!20,backgroundcolor=azul!20,roundcorner=20pt]\begin{center}\normalsize}
+{\end{center}\end{mdframed}}
+
+\renewenvironment{quote}
+{\begin{mdframed}[splittopskip=1cm,linewidth=10pt,linecolor=azul!20,backgroundcolor=azul!20,roundcorner=20pt]\normalsize}
 {\end{mdframed}}
