@@ -1,4 +1,5 @@
 %!TEX root=./LIVRO.tex
+\begin{comment}
 \chapter{Módulo 1}
 
 Habilidades do SAEB * Escrever números racionais (representação
@@ -75,7 +76,7 @@ período que se repete em sua parte decimal.
 Frações: $\frac{7}{8}$, $\frac{5}{3}$, $\frac{4}{9}$ toda fração que tenha a,
 b inteiros e b diferente de zero.
 
-\section{Números inteiros:}
+\subsection{Números inteiros:}
 
  $$\frac{9}{1},  \frac{4}{1}, \frac{-8}{1},  \frac{1057}{1}$$
 
@@ -96,11 +97,11 @@ Para redigir em português os números racionais, devemos relembrar do
 sistema de numeração decimal. A parte inteira é separada e cada número
 recebe um nome de acordo com sua posição.~
 
-\section{Exemplo:} 
+\subsection{Exemplo:} 
 
 %Paulo: Colocar cada número abaixo com uma cor diferente.
 
-7,9853
+$$7,9853$$
 
 7 = parte inteira. 9 = décimos 8 = centésimos 5 = milésimos 3 = décimos
 de centésimos
@@ -110,7 +111,7 @@ inteiros. Para os decimais, lê-se o número inteiro, indicando a última
 classe, ou seja, nove mil oitocentos e cinquenta e três décimos de
 milésimos.
 
-\section{Exemplos:}
+\subsection{Exemplos:}
 
 0,26 = vinte e seis centésimos;
 
@@ -126,20 +127,20 @@ A decomposição dos números racionais é feita de acordo com o sistema
 posicional, completando com zeros onde não encontramos números após a
 vírgula.~
 
-\section{Exemplos:}
+\subsection{Exemplos:}
 
 $$0,26\  = \ 0,20 + 0,06$$
 $$1,256 = \ 1 + 0,200 + 0,050 + 0,006$$
 $$5,3632 = \ 5 + 0,30000 + 0,0600 + 0,0030 + 0,0002$$
 
-\section{Números irracionais}
+\subsection{Números irracionais}
 
 O conjunto dos números irracionais recebem o nome 𝕀. Números irracionais
 são todos aqueles números que não podemos representar por frações.
 Alguns exemplos são as dízimas que não possuem período e que se repetem,
 e algumas raízes, como $\sqrt{2}$ \ e $\sqrt{3}$.
 
-\section{Números reais}
+\subsection{Números reais}
 
 O conjunto dos números reais recebe o nome de ℝ. Os números reais são
 todos os números naturais, inteiros, racionais e irracionais, excluindo
@@ -150,7 +151,7 @@ parte decimal de um número, basta buscar a casa decimal que difere um
 número do outro para que, assim, seja possível saber qual número é maior
 e qual é menor.
 
-\section{Exemplos:}
+\subsection{Exemplos:}
 
 Vamos comparar 3 números decimais e colocá-los em ordem crescente.
 
@@ -170,7 +171,7 @@ método arredonda o número para a dezena mais próxima. Quando o número é
 maior ou igual a 5, o arredondamento será feito para cima. Em todos os
 outros casos, arredondamos para baixo.
 
-\section{Exemplos:}
+\subsection{Exemplos:}
 
 $58\cong 60$: Como o 58 está nas casas das dezenas, o
 arredondamento mais próximo será uma dezena.
@@ -190,124 +191,96 @@ uma reta numérica.
 justifique sua resposta.
 
 
-\begin{boxlist}
-\boxitem{F} Todo número que é racional é também irracional.
-\rosa{Números irracionais não podem ser escritos em forma de fração, sendo}
-essa é a definição de números racionais.
+% boxlist :: options
+\begin{boxlist}[%leftmargin=0em,
+                %topsep=0pt,
+                itemsep=-7pt,
+                %leftmargin=0em
+                ]
+\setlength{\baselineskip}{-4ex}\boxitem{F} Todo número que é racional é também irracional.
+{\rosa{Números irracionais não podem ser escritos em forma de fração, sendo
+essa é a definição de números racionais.}}
 \boxitem{F} As dízimas periódicas são irracionais.
-\boxitem{V} Dízimas periódicas podem ser escritas na forma de fração.
-\boxitem{V} Todos os números inteiros são racionais.~
-
+\rosa{É possível encontrar uma fração para dízimas periódicas.}
+\boxitem{V}\normalsize Dízimas periódicas podem ser escritas na forma de fração.
+{\rosa{É possível encontrar uma fração geratriz.}\par}
+\boxitem{V} Todos os números inteiros são racionais.
+{\rosa{Todos os números inteiros podem ser escritos na forma de racionais.}\par}
 \end{boxlist}
 
-
-\begin{comment}
-
-R:
-
-
-(F) É possível encontrar uma fração para dízimas periódicas.
-
-(V) É possível encontrar uma fração geratriz.
-
-(V) Todos os números inteiros podem ser escritos na forma de racionais.
+\end{comment}
 
 \num{2} Relacione as colunas abaixo com o número escrito por extenso.
 
 %Paulo: criar uma tabela de duas colunas com as informações abaixo:
 
-\begin{enumerate}
-\def\labelenumi{\alph{enumi})}
-\item
-  0,333~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~( ~ ) Trezentos e três milésimos~
-\item
-  0,303~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ( ~ ) Quatro inteiros e duzentos e cinquenta
-  e oito milésimos
-\item
-  4,258~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~( ~ ) Trezentos e trinta e três milésimos
-\item
-  4,058~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~( ~ ) Quatro inteiros e cinquenta e oito
-  milésimos
+\begin{table}[h]
+\centering\small
+\begin{tabular}{ll}\toprule\midrule
+0,333 & Trezentos e três milésimos                     \rosa{-- b}    \\
+0,303 & Quatro inteiros e duzentos e cinquent e oito milésimos \rosa{-- c} \\
+4,258 & Trezentos e trinta e três milésimos          \rosa{-- a}            \\
+4,058 & Quatro inteiros e cinquenta e oito \rosa{-- d} \\\bottomrule
+\end{tabular}
+\end{table}
+
+
+\num{3} Aproxime as partes inteiras dos números reais a potências de $10$.
+
+
+\begin{multicols}{3}
+\begin{enumerate}[itemsep=-4pt]
+\item $1$.$039$ \rosa{-- $1$.$040$}
+
+\item $6$ \rosa{-- $10$}
+
+\item $782$ \rosa{-- $780$}
+
+\item $24$ \rosa{-- $20$}
+
+\item $3$.$563$ \rosa{-- $3$.$560$}
+
+\item $3$  \rosa{-- $10$}
 \end{enumerate}
+\rosa{Para aproximar números para a potência de $10$, a parte inteira será analisada.}
+\end{multicols}
 
-R:
-
-( b~) Trezentos e três milésimos~
-
-( c ) Quatro inteiros e duzentos e cinquenta e oito milésimos
-
-( a ) Trezentos e trinta e três milésimos
-
-( d ) Quatro inteiros e cinquenta e oito milésimos
-
-$3$) Aproxime as partes inteiras dos números reais a potências de $10$.
-
-a) $1$.$039$
-
-b) $6$
-
-c) $782$
-
-d) $24$
-
-e) $3$.$563$
-
-f) $3$
-
-R: Para aproximar números para a potência de $10$, a parte inteira será
-analisada.
-
-\begin{enumerate}
-\def\labelenumi{\alph{enumi})}
-\item
-  $1$.$040$
-\item
-  $10$
-\item
-  $780$
-\item
-  $20$
-\item
-  $3$.$560$
-\item
-  $10$
-\end{enumerate}
+ 
 
 \num{4} Foi feita uma competição na escola Super Saber. Durante 5 minutos, os
 alunos tinham de percorrer a maior distância possível com obstáculos.
 Constatou-se que a maioria percorreu a mesma distância, condicionando a
 decisão aos números decimais. Observe a tabela com os resultados e
-organize em um ranking decrescente de distâncias.~
+organize em um ranking decrescente de distâncias.
+
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
-aulo: criar uma t & abela com as informações abaixo.\tabularnewline
-\midrule
-\endhead
-Nome do aluno~ & Distância percorrida\tabularnewline
-Daniel~ & 302,006 m\tabularnewline
-Flávia~ & 303,01 m\tabularnewline
-Adriel~ & 304,05 m\tabularnewline
-Larissa~ & 303,68 m\tabularnewline
-Luís Fabiano~ & 300 m~\tabularnewline
-Emanuelly~ & 302,072 m\tabularnewline
-Henrique~ & 303,809 m\tabularnewline
+Nome do aluno~ & Distância percorrida\tabularnewline\midrule
+Daniel~ & 302,006 m \rosa{304,05 m}\tabularnewline
+Flávia~ & 303,01 m \rosa{303,809 m}\tabularnewline
+Adriel~ & 304,05 m \rosa{303,68 m}\tabularnewline
+Larissa~ & 303,68 m \rosa{303,01 m}\tabularnewline
+Luís Fabiano~ & 300 m~ \rosa{302,072 m}\tabularnewline
+Emanuelly~ & 302,072 m \rosa{302,006 m}\tabularnewline
+Henrique~ & 303,809 m \rosa{300 m}\tabularnewline
 \bottomrule
 \end{longtable}
 
+\begin{comment}
 R:
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
 \endhead
 Ranking~ & Distância percorrida\tabularnewline
-Adriel~ & 304,05 m\tabularnewline
-Henrique~ & 303,809 m\tabularnewline
-Larissa~ & 303,68 m\tabularnewline
-Flávia~ & 303,01 m\tabularnewline
-Emanuelly~ & 302,072 m\tabularnewline
-Daniel~ & 302,006 m\tabularnewline
-Luís Fabiano~ & 300 m~\tabularnewline
+Adriel~ & \tabularnewline
+Henrique~ & \tabularnewline
+Larissa~ & \tabularnewline
+Flávia~ & \tabularnewline
+Emanuelly~ & \tabularnewline
+Daniel~ & \tabularnewline
+Luís Fabiano~ \tabularnewline
 \bottomrule
 \end{longtable}
 
