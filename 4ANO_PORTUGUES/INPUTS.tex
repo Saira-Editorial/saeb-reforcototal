@@ -1,7 +1,7 @@
 % Este documento tem a ver com as partes do LIVRO. 
 
 \input{1-fronte}       % [Frontistício]
-\input{2-creditos}     % [Créditos]
+\input{../2-creditos}     % [Créditos]
 % nothing			is level -3
 % \book				is level -2
 % \part				is level -1
@@ -24,37 +24,17 @@
 % \renewcommand{\contentsname}{Índex} 	% Trocar nome do sumário para 'Índex'
 %\ifodd\thepage\relax\else\blankpage\fi 	% Verifica se página é par e coloca página branca
 \addtocontents{toc}{\protect\thispagestyle{empty}}
-\addtocontents{toc}{\vspace*{-1cm}}
 \tableofcontents*\clearpage\endgroup}
 
 %\input{watermarks}
 
-\addcontentsline{toc}{chapter}{PORTUGUÊS}
 \input{PORTUGUES}
 
-%\begin{figure}[htpb!]
-%\vspace*{-3cm}
-%\hspace*{-3cm}\includegraphics[scale=1]{../watermarks/1simulado5ano.pdf}
-%\end{figure}
-%\input{SIMULADO1}
-%
-%\begin{figure}[htpb!]
-%\vspace*{-3cm}
-%\hspace*{-2.5cm}\includegraphics[scale=1]{../watermarks/2simulado5ano.pdf}
-%\end{figure}
-%\input{SIMULADO2}
-%
-%\begin{figure}[htpb!]
-%\vspace*{-3cm}
-%\hspace*{-2.5cm}\includegraphics[scale=1]{../watermarks/3simulado5ano.pdf}
-%\end{figure}
-%\input{SIMULADO3}
-%
-%\begin{figure}[htpb!]
-%\vspace*{-3cm}
-%\hspace*{-2.5cm}\includegraphics[scale=1]{../watermarks/4simulado5ano.pdf}
-%\end{figure}
-%\input{SIMULADO4}
+\pagebreak
+\vspace*{-3.4cm}
+\hspace*{-3.7cm}\includegraphics[scale=1]{../watermarks/1simulado5ano.pdf}
+
+\input{SIMULADOS}
 
 %\input{GABARITO}
 
