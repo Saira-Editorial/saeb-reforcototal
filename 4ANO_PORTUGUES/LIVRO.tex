@@ -1,6 +1,6 @@
 \documentclass[showtrims,		% Mostra as marcas de corte em cruz
-			   %trimframe,       % Mostra as marcas de corte em linha, para conferência
-			   12pt,
+			   trimframe,       % Mostra as marcas de corte em linha, para conferência
+			   14pt,
 			   openany				% 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt
 			   ]{memoir}
 \usepackage[brazilian,
@@ -31,10 +31,10 @@
 
 %\usepackage{makeidx} 					% para índice remissivo
 
-\usepackage{edlab-penalties}
-\usepackage{edlab-git}
-\usepackage{edlab-toc}					% define sumário
-\usepackage{edlab-extra}				% define epígrafe, quote
+\usepackage{../packages/edlab-penalties}
+\usepackage{../packages/edlab-git}
+\usepackage{../packages/edlab-toc}					% define sumário
+\usepackage{../packages/edlab-extra}				% define epígrafe, quote
 \usepackage[21x28]{edlab-margins}
 \usepackage[%semcabeco, 				% para remover cabeço, sobe mancha e mantem estilos
 			]{edlab-sections}			% define pagestyle (cabeço, rodapé e seções)
@@ -42,10 +42,9 @@
 			% notasemlinha
 			% notalinhalonga
 			chicagofootnotes			% para notas com número e ponto cf. man. de Chicago
-			]{edlab-footnotes}
+			]{../packages/edlab-footnotes}
 
 
-\usepackage[printwatermark]{xwatermark}
 \usepackage{pdfpages}
 \usepackage{wrapfig}
 \usepackage{tikzpagenodes}
@@ -130,25 +129,42 @@
 \makeevenhead{baruch}{\vspace*{1.3cm}\hspace*{-1.5cm}\small\gotham\parttitle}{}{}
 
 
-\makeevenfoot{baruch}{\hspace*{-2cm}\thepage}{}{}
-\makeoddfoot{baruch}{}{}{\hspace*{16.5cm}\thepage}
+\makeevenfoot{baruch}{\hspace*{-1.5cm}\thepage}{}{}
+\makeoddfoot{baruch}{}{}{\hspace*{16cm}\thepage}
 
 \pagestyle{baruch}
 \headstyles{baruch}
 
 \makepagestyle{chapter}
-\makeevenfoot{chapter}{\hspace*{-2cm}\thepage}{}{}
-\makeoddfoot{chapter}{}{}{\hspace*{16.5cm}\thepage}
+\makeevenfoot{chapter}{\hspace*{-1.5cm}\thepage}{}{}
+\makeoddfoot{chapter}{}{}{\hspace*{16cm}\thepage}
 
-\copypagestyle{por}{baruch}
-\makeoddhead{por}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
-\makeevenhead{por}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Língua Portuguesa}{}{}
-\makeevenfoot{por}{\hspace*{-2cm}\thepage}{}{}
-\makeoddfoot{por}{}{}{\hspace*{16.5cm}\thepage}
+\copypagestyle{cna}{baruch}
+\makeoddhead{cna}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
+\makeevenhead{cna}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Ciências da Natureza}{}{}
+\makeevenfoot{cna}{\hspace*{-1.5cm}\thepage}{}{}
+\makeoddfoot{cna}{}{}{\hspace*{16cm}\thepage}
+
+\copypagestyle{edf}{baruch}
+\makeoddhead{edf}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
+\makeevenhead{edf}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Educação Física}{}{}
+\makeevenfoot{edf}{\hspace*{-1.5cm}\thepage}{}{}
+\makeoddfoot{edf}{}{}{\hspace*{16cm}\thepage}
+
+\copypagestyle{mat}{baruch}
+\makeoddhead{mat}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
+\makeevenhead{mat}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Matemática}{}{}
+\makeevenfoot{mat}{\hspace*{-1.5cm}\thepage}{}{}
+\makeoddfoot{mat}{}{}{\hspace*{16cm}\thepage}
+
+% section
+\setbeforesecskip{1.2\onelineskip}%
+\setaftersecskip{.35\onelineskip}%
+\setsecheadstyle{\color{azul}\large\baselineskip=.7\baselineskip\flushleft\bfseries}%
+\renewcommand{\thesection}{Lição \arabic{section}} % Define the label format
 
 
-% Testes
-
+\let\colorsec=\section 
 
 \begin{document}
 

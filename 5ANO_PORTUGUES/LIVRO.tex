@@ -31,10 +31,10 @@
 
 %\usepackage{makeidx} 					% para índice remissivo
 
-\usepackage{edlab-penalties}
-\usepackage{edlab-git}
-\usepackage{edlab-toc}					% define sumário
-\usepackage{edlab-extra}				% define epígrafe, quote
+\usepackage{../packages/edlab-penalties}
+\usepackage{../packages/edlab-git}
+\usepackage{../packages/edlab-toc}					% define sumário
+\usepackage{../packages/edlab-extra}				% define epígrafe, quote
 \usepackage[21x28]{edlab-margins}
 \usepackage[%semcabeco, 				% para remover cabeço, sobe mancha e mantem estilos
 			]{edlab-sections}			% define pagestyle (cabeço, rodapé e seções)
@@ -42,7 +42,7 @@
 			% notasemlinha
 			% notalinhalonga
 			chicagofootnotes			% para notas com número e ponto cf. man. de Chicago
-			]{edlab-footnotes}
+			]{../packages/edlab-footnotes}
 
 
 \usepackage[printwatermark]{xwatermark}
@@ -62,6 +62,7 @@
 
 \let\emph\textit
 
+
 \newcommand\reduline{
 	\medskip\noindent\bgroup
 	\color{rosa}
@@ -71,11 +72,20 @@
 	\ULon
 }
 
+%\newcommand\preencher{
+%\noindent\bgroup
+	%\color{rosa}
+  	%\footnotesize
+  	%\cambria
+	%\markoverwith{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}\lower0.4cm\hbox{\mbox{}}}
+	%\ULon
+%}
+
 
 % Medidas (ver: memoir p.11 fig.2.3)
 \parindent=3ex			% Tamanho da indentação
 \parskip=0pt			% Entre parágrafos
-\marginparsep=-4.5em		% Entre mancha e nota lateral
+\marginparsep=-3em		% Entre mancha e nota lateral
 \marginparwidth=5em		% Tamanho da caixa de texto da nota laterial
 
 %\newcommand{\rmarginnote}[1]{%
@@ -130,23 +140,23 @@
 \makeevenfoot{chapter}{\hspace*{-2cm}\thepage}{}{}
 \makeoddfoot{chapter}{}{}{\hspace*{16.5cm}\thepage}
 
-\copypagestyle{chu}{baruch}
-\makeoddhead{chu}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
-\makeevenhead{chu}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Ciências Humanas}{}{}
-\makeevenfoot{chu}{\hspace*{-2cm}\thepage}{}{}
-\makeoddfoot{chu}{}{}{\hspace*{16.5cm}\thepage}
+\copypagestyle{cna}{baruch}
+\makeoddhead{cna}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
+\makeevenhead{cna}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Ciências da Natureza}{}{}
+\makeevenfoot{cna}{\hspace*{-2cm}\thepage}{}{}
+\makeoddfoot{cna}{}{}{\hspace*{16.5cm}\thepage}
 
-\copypagestyle{art}{baruch}
-\makeoddhead{art}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
-\makeevenhead{art}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Arte}{}{}
-\makeevenfoot{art}{\hspace*{-2cm}\thepage}{}{}
-\makeoddfoot{art}{}{}{\hspace*{16.5cm}\thepage}
+\copypagestyle{edf}{baruch}
+\makeoddhead{edf}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
+\makeevenhead{edf}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Educação Física}{}{}
+\makeevenfoot{edf}{\hspace*{-2cm}\thepage}{}{}
+\makeoddfoot{edf}{}{}{\hspace*{16.5cm}\thepage}
 
-\copypagestyle{port}{baruch}
-\makeoddhead{port}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
-\makeevenhead{port}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Língua Portuguesa}{}{}
-\makeevenfoot{port}{\hspace*{-2cm}\thepage}{}{}
-\makeoddfoot{port}{}{}{\hspace*{16.5cm}\thepage}
+\copypagestyle{mat}{baruch}
+\makeoddhead{mat}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
+\makeevenhead{mat}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Matemática}{}{}
+\makeevenfoot{mat}{\hspace*{-2cm}\thepage}{}{}
+\makeoddfoot{mat}{}{}{\hspace*{16.5cm}\thepage}
 
 \copypagestyle{simu}{baruch}
 \makeoddhead{simu}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
@@ -154,14 +164,22 @@
 \makeevenfoot{simu}{\hspace*{-2cm}\thepage}{}{}
 \makeoddfoot{simu}{}{}{\hspace*{16.5cm}\thepage}
 
+% section
+\setbeforesecskip{1.2\onelineskip}%
+\setaftersecskip{.35\onelineskip}%
+\setsecheadstyle{\color{azul}\large\baselineskip=.7\baselineskip\flushleft\bfseries}%
+\renewcommand{\thesection}{Lição \arabic{section}} % Define the label format
+
 % Testes
 
+\let\colorsec=\section 
 
 \begin{document}
 
 
 %\input{MUSSUMIPSUM}  		% Teste da classe
 \include{INPUTS}
+
 
 \checkandfixthelayout
 \end{document}
