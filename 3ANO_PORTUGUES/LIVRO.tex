@@ -29,20 +29,20 @@
 \usepackage{marginnote}					% para notas laterais
 \usepackage{titlesec}					% para produzir os distanciamentos entre pontos no \dotfill
 
-%\usepackage{makeidx} 					% para índice remissivo
-
+\usepackage{../packages/edlab-extra}				% define epígrafe, quote
+\usepackage{../packages/saeb-chap}
 \usepackage{../packages/edlab-penalties}
 \usepackage{../packages/edlab-git}
 \usepackage{../packages/edlab-toc}					% define sumário
-\usepackage{../packages/edlab-extra}				% define epígrafe, quote
-\usepackage[21x28]{edlab-margins}
+\usepackage[21x28]{../packages/edlab-margins}
 \usepackage[%semcabeco, 				% para remover cabeço, sobe mancha e mantem estilos
-			]{edlab-sections}			% define pagestyle (cabeço, rodapé e seções)
+			]{../packages/edlab-sections}			% define pagestyle (cabeço, rodapé e seções)
 \usepackage[%
 			% notasemlinha
 			% notalinhalonga
 			chicagofootnotes			% para notas com número e ponto cf. man. de Chicago
 			]{../packages/edlab-footnotes}
+\usepackage{../packages/edlab-styles}
 
 
 \usepackage{pdfpages}
@@ -61,117 +61,13 @@
 
 \let\emph\textit
 
-
-\newcommand\reduline{
-	\medskip\noindent\bgroup
-	\color{rosa}
-  	\footnotesize
-  	\cambria
-	\markoverwith{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}\lower0.4cm\hbox{\mbox{}}}
-	\ULon
-}
-
-%\newcommand\preencher{
-%\noindent\bgroup
-	%\color{rosa}
-  	%\footnotesize
-  	%\cambria
-	%\markoverwith{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}\lower0.4cm\hbox{\mbox{}}}
-	%\ULon
-%}
-
-
-% Medidas (ver: memoir p.11 fig.2.3)
-\parindent=3ex			% Tamanho da indentação
-\parskip=0pt			% Entre parágrafos
-\marginparsep=-3em		% Entre mancha e nota lateral
-\marginparwidth=5em		% Tamanho da caixa de texto da nota laterial
-
-%\newcommand{\rmarginnote}[1]{%
-%\marginpar{%
-%\ifodd\value{page}
-%\raggedleft
-%\else
-%\makebox[24em][r]{}%
-%\begin{flushright}
-%\fi
-%\small\textcolor{rosa}{#1}%
-%\ifodd\value{page}
-%\else
-%\end{flushright}
-%\fi
-%}%
-%}
-
-%\EveryShipout{
-  %\ifthenelse{\isodd{\value{page}}}
-    %{\global\marginparsep=-45em}
-    %{\global\marginparsep=-16em}
-%}
-
-\renewcommand*{\marginfont}{\color{rosa}\salmao\cambria\footnotesize}
-%\let\oldmarginnote\marginnote
-%\renewcommand{\marginnote}[1]{\oldmarginnote{\raggedleft #1}}
-
-
 \linespread{1.06}
-
-
-% Fontes
-\newfontfamily\gotham{Gotham-Black}
-\newfontfamily\cambria{cambria}
-%\newfontfamily\brabo{FS Brabo Pro Regular}
-\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Minion Pro}
-
-
-% Estilos
-\makeoddhead{baruch}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
-\makeevenhead{baruch}{\vspace*{1.3cm}\hspace*{-1.5cm}\small\gotham\parttitle}{}{}
-
-
-\makeevenfoot{baruch}{\hspace*{-1.5cm}\thepage}{}{}
-\makeoddfoot{baruch}{}{}{\hspace*{16cm}\thepage}
-
-\pagestyle{baruch}
-\headstyles{baruch}
-
-\makepagestyle{chapter}
-\makeevenfoot{chapter}{\hspace*{-1.5cm}\thepage}{}{}
-\makeoddfoot{chapter}{}{}{\hspace*{16cm}\thepage}
-
-\copypagestyle{cna}{baruch}
-\makeoddhead{cna}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
-\makeevenhead{cna}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Ciências da Natureza}{}{}
-\makeevenfoot{cna}{\hspace*{-1.5cm}\thepage}{}{}
-\makeoddfoot{cna}{}{}{\hspace*{16cm}\thepage}
-
-\copypagestyle{edf}{baruch}
-\makeoddhead{edf}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
-\makeevenhead{edf}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Educação Física}{}{}
-\makeevenfoot{edf}{\hspace*{-1.5cm}\thepage}{}{}
-\makeoddfoot{edf}{}{}{\hspace*{16cm}\thepage}
-
-\copypagestyle{mat}{baruch}
-\makeoddhead{mat}{}{}{\vspace*{.8cm}\small\gotham\color{white}\leftmark}
-\makeevenhead{mat}{\vspace*{.8cm}\hspace*{-1.5cm}\small\gotham\color{white}Matemática}{}{}
-\makeevenfoot{mat}{\hspace*{-1.5cm}\thepage}{}{}
-\makeoddfoot{mat}{}{}{\hspace*{16cm}\thepage}
-
-% section
-\setbeforesecskip{1.2\onelineskip}%
-\setaftersecskip{.35\onelineskip}%
-\setsecheadstyle{\color{azul}\large\baselineskip=.7\baselineskip\flushleft\bfseries}%
-\renewcommand{\thesection}{Lição \arabic{section}} % Define the label format
-
 
 \let\colorsec=\section 
 
 \begin{document}
 
-
-%\input{MUSSUMIPSUM}  		% Teste da classe
 \include{INPUTS}
-
 
 \checkandfixthelayout
 \end{document}

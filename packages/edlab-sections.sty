@@ -1,5 +1,6 @@
 \RequirePackage{textcase}
 \RequirePackage{etoolbox}
+\RequirePackage{xcolor}
 
 \makepagestyle{baruch}
 \makeheadstyles{baruch}{%
@@ -85,6 +86,21 @@
       \renewcommand*\parttitle{#1}%
    \fi
 }
+
+
+% section
+\definecolor{colorsection}{cmyk}{1,0.85,0.27,0.1}
+\setbeforesecskip{1.2\onelineskip}%
+\setaftersecskip{.35\onelineskip}%
+\setsecheadstyle{\large\baselineskip=.7\baselineskip\flushleft\bfseries}%
+\counterwithout{section}{chapter}
+\renewcommand{\thesection}{\color{colorsection}Lição \arabic{section}} % Define the label format
+
+% Medidas (ver: memoir p.11 fig.2.3)
+\parindent=3ex       % Tamanho da indentação
+\parskip=0pt         % Entre parágrafos
+\marginparsep=-3em      % Entre mancha e nota lateral
+\marginparwidth=5em     % Tamanho da caixa de texto da nota laterial
 
 
 \ProcessOptions%
