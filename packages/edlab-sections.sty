@@ -29,16 +29,24 @@
 \renewcommand*{\printchaptername}{}
 %\renewcommand*{\printchapternum }{}
 
-
+ 
 
 \newcommand{\chaptersaira}{
+     \ifnum \the\valur{chapter}<1
+      \begin{tikzpicture}[remember picture,overlay]
+       \node [anchor=north] at (8,3) {\includegraphics[width=\paperwidth,height=\paperheight]{../chap2.pdf}};
+       \node[above=1cm, font=\fontsize{70}{80}\gotham\selectfont, text=black, anchor=south] at (-0.3,-1.5) {
+       \the\value{chapter}};
+      \end{tikzpicture}
+      \else
       \begin{tikzpicture}[remember picture,overlay]
        \node [anchor=north] at (8,3) {\includegraphics[width=\paperwidth,height=\paperheight]{../chap.pdf}};
        \node[above=1cm, font=\fontsize{70}{80}\gotham\selectfont, text=black, anchor=south] at (-0.3,-1.5) {
-       \the\value{chapter}
-       };
+       \the\value{chapter}};
       \end{tikzpicture}
+      \fi
   }
+
 
 
 
