@@ -164,13 +164,9 @@
 
 % Cria box de conteúdos
 \newcommand{\conteudo}[1]{
-\begin{flushright}
-\adjustbox{varwidth=.85\linewidth}{
-\begin{mdframed}[linewidth=10pt,linecolor=salmao!20,backgroundcolor=salmao!20,roundcorner=20pt]
+\begin{mdframed}[splittopskip=1cm,linewidth=10pt,linecolor=salmao!20,backgroundcolor=salmao!20,roundcorner=20pt]
 #1
 \end{mdframed}
-}
-\end{flushright}
 }
 
 % Para diferenciar a citação da fonte do conteúdo dos textos em quote
@@ -208,3 +204,12 @@
 
   }%
   {\end{list}}
+
+
+\newenvironment{myquote}
+{\begin{mdframed}[linewidth=10pt,linecolor=azul!20,backgroundcolor=azul!20,roundcorner=20pt]\begin{center}\normalsize}
+{\end{center}\end{mdframed}}
+
+\renewenvironment{quote}
+{\begin{mdframed}[splittopskip=1cm,linewidth=10pt,linecolor=azul!20,backgroundcolor=azul!20,roundcorner=20pt]\normalsize}
+{\end{mdframed}}

@@ -29,135 +29,45 @@
 \usepackage{marginnote}					% para notas laterais
 \usepackage{titlesec}					% para produzir os distanciamentos entre pontos no \dotfill
 
-%\usepackage{makeidx} 					% para índice remissivo
-
-\usepackage{edlab-penalties}
-\usepackage{edlab-git}
-\usepackage{edlab-toc}					% define sumário
-\usepackage{edlab-extra}				% define epígrafe, quote
-\usepackage[21x28]{edlab-margins}
+\usepackage{../packages/edlab-extra}				% define epígrafe, quote
+\usepackage{../packages/saeb-chap}
+\usepackage{../packages/edlab-penalties}
+\usepackage{../packages/edlab-git}
+\usepackage{../packages/edlab-toc}					% define sumário
+\usepackage[21x28]{../packages/edlab-margins}
 \usepackage[%semcabeco, 				% para remover cabeço, sobe mancha e mantem estilos
-			]{edlab-sections}			% define pagestyle (cabeço, rodapé e seções)
+			]{../packages/edlab-sections}			% define pagestyle (cabeço, rodapé e seções)
 \usepackage[%
 			% notasemlinha
 			% notalinhalonga
 			chicagofootnotes			% para notas com número e ponto cf. man. de Chicago
-			]{edlab-footnotes}
+			]{../packages/edlab-footnotes}
+\usepackage{../packages/edlab-styles}
 
 
-% \usepackage[printwatermark]{xwatermark}
 \usepackage{pdfpages}
 \usepackage{wrapfig}
 \usepackage{tikzpagenodes}
 \usepackage{textpos}
-\usepackage{mdframed}
+\usepackage[framemethod=TikZ]{mdframed}
 \usepackage{adjustbox}
 \usepackage{ragged2e}
+\usepackage[labelformat=empty]{caption}
+\usepackage{longtable}
+\usepackage{multirow}
 
 % Ulem
 \usepackage{ulem}
 
-
-\newcommand\reduline{
-	\noindent\bgroup
-	\color{rosa}
-  	\footnotesize
-  	\cambria
-	\baselineskip=1.7\baselineskip\par
-	\markoverwith{{\textcolor{salmao}{\rule[-0.5ex]{2pt}{1pt}}}\lower0.4cm\hbox{\mbox{}}}
-	\ULon
-}
-
-
-% Medidas (ver: memoir p.11 fig.2.3)
-\parindent=3ex			% Tamanho da indentação
-\parskip=0pt			% Entre parágrafos
-\marginparsep=-5em		% Entre mancha e nota lateral
-\marginparwidth=10em		% Tamanho da caixa de texto da nota laterial
-
-%\newcommand{\rmarginnote}[1]{%
-%\marginpar{%
-%\ifodd\value{page}
-%\raggedleft
-%\else
-%\makebox[24em][r]{}%
-%\begin{flushright}
-%\fi
-%\small\textcolor{rosa}{#1}%
-%\ifodd\value{page}
-%\else
-%\end{flushright}
-%\fi
-%}%
-%}
-
-%\EveryShipout{
-  %\ifthenelse{\isodd{\value{page}}}
-    %{\global\marginparsep=-45em}
-    %{\global\marginparsep=-16em}
-%}
-
-\renewcommand*{\marginfont}{\color{rosa}\salmao\cambria\footnotesize}
-%\let\oldmarginnote\marginnote
-%\renewcommand{\marginnote}[1]{\oldmarginnote{\raggedleft #1}}
-
+\let\emph\textit
 
 \linespread{1.06}
 
-
-% Fontes
-\newfontfamily\gotham{Gotham-Black}
-\newfontfamily\cambria{cambria}
-%\newfontfamily\brabo{FS Brabo Pro Regular}
-\setmainfont[Ligatures=TeX]{Minion Pro}
-
-
-% Estilos
-\makeoddhead{baruch}{}{}{\hspace*{16.5cm}\vspace*{1.3cm}\small\begin{tikzpicture}[overlay]
-\draw[fill=azul,draw=none] (-40mm,-4.5mm) rectangle (11mm,3mm);
-\node[white] at (0,0) {\hspace*{-4cm}\gotham\leftmark};
-\end{tikzpicture}}
-
-\makeevenhead{baruch}{\vspace*{1.3cm}\hspace*{-1.5cm}\small\begin{tikzpicture}[overlay]
-\draw[fill=azul,draw=none] (-11mm,-4.5mm) rectangle (40mm,3mm);
-\node[white] at (0,0) {\hspace*{2cm}\gotham \parttitle};
-\end{tikzpicture}}{}{}
-
-
-\makeevenfoot{baruch}{\hspace*{-1.5cm}\begin{tikzpicture}[overlay]
-\draw[fill=salmao,draw=none] (-11mm,-4.5mm) rectangle (4mm,4.5mm);
-\node[black] at (0,0) {\thepage};
-\end{tikzpicture}}{}{}
-
-\makeoddfoot{baruch}{}{}{\hspace*{16.5cm}\begin{tikzpicture}[overlay]
-\draw[fill=salmao,draw=none] (-4mm,-4.5mm) rectangle (11mm,4.5mm);
-\node[black] at (0,0) {\thepage};
-\end{tikzpicture}}
-
-\pagestyle{baruch}
-\headstyles{baruch}
-
-\makepagestyle{chapter}
-\makeevenfoot{chapter}{\hspace*{-1.5cm}\small\begin{tikzpicture}[overlay]
-\draw[fill=salmao,draw=none] (-11mm,-4.5mm) rectangle (4mm,4.5mm);
-\node[black] at (0,0) {\thepage};
-\end{tikzpicture}}{}{}
-
-\makeoddfoot{chapter}{}{}{\hspace*{16.5cm}\small\begin{tikzpicture}[overlay]
-\draw[fill=salmao,draw=none] (-4mm,-4.5mm) rectangle (11mm,4.5mm);
-\node[black] at (0,0) {\thepage};
-\end{tikzpicture}}
-
-
-% Testes
-
+\let\colorsec=\section 
 
 \begin{document}
 
-
-%\input{MUSSUMIPSUM}  		% Teste da classe
 \include{INPUTS}
-
 
 \checkandfixthelayout
 \end{document}
