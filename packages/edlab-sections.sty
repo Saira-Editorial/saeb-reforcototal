@@ -15,14 +15,29 @@
 \renewcommand*{\parttitlefont}{\centering\gotham\bfseries\huge}
 \renewcommand*{\midpartskip}{\par\vskip 2\onelineskip}%
 % chapter
-\setlength{\beforechapskip}{-15mm}%
-\setlength{\midchapskip}{\medskipamount}
-% \renewcommand{\@chapapp}{Cap.}                     % Para mudar etiqueta "Capítulo"
-\setlength{\afterchapskip}{22mm\@plus\baselineskip\@minus\baselineskip}%
 \renewcommand*{\chapnamefont}{}%       % Etiqueta
 \renewcommand*{\chapnumfont}{}%        % Número
-%\renewcommand*{\chaptitlefont}{\newfontfamily\minion{Minion Pro}\Huge\centering}%  % Texto
-\renewcommand*{\chaptitlefont}{\flushright\gotham\bfseries\Large}%  % Texto %\color{white}
+
+
+\RequirePackage{anyfontsize}
+\renewcommand*{\chapnamefont}{}%       % Etiqueta
+\renewcommand*{\chapnumfont}{}%        % Número
+\renewcommand*{\chaptitlefont}{\chaptersaira\flushright\gotham\bfseries\Large\color{white}\vspace*{-1cm}} %  % Texto %\color{white}
+\setlength{\beforechapskip}{-2.5cm} %altura da imagem do chapter
+\setlength{\midchapskip}{3.0\onelineskip}
+\setlength{\afterchapskip}{3.0\onelineskip} % distância entre texto e cap.
+\renewcommand*{\printchaptername}{}
+\renewcommand*{\printchapternum }{}
+
+\newcommand{\chaptersaira}{
+      \begin{tikzpicture}[remember picture,overlay]
+       \node [anchor=north] at (8,3) {\includegraphics[width=\paperwidth,height=\paperheight]{./chap.pdf}};
+       \node[above=1cm, font=\fontsize{70}{80}\gotham\selectfont, text=black, anchor=south] at (-0.5,-1.5) {\the\value{chapter}};
+      \end{tikzpicture}
+  }
+
+
+
 % paragraph
 % \setbeforeparaskip{1\onelineskip}%
 % \setafterparaskip{.08\onelineskip}%
@@ -104,7 +119,6 @@
 \marginparsep=-3em      % Entre mancha e nota lateral
 \marginparwidth=5em     % Tamanho da caixa de texto da nota laterial
 
+\renewcommand{\thechapter}{}
 
 \ProcessOptions%
-
-
