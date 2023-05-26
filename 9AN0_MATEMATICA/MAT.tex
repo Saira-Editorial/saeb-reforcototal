@@ -1389,7 +1389,6 @@ entre esses três números?
 \section{Habilidades do SAEB}
 
 \begin{itemize}
-
   \item Identificar uma representação algébrica para o padrão ou a
 regularidade de uma sequência de números racionais ou representar
 algebricamente o padrão ou a regularidade de uma sequência de
@@ -1397,7 +1396,6 @@ números racionais.
   \item Identificar representações algébricas equivalentes. 
   \item Resolver problemas que envolvam cálculo do valor numérico de
 expressões algébricas. 
-
 \end{itemize} 
 
 \conteudo{\textbf{Sequências numéricas} são conjuntos ordenados de números
@@ -1448,18 +1446,17 @@ um triângulo e, nas etapas seguintes, foi acrescentando outros triângulos,
 conforme se pode observar na imagem a seguir.
 
 \includegraphics[width=4.44792in,height=1.53053in]{./_SAEB_9_MAT/media/image74.wmf}
-%Montar figura semelhante, lembrando que a quantidade é importante
 
 Qual a quantidade de palitos de fósforo necessários e suficientes para a
 construção da 6ª figura?
 
 \begin{largebox}
-
 \coment{A 1ª figura é composta por 3 palitos; a 2ª figura, por 9; a 3ª,
 por 15. Observa-se, portanto, que sempre são acrescentados 6 palitos, 
 de modo que uma das expressões que representa a quantidade de palitos é 
 $y = 6n -- 3$, onde n é a posição da figura. Para n = 6 teremos: 
 $y = 6 x 6 -- 3 = 33$ palitos.}
+\end{largebox}
 
 \num{2} Em um grupo de crianças, 210 bombons foram distribuídos
 para cada uma, na forma de uma sequência crescente, da criança de menor
@@ -1468,39 +1465,20 @@ ordem, percebeu-se que a segunda criança ganhou 5 bombons, a quinta
 ganhou 11 e sétimo 15. Complete a tabela abaixo para encontrar a
 quantidade de bombons de cada criança, desde que sempre seja regular.
 
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
-% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
-\begin{table}[]
-\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
-\hline
-\rowcolor[HTML]{CBCEFB} 
-1ª & 2ª & 3ª & 4ª & 5ª & 6ª & 7ª & 8ª & 9ª & 10ª \\ \hline
- & 5 &  &  & 11 &  & 15 &  &  &  \\ \hline
-\end{tabular}
-\end{table}
+\begin{longtable}[]{@{}llllllllll@{}}
+\toprule
+\textbf{1ª} & \textbf{2ª} & \textbf{3ª} & \textbf{4ª} & \textbf{5ª} &
+\textbf{6ª} & \textbf{7ª} & \textbf{8ª} & \textbf{9ª} &
+\textbf{10ª}\tabularnewline
+\midrule
+\endhead
+\rosa{3} & 5 & \rosa{7} & \rosa{9} & 11 & \rosa{13} & 15 & \rosa{17} & \rosa{19} & \rosa{21}\tabularnewline
+\bottomrule
+\end{longtable}
 
-\coment{A regularidade deve despertar a percepção de que, entre os 2 
-primeiros números já preenchidos, temos a diferença de 6, mas, ao olhar 
-o 5º e 7º, essa diferença se reduz para 4, ou seja, a mudança de um para
-outro será de apenas 2 unidades. Não há problemas se os alunos usarem o
-método de tentativa e erro para resolver a questão.
-
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
-% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
-\begin{table}[]
-\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
-\hline
-\rowcolor[HTML]{CBCEFB} 
-1ª & 2ª & 3ª & 4ª & 5ª & 6ª & 7ª & 8ª & 9ª & 10ª \\ \hline
-{\color[HTML]{FE0000} 3} & 5 & {\color[HTML]{FE0000} 7} & {\color[HTML]{FE0000} 9} & 11 & {\color[HTML]{FE0000} 13} & 15 & {\color[HTML]{FE0000} 17} & {\color[HTML]{FE0000} 19} & {\color[HTML]{FE0000} 21} \\ \hline
-\end{tabular}
-\end{table}
+%\coment{A regularidade deve despertar a percepção de que, entre os 2 primeiros números já preenchidos, temos a diferença de 6, mas, ao olhar o 5º e 7º, essa diferença se reduz para 4, ou seja, a mudança de um para outro será de apenas 2 unidades. Não há problemas se os alunos usarem o método de tentativa e erro para resolver a questão.}
 
 \num{3} Observe a quantidade de lugares em cada configuração:
-
-%Montar uma imagem como a de baixo. É importante ter a mesma quantidade de cadeiras e não pode se redonda, precisam ser retangulares
 
 \includegraphics[width=5.72917in,height=1.3in]{./_SAEB_9_MAT/media/image76.wmf}
 
@@ -1516,13 +1494,11 @@ Percebe-se que a próxima configuração a partir da Configuração 3 sempre
 terá duas cadeiras a mais, da seguinte maneira: 4, 6, 8, 10, 12. Essas 
 são as quantidades de cadeiras em cada configuração. Somando teremos:
 4 + 6 + 8 + 10 + 12 = 40 lugares.}
+\end{largebox}
 
 \num{4} Uma fábrica trabalha com vários modelos e tamanhos de mesas. As mesas
 são todas acompanhadas com uma certa quantidade de poltronas a depender
 do tamanho da mesa.
-
-%Montar uma tabela como a de baixo. É importante ter a mesma quantidade
-de cadeiras.
 
 \includegraphics[width=4.28125in,height=1.50833in]{./_SAEB_9_MAT/media/image77.wmf}
 
@@ -1535,6 +1511,7 @@ poltronas estarão disponíveis?
 \coment{A sequência de poltronas pode ser observada da seguinte maneira:
 3, 6, 9, 12, 15, 18, 21, 24, 27, 30. Somando, encontraremos: 3 + 6 + 9 +
 12 + 15 + 18 + 21 + 24 + 27 + 30 = 165.}
+\end{boxmedio}
 
 \num{5} Felizmente os animais não são mais usados nos espetáculos de circo,
 que seguem interessando ao público com outras atrações. Uma delas é a 
@@ -1546,87 +1523,56 @@ da base ao topo?
 \begin{figure}
 \centering
 \includegraphics[width=1.71354in,height=1.56302in]{./_SAEB_9_MAT/media/image82.jpeg}
-\caption{Pirâmide criadas por pessoas desenho - Royalty-free Pirâmide
-Humana arte vetorial}
 \end{figure}
 
-\href{https://www.istockphoto.com/pt/vetorial/pir\%C3\%A2mide-criadas-por-pessoas-desenho-gm499201238-79908399?phrase=pir\%C3\%A2mide\%20humana}{Pirâmide
-Criadas Por Pessoas Desenho - Arte vetorial de stock e mais imagens de
-Pirâmide Humana - Pirâmide Humana, Esboço, Pirâmide - Estrutura
-construída - iStock (istockphoto.com)}
+%\href{https://www.istockphoto.com/pt/vetorial/pir\%C3\%A2mide-criadas-por-pessoas-desenho-gm499201238-79908399?phrase=pir\%C3\%A2mide\%20humana}{Pirâmide Criadas Por Pessoas Desenho - Arte vetorial de stock e mais imagens de Pirâmide Humana - Pirâmide Humana, Esboço, Pirâmide - Estrutura construída - iStock (istockphoto.com)}
 
 \begin{boxpeq}
-
 \coment{Considerando as informações do enunciado e a imagem apresentada, 
 quando são usadas 4 linhas, são necessárias 10 pessoas para formar a 
 pirâmide. Na próxima linha, haverá mais 5 pessoas, completando um total
 de 15.}
+\end{boxpeq}
 
 \num{6} Qual o número de cadeiras necessárias ao utilizar 10 mesas na
 configuração da imagem abaixo:
 
 \includegraphics[width=4.6875in,height=0.8in]{./_SAEB_9_MAT/media/image83.wmf}
 
-%Montar imagem semelhante, número de cadeiras é importante.
-
 \begin{boxpeq}
-
 \coment{Considerando a imagem apresentada, observa-se uma sequência numérica
 de cadeiras organizada da seguinte forma: 1 mesa, 4 cadeiras; 2 mesas, 6
 cadeiras; 3 mesas, 8 cadeiras.
 É possível estabelecer uma expressão de quantidade de cadeiras de acordo
 com a quantidade de mesas, por exemplo: $y = 2 x n + 2$, com n representando 
 a quantidade de mesas. Portanto: $y = 2 \cdot 10 + 2 = 22$ cadeiras.}
+\end{boxpeq}
 
 \num{7} Escreva mais 3 números da sequência 18, 30, 42, 54.
 
-\coment{Para adicionar mais três números à sequência, basta perceber que
+\reduline{Para adicionar mais três números à sequência, basta perceber que
 a diferença entre 18, 30, 42, 54 é sempre 12 em 12. Portanto, os três
-números solicitados são 66, 78, 90.}
+números solicitados são 66, 78, 90.\hfill}
 
 \num{8} Observe a imagem a seguir. 
-
-%Montar imagem semelhante, número de cadeiras é importante.
 
 \includegraphics[width=5.68333in,height=1.33333in]{./_SAEB_9_MAT/media/image84.wmf}
 
 Complete a tabela a seguir.
 
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
-% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
-\begin{table}[]
-\begin{tabular}{|
->{\columncolor[HTML]{CBCEFB}}c |c|c|}
-\hline
-\textbf{Configuração} & \cellcolor[HTML]{CBCEFB}\textbf{Número de mesas} & \cellcolor[HTML]{CBCEFB}\textbf{Número de lugares} \\ \hline
-\textbf{1} &  &  \\ \hline
-\textbf{2} &  &  \\ \hline
-\textbf{3} &  &  \\ \hline
-\textbf{4} &  &  \\ \hline
-\textbf{5} &  &  \\ \hline
-\textbf{n} &  &  \\ \hline
-\end{tabular}
-\end{table}
-
-\coment{
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
-% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
-\begin{table}[]
-\begin{tabular}{|
->{\columncolor[HTML]{CBCEFB}}c |c|c|}
-\hline
-\textbf{Configuração} & \cellcolor[HTML]{CBCEFB}\textbf{Número de mesas} & \cellcolor[HTML]{CBCEFB}\textbf{Número de lugares} \\ \hline
-\textbf{1} & 1 & 4 \\ \hline
-\textbf{2} & 2 & 6 \\ \hline
-\textbf{3} & 3 & 8 \\ \hline
-\textbf{4} & 4 & 10 \\ \hline
-\textbf{5} & 5 & 12 \\ \hline
-\textbf{n} & n & 2n + 2 \\ \hline
-\end{tabular}
-\end{table}
-}
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Configuração & Número de mesas & Número de lugares\tabularnewline
+\midrule
+\endhead
+1 & \rosa{1} & \rosa{4}\tabularnewline
+2 & \rosa{2} & \rosa{6}\tabularnewline
+3 & \rosa{3} & \rosa{8}\tabularnewline
+4 & \rosa{4} & \rosa{10}\tabularnewline
+5 & \rosa{5} & \rosa{12}\tabularnewline
+n & \rosa{n} & \rosa{2n + 2}\tabularnewline
+\bottomrule
+\end{longtable}
 
 \num{9} Qual é a diferença entre o décimo e o quinto termos da sequência 
 a\textsubscript{n} = 3n + 2?
@@ -1635,6 +1581,7 @@ a\textsubscript{n} = 3n + 2?
 \coment{$n = 10 32$
 $n = 5 17$
 $32 -- 17 = 15$}
+\end{boxpeq}
 
 \num{10} Observe a sequência: 0, 1, 4, 9, 16, 25, \ldots{}
 Qual expressão pode gerar essa sequência?
@@ -1643,6 +1590,7 @@ Qual expressão pode gerar essa sequência?
 \coment{A sequência é composta pelos quadrados dos números naturais:
 $1\textsuperscript{2}$, $2\textsuperscript{2}$, 
 $3\textsuperscript{2}$ \ldots{} y = $n\textsuperscript{2}$}
+\end{boxpeq}
 
 \section{Treino}
 
@@ -1663,17 +1611,6 @@ figurinhas que Renato tem é igual a:
 
 \end{escolha}
 
-\coment{SAEB: Resolver problemas que envolvam cálculo do valor numérico de expressões algébricas.
-
-a) Incorreta. Renato tem 44 figurinhas.
-b) Correta. Sendo x a quantidade de figurinhas de Renata:
-$x + 8 = 2 x 20 + 12$
-$x + 8 = 40 + 12$
-$x + 8 = 52$
-$x = 52 -- 8$
-$x = 44$
-c) Incorreta. Renato tem 44 figurinhas.
-d) Incorreta. Renato tem 44 figurinhas.}
 
 \num{2} Caio e Bruna têm, juntos, R\$ 21.000,00 para dar de entrada em um
 carro. Caio tem três quartos da quantia de Bruna. Quanto dinheiro Bruna tem?
@@ -1687,19 +1624,6 @@ carro. Caio tem três quartos da quantia de Bruna. Quanto dinheiro Bruna tem?
 
   \item R\$ 12.000,00
 \end{escolha}
-
-\coment{SAEB: Resolver problemas que envolvam cálculo do valor numérico de
-expressões algébricas. 
-
-a) Incorreta. Bruna tem R\$ 12.000,00. 
-b) Incorreta. Bruna tem R\$ 12.000,00.
-c) Incorreta. Bruna tem R\$ 12.000,00.
-d) Correta. Seja x a quantidade de dinheiro da Bruna, e \frac{3}{4}x a
-quantidade de dinheiro de Caio.
-$x + \frac{3}{4}x = 21000$
-$\frac{4 + 3}{4}x = 21000$
-$7x = 84000$
-$x = 12000$.}
 
 \num{3} Um vendedor recebe pagamento composto por uma parte fixa de R\$
 850,00 mais um bônus de R\$ 60,00 a cada peça vendida. Se em um
@@ -1715,17 +1639,6 @@ quantidade de produtos vendidos foi igual a:
 
   \item 18
 \end{escolha}
-
-\coment{SAEB: Resolver problemas que envolvam cálculo do valor numérico de expressões algébricas.
-
-a) Incorreta. Foram vendidos 17 produtos.
-b) Incorreta. Foram vendidos 17 produtos.
-c) Correta. Montando a equação, sabemos que:
-%Paulo: a linha abaixo é um teste que fiz com "ambiente matemático", para verificarmos se funciona bem. Em vez de colocar cada passagem em uma linha, usei a seta
-\begin{displaymath} 60x + 850 = 1870 \rightarrow 60x = 1870 - 850 \rightarrow
-60x = 1020 \rightarrow x = 17
-\end{displaymath}
-d) Incorreta. Foram vendidos 17 produtos.}
 
 \chapter{Equações do 2º grau}
 \markboth{Módulo 7}{}
