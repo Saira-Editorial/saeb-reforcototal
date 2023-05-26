@@ -2340,13 +2340,11 @@ gasto por ele é de aproximadamente:
 \section{Habilidades do SAEB}
 
 \begin{itemize}
-
   \item Associar uma das representações de uma função afim ou quadrática a
 outra de suas representações (tabular, algébrica, gráfica) ou associar uma
 situação que envolva função afim ou quadrática a uma das suas
 representações (tabular, algébrica, gráfica).
   \item Resolver problemas que envolvam função afim.  
-
 \end{itemize} 
 
 \section{Habilidade da BNCC}
@@ -2396,6 +2394,7 @@ proporcionalidade indireta entre duas variáveis.
   concavidade para cima.
 
 \end{itemize}
+}
 
 \section{Atividades}
 
@@ -2407,53 +2406,37 @@ descarga dos objetos.
 
 Observe os valores na tabela a seguir.
 
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
-% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
-\begin{table}[]
-\begin{tabular}{|
->{\columncolor[HTML]{CBCEFB}}c cccc|}
-\hline
-\multicolumn{5}{|c|}{\cellcolor[HTML]{ECF4FF}\textbf{Representação parcial do quadro disponível na empresa}} \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{CBCEFB}\textbf{Distância percorrida (km)}} & \multicolumn{1}{c|}{10} & \multicolumn{1}{c|}{20} & \multicolumn{1}{c|}{30} & ... \\ \hline
-\multicolumn{1}{|c|}{\cellcolor[HTML]{CBCEFB}\textbf{Preço total a pagar (R\$)}} & \multicolumn{1}{c|}{430} & \multicolumn{1}{c|}{460} & \multicolumn{1}{c|}{490} & ... \\ \hline
-\end{tabular}
-\end{table}
+\begin{longtable}[]{@{}lllll@{}}
+\toprule
+\textbf{Representação parcial do quadro disponível na
+empresa}\tabularnewline
+\midrule
+\endhead
+Distância percorrida (km) & 10 & 20 & 30 & ...\tabularnewline
+Preço total a pagar (R\$) & 430 & 460 & 490 & ...\tabularnewline
+\bottomrule
+\end{longtable}
 
 Escreva a função que pode modelar o preço.
 
 \begin{boxpeq}
-
 \coment{Podemos verificar pela tabela que o valor aumenta de 30 em 30 a cada
 aumento de 10 km, de modo que o aumento será de 3 em 3 por unidade.
 
 Com isso temos: $P(d) = 3 \cdot d + 400$}
+\end{boxpeq}
 
 \num{2} Veja o quadro a seguir e determine a regra matemática que relaciona x
 e y.
 
-\begin{table}[]
-\begin{tabular}{|c|c|c|c|c|}
-\hline
-\textbf{x} & - 1 & 2 & 3 & 5 \\ \hline
-\textbf{y} & - 4 & 5 & 8 & 14 \\ \hline
-\end{tabular}
-\end{table}
-
-\begin{boxpeq}
-
-\coment{Primeiramente podemos imaginar a tabela de maneira que tenha o
-distanciamento de uma unidade para cada valor de x.
-
-\begin{table}[]
 \begin{tabular}{|c|c|c|c|c|c|c|c|}
 \hline
-\textbf{x} & - 1 & 0 & 1 & 2 & 3 & 4 & 5 \\ \hline
-\textbf{y} & - 4 & - 1 & 2 & 5 & 8 & 11 & 14 \\ \hline
+\textbf{x} & - 1 & \rosa{0} & \rosa{1} & 2 & 3 & \rosa{4} & 5 \\ \hline
+\textbf{y} & - 4 & \rosa{- 1} & \rosa{2} & 5 & 8 & \rosa{11} & 14 \\ \hline
 \end{tabular}
-\end{table}
 
-Com a tabela ampliada fica claro o aumento de 3 unidades em y a cada
+\begin{boxpeq}
+\coment{Com a tabela ampliada fica claro o aumento de 3 unidades em y a cada
 aumento de 1 unidade em x. Essa regularidade nos aponta que se trata de
 função afim do tipo $y = ax+b$ e o valor de a é 3. Para determinar o valor
 de b basta ajustar o valor:
@@ -2461,42 +2444,35 @@ de b basta ajustar o valor:
 Para $x = 0$, por exemplo, $y = 3 \cdot 0 + b = -1$ (dado da tabela) 
 $0 + b = -1$, ou seja, $b = - 1$.
 $y = 3x - 1$}
+\end{boxpeq}
 
-\num{3} Considere o gráfico da função real representado no plano cartesiano a
-seguir.
+\num{3} Considere o gráfico da função real representado no plano cartesiano a seguir.
 
 \begin{figure}
 \centering
 \includegraphics[width=1.97543in,height=2.20513in]{./_SAEB_9_MAT/media/image137.png}
-\caption{Forma Descrição gerada automaticamente}
 \end{figure}
 
 Determine a função afim, $f(x)$.
 
 \begin{boxmedio}
-
 \coment{Como o eixo y é ``cortado'' no valor 4, temos que $b = 4$. Para
 determinar o valor de a, vamos substituir na função, pois pelo gráfico 
 sabemos que $f(2) = 0$ (raiz da função).
 
 $f(2) = a \cdot 2 + 4 = 0 \rightarrow \\
 2a = - 4 \rightarrow a = - 2 \cdot f(x) = - 2x + 4$.}
+\end{boxmedio}
 
 \num{4} Para se deslocar em uma cidade que não possui transporte
 de carro por aplicativo, é preciso contar com uma das empresas de transporte.
 
-% Please add the following required packages to your document preamble:
-% \usepackage[table,xcdraw]{xcolor}
-% If you use beamer only pass "xcolor=table" option, i.e. \documentclass[xcolor=table]{beamer}
-\begin{table}[]
-\begin{tabular}{|
->{\columncolor[HTML]{DAE8FC}}l |c|c|}
+\begin{tabular}{|l |c|c|}
 \hline
- & \cellcolor[HTML]{DAE8FC}\textbf{Empresa 1} & \cellcolor[HTML]{DAE8FC}\textbf{Empresa 2} \\ \hline
+ & \textbf{Empresa 1} & \textbf{Empresa 2} \\ \hline
 \textbf{Taxa fixa (R\$)} & 5 & 7 \\ \hline
 \textbf{Taxa por quilômetro (R\$/km)} & 0,45 & 0,35 \\ \hline
 \end{tabular}
-\end{table}
 
 Baseado nestes preços, em qual distância o valor das duas 
 empresas se iguala?
@@ -2512,6 +2488,7 @@ $P_1 = P_2 \rightarrow 0,45x + 5 = 0,35x + 7 \\
 
 Portanto, o valor da corrida das duas empresas é o mesmo quando são 
 percorridos 20 km.}
+\end{boxmedio}
 
 \num{5} Carlos trabalha como segurança, cobrando uma taxa fixa de R\$ 150,00 mais
 R\$ 20,00 por hora. Roberto, na mesma função, cobra uma taxa fixa de R\$ 120,00
@@ -2527,6 +2504,7 @@ Roberto: $P_R = 25x + 120$
 $P_C = P_R \rightarrow 20x + 150 = 25x + 120 \\
 
 30 = 5x \rightarrow  x = 6$.}
+\end{boxpeq}
 
 \num{6} O corte transversal de um túnel, de pista única, tem base de 30 m de largura
 e altura máxima de 10 m. O formato é um arco de parábola, conforme representado na
@@ -2535,14 +2513,11 @@ ilustração e no gráfico a seguir, sendo V o vértice da parábola.
 \begin{figure}
 \centering
 \includegraphics[width=5.56667in,height=2.24198in]{./_SAEB_9_MAT/media/image143.png}
-\caption{Imagem de vídeo game Descrição gerada automaticamente com
-confiança média}
 \end{figure}
 
 Escreva uma função que modele essa parábola.
 
 \begin{largebox}
-
 \coment{$f(x) = a \cdot (x - x_1) \cdot (x - x_2)$,
 considerando $x_1 = 0$ e $x_2 = 30$ 
 
@@ -2557,14 +2532,15 @@ $ f(15) = a \cdot (15^2 - 30 \cdot 15) = 10 \\
 a \cdot (225 - 450) = 10 \rightarrow a = - \frac{10}{225} =  - \frac{2}{45} \\
 
 f (a) = - \frac{2}{45} (x^{2} - 30x)$.}
+\end{largebox}
 
 \num{7} Em uma indústria, o custo de produção em mil reais de x mil unidades
 de determinado produto é dada pela função $ C(x) = 0,1^2 - 4x + 70$. Calcule 
 o custo para a produção de 100 unidades.
 
-\coment{Calculando o custo para $x = 100$ temos:
+\reduline{Calculando o custo para $x = 100$ temos:
 
-$C(100) = 0,1 \cdot (100)^2 - 4 \cdot 100 + 70 = 0,1 \cdot 10000 - 400 + 70 = 670$.}
+$C(100) = 0,1 \cdot (100)^2 - 4 \cdot 100 + 70 = 0,1 \cdot 10000 - 400 + 70 = 670$.\hfill}
 
 \num{8} A concentração de um medicamento C de certa medicação, em mg/l, varia de
 acordo com a função $C = 6t - \frac{1}{4} t^2$ em que t é o tempo decorrido, em 
@@ -2573,17 +2549,16 @@ Determine a concentração após 12 horas.
 
 \begin{boxpeq}
 \coment{$C = 6 \cdot 12 - 0,25 \cdot 12^2 = 72 - 36 = 36$.}
+\end{boxpeq}
 
 \num{9} Qual função representa o gráfico abaixo?
 
 \begin{figure}
 \centering
 \includegraphics[width=2.14105in,height=1.76667in]{./_SAEB_9_MAT/media/image150.jpeg}
-\caption{Função do 1 grau e seu gráfico (Função Afim) -}
 \end{figure}
 
 \begin{largebox}
-
 \coment{Sabemos que $f(2) = 2$ e $f(5) = 4$. Dado o gráfico sabemos que a função é
 do tipo $f(x)=ax+b$.
 
@@ -2593,7 +2568,7 @@ f(5)=5a + b = 4$
 
 Resolvendo o sistema:
 
-$\left\{\begin{matrix}
+$\left\begin{matrix}
 2a + b = 2
 \\5a + b = 4 
 \end{matrix}\right. \rightarrow 3a = 2 \rightarrow a = \frac{2}{3} \\
@@ -2603,6 +2578,8 @@ $\left\{\begin{matrix}
 b = \frac{2}{3} \\
 
 f(x) = \frac{2}{3}x + \frac{2}{3}$.
+}
+\end{largebox}
 
 \num{10} O deslocamento de um balão é dado pelo gráfico abaixo. Sabe-se que a
 altura máxima foi atingida na metade do tempo. A altura h em metros, do
@@ -2612,14 +2589,13 @@ $h(t) = - \frac{3}{4} t^2 + 6t$. Qual é altura máxima?
 \begin{figure}
 \centering
 \includegraphics[width=2.62523in,height=2.05851in]{./_SAEB_9_MAT/media/image154.png}
-\caption{Diagrama Descrição gerada automaticamente}
 \end{figure}
 
 \begin{boxpeq}
-
 \coment{A altura máxima foi atingida no tempo de 4 horas, de modo que:
 
 $ h(4) = - \frac{3}{4}4^{2} + 6 \cdot 4 = - 12 + 24 = 12$ horas.}
+\end{boxpeq}
 
 \section{Treino}
 
@@ -2630,7 +2606,6 @@ R\$ 35,00. Uma expressão que indica o valor a ser pago (P) em função das
 horas (h) necessárias à execução do serviço é:
 
 \begin{escolha}
-
   \item P = 40h
 
   \item P = 60h
@@ -2638,21 +2613,7 @@ horas (h) necessárias à execução do serviço é:
   \item P = 35 + 60h
 
   \item P = 60 + 35h
-
 \end{escolha}
-
-\coment{SAEB: Associar uma equação polinomial de 1o grau com duas variáveis a uma reta no plano cartesiano.
-
-BNCC: EF09MA06 -- Compreender as funções como relações de dependência unívoca entre duas variáveis e suas representações numérica, algébrica e gráfica e utilizar esse conceito para analisar situações que envolvam relações funcionais entre duas variáveis.
-
-a) Incorreta. A expressão que indica o valor a ser pago (P) em função das
-horas (h) necessárias à execução do serviço é P = 60 + 35h.   
-b) Incorreta. A expressão que indica o valor a ser pago (P) em função das
-horas (h) necessárias à execução do serviço é P = 60 + 35h.  
-c) Incorreta. A expressão que indica o valor a ser pago (P) em função das
-horas (h) necessárias à execução do serviço é P = 60 + 35h.  
-d) Correta. Dado que a função tem um valor que varia por hora e uma parte fixa (taxa
-de visita), então $P(x)=35h+60$.}
 
 \num{2} Uma aplicação financeira tem valorização determinada pelo gráfico abaixo.
 Considerando os dados apresentados, determine o valor no tempo de 10 anos.
@@ -2660,11 +2621,9 @@ Considerando os dados apresentados, determine o valor no tempo de 10 anos.
 \begin{figure}
 \centering
 \includegraphics[width=2.80858in,height=2.3252in]{./_SAEB_9_MAT/media/image155.png}
-\caption{Forma Descrição gerada automaticamente com confiança média}
 \end{figure}
 
 \begin{escolha}
-
 \item R\$ 260.000,00
 
 \item R\$ 300.000,00
@@ -2672,28 +2631,13 @@ Considerando os dados apresentados, determine o valor no tempo de 10 anos.
 \item R\$ 320.000,00
 
 \item R\$ 400.000,00
-
 \end{escolha}
-
-\coment{SAEB: Associar uma equação polinomial de 1o grau com duas variáveis a uma reta no plano cartesiano.
-
-BNCC: EF09MA06 -- Compreender as funções como relações de dependência unívoca entre duas variáveis e suas representações numérica, algébrica e gráfica e utilizar esse conceito para analisar situações que envolvam relações funcionais entre duas variáveis.
-
-a) Incorreta. Em dez anos, o valor será de R\$ 400.000,00.
-b) Incorreta. Em dez anos, o valor será de R\$ 400.000,00.
-c) Incorreta. Em dez anos, o valor será de R\$ 400.000,00.
-d) Correta. Conforme as informações do gráfico, pode-se concluir que a
-função é linear. Nela, a cada 2 anos, ocorre aumento de R\$ 40.000,00. Com isso,
-em 10 anos, haverá aumento de cinco vezes, ou seja, 
-$5 \cdot R\$ 40.000,00 = R\$ 200.000,00$. Somando-se os R\$ 200.000,00 com os 
-R\$ 200.000,00 iniciais, obtém-se o valor de R\$ 400.000,00.}
 
 \num{3} Observe o gráfico apresentado abaixo:
 
 \begin{figure}
 \centering
 \includegraphics[width=1.72515in,height=1.5668in]{./_SAEB_9_MAT/media/image156.png}
-\caption{Diagrama Descrição gerada automaticamente}
 \end{figure}
 
 Qual é o ponto de máximo?
@@ -2710,23 +2654,12 @@ Qual é o ponto de máximo?
 
 \end{escolha}
 
-\coment{SAEB: Resolver problemas que possam ser representados por equações polinomiais de 2o grau.
-
-BNCC: EF09MA06 -- Compreender as funções como relações de dependência unívoca entre duas variáveis e suas representações numérica, algébrica e gráfica e utilizar esse conceito para analisar situações que envolvam relações funcionais entre duas variáveis.  
-
-a) Incorreta. O ponto mais alto do gráfico é (2,1).
-b) Correta. Pelo gráfico, é possível localizar o ponto mais alto e
-determinar seu par ordenado, que é (2,1).  
-c) Incorreta. O ponto mais alto do gráfico é (2,1).
-d) Incorreta. O ponto mais alto do gráfico é (2,1).}
-
 \chapter{Geometria Plana I}
 \markboth{Módulo 10}{}
 
 \section{Habilidades do SAEB}
 
 \begin{itemize}
-
   \item Identificar, no plano cartesiano, figuras obtidas por uma ou mais
 transformações geométricas (reflexão, translação, rotação).
   \item Relacionar o número de vértices, faces ou arestas de prismas ou
@@ -2743,7 +2676,6 @@ satisfaçam condições dadas.
   \item Resolver problemas que envolvam relações entre os elementos de uma
 circunferência/círculo (raio, diâmetro, corda, arco, ângulo central, ângulo
 inscrito).
-
 \end{itemize} 
 
 \section{Habilidades da BNCC}
@@ -2753,24 +2685,19 @@ inscrito).
 \end{itemize}
 
 \conteudo{
-
 \begin{itemize}
-
   \item \textbf{Plano Cartesiano}
+\end{itemize}
 
-\begin{figure}
-\centering
 \includegraphics[width=1.8125in,height=1.8125in]{./_SAEB_9_MAT/media/image157.jpeg}
-\caption{Plano cartesiano: o que é, como fazer, quadrantes}
-\end{figure}
-
-%Autor: Montar nova figura
 
 O plano cartesiano tem os pontos indicado par ordenado (a, b). O valor
 \textbf{a} é a abscissa e \textbf{b} é a ordenada. Por exemplo, o ponto
 A é (2,3).
 
+\begin{itemize}
   \item \textbf{Polígonos}
+\end{itemize}  
 
 Polígonos são formas geométricas planas compostas por segmentos de reta
 que se unem em vértices. Eles são classificados como convexos ou
@@ -2780,41 +2707,25 @@ Observe os exemplos de polígonos convexo e não convexo.
 
 \includegraphics[width=2.32292in,height=1.19387in]{./_SAEB_9_MAT/media/image160.png}
 
-%Autor: Fazer figura semelhante
-
 O polígono será convexo quando o segmento de reta determinado por dois pontos A e B
 quaisquer estiver inteiramente contido no interior do polígono. 
 
-\begin{figure}
-\centering
 \includegraphics[width=3.07204in,height=1.70833in]{./_SAEB_9_MAT/media/image161.png}
-\caption{Forma, Polígono Descrição gerada automaticamente}
-\end{figure}
 
-%Autor: Fazer figura semelhante
-
+\begin{itemize}
   \item \textbf{Relações de Euler}
+\end{itemize}
 
 A relação de Euler nos ajuda a definir a quantidade de vértices, arestas
 e faces.
 
-\begin{figure}
-\centering
 \includegraphics[width=3.61979in,height=2.66667in]{./_SAEB_9_MAT/media/image162.png}
-\caption{Forma Descrição gerada automaticamente}
-\end{figure}
 
-%Autor: Refazer a imagem
-
+\begin{itemize}
   \item \textbf{Elementos da circunferência}
+\end{itemize}
 
-\begin{figure}
-\centering
 \includegraphics[width=1.53027in,height=1.57292in]{./_SAEB_9_MAT/media/image163.png}
-\caption{Partes de uma Circunferência com Diagramas - Neurochispas}
-\end{figure}
-
-%Autor: Fazer imagem semelhante
 
 \begin{itemize}
 \item
@@ -2829,8 +2740,6 @@ e faces.
   centro;
 \item
   Raio -- segmento de reta entre o centro a e borda da circunferência.
-\end{itemize}
-
 \end{itemize}
 } 
 
