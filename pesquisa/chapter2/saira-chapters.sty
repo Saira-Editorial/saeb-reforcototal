@@ -1,9 +1,11 @@
+
 \RequirePackage{calc}
 \RequirePackage{xcolor}
 \RequirePackage{tikz}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % MY DEFAULT CHAPTER STYLING
+%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newif\ifNoChapNumber
 
@@ -24,14 +26,15 @@
             % \fill[red] (1,2) rectangle (0.5,1.5);    
         %\end{tikzpicture}
         
-        \vspace*{-26.4em}{\includegraphics[width=\paperwidth]{./chap.pdf}};
 
         \ifNoChapNumber{ % if there is no chapter number
-            \vspace*{-26.4em}\hspace*{3.4em}%
+            \vspace*{-16.4em}{\includegraphics[width=\paperwidth]{./chap.pdf}}
+            \vspace*{-9em}\hspace*{3.2em}%
             \chaptitlefont\textcolor{purple}{##1} % chapter title
             \vspace*{2em}
         }
         \else{ % else, if there is a chapter number
+            \vspace*{-16.4em}{\includegraphics[width=\paperwidth]{./chap.pdf}}
             \vspace*{-9em}\hspace*{3.2em}%
             \chapnumfont\textcolor{red}{Chapter \thechapter} % chapter number
             
