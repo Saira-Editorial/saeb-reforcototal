@@ -1,18 +1,18 @@
-pdfcrop 01-4POR.pdf
-pdfcrop 02-6POR.pdf
-pdfcrop 03-7POR.pdf
-pdfcrop 04-8POR.pdf
-pdfcrop 05-9POR.pdf
-pdfcrop 06-1MAT.pdf
-pdfcrop 07-2MAT.pdf
-pdfcrop 08-3MAT.pdf
-pdfcrop 09-4MAT.pdf
-pdfcrop 10-6MAT.pdf
-pdfcrop 11-7MAT.pdf
-pdfcrop 12-8MAT.pdf
-pdfcrop 13-5MAT.pdf
-pdfcrop 14-9MAT.pdf
-pdfcrop 15-5POR.pdf
-pdfcrop 48-1POR.pdf
-pdfcrop 49-2POR.pdf
-pdfcrop 50-3POR.pdf
+mv 4POR-crop.pdf 4POR.pdf
+mv 6POR-crop.pdf 6POR.pdf
+mv 7POR-crop.pdf 7POR.pdf
+mv 8POR-crop.pdf 8POR.pdf
+mv 9POR-crop.pdf 9POR.pdf
+mv 1MAT-crop.pdf 1MAT.pdf
+mv 2MAT-crop.pdf 2MAT.pdf
+mv 3MAT-crop.pdf 3MAT.pdf
+mv 4MAT-crop.pdf 4MAT.pdf
+mv 6MAT-crop.pdf 6MAT.pdf
+mv 7MAT-crop.pdf 7MAT.pdf
+mv 8MAT-crop.pdf 8MAT.pdf
+mv 5MAT-crop.pdf 5MAT.pdf
+mv 9MAT-crop.pdf 9MAT.pdf
+mv 5POR-crop.pdf 5POR.pdf
+mv 1POR-crop.pdf 1POR.pdf
+mv 2POR-crop.pdf 2POR.pdf
+mv 3POR-crop.pdf 3POR.pdf
