@@ -32,10 +32,11 @@
  
 \newcommand{\chaptersaira}{
      \ifnum \value{chapter}<1
+      \newcommand{\chapterprov}{Sumário}
       \begin{tikzpicture}[remember picture,overlay]
        \node [anchor=north] at (8,1) {\includegraphics[width=\paperwidth,height=\paperheight]{../chap2.pdf}};
-       \node[above=1cm, font=\gotham\Large, text=white, anchor=south] at (5,-3) {Sumário};
-       \end{tikzpicture};
+       \node[above=1cm, font=\gotham\Large, text=white, anchor=south] at (5,-3) {\chapterprov};
+       \end{tikzpicture}
        \setlength{\afterchapskip}{7.2\onelineskip}
 
       \else

@@ -4,7 +4,9 @@ Ajeitas os elementos mais básicos
 	- entradas
 	- número
 
+
 Acertar
+    - checar estrutura e presença dos simulados
 	- matemática
 	- comentários
 
