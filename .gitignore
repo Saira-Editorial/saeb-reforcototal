@@ -22,3 +22,4 @@
 *.fls .DS_Store
 *.pdf
 !chap.pdf
+!chap2.pdf
