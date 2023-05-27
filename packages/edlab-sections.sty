@@ -23,17 +23,27 @@
 \renewcommand*{\chapnamefont}{}%       % Etiqueta
 \renewcommand*{\chapnumfont}{}%        % Número
 \renewcommand*{\chaptitlefont}{\chaptersaira\flushright\gotham\bfseries\Large\color{white}\vspace*{-1cm}} %  % Texto %\color{white}
-\setlength{\beforechapskip}{-2.5cm} %altura da imagem do chapter
+\setlength{\beforechapskip}{-2cm} %altura da imagem do chapter
 \setlength{\midchapskip}{3.0\onelineskip}
-\setlength{\afterchapskip}{3.0\onelineskip} % distância entre texto e cap.
+\setlength{\afterchapskip}{2.2\onelineskip} % distância entre texto e cap.
 \renewcommand*{\printchaptername}{}
-\renewcommand*{\printchapternum }{}
+%\renewcommand*{\printchapternum}{}
 
+ 
 \newcommand{\chaptersaira}{
+     \ifnum \value{chapter}<1
       \begin{tikzpicture}[remember picture,overlay]
-       \node [anchor=north] at (8,3) {\includegraphics[width=\paperwidth,height=\paperheight]{./chap.pdf}};
-       \node[above=1cm, font=\fontsize{70}{80}\gotham\selectfont, text=black, anchor=south] at (-0.5,-1.5) {\the\value{chapter}};
+       \node [anchor=north] at (8,1) {\includegraphics[width=\paperwidth,height=\paperheight]{../chap2.pdf}};
+       \node[above=1cm, font=\gotham\Large, text=white, anchor=south] at (5,-3) {Sumário};
+       \end{tikzpicture};
+       \setlength{\afterchapskip}{7.2\onelineskip}
+
+      \else
+      \begin{tikzpicture}[remember picture,overlay]
+       \node [anchor=north] at (8,3) {\includegraphics[width=\paperwidth,height=\paperheight]{../chap.pdf}};
+       \node[above=1cm, font=\fontsize{70}{80}\gotham\selectfont, text=black, anchor=south] at (-0.3,-1.5) {\the\value{chapter}};
       \end{tikzpicture}
+      \fi
   }
 
 
@@ -120,5 +130,8 @@
 \marginparwidth=5em     % Tamanho da caixa de texto da nota laterial
 
 \renewcommand{\thechapter}{}
+
+
+
 
 \ProcessOptions%
