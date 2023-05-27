@@ -2,7 +2,7 @@
 
 \newcommand{\blankpage}{\newpage\hbox{~}\thispagestyle{empty}\newpage}
 
-
+\newcommand*\EP[1][-1]{\enlargethispage*{#1\baselineskip}}
 
 \newcommand\reduline{
   \medskip\noindent\bgroup
@@ -175,13 +175,13 @@
 
 % Cria box de conteúdos
 \newcommand{\conteudo}[1]{
-\begin{mdframed}[linewidth=10pt,linecolor=salmao!20,backgroundcolor=salmao!20,roundcorner=20pt,splittopskip=7mm]
+\begin{mdframed}[linewidth=10pt,linecolor=salmao!20,backgroundcolor=salmao!20,roundcorner=20pt,splittopskip=7mm,innertopmargin=7mm]
 #1
 \end{mdframed}
 }
 
 % Para diferenciar a citação da fonte do conteúdo dos textos em quote
-\newcommand{\fonte}[1]{\vspace*{-.3cm}\begin{flushright}{\color{darkgray}\tiny\baselineskip=.7\baselineskip #1\par}\end{flushright}}
+\newcommand{\fonte}[1]{\begin{flushright}{\color{darkgray}\tiny\baselineskip=.7\baselineskip #1\par}\end{flushright}}
 
 
 % bibliohedra 
