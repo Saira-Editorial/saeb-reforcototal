@@ -1,7 +1,7 @@
 Ajeitas os elementos mais básicos
-	- watermarks
-	- caixas altas
-	- grifado para BNCC
+	- rodar
+	- comparar arquivos
+	- entradas
 	- número
 
 Acertar
