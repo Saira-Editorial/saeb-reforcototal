@@ -1,6 +1,13 @@
 	Notas (README.md)
 	=====
 
+# Anotações 27/05
+
+* Checar nomes dos autores nas fichas catalográficas.
+* Rever referências às habilidades da BNCC (só devem aparecer no gabarito).
+* A abertura do simulado deve cair sempre na página ímpar.
+* 
+
 # Atas
 
 
@@ -121,3 +128,4 @@
 	* Evitar watermarks
 	* Usar numeradores. Não usar \num{1}, usar \num{\numeradornovo}
 	* Colocar magenta dentro das imagens
+
