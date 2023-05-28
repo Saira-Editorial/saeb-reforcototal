@@ -4976,8 +4976,6 @@ pipas para enchê-la. Um caminhão tem capacidade igual a 5.000 litros de
 % D - Incorreta, pois fez a multiplicação do volume errado, encontrando
 % 215 ao invés de 210.
 
-\begin{comment}
-
 \chapter{Probabilidade}
 \markboth{Módulo 13}{}
 
@@ -5009,10 +5007,11 @@ paus.
 Sendo assim, sabemos que a probabilidade independente de acontecer um
 evento é:
 
-P(A)=
-\frac{nú\text{mero}\ \text{de}\ ch\text{ances}\ \text{de}\ \text{ocorrer}\ o\ \text{evento}}{\text{espa}ço\ \text{amostral}(\text{todas}\ ch\text{ances}\ \text{poss}í\text{veis})}
+$$P(A)= \frac{número \ de \ chances \ de \ ocorrer \ o  \ evento}{espaço \ amostral (todas \ chances \ possíveis)}$$
 
-Então temos que P(A|B) = \ P(A) e P(B|A) = \ P(B).
+Então temos que
+
+$$P(A|B) = \ P(A) e P(B|A) = \ P(B)$$
 
 \textbf{Exemplo:} Tirar um número específico em um dado ou cara/coroa em
 uma moeda são eventos dependentes.
@@ -5028,7 +5027,7 @@ P(A\ e\ B)\  = \ P(A).P(B)\
 \textbf{Exemplo:} A probabilidade de Juliana acertar duas questões
 seguidas na prova de matemática é igual a 0,82.
 
-P\ (2\ \text{quest}õ\text{es}\ \text{corretas})\ 0,82.\ 0,82 = \ 0,6724
+$$P (2 \ questões \  corretas) \ 0,82 \cdot 0,82 = 0,6724$$
 
 \textbf{Observação:} A probabilidade total é sempre igual a 1 (remetendo
 a 100\%), então, no exemplo anterior, poderíamos perguntar a
@@ -5052,7 +5051,7 @@ momentos: o cálculo da probabilidade do evento A, que é o primeiro
 evento, e depois o cálculo do evento B, dado que A ocorreu. Depois de
 calculado, multiplicam-se a probabilidade dos eventos.
 
-P(A \cap B)\  = \ P(A).\ P(B|A)
+$$P(A \cap B)\  = \ P(A).\ P(B|A)$$
 
 \textbf{Exemplo:} Em uma urna, há 7 bolas brancas e 6 vermelhas. Em uma
 competição entre duas pessoas, quem retirar 3 bolas vermelhas primeiro,
@@ -5061,124 +5060,110 @@ retirar uma bola vermelha. Sua primeira bola é branca. Dado que as bolas
 não são retornadas de volta para a urna, qual aé chance de Max, o
 próximo jogador, retirar uma bola vermelha?
 
-P(A) = \frac{6}{13}, pois, dentre todas as bolas, 6 delas são
+$P(A) = \frac{6}{13}$, pois, dentre todas as bolas, 6 delas são
 vermelhas.
 
 Agora, dado que Sandro já jogou, a probabilidade de B é
-P(B|A) = \ \frac{6}{12}.
+$P(B|A) = \ \frac{6}{12}$.
 
 A probabilidade que seja vermelha é:
-\frac{6}{13} \times \frac{6}{12} = \frac{12}{156} ou a fração
-irredutível \frac{1}{13}.
+$\frac{6}{13} \times \frac{6}{12} = \frac{12}{156}$ ou a fração
+irredutível $\frac{1}{13}$.
 
 \section{Atividades}
 
 \num{1} Classifique os eventos como dependentes ou independentes:
 
-a) Um jogador de futebol erra dois chutes a gol.
+\begin{escolha}
 
-b) Uma pessoa escolhe o lugar no cinema antes de você.
+\item Um jogador de futebol erra dois chutes a gol.
+\rosa{Eventos independentes, pois o fato de o jogador errar o primeiro chute não impõe que ele errará o segundo.} \\ \\
 
-c) Retirar cartas do baralho e não devolvê-las antes de passar a vez
-para o próximo jogador.
+\item Uma pessoa escolhe o lugar no cinema antes de você.
+\rosa{Dependente, pois, quando você for escolher, terá menos opções.} \\ \\
 
-R:
+\item Retirar cartas do baralho e não devolvê-las antes de passar a vez para o próximo jogador.
+\rosa{Dependente, porque quando a próxima pessoa for retirar uma carta, terá menos opções.} \\ \\
 
-a) Eventos independentes, pois o fato de o jogador errar o primeiro
-chute não impõe que ele errará o segundo.
-
-b) Dependente, pois, quando você for escolher, terá menos opções.
-
-c) Dependente, porque quando a próxima pessoa for retirar uma carta,
-terá menos opções.
+\end{escolha}
 
 \num{2} Felipe é muito bom em geografia. As chances de acertar questões em
 provas objetivas é de 0,9, ou seja, 90\%. Qual é a chance de Felipe
 acertar 3 questões consecutivas?
 
-R:
-
-São eventos independentes, pois errar ou acertar a questão anterior não
+\reduline{São eventos independentes, pois errar ou acertar a questão anterior não
 influencia na próxima questão. Então, utilizando a regra da
-multiplicação, temos
-:\ P(\ 3\ \text{acertos}\ \text{em}\ \text{quest}õ\text{es}) = \ 0,9 \times 0,9 \times 0,9 = \ 0,729.
+multiplicação, temos: P(3 acertos em questões) = $0,9 \times 0,9 \times 0,9 = \ 0,729$.\hfill}
 
 \num{3} Qual é a probabilidade de o lançamento de um dado cair 4 vezes
 seguidas no número 2?
 
-R:
-
-São eventos independentes, uma vez que o resultado anterior do dado não
+\reduline{São eventos independentes, uma vez que o resultado anterior do dado não
 diminui as chances de cair na mesma face. Então, pela regra da
 multiplicação:
 
-P(A) = \ \frac{1}{6} \times \frac{1}{6} \times \frac{1}{6} \times \frac{1}{6} = \ \frac{1}{1296}
+$P(A) = \ \frac{1}{6} \times \frac{1}{6} \times \frac{1}{6} \times \frac{1}{6} = \ \frac{1}{1296}$.\hfill}
 
-Professor, nesta questão, é importante trabalhar com o número decimal e
-ver o quão longe do 1, está. Logo, a chance de acontecer é muito
-pequena.
+%Professor, nesta questão, é importante trabalhar com o número decimal e
+%ver o quão longe do 1, está. Logo, a chance de acontecer é muito
+%pequena.
 
 \num{4} Um dado de seis faces é lançado duas vezes consecutivas. Qual é a
 probabilidade de obter um número par no primeiro lançamento e um número
 ímpar no segundo lançamento?
 
-R:
-
-Para determinar a probabilidade desejada, devemos analisar cada
+\reduline{Para determinar a probabilidade desejada, devemos analisar cada
 lançamento separadamente e considerar que o resultado de um lançamento
 não influencia o resultado do outro, tornando os eventos independentes.
 
 No primeiro lançamento, metade das faces do dado é par e a outra metade
 é ímpar, então a probabilidade de obter um número par é de
-\frac {1}{2}.
+$\frac {1}{2}$.
 
 No segundo lançamento, mesmo após o primeiro, a probabilidade de obter
-um número ímpar ainda é de \frac {1}{2}, pois os eventos são
+um número ímpar ainda é de $\frac {1}{2}$, pois os eventos são
 independentes.
 
 Para determinar a probabilidade conjunta dos dois eventos independentes,
 multiplicamos as probabilidades individuais:
-\frac {1}{2} \times \frac {1}{2} = \frac {1}{4}
+$\frac {1}{2} \times \frac {1}{2} = \frac {1}{4}$ \hfill}
 
 \num{5} Qual é a chance de eu virar cartas de um baralho ao acaso e retirar
 um 5, não retorná-lo, e tirar uma dama logo em seguida?
 
-R:
-
-Trata-se de um evento dependente, então é preciso calcular o primeiro
+\reduline{Trata-se de um evento dependente, então é preciso calcular o primeiro
 evento e depois o segundo acontecimento, dado o primeiro já ter
 ocorrido, e multiplicar as probabilidades.
 
-P\left( A \right) = \frac{4}{52}\ e\ P\left( A \right) = \ \frac{4}{51},\ P\left( A \right)\text{.\ }P\left( A \right) = \ \frac{4}{52} \times \ \frac{4}{51} = \frac{16}{2652}\ \text{ou}\ a\ \text{fra}ção\ \text{irredut}í\text{vel}\ \frac{4}{663}.
+$P(A) = \frac{4}{52}$ e $P(A) = \frac{4}{51}$ \\
+
+$P(A) \times P(A) = \frac{4}{52} \times \frac{4}{51} = $ \\
+
+$\frac{16}{2652}$ ou a fração irredutível $\frac{4}{663}$. \hfill}
 
 \num{6} A chance de um processador de 7ª geração estragar antes de um ano de
 garantia equivale a 0,2. Qual é a chance de dois processadores não
 estragarem nesse um ano?
 
-R:
-
-São eventos independentes, pois o fato de um processador ter estragado
+\reduline{São eventos independentes, pois o fato de um processador ter estragado
 não implica que o outro também estrague. Se a chance de estragar é 0,2,
-a de não estragar é de 0,8, pois 1 - 0,2 = 0,8. Para eventos
+a de não estragar é de 0,8, pois $1 - 0,2 = 0,8$. Para eventos
 independentes, utilizamos a regra da multiplicação,
-P(2\ \text{processad}\text{ores}\ não\ \text{estragarem}) = \ 0,8.0,8 = \ 0,64,\ \text{ou}\ \text{seja},\ 64\%.
+
+P(2 processadores não estragarem) =  $0,8 \cdot 0,8 = 0,64$, ou seja, 64\%.\hfill}
 
 \num{7} Calcule a probabilidade de encontrarmos um número par ao jogarmos um
 dado.
 
-R:
-
-Os números pares de um dado são 2,4 ou 6. Logo, a probabilidade de ser
-um número par é de \frac{3}{6}.
+\reduline{Os números pares de um dado são 2,4 ou 6. Logo, a probabilidade de ser
+um número par é de $\frac{3}{6}$.\hfill}
 
 \num{8} Um saco contém 5 bolas numeradas de 1 a 5. Uma pessoa retira uma bola
 do saco sem olhar e registra o número. Em seguida, a bola é colocada de
 volta no saco e a pessoa retira outra bola. Qual é a probabilidade de
 ambas as bolas retiradas terem números ímpares?
 
-R:
-
-Para calcular a probabilidade de ambas as bolas retiradas terem números
+\reduline{Para calcular a probabilidade de ambas as bolas retiradas terem números
 ímpares, vamos considerar cada retirada de bola como um evento
 independente.
 
@@ -5186,57 +5171,52 @@ Existem três bolas com números ímpares no saco: 1, 3 e 5. O número total
 de bolas no saco é 5.
 
 Na primeira retirada, a probabilidade de escolher uma bola ímpar é de
-\frac {3}{5}, pois existem três bolas ímpares entre as cinco
+$\frac{3}{5}$, pois existem três bolas ímpares entre as cinco
 disponíveis.
 
 Após a primeira retirada, a bola é colocada de volta no saco, e o número
 de bolas e a proporção de bolas ímpares permanecem as mesmas.
 
 Na segunda retirada, a probabilidade de escolher uma bola ímpar
-novamente é de \frac {3}{5}.
+novamente é de $\frac{3}{5}$.
 
 Portanto, para calcular a probabilidade de ambas as bolas retiradas
 terem números ímpares, multiplicamos as probabilidades de cada evento
-independente: \frac {3}{5} \times \frac {3}{5} = \frac {9}{25}
+independente: $\frac {3}{5} \times \frac {3}{5} = \frac {9}{25}$
+\hfill}
 
 \num{9} Qual é a probabilidade de eu tirar uma carta de um baralho que seja
 preta e de ouro, sendo que uma carta vermelha já foi retirada do baralho
 e não retornada?
 
-R:
+\reduline{A probabilidade acima é igual a 0, pois as cartas de ouro de um baralho
+são vermelhas.\hfill}
 
-A probabilidade acima é igual a 0, pois as cartas de ouro de um baralho
-são vermelhas.
-
-\num{0} Ruan tem que selecionar dois alunos de uma classe de 20 meninas e 18
+\num{10} Ruan tem que selecionar dois alunos de uma classe de 20 meninas e 18
 meninos. Qual é a probabilidade de os dois alunos escolhidos serem
 meninos?
 
-R:
-
-Temos que P(A) = \frac{18}{38}, ou seja, 18 meninos para uma turma
+\reduline{
+Temos que $P(A) = \frac{18}{38}$, ou seja, 18 meninos para uma turma
 de total 38. Considerando que o primeiro menino já foi retirado, vamos
 calcular a probabilidade do segundo menino:
-P(B|A) = \ \frac{17}{37}. Utilizando a regra da multiplicação,
+$P(B|A) = \ \frac{17}{37}$. Utilizando a regra da multiplicação,
 temos:
 
-P(A).P(B|A) = \frac{18}{38} \times \frac{17}{37} = \ \frac{306}{1406} = \ \frac{153}{703}
+$P(A).P(B|A) = \frac{18}{38} \times \frac{17}{37} = \ \frac{306}{1406} = \ \frac{153}{703}$
+\hfill}
 
 \section{Treino}
 
 \num{1} Jogando uma moeda, qual é a chance de sair, 3 vezes seguidas, a face
 coroa?
 
-\item
-  \ \frac{3}{8}
-
-b) \frac{1}{8}
-
-c) \frac{3}{2}
-
-\item
-  \ \frac{1}{6}
-
+\begin{escolha}
+\item $\frac{3}{8}$
+\item $\frac{1}{8}$
+\item $\frac{3}{2}$
+\item $\frac{1}{6}$
+\end{escolha}
 
 %%\section{BNCC: EF07MA34 }
 % -- Planejar e realizar experimentos aleatórios ou
@@ -5259,10 +5239,12 @@ c) \frac{3}{2}
 \num{2} Em um globo de bingo existem 75 bolas numeradas de 1 a 75. Qual é a
 chance de tirar a bola 18, não recolocá-la e tirar a bola 4 em seguida?
 
-a) \frac{2}{75}
-b) \frac{5}{75}
-c) \frac{1}{5550}
-d) \frac{1}{74}
+\begin{escolha}
+\item $\frac{2}{75}$
+\item $\frac{5}{75}$
+\item $\frac{1}{5550}$
+\item $\frac{1}{74}$
+\end{escolha}
 
 %\section{BNCC: EF07MA34 }
 % -- Planejar e realizar experimentos aleatórios ou
@@ -5288,10 +5270,12 @@ d) \frac{1}{74}
 0,18. Qual é a chance de o arremessador acertar três arremessos
 consecutivos?
 
-a) Aproximadamente 100\%
-b) Aproximadamente 21\%
-c) Aproximadamente 55\%
-d) Aproximadamente 1\%
+\begin{escolha}
+\item Aproximadamente 100\%
+\item Aproximadamente 21\%
+\item Aproximadamente 55\%
+\item Aproximadamente 1\%
+\end{escolha}
 
 %\section{BNCC: EF07MA34 }
 % -- Planejar e realizar experimentos aleatórios ou
@@ -5311,6 +5295,8 @@ d) Aproximadamente 1\%
 % D- Incorreta, pois, para que os arremessos fossem perto de 1\%, a
 % probabilidade de erro do arremessador seria muito perto de 0,98, ou
 % melhor, 98\%.
+
+\begin{comment}
 
 \chapter{Simulado 1}
 
