@@ -39,16 +39,16 @@ Existem diferentes tipos de representação numérica; cada uma é adequada para
 Algumas das representações mais comuns são:
 
 A representação decimal é baseada no sistema decimal, que utiliza dez dígitos ($0$ a $9$). Cada posição em um número decimal tem um valor associado a potências de dez. Por exemplo, o número $358$ 
-é representado como a soma de $3 \times 10^2 + 5 \times 10^1 + 8 \times 10^0$.
+é representado como a soma de $3 \cdot 10^2 + 5 \cdot 10^1 + 8 \cdot 10^0$.
 
 A representação binária é baseada no sistema binário, que utiliza apenas dois 
 dígitos ($0$ e $1$). Cada posição em um número binário tem um valor associado a potências de dois. Por exemplo, o 
-número binário 101 é representado como a soma de $1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0$, que é igual a 5 em decimal.
+número binário 101 é representado como a soma de $1 \cdot 2^2 + 0 \cdot 2^1 + 1 \cdot 2^0$, que é igual a 5 em decimal.
 
 A representação hexadecimal é baseada no sistema hexadecimal, que utiliza 
 dezesseis dígitos ($0$ a $9$ e $A$ a $F$). A base 16 é utilizada para representar números grandes e facilitar a 
 conversão entre binário e decimal. Por exemplo, o número hexadecimal 2A é representado como a soma de 
-$2 \times 16^1 + A x 16^0$, onde $A$ tem o valor de $10$ em decimal. Portanto, $2A$ em hexadecimal é igual a $42$ em decimal.
+$2 \cdot 16^1 + A x 16^0$, onde $A$ tem o valor de $10$ em decimal. Portanto, $2A$ em hexadecimal é igual a $42$ em decimal.
 
 A representação de ponto flutuante é usada para representar números 
 reais, que podem ter uma parte inteira e uma parte fracionária. Esse sistema é comumente usado em computação 
@@ -159,7 +159,7 @@ cada um dos números a seguir
 
 \num{8} O números $121$ é considerado um quadrado perfeito? Por quê?
 
-\reduline{Sim, pois $121 = 11 \times 11$.\hfill}
+\reduline{Sim, pois $121 = 11 \cdot 11$.\hfill}
 
 \num{9} O produto ou o quociente de dois números irracionais pode ser um
 número racional?
@@ -167,23 +167,23 @@ número racional?
 
 \reduline{ Sim, como exemplos podem ser citados\hfill}
 
-\reduline{ $(\sqrt{2} \times \sqrt{2} = \sqrt{2}^2 = 2)$ e também $(\frac{\sqrt{2}}{\sqrt{2}} = 1)$\hfill}
+\reduline{ $(\sqrt{2} \cdot \sqrt{2} = \sqrt{2}^2 = 2)$ e também $(\frac{\sqrt{2}}{\sqrt{2}} = 1)$\hfill}
 
 
 \num{10} Qual é o menor número natural que devemos multiplicar pelo número
 125 para que o produto seja um número quadrado perfeito?
 
-\reduline{ $5$, pois $5\times 125 = 625$ e $(\sqrt{625}) = 25$.\hfill}
+\reduline{ $5$, pois $5\cdot 125 = 625$ e $(\sqrt{625}) = 25$.\hfill}
 
 \section{Treino}
 
 \num{1} Qual é a decomposição do número 1 000 em fatores primos?
 
 \begin{escolha}
-\item $(2^2\times 5^2)$
-\item $(2^3 \times 5^2 \times 2)$
-\item $(2^3 \times 5^3)$
-\item $(2^3 \times 5^2)$
+\item $(2^2\cdot 5^2)$
+\item $(2^3 \cdot 5^2 \cdot 2)$
+\item $(2^3 \cdot 5^3)$
+\item $(2^3 \cdot 5^2)$
 \end{escolha}
 
 
@@ -199,7 +199,7 @@ número racional?
 % menos na fatoração.
 
 % C: Correta, pois, ao decompor o número 1.000 em fatores primos, obtemos
-% $2^3$ \times $5^3$.
+% $2^3$ \cdot $5^3$.
 
 % D: Incorreta, pois o aluno não computou um elemento 5 na fatoração.
 % -----
@@ -301,12 +301,12 @@ Dado um número racional a e um número natural n, a expressão ($a^n$)
 chama-se potência e representa uma multiplicação de n fatores iguais ao
 número a.
 
-$$(a^n = \frac{a \times a \times a \times a \times a \times \ldots \times a}{n})$$
+$$(a^n = \frac{a \cdot a \cdot a \cdot a \cdot a \cdot \ldots \cdot a}{n})$$
 Essa operação é chamada potenciação.
 
 Assim, pela definição, temos:
 
-($$10^3 = 10 \times 10 \times 10 = 1.000$$)
+$$(10^3 = 10 \cdot 10 \cdot 10 = 1.000)$$
 
 Propriedades da Potenciação:
 
@@ -315,7 +315,7 @@ Propriedades da Potenciação:
 Um produto de potências de mesma base pode ser escrito na forma de uma
 única potência: conservamos a base e adicionamos os expoentes.
 
-$$(a^m) \times (a^n) = (a^{m+n})$$
+$$(a^m) \cdot (a^n) = (a^{m+n})$$
 
 2ª. Propriedade: Quociente de potências de mesma base
 
@@ -323,7 +323,7 @@ Um quociente de potências de mesma base, em que o expoente do dividendo
 é maior ou igual ao expoente do divisor, pode ser escrito na forma de
 uma única potência: conservamos a base e subtraímos os expoentes
 
-$$(a^m) : (a^n) = (a^{m-n})$$ 
+$$(a^m) \div (a^n) = (a^{m-n})$$ 
 
 com a diferente de zero e m maior ou
 igual a n
@@ -333,14 +333,14 @@ igual a n
 Um produto de potências de mesma base pode ser escrito na forma de uma
 única potência: conservamos a base e multiplicamos os expoentes.
 
-$$(a^m)^n) = (a^{m \times n})$$
+$$(a^m)^n) = (a^{m \cdot n})$$
 
 4ª. propriedade potência de um produto
 
 Para elevar um produto de dois ou mais números racionais a um expoente,
 elevamos cada fator a esse expoente.
 
-$$((a \times b)^n)= (a^n x b^n)$$
+$$((a \cdot b)^n)= (a^n x b^n)$$
 
 Potências de base dez
 
@@ -384,25 +384,17 @@ A raiz quadrada de 49 é 7, pois:
 \item $(-1,5^1)$  \rosa{$-1,5$}
 \end{escolha}
 
-\begin{comment}
-
-Em cada item acima deixar o espaço de 2 linhas para resposta.
-
 
 \num{2} Calcule as operações abaixo.
 
 \begin{escolha}
 \item $(( - \frac{1}{2}^2 \; + \; -1^4)$ \rosa{ $(+ 1\frac{1}{4})$}
-\item $ - (2^3 . -2^3)$ \rosa{} $(+64)$}
+\item $ - (2^3 . -2^3)$ \rosa{ $(+64)$}
 \item $(( - 1\frac{1}{2} . -1^5)$ \rosa{$(+ 1\frac{1}{2})$}
-\item $(\left - \frac{1}{2} \right) \times (\left + \frac{3}{2} \right) - \left ( \frac{2}{3} \right)^{3} / \left ( - \frac{1}{27}) \right)$  \rosa{$(8 \times \frac{3}{8})$}
-\item $(0,1) ^2 / (-2) + (1,5) \times (-0,1)^2$ \rosa{$0,01$}
+\item $\left ( - \frac{1}{2} \right) \cdot \left( + \frac{3}{2} \right) - \left ( \frac{2}{3} \right)^{3} / \left ( - \frac{1}{27}) \right)$  
+    \rosa{$(8 \cdot \frac{3}{8})$}
+\item $(0,1) ^2 / (-2) + (1,5) \cdot (-0,1)^2$ \rosa{$0,01$}
 \end{escolha}
-
-
-\begin{comment}
-
-
 
 
 
@@ -415,100 +407,109 @@ Em cada item acima deixar o espaço de 2 linhas para resposta.
 
 
 \begin{escolha}
-\item $(3^7:3^5)$
-\item $(-1^8:-1^6)$
-\item $(\left( \frac{2}{3} \right)$ / \left $( \frac{2}{3} \right)$)
-\item Metade de $(2^10)$
-\item $((-2,5)$^5) : $(-2,5)$^2
-\item $(a^9 : a^8)$, com a racional não nulo
-\item $(1^8:1^2)$
-\item terça parte de $(3^8)$
+\item $(3^7:3^5)$ 
+    \rosa{$(3^{7 - 5} = 3^2 = 3.3 = 9)$     }
+\item $(-1^8:-1^6)$ 
+    \rosa{$((-1^{8 - 6} = -1^2= -1\cdot-1= +1)$     }
+\item $(\left( \frac{2}{3} \right) / \left ( \frac{2}{3} \right)$ 
+    \rosa{$((\frac{2}{3})^{4-1}) = ((\frac{2}{3}))^3=(\ (\frac{2}{3}))\cdot(\ (\frac{2}{3}))\cdot(\ (\frac{2}{3})) = (\frac{8}{27})$      }
+\item Metade de $(2^10)$ 
+    \rosa{$(2^{10} / 2^1 = 2^9 = 2.2.2.2.2.2.2.2.2 = 572)$      }
+\item $((-2,5)^5) \div (-2,5)^2$ 
+    \rosa{$((-2,5)^{5-2} = (-2,5)^3= (-2,5). (-2,5). (-2,5) = -15,625)$     }
+\item $(a^9 \div a^8)$, com a racional não nulo 
+    \rosa{$(a^{9-8} = a^1 = a)    $  }
+\item $(1^8 \div 1^2)$ 
+    \rosa{$(1^{8-2} = 1^6= 1.1.1.1.1.1 = 1)$      }
+\item terça parte de $(3^8)$ 
+    \rosa{$(3^8-1)= (3^7) = 3.3.3.3.3.3.3 = 2187$     }
 \end{escolha}
 
-++R:
-\item $(3^{7 - 5} = 3^2 = 3.3 = 9)$
-\item $((-1^{8 - 6} = -1^2= -1\times-1= +1)$
-\item $((\frac{2}{3})$^{4-1}) = $((\frac{2}{3})$)^3=$(\ (\frac{2}{3})$)\times(\ (\frac{2}{3}))\times(\ (\frac{2}{3})) = (\frac{8}{27})
-\item (2^{10} / 2^1 = 2^9 = 2.2.2.2.2.2.2.2.2 = 572)
-\item ((-2,5)^{5-2} = (-2,5)^3= (-2,5). (-2,5). (-2,5) = -15,625)
-\item (a^{9-8} = a¹ = a)
-\item (1^{8-2} = 1^6= 1.1.1.1.1.1 = 1)
-\item (3^8-1)= (3^7) = 3.3.3.3.3.3.3 = 2187
+
 
 \num{4} Jamile fez uma viagem turística ao topo de uma montanha. Ao chegar em
 certo local, observou uma pedra antiga com o seguinte enunciado: esta
-pedra tem o peso de {[}(-5)^3{]}^2 kg. Quanto pesa a pedra que Jandira
+pedra tem o peso de $[(-5)^3]^2\,kg$. Quanto pesa a pedra que Jandira
 observou?
 
 \reduline{ Utilizando a propriedade de multiplicação de expoentes temos que:\hfill}
-\reduline{ ((-5)^{3.2}= (-5)^6= (-5) . (-5) . (-5) . (-5) . (-5) . (-5)= 15.625 kg)\hfill}
+\reduline{ $((-5)^{3.2}= (-5)^6= (-5) . (-5) . (-5) . (-5) . (-5) . (-5)= 15.625 kg)$\hfill}
+
+
+% -----------------
 
 \num{5} Uma sala de jantar quadrada terá o piso coberto com ladrilhos com
 medida de comprimento dos lados de 60 cm.
 
+
+\begin{escolha}
 \item Qual é a medida de comprimento dos lados da sala sabendo que a medida
-de área dela é de 81 m^2?
+de área dela é de $81 m^2$?
 \item Quantos ladrilhos serão necessários para cobrir o piso?
+\end{escolha}
 
 \reduline{ (a) Considerando que a sala é quadrada e que a fórmula da área de um\hfill}
-\reduline{ quadrado é l^2, para descobrirmos o real valor de cada lado, basta\hfill}
-\reduline{ fazermos a operação inversa: l^2 = 81; l= (\sqrt{81}); l= 9\hfill}
+\reduline{ quadrado é $l^2$, para descobrirmos o real valor de cada lado, basta\hfill}
+\reduline{ fazermos a operação inversa: $l^2 = 81; l= (\sqrt{81}); l= 9$\hfill}
 \reduline{ (b) Se cada lado da sala possui 9 metros e cada lado do ladrilho possui 0,60 cm temos que:\hfill}
-\reduline{ 9:0,6 = 15; (15 \times 15 = 225 \;ladrilhos)\hfill}
+\reduline{ $9:0,6 = 15;$ $(15 \cdot 15 = 225$ ladrilhos)\hfill}
 
 \num{6} Utilizando os conhecimentos de redução de potências, reduza as
 potencias abaixo.
 
 \begin{escolha}
-\item 10^2 \times 2^2
-\item 11^2 \times 3^2
-\item (-6)^3 . (-8)^3
-\item ((3,1)^5 . (0,7)^5 \times 2^5)
+\item $10^2 \cdot 2^2$  
+        \rosa{ $(10 \cdot 2)^2 = 20^2$ }
+\item $11^2 \cdot 3^2$  
+        \rosa{ $(11 \cdot 3)^2 = 33^2$ }
+\item $(-6)^3 . (-8)^3$  
+        \rosa{ $((-6) . (-8)) ^3 = 48^3$ }
+\item $((3,1)^5 . (0,7)^5 \cdot 2^5)$  
+        \rosa{ $((3,1 \cdot 0,7 \cdot 2)^5= 4,34^5)$ }
 \end{escolha}
 
-++R:
-\item (10 \times 2)^2 = 20^2
-\item (11 \times 3)^2 = 33^2
-\item ((-6) . (-8)) ^3 = 48^3
-\item ((3,1 \times 0,7 \times 2)^5= 4,34^5)
+
+
+
 
 \num{7} Calcule o valor de cada potência com exponente negativo
 
 \begin{escolha}
-\item (8^{-2}) 
-\reduline{-- (8^{-2} = \frac{1}{8^2}) = (\frac{1}{64})}
-\item (5^{-1}) 
-\reduline{-- 5\textsuperscript{-1}= (\frac{1}{5¹}) = (\frac{1}{5})}
-\item ((-2)^{-4}) 
-\reduline{-- ((-2)^{-4} = \frac{1}{2.4} = \frac{1}{16})}
-\item ((\frac{1}{2})^{-3}) 
-\reduline{-- ((\frac{1}{2})^{-3}) = (\frac{2}{1^3}) = (\frac{2}{1}) = 2}
-\item ((-3)^{-3}) 
-\reduline{-- ((-3)^{-3})= (\frac{1}{3^3}) = (\frac{1}{27})}
-\item (\frac{1}{2}^{-5}) 
-\reduline{-- (\ \frac{1}{2}^{-5}) = (\frac{2}{1}^5) = 32}
+\item $(8^{-2}$) 
+              \rosa{$ (8^{-2} = \frac{1}{8^2}) = (\frac{1}{64})$}
+\item $(5^{-1})$ 
+              \rosa{$ 5\textsuperscript{-1}= (\frac{1}{5^1}) = (\frac{1}{5})$}
+\item $((-2)^{-4}) $
+              \rosa{$ ((-2)^{-4} = \frac{1}{2.4} = \frac{1}{16})$}
+\item $((\frac{1}{2})^{-3}) $
+              \rosa{$ ((\frac{1}{2})^{-3}) = (\frac{2}{1^3}) = (\frac{2}{1}) = 2$}
+\item $((-3)^{-3}) $
+              \rosa{$ ((-3)^{-3})= (\frac{1}{3^3}) = (\frac{1}{27})$}
+\item $(\frac{1}{2}^{-5}) $
+              \rosa{$ (\ \frac{1}{2}^{-5}) = (\frac{2}{1}^5) = 32$}
 \end{escolha}
+
 
 \num{8} Calcule as seguintes potências de base 10 e coloque-as em forma
 decimal.
 
 \begin{escolha}
-\item (10^6)
-\reduline{1 000 000}
-\item (10^-6)
-\reduline{0, 000 001}
-\item (10^-4)
-\reduline{0, 0001}
-\item (10^4)
-\reduline{10 000}
-\item (10^-2)
-\reduline{0,01}
-\item (10 ^-5)
-\reduline{0,00001}
-\item (10^10)
-\reduline{10 000 000 000}
-\item (10^-8)
-\reduline{0,00000001}
+\item $(10^6)$
+    \rosa{$1 000 000$}
+\item $(10^-6)$
+    \rosa{$0, 000 001$}
+\item $(10^-4)$
+    \rosa{$0, 0001$}
+\item $(10^4)$
+    \rosa{$10 000$}
+\item $(10^-2)$
+    \rosa{$0,01$}
+\item $(10 ^-5)$
+    \rosa{$0,00001$}
+\item $(10^10)$
+    \rosa{$10 000 000 000$}
+\item $(10^-8)$
+    \rosa{$0,00000001$}
 \end{escolha}
 
 \num{9} Reinaldo é professor e, durante uma de suas aulas de estatística,
@@ -519,7 +520,7 @@ poderíamos representar este número para que caiba na lousa?
 
 \reduline{ Reinaldo poderia representar por meio de Notação científica (potência de base 10).\hfill}
 \reduline{ Considerando a população da terra como 8.000.000.000, outra forma \hfill}
-\reduline{ de reescrever seria (8 \times 10^9).\hfill}
+\reduline{ de reescrever seria $(8 \cdot 10^9)$.\hfill}
 
 \num{10} Felipe é artista e uma de suas obras é conhecida como quadrado
 infinito. Ao observar o quadro, um matemático fez as seguintes
@@ -529,48 +530,38 @@ descobertas:
 \centering\includegraphics[width=2.3125in,height=2.07917in]{./imgSAEB_8_MAT/media/image2.png}
 \end{figure}
 
-O quadrado Vermelho possui uma área de 256 cm^2.
+O quadrado Vermelho possui uma área de $25\,cm^2$.
 
-O quadrado Verde possui uma área de 225 cm^2.
+O quadrado Verde possui uma área de $22\,cm^2$.
 
-O quadrado Laranja possui uma área de 144 cm^2.
+O quadrado Laranja possui uma área de $14\,cm^2$.
 
-O quadrado Azul possui uma área de 64 cm^2.
+O quadrado Azul possui uma área de $64\,cm^2$.
 
-O quadrado Cinza possui uma área de 36 cm^2.
+O quadrado Cinza possui uma área de $36\,cm^2$.
 
-O quadrado Rosa possui uma área de 16 cm^2.
+O quadrado Rosa possui uma área de $16\,cm^2$.
 
 Com as informações obtidas pelo matemático, responda às perguntas:
 
 \begin{escolha}
 \item Perímetro do quadrado vermelho.
+        \rosa{  $(\sqrt{256} = 16, 16 \cdot 4 = perímetro = 64)$}
 \item Perímetro do quadrado verde.
+        \rosa{  $(\sqrt{225}) = 15, 15 \cdot 4 = perímetro = 60$}
 \item Perímetro do quadrado laranja.
+        \rosa{  $(\sqrt{144}) = 12, 12 \cdot 4 = perímetro= 48$}
 \item Perímetro do quadrado azul.
+        \rosa{  $(\sqrt{64}) = 8, 8 \cdot 4 = perímetro = 32$}
 \item Perímetro do quadrado cinza.
+        \rosa{  $(\sqrt{36}) = 6, 6 \cdot 4 = perímetro = 24$}
 \item Perímetro do quadrado rosa.
+        \rosa{  $(\sqrt{16}) = 4, 4 \cdot 4 = perímetro = 16$}
 \end{escolha}
 
 % \reduline{ Para descobrir o perímetro de cada quadrado a solução se mostra a mesma\hfill}
 % \reduline{ se temos que a formula da área de um quadrado é l ^2 para descobrirmos o\hfill}
 % \reduline{ real valor de cada lado, basta fazermos a operação inversa, no caso a radiciação.\hfill}
-
-++R:
-\item
-  (\sqrt{256} = 16, 16 \times 4 = perímetro = 64)
-\item
-  (\sqrt{225}) = 15, 15 \times 4 = perímetro = 60
-\item
-  (\sqrt{144}) = 12, 12 \times 4 = perímetro= 48
-\item
-  (\sqrt{64}) = 8, 8 \times 4 = perímetro = 32
-\item
-  (\sqrt{36}) = 6, 6 \times 4 = perímetro = 24
-\item
-  (\sqrt{16}) = 4, 4 \times 4 = perímetro = 16
-
-\begin{comment}
 
 \section{Treino}
 
@@ -578,10 +569,14 @@ Com as informações obtidas pelo matemático, responda às perguntas:
 antigos, viu um álbum com o seguinte título: ``Eu Nasci Há Dez Mil Anos
 Atrás''. Se a capa desse álbum fosse representada em forma de potência
 de base 10, qual o novo nome do álbum?
-\item Eu Nasci Há 10^2 anos Atrás
-\item Eu Nasci Há 10^3 anos atrás
-\item Eu Nasci Há (10^4) anos atrás
-\item Eu Nasci Há (10^5) Anos Atrás
+
+\begin{escolha}
+\item Eu Nasci Há $10^2$ anos Atrás
+\item Eu Nasci Há $10^3$ anos atrás
+\item Eu Nasci Há $10^4$ anos atrás
+\item Eu Nasci Há $10^5$ Anos Atrás
+\end{escolha}
+
 
 SAEB: Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
@@ -597,7 +592,7 @@ B: Incorreta, pois o número de zeros estava errado.
 
 C: Correta, pois:
 
-10000 = 10 \times 10 \times 10 \times 10 ou seja (10^4)
+$10000 = 10 \cdot 10 \cdot 10 \cdot 10$ ou seja $(10^4)$
 
 D: Incorreta, pois o número de zeros estava errado.
 
@@ -605,13 +600,16 @@ D: Incorreta, pois o número de zeros estava errado.
 com seus alunos, resolveu lançar um enigma. Sua idade seria o expoente
 do resultado da seguinte expressão:
 
-(\frac{2^{25}. 2^{35}. 2^{30}} {2^2.2^1})
+$$(\frac{2^{25} \cdot 2^{35} \cdot 2^{30}} {2^2.2^1})$$
 
 Qual é a Idade de Thiago?
+
+\begin{escolha}
 \item 2
 \item 93
 \item 45
 \item 30
+\end{escolha}
 
 SAEB: Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
@@ -629,23 +627,32 @@ C: Incorreta, pois, ao dividir o expoente do numerador por 2 ao invés de
 D: Correta pois, utilizando a propriedade de multiplicação e divisão de
 potências de mesma base, temos que
 
-No numerador (2^{25+35+30}=2^{90})
+No numerador $(2^{25+35+30}=2^{90})$.
 
-No denominador (2^{2+1}) = 2^3
+No denominador $(2^{2+1}) = 2^3$.
 
-Realizando a divisão, temos que (2^{90}:3) = (2^{30})
+Realizando a divisão, temos que $(2^{90}:3) = (2^{30})$.
 
 Considerando que a idade de Thiago é apenas o expoente, sabemos que
 Thiago tem 30 anos.
 
 \num{3} Um pen drive possui diferentes capacidades de memória, mas a medida
-normalmente utilizada é o GB. Sabendo que 1 GB = (2^{10}) megabytes,
+normalmente utilizada é o GB. Sabendo que 1 GB = $(2^{10})$ megabytes,
 ao comprar um pen drive de 32 GB, quantos megabytes de armazenamento
 estarão disponíveis?
+
+\begin{escolha}
 \item 32.768 megabytes
+    \rosa{ Correta, pois: $(2^10) = 1024$; $1024 \cdot 32 = 32.768$ megabytes.}
 \item 32.000 megabytes
+    \rosa{ Incorreta, o aluno chegaria a esse resultado ao considerar que $(2^{10})$ seja 1.000 ao invés de 1.024.}
 \item 16.384 megabytes
+    \rosa{ Incorreta, pois, ao considerar um 2 a menos na expressão, o aluno chegaria a esse resultado.}
 \item 64 megabytes
+    \rosa{ Incorreta, pois, ao realizar apenas a multiplicação ao\\ invés de realizar o cálculo da potência, o aluno chegaria a esse resultado.}
+\end{escolha}
+
+\begin{comment}
 
 SAEB: Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
@@ -655,20 +662,6 @@ BNCC: EF08MA01 -- Efetuar cálculos com potências de expoentes inteiros e
 aplicar esse conhecimento na representação de números em notação
 científica.
 
-A: Correta, pois:
-
-(2^10) = 1024
-
-1024 \times 32 = 32.768 megabytes.
-
-B: Incorreta, o aluno chegaria a esse resultado ao considerar que
-(2^{10}) seja 1.000 ao invés de 1.024.
-
-C: Incorreta, pois, ao considerar um 2 a menos na expressão, o aluno
-chegaria a esse resultado.
-
-D: Incorreta, pois, ao realizar apenas a multiplicação ao invés de
-realizar o cálculo da potência, o aluno chegaria a esse resultado.
 
 
 \chapter{Frações}
@@ -737,14 +730,14 @@ multiplicamos os numeradores entre si e, em seguida, os denominadores.
 Caso seja necessário, simplificamos o resultado até obter a fração
 irredutível. Exemplo:
 
-(\frac{3}{4}) \times (\frac{2}{5}) = (\frac{6}{20})= (\frac{3}{10})
+(\frac{3}{4}) \cdot (\frac{2}{5}) = (\frac{6}{20})= (\frac{3}{10})
 
 Divisão de números racionais
 
 Para dividirmos dois números racionais na forma fracionária, mantemos a
 primeira fração e multiplicamos pelo inverso da segunda.
 
-(\frac{1}{2}) : (\frac{3}{5})= (\frac{1}{2}) \times (\frac{5}{3}) =
+(\frac{1}{2}) \div (\frac{3}{5})= (\frac{1}{2}) \cdot (\frac{5}{3}) =
 (\frac{5}{6})
 
 Dízimas periódicas
@@ -775,6 +768,10 @@ Para isso, montamos uma equação:
 
 Logo temos que (\frac{3}{9}) simplificando (\frac{1}{3}) é a nossa
 fração geratriz.
+
+
+\begin{comment}
+
 
 \section{Atividades}
 
@@ -830,45 +827,45 @@ seguir:
 
 \num{3} Resolva as multiplicações abaixo, mas antes de calculá-las,
 transforme os decimais em números fracionários.
-\item 0,5 \times 12,7
-\item 3,6 \times 6,7
-\item 9,3 \times 13,25
-\item 2,9 \times 3,8
-\item 11,2 \times 4,2
-\item 7,5 \times 6,6
-\item 0,456 \times 0,345
-\item 0,01 \times 0,001
+\item 0,5 \cdot 12,7
+\item 3,6 \cdot 6,7
+\item 9,3 \cdot 13,25
+\item 2,9 \cdot 3,8
+\item 11,2 \cdot 4,2
+\item 7,5 \cdot 6,6
+\item 0,456 \cdot 0,345
+\item 0,01 \cdot 0,001
 
 ++R:
-\item 0,5 \times 12,7 = (\frac{5}{10}) . (\frac{127}{10}) = (\frac{635}{100})
-\item 3,6 \times 6,7 = (\frac{35}{10}) . (\frac{67}{10})
-\item 9,3 \times 13,25 = (\frac{93}{10}) . (\frac{1325}{100}) = (\frac{123\ 225}{1\ 000})
-\item 2,9 \times 3,8 = (\frac{29}{10}) . (\frac{38}{10}) = (\frac{1102}{100})
-\item 11,2 \times 4,2= (\frac{112}{10}) . (\frac{42}{10}) = (\frac{4\ 704}{100})
-\item 7,5 \times 6,6 = (\frac{75}{10}) . (\frac{66}{10}) = (\frac{4950}{100})
-\item 0,456 \times 0,345 = (\frac{456}{1\ 000}) . (\frac{345}{1\ 000}) = (\frac{157\ 320}{1\ 000\ 000})
-\item 0,01 \times 0,001= (\frac{1}{100}) . (\frac{1}{1\ 000}) = (\frac{1}{100\ 000})
+\item 0,5 \cdot 12,7 = (\frac{5}{10}) . (\frac{127}{10}) = (\frac{635}{100})
+\item 3,6 \cdot 6,7 = (\frac{35}{10}) . (\frac{67}{10})
+\item 9,3 \cdot 13,25 = (\frac{93}{10}) . (\frac{1325}{100}) = (\frac{123\ 225}{1\ 000})
+\item 2,9 \cdot 3,8 = (\frac{29}{10}) . (\frac{38}{10}) = (\frac{1102}{100})
+\item 11,2 \cdot 4,2= (\frac{112}{10}) . (\frac{42}{10}) = (\frac{4\ 704}{100})
+\item 7,5 \cdot 6,6 = (\frac{75}{10}) . (\frac{66}{10}) = (\frac{4950}{100})
+\item 0,456 \cdot 0,345 = (\frac{456}{1\ 000}) . (\frac{345}{1\ 000}) = (\frac{157\ 320}{1\ 000\ 000})
+\item 0,01 \cdot 0,001= (\frac{1}{100}) . (\frac{1}{1\ 000}) = (\frac{1}{100\ 000})
 
 \num{4} Resolva as ivisões abaixo, mas antes transforme os decimais em
 números fracionários.
-\item 0,5 : 3,4
-\item 9,4 : 3,1
-\item 5,1 : 0,2
-\item 0,2 : 0,1
-\item 0,01 : 0,001
-\item 2,1 : 0,5
-\item 4,2 : 0,1
+\item 0,5 \div 3,4
+\item 9,4 \div 3,1
+\item 5,1 \div 0,2
+\item 0,2 \div 0,1
+\item 0,01 \div 0,001
+\item 2,1 \div 0,5
+\item 4,2 \div 0,1
 \item 3,1: 1,5
 
 ++R:
-\item 0,5 : 3,4 = (\frac{5}{10}) : (\frac{34}{10}) = (\frac{5}{10}) . (\frac{10}{34}) = (\frac{50}{340})
-\item 9,4 : 3,1 = (\frac{94}{10}) : (\frac{31}{10}) = (\frac{94}{10}) . (\frac{10}{31}) = (\frac{940}{310})
-\item 5,1 : 0,2 = (\frac{51}{10}) : (\frac{2}{10}) = (\frac{51}{10}) . (\frac{10}{2}) = (\frac{510}{20})
-\item 0,2 : 0,1 = (\frac{2}{10}) : (\frac{1}{10}) = (\frac{2}{10}) . (\frac{10}{1}) = (\frac{20}{10}) = 2
-\item 0,01 : 0,001= (\frac{1}{100}) : (\frac{1}{1\ 000}) = (\frac{1}{100}) . (\frac{1\ 000}{1}) = (\frac{1\ 000}{100}) = 10
-\item 2,1 : 0,5 = (\frac{21}{10}) : (\frac{5}{10}) = (\frac{21}{10}) . (\frac{10}{5}) = (\frac{210}{50})
-\item 4,2 : 0,1 = (\frac{42}{10}) : (\frac{1}{10}) = (\frac{42}{10}) . (\frac{10}{1}) = (\frac{420}{10}) = 42
-\item 3,1: 1,5 = (\frac{31}{10}) : (\frac{15}{10}) = (\frac{31}{10}) . (\frac{10}{15}) = (\frac{310}{150})
+\item 0,5 \div 3,4 = (\frac{5}{10}) \div (\frac{34}{10}) = (\frac{5}{10}) . (\frac{10}{34}) = (\frac{50}{340})
+\item 9,4 \div 3,1 = (\frac{94}{10}) \div (\frac{31}{10}) = (\frac{94}{10}) . (\frac{10}{31}) = (\frac{940}{310})
+\item 5,1 \div 0,2 = (\frac{51}{10}) \div (\frac{2}{10}) = (\frac{51}{10}) . (\frac{10}{2}) = (\frac{510}{20})
+\item 0,2 \div 0,1 = (\frac{2}{10}) \div (\frac{1}{10}) = (\frac{2}{10}) . (\frac{10}{1}) = (\frac{20}{10}) = 2
+\item 0,01 \div 0,001= (\frac{1}{100}) \div (\frac{1}{1\ 000}) = (\frac{1}{100}) . (\frac{1\ 000}{1}) = (\frac{1\ 000}{100}) = 10
+\item 2,1 \div 0,5 = (\frac{21}{10}) \div (\frac{5}{10}) = (\frac{21}{10}) . (\frac{10}{5}) = (\frac{210}{50})
+\item 4,2 \div 0,1 = (\frac{42}{10}) \div (\frac{1}{10}) = (\frac{42}{10}) . (\frac{10}{1}) = (\frac{420}{10}) = 42
+\item 3,1: 1,5 = (\frac{31}{10}) \div (\frac{15}{10}) = (\frac{31}{10}) . (\frac{10}{15}) = (\frac{310}{150})
 
 \num{5} Transforme as dízimas periódicas abaixo em frações geratrizes:
 \item 2,333333...
@@ -1024,7 +1021,7 @@ erroneamente a expressão.
 B: Incorreta, pois o aluno pode chegar a esse valor ao calcular
 erroneamente a expressão.
 
-C: Correta, pois: 400 g : 22 pedaços = 18,1818181818.\ldots{}
+C: Correta, pois: 400 g \div 22 pedaços = 18,1818181818.\ldots{}
 
 18,181818181818...
 -\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/-\/- x
@@ -1041,7 +1038,7 @@ C: Correta, pois: 400 g : 22 pedaços = 18,1818181818.\ldots{}
 Logo, temos (\frac{1\ 800}{99}). Dividindo ambos por 9, temos que
 (\frac{200}{9}).
 
-D : Incorreta, pois o aluno pode chegar a esse valor ao calcular
+D \div Incorreta, pois o aluno pode chegar a esse valor ao calcular
 erroneamente a expressão.
 
 
@@ -1078,10 +1075,10 @@ Exemplo:
 
 Pelo método da regra de três simples temos:
 
-(\frac{100%}{25%} \times \frac{300}{x}
+(\frac{100%}{25%} \cdot \frac{300}{x}
 )
 
-100 x = 25 \times 300
+100 x = 25 \cdot 300
 
 100x = 7500
 
@@ -1107,10 +1104,10 @@ Calcule então:
 Em cada item acima deixar o espaço de 3 linhas para resposta.
 
 ++R:
-\item (\frac{125}{30} = \frac{100}{x}); 125 . x = 30 \times 100; 125x = 3000; x = 24 \%
-\item (\frac{125}{18} = \frac{100}{x}); 125 . x = 100 \times 18; 125x = 1800; x = 14,4\%
+\item (\frac{125}{30} = \frac{100}{x}); 125 . x = 30 \cdot 100; 125x = 3000; x = 24 \%
+\item (\frac{125}{18} = \frac{100}{x}); 125 . x = 100 \cdot 18; 125x = 1800; x = 14,4\%
 \item (\frac{125}{45} = \frac{100}{x}); 125 x = 4500; x = 36\%
-\item (\frac{125}{32} = \frac{100}{x}); 125 . x = 32 \times 100; 125x = 3200; x = 25,6\%
+\item (\frac{125}{32} = \frac{100}{x}); 125 . x = 32 \cdot 100; 125x = 3200; x = 25,6\%
 
 \num{2} Marcos é corretor de imóveis. Em janeiro, após ter um grande sucesso
 em suas vendas, ele recebeu um aumento de 10\% no salário, que passou a
@@ -1123,7 +1120,7 @@ ser de R\$\,2.178,00. O valor do salário de Marcos antes do aumento era:
 Deixar o espaço de 3 linhas para resposta.
 
 \reduline{ Utilizando a regra de 3 simples, temos que:\hfill}
---R; (\frac{x}{2178} = \frac{100}{110}); Logo, x . 110 = 2178 \times 100; 110x = 217 800; x = 1980
+--R; (\frac{x}{2178} = \frac{100}{110}); Logo, x . 110 = 2178 \cdot 100; 110x = 217 800; x = 1980
 
 \num{3} Após uma apresentação de teatro, 250 espectadores foram entrevistados
 e opinaram sobre o show. Veja o resultado dessa pesquisa:
@@ -1141,11 +1138,11 @@ e opinaram sobre o show. Veja o resultado dessa pesquisa:
 
 Calcule a \% de cada opinião:
 
-\reduline{ Ótimo. (\frac{250}{105} = \frac{100}{x}); 250 . x = 100 \times 105; 250x = 10 500; x = 42\% \hfill}
+\reduline{ Ótimo. (\frac{250}{105} = \frac{100}{x}); 250 . x = 100 \cdot 105; 250x = 10 500; x = 42\% \hfill}
 \reduline{ Bom: (\frac{250}{100} = \frac{100}{x})\hfill}
-\reduline{ 250 . x = 100 \times 100; 250x= 10 000; X= 40 \%\hfill}
+\reduline{ 250 . x = 100 \cdot 100; 250x= 10 000; X= 40 \%\hfill}
 \reduline{ Regular: (\frac{250}{30} = \frac{100}{x}); 250.x=100 .30; 250x = 3000; x = 12 \%; \hfill}
-\reduline{ (\frac{250}{15} = \frac{100}{x}); 250x = 100 \times 15; 250 x = 1500; x = 6 \%\hfill}
+\reduline{ (\frac{250}{15} = \frac{100}{x}); 250x = 100 \cdot 15; 250 x = 1500; x = 6 \%\hfill}
 
 \num{4} Valdemar é mecânico e adquiriu um carro quebrado pelo valor de
 R\$\,10.000,00. Depois que o consertou, resolveu vendê-lo. Ele anunciou o
@@ -1154,10 +1151,10 @@ utilizou?
 
 \reduline{ Utilizando a regra de 3 simples temos que:\hfill}
 \reduline{ (\frac{10.000}{16.000} = \frac{100}{x})\hfill}
-\reduline{ Logo 10.000 . x = 16.000 \times 1.000\hfill}
+\reduline{ Logo 10.000 . x = 16.000 \cdot 1.000\hfill}
 \reduline{ 10.000x = 1.600.000; x = 160\hfill}
 
-Logo houve um acréscimo de 60\%, então 60 : 100 = 0,6.
+Logo houve um acréscimo de 60\%, então 60 \div 100 = 0,6.
 
 O fator multiplicativo foi de 0,6.
 
@@ -1168,7 +1165,7 @@ fixa Amanda ganhará sobre cada produto?
 
 \reduline{ R: Utilizando a regra de 3 simples, temos que:\hfill}
 \reduline{ (\frac{150}{12} = \frac{100}{x})\hfill}
-\reduline{ Logo 150 . x = 12 \times 100; 150 x = 1.200; x = 8 \%\hfill}
+\reduline{ Logo 150 . x = 12 \cdot 100; 150 x = 1.200; x = 8 \%\hfill}
 
 \num{6} Em um colégio, estudam 3.200 alunos, dos quais 1.440 são meninos. O
 número de meninas representa quantos \% do total de alunos que estudam
@@ -1176,7 +1173,7 @@ nesse colégio?
 
 \reduline{ R: Utilizando a regra de 3 simples temos que:\hfill}
 \reduline{ (\frac{3.200}{1.440} = \frac{100}{x})\hfill}
-\reduline{ Logo, 3.200 . x = 1.440 \times 100; 3.200x = 144.000; x = 45\% de meninos. Logo, 55\% são meninas.\hfill}
+\reduline{ Logo, 3.200 . x = 1.440 \cdot 100; 3.200x = 144.000; x = 45\% de meninos. Logo, 55\% são meninas.\hfill}
 
 \num{7} Ao terminar o curso na auto escola, Magda realizou uma prova escrita
 contendo leis de trânsito. Ela acertou 38 das 50 questões apresentadas.
@@ -1184,14 +1181,14 @@ Sabendo que, para passar na prova escrita, Magda precisava acertar pelo
 menos 80\% da prova, ela foi aprovada ou reprovada?
 
 \reduline{ R: Utilizando a regra de 3 simples, temos que:\hfill}
-\reduline{ (\frac{50}{38} = \frac{100}{x}). Logo 50 . x = 38 \times 100; 50x = 3.800; x = 76\%, logo, Magda foi reprovada.\hfill}
+\reduline{ (\frac{50}{38} = \frac{100}{x}). Logo 50 . x = 38 \cdot 100; 50x = 3.800; x = 76\%, logo, Magda foi reprovada.\hfill}
 
 \num{8} Alfredo é professor de educação física em uma escola. Na última aula,
 5 dos 40 alunos de uma classe faltaram. Ao registrar as faltas no diário
 de classe, quantos \% de faltas Alfredo reportou naquela aula?
 
 \reduline{ R: Utilizando a regra de 3 simples, temos que:\hfill}
-\reduline{ (\frac{40}{5} = \frac{100}{x}). Logo 40 . x = 5 \times 100; 40x = 500; x = 12,5\% de faltas.\hfill}
+\reduline{ (\frac{40}{5} = \frac{100}{x}). Logo 40 . x = 5 \cdot 100; 40x = 500; x = 12,5\% de faltas.\hfill}
 
 \num{9} A primeira edição da Copa do Mundo de Futebol Masculino foi realizada
 em 1930. Desse ano até 2023, já foram realizados 22 torneios, sendo que
@@ -1200,7 +1197,7 @@ quantos \% dos torneios realizados?
 
 \reduline{ R: Utilizando a regra de 3 simples, temos que:\hfill}
 \reduline{ (\frac{22}{5} = \frac{100}{x})\hfill}
-\reduline{ Logo, 22x = 100 \times 5; 22x = 500; x = 22,72 \%\hfill}
+\reduline{ Logo, 22x = 100 \cdot 5; 22x = 500; x = 22,72 \%\hfill}
 
 \num{10} Quanto cada situação abaixo renderá de juros?
 
@@ -1209,13 +1206,13 @@ ao mês.
 
 \reduline{ Utilizando juros simples temos que}
 \reduline{ J = C × i × t}
-\reduline{ J= 1800 \times 0,023 \times 5}
+\reduline{ J= 1800 \cdot 0,023 \cdot 5}
 \reduline{ J= 207}
 
 \item A quantia de R\$\,2.450, aplicada durante 2 meses, a uma taxa de 1,96\% ao mês?
 
 \reduline{ J = C × i × t}
-\reduline{ J = 2450 \times 0,0196 \times 2}
+\reduline{ J = 2450 \cdot 0,0196 \cdot 2}
 \reduline{ J= 96,04}
 
 \section{Treino}
@@ -1241,7 +1238,7 @@ Utilizando a regra de 3 simples temos que:
 
 (\frac{200}{120} = \frac{100}{x})
 
-Logo 200 . x = 100 \times 120
+Logo 200 . x = 100 \cdot 120
 
 200 x = 12 000
 
@@ -1279,7 +1276,7 @@ B: Correta, pois
 
 (\frac{x}{22} = \frac{100}{55})
 
-55 . x = 22 \times 100
+55 . x = 22 \cdot 100
 
 55x = 2200
 
@@ -1310,14 +1307,14 @@ A: Correta, pois, aplicando juros simples, temos que
 
 J = C × i × t
 
-6 000 = 120 000 \times 0,01 . x
+6 000 = 120 000 \cdot 0,01 . x
 
 6 000 = 1200 x
 
 x = 5 meses
 
 B: Incorreta, pois o aluno chegaria a essa conclusão caso não realizasse
-a operação de 1\% : 100.
+a operação de 1\% \div 100.
 
 C: Incorreta, pois o aluno chegaria a essa conclusão caso multiplicasse
 120.000 por 0,01.
@@ -1515,7 +1512,7 @@ eles têm hoje?
 \reduline{ x - 10 = 3(y - 10)}
 \reduline{ 2y - 4 - 10 = 3(y - 10) \Rightarrow  2y - 14 = 3y -30 \Rightarrow  -y = -16 \Rightarrow  y = 16}
 \reduline{Luan tem 16 anos. Substituindo y por 16, encontramos que}
-\reduline{x = 2y - 4  \Rightarrow  x= 2 \times 16 - 4  \Rightarrow  x = 28}
+\reduline{x = 2y - 4  \Rightarrow  x= 2 \cdot 16 - 4  \Rightarrow  x = 28}
 \reduline{ Logo, a idade de Reinaldo é 28 anos. }
 
 \num{7} Um estádio de futebol oferece dois valores de ingresso: um para os
@@ -1532,7 +1529,7 @@ preço de cada~ingresso?
 \reduline{ 7x + 284 - 24x = 131; -17x = - 153; x = 9\hfill}
 \reduline{ Logo, o valor do ingresso pago pela torcida da equipe mandante foi de R\$\,9,00.\hfill}
 \reduline{ Para encontrarmos o valor do ingresso da torcida visitante:\hfill}
-\reduline{ 6x+ y = 71; 6 \times 9 + y = 71; 54 + y = 71; y = 17\hfill}
+\reduline{ 6x+ y = 71; 6 \cdot 9 + y = 71; 54 + y = 71; y = 17\hfill}
 \reduline{ Logo, o valor do ingresso pago pela torcida da equipe visitante foi de R\$\,17,00.\hfill}
 
 \num{8} Resolva os sistemas de equações utilizando o método da substituição.
@@ -1603,7 +1600,7 @@ Isolando o termo y temos que: y + 100 = 2x- 200 y = 2x - 200 - 100 = 2x
 - 300
 
 Substituindo y na primeira equação x + y = 900 x + 2x - 300 = 900 3x =
-900 + 300 = 1.200 x = 1.200 : 3 x = 400
+900 + 300 = 1.200 x = 1.200 \div 3 x = 400
 
 Analogamente, temos que x + y = 900 400 + y = 900 y = 900 - 400 y = 500
 L
@@ -1794,7 +1791,7 @@ valor a ser pago nessa situação.
 \item A letra x representa o preço de cada camisa.
 \item Se o preço de cada camisa é R\$\,80,00, temos que:
 
-150 + 2 \times 80 = 150 + 160 = 310
+150 + 2 \cdot 80 = 150 + 160 = 310
 
 Celso gastou R\$\,310,00
 
@@ -1925,21 +1922,21 @@ Parte literal: a^2b^2
 \item 5x^2y(-x+4y)
 
 \num{8} Durante uma aula de matemática, um professor resolveu demonstrar
-outra forma de calcular a operação (41 \times 39) e escreveu seus cálculos na
+outra forma de calcular a operação (41 \cdot 39) e escreveu seus cálculos na
 lousa assim:
 
-41 \times 39 = (40 + 1) (40 - 1) = 40^2 - 1^2 = 1.599
+41 \cdot 39 = (40 + 1) (40 - 1) = 40^2 - 1^2 = 1.599
 
 Seguindo a mesma forma exposta pelo professor, calcule os seguintes
 produtos:
-\item 57 \times 63
+\item 57 \cdot 63
 \item 52. 48
-\item 42 \times 34
+\item 42 \cdot 34
 
 R:
-\item 57 \times 63 = (60 - 3). (60 + 3) = 60^2 - 3^2 = 3.591
-\item 52 \times 48 = (50 + 2) . (50 - 2) = 50^2 - 2^2 = 2.496
-\item 42 \times 34 = (38 + 4) . (38 - 4) = 38^2 - 4^2 = 1.428
+\item 57 \cdot 63 = (60 - 3). (60 + 3) = 60^2 - 3^2 = 3.591
+\item 52 \cdot 48 = (50 + 2) . (50 - 2) = 50^2 - 2^2 = 2.496
+\item 42 \cdot 34 = (38 + 4) . (38 - 4) = 38^2 - 4^2 = 1.428
 
 \num{9} Uma construtora resolveu comprar dois terrenos de formato retangular
 para construir 2 condomínios. Qual é a equação que representa a área
@@ -2004,7 +2001,7 @@ total dos dois terrenos somados?
 \item
   (6x^3) . (2x^2) = (12x^5)
 \end{enumerate}
-\item ((14x^10) : (2x^2)=7x^8)
+\item ((14x^10) \div (2x^2)=7x^8)
 \item (2x^3)^3= (2x^9)
 \item (-4xy^2)^3= (-4xy^6)
 \item (\frac{30x}{6x}), para x diferente de 0 = 5x
@@ -2020,7 +2017,7 @@ total dos dois terrenos somados?
 \end{enumerate}
 \item 7x^2 + 4x^2 = 11x^2
 \item (8r) . (6s) = 48rs
-\item(16x^2) : 4 = 4x^2
+\item(16x^2) \div 4 = 4x^2
 \item 8x + 6x + 4x = 18x
 \item ((-2xy^2)^4)= (16x^4 y^8)
 
@@ -2138,7 +2135,7 @@ Perímetro
 
 P= 2(\text{\ π\ .\ r})
 
-P = 2 \times 3. (x^2-3)
+P = 2 \cdot 3. (x^2-3)
 
 P = 2 . (3x^2 - 9)
 
@@ -2370,7 +2367,7 @@ que deve é a soma das raízes da equação X^2 + 4x + 3 = 0 multiplicada por
 \reduline{ (\frac{- 4 \pm \sqrt{4^{2} - 4.1.3}}{2.1})\hfill}
 \reduline{ (\frac{- 4 \pm \sqrt{16 - 4.1.3}}{2.1}); (\frac{- 4 \pm \sqrt{4}}{2})\hfill}
 \reduline{ X1= (\frac{- 4 + 4}{2}) = 0; X2 = (\frac{- 4 - 4}{2}) = -4\hfill}
-\reduline{ Multiplicando por 1.000, temos que -4 \times 1000 = - 4000. Logo, Mateus deve R\$\,4.000,00 ao banco.\hfill}
+\reduline{ Multiplicando por 1.000, temos que -4 \cdot 1000 = - 4000. Logo, Mateus deve R\$\,4.000,00 ao banco.\hfill}
 
 \section{Treino}
 
@@ -2548,7 +2545,7 @@ Razão e proporção
 
 Sendo a e b dois números racionais, com b ≠ 0, denomina-se razão entre a
 e b ou razão de a para b o quociente (\frac{a}{b}) ou a:b . A razão
-(\frac{a}{b}\ ) ou a : b pode ser lida de uma das seguintes maneiras:
+(\frac{a}{b}\ ) ou a \div b pode ser lida de uma das seguintes maneiras:
 razão de a para b ou a está para b ou a para b.
 
 É possível trabalharmos com grandezas proporcionais ou grandezas não
@@ -2588,9 +2585,9 @@ do prêmio?
 
 ++R:
 \item Ao dividirmos o valor do prêmio proporcionalmente, entre 3 ganhadores
-temos que 2.700.000 : 3 = 900.000 para cada um.
+temos que 2.700.000 \div 3 = 900.000 para cada um.
 \item Ao dividirmos o valor do prêmio proporcionalmente entre 8 ganhadores
-temos que 2.700.000 : 8 = 337.500 para cada um.
+temos que 2.700.000 \div 8 = 337.500 para cada um.
 \item Quando o número de acertadores aumenta, o valor do prêmio diminui.
 
 \num{2} A distância entre a Terra e o Sol é de, aproximadamente, 150.000.000
@@ -2599,17 +2596,17 @@ km; A luz do Sol, para atingir a Terra, leva em torno de 500 segundos.
 \item Quantos minutos a luz do Sol leva para chegar à Terra?
 \item Utilizando a razão (\frac{distância}{\text{tempo}}), temos que
 (\frac{150\ 000\ 000}{500}) = 300 000 km/s
-\item se 60 segundos = 1 minuto, temos que 500 : 60 = 8 minutos e 20
+\item se 60 segundos = 1 minuto, temos que 500 \div 60 = 8 minutos e 20
 segundos.
 
 \num{3} Um novo condomínio de casas está sendo construído, e sua planta foi
 representada, em uma folha de papel, com 5,5 cm de comprimento por 3,125
-cm de largura. Sabendo que a escala utilizada foi 1 : 16 000, determine
+cm de largura. Sabendo que a escala utilizada foi 1 \div 16 000, determine
 as dimensões reais deste condomínio.
 
-\reduline{ Como a escala é de 1 : 16.000, temos que:\hfill}
-\reduline{ Comprimento 5,5 \times 16.000 = 88.000 cm\hfill}
-\reduline{ Largura 3,125 \times 16.000 = 50.000 cm\hfill}
+\reduline{ Como a escala é de 1 \div 16.000, temos que:\hfill}
+\reduline{ Comprimento 5,5 \cdot 16.000 = 88.000 cm\hfill}
+\reduline{ Largura 3,125 \cdot 16.000 = 50.000 cm\hfill}
 \reduline{ Comprimento = 880 m; largura = 500 m\hfill}
 
 \num{4} Um bloco maciço de madeira tem 54 kg de massa e ocupa um volume de 3
@@ -2640,7 +2637,7 @@ total?
 
 \reduline{ Utilizando a Regra de 3 simples. temos que:\hfill}
 \reduline{ (\frac{5}{8} = \frac{20}{x})\hfill}
-\reduline{ 5 \times 20 = 8 . x\hfill}
+\reduline{ 5 \cdot 20 = 8 . x\hfill}
 \reduline{ 100 = 8x\hfill}
 \reduline{ x= 12,5\hfill}
 
@@ -2658,7 +2655,7 @@ quantidade de páginas do livro?
 
 \reduline{ Utilizando a regra de 3 simples, temos que:\hfill}
 \reduline{ (\frac{180}{x} = \frac{46}{30})\hfill}
-\reduline{ 180 \times 46 = 30 . x\hfill}
+\reduline{ 180 \cdot 46 = 30 . x\hfill}
 \reduline{ 8280 = 30x\hfill}
 \reduline{ x = 276\hfill}
 
@@ -2742,7 +2739,7 @@ B: Correta, pois, utilizando a Regra de 3 simples, temos que:
 
 (\frac{5}{3} = \frac{64}{x})
 
-5x = 64 \times 3
+5x = 64 \cdot 3
 
 5x = 192
 
@@ -2779,7 +2776,7 @@ B: Correta, pois, utilizando a regra de 3 simples, temos que:
 
 (\frac{10}{27} = \frac{9}{x})
 
-10.x = 9 \times 27
+10.x = 9 \cdot 27
 
 10x = 243
 
@@ -2839,7 +2836,7 @@ Podemos destacar os seguintes elementos de um polígono: vértices, lados,
 Utilizando a Fórmula (d = \ \frac{n(n - 3)}{2}) podemos determinar o
 número de diagonais de um polígono
 
-Utilizando a fórmula (S = (n - 2) \times 180°), podemos calcular a
+Utilizando a fórmula (S = (n - 2) \cdot 180°), podemos calcular a
 soma dos ângulos internos de um polígono.
 
 \section{Atividades}
@@ -2937,23 +2934,23 @@ internos dos polígonos abaixo.
 
 ++R:
 \item Si = (4-2) . 180°
-Si = 2 \times 180°
+Si = 2 \cdot 180°
 Si = 360
 
 \item Si = (5-2) . 180°
-Si = 3 \times 180
+Si = 3 \cdot 180
 Si = 540
 
 \item Si = (9-2) . 180°
-Si = 7 \times 180°
+Si = 7 \cdot 180°
 Si = 1260
 
 \item Si = (20-2) . 180°
-Si = 18 \times 180°
+Si = 18 \cdot 180°
 Si = 3240
 
 \item Si = (12-2) . 180°
-Si = 10 \times 180
+Si = 10 \cdot 180
 Si = 1800
 
 \num{4} Utilizando a fórmula Si = (n-2) . 180°, calcule o número de lados dos
@@ -2998,15 +2995,15 @@ paralelogramo?
 
 Substituindo x = 11 nas duas equações, temos que:
 
-4 \times 11 + 1 = 45°
+4 \cdot 11 + 1 = 45°
 
-6 \times 11 - 21 = 45°
+6 \cdot 11 - 21 = 45°
 
 Como a soma dos ângulos internos de um paralelogramo é 360°,
 
 45° + 45° - 360° = 270°
 
-270° : 2 = 135°
+270° \div 2 = 135°
 
 Temos então que o paralelogramo possui 2 ângulos de 45° e 2 ângulos de
 135°.
@@ -3075,7 +3072,7 @@ BNCC: EF08MA18 -- Reconhecer e construir figuras obtidas por composições
 de transformações geométricas (translação, reflexão e rotação), com o
 uso de instrumentos de desenho ou de softwares de geometria dinâmica.
 
-A: Correta, pois 117 : 9 = 13 cm de lado tem essa figura.
+A: Correta, pois 117 \div 9 = 13 cm de lado tem essa figura.
 
 B: Incorreta, pois o aluno poderia chegar a essa conclusão caso
 considerasse que o eneágono regular possui 10 lados e não 9.
@@ -3114,7 +3111,7 @@ C: Correta, pois
 
 (A = \pi r^{2})
 
-A = 3 \times 9,15^2
+A = 3 \cdot 9,15^2
 
 A= 3. 83,7225
 
@@ -3145,7 +3142,7 @@ Hexágono regular = 6 lados
 
 30 cm por porta joias
 
-20 \times 30 cm = 600 cm de fita ou 6 metros de fita
+20 \cdot 30 cm = 600 cm de fita ou 6 metros de fita
 
 B: Incorreta, pois o aluno pode chegar a esse valor confundindo cm com
 metros.
@@ -3631,7 +3628,7 @@ objetivo?
 
 \reduline{ Considerando que a terra possui 40.075 km de extensão e a viagem deverá\hfill}
 \reduline{ durar, no máximo, 80 dias:\hfill}
-\reduline{ 40.075 km : 80 dias = aproximadamente 501 km por dia.\hfill}
+\reduline{ 40.075 km \div 80 dias = aproximadamente 501 km por dia.\hfill}
 
 \num{3} Francisco estava em casa e resolveu convidar sua namorada para jantar
 fora. Para facilitar o deslocamento, ele encaminhou um mapa da
@@ -3714,7 +3711,7 @@ percurso 4 vezes, qual é o descolamento diário de Cléber no trabalho?
 
 \reduline{ 32 km cada percurso, Cléber realiza o percurso 4 vezes por dia; logo, temos que}
 
-4 \times 32 km = 128 km por dia.
+4 \cdot 32 km = 128 km por dia.
 
 \num{9} Marina vai ao trabalho de carro de segunda a sexta. A distância da
 casa de marina até seu trabalho é de 12 km. Sabendo que seu carro gasta
@@ -3726,7 +3723,7 @@ gasta com combustível durante a semana?
 Logo, se a cada 1 km Marina gasta 0,50 centavos, temos que, em 24 km,
 ela gasta R\$\,12,00.
 
-Contando 5 dias trabalhados na semana, 12 \times 5 = R\$\,60,00 por semana.
+Contando 5 dias trabalhados na semana, 12 \cdot 5 = R\$\,60,00 por semana.
 
 \num{10} Em um livro infantil, um menino sai vagando pelo espaço, de planeta
 em planeta, caçando novas aventuras. Considerando que, durante a
@@ -3736,7 +3733,7 @@ menino da história realizou?
 
 \reduline{ Considerando 8 planetas, temos que:\hfill}
 \reduline{ 8 x (10^5)\hfill}
-\reduline{ 8 \times 100.000 = 800.000 km\hfill}
+\reduline{ 8 \cdot 100.000 = 800.000 km\hfill}
 
 \section{Treino}
 
@@ -3787,7 +3784,7 @@ C: Correta pois:
 
 (\frac{50}{x} = \frac{1}{8})
 
-50 \times 8 = x
+50 \cdot 8 = x
 
 400 km.
 
@@ -3999,10 +3996,10 @@ Poliana utilizar a parte de investimentos do seu salário, quantos meses
 demorará até comprar o carro?.
 
 ++R:
-\item 3.000 \times 0,53 = R\$\,1.590,00
-\item 3.000 \times 0,25 = R\$\,750,00
-\item 3.000 \times 0,12 = R\$\,360,00
-\item 30.000 : 360 = 84 meses
+\item 3.000 \cdot 0,53 = R\$\,1.590,00
+\item 3.000 \cdot 0,25 = R\$\,750,00
+\item 3.000 \cdot 0,12 = R\$\,360,00
+\item 30.000 \div 360 = 84 meses
 
 \num{4} Um professor realizou uma pesquisa com sua turma de matemática para
 identificar a altura dos estudantes. Os dados coletados foram os
@@ -4090,7 +4087,7 @@ foram reprovados?
 
 7 + 6,5 + 9 + 8 = 30,5
 
-30,5 : 4 = 7,625
+30,5 \div 4 = 7,625
 \item
 
 3 + 5 + 6 + 5 = 19
@@ -4103,12 +4100,12 @@ foram reprovados?
 
 10 + 8 + 8 + 8 = 34
 
-34 : 4 = 8,5
+34 \div 4 = 8,5
 \item
 
 5 + 4 + 5 + 3 = 17
 
-17 : 4 = 4,25
+17 \div 4 = 4,25
 \item Bruno e Renata foram reprovados.
 
 \num{8} Dona Catarina, de 82 anos, tem 5 irmãs: Genoveva, de 79 Anos,
@@ -4116,7 +4113,7 @@ Clotilde, de 75, Amélia, de 70, Irene, de 67, e Tereza, de 64. Qual é a
 média de idade de todas as irmãs?
 
 \reduline{ 82 + 79 + 75 + 70 + 67 + 64 = 437\hfill}
-\reduline{ 437 : 6 = 72,83\hfill}
+\reduline{ 437 \div 6 = 72,83\hfill}
 
 % \num{9} Uma professora resolveu fazer uma pesquisa com seus alunos que
 % consistia em apenas 1 pergunta: Qual é o número do seu calçado?
@@ -4193,7 +4190,7 @@ Somando a altura dos atletas temos:
 
 Como são 5 atletas
 
-10 : 5 = 2 metros de altura é a média
+10 \div 5 = 2 metros de altura é a média
 
 D: Incorreta, pois o aluno chegaria a esse resultado a partir da soma
 das alturas da equipe.
@@ -4226,7 +4223,7 @@ Considerando que os dois pesos centrais são 46 e 45 kg,
 
 46 + 45 = 91
 
-91 : 2 = 45,5
+91 \div 2 = 45,5
 
 C: Incorreta, pois o aluno chegaria a esse resultado calculando a média
 aritmética, e não a mediana.
@@ -4320,7 +4317,7 @@ Veja alguns exemplos dessas fórmulas:
 
 Área do circulo: (A = \pi r^{2})
 
-Área de um retângulo: (A = l1 \times l2)
+Área de um retângulo: (A = l1 \cdot l2)
 
 Volume de poliedros
 
@@ -4331,7 +4328,7 @@ Volume de um cubo: V = l . l . l ou l^3
 
 Volume de um cilindro V = (\Pi) . R^2 . h
 
-Volume de um paralelepípedo: (V = l1 \times l2 \times l3)
+Volume de um paralelepípedo: (V = l1 \cdot l2 \cdot l3)
 
 \section{Atividades}
 
@@ -4347,9 +4344,9 @@ Volume de um paralelepípedo: (V = l1 \times l2 \times l3)
 Deixar o espaço de 2 linhas para resposta em cada item acima.
 
 ++R:
-\item 4 \times 3 = 12 cm
-\item 3 \times 3 = 9 cm^2
-\item 3 \times 3 . 3 = 27 cm^3
+\item 4 \cdot 3 = 12 cm
+\item 3 \cdot 3 = 9 cm^2
+\item 3 \cdot 3 . 3 = 27 cm^3
 
 \num{2} Determine a área de uma região quadrada, sabendo que a medida de
 comprimento do lado é de:
@@ -4363,14 +4360,14 @@ comprimento do lado é de:
 \item 25 mm
 
 ++R:
-\item 8 \times 8 = 64 cm^2
-\item 12 \times 12 = 144 cm^2
-\item16 \times 16= 256 m^2
-\item20 \times 20 = 400 m^2
-\item34 \times 34= 1156 m^2
-\item 8 \times 8 = 64 mm^2
-\item 10 \times 10 = 100 mm^2
-\item 25 \times 25 = 625 mm^2
+\item 8 \cdot 8 = 64 cm^2
+\item 12 \cdot 12 = 144 cm^2
+\item16 \cdot 16= 256 m^2
+\item20 \cdot 20 = 400 m^2
+\item34 \cdot 34= 1156 m^2
+\item 8 \cdot 8 = 64 mm^2
+\item 10 \cdot 10 = 100 mm^2
+\item 25 \cdot 25 = 625 mm^2
 
 \num{3} Calcule a medida do comprimento do lado de uma região quadrada cuja
 área é de:
@@ -4418,14 +4415,14 @@ comprimento do lado é de:
 ++R:
 \item
 
-4 \times 4 + 2 \times 2 = A
+4 \cdot 4 + 2 \cdot 2 = A
 
 16 + 4 = A
 
 A = 20 cm^2
 \item
 
-3 + 3 \times 3 = A
+3 + 3 \cdot 3 = A
 
 18 + 9 = A
 
@@ -4441,7 +4438,7 @@ usou?
 \end{figure}
 
 \reduline{ Somando todas as áreas das figuras tracejadas, temos que:\hfill}
-\reduline{ 10 \times 15 + 10 \times 15 + 10 \times 30 + 10 \times 30 + 15 \times 30 = A\hfill}
+\reduline{ 10 \cdot 15 + 10 \cdot 15 + 10 \cdot 30 + 10 \cdot 30 + 15 \cdot 30 = A\hfill}
 \reduline{ 150 + 150 + 300 + 300 + 450 = A\hfill}
 \reduline{ A = 1.350 cm^2\hfill}
 
@@ -4497,7 +4494,7 @@ Para saber o volume de medicação dentro da cápsula, qual fórmula Andreia dev
 Considerando-se (\Pi) = 3, qual é o volume da cápsula?
 
 \reduline{ V= (\Pi) . R^2 . h\hfill}
-\reduline{ V = 3 \times 14 \times 11\hfill}
+\reduline{ V = 3 \cdot 14 \cdot 11\hfill}
 \reduline{ V = 462 mm^3 de medicação.\hfill}
 
 \num{8} Calcule o volume do sólido a seguir.
@@ -4507,7 +4504,7 @@ Considerando-se (\Pi) = 3, qual é o volume da cápsula?
 \end{figure}
 
 \reduline{ V = l . l . l\hfill}
-\reduline{ V = 8 \times 4 . 3\hfill}
+\reduline{ V = 8 \cdot 4 . 3\hfill}
 \reduline{ V = 96cm^3\hfill}
 
 \num{9} Calcule o volume do sólido a seguir.
@@ -4516,7 +4513,7 @@ Considerando-se (\Pi) = 3, qual é o volume da cápsula?
 \end{figure}
 
 \reduline{ V = \frac{l . l . l}{2}\hfill}
-\reduline{ V = \frac{4 \times 12 \times 3}{2}\hfill}
+\reduline{ V = \frac{4 \cdot 12 \cdot 3}{2}\hfill}
 \reduline{ V = 72 cm^3\hfill}
 
 \num{10} Calcule o volume do sólido a seguir.
@@ -4525,7 +4522,7 @@ Considerando-se (\Pi) = 3, qual é o volume da cápsula?
 \end{figure}
 
 \reduline{ V_1 = l . l . l\hfill}
-\reduline{ V_1 = 20 \times 10 \times 15\hfill}
+\reduline{ V_1 = 20 \cdot 10 \cdot 15\hfill}
 \reduline{ V_1 = 3.000\hfill}
 
 \reduline{ V_2 = l . l . l\hfill}
@@ -4539,8 +4536,8 @@ largura, 5 metros de comprimento e 1,5 metros de profundidade. Sabendo
 que a companhia de água cobra 0,05 centavos por litro consumido, quantos
 reais marina vai gastar para encher completamente essa piscina?
 
-\reduline{ V = 8 \times 5 . 1,5 = 60 m^3\hfill}
-\reduline{ 60 m^3 = 60 000 litros \times 0,20 centavos\hfill}
+\reduline{ V = 8 \cdot 5 . 1,5 = 60 m^3\hfill}
+\reduline{ 60 m^3 = 60 000 litros \cdot 0,20 centavos\hfill}
 \reduline{ 12.000 centavos ou R\$\,120,00\hfill}
 
 \num{12} O reservatório de tinta de uma caneta comum tem a forma de um
@@ -4549,8 +4546,8 @@ de medida de comprimento. Quantos mililitros de tinta essa caneta pode
 acomodar? Considere (\Pi) = 3,14.
 
 \reduline{ V= (\Pi) . R^2 .h\hfill}
-\reduline{ V= 3,14 \times 1,5^2 \times 140\hfill}
-\reduline{ V= 3,14 \times 2,25 \times 140\hfill}
+\reduline{ V= 3,14 \cdot 1,5^2 \cdot 140\hfill}
+\reduline{ V= 3,14 \cdot 2,25 \cdot 140\hfill}
 \reduline{ V= 989,1 mm^3\hfill}
 
 \section{Treino}
@@ -4574,9 +4571,9 @@ A: Correta, pois:
 
 V = (\Pi) . R^2 .h
 
-V = 3 \times 6^2 \times 70
+V = 3 \cdot 6^2 \cdot 70
 
-V = 3 \times 36 \times 70
+V = 3 \cdot 36 \cdot 70
 
 V = 7.560 cm^3
 
@@ -4624,7 +4621,7 @@ A = 1.750 cm^2
 
 Calculando a área do retângulo, temos que:
 
-A = 100 \times 70
+A = 100 \cdot 70
 
 A = 7.000 cm^2
 
@@ -4671,7 +4668,7 @@ D: Correta, pois
 
 V= \Pi). R^2 .h
 
-V= 3,1 \times 4^2 \times 5
+V= 3,1 \cdot 4^2 \cdot 5
 
 V= 248 m^3
 
@@ -4780,7 +4777,7 @@ uma chance?
 vestido, um sapato e um colar. Se ela dispõe de 8 vestidos, 12 sapatos e
 3 colares para escolher, de quantos modos diferentes pode se vestir?
 
-\reduline{ 12 \times 8 . 3= 288 maneiras diferentes.\hfill}
+\reduline{ 12 \cdot 8 . 3= 288 maneiras diferentes.\hfill}
 
 \num{8} Uma professora está montando um provão final para testar o
 conhecimento de seus alunos. Ele contém 40 testes, cada um com quatro
@@ -4869,7 +4866,7 @@ D: Correta, pois:
 
 Relendo o enunciado, temos que:
 
-4 \times 6 . 5 = 300
+4 \cdot 6 . 5 = 300
 
 \num{3} Um casal decidiu inovar na escolha do nome de seu novo filho. Todas
 as letras do alfabeto foram colocadas em um saquinho, sendo que a letra
@@ -4938,10 +4935,10 @@ D: Incorreta, pois não se trata de um número natural.
 \num{2} Durante seus estudos, um físico descobriu que a massa de um elétron
 pesa aproximadamente 0,000000000000000000000000000911 g. Outra forma
 válida de representarmos esse número é
-\item (9,11 \times 10^{-29})
-\item (9,11 \times 10^{-28})
-\item ( 9,11 \times 10^{-27})
-\item (9,11 \times 10^{-26})
+\item (9,11 \cdot 10^{-29})
+\item (9,11 \cdot 10^{-28})
+\item ( 9,11 \cdot 10^{-27})
+\item (9,11 \cdot 10^{-26})
 
 SAEB: Resolver problemas de adição, subtração, multiplicação, divisão,
 potenciação ou radiciação envolvendo número reais, inclusive notação
@@ -4961,7 +4958,7 @@ B: Correta, pois, utilizando a notação científica, temos que:
 30 casas após a vírgula; logo, é necessário o deslocamento do primeiro
 número após o 0:
 
-(0,000000000000000000000000000911 = 9,11 \times 10^{-28})
+(0,000000000000000000000000000911 = 9,11 \cdot 10^{-28})
 
 C: Incorreta, pois, ao contar um ``zero'' a menos, o aluno chegaria a
 esse resultado.
@@ -4986,7 +4983,7 @@ A: Incorreta, pois o aluno pode chegar à conclusão de que 100 - 99 = 1.
 B: Correta, pois, realizando o Cálculo, temos que
 ( \frac{50.000} {100} = 500)
 
-500 \times 99 = 49.500.
+500 \cdot 99 = 49.500.
 
 C: Incorreta, pois o aluno pode considerar retirar 99 do valor de 50.000
 e chegar ao resultado da alternativa descrita.
@@ -5020,9 +5017,9 @@ números.
 
 D: Correta, pois
 
-(\frac{4,25}{x} \times \frac{100}{112})
+(\frac{4,25}{x} \cdot \frac{100}{112})
 
-4,25 \times 112 = x . 100
+4,25 \cdot 112 = x . 100
 
 476= 100x
 
@@ -5057,7 +5054,7 @@ X = 2y
 
 Logo, já conseguimos substituir a 2ª. equação na primeira
 
-0,25 \times 2y + 0,10y = 15,60
+0,25 \cdot 2y + 0,10y = 15,60
 
 0,50y + 0,10y = 15,60
 
@@ -5065,7 +5062,7 @@ Logo, já conseguimos substituir a 2ª. equação na primeira
 
 Y = 26
 
-Como x é o dobro de y, temos: x = 2y = 2 \times 26 = 52
+Como x é o dobro de y, temos: x = 2y = 2 \cdot 26 = 52
 
 \num{6} Arlindo resolveu presentear sua filha com 2 caixas de tamanhos
 diferentes. Arlindo pretende enchê-las com joias. Qual é a equação que
@@ -5284,7 +5281,7 @@ ambientes ou vistas, de acordo com condições dadas.
 
 A: Correta, pois
 
-3,337 \times 78 voltas = 260,286 km
+3,337 \cdot 78 voltas = 260,286 km
 
 B: Incorreta, pois o aluno realizou a soma dos valores ao invés de
 multiplicá-los.
@@ -5325,7 +5322,7 @@ B: Correta, pois, somando as palavras digitadas durante os dias, temos:
 
 125.000 + 112.000 + 175.000 + 140.000 + 101.000 =
 
-653.000 : 6 = 130.600 palavras em média são digitadas por dia.
+653.000 \div 6 = 130.600 palavras em média são digitadas por dia.
 
 C: Incorreta, pois esse valor é referente apenas ao 2° dia de Geraldo.
 
@@ -5456,7 +5453,7 @@ considerando (x) como o total de vendas do mês, a expressão algébrica
 que descreve o salário de Samuel é:
 \item (2.500 + 3x)
 \item (\frac{2.500 + 3x}{100})
-\item (2.500 \times 0,03x)
+\item (2.500 \cdot 0,03x)
 \item (2.500 + 0,03x)
 
 SAEB: Identificar uma representação algébrica para o padrão ou a
@@ -5501,15 +5498,15 @@ B: Incorreta, pois o aluno pode chegar à conclusão de que 5^3 equivale a
 C: Incorreta, pois o aluno pode se confundir a partir do número de lados
 do quadrado.
 
-D: Correta, pois 5 \times 125 = 625 e (\sqrt{625}) = 25, logo um quadrado
+D: Correta, pois 5 \cdot 125 = 625 e (\sqrt{625}) = 25, logo um quadrado
 perfeito.
 
 \num{2} Um empresa de nanotecnologia resolveu inovar e criar o menor chip do
-mundo em formato de um quadrado de lados de (2,0 \times 10 ^{-5 cm}) de
+mundo em formato de um quadrado de lados de (2,0 \cdot 10 ^{-5 cm}) de
 comprimento. Sabendo dessa informação qual é a área desse chip em cm^2?
-\item (4,0 \times 10^{-10})
-\item (2,0 \times 10^{-5})
-\item (4,0 \times 10^{-5})
+\item (4,0 \cdot 10^{-10})
+\item (2,0 \cdot 10^{-5})
+\item (4,0 \cdot 10^{-5})
 \item (2,0.10^{-10})
 
 SAEB: Resolver problemas de adição, subtração, multiplicação, divisão,
@@ -5522,15 +5519,15 @@ científica.
 
 A: Correta, pois, considerando a notação científica, temos que
 
-(2,0 \times 10^{-5} . 2,0 \times 10^{-5} =)
+(2,0 \cdot 10^{-5} . 2,0 \cdot 10^{-5} =)
 
 Separando os termos
 
-2,0 \times 2,0 = 4,0
+2,0 \cdot 2,0 = 4,0
 
 (10^{-5} . 10^{-5} = 10^{-10})
 
-Logo temos que a área do Nano chip em cm^2 é (4,0 \times 10^{-10})
+Logo temos que a área do Nano chip em cm^2 é (4,0 \cdot 10^{-10})
 
 B: Incorreta, pois, ao errar o jogo de sinal na expressão e não realizar
 a multiplicação de 2,0 por 2,0, o aluno chegaria a esse resultado.
@@ -5766,7 +5763,7 @@ A: Correta, pois
 
 Calculando a parede da casa obtemos que a mesma possuirá 28m^2.
 
-Cada tijolo possui 0,11 \times 0,24 = 0,0264m^2 de área.
+Cada tijolo possui 0,11 \cdot 0,24 = 0,0264m^2 de área.
 
 Dividindo (28 \div 0,0264 = 1.060\; tijolos).
 
@@ -5841,7 +5838,7 @@ casas decimais.
 
 D: Correta, pois
 
-1.235km : 30 dias = 41,16 km diários; logo, deveremos completar, no
+1.235km \div 30 dias = 41,16 km diários; logo, deveremos completar, no
 mínimo, 42 km por dia.
 
 \num{12} Vicente Resolveu plantar girassóis em sua fazenda. Ao pesquisar os
@@ -5870,7 +5867,7 @@ A: Correta, pois
 
 Somando os meses, obtemos: 73,05
 
-73,05 : 6 = 12,175.
+73,05 \div 6 = 12,175.
 
 B: Incorreta, pois o aluno chegaria a esse resultado selecionando menor
 preço.
@@ -5934,7 +5931,7 @@ dependentes.
 A: Correta, pois, temos que o número de vogais do nosso alfabeto é 5,
 logo:
 
-5 \times 5 . 10 \times 10 \times 10 \times 10 = 250.000 possibilidades de senhas diferentes.
+5 \cdot 5 . 10 \cdot 10 \cdot 10 \cdot 10 = 250.000 possibilidades de senhas diferentes.
 
 B: Incorreta, pois, ao não considerar ``um elemento multiplicativo 10'',
 o aluno chegaria a essa conclusão erroneamente.
@@ -6750,7 +6747,7 @@ A: Incorreta, pois o aluno provavelmente efetuou a operação de maneira
 incorreta.
 
 B: Correta, pois
-(\frac{2}{4} = \frac{(2 \times 2)} {(4 \times 2)} = \frac{4}{8} > \frac{3}{8})
+(\frac{2}{4} = \frac{(2 \cdot 2)} {(4 \cdot 2)} = \frac{4}{8} > \frac{3}{8})
 logo, Maria comeu mais torta.
 
 C: Incorreta, pois a operação demonstra que Maria e João comeram porções
@@ -6845,7 +6842,7 @@ Alternativa C: Incorreta, pois a resolução da expressão não corresponde
 a esse resultado.
 
 Alternativa D: correta pois 3^2 significa 3 elevado ao quadrado, ou seja,
-3 \times 3 = 9. (\sqrt 16) é 4. Assim, a expressão pode ser reescrita como
+3 \cdot 3 = 9. (\sqrt 16) é 4. Assim, a expressão pode ser reescrita como
 9 + 4 = 13.
 
 \num{13} O maior cometa já descoberto é o Holmes, que possui 2.251 km de
