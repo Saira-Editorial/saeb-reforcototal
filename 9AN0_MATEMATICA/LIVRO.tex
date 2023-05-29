@@ -42,7 +42,7 @@
 			chicagofootnotes			% para notas com número e ponto cf. man. de Chicago
 			]{../packages/edlab-footnotes}
 \usepackage{../packages/edlab-styles}
-
+\usepackage{amsmath}
 
 \usepackage{pdfpages}
 \usepackage{wrapfig}
@@ -63,6 +63,10 @@
 \linespread{1.06}
 
 \let\colorsec=\section 
+
+\newenvironment{emptybox}
+{\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]}
+{\end{mdframed}}
 
 \begin{document}
 
