@@ -2392,6 +2392,7 @@ i\) binômio
 
 j\) monômio
 
+
 6\) Escreva cada polinômio na forma reduzida.
 
 a\) 2x² - 5x + 3 - 3x² - 3 + 7x
@@ -2503,68 +2504,36 @@ Somando os dois terrenos, temos que
 10\) Efetue os monômios descritos abaixo:
 
 a\) $$6x^4+ 12x^6$$
-
 b) 10xy-xy
-
 c)(6x³) . (2x²)
-
 d\) ($$14x^{10}$$): (2x²)
-
 e\) (2x³)³
-
 f\) (-4xy²) ³
-
 g\) $$\frac{30x}{6x}$$, para x diferente de 0
-
 h\) 6x² - 8x²
-
 i)$$(\frac{4}{5}x)^{-1}$$
-
 j) 9x² + 6x²
-
 k\) 7x² + 4x
-
 l\) (8r) . (6s)
-
 m) (16x²) :4
-
 n\) 8x + 6x + 4x
-
 o\) (-4xy²)³
 
-R:
-
-Utilizando as propriedades algébricas e as propriedades de potenciação,
-temos que:
 
 a\) $$6x^4 + 12x^6 = 18x^{10}$$
-
 b\) 10xy - xy = 9xy
-
 c) (6x³) . (2x²) = $$12x^5$$
-
 d\) $$(14x^10) : (2x²)=7x^8$$
-
 e\) (2x³)³= $$2x^9$$
-
 f\) (-4xy²)³= $$-4xy^6$$
-
 g\) $$\frac{30x}{6x}$$, para x diferente de 0 = 5x
-
 h\) 6x² - 8x² = -2x²
-
 i)$$(\frac{4}{5}x)^{-1}$$ = $$\frac{5}{4}$$
-
 j) 9x² + 6x² = 15x²
-
 k\) 7x² + 4x² = 11x²
-
 l\) (8r) . (6s) = 48rs
-
 m)(16x²) : 4 = 4x²
-
 n\) 8x + 6x + 4x = 18x
-
 o\) $$(-2xy²)^4$$= $$16x^4 y^8$$
 
 \colorsec{Treino}
