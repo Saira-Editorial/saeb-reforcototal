@@ -1,6 +1,9 @@
 	Notas (README.md)
 	=====
 
+# Link de acesso aos arquivos que foram para Ipojuca
+https://1drv.ms/f/s!Atj_xOUGlbzyhM9Yx7T5pLzlLfPtpg?e=oS9V37
+
 # Anotações 27/05
 
 * Checar nomes dos autores nas fichas catalográficas.
