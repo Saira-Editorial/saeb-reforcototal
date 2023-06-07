@@ -1,3 +1,4 @@
+*txt
 *out 
 *xwm
 *swp
@@ -19,7 +20,11 @@
 *.idv
 *.opf
 *.fdb_latexmk
-*.fls .DS_Store
+*.DS_Store
+*.synctex.gz
+*.txt
 *.pdf
+!*.png
+!*.docx
 !chap.pdf
 !chap2.pdf
