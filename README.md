@@ -10,6 +10,7 @@
 * Trocar abres
 * Não localizei o *.md
 * Última revisão ed7a7cd0 em MAT.tex nos dois branchs
+* Que fazer com GABARITO?
 -----
 
 ## 1ANO_PORTUGUES
