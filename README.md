@@ -1,6 +1,38 @@
 	Notas (README.md)
 	=====
 
+# Comentários 
+
+## 1ANO_MATEMATICA
+
+* Dificuldade para identificar que imagens trocar
+* Gabarito entra
+* Trocar abres
+* Não localizei o *.md
+* Última revisão ed7a7cd0 em MAT.tex nos dois branchs
+-----
+
+## 1ANO_PORTUGUES
+
+
+
+## 2ANO_MATEMATICA
+## 2ANO_PORTUGUES
+## 3ANO_MATEMATICA
+## 3ANO_PORTUGUES
+## 4ANO_MATEMATICA
+## 4ANO_PORTUGUES
+## 5ANO_MATEMATICA
+## 5ANO_PORTUGUES
+## 6ANO_MATEMATICA
+## 6ANO_PORTUGUES
+## 7ANO_MATEMATICA
+## 7ANO_PORTUGUES
+## 8ANO_MATEMATICA
+## 8ANO_PORTUGUES
+## 9AN0_MATEMATICA
+## 9AN0_PORTUGUES
+
 # Link de acesso aos arquivos que foram para Ipojuca
 https://1drv.ms/f/s!Atj_xOUGlbzyhM9Yx7T5pLzlLfPtpg?e=oS9V37
 
@@ -9,7 +41,7 @@ https://1drv.ms/f/s!Atj_xOUGlbzyhM9Yx7T5pLzlLfPtpg?e=oS9V37
 * Checar nomes dos autores nas fichas catalográficas.
 * Rever referências às habilidades da BNCC (só devem aparecer no gabarito).
 * A abertura do simulado deve cair sempre na página ímpar.
-* 
+
 
 # Atas
 
