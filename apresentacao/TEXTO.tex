@@ -8,28 +8,25 @@
 
 % Felipe
 
-A \textit{Plataforma digital Revisa SAEB} foi desenvolvida para alunos e
-professores do 1º ao 9º ano do Ensino Fundamental. Por meio dela, os alunos
-têm acesso às versões digitais do material impresso (apresentações PowerPoint), simulados 
-por módulos, vídeos e jogos. Já os professores, além de terem acesso ao
-mesmo conteúdo que os alunos, contam com uma série de vídeos de capacitação.
-Os coordenadores por sua vez, recebem relatórios de frequência e pontuação por
-e-mail ou pela plataforma.
+A \textit{Plataforma digital Revisa SAEB} foi desenvolvida para alunos 
+do 1º ao 9º ano do Ensino Fundamental. Por meio dela, eles
+têm acesso às versões digitais ao livro digital, simulados, vídeos e jogos. 
 
-Todo esse conteúdo da \textit{Plataforma digital} está publicado em um
-sistema integrado de gestão, desenvolvido desde
-2005. O sistema de código aberto, conhecido como Odoo, oferece uma ampla gama de módulos e
-recursos para a educação que podem ser personalizados e adaptados às
-necessidades específicas de diferentes situações. Esse mesmo sistema é usado
-em todas as escolas públicas de Portugal desde 2022, para vários fins
-educacionais.\footnote{ Para saber mais sobre o uso do projeto Odoo, consulte 
+Já os professores, além de terem acesso ao
+mesmo conteúdo que os alunos, contam com uma série de vídeos de capacitação 
+e  relatórios sobre o desempenho da sua turma.
+
+Os coordenadores, por sua vez, podem consultar  diretamente na plataforma relatórios de frequência e pontuação
+com os dados de toda região.
+
+
+A \textit{Plataforma digital} tem como base um
+sistema integrado de gestão de código aberto chamado Odoo, 
+que oferece  módulos e recursos para a educação adaptáveis às
+necessidades específicas. Vale lembrar que esse mesmo sistema é está sendo usado
+em todas as escolas públicas de Portugal desde 2014.\footnote{ Para saber mais sobre o uso do projeto Odoo, consulte 
 \href{https://www.odoo.com/pt_BR/partners/thinkopen-solutions-portugal-2614}{Thinkopen Solutions — Portugal.}}
 %\url{}
-
-
-Especificamente, a \textit{Plataforma} possui dois módulos que oferecem 
-recursos relacionados ao \textbf{eLearning} (Cursos On-line) e 
-à aplicação de questionários e provas, que fazem parte da \textit{Plataforma digital Revisa SAEB}.  
 
 
 
@@ -49,55 +46,42 @@ recursos relacionados ao \textbf{eLearning} (Cursos On-line) e
 
 \section{Quais são as áreas principais da plataforma?}
 
-Após o \textit{login}, o professor e os gestores terão acessoa duas áreas:
-
-\begin{itemize}
-\item  aos cursos de formação.
- 
-\item aos módulos de gestão (Cursos Online, Provas e Eventos), para relatórios. 
-
-\item a todos os cursos dos alunos.
-
-\item Fórum
+Após o \textit{login}, professor e gestores terão acesso a duas áreas: uma chamada \textit{frontend}, 
+dedicada totalment aos cursos, e outra chada de \textit{backend}, voltada para a leitura de relatórios
+e proposta de eventos. Para acessar o backend, é necessário clicar no ícone indicado na foto abaixo:
+\medskip
 
 
-\end{itemize}
+\noindent\includegraphics[width=\textwidth]{imgs/backend.png}\medskip
+
+No \textit{frontend} estão os cursos e um fórum, de acesso restrito.
+No \textit{backend} estão os relatórios dos simulados e treinos e a área de 
+convocação de eventos, que podem servir para disparos de emails e SMSs.
+Veja abaixo:\medskip
+
+\noindent\includegraphics[width=\textwidth]{imgs/backend_home.png}\medskip
 
 
-\begin{figure}[b]
-\includegraphics[width=\textwidth]{imgs/perfis_data.pdf}
-\caption{Os usuários estão classificados em grupos e só têm acesso ao seu domínio}
-\end{figure}
+Para o aluno serão oferecidos os curso do seu ano, divididos em seções, e o calendário de eventos.
 
+O perfil do coordenator é muito semelhante ao de professor, mas somente ele tem acesso
+aos dados das escolas do município de maneira consolidada. Fazem parte desses dados  afrequência, notas e
+certicações dos alunos e o grau de acertividade das questões.
 
-Já o aluno terá acesso a:
-
-\begin{itemize}
-\item curso do seu ano,  divididos em seções. 
-
-\item calendário de eventos
-\end{itemize}
-
-Os relatório de frequência e desempenho fica à disposição do cooredenador e pode ser 
-enviado automaticamente para o grupo de professores. 
-
-Para testes, entre no endereço \textbf{revisasaeb.com.br} com 
-as credenciais \textbf{aluno-teste} e senha \textbf{minhacidade}. 
 
 \section{Diferenciais da \textit{Plataforma}}
 
 \begin{figure}[h]
-\includegraphics[width=\textwidth]{imgs/spec}
-\caption{Home da Plataforma}
+\includegraphics[width=\textwidth]{imgs/sobre}
 \end{figure}
 
-E também cabe destacar ainda a \textit{gamificação} do aprendizado:
-são definidos roteiros e avatares que são conquistados conforme a 
-pontuação do  aluno. 
+Acima são mencionadas algumas das principais características presentes na \textit{plataforma}.
+Cabe destacar ainda as funcionalidades de \textit{gamificação}, que
+definem roteiros e avatares a serem conquistados com a 
+pontuação do aluno. 
 
 \begin{figure}[b]
-\centering \includegraphics[width=0.7\textwidth]{imgs/gamification}
-\caption{Visual das informações de desempenho do aluno e seu avanço e avatar.}
+\centering \includegraphics[width=0.4\textwidth]{imgs/game}
 \end{figure}
 
 
@@ -146,7 +130,7 @@ pontuação do  aluno.
 
 
 \begin{figure}[H]
-\includegraphics[width=\textwidth]{imgs/backend_calendário-2}
+\includegraphics[width=\textwidth]{imgs/calendario}
 \caption{Calendário de administração de eventos}
 \end{figure}
 
