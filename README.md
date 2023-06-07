@@ -3,18 +3,19 @@
 
 # Comentários 
 
+* Gabarito entra?
+* Trocar abres
+
 ## 1ANO_MATEMATICA
 
 * Dificuldade para identificar que imagens trocar
-* Gabarito entra
-* Trocar abres
-* Não localizei o *.md
 * Última revisão ed7a7cd0 em MAT.tex nos dois branchs
-* Que fazer com GABARITO?
------
+* Muitas imagens não utilizadas. Que fazer?
 
 ## 1ANO_PORTUGUES
 
+* Dificuldade para identificar que imagens trocar
+* Última revisão ok
 
 
 ## 2ANO_MATEMATICA
