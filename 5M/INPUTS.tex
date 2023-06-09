@@ -1,0 +1,67 @@
+% Este documento tem a ver com as partes do LIVRO. 
+
+\input{1-fronte}       % [Frontistício]
+\input{../2-creditos}     % [Créditos]
+% nothing			is level -3
+% \book				is level -2
+% \part				is level -1
+% \chapter 			is level 0
+% \section 			is level 1
+% \subsection 		is level 2
+% \subsubsection 	is level 3
+% \paragraph 		is level 4
+% \subparagraph 	is level 5
+\setcounter{secnumdepth}{1}
+\setcounter{tocdepth}{0}
+ 
+% \renewcommand{\contentsname}{Índex} 	% Trocar nome do sumário para 'Índex'
+%\ifodd\thepage\relax\else\blankpage\fi 	% Verifica se página é par e coloca página branca
+%\tableofcontents*
+
+\pagebreak
+{\begingroup\mbox{}\pagestyle{empty}
+\pagestyle{empty} 
+% \renewcommand{\contentsname}{Índex} 	% Trocar nome do sumário para 'Índex'
+%\ifodd\thepage\relax\else\blankpage\fi 	% Verifica se página é par e coloca página branca
+\addtocontents{toc}{\protect\thispagestyle{empty}}
+\addtocontents{toc}{\vspace*{-1cm}}
+\tableofcontents*\clearpage\endgroup}
+
+%\input{watermarks}
+
+\input{../INTRO}
+\addcontentsline{toc}{chapter}{Matemática}
+\input{MATEMATICA}
+\blankpage
+\blankpage
+\addcontentsline{toc}{chapter}{EDUCAÇÃO FÍSICA}
+\input{EDF}
+
+\blankpage
+\blankpage
+\blankpage
+\addcontentsline{toc}{chapter}{CIÊNCIAS DA NATUREZA}
+\input{CNA}
+
+\vspace*{-3.4cm}
+\hspace*{-3.7cm}\includegraphics[scale=1]{../watermarks/1simulado5ano.pdf}
+\input{SIMULADO1}
+
+\vspace*{-3.4cm}
+\hspace*{-3.7cm}\includegraphics[scale=1]{../watermarks/2simulado5ano.pdf}
+\input{SIMULADO2}
+
+\blankpage
+\vspace*{-3.4cm}
+\hspace*{-3.7cm}\includegraphics[scale=1]{../watermarks/3simulado5ano.pdf}
+\input{SIMULADO3}
+
+\vspace*{-3.4cm}
+\hspace*{-3.7cm}\includegraphics[scale=1]{../watermarks/4simulado5ano.pdf}
+\input{SIMULADO4}
+
+%\input{ANOTACOES}
+
+\input{GABARITO}
+
+\input{Z-colofon}		   % [colofon]
