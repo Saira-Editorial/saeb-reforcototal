@@ -2,9 +2,10 @@
 
 	
 
-## TRABALHO COM A VERSÃO 1.1
+## TRABALHO COM A VERSÃO 1.5
 
-
+* Cotejo
+* Revisão
 * Certificar-se de que todas as ilustrações que entraram no material são as
   feitas para ele. Se não for, resolver, inclusive podendo contar com a
   Isabella e a Luísa para fazer ilustração nova.
@@ -23,30 +24,6 @@
 * Certificar-se de que os textos de fontes externas entraram como fonte de
   pesquisa (precisam ser reescritos pelo ChatGPT). Se não for o caso, precisa
   fazer.
-
-
-## Resultado do edital
-
-| Dificuldade  | Frente    | Avaliação                                                                    |
-|--------------|-----------|------------------------------------------------------------------------------|
-|  Impossível  |  Digital  | Videoaulas para alunos e professores                                         |
-|  Difícil     |  Digital  | Jogos: incluir jogos na plataforma (fica a questão da quantidade)            |
-|  Difícil     |  LP       | Livro do professor em outro formato: mudar a estrutura do livro do professor |
-|  Difícil     |  Digital  | Material de apoio para professores                                           |
-|  Médio       |  Digital  | + Avaliação' Diagnóstico, Relatórios                                         |
-|  Fácil       |  LP       | Instruções por atividade: retomar do original                                |
-|  Fácil       |  LA       | Jogos & Encartes: fazer                                                      |
-|  Fácil       |  Digital  | Livro do professor: subir o livro do professor na plataforma                 |
-|  Fácil       |  LP       | Manual do coordenador: completar o manual                                    |
-|  Fácil       |  Digital  | Perfis: Redesenhar o fluxo do site                                           |
-|  Pronto      |  LP       | Fichas                                                                       |
-|  Pronto      |  Digital  | Forum                                                                        |
-|  Pronto      |  Digital  | Simulados com correção automática                                            |
-|  ??????      |  LA       | QR Code                                                                      |
-
-![](./readme/01.png)
-![](./readme/02.png)
-![](./readme/03.png)
 
 * Link de acesso aos arquivos enviados
 https://1drv.ms/f/s!Atj_xOUGlbzyhM9Yx7T5pLzlLfPtpg?e=oS9V37
