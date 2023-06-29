@@ -1,19 +1,19 @@
-anima1.jpg
+animal1.jpg
 ----------
 
 Crédito: rawpixel.com
 
-anima2.jpg
+animal2.jpg
 ----------
 
 Crédito: vecteezy.com
 
-anima3.jpg
+animal3.jpg
 ----------
 
 Crédito: vecteezy.com
 
-anima4.png
+animal4.png
 ----------
 
 Crédito: user10320847/Freepik
@@ -21,20 +21,35 @@ Crédito: user10320847/Freepik
 image107.jpg
 ----------
 
+Crédito: vecteezy.com
+
 image113.png
 ----------
+
+Crédito: freepik
 
 image16.png
 ----------
 
+Crédito: 
+
 image32b.jpg
 ----------
+
+Crédito: macrovector/freepik
 
 image92.jpg
 ----------
 
+Crédito: wirestock/freepik
+
+
 image95.jpg
 ----------
 
+Crédito: 
+
 image97.jpg
 ----------
+
+Crédito: al17/freepik
