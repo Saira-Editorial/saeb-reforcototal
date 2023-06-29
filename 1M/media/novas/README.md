@@ -1,16 +1,22 @@
-animal1.jpg
+anima1.jpg
 ----------
 
-Crédito:
+Crédito: rawpixel.com
 
-animal2.jpg
+anima2.jpg
 ----------
 
-animal3.jpg
+Crédito: vecteezy.com
+
+anima3.jpg
 ----------
 
-animal4.png
+Crédito: vecteezy.com
+
+anima4.png
 ----------
+
+Crédito: user10320847/Freepik
 
 image107.jpg
 ----------
