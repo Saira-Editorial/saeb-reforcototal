@@ -53,3 +53,18 @@ image97.jpg
 ----------
 
 Crédito: al17/freepik
+
+
+SAEB_1ANO_MAT_FIGURA3a.png
+--------------------------
+Criar a versão do aluno, sem as respostas. A com respostas fica com "_PROF" no nome.
+
+
+SAEB_1ANO_MAT_FIGURA4.png
+-------------------------
+Criar a versão do aluno, sem as respostas. A com respostas fica com "_PROF" no nome.
+
+
+SAEB_1ANO_MAT_FIGURA6.png
+-------------------------
+Criar a versão do professor, circulando a imagem da direita. A versão com resposta fica com "_PROF" no nome.
