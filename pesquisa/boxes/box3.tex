@@ -1,0 +1,48 @@
+\documentclass[10pt]{article}
+
+\usepackage{graphicx}
+\usepackage{colortbl,tabularx}
+\usepackage[table]{xcolor}
+\usepackage[many]{tcolorbox}
+
+\usepackage{XCharter}
+\usepackage[T1]{fontenc}
+
+\newtcolorbox{learng}{
+  breakable,
+  enhanced,
+  arc=0pt,
+  outer arc=0pt,
+  colframe=titlegrammar,
+  colback=titlegrammar!03,
+  overlay unbroken and first={
+    \node[
+      draw=titlegrammar,
+      fill=titlegrammar,
+      rotate=270,
+      anchor=north west,
+      text=white,
+      font=\bfseries
+    ]
+    at (frame.north west)
+    {REVISÃO};
+  }
+}
+
+\definecolor{titlegrammar}{RGB}{255,128,0}
+
+\begin{document}
+
+\begin{learng}
+\begin{tabular}{cc}
+\hline
+\textbf{Fruta} & \textbf{Quantidade} \\
+\hline
+Maçã & 3 \\
+\hline
+Banana & 5 \\
+\hline
+\end{tabular}
+\end{learng}
+
+\end{document}
