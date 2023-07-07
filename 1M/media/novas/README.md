@@ -73,3 +73,13 @@ Criar a versão do aluno, sem as respostas. A com respostas fica com "-PROF" no 
 SAEB_1ANO_MAT_FIGURA14.png
 --------------------------
 Criar a versão do aluno, sem as respostas. A com respostas fica com "-PROF" no nome.
+
+
+SAEB_1ANO_MAT_FIGURA17.png
+--------------------------
+Completar a continha 10 + 10 = 20.
+
+
+SAEB_1ANO_MAT_FIGURA23.png
+--------------------------
+Criar a versão sem as respostas.
