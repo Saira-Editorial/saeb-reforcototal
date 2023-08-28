@@ -124,13 +124,23 @@
 
 
 % Linhas de respostas
+\makeatletter
 \newcommand{\linhas}[1]{%
-\par\vspace{0.3cm}%
-\ifnum #1>0%
-\noindent\textcolor{salmao}{\rule{\textwidth}{1pt}}%
-\linhas{\numexpr#1-1\relax}%
-\fi
+  \par\vspace{0.3cm}%
+  \ifnum #1>0%
+    \ifx\@currenvir\enumerate
+      \noindent\textcolor{salmao}{\rule{\dimexpr\linewidth-\leftmargin\relax}{1pt}}%
+    \else
+      \noindent\textcolor{salmao}{\rule{\linewidth}{1pt}}%
+    \fi
+    \linhas{\numexpr#1-1\relax}%
+  \fi
 }
+\makeatother
+
+
+
+
 
 \newcommand{\matlinhas}[1]{%
 \par\vspace{0.3cm}%
