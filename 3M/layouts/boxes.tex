@@ -1,0 +1,133 @@
+\usesymbols[awesome5]
+
+\defineframedtext
+  [leftbartext]
+  [
+    width=broad,
+    frame=off,
+    framecolor=darkgray,
+    leftframe=on,
+    rulethickness=2ex,
+    offset=0.25ex,
+    loffset=3ex, 
+    background=color,
+    backgroundcolor=lightgray,
+  ]
+
+\definecolor[darkred]   [r=0.8]
+\definecolor[darkgreen] [g=0.8]
+\definecolor[darkblue]  [b=0.8]
+\definecolor[darkorange]  [r=0.8, g=0.4, b=0]
+\definecolor[darkcyan]    [r=0, g=0.6, b=0.6]
+\definecolor[darkmagenta] [r=0.6, g=0, b=0.6]
+\definecolor[lemonyellow] [r=.8, g=.8, b=0.2]
+
+\definecolor[lightred]   [0.95(red,white)]
+\definecolor[lightgreen] [0.95(green,white)]
+\definecolor[lightblue]  [0.95(blue,white)]
+\definecolor[lightorange]  [0.95(orange,white)]
+\definecolor[lightcyan]    [0.95(cyan,white)]
+\definecolor[lightmagenta] [0.95(magenta,white)]
+\definecolor[lightlemonyellow] [0.95(lemonyellow,white)]
+
+\def\MyIconBookmark#1#2#3{\startpositioning
+\position(-2.5,-2){\starttikzpicture[remember picture,overlay]
+                  \ifodd\pagenumber 
+                    \pgfmathsetmacro\x{-2.1}
+                    \pgfmathsetmacro\y{-3}
+                  \else
+                    \pgfmathsetmacro\x{3.3}
+                    \pgfmathsetmacro\y{-3}               
+                  \fi
+                    \filldraw[#1] (\x,\y) circle [radius=5mm];
+                    \node[color=white] at (\x,\y) {\symbol[#2][#3]};
+                    \draw[#1,line width=2pt] (\x+0.5,\y) -- (\x+1,\y);
+                  \stoptikzpicture}
+ \stoppositioning}
+%\MyIconBookmark{blue}{awesome5-regular}{address-card}
+
+
+%Seção Investigação
+
+\defineframedtext
+  [Investigacao]
+  [leftbartext]
+  [ 
+    inner={\parskip .5em\hfill\scale[height=2\bodyfontsize]{\color[darkblue]{\symbol[awesome5-solid][shoe-prints]}}\blank},
+    framecolor=darkblue,
+    backgroundcolor=lightblue,
+  ]
+
+%Seção Uma imagem
+
+ \defineframedtext
+  [Imagem]
+  [leftbartext]
+  [
+      inner={\parskip .5em\hfill\scale[height=2\bodyfontsize]{\color[darkorange]{\symbol[awesome5-regular][image]}}\blank},
+    framecolor=darkorange,
+    backgroundcolor=lightorange,
+  ]
+
+%Seção Oficina digital
+
+\defineframedtext
+  [Oficina]
+  [leftbartext]
+  [
+    inner={\parskip .5em\hfill\scale[height=2\bodyfontsize]{\color[darkgreen]{\symbol[awesome5-regular][keyboard]}}\blank},
+    framecolor=darkgreen,
+    backgroundcolor=lightgreen,
+  ]  
+
+%Seção Papel e caneta
+
+ \defineframedtext
+  [Papel]
+  [leftbartext]
+  [
+      inner={\parskip .5em\hfill\scale[height=2\bodyfontsize]{\color[darkred]{\symbol[awesome5-solid][pen-alt]}}\blank},
+    framecolor=darkred,
+    backgroundcolor=lightred,
+  ]  
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%BOXES LATERAIS%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%Box para seção Minibio
+
+ \defineframedtext
+  [Minibio]
+  [leftbartext]
+  [align={nothyphenated,flushleft,fullhz},
+    inner={\parskip .5em\hfill\scale[height=2\bodyfontsize]{\color[darkmagenta]{\symbol[awesome5-solid][user]}}\blank},
+    framecolor=darkmagenta,
+    backgroundcolor=lightmagenta,
+  ]  
+
+
+%Box para seção Palavra-chave
+
+ \defineframedtext
+  [Palavra]
+  [leftbartext]
+  [align={nothyphenated,flushleft,fullhz},
+      inner={\parskip .5em\hfill\scale[height=2\bodyfontsize]{\color[darkcyan]{\symbol[awesome5-solid][key]}}\blank},
+    framecolor=darkcyan,
+    backgroundcolor=lightcyan,
+  ]  
+
+%Box para seção Marca Texto
+
+ \defineframedtext
+  [Marca]
+  [leftbartext]
+  [align={nothyphenated,flushleft,fullhz},
+      inner={\parskip .5em\hfill\scale[height=2\bodyfontsize]{\color[lemonyellow]{\symbol[awesome5-solid][highlighter]}}\blank},
+    framecolor=lemonyellow,
+    backgroundcolor=lightlemonyellow,
+  ]  
+
+
+  
