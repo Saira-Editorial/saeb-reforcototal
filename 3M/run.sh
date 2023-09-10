@@ -1,0 +1,1 @@
+csplit MAT.tex /chapter/ '{*}'

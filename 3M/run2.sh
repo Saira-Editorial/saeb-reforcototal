@@ -1,0 +1,1 @@
+for l in xx*;do mv $l 3M-$l.tex; done
