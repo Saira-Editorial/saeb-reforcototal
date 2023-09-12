@@ -654,11 +654,11 @@ Ela usou 40 pedras ao todo. Quantas pedras liláses e quantas pedras azuis Camil
 
 \begin{multicols}{2}
 \begin{escolha}
-\item 6 liláses, 34 azuis.
+\item 6 liláses, 32 azuis.
 
-\item 8 liláses, 30 azuis. 
+\item 28 liláses, 8 azuis. 
 
-\item 6 liláses, 34 azuis.
+\item 32 liláses, 8 azuis.
 
 \item 8 liláses, 32 azuis.
 \end{escolha}
@@ -1443,13 +1443,13 @@ Em que horário começa o almoço de Samanta?
 \begin{multicols}{2}
 \begin{escolha}
 \item
-  11:00.
+  11h00.
 \item
-  11:30.
+  11h30.
 \item
-  12:00.
+  12h00.
 \item
-  12:30.
+  12h30.
 \end{escolha}
 \end{multicols}
 
@@ -2074,15 +2074,15 @@ os seguintes valores: uma cédula de R\$ 5,00, duas cédulas de R\$ 2,00, uma mo
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
-Produto & Valor por unidade\tabularnewline
+\textbf{Produto} & \textbf{Valor por unidade}\tabularnewline
 \midrule
 \endhead
-Pão de queijo & R\$ 3,00\tabularnewline
-Bombom & R\$ 5,00\tabularnewline
-Suco & R\$ 6,00\tabularnewline
-Sobremesa do dia & R\$ 4,50\tabularnewline
-Refrigerante & R\$ 4,50\tabularnewline
-Cachorro-quente & R\$ 12,00\tabularnewline
+\textbf{Pão de queijo} & R\$ 3,00\tabularnewline
+\textbf{Bombom} & R\$ 5,00\tabularnewline
+\textbf{Suco} & R\$ 6,00\tabularnewline
+\textbf{Sobremesa do dia} & R\$ 4,50\tabularnewline
+\textbf{Refrigerante} & R\$ 4,50\tabularnewline
+\textbf{Cachorro-quente} & R\$ 12,00\tabularnewline
 \bottomrule
 \end{longtable}
 
@@ -2124,42 +2124,48 @@ ocorrer (equiprováveis).
 \end{itemize}
 
 \conteudo{
-Probabilidade é a chance de determinado
-resultado ocorrer. O número 0 representa ``nenhuma chance'', enquanto o número 1
-corresponde a ``chance certa''.
-
-Quando se fala e probabilidade, é importante pensar nos fenômenos aleatórios, ou seja, aqueles cujo resultado não pode ser determinado mesmo se conhecendo todos os resultados possíveis. Por falar nisso, espaço amostral é o conjunto desses resultados.
+Probabilidade é a chance de determinado resultado ocorrer. 
+O número 0 representa ``nenhuma chance'', enquanto o número 1 corresponde 
+à ``chance certa''. Quando se fala em probabilidade, é importante 
+pensar nos fenômenos aleatórios, ou seja, aqueles cujo 
+resultado não pode ser determinado mesmo se conhecendo 
+todos os resultados possíveis. Por falar nisso, 
+espaço amostral é o conjunto desses resultados.
 }
 
-\pagebreak
 \section*{Atividades}
 
 \num{1} Em um estojo, há 25 lápis coloridos e 18 lápis pretos. Retirando-se, ao
 acaso, um lápis desse estojo, o que tem chance maior: retirar um lápis
 colorido ou um preto? Justifique sua resposta.
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{Como há mais lápis coloridos do que pretos no estojo, a maior chance,
+\reduline{Como há mais lápis coloridos do que pretos no estojo, a maior chance,
 quando se retira um único lápis desse estojo, é que saia um lápis
 colorido.}
-\vspace{2cm}
-\end{mdframed}
 
+
+\pagebreak
 \num{2} Daniel joga um dado honesto. Sobre isso, determine as chances mencionadas a seguir.
+
+\begin{center}
+\includegraphics[width=.5\textwidth]{media/image37e.jpeg}
+\end{center}
+
 
 \begin{escolha}
 \item
   Tirar, na face voltada para cima, um número par.
-\item\reduline{Temos sempre 6 possibilidades de números que podem sair: 1, 2, 3, 4, 5 e 6. Se interessa um número par, há três chances de isso acontecer (2, 4, 6).\hfill}
+\reduline{Temos sempre 6 possibilidades de números que podem sair: 1, 2, 3, 4, 5 e 6. Se interessa um número par, há três chances de isso acontecer (2, 4, 6).\hfill}
 
 \item
   Tirar, na face voltada para cima, um número ímpar.
-\item\reduline{Temos sempre 6 possibilidades de números que podem sair: 1, 2, 3, 4, 5 e 6. Se interessa um número ímpar, há três chances de isso acontecer (1, 3, 5).\hfill}
+\reduline{Temos sempre 6 possibilidades de números que podem sair: 1, 2, 3, 4, 5 e 6. Se interessa um número ímpar, há três chances de isso acontecer (1, 3, 5).\hfill}
 
 \item
   Tirar, na face voltada para cima, um número menor que 3.
-\item\reduline{Temos sempre 6 possibilidades de números que podem sair: 1, 2, 3, 4, 5 e 6. Se interessa um número menor que 3, há duas chances de isso acontecer (1, 2).\hfill}
+\reduline{Temos sempre 6 possibilidades de números que podem sair: 1, 2, 3, 4, 5 e 6. Se interessa um número menor que 3, há duas chances de isso acontecer (1, 2).\hfill}
 \end{escolha}
+
 
 \num{3} Uma sacola escura, que não permite visualizar o que há dentro, contém
 50 bolas idênticas, mas de cores diferentes. Sabe-se que 16 são azuis,
@@ -2167,19 +2173,14 @@ colorido.}
 acontecer o que se prevê a seguir.
 
 \begin{escolha}
-\item
-  Que cor tem mais chance de aparecer quando se retira uma bola ao acaso? Justifique sua resposta.
-\item\reduline{A maior probabilidade é de sair uma bola preta, porque é a cor que mais aparece na sacola.\hfill}
+\item   Que cor tem mais chance de aparecer quando se retira uma bola ao acaso? Justifique sua resposta.
+\reduline{A maior probabilidade é de sair uma bola preta, porque é a cor que mais aparece na sacola.\hfill}
 
-\item
-  Há mais chance de sair um bola azul ou uma bola vermelha da sacola? Justifique sua resposta.
-\item\reduline{Há mais chance de sair uma bola azul, porque há mais bolas azuis que vermelhas.\hfill}
+\item   Há mais chance de sair um bola azul ou uma bola vermelha da sacola? Justifique sua resposta.
+\reduline{Há mais chance de sair uma bola azul, porque há mais bolas azuis que vermelhas.\hfill}
 
-\item
-  Retirando-se uma bola ao acaso, a probabilidade de sair amarela é maior do que a de sair qualquer
-  outra cor?
-
-\item \reduline{Não, pois a probabilidade de sair uma amarela é a menor entre as
+\item  Retirando-se uma bola ao acaso, a probabilidade de sair amarela é maior do que a de sair qualquer outra cor?
+\reduline{Não, pois a probabilidade de sair uma amarela é a menor entre as
   probabilidades de saírem as outras cores, visto que a quantidade de
   bolas amarelas é a menor de todas.\hfill}
 \end{escolha}
@@ -2188,47 +2189,40 @@ acontecer o que se prevê a seguir.
 \num{4} Lucas tem guardado em uma caixa 16 livros de Matemática, 6 de História e
 8 de Geografia. Retirando ao acaso um desses livros da caixa, responda ao que se pergunta a seguir.
 
+\begin{center}
+\includegraphics[width=.5\textwidth]{media/image37f.png}
+\end{center}
+
 \begin{escolha}
 \item
   Qual livro tem mais chance de sair?
-\item\reduline{Um livro de Matemática.\hfill}
+\reduline{Um livro de Matemática.\hfill}
+\linhas{1}
 
 \item
   Qual livro tem menos chance de sair?
-\item\reduline{Um livro de História.\hfill}
+\reduline{Um livro de História.\hfill}
+\linhas{1}
 
 \item
   Qual é a chance de sair uma livro de Língua Portuguesa?
-\item\reduline{Não há chance de sair um livro de Língua Portuguesa, porque não há livros desse tipo na caixa.\hfill}
+\reduline{Não há chance de sair um livro de Língua Portuguesa, porque não há livros desse tipo na caixa.\hfill}
 \end{escolha}
 
-\pagebreak
 \num{5} Na sala em que Clarissa estuda há 26 alunos, dos quais 18 são meninas. A
 professora vai escolher um aluno para verificar se esse aluno fez a tarefa.
 Uma menina ou um menino é mais provável que vai ser escolhido? Justifique sua resposta.
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{Total de alunos: 26}
+\begin{center}
+\includegraphics[width=\textwidth]{media/image37g.png}
+\end{center}
 
-\coment{Número de meninas: 18}
-
-\coment{Número de meninos: 26 -- 18 = 8}
-
-\coment{É mais provável que seja escolhida uma menina.}
-\end{mdframed}
+\reduline{Se o total de alunos é 26, dos quais 18 são meninas e (26 -- 18) 8 são meninos, é  mais provável que seja escolhida uma menina.\hfill}
 
 \num{6} Uma letra é escolhida ao acaso entre as que formam a palavra
 FUNDAMENTAL. É mais provável que a letra escolhida seja uma vogal ou uma consoante?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{Total de letras: 11}
-
-\coment{Consoantes: 7}
-
-\coment{Vogais: 11 -- 7 = 4}
-
-\coment{Há mais chance de sair uma consoante.}
-\end{mdframed}
+\reduline{Total de letras da palavra FUNDAMENTAL é 11, sendo 7 consoantes e 4 vogais. Portanto, há mais chance de sair uma consoante.\hfill}
 
 \num{7} O baralho convencional é composto de 52 cartas divididas igualmente em quatro
 naipes (copas, paus, ouros e espadas). Retirada uma carta ao acaso de um baralho,
@@ -2240,13 +2234,14 @@ qual naipe é mais provável de sair? Justifique sua resposta.
 pode escolher qualquer número de 1 a 25. Quantas chances ele tem de
 escolher um número maior que 8 e menor que 18?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{Total de números: 25}
+\conteudo{
+\begin{center}
+  \textbf{1, 2, 3, 4, 5, 6, 7, 8,\\ 9, 10, 11, 12, 13, 14, 15, 16, 17,\\ 18, 19, 20, 21, 22, 23, 24 e 25.}
+\end{center}
+}
 
-\coment{Total de números que interessam: 9}
+\reduline{De um total de 25 números, 9 interessam. Há, portanto, nove chances de sair um número maior que 8 e menor que 18.\hfill}
 
-\coment{Há, portanto, nove chances de sair um número maior que 8 e menor que 18.}
-\end{mdframed}
 
 \num{9} Os 500 estudantes de um colégio responderam a uma pergunta sobre a
 área de conhecimento preferida, entre Exatas, Humanas e
@@ -2256,25 +2251,19 @@ na tabela a seguir.
 \begin{center}
 \begin{tabular}{c|ccc}
 \hline
-\multirow{2}{*}{Área} & \multicolumn{3}{c}{Sexo} \\ \cline{2-4} 
- & \multicolumn{1}{c|}{Masculino (M)} & \multicolumn{1}{c|}{Feminino (F)} & Total \\ \hline
-Exatas (E) & \multicolumn{1}{c|}{120} & \multicolumn{1}{c|}{80} & 200 \\ \hline
-Humanas (H) & \multicolumn{1}{c|}{45} & \multicolumn{1}{c|}{80} & 125 \\ \hline
-Biológicas (B) & \multicolumn{1}{c|}{100} & \multicolumn{1}{c|}{75} & 175 \\ \hline
-Total & \multicolumn{1}{c|}{265} & \multicolumn{1}{c|}{235} & 500 \\ \hline
+\multirow{2}{*}{\textbf{ÁREA}} & \multicolumn{3}{c}{\textbf{SEXO}} \\ \cline{2-4} 
+ & \multicolumn{1}{c|}{\textbf{Masculino (M)}} & \multicolumn{1}{c|}{\textbf{Feminino (F)}} & \textbf{Total} \\ \hline
+\textbf{Exatas (E)} & \multicolumn{1}{c|}{120} & \multicolumn{1}{c|}{80} & 200 \\ \hline
+\textbf{Humanas (H)} & \multicolumn{1}{c|}{45} & \multicolumn{1}{c|}{80} & 125 \\ \hline
+\textbf{Biológicas (B)} & \multicolumn{1}{c|}{100} & \multicolumn{1}{c|}{75} & 175 \\ \hline
+\textbf{Total} & \multicolumn{1}{c|}{265} & \multicolumn{1}{c|}{235} & 500 \\ \hline
 \end{tabular}
 \end{center}
 
 Um estudante é escolhido ao acaso. Determine a probabilidade de esse
 estudante preferir Humanas.
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{Total de estudantes: 500}
-
-\coment{Preferência por humanas: 125}
-
-\coment{Há 125 chances em 500 de o estudante escolhido ao caso preferir Humanas.}
-\end{mdframed}
+\reduline{Dos 500 estudantes de um colégio, 125 preferem a área de Humanas. Há 125 chances em 500 de o estudante escolhido ao caso preferir Humanas.\hfill}
 
 \pagebreak
 \num{10} Carlos possui duas urnas com bolas que só são diferenciadas pela cor. A
@@ -2297,23 +2286,21 @@ Vermelha & 0 & 4\tabularnewline
 Ele vai colocar todas as bolas dessas duas urnas em uma única urna 3. Em
 seguida retirará uma bola, ao acaso, dessa terceira urna. Qual é o total de possibilidades e quantas chances ele tem de tirar uma bola verde?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{Total de bolas: 20 (possibilidades).}
-
-\coment{Bolas verdes: 4 (chances).}
-
-\vspace{1cm}
-\end{mdframed}
-
+\reduline{A urna 3 terá um total de 20 bolas (possibilidades) e 4 delas serão verdes, que é o total de bolas verdes da urna 1 (1) + o total de bolas verdes da urna 2 (3). Portanto, as chances serão de 4 em 20.}
 
 \section*{Treino}
 
-\num{1} Mateus precisa ir ao dentista na próxima semana, sem ser um dia de final de semana. Escolhendo ao acaso um dia
+\num{1} Mateus precisa ir ao dentista na próxima semana, 
+sem ser um dia de final de semana. Escolhendo ao acaso um dia
 qualquer da semana para ir ao dentista, qual é a probabilidade de Mateus
 escolher uma quinta-feira?
 
+\begin{center}
+\includegraphics[width=\textwidth]{media/image37h.png}
+\end{center}
+
 \begin{escolha}
-\item
+\item 
   1 chance em sete.
 \item
   2 chances em sete.
@@ -2341,17 +2328,24 @@ garçons. Sobre essa situação, pode-se afirmar corretamente que
 
 \num{3} Uma estação de rádio está promovendo um concurso que funciona da seguinte maneira: cada vez que um ouvinte acerta qual é a música mais tocada do dia, ganha um cupom para o sorteio final. Veja, a seguir, quantos cupons alguns ouvintes conseguiram ganhar.
 
-\begin{mdframed}[linewidth=2pt,linecolor=azul!20,backgroundcolor=azul!20,roundcorner=2pt]
-\begin{itemize}
-  \item Rogéria: 12 cupons;
-  \item Paulo: 21 cupons;
-  \item Márcia: 29 cupons;
-  \item Carlos: 18 cupons.
-\end{itemize}
-\end{mdframed}
+\conteudo{
+\begin{multicols}{2}
+
+\textbf{Rogéria: 12 cupons;\\
+ Paulo: 21 cupons;\\
+ Márcia: 29 cupons;\\
+ Carlos: 18 cupons.}
+
+\end{multicols}
+}
+
+\begin{center}
+\includegraphics[width=.6\textwidth]{media/image37i.jpeg}
+\end{center}
 
 Se todos esses cupons forem colocados em uma urna, da qual será sorteado uma única vez um único cupom, qual dessas pessoas tem mais chance de ser sorteada?
 
+\begin{multicols}{2}
 \begin{escolha}
 \item
   Carlos.
@@ -2362,7 +2356,7 @@ Se todos esses cupons forem colocados em uma urna, da qual será sorteado uma ú
 \item
   Rogéria.
 \end{escolha}
-
+\end{multicols}
 
 \chapter{Dados estatísticos}
 \markboth{Módulo 8}{}
@@ -2396,21 +2390,27 @@ Veja, a seguir, alguns tipos de gráfico mais utilizados em estatística.
   Gráfico de colunas ou barras.
 \end{itemize}
 
-\includegraphics[width=.7\textwidth]{media/image38.png}
+\begin{center}
+\includegraphics[width=.8\textwidth]{media/image38.png}
+\end{center}
 
 \begin{itemize}
 \item
   Pictograma.
 \end{itemize}
 
-\includegraphics[width=\textwidth]{media/image39.png}
+\begin{center}
+\includegraphics[width=.7\textwidth]{media/image39.png}
+\end{center}
 
 \begin{itemize}
 \item
   Gráfico de linhas.
 \end{itemize}
 
-\includegraphics[width=\textwidth]{media/image40.png}
+\begin{center}
+\includegraphics[width=.7\textwidth]{media/image40.png}
+\end{center}
 
 \pagebreak
 \begin{itemize}
@@ -2418,63 +2418,100 @@ Veja, a seguir, alguns tipos de gráfico mais utilizados em estatística.
   Gráfico de setores.
 \end{itemize}
 
-\includegraphics[width=\textwidth]{media/image41.png}
+\begin{center}
+\includegraphics[width=.5\textwidth]{media/image41.png}
+\end{center}
 }
 
 \section*{Atividades}
 
-\num{1} A tabela a seguir foi construída por uma escola com a finalidade de agrupar os
-dados sobre a quantidades de alunos em alguns anos e o período em que
-estudam. Observe.
+\num{1} O quadro a seguir foi montado para agrupar os
+dados relativos às quantidades e o período dos alunos de uma escola. Observe.
 
 \begin{longtable}[]{@{}lllll@{}}
 \toprule
-& 6º & 7º & 8º & 9º\tabularnewline
+& \textbf{6º} & \textbf{7º} & \textbf{8º} & \textbf{9º}\tabularnewline
 \midrule
 \endhead
-Período da manhã & 35 & 65 & 72 & 92\tabularnewline
-Período da tarde & 54 & 43 & 48 & 43\tabularnewline
+\textbf{Período da manhã} & 35 & 65 & 72 & 92\tabularnewline
+\textbf{Período da tarde} & 54 & 43 & 48 & 43\tabularnewline
 \bottomrule
 \end{longtable}
 
-\pagebreak
 Quantos alunos o 6º ano do período da tarde tem a menos que o 9º
 ano do período da manhã?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{92 -- 54 = 38. O 6º ano do períoda da tarde tem 38 alunos a
-menos que o 9º do período da manhã.}
-\vspace{2cm}
-\end{mdframed}
+\reduline{92 -- 54 = 38. O 6º ano do período da tarde tem 38 alunos a
+menos que o 9º do período da manhã.\hfill}
 
-\num{2} A OMS (Organização Mundial de Saúde) realizou uma pesquisa sobre o
+\num{2} 
+\conteudo{
+Em 2019, o consumo de água diário por pessoa 
+foi de 185 litros no Rio de Janeiro, 184 no Amapá 
+e de 93 litros na Bahia e 87 em Alagoas, 
+segundo o Instituto Brasileiro de Geografia e Estatística (IBGE).
+
+As Nações Unidas recomendam o mínimo de 110 litros, 
+para consumo e higiene de uma pessoa por dia. 
+
+\fonte{Fontes: 1. \textbf{Atlas águas}: segurança hídrica do abastecimento urbano. 
+Brasília, DF: Agência Nacional de Águas e Saneamento Básico - ANA, 2021. 
+2. AGÊNCIA NACIONAL DE ÁGUAS (Brasil). \textbf{Manual de usos consuntivos da água no Brasil}. 
+Brasília, DF: ANA, 2019. Disponível em: http://www.snirh.gov.br/portal/snirh/centrais-de-conteudos/central-de-publicacoes/ana_manual_de_usos_consuntivos_da_agua_no_brasil.pdf/view. Acesso em: ago. 2021.
+3. \textbf{Estatísticas do século XX}. Rio de Janeiro: IBGE, 2006. Disponível em: https://seculoxx.ibge.gov.br/publicacao. Acesso em: ago. 2021. 4. \textbf{Projeções da população}: Brasil e Unidades da Federação. Rio de Janeiro: IBGE, 2013. (Série relatórios metodológicos, v. 40). Disponível em: https://www.ibge.gov.br/estatisticas/sociais/populacao/9109-projecao-da-populacao.html?edicao=9116\&t=notas-tecnicas. Acesso em: ago. 2021}
+}
+
+Agora, com essas informações, responda os itens a seguir. 
+
+\begin{escolha}
+\item Quais os estados brasileiros apresentam maior consumo de água por dia em 2019?
+\reduline{Rio de Janeiro e Amapá.\hfill}
+
+\item Quais os estados brasileiros apresentam menor consumo de água por dia em 2019?
+\reduline{Bahia e Alagoas.\hfill}
+
+\item Todos os estados atendem à recomendação das Nações Unidas?
+\reduline{Nem todos os estados brasileiros cumprem a recomendação de 
+110 litros de água por indivíduo por dia, como os estados da Bahia e Alagoas.\hfill}
+
+\item Qual a diferença entre a maior e a menor quantidade de água consumida por dia por indivíduo?
+\reduline{185 -- 87 = 98.\hfill}
+\end{escolha}
+
+
+\begin{comment}
+A OMS (Organização Mundial de Saúde) realizou uma pesquisa sobre o
 consumo diário de água e os dados foram apresentados no gráfico a seguir.
 
 \begin{figure}[htpb!]
 \centering
-\includegraphics[width=.9\textwidth]{media/image42.png}
+\includegraphics[width=.7\textwidth]{media/image42.png}
 \end{figure}
 
-\pagebreak
+
 Analisando-se atentamente o gráfico, qual é a diferença entre o
 consumo diário de um europeu e de um brasileiro?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{200 -- 187 = 13 litros.}
-\vspace{2cm}
-\end{mdframed}
+\reduline{200 -- 187 = 13 litros.\hfill}
+\end{comment}
+
 
 \num{3} Após todas as rodadas de um campeonato de futebol, os organizadores
-apresentaram o gráfico a seguir sobre o número de pontos ganhos por cada
-time.
+apresentaram o gráfico do pontos ganhos por equipe.
 
 \begin{figure}[htpb!]
 \centering
-\includegraphics[width=.9\textwidth]{media/image43.png}
+\includegraphics[width=\textwidth]{media/image43.png}
 \end{figure}
 
-Observando atentamente o gráfico, podemos concluir que o time B fez
+Observando o gráfico, 
+quantos pontos aproximadamente conquistou o time B?
 
+\reduline{O time B conquistou aproximadamente 35 pontos.\hfill}
+\linhas{3}
+
+\pagebreak
+\begin{comment}
 \begin{escolha}
 \item
   exatamente 50 pontos.
@@ -2485,54 +2522,57 @@ Observando atentamente o gráfico, podemos concluir que o time B fez
 \item
   mais do que 30 pontos.
 \end{escolha}
+\end{comment}
 
 %O time B fez mais do que 30 pontos durante esse campeonato.
 
-\num{4} Em uma empresa de doces, resolveu-se contratar um matemático que realizasse uma
-pesquisa para verificar o tipo preferido de sobremesa das pessoas que
-frequentavam determinado supermercado. Os entrevistados poderiam dar
+\num{4} Uma empresa de doces contratou um matemático para realizar uma
+pesquisa. Ela verificou o tipo preferido de sobremesa das pessoas que
+frequentavam determinado supermercado. Os entrevistados deram
 apenas uma resposta entre as oferecidas na pesquisa. Após contagem dos
-votos sobre a preferência, o matemático apresentou o gráfico a seguir
-para a empresa que o contratou.
+votos sobre a preferência, o matemático apresentou o quadro a seguir.
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
-Sobremesa & Total de votos\tabularnewline
+\textbf{Sobremesa} & \textbf{Total de votos}\tabularnewline
 \midrule
 \endhead
-Pudim & 35\tabularnewline
-Sorvete & 20\tabularnewline
-Doce de leite & 22\tabularnewline
-Goiabada com queijo & 10\tabularnewline
-Salada de frutas & 13\tabularnewline
+\textbf{Pudim} & 35\tabularnewline
+\textbf{Sorvete} & 20\tabularnewline
+\textbf{Doce de leite} & 22\tabularnewline
+\textbf{Goiabada com queijo} & 10\tabularnewline
+\textbf{Salada de frutas} & 13\tabularnewline
 \bottomrule
 \end{longtable}
 
-Analisando o gráfico apresentado, responda ao que se pergunta a seguir.
+Analisando o quadro, responda ao que se pergunta a seguir.
 
 \begin{escolha}
 \item
   Qual foi a sobremesa menos votada?
-\item\reduline{A sobremesa menos votada foi a goiabada com queijo.\hfill}
+\reduline{A sobremesa menos votada foi goiabada com queijo.\hfill}
+\linhas{1}
 
 \item
   Qual foi a sobremesa mais votada?
-\item\reduline{A sobremesa mais votada foi o pudim.\hfill}
+\reduline{A sobremesa mais votada foi pudim.\hfill}
+\linhas{1}
 
 \item
   Como fica uma sequência crescente dos números apresentados na tabela?
-\item\reduline{(10; 13; 20; 22; 35).\hfill}
+\reduline{10; 13; 20; 22; 35.\hfill}
+\linhas{1}
 
 \item
   Após construir a sequência crescente, qual número ficou na posição
   central? A que sobremesa ele corresponde?
-
-\item \reduline{O número que ocupa a posição central na sequência é o 20, que corresponde ao sorvete.\hfill}
+\reduline{O número que ocupa a posição central na sequência é o 20, que corresponde ao sorvete.\hfill}
+\linhas{1}
 \end{escolha}
 
 \num{5} O professor de Educação Física apresentou os dados da quantidade de gols
 marcados pelos 4 times que dispuraram o campeonato de futebol da escola no ano
-corrente. Analise o gráfico e responda ao que se pergunta a seguir.
+corrente. Analise o gráfico e responda aos itens a seguir.
 
 \begin{figure}[htpb!]
 \centering
@@ -2540,17 +2580,14 @@ corrente. Analise o gráfico e responda ao que se pergunta a seguir.
 \end{figure}
 
 \begin{escolha}
-\item
-  Qual turma fez a maior quantidade de gols? Qual foi a quantidade?
-\item\reduline{A turma que fez a maior quantidade de gols foi a B, com 9 gols.\hfill}
+\item Qual turma fez a maior quantidade de gols? Qual foi a quantidade?
+\reduline{A turma que fez a maior quantidade de gols foi a B, com 9 gols.\hfill}
 
-\item
-  Quais turmas fizeram um número de gols maior que 6?
-\item\reduline{As turmas que fizeram um número de gols maior que 6 foram as turmas B e D.\hfill}
+\item Quais turmas fizeram um número de gols maior que 6?
+\reduline{As turmas que fizeram um número de gols maior que 6 foram as turmas B e D.\hfill}
 
-\item
-  Qual turma fez a menor quantidade de gols?
-\item\reduline{A turma C foi a que fez a menor quantidade de gols, pois marcou apenas 2 vezes.\hfill}
+\item  Qual turma fez a menor quantidade de gols?
+\reduline{A turma que fez a menor quantidade de gols foi a C, que fez 2 gols.\hfill}
 \end{escolha}
 
 \pagebreak
@@ -2558,14 +2595,19 @@ corrente. Analise o gráfico e responda ao que se pergunta a seguir.
 
 \begin{figure}[htpb!]
 \centering
-\includegraphics[width=\textwidth]{media/image45.png}
+\includegraphics[width=.8\textwidth]{media/image45.png}
 \end{figure}
 
-Esse são os dados sobre o nascimento dos pais de quatro alunos da sala
-de João. Analisando os dados, podemos perceber que a pessoa mais jovem,
-entre as apresentadas na tabela, é
+Esses são os dados sobre o nascimento dos pais de quatro alunos da sala
+de João. Analisando os dados, qual é a pessoa mais jovem
+entre as apresentadas na tabela? 
 
-\begin{escolha}
+\reduline{Como todos nasceram em abril do mesmo ano, a pessoa mais jovem será aquele 
+que nasceu na data mais recente, cujo número é maior. Assim sendo, o mais jovem é Samuel.}
+
+\begin{comment}
+
+\ \begin{escolha}
 \item
   Márcia.
 \item
@@ -2577,38 +2619,36 @@ entre as apresentadas na tabela, é
 \end{escolha}
 
 %Como todos nasceram em abril do mesmo ano, a pessoa mais jovem será aquele que nasceu no maior valor que representa o dia. Sendo assim, o mais jovem é Samuel.
+\end{comment}
 
-\pagebreak
 \num{7} O governo realizou uma pesquisa sobre o número de queimadas que
-ocorreram na Amazônia de 2007 a 2020. Analise o gráfico. Depois, faça o que se pede a seguir.
+ocorreu na Amazônia de 2007 a 2020. Analise o gráfico. Depois, faça o que se pede a seguir.
 
 
 \begin{figure}[htpb!]
 \centering
-\includegraphics[width=\textwidth]{media/image46.png}
+\includegraphics[width=.7\textwidth]{media/image46.png}
 \end{figure}
+
+\fonte{Inpe.}
 
 \begin{escolha}
 \item
   Pesquise o significado da sigla INPE, que aparece como fonte dos dados,
   e anote seu significado.
-
-\item \reduline{INPE: Instituro Nacional de Pesquisas Espaciais.\hfill}
+\reduline{INPE: Instituro Nacional de Pesquisas Espaciais.\hfill}
 
 \item
   Escreva por extenso o ano em que mais ocorreram queimadas na Amazônia.
-\item\item \reduline{Dois mil e sete foi o ano que apresentou a maior quantidade de queimadas na Amazônia.\hfill}
+\reduline{O ano que apresentou a maior quantidade de queimadas na Amazônia foi 2007.\hfill}
 
 \item
   Determine os anos em que apareceu um número inferior a 1.500 queimadas na
   Amazônia.
-
-\item \reduline{2008; 2009; 2011; 2013; 2015.\hfill}
+\reduline{2008; 2009; 2011; 2013; 2015.\hfill}
 \end{escolha}
 
-
-\pagebreak
-\num{8} Os dados fornecidos na tabela a seguir começaram ser passados para um
+\num{8} Os dados fornecidos na tabela a seguir começaram a ser passados para um
 gráfico pictórico.
 
 \begin{figure}[htpb!]
@@ -2619,17 +2659,13 @@ gráfico pictórico.
 Utilizando os dados da tabela e a legenda que o gráfico fornece,
 complete o gráfico desenhando as bolas de sorvete que faltam.
 
-%Resposta:
-%$\frac{04}{02}$: 5 bolas de sorvete.
-%$\frac{05}{02}$: 7 bolas de sorvete.
-%$\frac{06}{02}$: 6 bolas de sorvete.
-%$\frac{07}{02}$: 8 bolas de sorvete.
+\coment{Resposta: $\frac{04}{02}$: 5 bolas de sorvete. $\frac{05}{02}$: 7 bolas de sorvete. $\frac{06}{02}$: 6 bolas de sorvete. $\frac{07}{02}$: 8 bolas de sorvete.}
 
 \pagebreak
 \num{9} Utilizando conceitos modernos de educação, a professora de Leonardo
 pediu que os alunos da turma realizassem uma pesquisa com 50 pessoas acerca da
-preferência deles sobre determinados esportes. Sendo que cada pessoa
-escolheu uma única opção, os dados da pesquisa foram colocados na tabela
+preferência deles sobre determinados esportes. Cada pessoa poderia escolher
+apenas uma única opção. Os dados da pesquisa foram colocados na tabela
 a seguir.
 
 \begin{figure}[htpb!]
@@ -2637,16 +2673,17 @@ a seguir.
 \includegraphics[width=\textwidth]{media/image48.png}
 \end{figure}
 
-Em seguida a professora pediu que os alunos contruíssem um gráfico de
+Em seguida, a professora pediu que os alunos contruíssem um gráfico de
 colunas para representar os números da tabela. Construa o gráfico pedido
 e ajude Leonardo a concluir a tarefa.
 
 \begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\vspace{10cm}
+\vspace{14cm}
 \end{mdframed}
 
 \num{10} Vanessa tem o hábito de realizar corridas diárias e construiu o seguinte
-gráfico de barras com relação à distância percorrida em alguns dias. Observe atentamente o gráfico e responda ao que se pergunta a seguir.
+gráfico de barras com relação à distância percorrida em alguns dias. 
+Observe atentamente o gráfico e responda ao que se pergunta a seguir.
 
 \begin{figure}[htpb!]
 \centering
@@ -2656,22 +2693,22 @@ gráfico de barras com relação à distância percorrida em alguns dias. Observ
 \begin{escolha}
 \item
   Em quais dias da semana ela percorreu a mesma distância?
-\item\reduline{Na segunda-feira e na quinta-feira, ela percorreu a mesma distância: 14 km.\hfill}
+\reduline{Na segunda-feira e na quinta-feira, ela percorreu a mesma distância: 14 km.\hfill}
 
 \item
   Quantos quilômetros ela percorreu na sexta-feira?
-\item\reduline{Na sexta-feira, ela percorreu 16 km.\hfill}
+\reduline{Na sexta-feira, ela percorreu 16 km.\hfill}
 
 \item
   Em que dia ela percorreu exatamente 10 quilômetros?
-\item\reduline{Na quarta-feira, ela percorreu 10 km.\hfill}
+\reduline{Na quarta-feira, ela percorreu 10 km.\hfill}
 
 \item
   Quantos quilômetros, no total, ela percorreu nesses dias apresentados no gráfico?
-\item\reduline{16 + (2 x 14) + 10 + 12 = 16 + 28 + 10 +12 = 66 km.\hfill}
+\reduline{16 + (2 x 14) + 10 + 12 = 16 + 28 + 10 +12 = 66 km.\hfill}
 \end{escolha}
 
-
+\pagebreak
 \section*{Treino}
 
 \num{1} Pelas regras de um processo seletivo, o candidato que será aprovado será
@@ -2681,14 +2718,14 @@ tabela a seguir.
 
 \begin{longtable}[]{@{}lllll@{}}
 \toprule
-Candidato & Português & Matemática & Direito &
-Informática\tabularnewline
+\textbf{Candidato} & \textbf{Português} & \textbf{Matemática} & \textbf{Direito} &
+\textbf{Informática}\tabularnewline
 \midrule
 \endhead
-A & 33 & 33 & 33 & 34\tabularnewline
-B & 32 & 39 & 32 & 40\tabularnewline
-C & 24 & 37 & 40 & 42\tabularnewline
-D & 36 & 16 & 26 & 40\tabularnewline
+\textbf{A} & 33 & 33 & 33 & 34\tabularnewline
+\textbf{B} & 32 & 39 & 32 & 40\tabularnewline
+\textbf{C} & 24 & 37 & 40 & 42\tabularnewline
+\textbf{D} & 36 & 16 & 26 & 40\tabularnewline
 \bottomrule
 \end{longtable}
 
@@ -2708,9 +2745,8 @@ Segundo as regras do concurso, o que será aprovado é o candidato
 \end{multicols}
 
 
-
-\num{2} Uma escola fez um levantamente sobre a quantidade de alunos em dois anos
-do Ensino Fundamental. Os dados foram apresentados no gráfico a seguir.
+\num{2} Uma escola fez um levantamento sobre a quantidade de alunos em dois anos
+do Ensino Fundamental 1. Os dados foram apresentados no gráfico a seguir.
 
 \begin{figure}[htpb!]
 \centering
@@ -2719,21 +2755,21 @@ do Ensino Fundamental. Os dados foram apresentados no gráfico a seguir.
 
 Quantos alunos o 4º ano tem no total?
 
+\begin{multicols}{2}
 \begin{escolha}
 \item
-  60.
-\item
   86.
+\item
+  60.
 \item
   91.
 \item
   150.
 \end{escolha}
-
-
+\end{multicols}
 
 \num{3} Uma loja de brinquedos efetuou uma pesquisa em determinado dia para
-saber a faixa etária das crianças que visitaram a loja e os dados foram
+saber a faixa etária das crianças que visitaram a loja. Os dados foram
 colocados no gráfico a seguir.
 
 \begin{figure}[htpb!]
@@ -2744,6 +2780,7 @@ colocados no gráfico a seguir.
 Pode-se afirmar que o total de crianças
 de 7 a 12 anos que visitaram a loja é de
 
+%\begin{multicols}{2}
 \begin{escolha}
 \item
   7.
@@ -2754,6 +2791,7 @@ de 7 a 12 anos que visitaram a loja é de
 \item
   21.
 \end{escolha}
+%\end{multicols}
 
 
 \chapter{Partes do todo}
@@ -2782,15 +2820,21 @@ três quartos e um inteiro.
 \end{itemize}
 
 \conteudo{
+\textbf{Frações}
+
 As frações representam partes de um inteiro. Elas são formadas por dois números separados por uma barra. O número de cima é chamado de \textbf{numerador} e representa a quantidade de partes que temos, enquanto o número de baixo é chamado de \textbf{denominador} e representa a quantidade total de partes que o inteiro possui.
 
-Por exemplo, se dividirmos uma pizza em oito partes iguais e pegarmos três dessas partes, podemos representar essa situação como a fração $\frac{3}{8}$. O numerador é 3, pois temos três partes da pizza, e o denominador é 8, pois a pizza foi dividida em oito partes iguais.
+Por exemplo, se dividirmos uma pizza em oito partes iguais e pegarmos três dessas partes, podemos representar essa situação com a fração $\frac{3}{8}$. O numerador é 3, pois temos três partes da pizza, e o denominador é 8, pois a pizza foi dividida em oito partes iguais.
 
-As frações podem ser comparadas entre si usando-se símbolos de ``igal a'', ``maior que'' ou ``menor que''. Por exemplo, $\frac{1}{2}$ é menor que $\frac{3}{4}$, pois metade de um inteiro é menor que três quartos do mesmo inteiro.
+As frações podem ser comparadas entre si, usando-se símbolos de ``igual a'', ``maior que'' ou ``menor que''. Por exemplo, $\frac{1}{2}$ é menor que $\frac{3}{4}$, pois metade de um inteiro é menor que três quartos do mesmo inteiro.
 
 As frações também podem ser somadas ou subtraídas, desde que tenham o mesmo denominador. Para fazer isso, basta somar ou subtrair os numeradores e manter o denominador igual. Por exemplo, $\frac{1}{4}$ + $\frac{1}{4}$ = $\frac{2}{4}$.
 
 As frações podem, ainda, ser simplificadas, ou seja, podemos dividir o numerador e o denominador por um mesmo número para obtermos uma fração equivalente. Por exemplo, $\frac{2}{4}$ pode ser simplificado dividindo-se o numerador e o denominador por 2, o que resulta em $\frac{1}{2}$.
+
+\begin{center}
+\includegraphics[width=\textwidth]{media/image51a.png}
+\end{center}
 }
 
 \section*{Atividades}
@@ -2807,13 +2851,13 @@ Calcule a terça parte de 43.863: \reduline{14.621.\hfill}
 \item
 Calcule a quinta parte de 12.195: \reduline{2.439.\hfill}
 
-\item
-Calcule a nona parte de 12.312: \reduline{1.368.\hfill}
+%\item
+%Calcule a nona parte de 12.312: \reduline{1.368.\hfill}
 
 \end{escolha}
 
-\num{2} Uma escola, em período de Copa do Mundo, resolveu fornecer aos alunos um
-álbum coletivo de figurinhas. Eles deveriam contribuir com o
+\num{2} Uma escola, em período de Copa do Mundo forneceu aos alunos um
+álbum coletivo de figurinhas. Os alunos deveriam contribuir com o
 preenchimento do álbum fornecendo as figurinhas. Sabe-se que Cássia
 contribuiu com $\frac{1}{7}$ da quantidade total de figurinhas, enquanto Marcos
 doou $\frac{2}{5}$ do total.
@@ -2821,31 +2865,23 @@ doou $\frac{2}{5}$ do total.
 \begin{escolha}
 \item
   Qual é a fração do total de figurinhas do álbum que os dois juntos doaram?
-\item\reduline{$\frac{1}{7}$ + $\frac{2}{5}$ = $\frac{12}{35}$ do total de figurinhas foram doadas por Cássia e Marcos.\hfill}
+\reduline{$\frac{1}{7}$ + $\frac{2}{5}$ = $\frac{12}{35}$ do total de figurinhas foram doadas por Cássia e Marcos.\hfill}
 \bigskip
 
 \item
   Qual é a fração do total de figurinhas do álbum que ainda falta para que os alunos o completem?
-\item\reduline{1 -- $\frac{12}{35}$ = $\frac{23}{35}$.\hfill}
+\reduline{1 -- $\frac{12}{35}$ = $\frac{23}{35}$.\hfill}
 \bigskip
 \end{escolha}
 
 
-\num{3} Durante uma campanha de recapeamento dos ruas de uma cidade, a rua em
-que André mora começou a ser concertada. Até hoje $\frac{2}{9}$ dessa rua já foi mexido.
-Qual é a fração da extensão total da rua que ainda falta para ser
+\num{3} Durante uma campanha de recapeamento das ruas de uma cidade, a rua em
+que André mora começou a ser consertada. Foi alterado um trecho que corresponde a $\frac{2}{9}$ dessa rua, qual é a fração da extensão total da rua que ainda deve ser
 recapeada? Já foi recapeado mais de $\frac{1}{3}$ da rua? Justifique sua resposta.
 
-Deixar espaço em branco equivalente a 3 linhas para a resolução
+\reduline{1 -- $\frac{2}{9}$ = $\frac{9}{9}$ -- $\frac{2}{9}$ = $\frac{7}{9}$ (parcela do que ainda precisa ser recepeado). Não foi recapeado mais de um terço, já que $\frac{1}{3}$ é equivalente a $\frac{3}{9}$, que é menor que $\frac{2}{9}$, parcela do que já foi recapeado.}
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{1 -- $\frac{2}{9}$ = $\frac{9}{9}$ -- $\frac{2}{9}$ = $\frac{7}{9}$ (parcela do que ainda precisa ser recepeado).}
-
-\coment{Não foi recapeado mais de um terço, já que $\frac{1}{3}$ é equivalente a $\frac{3}{9}$, que é menor que $\frac{2}{9}$, parcela do que já foi recapeado.}
-\vspace{2cm}
-\end{mdframed}
-
-\num{4} Em quais das figuras a seguir, a parte destacada representa $\frac{1}{2}$ do todo?
+\num{4} Em quais das figuras, a seguir, a parte destacada representa $\frac{1}{2}$ do todo?
 
 \begin{figure}[htpb!]
 \centering
@@ -2853,7 +2889,7 @@ Deixar espaço em branco equivalente a 3 linhas para a resolução
 \end{figure}
 
 \reduline{São as figuras 1, 3, 5 e 6\hfill}
-\linhas{2}
+\linhas{4}
 
 \num{5} Em cada item a seguir, temos duas figuras. Analise com calma e escreva no espaço
 entre elas se a primeira figura tem área pintada maior ou menor do que a
@@ -2864,7 +2900,8 @@ região destacada na segunda figura.
 \includegraphics[width=\textwidth]{media/image53.png}
 \end{figure}
 
-\coment{Na primeira figura, temos $\frac{4}{9}$ pintado; na segunda, $\frac{3}{9}$. A área pintada da primeira é maior do que a área pintada da segunda. Na primeira figura, temos $\frac{5}{12}$ pintado; na segunda, $\frac{9}{12}$. A área pintada da primeira é menor do que a área pintada da segunda. Na primeira figura, temos $\frac{4}{15}$ pintado; na segunda, $\frac{7}{15}$. A área pintada da primeira é menor do que a área pintada da segunda.}
+\reduline{A) Na primeira figura, estão pintados $\frac{4}{9}$; na segunda, $\frac{3}{9}$. A área pintada da primeira é maior do que a área pintada da segunda. B) Na primeira figura, temos $\frac{5}{12}$ pintado; na segunda, $\frac{9}{12}$. A área pintada da primeira é menor do que a área pintada da segunda. C) Na primeira figura, temos $\frac{4}{15}$ pintado; na segunda, $\frac{7}{15}$. A área pintada da primeira é menor do que a área pintada da segunda.\hfill}
+
 
 \pagebreak
 \num{6} Pinte a quantidade de itens solicidada e escreva qual é a fração do total que você pintou.
@@ -2880,17 +2917,20 @@ região destacada na segunda figura.
 
 \includegraphics[width=\textwidth]{media/image55.png}
 
-\coment{Como temos 48 borrachas e queremos pintas $\frac{1}{3}$ delas, deveremos pintar 16 borrachas.}
+\coment{Como temos 48 borrachas e queremos pintar $\frac{1}{3}$ delas, deveremos pintar 16 borrachas.}
 
+\pagebreak
 \item A quinta parte das canetas.
 
 \includegraphics[width=\textwidth]{media/image56.png}
 
-\coment{Como temos 35 canetas e queremos pintas $\frac{1}{5}$ delas, deveremos pintar 7 canetas.}
+\coment{Como temos 35 canetas e queremos pintar $\frac{1}{5}$ delas, deveremos pintar 7 canetas.}
 
 \item  Um décimo das bolas.
 
-\includegraphics[width=.65\textwidth]{media/image57.png}
+\begin{center}
+\includegraphics[width=.8\textwidth]{media/image57.png}
+\end{center}
 
 \coment{Como temos 30 bolas e queremos pintar $\frac{1}{10}$ delas, deveremos pintar 3 bolas.}
 \end{escolha}
@@ -2946,24 +2986,25 @@ representa os ovos de cada cor com relação ao total contido na caixa.
 que eram de carros. Se a coleção dele tem, ao todo, 35 cartas, quantas são
 as cartas de carros?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{$\frac{3}{5}$ de 35 = 3 x 7 = 21.}
-\vspace{2cm}
-\end{mdframed}
+\reduline{$\frac{3}{5}$ de 35 = 3 x 7 = 21.\hfill}
+\linhas{4}
 
 \num{10} Um centro comunitário resolveu realizar uma campanha do agasalho. Dos
 100 agasalhos arrecadados, $\frac{12}{50}$ foram doados para uma instituição que
 cuida de idosos. O restante foi doado a uma instituição que acolhe
 crianças carentes. Agora, responda ao que se pergunta a seguir.
 
+\vspace{2em}
+\includegraphics[width=\textwidth]{media/image65a.jpeg}
+
 \begin{escolha}
 \item
   Qual é a quantidade doada aos idosos?
-\item\reduline{$\frac{12}{50}$ x 100 = 24 agasalhos para idosos.\hfill}
+\reduline{$\frac{12}{50}$ x 100 = 24 agasalhos para idosos.\hfill}
 
 \item
   Qual é a quantidade doada às crianças?
-\item\reduline{100 -- 24 = 76 agasalhos para crianças.\hfill}
+\reduline{100 -- 24 = 76 agasalhos para crianças.\hfill}
 \end{escolha}
 
 
@@ -2973,13 +3014,15 @@ são meninas. Agora, responda ao que se pergunta a seguir.
 \begin{escolha}
 \item
   Qual é o número total de meninas na sala em que Ana Luísa estuda?
-\item\reduline{$\frac{2}{3}$ x 36 = 24 meninas.\hfill}
+\reduline{$\frac{2}{3}$ x 36 = 24 meninas.\hfill}
 
 \item
-  Qual é o número de meninos que Ana luísa tem em sua sala de aula?
-\item\reduline{36 -- 24 = 12 meninas.\hfill}
+  Qual é o número de meninos na sala em que Ana Luísa estuda?
+\reduline{36 -- 24 = 12 meninos.\hfill}
 \end{escolha}
 
+
+\pagebreak
 \section*{Treino}
 
 \num{1} Lúcia faz bombons e os vende em caixas com três bombons de chocolate ao leite e três bombons de chocolate branco. Qual das frações a seguir representa a relação entre a quantidade de
@@ -3001,7 +3044,6 @@ bombons de chocolate branco e a quantidade de bombons de chocolate ao leite?
 \end{escolha}
 \end{multicols}
 
-\pagebreak
 \num{2} Assinale a alternativa que traz corretamente a divisão das partes e a
 fração correspondente escrita.
 
@@ -3021,6 +3063,7 @@ pode levar $\frac{1}{4}$ de seus alunos. Como a sala a que ela proporcionará a
 visita ao museu tem 48 alunos, qual é o número de alunos que poderão ir a
 cada sessão, respeitando-se o limite imposto?
 
+\begin{multicols}{2}
 \begin{escolha}
 \item
   8.
@@ -3034,6 +3077,7 @@ cada sessão, respeitando-se o limite imposto?
 \item
   28.
 \end{escolha}
+\end{multicols}
 
 \chapter{Proporção}
 \markboth{Módulo 10}{}
@@ -3058,13 +3102,13 @@ partes proporcionais.
 Veja algumas razões especiais.
 
 \begin{itemize}
-  \item \textbf{Escala} é uma razão entre um comprimento considerado no desenho e o comprimento real, medidos na mesma unidade. Por exemplo: em um mapa, um centímetro no desenho pode corresponder a uma distância real de 100.000 centímetros (ou 1 quilômetro).
+  \item \textbf{Escala} é uma razão entre um comprimento considerado no desenho e o comprimento real, medidos na mesma unidade. Por exemplo, em um mapa, um centímetro no desenho pode corresponder a uma distância real de 100.000 centímetros (ou 1 quilômetro).
 
-  \item \textbf{Velocidade média} é a razão entre a distância percorrida e o tempo gasto para percorrer essa distância. Por exemplo: se um carro se deslocou por 3 horas em uma distância de 270 quilômetros, sua velocidade média é de $\frac{270}{3}$ = 90 quilômetros por hora.
+  \item \textbf{Velocidade média} é a razão entre a distância percorrida e o tempo gasto para percorrer essa distância. Por exemplo, se um carro se deslocou por 3 horas em uma distância de 270 quilômetros, sua velocidade média é de $\frac{270}{3}$ = 90 quilômetros por hora.
 
-  \item \textbf{Densidade demográfica} é a razão entre o número de habitantes de uma região e a área dessa região. Por exemplo: a capital do Acre, Rio Branco, tem uma área de 8.835,154 quilômetros quadrados, e nessa região viviam, em 2010, 336.038 pessoas; portanto a densidade demográfica de Rio Branco em 2010 era de 38,08 habitantes por quilômetro quadrado.
+  \item \textbf{Densidade demográfica} é a razão entre o número de habitantes de uma região e a área dessa região. Por exemplo, a capital do Acre, Rio Branco, tem área de 8.835,154 quilômetros quadrados, e nessa área viviam, em 2010, 336.038 pessoas. Portanto, a densidade demográfica de Rio Branco em 2010 era de 38,08 habitantes por quilômetro quadrado.
 
-  \item \textbf{Densidade} é a razão entre certa quantidade de massa e o volume que essa quantidade de massa ocupa. Por exemplo: a densidade da água é 1, porque cada grama de água ocupa o volume de 1 centímetro cúbico (que equivale a 0,001 litro).
+  \item \textbf{Densidade} é a razão entre certa quantidade de massa e o volume que essa quantidade de massa ocupa. Por exemplo, a densidade da água é 1, porque cada grama de água ocupa o volume de 1 centímetro cúbico (que equivale a 0,001 litro).
 \end{itemize}
 
 Por outro lado, duas grandezas são \textbf{diretamente proporcionais} quando ambas aumentam ou ambas diminuem na mesma proporção. Se eu preciso de 300 g de carne para uma pessoa para um churrasco, eu preciso de 3 quilogramas de carne para 10 pessoas. Já duas grandezas \textbf{inversamente proporcionais} são aquelas que têm uma relação em que uma aumenta enquanto a outra diminui. Se três pessoas realizam um trabalho em seis dias, seis pessoas realizam esse mesmo trabalho em três dias.
@@ -3074,11 +3118,13 @@ Por outro lado, duas grandezas são \textbf{diretamente proporcionais} quando am
 
 \num{1} Para a festa de aniversário de Camila, sua avó preparou um bolo de um
 tamanho adequado para receber 25 convidados, mas, olhando novamente a
-lista de convidados, percebeu que iria receber mais do que 25 pessoas. Logo um bolo maior seria necessário.
+lista de convidados, percebeu que iria receber mais do que 25 pessoas. 
+Logo, seria necessário um bolo maior.
 O que a avó de Camila deverá fazer para que tenha um bolo que sirva
 adequadamente o número de pessoas que irão à festa de aniversário de sua
 neta?
 
+\begin{comment}
 \begin{escolha}
 \item
   Apenas comprar mais pratos descartáveis.
@@ -3090,10 +3136,10 @@ neta?
   Ampliar a quantidade de todos os ingredientes na mesma proporção
   inicial.
 \end{escolha}
+\end{comment}
 
-\coment{Deve-se ampliar a quantidade de todos os ingredientes seguindo a mesma proporção inicial.}
+\reduline{Deve-se ampliar a quantidade de todos os ingredientes seguindo a mesma proporção inicial.}
 
-\pagebreak
 \num{2} Os objetos representados nas imagens reproduzidas a seguir podem ser utilizadas para medir.
 
 \begin{figure}[htpb!]
@@ -3103,6 +3149,7 @@ neta?
 
 O que esses objetos medem?
 
+\begin{comment}
 \begin{minipage}{.5\textwidth}
 \begin{escolha}
 \item
@@ -3115,30 +3162,27 @@ O que esses objetos medem?
   Tempos.
 \end{escolha}
 \end{minipage}
-\sidetext{Os objetos mostrados servem para medir diversos tipos de grandeza (temperatura, comprimento e massa, respectivamente).}
+\end{comment}
+\reduline{Os objetos mostrados servem para medir diversos tipos de grandeza (temperatura, comprimento e massa, respectivamente).\hfill}
 
 \num{3} Senhor Geraldo contratou uma empresa para realizar a pintura dos 8
 metros quadrados de muro de sua casa. Para realizar esse serviço, um pintor
 trabalhou 5 dias. Quantos dias ele teria de trabalhar se o muro tivesse
 48 metros quadrados?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{O muro da segunda situação tem uma área seis vezes maior; então o pintor vai precisar de seis vezes mais tempo: 6 x 5 = 30 dias.}
-\vspace{2cm}
-\end{mdframed}
+\reduline{O muro da segunda situação tem uma área seis vezes maior; então o pintor vai precisar de seis vezes mais tempo: 6 x 5 = 30 dias.\hfill}
 
 \num{4} Durante uma viagem de 50 km, o automóvel de Róger consumiu 5 L de
 gasolina. No dia seguinte, ele realizará uma viagem mais longa, de 120 km.
 Quantos litros de gasolina serão necessários para que ele faça a viagem,
 considerando-se que o consumo não foi alterado?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{50 km/5 L = 10 km/L é o consumo médio do carro.}
+\begin{figure}[htpb!]
+\centering
+\includegraphics[width=\textwidth]{media/image70a.png}
+\end{figure}
 
-\coment{Como Róger percorrerá 120 km, o gasto de combústivel será de $\frac{120}{10}$ = 12 litros de gasolina.}
-\end{mdframed}
-
-
+\reduline{50 km/5 L = 10 km/L é o consumo médio do carro. Como Róger percorrerá 120 km, o gasto de combústivel será de $\frac{120}{10}$ = 12 litros de gasolina.\hfill}
 
 \num{5} O depósito de água potável da cozinha de Gabriela tem capacidade para
 armazenar 20 litros. Sabendo-se que a caixa de água da casa de Gabriela
@@ -3146,19 +3190,15 @@ tem capacidade para 500 litros, quantas vezes o depósito de água da
 cozinha pode ser enchido com a água que cabe em uma caixa de água
 completamente cheia?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{O número de vezes que conseguirá encher o reservatória da cozinha será
-igual a $\frac{500}{20}$ = 25 vezes.}
-\vspace{2cm}
-\end{mdframed}
-
+\reduline{O número de vezes que conseguirá encher o reservatória da cozinha será
+igual a $\frac{500}{20}$ = 25 vezes.\hfill}
 
 \num{6} Durante a viagem de férias familiar de Gabriel, o carro de seu pai
-demorou 2 horas para percorrer 120 km. Se a próxima viagem demora 6
-horas, considerando-se que a velocidade do carro é a mesma que na primeira
-viagem, pode-se estimar que a distância que vão percorrer nessa próxima
-viagem será de
+levou 2 horas para percorrer 120 km. Se na próxima viagem a duração for 6
+horas, considerando-se que a velocidade do carro é a mesma. Qual será a distância 
+percorrida? 
 
+\begin{comment}
 \begin{minipage}{.5\textwidth}
 \begin{escolha}
 \item
@@ -3171,94 +3211,83 @@ viagem será de
   360 km.
 \end{escolha}
 \end{minipage}
-\sidetext{Em 6 horas, cabem 3 vezes 2 horas; portanto podemos concluir que a
-distância será a de 2 horas multiplicada por 3, já que a velocidade não
-mudou: 3 x 120 = 360 km.}
+\end{comment}
 
-\num{7} Para se iniciar as atividades de uma empresa, foram investidos
-inicialmente R\$ 200.000,00 ao todo por dois sócios. O primeiro
-sócio investiu R\$ 120.000,00 e o segundo, R\$ 80.000,00. Ao final do ano,
+\reduline{Em 6 horas, cabem 3 vezes 2 horas; portanto podemos concluir que a
+distância será a de 2 horas multiplicada por 3, já que a velocidade não
+mudou: 3 x 120 = 360 km.\hfill}
+
+\num{7} Para iniciar as atividades de uma empresa, dois sócios investiram
+inicialmente R\$ 200.000,00 ao todo. O primeiro
+sócio investiu R\$ 120.000,00, e o segundo, R\$ 80.000,00. Ao final do ano,
 após deixarem reservado dinheiro para investimentos e para necessidades
-futuras, perceberam que poderiam fazer uma retirada total de R\$ 800.000,00. Decidiram que a retirada seria diretamente proporcional ao que
+futuras, perceberam que poderiam fazer uma retirada total 
+de R\$ 800.000,00. Decidiram que a retirada seria diretamente proporcional ao que
 cada uma investiu no início das atividades da empresa. Sendo assim,
 calcule quanto cada sócio receberá desses R\$ 800.000,00.
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{Primeiramente, deve-se encontar a fração do investimento inicial que coube a cada sócio.}
+\reduline{Primeiramente, deve-se encontar a fração do investimento 
+inicial que coube a cada sócio. Um sócio investiu $\frac{120.000}{200.000}$ 
+= $\frac{3}{5}$. O outro sócio contribuiu com $\frac{2}{5}$ do total investido. 
+Em seguida, dividimos os 800.000 proporcionalmente para cada fração encontrada.
+$\frac{3}{5}$ x 800.000 = R\$ 480.000,00 para o sócio que investiu R\$ 120.000,00. 
+$\frac{2}{5}$ x 800.000 = R\$ 320.000,00 para o sócio que investiu R\$ 80.000,00.\hfill}
 
-\coment{Um sócio investiu $\frac{120.000}{200.000}$ = $\frac{3}{5}$.}
-
-\coment{O outro sócio contribuiu com $\frac{2}{5}$ do total investido.}
-
-\coment{Em seguida, dividimos os 800.000 proporcionalmente por cada fração encontrada.}
-
-\coment{$\frac{3}{5}$ x 800.000 = R\$ 480.000,00 para o sócio que investiu R\$ 120.000,00.}
-
-\coment{$\frac{2}{5}$ x 800.000 = R\$ 320.000,00 para o sócio que investiu R\$ 80.000,00.}
-\vspace{2cm}
-\end{mdframed}
-
-\num{8} Veja a tabela com a produção de pães da padaria de Manoel em relação à quantidade de fornos em operação.
+\num{8} Veja a tabela com a produção de pães da padaria de Luís 
+em relação à quantidade de fornos em operação.
 
 \begin{figure}[htpb!]
 \centering
 \includegraphics[width=\textwidth]{media/image71.png}
 \end{figure}
 
-\pagebreak
 Agora, responda ao que se pergunta a seguir.
 
 \begin{escolha}
 \item
-  Com 32 fornos em uso, qual é o máximo de pães que ele conseguirá
+  Com 32 fornos em uso, qual é o máximo de pães que Luís conseguirá
   produzir seguindo os dados da tabela?
-
-\item \reduline{Se com 16 fornos a produção é de 800 pães, com 32 fornos serão produzidos 1.600 pães.\hfill}
+   \reduline{Se com 16 fornos a produção é de 800 pães, com 32 fornos serão produzidos 1.600 pães.\hfill}
+\linhas{1}
 
 \item
   Se a padaria está operando hoje com 6 fornos, qual é a produção máxima
   de pães nesse determinado dia?
-
-\item \reduline{Se com 4 fornos a produção é de 200 pães, com 6 fornos serão produzidos 300 pães.\hfill}
+ \reduline{Se com 4 fornos a produção é de 200 pães, com 6 fornos serão produzidos 300 pães.\hfill}
+\linhas{1}
 \end{escolha}
 
-\num{9} Márcio pratica todo dia antes de ir ao trabalho uma corrida de 30
-minutos e consegue percorrer 4,5 km. Se, aos finais de semana, ele aumenta o
-tempo de corrida para 2 horas, quantos metros ele percorrerá se sua
-velocidade for a mesma em toda corrida que realiza?
+\pagebreak
+\num{9} Márcio pratica todo dia uma corrida de 30 minutos 
+antes de ir ao trabalho e consegue percorrer 4,5 km. 
+Se, aos finais de semana, ele aumentar o tempo de corrida 
+para 2 horas, quantos metros ele percorrerá se sua
+velocidade for a mesma em toda corrida?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{O tempo que irá correr, com a mesma velocidade, será quadruplicado; sendo assim, a distância quadruplica também: 4 x 4,5 = 18 km.}
+\begin{figure}[htpb!]
+\centering
+\includegraphics[width=.5\textwidth]{media/image70b.jpeg}
+\end{figure}
 
-\vspace{3cm}
-\end{mdframed}
+\reduline{O tempo que irá correr, com a mesma velocidade, será quadruplicado; 
+sendo assim, a distância quadruplica: 4 x 4,5 = 18 km.\hfill}
 
 \num{10} A mãe de Carlos faz refresco seguindo a receita reproduzida a seguir.
 
-\begin{quote}
+\conteudo{
+%\begin{quote}
 \textbf{Refresco com suco concentrado}
 
 Para preparar 2 litros de refresco, junte 5 copos de água e 2 copos de suco concentrado.
-\end{quote}
+%\end{quote}
+}
 
-\pagebreak
 Se uma pessoa pretende seguir essa receita, mas necessita fazer 12
 litros de refresco, quanto ela precisará de cada componente da receita?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{Quantidade de água para o total de refresco: 5 copos/2 litros.}
+\reduline{Quantidade de água para o total de refresco: 5 copos para cada 2 litros. Multiplicam-se o numerador e o denominador por 6 (para conseguir 12 litros no denominador): $\frac{30}{12}$. Portanto, deverão ser utilizados 30 copos de água. Quantidade total de suco concentrado para o total de refresco: 2 copos/2 litros. Multiplicam-se o numerador e o denominador por 6 (para conseguir 12 litros no denominador): $\frac{12}{12}$. Portanto deverão ser utilizados 12 copos de suco concentrado.\hfill}
 
-\coment{Multiplicam-se o numerador e o denominador por 6 (para conseguir 12 litros no denominador): $\frac{30}{12}$.}
-
-\coment{Portanto deverão ser utilizados 30 copos de água.}
-
-\coment{Quantidade total de suco concentrado para o total de refresco: 2 copos/2 litros.}
-
-\coment{Multiplicam-se o numerador e o denominador por 6 (para conseguir 12 litros no denominador): $\frac{12}{12}$.}
-
-\coment{Portanto deverão ser utilizados 12 copos de suco concentrado.}
-\end{mdframed}
-
+\pagebreak
 \section*{Treino}
 
 \num{1}
@@ -3289,8 +3318,7 @@ pizzas (na mesma faixa de preço), o valor médio a ser pago seria de
 \num{2} José passou em frente a uma cafeteria que tinha um cartaz com parte da
 receita do cafezinho que a cafeteria servia: ``8 cafezinhos -- 3 colheres de pó de café''.
 José anotou a receita e levou consigo para seu trabalho. Chegando lá,
-entregou a receita para Maria, responsável por fazer o café servido no
-escritório. Se ela precisa fazer 48 cafezinhos, qual é a
+decidiu fazer o café. Se ele precisa fazer 48 cafezinhos, qual é a
 quantidade de pó de que ela vai precisar se estiver seguindo exatamente a
 receita que José lhe entregou?
 
@@ -3346,9 +3374,10 @@ segunda etapa \textbf{m} possibilidades, então existem \textbf{n x m}
 possibilidades para que elas aconteçam.
 
 Resumindo, podemos dizer que é a multiplicação das opções dadas para
-determinar o total de possibilidades, mas é bom ter em mente que ele nos dá o número de possibilidade, e não
-quais são. Muitas vezes, torna-se necessário saber quais; nesses casos, devemos
-recorrer a encontrar uma a uma manualmente.
+determinar o total de possibilidades, 
+mas é bom ter em mente que ele nos dá o número de possibilidade, e não
+quais são. Muitas vezes, torna-se necessário saber quais, nesses casos, devemos
+recorrer para encontrar uma a uma manualmente.
 }
 
 \section*{Atividades}
@@ -3357,14 +3386,16 @@ recorrer a encontrar uma a uma manualmente.
 escolher uma opção de pão, uma de carne, uma de queijo e uma salada como opção.
 Veja as opções a seguir.
 
-\begin{quote}
+\conteudo{
+%\begin{quote}
 \begin{itemize}
-  \item \textbf{Tipos de pão}: pão francês, pão de hambúrguer ou pão de forma.
-  \item \textbf{Tipos de carne}: hambúrguer bovino, linguiça calabresa ou peito de frango.
-  \item \textbf{Tipos de queijo}: muçarela ou cheddar.
-  \item \textbf{Tipos de salada}: alface ou rúcula.
+  \item \textbf{Tipos de pão}: pão francês; pão de hambúrguer; pão de forma.
+  \item \textbf{Tipos de carne}: hambúrguer bovino; linguiça calabresa; peito de frango.
+  \item \textbf{Tipos de queijo}: muçarela; cheddar.
+  \item \textbf{Tipos de salada}: alface; rúcula.
 \end{itemize}
-\end{quote}
+%\end{quote}
+}
 
 Agora, responda ao que se pergunta a seguir.
 
@@ -3372,34 +3403,42 @@ Agora, responda ao que se pergunta a seguir.
 \item
   Quantas combinações temos nessa lanchonete se considerarmos apenas o
   pão e a carne?
-
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{3 x 3 = 9 opções.}
-\vspace{1cm}
-\end{mdframed}
+\reduline{3 x 3 = 9 opções.\hfill}
 
 \item
   Acrescentando agora as opções de queijo, quantas combinações temos
   considerando apenas o pão, a carne e o queijo?
-
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{3 x 3 x 2 = 18 opções.}
-\vspace{1cm}
-\end{mdframed}
+\reduline{3 x 3 x 2 = 18 opções.\hfill}
 
 \item
   Finalmente, quantos sanduíches diferentes podemos montar com o
   cardápio dessa lanchonete, escolhendo um tipo de pão, uma carne, um tipo de queijo e uma
   salada?
-
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{3 x 3 x 2 x 2 = 36 opções.}
-\vspace{1cm}
-\end{mdframed}
-
+\reduline{3 x 3 x 2 x 2 = 36 opções.\hfill}
 \end{escolha}
 
-\num{2}　O diagrama de árvore a seguir mostra todas as opções de cardápio para o
+\num{2} Júnior vai fazer uma viagem de 10 dias de duração com seus colegas para
+um acampamento. Neste momento, ele está arrumando sua mala e resolveu
+levar 12 camisetas, 4 calças e 4 bermudas para a viagem. Sabe-se que, no
+acampamento, é obrigatório o uso de uma camiseta combinada com uma calça
+ou uma bermuda por dia. Ele tem opções de roupa suficientes para os 10 dias de viagem sem
+precisar repetir alguma peça de roupa? Justifique sua resposta.
+
+\reduline{Não, pois, como terá só 8 partes de baixo (calças mais bermudas) e não se
+que repetir qualquer peça, ele teria roupa só para 8 dias de viagem.\hfill}
+\linhas{2}
+
+\num{3} Em um restaurante que vende pratos prontos, os clientes possuem para
+escolha 8 tipos diferentes de prato, 2 tipos de refrigerante, 4 opções
+de sorvete e 3 opções de brinde. Quantas combinações diferentes podem-se
+formar, escolhendo-se um prato, um refrigerante, um sorvete e um brinde para
+formar o conjunto?
+
+\reduline{8 x 2 x 4 x 3 = 192 combinações diferentes.\hfill}
+\linhas{2}
+\pagebreak
+
+\num{4} O diagrama de árvore a seguir mostra todas as opções de cardápio para o
 almoço de Alfredo.
 
 \begin{figure}[htpb!]
@@ -3411,63 +3450,30 @@ Quantos são os cardápios diferentes que Alfredo pode escolher, se
 ele deve escolher, obrigatoriamente, um tipo de acompanhamento, uma
 carne e uma sobremesa para compor seu almoço?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{2 x 3 x 2 = 12 opções. Pode-se, também, contar os elementos da última coluna.}
-\vspace{2cm}
-\end{mdframed}
-
-\num{3} Júnior vai fazer uma viagem de 10 dias de duração com seus colegas para
-uma acampamento. Neste momento, ele está arrumando sua mala e resolveu
-levar 12 camisetas, 4 calças e 4 bermudas para a viagem. Sabe-se que, no
-acampamento, é obrigatório o uso de uma camiseta combinada com uma calça
-ou uma bermuda por dia. Ele tem opções de roupa suficientes para os 10 dias de viagem sem
-precisar repetir alguma peça de roupa? Justifique sua resposta.
-
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{Não, pois, como terá só 8 partes de baixo (calças mais bermudas) e não se
-que repetir qualquer peça, ele teria roupa só para 8 dias de viagem.}
-\vspace{2cm}
-\end{mdframed}
-
-\num{4} Em um restaurante que vende pratos prontos, os clientes possuem para
-escolha 8 tipos diferentes de prato, 2 tipos de refrigerante, 4 opções
-de sorvete e 3 opções de brinde. Quantas combinações diferentes podem-se
-formar, escolhendo-se um prato, um refrigerante, um sorvete e um brinde para
-formar o combo?
-
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{8 x 2 x 4 x 3 = 192 combinações diferentes.}
-\vspace{2cm}
-\end{mdframed}
+\reduline{2 x 3 x 2 = 12 opções. Pode-se, também, contar os elementos da última coluna.\hfill}
 
 \num{5} Gabriel foi à papelaria próxima de casa para comprar material
 escolar. Ele levou consigo R\$ 3,00 e, chegando à papelaria, olhou a
 prateleira com os produtos à venda e seus respectivos preços. Veja a seguir.
 
-\pagebreak
-\begin{quote}
+\conteudo{
+%\begin{quote}
 \begin{itemize}
+  \textit{}
+  \textbf{
   \item Lápis -- R\$ 1,00.
   \item Caneta -- R\$ 2,00.
   \item Borracha -- R\$ 1,00.
   \item Apontador -- R\$ 1,00.
-  \item Régua -- R\$ 2,00.
+  \item Régua -- R\$ 2,00.}
 \end{itemize}
-\end{quote}
-
+%\end{quote}
+}
 Ele decide comprar uma unidade de algo que custe R\$ 1,00 e uma unidade de
 algo que custe R\$ 2,00. Quantas combinações diferentes ele pode fazer
 desses produtos da forma que ele pretende comprar?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{Possibilidades de escolha para o que custa R\$ 1,00: 3 opções.}
-
-\coment{Possibilidade de escolha para o que custa R\$ 2,00: 2 opções.}
-
-\coment{Portanto: 3 x 2 = 6 combinações possíveis para essa compra.}
-
-\vspace{2cm}
-\end{mdframed}
+\reduline{Possibilidades de escolha para o que custa R\$ 1,00: 3 opções. Possibilidade de escolha para o que custa R\$ 2,00: 2 opções. Portanto: 3 x 2 = 6 combinações possíveis para essa compra.\hfill}
 
 \num{6} Uma pessoa precisa inventar uma senha que utilizará no banco quando for
 realizar alguma retirada de dinheiro ou algum pagamento. A senha que esse
@@ -3475,20 +3481,18 @@ banco exige é composta de 6 números, e o banco pede que os números
 não se repitam. Quantas senhas diferentes essa pessoa pode inventar
 utilizando os algarismos 0, 1, 2, 3, 4, 5, 6, 7, 8 e 9?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{10 x 9 x 8 x 7 x 6 x 5 = 151.200 senhas diferentes podem ser criadas.}
-\vspace{2cm}
-\end{mdframed}
-
+\reduline{10 x 9 x 8 x 7 x 6 x 5 = 151.200 senhas diferentes podem ser criadas.\hfill}
 
 \num{7} Vinte e quatro pessoas participam de um campeonato de xadrez. Cada jogador joga com todos os demais duas vezes, sendo uma vez com
 torcida para si e outra vez com torcida para o adversário. Quantas partidas
 de xadrez teremos nesse campeonato?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{24 x 23 = 552 jogos (a pessoa não joga com ela mesma).}
-\vspace{2cm}
-\end{mdframed}
+\begin{figure}[htpb!]
+\centering
+\includegraphics[width=.6\textwidth]{media/image73a.png}
+\end{figure}
+
+\reduline{24 x 23 = 552 jogos (a pessoa não joga com ela mesma).\hfill}
 
 \num{8} Em uma etapa do campeonato de surfe, seis competidores chegaram à fase
 final. De quantas formas diferentes podemos ter os três primeiros
@@ -3496,21 +3500,21 @@ colocados dessa etapa, ou seja, o primeiro colocado, o segundo e
 finalmente o terceiro colocado da competição, se todos
 possuem as mesmas chances de ganhar?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{6 x 5 x 4 = 120 possibilidades diferentes para compor o pódio.}
-\vspace{2cm}
-\end{mdframed}
+\begin{figure}[htpb!]
+\centering
+\includegraphics[width=.6\textwidth]{media/image73b.jpeg}
+\end{figure}
+
+\reduline{6 x 5 x 4 = 120 possibilidades diferentes para compor o pódio.\hfill}
+\linhas{2}
 
 \num{9} Em um carro com cinco lugares mais o lugar do motorista, viajam cinco pessoas,
 das quais três sabem dirigir. De quantos modos podemos dispor essas 5
 pessoas em viagem?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{3 (pessoas que sabem dirigir) x 4 x 3 x 2 x 1 = 72 maneiras de se
+\reduline{3 (pessoas que sabem dirigir) x 4 x 3 x 2 x 1 = 72 maneiras de se
 acomodar essas pessoas no carro, deixando uma pessoa que saiba dirigir
-na posição de motorista.}
-\vspace{2cm}
-\end{mdframed}
+na posição de motorista.\hfill}
 
 \num{10} Um trem de passageiros é constituído por uma locomotiva e seis vagões
 distintos, sendo um deles o do restaurante. Sabendo-se que a locomotiva deve ir
@@ -3518,16 +3522,14 @@ distintos, sendo um deles o do restaurante. Sabendo-se que a locomotiva deve ir
 após a locomotiva, qual é o número de modos diferentes de montar a
 composição?
 
-\begin{mdframed}[linewidth=2pt,linecolor=salmao,roundcorner=2pt]
-\coment{1 (locomotiva) x 5 (vagões sem o restaurante) x 5 x 4 x 3 x 2 x 1 = 600
-composições diferentes para esse trem.}
-\vspace{2cm}
-\end{mdframed}
+\reduline{1 (locomotiva) x 5 (vagões sem o restaurante) x 5 x 4 x 3 x 2 x 1 = 600
+composições diferentes para esse trem.\hfill}
 
+\pagebreak
 \section*{Treino}
 
-\num{1} Um clube de futebol está criando uma nova bandeira para o clube.
-Inicialmente, decidiram como ela seria e o desenho a seguir foi criado.
+\num{1} Um clube de futebol está criando uma nova bandeira.
+Inicialmente, decidiram como ela seria, e o desenho, a seguir, foi criado.
 
 \begin{figure}[htpb!]
 \centering
@@ -3559,6 +3561,7 @@ quantidade de sabores de sorvete. Quantas combinações diferentes, compostas de
 sorvete e uma cobertura, estão disponíveis nesse dia de promoção nessa
 soverteria?
 
+\begin{multicols}{2}
 \begin{escolha}
 \item
   80.
@@ -3569,18 +3572,20 @@ soverteria?
 \item
   324.
 \end{escolha}
+\end{multicols}
 
 \num{3} Observe o diagrama a seguir, que Rafael criou com as possibilidades de ir
 da cidade X para a cidade Z.
 
 \begin{figure}[htpb!]
 \centering
-\includegraphics[width=.5\textwidth]{media/image75.png}
+\includegraphics[width=.3\textwidth]{media/image75.png}
 \end{figure}
 
 Quantos caminhos diferentes ele pode fazer para ir da cidade X para a
 cidade Z?
 
+\begin{multicols}{2}
 \begin{escolha}
 \item
   39.
@@ -3591,5 +3596,5 @@ cidade Z?
 \item
   45.
 \end{escolha}
-
+\end{multicols}
 
