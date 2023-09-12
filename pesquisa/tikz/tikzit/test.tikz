@@ -1,0 +1,23 @@
+\usemodule[tikz]  
+
+\starttext
+\starttikzpicture[remember picture,overlay]
+ 		\node [style=none] (0) at (-13.5, 5) {};
+		\node [style=none] (1) at (-10.5, 2.5) {};
+		\node [style=none] (2) at (-13.5, 6.5) {};
+		\node [style=none] (3) at (-0.25, 7.5) {};
+		\node [style=none] (4) at (-2.5, 2.25) {};
+		\node [style=none] (5) at (-9.5, 0.5) {};
+		\node [style=none] (6) at (1, 0) {};	
+		\draw [in=135, out=45, loop] (0.center) to ();
+		\draw (0.center) to (2.center);
+		\draw [bend left=60, looseness=0.50] (2.center) to (3.center);
+		\draw [bend left=75, looseness=1.25] (3.center) to (4.center);
+		\draw (4.center) to (1.center);
+		\draw [bend left, looseness=1.25] (1.center) to (0.center);
+		\draw [in=135, out=45, loop] (1.center) to ();
+		\draw [in=135, out=45, loop] (1.center) to ();
+		\draw [in=135, out=45, loop] (2.center) to ();
+\stoptikzpicture
+\stoptext
+	

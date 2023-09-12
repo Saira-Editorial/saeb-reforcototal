@@ -1,0 +1,46 @@
+\documentclass{report}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[most]{tcolorbox}
+\usepackage{lipsum}
+
+\tcbset{%
+    theo/.style={%
+        enhanced,
+        breakable,
+        sharp corners,
+        toprule=0pt, rightrule=0pt, bottomrule=0pt, leftrule=1mm,
+        colback=#1!5, colframe=#1!80!black, coltitle=#1!80!black, 
+        detach title,
+        overlay unbroken and first ={
+            \node[rotate=90, minimum width=1cm, anchor=south, font=\bfseries] 
+               at (frame.west) {\tcbtitle};
+        }
+    }
+}
+
+\newtcbtheorem[auto counter]{mytheo}{Théorème}
+{theo=green}{th}
+
+\newtcbtheorem[auto counter]{mydef}{Définition}
+{theo=blue}{df}
+
+\newtcbtheorem[auto counter]{mycoro}{Corollaire}
+{theo=green}{cl}
+
+\begin{document}
+
+\begin{mytheo}{}{}
+\lipsum[1]
+\end{mytheo}
+
+\begin{mydef}{}{}
+\lipsum[2]
+\end{mydef}
+
+\begin{mycoro}{}{}
+\lipsum[3]
+\end{mycoro}
+
+\end{document}

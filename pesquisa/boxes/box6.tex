@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage[most]{tcolorbox}
+\usepackage{varwidth}
+\usepackage{lipsum}
+
+\newtcolorbox{mybox}[2][]{empty, 
+coltitle=black,
+fonttitle=\bfseries\sffamily,
+attach boxed title to top left={yshift=-2.5mm},
+boxed title style={empty, size=small, top=1mm, bottom=0pt},
+varwidth boxed title=0.5\linewidth,
+frame code={
+\path (title.east|-frame.north) coordinate (aux);
+\path[draw=black, line width=0.5mm, rounded corners]
+(frame.west) |- ([xshift=-2.5mm]title.north east) to[out=0, in=180] ([xshift=7.5mm]aux)-|(frame.east)|-(frame.south)-|cycle;  
+},
+title={#2},#1}
+\begin{document}
+
+\begin{mybox}{My title}
+\lipsum[2]
+\end{mybox}
+
+\begin{mybox}{A longer title}
+\lipsum[2]
+\end{mybox}
+
+\end{document}
