@@ -8,7 +8,8 @@
 - [ ] graf: sumário
 - [ ] graf: simulados (\part)
 - [ ] graf: apresentação
-- [ ] graf: capítulo 
+- [ ] graf: capítulo
+- [ ] graf: entre seções 
 - [ ] habilidades (com >>)
 - [ ] box conteúdo
 - [ ] atividades
