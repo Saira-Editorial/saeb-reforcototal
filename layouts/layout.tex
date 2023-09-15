@@ -1,28 +1,51 @@
 \definepapersize    [21x28]       [width=207mm, height=277mm]
-\definepapersize    [21x30plus]   [width=230mm, height=310mm]
-%\setuppapersize     [21x28]       [21x30plus]
+\definepapersize    [21x30plus]   [width=230mm, height=300mm]
+\setuppapersize     [21x28]       [21x30plus]
 	
 \setuplayout[
+              height=250mm,             % dimension fit middle 
               width=130mm,              % dimension fit middle
-              height=200mm,             % dimension fit middle 
-              topspace=15mm,            % dimension
-              marking=on,               % on off color
               location=middle,          % left middle right bottom top singlesided doublesided
-              grid=yes                  % yes no
-              cutspace=2cm,             % extra... 
-              cutmark=yes,              % extra...
-              bleedoffset=1cm,          % extra...
-              trimoffset=1cm            % extra...
+              topspace=10mm,            % dimension
+              backspace=50mm,
+			  leftmargin=3mm,
+			  leftedge=3mm,
+			  top=15mm,
+			  topdistance=5mm,
+			  header=10mm,
+			  headerdistance=10mm,
+			  footerdistance=5mm,
+			  footer=10mm,
+			  bottomdistance=5mm,
+			  bottom=15mm,
 ]
 	
 
+% Cores do background
+	% https://wiki.contextgarden.net/Color#Pre-defined_colors
+	\usecolors[crayola]
+	% https://wiki.contextgarden.net/Command/setupbackgrounds
+	\setupbackgrounds[header,footer][background=color,backgroundcolor=red]
+	% [...] 			top header text footer bottom page paper leftpage rightpage
+	% [...,...,...] 	leftedge leftmargin text rightmargin rightedge
+	% [...,...=...,...] state=start stop repeat
+	% \showcolor[crayola]
+			
 
 %\showsetups % Para mostrar somente as medidas.
+%\showframes % Para mostrar somente as linhas.
 %\showlayout % Mostra as linhas e medidas juntos
+		
+
+
 	
 
 \starttext
-\showframe % Para mostrar somente as linhas.
+
+\showlayout  %Mostra as linhas e medidas juntos. Depois de \starttext!
+\showboxes  %Serve para mostrar todas as linhas da diagramação e medidas.
+
+https://docs.google.com/spreadsheets/d/1Ya0Pok0gGmIJYEJ8gMsTvCvQ7wUV5ng0HjiBOuPBaug/edit?usp=sharing
 
 \chapter{Mauris nec dolor in eros}
 
