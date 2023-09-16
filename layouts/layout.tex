@@ -1,108 +1,165 @@
+\usemodule[tikz]
 \definepapersize    [21x28]       [width=207mm, height=277mm]
 \definepapersize    [21x30plus]   [width=230mm, height=300mm]
-\setuppapersize     [21x28]       [21x30plus]
+\setuppapersize     [21x28]     %  [21x30plus]
 	
+	
+
+		
 \setuplayout[
-              height=250mm,             % dimension fit middle 
-              width=130mm,              % dimension fit middle
-              location=middle,          % left middle right bottom top singlesided doublesided
-              topspace=10mm,            % dimension
-              backspace=50mm,
-			  leftmargin=3mm,
-			  leftedge=3mm,
-			  top=15mm,
-			  topdistance=5mm,
-			  header=10mm,
-			  headerdistance=10mm,
-			  footerdistance=5mm,
-			  footer=10mm,
-			  bottomdistance=5mm,
-			  bottom=15mm,
+          location=middle,
+          %
+          leftedge=0mm,
+          leftedgedistance=0mm,
+          leftmargin=20mm,
+          leftmargindistance=0mm,
+          width=165mm,
+          rightmargindistance=0mm,
+          rightmargin=20mm,
+          rightedgedistance=0mm,
+          rightedge=0mm,
+          backspace=21mm,
+          %
+          top=3mm,
+          topdistance=2mm,
+          header=13mm,
+          headerdistance=3mm,
+          height=265mm,
+          footerdistance=3mm,
+          footer=13mm,
+          bottomdistance=2mm,
+          bottom=3mm,
+          topspace=6mm,
 ]
 	
-
-% Cores do background
-	% https://wiki.contextgarden.net/Color#Pre-defined_colors
-	\usecolors[crayola]
-	% https://wiki.contextgarden.net/Command/setupbackgrounds
-	\setupbackgrounds[header,footer][background=color,backgroundcolor=red]
-	% [...] 			top header text footer bottom page paper leftpage rightpage
-	% [...,...,...] 	leftedge leftmargin text rightmargin rightedge
-	% [...,...=...,...] state=start stop repeat
-	% \showcolor[crayola]
-			
-
-%\showsetups % Para mostrar somente as medidas.
-%\showframes % Para mostrar somente as linhas.
-%\showlayout % Mostra as linhas e medidas juntos
-		
-
 
 	
 
 \starttext
 
-\showlayout  %Mostra as linhas e medidas juntos. Depois de \starttext!
-\showboxes  %Serve para mostrar todas as linhas da diagramação e medidas.
 
-https://docs.google.com/spreadsheets/d/1Ya0Pok0gGmIJYEJ8gMsTvCvQ7wUV5ng0HjiBOuPBaug/edit?usp=sharing
+\startpositioning
+   \position(-3,-3){\scale[scale=1400]{\externalfigure[bg.jpg][width=\paperwidth]}}
+   \position(-1,8){\externalfigure
+                 [01-rosto.pdf]}%[width=.7\markupwidth]}
+   \position(3,10){\scale[scale=3500]{Folha de Rosto}}              
+\stoppositioning
 
-\chapter{Mauris nec dolor in eros}
-
-Mussum Ipsum, cacilds vidis litro abertis.  Aenean aliquam molestie leo, vitae
-iaculis nisl. Praesent malesuada urna nisi, quis volutpat erat hendrerit non.
-Nam vulputate dapibus. Cevadis im ampola pa arma uma pindureta. Suco de
-cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis.
-
-Suco de cevadiss deixa as pessoas mais interessantis. Manduma pindureta quium
-dia nois paga. Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis
-que eu levo! Quem manda na minha terra sou euzis!
-
-Paisis, filhis, espiritis santis. Diuretics paradis num copo é motivis de
-denguis. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed
-non consequat odio. Interagi no mé, cursus quis, vehicula ac nisi.
-
-\section{Elementum girarzis}
-Mé faiz elementum girarzis, nisi eros vermeio. Nec orci ornare consequat.
-Praesent lacinia ultrices consectetur. Sed non ipsum felis. Paisis, filhis,
-espiritis santis. Casamentiss faiz malandris se pirulitá.
-
-Aenean aliquam molestie leo, vitae iaculis nisl. Mauris nec dolor in eros
-commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Quem num
-gosta di mé, boa gentis num é. Quem manda na minha terra sou euzis!
-
-Paisis, filhis, espiritis santis. Pra lá, depois divoltis porris, paradis.
-Sapien in monti palavris qui num significa nadis i pareci latim. Diuretics
-paradis num copo é motivis de denguis.
-
-\startnarrower[left,right]
-Diuretics paradis num copo é motivis de denguis. Praesent malesuada urna nisi,
-quis volutpat erat hendrerit non. Nam vulputate dapibus. Tá deprimidis, eu
-conheço uma cachacis que pode alegrar sua vidis. Sapien in monti palavris qui
-num significa nadis i pareci latim.
-\stopnarrower
-
-Delegadis gente finis, bibendum egestas augue arcu ut est. Viva Forevis aptent
-taciti sociosqu ad litora torquent. Nullam volutpat risus nec leo commodo, ut
-interdum diam laoreet. Sed non consequat odio. A ordem dos tratores não
-altera o pão duris.
-\placefigure
-            [][fig:church]
-            {Stephanus Church.}
-            {\externalfigure[ma-cb-24][width=.4\textwidth]}
+\page
 
 
-Interagi no mé, cursus quis, vehicula ac nisi. Diuretics paradis num copo é
-motivis de denguis. Em pé sem cair, deitado sem dormir, sentado sem cochilar
-e fazendo pose. Cevadis im ampola pa arma uma pindureta.
+\startpositioning
+   \position(-2,-2){\externalfigure[02-creditos.pdf][width=\paperwidth]}
+\stoppositioning
 
-Sapien in monti palavris qui num significa nadis i pareci latim. Diuretics
-paradis num copo é motivis de denguis. Em pé sem cair, deitado sem dormir,
-sentado sem cochilar e fazendo pose. Interessantiss quisso pudia ce receita
-de bolis, mais bolis eu num gostis.
+\subject{Créditos}
 
-Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae
-iaculis nisl. Interessantiss quisso pudia ce receita de bolis, mais bolis eu
-num gostis. Mais vale um bebadis conhecidiss, que um alcoolatra anonimis.
-Paisis, filhis, espiritis santis.
+Mussum Ipsum, cacilds vidis litro abertis.  Suco de cevadiss, é um leite
+divinis, qui tem lupuliz, matis, aguis e fermentis. Cevadis im ampola
+pa arma uma pindureta. Mauris nec dolor in eros commodo tempor. Aenean
+aliquam molestie leo, vitae iaculis nisl. Paisis, filhis, espiritis
+santis. Nullam volutpat risus nec leo commodo, ut interdum diam
+laoreet. Sed non consequat odio. Quem num gosta di mim que vai caçá
+sua turmis! Interagi no mé, cursus quis, vehicula ac nisi. Não sou
+faixa preta cumpadi, sou preto inteiris, inteiris. Si u mundo tá muito
+paradis? Toma um mé que o mundo vai girarzis! Manduma pindureta quium
+dia nois paga. Copo furadis é disculpa de bebadis, arcu quam euismod
+magna. Sapien in monti palavris qui num significa nadis i pareci latim.
+
+\page 
+
+
+\startpositioning
+   \position(0,2){\externalfigure
+                 [03-sumario.pdf]}
+   \position(5,3.3){\scale[scale=3500]{Sumário}}              
+\stoppositioning
+
+\placecontent         % or \completecontent
+
+\chapter{Test}
+
+
+\page 
+
+\startpositioning
+   \position(-2,-1.5){\externalfigure
+                 [05-apresentacao.pdf]}
+   \position(2,0){\scale[scale=3500]{Apresentação}}              
+\stoppositioning
+
+
+\page 
+
+
+\startpositioning
+   \position(-3,-3){\scale[scale=1400]{\externalfigure[bg.jpg][width=\paperwidth]}}
+   \position(0,4){\externalfigure[04-simulado.pdf]}
+   \position(3.5,8.3){\scale[scale=3400]{SIMULADO I}}              
+\stoppositioning
+
+
+\page 
+
+
+\startpositioning
+   \position(10,-2){\externalfigure[02-creditos.pdf][width=9cm]}
+   \position(13,-1.6){Lorem Ipsum}
+   \position(-4,-2){\rotate[rotation=180]{\externalfigure[02-creditos.pdf][width=9cm]}}
+   \position(0,-1.6){Lorem Ipsum}
+\stoppositioning
+
+\page
+
+
+
+\def\recto{\starttikzpicture[remember picture,overlay]
+\node at (-1.5,1) 
+{\scale[scale=1350]{\externalfigure[footer.pdf][width=10mm]}};
+\node[color=white,anchor=west] at (-1.7,1) {\pagenumber}; 
+\stoptikzpicture}
+
+\def\folio{
+\starttikzpicture[remember picture,overlay]
+\node at (1.5,1) {\rotate[rotation=180]{\scale[scale=1350]{\externalfigure[footer.pdf][width=10mm]}}};
+\node[color=white,anchor=west] at (1.3,1) {\pagenumber}; 
+\stoptikzpicture}
+
+
+\setuppagenumbering
+  [alternative=doublesided,
+   location={bottom,right},
+   style=normal]
+
+
+\setupfootertexts [\recto][]
+				  [][\folio]
+
+
+Mussum Ipsum, cacilds vidis litro abertis.  Suco de cevadiss, é um leite
+divinis, qui tem lupuliz, matis, aguis e fermentis. Cevadis im ampola
+pa arma uma pindureta. Mauris nec dolor in eros commodo tempor. Aenean
+aliquam molestie leo, vitae iaculis nisl. Paisis, filhis, espiritis
+santis. Nullam volutpat risus nec leo commodo, ut interdum diam
+laoreet. Sed non consequat odio. Quem num gosta di mim que vai caçá
+sua turmis! Interagi no mé, cursus quis, vehicula ac nisi. Não sou
+faixa preta cumpadi, sou preto inteiris, inteiris. Si u mundo tá muito
+paradis? Toma um mé que o mundo vai girarzis! Manduma pindureta quium
+dia nois paga. Copo furadis é disculpa de bebadis, arcu quam euismod
+magna. Sapien in monti palavris qui num significa nadis i pareci latim.
+
+\page 
+
+Mussum Ipsum, cacilds vidis litro abertis.  Suco de cevadiss, é um leite
+divinis, qui tem lupuliz, matis, aguis e fermentis. Cevadis im ampola
+pa arma uma pindureta. Mauris nec dolor in eros commodo tempor. Aenean
+aliquam molestie leo, vitae iaculis nisl. Paisis, filhis, espiritis
+santis. Nullam volutpat risus nec leo commodo, ut interdum diam
+laoreet. Sed non consequat odio. Quem num gosta di mim que vai caçá
+sua turmis! Interagi no mé, cursus quis, vehicula ac nisi. Não sou
+faixa preta cumpadi, sou preto inteiris, inteiris. Si u mundo tá muito
+paradis? Toma um mé que o mundo vai girarzis! Manduma pindureta quium
+dia nois paga. Copo furadis é disculpa de bebadis, arcu quam euismod
+magna. Sapien in monti palavris qui num significa nadis i pareci latim.
+
 \stoptext

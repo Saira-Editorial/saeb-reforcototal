@@ -1,15 +1,15 @@
 # ToDo List
 
-- [ ] fontes
-- [ ] cores
-- [ ] layout (medidas)
-- [ ] graf: folha de rosto
-- [ ] graf: créditos
-- [ ] graf: sumário
-- [ ] graf: simulados (\part)
+- [x] graf: folha de rosto
+- [x] graf: créditos
+- [x] graf: sumário
+- [x] graf: simulados (\part)
 - [ ] graf: apresentação
 - [ ] graf: capítulo
 - [ ] graf: entre seções 
+- [ ] fontes
+- [ ] cores
+- [ ] layout (medidas)
 - [ ] habilidades (com >>)
 - [ ] box conteúdo
 - [ ] atividades
