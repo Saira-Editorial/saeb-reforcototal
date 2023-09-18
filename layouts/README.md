@@ -4,9 +4,9 @@
 - [x] graf: créditos
 - [x] graf: sumário
 - [x] graf: simulados (\part)
-- [ ] graf: apresentação
+- [x] graf: apresentação
+- [ ] graf: entre seções (header, footer) 
 - [ ] graf: capítulo
-- [ ] graf: entre seções 
 - [ ] fontes
 - [ ] cores
 - [ ] layout (medidas)
