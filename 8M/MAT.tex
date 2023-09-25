@@ -3,7 +3,7 @@
 
 \chapter{Representações numéricas}
 
-\section{Habilidades do SAEB}
+\section*{Habilidades do SAEB}
 
 \begin{itemize}
 
@@ -40,124 +40,103 @@ de forma organizada e compreensível. Essas representações desempenham um pape
 Existem diferentes tipos de representação numérica; cada uma é adequada para uma finalidade específica. 
 Algumas das representações mais comuns são:
 
-A representação decimal é baseada no sistema decimal, que utiliza dez dígitos ($0$ a $9$). Cada posição em um número decimal tem um valor associado a potências de dez. Por exemplo, o número $358$ 
+\begin{itemize}
+\item A representação decimal é baseada no sistema decimal, que utiliza dez dígitos ($0$ a $9$). Cada posição em um número decimal tem um valor associado a potências de dez. Por exemplo, o número $358$ 
 é representado como a soma de $3 \cdot 10^2 + 5 \cdot 10^1 + 8 \cdot 10^0$.
 
-A representação binária é baseada no sistema binário, que utiliza apenas dois 
+\item A representação binária é baseada no sistema binário, que utiliza apenas dois 
 dígitos ($0$ e $1$). Cada posição em um número binário tem um valor associado a potências de dois. Por exemplo, o 
 número binário 101 é representado como a soma de $1 \cdot 2^2 + 0 \cdot 2^1 + 1 \cdot 2^0$, que é igual a 5 em decimal.
 
-A representação hexadecimal é baseada no sistema hexadecimal, que utiliza 
+\item A representação hexadecimal é baseada no sistema hexadecimal, que utiliza 
 dezesseis dígitos ($0$ a $9$ e $A$ a $F$). A base 16 é utilizada para representar números grandes e facilitar a 
 conversão entre binário e decimal. Por exemplo, o número hexadecimal 2A é representado como a soma de 
 $2 \cdot 16^1 + A x 16^0$, onde $A$ tem o valor de $10$ em decimal. Portanto, $2A$ em hexadecimal é igual a $42$ em decimal.
 
-A representação de ponto flutuante é usada para representar números 
+\item A representação de ponto flutuante é usada para representar números 
 reais, que podem ter uma parte inteira e uma parte fracionária. Esse sistema é comumente usado em computação 
 para representar números com uma quantidade limitada de dígitos. É baseado em notação científica, em que um 
 número é expresso como uma mantissa multiplicada por uma potência de base fixa.
+\end{itemize}
 
 As representações numéricas são essenciais para realizar operações matemáticas, armazenar e transmitir 
 dados, e implementar algoritmos em diversas áreas. O conhecimento e o entendimento das diferentes 
 representações numéricas são fundamentais para evitar erros de arredondamento, compreender as limitações dos 
 sistemas de numeração e garantir a precisão e confiabilidade dos cálculos numéricos.}
 
-\section{Atividades}
+\section*{Atividades}
 
 \num{1} Calculando-se $(\sqrt{27})$, obtém-se $5,196152423$..., número que tem
 representação decimal infinita, mas não é dízima periódica.
 
 Conclui-se então que $(\sqrt{27})$ é um número:
-\reduline{ Irracional.}\\
+\reduline{irracional\hfill}.\\
 
 
 \num{2} O número romano XLV corresponde, em algarismos arábicos, a
-\reduline{$45$}\\
+\reduline{$45$\hfill}.\\
 
-\num{3} Observe os números a seguir:
+\num{3} Observe os números: $-4; -2,3; -\frac{1}{4}; 0; 1; \sqrt{8}$. Quais deles pertencem ao conjunto:
 
-\begin{figure}[H]
-\centering\includegraphics[width=2.79167in,height=0.63542in]{./imgSAEB_8_MAT/media/image1.png}
-\end{figure}
+% \begin{figure}[H]
+% \centering\includegraphics[width=2.79167in,height=0.63542in]{./imgSAEB_8_MAT/media/image1.png}
+% \end{figure}
 
-Quais deles pertencem ao conjunto:
+
 
 
 \begin{escolha}[itemsep=0pt]
-\item N \rosa{'' $0; 1$}
-\item Z \rosa{'' $-4, 0, 1$}
-\item Z, mas não pertencem a N? \rosa{$-4$}
-\item Q, mas não pertencem a Z? \rosa{$-2,3$ e  $(-\frac{1}{4})$}
+\item N? \reduline{$0; 1$\hfill}
+\item Z? \reduline{$-4, 0, 1$\hfill}
+\item Z, mas não pertencem a N? \reduline{$-4$\hfill}
+\item Q, mas não pertencem a Z? \reduline{$-2,3$ e  $(-1/4)$\hfill}
 \end{escolha}
 
 \pagebreak
 
-\num{4} Observe os números abaixo:
+\num{4} Observe os números a seguir:
 
 $$6; (\sqrt{6}); 6,6; -6$$
 
 
 Identifique quais deles são:
 \begin{escolha}[itemsep=0pt]
-\item reais e naturais.\rosa{ -- 6}
-\item reais e inteiros.\rosa{ -- 6 ; -6}
-\item reais e racionais.\rosa{ -- 6; -6; 6,6}
-\item reais e irracionais.\rosa{'' $(\sqrt{6})$}
+\item reais e naturais: \reduline{ -- 6\hfill}
+\item reais e inteiros: \reduline{ -- 6 ; -6\hfill}
+\item reais e racionais: \reduline{ -- 6; -6; 6,6\hfill}
+\item reais e irracionais: \reduline{'' $(\sqrt{6})$\hfill}
 \end{escolha}
 
 
-\num{5} Complete os espaços abaixo com pertence ou não pertence:
+\num{5} Complete os espaços a seguir com ``pertence'' ou ``não pertence''.
 
 
-\begin{multicols}{3}
-\begin{enumerate}
-\def\labelenumi{\alph{enumi}}
-\item 100 
-\item 100 
-\item 100 
-\item $(\sqrt{9}) 
-$\item $(-\sqrt{9})$ 
-\item $(\sqrt{- 9})$ 
-\item 2,6 
-\end{enumerate}
-
-
-\begin{enumerate}
-\item R*
-\item R\textsubscript{+}
-\item R\textsubscript{-}
-\item R
-\item R
-\item R
-\item R\textsubscript{+}
-\end{enumerate}
-
-\begin{enumerate}
-\item \rosa{'' Pertence}
-\item \rosa{'' Pertence}
-\item \rosa{'' Não Pertence}
-\item \rosa{'' Pertence}
-\item \rosa{'' Pertence}
-\item \rosa{'' Não Pertence}
-\item \rosa{'' Pertence}
-\end{enumerate}
-\end{multicols}
+\begin{escolha}[itemsep=0pt]
+\item 100 \reduline{pertence\hfill} R*
+\item 100 \reduline{pertence\hfill} R\textsubscript{+}
+\item 100 \reduline{não pertence\hfill} R\textsubscript{-}
+\item $(\sqrt{9})$ \reduline{pertence\hfill} R
+\item $(-\sqrt{9})$ \reduline{pertence\hfill} R
+\item $(\sqrt{- 9})$ \reduline{não pertence\hfill} R
+\item $2,6$ \reduline{pertence\hfill} R\textsubscript{+}
+\end{escolha}
 
 
 \num{6} A representação decimal de um número pode ser: finita, infinita e
 periódica ou, ainda, infinita e não periódica. Escreva qual é o caso de
-cada um dos números a seguir
+cada um dos números a seguir.
 
 \begin{escolha}[itemsep=0pt]
-\item $(\frac{15}{6})$ \rosa{'' Finita}
-\item $(\frac{1}{3})$ \rosa{'' Infinita e periódica}
-\item $(\sqrt{3})$ \rosa{'' Infinita e não periódica}
-\item $(\sqrt{2})$ \rosa{'' Infinita e não periódica}
+\item $(\frac{15}{6})$ \reduline{Finita.\hfill}
+\item $(\frac{1}{3})$ \reduline{Infinita e periódica.\hfill}
+\item $(\sqrt{3})$ \reduline{Infinita e não periódica.\hfill}
+\item $(\sqrt{2})$ \reduline{Infinita e não periódica.\hfill}
 \end{escolha}
 
 
-\num{7} O número $\pi$ é classificado como:
-\reduline{ uma dízima não periódica.\hfill}\\
+\num{7} O número $\pi$ é classificado como?
+\reduline{Trata-se de uma dízima não periódica.\hfill}
+\linhas{1}
 
 \num{8} O números $121$ é considerado um quadrado perfeito? Por quê?
 \reduline{Sim, pois $121 = 11 \cdot 11$.\hfill}
@@ -166,20 +145,20 @@ cada um dos números a seguir
 \num{9} O produto ou o quociente de dois números irracionais pode ser um
 número racional?
 
-\reduline{ Sim, como exemplos podem ser citados\hfill}\\
-\reduline{ $(\sqrt{2} \cdot \sqrt{2} = \sqrt{2}^2 = 2)$ e também $(\frac{\sqrt{2}}{\sqrt{2}} = 1)$\hfill}\\
+\reduline{Sim. Como exemplos podem ser citados:\hfill}\\
+\reduline{ $(\sqrt{2} \cdot \sqrt{2} = \sqrt{2}^2 = 2)$ e $(\frac{\sqrt{2}}{\sqrt{2}} = 1)$\hfill}\\
 
 
 \num{10} Qual é o menor número natural que devemos multiplicar pelo número
-125 para que o produto seja um número quadrado perfeito?
-\reduline{ $5$, pois $5\cdot 125 = 625$ e $(\sqrt{625}) = 25$.\hfill}\\
+$125$ para que o produto seja um número quadrado perfeito?
+\reduline{$5$, pois $5 \cdot 125 = 625$ e $(\sqrt{625}) = 25$.\hfill}\\
 
-\section{Treino}
+\section*{Treino}
 
-\num{1} Qual é a decomposição do número 1 000 em fatores primos?
+\num{1} Qual é a decomposição do número 1.000 em fatores primos?
 
 \begin{escolha}[itemsep=0pt]
-\item $(2^2\cdot 5^2)$
+\item $(2^2 \cdot 5^2)$
 \item $(2^3 \cdot 5^2 \cdot 2)$
 \item $(2^3 \cdot 5^3)$
 \item $(2^3 \cdot 5^2)$
@@ -207,10 +186,10 @@ número racional?
 \num{2} Sobre o número $123.456.789$, podemos afirmar que:
 
 \begin{escolha}[itemsep=0pt]
-\item é múltiplo de $5$
-\item é múltiplo de $2$
-\item é múltiplo de $3$
-\item é múltiplo de $10$
+\item é múltiplo de $5$.
+\item é múltiplo de $2$.
+\item é múltiplo de $3$.
+\item é múltiplo de $10$.
 \end{escolha}
 
 
@@ -240,10 +219,10 @@ número racional?
 Qual algarismo está situado na casa da centena de milhar?
 
 \begin{escolha}[itemsep=0pt]
-\item $4$
-\item $5$
-\item $0$
-\item $3$
+\item $4$.
+\item $5$.
+\item $0$.
+\item $3$.
 \end{escolha}
 
 
@@ -265,10 +244,9 @@ Qual algarismo está situado na casa da centena de milhar?
 % D, Correta, pois o número 3 está situado na casa das centenas de milhar.
 % ----
 
-\chapter{Operações
-aritméticas}
+\chapter{Operações aritméticas}
 
-\section{Habilidades do SAEB}
+\section*{Habilidades do SAEB}
 
 \begin{itemize}
   \item Calcular o resultado de adições, subtrações,
@@ -294,9 +272,9 @@ multiplicações ou divisões envolvendo número reais.
 \item EF08MA01, EF08MA02, EF08MA03.
 \end{itemize}
 
-\conteudo{Dado um número racional a e um número natural n, a expressão ($a^n$)
-chama-se potência e representa uma multiplicação de n fatores iguais ao
-número a.
+\conteudo{Dado um número racional $a$ e um número natural $n$, a expressão ($a^n$)
+chama-se potência e representa uma multiplicação de $n$ fatores iguais ao
+número $a$.
 
 $$(a^n = \frac{a \cdot a \cdot a \cdot a \cdot a \cdot \ldots \cdot a}{n})$$
 Essa operação é chamada potenciação.
@@ -307,66 +285,35 @@ $$(10^3 = 10 \cdot 10 \cdot 10 = 1.000)$$
 
 Propriedades da potenciação:
 
-1ª. propriedade: Produto de potências de mesma base.
-
-Um produto de potências de mesma base pode ser escrito na forma de uma
-única potência: conservamos a base e adicionamos os expoentes.
+\begin{enumerate}
+\item \textbf{Produto de potências de mesma base.} Um produto de potências de mesma base pode ser escrito na forma de uma
+única potência: conservamos a base e adicionamos os expoentes:
 
 $$(a^m) \cdot (a^n) = (a^{m+n})$$
 
-2ª. Propriedade: Quociente de potências de mesma base
-
-Um quociente de potências de mesma base, em que o expoente do dividendo
+\item \textbf{Quociente de potências de mesma base.} Um quociente de potências de mesma base, em que o expoente do dividendo
 é maior ou igual ao expoente do divisor, pode ser escrito na forma de
-uma única potência: conservamos a base e subtraímos os expoentes
+uma única potência: conservamos a base e subtraímos os expoentes:
 
-$$(a^m) \div (a^n) = (a^{m-n})$$ 
+$$(a^m) \div (a^n) = (a^{m-n})$$ (com $a$ diferente de zero e $m$ maior ou igual a $n$)
 
-com a diferente de zero e m maior ou
-igual a n
-
-3ª propriedade: Potência de uma potência.
-
-Um produto de potências de mesma base pode ser escrito na forma de uma
-única potência: conservamos a base e multiplicamos os expoentes.
+\item \textbf{Potência de uma potência.} Um produto de potências de mesma base pode ser escrito na forma de uma
+única potência: conservamos a base e multiplicamos os expoentes:
 
 $$(a^m)^n) = (a^{m \cdot n})$$
 
-4ª. propriedade potência de um produto
+\item \textbf{Potência de um produto.} Para elevar um produto de dois ou mais números racionais a um expoente,
+elevamos cada fator a esse expoente:
 
-Para elevar um produto de dois ou mais números racionais a um expoente,
-elevamos cada fator a esse expoente.
-
-$$((a \cdot b)^n)= (a^n x b^n)$$
-
-A potência de base 10, com expoente natural, é uma maneira de se
-escrever o número que, no Sistema de Numeração Decimal, é representado
-por 1 seguido de n zeros.
-
-$$(10^5 = 100.000 = 1 + 5...);$$
-$$(10^5 = 100.000 = 1 + 5...)$$
-$$(10^5 = 100.000 = 1 + 5...)$$
-
-Se um número representa um produto de dois fatores iguais não negativos,
-então cada fator é a raiz quadrada desse número. Por exemplo:
-
-A raiz quadrada de 25 é 5, pois 
-
-$$(10^5 = 100.000 = 1 + 5...)$$. 
-
-Logo $(10^5 = 100.000 = 1 + 5)$.
-
-A raiz quadrada de 49 é 7, pois:
-
- $$(10^5 = 100.000 = 1 + 5...)$$. 
-
- Logo $(\sqrt{49} = 7)$.}
+$$((a \cdot b)^n)= (a^n \cdot b^n)$$
+\end{enumerate}
+}
 
 
 
-\section{Atividades}
+\section*{Atividades}
 
-\num{1} Calcule o valor das potências abaixo.
+\num{1} Calcule o valor das potências a seguir.
 
 \begin{escolha}[itemsep=0pt]
 \item $\left( - \frac{3}{5}\right )^2$  \rosa{$(\frac{9}{25})$}
@@ -378,7 +325,7 @@ A raiz quadrada de 49 é 7, pois:
 \end{escolha}
 
 
-\num{2} Calcule as operações abaixo.
+\num{2} Calcule as operações a seguir.
 
 \begin{escolha}[itemsep=0pt]
 \item $(( - \frac{1}{2}^2 \; + \; -1^4)$ \rosa{ $(+ 1\frac{1}{4})$}
@@ -400,163 +347,218 @@ A raiz quadrada de 49 é 7, pois:
 
 
 \begin{escolha}[itemsep=0pt]
-\item $(3^7 \div 3^5)$ 
+\item $(3^7 \div 3^5)$. 
     \rosa{$(3^{7 - 5} = 3^2 = 3.3 = 9)$     }
-\item $(-1^8:-1^6)$ 
+\item $(-1^8:-1^6)$. 
     \rosa{$((-1^{8 - 6} = -1^2= -1\cdot-1= +1)$     }
-\item $(\left( \frac{2}{3} \right) / \left ( \frac{2}{3} \right)$ 
+\item $(\left( \frac{2}{3} \right) / \left ( \frac{2}{3} \right)$. 
     \rosa{$((\frac{2}{3})^{4-1}) = ((\frac{2}{3}))^3=(\ (\frac{2}{3}))\cdot(\ (\frac{2}{3}))\cdot(\ (\frac{2}{3})) = (\frac{8}{27})$      }
-\item Metade de $(2^10)$ 
+\item Metade de $(2^10)$. 
     \rosa{$(2^{10} / 2^1 = 2^9 = 2.2.2.2.2.2.2.2.2 = 572)$      }
-\item $((-2,5)^5) \div (-2,5)^2$ 
+\item $((-2,5)^5) \div (-2,5)^2$. 
     \rosa{$((-2,5)^{5-2} = (-2,5)^3= (-2,5). (-2,5). (-2,5) = -15,625)$     }
-\item $(a^9 \div a^8)$, com a racional não nulo 
+\item $(a^9 \div a^8)$, com $a$ racional não nulo.
     \rosa{$(a^{9-8} = a^1 = a)    $  }
-\item $(1^8 \div 1^2)$ 
+\item $(1^8 \div 1^2)$.
     \rosa{$(1^{8-2} = 1^6= 1.1.1.1.1.1 = 1)$      }
-\item terça parte de $(3^8)$ 
+\item Terça parte de $(3^8)$.
     \rosa{$(3^8-1)= (3^7) = 3.3.3.3.3.3.3 = 2187$     }
 \end{escolha}
 
 
 
-\num{4} Jamile fez uma viagem turística ao topo de uma montanha. Ao chegar em
-certo local, observou uma pedra antiga com o seguinte enunciado: esta
-pedra tem o peso de $[(-5)^3]^2\,kg$. Quanto pesa a pedra que Jandira
+\num{4} Jamile fez uma viagem turística ao topo de uma montanha. Ao chegar a
+certo local, observou uma pedra antiga com o seguinte enunciado: Esta
+pedra tem massa de $[(-5)^3]^2\,kg$. Quanta é a massa da pedra que Jamile
 observou?
 
-\reduline{ Utilizando a propriedade de multiplicação de expoentes temos que:\hfill}\\
-\reduline{ $((-5)^{3.2}= (-5)^6= (-5) \cdot (-5) \cdot (-5) \cdot (-5) \cdot (-5) \cdot (-5)= 15.625 kg)$\hfill}\\
+\rosa{ Utilizando a propriedade de multiplicação de expoentes temos que:}\\
+\rosa{ $((-5)^{3.2}= (-5)^6= (-5) \cdot (-5) \cdot (-5) \cdot (-5) \cdot (-5) \cdot (-5)= 15.625 kg)$}\\
 
 
 % -----------------
 
-\num{5} Uma sala de jantar quadrada terá o piso coberto com ladrilhos com
-medida de comprimento dos lados de 60 cm.
-
+\num{5} Uma sala de jantar quadrada terá o piso coberto com ladrilhos
+de comprimento dos lados de 60 cm. Responda ao que se pergunta a seguir.
 
 \begin{escolha}[itemsep=0pt]
 \item Qual é a medida de comprimento dos lados da sala sabendo que a medida
 de área dela é de $81 m^2$?
-\item Quantos ladrilhos serão necessários para cobrir o piso?
-\end{escolha}
 
-\reduline{ (a) Considerando que a sala é quadrada e que a fórmula da área de um\hfill}\\
-\reduline{ quadrado é $l^2$, para descobrirmos o real valor de cada lado, basta\hfill}\\
-\reduline{ fazermos a operação inversa: $l^2 = 81; l= (\sqrt{81}); l= 9$\hfill}\\
-\reduline{ (b) Se cada lado da sala possui 9 metros e cada lado do ladrilho possui 0,60 cm temos que:\hfill}\\
-\reduline{ $9 \div 0,6 = 15;$ $(15 \cdot 15 = 225$ ladrilhos)\hfill}\\
+\rosa{Considerando que a sala é quadrada e que a fórmula da área de um}\\
+\rosa{quadrado é $l^2$, para descobrirmos o real valor de cada lado, basta}\\
+\rosa{fazermos a operação inversa: $l^2 = 81; l= (\sqrt{81}); l= 9$}\\
+
+\item Quantos ladrilhos serão necessários para cobrir o piso?
+
+\rosa{Se cada lado da sala possui 9 metros e cada lado do ladrilho possui 0,60 cm temos que:}\\
+\rosa{$9 \div 0,6 = 15;$ $(15 \cdot 15 = 225$ ladrilhos)}\\
+\end{escolha}
 
 \num{6} Utilizando os conhecimentos de redução de potências, reduza as
-potencias abaixo.
+potencias a seguir.
 
 \begin{escolha}[itemsep=0pt]
-\item $10^2 \cdot 2^2$  
-        \rosa{ $(10 \cdot 2)^2 = 20^2$ }
+\item $10^2 \cdot 2^2$ 
+
+        \reduline{ $(10 \cdot 2)^2 = 20^2$\hfill}
+
 \item $11^2 \cdot 3^2$  
-        \rosa{ $(11 \cdot 3)^2 = 33^2$ }
+
+        \reduline{ $(11 \cdot 3)^2 = 33^2$\hfill}
+
 \item $(-6)^3 \cdot (-8)^3$  
-        \rosa{ $((-6) \cdot (-8)) ^3 = 48^3$ }
+
+        \reduline{ $((-6) \cdot (-8)) ^3 = 48^3$\hfill}
+
 \item $((3,1)^5 \cdot (0,7)^5 \cdot 2^5)$  
-        \rosa{ $((3,1 \cdot 0,7 \cdot 2)^5= 4,34^5)$ }
+
+        \reduline{ $((3,1 \cdot 0,7 \cdot 2)^5= 4,34^5)$\hfill}
 \end{escolha}
 
 
 
 
 
-\num{7} Calcule o valor de cada potência com exponente negativo
+\num{7} Calcule o valor de cada potência com exponente negativo.
 
 \begin{escolha}[itemsep=0pt]
-\item $(8^{-2}$) 
-              \rosa{$ (8^{-2} = \frac{1}{8^2}) = (\frac{1}{64})$}
+\item $(8^{-2})$ 
+             
+              \rosa{$ (8^{-2} = \frac{1}{8^2})$}
+              \rosa{$\frac{1}{64})$}
 \item $(5^{-1})$ 
-              \rosa{$ 5^{-1}= (\frac{1}{5^1}) = (\frac{1}{5})$}
-\item $((-2)^{-4}) $
-              \rosa{$ ((-2)^{-4} = \frac{1}{2.4} = \frac{1}{16})$}
+            
+              \rosa{$ 5^{-1}= (\frac{1}{5^1})$}
+              \rosa{$(\frac{1}{5})$}
+\item $((-2)^{-4})$
+            
+              \rosa{$ ((-2)^{-4} = \frac{1}{2.4}$}
+              \rosa{$\frac{1}{16})$}
 \item $((\frac{1}{2})^{-3}) $
-              \rosa{$ ((\frac{1}{2})^{-3}) = (\frac{2}{1^3}) = (\frac{2}{1}) = 2$}
-\item $((-3)^{-3}) $
-              \rosa{$ ((-3)^{-3})= (\frac{1}{3^3}) = (\frac{1}{27})$}
-\item $(\frac{1}{2}^{-5}) $
-              \rosa{$ (\frac{1}{2}^{-5}) = (\frac{2}{1}^5) = 32$}
+           
+              \rosa{$ ((\frac{1}{2})^{-3}) = (\frac{2}{1^3})$}
+              \rosa{$(\frac{2}{1}) = 2$}
+\item $((-3)^{-3})$
+            
+              \rosa{$ ((-3)^{-3})= (\frac{1}{3^3})$}
+              \rosa{$(\frac{1}{27})$}
+\item $(\frac{1}{2}^{-5})$
+            
+              \rosa{$ (\frac{1}{2}^{-5}) = (\frac{2}{1}^5)$}
+              \rosa{$32$}
 \end{escolha}
 
 
 \num{8} Calcule as seguintes potências de base 10 e coloque-as em forma
 decimal.
 
-\begin{multicols}{2}
 \begin{escolha}[itemsep=0pt]
 \item $(10^6)$
-    \rosa{$1 000 000$}
+   
+    \rosa{$1.000.000$}
 \item $(10^-6)$
-    \rosa{$0, 000 001$}
+   
+    \rosa{$0,000001$}
 \item $(10^-4)$
-    \rosa{$0, 0001$}
+   
+    \rosa{$0,0001$}
 \item $(10^4)$
-    \rosa{$10 000$}
+   
+    \rosa{$10.000$}
 \item $(10^-2)$
+   
     \rosa{$0,01$}
 \item $(10 ^-5)$
+   
     \rosa{$0,00001$}
 \item $(10^10)$
-    \rosa{$10 000 000 000$}
+   
+    \rosa{$10.000.000.000$}
 \item $(10^-8)$
+   
     \rosa{$0,00000001$}
 \end{escolha}
-\end{multicols}
 
 \num{9} Reinaldo é professor e, durante uma de suas aulas de estatística,
-resolveu demonstrar a população da Terra em formato decimal. Porém, ao
+resolveu demonstrar a população da Terra em formato decimal, porém, ao
 tentar fazer a demonstração, o espaço de sua lousa não foi suficiente.
 Sabendo que a população da Terra em 2022 chegou a 8 bilhões, como
-poderíamos representar este número para que caiba na lousa?
+poderíamos representar esse número para que caiba na lousa?
 
 \reduline{ Reinaldo poderia representar por meio de Notação científica (potência de base 10).\hfill}\\
 \reduline{ Considerando a população da terra como 8.000.000.000, outra forma \hfill}\\
-\reduline{ de reescrever seria $(8 \cdot 10^9)$.\hfill}\\
+\reduline{ de escrever seria $(8 \cdot 10^9)$.\hfill}\\
 
 \num{10} Felipe é artista e uma de suas obras é conhecida como quadrado
-infinito. Ao observar o quadro, um matemático fez as seguintes
-descobertas:
-
-\begin{multicols}{2}
+infinito. Veja:
 
 \begin{figure}[H]
 \centering\includegraphics[width=2.3125in,height=2.07917in]{./imgSAEB_8_MAT/media/image2.png}
 \end{figure}
 
-\columnbreak
+Ao observar o quadro, um matemático fez as seguintes
+descobertas:
 
-O quadrado Vermelho possui uma área de $25\,cm^2$.
+\begin{itemize}
+\item O quadrado vermelho possui uma área de $25\,cm^2$.
 
-O quadrado Verde possui uma área de $22\,cm^2$.
+\item O quadrado verde possui uma área de $22\,cm^2$.
 
-O quadrado Laranja possui uma área de $14\,cm^2$.
+\item O quadrado laranja possui uma área de $14\,cm^2$.
 
-O quadrado Azul possui uma área de $64\,cm^2$.
+\item O quadrado azul possui uma área de $64\,cm^2$.
 
-O quadrado Cinza possui uma área de $36\,cm^2$.
+\item O quadrado cinza possui uma área de $36\,cm^2$.
 
-O quadrado Rosa possui uma área de $16\,cm^2$.
-\end{multicols}
+\item O quadrado rosa possui uma área de $16\,cm^2$.
+\end{itemize}
 
-Com as informações obtidas pelo matemático, responda às perguntas.
+Com as informações obtidas pelo matemático, resolva o que se pede a seguir.
 
 \begin{escolha}[itemsep=0pt]
 \item Perímetro do quadrado vermelho.
-        \rosa{  $(\sqrt{256} = 16, 16 \cdot 4 = perímetro = 64)$}
+        
+        \rosa{$\sqrt{256} = 16$}
+
+        \rosa{Perímetro = $16 \cdot 4$}
+
+        \rosa{Perímetro = $64 cm$}
 \item Perímetro do quadrado verde.
-        \rosa{  $(\sqrt{225}) = 15, 15 \cdot 4 = perímetro = 60$}
+        
+        \rosa{$(\sqrt{225}) = 15$}
+
+        \rosa{Perímetro = $15 \cdot 4$}
+
+        \rosa{Perímetro = $60 cm$}
 \item Perímetro do quadrado laranja.
-        \rosa{  $(\sqrt{144}) = 12, 12 \cdot 4 = perímetro= 48$}
+        
+        \rosa{$(\sqrt{144}) = 12$}
+
+        \rosa{Perímetro = $12 \cdot 4$}
+
+        \rosa{Perímetro = $48 cm$}
 \item Perímetro do quadrado azul.
-        \rosa{  $(\sqrt{64}) = 8, 8 \cdot 4 = perímetro = 32$}
+        
+        \rosa{$(\sqrt{64}) = 8$}
+
+        \rosa{Perímetro = $8 \cdot 4$}
+
+        \rosa{Perímetro = $32 cm$}
 \item Perímetro do quadrado cinza.
-        \rosa{  $(\sqrt{36}) = 6, 6 \cdot 4 = perímetro = 24$}
+        
+        \rosa{$(\sqrt{36}) = 6$}
+
+        \rosa{Perímetro = $6 \cdot 4$}
+
+        \rosa{Perímetro = $24 cm$}
 \item Perímetro do quadrado rosa.
-        \rosa{  $(\sqrt{16}) = 4, 4 \cdot 4 = perímetro = 16$}
+        
+        \rosa{$(\sqrt{16}) = 4$}
+
+        \rosa{Perímetro = $4 \cdot 4$}
+
+        \rosa{Perímetro = $16 cm$}
 \end{escolha}
 
 % \begin{figure}[H]
@@ -566,20 +568,18 @@ Com as informações obtidas pelo matemático, responda às perguntas.
 % \reduline{ se temos que a formula da área de um quadrado é l ^2 para descobrirmos o\hfill}
 % \reduline{ real valor de cada lado, basta fazermos a operação inversa, no caso a radiciação.\hfill}
 
-\pagebreak
-
-\section{Treino}
+\section*{Treino}
 
 \num{1} Raul estava passeando pela rua e, ao passar por uma loja de discos
-antigos, viu um álbum com o seguinte título: ``Eu Nasci Há Dez Mil Anos
-Atrás''. Se a capa desse álbum fosse representada em forma de potência
-de base 10, qual o novo nome do álbum?
+antigos, viu um álbum com o seguinte título: ``Eu nasci dá dez mil anos
+atrás''. Se a capa desse álbum fosse representada em forma de potência
+de base 10, qual seria o novo nome do álbum?
 
 \begin{escolha}[itemsep=0pt]
-\item Eu Nasci Há $10^2$ anos Atrás
-\item Eu Nasci Há $10^3$ anos atrás
-\item Eu Nasci Há $10^4$ anos atrás
-\item Eu Nasci Há $10^5$ Anos Atrás
+\item Eu nasci há $10^2$ anos atrás.
+\item Eu nasci há $10^3$ anos atrás.
+\item Eu nasci há $10^4$ anos atrás.
+\item Eu nasci há $10^5$ Anos atrás.
 \end{escolha}
 
 
@@ -601,19 +601,19 @@ de base 10, qual o novo nome do álbum?
 
 % D: Incorreta, pois o número de zeros estava errado.
 
-\num{2} Thiago é um professor de matemática e, ao comemorar seu aniversário
+\num{2} Thiago é um professor de Matemática e, ao comemorar seu aniversário
 com seus alunos, resolveu lançar um enigma. Sua idade seria o expoente
 do resultado da seguinte expressão:
 
 $$(\frac{2^{25} \cdot 2^{35} \cdot 2^{30}} {2^2.2^1})$$
 
-Qual é a Idade de Thiago?
+Qual é a idade de Thiago?
 
 \begin{escolha}[itemsep=0pt]
-\item 2
-\item 93
-\item 45
-\item 30
+\item 20.
+\item 93.
+\item 45.
+\item 30.
 \end{escolha}
 
 % SAEB: Resolver problemas de adição, subtração, multiplicação, divisão,
@@ -641,20 +641,20 @@ Qual é a Idade de Thiago?
 % Considerando que a idade de Thiago é apenas o expoente, sabemos que
 % Thiago tem 30 anos.
 
-\num{3} Um pen drive possui diferentes capacidades de memória, mas a medida
+\num{3} Um \textit{pendrive} possui diferentes capacidades de memória, mas a medida
 normalmente utilizada é o GB. Sabendo que 1 GB = $(2^{10})$ megabytes,
-ao comprar um pen drive de 32 GB, quantos megabytes de armazenamento
+ao comprar um \textit{pendrive} de 32 GB, quantos megabytes de armazenamento
 estarão disponíveis?
 
 \begin{escolha}[itemsep=0pt]
-\item 32.768 megabytes
-    \rosa{ Correta, pois: $(2^10) = 1024$; $1024 \cdot 32 = 32.768$ megabytes.}
-\item 32.000 megabytes
-    \rosa{ Incorreta, o aluno chegaria a esse resultado ao considerar que $(2^{10})$ seja 1.000 ao invés de 1.024.}
-\item 16.384 megabytes
-    \rosa{ Incorreta, pois, ao considerar um 2 a menos na expressão, o aluno chegaria a esse resultado.}
-\item 64 megabytes
-    \rosa{ Incorreta, pois, ao realizar apenas a multiplicação ao\\ invés de realizar o cálculo da potência, o aluno chegaria a esse resultado.}
+\item 32.768 megabytes.
+    %\rosa{ Correta, pois: $(2^10) = 1024$; $1024 \cdot 32 = 32.768$ megabytes.}
+\item 32.000 megabytes.
+    %\rosa{ Incorreta, o aluno chegaria a esse resultado ao considerar que $(2^{10})$ seja 1.000 ao invés de 1.024.}
+\item 16.384 megabytes.
+    %\rosa{ Incorreta, pois, ao considerar um 2 a menos na expressão, o aluno chegaria a esse resultado.}
+\item 64 megabytes.
+    %\rosa{ Incorreta, pois, ao realizar apenas a multiplicação ao\\ invés de realizar o cálculo da potência, o aluno chegaria a esse resultado.}
 \end{escolha}
 
 
@@ -670,16 +670,17 @@ estarão disponíveis?
 
 \chapter{Frações}
 
-\section{Habilidades do SAEB}
+\section*{Habilidades do SAEB}
 
 \begin{itemize}
 \item
-  Identificar frações equivalentes.
+    Identificar frações equivalentes.
 \item
-  Determinar uma fração geratriz para uma dízima periódica.
-  \item Representar frações menores ou maiores que a
-unidade por meio de representações pictóricas ou associar frações a
-representações pictóricas.
+    Determinar uma fração geratriz para uma dízima periódica.
+\item
+    Representar frações menores ou maiores que a
+    unidade por meio de representações pictóricas ou associar frações a
+    representações pictóricas.
 \end{itemize}
 
 \subsection{Habilidade da BNCC}
@@ -688,83 +689,75 @@ representações pictóricas.
   \item EF08MA051.
 \end{itemize}
 
-\conteudo{
-\smallskip\noindent\textbf{Comparação de números racionais}\quad
-Comparar dois números racionais significa estabelecer se entre eles
+\conteudo{Comparar dois números racionais significa estabelecer se entre eles
 existe uma relação de superioridade, inferioridade ou igualdade.
 
-Todo número racional negativo é menor que todo número racional positivo
+Qualquer número racional negativo é menor que qualquer número racional positivo.
 
-$$(\frac{1}{5} \textless \frac{3}{4})$$
+Todo número racional negativo é menor que zero.
 
-Todo número racional negativo é menor que zero. $-5 \textless{} 0 -12,5 \textless{} 0 -(\frac{3}{2}) \textless{} 0$
-
-\smallskip\noindent\textbf{Operações com números racionais: adição e subtração}\quad
 Na forma fracionária, temos que estudar dois casos distintos: o primeiro
-deles refere-se às frações com denominadores iguais.
+deles refere-se às frações com denominadores iguais. O segundo, às frações com denominadores diferentes.
 
-O segundo, às frações com denominadores diferentes.
+\begin{enumerate}
 
-1º. caso: Frações de mesmo denominador.
+\item Frações de mesmo denominador:
 
 Para somarmos (ou subtrairmos) frações de mesmo denominador, mantemos o
 denominador e somamos (ou subtraímos) os numeradores. Veja um exemplo:
 
 $$(\frac{3}{5}) + (\frac{6}{5}) = (\frac{9}{5})$$
 
-2° caso: Frações com denominadores diferentes.
+\item Frações com denominadores diferentes:
 
 Para somarmos (ou subtrairmos) frações com denominadores diferentes,
 devemos obter frações equivalentes às frações dadas, de mesmo
 denominador. Em seguida, mantemos o denominador comum e somamos (ou
-subtraímos) os numeradores.
+subtraímos) os numeradores. Veja um exemplo:
 
 $$(\frac{2}{4}) + (\frac{3}{7}) = (\frac{14 + 12}{28}) = (\frac{26}{28})$$
 
-\smallskip\noindent\textbf{Multiplicação de números racionais}\quad
+\end{enumerate}
+
 Para multiplicarmos dois números racionais na forma fracionária,
 multiplicamos os numeradores entre si e, em seguida, os denominadores.
 Caso seja necessário, simplificamos o resultado até obter a fração
-irredutível. Exemplo:
+irredutível. Veja um exemplo:
 
 $$(\frac{3}{4}) \cdot (\frac{2}{5}) = (\frac{6}{20})= (\frac{3}{10})$$
 
-\smallskip\noindent\textbf{Divisão de números racionais}\quad
 Para dividirmos dois números racionais na forma fracionária, mantemos a
-primeira fração e multiplicamos pelo inverso da segunda.
+primeira fração e multiplicamos pelo inverso da segunda. Veja um exemplo:
 
 $$(\frac{1}{2}) \div (\frac{3}{5})= (\frac{1}{2}) \cdot (\frac{5}{3}) = (\frac{5}{6})$$
 
-\smallskip\noindent\textbf{Dízimas periódicas}\quad
-Em Matemática, muitas vezes, é útil representar números racionais,
+Muitas vezes, é útil representar números racionais,
 expressos por meio de frações, na forma decimal. Para isso, basta
 dividir o numerador pelo denominador. Em alguns casos, essa
-representação decimal é finita. Já em outros casos, ela é infinita.
-Exemplo:
+representação decimal é finita. Já em outros casos, ela é infinita, como neste exemplo:
 
 $$(\frac{1}{3}) = 0,3333333......$$
 
-\smallskip\noindent\textbf{Fração geratriz de dízimas periódicas simples}\quad
-Vamos encontrar a fração geratriz da dízima periódica $0,333333...$, ou
+Para encontrar a fração geratriz da dízima periódica $0,333333...$, ou
 seja, encontrar qual fração, quando transformada em número racional na
-forma decimal, gera essa dízima.
+forma decimal, gera essa dízima, montamos uma equação:
 
-Para isso, montamos uma equação:
-$$0,333333333... - x$$
-$$3,33333333... - 10x$$
-$$3,3333333333... - 0,333333333... = 3$$
+$0,333333333$... --- $x$
+$3,33333333$... --- $10x$
+
+$3,3333333333$... --- $$0,333333333... = 3$$
 $$10x - x = 9x$$
 
-Logo temos que $(\frac{3}{9})$ simplificando $(\frac{1}{3})$ é a nossa
+Logo, temos que $(\frac{3}{9})$ (simplificando $(\frac{1}{3})$) é a nossa
 fração geratriz.
 }
 
 
 
-\section{Atividades}
+\section*{Atividades}
 
-\num{1} Classifique com V para verdadeiro e F para falso as afirmações a
-seguir:
+\num{1} Classifique com V o que for verdadeiro e com F o que for falso entre as afirmações a
+seguir.
 
 \begin{boxlist}
 \boxitem{F} $4,9 = 4,09$
@@ -783,7 +776,7 @@ seguir:
 
 
 
-\num{2} Efetue as operações a seguir:
+\num{2} Efetue as operações a seguir.
 
 
 \begin{escolha}[itemsep=0pt]
@@ -811,7 +804,7 @@ seguir:
 
 
 
-\num{3} Resolva as multiplicações abaixo, mas antes de calculá-las,
+\num{3} Resolva as multiplicações a seguir, mas, antes de calculá-las,
 transforme os decimais em números fracionários.
 
 \begin{escolha}[itemsep=0pt]
@@ -833,9 +826,8 @@ transforme os decimais em números fracionários.
         \rosa{ $0,01 \cdot 0,001= (\frac{1}{100}) \cdot (\frac{1}{1\ 000}) = (\frac{1}{100\ 000})$}
 \end{escolha}
 
-\pagebreak
 
-\num{4} Resolva as divisões abaixo, mas antes transforme os decimais em
+\num{4} Resolva as divisões antes, mas antes transforme os decimais em
 números fracionários.
 
 \begin{escolha}[itemsep=0pt]
@@ -859,27 +851,62 @@ números fracionários.
 
 
 
-\num{5} Transforme as dízimas periódicas abaixo em frações geratrizes:
+\num{5} Transforme as dízimas periódicas aseguir em frações geratrizes.
 
 \begin{escolha}[itemsep=0pt]
 \item $2,333333...$
-        \rosa{$ (\frac{21}{9}) = (\frac{7}{3})$}
+        \rosa{Fração geratriz:}
+        
+        \rosa{$(\frac{21}{9})$}
+        
+        \rosa{Simplificando:}
+
+        \rosa{$(\frac{7}{3})$}
 \item $3,181818...$
-        \rosa{$ (\frac{315}{99})$}
+\rosa{Fração geratriz:}
+        
+        \rosa{$(\frac{315}{99})$}
+        
+        \rosa{Simplificando:}
+
+        \rosa{Não é possível simplificar}
+        
 \item $0,144444...$
-        \rosa{$ (\frac{13}{90})$}
+        \rosa{Fração geratriz:}
+        
+        \rosa{$(\frac{13}{90})$}
+        
+        \rosa{Simplificando:}
+
+        \rosa{Não é possível simplificar}
+        
 \item $4,166666...$
-        \rosa{$ (\frac{375}{90}) = (\frac{25}{6})$}
+        \rosa{Fração geratriz:}
+        
+        \rosa{$(\frac{375}{90})$}
+        
+        \rosa{Simplificando:}
+
+        \rosa{$(\frac{25}{6})$}
+        
 \item $1,2222...$
-        \rosa{$ (\frac{11}{9})$}
+        \rosa{Fração geratriz:}
+        
+        \rosa{$(\frac{11}{9})$}
+        
+        \rosa{Simplificando:}
+
+        \rosa{Não é possível simplificar}
 \end{escolha}
 
 
 \num{6} Prove que $0,99999999999999 = 1$
 
-\reduline{ $(\frac{0,99999999}{9,99999999} = \frac{x}{10x})$\hfill}\\
-\reduline{ $9,999999999 -- 0,999999999 = 9;  10 x - x = 9$ \hfill}\\
-\reduline{ Logo $(\frac{9}{9}) = 1$\hfill}\\
+\rosa{$(\frac{0,99999999}{9,99999999} = \frac{x}{10x})$}
+
+\rosa{$9,999999999 -- 0,999999999 = 9;  10 x - x = 9$}
+
+\rosa{Logo $(\frac{9}{9}) = 1$}
 
 % \num{7} Complete com X as lacunas corresponde aos valores corretos
 
@@ -898,49 +925,59 @@ seguintes resultados: 3,33333333... e 0,8888888...
 
 Quais operações Juliana pode ter realizado?
 
-\reduline{ $(\frac{3,333333333}{33,33333333} = \frac{x}{10x})$\hfill}\\
-\reduline{ $33,33333333... - 3,33333333... = 30$\hfill}\\
-\reduline{ $10 x - x = 9$; Logo, temos que Juliana chegou à fração $(\frac{30}{9})$\hfill} \\
-\reduline{ ou equivalentes. Analogamente, temos que\hfill}\\
-\reduline{ $(\frac{0,888888888}{8,888888888} = \frac{x}{10x}) 8,8888888... -- 0,88888888 = 8; 10x - x = 9$\hfill}\\
-\reduline{ Logo, temos que Juliana chegou à fração $(\frac{8}{9})$, ou equivalentes.}\\
+\rosa{ $(\frac{3,333333333}{33,33333333} = \frac{x}{10x})$}
+
+\rosa{ $33,33333333... - 3,33333333... = 30$}
+
+\rosa{ $10 x - x = 9$; Logo, temos que Juliana chegou à fração $(\frac{30}{9})$}
+
+\rosa{ ou equivalentes. Analogamente, temos que}
+
+\rosa{ $(\frac{0,888888888}{8,888888888} = \frac{x}{10x}) 8,8888888... -- 0,88888888 = 8; 10x - x = 9$}
+
+\rosa{ Logo, temos que Juliana chegou à fração $(\frac{8}{9})$, ou equivalentes.}
 
 
 
-\num{8} Um professor de matemática aposentado resolveu inovar em sua festa de
+
+\num{8} Um professor de Matemática aposentado resolveu inovar em sua festa de
 aniversário. Na parede do salão de festas, colocou um cartaz com os
-seguintes dizeres ``ao descobrirem a fração geratriz do número
-5,454545..., saberão que o numerador desta fração é a idade que estou
+seguintes dizeres ``Ao descobrirem a fração geratriz do número
+5,454545..., saberão que o numerador dessa fração é a idade que estou
 completando hoje''. Quantos anos o professor está completando?
 
-\reduline{$5,45454545... \longrightarrow x$\hfill}\\
-\reduline{$545,454545... \longrightarrow 100x$\hfill}\\
-\reduline{$(\frac{5,45454545}{545,454545} = \frac{x}{100x})$\hfill}\\
-\reduline{$5,45454545... - 545,454545 = 540; 100 - x = 99$\hfill}\\
-\reduline{Logo temos que $(\frac{540}{99}) = (\frac{60}{11})$, logo, 60 anos.}\\
+\rosa{$5,45454545... \longrightarrow x$}
+
+\rosa{$545,454545... \longrightarrow 100x$}
+
+\rosa{$(\frac{5,45454545}{545,454545} = \frac{x}{100x})$}
+
+\rosa{$5,45454545... - 545,454545 = 540; 100 - x = 99$}
+
+\rosa{Logo temos que $(\frac{540}{99}) = (\frac{60}{11})$, logo, 60 anos.}
 
 
 
-\num{9} Marly e João são irmãos gêmeos. Ao divirem tarefas domésticas,
-decidiram que cada um ia limpar uma parte da casa, desde que ambos
-limpassem ao final a mesma fração que o outro. Sabendo que Marly limpou
+\num{9} Marly e João são irmãos gêmeos. Ao dividirem tarefas domésticas,
+decidiram que cada um limparia uma parte da casa, desde que ambos
+limpassem ao final a mesma fração da casa. Sabendo que Marly limpou
 $(\frac{3}{9})$ da casa, qual fração João deverá limpar?
 
-\reduline{ O aluno pode responder qualquer fração equivalente, tal como $(\frac{6}{18})$.\hfill}\\
+\reduline{O aluno pode responder qualquer fração equivalente, tal como $(\frac{6}{18})$.\hfill}\\
 
-\section{Treino}
+\section*{Treino}
 
-\num{1} Assinale a alternativa correta:
+\num{1} Assinale a alternativa correta.
 
 \begin{escolha}[itemsep=0pt]
 \item O valor do número $(\pi)$ é aproximadamente
 $3,14159265358979323846$\ldots, e ele é considerado uma dízima periódica
 simples, pois seus 3 últimos números são pares.
-\item O número de ouro representado pelo número $1.61803399$... é considerado
+\item O número de ouro, representado pelo número $1.61803399$..., é considerado
 uma dízima periódica simples.
 \item Ao calcularmos uma dízima periódica simples, sempre encontramos uma
 fração geratriz.
-\item O conjunto dos números irracionais é composto por dízimas periódicas
+\item O conjunto dos números irracionais é composto de dízimas periódicas
 simples.
 \end{escolha}
 
@@ -967,10 +1004,10 @@ vista que compareceram 300 pessoas ao evento, quantos participantes não
 costumam se consultar?
 
 \begin{escolha}[itemsep=0pt]
-\item 200
-\item 150
-\item 600
-\item 100
+\item 200.
+\item 150.
+\item 600.
+\item 100.
 \end{escolha}
 
 % SAEB: Representar frações menores ou maiores que a unidade por meio de
@@ -991,9 +1028,9 @@ costumam se consultar?
 
 
 
-\num{3} Ao fazer um bolo de aniversário, Cecilia utiliza 400\,g de farinha de
-trigo. Ao dividir este bolo em 22 pedaços, qual fração geratriz
-representara a quantidade de farinha em cada pedaço de bolo?
+\num{3} Ao fazer um bolo de aniversário, Cecília utiliza 400\,g de farinha de
+trigo. Ao dividir o bolo em 22 pedaços, qual fração geratriz
+representará a quantidade de farinha em cada pedaço de bolo?
 
 \begin{escolha}[itemsep=0pt]
 \item $(\frac{200}{1})$ 
@@ -1040,7 +1077,7 @@ representara a quantidade de farinha em cada pedaço de bolo?
 
 \chapter{Porcentagens}
 
-\section{Habilidade do SAEB} 
+\section*{Habilidade do SAEB} 
 
 \begin{itemize}
 \item Resolver problemas que envolvam porcentagens,
@@ -1058,9 +1095,8 @@ de percentuais sucessivos e determinação de taxas percentuais.
 
 \conteudo{Porcentagem é a divisão por cem de algo a ser calculado. 
 
-
 Podemos calcular pelo método da regra
-de 3 simples ou pelo método multiplicativo de seu corresponde decimal.
+de 3 simples ou pelo método multiplicativo de seu correspondente decimal.
 
 Exemplo: $$25\% de 300$$
 
@@ -1075,54 +1111,70 @@ Pelo método multiplicativo de seu correspondente decimal, temos:
 
 $$300 \cdot (\frac{25}{100}) = 75$$}
 
-
-
-\pagebreak
-
-
-\section{Atividades}
+\section*{Atividades}
 
 \num{1} Em uma gincana realizada por uma escola, haverá várias modalidades
 para os alunos. Ao final das inscrições, 30 alunos escolheram jogar
-futsal, 18 alunos escolheram jogar Vôlei, 45 alunos escolheram jogar
-basquete e 32 alunos escolheram não participar de nenhuma modalidade.
+futsal, 18 alunos escolheram jogar vôlei, 45 alunos escolheram jogar
+basquete e 32 alunos escolheram não participar.
 
-Calcule então:
+Calcule, então, a porcentagem dos alunos que escolheram
 
 \begin{escolha}[itemsep=0pt]
-\item \% dos alunos que escolheram jogar futsal.\\
-\rosa{$ (\frac{125}{30} = \frac{100}{x}); 125 \cdot x = 30 \cdot 100; 125x = 3000; x = 24 \%$}
-\item \% dos alunos que escolheram jogar vôlei.\\
-\rosa{$ (\frac{125}{18} = \frac{100}{x}); 125 \cdot x = 100 \cdot 18; 125x = 1800; x = 14,4\%$}
-\item \% dos alunos que escolheram jogar basquete.\\
-\rosa{$ (\frac{125}{45} = \frac{100}{x}); 125 x = 4500; x = 36\%$}
-\item \% dos alunos que escolheram não participar de nenhuma modalidade.\\
-\rosa{$ (\frac{125}{32} = \frac{100}{x}); 125 \cdot x = 32 \cdot 100; 125x = 3200; x = 25,6\%$}
+\item jogar futsal.\\
+
+\rosa{$ (\frac{125}{30} = \frac{100}{x})$}
+
+\rosa{$125 \cdot x = 30 \cdot 100$}
+
+\rosa{$125x = 3000$}
+
+\rosa{$x = 24 \%$}
+\item jogar vôlei.\\
+
+\rosa{$ (\frac{125}{18} = \frac{100}{x})$}
+
+\rosa{$125 \cdot x = 100 \cdot 18$}
+
+\rosa{$125x = 1800$}
+
+\rosa{$x = 14,4\%$}
+\item jogar basquete.\\
+
+\rosa{$ (\frac{125}{45} = \frac{100}{x})$}
+
+\rosa{$125 \cdot x = 100 \cdot 45$}
+
+\rosa{$125 x = 4500$}
+
+\rosa{$x = 36\%$}
+\item não participar.\\
+
+\rosa{$ (\frac{125}{32} = \frac{100}{x})$}
+
+\rosa{$125 \cdot x = 32 \cdot 100$}
+
+\rosa{$125x = 3200$}
+
+\rosa{$x = 25,6\%$}
 \end{escolha}
-
-Em cada item acima deixar o espaço de 3 linhas para resposta.
-
-
-
-
 
 
 \num{2} Marcos é corretor de imóveis. Em janeiro, após ter um grande sucesso
 em suas vendas, ele recebeu um aumento de 10\% no salário, que passou a
-ser de R\$\,2.178,00. O valor do salário de Marcos antes do aumento era:
+ser de R\$\,2.178,00. Qual era valor do salário de Marcos antes do aumento?
 
-\begin{escolha}[itemsep=0pt]
-\item R\$\,1.980,00
-\item R\$\,1.990,00
-\item R\$\,2.000,00
-\item R\$\,2.100,00
-\end{escolha}
+\rosa{ Utilizando a regra de 3 simples, temos que:}
 
+\rosa{$ (\frac{x}{2178} = \frac{100}{110})$}
 
-%Deixar o espaço de 3 linhas para resposta.
+\rosa{Logo, $x \cdot 110 = 2178 \cdot 100$}
 
-\reduline{ Utilizando a regra de 3 simples, temos que:\hfill}\\
-\reduline{$ (\frac{x}{2178} = \frac{100}{110}); Logo, x \cdot 110 = 2178 \cdot 100; 110x = 217 800; x = 1980$\hfill}\\
+\rosa{$110x = 217 800$}
+
+\rosa{$x = 1980$}
+
+\rosa{O salário era de R\$\,1.980,00.}
 
 \num{3} Após uma apresentação de teatro, 250 espectadores foram entrevistados
 e opinaram sobre o show. Veja o resultado dessa pesquisa:
@@ -1140,97 +1192,116 @@ e opinaram sobre o show. Veja o resultado dessa pesquisa:
 
 Calcule a porcentagem de cada opinião.
 
-\reduline{ Ótimo: $(\frac{250}{105} = \frac{100}{x}); 250 \cdot x = 100 \cdot 105; 250x = 10 500; x = 42\%$ \hfill}\\
-\reduline{ Bom: $(\frac{250}{100} = \frac{100}{x})$\hfill}\\
-\reduline{ $250 \cdot x = 100 \cdot 100; 250x= 10 000; x = 40\%$\hfill}\\
-\reduline{ Regular: $(\frac{250}{30} = \frac{100}{x}); 250.x=100 .30; 250x = 3000; x = 12\%;$ \hfill}\\
-\reduline{ $(\frac{250}{15} = \frac{100}{x}); 250x = 100 \cdot 15; 250 x = 1500; x = 6\%$\hfill}\\
-\linhas{2}
+\rosa{Ótimo: $(\frac{250}{105} = \frac{100}{x})$}
+\rosa{$250 \cdot x = 100 \cdot 105; 250x = 10 500; x = 42\%$}
+\rosa{Bom: $(\frac{250}{100} = \frac{100}{x})$}
+\rosa{$250 \cdot x = 100 \cdot 100; 250x= 10 000; x = 40\%$}
+\rosa{Regular: $(\frac{250}{30} = \frac{100}{x}); 250.x=100 .30; 250x = 3000; x = 12\%;$}
+\rosa{Ruim: $(\frac{250}{15} = \frac{100}{x}); 250x = 100 \cdot 15; 250 x = 1500; x = 6\%$}
 
 \num{4} Valdemar é mecânico e adquiriu um carro quebrado pelo valor de
 R\$\,10.000,00. Depois que o consertou, resolveu vendê-lo. Ele anunciou o
 carro pelo valor de R\$\,16.000,00. Qual é o fator multiplicativo que ele
 utilizou?
 
-\reduline{ Utilizando a regra de 3 simples temos que:\hfill}\\
-\reduline{ $(\frac{10.000}{16.000} = \frac{100}{x})$\hfill}\\
-\reduline{ Logo $10.000 \cdot x = 16.000 \cdot 1.000$\hfill}\\
-\reduline{ $10.000x = 1.600.000; x = 160$\hfill}\\
+\rosa{ Utilizando a regra de 3 simples, temos que:}
 
-Logo houve um acréscimo de 60\%, então 60 \div 100 = 0,6.
+\rosa{ $(\frac{10.000}{16.000} = \frac{100}{x})$}
 
-O fator multiplicativo foi de 0,6.
+\rosa{ Logo $10.000 \cdot x = 16.000 \cdot 1.000$}
+
+\rosa{ $10.000x = 1.600.000; x = 160$}
+
+\rosa{Houve um acréscimo de $60\%$, então $60 \div 100 = 0,6$.}
+
+\rosa{O fator multiplicativo foi de $0,6$.}
 
 \num{5} Amanda trabalha em uma loja de calçados. Certo dia, seu gerente
-ofereceu uma porcentagem fixa de comissão para cada funcionário.para as vendas de
-um tênis de 150 reais Amanda obteve uma comissão de 12 reais. Qual porcentagem
-fixa Amanda ganhará sobre cada produto?
+ofereceu uma porcentagem fixa de comissão a cada funcionário para as vendas de
+um tênis de 150 reais Amanda obteve uma comissão de 12 reais por um par de tênis.
+Qual porcentagem fixa Amanda ganhou sobre cada produto?
 
-\reduline{ Utilizando a regra de 3 simples, temos que:\hfill}\\
-\reduline{ $(\frac{150}{12} = \frac{100}{x})$\hfill}\\
-\reduline{ Logo 150 \cdot x = 12 \cdot 100; 150 x = 1.200; x = 8 \%\hfill}\\
+\rosa{ Utilizando a regra de 3 simples, temos que:}
+
+\rosa{ $(\frac{150}{12} = \frac{100}{x})$}
+
+\rosa{ Logo 150 \cdot x = 12 \cdot 100; 150 x = 1.200; x = 8 \%}
 
 \num{6} Em um colégio, estudam 3.200 alunos, dos quais 1.440 são meninos. O
 número de meninas representa quantos por cento do total de alunos que estudam
 nesse colégio?
 
-\reduline{ Utilizando a regra de 3 simples temos que:\hfill}\\
-\reduline{ $(\frac{3.200}{1.440} = \frac{100}{x})$\hfill}\\
-\reduline{ Logo, $3.200 \cdot x = 1.440 \cdot 100; 3.200x = 144.000; x = 45\%$ de meninos. Logo, $55\%$ são meninas.\hfill}\\
+\rosa{ Utilizando a regra de 3 simples temos que:}
 
-\num{7} Ao terminar o curso na auto escola, Magda realizou uma prova escrita
+\rosa{ $(\frac{3.200}{1.440} = \frac{100}{x})$}
+
+\rosa{ Logo, $3.200 \cdot x = 1.440 \cdot 100; 3.200x = 144.000; x = 45\%$ de meninos. Logo, $55\%$ são meninas.}
+
+\num{7} Ao terminar o curso na autoescola, Magda realizou uma prova escrita
 contendo leis de trânsito. Ela acertou 38 das 50 questões apresentadas.
 Sabendo que, para passar na prova escrita, Magda precisava acertar pelo
 menos 80\% da prova, ela foi aprovada ou reprovada?
 
-\reduline{ Utilizando a regra de 3 simples, temos que:\hfill}\\
-\reduline{ $(\frac{50}{38} = \frac{100}{x})$. Logo $50 \cdot x = 38 \cdot 100; 50x = 3.800; x = 76\%$, logo, Magda foi reprovada.\hfill}\\
+\rosa{ Utilizando a regra de 3 simples, temos que:}
 
-\num{8} Alfredo é professor de educação física em uma escola. Na última aula,
+\rosa{ $(\frac{50}{38} = \frac{100}{x})$. Logo $50 \cdot x = 38 \cdot 100; 50x = 3.800; x = 76\%$}
+
+\rosa{Logo, Magda foi reprovada.}
+
+\num{8} Alfredo é professor de Educação Física em uma escola. Na última aula,
 5 dos 40 alunos de uma classe faltaram. Ao registrar as faltas no diário
-de classe, quantos \% de faltas Alfredo reportou naquela aula?
+de classe, quantos por cento de faltas Alfredo reportou naquela aula?
 
-\reduline{ Utilizando a regra de 3 simples, temos que:\hfill}\\
-\reduline{ $(\frac{40}{5} = \frac{100}{x})$. Logo $40 \cdot x = 5 \cdot 100; 40x = 500; x = 12,5\%$ de faltas.\hfill}\\
+\rosa{Utilizando a regra de 3 simples, temos que:}
+
+\rosa{$(\frac{40}{5} = \frac{100}{x})$}
+
+\rosa{Logo $40 \cdot x = 5 \cdot 100; 40x = 500; x = 12,5\%$ de faltas.}
 
 \num{9} A primeira edição da Copa do Mundo de Futebol Masculino foi realizada
 em 1930. Desse ano até 2023, já foram realizados 22 torneios, sendo que
 o Brasil ganhou 5 deles. O número de conquistas brasileiras representa
-quantos \% dos torneios realizados?
+quantos por cento dos torneios realizados?
 
-\reduline{ Utilizando a regra de 3 simples, temos que:\hfill}\\
-\reduline{ $(\frac{22}{5} = \frac{100}{x})$\hfill}\\
-\reduline{ Logo, $22x = 100 \cdot 5; 22x = 500; x = 22,72\%$\hfill}\\
+\rosa{ Utilizando a regra de 3 simples, temos que:}
+
+\rosa{ $(\frac{22}{5} = \frac{100}{x})$}
+
+\rosa{ Logo $22x = 100 \cdot 5; 22x = 500; x = 22,72\%$}
 
 \num{10} Quanto cada situação abaixo renderá de juros?
 
-\reduline{A quantia de R\$\,1.800, aplicada durante 5 meses, a uma taxa de 2,3\% ao mês.\hfill}\\
+\begin{escolha}[itemsep=0pt]
+\item{A quantia de R\$\,1.800, aplicada durante 5 meses, a uma taxa de 2,3\% ao mês.}
 
-\reduline{ Utilizando juros simples temos que\hfill}\\
-\reduline{ $J = C × i × t$\hfill}\\
-\reduline{ $J= 1800 \cdot 0,023 \cdot 5$\hfill}\\
-\reduline{ $J= 207$\hfill}\\
-\reduline{A quantia de R\$\,2.450, aplicada durante 2 meses, a uma taxa de 1,96\% ao mês.\hfill}\\
+\rosa{ Utilizando juros simples, temos que}
 
-\reduline{ $J = C × i × t$\hfill}\\
-\reduline{ $J = 2450 \cdot 0,0196 \cdot 2$\hfill}\\
-\reduline{ $J= 96,04$\hfill}\\
+\rosa{ $J = C × i × t$}
 
+\rosa{ $J = 1800 \cdot 0,023 \cdot 5$}
 
+\rosa{ $J = 207$}
 
+\item{A quantia de R\$\,2.450, aplicada durante 2 meses, a uma taxa de 1,96\% ao mês.}
 
+\rosa{ $J = C × i × t$}
 
-\section{Treino}
+\rosa{ $J = 2450 \cdot 0,0196 \cdot 2$}
+
+\rosa{ $J = 96,04$}
+\end{escolha}
+
+\section*{Treino}
 
 \num{1} A preparação ideal para um suco é 120 mililitros de água para cada 80
 mililitros de suco de fruta concentrado. Qual é a taxa percentual de
 água para a preparação do suco?
 
 \begin{escolha}[itemsep=0pt]
-\item 60\%
-\item 6\%
-\item 0,6\%
-\item 0,06\%
+\item 60\%.
+\item 6\%.
+\item 0,6\%.
+\item 0,06\%.
 \end{escolha}
 
 % SAEB: Resolver problemas que envolvam porcentagens, incluindo os que
@@ -1261,15 +1332,15 @@ mililitros de suco de fruta concentrado. Qual é a taxa percentual de
 % D: incorreta pois o aluno chegaria a esse resultado caso inserisse três
 % zeros a menos na expressão.
 
-\num{2} Em uma empresa, foi realizada uma eleição para escolher o seu
+\num{2} Em uma empresa, foi realizada uma eleição para escolher um
 representante. O candidato vencedor obteve 22 votos, o equivalente a
 55\% do total. Quantas pessoas votaram nessa eleição?
 
 \begin{escolha}[itemsep=0pt]
-\item 12 pessoas
-\item 44 pessoas
-\item 22 pessoas
-\item 55 pessoas
+\item 12 pessoas.
+\item 44 pessoas.
+\item 22 pessoas.
+\item 55 pessoas.
 \end{escolha}
 
 % SAEB: Resolver problemas que envolvam porcentagens, incluindo os que
@@ -1304,10 +1375,10 @@ juros de 1\% ao mês sobre o valor. Sabendo que pagou R\$\,6.000,00 de
 juros, quantos meses ele levou para pagar o empréstimo?
 
 \begin{escolha}[itemsep=0pt]
-\item 5 meses
-\item 20 meses
-\item 1 200 meses
-\item 6 000 meses
+\item 5 meses.
+\item 20 meses.
+\item 120 meses.
+\item 600 meses.
 \end{escolha}
 
 % SAEB: Resolver problemas que envolvam porcentagens, incluindo os que
@@ -1339,13 +1410,10 @@ juros, quantos meses ele levou para pagar o empréstimo?
 
 \chapter{Equações polinomiais de 1º grau}
 
-\section{Habilidades do SAEB} 
-
-\begin{enumerate}
-\item Resolver uma equação polinomial de 1º grau.
-\end{enumerate}
+\section*{Habilidades do SAEB} 
 
 \begin{itemize}
+\item Resolver uma equação polinomial de 1º grau.
 \item
   Inferir uma equação, inequação polinomial de 1º grau ou um sistema de
   equações de 1º grau com duas incógnitas que modela um problema.
@@ -1366,105 +1434,99 @@ juros, quantos meses ele levou para pagar o empréstimo?
 \item EF08MA07, EF08MA08.
 \end{enumerate}
 
-\conteudo{
-\smallskip\noindent\textbf{Sistemas de equações do 1º. grau com duas incógnitas}\quad
-Denominamos equação do 1º. grau com duas incógnitas (x e y) aquela que
-pode ser reduzida a uma equação do tipo ax + by = c, em que a, b e c são
-números reais, chamados coeficientes, com a diferente de 0 e b diferente
-de 0.
-
-Exemplo:
+\conteudo{Denominamos equação do 1º grau com duas incógnitas ($x$ e $y$) aquela que
+pode ser reduzida a uma equação do tipo $$ax + by = c$$, em que $a$, $b$ e $c$ são
+números reais, chamados coeficientes, com $a$ diferente de $0$ e $b$ diferente
+de $0$. Veja um exemplo.
 
 Mariana comprou uma caneta e dois lápis por R\$\,10,00.
 
-Indicando por x o preço de uma caneta e por y o preço de um lápis,
+Indicando por $x$ o preço de uma caneta e por $y$ o preço de um lápis,
 podemos escrever:
 
 $$x + 2y = 10$$
 
-Temos, então, um exemplo de equação do 1º. grau com duas incógnitas.
+Temos, então, um exemplo de equação do 1º grau com duas incógnitas.
 
-Sistema de duas equações do 1º. grau com duas incógnitas
-
-Um sistema geralmente é formado por uma situação-problema que envolve 2
-incógnitas. Por exemplo:
+Um sistema geralmente é formado por uma situação-problema que envolve duas
+incógnitas. Veja um exemplo.
 
 Um grupo de amigos foi a uma sorveteria e comprou sorvetes com uma ou
-duas bolas ao preço de R\$~3,00 e R\$~5,00, respectivamente. Foram
-comprados 12~sorvetes, que custaram ao todo R\$~44,00. Quantos sorvetes
-com uma bola foram comprados? E~com duas bolas? Sendo que x = a
-quantidade de sorvetes com uma bola e y = a quantidade de sorvetes com
-duas bolas.
+duas bolas ao preço de R\$\,3,00 e R\$\,5,00, respectivamente. Foram
+comprados 12 sorvetes, que custaram ao todo R\$\,44,00. Quantos sorvetes
+com uma bola foram comprados? E com duas bolas?
 
-Assim, podemos representar essa situação em linguagem algébrica da
+Sendo $x$ = a quantidade de sorvetes com uma bola e $y$ = a quantidade de sorvetes com
+duas bolas, podemos representar essa situação em linguagem algébrica da
 seguinte forma:
 
 $$x + y = 12$$
 $$3x + 5y = 44$$
 
-Temos, portanto, duas equações do 1º. grau com as mesmas duas
+Temos, portanto, duas equações do 1º grau com as mesmas duas
 incógnitas, que formam um sistema.
 
-Resolução de Sistemas de equações
+Relembre, agora, os métodos para resolução de sistemas de equações.
 
-Método da substituição
-
-Considere o sistema
+\begin{enumerate}
+\item \textbf{Método da substituição}
 
 $$x - y = -5$$
 $$2x + 3y = 10$$
 
 Enumeramos com I a primeira equação e II a segunda equação.
-Primeiramente, isolaremos 1 incógnita da primeira equação. Temos que:
+Primeiramente, isolaremos uma incógnita da primeira equação.
 
-$$x - y = - 5$$
-$$x = y - 5$$
+I) $$x - y = - 5$$
+I) $$x = y - 5$$
 
-Agora, substituiremos o valor de x na segunda equação:
+Agora, substituiremos o valor de $x$ na segunda equação:
 
-$$2x + 3y = 10$$
-$$2 ( y -- 5) + 3y = 10$$
-$$2y - 10 + 3y = 10$$
-$$5y = 20$$
+II) $$2x + 3y = 10$$
+II) $$2 ( y -- 5) + 3y = 10$$
+II) $$2y - 10 + 3y = 10$$
+II) $$5y = 20$$
 $$y = 4$$
 
 Como sabemos o valor de $y$, agora basta substituir o valor de $y$ em
 qualquer uma das duas equações para obtermos $x = -1$.
 
-\smallskip\noindent\textbf{Resolução pelo método da adição}\quad
-Considere o sistema:
+\item \textbf{Método da adição}
 
 $$x + y = 16$$
 $$X - y = 2$$
 
 Realizando a soma das equações membro a membro, obtemos
 
-$$x + y = 16$$
-$$x - y = 2$$
 $$2x + 0y = 18$$
 
-Temos então que $2x = 18$, $logo x = 9$
+Temos, então, que $$2x = 18 \rightarrow x = 9$$.
 
-Substituindo o valor de x em qualquer uma das equações, obtemos que y =
-7.
+Substituindo o valor de $x$ em qualquer uma das equações, obtemos que $y =
+7$.
+\end{enumerate}
 }
 
 
 
-\section{Atividades}
+\section*{Atividades}
 
 \num{1} Classifique cada um destes sistemas de equações em determinado,
-indeterminado ou impossível, sendo x e y números racionais.
+indeterminado ou impossível, sendo $x$ e $y$ números racionais.
 
 \begin{escolha}[itemsep=0pt]
 \item $x - 2y = 3; 3x - 6y = 9$
-        \rosa{ Indeterminado}
+
+        \reduline{ Indeterminado.\hfill}
 \item $3x - 2y = 1; 6x - 4y = 3$
-        \rosa{ Impossível}
+
+        \reduline{ Impossível.\hfill}
 \item $x - 2y = 3; x + 2y = 7$
-        \rosa{ Determinado: solução, $5,1$}
+
+        \reduline{ Determinado. Solução: $\{5,1\}$\hfill}
 \item $2x - y = 5; -2x + y = -5$
-        \rosa{ Indeterminado}
+
+        \reduline{ Indeterminado.\hfill}
 \end{escolha}
 
 
@@ -1473,46 +1535,87 @@ indeterminado ou impossível, sendo x e y números racionais.
 
 
 \num{2} Há 5 anos, Thais tinha a metade da idade que terá daqui a 8 anos.
-Qual é a idade de Thais?
+Qual é a idade de Thais agora?
 
-\reduline{ extraindo as informações do enunciado, temos que:\hfill}\\
-\reduline{ $x- 5 = (\frac{x + 8}{2})$\hfill}\\
-\reduline{ $2( x-5) = x+8$\hfill}\\
-\reduline{ $2x -10 = x + 8$\hfill}\\
-\reduline{ $2x -- x= +10 + 8$\hfill}\\
-\reduline{ $x = 18$}\\
+\rosa{ Extraindo as informações do enunciado, temos que:}
 
-\num{3} Um campo de golfe tem medida de perímetro de 300 metros. A medida de
-comprimento da largura desse campo é o dobro da medida de comprimento da
-profundidade. Quais são as medidas das dimensões desse campo?
+\rosa{ $x- 5 = (\frac{x + 8}{2})$}
 
-\reduline{ Cálculo do perímetro\hfill}\\
-\reduline{ $300= 2x + 2x + x + x; 300 = 6x; x = 50$\hfill}\\
-\reduline{ Logo, as dimensões do campo são 50 m de profundidade e 100 m de largura.\hfill}\\
+\rosa{ $2( x-5) = x+8$}
+
+\rosa{ $2x -10 = x + 8$}
+
+\rosa{ $2x -- x= +10 + 8$}
+
+\rosa{ $x = 18$}
+
+\num{3} Um campo de golfe tem perímetro de medida de 300 metros. A medida do
+comprimento desse campo é o dobro da medida da largura.
+Quais são as medidas das dimensões desse campo?
+
+\rosa{ Cálculo do perímetro:}
+
+\rosa{ $$300 = 2x + 2x + x + x$$}
+
+\rosa{$$300 = 6x$$}
+
+\rosa{$$x = 50$$}
+
+\rosa{ Logo, as dimensões do campo são 50 m de comprimeito e 100 m de largura.}
 
 \num{4} Um tanque de leite tem medida de capacidade de 1.000 litros. Com ele
 inicialmente cheio, foram retirados 10 baldes de leite de mesma medida
 da capacidade, restando 850 litros no tanque. Qual é a medida de
 capacidade de cada balde?
 
-\reduline{ $1000 - 10 x = 850$\hfill}\\
-\reduline{ $-10x = -150$\hfill}\\
-\reduline{ $x = 15$\hfill}\\
+\rosa{ $1000 - 10 x = 850$}
 
-\num{5} Determine x e y para que cada uma das igualdades seja verdadeira.
+\rosa{ $-10x = -150$}
+
+\rosa{ $x = 15$ litros}
+
+\num{5} Determine $x$ e $y$ para que cada uma das igualdades seja verdadeira.
 
 \begin{escolha}[itemsep=0pt]
 \item $(x, y ) = ( 8, -3)$
+
+            \rosa{Para que a igualdade}
+            \rosa{seja verdadeira, tem-se:}
             \rosa{ $x = 8 e y = - 3$}
 \item $(7, y + 6) = (x, 9)$
+            
+            \rosa{Para que a igualdade}
+
+            \rosa{seja verdadeira, tem-se:}
+
             \rosa{ $x = 7 e y = 3$}
 \item $(x, -2) = (6, y)$
+            
+            \rosa{Para que a igualdade}
+
+            \rosa{seja verdadeira, tem-se:}
+
             \rosa{ $x = 6 e y = -2$}
 \item $(x + 1, y + 1) = (6, 4)$
+            
+            \rosa{Para que a igualdade}
+
+            \rosa{seja verdadeira, tem-se:}
+
             \rosa{ $x = 5 e y = 3$}
 \item $(x, y + 2) = (5, 4)$
+            
+            \rosa{Para que a igualdade}
+
+            \rosa{seja verdadeira, tem-se:}
+
             \rosa{ $x = 5 e y = 2$}
 \item $(4, y + 7) = (x + 1, 6)$
+            
+            \rosa{Para que a igualdade}
+
+            \rosa{seja verdadeira, tem-se:}
+
             \rosa{ $x = 3 e y = -1$}
 \end{escolha}
 
@@ -1520,82 +1623,113 @@ capacidade de cada balde?
 anos, a idade de Reinaldo era o triplo da idade de Luan. Quantos anos
 eles têm hoje?
 
-\reduline{ Definindo como x a idade de Reinaldo e y a idade de Luan, temos que:\hfill}\\
-\reduline{ $x = 2y - 4  $\hfill}\\
-\reduline{ $x - 10 = 3(y - 10)$\hfill}\\
-\reduline{ $2y - 4 - 10 = 3(y - 10) \Rightarrow  2y - 14 = 3y -30 \Rightarrow  -y = -16 \Rightarrow  y = 16$\hfill}\\
-\reduline{Luan tem 16 anos. Substituindo y por 16, encontramos que\hfill}\\
-\reduline{$x = 2y - 4  \Rightarrow  x= 2 \cdot 16 - 4  \Rightarrow  x = 28$\hfill}\\
-\reduline{ Logo, a idade de Reinaldo é 28 anos.\hfill}\\
+\rosa{Definindo como $x$ a idade de Reinaldo e $y$ a idade de Luan, temos que:}
 
-\pagebreak
+\rosa{$x = 2y - 4$}
+
+\rosa{$x - 10 = 3(y - 10)$}
+
+\rosa{$2y - 4 - 10 = 3(y - 10) \Rightarrow  2y - 14 = 3y -30 \Rightarrow  -y = -16 \Rightarrow  y = 16$}
+
+\rosa{Luan tem 16 anos. Substituindo $y$ por 16, encontramos que:}
+
+\rosa{$x = 2y - 4  \Rightarrow  x= 2 \cdot 16 - 4  \Rightarrow  x = 28$}
+
+\rosa{Logo, a idade de Reinaldo é 28 anos.}
 
 \num{7} Um estádio de futebol oferece dois valores de ingresso: um para os
 torcedores do time mandante e outro para os torcedores da equipe visitante. Um
-grupo composto por seis torcedores da equipe mandante e um da torcida
+grupo composto de seis torcedores da equipe mandante e um da torcida
 visitante pagou R\$\,71,00 pelos ingressos. Outro grupo, de sete torcedores da
 equipe mandante e quatro da torcida visitante, pagou R\$\,131,00. Qual era o
 preço de cada ingresso?
 
-\reduline{ Definindo x para torcida da equipe mandante e y para torcida da equipe\hfill}\\
-\reduline{ visitante, temos que: $6x + y = 71; 7x + 4y = 131$\hfill}\\
-\reduline{ Utilizando a equação 1, isolamos o termo y: $6x + y = 71; y = 71 - 6x$\hfill}\\
-\reduline{ Utilizando a expressão na equação 2, temos que $7x + 4y = 131; 7x + 4 ( 71 -- 6x) = 131;$ \hfill}\\
-\reduline{$ 7x + 284 - 24x = 131; -17x = - 153; x = 9$\hfill}\\
-\reduline{ Logo, o valor do ingresso pago pela torcida da equipe mandante foi de R\$\,9,00.\hfill}\\
-\reduline{ Para encontrarmos o valor do ingresso da torcida visitante:\hfill}\\
-\reduline{ $6x+ y = 71; 6 \cdot 9 + y = 71; 54 + y = 71; y = 17$\hfill}\\
-\reduline{ Logo, o valor do ingresso pago pela torcida da equipe visitante foi de R\$\,17,00.\hfill}\\
+\rosa{ Definindo $x$ para torcida da equipe mandante e $y$ para torcida da equipe}
+
+\rosa{ visitante, temos que: $6x + y = 71; 7x + 4y = 131$}
+
+\rosa{ Utilizando a primeira equação, isolamos o termo $y$: $6x + y = 71; y = 71 - 6x$}
+
+\rosa{ Utilizando a expressão na outra equação, temos que $7x + 4y = 131; 7x + 4 ( 71 -- 6x) = 131;$ }
+
+\rosa{$ 7x + 284 - 24x = 131; -17x = - 153; x = 9$}
+
+\rosa{ Logo, o valor do ingresso pago pela torcida da equipe mandante foi de R\$\,9,00.}
+
+\rosa{ Para encontrarmos o valor do ingresso da torcida visitante:}
+
+\rosa{ $6x+ y = 71; 6 \cdot 9 + y = 71; 54 + y = 71; y = 17$}
+
+\rosa{ Logo, o valor do ingresso pago pela torcida da equipe visitante foi de R\$\,17,00.}
 
 \num{8} Resolva os sistemas de equações utilizando o método da substituição.
 
-
 \begin{escolha}[itemsep=0pt]
 \item $2x + y = 0; 2x - y = 4$
-        \rosa{ $( 1, -2)$}
 \item $x - y = 5; x + y = 7$
-        \rosa{ $(6,1)$}
 \item $x + y = 0; 2x + y = 14$
-        \rosa{ $(14, - 14)$}
 \item $4x - y = 6; 4y = 8$
-        \rosa{ $( 2, 2)$}
 \end{escolha}
 
+\rosa{Para o item a, temos:}
 
-\num{9} Em um pátio, há carros e motos, totalizando 32 veículos e 88~pneus.
+\rosa{$(1, -2)$}
+
+\rosa{Para o item b, temos:}
+
+\rosa{$(6, 1)$}
+
+\rosa{Para o item c, temos:}
+
+\rosa{$(14, -14)$}
+
+\rosa{Para o item d, temos:}
+
+\rosa{$(2, 2)$}
+
+\num{9} Em um pátio, há carros e motos, totalizando 32 veículos e 88 pneus.
 Determine o número de veículos de cada tipo.
 
-\reduline{Determinando x para motos e y para carros, temos que :\hfill}\\
-\reduline{2x + 4y = 88; x + y = 32\hfill}\\
-\reduline{Isolando um termo na segunda equação, temos que: x = 32 - y\hfill}\\
-\reduline{Inserindo a equação 2 dentro da equação 1, temos:\hfill}\\
-\reduline{2(32 - y) + 4y = 88; 64 - 2y + 4y = 88; 2y = 24; y = 12\hfill}\\
-\reduline{Portanto, há 12 carros no pátio.\hfill}\\
-\reduline{Se o número de veículos no pátio é 32 e já sabemos que há 12 carros,\hfill}\\
-\reduline{analogamente, concluímos há 20 motos.\hfill}
+\rosa{Determinando $x$ para motos e $y$ para carros, temos que :}
 
-\pagebreak
+\rosa{$2x + 4y = 88; x + y = 32$}
 
-\num{10} Tenho vacas e galinhas, totalizando 35 cabeças e 110 pés. Calcule o
-número de~vacas e galinhas.
+\rosa{Isolando um termo na segunda equação, temos que: $x = 32 - y$}
 
-\reduline{ definindo com x = vacas e y = galinhas, temos o seguinte sistema: 4x + 2y = 110; x + y = 35\hfill}\\
-\reduline{ Isolando x na segunda equação: x = 35 - y\hfill}\\
-\reduline{ Substituindo a segunda equação na primeira: 4(35 - y) + 2y = 110; 140 - 4y + 2y = 110; -2y = - 30; y = 15\hfill}\\
-\reduline{ Se o número de galinhas é igual a 15 e temos 35 cabeças, logo, 35 - 15 = 20\hfill}\\
+\rosa{Inserindo a equação 2 dentro da equação 1, temos:}
 
-\section{Treino}
+\rosa{$2(32 - y) + 4y = 88; 64 - 2y + 4y = 88; 2y = 24; y = 12$}
 
+\rosa{Portanto, há 12 carros no pátio.}
+
+\rosa{Se o número de veículos no pátio é 32 e já sabemos que há 12 carros,}
+
+\rosa{analogamente, concluímos há 20 motos.}
+
+\num{10} Márcia tem vacas e galinhas, totalizando 35 cabeças e 110 pés. Calcule o
+número de vacas e galinhas.
+
+\rosa{ Definindo com $x$ o número de vacas e com $y$ o número galinhas,}
+
+\rosa{temos o seguinte sistema: $4x + 2y = 110; x + y = 35$}
+
+\rosa{Isolando x na segunda equação: $x = 35 - y$}
+
+\rosa{Substituindo a segunda equação na primeira: $4(35 - y) + 2y = 110; 140 - 4y + 2y = 110; -2y = - 30; y = 15$}
+
+\rosa{Se o número de galinhas é igual a 15 e temos 35 cabeças, logo, $35 - 15 = 20$.}
+
+\section*{Treino}
 
 \num{1} Dois tambores contêm juntos 900 litros de petróleo. Se passarmos 100
-litros do primeiro tanque para o segundo, este ficará com o dobro do de
-litros do primeiro. Quantos litros contém o segundo tanque?
+litros do primeiro tanque para o segundo, este ficará com o dobro de
+litros que o primeiro. Quantos litros contém o segundo tambor?
 
 \begin{escolha}[itemsep=0pt]
-\item 400
-\item 500
-\item 200
-\item 1.000
+\item 400.
+\item 500.
+\item 200.
+\item 1.000.
 \end{escolha}
 
 
@@ -1632,12 +1766,12 @@ litros do primeiro. Quantos litros contém o segundo tanque?
 \num{2} Luzia pensou em um número racional. Somou $(\frac{1}{3})$ a ele e
 obteve 11. Em qual número Luzia pensou?
 
-\begin{enumerate}
+\begin{escolha}[itemsep=0pt]
 \item $(\frac{11}{3})$
 \item $(\frac{3}{11})$
 \item $(\frac{32}{3})$
 \item $(\frac{1}{33})$
-\end{enumerate}
+\end{escolha}
 
 % SAEB: Resolver problemas que possam ser representados por sistema de
 % equações de 1º grau com duas incógnitas.
@@ -1664,7 +1798,7 @@ obteve 11. Em qual número Luzia pensou?
 % D: Incorreta, pois o aluno pode confundir as operações e realizar a
 % operação de divisão .
 
-\num{3} Qual é o valor de x que torna verdadeira a igualdade $2x - 7 = -2,5x + 2$?
+\num{3} Qual é o valor de $x$ que torna verdadeira a igualdade $2x - 7 = -2,5x + 2$?
 
 \begin{escolha}[itemsep=0pt]
 \item $x = 18$
@@ -1698,7 +1832,7 @@ obteve 11. Em qual número Luzia pensou?
 
 \chapter{Representações algébricas}
 
-\section{Habilidades do SAEB }
+\section*{Habilidades do SAEB }
 
 \begin{itemize}
 \item
@@ -1711,136 +1845,131 @@ obteve 11. Em qual número Luzia pensou?
 
 \subsection{Habilidades da BNCC}
 
- EF08MA10,  EF08MA1C.
+\begin{itemize}
+\item EF08MA10, EF08MA11.
+\end{itemize}
 
-\conteudo{
-\smallskip\noindent\textbf{Expressões Algébricas}\quad
-Expressões algébricas são aquelas que indicam operações matemáticas com
-números e letras ou somente letras.
-
-É possível usar letras para representar números reais desconhecidos, que
+\conteudo{Expressões algébricas são aquelas que indicam operações matemáticas com
+números e letras ou somente letras. É possível usar letras para representar números reais desconhecidos, que
 chamamos de incógnitas.
 
-\smallskip\noindent\textbf{Monômios}\quad
 Um monômio é uma expressão matemática que consiste em um único termo.
-Cada monômio é composto por um coeficiente multiplicado por uma ou mais
+Cada monômio é composto de um coeficiente multiplicado por uma ou mais
 variáveis elevadas a expoentes não negativos.
 
-Em um monômio, distinguimos: o coeficiente, que corresponde à parte
-numérica (que é um número real); a parte literal, que corresponde a uma
+Em um monômio, distinguimos: o \textbf{coeficiente}, que corresponde à parte
+numérica (que é um número real); a \textbf{parte literal}, que corresponde a uma
 variável ou um produto de variáveis, com expoente natural.
 
-Exemplo:
-
-$$2x$$
-$$2 =~\text{coeficiente}~x =~\text{parte literal}$$
-
-\smallskip\noindent\textbf{Adição e subtração de monômios}\quad
 Uma expressão algébrica em que todos os monômios são semelhantes pode
-ser simplificada adicionando ou subtraindo os coeficientes.
+ser simplificada adicionando-se ou subtraindo-se os coeficientes.
 
 Se uma expressão tem monômios semelhantes e monômios não semelhantes,
 efetuamos a adição ou a subtração dos semelhantes e conservamos os
 demais. Dizemos, então, que foi efetuada uma redução de termos
 semelhantes.
 
-Exemplos:
-
-$$2x + 5x = ?$$
-
-Como são semelhantes, podemos somar os coeficientes e manter a parte
-literal, logo temos:
-
-$$2x + 5x = 7x$$
-
-Exemplo 2:
-
-$$3x + 5x + 6y = ?$$
-
-Como nem todos os membros são semelhantes, juntaremos apenas os
-semelhantes e conservamos os monômios não semelhantes:
-
-$$3x + 5x + 6y = 8x + 6y$$
-
-\smallskip\noindent\textbf{Polinômios}\quad
-Expressões algébricas formadas por um monômio ou pela adição e/ou
-subtração de monômios são chamadas de polinômios.
-
-Exemplos de polinômios:
-
-$$4x^2 + 8$$
-$$x^2 - 8y + 12$$
-$$a^2 + 5a^2b + 3ab^2 + b^3$$
-
+Expressões algébricas formadas por um monômio ou pela adição ou pela
+subtração de monômios são chamadas de polinômios. Exemplo de polinômio:
+$$4x^2 + 8$$.
 }
 
-\section{Atividades}
+\section*{Atividades}
 
 \num{1} Dalva tem 44 anos. Escreva uma expressão algébrica que representa a
-idade que ela teve há x anos e a idade que ele terá daqui a y anos,
-sendo x e y números naturais.
+idade que ela teve há $x$ anos e a idade que ele terá daqui a $y$ anos,
+sendo $x$ e $y$ números naturais.
 
-\reduline{ Considerando a forma algébrica de solução, temos que:\hfill}\\
-\reduline{ Idade que Dalva já teve: $44 - x$\hfill}\\
-\reduline{ Idade que Dalva ainda vai ter: $44 + y$\hfill}\\
+\rosa{ Considerando a forma algébrica de solução, temos:}
 
-\num{2} Celso comprou 1 calça de R\$\,150,00 e 2 camisas.
+\rosa{ Idade que Dalva já teve:}
+
+\rosa{$44 - x$}
+
+\rosa{ Idade que Dalva ainda vai ter:}
+
+\rosa{$44 + y$}
+
+\num{2} Celso comprou 1 calça de R\$\,150,00 e 2 camisas. Faça o que se pede.
 
 \begin{escolha}[itemsep=0pt]
-\item Usando a letra x, escreva uma expressão algébrica que represente o valor a ser pago nessa situação.
-        \rosa{ Utilizando a forma algébrica, temos que $150 + 2x$.}
-\item O que representa a letra x neste caso?
-        \rosa{ A letra x representa o preço de cada camisa.}
-\item Se o preço de 1 camisa é de R\$\,80,00, quanto ele gastou?
-        \rosa{ Se o preço de cada camisa é R\$\,80,00, temos que: $150 + 2 \cdot 80 = 150 + 160 = 310$. Celso gastou R\$\,310,00}
+\item Usando a letra $x$, escreva uma expressão algébrica que represente o valor a ser pago nessa situação.
+
+\rosa{ Utilizando a forma algébrica,}
+
+\rosa{temos que:}
+
+\rosa{$150 + 2x$.}
+
+\item Determine o que representa a letra $x$ nesse caso.
+
+\reduline{ A letra $x$ representa o preço de cada camisa.\hfill}
+\linhas{1}
+
+\item Se o preço de 1 camisa é de R\$\,80,00, calcule quanto ele gastou.
+
+\rosa{ Se o preço de cada camisa é R\$\,80,00,}
+
+\rosa{temos que:}
+
+\rosa{$150 + 2 \cdot 80 = 150 + 160 = 310$}
+
+\rosa{Celso gastou R\$\,310,00.}
 \end{escolha}
 
-
-
-
-
-
 \num{3} Em um retângulo, o comprimento de um lado mede 4 cm a mais do que o
-outro. Representando por x a medida de comprimento, em centímetros, do
+outro. Representando por $x$ a medida de comprimento, em centímetros, do
 menor lado, escreva as expressões algébricas que representam:
 
 
 \begin{escolha}[itemsep=0pt]
 \item a medida de comprimento, em centímetros, do maior lado.
-        \item Utilizando a forma algébrica, temos que: Como não sabemos as medida de cada lado do retângulo, denominamos seu lado de x. Como o enunciado nos diz que um dos lados é 4 cm maior que o outro, temos que o lado maior é $x + 4$.
 \item a medida de perímetro, em centímetros, do retângulo.
-        \item Considerando os valores do enunciado, temos que lado maior $x + 4$; lado menor $= x$; ; perímetro $= x + 4 + x + 4 + x + x =$;  Perímetro $= 4x + 8$; 
-\item medida de área, em centímetros quadrados, da região retangular correspondente.
-        \item considerando que a área do retângulo é $l \cdot l$, que o lado maior $= x + 4$ e o lado menor $= x: x + 4 \cdot x = (x+4) \cdot x; x^2 + 4x$.
+\item a medida de área, em centímetros quadrados, da região retangular correspondente.
 \end{escolha}
 
+\rosa{a) Utilizando a forma algébrica, temos que: Como não sabemos as medida de cada lado do retângulo, denominamos seu lado de x.}
 
+\rosa{Como o enunciado nos diz que um dos lados é 4 cm maior que o outro, temos que o lado maior é $x + 4$.}
 
+\rosa{b) Considerando os valores do enunciado, temos que lado maior $x + 4$; lado menor $= x$; ; perímetro $= x + 4 + x + 4 + x + x =$;  Perímetro $= 4x + 8$;}
+
+\rosa{c) Considerando que a área do retângulo é $l \cdot l$, que o lado maior $= x + 4$ e o lado menor $= x: x + 4 \cdot x = (x+4) \cdot x; x^2 + 4x$.}
 
 
 \num{4} Escreva o coeficiente e a parte literal de cada monômio.
 
 \begin{escolha}[itemsep=0pt]
 \item $xy$
-        \rosa{ Coeficiente: 1; Parte literal: $xy$.}
+        
+        \reduline{ Coeficiente: 1; Parte literal: $xy$.\hfill}
 \item $\left( - \frac{2}{3}\right) t^2)   $
-        \rosa{ Coeficiente: $(\frac{- 2}{3})$; Parte literal: $t^2$.}
+        
+        \reduline{ Coeficiente: $(\frac{- 2}{3})$; Parte literal: $t^2$.\hfill}
 \item $-c^2 d ^3   $
-        \rosa{ Coeficiente: $-1;$ Parte literal: $c^2d^3$.}
+        
+        \reduline{ Coeficiente: $-1;$ Parte literal: $c^2d^3$.\hfill}
 \item $(\frac{a^2}{5})$
-        \rosa{ Coeficiente: $(\frac{1}{5});$ Parte literal: $a^2$.}
+        
+        \reduline{ Coeficiente: $(\frac{1}{5});$ Parte literal: $a^2$.\hfill}
 \item $-10 a^{4}   $
-        \rosa{ Coeficiente: $-10;$ Parte literal: $(a^4)$.}
+        
+        \reduline{ Coeficiente: $-10;$ Parte literal: $(a^4)$.\hfill}
 \item $(\frac{2}{3}.{xy})   $
-        \rosa{ Coeficiente: $(\frac{2}{3});$ Parte literal: $xy$.}
+        
+        \reduline{ Coeficiente: $(\frac{2}{3});$ Parte literal: $xy$.\hfill}
 \item $x^3   $
-        \rosa{ Coeficiente: $1$; Parte literal: $x^3$.}
+        
+        \reduline{ Coeficiente: $1$; Parte literal: $x^3$.\hfill}
 \item $- 20ab   $
-        \rosa{ Coeficiente: $-20$; Parte literal: $ab$.}
+        
+        \reduline{ Coeficiente: $-20$; Parte literal: $ab$.\hfill}
 \item $1,5xy^2   $
-        \rosa{ Coeficiente: 1,5; Parte literal: $xy^2$.}
+        
+        \reduline{ Coeficiente: 1,5; Parte literal: $xy^2$.\hfill}
 \item $a^2b^2   $
-        \rosa{ Coeficiente: 1. Parte literal: $a^2b^2$}
+        
+        \reduline{ Coeficiente: 1. Parte literal: $a^2b^2$\hfill}
 \end{escolha}
 
 
@@ -1851,102 +1980,146 @@ menor lado, escreva as expressões algébricas que representam:
 
 
 
-\num{5} Escreva o nome de cada polinômio de acordo com o número de termos:
+\num{5} Escreva o nome de cada polinômio de acordo com o número de termos.
 
-\begin{multicols}{2}
 \begin{escolha}[itemsep=0pt]
 \item $6x^2 - 4x +9$  
-        \rosa{ trinômio}
+        
+        \reduline{Trinômio.\hfill}
 \item $7x^2 + 5 x$  
-        \rosa{ binômio}
+        
+        \reduline{Binômio.\hfill}
 \item $(4x^4)$  
-        \rosa{ monômio}
+        
+        \reduline{Monômio.\hfill}
 \item $-3r + (\frac{1}{2})$  
-        \rosa{ binômio}
+  
+        \reduline{Binômio.\hfill}
 \item $-2abc$  
-        \rosa{ monômio}
+        
+        \reduline{Monômio.\hfill}
 \item $x^3 + x^2 - x + 1$  
-        \rosa{ polinômio de 4 termos}
+        
+        \reduline{Polinômio de quatro termos.\hfill}
 \item $-(\frac{2}{5}) a^2b$  
-        \rosa{ monômio}
+        
+        \reduline{Monômio.\hfill}
 \item $a + b - 5$  
-        \rosa{ trinômio}
+        
+        \reduline{Trinômio.\hfill}
 \item $3x - y$  
-        \rosa{ binômio}
+        
+        \reduline{Binômio.\hfill}
 \item $7x + 8x$  
-        \rosa{ monômio}
+        
+        \reduline{Monômio.\hfill}
 \end{escolha}
-\end{multicols}
 
-\pagebreak
 
 \num{6} Escreva cada polinômio na forma reduzida.
 
 \begin{escolha}[itemsep=0pt]
 \item $2x^2 - 5x + 3 - 3x^2 - 3 + 7x$
-        \rosa{ $2x^2 - 3x^2 -5x +7x +3 - 3 -x^2 +2x$}
+        
+        \reduline{ $2x^2 - 3x^2 -5x +7x +3 - 3 -x^2 +2x$\hfill}
+        \linhas{1}
 \item $3y^3 + 2y^2 + y - 1 - 3y^3 - y^2 - 5y +3$
-        \rosa{ $3x^3 - 3^3 + 2y^2 -y^2 - 5y + y - 1 + 3y^2 - 4y + 2$}
+        
+        \reduline{ $3x^3 - 3^3 + 2y^2 -y^2 - 5y + y - 1 + 3y^2 - 4y + 2$\hfill}
+        \linhas{1}
 \item $-5xy + 2y^2 + xy - 3y^2 + 2 + 3xy - 1$
-        \rosa{ $2y^2 - 3y^2 + xy - 5xy + 3xy - 1 + 2 - y^2 - xy^2 + 1$}
+        
+        \reduline{ $2y^2 - 3y^2 + xy - 5xy + 3xy - 1 + 2 - y^2 - xy^2 + 1$\hfill}
+        \linhas{1}
 \item $4x^3 - 5y - 6x^3 + 7y + 3x^3 - 2y$
-        \rosa{ $4x^3 - 6x^3 + 3x^3 - 5y + 7y - 2Y$}
+        
+        \reduline{ $4x^3 - 6x^3 + 3x^3 - 5y + 7y - 2Y$\hfill}
+        \linhas{1}
 \end{escolha}
 
 
-\num{7} Reescreva as expressões abaixo colocando-as em evidência.
+\num{7} Reescreva as expressões a seguir colocando-as em evidência.
 
 \begin{escolha}[itemsep=0pt]
 \item $ax + ay$
-    \rosa{ $a(x+y)$}
+    
+    \reduline{ $a(x+y)$\hfill}
 \item $16x^2 + 20y^2$
-    \rosa{ $4(4x^2 + 5y^2)$}
+    
+    \reduline{ $4(4x^2 + 5y^2)$\hfill}
 \item $5x + 15y - 10z$
-    \rosa{ $5(x+3y-2z)$}
+    
+    \reduline{ $5(x+3y-2z)$\hfill}
 \item $4x - 16$
-    \rosa{ $4(x-4)$}
+    
+    \reduline{ $4(x-4)$\hfill}
 \item $-5x^3y + 20x^2y^2$
-    \rosa{ $5x^2y(-x+4y)$}
+    
+    \reduline{ $5x^2y(-x+4y)$\hfill}
 \end{escolha}
 
-\num{8} Durante uma aula de matemática, um professor resolveu demonstrar
-outra forma de calcular a operação (41 \cdot 39) e escreveu seus cálculos na
+\num{8} Durante uma aula de Matemática, um professor resolveu demonstrar
+outra forma de calcular a operação $41 \cdot 39$ e escreveu seus cálculos na
 lousa assim:
 
 $$41 \cdot 39 = (40 + 1) (40 - 1) = 40^2 - 1^2 = 1.599$$
 
-Seguindo a mesma forma exposta pelo professor, calcule os seguintes
-produtos:
+Seguindo a mesma forma exposta pelo professor, calcule os produtos a seguir.
 
 \begin{escolha}[itemsep=0pt]
 \item $57 \cdot 63$
-    \rosa{ $57 \cdot 63 = (60 - 3). (60 + 3) = 60^2 - 3^2 = 3.591$}
-\item $52. 48$
-    \rosa{ $52 \cdot 48 = (50 + 2) \cdot (50 - 2) = 50^2 - 2^2 = 2.496$}
+    
+\rosa{Efetuando as mesmas operações, temos:}
+
+\rosa{$57 \cdot 63 = (60 - 3). (60 + 3) = 60^2 - 3^2 = 3.591$}
+
+\item $52 \cdot 48$
+
+\rosa{Efetuando as mesmas operações, temos:}
+
+\rosa{$52 \cdot 48 = (50 + 2) \cdot (50 - 2) = 50^2 - 2^2 = 2.496$}
+
 \item $42 \cdot 34$
-    \rosa{ $42 \cdot 34 = (38 + 4) \cdot (38 - 4) = 38^2 - 4^2 = 1.428$}
+
+\rosa{Efetuando as mesmas operações, temos:}
+
+\rosa{$42 \cdot 34 = (38 + 4) \cdot (38 - 4) = 38^2 - 4^2 = 1.428$}
 \end{escolha}
 
-\pagebreak
-
 \num{9} Uma construtora resolveu comprar dois terrenos de formato retangular
-para construir 2 condomínios. Qual é a equação que representa a área
-total dos dois terrenos somados?
+para construir dois condomínios. As especificações dos terrenos eram estas:
 
-\begin{figure}[H]
-\centering\includegraphics[width=2.04167in,height=1.8873in]{./imgSAEB_8_MAT/media/image5.png}
-\end{figure}
+\begin{itemize}
+    \item Terreno maior: $6x + 6$ metros de frente por $3x + 6$ metros de lateral;
+    \item Terreno menor: $4x + 6$ metros de frente por $x + 6$ metros de lateral.
+\end{itemize}
 
-\reduline{ Considerando que a fórmula da área de um retângulo é l \cdot l, temos que\hfill}\\
-\reduline{ Terreno vermelho: $(6x + 6) \cdot (3x + 6)= 18x^2 + 18x + 18x + 36= 18x^2 + 36x + 36$\hfill}\\
-\reduline{ Terreno azul: $(4x + 6) \cdot (x + 6) = 4x^2 + 24x + 6x + 36 = 4x^2 + 30x + 36 =...$\hfill}\\
-\reduline{ Somando os dois terrenos, temos que $18x^2 + 36x + 36 + 4x^2 + 30x + 36 =...$\hfill}\\
-\reduline{ Área total dos dois terrenos $= 22x^2 + 66x + 72$\hfill}\\
+Qual é a equação que representa as áreas totais dos dois terrenos somadas?
 
-\num{10} Efetue os monômios descritos abaixo:
+% \begin{figure}[H]
+% \centering\includegraphics[width=2.04167in,height=1.8873in]{./imgSAEB_8_MAT/media/image5.png}
+% \end{figure}
 
+\rosa{ Considerando que a fórmula da área de um retângulo é:
 
-\begin{multicols}{2}
+\rosa{$l \cdot l$, temos que:}
+
+\rosa{Terreno maior:}
+
+\rosa{$(6x + 6) \cdot (3x + 6) = 18x^2 + 18x + 18x + 36= 18x^2 + 36x + 36$}
+
+\rosa{Terreno menor:}
+
+\rosa{$(4x + 6) \cdot (x + 6) = 4x^2 + 24x + 6x + 36 = 4x^2 + 30x + 36 =...$}
+
+\rosa{Somando as duas áreas, temos:}
+
+\rosa{$18x^2 + 36x + 36 + 4x^2 + 30x + 36 =...$}
+
+\rosa{Área total dos dois terrenos: $= 22x^2 + 66x + 72$}
+
+\num{10} Efetue os monômios descritos a seguir.
+
 \begin{escolha}[itemsep=0pt,leftmargin=0pt]
 \item $(6x^4+ 12x^6)$
     \rosa{$6x^4 + 12x^6 = 18x^{10}$}
@@ -1979,22 +2152,15 @@ total dos dois terrenos somados?
 \item $(-4xy^2)^3$
     \rosa{$((-2xy^2)^4)= (16x^4 y^8)$}
 \end{escolha}
-\end{multicols}
 
-\pagebreak
 
-\section{Treino}
+\section*{Treino}
 
-\num{1} Elza resolveu comprar uma piscina com as medidas abaixo:
-
-\begin{figure}[H]
-\centering\includegraphics[width=2.9625in,height=1.67014in]{./imgSAEB_8_MAT/media/image6.png}
-\end{figure}
-
-Qual é a equação que representa a medida da área em $m^2$ dessa piscina?
+\num{1} Elza resolveu comprar uma piscina retangular com medidas $3x + 2$ e $x + 2$.
+Qual é a equação que representa a medida da área, em $m^2$, dessa piscina?
 
 \begin{escolha}[itemsep=0pt]
-\item $3x^2 + 8x + 4$ \rosa{-- X}
+\item $3x^2 + 8x + 4$
 \item $8x + 8$
 \item $4x + 4$
 \item $3x + 1$
@@ -2034,7 +2200,7 @@ $(\frac{(a + b)^2}{8})$?
 \begin{escolha}[itemsep=0pt]
 \item $2,266666666$
 \item $19$
-\item  $8$ \rosa{-- X}
+\item $8$
 \item $9,25$
 \end{escolha}
 
@@ -2068,16 +2234,14 @@ $(\frac{(a + b)^2}{8})$?
 % D: incorreta, pois foi realizada a soma ao invés da multiplicação no
 % último termo.
 
-\num{3} O diâmetro de um disco de vinil é igual a $(x^2 - 3)$. A partir desse
-valor, quanto valem o perímetro e a área do disco?
-
-Considere $(\pi) = 3$.
+\num{3} O diâmetro de um disco de vinil é igual a $x^2 - 3$. A partir desse
+valor, quanto valem o perímetro e a área do disco? Considere $(\pi) = 3$.
 
 \begin{escolha}[itemsep=0pt]
-\item $($Área $= 3x^4 - 18x^2 - 27$; Perímetro $= 6x^2 - 18)$
-\item $($Área $= 3x^4 - 18x^2 + 27$; Perímetro $= 6x^2 + 18)$
-\item $($Área $= 3x^4 + 18x^2 + 27$; Perímetro $= 6x^2 - 18)$
-\item  $($Área $= 3x^4 - 18x^2 + 27$; Perímetro $= 6x^2 - 18)$ \rosa{-- X}
+\item $($Área $= 3x^4 - 18x^2 - 27$; perímetro $= 6x^2 - 18)$.
+\item $($Área $= 3x^4 - 18x^2 + 27$; perímetro $= 6x^2 + 18)$.
+\item $($Área $= 3x^4 + 18x^2 + 27$; perímetro $= 6x^2 - 18)$.
+\item  $($Área $= 3x^4 - 18x^2 + 27$; perímetro $= 6x^2 - 18)$.
 \end{escolha}
 
 
@@ -2124,7 +2288,7 @@ Considere $(\pi) = 3$.
 
 \chapter{Equações polinomiais de 2º grau}
 
-\section{Habilidades do SAEB} 
+\section*{Habilidades do SAEB} 
 
 % Inferir uma equação polinomial de 2º. grau que modela um problema.
 
@@ -2171,7 +2335,7 @@ Logo, o conjunto solução é $(+ \frac{1}{4})$ e $(- \ \frac{1}{4})$}
 
 
 
-\section{Atividades}
+\section*{Atividades}
 
 \num{1} Determine a solução da equação $x^2 + 4 = 0$ no conjunto R.
 
@@ -2330,7 +2494,7 @@ por 1.000. Sendo assim, quantos reais Mateus deve ao banco?
 \reduline{ Multiplicando por 1.000, temos que $-4 \cdot 1000 = - 4000$. Logo, Mateus deve R\$\,4.000,00 ao banco.\hfill}\\
 
 \pagebreak
-\section{Treino}
+\section*{Treino}
 
 \num{1} Clebinho é atacante de um famoso time de futebol. Durante uma
 partida, o número de suas finalizações ao gol foi a soma das raízes da
@@ -2530,7 +2694,7 @@ entre a massa e o volume desse corpo.}
 
 
 
-\section{Atividades}
+\section*{Atividades}
 
 
 
@@ -2654,7 +2818,7 @@ quantidade de páginas do livro?
 \end{multicols}
 
 
-\section{Treino}
+\section*{Treino}
 
 \num{1} Dona Estela está preparando a ceia de Natal para sua família e
 comprou um peru de $4,2 kg$ para servir. Ao pesquisar sobre o tempo de
@@ -2775,7 +2939,7 @@ Quantos ml de antibiótico Leandro dará a seu cachorro?
 
 \chapter{Polígonos}
 
-\section{Habilidades do SAEB}
+\section*{Habilidades do SAEB}
 
 \begin{itemize}
 \item Identificar, no plano cartesiano, figuras obtidas
@@ -2822,7 +2986,7 @@ número de diagonais de um polígono
 Utilizando a fórmula $(S = (n - 2) \cdot 180°)$, podemos calcular a
 soma dos ângulos internos de um polígono.}
 
-\section{Atividades}
+\section*{Atividades}
 
 
 
@@ -3023,7 +3187,7 @@ classifique em raio, diâmetro ou corda o segmento de reta:
 
 \pagebreak
 
-\section{Treino}
+\section*{Treino}
 
 \num{1} Alfredo desenhou, em uma madeira, um eneágono regular cujo perímetro
 era de $117 cm$. Qual é a medida de cada lado dessa figura?
@@ -3133,7 +3297,7 @@ precisa para confeccionar $20$ porta joias?
 
 \chapter{Triângulos}
 
-\section{Habilidades do SAEB}
+\section*{Habilidades do SAEB}
 
 \begin{itemize}
 \item Identificar propriedades e relações existentes
@@ -3229,7 +3393,7 @@ ponto denominado circuncentro.
 Triângulos congruentes são triângulos que possuem os mesmos comprimentos
 de lados e os mesmos valores de ângulos.}
 
-\section{Atividades}
+\section*{Atividades}
 
 \num{1} Observe a figura abaixo e indique o que se pede em cada alternativa.
 
@@ -3432,7 +3596,7 @@ linhas em verde traçam a bissetriz de cada ângulo.
 
 \pagebreak
 
-\section{Treino}
+\section*{Treino}
 
 \num{1} Denomina-se incentro o ponto comum
 
@@ -3580,7 +3744,7 @@ ou alguém durante um período de tempo. Essa distância pode ser
 representada pela fórmula:
 Distância = velocidade média x tempo.}
 
-\section{Atividades}
+\section*{Atividades}
 
 \num{1} Paulo está pretendendo fazer uma longa viagem para visitar seus pais.
 
@@ -3724,7 +3888,7 @@ menino da história realizou?
 
 \pagebreak
 
-\section{Treino}
+\section*{Treino}
 
 \num{1} Um jogador de Futebol corre em média 8 km por partida. Considerando
 que um campeonato tenha 38 rodadas e que esse jogador jogue todas as
@@ -3817,7 +3981,7 @@ chegar à cidade mais próxima, para qual sentido Charles deve andar?
 
 \chapter{Introdução à estatística}
 
-\section{Habilidades do SAEB}
+\section*{Habilidades do SAEB}
 
 \begin{itemize}
 \item Identificar os indivíduos (universo ou
@@ -3935,7 +4099,7 @@ partes com a mesma quantidade de termos. Enquanto a primeira parte
 apresenta valores menores ou iguais a ela, a segunda parte é formada por
 valores maiores.}
 
-\section{Atividades}
+\section*{Atividades}
 
 \num{1} Leia o gráfico a seguir e responda.
 
@@ -4143,7 +4307,7 @@ explique a resposta.
 \reduline{ Passo 1: Somar os tempos de espera $3 + 5 + 2 + 4 + 6 + 3 + 5 + 4 + 2 + 3 = 37$.\hfill}\\
 \reduline{ Passo 2: Dividir pelo número total de observações $37 / 10 = 3,7$ minutos.\hfill}\\
 
-\section{Treino}
+\section*{Treino}
 
 \num{1} Em um jogo de basquete, os 5 atletas de um time que iniciaram o jogo
 tinham respectivamente $2,01 m$, $1,99 m$, $2,00 m$, $2,02 m$ e $1,98 m$ de
@@ -4281,7 +4445,7 @@ Qual é o tempo médio que Maria gasta para chegar ao trabalho?
 
 \chapter{Perímetro, área e volume}
 
-\section{Habilidades do SAEB}
+\section*{Habilidades do SAEB}
 
 \begin{itemize}
 \item Resolver problemas que envolvam medidas de
@@ -4330,7 +4494,7 @@ Volume de um paralelepípedo: $(V = l1 \cdot l2 \cdot l3)$}
 
 \pagebreak
 
-\section{Atividades}
+\section*{Atividades}
 
 \num{1} Considere o cubo abaixo.
 
@@ -4543,7 +4707,7 @@ acomodar? Considere (\Pi) = 3,14.
 
 \pagebreak
 
-\section{Treino}
+\section*{Treino}
 
 \num{1} Um cano cilíndrico de plástico tem 70 cm de medida de comprimento e
 raio de 6 cm. Qual é a medida de volume que esse cano comporta?
@@ -4710,7 +4874,7 @@ certo.}
 
 \pagebreak
 
-\section{Atividades}
+\section*{Atividades}
 
 \num{1} Em um jogo de tabuleiro, Natali precisa tirar 4 no dado para
 conseguir uma bonificação. Qual é a probabilidade de sair a face com o
@@ -4798,7 +4962,7 @@ semana? Considere o final de semana incluindo apenas sábado e domingo.
 
 \reduline{$(P(E)\frac{n(2)}{n(7)}) = 28\%$, aproximadamente.\hfill}\\
 
-\section{Treino}
+\section*{Treino}
 
 \num{1} Em uma fábrica de sapatos, houve um defeito com umas das máquinas da
 linha de produção. Após uma pesquisa realizada, foi constatado que, a
