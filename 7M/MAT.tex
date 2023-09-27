@@ -54,7 +54,7 @@ número primo que é par é o número dois. Números compostos são os números
 que não são primos, isto é, podem ser divididos por mais de dois
 números.
 
-Exemplos:
+\medskip\noindent Exemplos:
 
 \begin{itemize}
 \item Números primos: $7$, $11$, $13$, $23$, etc.
@@ -188,18 +188,17 @@ justifique sua resposta.
 % boxlist :: options
 \begin{boxlist}[%leftmargin=0em,
                 %topsep=0pt,
-                itemsep=-7pt,
+                itemsep=0pt,
                 %leftmargin=0em
                 ]
 \setlength{\baselineskip}{-4ex}\boxitem{F} Todo número que é racional é também irracional.
-{\rosa{Números irracionais não podem ser escritos em forma de fração, sendo
-essa é a definição de números racionais.}}
+{\rosa{\mbox{Irracionais não podem ser escritos em fração.}}}
 \boxitem{F} As dízimas periódicas são irracionais.
 \rosa{É possível encontrar uma fração para dízimas periódicas.}
 \boxitem{V}\normalsize Dízimas periódicas podem ser escritas na forma de fração.
-{\rosa{Fração geratriz.}\par}
+{\rosa{Fração geratriz.}}
 \boxitem{V} Todos os números inteiros são racionais.
-{\rosa{Todos os números inteiros podem ser escritos na forma de racionais.}\par}
+{\rosa{Todos os números inteiros podem ser escritos na forma de racionais.}}
 \end{boxlist}
 
 \num{2} Relacione as colunas abaixo com o número escrito por extenso.
@@ -397,9 +396,9 @@ o número racional que melhor representa este ponto?
 
 \begin{itemize}
 \item \parbox{4mm}{I} --- Todos os números inteiros são racionais.
-\item \parbox{4mm}{II} --- Todo número decimal finito pode ser representado por fração.
+\item \parbox{4mm}{II} --- Todo número decimal finito pode ser representado por uma fração.
 \item \parbox{4mm}{III} --- O número 21 é primo.
-\item \parbox{4mm}{IV} ---  O número 2 é o único número que é par e primo.
+\item \parbox{4mm}{IV} ---  O número 2 é o único que é par e primo.
 \end{itemize}
 
 \begin{escolha}
@@ -526,15 +525,15 @@ $12 \cdot 12 = 144$, então a raiz quadrada de $144$ é $12$.
 
 \medskip\noindent \textit{Fatoração:} Considere encontrar a raiz quadrada de $36$. Você pode fatorar $36$
 em seus fatores primos, que são $2 \cdot 2 \cdot 3 \cdot 3$. Agora, agrupe os
-fatores em pares de iguais: $(2 \cdot 2) \cdot (3 \cdot 3)$. A raiz quadrada
+fatores em pares de iguais: $(2 \cdot 2) \cdot (3 \cdot 3) = 2^3 \cdot 3^2$. A raiz quadrada
 do produto de cada par é a raiz quadrada do número original. Assim, a raiz
-quadrada de $36$ é igual a $(2^)$.
+quadrada de $36$ é igual a $(2)$.
 
 \medskip\noindent \textit{Aproximação:} Suponha que você deseja encontrar uma aproximação para a raiz
 quadrada de $7$. Você pode notar que $\sqrt{7}$ é um número irracional que
 não pode ser expresso exatamente como uma fração. No entanto, você pode usar
-aproximações para obter uma ideia geral. Por exemplo, você pode dizer que a
-raiz quadrada de $7$ está entre $2$ e $3$, pois $2 \cdot 2 = 4$ e $3 \cdot 3 = 9$, e $7$ está
+aproximações para obter uma ideia geral. Por exemplo,  a
+raiz quadrada de $7$ está entre $2$ e $3$, pois $(2 \cdot 2) = 2^2 = 4$ e $(3 \cdot 3) = 3^2 = 9$, e $7$ está
 entre esses dois valores. Uma aproximação razoável para a raiz quadrada de $7$
 é $2,65$, que é uma estimativa próxima do valor real.}
 
@@ -548,8 +547,7 @@ entre esses dois valores. Uma aproximação razoável para a raiz quadrada de $7
 
 \num{1} Calcule o valor das expressões a seguir: TESTE
 
-\begin{enumerate}
-
+\begin{enumerate}[itemsep=-5mm]
     \item $- 15 + 27 - (- 5) + 75 = $ 
     \reduline{$- 15 + 27 + 5 + 75 = 92$}
 
@@ -571,9 +569,10 @@ entre esses dois valores. Uma aproximação razoável para a raiz quadrada de $7
 
 \num{2} Qual é o valor da expressão $3^4 \times \sqrt{16}$?
 
-\reduline{Primeiro, vamos calcular a raiz quadrada de $16$, que é $4$. Substituindo
-esse valor na expressão, temos: $3^4 \times \sqrt{16} = 3^4 \times 4 = 81 \times 4 = 324$. 
-Portanto, o resultado da expressão é 324.}
+\reduline{Temos: $3^4 \times \sqrt{16} = 3^4 \times 4 = 81 \times 4 = 324$. 
+Portanto, o resultado da expressão é 324.\hfill}
+
+\reduline{\ \hfill}
 
 \num{3} Efetue as operações abaixo:
 
@@ -585,6 +584,8 @@ Portanto, o resultado da expressão é 324.}
 \item $( - 50 \div ( - 5 )) \times (36 \div 9) =$ \rosa{$( 10 ) \times 4 = 40$}
 
 \end{escolha}
+
+\pagebreak
 
 \num{4} Aplicando as propriedades de bases iguais, simplifique como uma única
 potência e indique se seus resultados serão positivos ou negativos:
@@ -609,29 +610,24 @@ fica negativo.}
 
 \num{5} Observe o exemplo a seguir. 
 
-$$A = \sqrt{225} = \sqrt{3^{2} \times 5^{2}} = 3 \times 5 = 15$$
+\begin{itemize}%[itemsep=-5mm]
+\item $A = \sqrt{225} = \sqrt{3^{2} \times 5^{2}} = 3 \times 5 = 15$
+\item $B = \sqrt{324} = \sqrt{2^2 \times 3^2 \times 3^2} = 2 \times 3 \times 3 = 18$
+\item $C = \sqrt{144} = \sqrt{2^2 \times 2^2 \times 3^2} = 2 \times 2 \times 3 = 12$
+\item $C - A - B$
+\end{itemize}
 
-$$B = \sqrt{324} = \sqrt{2² \times 3² \times 3²} = 2 \times 3 \times 3 = 18$$
-
-$$C = \sqrt{144} = \sqrt{2² \times 2² \times 3²} = 2 \times 2 \times 3 = 12$$
-
-$$C - A - B$$
-
-Como você pôde verificar, a cada letra foi associado o valor de uma raiz quadrada; depois, calculou-se
+\noindent Como você pode verificar, a cada letra foi associado o valor de uma raiz quadrada; depois, calculou-se
 o valor delas usando a fatoração e, ao final, elas foram colocadas em ordem crescente. Faça a mesma
-coisa com as raízes quadradas a seguir. \\
+coisa com as raízes quadradas a seguir. \rosa {$A - E - D - B - C$}
 
-$A = \sqrt{441}$ \rosa{$A = \sqrt{441} = \sqrt{3^{2}.7²} = 3.\ 7 = 21$} \\
-
-$B = \sqrt{784}$ \rosa {$B = \sqrt{784} = \sqrt{2^{2}.2^{2}.7²} = 2\ .\ 2\ .\ 7 = 28$} \\
-
-$C = \sqrt{1225}$ \rosa{$C = \sqrt{1225} = \sqrt{5².7²} = 5\ .\ 7 = 35$} \\
-
-$D = \sqrt{676}$ \rosa{$D = \sqrt{676} = \sqrt{2^{2}.\ 13²} = 2\ .\ 13\  = 26$} \\
-
-$E = \sqrt{484}$ \rosa{$E = \sqrt{484} = \sqrt{2².11²} = 2\ .\ 11 = 22$} \\
-
-\rosa {$A - E - D - B - C$}
+\begin{itemize}%[itemsep=-5mm]
+\item $A = \sqrt{441}$ \rosa{$A = \sqrt{441} = \sqrt{3^{2}.7²} = 3.\ 7 = 21$}
+\item $B = \sqrt{784}$ \rosa {$B = \sqrt{784} = \sqrt{2^{2}.2^{2}.7²} = 2\ .\ 2\ .\ 7 = 28$}
+\item $C = \sqrt{1225}$ \rosa{$C = \sqrt{1225} = \sqrt{5².7²} = 5\ .\ 7 = 35$}
+\item $D = \sqrt{676}$ \rosa{$D = \sqrt{676} = \sqrt{2^{2}.\ 13²} = 2\ .\ 13\  = 26$}
+\item $E = \sqrt{484}$ \rosa{$E = \sqrt{484} = \sqrt{2².11²} = 2\ .\ 11 = 22$}
+\end{itemize}
 
 \num{6} Indique entre quais números inteiros encontram-se as raízes abaixo,
 utilizando as raízes exatas menores e maiores. Siga o exemplo:
@@ -641,11 +637,8 @@ $$\sqrt{23} \rightarrow \ \sqrt{16} < \sqrt{23} < \sqrt{25} \rightarrow \
 
 \begin{escolha}
     \item $\sqrt{55}$   \rosa{$\sqrt{55} \rightarrow \ \sqrt{49} < \sqrt{55} < \sqrt{64} \rightarrow \sqrt{55}$ está entre 7 e 8}
-
     \item $\sqrt{66}$ \rosa{$\sqrt{66} \rightarrow \ \sqrt{64} < \sqrt{66} < \sqrt{81} \rightarrow \sqrt{66}$ está entre 8 e 9}
-
     \item $\sqrt{96}$ \rosa{$\sqrt{96} \rightarrow \ \sqrt{81} < \sqrt{96} < \sqrt{100} \rightarrow \sqrt{96}$ está entre 9 e 10}
-
     \item $\sqrt{42}$ \rosa{$\sqrt{42} \rightarrow \ \sqrt{36} < \sqrt{42} < \sqrt{49} \rightarrow \sqrt{42}$ está entre 6 e 7}
 \end{escolha}
 
@@ -655,21 +648,23 @@ $$\sqrt{23} \rightarrow \ \sqrt{16} < \sqrt{23} < \sqrt{25} \rightarrow \
 
 \num{7} Pietra, Marcelo e Antônio decidiram criar um jogo para estudar para a
 prova de matemática. Quem montasse a expressão com maior resultado
-negativo venceria. Determine qual deles foi o vencedor: \\
+negativo venceria. Determine qual deles foi o vencedor:
 
-Pietra:
+\begin{itemize}
+\item Pietra:
 $2^{5} + \{ 75 \div ( - 3 ) - \lbrack 6^{2} + ( 2 - 4 )^{3} \rbrack \} - \sqrt{16}$
-\rosa{$ = 32 + \{ - 25 - \lbrack 36 + ( - 2 )^{3} \rbrack \} - 4 = 32 + \{ - 25 - \lbrack 36 - 8 \rbrack \} - 4 = 32 + \{ - 25 - 28 \} - 4 = 32 - 53 - 4 = - 25$} \\
+\rosa{$ = 32 + \{ - 25 - \lbrack 36 + ( - 2 )^{3} \rbrack \} - 4 = 32 + \{ - 25 - \lbrack 36 - 8 \rbrack \} - 4 = 32 + \{ - 25 - 28 \} - 4 = 32 - 53 - 4 = - 25$}
 
-Marcelo:
+\item Marcelo:
 $230^{0} + ( - 5)^2 \{ 15 \div 5 \times \lbrack 7^{2} - ( 12 - 8 )^{3} \rbrack \} - \sqrt{121}$
-\rosa{$ = 1 + 25 - \{ 3 \times \lbrack 49 - 64 \rbrack \} - 11 = 26 - \{ 3 \times ( - 15 ) \} - 11 = 26 - \{ - 45 \} - 11 = 26 + 45 - 11 = 60$} \\
+\rosa{$ = 1 + 25 - \{ 3 \times \lbrack 49 - 64 \rbrack \} - 11 = 26 - \{ 3 \times ( - 15 ) \} - 11 = 26 - \{ - 45 \} - 11 = 26 + 45 - 11 = 60$}
 
-Antônio:
+\item Antônio:
 $1^{500} \times \{ - 5 \times \lbrack ( - 9 )^{2} - ( 34 - 26 )^{2} \rbrack \} - (\sqrt{100}\  \times 700^{0})$
-\rosa{$ = 1 \times \{ - 5 \times \lbrack 81 - 64 \rbrack \} - ( 10 \times 1 ) = 1 \times \{ - 5 \times 17 \} - 10 = 1 \times ( - 85 ) - 10 = - 85 - 10 = - 95$ \\ \\
+\rosa{$ = 1 \times \{ - 5 \times \lbrack 81 - 64 \rbrack \} - ( 10 \times 1 ) = 1 \times \{ - 5 \times 17 \} - 10 = 1 \times ( - 85 ) - 10 = - 85 - 10 = - 95$.
 Logo, quem venceu o jogo foi a Pietra, já que o maior resultado negativo
 foi o dela.}
+\end{itemize}
 
 % Professor, enfatize a ordem de resoluções das expressões numéricas,
 % estabelecendo as hierarquias de resoluções dos sinais de agrupamentos e
@@ -679,18 +674,19 @@ foi o dela.}
 % funciona ao contrário dos positivos, que quanto mais longe do zero o
 % número está, menor é seu valor.
 
-\num{8} Para montar um bolo, Fabiana utiliza 2 tipos de massa, 16 tipos de
-recheio, 8 tipos de cobertura e 4 tamanhos distintos, tanto para a parte
+\num{8} Para montar um bolo, Fabiana utiliza $2$ tipos de massa, $16$ tipos de
+recheio, $8$ tipos de cobertura e $4$ tamanhos distintos, tanto para a parte
 retangular quanto para a redonda. Escreva em forma de potência a
 quantidade de bolos distintos que Fabiana consegue produzir combinando
 as opções descritas e calcule a potência.
 
-\reduline{Para calcular a quantidade de bolos, vamos usar o Princípio
-Multiplicativo. Basta multiplicarmos todas as opções, logo:
-$2 \times 16 \times 8 \times 4 \times 2$
-Como devemos representar o resultado como uma única potência, vamos
-transformar todos os termos para uma potência de base 2:
-$2 \times 2^{4} \times 2^{3} \times 2^{2} \times 2 = 2^{1 + 4 + 3 + 2 + 1} = 2^{11} = 2048$ bolos distintos. 
+\reduline{Basta multiplicarmos todas as opções, logo:
+$2 \times 16 \times 8 \times 4 \times 2$.\hfill}
+
+\reduline{Representar o resultado como uma única potência e
+transformar em 2:\hfill}
+
+\reduline{$2 \times 2^{4} \times 2^{3} \times 2^{2} \times 2 = 2^{1 + 4 + 3 + 2 + 1} = 2^{11} = 2048$ bolos distintos. 
 \hfill}
 
 \num{9} Em um terminal urbano, três ônibus saem às 7h com destino a bairros
@@ -721,51 +717,22 @@ juntos é às 22h.\hfill}
 
 \num{10} Em um ateliê, existem três tecidos iguais, mas de estampas
 diferentes, que são vendidos no mesmo tamanho. Em uma semana, o ateliê
-recebeu rolos retangulares de 150 cm² da estampa azul, 120 cm² da
-estampa vermelha e 180 cm² da estampa rosa. Para obtermos o maior
+recebeu rolos retangulares de $150\,cm^2$ da estampa azul, $120\,cm^2$ da
+estampa vermelha e $180\,cm^2$ da estampa rosa. Para obtermos o maior
 tamanho possível de retalhos sem sobrar nenhuma parte dos rolos
 recebidos, quais dimensões de tecidos deverão ser cortadas? Quantos
 retalhos foram obtidos de cada cor do tecido?
+Assim, cada retalho vai ter $30\,cm^2$ de tamanho e serão produzidos:
 
-% Professor, mostre aos alunos que, quando necessitamos fazer divisões da
-% maior forma possível, usamos a ideia de Máximo Divisor Comum. Revise com
-% eles o cálculo pela fatoração simultânea.
-
-\begin{comment}
-
-\reduline{Para resolver, basta calcularmos o M.D.C dos tamanhos dos tecidos, ou
-seja, de 120, 150 e 180, achando assim o tamanho do retalho e em seguida
-quantos retalhos cada cor renderá. Assim:
-
-\begin{longtable}[]{@{}llll@{}}
-\toprule
-%\endhead
-120 & 150 & 180 & 2 \(\leftarrow\)\tabularnewline
-60 & 75 & 90 & 2\tabularnewline
-30 & 75 & 45 & 2\tabularnewline
-15 & 75 & 45 & 3 \(\leftarrow\)\tabularnewline
-5 & 25 & 15 & 3\tabularnewline
-5 & 25 & 5 & 5 \(\leftarrow\)\tabularnewline
-1 & 5 & 1 & 5\tabularnewline
-1 & 1 & 1 &\tabularnewline
-\bottomrule
-\end{longtable}
-\end{comment}
-
-Assim, cada retalho vai ter 30cm² de tamanho e serão produzidos:
-
-$\frac{150}{30}$ = 5 retalhos azuis
-
-$\frac{120}{30}$ = 4 retalhos vermelhos
-
-$\frac{180}{30}$ = 6 retalhos rosas \hfill
+\reduline{$\frac{150}{30}$ = 5 retalhos azuis; $\frac{120}{30}$ = 4 retalhos vermelhos;\hfill}\\
+\reduline{$\frac{180}{30}$ = 6 retalhos rosas\hfill}
 
 \section*{Treino}
 
 \num{1} Os fusos horários são feitos a partir do Meridiano de Greenwich, que
-representa o marco 0. Toda localidade possui fuso negativo quando seu
+representa o marco zero. Toda localidade possui fuso negativo quando seu
 horário é atrasado em relação ao meridiano. Por sua vez, o fuso é
-considerado positivo quando é adiantado a partir do marco 0. Pedro vai
+considerado positivo quando é adiantado a partir do marco zero. Pedro vai
 fazer uma viagem saindo de São Paulo, com fuso GMT-3, às 8 horas do dia
 23/03 e vai para a capital da Austrália, com fuso GMT+11. Porém, o voo
 de Pedro vai fazer uma escala em Dubai, local cujo fuso é GMT+4. Se a
@@ -773,18 +740,14 @@ viagem do Brasil até Dubai é de aproximadamente 14 horas e de Dubai até
 a Austrália é de aproximadamente 18 horas, quando Pedro chegará na
 Austrália?
 
+\begin{multicols}{2}
 \begin{escolha}
-
-    \item 16h do dia 24/03.
-
+    \item 16h do dia 24/03. \rosa{correta}
     \item 6h do dia 24/03.
-
     \item 6h do dia 25/03.
-
     \item 16h do dia 25/03.
-
 \end{escolha}
-
+\end{multicols}
 
 %%\section*{BNCC: EF07MA04 }
 % -- Resolver e elaborar problemas que envolvam operações
@@ -806,13 +769,14 @@ Austrália?
 
 \num{2} Quantos números de quatro algarismos diferentes podem ser formados
 utilizando-se os algarismos 1, 2, 3, 4 e 5?
-
+\begin{multicols}{2}
 \begin{escolha}
     \item 24
     \item 60
-    \item 120
+    \item 120 \rosa{X}
     \item 240
 \end{escolha}
+\end{multicols}
 
 %%\section*{BNCC: EF07MA04 }
 % -- Resolver e elaborar problemas que envolvam operações
@@ -837,13 +801,14 @@ empresa. O lote tem formato quadrangular de área igual a 1296 m². Antes
 de iniciar a construção, Mateus vai murar o terreno por todo seu
 perímetro e colocar um portão de 12 metros de comprimento. Qual é a
 extensão do muro que será construído no lote de Mateus?
-
+\begin{multicols}{2}
 \begin{escolha}
-  \item 24 m
-  \item 36 m
-  \item 144 m
-  \item 132 m
+  \item $24\,m$
+  \item $36\,m$
+  \item $144\,m$
+  \item $132\,m$ \rosa{X}
 \end{escolha}
+\end{multicols}
 
 %%\section*{BNCC: EF07MA04 }
 % -- Resolver e elaborar problemas que envolvam operações
@@ -889,7 +854,7 @@ representações pictóricas.
 % podem dividir alimentos (como pizzas e chocolates) entre si e enxergar
 % as partes como frações.
 
-\textbf{Frações próprias e impróprias}
+\conteudo{\subsubsection*{Frações próprias e impróprias}
 
 Como já vimos antes, uma fração é representada pela sua parte no
 numerador e seu inteiro no denominador. Ou seja, fração é uma
@@ -897,7 +862,7 @@ representação numérica de partes de um valor inteiro dividido em
 parcelas iguais. Elas recebem o nome de frações próprias quando o
 numerador é maior que o denominador.
 
-\textbf{Exemplos}
+\noindent {Exemplos}
 
 Joana tem 6 batons. 5 deles são vermelhos e 1 é nude. Qual é a
 representação fracionária do batom nude?
@@ -918,8 +883,7 @@ Professor, relembre o que é uma fração inteira, mencionando que toda
 fração é uma divisão. Quando seus numeradores são iguais ou superiores
 aos seus denominadores, já temos um inteiro.
 
-\textbf{Exemplos:}
-
+\noindent Exemplos:
   Carlos foi a um rodízio de pizzas e comeu uma pizza e metade de outra.
   Se cada pizza fosse cortada em 8 pedaços, qual seria a sua
   representação fracionária?
@@ -928,7 +892,7 @@ $$\frac{8}{8}  + \frac{4}{8}  =  1 \frac{4}{8}$$
 
 %\frac{29}{8} ou 3\ \frac{5}{8}
 
-\textbf{Frações Equivalentes}
+\subsubsection*{Frações Equivalentes}
 
 Frações equivalentes são frações escritas de forma diferentes, mas com o
 mesmo valor numérico. No sexto ano, vimos o que são frações
@@ -946,13 +910,14 @@ mesmo número. Durante os exercícios, convém utilizar a calculadora com
 os alunos para que eles visualizem como as frações equivalentes chegam
 ao mesmo quociente.
 
-\textbf{Exemplos}
+\noindent {Exemplos}
 
-  Fábio e Michel foram a uma fábrica de chocolates. Fábio comprou um
-  chocolate que era repartido em 12 quadradinhos e comeu 4 desses 12
-  quadradinhos. Já Michel comprou um chocolate que vinha cortado em 36
-  quadradinhos e comeu 12 quadradinhos. Considerando que as barras eram
-  do mesmo tamanho, quem comeu mais chocolate?
+
+Fábio e Michel foram a uma fábrica de chocolates. Fábio comprou um
+chocolate que era repartido em 12 quadradinhos e comeu 4 desses 12
+quadradinhos. Já Michel comprou um chocolate que vinha cortado em 36
+quadradinhos e comeu 12 quadradinhos. Considerando que as barras eram
+do mesmo tamanho, quem comeu mais chocolate?
 
 Fábio comeu uma quantidade referente a $\frac{4}{12}$ e Michel uma
 quantidade referente a $\frac{12}{36}$.
@@ -982,7 +947,7 @@ ambos por $3$, resultando em $\frac{5}{25}$.
 existem infinitos números múltiplos, existem infinitas frações
 equivalentes.
 
-\textbf{Dízimas periódicas}
+\subsubsection*{Dízimas periódicas}
 
 %Professor, nesta seção, é importante trabalhar primeiro a demonstração para encontrar frações geratrizes e, depois, o método prático para que os alunos entendam o que está acontecendo. É preciso ressaltar que as dízimas periódicas são números racionais e, por isso, têm representação em forma de fração.
 
@@ -994,7 +959,7 @@ periódicas simples apresentam um único número que se repete
 indefinidamente. Já as dízimas periódicas compostas apresentam mais
 números no trecho que está se repetindo.
 
-\textbf{Exemplos}
+\noindent {Exemplos}
 
 \begin{itemize}
 
@@ -1786,7 +1751,8 @@ $$x = \ 144$$
 Quando nos deparamos com um problema de equação do primeiro grau, o que
 estamos querendo descobrir, sempre será a incógnita.
 
-\textbf{Exemplos:} Suponha que você tenha um número e multiplique ele
+\noindent Exemplos:
+Suponha que você tenha um número e multiplique ele
 por 3 e depois adicione 40, como resultado você obteve 133. Qual é este
 número?
 
@@ -1857,7 +1823,7 @@ uma das incógnitas e ao descobrir uma delas, descobre a outra.
 \textbf{Método da substituição:} Isola-se uma das incógnitas em função
 da outra. E substitui na equação que não está isolada.
 
-\textbf{Exemplos:}
+\noindent Exemplos:
 
 Método da adição:
 
@@ -3028,7 +2994,7 @@ arco.
 2º caso: Ângulo inscrito, quando o ponto do ângulo faz parte da
 circunferência (borda). O valor do arco é o dobro do ângulo.
 
-\textbf{Exemplos:}
+\noindent Exemplos:
 
 Dado um ângulo central $AÔB = \ 35{^\circ}$, qual é valor do arco $AB$?
 O arco $AB$ valerá $35°$.
@@ -4203,7 +4169,8 @@ Já as variáveis qualitativas são aquelas que não aparecem dessa forma.
 As variáveis qualitativas são divididas em dois grupos, ordinais e
 nominais.
 
-\textbf{Exemplos:} Variáveis quantitativas \rightarrow Peso, altura,
+\noindent Exemplos:
+Variáveis quantitativas \rightarrow Peso, altura,
 notas, idade, salário, pressão.
 
 Variáveis qualitativas \rightarrow \ \ Sexo, cor dos olhos, classe
@@ -4241,7 +4208,8 @@ qualitativas e os de colunas, barras e linhas, para variáveis
 quantitativas. Através dos gráficos e das tabelas é possível compreender
 a correlação que o autor deseja.
 
-\textbf{Exemplos:} Fernando tem uma loja de veículos usados e pretende
+\noindent Exemplos:
+Fernando tem uma loja de veículos usados e pretende
 organizar a venda de carros de acordo com a marca. Com uma tabela
 simples, é possível ver qual marca é a mais vendida da loja. Modelo de
 tabela:
