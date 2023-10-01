@@ -5,3 +5,4 @@
 - [ ] Revistar os textos
 - [ ] Revisar os exercícios
 - [ ] Comparar resultados
+- [ ] Refazer ilustrações
