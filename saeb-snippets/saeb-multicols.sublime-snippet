@@ -1,7 +1,0 @@
-<snippet>
-	<description>ConTeXt-starttext</description>
-	<content><![CDATA[\starttext
-\stoptext]]></content>
-	<tabTrigger>ConTeXt-starttext</tabTrigger>
-	<scope>-source</scope>
-</snippet>
