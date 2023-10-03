@@ -1,0 +1,23 @@
+\documentclass[border=0.2cm]{standalone}
+ 
+% Bar chart drawing library 
+\usepackage{pgfplots} 
+ 
+\begin{document}
+ 
+\begin{tikzpicture}
+ 
+\begin{axis} [ybar,bar width=35pt]
+\addplot coordinates {
+                        (2,2.5) 
+                        (1,0.5) 
+                        (4,3)
+                        (3,2) 
+};
+
+\legend {Maçãs};
+\end{axis}
+ 
+\end{tikzpicture}
+ 
+\end{document}
