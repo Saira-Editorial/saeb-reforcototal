@@ -1,3 +1,4 @@
+%!TEX root=./LIVRO.tex
 %\newcommand{\linhalayout}[2]{{\tiny\textbf{#1}\quad#2\par}}
 \newcommand{\linha}[2]{\ifdef{#2}{\linhalayout{#1}{#2}}{}}
 
@@ -33,16 +34,16 @@
 \textbf{Editoração eletrônica}\quad			 {Paulo Henrique Pompermaier}\\
 \textbf{Pesquisa iconográfica}\quad			 {Margarita Veloso}\\
 \textbf{Projeto gráfico e capa}\quad		 {Luísa Marcelino}
-
+\textbf{Código}\quad {\ifdef{\RevisionInfo{}}{\RevisionInfo{} (\today, \currenttime)}{001}\medskip}
 \noindent\includegraphics{../fichas/8POR.pdf}
 
 \vfill
 
-CASA DE LETRAS E GRÁFICA LTDA.\\
+\textsc{casa de letras e gráfica ltda.}\\
 Rua Fradique Coutinho, 1139, andar 2, sala 2\\
-CEP 05416--011 -- São Paulo/SP, Brasil\\
-Telefone: (11) 3914--7790\\
-www.casadeletras.com.br
+CEP 05416--011 -- São Paulo/\textsc{sp}, Brasil\\
+Telefone: (11) 3914--7790\\\smallskip
+www.casadeletras.com.br\\
 
 \endgroup
 \pagebreak
