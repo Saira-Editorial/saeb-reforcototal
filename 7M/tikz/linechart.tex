@@ -1,0 +1,30 @@
+\documentclass[border=0.2cm]{standalone}
+\usepackage{pgfplotstable}
+\usepackage{pgfplots}
+\usepackage{filecontents}
+
+
+\begin{document}
+
+\begin{tikzpicture}
+
+\begin{axis}[
+        xtick = {1998, 1999, ..., 2018},
+        x tick label style={
+            font=\small,
+            rotate=90,
+            /pgf/number format/.cd,%
+            scaled x ticks = false,
+            set thousands separator={},
+            fixed
+        },
+            ylabel = {Toneladas},
+    %xlabel = {Região},
+    ]
+
+\addplot table [x=anno, y=andel, col sep=comma] {kvinner.data};
+\end{axis}
+
+\end{tikzpicture}
+
+\end{document}
