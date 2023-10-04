@@ -34,14 +34,14 @@
      \ifnum \value{chapter}<1
       \newcommand{\chapterprov}{Sumário}
       \begin{tikzpicture}[remember picture,overlay]
-       \node [anchor=north] at (8,1) {\includegraphics[width=\paperwidth,height=\paperheight]{chap2.pdf}};
+       \node [anchor=north] at (7.8,1.8) {\includegraphics[width=1.1\paperwidth,height=\paperheight]{chap2.pdf}};
        \node[above=1cm, font=\gotham\Large, text=black, anchor=south] at (5,-3) {};
        \end{tikzpicture}
        \setlength{\afterchapskip}{7.2\onelineskip}
 
       \else
       \begin{tikzpicture}[remember picture,overlay]
-       \node [anchor=north] at (7.8,3.1) {\includegraphics[width=\paperwidth,height=\paperheight]{chap.pdf}};
+       \node [anchor=north] at (7.8,3.2) {\includegraphics[width=1.1\paperwidth,height=\paperheight]{chap.pdf}};
        \node[above=1cm, font=\fontsize{70}{80}\gotham\selectfont, text=black, anchor=south] at (-0.3,-1.5) {\the\value{chapter}};
       \end{tikzpicture}
       \fi
