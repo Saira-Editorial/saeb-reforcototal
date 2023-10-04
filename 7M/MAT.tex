@@ -1767,7 +1767,7 @@ maior, torna-se menor e vice-versa.
 As equações polinomiais de grau 1 podem ser representadas por gráficos
 no plano cartesiano. Ela sempre será uma reta crescente ou decrescente:
 
-\medskip\hfill\includegraphics[width=.7\textwidth]{./tikz/eixos-crop.pdf}\hfill\medskip
+\medskip\hfill\includegraphics[width=.7\textwidth]{./tikz/eixos.pdf}\hfill\medskip
 
 Produzir uma imagem igual a essa, seguindo os padrões do material.
 
@@ -3386,7 +3386,7 @@ algumas formas, chamados de correspondentes, alternos e colaterais.
 Considerando $A$, $B$ e $C$ três pontos não colineares, definimos como
 triângulo a união desses pontos por meio de segmentos de reta.
 
-\medskip\hfill\includegraphics[width=.7\textwidth]{./imgSAEB_7_MAT/triangulo.pdf}\hfill\medskip
+\medskip\hfill\includegraphics[width=.7\textwidth]{./tikz/triangulo.pdf}\hfill\medskip
 
 \begin{itemize}
 \item $A, B, C \Rightarrow$ são vértices
@@ -4216,21 +4216,22 @@ social.
 \subsubsection{Tipos de gráficos}
 
 {\textbf{Gráfico de barras:} {Quantas frutas comemos em cada semana?}}\\
-\medskip\hfill\includegraphics[width=.6\textwidth]{./tikz/barchart.pdf}\hfill\medskip
+\medskip\hfill\includegraphics[width=.5\textwidth]{./tikz/barchart.pdf}\hfill\medskip
 
 
 {\textbf{Gráfico de colunas:} {Quantas maçãs foram produzidas em cada região?}}\\
-\medskip\hfill\includegraphics[width=.6\textwidth]{./tikz/columnchart.pdf}\hfill\medskip
+\medskip\hfill\includegraphics[width=.5\textwidth]{./tikz/columnchart.pdf}\hfill\medskip
 %{\centering \small \it Gráfico de colunas}
 
-{\textbf{Gráfico de setores:} {Com o que sonham os alunos?}}\\
+{\textbf{Gráfico de ``pizza'':} {Com o que sonham os alunos?}}\\
 \medskip\hfill\includegraphics[width=.6\textwidth]{./tikz/piechart.pdf}\hfill\medskip
 % %Paulo: inserir a imagem. Disponível em:
 % https://br.freepik.com/vetores-gratis/carregamento-circular-grafico-progresso\_796523.htm\#query=gr\%C3\%A1fico\%20pizza\&position=5\&from\_view=search\&track=ais
 % Acesso em: 18 maio 2023.
 
 % TODO: tikz: Gráfico de linhas ou histograma
-Gráfico de linhas ou histograma
+{\textbf{Gráfico de linhas (histograma):} {Qual a variação da população da cidade de Macondo desde 1998?}}\\
+\medskip\hfill\includegraphics[width=.5\textwidth]{./tikz/linechart.pdf}\hfill\medskip
 
 % %Paulo: inserir a imagem. Disponível em:
 %  https://br.freepik.com/vetores-gratis/ilustracao-do-grafico-de-analise-de-dados\_2806796.htm\#query=gr\%C3\%A1fico\%20de\%20linhas\&position=17\&from\_view=search\&track=ais
@@ -4251,16 +4252,20 @@ tabela:
 
 %Paulo: criar uma tabela com as informações abaixo.
 % TODO: tabela
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\endhead
-Marcas & Unidades vendidas\tabularnewline
-Honda & 16\tabularnewline
-Toyota & 5\tabularnewline
-Chevrolet~ & 11\tabularnewline
-\bottomrule
-\end{longtable}
-
+% \begin{table}[h]
+{\medskip    \hfill
+  \begin{tabular}{lr}
+    \toprule
+    Marcas & Unidades vendidas \\
+    \midrule
+    Honda & 16 \\
+    Toyota & 5 \\
+    Chevrolet & 11 \\
+    \bottomrule
+  \end{tabular}\hfill
+%   \caption{Vendas por Marca}
+% \end{table}
+}
 
 
 \subsubsection{Medidas de tendência central}
@@ -4290,18 +4295,29 @@ Exemplos: Thiago quer descobrir em qual matéria ele se saiu melhor no
 bimestre, Português ou Inglês. Para isso, ele reuniu as notas das quatro
 avaliações e calculou a moda, a média e a mediana.
 
-% TODO: tabela
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\endhead
-Inglês &\tabularnewline
-1ª avaliação & 8,2\tabularnewline
-2ª avaliação & 8\tabularnewline
-3ª avaliação & 8,2\tabularnewline
-4ª avaliação & 9,7\tabularnewline
-\bottomrule
-\end{longtable}
 
+\pagebreak
+
+\vspace*{5mm}
+
+% TODO: tabela
+% \begin{table}[h]
+{\medskip    \hfill
+  \begin{tabular}{ll}
+    \toprule
+    Avaliação & Nota \\
+    \midrule
+    1ª avaliação & 8,2 \\
+    2ª avaliação & 8 \\
+    3ª avaliação & 8,2 \\
+    4ª avaliação & 9,7 \\
+    \bottomrule
+  \end{tabular} \hfill 
+%   \caption{Notas em Inglês}
+% \end{table}
+}
+
+\vspace*{5mm}
 
 Moda $= \ 8,2$
 
@@ -4314,17 +4330,24 @@ Como o conjunto de dados é par:
 Mediana $ = \frac{\ 8,2 + 8,2}{2} = \ 8,2$
 
 % TODO: tabela
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\endhead
-Português~ &\tabularnewline
-1ª avaliação & 10\tabularnewline
-2ª avaliação & 6,8\tabularnewline
-3ª avaliação & 5\tabularnewline
-4ª avaliação & 10\tabularnewline
-\bottomrule
-\end{longtable}
 
+\vspace*{5mm}
+
+
+{\hfill    \centering
+  \begin{tabular}{ll}
+    \toprule
+    Avaliação & Nota \\
+    \midrule
+    1ª avaliação & 10 \\
+    2ª avaliação & 6,8 \\
+    3ª avaliação & 5 \\
+    4ª avaliação & 10 \\
+    \bottomrule
+  \end{tabular}
+ \hfill}
+
+\vspace*{1cm}
 
 Moda $= \ 10$
 
@@ -4398,16 +4421,20 @@ de Luana.\hfill}
 noite para ter maior controle na hora de fazer as compras. Analise a
 tabela e responda.
 
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\endhead
-Dias da semana & Quantidade de vendas\tabularnewline
-Quinta-feira~ & 30\tabularnewline
-Sexta-feira & 58\tabularnewline
-Sábado & 63\tabularnewline
-Domingo & 21\tabularnewline
-\bottomrule
-\end{longtable}
+\begin{table}[H]
+  \centering
+  {Vendas por Dia da Semana}\smallskip\\
+  \begin{tabular}{ll}
+    \toprule
+    Dias da semana & Quantidade de vendas \\
+    \midrule
+    Quinta-feira & 30 \\
+    Sexta-feira & 58 \\
+    Sábado & 63 \\
+    Domingo & 21 \\
+    \bottomrule
+  \end{tabular}
+\end{table} 
 
 \begin{escolha}[itemsep=0pt]
 
@@ -4428,21 +4455,6 @@ foram registrados e agora precisam ser apresentados em forma de gráfico.
 A tabela abaixo mostra o número de alunos que escolheram cada
 esporte:
 
-% TODO: tabela
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\tabularnewline
-\midrule
-\endhead
-Esporte & Número de Alunos\tabularnewline
-Futebol & 30\tabularnewline
-Basquete & 20\tabularnewline
-Vôlei & 15\tabularnewline
-Tênis & 10\tabularnewline
-Natação & 5\tabularnewline
-\bottomrule
-\end{longtable}
-
 Qual tipo de gráfico seria mais adequado para representar esses dados?
 
 \reduline{O gráfico de colunas é adequado para representar dados categóricos, como
@@ -4460,19 +4472,23 @@ todos os dias no mesmo horário. Qual é a moda, média e mediana das
 temperaturas?
 
 % TODO: tabela
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\endhead
-Dia do mês~ & Temperatura\tabularnewline
-01/03/2023 & 19º\tabularnewline
-02/03/2023 & 18º\tabularnewline
-03/03/2023 & 22º\tabularnewline
-04/03/2023 & 22º\tabularnewline
-05/03/2023 & 17º\tabularnewline
-06/03/2023 & 29º\tabularnewline
-07/03/2023 & 18º\tabularnewline
-\bottomrule
-\end{longtable}
+\begin{table}[htbp]
+  \centering
+  {Temperatura por Dia do Mês} \medskip \\
+  \begin{tabular}{lr}
+    \toprule
+    Dia do mês & Temperatura \\
+    \midrule
+    01/03/2023 & 19º \\
+    02/03/2023 & 18º \\
+    03/03/2023 & 22º \\
+    04/03/2023 & 22º \\
+    05/03/2023 & 17º \\
+    06/03/2023 & 29º \\
+    07/03/2023 & 18º \\
+    \bottomrule
+  \end{tabular}
+\end{table}
 
 \reduline{MODA = 18º e 22º
 
@@ -4501,19 +4517,14 @@ estatística.
 
 \num{7} Indique, em cada alternativa, a população e a amostra.
 
-\begin{escolha}[itemsep=0pt]
+\begin{escolha}[itemsep=-3mm]
 
-\item Turma do segundo ano, 3 pessoas que usam óculos do segundo ano \\
-
-\rosa{População: Turma do segundo ano;~amostra: 3 pessoas que usam óculos do segundo ano.} \\ \\
-
-\item Eleitores no Brasil, eleitores de Minas Gerais \\
-
-\rosa{População: Eleitores do Brasil; amostra: Eleitores de Minas Gerais.} \\ \\
-
-\item Macacos, fauna \\
-
-\rosa{População: Fauna; amostra: Eleitores de Minas Gerais} \\ \\
+\item Turma do segundo ano, 3 pessoas que usam óculos do segundo ano 
+\rosa{População: Turma do segundo ano;~amostra: 3 pessoas que usam óculos do segundo ano.} 
+\item Eleitores no Brasil, eleitores de Minas Gerais 
+\rosa{População: Eleitores do Brasil; amostra: Eleitores de Minas Gerais.} 
+\item Macacos, fauna 
+\rosa{População: Fauna; amostra: Eleitores de Minas Gerais} 
 
 \end{escolha}
 
@@ -4605,22 +4616,30 @@ delimitar o problema.
 % C - Correta, pois a I é falsa. Moda é o valor que mais se repete.
 % D - Incorreta, pois, a definição de moda está incorreta na I.
 
+
+
+\pagebreak
+
 \num{2} Dada a tabela de salário + horas extras de Juliano durante 6 meses,
 qual foi a média dos valores que ele recebeu?
 
 % TODO: tabela
-\begin{longtable}[]{@{}ll@{}}
-\toprule
-\endhead
-Meses & Salários + horas extras\tabularnewline
-Janeiro & R\$1.400,00\tabularnewline
-Fevereiro & R\$1.359,00\tabularnewline
-Março & R\$1.260,00\tabularnewline
-Junho & R\$1.300,00\tabularnewline
-Julho & R\$1.500,00\tabularnewline
-Agosto & R\$1.400,00\tabularnewline
-\bottomrule
-\end{longtable}
+\begin{table}[H]
+  \centering
+ {Salários Mensais com Horas Extras}\medskip\\
+  \begin{tabular}{lr}
+    \toprule
+    Meses & Salários + horas extras \\
+    \midrule
+    Janeiro & R\$1.400,00 \\
+    Fevereiro & R\$1.359,00 \\
+    Março & R\$1.260,00 \\
+    Junho & R\$1.300,00 \\
+    Julho & R\$1.500,00 \\
+    Agosto & R\$1.400,00 \\
+    \bottomrule
+  \end{tabular}
+\end{table}
 
 \begin{escolha}[itemsep=0pt]
 \item Aproximadamente R\$ $1.500,00$.
@@ -4760,23 +4779,23 @@ na qual usamos medidas área.
 \num{1} Encontre o valor das transformações das unidades de comprimento
 abaixo:
 
-\begin{multicols}{2}
+%\begin{multicols}{2}
 \begin{escolha}[itemsep=0pt]
 
-\item 360 m em hm \\ 
-\rosa {$\frac{360}{100} = 3,6$ hm} \\ \\
+\item 360 m em hm 
+\rosa {$\frac{360}{100} = 3,6$ hm} 
 
-\item 5,2 dam em cm \\ 
-\rosa {$5,2 \times 1000 = 5200$ cm} \\ \\
+\item 5,2 dam em cm 
+\rosa {$5,2 \times 1000 = 5200$ cm} 
 
-\item 72 mm em m \\ 
-\rosa {$\frac{72}{1000} = 0,072$ m} \\ \\
+\item 72 mm em m 
+\rosa {$\frac{72}{1000} = 0,072$ m} 
 
-\item 0,003 km em dm \\ 
-\rosa {$0,003 \times 10.000 = 30$dm} \\ \\
+\item 0,003 km em dm 
+\rosa {$0,003 \times 10.000 = 30$dm} 
 
 \end{escolha}
-\end{multicols}
+%\end{multicols}
 
 \num{2} Um jardineiro deseja cercar um terreno retangular para criar uma área
 de plantio. Ele mediu os lados do terreno e obteve as seguintes medidas:
@@ -4789,25 +4808,27 @@ do terreno apresentado, temos dois lados de comprimento A = 5 metros e
 dois lados de comprimento B = 8 metros. Portanto, o perímetro é dado por
 $2A + 2B = 2(5) + 2(8) = 10 + 16 = 26$ metros.\hfill}
 
+\pagebreak
+
 \num{3} Encontre o valor das transformações das unidades de área abaixo:
 
-\begin{multicols}{2}
+%\begin{multicols}{2}
 \begin{escolha}[itemsep=0pt]
 
-\item 0,3 dam² em dm² \\
-\rosa{$0,3 \times 10.000 = 3.000\ dm^{2}$} \\ \\
+\item 0,3 dam² em dm² 
+\rosa{$0,3 \times 10.000 = 3.000\ dm^{2}$} 
 
-\item 3.500 cm² em mm² \\
-\rosa{$3500 \times 100 = 350.000\ mm^2$} \\ \\
+\item 3.500 cm² em mm² 
+\rosa{$3500 \times 100 = 350.000\ mm^2$}  
 
-\item 720 hm² em km² \\
-\rosa{$\frac{720}{100} = 7,2\ km^{2}$} \\ \\
+\item 720 hm² em km² 
+\rosa{$\frac{720}{100} = 7,2\ km^{2}$}  
 
-\item 265.000 mm² em m² \\
-\rosa{$\frac{265.000}{1\ 000\ 000} = 0,265m²$} \\ \\
+\item 265.000 mm² em m² 
+\rosa{$\frac{265.000}{1\ 000\ 000} = 0,265m²$}  
 
 \end{escolha}
-\end{multicols}
+%\end{multicols}
 
 %Professor, enfatize com os alunos que no caso das unidades de área as
 %transformações são feitas utilizando o 100, ou seja, ao transformar
@@ -4827,78 +4848,79 @@ obtidas são: altura = 4 metros e raio da base = 2 metros.
 
 Calcule o volume do reservatório.
 
-\reduline{O volume de um cilindro é calculado multiplicando a área da base pela
-altura. No caso do reservatório, temos um cilindro com altura de 4
-metros e raio da base de 2 metros. Portanto, o volume é dado por 
+\reduline{O vol. de um cilindro é calculado pela área da base pela
+altura. No caso do reservatório, temos um cilindro com alt. de 4m e raio da base de 2 metros. Portanto, o volume é dado por 
 
-$\pi \cdot (raio)^2 \cdot altura = \pi \cdot 2^2 \cdot 4 \cong 25,13$ metros cúbicos.
+$\pi \cdot (raio)^2 \cdot alt. = \pi \cdot 2^2 \cdot 4 \cong 25,13$ mtrs cúb.
 
-$\pi \cdot (raio)^{2} \times altura = \pi \times 2^{2} \times {4} \cong 25,13$.\hfill}
+$\pi \cdot (raio)^{2} \times alt. = \pi \times 2^{2} \times {4} \cong 25,13$.\hfill}
 
 \num{6} Encontre o valor das transformações das unidades de massa abaixo:
 
 
 \begin{escolha}[itemsep=0pt]
 \item 850 cg em dg
-\rosa{$\frac{850}{10} = 85$ dg} \\ 
+\rosa{$\frac{850}{10} = 85$ dg} 
 
 \item 9,3 dag em g
-\rosa{$93 \times 10 = 930$ g} \\ 
+\rosa{$93 \times 10 = 930$ g} 
 
 \item 63,9 dag em kg
-\rosa{$\frac{63,9}{100} = 0,639$ kg} \\ 
+\rosa{$\frac{63,9}{100} = 0,639$ kg} 
 
 \item 0,002 kg em mg
-\rosa{$0,002 \times 1.000.000 = 2000$ mg} \\ 
+\rosa{$0,002 \times 1.000.000 = 2000$ mg} 
 \end{escolha}
 
 \num{7} Encontre o valor das transformações das unidades de tempo abaixo:
 
 \begin{escolha}[itemsep=0pt]
 \item 300 minutos em horas
-\rosa{$\frac{300}{60} = 5$ horas} \\
+\rosa{$\frac{300}{60} = 5$ horas} 
 
 \item 25 minutos em segundos
-\rosa{$25 \times 60 = 1500$ segundos} \\
+\rosa{$25 \times 60 = 1500$ segundos} 
 
 \item 2 horas em segundos
-\rosa{$2 \times 60 \times 60 = 7200$ segundos} \\
+\rosa{$2 \times 60 \times 60 = 7200$ segundos} 
 
 \item 10.800 segundos em horas
-\rosa{$\frac{10.800}{60} = 180$ minutos $= \frac{180}{60} = 3$ horas} \\
+\rosa{$\frac{10.800}{60} = 180$ minutos $= \frac{180}{60} = 3$ horas} 
 \end{escolha}
+
+\pagebreak
 
 \num{8} Encontre o valor das transformações das unidades de volume abaixo:
 
 \begin{escolha}[itemsep=0pt]
 
 \item 0,0012 hm³ em m³
-\rosa {$0,0012 \times 1.000.000 = 1200 m^3$} \\
+\rosa {$0,0012 \times 1.000.000 = 1200 m^3$} 
 
 \item 9804 cm³ em dm³
-\rosa {$\frac{9804}{1000} = 9,804\ dm^3$} \\
+\rosa {$\frac{9804}{1000} = 9,804\ dm^3$} 
 
 \item 0,651 dm³ em cm³
-\rosa {$0,651 \times 1000 = 651 cm^3$} \\
+\rosa {$0,651 \times 1000 = 651 cm^3$} 
 
 \item 4.200.000.000 cm³ em hm³
-\rosa {$\frac{4.200.000.000}{10^{12}} = 0,0042 hm^3$} \\
+\rosa {$\frac{4.200.000.000}{10^{12}} = 0,0042 hm^3$} 
 
 \end{escolha}
 
 \num{9} Faça a conversão entre as unidades de volume e capacidade:
 
 \begin{escolha}[itemsep=0pt]
-\item 25,4 m$^3$ em litros \\ \\
+\item 25,4 m$^3$ em litros 
 \rosa{$25,4\ m^{3}$ em l \rightarrow $1m^{3} = 1000$l \rightarrow $25m^{3} = 25,4 \times 1000 = 25.400$l}
 
-\item 400 litros em m$^3$ \\ \\
+\item 400 litros em m$^3$ 
 \rosa{$400$l em $m^{3}$ \rightarrow $1m^{3} = 1000$l \rightarrow $400$l = $\frac{400}{1000} = 0,4m^3$}
 
-\item 725 dm$^3$ em ml \\ \\
+\item 725 dm$^3$ em ml 
 \rosa{$725$ dm$^{3}$ em  ml \rightarrow 1dm$^3$l \rightarrow $725$ dm$^{3} = 725$l \rightarrow $725 \times 1000 = \mathbf{725000}$ ml}
 
-\item 188 l em dm$^3$ \\ \\
+\item 188 l em dm$^3$ 
 \rosa{$188$ l em dm$^{3}$ \rightarrow  1dm$^{3} = 1$l \rightarrow $188$l = $188$ dm$^3$}
 
 \end{escolha}
@@ -4931,6 +4953,8 @@ A soma dos comprimentos dos quatro lados da faixa sem tapete é $8 + 8 + 4
 
 Portanto, a resposta correta é 24 metros, que representa o perímetro da
 faixa sem tapete ao redor das paredes da sala retangular.\hfill}
+
+\pagebreak
 
 \section*{Treino}
 
@@ -5122,7 +5146,7 @@ $P(B|A) = \ \frac{6}{12}$.
 A probabilidade que seja vermelha é:
 $\frac{6}{13} \times \frac{6}{12} = \frac{12}{156}$ ou a fração
 irredutível $\frac{1}{13}$.
-}B
+}
 
 \section*{Atividades}
 
@@ -5131,13 +5155,13 @@ irredutível $\frac{1}{13}$.
 \begin{escolha}[itemsep=0pt]
 
 \item Um jogador de futebol erra dois chutes a gol.
-\rosa{Eventos independentes, pois o fato de o jogador errar o primeiro chute não impõe que ele errará o segundo.} \\ \\
+\rosa{Eventos independentes, pois o fato de o jogador errar o primeiro chute não impõe que ele errará o segundo.} 
 
 \item Uma pessoa escolhe o lugar no cinema antes de você.
-\rosa{Dependente, pois, quando você for escolher, terá menos opções.} \\ \\
+\rosa{Dependente, pois, quando você for escolher, terá menos opções.} 
 
 \item Retirar cartas do baralho e não devolvê-las antes de passar a vez para o próximo jogador.
-\rosa{Dependente, porque quando a próxima pessoa for retirar uma carta, terá menos opções.} \\ \\
+\rosa{Dependente, porque quando a próxima pessoa for retirar uma carta, terá menos opções.} 
 
 \end{escolha}
 
@@ -5153,8 +5177,8 @@ multiplicação, temos: P(3 acertos em questões) = $0,9 \times 0,9 \times 0,9 =
 seguidas no número 2?
 
 \reduline{São eventos independentes, uma vez que o resultado anterior do dado não
-diminui as chances de cair na mesma face. Então, pela regra da
-multiplicação:
+diminui as chances de cair na mesma face. Pela regra da
+multipl.:
 
 $P(A) = \ \frac{1}{6} \times \frac{1}{6} \times \frac{1}{6} \times \frac{1}{6} = \ \frac{1}{1296}$.\hfill}
 
@@ -5189,9 +5213,9 @@ um 5, não retorná-lo, e tirar uma dama logo em seguida?
 evento e depois o segundo acontecimento, dado o primeiro já ter
 ocorrido, e multiplicar as probabilidades.
 
-$P(A) = \frac{4}{52}$ e $P(A) = \frac{4}{51}$ \\
+$P(A) = \frac{4}{52}$ e $P(A) = \frac{4}{51}$ 
 
-$P(A) \times P(A) = \frac{4}{52} \times \frac{4}{51} = $ \\
+$P(A) \times P(A) = \frac{4}{52} \times \frac{4}{51} = $ 
 
 $\frac{16}{2652}$ ou a fração irredutível $\frac{4}{663}$. \hfill}
 
