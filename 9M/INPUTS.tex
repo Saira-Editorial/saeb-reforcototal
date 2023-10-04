@@ -24,10 +24,10 @@
 % \renewcommand{\contentsname}{Índex} 	% Trocar nome do sumário para 'Índex'
 %\ifodd\thepage\relax\else\blankpage\fi 	% Verifica se página é par e coloca página branca
 \addtocontents{toc}{\protect\thispagestyle{empty}}
-%\addtocontents{toc}{\vspace*{-.1cm}}
+\addtocontents{toc}{\vspace*{-3cm}}
 \tableofcontents*\clearpage\endgroup}
 
-
+\addcontentsline{toc}{chapter}{Apresentação}
 \input{../INTRO}
 
 \blankpage
@@ -48,26 +48,9 @@
  \addcontentsline{toc}{chapter}{CIÊNCIAS DA NATUREZA}
  \input{CNA}
 
-%\blankpage
-% %\vspace*{-3.4cm}
- %\hspace*{-3.7cm}\includegraphics[scale=1]{../watermarks/1simulado9ano.pdf}
-
- %\pagebreak
  \input{SIMULADO1}
-
-% \pagebreak
-% %\vspace*{-3.4cm}
- %\hspace*{-3.7cm}\includegraphics[scale=1]{../watermarks/2simulado9ano.pdf}
  \input{SIMULADO2}
-
-% \blankpage
-% %\vspace*{-3.4cm}
- %\hspace*{-3.7cm}\includegraphics[scale=1]{../watermarks/3simulado9ano.pdf}
  \input{SIMULADO3}
-
-%\blankpage
-% %\vspace*{-3.4cm}
- %\hspace*{-3.7cm}\includegraphics[scale=1]{../watermarks/4simulado9ano.pdf}
  \input{SIMULADO4}
 
 %\input{GABARITO}
