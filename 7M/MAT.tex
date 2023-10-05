@@ -45,7 +45,7 @@ materna.
 
 \conteudo{\vspace{-2em}\subsubsection*{Números naturais}
 
-O conjunto dos números naturais é chamado de $N$. Números naturais são
+O conjunto dos números naturais é chamado de $\mathbb{N}$. Números naturais são
 todos os números que são positivos e possuem somente parte inteira. Os
 números naturais têm algumas particularidades, como: um número é primo
 quando possui apenas dois divisores, ele mesmo e o número $1$. O único
@@ -62,6 +62,7 @@ números.
 
 \subsubsection*{Números racionais}
 
+O conjunto dos números naturais é chamado de $\mathbb{R}$.
 Números racionais são números que podem ser escritos em forma de fração,
 por exemplo: $\frac{a}{b}$, desde que $a$ e $b$ sejam inteiros e $b$ diferente de zero.
 
@@ -135,13 +136,14 @@ $5,3632 = \ 5 + 0,30000 + 0,0600 + 0,0030 + 0,0002$
 
 \subsubsection*{Números irracionais}
 
-% O conjunto dos números irracionais recebem o nome .
+O conjunto dos números irracionais é chamado de $\mathbb{I}$.
 Números irracionais são todos aqueles números que não podemos representar por frações.
 Alguns exemplos são as dízimas que não possuem período e que se repetem,
 e algumas raízes, como $\sqrt{2}$ \ e $\sqrt{3}$.
 
 \subsubsection{Números reais}
 
+O conjunto dos números reais é chamado de $\mathbb{R}$.
 Os números reais incluem
 todos os números naturais, inteiros, racionais e irracionais, com exceção do
 conjunto dos números complexos. Para a representação e
@@ -458,12 +460,12 @@ multiplicações ou divisões envolvendo números reais.
 
 %Professor, tenha muita atenção ao trabalhar esse módulo com os alunos, pois trataremos das operações fundamentais envolvendo números positivos e negativos. Revise as operações de soma, subtração, multiplicação, divisão, potenciação e radiciação com números positivos. Em seguida, refaça todas elas com os números negativos. Enfatize bem as regras de sinais, distinguindo as regras da soma e multiplicação/divisão.
 
-As operações de adição, subtração, multiplicação, potência e raiz, no
-contexto dos números negativos, precisam ser realizadas com mais atenção
-por envolverem as regras de sinais. Vamos relembrá-las?
 
 \vspace{1em}
 \conteudo{\vspace{-2em}\subsubsection*{Soma}
+As operações de adição, subtração, multiplicação, potência e raiz, no
+contexto dos números negativos, precisam ser realizadas com mais atenção
+por envolverem as regras de sinais. Vamos relembrá-las?
 
 Sinais iguais: somamos os algarismos e mantemos o sinal em comum no
 resultado.
@@ -3359,37 +3361,41 @@ externo).
 \item EF07MA23, EF07MA24, EF07MA25.
 \end{itemize}
 
-\conteudo{\subsubsection{Retas paralelas e retas transversais}
+\conteudo{\vspace*{-2em}\subsubsection{Retas paralelas e retas transversais}
 
-Paralelas: retas que possuem o mesmo sentido, mas nunca se
+As retas paralelas são aquelas que têm a mesma direção, mas nunca se
 encontram, ou seja, não possuem pontos em comum.
 
-Transversal: reta que encontra simultaneamente duas ou mais retas
-em pontos diferentes.
+Uma reta transversal é aquela que intersecta simultaneamente duas ou mais
+retas em pontos diferentes.
 
-Paralelas cortadas por uma transversal: nessa situação dividimos o
-plano em região interna e externa das retas paralelas e lados diferentes
-em relação a transversal. Assim, surgem ângulo que se relacionam de
-algumas formas, chamados de correspondentes, alternos e colaterais.
+Quando as retas paralelas são cortadas por uma transversal, o plano é dividido
+em regiões internas e externas às retas paralelas, bem como em lados
+diferentes em relação à transversal. Nessa situação, surgem ângulos que se
+relacionam de várias formas, sendo chamados de ângulos correspondentes,
+alternos e colaterais.
+
+{\ \ \ \ \ \ \ \ \ \ 
+\includegraphics[width=.65\textwidth]{./tikz/paralell.pdf}}
 
 \begin{itemize}
+\item 
+  Ângulos correspondentes ocupam a mesma região da reta transversal e
+ regiões diferentes das retas paralelas. Esses ângulos são congruentes, ou
+ seja, possuem a mesma medida.
 \item
-  Ângulos correspondentes: ocupam uma mesma região da reta transversal e
-  regiões diferentes das paralelas. Esses ângulos são congruentes.
+  Ângulos alternos ocupam a mesma região das retas paralelas e regiões
+  diferentes da transversal. Podem ser alternos internos ou alternos
+  externos, e são congruentes.
 \item
-  Ângulos alternos: ocupam uma mesma região das retas paralelas e
-  regiões diferentes da transversal. Podendo ser alternos internos ou
-  alternos externos, esses ângulos são congruentes.
-\item
-  Ângulos colaterais: ocupam a mesma região da reta transversal e das
-  paralelas. Podendo ser colaterais internos ou colaterais externos,
-  esses ângulos são suplementares.
+  Ângulos colaterais ocupam a mesma região da reta transversal e das retas
+  paralelas. Podem ser colaterais internos ou colaterais externos, e são
+  suplementares, ou seja, somam 180 graus.
 \end{itemize}
 
-\subsubsection{{Triângulo}}
 
-Considerando $A$, $B$ e $C$ três pontos não colineares, definimos como
-triângulo a união desses pontos por meio de segmentos de reta.
+
+\subsubsection{{Triângulo}}
 
 \medskip\hfill\includegraphics[width=.7\textwidth]{./tikz/triangulo.pdf}\hfill\medskip
 
@@ -3399,24 +3405,32 @@ triângulo a união desses pontos por meio de segmentos de reta.
 \item $\alpha, \beta, \gamma \Rightarrow$ são os ângulos
 \end{itemize}
 
-\medskip \noindent \textit{Condição de existência}: para um triângulo ser possível de
-construir é preciso satisfazer relações sobre o tamanho dos lados e dos
-ângulos. São elas,
+Considerando $A$, $B$ e $C$ três pontos não colineares, definimos como
+triângulo a união desses pontos por meio de segmentos de reta.
+
+
+\medskip \noindent \textit{Condição de existência}: Para que um triângulo possa ser construído, é necessário satisfazer certas
+condições em relação aos tamanhos dos lados e dos ângulos. Essas condições
+são:
 
 $$ a < b + c\ b < a + c\ c < b + c\ $$
 $$\alpha + \beta + \gamma = 180{^\circ}$$
 
-\medskip \noindent \textbf{Observação:} dependendo do contexto basta aplicar a desigualdade
-para o maior lado, se ele satisfizer já é garantido que o triângulo
-existe. Assim, sendo \textbf{{a}} o maior lado do triângulo:
+
+
+
+\medskip \noindent \textbf{Observação:} Dependendo do contexto, pode ser
+ suficiente aplicar a desigualdade para o maior lado. Se essa desigualdade
+ for satisfeita, então é garantido que o triângulo existe. Portanto, se $a$ é o
+ maior lado do triângulo, a seguinte desigualdade é suficiente:
 
 $$\left| b - c \right| < a < b + c$$
-\medskip \noindent \textit{Rigidez do triângulo:} como os vértices dos triângulos definem um
-único plano, isso os tornam figuras planas com estabilidade, ou seja,
-são polígonos rígidos, são fortes e não se deformam de forma fácil. Por
-isso, são utilizados em construções arquitetônicas, como telhados,
-estruturas metálicas, em objetos de uso diário e aparecem também nas
-artes plásticas.}
+
+\medskip \noindent \textit{Rigidez do triângulo:} O triângulo é uma figura plana rígida, pois os vértices do triângulo definem
+um único plano. Isso significa que ele é estável e não se deforma facilmente.
+Por esse motivo, os triângulos são amplamente utilizados em construções
+arquitetônicas, como telhados e estruturas metálicas, bem como em objetos do
+dia a dia e nas artes plásticas.}
 
 \section*{Atividades}
 
@@ -3520,14 +3534,13 @@ lado a seguir.
 
 
 \begin{escolha}[itemsep=0pt]
-\item Teste
-\item 11, 13, 21  \\ \\
+\item 11, 13, 21 
 \rosa{$| 13 - 11 | < \ 21\  < \ 13 + 11\  \rightarrow \ \ 2 < 21 < 24 $ portanto, o triângulo existe}
-\item 8,5; 10,5; 20  \\ \\
-\rosa{$| 10,5 - 8,5 | < \ 20\  < \ 10,5 + 8,5\  \rightarrow \ \ 2 < 20 < 19 $ portanto, o triângulo não existe}
-\item 3, 6, 9  \\ \\
+\item 8,5; 10,5; 20 
+\rosa{$| 10,5 - 8,5 | < \ 20\  < \ 10,5 + 8,5\  \rightarrow \ \ 2 < 20 < 19 $ o triângulo não existe}
+\item 3, 6, 9 
 \rosa{$| 6 - 3 | < \ 9\  < \ 6 + 3\  \rightarrow \ \ 2 < 9 < 9 $ portanto o triângulo não existe}
-\item 5, 6, 7  \\ \\
+\item 5, 6, 7 
 \rosa{$| 6 - 5 | < \ 7\  < \ 6 + 5\  \rightarrow \ \ 1 < 7 < 11 $ portanto, o triângulo existe}
 \end{escolha}
 
@@ -3535,27 +3548,27 @@ lado a seguir.
 %Professor, no caso da letra D, enfatize com os alunos que o lado tem que
 %ser estritamente menor que a soma dos outros dois, e nesse caso é igual.
 
-\num{6} Em um triângulo ABC, sabe-se que a medida do ângulo A é o triplo da
-medida do ângulo B, e a medida do ângulo C é a metade da medida do
-ângulo B. Além disso, a medida do lado AB é o dobro da medida do lado
-AC. Determine as medidas dos ângulos e dos lados do triângulo ABC.
+\num{6} Em um triângulo $ABC$, sabe-se que a medida do ângulo $A$ é o triplo da
+medida do ângulo $B$, e a medida do ângulo $C$ é a metade da medida do
+ângulo $B$. Além disso, a medida do lado $AB$ é o dobro da medida do lado
+AC. Determine as medidas dos ângulos e dos lados do triângulo $ABC$.
 
 \reduline{Nesse problema, temos um triângulo ABC com informações sobre as medidas
 dos ângulos e dos lados. Podemos utilizar as propriedades e relações
 existentes entre os elementos de um triângulo para determinar suas
 medidas.
 
-Sabemos que a medida do ângulo A é o triplo da medida do ângulo B. Seja
-x a medida do ângulo B. Portanto, a medida do ângulo A é 3x.
+Sabemos que a medida do ângulo $A$ é o triplo da medida do ângulo $B$. Seja
+$x$ a medida do ângulo $B$. Portanto, a medida do ângulo $A$ é $3x$.
 
-Também é dito que a medida do ângulo C é a metade da medida do ângulo B.
-Então, a medida do ângulo C é (1/2)x.
+Também é dito que a medida do ângulo $C$ é a metade da medida do ângulo $B$.
+Então, a medida do ângulo $C$ é $(1/2)x$.
 
 Sabemos que a soma dos ângulos internos de um triângulo é 180 graus.
 Portanto, podemos escrever a equação:
 
-$A + B + C = 180
-$
+$A + B + C = 180$
+
 Substituindo as medidas dos ângulos, temos:
 
 $ 3x + x + \frac {1}{2}x = 180$
@@ -3568,7 +3581,7 @@ $9x = 360$
 
 $x = 40$
 
-Agora que conhecemos a medida do ângulo B, podemos encontrar as medidas
+Agora que conhecemos a medida do ângulo $B$, podemos encontrar as medidas
 dos outros ângulos:
 
 Ângulo $A = 3x = 3 \times 40 = 120$ graus;
@@ -3576,8 +3589,8 @@ dos outros ângulos:
  Ângulo $C =
  \frac {1}{2}x = {1}{2} \times 40 = 20$ graus.
 
-Além disso, sabemos que o lado AB é o dobro do lado AC. Seja y a medida
-do lado AC. Portanto, o lado AB tem medida 2y.
+Além disso, sabemos que o lado $AB$ é o dobro do lado $AC$. Seja $y$ a medida
+do lado $AC$. Portanto, o lado $AB$ tem medida $2y$.
 
 Com base nessas informações, encontramos as medidas dos ângulos e dos
 lados do triângulo ABC:
@@ -3594,35 +3607,35 @@ propriedades e relações existentes em triângulos, permitindo obter as
 medidas solicitadas.\hfill}
 
 \num{7} Classifique o seguinte quadrilátero em relação aos seus ângulos
-internos: ABCD, onde os ângulos A, B, C e D medem 90 graus cada.
+internos: $ABCD$, onde os ângulos $A, B, C e D$ medem 90 graus cada.
 
 \reduline{Para classificar um quadrilátero em relação aos seus ângulos internos, é
 necessário analisar as medidas dos ângulos formados pelos seus lados.
 
-No problema dado, os ângulos A, B, C e D medem 90 graus cada. Essa
+No problema dado, os ângulos $A, B, C e D$ medem 90 graus cada. Essa
 medida é característica de ângulos retos, que são ângulos de 90 graus.
 
 Um quadrilátero que possui todos os ângulos internos de 90 graus é
-chamado de quadrado. Portanto, o quadrilátero ABCD com ângulos A, B, C e
-D medindo 90 graus cada é um quadrado.
+chamado de quadrado. Portanto, o quadrilátero $ABCD$ com ângulos $A, B, C e
+D$ medindo 90 graus cada é um quadrado.
 
 Essa classificação é justificada pela definição de um quadrado, que é um
 quadrilátero com quatro lados congruentes e quatro ângulos retos. No
-problema, os ângulos internos do quadrilátero ABCD possuem medidas de 90
+problema, os ângulos internos do quadrilátero $ABCD$ possuem medidas de 90
 graus, cumprindo a definição de um quadrado. Portanto, a resposta
-correta é que ABCD é um quadrado.\hfill}
+correta é que $ABCD$ é um quadrado.\hfill}
 
-\num{8} Considere as retas r, s e t no plano cartesiano, dadas pelas
+\num{8} Considere as retas $r$, $s$ e $t$ no plano cartesiano, dadas pelas
 seguintes equações:
 
-$r: y = 2x + 3$ \\
-$s: y = -2x - 1$ \\
-$t: y = 2x - 4$ \\
+$$r: y = 2x + 3$$
+$$s: y = -2x - 1$$
+$$t: y = 2x - 4$$
 
-Identifique as relações existentes entre as retas r, s e t: se são
+Identifique as relações existentes entre as retas $r$, $s$ e $t$: se são
 concorrentes, paralelas ou perpendiculares.
 
-\reduline{Para identificar as relações entre as retas r, s e t, devemos analisar
+\reduline{Para identificar as relações entre as retas $r$, $s$ e $t$, devemos analisar
 as inclinações de suas equações.
 
 A inclinação de uma reta é representada pelo coeficiente angular, que é
@@ -3638,24 +3651,24 @@ inclinação.
 
 Por outro lado, a reta s possui um coeficiente angular -2, que é o
 inverso aditivo de 2. Isso indica que a reta s é perpendicular às retas
-r e t.
+$r$ e $t$.
 
-Portanto, podemos concluir que as relações entre as retas r, s e t são
+Portanto, podemos concluir que as relações entre as retas $r$, $s$ e $t$ são
 as seguintes:
 
-A reta r e a reta t são paralelas. A reta s é perpendicular às retas r e
-t.
+A reta r e a reta $t$ são paralelas. A reta s é perpendicular às retas $r$ e
+$t$.
 
 Essa classificação é justificada pela definição de retas paralelas e
 perpendiculares. Duas retas são paralelas se têm a mesma inclinação, ou
-seja, seus coeficientes angulares são iguais. No caso das retas r e t,
+seja, seus coeficientes angulares são iguais. No caso das retas $r$ e $t$,
 ambas têm coeficiente angular 2, indicando que são paralelas.
 
 Duas retas são perpendiculares quando seus coeficientes angulares são
 inversos aditivos, ou seja, quando um é o oposto do recíproco do outro.
 No caso da reta s, seu coeficiente angular é -2, que é o inverso aditivo
-de 2, coeficiente angular das retas r e t, indicando que s é
-perpendicular a r e t.\hfill}
+de 2, coeficiente angular das retas $r$ e $t$, indicando que $s$ é
+perpendicular a $r$ e $t$.\hfill}
 
 \num{9} Em um triângulo de lados 32 e 38, e ângulos
 $85{^\circ}$ e $42{^\circ}$. Qual o menor valor de lado e o tamanho de
@@ -3674,46 +3687,46 @@ o menor valor do lado deve ser 7.
 
 \hfill}
 
-\num{10} Considere um paralelogramo ABCD, onde as diagonais AC e BD se
-intersectam em um ponto E. Se a medida do ângulo AED é 110 graus,
-determine a medida dos ângulos internos do paralelogramo ABCD.
+\num{10} Considere um paralelogramo $ABCD$, onde as diagonais $AC$ e $BD$ se
+intersectam em um ponto $E$. Se a medida do ângulo $AED$ é 110 graus,
+determine a medida dos ângulos internos do paralelogramo $ABCD$.
 
 \reduline{Para resolver esse problema, podemos utilizar as propriedades dos
 ângulos formados por retas paralelas cortadas por uma transversal.
 
-No caso do paralelogramo ABCD, as diagonais AC e BD se intersectam em um
-ponto E, formando quatro ângulos internos.
+No caso do paralelogramo $ABCD$, as diagonais $AC$ e $BD$ se intersectam em um
+ponto $E$, formando quatro ângulos internos.
 
-Sabemos que o ângulo AED mede 110 graus. Como as diagonais de um
+Sabemos que o ângulo $AED$ mede 110 graus. Como as diagonais de um
 paralelogramo se dividem em ângulos congruentes, podemos inferir que o
-ângulo BEC, que é oposto ao ângulo AED, também mede 110 graus.
+ângulo $BEC$, que é oposto ao ângulo $AED$, também mede 110 graus.
 
 Além disso, a soma dos ângulos internos de um paralelogramo é sempre 360
 graus. Portanto, podemos escrever a equação:
 
-Ângulo A + Ângulo B + Ângulo C + Ângulo D = 360
+Ângulo $A$ + Ângulo $B$ + Ângulo $C$ + Ângulo $D$ = 360
 
-Sabendo que os ângulos AED e BEC medem 110 graus cada, podemos
+Sabendo que os ângulos $AED$ e $BEC$ medem 110 graus cada, podemos
 substituir na equação:
 
-110 + Ângulo B + Ângulo C + 110 = 360
+110 + Ângulo $B$ + Ângulo $C$ + 110 = 360
 
 Simplificando a equação, temos:
 
-Ângulo B + Ângulo C = 360 - 110 - 110 Ângulo B + Ângulo C = 140
+Ângulo $B$ + Ângulo $C$ = 360 - 110 - 110 Ângulo $B$ + Ângulo $C$ = 140
 
 Sabemos que os ângulos opostos em um paralelogramo são congruentes.
-Portanto, Ângulo B e Ângulo D também possuem a mesma medida.
+Portanto, Ângulo $B$ e Ângulo $D$ também possuem a mesma medida.
 
 Podemos reescrever a equação:
 
-Ângulo B + Ângulo D = 140
+Ângulo $B$ + Ângulo $D$ = 140
 
-A soma dos ângulos B e D é igual a 140 graus. Dividindo igualmente, cada
+A soma dos ângulos $B$ e $D$ é igual a 140 graus. Dividindo igualmente, cada
 ângulo mede:
 
-Ângulo B = $\frac {140}{2} = 70$ graus Ângulo $D = \frac {140}{2} =
-70$ graus
+Ângulo $B = \frac {140}{2} = 70$ graus Ângulo $D = \frac {140}{2} =
+70$ graus.
 
 Assim, encontramos a medida dos ângulos internos do paralelogramo ABCD:
 
@@ -3726,7 +3739,7 @@ Assim, encontramos a medida dos ângulos internos do paralelogramo ABCD:
 relação correta entre as medidas dos lados:
 
 \begin{escolha}[itemsep=0pt]
-\item $a^2 + b^2 = c^2$ (Teorema de Pitágoras)
+\item $a^2 + b^2 = c^2$ (Teorema de Pitágoras) \rosa{X}
 \item $a + b = c$ (Propriedade da soma dos lados)
 \item $a = b$ (Lados congruentes em um triângulo retângulo)
 \item $a > b > c$ (Relação entre as medidas dos lados)
@@ -3756,7 +3769,7 @@ os lados. Determine a relação correta entre os ângulos internos dos
 polígonos:
 
 \begin{escolha}[itemsep=0pt]
-  \item Os ângulos internos de $P$ são congruentes aos ângulos internos de $Q$.
+  \item Os ângulos internos de $P$ são congruentes aos ângulos internos de $Q$. \rosa{X}
   \item Os ângulos internos de $P$ são proporcionais aos ângulos internos de $Q$.
   \item Os ângulos internos de $P$ são suplementares aos ângulos internos de $Q$.
   \item Os ângulos internos de $P$ são complementares aos ângulos internos de $Q$.
@@ -3786,7 +3799,7 @@ vários ângulos. Determine a relação correta entre os ângulos formados:
 \begin{escolha}[itemsep=0pt]
 \item Ângulos alternos internos são congruentes.
 \item Ângulos adjacentes são suplementares.
-\item Ângulos correspondentes são congruentes.
+\item Ângulos correspondentes são congruentes. \rosa{X}
 \item Ângulos consecutivos são complementares.
 \end{escolha}
 
@@ -3826,29 +3839,29 @@ de objetos em representações bidimensionais (mapas, croquis etc.),
 plantas de ambientes ou vistas, de acordo com condições dadas.
 \end{itemize}
 
-\conteudo{\subsubsection{Deslocamento}
+\conteudo{\vspace*{-2em}\subsubsection{Deslocamento}
 
-Compreender conceitos como trajetória, direção e sentido é essencial
-para se localizar e descrever posições e deslocamentos, seja em
-ambientes menores, como a sala de aula ou em nossa própria casa, quanto
-em ambientes maiores, como a cidade.
+Compreender conceitos como trajetória, direção e sentido é fundamental para se
+localizar e descrever posições e deslocamentos, tanto em ambientes menores,
+como uma sala de aula ou nossa própria casa, quanto em ambientes maiores,
+como uma cidade.
 
-Para interpretar uma representação espacial, são necessários pontos de
-referência, como um edifício alto, uma praça, um cruzamento ou uma
-interseção de ruas.
+Para interpretar uma representação espacial, é necessário ter pontos de
+referência, como um prédio alto, uma praça, um cruzamento ou uma interseção
+de ruas.
 
-Para a construção da representação espacial, é necessário ter em mente
-as noções de trajetória, direção e sentido para indicar com precisão a
-posição e o deslocamento de objetos ou pessoas, ter ideia de como
-transcrever a visualização tridimensional para a bidimensional. Também é
-importante utilizar símbolos e legendas adequados para tornar a
+Ao construir uma representação espacial, é importante ter em mente os
+conceitos de trajetória, direção e sentido para indicar com precisão a
+posição e o deslocamento de objetos ou pessoas, e também ter uma noção de
+como transcrever a visualização tridimensional para a bidimensional. Além
+disso, é essencial utilizar símbolos e legendas adequados para tornar a
 representação compreensível.
 
-O deslocamento é feito por meio de uma trajetória, definida como o
-caminho percorrido desde o ponto de partida até o ponto de chegada,
-podendo apresentar deslocamentos em linha reta ou em linha curva. A
-direção indica a orientação em que o deslocamento ocorre, enquanto o
-sentido indica a orientação em relação ao ponto de partida.}
+O deslocamento ocorre ao longo de uma trajetória, que é o caminho percorrido
+desde o ponto de partida até o ponto de chegada. Essa trajetória pode ser uma
+linha reta ou uma linha curva. A direção indica a orientação em que o
+deslocamento ocorre, enquanto o sentido indica a orientação em relação ao
+ponto de partida.}
 
 \section*{Atividades}
 
@@ -4004,14 +4017,14 @@ Assim, a posição correta para a pia é (2, 0) e para o fogão é (4, 4).\hfill
 conceito de direção, trajetória e referência.
 
 \rosa{resposta pessoal}
-\linhas{10}
+\linhas{9}
 
 \section*{Treino}
 
 \num{1} Um grupo de amigos está participando de uma caminhada em uma trilha.
 Cada pessoa segue um caminho específico e realiza as seguintes ações:
 
-\begin{itemize}
+\begin{itemize}[itemsep=5pt]
 \item Júlia caminha 500 metros para o norte; 
 \item Carlos caminha 300 metros para o leste; 
 \item Maria caminha 200 metros para o sul e depois 400 metros para o oeste.
@@ -4019,7 +4032,7 @@ Cada pessoa segue um caminho específico e realiza as seguintes ações:
 
 Determine a posição final de cada pessoa na trilha:
 
-\begin{escolha}[itemsep=0pt]
+\begin{escolha}[itemsep=5pt]
 \item
   Júlia está a nordeste de Carlos e a oeste de Maria.
 \item
@@ -4054,7 +4067,7 @@ Determine a posição final de cada pessoa na trilha:
 dimensões: Comprimento de 10 metros e largura de 6 metros. De acordo com a planta baixa, você precisa identificar a localização correta de uma janela na sala. As seguintes condições devem ser
 consideradas:
 
-\begin{itemize}
+\begin{itemize}[itemsep=5pt]
 \item A janela deve estar posicionada na parede mais próxima à entrada da
 sala. 
 \item A janela deve ser colocada a uma distância igual a 4 metros da
@@ -4063,7 +4076,7 @@ parede oposta à entrada.
 
 Determine a posição correta da janela na planta da sala:
 
-\begin{escolha}[itemsep=0pt]
+\begin{escolha}[itemsep=5pt]
 \item A janela está localizada na parede de 10 metros, a 4 metros da
 entrada.
 \item A janela está localizada na parede de 6 metros, a 4 metros da
@@ -4095,11 +4108,13 @@ entrada.
 % D - Incorreta, pois não foram seguidas corretamente as condições
 % especificadas para a localização da janela na planta da sala.
 
+
+\pagebreak
 \num{3} Considere um mapa de uma cidade em escala, no qual estão
 representados dois pontos A e B. João deseja se deslocar de A para B
 seguindo as seguintes condições:
 
-\begin{itemize}
+\begin{itemize}[itemsep=5pt]
 \item Ele deve caminhar 500 metros para o norte. 
 \item Em seguida, deve virar à esquerda e caminhar 300 metros para o leste. 
 \item Por fim, deve seguir mais 200 metros para o sul.
@@ -4107,7 +4122,7 @@ seguindo as seguintes condições:
 
 Determine a posição final de João no mapa:
 
-\begin{escolha}[itemsep=0pt]
+\begin{escolha}[itemsep=5pt]
 \item João está a nordeste do ponto B.
 \item João está a noroeste do ponto B.
 \item João está a sudeste do ponto B.
@@ -4128,7 +4143,7 @@ Determine a posição final de João no mapa:
 % Portanto, João está ao sul de B.
 
 \chapter{Estatística e sua
-Representação}
+representação}
 \markboth{Módulo 11}{}
 
 \section*{Habilidades do SAEB }
@@ -4182,40 +4197,46 @@ população-alvo da pesquisa), as variáveis e os tipos de variáveis
 \conteudo{
 \subsubsection{População e amostra}
 
-População e amostra são partes que compõem uma pesquisa científica. A
-população está relacionada ao todo, ou seja, ao público-alvo, e amostra
-é uma parte desse público-alvo que seja relevante para a pesquisa. É bem
-importante relacionar se a amostra representa bem o que a pesquisa
-propõe.
+População e amostra são termos utilizados em pesquisas científicas. A população refere-se ao conjunto completo, ou seja, ao público-alvo da pesquisa. A amostra, por sua vez, é uma parte desse público-alvo que é considerada relevante para a pesquisa. É essencial garantir que a amostra represente adequadamente o que a pesquisa pretende investigar.
 
-
-
-
-\medskip\noindent {Exemplo:} 
-
-Será realizada uma pesquisa sobre a intenção de voto
-para o próximo presidente da república no Brasil. É possível entrevistar
-todos os eleitores? Como o espaço de tempo entre candidatura e eleição é
-curto, não seria possível, mas é importante que a amostra seja
-significativa, uma vez que influencia um grupo de pessoas. Logo, a
-população da pesquisa são todos eleitores do Brasil e a amostra
-corresponde ao grupo de pessoas que respondeu à pesquisa.
+Por exemplo, suponha que uma pesquisa seja realizada sobre a intenção de voto para o próximo presidente da República no Brasil. Seria possível entrevistar todos os eleitores do país? Considerando o curto espaço de tempo entre a candidatura e a eleição, isso seria inviável. No entanto, é importante que a amostra seja significativa, pois ela influencia um grupo de pessoas. Nesse caso, a população da pesquisa seria composta por todos os eleitores do Brasil, enquanto a amostra corresponderia ao grupo de pessoas que respondeu à pesquisa.
 
 \subsubsection{Variáveis quantitativas e qualitativas}
 
-Variáveis quantitativas são os dados que podem ser expressos em números.
-Já as variáveis qualitativas são aquelas que não aparecem dessa forma.
+As variáveis em uma pesquisa podem ser classificadas em quantitativas ou qualitativas.
 
-As variáveis qualitativas são divididas em dois grupos, ordinais e
-nominais.
+As variáveis quantitativas são aquelas que podem ser expressas em números. Exemplos comuns incluem peso, altura, notas, idade, salário e pressão arterial.
 
-\noindent Exemplos:
+Por outro lado, as variáveis qualitativas são aquelas que não são representadas numericamente. Elas podem ser divididas em duas categorias: ordinais e nominais.
 
-Variáveis quantitativas \rightarrow\ \  Peso, altura,
-notas, idade, salário, pressão.
+Exemplos de variáveis qualitativas incluem sexo (masculino ou feminino), cor dos olhos (azul, verde, castanho, etc.) e classe social (baixa, média, alta).
 
-Variáveis qualitativas \rightarrow \ \ Sexo, cor dos olhos, classe
-social.
+Essa classificação é útil para entender o tipo de dados que estamos lidando em uma pesquisa e como eles podem ser analisados. 
+
+
+\EP[2]
+
+\begin{itemize} 
+\item \textbf{Variáveis quantitativas:}
+\item Número de horas de estudo por semana
+\item Temperatura em graus Celsius
+%\item Quantidade de produtos vendidos
+%\item Nível de satisfação em uma escala de 1 a 10
+\end{itemize}
+
+\begin{itemize}
+\item \textbf{Variáveis qualitativas ordinais:}
+\item Grau de concordância em escala ("discordo" a "concordo totalmente")
+\item Nível de dor em uma escala de "nenhuma dor" a "dor insuportável"
+%\item Classificação de desempenho em "ruim", "regular", "bom" e "excelente"
+\end{itemize}
+
+\begin{itemize}
+\item \textbf{Variáveis qualitativas nominais:}
+\item Estado civil (solteiro, casado, divorciado)
+\item Tipo de veículo (carro, moto, bicicleta)
+%\item Marca de celular 
+\end{itemize}
 
 
 \subsubsection{Tipos de gráficos}
@@ -4301,11 +4322,9 @@ bimestre, Português ou Inglês. Para isso, ele reuniu as notas das quatro
 avaliações e calculou a moda, a média e a mediana.
 
 
-\pagebreak
 
 \vspace*{5mm}
 
-% TODO: tabela
 % \begin{table}[h]
 {\medskip    \hfill
   \begin{tabular}{ll}
@@ -4587,7 +4606,7 @@ Mediana $=  50 - 54 - 55 - 60 - 61 - 65 - 71$
 
 Mediana = 60km/h \hfill}
 
-\section*{Treino}
+\section*{Treino} \EP[2]
 
 \num{1} Analise as afirmações e marque a correta.
 
@@ -4599,6 +4618,7 @@ Mediana = 60km/h \hfill}
 \item O primeiro passo para realizar uma pesquisa estatística é
 delimitar o problema.
 \end{enumerate}
+
 
 \begin{escolha}[itemsep=0pt]
 \item Apenas I está correta.
@@ -4622,8 +4642,6 @@ delimitar o problema.
 % D - Incorreta, pois, a definição de moda está incorreta na I.
 
 
-
-\pagebreak
 
 \num{2} Dada a tabela de salário + horas extras de Juliano durante 6 meses,
 qual foi a média dos valores que ele recebeu?
@@ -5068,89 +5086,97 @@ independentes ou dependentes.
 % Professor, neste módulo, é muito importante que os alunos saibam
 % distinguir a dependência ou independência dos eventos.
 
-\conteudo{\subsubsection{Probabilidade condicional}
+\conteudo{\vspace*{-2em}\subsubsection{Probabilidade condicional}
 
-\medskip \noindent \textit{Eventos independentes:} a ocorrência de um evento não depende de
-seus antecessores ou sucessores.
+A probabilidade condicional é um conceito importante na teoria das
+probabilidades. Podemos dividir os eventos em dois tipos: {eventos
+independentes} e {eventos dependentes}.
 
-\medskip\noindent {Exemplo:} 
+\textit{Eventos independentes} são aqueles em que a ocorrência de um evento não depende
+dos eventos anteriores ou subsequentes. Um exemplo disso é a probabilidade de
+tirar um ás de paus em um baralho. Nesse caso, todas as cartas estão no
+baralho e há apenas uma chance em 52 de tirar um ás de paus. Portanto, a
+probabilidade independente de ocorrer esse evento é calculada como:
 
-Qual é a probabilidade de tirar um ás de paus em um
-baralho? Não há intercorrência nenhuma, ou seja, todas as cartas estão
-em um baralho e só há 1 chance dentre as 52 cartas de sair um ás de
-paus.
+$$P(A) = \frac{\text{número de chances de ocorrer o evento}}{\text
+{espaço amostral (todas as chances possíveis)}}$$
 
-Sendo assim, sabemos que a probabilidade independente de acontecer um
-evento é:
+Assim, temos:
 
-$$P(A)= \frac{\text{número de chances de ocorrer o  evento}}{\text{espaço amostral\ (todas chances possíveis)}}$$
+$$P(A|B) = P(A)$$ 
+Em, também:
+$$P(B|A) = P(B)$$
 
-Então temos que
+Por outro lado, eventos dependentes são aqueles em que a ocorrência de um
+evento afeta a probabilidade de ocorrência dos eventos subsequentes. Por
+exemplo, ao jogar um dado, a probabilidade de obter um número específico
+depende do resultado obtido anteriormente. Da mesma forma, ao lançar uma
+moeda, a probabilidade de obter cara ou coroa também depende dos resultados
+anteriores.
 
-$$P(A|B) = P(A) e P(B|A) = P(B)$$
+A regra da multiplicação é utilizada para calcular a probabilidade de
+ocorrência de dois eventos independentes. Essa regra afirma que a
+probabilidade conjunta de dois eventos independentes é o produto das
+probabilidades individuais. Portanto:
 
-\medskip\noindent {Exemplo:} 
+ $$P(A,B) = P(A) \cdot P(B/A) = P (A) \cdot P(B)$$
 
-Tirar um número específico em um dado ou cara/coroa em
-uma moeda são eventos dependentes.
+Por exemplo, se a probabilidade de Juliana acertar duas questões consecutivas
+em uma prova de matemática é $0,82$, podemos calcular a probabilidade como:
 
-\medskip \noindent \textit{Regra da multiplicação para eventos independentes:} para
-encontrar a probabilidade da ocorrência de dois eventos que não dependem
-entre si, utiliza-se a regra da multiplicação:
+$$P(2 \text{ questões corretas}) = 0,82 \cdot 0,82 = 0,6724$$
 
-$$P(A,B)  =  P(A).P(B/A)$$
-$$P(A,B)  =  P(A).P(B) $$
+É importante observar que a probabilidade total é sempre igual a 1 (ou 100\%).
+Portanto, no exemplo anterior, podemos calcular a probabilidade de falha, ou
+seja, a chance de errar cada questão, como $1 - 0,82$.
 
-\medskip\noindent {Exemplo:} 
-A probabilidade de Juliana acertar duas questões
-seguidas na prova de matemática é igual a $0,82$.
+Por outro lado, eventos dependentes ocorrem quando o evento anterior
+influencia a tomada de decisão do evento atual. Para calcular a probabilidade
+de eventos dependentes, há dois momentos: o cálculo da probabilidade do
+evento $A$, que é o primeiro evento, e depois o cálculo do evento $B$, dado que $A$
+ocorreu. Em seguida, multiplicamos as probabilidades dos eventos. 
 
-$$P (2 \text{ questões corretas})0,82 \cdot 0,82 = 0,6724$$
 
 \medskip \noindent \textbf{Observação:} A probabilidade total é sempre igual a 1 (remetendo
 a 100\%), então, no exemplo anterior, poderíamos perguntar a
 probabilidade de fracasso, ou seja, 1-0,82 a chance de erro para cada
 questão.
 
-\medskip \noindent \textit{Eventos dependentes:} é quando o evento anterior influencia na
-tomada de decisão do evento atual.
+Por outro lado, \textit{eventos dependentes} ocorrem quando o evento anterior
+influencia a tomada de decisão do evento atual. Para calcular a probabilidade
+de eventos dependentes, há dois momentos: o cálculo da probabilidade do
+evento A, que é o primeiro evento, e depois o cálculo do evento B, dado que A
+ocorreu. Em seguida, multiplicamos as probabilidades dos eventos.
+Podemos expressar isso como:
 
-\medskip\noindent {Exemplo:} 
+$$P(A \cap B) = P(A) \cdot P(B|A)$$
 
-Em um jogo de baralho, ganha quem encontrar o 10 de
-ouros primeiro. Flávia foi a primeira a retirar uma carta do baralho,
-obtendo uma dama de paus que não retornou para o baralho. Qual é a
-chance de Josué, o próximo jogador, encontrar a carta vencedora?
+Por exemplo, em um jogo de baralho, onde o objetivo é encontrar o 10 de ouros,
+se a primeira carta retirada por Flávia foi uma dama de paus que não foi
+retornada ao baralho, a probabilidade de Josué encontrar a carta vencedora
+será afetada. O espaço amostral será diferente, pois uma das cartas de Flávia
+já foi retirada, restando 51 cartas no jogo.
 
-É perceptível que a ação de Flávia influencia na jogada de Josué, pois o
-espaço amostral é diferente do início do jogo, já que uma das cartas de
-Flávia foi retirada, restando 51 no jogo.
+Em outro exemplo, considerando uma urna com 7 bolas brancas e 6 bolas
+vermelhas, onde o objetivo é retirar 3 bolas vermelhas para ganhar, se Sandro
+ganhou a decisão de par ou ímpar e é o primeiro a tentar retirar uma bola
+vermelha, a probabilidade de Max retirar uma bola vermelha será afetada. Dado
+que Sandro já jogou e sua primeira bola foi branca, podemos calcular a
+probabilidade como:
 
-Para calcular a probabilidade de eventos dependentes, haverá dois
-momentos: o cálculo da probabilidade do evento A, que é o primeiro
-evento, e depois o cálculo do evento $B$, dado que A ocorreu. Depois de
-calculado, multiplicam-se a probabilidade dos eventos.
+$$P(A) = \frac{6}{13}$$
 
-$$P(A \cap B)  =  P(A).P(B|A)$$
+Isto porque, das 13 bolas totais, 6 são vermelhas.
 
-\medskip\noindent {Exemplo:} 
+Dado que Sandro já jogou, a probabilidade de B é $P(B|A) = \frac{6}{12}$.
 
-Em uma urna, há 7 bolas brancas e 6 vermelhas. Em uma
-competição entre duas pessoas, quem retirar 3 bolas vermelhas primeiro,
-ganha. Na decisão de par ou ímpar, Sandro venceu e é o primeiro a tentar
-retirar uma bola vermelha. Sua primeira bola é branca. Dado que as bolas
-não são retornadas de volta para a urna, qual aé chance de Max, o
-próximo jogador, retirar uma bola vermelha?
+A probabilidade de ser vermelha será:
 
-$P(A) = \frac{6}{13}$, pois, dentre todas as bolas, 6 delas são
-vermelhas.
+$$\frac{6}{13} \times \frac{6}{12} = \frac{12}{156}$$ 
 
-Agora, dado que Sandro já jogou, a probabilidade de $B$ é
-$P(B|A) = \ \frac{6}{12}$.
+Ou a fração irredutível:
 
-A probabilidade que seja vermelha é:
-$\frac{6}{13} \times \frac{6}{12} = \frac{12}{156}$ ou a fração
-irredutível $\frac{1}{13}$.
+$$\frac{1}{13}$$
 }
 
 \section*{Atividades}
@@ -5175,8 +5201,8 @@ provas objetivas é de 0,9, ou seja, 90\%. Qual é a chance de Felipe
 acertar 3 questões consecutivas?
 
 \reduline{São eventos independentes, pois errar ou acertar a questão anterior não
-influencia na próxima questão. Então, utilizando a regra da
-multiplicação, temos: P(3 acertos em questões) = $0,9 \times 0,9 \times 0,9 = \ 0,729$.\hfill}
+influencia na próxima questão. Utilizando a regra da
+multip. temos: P(3 acertos em questões) = $0,9 \times 0,9 \times 0,9 = \ 0,729$.\hfill}
 
 \num{3} Qual é a probabilidade de o lançamento de um dado cair 4 vezes
 seguidas no número 2?
@@ -5185,11 +5211,14 @@ seguidas no número 2?
 diminui as chances de cair na mesma face. Pela regra da
 multipl.:
 
+
 $P(A) = \ \frac{1}{6} \times \frac{1}{6} \times \frac{1}{6} \times \frac{1}{6} = \ \frac{1}{1296}$.\hfill}
 
 %Professor, nesta questão, é importante trabalhar com o número decimal e
 %ver o quão longe do 1, está. Logo, a chance de acontecer é muito
 %pequena.
+
+\pagebreak
 
 \num{4} Um dado de seis faces é lançado duas vezes consecutivas. Qual é a
 probabilidade de obter um número par no primeiro lançamento e um número
@@ -5288,6 +5317,8 @@ temos:
 
 $P(A).P(B|A) = \frac{18}{38} \times \frac{17}{37} = \ \frac{306}{1406} = \ \frac{153}{703}$
 \hfill}
+
+\pagebreak
 
 \section*{Treino}
 
