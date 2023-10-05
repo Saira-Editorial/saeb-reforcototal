@@ -1,18 +1,39 @@
 \documentclass[border=0.2cm]{standalone}
 \usepackage{tikz}
-\usetikzlibrary{calc}
+
 \begin{document}
 
 
 \begin{tikzpicture}
-  \draw[help lines,black!20] (-3.5,-2.5) grid (3.5,3.5);
-  \draw[thick,->] (-3,0) -- (3,0);
-  \draw[thick,->] (0,-2) -- (0,3);
-  \draw (0,0) circle (1pt) node[below right] {$f(x)=|x|$};
-  \draw[line width=1.3pt,red,domain=-2:2,smooth,variable=\x] plot ({\x},{abs(\x)});
+% Desenha a linha horizontal
+\draw (-4,0) -- (10,0);
+
+% Desenha setas nas duas pontas
+\draw[<->] (-8.5,0) -- (10.5,0);
+
+
+% Define a distância entre os elementos (1cm)
+\pgfmathsetmacro{\distance}{1}
+
+% Define o número de elementos
+\pgfmathsetmacro{\numElements}{14}
+
+% Loop para desenhar os números e setas
+\foreach \i in {-4,...,\numElements} {
+
+% Calcula a posição do elemento atual
+\pgfmathsetmacro{\xPos}{-4 + \i * \distance}
+  
+% Desenha o número
+\node at (\xPos,-0.3) {\i};
+  
+% Alterna entre círculo preenchido e vazio
+\ifodd\i
+  \filldraw[red] (\xPos,0) circle (2pt);
+\else
+  \filldraw (\xPos,0) circle (2pt);
+\fi
+}
+
 \end{tikzpicture}
-
-
-
 \end{document}
-
