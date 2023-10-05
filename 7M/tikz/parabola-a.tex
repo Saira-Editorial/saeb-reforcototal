@@ -6,13 +6,12 @@
 
 \begin{tikzpicture}
   \draw[help lines,black!20] (-3.5,-2.5) grid (3.5,3.5);
-  \draw[thick,->] (-3,0) -- (3,0);
+  \draw[thick,->] (-3,-1) -- (3,-1);
   \draw[thick,->] (0,-2) -- (0,3);
-  \draw (0,0) circle (1pt) node[below right] {$f(x)=|x|$};
-  \draw[line width=1.3pt,red,domain=-2:2,smooth,variable=\x] plot ({\x},{abs(\x)});
+  \draw (0,-1) circle (1pt) node[below right] {$f(x)=x^2$};
+  \draw[line width=1.3pt,red] (-1.5,2) parabola[bend pos=0.5] bend (0,-1) (1.5,2);
 \end{tikzpicture}
 
 
 
 \end{document}
-

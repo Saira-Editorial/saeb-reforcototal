@@ -1,0 +1,48 @@
+\documentclass[border=0.2cm]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\begin{document}
+
+
+
+\begin{tikzpicture}
+	%% Vanishing points for perspective handling
+	\coordinate (P1) at (-7cm,1.5cm); % left vanishing point (To pick)
+	\coordinate (P2) at (8cm,1.5cm); % right vanishing point (To pick)
+
+	%% (A1) and (A2) defines the 2 central points of the cuboid
+	\coordinate (A1) at (0em,0cm); % central top point (To pick)
+	\coordinate (A2) at (0em,-2cm); % central bottom point (To pick)
+
+	%% (A3) to (A8) are computed given a unique parameter (or 2) .8
+	% You can vary .8 from 0 to 1 to change perspective on left side
+	\coordinate (A3) at ($(P1)!.8!(A2)$); % To pick for perspective 
+	\coordinate (A4) at ($(P1)!.8!(A1)$);
+
+	% You can vary .8 from 0 to 1 to change perspective on right side
+	\coordinate (A7) at ($(P2)!.7!(A2)$);
+	\coordinate (A8) at ($(P2)!.7!(A1)$);
+
+	%% Automatically compute the last 2 points with intersections
+	\coordinate (A5) at
+	  (intersection cs: first line={(A8) -- (P1)},
+			    second line={(A4) -- (P2)});
+	\coordinate (A6) at
+	  (intersection cs: first line={(A7) -- (P1)}, 
+			    second line={(A3) -- (P2)});
+
+	\draw[thick] (A1) -- (A2);
+	\draw[thick] (A3) -- (A4);
+	\draw[thick] (A7) -- node[right] {\tiny$5\,cm$} (A8);
+	\draw[thick] (A1) -- (A4);
+	\draw[thick] (A1) -- (A8);
+	\draw[thick] (A2) -- node[left] {\tiny$7\,cm$} (A3);
+	\draw[thick] (A2) -- node[right] {\tiny\ \ $12\,cm$} (A7);
+	\draw[thick] (A4) -- (A5);
+	\draw[thick] (A8) -- (A5);
+
+
+\end{tikzpicture}
+
+\end{document}
+
