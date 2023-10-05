@@ -1,18 +1,99 @@
-\documentclass[border=0.2cm]{standalone}
-\usepackage{tikz}
-\usetikzlibrary{calc}
+\documentclass{article}
+\usepackage{comment}
+
 \begin{document}
 
+\textit{Razão:} A razão é uma relação de divisão entre duas grandezas de algum
+ sistema de medidas. Ela é representada por 
 
-\begin{tikzpicture}
-  \draw[help lines,black!20] (-3.5,-2.5) grid (3.5,3.5);
-  \draw[thick,->] (-3,0) -- (3,0);
-  \draw[thick,->] (0,-2) -- (0,3);
-  \draw (0,0) circle (1pt) node[below right] {$f(x)=|x|$};
-  \draw[line width=1.3pt,red,domain=-2:2,smooth,variable=\x] plot ({\x},{abs(\x)});
-\end{tikzpicture}
+ $$r = \frac{A}{B}$$, onde $A$ e $B$ são
+ 
+ os valores das grandezas.
 
+
+\textit{Exemplo:} Se temos a razão de 3 para 5, escrevemos $\frac{3}{5} =
+ 0,6$. 
+
+Além da matemática, a razão também é usada em outras áreas, como velocidade
+média, escala, densidade demográfica e densidade de um corpo.
+
+
+%$$\text{Velocidade média} = \frac{\text{distancia}}{\text{tempo}}$$
+%$$\text{Escala} = \frac{\text{desenho}}{\text{real}}$$
+%$$\text{Densidade demográfica} = \frac{\text{nº de habitantes}}{\text{área da região}}$$
+%$$\text{Densidade  corpo} = \frac{\text{massa}}{\text{volume}}$$
+
+ \medskip \noindent  \textit{Proporção:} A proporção é a igualdade entre duas
+  razões. Quando temos os números reais não nulos $A, B, C, D,$ eles formam
+  uma proporção se $\frac{A}{B} = \frac{C}{D}$, onde $K$ é a constante de
+  proporcionalidade.
+
+\medskip \noindent \textit{Propriedade fundamental das proporções:} Em uma proporção $\frac{A}
+ {B} = \frac{C}{D}$, a propriedade fundamental é que $A \times D = B \times
+ C$.
+
+\textit{Observação:} Outra propriedade útil para encontrar o valor da
+ constante de proporcionalidade é $\frac{A}{B} = \frac{C}{D} = \frac{A \pm C}
+ {B \pm D}$.
+
+\textit{Exemplo:} Se temos a proporção $\frac{x}{3} = \frac{6}{15}$, podemos
+ encontrar o valor de $x$ fazendo $15x = 18$, o que resulta em $x = 1,2$.
+
+\textit{Exemplo:} Se temos a proporção $\frac{x}{4} = \frac{y}{6} = \frac
+ {x + y}{10} = \frac{25}{10} = 2,5$, podemos encontrar os valores de $x$ e $y$.
+ Como sabemos que $x + y = 25$, podemos concluir que $x = 10$ e $y = 15$.
+
+\textbf{Grandezas Diretamente Proporcionais (G.D.P):} Duas grandezas são
+ diretamente proporcionais quando aumentam ou diminuem na mesma proporção.
+ Isso significa que $\frac{A}{B} = K$, onde $K$ é a constante de
+ proporcionalidade.
+
+\textbf{Grandezas Inversamente Proporcionais (G.I.P):} Duas grandezas são
+ inversamente proporcionais quando uma aumenta e a outra diminui na mesma
+ proporção. Isso significa que $A \times B = K$, onde $K$ é a constante de
+ proporcionalidade.
+
+\textit{Observação:} Para comparar duas grandezas e classificá-las como G.D.P
+ ou G.I.P, precisamos ter uma constante de referência para a comparação.
+
+ \medskip\noindent {Exemplo:} Comprando 15 maçãs, paga-se $R\$7,50$; comprando $8$
+maçãs, quanto será pago?
+
+%$$\text{Maçã} - \text{Preço} \rightarrow \text{quanto mais maçãs, maior o preço, logo são G.D.P}$$
+
+A constante é o preço por maçã.
+
+\medskip\noindent {Exemplo:} 
+
+Com $5$ funcionários, uma reforma é feita em $80$ dias.
+
+Caso sejam contratados mais $3$ funcionários, em quantos dias a reforma
+será concluída?
+
+
+$$\text{Funcionários} - \text{Dias}...$$
+
+$\rightarrow$ quanto mais pessoas trabalhando, menos dias serão gastos, logo são G.I.P.
+
+A constante é a reforma.
+
+\medskip \noindent  \textit{Regra de três simples direta e inversa:} A regra
+ de três simples direta e inversa é utilizada para encontrar uma grandeza
+ desconhecida em uma proporção. A regra de três direta é usada quando as
+ grandezas são diretamente proporcionais, enquanto a regra de três inversa é
+ usada quando elas são inversamente proporcionais.
+
+Por exemplo, se comprarmos 15 maçãs e pagarmos R\$ 7,50, e quisermos descobrir
+quanto pagaremos ao comprar 8 maçãs, podemos utilizar a regra de três.
+Montamos a proporção: $\frac{15}{7,5} = \frac{8}{x}$. Multiplicando em cruz,
+temos $15x = 60$, e dividindo por 15, encontramos que $x = 4$ reais.
+
+
+Outro exemplo é quando temos uma reforma que é feita em 80 dias com 5
+funcionários, e queremos saber em quantos dias a reforma será feita se
+contratarmos mais 3 funcionários. Montamos a proporção: $5 \times 80 =
+8 \times y$. Multiplicando em cruz, temos $400 = 8y$, e dividindo por 8,
+encontramos que $y = 50$ dias.
 
 
 \end{document}
-
