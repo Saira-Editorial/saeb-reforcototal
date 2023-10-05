@@ -24,13 +24,14 @@
 % \renewcommand{\contentsname}{Índex} 	% Trocar nome do sumário para 'Índex'
 %\ifodd\thepage\relax\else\blankpage\fi 	% Verifica se página é par e coloca página branca
 \addtocontents{toc}{\protect\thispagestyle{empty}}
-\addtocontents{toc}{\vspace*{-1cm}}
+%\addtocontents{toc}{\vspace*{-1cm}}
 \tableofcontents*\clearpage\endgroup}
 
 %\input{watermarks}
 
+\addcontentsline{toc}{chapter}{Apresentação}
 \input{../INTRO}
-\addcontentsline{toc}{chapter}{Matemática}
+\addcontentsline{toc}{chapter}{MATEMÁTICA}
 \input{MATEMATICA}
 \blankpage
 \blankpage
@@ -43,22 +44,10 @@
 \addcontentsline{toc}{chapter}{CIÊNCIAS DA NATUREZA}
 \input{CNA}
 
-%\vspace*{-3.4cm}
-% \hspace*{-3.7cm}\includegraphics[scale=1]{../watermarks/1simulado5ano.pdf}
 \input{SIMULADO1}
-
-%\vspace*{-3.4cm}
-% \hspace*{-3.7cm}\includegraphics[scale=1]{../watermarks/2simulado5ano.pdf}
 \input{SIMULADO2}
-
-%\blankpage
-%\vspace*{-3.4cm}
-% \hspace*{-3.7cm}\includegraphics[scale=1]{../watermarks/3simulado5ano.pdf}
 \input{SIMULADO3}
-
-%\vspace*{-3.4cm}
-% \hspace*{-3.7cm}\includegraphics[scale=1]{../watermarks/4simulado5ano.pdf}
-%\input{SIMULADO4}
+\input{SIMULADO4}
 
 %\input{ANOTACOES}
 
