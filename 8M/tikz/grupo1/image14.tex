@@ -1,0 +1,30 @@
+\documentclass[border=0.2cm]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{angles,quotes}
+\usetikzlibrary{calc}
+
+
+\begin{document}
+\thispagestyle{empty}
+\begin{tikzpicture}
+
+% Definindo os vértices do triângulo
+    \coordinate[label=above:$A$] (A) at (1,2);
+    \coordinate[label=below:$B$] (B) at (0,0);
+    \coordinate[label=below:$C$] (C) at (6,0);
+    \coordinate[label=below:$D$] (D) at (2,0);
+    
+    % Desenhando o triângulo
+    \draw (A) -- (B) -- (C) -- cycle;
+    
+    % Desenhando a linha saindo de A até a base (prolongamento de AB)
+    \draw (A) -- (D) node[midway, left];
+    
+    % Marcando os ângulos internos
+    \draw pic[draw,angle radius=0.5cm,angle eccentricity=1.5,"$52^\circ$"] {angle=C--B--A};
+    \draw pic[draw,angle radius=0.5cm,angle eccentricity=1.5,"$48^\circ$"] {angle=A--C--B};
+    \draw pic[draw,angle radius=0.5cm,angle eccentricity=1.5,"$x$"] {angle=C--D--A};
+
+\end{tikzpicture}
+
+\end{document}
