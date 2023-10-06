@@ -14,18 +14,14 @@
     \coordinate[label=above:$A$] (A) at (1,2);
     \coordinate[label=below:$B$] (B) at (0,0);
     \coordinate[label=below:$C$] (C) at (5,0);
-    \coordinate[label=below:$D$] (D) at (2,0);
-    
+        
     % Desenhando o triângulo
     \draw[fill=blue!20] (A) -- (B) -- (C) -- cycle;
     
-    % Desenhando a linha saindo de A até a base (prolongamento de AB)
-    \draw (A) -- (D);
-    
     % Marcando os ângulos internos
-    \draw pic[draw, angle radius=0.5cm,angle eccentricity=1.5,"$52^\circ$"] {angle=C--B--A};
-    \draw pic[draw, angle radius=0.5cm,angle eccentricity=1.5,"$48^\circ$"] {angle=A--C--B};
-    \draw pic[draw, fill=green!30, angle radius=0.5cm,angle eccentricity=1.5,"$x$"] {angle=C--D--A};
+    \draw pic[draw, fill=green!30, angle radius=0.5cm,angle eccentricity=1.5,"$2x$"] {angle=C--B--A};
+    \draw pic[draw, fill=green!30, angle radius=0.5cm,angle eccentricity=1.5,"$x$"] {angle=A--C--B};
+    \draw pic[draw, fill=green!30, angle radius=0.5cm,angle eccentricity=1.5,"$3x$"] {angle=B--A--C};
 
 \end{tikzpicture}
 
