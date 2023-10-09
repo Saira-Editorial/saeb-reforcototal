@@ -24,10 +24,10 @@
 % \renewcommand{\contentsname}{Índex} 	% Trocar nome do sumário para 'Índex'
 %\ifodd\thepage\relax\else\blankpage\fi 	% Verifica se página é par e coloca página branca
 \addtocontents{toc}{\protect\thispagestyle{empty}}
-\addtocontents{toc}{\vspace*{-1cm}}
+%\addtocontents{toc}{\vspace*{-1cm}}
 \tableofcontents*\clearpage\endgroup}
 
+\addcontentsline{toc}{chapter}{Apresentação}
 \input{../INTRO}
-\addcontentsline{toc}{chapter}{Português}
 \input{POR}
 %\input{GABARITO}
