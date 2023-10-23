@@ -3962,141 +3962,262 @@ acaso, qual é a probabilidade de que ele
 \reduline{$\frac{11}{25}$.\hfill}
 \end{escolha}
 
-\num{7}  De um grupo de $200$ pessoas, $160$ têm fator Rh positivo, $100$ têm sangue
+\num{7} De um grupo de $200$ pessoas, $160$ têm fator Rh positivo, $100$ têm sangue
 tipo O e $80$ têm fator Rh positivo e sangue tipo O. Se uma dessas pessoas
-for selecionada ao acaso, qual a probabilidade de:
+for selecionada ao acaso, qual é a probabilidade de o sangue
 
 \begin{escolha}
-\item Seu sangue ter fator Rh positivo? \reduline{$4/5$.\hfill}
-\item Seu sangue não ser tipo O? \reduline{$1/2$.\hfill}
-\item Seu sangue ter fator Rh positivo ou ser tipo O? \reduline{$9/10$.\hfill}
+\item ter fator Rh positivo?
+
+\reduline{$\frac{4}{5}$.\hfill}
+\item não ser do tipo O?
+
+\reduline{$\frac{1}{2}$.\hfill}
+\item ter fator Rh positivo ou ser do tipo O?
+
+\reduline{$\frac{9}{10}$.\hfill}
 \end{escolha}
 
-\num{8}  Na loteria são sorteadas $5$ dezenas distintas dentre as dezenas $00$,
-01, $02$, $03$, ..., $99$. Um apostador escolhe $10$ dezenas. Determine a
-probabilidade dele fazer:
+\begin{mdframed}[linewidth=2pt,linecolor=white,roundcorner=10pt]
+\rosa{Para resolver esse problema, podemos usar o princípio da inclusão-exclusão.
+
+\textbf{Probabilidade de ter fator Rh positivo (P(Rh))}
+
+{$P(Rh) = \frac{\text{Número de pessoas com Rh positivo}}{\text{Total de pessoas}} = \frac{160}{200} = \frac{4}{5}$}
+
+\textbf{Probabilidade de ter sangue tipo O (P(O))}
+{$P(O) = \frac{\text{Número de pessoas com sangue tipo O}}{\text{Total de pessoas}} = \frac{100}{200} = \frac{1}{2}$}
+
+\textbf{Probabilidade de ter fator Rh positivo e sangue tipo O (P(Rh ∩ O))}
+{$P(Rh \cap O) = \frac{\text{Número de pessoas com Rh positivo e sangue tipo O}}{\text{Total de pessoas}} = \frac{80}{200} = \frac{2}{5}$}
+
+Agora, usando o princípio da inclusão-exclusão, a probabilidade de ter fator
+Rh positivo ou ser do tipo O é dada por:
+
+{$P(Rh \cup O) = P(Rh) + P(O) - P(Rh \cap O)$}
+
+{$P(Rh \cup O) = \frac{4}{5} + \frac{1}{2} - \frac{2}{5}$}
+
+{$P(Rh \cup O) = \frac{8}{10} + \frac{5}{10} - \frac{4}{10}$}
+
+{$P(Rh \cup O) = \frac{9}{10}$}}
+\end{mdframed}
+
+\num{8} Suponha que você está participando de um jogo de tabuleiro
+chamado ``Labirinto da probabilidade''. Nesse jogo, você inicia em um
+ponto central de um labirinto com múltiplos caminhos e desvios. Cada decisão
+que você toma tem implicações probabilísticas complexas.
+
+\begin{itemize}
+\item \textbf{Contexto inicial:} no início do jogo, você deve escolher um dos três
+   caminhos possíveis: A, B ou C. Cada caminho tem sua própria série de
+   bifurcações e escolhas.
+
+\item \textbf{Primeira bifurcação:} após alguns movimentos, você chega a uma
+   bifurcação. Se você escolher o caminho da esquerda, há 40\% de chance de
+   encontrar um atalho que o levará diretamente à saída. Se você escolher o caminho
+   da direita, há 60\% de chance de continuar avançando.
+
+\item \textbf{Segunda bifurcação:} você encontra outra bifurcação. Se você
+   escolhe o caminho da esquerda, há 70\% de chance de encontrar um obstáculo que
+   o fará voltar duas etapas. Se você escolhe o caminho da direita, há 30\% de chance
+   de encontrar um mapa que mostra o caminho mais curto para a saída.
+
+\item \textbf{Última escolha:} Finalmente, você chega à última escolha. Se você
+   escolher a opção de tentar uma passagem secreta, há 50\% de chance de ser teletransportado
+   para a saída. Se você decidir não tentar a passagem secreta, você deve
+   avançar mais três etapas para alcançar a saída.
+\end{itemize}
+
+Agora, responda ao que se propõe a seguir.
 
 \begin{escolha}
-\item Um terno. \reduline{$0,638353\%$.\hfill}
-\item Uma quadra. \reduline{$0,025104\%$.\hfill}
-\item A quina. \reduline{$0,000335\%$.\hfill}
+\item Qual é a probabilidade de escolher o caminho correto na primeira
+   bifurcação e sair diretamente?
+
+\item Se você escolher o caminho da direita na primeira bifurcação, qual é a
+   probabilidade de encontrar o mapa na segunda bifurcação e seguir o caminho
+   mais curto?
+
+\item Se você escolher a passagem secreta na última escolha, qual é a
+   probabilidade de chegar à saída diretamente?
+
+\item Qual é a probabilidade total de completar o labirinto e alcançar a saída,
+   levando em conta todas as possíveis combinações de escolhas e resultados?
+   Explique o raciocínio por trás de seu cálculo.
 \end{escolha}
 
-\num{9}  Com os dígitos $1$, $2$, $3$, $4$, $5$ são formados números de $4$ algarismos
+\begin{mdframed}[linewidth=2pt,linecolor=white,roundcorner=10pt]
+\rosa{
+a) Para escolher o caminho correto na primeira bifurcação e sair diretamente,
+a probabilidade é $0,4 \times 1 = 0,4$.
+
+b) Se você escolher o caminho da direita na primeira bifurcação, a probabilidade
+de encontrar o mapa na segunda bifurcação e seguir o caminho mais curto é
+$0,6 \times 0,3 = 0,18$.
+
+c) Se você escolher a passagem secreta na última escolha, a probabilidade de chegar
+diretamente à saída é $0,5 \times 1 = 0,5$.
+
+d) Para calcular a probabilidade total de completar o labirinto e alcançar a saída,
+levando em conta todas as possíveis combinações de escolhas e resultados, devemos
+considerar todas as possíveis trajetórias:
+
+1. Trajetória A -> Direita -> Esquerda -> Passagem secreta:
+$0,4 \times 0,6 \times 0,7 \times 0,5 = 0,084$
+
+2. Trajetória A -> Direita -> Direita -> Passagem secreta:
+$0,4 \times 0,6 \times 0,3 \times 0,5 = 0,036$
+
+3. Trajetória B -> Passagem secreta:
+$0,6 \times 0,5 = 0,3$
+
+4. Trajetória B -> Esquerda -> Mapa -> Passagem secreta:
+$0,6 \times 0,3 \times 0,7 \times 0,5 = 0,063$
+
+5. Trajetória C -> Esquerda -> Passagem secreta:
+$0,5 \times 0,7 \times 0,5 = 0,175$
+
+6. Trajetória C -> Esquerda -> Mapa -> Passagem secreta:
+$0,5 \times 0,7 \times 0,3 \times 0,5 = 0,0525$
+
+A probabilidade total de completar o labirinto e alcançar a saída é a soma dessas probabilidades:
+$0,084 + 0,036 + 0,3 + 0,063 + 0,175 + 0,0525 = 0,7105$
+
+Portanto, a probabilidade total de sair do labirinto é aproximadamente $71,05\%$.
+}
+\end{mdframed}
+
+\num{9} Com os dígitos $1$, $2$, $3$, $4$ e $5$ são formados números de quatro algarismos
 distintos. Um deles é escolhido ao acaso. Qual é a probabilidade de ele
-ser:
+ser par? Qual é a probabilidade de ele ser ímpar?
 
-\begin{escolha}
-\item Par. \reduline{$2/5$.\hfill}
-\item Ímpar. \reduline{$3/5$.\hfill}
-\end{escolha}
+\rosa{
+Para formar números de quatro algarismos distintos usando os dígitos $1$,
+$2$, $3$, $4$ e $5$, temos $5 \times 4 \times 3 \times 2 = 120$
+maneiras diferentes de organizá-los. Agora, vamos calcular a probabilidade de
+o número ser par ou ímpar.
 
-\num{10} Oito pessoas (entre elas Pedro e Silvia) são dispostas ao acaso numa
-fila. Qual a probabilidade de:
+Para ser par, o último dígito do número deve ser $2$ ou $4$.
+Para o último dígito ser $2$, temos $3 \times 2 \times 1 = 6$
+maneiras de organizar os três dígitos restantes. Para o último dígito ser
+$4$, também temos seis maneiras de organizar os três dígitos restantes.
+Então, há $6 + 6 = 12$ números pares possíveis.
+A probabilidade de escolher um número par é $P(\text{par}) = \frac{12}{120} = \frac{1}{10}$.
 
-\begin{escolha}
-\item Pedro e Silvia ficarem juntos? \reduline{$1/4$.\hfill}
-\item Pedro e Silvia ficarem separados? \reduline{$3/4$.\hfill}
-\end{escolha}
+Para ser ímpar, o último dígito do número deve ser $1$,
+$3$ ou $5$. Para o último dígito ser $1$, temos $3 \times 2 \times 1 = 6$
+maneiras de organizar os três dígitos restantes. Para o último
+dígito ser $3$, também temos seis maneiras de organizar os três dígitos
+restantes. Para o último dígito ser $5$, novamente, temos seis maneiras
+de organizar os três dígitos restantes. Então, há $6 + 6 + 6 = 18$
+números ímpares possíveis.
+A probabilidade de escolher um número ímpar é $P(\text{ímpar}) = \frac{18}{120} = \frac{3}{20}$.
+}
+
+\num{10} Paula está jogando um jogo de tabuleiro em um labirinto com $4$ células de
+largura e $4$ células de altura. O objetivo é mover-se da célula superior
+esquerda para a célula inferior direita. No entanto, algumas regras especiais
+se aplicam:
+
+\begin{itemize}
+\item Em cada célula, há uma moeda que pode estar voltada para cima (cara) ou para
+  baixo (coroa). Paula não pode ver as moedas antes de passar pela célula.
+\item Se Paula entrar em uma célula com uma moeda cara, pode escolher girá-la
+  antes de continuar seu movimento.
+\item Se Paula entrar em uma célula com uma moeda coroa, deve girá-la antes de
+  continuar seu movimento.
+\end{itemize}
+
+Qual é a probabilidade de Paula alcançar a célula inferior direita sem
+girar nenhuma moeda (ou seja, todas as moedas estão voltadas para cima) ao
+seguir o caminho mais curto? Explique seu raciocínio.
+
+\rosa{Para alcançar a célula inferior direita sem girar nenhuma moeda, todas as}
+
+\rosa{moedas ao longo do caminho mais curto devem estar voltadas para cima. Como}
+
+\rosa{há $4$ células na linha inferior e $4$ células na coluna à direita,}
+
+\rosa{existem $2^8 = 256$ maneiras possíveis das moedas estarem voltadas para}
+
+\rosa{cima ou para baixo. Apenas uma dessas combinações (todas as moedas voltadas}
+
+\rosa{para cima) leva ao sucesso. Portanto, a probabilidade é $\frac{1}{256}$.}
 
 \num{11} Uma urna contém $5$ bolas vermelhas e $3$ brancas. Duas bolas são
-extraídas ao acaso, com reposição. Qual é a probabilidade de:
+extraídas ao acaso, com reposição. Qual é a probabilidade de ambas serem
 
 \begin{escolha}
-\item Ambas serem vermelhas? \reduline{$25/64$.\hfill}
-\item Ambas serem brancas? \reduline{$9/64$.\hfill}
+\item vermelhas?
+\item brancas?
 \end{escolha}
+
+\rosa{Se as bolas são extraídas com reposição, isso significa que, após cada}
+
+\rosa{extração, a bola é devolvida à urna antes da próxima extração. Portanto, a}
+
+\rosa{probabilidade de extrair qualquer bola em uma única extração não é afetada}
+
+\rosa{pelas extrações anteriores. Para resolver o problema, vamos considerar as}
+
+\rosa{duas situações separadamente:}
+
+\rosa{\textbf{Ambas as bolas vermelhas}}
+
+\rosa{A probabilidade de extrair uma bola vermelha em uma única extração é $\frac{5}{8}$}
+
+\rosa{(há 5 bolas vermelhas em um total de 8 bolas). Como as}
+
+\rosa{extrações são feitas com reposição, a probabilidade de ambas as bolas serem}
+
+\rosa{vermelhas é $\left(\frac{5}{8}\right)^2 = \frac{25}{64}$.}
+
+\rosa{\textbf{Ambas as bolas brancas}}
+
+\rosa{A probabilidade de extrair uma bola branca em uma única extração é $\frac{3}{8}$}
+
+\rosa{(há 3 bolas brancas em um total de 8 bolas). Usando a mesma}
+
+\rosa{lógica, a probabilidade de ambas as bolas serem brancas é $\left(\frac{3}{8}\right)^2 = \frac{9}{64}$.}
+
+\rosa{Portanto, a probabilidade de ambas as bolas serem vermelhas é $\frac{25}{64}$}
+
+\rosa{e a probabilidade de ambas as bolas serem brancas é $\frac{9}{64}$.}
 
 \section*{Treino}
 
-\num{1}  Na lanchonete, você pode escolher entre $4$ tipos de pães para seu
-sanduíche: pão de forma, pão francês, pão sírio e pão preto. Você pode
-escolher também $5$ tipos de recheios: mortadela, queijo, presunto, peito
-de peru ou peito de frango. De quantas maneiras diferentes você pode
-pedir seu sanduíche com apenas um recheio?
+\num{1} Em uma urna, há quatro bolas vermelhas, três bolas verdes e cinco bolas azuis.
+Uma bola é retirada aleatoriamente da urna. Qual é a probabilidade de a bola
+retirada ser da cor azul?
 
 \begin{escolha}
-\item $20$ maneiras.
-\item $9$ maneiras.
-\item $1.024$ maneiras.
-\item $1$ maneira.
+\item $\frac{5}{12}$.
+
+\item $\frac{1}{3}$.
+
+\item $\frac{5}{16}$.
+
+\item $\frac{5}{20}$.
 \end{escolha}
 
-%\subsection{BNCC: EF06MA30 }
-% -- Calcular a probabilidade de um evento aleatório,
-% expressando-a por número racional (forma fracionária, decimal e
-% percentual) e comparar esse número com a probabilidade obtida por meio
-% de experimentos sucessivos.
-% SAEB: Resolver problemas que envolvam a probabilidade de ocorrência de
-% um resultado em eventos aleatórios equiprováveis independentes ou
-% dependentes.
-
-% Gabarito
-% Alternativa A: correta, pois $4 x 5 = 20$ maneiras.
-% Alternativa B: incorreta pois, o aluno pode realizar a soma ao invés da
-% multiplicação.
-% Alternativa C: incorreta, pois o aluno pode realizar a potenciação ao
-% invés da multiplicação.
-% Alternativa D: incorreta, pois o aluno pode realizar a subtração ao
-% invés da multiplicação.
-
-\num{2}  Dona Josefa vende bolas de sorvete em sua casa. Ela oferece $6$ sabores
-aos seus clientes: chocolate, uva, morango, creme, limão e flocos.
-Geralmente, seus clientes pedem duas bolas. Quantas combinações de duas
-bolas são possíveis com esses sabores de sorvete?
+\num{2} Dona Josefa vende bolas de sorvete em sua casa. Ela oferece seis sabores
+aos clientes: chocolate, uva, morango, creme, limão e flocos.
+A probabilidade de se escolher, ao acaso, um sabor de fruta é e
 
 \begin{escolha}
-\item $1$ combinação
-\item $46.656$ combinações
-\item $36$ combinações
-\item $12$ combinações
+\item $\frac{1}{6}$.
+\item $\frac{2}{6}$.
+\item $\frac{3}{6}$.
+\item $\frac{4}{6}$.
 \end{escolha}
 
-%\subsection{BNCC: EF06MA30 }
-% -- Calcular a probabilidade de um evento aleatório,
-% expressando-a por número racional (forma fracionária, decimal e
-% percentual) e comparar esse número com a probabilidade obtida por meio
-% de experimentos sucessivos.
-% SAEB: Resolver problemas que envolvam a probabilidade de ocorrência de
-% um resultado em eventos aleatórios equiprováveis independentes ou
-% dependentes.
-
-% Gabarito
-% Alternativa A: incorreta, pois o aluno pode realizar a soma ao invés da
-% multiplicação e chegar a esse resultado.
-% Alternativa b: incorreta, pois o aluno pode realizar uma potenciação ao
-% invés da multiplicação. 
-% Alternativa C: correta, pois são possíveis $36$ combinações.
-% Alternativa D: incorreta, pois o aluno pode realizar uma soma ao invés
-% da multiplicação.
-
-\num{3}  Suponha que em uma urna haja $10$ bolas numeradas de $1$ a $10$. Qual é a
+\num{3} Suponha que em uma urna haja dez bolas numeradas de $1$ a $10$. Qual é a
 probabilidade de se retirar uma bola com número par?
 
 \begin{escolha}
-\item $0,2$
-\item $0,5$
-\item $0,6$
-\item $0,8$
+\item $0,2$.
+\item $0,5$.
+\item $0,6$.
+\item $0,8$.
 \end{escolha}
-
-%\subsection{BNCC: EF06MA30 }
-% -- Calcular a probabilidade de um evento aleatório,
-% expressando-a por número racional (forma fracionária, decimal e
-% percentual) e comparar esse número com a probabilidade obtida por meio
-% de experimentos sucessivos.
-% SAEB: Resolver problemas que envolvam a probabilidade de ocorrência de
-% um resultado em eventos aleatórios equiprováveis independentes ou
-% dependentes.
-
-% Gabarito
-% Alternativa A: incorreta, pois o aluno pode ter considerado apenas dois
-% números.
-% Alternativa B: correta, pois há cinco números pares entre um total de
-% 10.
-% Alternativa C: incorreta, incorreta, pois o aluno pode ter considerado
-% seis números.
-% alternativa D: incorreta, pois incorreta, pois o aluno pode ter
-% considerado oito números.
-
-
