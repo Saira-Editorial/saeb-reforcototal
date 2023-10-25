@@ -3894,6 +3894,9 @@ retângulo é
 \chapter{Probabilidade}
 \markboth{Módulo 12}{}
 
+\vspace*{-.5cm}
+\enlargethispage{\baselineskip}
+
 \section*{Habilidade do SAEB}
 \begin{itemize}
 \item Resolver problemas que envolvam a probabilidade de
@@ -3917,9 +3920,9 @@ a face ``cara'' para cima é de $0,5$ (ou $50\%$). Isso significa que, em uma
 série de lançamentos de moedas, espera-se que a face ``cara'' apareça em
 cerca de metade das vezes.
 
-\begin{figure}[H]
-\centering\includegraphics[width=3.92708in,height=0.8125in]{./imgSAEB_6_MAT/media/image138.png}
-\end{figure}
+\begin{wrapfigure}{r}{.5\textwidth}
+\includegraphics[width=.5\textwidth]{./imgSAEB_6_MAT/media/image138.png}
+\end{wrapfigure}
 
 A probabilidade pode ser calculada por meio da razão entre o número de
 eventos favoráveis e o número total de eventos possíveis. Por exemplo,
@@ -3940,9 +3943,11 @@ podemos estimar que a probabilidade de obter o número $3$ em um lançamento
 \begin{escolha}
 \item sair \textbf{exatamente} uma cara?\\
 \reduline{$\frac{3}{8}$.\hfill}
+\linhas{1}
 
 \item sair \textbf{pelo menos} uma cara?\\
 \reduline{$\frac{7}{8}$.\hfill}
+\linhas{1}
 \end{escolha}
 
 \num{2}  Dois dados foram lançados. Qual é a probabilidade de a soma dos
@@ -3951,29 +3956,34 @@ pontos obtidos ser
 \begin{escolha}
 \item igual a 8?\\
 \reduline{$\frac{5}{36}$.\hfill}
+\linhas{1}
 
 \item maior que 8?\\
 \reduline{$\frac{5}{18}$.\hfill}
+\linhas{1}
 \end{escolha}
 
 \num{3} Imagine que você está participando de um jogo de tabuleiro chamado
 ´´Lançamento de dados mágicos''. Nesse jogo, você tem dois dados mágicos,
 cada um com faces numeradas de $1$ a $6$. O objetivo é somar os números
 obtidos nos dois dados e alcançar uma pontuação específica. As regras são
-as seguintes.
+as seguintes.\enlargethispage{\baselineskip}
 
+\begin{myquote}
 \begin{itemize}
    \item Você ganha automaticamente se a soma dos números nos dois dados for $12$.
    \item Se a soma for $7$ ou $11$, você ganha com uma probabilidade de $\frac{1}{6}$.
    \item Se a soma for $2$, $3$ ou $4$, você ganha com uma probabilidade de $\frac{1}{12}$.
    \item Para todas as outras somas, você perde.
 \end{itemize}
+\end{myquote}
 
 Agora, faça o que se pede a seguir.
 
 \begin{escolha}
 \item Calcule a probabilidade de ganhar o jogo.
 
+\begin{emptybox}
 \rosa{Para ganhar o jogo, existem três cenários favoráveis:}
 
 \rosa{Soma 12: há apenas uma combinação possível: (6, 6).}
@@ -3991,27 +4001,31 @@ Agora, faça o que se pede a seguir.
 \rosa{A probabilidade total de ganhar é a soma das probabilidades de cada cenário:}
 
 \rosa{$P(\text{Ganhar}) = \frac{1}{36} + \frac{8}{36} + \frac{6}{36} = \frac{15}{36} = \frac{5}{12}$}
+\end{emptybox}
 
 \item Calcule a probabilidade de perder o jogo.
 
+\begin{emptybox}
 \rosa{Para perder o jogo, a soma deve ser qualquer número que não esteja nos cenários de vitória.}
 
 \rosa{Existem $6 \times 6 = 36$ resultados possíveis ao lançar dois dados.}
 
 \rosa{$P(\text{Perder}) = 1 - P(\text{Ganhar}) = 1 - \frac{5}{12} = \frac{7}{12}$}
+\end{emptybox}
 
 \item Se você já sabe que não perdeu o jogo, qual é a probabilidade de ter ganhado?
 
+\begin{emptybox}
 \rosa{Se você não perdeu o jogo, então a soma deve ser 2, 3, 4, 7, 11 ou 12.}
 
 \rosa{Entre essas, há 15 combinações que levam à vitória.}
 
 \rosa{$P(\text{Ganhar} \,|\, \text{Não perder}) = \frac{15}{15 + 5} = \frac{15}{20} = \frac{3}{4}$}
+\end{emptybox}
 
 \item Suponha que você possa apostar dinheiro nesse jogo. Você deve apostar?
 Explique sua resposta considerando as probabilidades de ganhar e perder.\\
-\reduline{Considerando as probabilidades, apostar dinheiro nesse jogo não é uma decisão sábia. A probabilidade de perder ($\frac{7}{12}$) é maior do que a probabilidade de ganhar ($\frac{5}{12}$). Portanto, a longo prazo, você tende a perder mais do que ganhar se continuar apostando.}
-\linhas{3}
+\reduline{Considerando as probabilidades, apostar dinheiro nesse jogo não é uma decisão sábia. A probabilidade de perder ($\frac{7}{12}$) é maior do que a probabilidade de ganhar ($\frac{5}{12}$). Portanto, a longo prazo, você tende a perder mais do que ganhar se continuar apostando.\hfill}
 \end{escolha}
 
 \num{4}  Uma urna contém cem bolinhas numeradas de $1$ a $100$. Uma bolinha é
@@ -4079,7 +4093,7 @@ for selecionada ao acaso, qual é a probabilidade de o sangue
 
 \end{escolha}
 
-\begin{mdframed}[linewidth=2pt,linecolor=white,roundcorner=10pt]
+\begin{emptybox}
 \rosa{Para resolver esse problema, podemos usar o princípio da inclusão-exclusão.}
 
 \rosa{\textbf{Probabilidade de ter fator Rh positivo (P(Rh))}}
@@ -4104,7 +4118,7 @@ Rh positivo ou ser do tipo O é dada por:}
 \rosa{$P(Rh \cup O) = \frac{8}{10} + \frac{5}{10} - \frac{4}{10}$}
 
 \rosa{$P(Rh \cup O) = \frac{9}{10}$}
-\end{mdframed}
+\end{emptybox}
 
 \num{8} Suponha que você está participando de um jogo de tabuleiro
 chamado ``Labirinto da probabilidade''. Nesse jogo, você inicia em um
@@ -4138,31 +4152,36 @@ Agora, responda ao que se propõe a seguir.
 \item Qual é a probabilidade de escolher o caminho correto na primeira
    bifurcação e sair diretamente?
 
+\begin{emptybox}
+\rosa{
+Para escolher o caminho correto na primeira bifurcação e sair diretamente,
+a probabilidade é $0,4 \times 1 = 0,4$.}
+\end{emptybox}
+
 \item Se você escolher o caminho da direita na primeira bifurcação, qual é a
    probabilidade de encontrar o mapa na segunda bifurcação e seguir o caminho
    mais curto?
 
+\begin{emptybox}
+\rosa{Se você escolher o caminho da direita na primeira bifurcação, a probabilidade
+de encontrar o mapa na segunda bifurcação e seguir o caminho mais curto é
+$0,6 \times 0,3 = 0,18$.}
+\end{emptybox}
+
 \item Se você escolher a passagem secreta na última escolha, qual é a
    probabilidade de chegar à saída diretamente?
+
+\begin{emptybox}
+\rosa{Se você escolher a passagem secreta na última escolha, a probabilidade de chegar
+diretamente à saída é $0,5 \times 1 = 0,5$.}
+\end{emptybox}
 
 \item Qual é a probabilidade total de completar o labirinto e alcançar a saída,
    levando em conta todas as possíveis combinações de escolhas e resultados?
    Explique o raciocínio por trás de seu cálculo.
-\end{escolha}
 
-\begin{mdframed}[linewidth=2pt,linecolor=white,roundcorner=10pt]
-\rosa{
-a) Para escolher o caminho correto na primeira bifurcação e sair diretamente,
-a probabilidade é $0,4 \times 1 = 0,4$.}
-
-\rosa{b) Se você escolher o caminho da direita na primeira bifurcação, a probabilidade
-de encontrar o mapa na segunda bifurcação e seguir o caminho mais curto é
-$0,6 \times 0,3 = 0,18$.}
-
-\rosa{c) Se você escolher a passagem secreta na última escolha, a probabilidade de chegar
-diretamente à saída é $0,5 \times 1 = 0,5$.}
-
-\rosa{d) Para calcular a probabilidade total de completar o labirinto e alcançar a saída,
+   \begin{emptybox}
+\rosa{Para calcular a probabilidade total de completar o labirinto e alcançar a saída,
 levando em conta todas as possíveis combinações de escolhas e resultados, devemos
 considerar todas as possíveis trajetórias:}
 
@@ -4189,12 +4208,15 @@ $0,084 + 0,036 + 0,3 + 0,063 + 0,175 + 0,0525 = 0,7105$}
 
 \rosa{Portanto, a probabilidade total de sair do labirinto é aproximadamente $71,05\%$.
 }
-\end{mdframed}
+\end{emptybox}
+\end{escolha}
+
 
 \num{9} Com os dígitos $1$, $2$, $3$, $4$ e $5$ são formados números de quatro algarismos
 distintos. Um deles é escolhido ao acaso. Qual é a probabilidade de ele
 ser par? Qual é a probabilidade de ele ser ímpar?
 
+\begin{emptybox}
 \rosa{
 Para formar números de quatro algarismos distintos usando os dígitos $1$,
 $2$, $3$, $4$ e $5$, temos $5 \times 4 \times 3 \times 2 = 120$
@@ -4217,6 +4239,7 @@ de organizar os três dígitos restantes. Então, há $6 + 6 + 6 = 18$
 números ímpares possíveis.
 A probabilidade de escolher um número ímpar é $P(\text{ímpar}) = \frac{18}{120} = \frac{3}{20}$.
 }
+\end{emptybox}
 
 \num{10} Paula está jogando um jogo de tabuleiro em um labirinto com $4$ células de
 largura e $4$ células de altura. O objetivo é mover-se da célula superior
@@ -4236,6 +4259,7 @@ Qual é a probabilidade de Paula alcançar a célula inferior direita sem
 girar nenhuma moeda (ou seja, todas as moedas estão voltadas para cima) ao
 seguir o caminho mais curto? Explique seu raciocínio.
 
+\begin{emptybox}
 \rosa{Para alcançar a célula inferior direita sem girar nenhuma moeda, todas as}
 
 \rosa{moedas ao longo do caminho mais curto devem estar voltadas para cima. Como}
@@ -4247,15 +4271,20 @@ seguir o caminho mais curto? Explique seu raciocínio.
 \rosa{cima ou para baixo. Apenas uma dessas combinações (todas as moedas voltadas}
 
 \rosa{para cima) leva ao sucesso. Portanto, a probabilidade é $\frac{1}{256}$.}
+\end{emptybox}
 
 \num{11} Uma urna contém $5$ bolas vermelhas e $3$ brancas. Duas bolas são
 extraídas ao acaso, com reposição. Qual é a probabilidade de ambas serem
+\enlargethispage{3\baselineskip}
 
+\begin{multicols}{2}
 \begin{escolha}
 \item vermelhas?
 \item brancas?
 \end{escolha}
+\end{multicols}
 
+\begin{emptybox}
 \rosa{Se as bolas são extraídas com reposição, isso significa que, após cada}
 
 \rosa{extração, a bola é devolvida à urna antes da próxima extração. Portanto, a}
@@ -4287,6 +4316,7 @@ extraídas ao acaso, com reposição. Qual é a probabilidade de ambas serem
 \rosa{Portanto, a probabilidade de ambas as bolas serem vermelhas é $\frac{25}{64}$}
 
 \rosa{e a probabilidade de ambas as bolas serem brancas é $\frac{9}{64}$.}
+\end{emptybox}
 
 \section*{Treino}
 
