@@ -26,17 +26,19 @@
 % \renewcommand{\contentsname}{Índex} 	% Trocar nome do sumário para 'Índex'
 %\ifodd\thepage\relax\else\blankpage\fi 	% Verifica se página é par e coloca página branca
 \addtocontents{toc}{\protect\thispagestyle{empty}}
-\addtocontents{toc}{\vspace*{-1cm}}
 \tableofcontents*\clearpage\endgroup}
 
 %\input{watermarks}
 
 \addcontentsline{toc}{chapter}{Apresentação}
 \input{../INTRO}
-%\input{MAT}
+\input{MAT}
 
 \input{SIMULADOS}
 
 %\input{GABARITO}
+
+\blankpage
+\blankpage
 
 %\input{Z-colofon}		   % [colofon]
