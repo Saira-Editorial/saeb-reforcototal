@@ -1,0 +1,17 @@
+\documentclass[tikz,border=10pt]{standalone}
+%\usetikzlibrary{intersections,calc}
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) circle (2pt);
+  \path (135:4cm) node(p1) {$p_1$}
+        (75:1cm) node(p2) {$p_2$};
+
+  \draw (-0.2,0) -- (4.2,0) node(xline)[right] {$q_1$};
+  \draw (2,-0.2) -- (2,5.2) node(yline)[above] {$q_2$};
+
+  \draw[->] (p1) -- (p1 |- xline);
+  \draw[->] (p2) -- (p2 |- xline);
+  \draw[->] (p1) -- (p1 |- yline);
+  \draw[->] (p2) -- (p2 -| yline);
+\end{tikzpicture}
+\end{document}
