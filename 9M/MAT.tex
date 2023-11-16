@@ -2785,43 +2785,92 @@ não convexos.
 
 Observe os exemplos de polígonos convexo e não convexo.
 
-\noindent\includegraphics[width=\textwidth]{./ilustras-mat/modulo_10-poligonos.png}
+\hspace{2cm}\includegraphics[width=.6\textwidth]{./tikz/015.pdf}
+% 
 
 O polígono será convexo quando o segmento de reta determinado por dois pontos A e B
 quaisquer estiver inteiramente contido no interior do polígono. 
 
-\subsection{Diagonáis de um polígono}
+\subsection{Diagonais de um polígono}
 
 \noindent\includegraphics[width=\textwidth]{./tikz/014.pdf}
+
+Os quatro polígonos acima são definidos de tal forma que seus vértices
+estão dispostos em um círculo, e todos os vértices estão ligados por segmentos
+de reta (tanto bordas como diagonais).
+
+\begin{itemize}
+\item \textbf{Quadrado} (4 lados): Polígono de 4
+   vértices igualmente espaçados em um círculo. Cada vértice é ligado a todos
+   os outros vértices por uma linha, resultando em 4 bordas (perímetro do
+   quadrado) e 2 diagonais.
+
+\item \textbf{Hexágono} (6 lados):  6 vértices igualmente espaçados em um círculo. Cada vértice
+   ligado a todos os outros por uma linha, resultando em 6 bordas (perímetro
+   do hexágono) e 9 diagonais.
+
+\item \textbf{Heptágono} (7 lados): 7 vértices igualmente espaçados em um círculo. Cada
+   vértice ligado a todos os outros por uma linha, resultando em 7 bordas
+   (perímetro do heptágono) e 14 diagonais.
+
+\item \textbf{Octógono} (8 lados): 8 vértices igualmente espaçados em um círculo.
+   Cada vértice é ligado a todos os outros por uma linha, resultando em 8
+   bordas (perímetro do octógono) e 20 diagonais.
+\end{itemize}
+
+Em qualquer polígono de $n$ lados, você pode desenhar uma linha (ou diagonal)
+de cada vértice para $n-3$ outros vértices (isto é, excluindo o vértice do qual se está
+partindo e seus dois vértices adjacentes, uma vez que esses formam os lados do polígono, não
+as diagonais). Isso resulta em $n \times (n-3)$ diagonais.
+
+No entanto, esta contagem inclui cada diagonal duas vezes (uma para cada
+direção da linha). Então, para obter o número real de diagonais distintas,
+é necessário dividir o resultado por 2.
+
+$$d = \frac{n(n-3)}{2}$$
+
+%É importante lembrar que as "diagonais" são normalmente
+%definidas apenas para polígonos convexos e referem-se a segmentos que conectam
+%dois vértices não adjacentes. Em polígonos regulares, essas diagonais também
+%são simétricas e igualmente espaçadas.
+
 
 \begin{itemize}
   \item \textbf{Relações de Euler}
 \end{itemize}
 
 A relação de Euler nos ajuda a definir a quantidade de vértices, arestas
-e faces.
+e faces.\medskip
 
-\includegraphics[width=\textwidth]{./ilustras-mat/modulo_10-relacoes_de_euler.png}
+\includegraphics[width=.45\textwidth]{./tikz/018.pdf}
+\includegraphics[width=.45\textwidth]{./tikz/017.pdf}
 
 \begin{itemize}
   \item \textbf{Elementos da circunferência}
 \end{itemize}
 
-\includegraphics[width=.5\textwidth]{./ilustras-mat/modulo_10-elementos_da_circunferencia.png}
+\includegraphics[page=1,width=.3\textwidth]{./tikz/019.pdf}
+\includegraphics[page=2,width=.3\textwidth]{./tikz/019.pdf}
+\includegraphics[page=3,width=.3\textwidth]{./tikz/019.pdf}
+
+\hspace{2cm}\includegraphics[page=4,width=.3\textwidth]{./tikz/019.pdf}
+\includegraphics[page=5,width=.3\textwidth]{./tikz/019.pdf}
+
+%\includegraphics[width=.5\textwidth]{./ilustras-mat/modulo_10-elementos_da_circunferencia.png}
 
 \begin{itemize}
-\item
-  Tangente -- um ponto em comum com a circunferência;
-\item
-  Secante -- dois pontos em comum com a circunferência;
-\item
-  Corda -- segmento de reta interior a circunferência que não passa pelo
-  centro;
 \item
   Diâmetro -- segmento de reta interior a circunferência que passa pelo
   centro;
 \item
   Raio -- segmento de reta entre o centro a e borda da circunferência.
+\item
+  Corda -- segmento de reta interior a circunferência que não passa pelo
+  centro;
+\item
+  Secante -- dois pontos em comum com a circunferência;
+\item
+  Tangente -- um ponto em comum com a circunferência;
 \end{itemize}
 } 
 
@@ -2831,7 +2880,7 @@ e faces.
 
 \begin{figure}[htpb!]
 \centering
-\includegraphics[width=\textwidth]{./ilustras-mat/modulo_10-atividade_1.png}
+\includegraphics[width=.7\textwidth]{./tikz/020.pdf}
 \end{figure}
 
 \begin{emptybox}
@@ -2843,7 +2892,7 @@ e faces.
 
 \begin{figure}[htpb!]
 \centering
-\includegraphics[width=\textwidth]{./ilustras-mat/modulo_10-atividade_2.png}
+\includegraphics[width=.7\textwidth]{./tikz/021.pdf}
 \end{figure}
 
 \begin{emptybox}

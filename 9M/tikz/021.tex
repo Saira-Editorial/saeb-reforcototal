@@ -1,0 +1,29 @@
+\documentclass[border=0.2cm]{standalone}
+\usepackage{tikz}
+\begin{document}
+
+
+\begin{tikzpicture}
+  \draw[help lines,black!30] (-4.5,-4.5) grid (4.5,4.5);
+  \draw[thick,->] (0,-4) -- (0,4) node[left]  {$y$};
+  \draw[thick,->] (-4,0) -- (4,0) node[below] {$x$};
+  \foreach \x in {-3,-2,-1,1,2,3} \node[left] at (0,\x) {\x} node[below] at (\x,0) {\x};
+  \fill[red] (0,0) circle (3pt); 
+  \node[below right] at (0,0) {0} node[above right] {Reservatório de água}; 
+
+
+  \coordinate (a) at (4,3);
+  \coordinate (b) at (4,-4);
+  \coordinate (c) at (-4,-3);
+  \coordinate (d) at (-3,2);
+
+  \fill[red] (a) circle (3pt) node[above right] {$Escola$};
+  \fill[red] (b) circle (3pt) node[above right] {$Zoológico$};
+  \fill[red] (c) circle (3pt) node[above right] {$Represa$};
+  \fill[red] (d) circle (3pt) node[above right] {$Igreja$};
+
+  \end{tikzpicture}
+
+
+
+\end{document}

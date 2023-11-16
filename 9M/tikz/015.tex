@@ -15,11 +15,16 @@
       \foreach \i in {2,3,...,#2} {
         -- (p\i)
       } -- cycle;
+
+    \draw[#3,line width=.5pt,color=black] (p1)
+      \foreach \i in {2,3,...,#2} {
+        -- (p\i)
+      } -- cycle;
       
     % Desenha as linhas como antes
     \foreach \i in {1,2,...,#2} {
       \foreach \j in {\i,...,#2} {
-        \draw[black,line width=.4pt] (p\i) -- (p\j);
+        %\draw[black,line width=.4pt] (p\i) -- (p\j);
       }
     }
   \end{scope}
@@ -27,11 +32,35 @@
 
 \begin{document}
 \begin{tikzpicture}
-  \polygon{4}{red!30}
-  \polygon[xshift=2.2cm]{6}{red!30}
-  \polygon[xshift=4.4cm]{7}{red!30}
-  \polygon[xshift=6.6cm]{8}{red!30}
+  %\draw (-1,-1) grid (10,10);
+  \polygon{5}{red!30}
+  \draw[line width=1pt, red] (-.47,.47) -- (.47,-.47);
+  \draw[fill] (-.47,.47) circle (1.5pt) node[below] {\tiny$A$};
+  \draw[fill] (.47,-.47) circle (1.5pt) node[below] {\tiny$B$};
+  %\polygon[xshift=2.2cm]{6}{red!30}
+  %\polygon[xshift=4.4cm]{7}{red!30}
+  %\polygon[xshift=6.6cm]{8}{red!30}
+
+\begin{scope}[xshift=35pt,yshift=-23.5pt]
+\coordinate (a) at (0,0);
+\coordinate (b) at (0,2);
+\coordinate (c) at (1.5,0.75);
+\coordinate (d) at (2.5,2);
+\coordinate (e) at (2.5,0);
+
+\coordinate (A) at (.15,.3);
+\coordinate (B) at (2.4,1.5);
+
+\fill[red!30] (a) -- (b) -- (c) -- (d) -- (e) -- cycle; 
+\draw[line width=.5pt] (a) -- (b) -- (c) -- (d) -- (e) -- cycle; 
+
+
+\draw[line width=1pt, red] (A) -- (B);
+\draw[fill] (A) circle (1.5pt) node[below] {\tiny$A$};
+\draw[fill] (B) circle (1.5pt) node[below] {\tiny$B$};
+\end{scope}
 \end{tikzpicture}
+
 
 %Esta função define um novo comando em LaTeX para desenhar um polígono com
 %ângulos e lados iguais (polígono regular) e, em seguida, conecta cada vértice

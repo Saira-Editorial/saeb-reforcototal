@@ -1,0 +1,59 @@
+\documentclass[border=3.14mm,tikz]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\begin{document}
+
+\def\r{4}
+\begin{tikzpicture}
+\draw[fill=red!30,draw=red,line width=1.5pt] (0,0) circle (\r) node[inner sep=1pt,fill] (O) {};
+\draw[-latex] (0,0) -- (\r,0) node[midway,below] {\huge Raio};
+\end{tikzpicture}
+
+
+\begin{tikzpicture}
+\draw[fill=red!30,draw=red,line width=1.5pt] (0,0) circle (\r);
+\draw[latex-latex] (0:\r) -- (180:\r) node[midway,above] {\huge Diâmetro};
+\end{tikzpicture}
+
+
+\begin{tikzpicture}
+\draw[fill=red!30,draw=red,line width=1.5pt] (0,0) circle (\r) node[inner sep=1pt,fill] (O) {};
+\draw[latex-latex] (30:\r) -- (160:\r) node[midway,above] {\huge Corda};
+\end{tikzpicture}
+
+
+\begin{tikzpicture}
+\draw[fill=red!30,draw=red,line width=1.5pt] (0,0) circle (\r) node[inner sep=1pt,fill] (O) {};
+\draw[latex-latex] ($(30:\r)!-1cm!(160:\r)$) -- ($(225:\r)!-1cm!(45:\r)$) node[midway,above left] {\huge Secante};
+\end{tikzpicture}
+
+
+\begin{tikzpicture}
+
+% definir o centro do círculo
+\coordinate (O) at (0, 0);
+
+% desenhar o círculo com raio 3
+\draw (O) circle (\r);
+\draw[fill=red!30,draw=red,line width=1.5pt] (0,0) circle (\r) node[inner sep=1pt,fill] (O) {};
+
+% desenhar a tangente. Primeiro, definimos um ponto na borda do círculo.
+\coordinate (A) at (30:\r);
+
+% em seguida, calcula-se o ponto onde a tangente toca a borda do círculo
+\coordinate (T) at ($(A)!3cm!90:(O)$);
+\coordinate (T2) at ($(A)!-3cm!90:(O)$);
+
+% e finalmente desenha-se a tangente
+\draw[-latex] (A) -- (T);
+\draw[-latex] (A) -- (T2);
+
+% Colocar marcadores nos pontos importantes
+%\fill[black] (O) circle (2pt) node[below left] {$O$};
+\fill[black] (A) circle (2pt) node[above right] {\huge Tangente};
+
+\end{tikzpicture}
+
+
+
+\end{document}
