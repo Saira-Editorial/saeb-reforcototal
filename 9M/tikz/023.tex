@@ -1,0 +1,46 @@
+\documentclass[border=0.2cm]{standalone}
+
+\usepackage{tikz}
+\begin{document}
+\pagestyle{empty}
+\begin{tikzpicture}[rotate=5]
+    \draw[fill=red!30,thick,draw=red!30] (0,0) --  (180:.75cm) arc (180:240:.75cm);
+    \draw[thick] (181:.75cm) arc (180:240:.75cm);
+    \draw (30:-0.5cm) node {$\alpha$};
+
+    \draw (0,0) -- (240:.75cm) arc (240:360:.75cm);
+    \draw[thick] (240:.75cm) arc (240:360:.75cm);
+    \draw (-60:0.4cm) node {$\beta$};
+
+    %\draw (0,0) -- (240:.75cm) arc (240:360:.75cm);
+    \draw[fill=red!30,thick,draw=red!30] (0,0) --  (360:.75cm) arc (360:420:.75cm);
+    \draw[thick] (360:.75cm) arc (360:420:.75cm);
+    \draw (390:0.4cm) node {$\alpha$};
+
+    \draw[thick] (420:.75cm) arc (420:540:.75cm);
+    \draw (500:0.4cm) node {$\beta$};
+  \begin{scope}[shift={(60:2cm)}]
+    \draw[fill=red!30,thick,draw=red!30] (0,0) --  (180:.75cm) arc (180:240:.75cm);
+    \draw[thick] (181:.75cm) arc (180:240:.75cm);
+    \draw (30:-0.5cm) node {$\alpha$};
+
+    \draw (0,0) -- (240:.75cm) arc (240:360:.75cm);
+    \draw[thick] (240:.75cm) arc (240:360:.75cm);
+    \draw (-60:0.4cm) node {$\beta$};
+
+    %\draw (0,0) -- (240:.75cm) arc (240:360:.75cm);
+    \draw[fill=red!30,thick,draw=red!30] (0,0) --  (360:.75cm) arc (360:420:.75cm);
+    \draw[thick] (360:.75cm) arc (360:420:.75cm);
+    \draw (390:0.4cm) node {$\alpha$};
+
+    \draw[thick] (420:.75cm) arc (420:540:.75cm);
+    \draw (500:0.4cm) node {$\beta$};
+  \end{scope}
+
+\draw[thick] (60:-1cm) -- (60:3.5cm) node[above] {$t$};
+\draw[thick] (-2,1.73) -- (3,1.73) node[right] {$r$};
+\draw[thick] (-2,0) -- (3,0) node[right] {$t$};
+
+\end{tikzpicture}
+
+\end{document}
