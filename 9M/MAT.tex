@@ -291,7 +291,7 @@ número é multiplicado por ele mesmo várias vezes.
 
 Notação:
 
-\includegraphics[width=.4\textwidth]{./ilustras-mat/modulo_2_potenciacao.png}
+$$a^n = \underbrace{a \cdot a \cdot a \cdots a}_{n\text{ fatores}}$$
 
 Sendo a \neq 0, temos:
 
@@ -710,13 +710,33 @@ d) Incorreta. Nesta alternativa, duas colunas estão pintadas, de modo que
 a proporção representada é de $\frac{2}{10}$.}
 \end{emptybox}
 
-\num{8} Considerando o diagrama abaixo, qual fração representa a
-quantidade de crianças que preferem hamster como animal de estimação?
+\newcommand\MyCirc{\raisebox{-2pt}{\tikz\draw[fill,red!40] circle (1ex);}\,}
+\newcommand\MySemi{\raisebox{-2pt}{\tikz\draw[fill,red!40] (0,0) arc (90:360/4*3:1ex);}\,}
 
-\begin{figure}[htpb!]
-\centering
-\includegraphics[width=\textwidth]{./ilustras-mat/modulo_3-atividade_8.png}
-\end{figure}
+\num{8} Considerando o diagrama abaixo, qual fração representa a
+quantidade de crianças que preferem hamster como animal de estimação (\MyCirc $=2$)?
+
+
+
+\begin{table}[!h]
+\caption{Número de crianças por preferência de anima de estimação}
+\begin{center}
+\rowcolors{2}{white}{red!10}
+\begin{tabular}{p{10ex}p{35ex}}
+\textbf{Animal}   & \textbf{Preferência}\\
+Gato     & \MyCirc \MyCirc \MyCirc \MyCirc \MySemi\\
+Cachorro & \MyCirc \MyCirc \MySemi \\
+Pássaro  & \MyCirc \MyCirc \MyCirc \MySemi \\
+Hamster  & \MyCirc\MyCirc\MyCirc\MyCirc\MyCirc
+\end{tabular}
+\end{center}
+\end{table}
+
+
+%\begin{figure}[htpb!]
+%\centering
+%\includegraphics[width=\textwidth]{./ilustras-mat/modulo_3-atividade_8.png}
+%\end{figure}
 
 \reduline{Pela contagem, o total de 17 bolinhas representa 34 crianças.
 Dessa forma, 12 crianças que preferem hamsters. A fração é $\frac{12}{34}$ = $\frac{6}{17}$.\hfill}
@@ -724,10 +744,33 @@ Dessa forma, 12 crianças que preferem hamsters. A fração é $\frac{12}{34}$ =
 \num{9} No diagrama abaixo, é possível observar a quantidade de peixes
 capturados por Angélica, Pedro, Melissa e Leandro.
 
-\begin{figure}[htpb!]
-\centering
-\includegraphics[width=.7\textwidth]{./ilustras-mat/modulo_3-atividade_9.png}
-\end{figure}
+\renewcommand\MyCirc{
+    \begin{tikzpicture}[scale=.3]
+        \draw[fill=red!40] (1,1) to[bend left=50] (3,1) to[bend left=50] (1,1);
+        \draw[fill=red!40] (3,1) -- (3.5,1.5) -- (3.3,1) -- (3.5,.5) -- cycle;
+        \draw[fill=white] (1.6,1.1) circle (.15cm); 
+        \draw[fill=blue] (1.55,1.1) circle (.05cm);         
+    \end{tikzpicture}}
+
+\begin{table}[!h]
+\caption{Número de peixes capturados}
+\begin{center}
+\rowcolors{2}{white}{red!10}
+\begin{tabular}{p{10ex}p{35ex}}
+\textbf{Criança}   & \textbf{Preferência}\\
+Angélica & \MyCirc \MyCirc \\
+Pedro    & \MyCirc \MyCirc \MyCirc  \\
+Melissa  & \MyCirc \MyCirc \MyCirc \MyCirc \MyCirc \\
+Leandro  & \MyCirc \MyCirc \MyCirc \MyCirc \MyCirc \MyCirc 
+\end{tabular}
+\end{center}
+\end{table}
+
+
+%\begin{figure}[htpb!]
+%\centering
+%\includegraphics[width=.7\textwidth]{./ilustras-mat/modulo_3-atividade_9.png}
+%\end{figure}
 
 \pagebreak
 Qual a fração equivalente ao número de peixes do Pedro em relação a
@@ -3367,11 +3410,12 @@ afirmar que $\alpha = 120$°.}
 
 \begin{figure}[htpb!]
 \centering
-\includegraphics[width=\textwidth]{./ilustras-mat/modulo_11-treino_1.png}
+\includegraphics[width=\textwidth]{./tikz/026.pdf}
 \end{figure}
 
 Determine a medida da barra que está na diagonal.
 
+\begin{multicols}{2}
 \begin{escolha}
   \item 2
 
@@ -3381,13 +3425,14 @@ Determine a medida da barra que está na diagonal.
   
   \item 4
 \end{escolha}
+\end{multicols}
 
 
 \num{2} Qual figura representa um trapézio escaleno?
 
 \begin{figure}[htpb!]
 \centering
-\includegraphics[width=.6\textwidth]{./ilustras-mat/modulo_11-treino_2.png}
+\includegraphics[width=.6\textwidth]{./tikz/028.pdf}
 \end{figure}
 
 \pagebreak
@@ -3397,7 +3442,7 @@ transversais.
 
 \begin{figure}[htpb!]
 \centering
-\includegraphics[width=\textwidth]{./ilustras-mat/modulo_11-treino_3_resposta.png}
+\includegraphics[width=\textwidth]{./tikz/027.pdf}
 \end{figure}
 
 Determine o valor de x.
@@ -3491,7 +3536,7 @@ o jogo pela casa destacada em cinza.
 
 \begin{figure}[htpb!]
 \centering
-\includegraphics[width=.25\textwidth]{./ilustras-mat/modulo_12-atividade_1.png}
+\includegraphics[width=.29\textwidth]{./tikz/029.pdf}
 \end{figure}
 
 Qual é a coordenada com que o Gustavo decidiu começar a jogada?
@@ -3646,7 +3691,7 @@ responda: qual a distância total percorrida, em km?
 
 \begin{figure}[htpb!]
 \centering
-\includegraphics[width=\textwidth]{./ilustras-mat/modulo_12-treino_1.png}
+\includegraphics[width=\textwidth]{./tikz/030.pdf}
 \end{figure}
 
 Qual a distância entre a casa da Sílvia e a de Paula?
