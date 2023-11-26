@@ -10,9 +10,9 @@
 ## Fácil
 - [x] 15: Fórmula
 - [x] 24: Tabela 1
-- [ ] 26: Fração (chocolate)
-- [ ] 24: Tabela 2
+- [x] 24: Tabela 2
 - [ ] 106: Tabela 3
+- [x] 26: Fração (chocolate)
 - [ ] 41: Legenda na imagem (fósforos)
 - [ ] 163: Legenda na imagem (fósforos)
 - [ ] 50: Quadrado com cumprimento e largura

@@ -837,7 +837,7 @@ chocolate ao leite.
 A fração correspondente à quantidade que Juca comeu em relação ao total é:
 
 \begin{figure}[htpb!]
-\includegraphics[width=.5\textwidth]{./ilustras-mat/modulo_3-treino_3_opcoes.png}
+\includegraphics[width=.5\textwidth]{./tikz/032.pdf}
 \end{figure}
 
 \chapter{Porcentagem Aumentos e Descontos}
@@ -4003,13 +4003,36 @@ essas três montadoras.
 }
 
 \pagebreak
-\num{10} Uma loja de queijos fez a contagem de queijos canastra vendidos ao
-longo de 2022 em forma de pictograma, como se pode verificar na imagem abaixo. 
+\renewcommand\MyCirc{\raisebox{-2pt}{\tikz\draw[fill,orange] circle (1.5ex);}\,}
 
-\begin{figure}[htpb!]
-\centering
-\includegraphics[width=\textwidth]{./ilustras-mat/modulo_13-atividade_10.png}
-\end{figure}
+\num{10} Uma loja de queijos fez a contagem de queijos canastra vendidos ao
+longo de 2022 em forma de pictograma, como se pode verificar na imagem abaixo
+\MyCirc $=200$ queijos. 
+
+
+\renewcommand\MySemi{\raisebox{-2pt}{\tikz\draw[fill,orange] (0,0) arc (90:360/4*3:1.5ex);}\,}
+\newcommand\MyQuarter{\raisebox{-2pt}{\tikz[scale=.25] \fill[orange] (0,0) -- (-1,0) arc (180:270:1) -- cycle;}\,}
+\newcommand\MyThreeQuarter{\raisebox{-2pt}{\tikz[scale=.25] \fill[orange] (0,0) -- (1,0) arc (0:-90*3:1) -- cycle;}\,}
+
+
+
+\begin{table}[!h]
+\begin{center}
+\rowcolors{2}{white}{red!10}
+\begin{tabular}{p{20ex}p{35ex}}
+\textbf{Mês}   & \textbf{Quantidae de queijos}\\
+Setembro     & \MyCirc \MySemi\\
+Outubro & \MyCirc \MyCirc \MyCirc \MyQuarter \\
+Novembro  & \MyCirc \MyCirc \MyThreeQuarter\\
+Dezembro  & \MyCirc\MyCirc\MyCirc\MyCirc
+\end{tabular}
+\end{center}
+\end{table}
+
+%\begin{figure}[htpb!]
+%\centering
+%\includegraphics[width=\textwidth]{./ilustras-mat/modulo_13-atividade_10.png}
+%\end{figure}
 
 Qual a quantidade de queijos vendidos por mês?
 
