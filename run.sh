@@ -1,0 +1,17 @@
+cp 7M/Makfile 1M/
+cp 7M/Makfile 1P/
+cp 7M/Makfile 2M/
+cp 7M/Makfile 2P/
+cp 7M/Makfile 3M/
+cp 7M/Makfile 3P/
+cp 7M/Makfile 4M/
+cp 7M/Makfile 4P/
+cp 7M/Makfile 5M/
+cp 7M/Makfile 5P/
+cp 7M/Makfile 6M/
+cp 7M/Makfile 6P/
+cp 7M/Makfile 7P/
+cp 7M/Makfile 8M/
+cp 7M/Makfile 8P/
+cp 7M/Makfile 9M/
+cp 7M/Makfile 9P/

@@ -1,0 +1,60 @@
+% Tamanhos
+% \tiny
+% \scriptsize
+% \footnotesize
+% \small 
+% \normalsize
+% \large 
+% \Large 
+% \LARGE 
+% \huge
+% \Huge
+
+% Posicionamento
+% \centering 
+% \raggedright
+% \raggedleft
+% \vfill 
+% \hfill 
+% \vspace{Xcm}   % Colocar * caso esteja no começo de uma página. Ex: \vspace*{...}
+% \hspace{Xcm}
+
+% Estilo de página
+% \thispagestyle{<<nosso>>}
+% \thispagestyle{empty}
+% \thispagestyle{plain}  (só número, sem cabeço)
+% https://www.overleaf.com/learn/latex/Headers_and_footers
+
+% Compilador que permite usar fonte de sistema: xelatex, lualatex
+% Compilador que não permite usar fonte de sistema: latex, pdflatex
+
+% Definindo fontes
+\setmainfont{Free Sans}  % Todo o texto
+% \newfontfamily\avenir{Avenir}  % Contexto
+
+\begingroup\thispagestyle{empty}
+
+\begin{textblock*}{2.625in}(0pt,0pt)%
+\vspace*{-3cm}
+\hspace*{-4cm}\includegraphics[scale=1]{../watermarks/front9ano.pdf}
+\end{textblock*}
+                
+              \vspace*{\fill}
+              \begin{center}
+              {\HUGE\textbf{Revisa SAEB}}\bigskip
+
+              {\LARGE\textbf{8º ano: Matemática}}
+
+              \bigskip
+              \bigskip
+              \bigskip
+
+              {\Large
+			Thiago Figueiredo
+
+                            }
+              \end{center}
+              \vspace*{\fill}
+
+\endgroup
+\pagebreak

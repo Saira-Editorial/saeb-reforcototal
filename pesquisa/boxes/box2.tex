@@ -1,0 +1,53 @@
+\documentclass{article}
+\usepackage[most]{tcolorbox}
+\usetikzlibrary{calc}
+\usepackage{pifont}
+
+\makeatletter
+
+\newtcolorbox{mybox}[2][]{%
+    colback=teal!10,
+    coltitle=black,
+    colframe=teal!30,
+    fonttitle=\bfseries,
+    title=#2, 
+    sharp corners,
+    rounded corners=southeast,
+    arc is angular,
+    arc=3mm,
+    boxrule=0pt,
+    enhanced,
+    overlay={
+        \node[font=\Huge, text=cyan!70!black] at ([yshift=-4mm]interior.north west) {\ding{228}};
+    },
+    underlay={
+        \path[fill=tcbcolback!80!black] ([yshift=3mm]interior.south east) -- ++(-0.4,-0.1) -- ++(0.1,-0.2);
+        \path[draw=tcbcolframe,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east) -- ++(-0.4,-0.1) -- ++(0.1,-0.2);
+    },
+    interior titled code app={
+        \path[save path=\mytcb@dots]
+          let \p1=($(interior.north) - (interior.south)$),
+              \n{r}={\kvtcb@leftupper+\kvtcb@boxsep},
+              \n1={int(scalar((\y1)/5mm))},
+          in
+            ([xshift=.5*\n{r},yshift=-\n{r}+2.5mm]interior.south west)
+            foreach \i in {1, 2, ..., \n1} {
+              ++(0mm, +5mm) circle (.23*\n{r})
+            };
+         \begin{scope}
+            \clip[use path=\mytcb@dots];
+            \fill[black, opacity=0.25, use path=\mytcb@dots];
+            \fill[white, transform canvas={xshift=.3mm,yshift=-.3mm}, use path=\mytcb@dots];
+         \end{scope}
+    },
+    drop fuzzy shadow,
+    #1
+}
+\makeatother
+
+\usepackage{lipsum}
+\begin{document}
+\begin{mybox}{An example}
+\lipsum[1]
+\end{mybox}
+\end{document}

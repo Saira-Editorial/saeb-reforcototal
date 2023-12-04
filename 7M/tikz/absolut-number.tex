@@ -1,0 +1,18 @@
+\documentclass[border=0.2cm]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\begin{document}
+
+
+\begin{tikzpicture}
+  \draw[help lines,black!20] (-3.5,-2.5) grid (3.5,3.5);
+  \draw[thick,->] (-3,0) -- (3,0);
+  \draw[thick,->] (0,-2) -- (0,3);
+  \draw (0,0) circle (1pt) node[below right] {$f(x)=|x|$};
+  \draw[line width=1.3pt,red,domain=-2:2,smooth,variable=\x] plot ({\x},{abs(\x)});
+\end{tikzpicture}
+
+
+
+\end{document}
+
