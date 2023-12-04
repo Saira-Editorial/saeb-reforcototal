@@ -7,19 +7,14 @@
 \begin{document}
 
 
-\newcommand\MyCirc{\raisebox{-2pt}{\tikz\draw[fill,orange] circle (1.5ex);}\,}
-\newcommand\MySemi{\raisebox{-2pt}{\tikz\draw[fill,orange] (0,0) arc (90:360/4*3:1.5ex);}\,}
+\renewcommand\MyCirc{\raisebox{-2pt}{\tikz\draw[fill,orange] circle (1.5ex);}\,}
+\renewcommand\MySemi{\raisebox{-2pt}{\tikz\draw[fill,orange] (0,0) arc (90:360/4*3:1.5ex);}\,}
 \newcommand\MyQuarter{\raisebox{-2pt}{\tikz[scale=.25] \fill[orange] (0,0) -- (-1,0) arc (180:270:1) -- cycle;}\,}
 \newcommand\MyThreeQuarter{\raisebox{-2pt}{\tikz[scale=.25] \fill[orange] (0,0) -- (1,0) arc (0:-90*3:1) -- cycle;}\,}
-
-\MySemi
-\MyQuarter
-\MyThreeQuarter
 
 
 
 \begin{table}[!h]
-\caption{Número de crianças por preferência de anima de estimação}
 \begin{center}
 %\rowcolors{2}{white}{red!10}
 \begin{tabular}{p{20ex}p{35ex}}

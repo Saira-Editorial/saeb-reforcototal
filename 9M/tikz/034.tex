@@ -1,0 +1,39 @@
+\usemodule[tikz]
+\usetikzlibrary[cd]
+\usecolors[crayola]
+
+\usesymbols[fontawesome]
+
+
+\starttext
+
+
+\startTEXpage\starttikzpicture[line width=1.2pt,red]
+
+\coordinate (1) at (0,0);
+\coordinate (2) at (10,0);
+\coordinate (3) at (10,1);
+\coordinate (4) at (4,1);
+\coordinate (5) at (4,6);
+\coordinate (6) at (6,6);
+\coordinate (7) at (6,4);
+\coordinate (8) at (0,4);
+\coordinate (9) at (0,1);
+
+
+% \foreach \x in {1,...,9} \draw (\x) circle (3pt) node[above] {\x};
+
+\fill (3) circle (2pt);
+\draw[dotted,->] (3) node[right] {\color[red]{$x$}} -- (4) node[midway,above,rotate=90,yshift=1em] {\symbol[fontawesome][bug]} node[midway,yshift=-3mm] {$6$};
+\draw[dotted,->] (4) -- (5) node[midway,above,left] {$5$};
+\draw[dotted,->] (5) -- (6) node[midway,above,left,yshift=3mm] {$2$};
+\draw[dotted,->] (6) -- (7) node[midway,above,left] {$2$};
+\draw[dotted,->] (7) -- (8) node[midway,left,yshift=3mm] {$6$};
+\draw[dotted,->] (8) -- (9) node[midway,above,left] {$3$} node[below] {$y$};
+\draw[<->] (1) -- (2) node[midway,fill=white] {$10$};
+\stoptikzpicture\stopTEXpage
+
+%\showcolor[crayola]
+\stoptext
+
+

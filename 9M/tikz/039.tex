@@ -1,0 +1,40 @@
+\documentclass[border=3.14mm,tikz]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\begin{document}
+
+\begin{tikzpicture}[line width=1.1pt]
+ 	
+  \coordinate (A1) at (-6,0);
+  \coordinate (A2) at ($(A1)+(2,0)$);
+  \coordinate (A3) at ($(A2)+(2,0)$);
+  \coordinate (A4) at ($(A3)+(2,0)$);
+  \coordinate (A5) at ($(A4)+(2,0)$);
+  \coordinate (A6) at ($(A5)+(2,0)$);
+  \coordinate (A7) at ($(A6)+(2,0)$);
+  
+  \path (A1) node[fill=red!40,rounded corners] {$kL$};
+  \path (A2) node[fill=red!40,rounded corners] {$hL$};
+  \path (A3) node[fill=red!40,rounded corners] {$daL$};
+  \path (A4) node[fill=red!40,rounded corners] {$L$};
+  \path (A5) node[fill=red!40,rounded corners] {$dL$};
+  \path (A6) node[fill=red!40,rounded corners] {$cL$};
+  \path (A7) node[fill=red!40,rounded corners] {$mL$};
+
+\draw [->] ([yshift=3mm]A1)  to [bend left=70] node[midway, above] {$\times 10$} ([yshift=3mm,xshift=-1mm]A2);
+\draw [->] ([yshift=3mm]A2)  to [bend left=70] node[midway, above] {$\times 10$} ([yshift=3mm,xshift=-1mm]A3);
+\draw [->] ([yshift=3mm]A3)  to [bend left=70] node[midway, above] {$\times 10$} ([yshift=3mm,xshift=-1mm]A4);
+\draw [->] ([yshift=3mm]A4)  to [bend left=70] node[midway, above] {$\times 10$} ([yshift=3mm,xshift=-1mm]A5);
+\draw [->] ([yshift=3mm]A5)  to [bend left=70] node[midway, above] {$\times 10$} ([yshift=3mm,xshift=-1mm]A6);
+\draw [->] ([yshift=3mm]A6)  to [bend left=70] node[midway, above] {$\times 10$} ([yshift=3mm,xshift=-1mm]A7);
+
+
+\draw [<-] ([yshift=-3mm]A1) to [bend right=70] node[midway, below] {$\div 10$} ([yshift=-3mm,xshift=-1mm]A2);
+\draw [<-] ([yshift=-3mm]A2) to [bend right=70] node[midway, below] {$\div 10$} ([yshift=-3mm,xshift=-1mm]A3);
+\draw [<-] ([yshift=-3mm]A3) to [bend right=70] node[midway, below] {$\div 10$} ([yshift=-3mm,xshift=-1mm]A4);
+\draw [<-] ([yshift=-3mm]A4) to [bend right=70] node[midway, below] {$\div 10$} ([yshift=-3mm,xshift=-1mm]A5);
+\draw [<-] ([yshift=-3mm]A5) to [bend right=70] node[midway, below] {$\div 10$} ([yshift=-3mm,xshift=-1mm]A6);
+\draw [<-] ([yshift=-3mm]A6) to [bend right=70] node[midway, below] {$\div 10$} ([yshift=-3mm,xshift=-1mm]A7);
+
+\end{tikzpicture}
+\end{document}

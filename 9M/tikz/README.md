@@ -11,17 +11,17 @@
 - [x] 15: Fórmula
 - [x] 24: Tabela 1
 - [x] 24: Tabela 2
-- [ ] 106: Tabela 3
+- [x] 106: Tabela 3
 - [x] 26: Fração (chocolate)
 - [ ] 41: Legenda na imagem (fósforos)
 - [ ] 163: Legenda na imagem (fósforos)
-- [ ] 50: Quadrado com cumprimento e largura
-- [ ] 74: setas
-- [ ] 94: setas
-- [ ] 76: Círculo com 
-- [ ] 109: unidades de medidas
-- [ ] 109: unidades de medidas
-- [ ] 109: unidades de medidas
+- [x] 50: Quadrado com cumprimento e largura
+- [x] 74: setas
+- [x] 94: setas
+- [x] 76: Círculo com 
+- [x] 109: unidades de medidas
+- [x] 109: unidades de medidas
+- [x] 109: unidades de medidas
 - [ ] 113: polígono
 - [ ] 162: malha
 - [ ] 176: triângulo

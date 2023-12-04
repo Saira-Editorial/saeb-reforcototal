@@ -5,9 +5,17 @@
 \begin{document}
 
 \begin{tikzpicture}[line width=3pt,rounded corners]
+ 
+\path (-.5,4.5) node  {$(a)$};
+\path (-.5,3.5) node  {$(b)$};
+\path (-.5,2.5) node  {$(c)$};
+\path (-.5,1.5) node  {$(d)$};
+\path (-.5,0.5) node  {$(e)$};
+
+
 
 \begin{scope}
-\fill[draw=brown,fill=brown!70] 							   (0,0) rectangle   (2,1);
+\fill[draw=brown,fill=brown] 							   (0,0) rectangle   (2,1);
 \draw[draw=brown,xshift=2cm,line width=1pt,draw=brown, dotted] (0,0) rectangle (1.9,1);
 \draw[draw=brown,xshift=4cm,line width=1pt,draw=brown, dotted] (0,0) rectangle (1.9,1);
 \draw[draw=brown,xshift=6cm,line width=1pt,draw=brown, dotted] (0,0) rectangle (1.9,1);
@@ -15,7 +23,7 @@
 \end{scope}
 
 \begin{scope}[yshift=1.3cm]
-\fill[draw=brown,fill=brown!70] (0,0) rectangle   (2,1);
+\fill[draw=brown,fill=brown] (0,0) rectangle   (2,1);
 \fill[draw=brown,fill=brown!70,xshift=2cm] (0,0) rectangle   (2,1);
 \draw[draw=brown,xshift=4cm,line width=1pt,draw=brown, dotted] (0,0) rectangle (1.9,1);
 \draw[draw=brown,xshift=6cm,line width=1pt,draw=brown, dotted] (0,0) rectangle (1.9,1);
@@ -23,16 +31,16 @@
 \end{scope}
 
 \begin{scope}[yshift=1.3cm*2]
-\fill[draw=brown,fill=brown!70] (0,0) rectangle   (2,1);
-\fill[draw=brown,fill=brown!70,xshift=2cm] (0,0) rectangle   (2,1);
+\fill[draw=brown,fill=brown] (0,0) rectangle   (2,1);
+\fill[draw=brown,fill=brown,xshift=2cm] (0,0) rectangle   (2,1);
 \fill[draw=brown,fill=brown!70,xshift=4cm] (0,0) rectangle   (2,1);
 \draw[draw=brown,xshift=6cm,line width=1pt,draw=brown, dotted] (0,0) rectangle (1.9,1);
 \draw[draw=brown,xshift=8cm,line width=1pt,draw=brown, dotted] (0,0) rectangle (1.9,1);
 \end{scope}
 
 \begin{scope}[yshift=1.3cm*3]
-\fill[draw=brown,fill=brown!70] (0,0) rectangle   (2,1);
-\fill[draw=brown,fill=brown!70,xshift=2cm] (0,0) rectangle   (2,1);
+\fill[draw=brown,fill=brown] (0,0) rectangle   (2,1);
+\fill[draw=brown,fill=brown,xshift=2cm] (0,0) rectangle   (2,1);
 \fill[draw=brown,fill=brown!70,xshift=4cm] (0,0) rectangle   (2,1);
 \fill[draw=brown,fill=brown!70,xshift=6cm] (0,0) rectangle   (2,1);
 \draw[draw=brown,xshift=8cm,line width=1pt,draw=brown, dotted] (0,0) rectangle (2,1);

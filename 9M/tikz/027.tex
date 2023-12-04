@@ -1,21 +1,13 @@
 \documentclass[border=0.2cm]{standalone}
 \usepackage{tikz}
-\usetikzlibrary{calc}
+\usetikzlibrary{calc, angles, quotes}
 \usetikzlibrary{intersections} % Necessário para achar pontos de cruzamento
 
 \begin{document}
 \pagestyle{empty}
 
 \begin{tikzpicture}[scale=2,line width=1pt,rotate=-2]
-  %\draw[help lines,black!30] (-5.5,-5.5) grid (5.5,5.5);
-  %\draw[thick,->] (0,-5) -- (0,5) node[left]  {y};
-  %\draw[thick,->] (-5,0) -- (5,0) node[below] {x};
-  %\foreach \x in {-4,-3,-2,-1,1,2,3,4} \node[left,color=red] at (0,\x) {\x} node[below,color=red] %at (\x,0) {\x};
-  %\node[below right,color=red] at (0,0) {0}; 
- 
-  %\foreach \x in {-2,...,2} {\draw[thick] (-4,\x) -- (4,\x);}
-
-  
+           
     \coordinate (A) at (0,0);
     \coordinate (B) at (180-54:3cm);
     \coordinate (C) at ($(B)+(18:3cm)$);
@@ -37,14 +29,33 @@
 
     \draw[name path=AB] (A) -- (B);
     \path[name path=CD] (C) -- (D);
-    
+     
+    \draw[name path=lineR,red!50] (-3,0) -- (-3,5.5); 
+
+
     \path[name intersections={of=lineD and CD}] coordinate (interA)  at (intersection-1);
     \path[name intersections={of=lineA and AB}] coordinate (interB)  at (intersection-1);
- 
+    \path[name intersections={of=lineR and lineA}] coordinate (interC)  at (intersection-1);
+    \path[name intersections={of=lineR and lineD}] coordinate (interD)  at (intersection-1);
+
+
     \fill (interA) circle (1pt); % node[above right] {interA};
     \fill (interB) circle (1pt); % node[above right] {interB};
+   
+    \coordinate (interCy) at ($(interC)+(.3,0)$);
+    \coordinate (interCx) at ($(interC)+(0,.3)$);
+    \coordinate (interCp) at ($(interC)+(.25/2,.25/2)$);
+    \coordinate (interDy) at ($(interD)+(.3,0)$);
+    \coordinate (interDx) at ($(interD)+(0,.3)$);
+    \coordinate (interDp) at ($(interD)+(.25/2,.25/2)$);
+    
+    %\coordinate (interC2) at (0,0);
 
-
+    \draw[red!50] (interC) pic [line width=.05pt, draw, angle eccentricity=1.5, angle radius=5mm] {right angle=interCx--interC--interCy};
+    \fill[red!50] (interCp) circle (.5pt);
+    \draw[red!50] (interD) pic [line width=.05pt, draw, angle eccentricity=1.5, angle radius=5mm] {right angle=interDx--interD--interDy};
+    \fill[red!50] (interDp) circle (.5pt); 
+    
 % Arco 1 vermelho (B) (interB)
     \draw[<-] ($(interB)+(180-54:5mm)$)  arc (180-54:180:5mm) node[midway,left] {$54^\circ$};
     \draw[->] ($(B)+(0:5.5mm)$)  arc (0:-54:5.5mm) node[midway,right] {$54^\circ$};
