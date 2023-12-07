@@ -1,0 +1,42 @@
+\usemodule[tikz]
+\usetikzlibrary[cd]
+\usecolors[crayola]
+
+
+
+\starttext
+
+
+\startTEXpage
+
+\starttikzpicture[scale=1.7]
+
+  
+
+  \fill[fill=Emerald] (-3,-2) rectangle (4,2); 
+  \fill[fill=GrannySmithApple] (-3,-2) rectangle (-1,2); 
+  \path (1.5,0) node  {$160\,m^2$};
+  \path (-2,0) node  {$40\,m^2$};
+  \path (-2,-2.15) node  {\small aparado};
+  \path (1.5,-2.15) node  {\small não aparado};
+  
+  %\draw[<->,thick] (-4,-2) -- (-4,2) node[midway,rotate=90,fill=white] {largura};
+  %\draw[<->,thick] (-3.5,-2.5) -- (3.5,-2.5) node[midway,fill=white] {comprimento};
+
+
+
+\stoptikzpicture
+
+\stopTEXpage
+
+%\showcolor[crayola]
+\stoptext
+
+
+
+%\setuppapersize[S3][S3]
+%\starttext
+%\startTEXpage
+%\framed[width=8cm,height=1cm]{Hello, world!}
+%\stopTEXpage
+%\stoptext

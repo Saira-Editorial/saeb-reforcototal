@@ -1,0 +1,8 @@
+return {
+ ["filename"]="/home/editorial/github/saeb-reforcototal/9M/tikz/044..tex",
+ ["lastcontext"]="\nl.1 \\documentclass\n                 [10pt]{standalone}",
+ ["lastluaerror"]="?",
+ ["lasttexerror"]="! Undefined control sequence",
+ ["linenumber"]=1,
+ ["offset"]=10,
+}

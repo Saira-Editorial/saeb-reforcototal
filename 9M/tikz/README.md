@@ -22,13 +22,13 @@
 - [x] 109: unidades de medidas
 - [x] 109: unidades de medidas
 - [x] 109: unidades de medidas
-- [ ] 113: polígono
-- [ ] 162: malha
-- [ ] 176: triângulo
+- [x] 113: polígono
+- [x] 162: malha
+- [x] 176: triângulo
 - [ ] 184: triângulo
 - [ ] 193: triângulo
 - [ ] 181: legenda em imagem
-- [ ] 182: quadradro simples
+- [x] 182: quadradro simples
 - [ ] 191: cubos simples
 
 
