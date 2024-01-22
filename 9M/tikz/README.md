@@ -25,7 +25,7 @@
 - [x] 113: polígono
 - [x] 162: malha
 - [x] 176: triângulo
-- [ ] 184: triângulo
+- [x] 184: triângulo
 - [ ] 193: triângulo
 - [ ] 181: legenda em imagem
 - [x] 182: quadradro simples

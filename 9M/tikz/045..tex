@@ -1,0 +1,36 @@
+\documentclass[10pt]{standalone} 
+\usepackage{tikz}
+\usetikzlibrary{calc,angles,positioning,intersections,quotes,decorations.markings}
+\usepackage{tkz-euclide}
+%\usetkzobj{all}
+\begin{document}
+
+\begin{tikzpicture}[dot/.style={fill,circle,inner sep=.5pt},line width=.7pt]
+
+  \draw[help lines,black!30] (-5.5,-5.5) grid (5.5,5.5);
+  \draw[thick,->,red!20] (0,-5) -- (0,5) node[left]  {y};
+  \draw[thick,->,red!20] (-5,0) -- (5,0) node[below] {x};
+  \foreach \x in {-4,-3,-2,-1,1,2,3,4} \node[left,color=red!20] at (0,\x) {\x} node[below,color=red!20] at (\x,0) {\x};
+  \node[below right,color=red!20] at (0,0) {0}; 
+   
+
+  \path[name path=Base] (-10,-4) -- (10,-4);
+  \path[name path=A] (0,0) -- (180+55:15cm);
+  \path[name path=B] (0,0) -- (180+55+90:15cm);
+
+  \draw[name intersections={of=Base and A}] (intersection-1) coordinate (a);
+  \draw[name intersections={of=Base and B}] (intersection-1) coordinate (b);
+  \coordinate (c) at (0,0);
+
+  \draw[name path=triangulo] (a) node[left] {$A$} -- (b) node[right] {$B$} -- (c) node[above] {$C$} -- cycle;
+
+\tkzMarkRightAngle(a,c,b);
+%\tkzMarkAngle[size=0.75cm,color=cyan,mark=||]();
+
+\path[name path=facaAC] (-1,-5) -- (-1,4);
+
+\draw[name intersections={of=facaAC and triangulo}] (intersection-2) -- (intersection-1);
+
+% como fazer um quadrado a partir de um segmento de reta entre as duas intersecções?
+\end{tikzpicture}
+\end{document}
