@@ -28,11 +28,12 @@
 - [x] 184: triângulo
 - [x] 181: legenda em imagem
 - [x] 182: quadradro simples
-- [ ] 191: cubos simples
+- [x] 191: cubos simples
 
 
 ## Médio
-- [ ] 193: quadrado dentro do triângulo
+- [ ] 193: quadrado dentro do triângulo 
+
 ### Gráficos
 - [ ] 29:Gráfico de linha 
 - [ ] 30: Gráfico de linha 
