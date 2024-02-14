@@ -26,7 +26,7 @@
 - [x] 162: malha
 - [x] 176: triângulo
 - [x] 184: triângulo
-- [ ] 181: legenda em imagem
+- [x] 181: legenda em imagem
 - [x] 182: quadradro simples
 - [ ] 191: cubos simples
 
