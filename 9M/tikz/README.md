@@ -13,8 +13,8 @@
 - [x] 24: Tabela 2
 - [x] 106: Tabela 3
 - [x] 26: Fração (chocolate)
-- [ ] 41: Legenda na imagem (fósforos)
-- [ ] 163: Legenda na imagem (fósforos)
+- [?] 41: Legenda na imagem (fósforos)
+- [x] 163: Legenda na imagem (fósforos)
 - [x] 50: Quadrado com cumprimento e largura
 - [x] 74: setas
 - [x] 94: setas
@@ -26,14 +26,14 @@
 - [x] 162: malha
 - [x] 176: triângulo
 - [x] 184: triângulo
-- [ ] 193: triângulo
 - [ ] 181: legenda em imagem
 - [x] 182: quadradro simples
 - [ ] 191: cubos simples
 
 
 ## Médio
-###  Gráficos
+- [ ] 193: quadrado dentro do triângulo
+### Gráficos
 - [ ] 29:Gráfico de linha 
 - [ ] 30: Gráfico de linha 
 - [ ] 108: Gráfico de linha 
