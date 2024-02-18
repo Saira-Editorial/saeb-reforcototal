@@ -31,9 +31,6 @@
 - [x] 191: cubos simples
 
 
-## Médio
-- [ ] 193: quadrado dentro do triângulo 
-
 ### Gráficos
 - [ ] 29:Gráfico de linha 
 - [ ] 30: Gráfico de linha 
@@ -72,3 +69,4 @@
 - [ ] 139: modelos de átomo
 - [ ] 155: sistema solar
 - [ ] 158: sistema solar
+- [x] 193: quadrado dentro do triângulo 
