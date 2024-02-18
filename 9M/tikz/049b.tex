@@ -6,7 +6,7 @@
 \usetikzlibrary{intersections} % Necessário para achar pontos de cruzamento
 
 \begin{document}
-\begin{tikzpicture}[scale=1]
+\begin{tikzpicture}[scale=.45]
   \coordinate (A) at (-2.69,-1.9);
   \coordinate (B) at (1,5) node[right] {B};
 
@@ -23,6 +23,11 @@
   \draw[line width=1.5pt,fill=red!30] (p1) -- (p2) -- ($(p2)!1!90:(p1)$) coordinate (p3) 
                           -- ($(p3)!1!90:(p2)$) coordinate (p4)
                           -- cycle;
+  \node[above]  at ($(p1)!.5!(p2)$) {$x$};
+  \node[right] at ($(p3)!.5!(p2)$) {$x$};
+  \node[below] at ($(p3)!.5!(p4)$) {$x$};
+  \node[left] at ($(p1)!.5!(p4)$) {$x$};
+                          
 %Paths de base (angle1)
   \path[name path=line4] ($(p3)!10cm!(p4)$) -- (p4) -- ($(p4)!15cm!(p3)$); 
   
@@ -34,8 +39,11 @@
 % Triângulo
   \draw[line width=1.5pt] (angle1) -- (B) -- (angle2) -- cycle;
   
-  \draw[<->] ([yshift=-3mm]angle1) -- ([yshift=-3mm]p4) node[midway,fill=white] {$3cm$};
-  \draw[<->] ([yshift=-3mm]angle2) -- ([yshift=-3mm]p3) node[midway,fill=white] {$12cm$};
+  \draw[<->] ([yshift=-7mm]angle1) -- ([yshift=-7mm]p4) node[midway,fill=white] {$3\,cm$};
+  \draw[<->] ([yshift=-7mm]angle2) -- ([yshift=-7mm]p3) node[midway,fill=white] {$12\,cm$};
+
+% Sinal de ângulo
+  \pic [draw, angle radius=0.5cm] {right angle = angle1--B--angle2};
 \end{tikzpicture}
 
 
